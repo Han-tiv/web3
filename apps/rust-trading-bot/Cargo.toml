@@ -47,6 +47,10 @@ path = "src/bin/profit_monitor.rs"
 name = "show_assets"
 path = "src/bin/show_assets.rs"
 
+[[bin]]
+name = "deepseek_trader"
+path = "src/bin/deepseek_trader.rs"
+
 [dependencies]
 # Telegram Bot
 teloxide = { version = "0.12", features = ["macros", "auto-send"] }

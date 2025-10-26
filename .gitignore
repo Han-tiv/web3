@@ -129,6 +129,7 @@ temp/
 
 .codex
 .codex/
+.archive/
 
 # Nitter specific - 允许基础配置，忽略敏感数据
 apps/social-monitor/services/nitter/logs/

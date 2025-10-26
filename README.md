@@ -2,21 +2,40 @@
 
 一个现代化的Web3项目集合，聚焦社交媒体情报监控、AI 驱动的 DeFi 交易以及 Rust 生态的量化机器人。
 
-## 📚 核心文档
+---
+
+## 📚 文档中心
+
+**🎯 [完整文档导航](./docs/README.md)** ← 所有文档的统一入口
+
+### 快速链接
 
 **新手必读**:
-- [📖 系统架构总览](./ARCHITECTURE.md) - 完整架构说明、技术选型、性能指标
-- [⚙️ 环境配置指南](./docs/ENV_CONFIGURATION_GUIDE.md) - 统一配置管理、场景示例
-- [📝 日志标准](./docs/LOGGING_STANDARD.md) - 统一日志格式、搜索分析
+- [📖 系统架构总览](./docs/architecture/ARCHITECTURE.md) - 完整架构说明、技术选型、性能指标
+- [⚙️ 环境配置指南](./docs/guides/ENV_CONFIGURATION_GUIDE.md) - 统一配置管理、场景示例
+- [🚀 快速开始](./apps/rust-trading-bot/docs/user-guide/QUICKSTART.md) - 5分钟上手
 
 **演进报告**:
-- [Phase 1: 架构优化](./docs/OPTIMIZATION_REPORT.md) - 37脚本→13脚本，标准化
-- [Phase 2: 性能提升](./docs/PHASE_2_PERFORMANCE_REPORT.md) - 6.2x API提升，12.8x查询优化
-- [Phase 3: 智能化升级](./docs/PHASE_3_INTELLIGENCE_REPORT.md) - 23维AI预测，月收益翻倍
+- [Phase 1: 架构优化](./docs/optimization/OPTIMIZATION_REPORT.md) - 37脚本→13脚本，标准化
+- [Phase 2: 性能提升](./docs/optimization/PHASE_2_PERFORMANCE_REPORT.md) - 6.2x API提升，12.8x查询优化
+- [Phase 3: 智能化升级](./docs/optimization/PHASE_3_INTELLIGENCE_REPORT.md) - 23维AI预测，月收益翻倍
 
 **运维指南**:
-- [🚀 部署指南](./DEPLOYMENT_GUIDE.md)
-- [🔧 环境变量配置](./ENV_CONFIG.md)
+- [🚀 部署指南](./docs/deployment/DEPLOYMENT_GUIDE.md)
+- [🔒 安全分析](./docs/security/SECURITY_ANALYSIS.md)
+- [📊 项目优化](./docs/optimization/WEB3_PROJECT_OPTIMIZATION.md)
+
+**子项目文档**:
+- [🦀 Rust Trading Bot 文档](./apps/rust-trading-bot/docs/README.md)
+- [🤖 DeepSeek AI 交易](./apps/rust-trading-bot/docs/deepseek/README.md) ⭐ 新增
+- [📱 Social Monitor 文档](./apps/social-monitor/docs/README.md)
+
+**项目管理**:
+- [📁 项目结构说明](./PROJECT_STRUCTURE.md) - 详细的目录结构说明
+- [🔧 脚本使用指南](./scripts/README.md) - 所有脚本的说明
+- [⚙️ 配置管理](./config/README.md) - 配置文件管理
+
+---
 
 ## 🏗️ 项目结构
 

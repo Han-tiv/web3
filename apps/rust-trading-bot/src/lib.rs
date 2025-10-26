@@ -22,3 +22,8 @@ pub mod price_service;
 
 // 多交易所执行器
 pub mod multi_exchange_executor;
+
+// DeepSeek AI 交易模块
+pub mod deepseek_client;
+pub mod technical_analysis;
+pub mod market_sentiment;
