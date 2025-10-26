@@ -1,6 +1,8 @@
+use crate::exchange_trait::*;
 use anyhow::Result;
+use async_trait::async_trait;
 use hmac::{Hmac, Mac};
-use log::{error, info};
+use log::{error, info, warn};
 use reqwest;
 use serde::{Deserialize, Serialize};
 use sha2::Sha256;
@@ -9,17 +11,6 @@ use std::sync::Arc;
 use tokio::sync::RwLock;
 
 type HmacSha256 = Hmac<Sha256>;
-
-#[derive(Debug, Clone, Serialize, Deserialize)]
-pub struct Position {
-    pub symbol: String,
-    pub side: String,
-    pub size: f64,
-    pub entry_price: f64,
-    pub mark_price: f64,
-    pub pnl: f64,
-    pub leverage: i32,
-}
 
 #[derive(Debug, Deserialize)]
 #[allow(non_snake_case)]
@@ -67,13 +58,6 @@ struct FilterInfo {
 }
 
 #[derive(Debug, Clone)]
-pub struct TradingRules {
-    pub step_size: f64,
-    pub min_qty: f64,
-    pub quantity_precision: i32,
-}
-
-#[derive(Debug, Clone)]
 pub struct BinanceClient {
     api_key: String,
     secret_key: String,
@@ -98,6 +82,13 @@ impl BinanceClient {
         }
     }
 
+    /// 创建强制使用 IPv4 的 HTTP 客户端
+    fn create_ipv4_client(&self) -> Result<reqwest::Client> {
+        Ok(reqwest::Client::builder()
+            .local_address(Some(std::net::IpAddr::V4(std::net::Ipv4Addr::UNSPECIFIED)))
+            .build()?)
+    }
+
     fn sign_request(&self, query: &str) -> String {
         let mut mac = HmacSha256::new_from_slice(self.secret_key.as_bytes()).unwrap();
         mac.update(query.as_bytes());
@@ -114,7 +105,7 @@ impl BinanceClient {
             self.base_url, query, signature
         );
 
-        let client = reqwest::Client::new();
+        let client = self.create_ipv4_client()?;
         let response = client
             .get(&url)
             .header("X-MBX-APIKEY", &self.api_key)
@@ -147,7 +138,7 @@ impl BinanceClient {
             self.base_url, query, signature
         );
 
-        let client = reqwest::Client::new();
+        let client = self.create_ipv4_client()?;
         let positions: Vec<PositionRisk> = client
             .get(&url)
             .header("X-MBX-APIKEY", &self.api_key)
@@ -173,6 +164,7 @@ impl BinanceClient {
                     mark_price: p.markPrice.parse().unwrap_or(0.0),
                     pnl: p.unRealizedProfit.parse().unwrap_or(0.0),
                     leverage: p.leverage.parse().unwrap_or(1),
+                    margin: 0.0, // Binance API 不直接提供
                 }
             })
             .collect();
@@ -236,7 +228,7 @@ impl BinanceClient {
             self.base_url, query, signature
         );
 
-        let client = reqwest::Client::new();
+        let client = self.create_ipv4_client()?;
         let response = client
             .post(&url)
             .header("X-MBX-APIKEY", &self.api_key)
@@ -269,7 +261,7 @@ impl BinanceClient {
             self.base_url, query, signature
         );
 
-        let client = reqwest::Client::new();
+        let client = self.create_ipv4_client()?;
         let response = client
             .post(&url)
             .header("X-MBX-APIKEY", &self.api_key)
@@ -318,7 +310,7 @@ impl BinanceClient {
             self.base_url, query, signature
         );
 
-        let client = reqwest::Client::new();
+        let client = self.create_ipv4_client()?;
         client
             .post(&url)
             .header("X-MBX-APIKEY", &self.api_key)
@@ -370,7 +362,7 @@ impl BinanceClient {
             self.base_url, query, signature
         );
 
-        let client = reqwest::Client::new();
+        let client = self.create_ipv4_client()?;
         let response = client
             .post(&url)
             .header("X-MBX-APIKEY", &self.api_key)
@@ -389,7 +381,7 @@ impl BinanceClient {
     pub async fn get_current_price(&self, symbol: &str) -> Result<f64> {
         let url = format!("{}/fapi/v1/ticker/price?symbol={}", self.base_url, symbol);
 
-        let client = reqwest::Client::new();
+        let client = self.create_ipv4_client()?;
         let response: serde_json::Value = client.get(&url).send().await?.json().await?;
 
         let price: f64 = response["price"]
@@ -414,7 +406,7 @@ impl BinanceClient {
 
         // 未命中则请求并写入缓存
         let url = format!("{}/fapi/v1/exchangeInfo", self.base_url);
-        let client = reqwest::Client::new();
+        let client = self.create_ipv4_client()?;
         let response: ExchangeInfo = client.get(&url).send().await?.json().await?;
 
         for symbol_info in response.symbols {
@@ -437,6 +429,7 @@ impl BinanceClient {
                             step_size,
                             min_qty,
                             quantity_precision: symbol_info.quantityPrecision,
+                            price_precision: symbol_info.pricePrecision,
                         };
 
                         self.rules_cache
@@ -516,7 +509,7 @@ impl BinanceClient {
             self.base_url, query, signature
         );
 
-        let client = reqwest::Client::new();
+        let client = self.create_ipv4_client()?;
         let response = client
             .post(&url)
             .header("X-MBX-APIKEY", &self.api_key)
@@ -538,5 +531,427 @@ impl BinanceClient {
             }
         );
         Ok(())
+    }
+}
+
+// 实现 ExchangeClient trait
+#[async_trait]
+impl ExchangeClient for BinanceClient {
+    fn get_exchange_name(&self) -> &str {
+        "Binance"
+    }
+
+    async fn get_positions(&self) -> Result<Vec<Position>> {
+        let timestamp = chrono::Utc::now().timestamp_millis();
+        let query = format!("timestamp={}", timestamp);
+        let signature = self.sign_request(&query);
+        
+        // 先尝试统一账户端点
+        let url_papi = format!(
+            "{}/papi/v1/um/positionRisk?{}&signature={}",
+            self.base_url.replace("fapi", "papi"), query, signature
+        );
+
+        let client = self.create_ipv4_client()?;
+        let response_papi = client
+            .get(&url_papi)
+            .header("X-MBX-APIKEY", &self.api_key)
+            .send()
+            .await;
+
+        // 如果统一账户成功，使用它的结果
+        if let Ok(resp) = response_papi {
+            if resp.status().is_success() {
+                if let Ok(positions) = resp.json::<Vec<PositionRisk>>().await {
+                    let active_positions: Vec<Position> = positions
+                        .into_iter()
+                        .filter(|p| p.positionAmt.parse::<f64>().unwrap_or(0.0).abs() > 0.0)
+                        .map(|p| {
+                            let amt = p.positionAmt.parse::<f64>().unwrap_or(0.0);
+                            Position {
+                                symbol: p.symbol,
+                                side: if amt > 0.0 {
+                                    "LONG".to_string()
+                                } else {
+                                    "SHORT".to_string()
+                                },
+                                size: amt.abs(),
+                                entry_price: p.entryPrice.parse().unwrap_or(0.0),
+                                mark_price: p.markPrice.parse().unwrap_or(0.0),
+                                pnl: p.unRealizedProfit.parse().unwrap_or(0.0),
+                                leverage: p.leverage.parse().unwrap_or(1),
+                                margin: 0.0,
+                            }
+                        })
+                        .collect();
+                    return Ok(active_positions);
+                }
+            }
+        }
+
+        // 回退到普通合约端点
+        let url_fapi = format!(
+            "{}/fapi/v2/positionRisk?{}&signature={}",
+            self.base_url, query, signature
+        );
+
+        let positions: Vec<PositionRisk> = client
+            .get(&url_fapi)
+            .header("X-MBX-APIKEY", &self.api_key)
+            .send()
+            .await?
+            .json()
+            .await?;
+
+        let active_positions: Vec<Position> = positions
+            .into_iter()
+            .filter(|p| p.positionAmt.parse::<f64>().unwrap_or(0.0).abs() > 0.0)
+            .map(|p| {
+                let amt = p.positionAmt.parse::<f64>().unwrap_or(0.0);
+                Position {
+                    symbol: p.symbol,
+                    side: if amt > 0.0 {
+                        "LONG".to_string()
+                    } else {
+                        "SHORT".to_string()
+                    },
+                    size: amt.abs(),
+                    entry_price: p.entryPrice.parse().unwrap_or(0.0),
+                    mark_price: p.markPrice.parse().unwrap_or(0.0),
+                    pnl: p.unRealizedProfit.parse().unwrap_or(0.0),
+                    leverage: p.leverage.parse().unwrap_or(1),
+                    margin: 0.0, // Binance API 不直接提供，需要计算
+                }
+            })
+            .collect();
+
+        Ok(active_positions)
+    }
+
+    async fn get_account_info(&self) -> Result<AccountInfo> {
+        let timestamp = chrono::Utc::now().timestamp_millis();
+        let query = format!("timestamp={}", timestamp);
+        let signature = self.sign_request(&query);
+        
+        let client = self.create_ipv4_client()?;
+        let mut total = 0.0;
+        let mut available = 0.0;
+        let mut pnl = 0.0;
+
+        // 1. 尝试统一账户端点 (papi) - 包含合约、现货等
+        let url_papi = format!(
+            "{}/papi/v1/balance?{}&signature={}",
+            self.base_url.replace("fapi", "papi"), query, signature
+        );
+
+        let response = client
+            .get(&url_papi)
+            .header("X-MBX-APIKEY", &self.api_key)
+            .send()
+            .await?;
+
+        if response.status().is_success() {
+            let body = response.text().await?;
+            
+            #[derive(Debug, Deserialize)]
+            #[allow(non_snake_case)]
+            struct UnifiedAsset {
+                asset: String,
+                totalWalletBalance: String,
+                umWalletBalance: String,
+                cmWalletBalance: String,
+                crossMarginAsset: String,
+                umUnrealizedPNL: String,
+            }
+
+            if let Ok(assets) = serde_json::from_str::<Vec<UnifiedAsset>>(&body) {
+                for asset in assets {
+                    let total_wallet = asset.totalWalletBalance.parse::<f64>().unwrap_or(0.0);
+                    let um_balance = asset.umWalletBalance.parse::<f64>().unwrap_or(0.0);
+                    let cm_balance = asset.cmWalletBalance.parse::<f64>().unwrap_or(0.0);
+                    let cross_margin = asset.crossMarginAsset.parse::<f64>().unwrap_or(0.0);
+                    
+                    if asset.asset == "USDT" || asset.asset == "USDC" {
+                        total += total_wallet;
+                        available += um_balance;
+                        pnl += asset.umUnrealizedPNL.parse::<f64>().unwrap_or(0.0);
+
+                        if um_balance > 0.01 {
+                            info!("Binance U本位合约: {:.2} {}", um_balance, asset.asset);
+                        }
+                        if cm_balance > 0.01 {
+                            info!("Binance 币本位合约: {:.2} {}", cm_balance, asset.asset);
+                        }
+                        if cross_margin > 0.01 {
+                            info!("Binance 杠杆账户: {:.2} {}", cross_margin, asset.asset);
+                        }
+                    }
+                }
+
+                // 2. 查询现货账户
+                let spot_query = format!("timestamp={}", chrono::Utc::now().timestamp_millis());
+                let spot_sig = self.sign_request(&spot_query);
+                let url_spot = format!(
+                    "https://api.binance.com/api/v3/account?{}&signature={}",
+                    spot_query, spot_sig
+                );
+
+                info!("查询 Binance 现货账户...");
+                if let Ok(spot_resp) = client
+                    .get(&url_spot)
+                    .header("X-MBX-APIKEY", &self.api_key)
+                    .send()
+                    .await
+                {
+                    if spot_resp.status().is_success() {
+                        if let Ok(spot_body) = spot_resp.text().await {
+                            #[derive(Debug, Deserialize)]
+                            struct SpotBalance {
+                                asset: String,
+                                free: String,
+                                locked: String,
+                            }
+                            #[derive(Debug, Deserialize)]
+                            struct SpotAccount {
+                                balances: Vec<SpotBalance>,
+                            }
+
+                            if let Ok(spot_account) = serde_json::from_str::<SpotAccount>(&spot_body) {
+                                for balance in spot_account.balances {
+                                    if balance.asset == "USDT" || balance.asset == "USDC" {
+                                        let free = balance.free.parse::<f64>().unwrap_or(0.0);
+                                        let locked = balance.locked.parse::<f64>().unwrap_or(0.0);
+                                        let spot_total = free + locked;
+                                        
+                                        if spot_total > 0.0001 {
+                                            info!("Binance 现货账户 {}: {:.2}", balance.asset, spot_total);
+                                            total += spot_total;
+                                            available += free;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+
+                // 3. 查询资金账户 (使用官方资金钱包API)
+                // POST /sapi/v1/asset/get-funding-asset
+                let fund_timestamp = chrono::Utc::now().timestamp_millis();
+                let fund_query = format!("timestamp={}", fund_timestamp);
+                let fund_sig = self.sign_request(&fund_query);
+                let url_fund = format!(
+                    "https://api.binance.com/sapi/v1/asset/get-funding-asset?{}&signature={}",
+                    fund_query, fund_sig
+                );
+
+                info!("🔍 查询 Binance 资金账户（Funding Wallet）...");
+                if let Ok(fund_resp) = client
+                    .post(&url_fund)
+                    .header("X-MBX-APIKEY", &self.api_key)
+                    .send()
+                    .await
+                {
+                    let status = fund_resp.status();
+                    if status.is_success() {
+                        if let Ok(fund_body) = fund_resp.text().await {
+                            #[derive(Debug, Deserialize)]
+                            #[allow(non_snake_case)]
+                            struct FundingAsset {
+                                asset: String,
+                                free: String,
+                                locked: String,
+                                freeze: String,
+                                withdrawing: String,
+                                btcValuation: String,
+                            }
+
+                            if let Ok(funding_assets) = serde_json::from_str::<Vec<FundingAsset>>(&fund_body) {
+                                for asset in funding_assets {
+                                    let free = asset.free.parse::<f64>().unwrap_or(0.0);
+                                    let locked = asset.locked.parse::<f64>().unwrap_or(0.0);
+                                    let freeze = asset.freeze.parse::<f64>().unwrap_or(0.0);
+                                    let fund_total = free + locked + freeze;
+                                    
+                                    if fund_total > 0.00001 {
+                                        // 统计 USDT 和 USDC
+                                        if asset.asset == "USDT" || asset.asset == "USDC" {
+                                            info!("Binance 资金账户 {}: {:.2}", asset.asset, fund_total);
+                                            total += fund_total;
+                                            available += free;
+                                        }
+                                    }
+                                }
+                            } else {
+                                warn!("❌ 解析资金账户响应失败");
+                            }
+                        }
+                    } else {
+                        warn!("⚠️ 资金账户 API 返回错误: {} ({})", status, status.as_u16());
+                        if let Ok(error_body) = fund_resp.text().await {
+                            warn!("错误详情: {}", &error_body[..error_body.len().min(200)]);
+                        }
+                    }
+                } else {
+                    warn!("⚠️ 资金账户 API 请求失败");
+                }
+
+                return Ok(AccountInfo {
+                    total_balance: total,
+                    available_balance: available,
+                    unrealized_pnl: pnl,
+                    margin_used: total - available,
+                });
+            }
+        }
+
+        // 如果统一账户失败，尝试普通合约端点 (fapi)
+        let url_fapi = format!(
+            "{}/fapi/v2/account?{}&signature={}",
+            self.base_url, query, signature
+        );
+
+        let response_fapi = client
+            .get(&url_fapi)
+            .header("X-MBX-APIKEY", &self.api_key)
+            .send()
+            .await?;
+
+        let status_fapi = response_fapi.status();
+        let body_fapi = response_fapi.text().await?;
+
+        if !status_fapi.is_success() {
+            error!("Binance 获取账户信息失败: {}", body_fapi);
+            return Err(anyhow::anyhow!("Binance API错误: {}", body_fapi));
+        }
+
+        let account: AccountInformation = serde_json::from_str(&body_fapi)?;
+
+        Ok(AccountInfo {
+            total_balance: account.totalWalletBalance.parse().unwrap_or(0.0),
+            available_balance: account.availableBalance.parse().unwrap_or(0.0),
+            unrealized_pnl: account.totalUnrealizedProfit.parse().unwrap_or(0.0),
+            margin_used: 0.0,
+        })
+    }
+
+    async fn get_current_price(&self, symbol: &str) -> Result<f64> {
+        // 直接实现以避免递归调用
+        let url = format!("{}/fapi/v1/ticker/price?symbol={}", self.base_url, symbol);
+
+        let client = self.create_ipv4_client()?;
+        let response: serde_json::Value = client.get(&url).send().await?.json().await?;
+
+        let price: f64 = response["price"]
+            .as_str()
+            .ok_or_else(|| anyhow::anyhow!("价格解析失败"))?
+            .parse()?;
+
+        Ok(price)
+    }
+
+    async fn get_symbol_trading_rules(&self, symbol: &str) -> Result<TradingRules> {
+        // 从缓存或 API 获取交易规则
+        {
+            let cache = self.rules_cache.read().await;
+            if let Some(rules) = cache.get(symbol) {
+                return Ok(rules.clone());
+            }
+        }
+
+        // 调用原有的方法获取规则
+        BinanceClient::get_symbol_trading_rules(self, symbol).await
+    }
+
+    async fn set_leverage(&self, symbol: &str, leverage: u32) -> Result<()> {
+        self.change_leverage(symbol, leverage).await
+    }
+
+    async fn set_margin_type(&self, symbol: &str, margin_type: &str) -> Result<()> {
+        self.set_margin_type(symbol, margin_type).await.or_else(|e| {
+            let err_str = e.to_string().to_lowercase();
+            if err_str.contains("no need to change") {
+                Ok(())
+            } else {
+                Err(e)
+            }
+        })
+    }
+
+    async fn set_position_mode(&self, dual_side: bool) -> Result<()> {
+        self.set_position_mode(dual_side).await.or_else(|e| {
+            let err_str = e.to_string().to_lowercase();
+            if err_str.contains("no need to change") || err_str.contains("not modified") {
+                Ok(())
+            } else {
+                warn!("Binance设置持仓模式警告: {}", e);
+                Ok(()) // 不阻塞交易
+            }
+        })
+    }
+
+    async fn open_long(
+        &self,
+        symbol: &str,
+        quantity: f64,
+        leverage: u32,
+        margin_type: &str,
+        dual_side: bool,
+    ) -> Result<OrderResult> {
+        let _ = self.set_position_mode(dual_side).await;
+        let _ = self.set_margin_type(symbol, margin_type).await;
+        self.change_leverage(symbol, leverage).await?;
+
+        self.market_order(symbol, quantity, "BUY").await?;
+        
+        info!("✅ Binance开多成功: {} 数量: {}", symbol, quantity);
+        Ok(OrderResult {
+            order_id: "".to_string(),
+            symbol: symbol.to_string(),
+            side: "BUY".to_string(),
+            quantity,
+            price: 0.0,
+            status: "FILLED".to_string(),
+        })
+    }
+
+    async fn open_short(
+        &self,
+        symbol: &str,
+        quantity: f64,
+        leverage: u32,
+        margin_type: &str,
+        dual_side: bool,
+    ) -> Result<OrderResult> {
+        let _ = self.set_position_mode(dual_side).await;
+        let _ = self.set_margin_type(symbol, margin_type).await;
+        self.change_leverage(symbol, leverage).await?;
+
+        self.market_order(symbol, quantity, "SELL").await?;
+        
+        info!("✅ Binance开空成功: {} 数量: {}", symbol, quantity);
+        Ok(OrderResult {
+            order_id: "".to_string(),
+            symbol: symbol.to_string(),
+            side: "SELL".to_string(),
+            quantity,
+            price: 0.0,
+            status: "FILLED".to_string(),
+        })
+    }
+
+    async fn close_position(&self, symbol: &str, side: &str, size: f64) -> Result<OrderResult> {
+        let close_side = if side == "LONG" { "SELL" } else { "BUY" };
+        self.market_order(symbol, size, close_side).await?;
+        
+        info!("✅ Binance平仓成功: {} {} {}", symbol, side, size);
+        Ok(OrderResult {
+            order_id: "".to_string(),
+            symbol: symbol.to_string(),
+            side: close_side.to_string(),
+            quantity: size,
+            price: 0.0,
+            status: "FILLED".to_string(),
+        })
     }
 }
