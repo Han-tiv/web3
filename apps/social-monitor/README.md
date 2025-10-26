@@ -52,10 +52,6 @@ TELEGRAM_API_HASH=your_api_hash
 TELEGRAM_BOT_TOKEN=your_bot_token
 TELEGRAM_CHAT_ID=your_chat_id
 
-# ValueScan 凭证（异动推送）
-VALUESCAN_BEARER_TOKEN=your_valuescan_bearer
-VALUESCAN_ACCESS_TICKET=your_valuescan_ticket
-
 # Discord配置
 DISCORD_BOT_TOKEN=your_discord_bot_token
 
@@ -65,7 +61,6 @@ TELEGRAM_GROUPS=@cryptogroup1,@cryptogroup2
 DISCORD_SERVERS=server_id_1,server_id_2
 ```
 
-> 可选参数：`VALUESCAN_CRON`（默认 `*/2 * * * *`，每2分钟轮询）、`VALUESCAN_MIN_TRIGGERS_24H`（最小小周期异动次数过滤）、`TELEGRAM_DRY_RUN=true`（仅记录日志不推送）、`TELEGRAM_SILENT=true`（静默发送）。
 
 ### 启动服务
 
@@ -128,13 +123,6 @@ ws.on('message', (data) => {
   console.log('收到事件:', event.type, event.data);
 });
 ```
-
-## 🚨 ValueScan 异动推送
-
-- 后台任务每 `VALUESCAN_CRON` 设定周期调用 ValueScan `getFundsMovementPage`，筛选带有 `alpha` / `fomo` 标签的资金异动。
-- 首次命中会通过 Telegram Bot (`TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID`) 推送提示，Redis 集合 `valuescan:funds:alerted` 负责 24 小时去重。
-- 可通过 `POST /api/valuescan/scan` 手动触发一次抓取，便于调试或手动复核。
-- 支持 `VALUESCAN_MIN_TRIGGERS_24H` 阈值过滤小周期异动次数，`TELEGRAM_DRY_RUN=true` 时仅记录日志不推送。
 
 ## 💡 机会类型识别
 

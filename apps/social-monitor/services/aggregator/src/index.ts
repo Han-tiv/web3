@@ -10,9 +10,6 @@ import Winston from 'winston';
 import cron from 'node-cron';
 import dotenv from 'dotenv';
 
-import { ValueScanClient } from './clients/valueScanClient';
-import { TelegramNotifier } from './notifiers/telegramNotifier';
-import { ValueScanWatcher } from './watchers/valueScanWatcher';
 
 dotenv.config();
 
@@ -69,9 +66,6 @@ class SocialAggregator {
   private wss: WebSocketServer;
   private redis: Redis.RedisClientType;
   private clients: Set<WebSocket> = new Set();
-  private valueScanClient?: ValueScanClient;
-  private telegramNotifier?: TelegramNotifier;
-  private valueScanWatcher?: ValueScanWatcher;
 
   constructor() {
     this.app = express();
@@ -88,8 +82,6 @@ class SocialAggregator {
   async initialize(): Promise<void> {
     try {
       await this.redis.connect();
-
-      this.setupValueScanWatcher();
 
       const port = process.env.PORT || 3002;
       this.server.listen(port, () => {
@@ -119,50 +111,6 @@ class SocialAggregator {
     });
   }
 
-  private setupValueScanWatcher(): void {
-    const bearerToken = process.env.VALUESCAN_BEARER_TOKEN;
-    const accessTicket = process.env.VALUESCAN_ACCESS_TICKET;
-
-    if (!bearerToken || !accessTicket) {
-      logger.warn('ValueScan 凭证缺失，跳过异动监控功能');
-      return;
-    }
-
-    const botToken = process.env.TELEGRAM_BOT_TOKEN;
-    const chatId = process.env.TELEGRAM_CHAT_ID;
-
-    if (!botToken || !chatId) {
-      logger.warn('Telegram 配置缺失，无法发送异动通知');
-      return;
-    }
-
-    this.valueScanClient = new ValueScanClient({
-      bearerToken,
-      accessTicket,
-      logger,
-      pageSize: Number(process.env.VALUESCAN_PAGE_SIZE ?? 50)
-    });
-
-    this.telegramNotifier = new TelegramNotifier({
-      botToken,
-      chatId,
-      logger,
-      dryRun: process.env.TELEGRAM_DRY_RUN === 'true',
-      disableNotification: process.env.TELEGRAM_SILENT === 'true'
-    });
-
-    this.valueScanWatcher = new ValueScanWatcher(
-      this.redis,
-      this.valueScanClient,
-      this.telegramNotifier,
-      logger,
-      {
-        minNumber24h: Number(process.env.VALUESCAN_MIN_TRIGGERS_24H ?? 0)
-      }
-    );
-
-    logger.info('ValueScan 异动监控已启用');
-  }
 
   private setupRoutes(): void {
     // 健康检查
@@ -552,18 +500,6 @@ class SocialAggregator {
       });
       logger.info(`清理后活跃连接数: ${this.clients.size}`);
     });
-
-    if (this.valueScanWatcher) {
-      const cronExpression = process.env.VALUESCAN_CRON || '*/2 * * * *';
-      cron.schedule(cronExpression, async () => {
-        try {
-          await this.valueScanWatcher?.run();
-        } catch (error) {
-          logger.error('执行 ValueScan 异动轮询失败', { error });
-        }
-      });
-      logger.info(`ValueScan 轮询已启用，Cron: ${cronExpression}`);
-    }
 
     logger.info('后台任务已启动');
   }
