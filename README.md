@@ -30,14 +30,6 @@ Web3/
 │   │   │   ├── discord/     # Discord监控
 │   │   │   └── aggregator/  # 数据聚合API
 │   │   └── config/          # 监控配置
-│   ├── kronos-defi/         # 🚀 Kronos AI驱动DeFi交易系统
-│       ├── packages/        # 核心功能包
-│       │   ├── ai-predictor/     # Python AI预测引擎
-│       │   ├── contracts/        # 多链智能合约
-│       │   ├── trading-engine/   # TypeScript交易引擎
-│       │   ├── twitter-monitor/  # 6551.io Twitter监控
-│       │   └── core/            # 共享工具库
-│       └── apps/           # Web Dashboard
 │   └── rust-trading-bot/    # Rust 实盘/跟单交易机器人
 ├── packages/               # 共享包（预留）
 ├── tools/                  # 构建和开发工具
@@ -68,15 +60,12 @@ yarn install
 # 启动所有核心服务（Docker）
 npm run start
 
-# 启动单个服务
+# 启动社交监控
 npm run start:social-monitor
-npm run kronos:dev
 
 # 开发模式
 npm run dev                   # 启动所有应用的开发模式
 npm run social-monitor:dev    # 启动社交媒体监控开发模式
-npm run kronos:dev            # 启动Kronos DeFi交易系统开发模式
-npm run kronos:twitter        # 启动Kronos Twitter监控 (6551.io)
 ```
 
 ## 📦 应用介绍
@@ -121,30 +110,6 @@ npm run kronos:twitter        # 启动Kronos Twitter监控 (6551.io)
 - 缓存: Redis + 发布订阅
 - 前端: React监控面板
 - 容器化: Docker Compose微服务
-
-### 🚀 Kronos DeFi (`apps/kronos-defi`)
-
-**AI驱动的多链去中心化预测交易平台**
-
-- ✅ **Kronos AI模型**: 65-78%方向预测准确率
-- ✅ **多链智能合约**: 7个区块链(Ethereum, Solana, Base等)
-- ✅ **6551.io数据流**: 实时Twitter情绪分析和交易信号
-- ✅ **机构级策略**: Kelly公式仓位管理和专业做市
-- ✅ **现代化架构**: Python AI + TypeScript引擎 + React Dashboard
-
-**核心组件**:
-- **AI预测引擎**: Python + 100+技术指标
-- **交易引擎**: TypeScript自动化执行
-- **智能合约**: Solidity + Rust多链部署
-- **Twitter监控**: 6551.io WebSocket实时数据流
-- **Web控制台**: React + tRPC实时监控
-
-**技术栈**:
-- AI: Python + NumPy + 机器学习
-- 后端: Node.js + TypeScript + tRPC
-- 前端: React + TypeScript + Tailwind
-- 区块链: Solidity + Rust + Move
-- 数据: SQLite + Redis + WebSocket
 
 ## 🛠️ 开发命令
 
@@ -191,23 +156,17 @@ npm run clean
 - Redis 驱动的事件推送与优先级队列
 - WebSocket 广播最新机会与系统状态
 
-### 🤖 **AI 交易执行**
-- Kronos Trading Engine 集成外部/内置预测信号
-- tRPC API 统一对接策略、面板与自动化工具
-- 冷静期风控、Kelly 仓位、纸上/实盘双模式
-
 ### 🛡️ **风险与运维**
 - Rust Copy-Trader 提供秒级持仓同步与 Telegram 控制
-- Docker Compose 管理核心基础设施（Redis / Kronos / Monitor）
+- Docker Compose 管理核心基础设施（Redis / Monitor）
 - 统一日志规范与性能指标采集
 
 ## 🌟 使用场景
 
 1. **社交情绪监控**: 聚合 Twitter/Nitter、Telegram、Discord 事件并自动排序
-2. **AI 驱动交易**: 使用 Kronos DeFi 引擎进行纸上或实盘交易实验
-3. **复制交易**: Rust Bot 同步带单者持仓，实时推送至 Telegram
-4. **策略研究**: 借助 `packages/advanced-features` 拓展特征工程、回测与数据可视化
-5. **可视化面板**: 通过 Web Dashboard 与 WebSocket 监控交易与风控指标
+2. **复制交易**: Rust Bot 同步带单者持仓，实时推送至 Telegram
+3. **策略研究**: 借助 `packages/advanced-features` 拓展特征工程、回测与数据可视化
+4. **可视化面板**: 通过 Web Dashboard 与 WebSocket 监控交易与风控指标
 
 ## 🤝 贡献指南
 
@@ -224,7 +183,6 @@ npm run clean
 ## 🔗 相关链接
 
 - [Social Monitor 文档](./apps/social-monitor/README.md)
-- [Kronos DeFi 文档](./apps/kronos-defi/README.md)
 - [Rust Trading Bot 指南](./apps/rust-trading-bot/README.md)
 - [环境配置指南](./docs/ENV_CONFIGURATION_GUIDE.md)
 - [部署指南](./DEPLOYMENT_GUIDE.md)
