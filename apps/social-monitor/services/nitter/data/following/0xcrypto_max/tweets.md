@@ -1,0 +1,2285 @@
+# Max (@0xcrypto_max)
+
+- 抓取时间：2025-10-21T01:48:46.781Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：26770 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：11
+- 抓取尝试：1
+- Cursor 链：10 条
+- 账号统计：粉丝 14729，关注 2151，推文 3541，点赞 7130
+- 所在地：player
+- Twitter：https://twitter.com/0xcrypto_max
+- 头像：https://pbs.twimg.com/profile_images/1932871681129025536/cFkWfr9Y_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1712135521403564032/1734715356
+- 认证：Blue Verified
+
+> 账号简介：
+> |All In Dex｜building @0xSZUBA｜Founder of eggs’ party ，进群走置顶链接，全dex都有，dm即可| 玩转链上，OKX一个就够！：https://t.co/FoUSK4eWtd
+
+---
+
+## 1. Oct 9, 2025 · 5:20 AM UTC · 1976155754999800080#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976155754999800080#m
+- 作者：@0xcrypto_max
+
+> 有需要可以自取，我打狗一般使用的工具，走了拉群一起打狗
+> 群的好处：
+> 我在群里都先call，call完半分钟才去频道call，进群相当于快人一步
+> 币安人生，财哥在群里20w发的，千倍
+> 币
+> 别的十倍百倍都有，但也不多说了，bsc牛市哪个群都乱飞
+>  
+> Bn Wallet，由于出了专属内盘，是必备的，我之前也跟他们拿了最高返的额度，全网手续费最低
+> 邀请链接：web3.binance.com/referral?re…
+> 邀请码：V7OK3QBL
+>  
+> debot，在外地址监控，ai信号检测打狗。
+> 地址监控debot移动端做的是top级别
+> ai检测更是神中神，不少群友用这个单币a7。
+> 这里我也抽10个会员pro
+> 邀请链接：inv.debot.ai/r/214811?lang=…
+> 邀请码：inv.debot.ai/r/214811?lang=…
+>  
+> OKX Wallet，大额资产存放，安全性最高的钱包，手续费目前全网最低，走了以后0.65%手续费
+> 邀请码：MAXMAX666
+>  
+> 龙枪，狙击跟单专用，速度最快，就是手续费有点贵：
+> t.me/dragun69?start…
+
+## 2. Oct 20, 2025 · 8:33 PM UTC · 1980371777072296252#m
+- 链接：https://twitter.com/0xcrypto_max/status/1980371777072296252#m
+- 作者：@0xcrypto_max
+
+> 我最后说一次吧，后边不在发表相关言论了，今天喷人实在是自己给恶心到了的
+>  
+> 其他人我不知道，但我真的是属于从一开始当朋友，大家相互真诚交流分享
+>  
+> 到后边发现一直给骗，再到各种用假话去套我真话，原本以为不会有瓜葛了，最后自己在小群天天对我评头论足
+> ，有段时间我一起床就看见在说我，我是真的很不爽，也没得罪ta，说一次两次就好了，我也不想管这么多，行情很好，大家各自专心交易就好。说太多次了，真的会让人生气。
+>  
+> 记录我这边也都有，不过也是涉及到一些不相干的人，不放出来了。
+>  
+> 我是个性子很直的人，对我好的人我会很真诚对待，基本跟我玩的都能感觉得到；对讨厌的人我也不树敌，一般不理睬。
+>  
+> 但是一直给评头论足，说实话非常触犯人，所以忍不了，必须喷，该喷就喷。
+
+## 3. Oct 20, 2025 · 6:41 PM UTC · 1980343707145761273#m
+- 链接：https://twitter.com/0xcrypto_max/status/1980343707145761273#m
+- 作者：@0xcrypto_max
+
+> 看不懂 不过我有仓位 你说的对
+> 有科学家可以求证一下吗
+
+## 4. Oct 20, 2025 · 6:33 PM UTC · 1980341625617543491#m
+- 链接：https://twitter.com/0xcrypto_max/status/1980341625617543491#m
+- 作者：@0xcrypto_max
+
+> 6
+
+## 5. Oct 20, 2025 · 6:28 PM UTC · 1980340336850567344#m
+- 链接：https://twitter.com/0xcrypto_max/status/1980340336850567344#m
+- 作者：@0xcrypto_max
+
+> 解释一下。
+
+## 6. Oct 20, 2025 · 6:21 PM UTC · 1980338712220430437#m
+- 链接：https://twitter.com/0xcrypto_max/status/1980338712220430437#m
+- 作者：@0xcrypto_max
+
+> 很多人问，怎么打出来flōki啊
+> 现在是教学时间
+
+## 7. Oct 20, 2025 · 5:47 PM UTC · 1980330023291899950#m
+- 链接：https://twitter.com/0xcrypto_max/status/1980330023291899950#m
+- 作者：@0xcrypto_max
+
+> 马爹
+> @elonmusk
+> floki我蛋给你了
+> 这个grokipedia什么时候发产品
+>  
+> 0x4444b966447042e4aaa5a09ac2ad33351b7e301e
+> 给套一天了
+
+## 8. Oct 20, 2025 · 4:28 PM UTC · 1980310263443386881#m
+- 链接：https://twitter.com/0xcrypto_max/status/1980310263443386881#m
+- 作者：@0xcrypto_max
+
+> 我刚刚蛋塞进去了
+> 你塞了吗
+
+## 9. Oct 20, 2025 · 3:10 PM UTC · 1980290553008025959#m
+- 链接：https://twitter.com/0xcrypto_max/status/1980290553008025959#m
+- 作者：@0xcrypto_max
+
+> 本来这事我懒得评价的，我这人很随和，一般人不犯我，我不犯人，但今天这个必须说下，确实是给恶心到了
+>  
+> 第一，我没得罪过加密猫姐，我不懂为什么天天在那个小群一直bb，有段时间天天在小群评价我，说小话，跟个神经病一样。我一开始懒得搭理的，但隔几天就bb几句，隔几天就bb几句，真的很烦。
+>  
+> 第二，想长久活在这个行业，并且取得大结果，必须得长久做正确的事情，和对的人待在一起。
+> 什么叫做正确的事情，就是不做错的事情，发现有错误，立马止损。
+> 什么叫和对的人待在一起，就是能力和人品都得过关，在我这里，人品绝对是高于能力的。
+> 你妈的，一直背后bb别人，能是什么好人品。
+> 这段时间挺多人都在开收费群，但是没见过热度这么大的，全网都在喷，高下立判。
+>  
+> 第三，你烦什么啊，什么没分享欲了，粉丝这么多有点黑粉不是很正常吗，推特戾气什么叫越来越差了，这一年不是一直就这么差吗，这么久有变过吗？这能是你开收费群的借口吗？喷咋的了？谁没给喷过啊。
+
+## 10. Oct 20, 2025 · 9:49 AM UTC · 1980209760776716599#m
+- 链接：https://twitter.com/0xcrypto_max/status/1980209760776716599#m
+- 作者：@0xcrypto_max
+
+> 老马确实是meme天才
+> 网感无敌
+> 最近总看有人说老马在bsc行不通
+> 会被证伪
+> 那我问你，几年前babydoge就能跑通
+> 现在为什么不行
+> 只不过还没出现ani、rfc这种比较性感的
+> 真有的话你们连蛋都塞进去
+
+## 11. Oct 18, 2025 · 3:26 PM UTC · 1979569677769847114#m
+- 链接：https://twitter.com/0xcrypto_max/status/1979569677769847114#m
+- 作者：@0xcrypto_max
+
+> Why the internet needs Grokipedia?
+>  
+> ➤ Wikipedia isn’t the neutral source of truth it once was. It’s been taken over by far-left activists and often used as a propaganda tool, not an unbiased encyclopedia.
+>  
+> ➤ A lot of AIs today get their info from the internet, but the web is full of unfair views, wrong facts, and tons of junk.
+>  
+> ➤ Grokipedia will be an open-source encyclopedia focused solely on TRUTH.
+>  
+> ➤ Grokipedia won’t be controlled by any activist or political bias.
+>  
+> ➤ It will be open-source and free for all to use, a truly public resource without limits.
+>  
+> ➤ xAI’s ultimate mission is to understand the universe, and that requires honest, unfiltered information. Grokipedia is a crucial step toward that goal, because you can’t build a truthful AI on biased information.
+>  
+> ➤ The vision is for Grokipedia to become the global standard for knowledge. One day, every person and every AI system could rely on it as a trusted source of truth.
+>  
+> ➤ Seeking truth is the greatest mission of all and that’s what Grokipedia stands for.
+>  
+> Grokipedia is coming.
+
+## 12. Oct 20, 2025 · 3:24 AM UTC · 1980112937806389335#m
+- 链接：https://twitter.com/0xcrypto_max/status/1980112937806389335#m
+- 作者：@0xcrypto_max
+
+> 会慢慢发酵的
+> 逻辑类似于ap
+
+## 13. Oct 19, 2025 · 4:54 PM UTC · 1979954324450222373#m
+- 链接：https://twitter.com/0xcrypto_max/status/1979954324450222373#m
+- 作者：@0xcrypto_max
+
+> 找不到这个位置看空的理由
+>  
+> 机构成本也在10w上下 机构都在扫货入场 散户跑步出场
+>  
+> 经典互道傻逼环节
+>  
+> 我是感觉不至于12w就是顶吧
+>  
+> btc这轮叙事也算升级了吧 看美国政府动向也是把btc作为下一个蓄水池了
+>  
+> 前几个蓄水池是黄金、石油
+>  
+> 而且砸下去是特朗普一嘴的事情 拉上去也是特朗普一嘴的事情
+>  
+> 看多吧 坚定看多吧
+>  
+> 哪有在恐慌中结束牛市的 牛市总在狂欢中结束
+
+## 14. Oct 19, 2025 · 1:20 PM UTC · 1979900491971862923#m
+- 链接：https://twitter.com/0xcrypto_max/status/1979900491971862923#m
+- 作者：@0xcrypto_max
+
+> 你说的对
+
+## 15. Oct 19, 2025 · 12:14 PM UTC · 1979883750210367658#m
+- 链接：https://twitter.com/0xcrypto_max/status/1979883750210367658#m
+- 作者：@0xcrypto_max
+
+> 我是受过专业训练，严格遵守了龙头战法的，但是一小时换一个龙头我是没想到的
+
+## 16. Oct 19, 2025 · 12:06 PM UTC · 1979881891756130812#m
+- 链接：https://twitter.com/0xcrypto_max/status/1979881891756130812#m
+- 作者：@0xcrypto_max
+
+> It‘s game over for Wikipedia？
+> @elonmusk
+
+## 17. Oct 18, 2025 · 5:04 AM UTC · 1979413276732854473#m
+- 链接：https://twitter.com/0xcrypto_max/status/1979413276732854473#m
+- 作者：@0xcrypto_max
+
+> 没明白为啥骂 @Mirro7777
+> 这币底部不是给了很多机会了吗…
+> 也不阴谋啊
+
+## 18. Oct 16, 2025 · 7:57 PM UTC · 1978913141099483520#m
+- 链接：https://twitter.com/0xcrypto_max/status/1978913141099483520#m
+- 作者：@0xcrypto_max
+
+> 财富增长的核心是不要有重大回撤
+> 可以大赚，可以小赚，可以小亏，但绝对不能大亏
+> gn，继续乐观看待后市
+
+## 19. Oct 15, 2025 · 12:25 PM UTC · 1978437027873042477#m
+- 链接：https://twitter.com/0xcrypto_max/status/1978437027873042477#m
+- 作者：@0xcrypto_max
+
+> 一下午分流分麻了，本来这几天流动性就不够，导致一个标能1m，经过分流只能到达300k，少吃很多
+>  
+> 先说下memerush的劣势：
+> 1.池子巨厚无比，跟巨无霸一样，拉盘难度比fourmeme高了不少
+>  
+> 2.1m才出外盘，老外被迫成为接盘的，人家也不傻，凭什么要接盘，自己玩自己的fourmeme还是底部。
+> 所以这部分少了挺多资金的。
+>  
+> 3.需要打开一个天花板，修仙作为龙一且最meme的ticker，目前12m，其他只要射出外盘的1m就有1/10市值了。很难让人fomo，很难让人打开想象力。
+>  
+> 再说下优势；
+> 1.由于外盘很难出，所以出来的都是精品，一旦出来了注意力将会非常集中
+>  
+> 2.背靠币安大山，根据我自己主观推断，后边上alpha大概率都会是memerush的，毕竟是自家亲儿子
+>  
+> 说完优势劣势，再说下我的策略：
+> 主要还是玩fourmeme为主，盈亏比会更高，链上目前流动性又大撤退了，容不下大资金，以小博大是最佳策略。
+> 看好memerush的远景，但不看好现在，机制还是需要完善的，如果有改革，会第一时间进去吃alpha的。
+
+## 20. Oct 15, 2025 · 5:19 AM UTC · 1978329768782450990#m
+- 链接：https://twitter.com/0xcrypto_max/status/1978329768782450990#m
+- 作者：@0xcrypto_max
+
+> 昨天半夜去了2m，跟着狗庄稳稳吃了幸福的2x
+>  
+> 今天又发现一个新的中外合力版的meme版“预测市场”
+> 未来0xfcc36f8bfe1b962b449ecd565c954920da804444
+>  
+> 这个ticker是刚好双结合，meme+预测，踩中BNB最近力推的主题方向
+>  
+> 寓意是，招手求好运，"未来"将在BNB上带来一个繁荣、信念、文化主导的新纪元
+>  
+> 也是个庄盘，筹码也控得差不多了，看看这次能不能跟着狗庄稳稳吃到
+
+## 21. Oct 14, 2025 · 4:25 PM UTC · 1978135159237968029#m
+- 链接：https://twitter.com/0xcrypto_max/status/1978135159237968029#m
+- 作者：@0xcrypto_max
+
+> 兄弟，头晕了
+> 所以新东西出来是玩memerush还是fourmeme
+> 上线高的不应该去玩memerush吗
+> 既然出了这个功能，那上alpha的可能性肯定比fourmeme高吧
+> 不然东拉西扯，两边盘子都得给搞死啊…
+
+## 22. Oct 14, 2025 · 4:34 AM UTC · 1977956032551985513#m
+- 链接：https://twitter.com/0xcrypto_max/status/1977956032551985513#m
+- 作者：@0xcrypto_max
+
+> 😹😹😹清仓sol了
+> 这么装的
+
+## 23. Oct 14, 2025 · 4:16 AM UTC · 1977951624724427236#m
+- 链接：https://twitter.com/0xcrypto_max/status/1977951624724427236#m
+- 作者：@0xcrypto_max
+
+> 能再无聊点不
+> 开盘的，坐庄的，你们脑子是不是给屎尿屁装满了
+> 扫了一上午全是屎尿屁
+> 是真低俗...
+
+## 24. Oct 14, 2025 · 2:52 AM UTC · 1977930560367669313#m
+- 链接：https://twitter.com/0xcrypto_max/status/1977930560367669313#m
+- 作者：@0xcrypto_max
+
+> 888，发得你钞票硬踏踏
+> 很meme一个东西，看线庄也在500k附近把筹码收好了
+> 叙事+控筹已经备齐，1m进去尝尝鲜美
+> 除此以外，扫了一圈，老外和老中都在喊，也有点中外合力的感觉了
+> 0xc55fe3f2ec1afb8d5745a17529c8523a5ae74444
+
+## 25. Oct 13, 2025 · 7:04 PM UTC · 1977812726325059889#m
+- 链接：https://twitter.com/0xcrypto_max/status/1977812726325059889#m
+- 作者：@0xcrypto_max
+
+> 老师，此局何解？
+> 前两个上币安的tst、白布上了就浇给
+> 币安人生该何去何从
+> 这直接关乎接下来bsc meme的天花板
+
+## 26. Oct 13, 2025 · 5:42 PM UTC · 1977791948217004206#m
+- 链接：https://twitter.com/0xcrypto_max/status/1977791948217004206#m
+- 作者：@0xcrypto_max
+
+> 脸谱，不就是中国nft吗
+
+## 27. Oct 13, 2025 · 6:24 AM UTC · 1977621563894862174#m
+- 链接：https://twitter.com/0xcrypto_max/status/1977621563894862174#m
+- 作者：@0xcrypto_max
+
+> lfg
+
+## 28. Oct 12, 2025 · 5:47 PM UTC · 1977430830114095324#m
+- 链接：https://twitter.com/0xcrypto_max/status/1977430830114095324#m
+- 作者：@0xcrypto_max
+
+> 0x2a940a7f2a9efabb35ce92ed52e444ad496c4444
+> If u do the research，u will find，in lyrics，“那个” and ** is the culture shock
+> and the song is so cult，maybe u will like it after listening it
+> It is worth mentioning that DNF（gake）also in this car
+> just sharing，dyor
+
+## 29. Oct 12, 2025 · 8:51 AM UTC · 1977296036680093780#m
+- 链接：https://twitter.com/0xcrypto_max/status/1977296036680093780#m
+- 作者：@0xcrypto_max
+
+> JUST MAXFNF
+> 一个6x
+> 一个10x
+
+## 30. Oct 12, 2025 · 5:10 AM UTC · 1977240391549403479#m
+- 链接：https://twitter.com/0xcrypto_max/status/1977240391549403479#m
+- 作者：@0xcrypto_max
+
+> 告诉我，老🐴叙事是不是sol的专利
+> 是的话为什么比bsc市值低
+> 那我问你
+> 现在该在哪玩
+> 现在该买什么
+> 什么东西是新的
+
+## 31. Oct 12, 2025 · 5:01 AM UTC · 1977238128860839952#m
+- 链接：https://twitter.com/0xcrypto_max/status/1977238128860839952#m
+- 作者：@0xcrypto_max
+
+> 怎么他喵的，昨晚一个新ai
+> 今天又来个新东西啊
+> 老🐴老🐴你最帅
+
+## 32. Oct 11, 2025 · 6:58 PM UTC · 1977086332540453082#m
+- 链接：https://twitter.com/0xcrypto_max/status/1977086332540453082#m
+- 作者：@0xcrypto_max
+
+> 新东西出来了，静静等待
+
+## 33. Oct 11, 2025 · 3:42 PM UTC · 1977037129323843640#m
+- 链接：https://twitter.com/0xcrypto_max/status/1977037129323843640#m
+- 作者：@0xcrypto_max
+
+> 找币就要找独特的，别去找一个概念非要硬造个龙二，那就失去唯一性了
+> 不如买龙一
+
+## 34. Oct 11, 2025 · 6:12 AM UTC · 1976893679043506547#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976893679043506547#m
+- 作者：@0xcrypto_max
+
+> 怎么还有人幻想山寨季呢？
+> 累不累啊？几年了？执念这么重吗？
+> 接下来的反弹是给你逃命的，不是继续看大牛市的...
+> 至于反弹的高度目前没法预知，不预测价格，不预测位置，只看市场的状态。
+> 说实话，这个周期到现在，这么多机会，如果你都没赚钱，真得好好思考复盘一下自己的投资体系问题了。
+
+## 35. Oct 11, 2025 · 10:34 AM UTC · 1976959528727106036#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976959528727106036#m
+- 作者：@0xcrypto_max
+
+> 好久没写过长文了，今天起床看到市场全面崩塌，意识到市场需要时间去自我修复，决定休息几天，静下来好好思考：
+>  
+> 1.bitcoin maxi
+> 不得不承认，市场已经彻底变化了。前几轮周期场内都是增量的，不断有圈外资金涌入。
+> 而这一轮更像是零和博弈，场内资金互掏，圈外资金涌入的都是btc etf。所以场内流动性是很少的，基本就吊着，随时崩塌。
+> 昨晚山寨崩塌证明了这一点，一旦爆仓，就是连环爆仓，山寨脆弱的不能再脆弱了。
+> 而纵观这个周期下来，所有山寨，都跑不过btc，alt/btc更是不断下降。
+> 对于所有刚入圈的新人（也就是我自己）而言，都想急切变富，跨越阶级，自然会想去捡一些“被低估”的资产，并且在这基础上配置杠杆。
+> 可由于以上的分析，场内流动性是非常稀缺的，altcoin也不断发行，形成僧多肉少的局面，你手上的“被低估”资产95%的可能性是“被高估”的垃圾。
+> 真正被低估的资产一直是btc，就在眼前，看得见，摸得着，你却不珍惜，像极了曾经有个真挚的爱情摆在你的眼前，你却没有珍惜，转身去找夜店的姑娘享受一夜情。
+>  
+> 2.U maxi
+> 可能btc11w美金的价格太高了，你下不了手，那就和我一样，老老实实拿着u吧
+> 切记，不亏就是赚，手里满仓u是亏不了的。
+> 虽然任何时候都是买入btc的好时候，不过周期底部是1w5美金，现在相当于顶着6x进场，对我这样的安卓脑袋来说，我是一百个不愿意的。
+> 我目前的想法是，等待熊市，慢慢dca btc，下轮周期再作为一个btc maxi，这轮做一个U maxi，毕竟，不亏就是赚。
+> 能活下来的你已经很棒了。
+>  
+> 3.流动性maxi
+> 币圈不大，创造神话。流动性在哪，我们就去哪。
+> 即便币安这次人造牛市，不论是不给sol meme上所，bn alpha，还是meme rush，每步棋都告诉你，流动性在我这，你只能在这玩。
+> 可我还是看到有些人坚守着原来的阵营，继续玩着别的链。可能可以赚到钱，但是对大部分普通用户来说，拥抱流动性是最正确的决定，游戏难度也会大大降低。
+>  
+> 4.牛市发动机maxi
+> 这里先用巫师的理论说明什么是牛市发动机
+> “牛市发动机三定律：
+> ⭐老技术，新玩法
+> 若无此，雪不够黏（基本面不够）
+> ⭐新叙事，新希望
+> 若无此，坡不够长
+> ⭐批量产生新资产
+> 若无此，坡不够宽
+> 同时具备，才有17年ico，20年defi 那样震撼人心的场面。”
+> 币圈本质上还是一个创新赛道，吸引人的一定是新的资产发行方式，不然传统行业能玩的，或者以前玩过的，老掉牙的，不会有人来玩的。
+> 所以，盯紧任何一个新东西，对所有人来说，都是最重要的。很有可能，这就是下一个牛市的开启。
+
+## 36. Oct 10, 2025 · 4:45 PM UTC · 1976690565514486245#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976690565514486245#m
+- 作者：@0xcrypto_max
+
+> 不想做早起的鸟，只想做长期主义者
+> 跑得快不一定赢，不跌跟头才是硬道理
+> 过几年再来看
+
+## 37. Oct 10, 2025 · 3:06 PM UTC · 1976665608113807684#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976665608113807684#m
+- 作者：@0xcrypto_max
+
+> 那可不招财了
+
+## 38. Oct 10, 2025 · 2:44 PM UTC · 1976660194668224555#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976660194668224555#m
+- 作者：@0xcrypto_max
+
+> 去个10m看看实力
+
+## 39. Oct 10, 2025 · 2:40 PM UTC · 1976659213738029384#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976659213738029384#m
+- 作者：@0xcrypto_max
+
+> 我的评价是
+> 招财如果比不过**的人
+> 那么就一点都不招财了
+
+## 40. Oct 10, 2025 · 11:06 AM UTC · 1976605339677294806#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976605339677294806#m
+- 作者：@0xcrypto_max
+
+> 存放大额资金链上钱包
+> 我只用okx！
+> 绝对安全
+
+## 41. Oct 10, 2025 · 10:50 AM UTC · 1976601184522887185#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976601184522887185#m
+- 作者：@0xcrypto_max
+
+> 没情绪咯
+> 可以休息几天了
+
+## 42. Oct 10, 2025 · 10:43 AM UTC · 1976599517652017567#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976599517652017567#m
+- 作者：@0xcrypto_max
+
+> 昨天没回复都去4m
+> 今天直接升级
+> 去个5m看看实力
+
+## 43. Oct 10, 2025 · 10:39 AM UTC · 1976598575862919461#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976598575862919461#m
+- 作者：@0xcrypto_max
+
+> 说话！黑子说话！叙事升级！
+
+## 44. Oct 10, 2025 · 10:01 AM UTC · 1976588788911763612#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976588788911763612#m
+- 作者：@0xcrypto_max
+
+> 你们逆天了，我说怎么突然这么多人回复
+>  
+> 事情是这样的：
+> 那天卡到爆炸，bnbholder错过了，我急得要死，赶紧去扫币安专属内盘看看有没有新东西
+> 结果一打开，连k线都加载不出来，映入眼帘的还是，财务自由这四个大字
+> 不是哥们，连k线都加载不出来，你让我怎么财务自由，我直接破防了，连着发两个推特艾特一姐
+> 后边币安官方留言了，说提供ca给他们审核
+> 然后我懒得回了，结果今天突然一堆人帮我回复，浏览量暴增
+> 我还寻思是你们好心呢
+> 结果@0xyukaz 说我发推带货，大家都在冲
+> 666，我澄清一下，我真没带货，那天我也根本就没买过
+> 我纯纯是被产品整破防了
+
+## 45. Oct 10, 2025 · 9:21 AM UTC · 1976578923212501425#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976578923212501425#m
+- 作者：@0xcrypto_max
+
+> dm没有回复的在这条帖子下回复
+
+## 46. Oct 10, 2025 · 9:07 AM UTC · 1976575284108538205#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976575284108538205#m
+- 作者：@0xcrypto_max
+
+> 再补个gmgn的：
+> gmgn.ai/r/YaB6Nw6K
+> 邀请码：
+>  
+> YaB6Nw6K
+
+## 47. Oct 10, 2025 · 5:04 AM UTC · 1976514226849194269#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976514226849194269#m
+- 作者：@0xcrypto_max
+
+> 池子过大有好有坏
+> 坏处是盈利倍数没那么夸张了
+> 好处是出外盘的盘子少了很多很多
+> 一旦出了，注意力会很集中
+
+## 48. Oct 9, 2025 · 9:26 PM UTC · 1976398997633011983#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976398997633011983#m
+- 作者：@0xcrypto_max
+
+> 本来我是对币安新出的这个模式有一点点偏见的，但经过一天的pvp体验下来，我感觉币安新出的这个meme rush模式真是挺好的，币安无私钥钱包也超乎想象的好用
+>  
+> 首先就是做到了很公平的内盘发射，有效阻止了捆绑阴谋盘的诞生。里面的币也不是很多，一天下来有意思的也就那么几个，可以很轻松的抓到。真正像一姐说的做到了对散户公平友好
+>  
+> 而且经过了bnb chain失去理智的狂热期，除了币安人生外，又有一些真正有趣的meme开始稳步前行，一切都在向着更好的方向发展。这次bnb chain的辉煌显然不是昙花一现，而是巨兽真正开始苏醒了
+>  
+> 而与这一切都息息相关的币安人生只会享受到越来越多的龙头福利
+>  
+> 等着看吧，马上你就要只管尽情享受你美好的币安人生了
+>  
+> @cz_binance  @heyibinance
+
+## 49. Oct 10, 2025 · 3:47 AM UTC · 1976494727492141211#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976494727492141211#m
+- 作者：@0xcrypto_max
+
+> 兄弟 无敌call
+> 10w市值call的币安宗门
+> 最高去4m
+> 这是几倍😲
+> 40x
+> good call
+
+## 50. Oct 9, 2025 · 8:27 PM UTC · 1976383935459492105#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976383935459492105#m
+- 作者：@0xcrypto_max
+
+> 温馨提示：要在币安钱包买哦
+
+## 51. Oct 9, 2025 · 8:26 PM UTC · 1976383792379199896#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976383792379199896#m
+- 作者：@0xcrypto_max
+
+> 哦豁20m，3x
+> 那让我们看看币安宗门如何？
+> 0x4444e6cc9e47add52a6f30270e9efd573ed21779
+> 币安宗门 完全和修仙匹配
+> 文档里出现的
+> 先出个外盘看看实力咯
+
+## 52. Oct 9, 2025 · 8:11 PM UTC · 1976379913654632761#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976379913654632761#m
+- 作者：@0xcrypto_max
+
+> 修仙，就是要修到天上去
+> 先去10m看看实力
+
+## 53. Oct 9, 2025 · 6:57 PM UTC · 1976361305192972301#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976361305192972301#m
+- 作者：@0xcrypto_max
+
+> 喊完向下的就暂时别上了
+
+## 54. Oct 9, 2025 · 6:55 PM UTC · 1976360966322520149#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976360966322520149#m
+- 作者：@0xcrypto_max
+
+> 0x2a97e58ea967d151d1fb918eeffc8248861f4444 bsc的8
+> 凭什么sol就要有个8打赢4
+> 就不给你赢
+> 连bsc的8也要赢你
+> dyor，风险很大
+
+## 55. Oct 9, 2025 · 3:34 PM UTC · 1976310399265034625#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976310399265034625#m
+- 作者：@0xcrypto_max
+
+> 简单总结一下我这两天玩bsc的心得，发出来记录：
+> 1.勿追高，追高容易死，我大部分亏损都来源于追高。
+> 2.@BitCloutCat 猫哥的10%战法非常适用在流动性充沛的牛市，卖任何币都留10%。这样既可以保留对下一个币安人生的幻想，防止幻想带来的fomo害了你，也可以真正把握住下一个币安人生。
+> 毕竟10%利润，没了就是没了，那咋了。
+> 3.以小搏大才是精髓，我的所有最大利润，都是适当的仓位，不过大，刚刚好。
+> 买了能睡觉，不会涨一点哇哇叫，也不会跌了哭爹喊娘。
+> 4.没有握住四驾马车，即龙头。到处寻求pvp，其实是丧失很大的机会成本。
+> 小钱靠p，大钱靠抓住龙头。
+
+## 56. Oct 9, 2025 · 2:30 PM UTC · 1976294294756655172#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976294294756655172#m
+- 作者：@0xcrypto_max
+
+> 3x
+> 玩归玩，闹归闹
+> 不拿老板开玩笑了
+> 还是那句话
+> 当下的舆论不重要
+> 重要的是未来
+> 徐老板钱包做的多好大家有目共睹
+> 真真切切的builder
+> 时间会证明一切
+
+## 57. Oct 9, 2025 · 2:18 PM UTC · 1976291186286755848#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976291186286755848#m
+- 作者：@0xcrypto_max
+
+> 兄弟 中文meme 如鱼得水
+> 当年llm没看懂
+> 今年的bsc llm
+> 第一眼就看懂了
+
+## 58. Oct 9, 2025 · 2:13 PM UTC · 1976289983720980594#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976289983720980594#m
+- 作者：@0xcrypto_max
+
+> good call
+
+## 59. Oct 9, 2025 · 2:00 PM UTC · 1976286678823338401#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976286678823338401#m
+- 作者：@0xcrypto_max
+
+> 如果让我说的话
+> 给我llm的感觉
+
+## 60. Oct 9, 2025 · 11:20 AM UTC · 1976246425454510435#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976246425454510435#m
+- 作者：@0xcrypto_max
+
+> 不过我不在了，祝贺还在车上的，太能洗了，我是纸b
+
+## 61. Oct 9, 2025 · 11:19 AM UTC · 1976246258902892952#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976246258902892952#m
+- 作者：@0xcrypto_max
+
+> 恭送新王
+> 哈吉米喔南北绿豆~
+
+## 62. Oct 9, 2025 · 7:21 AM UTC · 1976186274005516455#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976186274005516455#m
+- 作者：@0xcrypto_max
+
+> 新币这里连k线都没有，这叫产品吗何一姐？
+> @heyibinance
+
+## 63. Oct 9, 2025 · 7:12 AM UTC · 1976183998750855389#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976183998750855389#m
+- 作者：@0xcrypto_max
+
+> @heyibinance 我社区一堆人用了买币，全都卖不出去，产品问题，我们只想要个说法
+
+## 64. Oct 9, 2025 · 7:09 AM UTC · 1976183200847364428#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976183200847364428#m
+- 作者：@0xcrypto_max
+
+> 今天这个改革很成功，也有造富效应
+> 但是现在bn钱包卡爆了，我连交易都交易不了，我还有币没卖，以及你们只有无私钥钱包吗
+> 那以后要是再这么卡，我想用别的钱包卖出都做不到，这样用户真的很难受，你们前端太卡了
+> @heyibinance
+
+## 65. Oct 9, 2025 · 5:55 AM UTC · 1976164612581298196#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976164612581298196#m
+- 作者：@0xcrypto_max
+
+> 说句公道话，现在喷OKX和当时喷BN的人没什么区别
+> 无非就是没赚到钱或者亏钱
+> 当下怎么样不重要，重要的是未来
+> 很多人以前给骂割子，拿到结果以后大家都闭嘴了，说是实力
+> 互联网就这样
+
+## 66. Oct 9, 2025 · 3:39 AM UTC · 1976130262678544581#m
+- 链接：https://twitter.com/0xcrypto_max/status/1976130262678544581#m
+- 作者：@0xcrypto_max
+
+> 还行，哈基米昨晚插针去30m了，陆陆续续挂单止盈
+> 推特call也有个3 4x了
+> 稳稳的二段大仓位
+> 今天早上起来除了龙头其他血流成河
+> 牛市多插针
+> 大家不要放弃
+> 保持专注
+> 继续focus
+
+## 67. Oct 8, 2025 · 4:53 PM UTC · 1975967767489843631#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975967767489843631#m
+- 作者：@0xcrypto_max
+
+> 是的
+> sol ai就是天天分析分析
+> 吃得很爽
+> 但是最后trump出来，简单两个：没庄，都是散户
+> 我就碰都不碰
+> 只能说阴谋分析来分析去，没什么意思，叙事才是最核心的
+
+## 68. Oct 8, 2025 · 3:44 PM UTC · 1975950342417449407#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975950342417449407#m
+- 作者：@0xcrypto_max
+
+> 哈基米哈基米，hakimihakimi，独立赛道龙头
+
+## 69. Oct 8, 2025 · 3:04 PM UTC · 1975940412620800131#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975940412620800131#m
+- 作者：@0xcrypto_max
+
+> 唉，真他妈的服了
+> 发最多的币安汽车没了
+> 无人问津的哈基米起飞了
+> 还能说啥
+> 追高，就是抄底
+> 哦，哈吉米的南北绿豆~
+
+## 70. Oct 8, 2025 · 2:48 PM UTC · 1975936324617306341#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975936324617306341#m
+- 作者：@0xcrypto_max
+
+> 哈吉米哈吉米
+
+## 71. Oct 8, 2025 · 10:53 AM UTC · 1975877298890182751#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975877298890182751#m
+- 作者：@0xcrypto_max
+
+> 别问我卖没卖，还能不能拿了
+> 我一点都没卖
+> 现在15m，我看起步100m
+> 6.6倍赔率
+> 要不归零，要不起飞
+> 拿不住的可以卖，不看好的可以卖
+> 你要是因为我才去买
+> 那你肯定拿不住
+> 我买完我还能安心睡觉
+> 你买了涨一点高兴的不得了，跌一点哇哇叫
+> 那就是跟着别人买的，自己看不懂
+> 或者仓位太大
+> 买自己能接受归零的仓位
+> 梭哈可以赢无数次，但你一次都不能输
+
+## 72. Oct 8, 2025 · 8:13 AM UTC · 1975836999400722766#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975836999400722766#m
+- 作者：@0xcrypto_max
+
+> 24h 在线，高强度打狗，黄金十月，不能没有我的参与。
+
+## 73. Oct 8, 2025 · 6:30 AM UTC · 1975811100840190201#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975811100840190201#m
+- 作者：@0xcrypto_max
+
+> 无视fud，继续安装
+> 押注
+
+## 74. Oct 8, 2025 · 6:28 AM UTC · 1975810498701795744#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975810498701795744#m
+- 作者：@0xcrypto_max
+
+> 要不上亿，要不归零
+
+## 75. Oct 8, 2025 · 6:27 AM UTC · 1975810212633452795#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975810212633452795#m
+- 作者：@0xcrypto_max
+
+> 币安汽车就是100m的标
+> 避嫌，spark忘记怎么走的了吗
+> meme就是要避嫌才能起飞
+
+## 76. Oct 8, 2025 · 5:27 AM UTC · 1975795063574970619#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975795063574970619#m
+- 作者：@0xcrypto_max
+
+> 哈基米喔南北绿豆~
+
+## 77. Oct 8, 2025 · 5:38 AM UTC · 1975797851235270853#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975797851235270853#m
+- 作者：@0xcrypto_max
+
+> $哈基米0x82ec31d69b3c289e541b50e30681fd1acad24444
+> 长话短说吧
+> 第一个脱离cz的meme
+> 一旦破了10m，无限想象，算是新叙事
+> 加上中外合力，像我所知就有不少老外车队在上面
+> 下注
+
+## 78. Oct 8, 2025 · 4:39 AM UTC · 1975783041563042228#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975783041563042228#m
+- 作者：@0xcrypto_max
+
+> 这里分歧还挺大的，有人唱衰，觉得和今年白布差不多，一波流；有人唱旺，大盘欣欣向荣，链上野蛮生长，跑出来几个几百m的标了，也有人赚10m。
+>  
+> 我是链上的孩子，看牛就坚定看牛，别梭哈就好了，以小博大才是链上的精髓，这样即便是周期的结束，也亏不到太大。而且即便是牛尾，流动性也比熊市好上1000x。
+>  
+> 珍惜这段时光，我等快一年了。
+
+## 79. Oct 8, 2025 · 3:16 AM UTC · 1975762186615292365#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975762186615292365#m
+- 作者：@0xcrypto_max
+
+> 那我问你，是不是昨天140m接盘现在也有两倍
+> #币安人生
+
+## 80. Oct 7, 2025 · 3:43 PM UTC · 1975587702973341832#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975587702973341832#m
+- 作者：@0xcrypto_max
+
+> 要喊单的话，记得盈亏自负
+
+## 81. Oct 7, 2025 · 3:21 PM UTC · 1975582262134776322#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975582262134776322#m
+- 作者：@0xcrypto_max
+
+> 熊市不好喊单，怕给骂
+> 行情来了，是否需要开启全力喊单模式？
+
+## 82. Oct 7, 2025 · 11:35 AM UTC · 1975525319034741178#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975525319034741178#m
+- 作者：@0xcrypto_max
+
+> 我真不知道是谁天天在捧着老外臭脚舔
+> 每个推文都一直重复“老外”，顺便再踩一脚中国人
+> bro以为自己在打造信息差，洋流模式
+> 那我问你，现在服不服
+> #币安人生
+
+## 83. Oct 7, 2025 · 11:18 AM UTC · 1975521194528088178#m
+- 链接：https://twitter.com/0xcrypto_max/status/1975521194528088178#m
+- 作者：@0xcrypto_max
+
+> 财哥牛逼 @GCsheng
+> 深大出来的就是硬气
+> 第一个建设就建设这么币安的ticker
+> 来这个位置给你们接盘币安人生了
+> 不同阶段不同叙事，就像当初pnut上所大户猛干，推到2b
+> 这个位置，如果现货，1b起步
+> 作为第一个中文ticker上所
+> 如果上币安
+> 上限难以想象
+> 这是真正的大叙事
+> 想象一下
+> 大爷大妈打开币安
+> 终于不用搜索洋文
+> 而是可以用简笔画打出，“币安人生”
+
+## 84. Oct 5, 2025 · 3:18 PM UTC · 1974856798445383724#m
+- 链接：https://twitter.com/0xcrypto_max/status/1974856798445383724#m
+- 作者：@0xcrypto_max
+
+> 现在起飞是因为，官推被封，叙事升级了
+
+## 85. Oct 5, 2025 · 3:18 PM UTC · 1974856677439807789#m
+- 链接：https://twitter.com/0xcrypto_max/status/1974856677439807789#m
+- 作者：@0xcrypto_max
+
+> 1.2m call，2x，先对得起我的粉丝们先
+
+## 86. Oct 5, 2025 · 2:33 PM UTC · 1974845350465958381#m
+- 链接：https://twitter.com/0xcrypto_max/status/1974845350465958381#m
+- 作者：@0xcrypto_max
+
+> 想买的话，看着向下的话就别参与了
+
+## 87. Oct 5, 2025 · 2:30 PM UTC · 1974844670921625959#m
+- 链接：https://twitter.com/0xcrypto_max/status/1974844670921625959#m
+- 作者：@0xcrypto_max
+
+> 0xbf8f0f4be828203ec87d4cdc731b1ede1bfb4444
+> 这辈子见过最好玩的叙事
+> 拉满了哥们
+> 无论如何都想参与一点
+
+## 88. Oct 4, 2025 · 11:25 AM UTC · 1974435804530479533#m
+- 链接：https://twitter.com/0xcrypto_max/status/1974435804530479533#m
+- 作者：@0xcrypto_max
+
+> BSC今天出了两个庄盘，一个YEPE，一个100￥。
+> 挺好的，终于出现和cz无关的叙事，并且能独立跑出来了的。
+> 这对bnbchain是好事，这样行情才有延续性。
+> 不至于像上次bsc行情一样，大表哥和何一姐一旦不说话流动性就枯竭了。
+> 希望明天可以继续见到
+
+## 89. Oct 4, 2025 · 9:23 AM UTC · 1974405051193180176#m
+- 链接：https://twitter.com/0xcrypto_max/status/1974405051193180176#m
+- 作者：@0xcrypto_max
+
+> 中潜水上乐园第一天开张就红红火火？
+> 战绩：
+> 潜水哥 550kcall dumb 2x
+> max 120kcall cz dancecz，cz回复 6.6x
+> 大群跟上的应该也吃爽了，一般我发大群跟群友一起研究会比tg快一步
+>  
+> 一样，进群走OKX邀请码MAXMAX666
+> 或者
+> Bn Wallet邀请链接：web3.binance.com/referral?re…邀请码：V7OK3QBL
+
+## 90. Oct 4, 2025 · 4:40 AM UTC · 1974333791041933467#m
+- 链接：https://twitter.com/0xcrypto_max/status/1974333791041933467#m
+- 作者：@0xcrypto_max
+
+> gogogo 冲
+
+## 91. Oct 3, 2025 · 12:15 PM UTC · 1974085979893084265#m
+- 链接：https://twitter.com/0xcrypto_max/status/1974085979893084265#m
+- 作者：@0xcrypto_max
+
+> 一起跟着小二哥念，我就是全宇宙最厉害的区块链天才，我一定行！
+>  
+> 最近还可以！看我频道的应该都知道，都是可以上仓位的确定性利润。
+>  
+> 虽然比不上大家的单币a7 a8，但是在做正ev的事情。加油，走自己的路，只和自己做比较。
+>  
+> 频道自取：t.me/tovalhalla2025
+
+## 92. Oct 3, 2025 · 9:45 AM UTC · 1974048147178729582#m
+- 链接：https://twitter.com/0xcrypto_max/status/1974048147178729582#m
+- 作者：@0xcrypto_max
+
+> 对于为什么不看好sol和看好bsc
+> 转行玩alpha，合约，bnbchain的一点理由
+
+## 93. Oct 3, 2025 · 9:31 AM UTC · 1974044533047566835#m
+- 链接：https://twitter.com/0xcrypto_max/status/1974044533047566835#m
+- 作者：@0xcrypto_max
+
+> 言出法随🤗🤗，艾特所有人的含金量
+> 昨天刚说，今天就上alpha
+> alpha-合约-现货（这个不一定）
+>  
+> 一样，进群走OKX邀请码MAXMAX666
+> 或者Bn Wallet邀请链接：web3.binance.com/referral?re…
+> 邀请码：V7OK3QBL
+
+## 94. Oct 1, 2025 · 10:53 AM UTC · 1973340463295066500#m
+- 链接：https://twitter.com/0xcrypto_max/status/1973340463295066500#m
+- 作者：@0xcrypto_max
+
+> 体验邀请链接：web3.binance.com/referral?re…
+> 邀请码：V7OK3QBL
+
+## 95. Oct 1, 2025 · 10:47 AM UTC · 1973338942490726762#m
+- 链接：https://twitter.com/0xcrypto_max/status/1973338942490726762#m
+- 作者：@0xcrypto_max
+
+> 最近链上打alpha，“一姐亲自下场邀请我用Binance Wallet” @binancezh @heyibinance
+>  
+> 体验了半个月，感觉真的很不一样。之前刷bn alpha，太卡，体验感特别差。但是随着时间推移，产品开始有了沉淀，现在的产品只能用丝滑来形容。交互真的真的，特别丝滑，玩bsc我总是被夹到针尖上，用binance wallet我是没给夹过的。而且还支持交易所余额直接交易，直接省去了提币的流程实现一键转账，丝滑，丝滑，还是丝滑。
+>  
+> 除了交易alpha以外，扫链，地址追踪这些也做得很nice，基本上meme榜单刷新速度是top级的。
+> 最舒服的还是ui设计，这个真的在我审美点上，设计师是谁，速速来领鸡腿。
+
+## 96. Sep 29, 2025 · 11:19 AM UTC · 1972622360818966829#m
+- 链接：https://twitter.com/0xcrypto_max/status/1972622360818966829#m
+- 作者：@0xcrypto_max
+
+> 行情和周期一直在轮转，周而复始。
+>  
+> 去年大家拥抱meme就是因为二级高fdv开盘浇给，用户根本赚不到钱。
+>  
+> 轮转到今年成了meme一段猛p，二段迅速浇给，用户赚不到钱。接替meme的自然是前阵子低fdv开盘的alpha上新，还背靠币安这座天然大山，流动性太充沛了。
+>  
+> 到了这两天全都变成极度高开。
+>  
+> 按照现状，alpha还能持续多久？还能持续下去吗？
+>  
+> 不知道，得靠市场先生自己去修正和币安调整策略。
+>  
+> 一直高开的话，和去年又有什么区别呢
+
+## 97. Sep 28, 2025 · 10:49 AM UTC · 1972252351953342767#m
+- 链接：https://twitter.com/0xcrypto_max/status/1972252351953342767#m
+- 作者：@0xcrypto_max
+
+> 简单给大家介绍一下最近发现的alpha项目AA
+>  
+> 1.项目定位：第一个全域全链的 ai copilot 系统，改变用户和 onchain 的交互形态，是bsc 第一个这样定位的项目
+>  
+> 整个生态做的也很强，和已知大公链bsc，arb，berachain，manta，taiko 等 20 多条链都在合作；还和众多 bn 明星项目的合作chainbase、orbiter、unibase、animoca、trustamocaverse 等 30 多个一线项目都在合作
+>  
+> 2.融资：
+> 领投主要红杉红点，animoca在投
+>  
+> 3.亮点：
+> bnbchain官方最近有在annouce，加上在刷交易量，是有合约预期的
+>  
+> 价格挺稳的，大盘暴跌插针，低位震荡，AA在攀升，这里可以看出狗庄是在护盘和拉盘的，估计就是奔着合约上的
+>  
+> 我看土澳、enheng、yueya这些bnb的大车头也都在车上，并且都看好，项目方资源和实力双双在线，非常顶
+
+## 98. Sep 26, 2025 · 12:37 PM UTC · 1971554795925496162#m
+- 链接：https://twitter.com/0xcrypto_max/status/1971554795925496162#m
+- 作者：@0xcrypto_max
+
+> 感谢 @okxchinese @Mercy_okx 的邀请，视频太cool了！
+> 期待在token2049见到大家😘
+
+## 99. Sep 25, 2025 · 8:40 PM UTC · 1971313885157470454#m
+- 链接：https://twitter.com/0xcrypto_max/status/1971313885157470454#m
+- 作者：@0xcrypto_max
+
+> 说白了你就是p多了，典型的安卓脑袋，算这个算那个，算狗庄拿了多少筹码，算他还有多少拉盘资金。
+>  
+> 大叙事到的时候还在那算算算，这辈子都给你算没了，trump你在算，aster你在算，算到最后一个没拿到结果。
+>  
+> 感谢@Web3Dc888 老师，跟老师打了个电话把我打醒了，让我专注叙事本身，今年最大的叙事就是稳定币、RWA，而且还是泰达亲儿子，再看到@Michael_Liu93 麦总发推，@timotimo007 天总tgcall了，兰姆老大按头@0xCryptoWing 逻辑更清晰了，0.9紧急追车。
+>  
+> 打电话前我还在那算有多少抛压，太抽象了，甚至0.77价格还在那空，简直神人。
+>  
+> 预期都是1.5、2，那我不必做到100分，85分即可，所以1.2这里止盈一大半了。二级目前比一级流动性好太多，吃一个当吃十几个土狗，还是那句话，去鱼多的地方打渔。
+>  
+> 后边很多消息会在tg里放着，这段时间推特多少有些乌烟瘴气，挂个tg吧，想进的可以进：
+> t.me/tovalhalla2025
+
+## 100. Sep 24, 2025 · 5:50 PM UTC · 1970908643416772636#m
+- 链接：https://twitter.com/0xcrypto_max/status/1970908643416772636#m
+- 作者：@0xcrypto_max
+
+> 重生之在群里发ca cz秒转发
+>  
+> 感谢你HAO总 @0xHa0 fomo我，晚一秒就没吃到了
+>  
+> 就是有个事很奇怪啊，很多老鼠仓在这之前就进了，这些地址也在cz发推前没多久就买了ass，giggle等
+>  
+> 这些还好，主要是你们有点格局好不好…
+> 大表哥一发推你们就浇，搞得上限最多3m，起码弄个10m抬一下上限吧。
+>  
+> 算了，不抱怨这么多了，适应环境吧。alpha现在才是流动性最好的地方，去鱼多的地方打鱼。
+>  
+> 想进群走OKX MAXMAX666邀请码即可，返最高的20%。
+
+## 101. Sep 23, 2025 · 8:02 AM UTC · 1970398308062634347#m
+- 链接：https://twitter.com/0xcrypto_max/status/1970398308062634347#m
+- 作者：@0xcrypto_max
+
+> 还不懂的话那就真不懂了
+>  
+> 上几个这样一直奶的是：tst、白布
+> 而且现在，有了aster的神盘预期，以及降息，alpha小牛。
+>  
+> higher
+
+## 102. Sep 23, 2025 · 6:47 AM UTC · 1970379485200732390#m
+- 链接：https://twitter.com/0xcrypto_max/status/1970379485200732390#m
+- 作者：@0xcrypto_max
+
+> 关于giggle，有很多反常现象：
+>  
+> 1. cz直接发帖的meme长文不多，tst、西兰花、mubarak，其他的大多都是回复。
+> 2. cz正面夸赞的meme这应该是第一个吧，加上慈善叙事，本身唯一性挺强的。
+> 3. cz置顶的顺序是：bnbchain-yzilabs-giggle-binance。
+> 那么，他的专攻对象就是这四个，所以giggle如果做成，利好bnbchain、giggle、binance。
+> 上一个做成的是aster，利好bnbchain、yzilabs、binance。
+>  
+> 不过也有几个想不明白的点：
+> 1.前排挺多身边朋友、kol的，筹码拿的都挺多，筹码会不会不健康。
+> 不过想了想，其实meme最开始不就这样吗。再说了，aster打造了的a9+a8完全证明了，管你拿多少，有钱，豪横。
+> 所以这一点我是很矛盾，想不明白的，可能是sol玩多了，农民思想吧。
+> 2.交税怎么上所呢？
+>  
+> 以上是想不明白的点，也是分歧的点，拥抱分歧吧，至少在我这里看，反常远大于利空。
+
+## 103. Sep 22, 2025 · 5:27 AM UTC · 1969997050235470060#m
+- 链接：https://twitter.com/0xcrypto_max/status/1969997050235470060#m
+- 作者：@0xcrypto_max
+
+> 感谢麦总@Michael_Liu93 感谢Boundless @boundless_xyz 祝麦总和boundless都拥有apple人生，这部小米17pro我就收下了。
+>  
+> 早上起床看到一堆艾特，我以为天塌了，错过川普了。点进去发现都在骂我就放心了，没想到自己竟然抽到了，之前一直是抽奖绝缘圣体，还是第一次中。
+>  
+> 简单介绍下boundless：
+> @boundless_xyz 专注零知识证明，而无需重新执行计算，从而提升速度、安全性和隐私。
+> 项目团队于 2022 年创立，目前有自己的代币 ZKC，在 Binance 等平台上线，用于 staking、治理和奖励证明者（provers），社区非常活跃。
+
+## 104. Sep 18, 2025 · 7:19 PM UTC · 1968756704591626311#m
+- 链接：https://twitter.com/0xcrypto_max/status/1968756704591626311#m
+- 作者：@0xcrypto_max
+
+> 这两天不好受啊，好多机会没把握住，刚从sol转赛道，转型期真的有点痛。
+>  
+> 不过也想明白了，即便0.24买avnt，我也不知道它能上bn；即便0.15猛追aster，我也只能看到0.2出头。归根到底，还是自己认知层次的问题。
+> 不必要难受，觉得这就是自己的机会，那是犯了贪痴嗔，看不懂就是看不懂，争取这次复盘好，下次看明白就好了。
+>  
+> 我也还年轻，今年刚20，翻了下推特，去年11月15左右才开始记录，到现在入圈10多个月。慢慢来，该焦虑焦虑，但是别乱了理智。
+>  
+> 放个频道，不喊单，只做记录，只发牢骚，没啥实际用途。
+> t.me/tovalhalla2025
+
+## 105. Sep 18, 2025 · 8:21 AM UTC · 1968591264716107929#m
+- 链接：https://twitter.com/0xcrypto_max/status/1968591264716107929#m
+- 作者：@0xcrypto_max
+
+> 0.5开，不玩。玩个捶
+
+## 106. Sep 18, 2025 · 6:51 AM UTC · 1968568514962223513#m
+- 链接：https://twitter.com/0xcrypto_max/status/1968568514962223513#m
+- 作者：@0xcrypto_max
+
+> 前两天boundless给的空投换成iphone给大家抽，给群友抽了三个了，再给推上的粉丝抽俩个吧。给小伙伴发福利，群友监督绝不内幕公平抽，但只抽眼熟见过评论或点赞过的粉丝，撸毛的就别来了，想要户橙风iphone 17 pro的来一键三连吧😌
+
+## 107. Sep 18, 2025 · 6:09 AM UTC · 1968558036164935800#m
+- 链接：https://twitter.com/0xcrypto_max/status/1968558036164935800#m
+- 作者：@0xcrypto_max
+
+> 上一版合约是错的，重来一遍。
+> 9/18 上线即alpha+合约组合拳 $AIA
+>  
+> 1.代币经济学
+> 总流通1b，开盘流通按照coinmarketcap给的，流通99.5m，也就是9.5%。
+> 按照CryptoTotem的总分配是：
+> 团队和顾问：23%
+> 社区池：30%
+> 生态基金：25%
+> 风险投资：14%
+> 流动性提供：8%
+>  
+> 2.融资情况
+> 两轮融资，第一轮seed 6m，第二轮stragetic5m，共计11m，领头是Vertex Venture和Web3.com Ventures。
+> Co-Founder是Selwyn Zhou，之前是中国顶级 AI（Granville、Blue Oak Capital、Mangrove Capital）的投资人。
+>  
+> 3.项目
+> DeAgentAI 是 Sui、BSC 和 BTC 生态系统中的 AI 代理基础设施，为 AI 代理提供链上无需信任的自主决策能力。旨在解决 AI 在分布式环境中的三个核心挑战：身份、连续性和共识，构建一个真正值得信赖的 AI 代理生态系统。
+>  
+> 4.上所
+> Alpha现货 UTC+8 16:00
+> Binance合约交易 UTC 16:30
+> Bitget现货 UTC18:00
+>  
+> 5.总结：
+> alpha+合约组合拳，并且是sui上最大的AI基建，值得注意。
+> 盘前价0.4，fdv 400m，流通市值38m，是有些高了，开盘前没办法做策略，开盘根据情绪进场。
+> 只能劝大家，做空一定不是个好选项！
+>  
+> 另外，走binance网页端交易alpha代币只需要0.01%，欢迎大家走我链接：web3.binance.com/referral?re……
+> 邀请码：V7OK3QBL
+>  
+> 走了以后可以私信我入群交流，目前群聊战绩：
+> 开盘0.24买的avnt
+> aster昨晚0.16公开喊追，今天到0.4
+> ASP0.17喊
+
+## 108. Sep 17, 2025 · 2:53 PM UTC · 1968327577208242564#m
+- 链接：https://twitter.com/0xcrypto_max/status/1968327577208242564#m
+- 作者：@0xcrypto_max
+
+> 发现女王锁推了，转不了。
+> 再转一次咯。
+
+## 109. Sep 17, 2025 · 12:41 PM UTC · 1968294185183920262#m
+- 链接：https://twitter.com/0xcrypto_max/status/1968294185183920262#m
+- 作者：@0xcrypto_max
+
+> 这个位置建仓了 $ASP
+> 被低估的
+> 没被发掘的
+> 空间挺大
+
+## 110. Sep 17, 2025 · 8:51 AM UTC · 1968236310637973732#m
+- 链接：https://twitter.com/0xcrypto_max/status/1968236310637973732#m
+- 作者：@0xcrypto_max
+
+> 9/17 Alpha上新 $MAIGA
+>  
+> 1.代币经济学
+> MAIGA总量十亿，oMAIGA总量十亿。
+> oMAIGA设计比较有意思，为了防止抛压过大，内部人士拿的都是oMAIGA，只有随着交易量的增长，oMAIGA，才会逐渐转化成MAIGA。
+>  
+> 具体机制如下：
+> 解锁条件：基于累计交易量达到100亿BNB（约80亿美元）时，100%的oMAIGA可解锁为MAIGA
+> 激励对齐：35%总供应量（3.5亿oMAIGA）专门奖励TGE后的MAIGA交易者 phemex
+> 反倾销设计：内部人士只获得oMAIGA，消除TGE时的抛售压力
+>  
+> 开盘流通28%，社区份额占2%，@Namiskr alpha调研高手007深入社区观察，讲英文的多，社区活跃。
+>  
+> 2.融资情况
+> Amber Group、Red Beard领投，两轮融资，第一轮2M，第二轮2M，共计4M
+> Co-Founder Victor JW Lee。国人团队。
+>  
+> 3.项目：
+> Maiga是一个去中心化AI代理平台，专注于加密货币交易和DeFAI领域。该项目以"Make AI Great Again"为口号，采用创新的"交易证明"（Proof of Trading）代币模型，旨在将AI智能体与DeFi生态系统深度结合。
+>  
+> 4.上所：
+> Binance Alpha（未知）
+> Gate：380万MAIGA（0.29%）
+> KuCoin：320万MAIGA（0.25%）
+> MEXC：200万MAIGA（0.15%）
+> 【以上数据由ai搜集】
+>  
+> 5.合约：0xcd1679f117e81defc4f0009311ddc23fc1ae4a5e
+>  
+> 6.总结：
+> 上线以后抛压在社区手上2%，alpha 0.5%-1%，筹码流通是高控。
+> 由于其独特的解锁方式，低开会考虑进场，高开则后续不再观察。
+
+## 111. Sep 16, 2025 · 12:34 PM UTC · 1967929983030137270#m
+- 链接：https://twitter.com/0xcrypto_max/status/1967929983030137270#m
+- 作者：@0xcrypto_max
+
+> 感谢no群！天天在群里fomo portals，Gemshots绝对是中文区质量数一数二得顶尖群，有能力的欢迎私信帅比NONO @0xNoNo_1
+>  
+> @0xCryptoFries 沟槽的薯条，fomo怪兽，链上0.28，bitget0.18，啥都没说，也不说能不能提现，电话里0.18价格直接电话让我all。
+>  
+> all完发现提现套利不了，给套了，慌得要死吗，还好薯条一直说别卖，别卖，再卖把你手剁了。
+>  
+> 最后0.247走了，这算套利吗？套了37%。
+>  
+> 真是刺激 @Normanrockon @0xCryptoFries ，好玩，下次还连麦冲。
+
+## 112. Sep 16, 2025 · 8:19 AM UTC · 1967865994967502860#m
+- 链接：https://twitter.com/0xcrypto_max/status/1967865994967502860#m
+- 作者：@0xcrypto_max
+
+> bonk最近真得注意一下了，和wlfi合作前边只是简单预热，现在开启正式环节，三方联动（bonk+wlfi+raydium）+真金白银投入
+>  
+> 1.Campaign 核心机制：
+>  
+> 交易usd1手续费会返还，这笔手续费由wlfi自己额外承担，这个操作直接提升了usd1的购买力，当时bsc生态最火热的时候就是引入usd1，700m的B，还有好多个100m以上的beta，都是那个时候出来的，所以很明显，这是巨大的阳谋，先信先吃肉。
+>  
+> 2.目的：
+>  
+> 如果站在wlfi和bonk角度想，既然真金白银掏出来还手续费了，那么如果单纯只做这个操作，必然是亏本的，而后续看他们前期的预热，必然是还有很多手牌没打出来的，只需要想清楚，准备，等待，下注即可。
+
+## 113. Sep 15, 2025 · 6:09 PM UTC · 1967651969251922368#m
+- 链接：https://twitter.com/0xcrypto_max/status/1967651969251922368#m
+- 作者：@0xcrypto_max
+
+> 今天直播币基本缓拉大砸，不知道有多少朋友们今天赚钱了，我是没咋玩的，因为实在下不去手。
+>  
+> 我是感觉，直播币，和名人币区别不会很大吧，本质都是依赖一个人的背书。
+>  
+> 除非有机制创新可以打破这种僵局，或者是有很好的直播平台币（直播平台币的好处是可以有多个主播，多点开花，带动面），否则真的很难找到理由让我下手。
+>  
+> 先防守一波了。
+
+## 114. Sep 15, 2025 · 12:15 PM UTC · 1967562908696825865#m
+- 链接：https://twitter.com/0xcrypto_max/status/1967562908696825865#m
+- 作者：@0xcrypto_max
+
+> OKX Boost牛逼！上期linea单号几百u，千u收益。
+>  
+> 这期更是来个王炸项目，buidlpad上的Lombard，预计又有不小收益。
+>  
+> 真实交易以及批量刷，我还是推荐使用OKX，毕竟现在有OKX Boost激励，而且还是安全系数最高级的钱包。
+>  
+> 按下图的OKX Boost来算，如果平均交易量2000刀，会损耗260刀，走了我的邀请码 MAXMAX666（最大返回），可自返20%，节省了60刀，并且前几天群聊刚清了些人，走我邀请码私信我以后就可以进群。
+
+## 115. Sep 15, 2025 · 8:21 AM UTC · 1967504052033651194#m
+- 链接：https://twitter.com/0xcrypto_max/status/1967504052033651194#m
+- 作者：@0xcrypto_max
+
+> 果然拉了啊，昨晚说起飞是迟早的事，今天立马就起飞了。
+>  
+> 一下拉四十个点，凯哥和比特齐alpha赛道太牛逼了 @kaikaibtc  @Web3Dc888 。
+
+## 116. Sep 15, 2025 · 6:22 AM UTC · 1967474009601352006#m
+- 链接：https://twitter.com/0xcrypto_max/status/1967474009601352006#m
+- 作者：@0xcrypto_max
+
+> 恭喜max！第一次调研alpha项目就买中上币安的币！
+> 说实话，上币安完全想不到。
+>  
+> 以及，我特么早卖了！恭喜个蛋蛋恭喜😭
+> 不过这样看，alpha是能玩的，继续研究。
+
+## 117. Sep 14, 2025 · 5:59 PM UTC · 1967287157074362646#m
+- 链接：https://twitter.com/0xcrypto_max/status/1967287157074362646#m
+- 作者：@0xcrypto_max
+
+> 喵的，alpha再介绍一个人 @Web3Dc888 ，太牛逼了，今天跟他面对面交流。
+>  
+> 推了三个项目，一个xpin，一个pop，两个全部晚上起飞了。还有一个预言机赛道的，起飞感觉也是时间问题。
+>  
+> 比特齐老师思路太清楚了，狗庄成本，拉了赚多少，这个位置掏下去狗庄亏多少，全部算的清清楚楚，数据流大神。
+
+## 118. Sep 14, 2025 · 4:55 PM UTC · 1967271058387734746#m
+- 链接：https://twitter.com/0xcrypto_max/status/1967271058387734746#m
+- 作者：@0xcrypto_max
+
+> 不看好不代表不能玩 今天流动性太好了 情绪在这
+
+## 119. Sep 14, 2025 · 4:43 PM UTC · 1967267851989025033#m
+- 链接：https://twitter.com/0xcrypto_max/status/1967267851989025033#m
+- 作者：@0xcrypto_max
+
+> 直播币目前不是很看好，跟名人币感觉没什么区别，如果一个币的价格是依赖一个人的表现来决定，在我眼中不算好币。
+>  
+> 不过还有别的情况，如果直播币多点开花，共同飞升，并且有个平台的话，那么好币就是平台币。对的，指的是pump。
+>  
+> 另外预测市场会结束吗？我觉得不会，很多事情其实都很反常，事出反常必有妖。买了点 $polyfacts，建仓一半了，倒是不着急买完，这几天直播赛道火爆，注意力不在这，慢慢买吧。
+
+## 120. Sep 14, 2025 · 3:17 PM UTC · 1967246233778761825#m
+- 链接：https://twitter.com/0xcrypto_max/status/1967246233778761825#m
+- 作者：@0xcrypto_max
+
+> @_portals_  好多人在问是哪个，官推是这个
+
+## 121. Sep 14, 2025 · 11:07 AM UTC · 1967183445240783334#m
+- 链接：https://twitter.com/0xcrypto_max/status/1967183445240783334#m
+- 作者：@0xcrypto_max
+
+> 介绍一下Portals，即将上线了。
+>  
+> 在这之前，先得了解Portals的beta，$CHRONO。作为beta，为alpha预热，从七月开始慢拉，底部上来已经拉了5倍了，前几天有个韩国kol喊了 Portals + $CHRONO，直接把CHRONO从4m喊到8m。
+>  
+> 再回过头来了解母币Portals，Portals是做什么的：
+> 简单来说，代币机制类似于Virtual，但提供的工具更强大，基本就是memecoin2.0，相当于Virtual+pumpfun的结合，真正的机会在于正确地做娱乐加密，就是Portals正在做的事情。
+> 具体有：
+> 1.中心活动区：包含交易大厅、赌场游戏，以及游戏化的代币
+> 发行。
+> 2.庞大流量：在代币发行活动期间，Portals Hubworld 可获得数十万访问量。
+>  
+> 是Web3版的Roblox，可以做的事情非常多，功能基本都集结在一起了，可以发币，发行agent，发游戏。
+>  
+> 是SOL链上第二大的nft市值平台，年交易量都超过20m，ARR同比增长 400%，并且投资背景非常硬，熟悉的Solana Ventures、Foundation Capital、Multicoin、Greylock，这些顶级VC机构都在。
+>  
+> 顺便研究了一下，当时90m美金的预售11s打满，大户都很fomo，而且还有3500sol的融资规模，基本大家都盯着打的，还有超过10000人在候补名单，等待下次代币发行。
+>  
+> 最后说说预期：
+>  
+> 在Portals上，流量是巨大的，代币发行期间，单是Portals Hubworld就可以获得几十万浏览量，在目前crypto市场，注意力就等于经济，可以想象的空间非常大。
+>  
+> 短期预期是超越Virtual，毕竟创作者工具+启动盘都比Virtual好太多。
+> 中期预期是直接吸收sand还有mana的市场，这两个平台表现挺糟糕的，Portals的营收每年都有超过数百万美金的收入，并且团队十分优秀，是个聪明的团队在主导。
+> 长期预期是替代RON和IMX市场，真正实现成为WEB3的Roblox。
+
+## 122. Sep 14, 2025 · 5:02 AM UTC · 1967091487004561469#m
+- 链接：https://twitter.com/0xcrypto_max/status/1967091487004561469#m
+- 作者：@0xcrypto_max
+
+> alpha行情乱飞，很多新入圈的不知所措，战场从一级转到二级，推荐几个博主给大家。
+>  
+> 在我这有且只推荐一人@kaikaibtc 不马后炮，观点鲜明，哪里买，哪里卖，带止损，都写的很清楚。
+> alpha这里信息差还是很多的，很多alpha赛道的kol基本东西也只写一半，藏得比较深。
+>  
+> 新入圈的可能不太了解凯哥，入圈即a8，之前aicoin榜一，现第三，kaito记录收益榜第一的男人。
+>  
+> 下面是0xcult @0xgangWhat 对凯哥的采访👇。
+
+## 123. Sep 13, 2025 · 1:41 PM UTC · 1966859826153349606#m
+- 链接：https://twitter.com/0xcrypto_max/status/1966859826153349606#m
+- 作者：@0xcrypto_max
+
+> 漏嘉宾了！：@Alieneth99
+
+## 124. Sep 13, 2025 · 12:31 PM UTC · 1966842054929203341#m
+- 链接：https://twitter.com/0xcrypto_max/status/1966842054929203341#m
+- 作者：@0xcrypto_max
+
+> 继上次轰趴聚会后，这次潜水老师 @connectfarm1 包场酒吧，让大家再次齐聚一堂。
+>  
+> 收获很多！隔一段时间大家交流一下可以学习到很多。比如买了点Xdog，回去路上和@0xHa0 @0xWilllove 一直喊梭哈Xdog，早上起来果然有福报；学习到很多a9+（包含以上）过来时的经验，现在在做什么，以及后边的战略方向。
+> 活动很好，下次还来，继续学习！
+>  
+> 本次嘉宾（排名不分先后）：
+> @mia_okx @BlueV1007 @kaikaibtc @vvxiaoyu8888 @0xJustdu @cryp_orange @0x_KevinZ @cherria_okx @Sandlily163 @Haiteng_okx @Normanrockon @0xgangWhat @lizmoneyprinter @Web3Dc888 @0xWilllove @0xHa0 @ClaraChengGo @JoeyJia11 @hezhu0564 @ethDESON @marosupply
+
+## 125. Sep 12, 2025 · 8:53 AM UTC · 1966425015697686623#m
+- 链接：https://twitter.com/0xcrypto_max/status/1966425015697686623#m
+- 作者：@0xcrypto_max
+
+> 什么？金融计量学上着上着发呆了，铃铛一响，把我惊醒，一看有iPhone17 air抽，天总发福利了！快去抽
+
+## 126. Sep 11, 2025 · 12:41 PM UTC · 1966119966958387567#m
+- 链接：https://twitter.com/0xcrypto_max/status/1966119966958387567#m
+- 作者：@0xcrypto_max
+
+> 原先我是专注研究一级市场的，前几天发了alpha项目调研和观点，市场上刚好有在讨论，这样的行为是不是对的，说下我的观点：
+>  
+> 1.前几天看得懂，市场情绪正常，项目价格和alpha壳子价格差不多，低了就买入，高了就卖，调研好融资，流通量，背景，基本面，才下注的，只做自己看得懂的事情。
+>  
+> 2.这几天看不懂，承认自己看不懂，市场过于fomo了，很多项目不值这个价格的，像linea，说白了，就是个垃圾项目。但是价格一直在涨，反复爆空。
+> 已经开始脱离投研了，演变成庄和散户在搏杀，胜率会变低，要承认自己的弱小，散户大部分情况下斗不过庄的。
+> 做空myx的发财了吗？做多myx的发财了吗？或者说，做多myx发财的有几个呢？
+
+## 127. Sep 9, 2025 · 4:08 PM UTC · 1965447287603429802#m
+- 链接：https://twitter.com/0xcrypto_max/status/1965447287603429802#m
+- 作者：@0xcrypto_max
+
+> 好的，$avnt 首战告捷，挺好玩的，只吃了开盘的两倍，没吃到空的部分。
+>  
+> 有两个点注意：
+>  
+> 第一是，链上0.4，gate0.6，差价0.2，凭空多了一亿市值，完全给机会了。可惜的是kyc要升级，当时在开会，身上也没带身份证。应该提前准备好的，这波知行不合一，要好好复盘了。
+>  
+> 第二是，需要灵活变通，策略得做全。玩新币既要有多的思维，还要有空的思维。原本打算开盘现货买进去，持币待涨就好。但是拉这么急，市值明显偏高，加上链上和交易所差价，立马就想打钱去空了。
+>  
+> 最后，链上和alpha上新我都会持续更新，不断学习，当前感觉在版本转换期中，对所有东西都不能带有偏见。
+>  
+> 并且一切交易，都由数据去辅助决策，不要意淫，不要意淫，不要意淫（说给我自己听的），所以每次做决策我都会发推记录数据，也是在提醒我自己！
+
+## 128. Sep 9, 2025 · 2:10 PM UTC · 1965417471650976181#m
+- 链接：https://twitter.com/0xcrypto_max/status/1965417471650976181#m
+- 作者：@0xcrypto_max
+
+> 我能说啥🤷，多空双吃。
+>  
+> 但是这个gate我真是服了，我第一次用，kyc审核还没过完它就暴跌。
+>  
+> 看群友吃肉了。
+
+## 129. Sep 9, 2025 · 7:07 AM UTC · 1965311190772711793#m
+- 链接：https://twitter.com/0xcrypto_max/status/1965311190772711793#m
+- 作者：@0xcrypto_max
+
+> alpha $avnt 简单研究：
+>  
+> 1.代币分配：
+> 总量1b，流通200m，流通20%，盘前0.2多波动，对应流通市值50m左右
+> a. 空投：12.5%
+> b. 机构：26.6%
+> c. 团队：13.3%
+> d. 生态激励：9%
+> e. 社区：28.6%
+> f. 基金会：4%
+> g. 流动性：6%
+>  
+> 2.融资情况：
+> Pantera Capital、Founders Fund领投，Base Fund也有投资。
+> 总共两轮融资，第一轮融了8m，第二轮融了4m，共计12m。
+> 融资12m，机构代币分配26%，即分配260m个代币。
+> 每个代币融资价格为：总融资/代币数量=12m/260m=0.046$。得机构成本价为0.046$。
+>  
+> 3.空投分配
+> 12.5%一次性在北京时间22.全部解锁，参与者也可以选择质押，只需质押18个小时，可额外领35%的代币。
+> 也就是说，质押18h以后，如果代币跌幅小于26%，质押者就是赚钱的，反之。
+>  
+> 4.上所（北京时间）
+> 币安alpha（首发）：9.9 21:00
+> Kucoin、Bybit、Gate：9.9 22.00
+> 币安合约：9.9 23:00
+>  
+> 5.代币合约0x696f9436b67233384889472cd7cd58a6fb5df4f1
+>  
+> 6.预期
+> 由于空投12.5%的抛压大，表现大概率不如昨日的open，可以调低预期。
+> 不过空投12.5%虽然抛压大，但由于质押规则，使其不确定性增强，博弈升级。
+> 具体要看开盘表现，开盘如果守的住抛压，进行护盘，质押人数会增多，流通减少；开盘表现如果差劲，一泻千里，易形成踩踏。
+
+## 130. Sep 8, 2025 · 1:25 PM UTC · 1965043733805912326#m
+- 链接：https://twitter.com/0xcrypto_max/status/1965043733805912326#m
+- 作者：@0xcrypto_max
+
+> 第一次bn alpha看不懂，这次OKX Boost看懂了，收益还可以，OKX这波节奏太好了。
+>  
+> 不过很奇怪的是，今天跟朋友们讨论这件事，不约而同地都说手续费实在太贵了，不愿意去刷。现在来看，不仅手续费全部回来了，并且还获得超额收益。对于我这种喜欢多钱包玩的，更是舒服。
+>  
+> 想到了奶子哥当时玩bn alpha的一句话，“真的，做人，别小钱看不上，大钱没能力赚，然后瞎几把赌博，还怪自己时运不济运气不好”。
+>  
+> 最后，OKX wallet走我邀请码刷boost：MAXMAX666，自动返20%手续给大家，相当于只用0.69%手续费，折上加折。磨损降低的同时，还能撸毛刷OKX Boost。
+
+## 131. Sep 8, 2025 · 12:07 PM UTC · 1965024243693105472#m
+- 链接：https://twitter.com/0xcrypto_max/status/1965024243693105472#m
+- 作者：@0xcrypto_max
+
+> X launch即将上线！，盯住了
+
+## 132. Sep 8, 2025 · 12:02 PM UTC · 1965022827167547775#m
+- 链接：https://twitter.com/0xcrypto_max/status/1965022827167547775#m
+- 作者：@0xcrypto_max
+
+> 非常期待X Launch第一期上线！
+
+## 133. Sep 8, 2025 · 9:11 AM UTC · 1964980013373300946#m
+- 链接：https://twitter.com/0xcrypto_max/status/1964980013373300946#m
+- 作者：@0xcrypto_max
+
+> 需要更新迭代，拒绝路径依赖。
+>  
+> 回过头来看，撸毛的博主90%已经没声，nft的博主90%已经没声，defi的博主90%已经没声。
+>  
+> 转型成功的少之又少，但积极转型、拥抱新东西、努力学习的，很多拿到大结果了。
+>  
+> 玩有创新的东西，玩可以承接流动性的东西。哪里简单去哪里。在一个上涨周期的赛道卷是出路，在一个衰退周期的赛道卷是死读书。
+>  
+> 不要用战术上的勤奋，掩盖战略上的懒惰。
+
+## 134. Sep 7, 2025 · 3:43 PM UTC · 1964716284723269883#m
+- 链接：https://twitter.com/0xcrypto_max/status/1964716284723269883#m
+- 作者：@0xcrypto_max
+
+> 这两天市场波动特别小，好安静。
+>  
+> 观察了一阵，有希望的两个机会是：
+>  
+> 1.card引领的rwa叙事
+> card的rwa让我见到了希望，以往的房地产、清洁能源上链让人实在看不到希望，价格难以被切割，并且单件价格过大，无法形成自下而上的全民参与。
+> 具体rwa模式大家可以看看lu老师引用的这篇，写得很全。
+>  
+> 2.X layer的地推盘体系。
+> 都说这段时间造富效应不强，但是反观地推盘体系，不论是bsc的千倍小拳头，还是JU，又或者是CP，又是独立于推特币圈的大牛市。
+> 再配合Dogshit出世，让人们想起曾经bsc被地推支配的恐惧，记起来大爷大妈的财力。
+>  
+> 在大主线没出来前，只能先fangshouyibo了。
+> 大主线出来以后，再fangshouyibo。
+
+## 135. Sep 5, 2025 · 10:01 AM UTC · 1963905291222974767#m
+- 链接：https://twitter.com/0xcrypto_max/status/1963905291222974767#m
+- 作者：@0xcrypto_max
+
+> 问了下gpt，右侧的交易：
+>  
+> 问：
+> 我的交易系统是，不喜欢左侧，喜欢做右侧确认，但是这里很矛盾，要做右侧的话，就要等启动才去追，所以我经常追高，可是一追高就是假突破，我如何解决
+>  
+> ChatGPT 说：
+> 你这个问题非常典型 👍 ——右侧交易者经常会遇到：
+> 等确认 → 价格启动了 → 追进去 → 假突破/冲高回落。
+> 不追 → 看着涨了 → 错过行情。其实，这背后是 右侧交易的核心悖论：确认带来安全感，但确认的代价就是更高的成本。
+>  
+> 我帮你梳理一下 解决思路：
+> 1. 重新定义“右侧确认”
+> 很多人以为“右侧” = 突破新高才进场，其实不一定。
+>  
+> 真正的右侧，是：
+> 趋势确立 → 在趋势中的 低风险点 进场。
+> 不一定非要等“突破买”，也可以等“回踩确认”。👉 所以，你的问题其实不是“右侧”，而是“过度依赖突破进场”。
+>  
+> 2. 解决假突破的 3 个工具
+> （1）成交量确认
+> 真突破：伴随放量（链上资金流入，成交量激增）。
+> 假突破：无量上涨，很容易被砸回。
+> 📌 建议：突破时一定配合量能/链上数据，而不是光看K线。
+> （2）结构回踩确认
+> 不要追在第一根突破K线。
+> 等它 突破 → 回踩 → 不破支撑 → 再起，再进场。
+> 📌 举例：突破关键阻力位 → 回踩站稳（成交量萎缩） → 下一波拉升 → 右侧进场更稳。
+> （3）分批建仓
+> 右侧确认后，别一次性满仓追。
+> 分两步：突破时小仓试探，确认站稳后再加仓。
+> 📌 这样即使是假突破，也只是小亏；如果是真趋势，你能把仓位加到合适。
+>  
+> 3. 风险管理思路
+> 设置“假突破止损位”：突破点下方一个支撑位，跌回去就果断止损。
+> 仓位管理：每次追突破的仓位不能太大，否则一次假突破就重伤。
+> 盈亏比预估：如果突破后空间不大，就不追；只追有至少 1:3 以上盈亏比的突破。
+>  
+> 4. 心态修正
+> 右侧交易不等于买最高点。
+> 真正的右侧玩家，重点是 顺大趋势，而不是“突破即追”。
+> 可以允许错过一部分行情，但确保每次上车时，盈亏比合理。
+>  
+> ✅ 总结：
+> 你想避免“追高 → 假突破”，可以这样做：
+> 用 量能/链上资金 过滤假突破；
+> 等 突破+回踩确认 再进，而不是第一根突破K线就梭哈；
+> 分批建仓+止损位，降低假突破成本；
+> 只做 大趋势下的突破，小级别假突破就忽略。
+
+## 136. Sep 5, 2025 · 5:18 AM UTC · 1963834183077543939#m
+- 链接：https://twitter.com/0xcrypto_max/status/1963834183077543939#m
+- 作者：@0xcrypto_max
+
+> OKX Boost上线了。
+>  
+> 没啥好说的，市场经历wlfi大吸以后，需要点恢复窗口。
+>  
+> 现在OKX给各种福利，第一波参与的大概率有肉吃。
+>  
+> 如何参与，先解读一下规则，按我的理解，大致分为两个模块：撸毛模块和交易模块。
+>  
+> 撸毛模块包含Giveaway，完成简单任务即可获得奖励。
+> Giveaway：学习并了解热门项目，符合资格的用户完成简单任务即可获得奖励。
+>  
+> 交易模块包含Xlaunch、交易量，Xlaunch是看交易量，交易量具体规则还没出
+> 1.X Launch：OKK DEX用户根据交易活跃度划分奖池。
+> 2.交易量：热门项目将不定期在 OKX Wallet 举办交易比赛，排名靠前的参赛者可共享奖池。
+>  
+> 两个模块对于交易者来说，都是顺手的事，人潮尚未拥挤，我先上了，等到人声鼎沸再开始，或许就晚了。
+
+## 137. Sep 4, 2025 · 5:33 AM UTC · 1963475516054192172#m
+- 链接：https://twitter.com/0xcrypto_max/status/1963475516054192172#m
+- 作者：@0xcrypto_max
+
+> 所以我们是天天给他浇给吗🥺
+> 我不愿意承认
+
+## 138. Aug 29, 2025 · 9:57 AM UTC · 1961367583208419746#m
+- 链接：https://twitter.com/0xcrypto_max/status/1961367583208419746#m
+- 作者：@0xcrypto_max
+
+> 这是一篇关于 $SPARK（5zCETicUCJqJ5Z3wbfFPZqtSpHPYqnggs1wX7ZRpump） 的操作复盘。这个币出来到现在已经快一个月了，之前的习惯是，不全部出完之前不会写复盘，因为一方面出到一半就复盘有一种『半场开香槟』的感觉，另一方面，一个币真正想赚到above average 的收益，卖是比买更难，也更重要的一环。现在小号出干净了，大号也开始出货了，这个币也基本进入一个新阶段了，这里来复盘一下过去二十多天自己所有操作的逻辑，也欢迎各个链上高手指正交流。对于想要深入阅读的朋友，可以结合 K 线以及我的钱包操作来参照理解。
+>  
+> # 第一阶段（8.5 15:00~8.6 19:00)
+> $SPARK 的第一阶段是从最开始币的发射，到官方账号宣布澄清$SPARK 与其产品无关的阶段。这一阶段的特点是：1. 认知上，所有人的认知都是当做其为一个纯蹭盘来玩，并且存在一部分人在押注其被官方『认证』的预期。2. 叙事上，还不存在对标『GOAT』的预期，因为彼时 Fischer 还没有把自己的账号交给 SPARK 来发帖，大家对其的对标停留在 CPUTER 等先前的币。3. 平台角度来说，当时 Bonk 上 Ani 引发的『热点盘』扫链浪潮还没完全褪去，大家本来的认知还是在Bonk 玩这类盘子。所以当 Pump 横空出世了这样一个盘子（并且 BAGS 和 Bonk 的同名盘子都被同一个人拿到了大比例筹码，限死了别的平台分流的上限）的时候，会有一种『这是 pump 为了争抢流量』的反击行为的感觉。
+>  
+> 我看到的时候比较晚，毕竟已经不扫链很久了，第一次上车的点位是在2.4M（8.5 18:28），买了0.17%的货。主要原因是，基于以上几点分析，我得出的结论是，$SPARK至少在短期内（消息面不变的情况下）可以对标 CPUTER 的市值，也就是10M 附近，赔率是很好的。另外，在那个时候，pump已经很久不存在『最高市值为2~5M 』的盘子了，这一点可能比较难理解，我换个说法，这意味着，一个盘子如果破了某一个上限（2M），那么就有极大概率进入另一个更高的价格区间（10M），同样的逻辑适用于我当时 Ani 二段追的时候，当时的逻辑就是，Bonk 的热点盘，几乎不存在最高值为3M~的区间的。背后的原因自然就是所谓的『有庄』，但是这是一个可以仅仅凭借价格得到的信息，这得益于 meme 市场的无效性。
+>  
+> 买入的逻辑基本就这些，出货的逻辑就是分批出货，基本原则是在心理价位之前出货降低风险，在心里价格附近出货 take profit。只不过消息面的变化比预期来的迅速。当Illusion of Life 宣布澄清与 SPARK 的关系的时候(8.6 18:54)，基本宣告了第一阶段的结束。
+>  
+> 但是这里面还不算完，如果你去回顾这个消息出来之后的 K线的话，会发现它并不是在短时间快速归零的，而是分别在8M 和5M 附近进行了各2~3小时的横盘，然后再伴随着快速的下跌。这是因为，消息面出来的时候，跑的最快的是散户，而庄家往往不会在第一时间进行反应（除非掌握消息面的释放节奏），反之亦然。如果你去回顾$RFC 在2M 左右的时候我卖飞的那个点位，就会发现，真正的暴涨发生在马斯克发帖之后的10分钟（虽然后面RFC 的时间差越来越短），Ani 在早期也有类似的现象。这里仅仅阐述客观现象，背后的原因大家可以寻求自己接受的解释。
+> # 第二阶段（8.7 8:00~8.7 23:00)
+> 这一阶段的市值基本在2~3M 附近徘徊，出现了相较于之前时间很长的横盘，但这很可能不意味着什么，比如是在吸引不甘心的散户抄底从而增加退出流动性，或者单纯就是价值回归（毕竟一个『没有承认预期』的蹭盘，对于 SPARK 这样一个项目来说，2~3M 也算一个比较合理的估值），我没有选择在这个地方抄底，因为基于当时的消息面，这个地方进行买入的赔率很差。
+>  
+> 但是继续回顾，在第三阶段（见下文）霸占很长一段时间榜一的某人，仓位基本全都是在这个位置抄底得到的，这个其实就是一个对于『庄家一定程度掌握消息面』的一个暗示，但是到底多大程度掌握消息面，在这个时候还没有办法判断。
+> # 第三阶段 （8.7 23:00~8.22 6:00)
+>  
+> 这一阶段的消息面发生了一些变化：创始人 follow back 了 Alon，这给了大家新的期望：『有了新的被承认的预期』。具体的剧情在那个时候全凭大家想象了。但是，问题在于，就算加上这样的期望，这个币的估值也应该仅限于前高附近（13M 左右），除非有什么『神秘力量』，当然，这是后话。
+>  
+> 我的大号以均价4M 接了0.25%的货（8.7 23:45)，小号以均价4.7M 接了0.27%的货（8.9 4:08）。这里时隔一天继续买是觉得基于之前的分析，价值还没体现到位，同时长时间横盘，需要买更多货。另一方面，当时 DNF 和 Ansem 的明牌持仓都不到0.5%，我*不能公开持仓比他们多*，这是最基本的规矩，虽然我很想用大号一次性装完这个 B，但是还是用了完全没有关联的新的小号接货，以规避可能的额外风险。
+> 然后就是比较戏剧性的时刻了，因为原本我的预期是不超过前高就走人，但是一觉醒来，$SPARK已经拉到了15M，这一定是因为有了新的增量资金进来，而我们的常识又是，很多人不会两次踏进同一条河流，也就是，如果基本面真的不变，对于同样流动性的市场来说，一个币是基本不会超过前高的，因为大家的注意力会被转移，而之前选择走的人也会有比他第一次进来之前更强的风险厌恶。因此，这个时候我非但没有主动出货，而是更加坚定地拿住了。这里强调主动出货是因为，我有一个三倍自动出本的挂单，忘记关掉了，一觉醒来发现这个挂单被触发了，以至于在我不想卖的时候卖掉了小号三分之一的货（差不多0.1%），然后那天白天我一直挂单想接回来这部分货，但一直也没有得逞，所以后面的总持仓量一直保持在0.4%。
+>  
+> 然后就是一个小插曲，也就是我这条推文提到的（localhost:8080/0xN10N/status/19541782…）。详细解释的话，是因为我大号小号都绑定了 bloom，然后查看持仓的时候，会有一个默认的 sell 100%的按钮，在点进币的操作页面的按钮旁边。稍微点歪了几个像素，结果把我两个号的所有货在一个块一次性砸掉了（即使我的现货钱包处于 off 的状态，仍然卖掉了所有号的货，不管是谁设计的这个逻辑，脑袋是真的有泡）。一瞬间当时砸掉了7wu 的货，直接从18M 砸到了13M，然后一瞬间又被机器人捡了尸体（也就是很多人平常下意识以为的『对敲』操作，只有亲身实验之后才知道，如果你只是一个普通的散户，在对盘面有很大的影响的情况下，也是会被同块接回来的），这个操作也不仅仅局限于卖。当我几秒钟之后意识到发生了什么，用大号一口气买回来四百多 sol 的时候，把针插到了21M，然后这些机器人又一口气卖掉。接下来的半个小时，我小号绝望地从17M 买到23M，终于补齐了原先的0.4%的总持仓，而代价是凭空损失了约60sol，这些都是小号当时 dollo 的利润。是非常心痛了。
+>  
+> 尽管上面的都还属于操作问题，但是我还是很满意我的知行合一的，因为我本来就没打算在这个位置出货，所以意外发生的时候，应该尽可能地想办法补救。我当时的预期是，既然有『神秘力量』在消息面没有任何变化的时候把盘子拉到了20M，那大概率是为了在一个更高的 base 去宣布某个利好。再结合之前可能的『庄家掌握消息面』的推测，我只能不计成本地尽快把货接回来。
+>  
+> 但是接下来几天，发生的事情大家就都有目共睹了，创始人的发言越来越暧昧，打 pump/Alon 的擦边球，但是一直就没有实质性的利好放出。另外，在这样消息面没有变化的时候，盘子拉到70M，又回去了。虽然我在这个过程中实现了一部分利润，但是基本原则都还是为了降低风险，高点25wu 的盈利也没走，不过说实话，再给我一次机会我也走不掉。
+>  
+> 另一个比较值得注意的时间点就是8.21的早上，kanye 突然宣布发了币，『吸血』了几乎所有的大市值币。这里『吸血』的底层逻辑是，一部分人链上并没有那么多现金，于是只能通过短时卖出其他的持仓的方式来冲 YZY；而另一部分人知道这个预期，所以避险出逃，以躲避下跌。我属于后者，但是同时又用小号在 YZY 基本达到最高点（3B 附近）的时候疯狂抄底，在 YZY 收网，其他币流动回归的时候将这部分套利的部分售出。这是属于消息面无关的确定性机会，因此，这轮操作之后，我凭空多了一些货，也凭空赚了1wu 左右，也算是补齐了之前 fat finger 导致的亏空。
+>  
+> # 第四阶段 （8.22 6:00~)
+>  
+> 这一阶段发生的事情大家就都有目共睹了。8.22 7:00开始的那次升浪来自于 $SPARK 这个币的版税收益地址的修改，而后面那次升浪来自于正式承认的消息。都属于简单的 sell news。但是如果说有不符合我预期的地方，那还是有的，比如：
+>  
+> 所谓的『庄家』掌握的不是消息释放的节奏，而很可能只是『有利好会释放』这一消息，否则如果其掌握节奏的话，对其收益最大的方式是在70M 附近宣布这个利好，而不是散户信心消失殆尽的后面。
+> 版税受益人为芝麻街，虽然这个 IP 足够大，但是芝麻街之后并没有对此做出回应。同时，另一个值得深思的问题是，如果受益人是芝麻街的话，那 Pump 团队到底是怎么和 SPARK 官方达成了利益输送，导致其改变自己的意见的，这点也一样，背后的原因大家可以寻求自己接受的解释。
+> 已经写了太长了，但基本能够分享的也就这些。注意，这只是一个基于自己操作逻辑的复盘总结，是装逼，是引流，而不是任何形式的 fomo，fud。我还有一部分仓位，但那都属于自由操作的范畴了。如果你能看到这里，我深感荣幸。如果你有别的问题，也可以尽管在评论区问我，我知无不言。
+
+## 139. Sep 1, 2025 · 6:51 AM UTC · 1962408064461811783#m
+- 链接：https://twitter.com/0xcrypto_max/status/1962408064461811783#m
+- 作者：@0xcrypto_max
+
+> $WLFI 今天晚上开盘，找机会进了一点仓位。
+>  
+> 1. 还是之前的观点，IDO解锁20%只要在0.25以上大概率会抛，IDO抽本是基础且必要的策略。因此选择在现货上线之前的半天里找入场点；
+>  
+> 2. 参考PUMP，开盘不一定像新币会马上暴跌，也可能先买量进入+锁仓空单的平仓，但因为巨量流通抛压存在，首周的价格会比较悲观，我是会看到$0.25以下甚至$0.2以下，抛压消化时间不确定，应该比PUMP快；
+>  
+> 3. 整体现货开盘的走势可能是 涨/跌/筑底/涨，或者跌/筑底/涨，无论如何他的生态地位在这，筑底后有一波拉升是必然的，最差的TRUMP MEME跌穿也会反弹，这里有一波比较明确的盈利机会；
+>  
+> 4. 另外有一点需要注意: 以后任何代币TGE前的套保慎用 hyperliquidity。(或者保留3倍以上的强平价)
+> 参考 $XPL 的下场，千万级美金的狙击资金去分钟级点灭空头，甚至连 $WLFI 这种级别流动性的都在8/27有一波20%价差，这是链上订单簿和价格锚定机制导致的；
+
+## 140. Aug 31, 2025 · 3:05 PM UTC · 1962169827797397687#m
+- 链接：https://twitter.com/0xcrypto_max/status/1962169827797397687#m
+- 作者：@0xcrypto_max
+
+> 枯麻了😢
+>  
+> 一天了，用OKX扫了下行情热门，除了EMULITES以外，没新东西出来。
+>  
+> 身边是fencun老哥200多k在吹哨 @Fencun_nft ，又给他抓到了，和当时抓ufd（去个400m）一摸一样的手法。
+> 关于fencun哥写的资金来源那章，大家真可以去看看。
+>  
+> 另外OKX可以补充下dev地址，以及dev发过的币吗。好像有bug，开发者这一栏什么都没显示。
+> @OKXWallet_CN @wallet
+
+## 141. Aug 31, 2025 · 11:20 AM UTC · 1962113214084501842#m
+- 链接：https://twitter.com/0xcrypto_max/status/1962113214084501842#m
+- 作者：@0xcrypto_max
+
+> 是这个号
+
+## 142. Aug 31, 2025 · 11:19 AM UTC · 1962113088712483252#m
+- 链接：https://twitter.com/0xcrypto_max/status/1962113088712483252#m
+- 作者：@0xcrypto_max
+
+> ok，牛逼，刚喷完两分钟把号给删了。
+
+## 143. Aug 31, 2025 · 11:15 AM UTC · 1962112097703321627#m
+- 链接：https://twitter.com/0xcrypto_max/status/1962112097703321627#m
+- 作者：@0xcrypto_max
+
+> 我反思你大爸，所有玩X layer的朋友们，都别玩他的项目，能救一个是一个。
+> 我跟身边的朋友们一起亏了几万刀在这个项目上。几万刀亏了没什么好说的，菜可以自己认，但是这个项目方行径实在恶劣。
+>  
+> 长话短说：
+> 这个项目方做的是燃烧币。燃烧机制没敲明白，留了后门，用户钱包也收不到燃烧币，造成第一波下跌。
+> 后面自己又自嗨拉了一波，发现拉不动了，出货浇给社区。
+> 随后发推再发一个Xburn2.0，并说明自己没有留后门，试图掩耳盗铃。
+>  
+> 第一次玩，终于体会到远古时期的p小将为什么要会看合约了，这次遭老罪了老乡。
+
+## 144. Aug 31, 2025 · 9:05 AM UTC · 1962079301089787931#m
+- 链接：https://twitter.com/0xcrypto_max/status/1962079301089787931#m
+- 作者：@0xcrypto_max
+
+> 我是建议大家在tg上单独设置一个fold看一些英区ct+中文区较为顶级的。
+>  
+> 这部分人员一定要，实盘a8以上，最好就实盘a9。
+>  
+> 多看些高手的发言，多学习，多模仿，久而久之，就能多少学到一点。
+>  
+> 推特也挂个list，专门刷这些人，处理干净、增强自己的信息流。
+>  
+> 比如这次大盘下跌，就形成鲜明的对比。随缘刷推遇到一堆跌了喊跌，牛市结束，技术形态进入熊市。
+> 而list里的，都是看9月回踩，健康回调，迎接降息。
+> 我们过几个月看看谁是对的👀，结果来证明。
+>  
+> 推的list还在补充，就挂在主页可以看到。tg的目前更需要补充！还有没有厉害的英区ct，求推荐！
+
+## 145. Aug 31, 2025 · 8:25 AM UTC · 1962069100488008098#m
+- 链接：https://twitter.com/0xcrypto_max/status/1962069100488008098#m
+- 作者：@0xcrypto_max
+
+> wlfi开盘在即，有个稳定的收益方式：
+>  
+> 去加wlfi大户群，开红包挂，多加几个，相信我，你会盆满钵满的。
+
+## 146. Aug 30, 2025 · 9:53 AM UTC · 1961729030656541098#m
+- 链接：https://twitter.com/0xcrypto_max/status/1961729030656541098#m
+- 作者：@0xcrypto_max
+
+> 刚好借住 $Eagle 捋清楚一下链上的思路，目前这两个区间是我的击球位：
+>  
+> 第一是掌握信息差。
+> 信息差的买入逻辑是：比大部人信息都快，那就上。
+> 信息差的卖出逻辑是：当消息传到大部分人耳朵里，那就卖。
+> 昨天 Eagle就属于第一种情况，早期传播链是：Tom-bonkguy-wlfi wallet-wlfi官方-pow-marcell，层层递进。
+> 我看到的时候是到wlfi wallet，由于这个账户大部分人不明白其重要性，所以我掌握了信息差，看到发了就上了。
+> 现在消息都传播出去了，加上并不是usd1作为lp pool，仓位就清了一些，只留了10%moonbag。
+>  
+> 第二是寻找被错杀的价值。
+> 这个很难定论，大家锚定东西不一样，同一件物品有人觉得贵，有人觉得便宜。
+> 而昨天wlfi+bonk浩浩荡荡地宣发他们回来以后，第一时间想的是bonk、GP，看到他们还处于熊市的位置，我认为价格是被低估的。
+> 一个开了低倍杠杆，一个买了现货，目前bonk合约仍然持有，GP已经卖出。
+> 理由是bonk没怎么涨，我觉得还是被错杀的，GP涨的有点多了，飞轮还没起来，属于情绪推动，后边再慢慢接回来。
+>  
+> 也都发群里了，群没什么门槛，走下我的OKX邀请码：MAXMAX 就好了，也不需要付费，还会给大家返20%。
+>  
+> 顺便在这里说明一下，由于手动返是违规行为，所以我申请改掉，变成自动返20%，拉到最满给大家。已经向OKX反应了，很快结果就会下来了。
+
+## 147. Aug 29, 2025 · 7:01 PM UTC · 1961504599292219426#m
+- 链接：https://twitter.com/0xcrypto_max/status/1961504599292219426#m
+- 作者：@0xcrypto_max
+
+> 已出本，睡觉，明天别归零
+
+## 148. Aug 29, 2025 · 6:28 PM UTC · 1961496265654767655#m
+- 链接：https://twitter.com/0xcrypto_max/status/1961496265654767655#m
+- 作者：@0xcrypto_max
+
+> bonk像只鹰一样回来了
+>  
+> $Eagle
+> 很性感的叙事，如果亏了，我也认
+>  
+> 4JPyh4ATbE8hfcH7LqhxF3YThsECZm6htmLvMUyrbonk
+
+## 149. Aug 29, 2025 · 5:50 PM UTC · 1961486688472981747#m
+- 链接：https://twitter.com/0xcrypto_max/status/1961486688472981747#m
+- 作者：@0xcrypto_max
+
+> 麦司令又发话了！
+>  
+> 这次他说，让我们继续做E卫兵。
+>  
+> 上次放眼整个中文区，左侧1400让抄底ETH一只手数得过来，麦总就是这个吹哨者。
+>  
+> 虽然不能盲目迷信某人的观点，但是每次打call，麦总有理有据，反正说服我了，我选择相信！
+>  
+> 冲啊
+
+## 150. Aug 29, 2025 · 5:26 PM UTC · 1961480481423474907#m
+- 链接：https://twitter.com/0xcrypto_max/status/1961480481423474907#m
+- 作者：@0xcrypto_max
+
+> 今天跑会，发现了几个有意思的事情：
+>  
+> 1.bitcoinasia，台上嘉宾高呼btc100w美金，另一边显示屏btc一根针插下去暴跌，所以逢会必跌定律是真的吗？毕竟我入圈以来，每次大会都暴跌。
+>  
+> 2.项目方变少了，kol变少了，圈外人变多了。
+> 墙内的人想出去，墙外的人想进来。
+> 以往大会，项目方、狗庄遍地走，kol成群结队，这次好少，真的好少。而圈外的传统资金的人，反而变多了，都盯着RWA这块肉，虎视眈眈。
+> 只是很难想到，普通人将通过什么方式，去接触RWA，如何能将这个叙事泡沫化，杠杆化，能让所有资金体量都参与进来，根本想不明白。
+> 不过这或许就是币圈的魅力吧，总会有新的资产发行方式出现，在这之前只能苟着。
+>  
+> 3.推特上都是人设
+> 今天见了很多推友，有很多推特上争议满满的人，现实见面却完全不同。不管推上说的话怎么样，现实一见才发现，有些时候，都是为了人设，为了流量。
+> 比如这个沟槽的max，推特上能侃侃而谈，经常去评论美女，但是现实里和女生说话都会脸红。
+> 完全人设。
+>  
+> 4.十日终焉真好看，完全迷上了这部小说。
+
+## 151. Aug 28, 2025 · 5:49 PM UTC · 1961123954279813178#m
+- 链接：https://twitter.com/0xcrypto_max/status/1961123954279813178#m
+- 作者：@0xcrypto_max
+
+> 处理的信息源都在call blv，老外偏多，可以回头去研究blv生态了。
+
+## 152. Aug 28, 2025 · 2:20 PM UTC · 1961071509335896343#m
+- 链接：https://twitter.com/0xcrypto_max/status/1961071509335896343#m
+- 作者：@0xcrypto_max
+
+> 之前听一些朋友出入金，C2C会换到黑u，帽子叔叔会找上门来，资金也会被冻结，一直出金都找身边朋友u换rmb。
+> 这倒好，刚好这几天想出金，OKX就来了个大的，【冻结赔付商家】上线，出入金0风险，0手续费换U，可赔100%，舒服了。
+
+## 153. Aug 25, 2025 · 1:25 PM UTC · 1959970382892744802#m
+- 链接：https://twitter.com/0xcrypto_max/status/1959970382892744802#m
+- 作者：@0xcrypto_max
+
+> Lombard，buidl第三个项目，又是一个必打项目。
+>  
+> buidl前两个项目，一个solayer，一个sahara，收益都是杠杠的，稳定收益。
+>  
+> 说下Lombard，主要是在塑造比特币 DeFi ，简称btc-fi， 同时还将 Buidlpad 标记为 $BARD 的官方社区销售平台，btc-fi叙事还挺新颖的，第一次见，好叙事＋好背景。
+>  
+> 项目的核心是做一个protocol，将BTC->LBTC，一方面生息获取收益，另一方面作为抵押参与各种DeFi。
+>  
+> 说回投资方
+> 这次的主力是 @polychain @yzilabs ，总融资17M，猛的一批。
+>  
+> 给大家一个时间线，不要错过了！
+> 参与时间流程：
+> 8.26~8.29 KYC
+> 9.1~9.2 认购
+> 9.4 结算
+>  
+> 而今天是抢额度轮，怎么参与去抢额度：
+> 1.加入@Lombard_Finance的社区
+> 2.推特名字加 （🧩 $BARD）
+> 3.今晚之前发Lombard 相关内容的推文
+> 4.一定记得！最后提交推文审核在：
+> buidlpad.com/projects/lombar…
+
+## 154. Aug 25, 2025 · 11:59 AM UTC · 1959948766003490924#m
+- 链接：https://twitter.com/0xcrypto_max/status/1959948766003490924#m
+- 作者：@0xcrypto_max
+
+> 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊gen爹@gen_impressions @a_general_dev，前几天直接去新高60m了，太狠了，现在在50上下徘徊。去个100m看看实力。前几天侃爷发币的时候，我还想抄底的，结果发现跌都不跌，还去了新高。
+>  
+> 当时10m我第一次call的时候你们觉得高；30m复call，还觉得高；现在60m了，那咋办嘛。
+>  
+> 还能咋办，我还在加仓，因为即便价格高，但是仍然不匹配其基本面。别看价格，看基本面。
+> 1.再说一次，狗庄看不上你的三瓜俩枣，不用怕他现在把你货掏掉，池子就这么点，1.58m的池子，两三个地址就掏完了，现在根本不可能掏。
+> 2.前排ai16z、arc远古巨鲸狂买，都是很久不动的，所谓的“solana基金会”。
+> 3.第一代 infra产品出来了，简直顶级我只能说。V1版本正式上线，内置 56 个实用工具，覆盖数据抓取、自动提醒、消息推送、加密处理等场景，帮你把重复事务自动化
+> 4.上面说的有点虚，那么infra产品能做什么？
+> 我搭了几个workflow：
+> a.情绪分析
+> 收集X/TG社区交流并进行 sentiment分析，实时判断社区情绪变化，自动判断特定话题的散户情绪。
+> 这种很合适，现在卖出的点位，最好就是看散户情绪，要是推上人声鼎沸的话，一键sellllllllll。
+> b.社交媒体监听
+> 自动监控检索推特/tg特定话题动态，一旦匹配会自动触发BOT，可以第一时间收集分析新梗，新事件或传播节点，提供完整分析链路。
+> 像67、nailong这种老外很爆的话题，国人毫不了解，就很需要这种workflow，可以打通信息差
+
+## 155. Aug 25, 2025 · 7:07 AM UTC · 1959875266366291993#m
+- 链接：https://twitter.com/0xcrypto_max/status/1959875266366291993#m
+- 作者：@0xcrypto_max
+
+> 操作过于频繁，三个号都加到不给加了
+> 晚点微信好了我再通过
+> 各位别急
+
+## 156. Aug 25, 2025 · 5:05 AM UTC · 1959844451859546281#m
+- 链接：https://twitter.com/0xcrypto_max/status/1959844451859546281#m
+- 作者：@0xcrypto_max
+
+> 没收到回复的老师不要急，人很多，我会一个一个回复
+
+## 157. May 25, 2025 · 5:10 PM UTC · 1926687425419427941#m
+- 链接：https://twitter.com/0xcrypto_max/status/1926687425419427941#m
+- 作者：@0xcrypto_max
+
+> 这篇讲讲预售的开盘战法（把水准备好，有点干）：
+>  
+> 面对预售开盘破发，买，还是不买，一直是个困扰大家多年的问题。
+> 想清楚核心问题：盘子，项目方究竟是想卷款就跑路，还是要长久build下去。
+> 围绕这一核心问题，展开两个分支：
+> 1.做市商控盘实力
+> 2.项目基本面
+>  
+> 1.做市商控盘实力
+> 一个好的做市商开预售，是不会让刚得到筹码的大户立马把盘子砸完的，大户出货，会引发连环反应，造成踩踏。单凭预售募资的资金，单护盘就非常艰难，更别提后期的拉盘。
+>  
+> 如何防止大户掏货，我想mirai给大家上了非常生动的一课：开盘13m市值，300k的池子，10%的买卖税务。
+> 第一☝️，300k的池子，让大户几乎掏不出货。并且，如此浅的池子，做市商想拉盘就是动动手指做蛋糕——小case，就可以拉飞。
+> 第二☝️，10%的买卖税务雪上加霜，原本大户金额就大，掏几十万u还要收几万u的税，让大户更不敢出货。
+> 以上两点，mirai控盘直接绝杀，所以你可以看到，mirai开盘，几乎没有跌破预售价就起飞了。
+>  
+> 如何完美出货，我想Linux也给大家上了非常生动的一课😄：开盘20m市值，13m的池子。
+> 池子几乎快和市值差不多大了，做市商要想拉盘，要花费太多太多的sol去拉了。
+> 然而，池子这么厚不方便拉盘，但是方便出货呀。这么大的池子，项目方想掏多少就掏多少出来。
+> 总结一下，向上拉盘费劲，向下掏货简单，盈亏比巨差无比，所以我直接公开喊群友别上。
+
+## 158. Aug 24, 2025 · 3:10 PM UTC · 1959634336837460271#m
+- 链接：https://twitter.com/0xcrypto_max/status/1959634336837460271#m
+- 作者：@0xcrypto_max
+
+> OK牛逼！徐老板牛逼！格局太大了，一亿美金说干就干。
+>  
+> 整个团队也上下一心，上次 @0xCryptoFries 反应了OKX DEX没有Xlayer的地址追踪，第二天就立马做好了。
+>  
+> 这样的老板，这样的团队，想不做好都难。
+
+## 159. Aug 24, 2025 · 2:45 PM UTC · 1959628140315382097#m
+- 链接：https://twitter.com/0xcrypto_max/status/1959628140315382097#m
+- 作者：@0xcrypto_max
+
+> 加油 $zkWASM 😭，你是最棒的ZK宝宝
+> 已被套，勿跟
+
+## 160. Aug 23, 2025 · 2:43 PM UTC · 1959265332130169047#m
+- 链接：https://twitter.com/0xcrypto_max/status/1959265332130169047#m
+- 作者：@0xcrypto_max
+
+> 当时我空pump，从头喊到尾巴，盘前喊到开盘，最后就是很丝滑跌下来。逻辑是因为团队就那德行，加上币圈有个特性，产品和币价是不挂钩的，cake之前猛得一批，但是币价几乎没有任何动静，所以pump产品叼又如何，他发币就是为了抛售圈米，空就完了。
+>  
+> 但这次wlfi我就看戏了，川普团队做的，超级正规军，就想想当时关税战川普的谈判艺术，把币圈搞得上蹿下跳的。
+>  
+> 也扫了一圈推特做空的人，大部分都是套保...他们是为了锁住利润，很多空的逻辑都是为了套保服务。
+>  
+> 加上wlfi确实是在做事，整个usd1生态都整起来了，bnbchain风生水起，现在又要进军sol。我实在是没有空的欲望，也没有进去接盘的欲望，毕竟是安卓脑子，顶着别人几十倍的利润猛干进去，我买，别人浇给，让我死了算了。
+>  
+> 橘子不是唯一的水果。
+
+## 161. Aug 23, 2025 · 8:52 AM UTC · 1959177027631632543#m
+- 链接：https://twitter.com/0xcrypto_max/status/1959177027631632543#m
+- 作者：@0xcrypto_max
+
+> 没打wlfi的我
+
+## 162. Aug 23, 2025 · 3:19 AM UTC · 1959093164872278123#m
+- 链接：https://twitter.com/0xcrypto_max/status/1959093164872278123#m
+- 作者：@0xcrypto_max
+
+> 😑😑😑
+> 沟槽的裤子@0xyukaz ，真是预言家，上次旅游回来第二天早上出川普，这次早上出wlfi解锁。
+>  
+> 还好我没打，不然就发财了。
+>  
+> 在那之前和之后先防守一波了，巨无霸出来会吃一段时间流动性，具体有多久不知道🤷，但是所有人都盯着这块肉抢着吃。
+>  
+> 过了这一关，币圈没有元气大伤，才宣布牛市正式开始。
+
+## 163. Aug 22, 2025 · 7:28 PM UTC · 1958974462218690594#m
+- 链接：https://twitter.com/0xcrypto_max/status/1958974462218690594#m
+- 作者：@0xcrypto_max
+
+> 40m的市值，30m的成交量，你说是利好拉的？我不信，散户只会浇。
+
+## 164. Aug 22, 2025 · 7:26 PM UTC · 1958973994935492831#m
+- 链接：https://twitter.com/0xcrypto_max/status/1958973994935492831#m
+- 作者：@0xcrypto_max
+
+> 剧本都写好了，盘给你洗了，VC融资也拿了，你说官方不承认，现在官方也承认了，息也要降了。先看100m，看完再看300m。
+
+## 165. Aug 22, 2025 · 7:15 PM UTC · 1958971336535285782#m
+- 链接：https://twitter.com/0xcrypto_max/status/1958971336535285782#m
+- 作者：@0xcrypto_max
+
+> 牛市开启的序章
+
+## 166. Aug 22, 2025 · 5:43 PM UTC · 1958948124296446334#m
+- 链接：https://twitter.com/0xcrypto_max/status/1958948124296446334#m
+- 作者：@0xcrypto_max
+
+> 搞明白了，这个傻逼sugar.money台子
+> 看线用dexscreen，其他平台线很乱
+> 交易去jup平台，要用psol交易
+> psol ca：
+> pSoL47GE52V2bgUUyQvs9LSdWQZsokarp2yNsWQaLYy
+> 台子链接，之前在pump的可以领积分，不过风险高，建议清空自己钱包再去领（强烈建议，加密世界风险高，请保护好自己）：
+> sugar.money/join/@maxxx
+
+## 167. Aug 22, 2025 · 10:56 AM UTC · 1958845768896217315#m
+- 链接：https://twitter.com/0xcrypto_max/status/1958845768896217315#m
+- 作者：@0xcrypto_max
+
+> 补充一下：这篇帖子看看就好了，我并不专业，我只是很感兴趣，大多都是网上搜的，看书的，问ai的。专业的事情还得专业的人来做，有兴趣的朋友一定要找专业的人来看！
+
+## 168. Aug 22, 2025 · 10:53 AM UTC · 1958844935186391058#m
+- 链接：https://twitter.com/0xcrypto_max/status/1958844935186391058#m
+- 作者：@0xcrypto_max
+
+> 今天玄学一会。还真是这一说法，以前我很不信玄学，看个哪吒“我命由我不由天”燃到姥姥家了。
+>  
+> 现在逐渐相信了，身边有些朋友命里偏印多，财基本没有，基本上入圈没半年就亏到退圈。有个朋友命里全是印和官，我拉入圈的，玩了半个月就亏完跑了。以后不拉人进圈了。
+>  
+> 而观测活下来且拿到一定成果的朋友们，大多命里有财，做交易的偏财旺，做项目的正财旺。
+>  
+> 这下就说到另一个玄学角度了，我五行中金最旺，金能生水，水是财星，所以财运一直都很不错。
+> 美中不足的是，我的水相较而言少一些。而今年和女朋友在一起后，她水较旺，所以在一起之后，我的财运更好了。
+> 所以以后大家找女朋友的时候，可以玄学一下，帮她算算命😼😼😼，既能拉起话题，（毕竟没有女孩子能拒绝玄学赛道，什么星座吧啦吧啦），又能悄摸摸算算你们的适配度。
+>  
+> 不过最重要的是，玄学归玄学，该有的努力一定要有，财富一定要匹配自己的认知。否则再多的天降横财，也只是如水一般哗啦啦流过去，看得见，摸着了，但是握不住，我相信经历过这轮牛市应该都懂了。发财的人一大把，到现在守住财的又有多少人呢。
+>  
+> 这里就说到我的另一个朋友，他命里偏财很旺，但是守不住，找了个女朋友八字很合，这轮发了大财，并且都守住了。
+>  
+> 所以进圈的朋友们其实可以看看自己的命盘，命里财多不多，顺便找女朋友找个旺自己的（狗头）
+
+## 169. Aug 22, 2025 · 7:11 AM UTC · 1958789040020328605#m
+- 链接：https://twitter.com/0xcrypto_max/status/1958789040020328605#m
+- 作者：@0xcrypto_max
+
+> ？
+> 真是魔法攻击？
+> 这巴黎，真有说法的。
+
+## 170. Aug 21, 2025 · 3:24 PM UTC · 1958550844707942808#m
+- 链接：https://twitter.com/0xcrypto_max/status/1958550844707942808#m
+- 作者：@0xcrypto_max
+
+> 官方出公告了，空投补偿，无须多言，这就是格局。
+
+## 171. Aug 21, 2025 · 2:36 PM UTC · 1958538675576610870#m
+- 链接：https://twitter.com/0xcrypto_max/status/1958538675576610870#m
+- 作者：@0xcrypto_max
+
+> @Wh1te7eth
+
+## 172. Aug 21, 2025 · 2:28 PM UTC · 1958536643578843172#m
+- 链接：https://twitter.com/0xcrypto_max/status/1958536643578843172#m
+- 作者：@0xcrypto_max
+
+> $ZKWASM ，刚刚19m刮刮乐买了给套成麻瓜了，这个位置继续买。就是赌，赌unicornx的格局。他们上次more也出现这样的情况，格局非常大，直接空投赔偿。
+>  
+> 就像在AMA说的，他们是作为builder，他们要做的是长期、正确的事，相信格局，投资就是投人，我这次押注，投的是他们，不是这个币。
+>  
+> 0xa8d3dee6671c4fdac4743a1eb1f276eabd4ba302
+>  
+> @unicornxdex @unicornverse_io @A_unicornverse @Wh1tee7eth
+
+## 173. Aug 21, 2025 · 5:11 AM UTC · 1958396637765869769#m
+- 链接：https://twitter.com/0xcrypto_max/status/1958396637765869769#m
+- 作者：@0xcrypto_max
+
+> 其实yzy这波，骂归骂，中文区的地址基本都赚钱。大家都很灵敏，知道是吃一口情绪，也知道libra高位加池撤币，这次全员观察到了，相反老外地址亏损会多一些。
+>  
+> 总的来说，这几个小时是好事，但对这几天、这几周来说，是坏事，链上流动性又被吸了。
+
+## 174. Aug 21, 2025 · 2:42 AM UTC · 1958359024879186200#m
+- 链接：https://twitter.com/0xcrypto_max/status/1958359024879186200#m
+- 作者：@0xcrypto_max
+
+> libra资金刚解冻，kanye后脚发币。
+> kanye加单边池。
+> kanye名人币。
+> 我的地址没有干1m美金的。
+> 依据以上，我到2.5就跑了，我是怂逼。
+
+## 175. Aug 20, 2025 · 7:13 AM UTC · 1958064760546881845#m
+- 链接：https://twitter.com/0xcrypto_max/status/1958064760546881845#m
+- 作者：@0xcrypto_max
+
+> 每天买一点，dca🤤
+> NFA,DYOR
+
+## 176. Aug 19, 2025 · 10:59 AM UTC · 1957759405438693890#m
+- 链接：https://twitter.com/0xcrypto_max/status/1957759405438693890#m
+- 作者：@0xcrypto_max
+
+> 再更正，外星猫spark是5k市值塞的
+> 看了一下午的地址有点头晕眼花了…
+
+## 177. Aug 19, 2025 · 10:20 AM UTC · 1957749557280010743#m
+- 链接：https://twitter.com/0xcrypto_max/status/1957749557280010743#m
+- 作者：@0xcrypto_max
+
+> 更正一下，是profit推荐的
+
+## 178. Aug 19, 2025 · 10:17 AM UTC · 1957748744079945895#m
+- 链接：https://twitter.com/0xcrypto_max/status/1957748744079945895#m
+- 作者：@0xcrypto_max
+
+> pow推荐的这个榜单就是比较厉害的老外了。
+> 太多了，介绍不来，简单介绍两个出名的：
+>  
+> 1.人造叙事的神，外星猫 @0xIT4I
+> goat底部1m狂塞，比较出名的钱包拿到700m全部卖出，斩获700x，获利近2m。
+> 在这次新人造叙事spark中，公开钱包5w市值塞进500u，目前已获利近500k。
+> 这是钱包：HdxkiXqeN6qpK2YbG51W23QSWj3Yygc1eEk2zwmKJExp
+> 至于有没有别的钱包，大概率是有的，我们不从得知。
+>  
+> 2.soloxbt @Soloxbt
+> aura吹哨者，1月1m位置吹哨aura，较为出名的钱包，百一筹码拿了几个月，在150m左右全部卖出，斩获150x，获利近1.5m。
+> grrifain高位回调80%以上一路跌一路买，最终抄底成功，获利1.2m，在这场战役中单币盈利超越ansem。
+> memecoin带头冲锋，做得一手好局，可惜给推上的“扒庄哥”扒完了。
+> 这是钱包：
+> FTg1gqW7vPm4kdU1LPM7JJnizbgPdRDy2PitKw6mY27j
+> 至于有没有别的钱包，大概率是有的，我们不从得知。
+>  
+> 不知道还要不要介绍😳，对部分人来说这是信息差，所以我只介绍了较为出名的两个人，先发一篇看看大家反应吧
+
+## 179. Aug 19, 2025 · 5:07 AM UTC · 1957670822883258496#m
+- 链接：https://twitter.com/0xcrypto_max/status/1957670822883258496#m
+- 作者：@0xcrypto_max
+
+> 刚好触发我这几天一直在思考的一个问题：
+> 人一定不能犯懒，没有一劳永逸的赚钱方法。
+> 以前通过推上刷到厉害的老师，反复思考其中的精华帖，并将其转化成自己的思考。
+> 现在认识了，可以直接联系，也知道他们在买什么，就无脑跟了。
+> 可是一对比下来，发现效果远不如自己主动思考，形成自己的方法论。
+> 人一定要信自己，即便别人再厉害，盲目相信别人，到最后一定是吃亏的。
+>  
+> 顺带一提，有些粉丝是通过别的老师推荐我二段很厉害，最近关注我的，想着我call标。
+> 行情向上会适当call，行情向下我不会call，但我会记录自己的思考，完善工具，完善信息。
+> 时势造英雄，在时势出来之前，先把自己打磨好，才能成为英雄。而不是，乱冲乱撞，到处call标。
+> 要成为自己的英雄，而不是成为别人的英雄。
+
+## 180. Aug 19, 2025 · 3:14 AM UTC · 1957642185257677080#m
+- 链接：https://twitter.com/0xcrypto_max/status/1957642185257677080#m
+- 作者：@0xcrypto_max
+
+> 🙄fartless，这波助理按头了…
+> 2m-1.5m一直喊我，狗庄盘确实恶心，左侧不能买太多，不然阴跌拿不住，让你以为弃盘了，右侧启动去追，还得时时刻刻盯盘看看是不是假突破。
+> 能拿住纯是因为助理天天cx我…直接给洗脑了，跌了一直补。
+
+## 181. Aug 19, 2025 · 3:02 AM UTC · 1957639282509939052#m
+- 链接：https://twitter.com/0xcrypto_max/status/1957639282509939052#m
+- 作者：@0xcrypto_max
+
+> 今天继续完善信息流，补充信息差，下午整篇，目前市场上最顶级的老外合集出来（也就是你们最喜欢的老外阴毛集团）
+
+## 182. Aug 18, 2025 · 1:23 AM UTC · 1957251985406927113#m
+- 链接：https://twitter.com/0xcrypto_max/status/1957251985406927113#m
+- 作者：@0xcrypto_max
+
+> 推荐一下Tinghu @TingHu888 老师，虽然是做二级的，但是现在一级已经是存量市场，不再是增量市场，基本跟着二级走了。
+>  
+> Tinghu老师思考理性，在市场fomo时撤退，恐慌暴跌插针时吹哨抄底。
+>  
+> 经典的集中与撤离，捞油水战法简单易懂、实用。与之相反的是，他的推文属于一眼看得懂，但是执行起来需要深入思考，因为大多都是需要违背自己情绪的策略。不接广，不吃返佣，是独立的交易员。
+>  
+> 历史战绩：22年推荐空仓，solana底部吹哨人。
+
+## 183. Aug 17, 2025 · 4:16 PM UTC · 1957114285538357523#m
+- 链接：https://twitter.com/0xcrypto_max/status/1957114285538357523#m
+- 作者：@0xcrypto_max
+
+> ❗️❗️❗️注意
+> 裤子大号 @0xyukaz 被盗，最新发的推文全是骗人的！
+> 我昨天差点给骗了！还好拿的另一部没有钱的手机点链接。
+> 引用的推文是裤子小号，注意正版！
+
+## 184. Aug 16, 2025 · 3:59 PM UTC · 1956747546522755463#m
+- 链接：https://twitter.com/0xcrypto_max/status/1956747546522755463#m
+- 作者：@0xcrypto_max
+
+> 怎么感觉，我去年12月做的推特号，当时大家都很和善，推特氛围很好，不会因为你穷或富就区别对待，大家都互相称老师，会向对方虚心学习。
+>  
+> 现在时代变迁了？这代新做推特号的人，感觉不是为了成长，不是为了虚心学习。是为了起号做kol，装逼。
+>  
+> 但是哥们。你这样，第一，广子可能就几十u🤣，成几十u天团了；第二，装逼真的很让人讨厌，既没实盘，推特也从不call，让粉丝赚不到钱，全干瞪眼看着你跳大仙。
+>  
+> 希望市场能再好一点，最近都不想打开推特了，发得也少了，一点开都是这些无效信息。最多只刷刷主页的list，需要的可以看看，后面还会再补充，在完善自己的信息干净度。
+
+## 185. Aug 15, 2025 · 7:46 AM UTC · 1956261180777095479#m
+- 链接：https://twitter.com/0xcrypto_max/status/1956261180777095479#m
+- 作者：@0xcrypto_max
+
+> bags这平台跟我相克。。。
+> pump赚钱bag花，是我的问题吗？
+
+## 186. Aug 13, 2025 · 7:40 AM UTC · 1955534852490661900#m
+- 链接：https://twitter.com/0xcrypto_max/status/1955534852490661900#m
+- 作者：@0xcrypto_max
+
+> 今天OKB，虽然不关我事🤷，平时基本不碰二级。但是还是要好好思考一下：
+>  
+> 1.可以主战场不在二级，但是机会出来的时候该上还是上。可以不赚多，上一点也是一点。就像bn alpha一样，一开始嫌少不参与，后面追悔莫及。
+>  
+> 2.该弄明白的还是要明白😓，原本想着开3x多单的，开完还美滋滋，到最后发现是现货🙄。
+>  
+> 3.算了，橘子不是唯一的水果，原谅一切就好了，不是每个机会都是你的。
+
+## 187. Aug 13, 2025 · 3:44 AM UTC · 1955475446629580906#m
+- 链接：https://twitter.com/0xcrypto_max/status/1955475446629580906#m
+- 作者：@0xcrypto_max
+
+> 熊市跟狗庄玩，牛市叙事动力学启动🥳
+
+## 188. Aug 11, 2025 · 6:15 AM UTC · 1954788829602427278#m
+- 链接：https://twitter.com/0xcrypto_max/status/1954788829602427278#m
+- 作者：@0xcrypto_max
+
+> 开个扫链小群，只要p子。
+>  
+> 先说好处：群里有顶级大佬，好的ca发出来，如果看上，300k以下是无脑翻倍。的，这还不算外界的传播度，如果叙事真的顶级，加上群外的人，5倍没问题。
+>  
+> 再说要求：创业的不要，发ca记得带叙事说明，就这么简单两个要求。
+>  
+> 要的私信我，带上之前的战绩。拉不下脸的点个赞，我觉得你很厉害我会主动联系你。
+
+## 189. Aug 10, 2025 · 3:50 AM UTC · 1954389936502636646#m
+- 链接：https://twitter.com/0xcrypto_max/status/1954389936502636646#m
+- 作者：@0xcrypto_max
+
+> 这个地址多好找呀，以后这个就是公开链上钱包了。中途换来换去的，之前地址没做好隔离，换到现在这个，1000u到现在11000u了。
+
+## 190. Aug 9, 2025 · 1:57 PM UTC · 1954180345219424433#m
+- 链接：https://twitter.com/0xcrypto_max/status/1954180345219424433#m
+- 作者：@0xcrypto_max
+
+> $gen 宝宝，你是个香香软软可可爱爱甜甜蜜蜜的小蛋糕@¥@
+> 5x了😭
+
+## 191. Aug 8, 2025 · 4:42 PM UTC · 1953859484226347287#m
+- 链接：https://twitter.com/0xcrypto_max/status/1953859484226347287#m
+- 作者：@0xcrypto_max
+
+> 我自己估值项目的时候，破10m不会看30m。破了10m还要站稳10m，如果上去马上下来，那说明庄的托底资金不够，拉到30m就不太可能。
+
+## 192. Aug 8, 2025 · 4:37 AM UTC · 1953676814272147651#m
+- 链接：https://twitter.com/0xcrypto_max/status/1953676814272147651#m
+- 作者：@0xcrypto_max
+
+> 不问了，让它自己发酵。
+
+## 193. Aug 7, 2025 · 8:12 AM UTC · 1953368731553272142#m
+- 链接：https://twitter.com/0xcrypto_max/status/1953368731553272142#m
+- 作者：@0xcrypto_max
+
+> 补充一下，白单在这打：web3.okx.com/zh-hans/drops/e…
+
+## 194. Aug 7, 2025 · 6:58 AM UTC · 1953350036903084444#m
+- 链接：https://twitter.com/0xcrypto_max/status/1953350036903084444#m
+- 作者：@0xcrypto_max
+
+> OKX Wallet 将启动 Fremen Essence NFT 白名单赠送活动！本次将抽取 500 位幸运用户，赠予FCFS（先到先得）白名单。
+>  
+> 加入GAIB社区:
+> Telegram: t.me/gaib_ai
+> Discord: discord.com/invite/gaiboffic…
+>  
+> 关于 “FCFS 白名单” 的说明：
+> 这里的 “FCFS（先到先得）” 是指 NFT拿到 allowlist 的用户需要在活动开始就要尽快去 Mint，先 Mint 先得。
+>  
+> 关于GAIB：
+> GAIB 是全球首个 AI 经济层，致力于构建一种由真实 AI 需求支持的新型链上收益资产。
+>  
+> 投资机构支持：
+> GAIB 获得了包括 Amber Group等在内的众多顶级机构投资。
+
+## 195. Aug 7, 2025 · 4:19 AM UTC · 1953310103899431244#m
+- 链接：https://twitter.com/0xcrypto_max/status/1953310103899431244#m
+- 作者：@0xcrypto_max
+
+> 所以我很讨厌社区币，几个信任度为0的kol做个社区就起来了。
+>  
+> @CyvraSil @Tyraneko1 这两个畜生版主放着 $Topless 奶子币不做跑去做 $VIAGRA 蛋蛋币。
+>  
+> 我问你们，你们是不是手里没货，你们是不是农民。
+>  
+> 你就看下面这个图，农不农，潜意识就把亚洲人当作接盘侠，阳痿男了。
+>  
+> 以后谁再天天捧老外臭脚，天天举着牌子，抓着个别国人说国人毛病，抓着个别老外就使劲舔，第一个屏蔽加拉黑，每个种族都有每个种族的优势，踩一捧一是最傻逼的。
+>  
+> topless昨天交易量加k线走得都还不错，至少是能去5m的，去10m也是有机会，非要去做另一个。
+
+## 196. Aug 6, 2025 · 7:46 PM UTC · 1953180842832085327#m
+- 链接：https://twitter.com/0xcrypto_max/status/1953180842832085327#m
+- 作者：@0xcrypto_max
+
+> 成交量大的有点过分了
+> 老师
+
+## 197. Aug 6, 2025 · 6:56 PM UTC · 1953168222087463096#m
+- 链接：https://twitter.com/0xcrypto_max/status/1953168222087463096#m
+- 作者：@0xcrypto_max
+
+> 3m已到，明天刚好可以写下怎么判断的
+
+## 198. Aug 6, 2025 · 2:18 PM UTC · 1953098387257237894#m
+- 链接：https://twitter.com/0xcrypto_max/status/1953098387257237894#m
+- 作者：@0xcrypto_max
+
+> 4h有点破位了
+
+## 199. Aug 6, 2025 · 2:15 PM UTC · 1953097510362497042#m
+- 链接：https://twitter.com/0xcrypto_max/status/1953097510362497042#m
+- 作者：@0xcrypto_max
+
+> 前段时间一直在做极简主义，对一个币有感觉就上，相信自己的审美，然后就亏麻了🤣🤣🤣。
+>  
+> 前几天在办公室教助理看fartlessk线的时候，才恍然大悟，原来买入一个代币就是要需要经过一系列的思考，和狗庄斗智斗勇才能买进。
+>  
+> 今天遇到 $topless 的时候，发现操盘手法很熟悉，典型社区币操法，这次终于花了点时间看链上钱包、k线，大概率是专业的人来做得，让助理盯了会盘，下午睡觉起来就看见他喊我抄底。
+>  
+> 叙事我真不懂，社区币我一直觉得很傻逼，几个kol组个社群，屎尿屁奶子一弄就几m，真不懂美在哪里了…
+
+## 200. Aug 5, 2025 · 5:42 PM UTC · 1952787328650625025#m
+- 链接：https://twitter.com/0xcrypto_max/status/1952787328650625025#m
+- 作者：@0xcrypto_max
+
+> $monke 补充几点：
+> 1.还在洗大户，几个狗大户货还没出完
+> 2.alon这一周只提了：troll、usduc、totake，以及monke
+> 上述的标的都是10m级别以上，只有monke才6m
+> 3.dyor dyor dyor

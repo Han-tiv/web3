@@ -1,0 +1,1567 @@
+# Mars 🔶 BNB (@mars_bnb)
+
+- 抓取时间：2025-10-21T01:03:18.689Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：27170 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：11
+- 抓取尝试：1
+- Cursor 链：10 条
+- 账号统计：粉丝 13845，关注 8974，推文 4162，点赞 1329
+- 所在地：Singapore
+- Twitter：https://twitter.com/mars_bnb
+- 头像：https://pbs.twimg.com/profile_images/1845014354967891968/pxKalNKP_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1537410408251678721/1728720822
+- 认证：Blue Verified
+
+> 账号简介：
+> A9冲丫｜hodler of #BNB｜撸毛业余选手｜链上枯坐 卖飞永赚 ｜币安Alpha高材生 ｜ TG群 https://t.co/Uv8PvomzbE
+
+---
+
+## 1. Jul 18, 2025 · 7:54 AM UTC · 1946116388265075029#m
+- 链接：https://twitter.com/mars_bnb/status/1946116388265075029#m
+- 作者：@mars_bnb
+
+> 来有奖举报科技啦，小元也在群里，币安Alpha风控，交易赛，任何币安的问题都可以加群沟通！
+>  
+> t.me/mars_bnb
+>  
+> $ERA $TAKER $ASP #BNB
+
+## 2. Oct 20, 2025 · 3:08 PM UTC · 1980289997644394641#m
+- 链接：https://twitter.com/mars_bnb/status/1980289997644394641#m
+- 作者：@mars_bnb
+
+> 让我想起来币安的TGE都有5个了，普通tge，curve tge，buildkey tge，pre tge，prime tge😂
+
+## 3. Oct 20, 2025 · 12:54 PM UTC · 1980256422203117780#m
+- 链接：https://twitter.com/mars_bnb/status/1980256422203117780#m
+- 作者：@mars_bnb
+
+> 密码就是坚持输出（有自己见解），还有跟上热点（简单来说就是去蹭去舔😂）
+
+## 4. Oct 17, 2025 · 9:06 AM UTC · 1979111759303836151#m
+- 链接：https://twitter.com/mars_bnb/status/1979111759303836151#m
+- 作者：@mars_bnb
+
+> $ZBT 上up了，1u一个不过分吧，pre tge迄今为止没有小毛， $REVA 是跑路了吗？都几个月了…
+
+## 5. Oct 17, 2025 · 8:25 AM UTC · 1979101466276008437#m
+- 链接：https://twitter.com/mars_bnb/status/1979101466276008437#m
+- 作者：@mars_bnb
+
+> 跌的时候不买，难道要涨的时候买？跌了就可以专心buidl了，加仓加仓，这个月不出金了，狠狠的加仓！
+> $BNB $BTC $ETH
+
+## 6. Oct 15, 2025 · 4:58 PM UTC · 1978505724834517432#m
+- 链接：https://twitter.com/mars_bnb/status/1978505724834517432#m
+- 作者：@mars_bnb
+
+> 不是，所以撕逼是有效果的？怎么感觉一天天大家都像闹着玩一样…大表哥发几个推这CB说上就上了？白天还是你死我活的，晚上这就勾兑一起了…
+> $BNB
+
+## 7. Oct 14, 2025 · 4:39 PM UTC · 1978138574336745880#m
+- 链接：https://twitter.com/mars_bnb/status/1978138574336745880#m
+- 作者：@mars_bnb
+
+> 事实就是这样，空投给用户可能没有什么好评，但是做与不做是一回事，既然币安是行业的领头羊，那就的确要承担更多责任
+> @heyibinance @cz_binance
+
+## 8. Oct 14, 2025 · 8:44 AM UTC · 1978019133707976807#m
+- 链接：https://twitter.com/mars_bnb/status/1978019133707976807#m
+- 作者：@mars_bnb
+
+> 不管咋说改k线还是说不过去，如果要改，至少提前同步下原因，是否有人因为这根针有损失，现在的操作我也有点不能理解
+
+## 9. Oct 13, 2025 · 6:12 AM UTC · 1977618499565658244#m
+- 链接：https://twitter.com/mars_bnb/status/1977618499565658244#m
+- 作者：@mars_bnb
+
+> 预计能有10w人打满，也就是30w个bnb，一人250个 $YB 目前价格300u
+
+## 10. Oct 13, 2025 · 4:06 AM UTC · 1977586780988965333#m
+- 链接：https://twitter.com/mars_bnb/status/1977586780988965333#m
+- 作者：@mars_bnb
+
+> 老板们干架我们撸毛人不语，只是一味地出金，话说这两天汇率都很高啊，难道都是入金打 $YB TGE 的？借3个 $BNB 现在要5000多u了吧，未来大毛可能还是会在TGE，Alpha空投不管多少应该都会被分成一百多u一份，这个 Prime Sale 估计一个月两期还是有的， $BNB 能提前准备好还是提前准备下
+> $MON $MET $ETH
+
+## 11. Oct 12, 2025 · 11:01 AM UTC · 1977328680549626224#m
+- 链接：https://twitter.com/mars_bnb/status/1977328680549626224#m
+- 作者：@mars_bnb
+
+> 不得不服，$BNB太硬了，眼瞅着又要回到新高附近了。币安对于这次极端行情的损失所作出的补偿处理让很多用户表示要买入BNB，不得不说现在确实是格局大的项目才能获得市场和资金的认可。
+>  
+> 希望BNB生态下周重新反弹，继续奏乐继续舞，承担这轮行情的主旋律。
+
+## 12. Oct 12, 2025 · 12:03 PM UTC · 1977344397223113084#m
+- 链接：https://twitter.com/mars_bnb/status/1977344397223113084#m
+- 作者：@mars_bnb
+
+> 感谢币安 @binancezh @binance 对usde循环贷爆仓用户的赔偿
+>  
+> 格局太大了
+>  
+> 难怪很多巨鲸只相信币安，愿意把大资金放在里面
+
+## 13. Oct 12, 2025 · 3:19 PM UTC · 1977393575672291406#m
+- 链接：https://twitter.com/mars_bnb/status/1977393575672291406#m
+- 作者：@mars_bnb
+
+> 只有 $BNB 就像没有跌过一样，怎么下去的怎么上来，这 $YB TGE打新叠加 @cz_binance 大表哥喊单能量也太猛了，1100买三个 $BNB 哪怕不打新也赚500u了，永远的真神
+
+## 14. Oct 12, 2025 · 3:13 PM UTC · 1977392149575422433#m
+- 链接：https://twitter.com/mars_bnb/status/1977392149575422433#m
+- 作者：@mars_bnb
+
+> 币圈英伟达，e卫兵们冲丫，怎么跌下去怎么涨回来，没有了杠杆就没有了压力，先上5000再上1w！
+> $ETH $BNB
+
+## 15. Oct 11, 2025 · 2:27 AM UTC · 1976836947814527128#m
+- 链接：https://twitter.com/mars_bnb/status/1976836947814527128#m
+- 作者：@mars_bnb
+
+> 看了一早上推，终于缓过来自己发一下，我也有一部分抵押 $BNB 借的u，还好一直以来我都会增加抵押物让质押率在50%左右，这一波除了现货仓位回调没有什么损失，但是还是挺后怕的
+>  
+> 看这么多人赚这么多我也没什么波澜，只有庆幸自己还在牌桌上，没有什么马后炮，只有对市场的敬畏！
+
+## 16. Sep 30, 2025 · 3:36 PM UTC · 1973049301329907960#m
+- 链接：https://twitter.com/mars_bnb/status/1973049301329907960#m
+- 作者：@mars_bnb
+
+> 这一波VC币的集中上币和24年初有着本质的区别，就不说某些kol截图截一半的问题了，这波上币散户有几个在喷币安，一姐？我在的各个群里没见到任何人说一点币安的不是，从 $HOLO 单号500u到 $XPL 狂撒四五亿人民币，可以说全民狂欢不为过，生生造出了个Alpha牛市，所以还是那句话，老百姓喜闻乐见没意见，你不喜欢？你有意见？你算老几？
+>  
+> 某些kol简直想把所有钱都塞自己裤兜里，只想项目方把额度都给他们？见不到散户和币安一点好？去年初为了解释一姐还开了space，你可以说有人会亏钱，但是不看好可以做空是忘了吗？都说项目方在用合约出货，所以这个角度是看不到？
+>  
+> 这一波币安Alpha行情我看到了太多的改变，新进来的散户慢慢学会了套保，撸毛，扒链上数据，看池子，看交易数据，甚至看融资投研，说实话我觉得这才是健康的币圈，这种事情在往年是从来没有的，往年的新韭菜只有被某些KOL浇给的命运，这次很多新韭菜上来就通过Alpha空投积累到可观的本金，只要控制住自己，不可能空手而归。
+>  
+> 作为 $BNB hodler，知道Alpha占用了hodler空投额度，除了拉上家人多上几个号毫无办法，我们都没意见，你有意见？
+>  
+> 再说一遍，人民群众喜闻乐见，你不喜欢，你算老几？
+>  
+> @heyibinance @sisibinance @cz_binance @binancezh
+
+## 17. Sep 25, 2025 · 9:37 AM UTC · 1971147006543573124#m
+- 链接：https://twitter.com/mars_bnb/status/1971147006543573124#m
+- 作者：@mars_bnb
+
+> 经此 $XPL 一役，交易所只有币安和其他，不管是Alpha空投还是存款收益，完全是秒杀，绝杀
+
+## 18. Sep 21, 2025 · 2:02 AM UTC · 1969582955808059394#m
+- 链接：https://twitter.com/mars_bnb/status/1969582955808059394#m
+- 作者：@mars_bnb
+
+> 错过 $ASTER 确实应该反思，明牌程度超过 $TRUMP 的存在，因为对于perp了解实在不多，所以是完完全全的错了了 $ASTER ，咋说呢，我觉得运气只是一部分，不努力机会摆在你面前都没用，还是那句话，牛市已经来了，好好坐电脑前面，这可能是赚钱最容易最好的时候了
+>  
+> 还有 $BNB ，从940涨到1000涨了60u大家都在说暴涨，从1000涨到1060也是60u大家似乎没什么感觉了？这就是4位数的魅力！
+
+## 19. Sep 18, 2025 · 8:31 AM UTC · 1968593805055086871#m
+- 链接：https://twitter.com/mars_bnb/status/1968593805055086871#m
+- 作者：@mars_bnb
+
+> $BNB 下一个目标1500u，人民币10000，冲丫！
+
+## 20. Sep 18, 2025 · 8:24 AM UTC · 1968591901054878167#m
+- 链接：https://twitter.com/mars_bnb/status/1968591901054878167#m
+- 作者：@mars_bnb
+
+> 还是 $BNB 先到1000了，星辰大海！
+
+## 21. Sep 18, 2025 · 8:13 AM UTC · 1968589293418328309#m
+- 链接：https://twitter.com/mars_bnb/status/1968589293418328309#m
+- 作者：@mars_bnb
+
+> #BNB新高 根本截不到1000整的图呀，999.99直接1001.99了
+> @binancezh @sisibinance @yayabinance
+
+## 22. Sep 17, 2025 · 9:31 AM UTC · 1968246375340212630#m
+- 链接：https://twitter.com/mars_bnb/status/1968246375340212630#m
+- 作者：@mars_bnb
+
+> 今天的Aster呢？没有Alpha空投吗？ 是怕大家今天领了明天的 $BARD 分不够吗
+>  
+> 今天都在说okx boost 反撸，一直说搞一直没开始就怕这个，不过目前看精品号问题不大，想搞的可以搞点精品号
+
+## 23. Sep 16, 2025 · 3:40 PM UTC · 1967976873679593961#m
+- 链接：https://twitter.com/mars_bnb/status/1967976873679593961#m
+- 作者：@mars_bnb
+
+> 500u了，确保牛市发生在币安Alpha
+> @cz_binance @heyibinance
+> $STBL
+
+## 24. Sep 16, 2025 · 3:18 PM UTC · 1967971344144015602#m
+- 链接：https://twitter.com/mars_bnb/status/1967971344144015602#m
+- 作者：@mars_bnb
+
+> 这就是币安Alpha的造富效应吗？随便一个空投都400u？ $STBL
+
+## 25. Sep 15, 2025 · 7:07 AM UTC · 1967485389406716017#m
+- 链接：https://twitter.com/mars_bnb/status/1967485389406716017#m
+- 作者：@mars_bnb
+
+> 这个月出金有50w了，汇率越来越低也没办法，没有用严选，还是用的神盾，严选汇率少了0.03，10000u就少了三百块，神盾目前我还没有遇到过问题，商家好好选一下就行，找成交量大，时间长的支付宝出，最好找之前出过的商家，但是目前没有稳定的
+>  
+> 还有赚钱了一定要出金啊兄弟们，不花永远就是账户的数字🤣
+
+## 26. Sep 13, 2025 · 10:29 AM UTC · 1966811456340717880#m
+- 链接：https://twitter.com/mars_bnb/status/1966811456340717880#m
+- 作者：@mars_bnb
+
+> 大表哥你要当总统了吗 @cz_binance
+> $BNB
+
+## 27. Sep 12, 2025 · 6:28 AM UTC · 1966388450715914413#m
+- 链接：https://twitter.com/mars_bnb/status/1966388450715914413#m
+- 作者：@mars_bnb
+
+> $HOLO 忘了说了这个昨天做了的都有140u，2分钟就搞定，大毛至简，没想到最后做任务的才不到一万人，大家是真看不上这1000块钱么😂
+
+## 28. Sep 11, 2025 · 9:28 AM UTC · 1966071462055579830#m
+- 链接：https://twitter.com/mars_bnb/status/1966071462055579830#m
+- 作者：@mars_bnb
+
+> 卧操， $HOLO 上up了，tge的800多个要奔着300u去了吗
+
+## 29. Sep 11, 2025 · 2:42 AM UTC · 1965969173462626708#m
+- 链接：https://twitter.com/mars_bnb/status/1965969173462626708#m
+- 作者：@mars_bnb
+
+> 后面就要期待是 $BNB 先到1000还是 $ETH 先到5000
+
+## 30. Sep 10, 2025 · 1:31 PM UTC · 1965769981519663449#m
+- 链接：https://twitter.com/mars_bnb/status/1965769981519663449#m
+- 作者：@mars_bnb
+
+> 不知不觉 $BNB 又新高了，所以@YTJiaFF  贾跃亭买了 $BNB 的能量有这么大呢？
+
+## 31. Sep 10, 2025 · 10:50 AM UTC · 1965729666360279256#m
+- 链接：https://twitter.com/mars_bnb/status/1965729666360279256#m
+- 作者：@mars_bnb
+
+> 我想知道有人做空 $MYX 赚到钱了吗，好久没玩合约开了一把一天都没坚持到
+
+## 32. Sep 10, 2025 · 10:31 AM UTC · 1965724765639110786#m
+- 链接：https://twitter.com/mars_bnb/status/1965724765639110786#m
+- 作者：@mars_bnb
+
+> 如果如客服所说平均分，链上只有8000多参加的，那这个收益就有100u了，哈哈，先期待吧
+> $HOLO
+
+## 33. Sep 10, 2025 · 10:17 AM UTC · 1965721171858731356#m
+- 链接：https://twitter.com/mars_bnb/status/1965721171858731356#m
+- 作者：@mars_bnb
+
+> 220分，7700个 $LINEA ，Alpha用户可太尊贵了，币安大气，晚上10.30，注意下只能限价交易
+
+## 34. Sep 10, 2025 · 9:04 AM UTC · 1965702895602721210#m
+- 链接：https://twitter.com/mars_bnb/status/1965702895602721210#m
+- 作者：@mars_bnb
+
+> $HOLO 还没做这个任务的做下这个，还有一个小时就结束了，目前还有50+%的概率中奖，需要质押1个BNB，7天后退，奖励200个HOLO大概40u
+
+## 35. Sep 10, 2025 · 7:41 AM UTC · 1965681922350387225#m
+- 链接：https://twitter.com/mars_bnb/status/1965681922350387225#m
+- 作者：@mars_bnb
+
+> 有人知道 $MITO 质押活动里质押的BNB怎么领取Hodler空投收益吗，最近的 $OPEN 和今天的 $LINEA 都没看到收益，如果不是因为同时有这个收益谁会去质押BNB啊， @MitosisOrg 客服形同虚设，完全找不到人，质押的21天加上赎回10天，等于一个月的空投收益都没有了
+>  
+> @sisibinance @heyibinance @yayabinance @binancezh
+
+## 36. Sep 4, 2025 · 8:47 AM UTC · 1963524428576559433#m
+- 链接：https://twitter.com/mars_bnb/status/1963524428576559433#m
+- 作者：@mars_bnb
+
+> 大家貌似都去刷 $MCH 了，所以这是要每30天换一个刷，但是30天内其他的Alpha呢，最终大家还是刷稳定币，只是经常要换
+>  
+> 币安想让百花齐放，每个币都有人交易，这不太现实除非交易赛，解决这个问题的方式只能还是交易赛，交易赛多举办，多来一些币种，自然都会有量了，没有稳定币大家会创造一个稳定币，都是治标不治本
+>  
+> 可以理解币安的做法，但是这样除了增加风险，似乎并没有什么改变
+
+## 37. Sep 3, 2025 · 2:40 PM UTC · 1963250826878611800#m
+- 链接：https://twitter.com/mars_bnb/status/1963250826878611800#m
+- 作者：@mars_bnb
+
+> 各个Alpha撸毛群里大家都开始总结5月到现在4个月的收益了，各种离职总结都出来了
+>  
+> 看来这次规则的改动比风控还有之前任何的改动都要严重，不管怎么说，4个月都是挣到钱了的，少有抱怨，更多的是感谢
+>  
+> 不过明天还未可知，这三天将近10个空投就证明Alpha远远未结束，先走一步看一步吧
+
+## 38. Sep 3, 2025 · 11:29 AM UTC · 1963202675497161163#m
+- 链接：https://twitter.com/mars_bnb/status/1963202675497161163#m
+- 作者：@mars_bnb
+
+> 是不是要标注下哪些币是30天内的？总不能大家一个一个看吧？
+> @binancezh
+
+## 39. Sep 3, 2025 · 11:16 AM UTC · 1963199344531956040#m
+- 链接：https://twitter.com/mars_bnb/status/1963199344531956040#m
+- 作者：@mars_bnb
+
+> 要不咱Alpha直接散伙了算了，本来轻松刷一下拿到积分领空投，这下被迫要接盘了，币安侧重点应该是空投而不是刷量的方式，这么改除了让大家收益降低动不动来个针，没有任何意义
+
+## 40. Sep 2, 2025 · 1:05 PM UTC · 1962864365507686792#m
+- 链接：https://twitter.com/mars_bnb/status/1962864365507686792#m
+- 作者：@mars_bnb
+
+> $CDL 服气，页面都打不开了
+
+## 41. Sep 2, 2025 · 11:58 AM UTC · 1962847517433110979#m
+- 链接：https://twitter.com/mars_bnb/status/1962847517433110979#m
+- 作者：@mars_bnb
+
+> $CDL 延迟到九点开盘
+
+## 42. Sep 2, 2025 · 11:05 AM UTC · 1962834198479458638#m
+- 链接：https://twitter.com/mars_bnb/status/1962834198479458638#m
+- 作者：@mars_bnb
+
+> four 的预售 $CDL 已经空投到AsterDex了，usd1 打满是1543个，按照目前价格100u左右，等八点开盘吧，还没注册Aster的注册下
+>  
+> 注册链接
+> asterdex.com/zh-CN/referral/…
+
+## 43. Sep 2, 2025 · 9:54 AM UTC · 1962816338008907823#m
+- 链接：https://twitter.com/mars_bnb/status/1962816338008907823#m
+- 作者：@mars_bnb
+
+> Four 预售 $CDL 今天晚上8点在AsterDex交易，空投直接发放到AsterDex账户，提前注册下
+>  
+> 注册链接
+>  
+> asterdex.com/zh-CN/referral/…
+
+## 44. Sep 2, 2025 · 7:05 AM UTC · 1962773909134307755#m
+- 链接：https://twitter.com/mars_bnb/status/1962773909134307755#m
+- 作者：@mars_bnb
+
+> 26个字母马上不够用了，现在怎么都这么热衷单字母呢？
+
+## 45. Sep 1, 2025 · 11:23 AM UTC · 1962476410100154773#m
+- 链接：https://twitter.com/mars_bnb/status/1962476410100154773#m
+- 作者：@mars_bnb
+
+> four的预售 $CDL 退完款了，单号手续费加上扣的6u多算下来成本不到20u，反撸不太可能了，单号挣个100u就行
+> $FORM
+
+## 46. Sep 1, 2025 · 9:11 AM UTC · 1962443083859276244#m
+- 链接：https://twitter.com/mars_bnb/status/1962443083859276244#m
+- 作者：@mars_bnb
+
+> $SOMI 现货了， $BNB hodler空投份额3%终于不是1.5%了，我感觉到，全都回来了🎉
+
+## 47. Sep 1, 2025 · 8:10 AM UTC · 1962427893520503262#m
+- 链接：https://twitter.com/mars_bnb/status/1962427893520503262#m
+- 作者：@mars_bnb
+
+> 四点了，four $CDL 预售有人收到退款吗？
+
+## 48. Sep 1, 2025 · 7:37 AM UTC · 1962419595786268935#m
+- 链接：https://twitter.com/mars_bnb/status/1962419595786268935#m
+- 作者：@mars_bnb
+
+> 有意思，一到身份证上这天短信无敌了…
+
+## 49. Sep 1, 2025 · 7:19 AM UTC · 1962415100276691425#m
+- 链接：https://twitter.com/mars_bnb/status/1962415100276691425#m
+- 作者：@mars_bnb
+
+> $SOMI 大的来了，建议Alpha积分260以下的今天就别吃了，防止明天门槛240+
+
+## 50. Sep 1, 2025 · 6:48 AM UTC · 1962407270253523447#m
+- 链接：https://twitter.com/mars_bnb/status/1962407270253523447#m
+- 作者：@mars_bnb
+
+> $CDL 提前到今天4点退款
+
+## 51. Sep 1, 2025 · 3:48 AM UTC · 1962361875544576056#m
+- 链接：https://twitter.com/mars_bnb/status/1962361875544576056#m
+- 作者：@mars_bnb
+
+> Four $CDL 预售明晚6点退款，8点空投会发到AsterDex账户，没注册的先注册下
+>  
+> asterdex.com/en/referral/d52…
+>  
+> $FORM
+
+## 52. Sep 1, 2025 · 3:14 AM UTC · 1962353241485914613#m
+- 链接：https://twitter.com/mars_bnb/status/1962353241485914613#m
+- 作者：@mars_bnb
+
+> 币安将于2025年09月01日21:00（东八区时间）上线World Liberty Financial (WLFI)
+>  
+> 没有hodler空投也没有Alpha空投吗？目前看没有一个交易所有活动的，一点额度都没给啊
+> $WLFI
+
+## 53. Aug 31, 2025 · 2:23 PM UTC · 1962159204040585323#m
+- 链接：https://twitter.com/mars_bnb/status/1962159204040585323#m
+- 作者：@mars_bnb
+
+> 公布细节了打满 #USD1 给1543个 $CDL ，为啥大家都觉得能有0.2 0.3一个呢哈哈，0.1我都知足哈哈
+
+## 54. Aug 31, 2025 · 8:04 AM UTC · 1962063967632982359#m
+- 链接：https://twitter.com/mars_bnb/status/1962063967632982359#m
+- 作者：@mars_bnb
+
+> $CDL 预售结束了， #USD1 加上 $FORM 一共塞了2.5亿，等消息
+
+## 55. Aug 31, 2025 · 5:58 AM UTC · 1962032157708206379#m
+- 链接：https://twitter.com/mars_bnb/status/1962032157708206379#m
+- 作者：@mars_bnb
+
+> Four上的 $CDL 50个号4000usd1全打满了，昨天1.0005买的usd1，创建钱包分发认购搞到了凌晨五点
+>  
+> 现在看 usd1 汇率已经到了1.004了，如果今天买来打就多了千四的磨损了，20wu就是800u，还好昨天搞完了，这最后一天汇率涨得着实有点猛
+>  
+> 第一次用币安钱包分发，还挺丝滑，但是才发现币安钱包不能创建钱包啊，搞得多账号还得去别的地方创建，不知道是出于什么考虑 @Rick_Binance @sisibinance
+>  
+> 预计50个号手续费加上usd1价差成本应该不到1000u，风险什么的我觉得不用考虑，毕竟是 @four_meme_ 这种半官方的平台，目前还不知道代币怎么分配，收益还不清楚，不过反撸可能性不大，到下午四点结束估计募资在2.5亿左右，预计单号收益在100u-200u之间
+>  
+> 下周研究下four怎么刷，继续搞点four上的打新，毕竟跟币安Alpha很像，前期收益应该会不错
+>  
+> 都在说最近一滴都不剩了，大部分人u都放到了Plasma还有接下来的buidlpad，bnb也都在 $MITO 里面放着，这么高频的打新的确资金搞不过来，后面还是要有选择的参与
+>  
+> @creditslink @four_meme_
+> $CDL  #USD1  $WLFI $FORM $BNB
+
+## 56. Aug 30, 2025 · 5:41 PM UTC · 1961846810580025823#m
+- 链接：https://twitter.com/mars_bnb/status/1961846810580025823#m
+- 作者：@mars_bnb
+
+> 也来凑个热闹，先上50个号吧，能赚多少兄弟们？
+> #USD1 $CDL #BNB
+
+## 57. Aug 28, 2025 · 5:11 PM UTC · 1961114506136002773#m
+- 链接：https://twitter.com/mars_bnb/status/1961114506136002773#m
+- 作者：@mars_bnb
+
+> 美国用户可以用币安了？这大绿柱直上1000吧 $BNB
+
+## 58. Aug 28, 2025 · 10:20 AM UTC · 1961010940411015392#m
+- 链接：https://twitter.com/mars_bnb/status/1961010940411015392#m
+- 作者：@mars_bnb
+
+> 昨天 $DOLO 260分和今天 $MITO 248分别破了币安Alpha空投和TGE的积分门槛记录，究其原因还是这20多天一个现货二阶段也没有上，不打TGE不抢空投基本都是满分了，哪怕没有人加号，这接近20w满分的人门槛就低不了，看来存量项目上的差不多了，后面还是要转换策略，利润少就尽量万u精品号，还是有的搞的
+
+## 59. Aug 28, 2025 · 10:05 AM UTC · 1961007260093837396#m
+- 链接：https://twitter.com/mars_bnb/status/1961007260093837396#m
+- 作者：@mars_bnb
+
+> 今天Alpha空投盲盒是 $BLUM ，30u秒无，其实我不太能理解盲盒的意义是什么？目前盲盒没有一个是大的，知道是什么和不知道结果都是一样的，基本都是30u秒无，还少了两个小时的讨论曝光，这盲盒怎么看都没好处啊
+> @binancezh
+> $MITO $BNB
+
+## 60. Aug 27, 2025 · 12:38 PM UTC · 1960683325317898283#m
+- 链接：https://twitter.com/mars_bnb/status/1960683325317898283#m
+- 作者：@mars_bnb
+
+> Alpha突袭积分门槛260哈哈，2+15=17*15=255的原地离职吧
+
+## 61. Aug 27, 2025 · 11:49 AM UTC · 1960671051454799961#m
+- 链接：https://twitter.com/mars_bnb/status/1960671051454799961#m
+- 作者：@mars_bnb
+
+> $CAMP 何为单机币？
+
+## 62. Aug 27, 2025 · 8:36 AM UTC · 1960622498522734643#m
+- 链接：https://twitter.com/mars_bnb/status/1960622498522734643#m
+- 作者：@mars_bnb
+
+> 今天没有空投也没有TGE，很久没有这样空档了，不过也是因为一直没有现货上线，有现货还是会有二阶段的
+>  
+> 最近币安貌似侧重点在往TGE上靠，频率和时间都有所调整，也是变相提高门槛了，就算为了参加TGE也建议买点 $BNB
+>  
+> 币安Alpha空投风控，TGE，有奖举报科技加群！
+> t.me/mars_bnb
+>  
+> $BTR $MITO
+
+## 63. Aug 22, 2025 · 5:20 PM UTC · 1958942275553435737#m
+- 链接：https://twitter.com/mars_bnb/status/1958942275553435737#m
+- 作者：@mars_bnb
+
+> $BNB 👉🏻 888  没想到这么快！
+> @cz_binance
+
+## 64. Aug 22, 2025 · 10:30 AM UTC · 1958839171231207806#m
+- 链接：https://twitter.com/mars_bnb/status/1958839171231207806#m
+- 作者：@mars_bnb
+
+> 来个认真的，这次法拉米，下次法拉利！Thank you Crypto!
+
+## 65. Aug 22, 2025 · 10:10 AM UTC · 1958834116851290369#m
+- 链接：https://twitter.com/mars_bnb/status/1958834116851290369#m
+- 作者：@mars_bnb
+
+> 注意下这次额度只有1%，收益只有之前的一半了 $HEMI #TGE
+
+## 66. Aug 22, 2025 · 9:17 AM UTC · 1958820689437499510#m
+- 链接：https://twitter.com/mars_bnb/status/1958820689437499510#m
+- 作者：@mars_bnb
+
+> 逐渐离谱，感谢加密…
+
+## 67. Aug 22, 2025 · 8:04 AM UTC · 1958802379307987229#m
+- 链接：https://twitter.com/mars_bnb/status/1958802379307987229#m
+- 作者：@mars_bnb
+
+> 百分之一平分给10亿？不是2.5亿了？收益是不是降低了？
+
+## 68. Aug 21, 2025 · 9:42 AM UTC · 1958464596047536386#m
+- 链接：https://twitter.com/mars_bnb/status/1958464596047536386#m
+- 作者：@mars_bnb
+
+> Alpha又要结束了吗，兄弟们离职了吗？全是先到先得，喝了半个月西北风了，不抢的话已经反撸了吧兄弟们，抢的话都是30u扣15分下不去手啊
+> $AKE $ARIA
+
+## 69. Aug 21, 2025 · 8:02 AM UTC · 1958439508787204221#m
+- 链接：https://twitter.com/mars_bnb/status/1958439508787204221#m
+- 作者：@mars_bnb
+
+> 要不抽签吧真的，再一再二了
+> $AKE #TGE
+
+## 70. Aug 19, 2025 · 3:37 PM UTC · 1957829267678781482#m
+- 链接：https://twitter.com/mars_bnb/status/1957829267678781482#m
+- 作者：@mars_bnb
+
+> 大毛预定
+
+## 71. Aug 18, 2025 · 2:12 PM UTC · 1957445387217981725#m
+- 链接：https://twitter.com/mars_bnb/status/1957445387217981725#m
+- 作者：@mars_bnb
+
+> $RICE 已经是近期收益比较高的TGE了，现在还有60+，高点有110，大部分时间都在70以上，看谁还敢黑这是太子的项目 @EnHeng456
+
+## 72. Aug 15, 2025 · 8:50 AM UTC · 1956277198840545397#m
+- 链接：https://twitter.com/mars_bnb/status/1956277198840545397#m
+- 作者：@mars_bnb
+
+> 这周的Alpha空投有点不尽人意，两个pre tge $BTR 和 $REVA 不知道要等到啥时候去了，而且下周还没有任何一个预告，这两周看来只能领40的低保维持下了，都又在说Alpha结束了，行情这么好，天王级项目都没出现，怎么能这么结束呢，分太高的兄弟们先吃两个保证不亏吧，等两周再看看
+
+## 73. Aug 11, 2025 · 3:48 AM UTC · 1954751777494188353#m
+- 链接：https://twitter.com/mars_bnb/status/1954751777494188353#m
+- 作者：@mars_bnb
+
+> $USDC 币安活期收益已经来到了年化12+%，有usdc的记得放一下理财，看来行情确实又好起来了
+
+## 74. Aug 5, 2025 · 2:20 PM UTC · 1952736469032042795#m
+- 链接：https://twitter.com/mars_bnb/status/1952736469032042795#m
+- 作者：@mars_bnb
+
+> 今天币安Alpha空投 $TOWNS 7.5w名额 230分 $PROVE 5w名额 241分，比一个周期前积分门槛还是高了不少，一是限价4倍交易额，二是人数也没有任何减少，感觉最近风控严格也有部分这个原因，币安还是不想降低太多收益，的确高收益才能更吸引人加入，不过好消息是 $TOWNS 的hodler空投份额也来到了3%，而不是前几次1%左右， $BNB hodler也可以吃上海底捞了！
+
+## 75. Aug 4, 2025 · 9:18 AM UTC · 1952297974748545461#m
+- 链接：https://twitter.com/mars_bnb/status/1952297974748545461#m
+- 作者：@mars_bnb
+
+> 大毛预定 $TOWNS
+
+## 76. Aug 1, 2025 · 10:50 AM UTC · 1951233997859856747#m
+- 链接：https://twitter.com/mars_bnb/status/1951233997859856747#m
+- 作者：@mars_bnb
+
+> 不知不觉群里已经1000人了，大部分都是因为币安Alpha风控进来的，这一波风控范围和严格程度跟6月中旬还是有点像的，之前6月风控的大部分20天都已经解封了，这次不敢说会不会跟之前一样，但是还是建议降档保分，先不要停刷或者注销账户！
+>  
+> 加群交流兄弟们！
+> t.me/mars_bnb
+>  
+> $TOWNS $AIO $MM
+
+## 77. Aug 1, 2025 · 10:26 AM UTC · 1951227972440170640#m
+- 链接：https://twitter.com/mars_bnb/status/1951227972440170640#m
+- 作者：@mars_bnb
+
+> Alpha积分门槛降低的同时领取扣的分也同时降低，这样才合理吧！要不然正常刷分的不会花15分领这种20u的空投
+> $NAORIS
+
+## 78. Aug 1, 2025 · 10:03 AM UTC · 1951222254483939478#m
+- 链接：https://twitter.com/mars_bnb/status/1951222254483939478#m
+- 作者：@mars_bnb
+
+> 都降到140分了，还没人要吗 $NAORIS
+
+## 79. Jul 31, 2025 · 9:08 AM UTC · 1950845951968473151#m
+- 链接：https://twitter.com/mars_bnb/status/1950845951968473151#m
+- 作者：@mars_bnb
+
+> 这两天被币安Alpha风控的小伙伴实在太多了，群里都进了将近1000人了，很多兄弟没有任何违规操作，只限价刷了交易赛也被风控，风控机制保密大家可以理解，但是官方是否可以有更高效的解封机制，核查没有问题尽快解封，而不是需要等20天，申诉材料是否可以简化，目前很多小伙伴让家人提供申诉材料实在是为难人了，只要没有开火车，没有一个设备多号，没有上科技刷量或者抢空投，应该都是不应该被风控的
+>  
+> 最近多了滑块验证，貌似还是防不了工作室，报错也越来越多，除了多点几次没什么好办法，等不报错已经被抢完了，兄弟们可以把自己被风控的原因还有对Alpha的建议在评论区列出来
+>  
+> 最近半年币安Alpha的确非常出圈，相关基础设施也要跟上，不能一找客服就是千篇一律的回答，大家要的还是一个公平透明，至少是相对公平，作为币安忠实粉丝，还是希望Alpha福利源源不断！币安越做越好！
+>  
+> 没加群的加下群兄弟们！
+> t.me/mars_bnb
+>  
+> @binancezh @heyibinance @sisibinance @yayabinance
+> $NAORIS $PLAY $AIO $TOWNS $BNB #Binance
+
+## 80. Jul 31, 2025 · 7:17 AM UTC · 1950818050338640362#m
+- 链接：https://twitter.com/mars_bnb/status/1950818050338640362#m
+- 作者：@mars_bnb
+
+> 这种直观看到积分和代币的嘴撸平台还是很有吸引力的，不管咋样，先发起来
+>  
+> 简简单单 连接 X → 完成任务 → 分享链接 → 开始赚钱
+>  
+> 注册链接
+> addplus.org/boost/mars_bnb
+>  
+> @add_infofi
+> $USDA $ADD #infofi
+
+## 81. Jul 30, 2025 · 9:13 AM UTC · 1950484907991716091#m
+- 链接：https://twitter.com/mars_bnb/status/1950484907991716091#m
+- 作者：@mars_bnb
+
+> 试下新的嘴撸平台 @add_infofi
+>  
+> addplus.org/boost/mars_bnb
+>  
+> 打开链接注册完成任务即可
+>  
+> #infofi $ADD $USDA $ENERGY
+
+## 82. Jul 30, 2025 · 7:02 AM UTC · 1950451984424743280#m
+- 链接：https://twitter.com/mars_bnb/status/1950451984424743280#m
+- 作者：@mars_bnb
+
+> 这两天一直有人陆续币安Alpha被风控，加群的也越来越多，看很多人老号无违规也被风控，可能就是资金有点少，目前看跟合约现货交易关系不大，不管是想要解封还是后面怎么避免风控，人多力量大，加群报团！
+>  
+> 进群交流Alpha风控，空投规则！
+>  
+> t.me/mars_bnb
+>  
+> $TREE $RHEA $GAIA $NAORIS
+
+## 83. Jul 29, 2025 · 2:11 PM UTC · 1950197446631436745#m
+- 链接：https://twitter.com/mars_bnb/status/1950197446631436745#m
+- 作者：@mars_bnb
+
+> 1 $BNB 发了0.75个 $TREE ，1.4卖了，1BNB大概收益1u，0.125%收益，Alpha空投100个 $TREE ，顶100个BNB的收益，hodler很久没有比较大的空投了，上一个应该还是冒险岛
+
+## 84. Jul 29, 2025 · 12:20 PM UTC · 1950169640027447695#m
+- 链接：https://twitter.com/mars_bnb/status/1950169640027447695#m
+- 作者：@mars_bnb
+
+> $TREE 卖飞，明后天应该还有大毛，等着看 $GAIA $RHEA $PLAY $NAORIS 感觉还会有上现货然后二阶段的
+
+## 85. Jul 29, 2025 · 9:26 AM UTC · 1950125870468727003#m
+- 链接：https://twitter.com/mars_bnb/status/1950125870468727003#m
+- 作者：@mars_bnb
+
+> 这几天陆续不少人又风控了，有可能因为空投少，积分降不下来，所以风控更严格了，不管怎样，只要不触发这我讲的这几条问题都不大
+>  
+> 币安Alpha风控交流加群！
+> t.me/mars_bnb
+>  
+> $TREE $RHEA $GAIA $NAORIS
+
+## 86. Jul 29, 2025 · 8:54 AM UTC · 1950117821314146438#m
+- 链接：https://twitter.com/mars_bnb/status/1950117821314146438#m
+- 作者：@mars_bnb
+
+> 果然Alpha积分门槛来到了233，限价4倍交易量而且最近都是先到先得，把积分都拉上来了，以后第一阶段很难低于230了
+> $TREE
+
+## 87. Jul 29, 2025 · 3:34 AM UTC · 1950037125677592757#m
+- 链接：https://twitter.com/mars_bnb/status/1950037125677592757#m
+- 作者：@mars_bnb
+
+> 下次试试，看上去比神盾更靠谱
+
+## 88. Jul 28, 2025 · 1:35 PM UTC · 1949826134289620998#m
+- 链接：https://twitter.com/mars_bnb/status/1949826134289620998#m
+- 作者：@mars_bnb
+
+> $TREE 上现货了，兄弟们的Alpha积分都要溢出来了吧，明天第一阶段门槛大概率要230+了
+
+## 89. Jul 28, 2025 · 11:23 AM UTC · 1949792942169678113#m
+- 链接：https://twitter.com/mars_bnb/status/1949792942169678113#m
+- 作者：@mars_bnb
+
+> #BNB新高 第一笔 $BNB 是当时入职的一家公司发的奖金，当时单个100块，总价值3w人民币，而今天单个 $BNB   突破了6000人民币，314个的价值也来到了188w，我不但一个没卖还一直在加仓，可以算是超级钻石手了，虽然不是开服就买入的，但也有7年了， $BNB 短期看到1500，未来市值必然破万亿，打开想象力！
+
+## 90. Jul 28, 2025 · 4:05 AM UTC · 1949682596402618625#m
+- 链接：https://twitter.com/mars_bnb/status/1949682596402618625#m
+- 作者：@mars_bnb
+
+> 最近汇率是真的低，兄弟们钱是赚不完的，该出金就出金，不消费永远是账户里的数字
+
+## 91. Jul 27, 2025 · 7:13 AM UTC · 1949367456138658083#m
+- 链接：https://twitter.com/mars_bnb/status/1949367456138658083#m
+- 作者：@mars_bnb
+
+> 10分钟1000条评论这是大家的怒火，评论是什么就不用说了，多少人3点停下车，闹钟提醒，放下正在做的事，日常耍猴吗？
+
+## 92. Jul 25, 2025 · 9:30 AM UTC · 1948677162971594956#m
+- 链接：https://twitter.com/mars_bnb/status/1948677162971594956#m
+- 作者：@mars_bnb
+
+> 今天币安Alpha貌似又开始大面积风控了，正好总结下Alpha风控的一些经验吧
+>  
+> 1 首先开火车必封，这个其实也是互转
+>  
+> 2 互转也就是黑地址，号少问题不大，号多5个以上大概率风控，资金归集一定要每个号有自己的地址
+>  
+> 3 ip，一机多号，目前看问题不是很大，但是容易触发人脸
+>  
+> 4 有提币行为容易风控，可能有比例因素，比如1wu提100u肯定问题不大，但是2000u提走1000可能就比较危险，可能是有资产评分在里面
+>  
+> 5 刷交易赛容易风控，这个可能是交易太快，或者交易相似性过高，走的可能不是一个风控策略，但是的确会影响Alpha风控
+>  
+> 6 只刷Alpha，这个存疑，有人会交易现货合约，把账号做的更真实，降低多号之间的相似性
+>  
+> 7 新号容易风控，这个基本充钱就能解决
+>  
+> 换设备目前看对解封没什么用，解封要么申诉，最近申诉通过的也不少，要么找sisi，小元，丫丫，要么就等20天左右，大概一个风控周期会过去，然后重新评估无违规行为自动解封
+>  
+> 更多Alpha风控等细节交流加群
+>  
+> t.me/mars_bnb
+>  
+> $LN $ASP $TREE $PHY $BNB #Binance #TGE
+
+## 93. Jul 25, 2025 · 8:20 AM UTC · 1948659524518203424#m
+- 链接：https://twitter.com/mars_bnb/status/1948659524518203424#m
+- 作者：@mars_bnb
+
+> 以后看不太出来多少Alpha刷量用户了，再加上币安加上了 Alpha 主站限价单成交统计，钱包刷量的会越来越少，不过还是可以继续根据空投份额和门槛估算，目前20w还是有的，后面如果没有大毛应该就这些人了
+>  
+> 币安Alpha 风控，交易赛，空投刷量策略加群
+>  
+> t.me/mars_bnb
+>  
+> $ASP $LN $BNB $TREE
+
+## 94. Jul 24, 2025 · 10:12 AM UTC · 1948325341963186272#m
+- 链接：https://twitter.com/mars_bnb/status/1948325341963186272#m
+- 作者：@mars_bnb
+
+> 第一次见这么垃圾的Alpha空投，一路跌一个反弹都没有？ $ASP
+
+## 95. Jul 24, 2025 · 7:22 AM UTC · 1948282727410573820#m
+- 链接：https://twitter.com/mars_bnb/status/1948282727410573820#m
+- 作者：@mars_bnb
+
+> 余额也不显示，binance 这个b是bug吗…
+
+## 96. Jul 23, 2025 · 9:28 AM UTC · 1947952049808945571#m
+- 链接：https://twitter.com/mars_bnb/status/1947952049808945571#m
+- 作者：@mars_bnb
+
+> 都在等着明天的大毛，预测下明天 $ASP 150个，一阶段 230左右 二阶段200，100u大毛
+
+## 97. Jul 23, 2025 · 3:09 AM UTC · 1947856571670859974#m
+- 链接：https://twitter.com/mars_bnb/status/1947856571670859974#m
+- 作者：@mars_bnb
+
+> 一早起来 $BNB 也新高了，下一个目标1000！
+>  
+> 币安Alpha 风控，交易赛，撸毛，加群交流！
+>  
+> t.me/mars_bnb
+>  
+> $LN $ASP $YALA
+
+## 98. Jul 22, 2025 · 9:42 AM UTC · 1947593013615857801#m
+- 链接：https://twitter.com/mars_bnb/status/1947593013615857801#m
+- 作者：@mars_bnb
+
+> 今天的 $YALA 份额不多，没想到也两阶段了，只是分数有点太高了
+
+## 99. Jul 22, 2025 · 9:17 AM UTC · 1947586817567678889#m
+- 链接：https://twitter.com/mars_bnb/status/1947586817567678889#m
+- 作者：@mars_bnb
+
+> 看今天TGE $ZKWASM 这趋势，后天 空投 $ASP 如果分段，第一阶段门槛至少235，太多人抢不到空投导致分数居高不下，建议Alpha空投也设置5分，10分档位，价值大约50u以上的可以扣15分，30u的扣10分，10u的扣5分，先到先得太招人骂了，规则又要到改的时候了
+> @heyibinance @sisibinance @binancezh $YALA
+
+## 100. Jul 21, 2025 · 7:09 AM UTC · 1947192157116436888#m
+- 链接：https://twitter.com/mars_bnb/status/1947192157116436888#m
+- 作者：@mars_bnb
+
+> 好消息，抢到了，坏消息，卖早了
+> $TA
+
+## 101. Jul 18, 2025 · 2:17 AM UTC · 1946031557518733445#m
+- 链接：https://twitter.com/mars_bnb/status/1946031557518733445#m
+- 作者：@mars_bnb
+
+> ETH ☞ 10000
+
+## 102. Jul 14, 2025 · 4:12 PM UTC · 1944792110437400818#m
+- 链接：https://twitter.com/mars_bnb/status/1944792110437400818#m
+- 作者：@mars_bnb
+
+> $PUMP 北京时间凌晨1点，他来了他终于来了
+
+## 103. Jul 13, 2025 · 10:02 AM UTC · 1944336649283887467#m
+- 链接：https://twitter.com/mars_bnb/status/1944336649283887467#m
+- 作者：@mars_bnb
+
+> 今年的交易所怎么了？总是自己捅自己刀子
+
+## 104. Jul 11, 2025 · 12:50 PM UTC · 1943654096004596015#m
+- 链接：https://twitter.com/mars_bnb/status/1943654096004596015#m
+- 作者：@mars_bnb
+
+> 翻老照片发现了之前18年参加Binance Labs的照片，那时候labs刚成立吧，现在改名 @yzilabs ， @ellazhang516 也回来了， 一晃我也入行七年了， $BTC 也在不断新高，永远充满热情，Keep Buidl！
+> @heyibinance @sisibinance @cz_binance $BNB
+
+## 105. Jul 11, 2025 · 10:46 AM UTC · 1943622894342578224#m
+- 链接：https://twitter.com/mars_bnb/status/1943622894342578224#m
+- 作者：@mars_bnb
+
+> 确定性的收益变成了开彩票，拼科技，确定是好事？份额少可以再把随机尾号端上来，或者分高就高点，这么搞心态找骂啊
+> $TALE $G
+
+## 106. Jul 11, 2025 · 10:33 AM UTC · 1943619598877888963#m
+- 链接：https://twitter.com/mars_bnb/status/1943619598877888963#m
+- 作者：@mars_bnb
+
+> 真的拉胯，哪个奇葩想到的先到先得的规则？？？又要离职了吗兄弟们，最近两周的空投太拉胯了
+> $TALE $G
+
+## 107. Jul 11, 2025 · 9:47 AM UTC · 1943608023697748167#m
+- 链接：https://twitter.com/mars_bnb/status/1943608023697748167#m
+- 作者：@mars_bnb
+
+> 今天两个都是先到先得…
+> $G
+
+## 108. Jul 11, 2025 · 9:33 AM UTC · 1943604542135816328#m
+- 链接：https://twitter.com/mars_bnb/status/1943604542135816328#m
+- 作者：@mars_bnb
+
+> ETH ☞ ATH
+
+## 109. Jul 11, 2025 · 8:44 AM UTC · 1943592142829662599#m
+- 链接：https://twitter.com/mars_bnb/status/1943592142829662599#m
+- 作者：@mars_bnb
+
+> 因为Alpha风控大赦天下了，所以先到先得的门槛也到了190？
+> $TALE
+>  
+> t.me/mars_bnb
+
+## 110. Jul 11, 2025 · 3:03 AM UTC · 1943506405769777349#m
+- 链接：https://twitter.com/mars_bnb/status/1943506405769777349#m
+- 作者：@mars_bnb
+
+> 昨天开了一单空 $M ，还好发现不对劲平了，太猛了沃日
+> @MemeCore_ORG
+
+## 111. Jul 10, 2025 · 2:50 PM UTC · 1943321966091604200#m
+- 链接：https://twitter.com/mars_bnb/status/1943321966091604200#m
+- 作者：@mars_bnb
+
+> 今天币安Alpha风控大赦天下了？看群里交易赛，19号风控的，甚至有开火车的都解封了，目前的结论除了开火车还有黑地址互转，还要尽量避免频繁冲提，加群讨论币安Alpha风控，交易赛！
+>  
+> t.me/mars_bnb
+>  
+> $M $VELVET $TALE #TGE
+
+## 112. Jul 9, 2025 · 5:20 PM UTC · 1942997309882798376#m
+- 链接：https://twitter.com/mars_bnb/status/1942997309882798376#m
+- 作者：@mars_bnb
+
+> $M 这么涨明天就要上现货了吧，币安Alpha空投给的1000个马上要300U了
+
+## 113. Jul 9, 2025 · 9:43 AM UTC · 1942882323629760682#m
+- 链接：https://twitter.com/mars_bnb/status/1942882323629760682#m
+- 作者：@mars_bnb
+
+> 这周都三个TGE了…撸不明白了，难道真要一起降档抢低分了？
+> $VELVET
+
+## 114. Jul 9, 2025 · 9:10 AM UTC · 1942874009655287860#m
+- 链接：https://twitter.com/mars_bnb/status/1942874009655287860#m
+- 作者：@mars_bnb
+
+> 先到先得的空投有点太多了，不是每个人都能抢到，额度不够可以门槛高一点，Alpha二阶段的规则搞出来为什么不执行？
+> $TANSSI
+
+## 115. Jul 9, 2025 · 4:28 AM UTC · 1942802930790449485#m
+- 链接：https://twitter.com/mars_bnb/status/1942802930790449485#m
+- 作者：@mars_bnb
+
+> 看到小区群里发的，币安躺枪？杀猪盘了这是，不过小红书的确盘哥太多了…
+
+## 116. Jul 8, 2025 · 8:22 AM UTC · 1942499587887095817#m
+- 链接：https://twitter.com/mars_bnb/status/1942499587887095817#m
+- 作者：@mars_bnb
+
+> 很明显大家的分都不够用了，不过TGE已经很少人参加了，每次都抱有一丝希望，每次都让人失望…
+> $BOOM
+
+## 117. Jul 7, 2025 · 2:01 PM UTC · 1942222396309770443#m
+- 链接：https://twitter.com/mars_bnb/status/1942222396309770443#m
+- 作者：@mars_bnb
+
+> 大家都这么重口味嘛，一整天全是红姐，不过最近的行情还有币安Alpha的确是总感觉哪里不对劲…收益降低的太快，50u都是大毛，如果没有大的，刷15分的已经是反撸了，只有收益下降人数才会下降，耐心等等吧，风控也在逐步解除，加群交流Alpha交易赛和风控！
+>  
+> t.me/mars_bnb
+>  
+> $PAL $RCADE $BOOM
+
+## 118. Jul 5, 2025 · 7:11 AM UTC · 1941394604546457659#m
+- 链接：https://twitter.com/mars_bnb/status/1941394604546457659#m
+- 作者：@mars_bnb
+
+> 都在说okx冻结账户收集用户隐私信息，前天我刚填完币安的个人资料，也要了薪资收入的信息，提示的是如果不填就影响正常功能使用，最近突然开始严格了吗？我觉得可以明确一下为什么要收集这些信息，说实话我也挺排斥的，来币圈就是为了限制少一些，现在反而要求更高了
+>  
+> @heyibinance @sisibinance
+
+## 119. Jul 5, 2025 · 6:36 AM UTC · 1941385682611732744#m
+- 链接：https://twitter.com/mars_bnb/status/1941385682611732744#m
+- 作者：@mars_bnb
+
+> 如果没有fdv 1b的项目不可能会有大毛的，这两周有五六十的就抓紧领吧，短期貌似没有比较大的项目，等待下一个 $SAHARA
+>  
+> $AIN
+
+## 120. Jul 4, 2025 · 9:50 AM UTC · 1941072163387433222#m
+- 链接：https://twitter.com/mars_bnb/status/1941072163387433222#m
+- 作者：@mars_bnb
+
+> 开奖开奖啦，以下10人每人10U，私信我usdt bsc地址，我会用bitget提现，防止大家地址关联币安Alpha风控，毕竟一个黑地址能风控一大片，交流币安Alpha风控，交易赛加群兄弟们，群里很多人通过申诉或者自动解封的一起交流！
+>  
+> t.me/mars_bnb
+>  
+> $CROSS $ICNT $M $AIN $PAL $BNB
+
+## 121. Jul 4, 2025 · 6:29 AM UTC · 1941021404889252065#m
+- 链接：https://twitter.com/mars_bnb/status/1941021404889252065#m
+- 作者：@mars_bnb
+
+> 有不少人问这个新加坡永居，简单讲下要求，这个需要开具无犯罪证明，学历要求研究生，如果是工科专业有可能一年内就能拿到，其他专业需要一年多，每年都有少数名额走高校捐款通道，有需要的大佬留言私信详细信息~
+>  
+> #新加坡永居
+
+## 122. Jul 3, 2025 · 12:45 PM UTC · 1940753882579390522#m
+- 链接：https://twitter.com/mars_bnb/status/1940753882579390522#m
+- 作者：@mars_bnb
+
+> 明天晚上开奖哈，有需要新加坡永居的大佬私信留言！走捐款通道保证靠谱！
+
+## 123. Jul 2, 2025 · 11:28 AM UTC · 1940372085693620457#m
+- 链接：https://twitter.com/mars_bnb/status/1940372085693620457#m
+- 作者：@mars_bnb
+
+> 48小时后开奖，避免Alpha风控到时候用钱包转，转发抽奖了兄弟们！
+
+## 124. Jul 2, 2025 · 8:26 AM UTC · 1940326126607638796#m
+- 链接：https://twitter.com/mars_bnb/status/1940326126607638796#m
+- 作者：@mars_bnb
+
+> 10000粉抽奖贴，关注 @mars_bnb 转发评论点赞三连抽奖10个10u，限蓝v，历时两个多月，7000+蓝v关注，一路走来不容易感谢兄弟们的支持，继续加油！
+>  
+> 最近要去坡县，有需要新加坡永居的可以私信我，2年内可以拿到，正规合法途径，也是朋友介绍的，有需要的大佬留言私信哈~
+
+## 125. Jul 1, 2025 · 1:57 PM UTC · 1940047162202853778#m
+- 链接：https://twitter.com/mars_bnb/status/1940047162202853778#m
+- 作者：@mars_bnb
+
+> 交流币安Alpha空投加群老铁们，交易赛，风控都可以交流，马上一万粉，明天给大家抽奖10u*10！
+>  
+> t.me/mars_bnb
+>  
+> $BGSC $ECHO $BNB
+
+## 126. Jul 1, 2025 · 10:48 AM UTC · 1939999614670659793#m
+- 链接：https://twitter.com/mars_bnb/status/1939999614670659793#m
+- 作者：@mars_bnb
+
+> BG格局大大的 @xiejiayinBitget @Bitget_zh
+
+## 127. Jun 30, 2025 · 5:10 AM UTC · 1939551986539737261#m
+- 链接：https://twitter.com/mars_bnb/status/1939551986539737261#m
+- 作者：@mars_bnb
+
+> 上半年马上就结束了，最近半年出金了有一百多w吧，后悔年初没有多出点，现在这汇率太低了，祝大家都发财！
+> $BNB
+
+## 128. Jun 28, 2025 · 4:26 AM UTC · 1938816272621543570#m
+- 链接：https://twitter.com/mars_bnb/status/1938816272621543570#m
+- 作者：@mars_bnb
+
+> 更新时间了，6-9周，应该是首批了，这手速不去抢Alpha空投可惜了…
+>  
+> $SAHARA $MORE $CESS #YU7 #小米yu7
+
+## 129. Jun 26, 2025 · 2:16 PM UTC · 1938239901243478404#m
+- 链接：https://twitter.com/mars_bnb/status/1938239901243478404#m
+- 作者：@mars_bnb
+
+> 太离谱啦，应该是20秒内锁定的，希望年内能提!
+> #YU7 #小米汽车
+
+## 130. Jun 26, 2025 · 9:32 AM UTC · 1938168436687048718#m
+- 链接：https://twitter.com/mars_bnb/status/1938168436687048718#m
+- 作者：@mars_bnb
+
+> 可以说是最懂币安Alpha风控的群了，三百多个人各种各样的情况，交易赛风控其他不违规找币安相关人员可以解封
+>  
+> 加群老铁们
+> t.me/mars_bnb
+>  
+> $XO $H $CESS $SAHARA
+
+## 131. Jun 26, 2025 · 5:28 AM UTC · 1938107156932526427#m
+- 链接：https://twitter.com/mars_bnb/status/1938107156932526427#m
+- 作者：@mars_bnb
+
+> 币安Alpha空投档位现在变成了高档饭，抢剩饭，恰烂饭😂…今天的剩饭 $H 已经抢没了，晚上的 $SAHARA 应该是高档饭，所以大家是吃什么饭的？
+>  
+> $XO $CESS
+> @heyibinance @sisibinance @binancezh
+
+## 132. Jun 26, 2025 · 4:01 AM UTC · 1938085172311625766#m
+- 链接：https://twitter.com/mars_bnb/status/1938085172311625766#m
+- 作者：@mars_bnb
+
+> 兄弟们我大号解封了，风控没有原因，解封也不知道啥原因，不管咋样，今天三个猛吃一把
+> $SAHARA $XO $CESS
+>  
+> 币安Alpha风控交流加群
+> t.me/mars_bnb
+
+## 133. Jun 25, 2025 · 5:09 PM UTC · 1937920986483200108#m
+- 链接：https://twitter.com/mars_bnb/status/1937920986483200108#m
+- 作者：@mars_bnb
+
+> 新的嘴撸平台，先注册再说，不能漏过任何一个机会！
+>  
+> 注册链接
+> vibes.fun/?ref=mars_bnb
+>  
+> 官推
+> @vibesdotfun
+>  
+> $NEWT $SPK
+
+## 134. Jun 25, 2025 · 4:09 PM UTC · 1937905951379800164#m
+- 链接：https://twitter.com/mars_bnb/status/1937905951379800164#m
+- 作者：@mars_bnb
+
+> Yaps 几个月没涨，看着大家几万个 $NEWT 着实羡慕啊，以后必须嘴起来， @MagicNewton 给的太多了，后面看下嘴下提的多的几个项目
+> @0G_labs @TheoriqAI @wardenprotocol @campnetworkxyz @Humanityprot @0xSoulProtocol @irys_xyz
+>  
+> 还是回到 @KaitoAI 来，每天发一条就不信分不涨，ICT大哥们互动下！
+>  
+> 1. @campnetworkxyz
+> 定位亮点：AI + IP 的 Layer1，打造创作者经济底层链
+> 融资背书：3000 万美金 A 轮（由 1kx 领投），有一定实力
+> 技术创新：Proof-of-Provenance 协议，解决 IP 归属与分润
+> 用户价值：支持链上 remix 虚拟角色，结合 AI agent
+> 当前红利：K2 测试网 Summit 激励计划开放，参与即有潜在代币奖励（0.25%）
+> 为什么值得关注：
+> 这个项目本质上是 Web3 版的“IP 发行 + 变现”平台，尤其适合虚拟人、AI 创作者等，提供了从创作到收益的完整链上路径。
+> 参与建议：
+> 尝试注册 IP 或参与 remix 测试
+> 参与 K2 测试网，获得积分或份额奖励
+>  
+> 2. @wardenprotocol
+>  
+> 定位亮点：解决 AI 幻觉问题，打造可信 AI 验证层
+> 协议突破：SPEX 协议可以链上验证 AI 输出（对抗 AI 幻觉）
+> 开发友好：Agent Kit + Quant Kit，支持多链、模块化部署
+> 空投驱动：Pre-TGE 阶段有代币倾斜（2.5%），激励早期参与
+> 为什么值得关注：
+> AI 可信性验证是 Web3 + AI 的核心难题，Warden 不只是做“AI 上链”，而是解决“AI 输出可信性”的基础设施——这类技术底层极为稀缺。
+> 参与建议：
+> 关注空投任务和 SPEX 测试活动
+> 留意其 Dev Kit 开放和社区建设动态
+>  
+> 3. @TheoriqAI
+> 定位亮点：构建“AI 智能体 DeFi 自动驾驶系统”
+> 主网上线预告：2025 年 7 月上线，已有明确 roadmap
+> 技术亮点：构建 AI 智能体集群，自主管理资金和策略
+> 叙事潜力：定位为 Web3 的 “iPhone 时刻”，属于高叙事项目
+> 为什么值得关注：
+> 这是一个结合 DeFi + AI agent 的自动化平台，将“策略自动执行”与“市场感知”打包，颠覆目前 DeFi 人工操作的模式，有点像“AI 驾驶员”。
+> 参与建议：
+> 参与 alpha 测试或模拟环境试用
+> 跟进其 Agent 模型能力开放情况
+
+## 135. Jun 25, 2025 · 3:23 PM UTC · 1937894434412380335#m
+- 链接：https://twitter.com/mars_bnb/status/1937894434412380335#m
+- 作者：@mars_bnb
+
+> $XNY 我想知道一周能有10u吗？
+
+## 136. Jun 25, 2025 · 12:34 PM UTC · 1937851965310222530#m
+- 链接：https://twitter.com/mars_bnb/status/1937851965310222530#m
+- 作者：@mars_bnb
+
+> 🚀 Introducing the Codatta Booster Airdrop!
+>  
+> We’re excited to launch this campaign with @BinanceWallet , a major step in building a decentralized data ecosystem for next-gen AI.
+>  
+> 🎁600,000,000 $XNY will be distributed over 12 weeks to contributors completing tasks like data annotation, quizzes & social media engagement.
+>  
+> ⏰Season 1 Starting Time: 2025-06-25 13:00 UTC
+>  
+> 📌 Quick Highlights:
+> 🔹 3 Seasons | 12 Weeks
+> 🔹 50M $XNY/week
+> 🔹 Grand Rewards via Lucky Draw
+> 🔹 Cumulative earnings
+> 🔹 Open to Binance Keyless Wallet users (61+ Alpha Points, No Points Burned)
+>  
+> 🧭 Campaign Overview: codatta.medium.com/introduci…
+>  
+> Get ready to join the action! 🔥
+>  
+> #Codatta #Airdrop #BinanceWallet #AI $XNY
+
+## 137. Jun 24, 2025 · 2:54 PM UTC · 1937524842221437021#m
+- 链接：https://twitter.com/mars_bnb/status/1937524842221437021#m
+- 作者：@mars_bnb
+
+> 如果上了币安现货的后面都跟最近的现货一样涨一波，要不了多久现货效应就又回来了，山寨行情也会好很多，低谷反弹看到希望了
+>  
+> $NEWT $SAHARA
+
+## 138. Jun 24, 2025 · 12:00 PM UTC · 1937481000617169402#m
+- 链接：https://twitter.com/mars_bnb/status/1937481000617169402#m
+- 作者：@mars_bnb
+
+> 今天 $MGO 有人抢到吗？今天没抢到明天180分的 $NEWT 更是难上加难，感觉两边都在骂，一阶段嫌分高，二阶段嫌抢不着…也不知道哪里出问题了，哦对，还有风控的在干瞪眼，风控加群的都300人了，实在是无奈，加群报团取暖兄弟们…
+>  
+> t.me/mars_bnb
+
+## 139. Jun 24, 2025 · 9:11 AM UTC · 1937438302510153863#m
+- 链接：https://twitter.com/mars_bnb/status/1937438302510153863#m
+- 作者：@mars_bnb
+
+> 10秒领完？这个先到先得的规则我宣布可以取消了…想让大家都领就不扣分阳光普照吧，别搞这种花里胡哨的
+> $MGO $NEWT $DMC
+
+## 140. Jun 23, 2025 · 2:16 PM UTC · 1937152757296984172#m
+- 链接：https://twitter.com/mars_bnb/status/1937152757296984172#m
+- 作者：@mars_bnb
+
+> 这公告时间不对吧，6.17上市？ $NEWT
+> @heyibinance @sisibinance @binancezh
+
+## 141. Jun 23, 2025 · 1:25 PM UTC · 1937139935104078306#m
+- 链接：https://twitter.com/mars_bnb/status/1937139935104078306#m
+- 作者：@mars_bnb
+
+> 简单总结下，预售就和buidlpad一样，要等项目方开盘，而助推器booster，更像是钱包的Megadrop，完成任务给空投，感觉币安最近一直在做下沉市场，可能这行情实在没什么办法
+> $XNY
+
+## 142. Jun 23, 2025 · 9:41 AM UTC · 1937083604284362830#m
+- 链接：https://twitter.com/mars_bnb/status/1937083604284362830#m
+- 作者：@mars_bnb
+
+> 币安今天又风控了一批吗？我大号还没解封，实在不知道为什么了，很多人都被封的莫名其妙，最近也在纠结要不要离职，Alpha积分门槛马上250，一个周期吃两次已经很不错了，除非能抢到第二阶段，再坚持几天看看，有被风控的可以加群讨论
+> $CARV $H $SAHARA
+>  
+> t.me/mars_bnb
+
+## 143. Jun 22, 2025 · 1:32 PM UTC · 1936779373153321352#m
+- 链接：https://twitter.com/mars_bnb/status/1936779373153321352#m
+- 作者：@mars_bnb
+
+> 表哥你认真的吗？ @cz_binance
+
+## 144. Jun 20, 2025 · 4:06 PM UTC · 1936093404456444206#m
+- 链接：https://twitter.com/mars_bnb/status/1936093404456444206#m
+- 作者：@mars_bnb
+
+> 前两天不是说欧易 #OKX 支持bsc的usdt吗，怎么看还没有？
+>  
+> @okx @okxchinese @Haiteng_okx @mia_okx
+
+## 145. Jun 20, 2025 · 10:38 AM UTC · 1936010854325273091#m
+- 链接：https://twitter.com/mars_bnb/status/1936010854325273091#m
+- 作者：@mars_bnb
+
+> $LOT 今天的TGE很垃圾？解封让我来，20u也不嫌少
+
+## 146. Jun 20, 2025 · 6:14 AM UTC · 1935944305254056409#m
+- 链接：https://twitter.com/mars_bnb/status/1935944305254056409#m
+- 作者：@mars_bnb
+
+> $MAT 十分钟还没领完，20u看来都嫌少啊…
+
+## 147. Jun 20, 2025 · 3:31 AM UTC · 1935903358969430470#m
+- 链接：https://twitter.com/mars_bnb/status/1935903358969430470#m
+- 作者：@mars_bnb
+
+> 没想到一晚上群里都200多人了，这波Alpha风控的人太多了，至少风控了一半以上的号，群里有申诉通过的，还有没开火车没互转一机一号也被风控的，也有互转开火车没被风控的，整个没有任何规律…感觉币安风控部门一直在抽风…兄弟们加群同步风控实时进度！
+>  
+> t.me/mars_bnb
+>  
+> $MAT $LOT $BRIC
+
+## 148. Jun 19, 2025 · 2:52 PM UTC · 1935712246254149770#m
+- 链接：https://twitter.com/mars_bnb/status/1935712246254149770#m
+- 作者：@mars_bnb
+
+> 看了下我自己的号也被Alpha风控了，七年的老号…
+> $MAT $SPK
+
+## 149. Jun 19, 2025 · 2:19 PM UTC · 1935703924083998913#m
+- 链接：https://twitter.com/mars_bnb/status/1935703924083998913#m
+- 作者：@mars_bnb
+
+> Alpha吃饭功夫又风控上了？能不能别抽风啊…
+
+## 150. Jun 19, 2025 · 10:43 AM UTC · 1935649652432638082#m
+- 链接：https://twitter.com/mars_bnb/status/1935649652432638082#m
+- 作者：@mars_bnb
+
+> Alpha风控群里有人自动解封，目前看都是老号，大家可以再检查下，加群讨论兄弟们！
+> t.me/mars_bnb
+>  
+> $MAT $SPK $AB $BR
+
+## 151. Jun 19, 2025 · 9:06 AM UTC · 1935625222700626359#m
+- 链接：https://twitter.com/mars_bnb/status/1935625222700626359#m
+- 作者：@mars_bnb
+
+> 积分刚好够，就是封了这么多还这么高的分也太离谱了，第二阶段门槛210，6个小时也没意义， 5分钟肯定就抢没了 $MAT
+
+## 152. Jun 19, 2025 · 8:45 AM UTC · 1935620045486669851#m
+- 链接：https://twitter.com/mars_bnb/status/1935620045486669851#m
+- 作者：@mars_bnb
+
+> 瑟瑟发抖…看我被夹过几百u就别风控我了
+
+## 153. Jun 19, 2025 · 8:31 AM UTC · 1935616417162027449#m
+- 链接：https://twitter.com/mars_bnb/status/1935616417162027449#m
+- 作者：@mars_bnb
+
+> 看各大群，感觉币安Alpha风控至少有一半的人，家庭号也一锅端，我自己大号倒是没问题，也可能还没轮到，不过现在空投也少了，想保证收益必然会干掉相当一部分账号，且行且珍惜吧，账号还在兄弟们可以留个言…
+> $MAT $BRIC $SPK
+
+## 154. Jun 19, 2025 · 8:01 AM UTC · 1935608919252246606#m
+- 链接：https://twitter.com/mars_bnb/status/1935608919252246606#m
+- 作者：@mars_bnb
+
+> 今天很多人币安Alpha被风控了，不管工作室还是自己的号，我自己家人也有几个被风控了，被封的可以加群交流下经验，看是离职还是怎么能解封下
+> t.me/mars_bnb
+
+## 155. Jun 18, 2025 · 12:12 PM UTC · 1935309758082457613#m
+- 链接：https://twitter.com/mars_bnb/status/1935309758082457613#m
+- 作者：@mars_bnb
+
+> 今天好像都在掉粉，封了机器人号？我这八千粉丝6000蓝v，一个粉丝也没买，完全没有掉粉，没有回关的提醒下马上回关，还有就是经常互动的Alpha博主陆续都离职了，后面看看重点做哪一块吧，有兄弟在搞的也可以推荐下，目前考虑嘴撸但不想发太多重复内容，要么就是交易或者Meme，总之要继续保持活跃！
+
+## 156. Jun 17, 2025 · 11:19 AM UTC · 1934933945579401417#m
+- 链接：https://twitter.com/mars_bnb/status/1934933945579401417#m
+- 作者：@mars_bnb
+
+> 一个月前 $NXPC 600u大毛，半个月前 $LA 300u大毛，今天 $SPK 150u大毛，照这么下去下个月50u都是香的，这是必然的事情，还是那句话，最终肯定会达到年化10%左右的理财效果，控制好成本，先保证不反撸再考虑能不能吃到大的
+
+## 157. Jun 17, 2025 · 9:40 AM UTC · 1934908931501117490#m
+- 链接：https://twitter.com/mars_bnb/status/1934908931501117490#m
+- 作者：@mars_bnb
+
+> 今天TGE  $BOMB 比前几次人多不少，2分的差距应该没有两万多人，看来都是 $SPK 双吃或者跟昨天两个一起4吃离职的…
+
+## 158. Jun 16, 2025 · 12:12 PM UTC · 1934584846518751707#m
+- 链接：https://twitter.com/mars_bnb/status/1934584846518751707#m
+- 作者：@mars_bnb
+
+> 最近推特有点抽风，之前只开Premium的时候其实是没广告的，但是不知道最近怎么广告突然就出来了，而且感觉也没有因为Premium广告减半，考虑下要不要升级为Premium+
+>  
+> #我的X周年纪念日
+
+## 159. Jun 16, 2025 · 9:12 AM UTC · 1934539504322540014#m
+- 链接：https://twitter.com/mars_bnb/status/1934539504322540014#m
+- 作者：@mars_bnb
+
+> 看了一圈都在离职Alpha，我这大号可能会一直刷下去的，还没到离职的时候，没有对刷1000u资金的确刷起来太累了，规则改之后如果愿意抢高分没领的还可以继续刷着，前提是每天单号的磨损一定要控制在4u左右
+> $ZKJ $KOGE $F $VELO
+
+## 160. Jun 16, 2025 · 7:41 AM UTC · 1934516543368609981#m
+- 链接：https://twitter.com/mars_bnb/status/1934516543368609981#m
+- 作者：@mars_bnb
+
+> $VELO 一发空投， $F 就开始跌，全是双吃离职的吧
+
+## 161. Jun 16, 2025 · 4:06 AM UTC · 1934462513015583061#m
+- 链接：https://twitter.com/mars_bnb/status/1934462513015583061#m
+- 作者：@mars_bnb
+
+> 再提建议，交易量积分和余额积分一样设置上限，比如12分，刷的再多也是12分，没有 $KOGE $ZKJ 之后交易量再多Alpha里也没有任何一个币的深度能吃得下，容易让很多人被挂着，然后就是加入BNB持仓积分，可以少，但不能没有，积分可以有上限，到上限的人多空投少点就好了，但是风险一定要控制，否则四月五月被吹的多高，六月就要被骂的多惨，这也是我们不想看到的，转化为稳定一点的理财产品才是可以长远的事情
+>  
+> @heyibinance @sisibinance
+
+## 162. Jun 16, 2025 · 3:24 AM UTC · 1934451889405669596#m
+- 链接：https://twitter.com/mars_bnb/status/1934451889405669596#m
+- 作者：@mars_bnb
+
+> 以为最起码合约现货是双向奔赴，结果只是Alpha单纯的跌下来了而已…
+> $ZKJ
+
+## 163. Jun 16, 2025 · 2:40 AM UTC · 1934440824005341344#m
+- 链接：https://twitter.com/mars_bnb/status/1934440824005341344#m
+- 作者：@mars_bnb
+
+> 上周就感觉币安这要被反噬，积分的上涨必然就是风险的上涨，一大早各个群大家都像无头苍蝇一样一下不知道刷什么了，2000u磨损5u的比比皆是，如果没有哪个项目方敢继续这么加池子的话，那大家就又回到了一个月前的状态，Alpha积分门槛回到200以下指日可待，怎么螺旋上去的，就得怎么螺旋下来
+> $KOGE $ZKJ
+
+## 164. Jun 15, 2025 · 5:01 PM UTC · 1934295135707443313#m
+- 链接：https://twitter.com/mars_bnb/status/1934295135707443313#m
+- 作者：@mars_bnb
+
+> 对刷取消了，还是建议Alpha交易积分设置上限，减少卷的程度，先保证大家资金安全吧，动不动都刷几万几十万交易量太危险 $KOGE $ZKJ
+> @heyibinance @sisibinance
+
+## 165. Jun 15, 2025 · 2:50 PM UTC · 1934262262510018920#m
+- 链接：https://twitter.com/mars_bnb/status/1934262262510018920#m
+- 作者：@mars_bnb
+
+> $AB $MYX $ZKJ $KOGE 都这么搞的话Alpha就真废了
+
+## 166. Jun 15, 2025 · 1:31 PM UTC · 1934242459502235979#m
+- 链接：https://twitter.com/mars_bnb/status/1934242459502235979#m
+- 作者：@mars_bnb
+
+> 最近行情本来就不好， 不管是链上还是交易所的山寨，都跌了不少， $ZKJ 和 $KOGE 因为Alpha刷量一直价格很稳，这从昨天交易量开始跌这也稳不住了，只是太打脸了，币安刚上线Alpha的lp这立马就套一波人，圆都圆不回来了…
+
+## 167. Jun 15, 2025 · 12:51 PM UTC · 1934232185197982166#m
+- 链接：https://twitter.com/mars_bnb/status/1934232185197982166#m
+- 作者：@mars_bnb
+
+> 有人被挂着了吗？ $KOGE $ZKJ
+
+## 168. Jun 15, 2025 · 8:22 AM UTC · 1934164657054654913#m
+- 链接：https://twitter.com/mars_bnb/status/1934164657054654913#m
+- 作者：@mars_bnb
+
+> 还有人嫌弃TGE的70u吗？
+
+## 169. Jun 14, 2025 · 7:02 PM UTC · 1933963262640668685#m
+- 链接：https://twitter.com/mars_bnb/status/1933963262640668685#m
+- 作者：@mars_bnb
+
+> $ZKJ 搁这跳舞呢？ 按今天这情况明天刷量多少人得被挂起来，最稳的 $ZKJ 和 $KOGE 也不稳了，都不敢刷量的话这也成了降低门槛的方式了
+
+## 170. Jun 14, 2025 · 2:23 PM UTC · 1933893096267526401#m
+- 链接：https://twitter.com/mars_bnb/status/1933893096267526401#m
+- 作者：@mars_bnb
+
+> @Ice_Frog666666 蛙总我需要你
+
+## 171. Jun 14, 2025 · 7:59 AM UTC · 1933796496421630223#m
+- 链接：https://twitter.com/mars_bnb/status/1933796496421630223#m
+- 作者：@mars_bnb
+
+> 新出的规则跟这位老哥 @Vannnn8866 提的建议一摸一样的，不会是真的看到了吧哈哈 @heyibinance @sisibinance ，后面要关注第一阶段优先领取有多长时间，还有第二阶段门槛降低多少，降低的多了就要靠抢了，降低的少意义就不大，等于是把补发的额度分给积分不够的人，不管怎么说，有改变就是好事
+>  
+> $DEGEN
+
+## 172. Jun 14, 2025 · 4:42 AM UTC · 1933746942431146248#m
+- 链接：https://twitter.com/mars_bnb/status/1933746942431146248#m
+- 作者：@mars_bnb
+
+> 今天都在说Alpha撤退离职了，从五月开始基本上是每半个月收益腰斩一次，现在2+16还不算反撸，但是花大量时间去刷一个月收益100-200u对部分人已经没有吸引力了，不如回归链上或者考虑撸其他项目，说实话我从一开始就考虑过什么时候撤退，因为总感觉规则还会再改两次，所以一直在坚持，但是6月过了一半规则也没有变化，如果月底还没有新规则，那就只有大户和工作室还在玩了
+>  
+> 币安应该也不是不想改规则，可能真的没什么好办法，不管改什么规则都是这一个结局，1wu的收益稳定在年化10%-15%，也就是一个月参加两三个空投，利润100u+，比常规理财收益高，但是要花时间去刷量，平衡点只会在这个时候
+>  
+> 我应该还会再坚持一段时间，不过天下没有不散的筵席，已经离职的兄弟们下个Alpha见！
+>  
+> 补一张顶峰的24分纪念一下
+> @cz_binance @heyibinance
+> @sisibinance @binancezh
+>  
+> $ROAM $SGC $KOGE $ZKJ
+
+## 173. Jun 13, 2025 · 4:02 PM UTC · 1933555528816603436#m
+- 链接：https://twitter.com/mars_bnb/status/1933555528816603436#m
+- 作者：@mars_bnb
+
+> 没注意今天的TGE $SGC 跌了这么多…这个价格扣去bnb成本10u，利润20u，刷17分4天参加一次，一天磨损7u，4天28u，已经妥妥的反撸了，以后只有大户和一鱼多吃的了，怎么感觉怪怪的？
+> #TGE
+
+## 174. Jun 13, 2025 · 6:58 AM UTC · 1933418715040919804#m
+- 链接：https://twitter.com/mars_bnb/status/1933418715040919804#m
+- 作者：@mars_bnb
+
+> $SGC 积分门槛240，还不够猛，请快进到250兄弟们一起离职
+
+## 175. Jun 12, 2025 · 8:41 AM UTC · 1933082284099526667#m
+- 链接：https://twitter.com/mars_bnb/status/1933082284099526667#m
+- 作者：@mars_bnb
+
+> 很现实的问题，工作室的人脸，群控，脚本，手机还有人力成本都很低，散户自己找的人搞几个号成本降不下来基本就是反撸了
+
+## 176. Jun 12, 2025 · 8:20 AM UTC · 1933077012446576839#m
+- 链接：https://twitter.com/mars_bnb/status/1933077012446576839#m
+- 作者：@mars_bnb
+
+> 三国志大战？难以想象如果不是Alpha这种代币跟币安会有关系吗…
+> $SGC
+
+## 177. Jun 12, 2025 · 6:26 AM UTC · 1933048221938692113#m
+- 链接：https://twitter.com/mars_bnb/status/1933048221938692113#m
+- 作者：@mars_bnb
+
+> 阿尔法突袭来了PUNDIAI，今晚还会再来一个？
+
+## 178. Jun 11, 2025 · 12:27 PM UTC · 1932776766218940495#m
+- 链接：https://twitter.com/mars_bnb/status/1932776766218940495#m
+- 作者：@mars_bnb
+
+> 贴个群友问的客服的解答
+
+## 179. Jun 11, 2025 · 12:19 PM UTC · 1932774657440296997#m
+- 链接：https://twitter.com/mars_bnb/status/1932774657440296997#m
+- 作者：@mars_bnb
+
+> 应该只是余额积分支持lp余额而已，大家别慌啊
+> $IDOL
+
+## 180. Jun 11, 2025 · 2:45 AM UTC · 1932630143111160313#m
+- 链接：https://twitter.com/mars_bnb/status/1932630143111160313#m
+- 作者：@mars_bnb
+
+> 没想到这么快就有分歧了，账户1000u的每天都强烈呼吁干掉大额低费池，账户一万u的每天想法设法要进入到十万分之一池子，也挺好，有分歧就有热度，不过一致意见先要干掉的肯定是账户1000u开火车用10000u刷的，其他目前只能走一步看一步，低费池子还是有可能回来的，否则只能对刷了
+>  
+> $HOME $RESOLV $IDOL
+
+## 181. Jun 10, 2025 · 4:54 PM UTC · 1932481410851615145#m
+- 链接：https://twitter.com/mars_bnb/status/1932481410851615145#m
+- 作者：@mars_bnb
+
+> $HOME 上cb了，2500个加油涨到200u我就领
+
+## 182. Jun 10, 2025 · 12:12 PM UTC · 1932410657477210196#m
+- 链接：https://twitter.com/mars_bnb/status/1932410657477210196#m
+- 作者：@mars_bnb
+
+> 官方文章下面已经全在吐槽了，现在已经处于反噬的边缘，昨天10u的阳光普照也解决不了问题，币安肯定也看见了，大家也提了不少建议，我觉得至少先把bnb持仓或者余额对应交易量这两个规则加上，至少一半的人是支持的，后面悲观点Alpha空投可能就像理财产品一样了，稳定在年化10%左右，且行且珍惜吧…
+> @heyibinance @sisibinance
+> $HOME $RESOLV $IDOL
+
+## 183. Jun 10, 2025 · 11:56 AM UTC · 1932406597629993107#m
+- 链接：https://twitter.com/mars_bnb/status/1932406597629993107#m
+- 作者：@mars_bnb
+
+> $RESOLV 积分门槛239，不想说啥了，来吧，继续提建议吧兄弟们！
+
+## 184. Jun 10, 2025 · 8:21 AM UTC · 1932352296215855293#m
+- 链接：https://twitter.com/mars_bnb/status/1932352296215855293#m
+- 作者：@mars_bnb
+
+> 开个Alpha空投规则建议贴，大部分人都想要改规则，规则也是要改了，现行的扣分机制已经一个月整了，除了人力和资金都充分的工作室，相当一部分人处于反撸边缘，大家有什么建议就可以评论一下，一起让币安看到！
+> @cz_binance @heyibinance @sisibinance @binancezh
+>  
+> $HOME $RESOLV $BNB
+
+## 185. Jun 10, 2025 · 3:00 AM UTC · 1932271504445882713#m
+- 链接：https://twitter.com/mars_bnb/status/1932271504445882713#m
+- 作者：@mars_bnb
+
+> 10w人刷16分以上，意思是至少2+16=18*15=270分以上的有至少10w人，这部分人最近一个周期15天能吃4次，平均三四天吃一次，10w+平均到这三四天也正好是三万人每天达标，跟 @litangsongyx 的数据也是对应上的，数据应该是没问题了，每多点人门槛就会提升一点，只要还有利润，这个就没办法
+>  
+> $HOME $RESOLV
+
+## 186. Jun 9, 2025 · 1:38 PM UTC · 1932069773925593350#m
+- 链接：https://twitter.com/mars_bnb/status/1932069773925593350#m
+- 作者：@mars_bnb
+
+> @heyibinance
+
+## 187. Jun 9, 2025 · 1:37 PM UTC · 1932069636524359931#m
+- 链接：https://twitter.com/mars_bnb/status/1932069636524359931#m
+- 作者：@mars_bnb
+
+> 这个建议好
+
+## 188. Jun 9, 2025 · 12:34 PM UTC · 1932053616581566464#m
+- 链接：https://twitter.com/mars_bnb/status/1932053616581566464#m
+- 作者：@mars_bnb
+
+> 以后都不消耗积分了？不管怎么说有改变就是好事
+
+## 189. Jun 9, 2025 · 8:36 AM UTC · 1931993723023556907#m
+- 链接：https://twitter.com/mars_bnb/status/1931993723023556907#m
+- 作者：@mars_bnb
+
+> 因为币安Alpha空投进来的很多散户基本都是2+15=17*15=255，现在很多还是亏着磨损的，现在放弃得认亏，一直刷可能一直赶不上，如果积分门槛再涨到250+，这部分人真就成250了，一次没吃到又引起全网声讨又是一个vc币风波，这玩意可没法做空了，真就得认亏了 @heyibinance @sisibinance @cz_binance
+
+## 190. Jun 9, 2025 · 7:45 AM UTC · 1931980945500131448#m
+- 链接：https://twitter.com/mars_bnb/status/1931980945500131448#m
+- 作者：@mars_bnb
+
+> Alpha空投再不改规则就要被反噬了，四月五月被吹的多猛，六月跌下来就要多惨，这也是大家不愿意看到的，降低频率，增加单次利润，降低积分门槛，定交易积分上限，避免大家每天像上班一样刷几十次，不那么累领一点猪脚饭，远远好过每天高强度刷量最后处于反撸的边缘 $SKATE $HOME
+>  
+> @cz_binance @heyibinance @sisibinance @binancezh
+
+## 191. Jun 9, 2025 · 7:35 AM UTC · 1931978478746030367#m
+- 链接：https://twitter.com/mars_bnb/status/1931978478746030367#m
+- 作者：@mars_bnb
+
+> $SKATE Alpha积分门槛236，大家都在抱怨积分门槛高领不到，好奇到底是人太多了，还是工作室刷的分太高了？看来一直要卷到散户一个周期只能吃一次的地步了
+
+## 192. Jun 8, 2025 · 7:20 AM UTC · 1931612323653021795#m
+- 链接：https://twitter.com/mars_bnb/status/1931612323653021795#m
+- 作者：@mars_bnb
+
+> 今天看大家都又要从Alpha离职了哈哈，不过这次可能大家是真要辞职了，因为1000u的已经上不了桌了，再不改规则从这周开始陆续很多人就会放弃了，还有马上高考结束，一堆新鲜的应届生马上就要入职了，准备好了吗？
+> $FLY $AB $OL $SKATE
+
+## 193. Jun 8, 2025 · 7:02 AM UTC · 1931607764423557335#m
+- 链接：https://twitter.com/mars_bnb/status/1931607764423557335#m
+- 作者：@mars_bnb
+
+> 监控也没啥意义了说实话，收益都是固定的，大毛也是涨出来的，分数够不够自己也没办法，补发也是不确定的
+
+## 194. Jun 8, 2025 · 7:01 AM UTC · 1931607387481538925#m
+- 链接：https://twitter.com/mars_bnb/status/1931607387481538925#m
+- 作者：@mars_bnb
+
+> NXPC这样的大毛可遇不可求，LA 这种第一天50u第二天涨到300u的更是凤毛麟角，币安目前就是按照100u左右给大家发，份额多就门槛低多几个人，份额少就门槛高少几个人，开盘就会被砸下去所以很多时候都不到100u了，所以没必要纠结，该领就领该卖就卖，多号的可以多就多领，少就少领，总之领了就卖不持有不波段，切记我们是来撸毛的
+> $OL $LA $SKATE
+
+## 195. Jun 8, 2025 · 6:30 AM UTC · 1931599613443629144#m
+- 链接：https://twitter.com/mars_bnb/status/1931599613443629144#m
+- 作者：@mars_bnb
+
+> 压线过，下周门槛要240了 $OL
+
+## 196. Jun 7, 2025 · 11:32 AM UTC · 1931313291756020044#m
+- 链接：https://twitter.com/mars_bnb/status/1931313291756020044#m
+- 作者：@mars_bnb
+
+> 既然大家都这么卷那我就不客气了，每天24分，24*15=360，Alpha积分门槛300分都毫不畏惧，不过说实话这么卷下去也不是办法，如果真百万分之一手续费最后肯定就只剩工作室了，可以考虑交易量积分也来个上限，或者增加其他规则，规则的调整已经非常迫切了，这两天感觉社区都要疯癫了…
+> @heyibinance @sisibinance @binancezh @BinanceWallet
+>  
+> $FLY $AB $RESOLV $HOME $SKATE
+
+## 197. Jun 7, 2025 · 5:56 AM UTC · 1931228840443211959#m
+- 链接：https://twitter.com/mars_bnb/status/1931228840443211959#m
+- 作者：@mars_bnb
+
+> @heyibinance @sisibinance @BinanceWallet 给你们找bug呢，赶快赶快
+
+## 198. Jun 7, 2025 · 5:51 AM UTC · 1931227525016936561#m
+- 链接：https://twitter.com/mars_bnb/status/1931227525016936561#m
+- 作者：@mars_bnb
+
+> 图二从交易里进去是全屏，比图一从首页或者市场进去半屏比起来性能好很多，即便这样还是太离谱，这代码怎么写的… @BinanceWallet
+
+## 199. Jun 7, 2025 · 5:02 AM UTC · 1931215059520213037#m
+- 链接：https://twitter.com/mars_bnb/status/1931215059520213037#m
+- 作者：@mars_bnb
+
+> 好久没用币安钱包刷Alpha了，今天又试了下，还是非常卡顿，发热，频繁闪退，手机是小米15u，刷了几次后手机热的比打了一小时吃鸡都严重，一笔买卖需要将近一分钟，不知道是我这手机适配问题还是普遍现象，别家钱包都在进步，我们这不说进步了，别倒退啊，完全看不到体验有任何的提升，真是不想吐槽，拉胯的就像昨天的空投，早上刷了会实在是难以继续，是不是这几个月钱包团队一直在划水？我也是做程序员的，你可以说钱包很复杂，但是我不觉得是很耗性能的功能啊，别的不说搞几个月时间完全可以至少把性能优化好啊，真的不能理解也不能接受作为宇宙第一交易所一个钱包都做不好！
+>  
+> @heyibinance @sisibinance @binancezh @BinanceWallet @cz_binance
+
+## 200. Jun 7, 2025 · 3:38 AM UTC · 1931193935004659936#m
+- 链接：https://twitter.com/mars_bnb/status/1931193935004659936#m
+- 作者：@mars_bnb
+
+> xHunt一直没用过，画师正好提到就装上插件看看，现在排名五万多，任重而道远，加油吧！

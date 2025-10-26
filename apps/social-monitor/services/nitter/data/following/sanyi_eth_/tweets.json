@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1392362247574286336",
+    "screen_name": "sanyi_eth_",
+    "name": "sanyi.eth",
+    "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99qSG",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392362247574286336/1657108383",
+    "followers_count": 254641,
+    "friends_count": 6324,
+    "statuses_count": 17405,
+    "favourites_count": 7823,
+    "listed_count": 2809,
+    "location": "New York, USA",
+    "website": "https://t.co/oCq7vNASAQ",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2021-05-12 14:13:28 +08:00",
+    "url": "https://twitter.com/sanyi_eth_",
+    "rest_id": "1392362247574286336"
+  },
+  "tweets": [
+    {
+      "id": "1966141207844893115#m",
+      "content": "更新一下常用的工具list，记得Mark\n\n前言：下面分别按照不同的分类进行汇总的link。可能不是最全最好，但是至少能保证我是最经常用的，建议大家择优选择。\n\n🌟交易所折扣返佣类\nOKX交易所： xacncf.com/join/19702335\nOKX钱包：web3.okx.com/zh-hans/join/sa…\n币安：web3.binance.com/referral?re…\nhyperliquid：app.hyperliquid.xyz/join/SAN…\n\n🌟多号撸毛类\n三件套购买：buymail.shop/\n接码（自己选便宜的用）\n- hstock.org/zh\n- sms4u.vip/\n- onlinesim.io/?utm_referrer=t…\nIP类（包含住宅IP，动态IP）\n- haiwaidaili.net/\n- app.nstproxy.com/\n过图形验证：yescaptcha.com/\n推特买号/刷数据：gmfensi.net/\n\n🌟链上工具类\nMCT：mct.xyz/\nCointool：ct.app/\n批量查空投：checker.diligencedao.com/\nBN alpha 空投日历：alpha123.uk/zh/\n测试水购买：testnetbridge.com/sepolia\nrevoke（解除授权）：revoke.cash/zh/token-approva…\n\n🌟信息监控/查询\nleekme（主要看最近热门项目的）：leak.me/\nrootdata（查融资）：rootdata.com/\nicoanalytics（查融资）：icoanalytics.org/\n\n🌟谷歌插件类\n推特鸟盾（诈骗推文自动拉黑）：chromewebstore.google.com/de…\nXhunt（推特信息面板）：chromewebstore.google.com/de…\n油猴插件：chromewebstore.google.com/de…\n翻译机脚本（配合油猴使用）：greasyfork.org/zh-CN/scripts…\n推特用户备注：greasyfork.org/zh-CN/scripts…、\nrevoke（链上方便插件，授权监控）：chromewebstore.google.com/de…\nX Unfollower（批量取关不活跃的X账号）：chromewebstore.google.com/de…\n\n🌟影视资源类\n电影天堂（电影下载）：dytt8.com/\n低端影视（热门电影在线观看，清晰度高，站长品味不错）：ddys.pro/\n音范丝（蓝光电影精选，下载收藏）：yinfans.me/",
+      "timestamp": "Sep 11, 2025 · 2:06 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966141207844893115#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1979933837095510119#m",
+      "content": "现在10月快过了2/3了，地狱难度算是预测对了。接下来说一下11月有啥变化\n\n结论：\n1. 基础分数线会从200提升到更高，大部分人刷的14+2的模式会开始亏本/不赚钱\n2. 脚本肯定抓不完。11月抢的难度会相对现在下降一点，但是不多。\n3. 辞职人数不会比大家预想的多。更大一波的辞职流估计要等12月了。不过具体还是看11月的收益，如果维持现在甚至负收益，那么12月肯定辞职\n\n接下来说一下原因\n1️⃣脚本抓不完，清不透\n现在市面上展示出来的脚本，只是冰山一角。他们通过很夸张的视频和分数来展示，只是为了去吸引更多他们的目标用户，去卖脚本。\n但是本质上，参数是可以调的，跟开挂一样。威慑力最大，集群最多的脚本，要么是小范围的付费群组，要么是工作室自研的。所以玩狼人杀举报那套，是不奏效的。\n@heyibinance  @sisibinance  如果要想彻底解决这个问题的话，我建议可以考虑下“细化存款积分的加分机制”\n现在工作室敢铺号的原因无非是roi足够高。如果当理财来算，单号1100U的成本，一个月的利润有200U，就是20%左右的收益了。如果提高本金占用，工作室再能抢，但是总体号是变少了\n当然我还有一些其他的策略，如果需要可以单独找我\n2️⃣alpha审核变严，优质项目变少，变相导致无法消分，从而影响基础分数线，进而影响利润\n最近alpha项目有几个风气。买alpha项目壳子，吸筹拉盘画线吃资费；还有类似 $rvv 这种硬掏池子的。\n其实本质上一个alpha的利润都被BN控制在50U左右的。但是9月利润高的主要原因，除开好项目多这方面，还有一个很大的因素是大家发现低市值的项目等空头砸完去抄底是有利润的。所以用户拿到空投之后，行为出现了变化：拿到就卖➡️拿到后过一会儿卖➡️拿到不卖➡️不仅不卖，甚至抄底\n但是后面几颗老鼠屎坏了一锅粥。一旦这个平衡打破之后，又会回到拿到就卖的逻辑了。\n再加上 $RVV $BAS 这种相对恶劣的情况，BN势必会提高项目审核的门槛，加强审核。这样一做，必然上线的项目会减少。但是alpha的用户可没少。没地儿消分之后，为了维持50U左右的基础利润，基础分数线必定上升，单号的利润必定下降。\n除非BN又出一些消分的活动，否则这个循环要持续到盈亏平衡打破之后的离职潮。\n3️⃣辞职人数比预料的低\n这个就比较好解释了。因为大家都知道10月份卷，所以都想等到11月再看看。所以，这个就具体看11月的收益情况了。如果11月回暖，那么难度会继续维持\n4️⃣14+2和16+2的博弈。\n因为上面的原因2。所以大部分散户现在面临一个情况是，到底是14+2还是16+2。\n前者的利润会下滑，后者对损耗/操作有一定要求。\n如果市场选择后者，那么针对于这波刷16+2的用户，还有一大堆割的手段。到时候又是一波舆论，就看BN怎么玩了。\n\n对散户来说，11月的策略是什么？\n别去买脚本。不管这个脚本是否付费，我只能说你敢用别人的脚本，这辈子也算是有了\n熬。我对工作室这个月的要求就是保本就行。11月再看。反正前面吃饱了，我能熬得住\n舔4倍+选项目领取。这个是建立在熬的前提上，把有限的分用在更有价值/收入更稳定的项目上，以确保自己能度过这个月。当然还有另外一个策略。只吃先到先得，然后钻一手赌彩票。一个跑出来，就能cover这个月的利润。",
+      "timestamp": "Oct 19, 2025 · 3:33 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1979933837095510119#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1979914341592830170#m",
+      "content": "一天之内从0.17跌到0.025也是创造历史了",
+      "timestamp": "Oct 19, 2025 · 2:15 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1979914341592830170#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1979746072701354469#m",
+      "content": "之前提到过的 @metaplex Genesis协议新项目 @dmdotfun ，21 号开始\n目前来看，前面发射的几期里面，貌似就 $goat 有点拉跨。最好的还是 $card 和 $exo 的前期。\n不过最近行情有点转折，而且最近打钱的一大堆，大家手头上不一定有足够流动性，所以可以观察观察\n上个月 $mplx 的协议收入差不多有2.5m的样子，然后其中 1.1m拿来回购 $mplx ，接近一半了快。\n如果要把现在的项目按照盈利情况分一个档次的话\n目前90% 以上的币圈项目都是亏钱（我说的是项目本身的盈利情况，并非项目方本身）。属于基建+有持续盈利进账的项目，真的算top级别了。还持续把盈利拿出来回购，目前貌似我就在 @HyperliquidX 上看到过。\n我撸毛倒是格外喜欢这类型项目。只可惜他们已经发币了...\n反正持续关注 @metaplex 吧",
+      "timestamp": "Oct 19, 2025 · 3:07 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1979746072701354469#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1979705844423073996#m",
+      "content": "$rvv 这波被黑，我感觉将会成为alpha的转折点",
+      "timestamp": "Oct 19, 2025 · 12:27 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1979705844423073996#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1979562917172490501#m",
+      "content": "之前火山口 @Calderaxyz 空投，不是有一半被强制质押了吗？\n现在解锁了。大家有时间记得看看\n链接：claim.caldera.foundation/",
+      "timestamp": "Oct 18, 2025 · 2:59 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1979562917172490501#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1978844197802106956#m",
+      "content": "我真服了。\n闹钟本来都设好了，准备去存 @ventuals 的款的。结果，脑瘫打开B站看了部解说。\n等看完回来，就只来得及存3X那档了\nNFT也没了\n艹艹艹，看锤子电视",
+      "timestamp": "Oct 16, 2025 · 3:23 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1978844197802106956#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1978831044720644491#m",
+      "content": "记得去签署一下 @gaib_ai 这个",
+      "timestamp": "Oct 16, 2025 · 2:31 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1978831044720644491#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1978825107138306184#m",
+      "content": "buidlpad上的新打新项目 @MMTFinance 还是记得去参加一下。\n除了正常的K过等打新之外，那个组队嘴撸的玩法记得做一下\n链接:buidlpad.com/projects/moment…\n规则应该都在推特上看过，我就说一些比较重要需要注意的地方吧。\n1. 玩法很简单。总结下来就是组队嘴撸，最后每个人可以分到150U甚至更多的额度。\n2. 15号-22号截止，一共就一周时间\n3. 散户的声量也会被注意到。\n4. 发推的时候一定要 @MMTFinance 和 @buidlpad 这俩。同时推特记得添加\"Ⓜ️Ⓜ️T\"到推特名字后面去\n5. 务必记得去个人资料那里去链接你自己的推特账号\n另外，这一次IDO的估值和释放条件对散户都挺友好的，都是100%TGE，不像其他的项目只有50%。\n这一次IDO一共分两层\n第一层，2.5亿估值\n这个主要是给在Buidlpad hodl里面持有超过3000ULP的用户。25号快照截止，现在还有机会。\n第二层，3.5亿估值\n这个主要就是上面说的嘴撸+过了KYC的认购者\n反正还是记得去参与一下",
+      "timestamp": "Oct 16, 2025 · 2:07 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1978825107138306184#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1978811338823704787#m",
+      "content": ". @MeteoraAG 的空投查询终于出来了\n链接：met.meteora.ag/\n\n别人赚不赚我不知道，我就复盘一下自己\n1. 做LP肯定是没回本的。我尝试跟K哥他们操作过一段时间的LP。这个号的总体损耗肯定是大于1000U以上的，目前512枚，怎么都回不了本\n2. 低保号赚了，但不多。当时低保的策略主要围绕在S本位的质押+M3M3的质押和LP上。虽然是猜对了团队的想法，但是架不住M3M3不值钱了。所以一来一回，少赚一丢丢。\n如果算上时间成本和SOL的涨跌幅的机会成本，那肯定还是亏了。\n\n咋说呢？谁赢了？听说嘴撸的给了1W枚？真的假的。有没有大哥过来说一下",
+      "timestamp": "Oct 16, 2025 · 1:12 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1978811338823704787#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1978432064023355415#m",
+      "content": "自从上次空 $myx 亏钱之后，我就不敢去碰这些妖币了。\n这几天的妖币就变成了 $COAI ，几天时间从0.3，拉到链上最高61，翻了200多倍。然后前天开始回撤，结果今天一看，又他妈新高了，直接 18。\n\n其实从项目本身来说，之前拿了1700w融资，bn 实验室也投了，而且又做的ai这个赛道，其实本金不算差的。\n只是就现在的币价和估值的关系而言，个人感觉，现在情绪还是过重\n\n不讨论这里面的庄到底是野庄/机构还是项目方。\n你散户进去只会有两个结果：要么被庄爆，要么交高额资费\n\n前几天刷推的时候，看到好多昨天被爆的\n笑死我了，还有好多人问，为啥钱越开越少，搁哪儿骂项目方的。就拿现在来说，自费都是-0.5%，钱可不是越开越少吗。\n\n看到这些，就知道bn alpha的最终目的还是达到了。\n总会有人为了撸毛来玩儿合约，也总会有人因为短期盈利最后血本无归的。\n特别是这种短期情绪堆积，价格波动大的。倍数稍微高点就直接死，补保证金都来不及。\n反正，注意安全。",
+      "timestamp": "Oct 15, 2025 · 12:05 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1978432064023355415#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1978419490871263257#m",
+      "content": "地狱难度",
+      "timestamp": "Oct 15, 2025 · 11:15 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1978419490871263257#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1978305329277341749#m",
+      "content": "有没有律师朋友说说，这样胜诉几率大吗？",
+      "timestamp": "Oct 15, 2025 · 3:42 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1978305329277341749#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1978092630933127209#m",
+      "content": "对这个背刺行为不予评价。\n但是有个事情倒是真的\n7月份我发撸 Limitless 的教程的时候，上面的TVL是极低极低的...\n原本是奔着 @Polymarket 不发币，我撸一下同赛道的项目，这样发币的概率会大一点的逻辑去的。\n结果，上了 @KaitoAI 的公募，结尾一看超募200多倍...\n\n对我来说还是有点抽象的，因为当时真的没人了解这个项目。我都不知道从哪个节点开始，大家开始疯狂fomo？\n是 @Polymarket 暗示发币开始？",
+      "timestamp": "Oct 14, 2025 · 1:36 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1978092630933127209#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1978091189443178552#m",
+      "content": "错峰查吧，现在进去也只能看到是否有资格，看不到数量。\n\n目前查到大号有资格，但是测试网的小号还没进去，查不到\n不过据DC里反馈，貌似测试网是没份额的。而且文档里也没看到写给测试网的。\n\n有几个是确定有的，就是不知道数量。\n链上的大户，一些蓝筹NFT的持有者\n比如KOL第一波和第二波领取了卡片的人\nLegion 筹款平台的参与者之类的。\n原文：blog.monad.xyz/blog/the-mon-…",
+      "timestamp": "Oct 14, 2025 · 1:31 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1978091189443178552#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1978086955247194471#m",
+      "content": ". @monad 开查询了\n链接：claim.monad.xyz/\n然而，进都进不去",
+      "timestamp": "Oct 14, 2025 · 1:14 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1978086955247194471#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1978072273538925002#m",
+      "content": "之前参与 @legiondotcc 打新 @yieldbasis 的，现在可以看看邮件\n邮件反馈说，TGE的时间是明天下午的6点（北京时间）\n\n按照目前场外的价格来算，500U的额度，成本0.2U，目前场外1U左右，差不多是本金的5倍的样子。\n然后明天下午，之前BN TGE的那部分代币也可以领取了。也算是比较阳光普照的一个项目了。",
+      "timestamp": "Oct 14, 2025 · 12:15 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1978072273538925002#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1978056873438765205#m",
+      "content": "诺，我说是地狱难度吧。\n\n@heyibinance @sisibinance 好好处理一下脚本的问题吧。\n要都是手速快，我也就认了。开挂的话，就太离谱了哈哈哈哈",
+      "timestamp": "Oct 14, 2025 · 11:14 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1978056873438765205#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1978009873280651459#m",
+      "content": "道理我都懂，大家都买T1赢，我现在买IG，是不是抄底啊？",
+      "timestamp": "Oct 14, 2025 · 8:07 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1978009873280651459#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1977982505870381558#m",
+      "content": "今天 $ENSO 和 $LAB 的分数直接冲到245以上的主要原因是\n上个月25号和26号的两波大消分之后，前两天刚好回分。然后因为有 $MON 的预期在，所以大家都攒分等14号看看会不会上ALPHA\n结果一攒都攒，现在高分地址肯定异常的多。\n现在有几个选择\n245以上分数的，这两天都都吃吧。因为单号的利润肯定被计算过。所以单纯攒分等大肉没啥意义\n220以上的分数，建议再攒一周。20号左右的分数线可能会更友好一点\n200以上的分数，我的建议是，这两天不动，等3-4天以后，吃1-2个先到先得。先把这波回分给错掉\n200以下的，这个就攒分就行。最近观望",
+      "timestamp": "Oct 14, 2025 · 6:19 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1977982505870381558#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1977977372478759195#m",
+      "content": "科技改变生活（二）",
+      "timestamp": "Oct 14, 2025 · 5:58 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1977977372478759195#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1977976681135788418#m",
+      "content": ". @trendsdotfun 在征集SOL的中文名。中奖的能拿100SOL\n\n如果非要meme一点的话，我感觉直接叫“梭拉纳”\n如果要稍微官方一点，感觉还是之前是“索拉纳”好听点",
+      "timestamp": "Oct 14, 2025 · 5:56 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1977976681135788418#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1977743159976210570#m",
+      "content": "16W地址，空投4500W，奶牛占其中2000W🤣",
+      "timestamp": "Oct 13, 2025 · 2:28 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1977743159976210570#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1977736787289104438#m",
+      "content": "这下 @BNBCHAIN 真成贵族链了🫡",
+      "timestamp": "Oct 13, 2025 · 2:02 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1977736787289104438#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1977346575845175768#m",
+      "content": "科技改变生活？",
+      "timestamp": "Oct 12, 2025 · 12:12 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1977346575845175768#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1977261974431076489#m",
+      "content": "看到了bn钱包的返佣，我总算知道，为啥那么多人要做返佣了啊。",
+      "timestamp": "Oct 12, 2025 · 6:36 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1977261974431076489#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976867270954746166#m",
+      "content": "Please stop selling, I need to support my family\n请停止出售，我需要养活我的家人\n販売をやめてください。私は家族を養う必要があります。\n판매를 중단하세요 가족을 먹여 살려야 해요\nПожалуйста, прекратите продавать. Мне нужно прокормить свою семью.",
+      "timestamp": "Oct 11, 2025 · 4:27 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976867270954746166#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976814427656929552#m",
+      "content": "老师，好像交易所出bug了，我买的那个eth/usdt永续的币咋不见了？",
+      "timestamp": "Oct 11, 2025 · 12:57 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976814427656929552#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976709077767274777#m",
+      "content": "住手！你在干什么？ @monad",
+      "timestamp": "Oct 10, 2025 · 5:59 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976709077767274777#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976673115695644821#m",
+      "content": "他妈的，这个市场太JB脆弱了。又杀人了",
+      "timestamp": "Oct 10, 2025 · 3:36 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976673115695644821#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976500990468816949#m",
+      "content": "老师们，今天冲哪个？",
+      "timestamp": "Oct 10, 2025 · 4:12 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976500990468816949#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976467724223070458#m",
+      "content": "🍚最近bsc上的热度比较好，昨天留意到前几天上币安alpha的 @Hi_PoPPOfficial 的token $P ，今天拉了50%了。\n\n工作室合作的朋友和我说，之前撸完alpha之后错手买了点，想着如果跑就得亏，就等着回本，今天一看居然还赚了\n这个项目是用AI 分析链上行为的产品，拿过10M的融资。产品也有人付费使用，付费的用户也有几万个。\n\n币流通量很低，只有14%左右，80%以上的筹码在项目方手里，都是等待解锁的机构筹码，总流通也就14%的样子，1%的alpha之外，没啥抛压了。\n最近bsc上的热度比较好。之前多个单字母的ticket项目都走的也不错。连续ATH之后，直至合约或者现货，没准下一个黑马项目\n\n之前好多人以为alpha起几百个号，只管给钱就能躺赚。其实真正实操下来才知道，这个真的是赚辛苦钱。\n在最近bsc链上情绪高涨，我发现上了币安alpha的项目都需要多调研下，刷alpha拿到的币啥时候该卖，啥时候该拿一拿，啥时候该买点搏一搏，也是需要自己多经历才能判断到",
+      "timestamp": "Oct 10, 2025 · 2:00 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976467724223070458#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976324228581556487#m",
+      "content": "那些起号刷alpha的人，你要考虑你团队里的傻逼率的问题\n\n好多人觉得，貌似我只要给了教程，垫了钱。他们框框刷，我等着月底领钱就行了。\n实际上则是，这玩意儿纯纯赚的是辛苦钱\n\n哪怕团队的傻逼率在5%，你100个号也有5个傻逼。\n但是你要花20-30%的精力去给这些傻逼擦屁股\n\n怎么表现的？\n领了空投，让他立马卖，结果他一键拉满点了Buy\n有的不看群消息的，让他领忘了领\n有的看了群消息，但是只看半截的。让他领了，结果忘了卖的\n有的大聪明，无师自通开合约，亏钱了还不敢说的\n有的则是要舔4倍积分，结果被新币夹了\n等等等等\n\n你不仅得考虑傻逼的问题，你还得规划分数怎么用，怎么多吃，如果抢不到怎么办？项目好不好，消息通知到位没等等因素\n\n所以我说，这玩意儿纯粹赚辛苦钱。如果你要招管理，这里额外又是一笔成本\n好多人还非不信...",
+      "timestamp": "Oct 9, 2025 · 4:29 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976324228581556487#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976256230512377922#m",
+      "content": "哦对。补充一下。\n我确认已经更新了最新的钱包IOS版本，结果还是没办法找到这个入口哈哈哈哈\n官方可以看看 @TrustWallet  @trustwalletzh",
+      "timestamp": "Oct 9, 2025 · 11:59 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976256230512377922#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976255880082620534#m",
+      "content": "之前BN投了的那个钱包 @TrustWallet 也搞了个ALPHA\n\n整体的推文比较长，嫌麻烦的看下面重点就行\n1. 玩法很简单，锁定 $TWT ，在他们APP内swap一次10U以上的代币就行（BNB/ETH/BASE这三个链）\n2. 奖池一共是5000000枚 $CRED ，这个主要是跟 @Credia_Layer 合作给的\n\n风险评估\n1. 虽然要锁定 $TWT ，但是最低门槛只需要1枚。目前价格是1.5左右的样子。还算相对友好。\n但是，官方说的单号最高锁20W枚。所以大概率给到奖励还是会看你锁的多少。如果锁的多，配合套保损耗应该还好\n2. SWAP倒是跟alpha那种不太像。不需要交易量。\n3. 截止到现在，我看到的 $CRED 的价格是0.1的样子。所以总奖池差不多50WU的样子，不算少。当然跟BN或者OKX那种体量肯定是没得比。至少对比其他项目，奖池还行。\n\n结论：感觉可以浅撸一下。如果真要玩儿，锁的多的话，务必做好套保",
+      "timestamp": "Oct 9, 2025 · 11:58 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976255880082620534#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976232945146003948#m",
+      "content": "好消息：BN支持中文交易符号， $币安人生 真有可能上了\n坏消息：可能是合约",
+      "timestamp": "Oct 9, 2025 · 10:27 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976232945146003948#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976222723060924785#m",
+      "content": "🍚因为不是视频创作者，我一般很少体验 @Everlyn_ai 这种AI视频创作工具。\n刚尝试着创作了一下，无论从生成速度，还是真实性上感觉都还可以，特别是光影这块儿，挺真实的。（也有可能是我没吃过好肉）\n唯一比较遗憾的是，可能是因为我是新手的原因，画面切换比较生硬。我尝试了好多个提示词，貌似都没办法解决这个切换的问题...\n\n再配合一下前段时间发的做meme的那个AI工具，感觉后续去卷DC Role的时候，都不用专门去小红书上请画师和视频剪辑了。\n正常来说，xhs上请个业余的画师，画一套4张meme图，50-100块钱就能找到。视频剪辑会稍微贵一点，要300多块钱，而且他们也是用的AI生成。\n自己用 @Everlyn_ai 生成的话，基础会员一个月才9.9U...\n\n这项目本身融了1500WU，Mysten Labs 领投。6号的时候还上了BN的TGE。背景没啥问题。\n走收费模式也还可以，就看后续能不能给 $LYN 持续赋能了。现在只上了alpha，还有现货和韩国的空间🤣\n\n#Web3Sora $LYN",
+      "timestamp": "Oct 9, 2025 · 9:46 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976222723060924785#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976167466150813697#m",
+      "content": "对了，这个气泡地图 @bubblemaps 很早之前就发币了，叫 $bmt 。当个工具用挺不错的",
+      "timestamp": "Oct 9, 2025 · 6:06 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976167466150813697#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976164773348659462#m",
+      "content": "用 @bubblemaps 看到一些数据\n这还是昨天的，看起来盈利的用户大于亏损的。今天一回调之后，亏损比例肯定会相对大一点\n\n刚还看 @0xyukaz 裤子说，昨天买币安汽车最高浮盈几十万u，结果今天就剩2wu\n上一次sol的盛世也是，好多从盈利钻到到亏，各种fomo上头，最后一地鸡毛\n\n所以也不必因为推上的晒图盈利而过分焦虑，只要持续呆在场内，总有机会的。\n时不时多用这种气泡图看看筹码分布，看看盈利和亏损地址比例，焦虑自然就降低不少",
+      "timestamp": "Oct 9, 2025 · 5:56 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976164773348659462#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976155622187073968#m",
+      "content": "还没绑定bn钱包的，可以走一下我的邀请\n邀请码：IVSBNLM2\n链接：web3.binance.com/referral?re…\n\n绑定也很简单，先进入钱包页面，主页里有个邀请好友\n点击进去，最下方有个输入邀请码\n最后输入：IVSBNLM2",
+      "timestamp": "Oct 9, 2025 · 5:19 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976155622187073968#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976147329179922681#m",
+      "content": "昨天的几个情绪盘都有不同程度的回调\n\n然后我看一些博主的评论区，几个经典发言又出现了\n“你还拿着吗？”\n“我就是看你才买的”\n“跌这么多你还看好吗？”\n“还有机会吗？”\n“操你妈的，退钱！”",
+      "timestamp": "Oct 9, 2025 · 4:46 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976147329179922681#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1976110059672482011#m",
+      "content": "扣掉gas和损耗，200u收益我都不敢承诺，你咋敢承诺400-700u的\n\n总不能算每个币的最高点吧…",
+      "timestamp": "Oct 9, 2025 · 2:18 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1976110059672482011#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1975928226360017033#m",
+      "content": "刚小狐狸 @MetaMask 更新了新版本，现在可以在手机上做合约了。直接app store商店更新就行了\n插件的话，我看了看貌似还不行，还需要等更新\n\n刚刚体验了一下，比前几天在SG参加小狐狸测试的时候好一点，流畅了不少\n\n他们的perp是接入的 @HyperliquidX 的，所以代币需要充值到ARB里面去然后再使用。整体开平仓的流畅度还不错。就是有很多的操作习惯，可能更照顾老外一点，对中国用户的使用习惯不是很友好，需要花一段时间适应。\n\n最后就是积分\n小狐狸明确是会给所有交易者积分的，大概率也会对过往的交易数据进行溯源奖励。\n如果绑定到发币这个事情上来看，感觉还是可以当perp dex去刷一下的。",
+      "timestamp": "Oct 8, 2025 · 2:16 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1975928226360017033#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1975905889157881961#m",
+      "content": "kaito上的 @trylimitless 可以查额度了\n链接：yaps.kaito.ai/capital-launch…\n\n塞满25WU的号，能拿3K多的额度。\n低保1000U的号，基本上都是10U+的额度\n\n分的挺少的。主要是谁都没想到，这一次能超募那么多倍。所以也在意料之中。\n\n幸好我有空投。希望别把老用户当狗...",
+      "timestamp": "Oct 8, 2025 · 12:47 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1975905889157881961#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1975780712021426301#m",
+      "content": "踏空人生，一观望就是一辈子",
+      "timestamp": "Oct 8, 2025 · 4:30 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1975780712021426301#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1975480915645374550#m",
+      "content": "讲个鬼故事... @soon_svm ATH了...\n\n之前有他们NFT的，记得存一下下面这个网站，到时候别忘了领币。\n链接：discover.soo.network/account\n\n原本以为这项目发了就没管了，结果趁着这波行情，居然还能ATH，牛逼的。",
+      "timestamp": "Oct 7, 2025 · 8:38 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1975480915645374550#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1975043083265069519#m",
+      "content": "现在市场上的perp，如果非要刷的话，还是可以看看 @grvt_io ，现在也没看到太多人FOMO去，虽然有人在提\n\n现在的情况是，9月23号的时候第一赛季结束了，现在开始的是第二赛季，800个积分就能进前十，每周积分给10W的样子。\n\n目前来说，lighter+grvt两个平台对冲着刷，损耗还好。单平台对冲的话，反正lighter那边女巫太JB严重了。\n\n不过，这种perp本质上还是损耗换币的逻辑。昨天算出来aster大部分被反撸之后，市场肯定会冷静一波。\n也算是好事\n潮水褪去才能知道谁在裸泳\n\n链接：grvt.io/exchange/sign-up?ref…",
+      "timestamp": "Oct 6, 2025 · 3:39 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1975043083265069519#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1974848166903357874#m",
+      "content": "不负责任的盲猜一手\n\n如果aster大反撸，整个perpdex市场会被强制冷静一波\n如果再来一个反撸的perpdex，那么后续没有发币的perp积分基本等同于欢乐豆",
+      "timestamp": "Oct 5, 2025 · 2:44 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1974848166903357874#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1974831642192789758#m",
+      "content": "避免杠精\n我没撸aster，只是单纯评论这个时间。如果你非要杠，你对",
+      "timestamp": "Oct 5, 2025 · 1:38 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1974831642192789758#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1974830149863715052#m",
+      "content": "之前就有不少群友问我刷不刷 @Aster_DEX 的二期\n只不过当时没有具体确认，S2是单独发还是和S3一起发。\n所以博弈点就单独变成了赌Aster项目方的格局\n\n其实从今天官方推文来看，赌格局大的那部分人赢了。\n只要aster吃下S2的抛压，币价稳住，无疑S3会卷中卷。其次，整个项目的品牌形象也打出来了（这个我认为才是最主要的）\n\n至于创始人说的每周1%，结果后两周疯狂刷的其实就平分2%\n这个事儿的话，我觉得还好。貌似S1也是这样的规则。最差的结果也能回本，从目前的情况来看，无非就是少赚点。",
+      "timestamp": "Oct 5, 2025 · 1:32 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1974830149863715052#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1974467038719692899#m",
+      "content": "对不起，看到那个收入我才明白，是我拖了后腿🤣",
+      "timestamp": "Oct 4, 2025 · 1:30 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1974467038719692899#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1974197665241182572#m",
+      "content": "emmm，这个 @legiondotcc 有更新\n\n哪怕是最开始收到了全部退款的地址，只要你没来得及退款，貌似也重新给额度了。\n反正真挺奇怪的\n我这个号，最开始要求的额度是2K-6K，于是官方发邮件说失败了。\n结果刚刚一看，又重新给了500U的额度。\n\n记得去看看啊",
+      "timestamp": "Oct 3, 2025 · 7:39 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1974197665241182572#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1974036095936741622#m",
+      "content": "🍚虽然最近 @0G_Foundation 这项目有点争议，但币价也总算稳在3U的样子了。\n本质上这项目还是有点东西的，AI赛道的L1，想解决现在AI遇到的高成本，数据隐私和可扩展性不足的问题。\n不过现在Web3 AI赛道这块儿个人感觉走的路还远，也不知道0G这边快人10步到底能不能吃到赛道红利。\n\n从9月底几个大项目发币之后，其实最直接的感觉就是：撸毛还不如持有 $BNB \n几个大一点的项目，只要上了现货都或多或少给了holder一部分空投。\n只是可惜了，现在接近1100的价格，只怕是再也见不到300的 $BNB 了。\n\n手上有闲置的BNB的玩家，直接去理财申购一手，后续直接拿holder的空投也不错。\n链接：binance.com/zh-CN/bnb",
+      "timestamp": "Oct 3, 2025 · 8:57 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1974036095936741622#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1974014552582062517#m",
+      "content": "目前我了解到的合作模式有下面几种\n1. 找大学生。他们出K+工作室出钱+策略，五五分。\n劣势：需要信任基础，害怕卷钱跑路。所以一般就是跟大学生中介合作，给中介分红+学分恐吓的管理方式；或者干脆自己不出钱或者出一半的钱，减少风险\n2. 家庭小作坊，自己的钱自己刷，象征性给点\n劣势：看关系远近，信任基础也分多与少。这个方法的难点其实在于，每个人都有本职工作，年龄也存在差别。先到先得不一定能抢到。\n3. 找小公司职员，多给一部分工资（500）。由公司代为管理，工作室出策略。\n劣势：不一定能找到这样的公司。除此之外，全是优点。人年轻，管理难度低。\n4. 有技术大佬，脚本可以过人脸+验证。这个目前我遇到的比较少，而且没验真过。\n无劣势\n\n关于抢的这个事情，很多人都在说去咸鱼买脚本。我可以说说我的看法\n1. 用别人的脚本，安不安全我不知道，但是至少危险性是大于对人的管理的。\n2. BN现在风控挺强的。目前我们工作室就已经测出来几种被封号的情况\n- 内转+外转\n- 手机的版本型号，甚至手机型号太落后，也会频繁人脸或者直接封号\n- 转入金额/时间太一致也会\n- Ip一致性太高也会。\n- K的实际年龄太大了，也会跳人脸。（你是说，80岁的奶奶凌晨2点起来扫脸刷alpha？）\n所以目前我觉得最优解，能解决人脸，能解决抢，还能不封号的方法，其实就是跟年轻人合作。\n要么自己垫钱，要么让年轻人垫一部分钱，利润商量好分成比例。\n这个月吃得饱，一方面是肉大，另一方面是几个阳光普照确实有手就行，门槛分数也低。\n\n至于还有人怀疑我工作室的真实性...\n我也没必要跟你们自证啥。你自己做做就知道了。\n管理20个人和管理200个人的难度其实是成指数型增长的。",
+      "timestamp": "Oct 3, 2025 · 7:31 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1974014552582062517#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1973932012299046985#m",
+      "content": "其实你什么都没错过，这些机会本来就不属于你，机会是留个有准备的人的，而不是懒狗怂逼\n\n如果你连挣钱都需要别人开导你，都要有人看着，盯着，哄着，鼓励着，劝你还是别干了，你他妈就该穷",
+      "timestamp": "Oct 3, 2025 · 2:04 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1973932012299046985#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1973787929396097518#m",
+      "content": "因为今天BN出了一个活动，5个人可以加15分。\n其实本质上就是把新号的成型时间提前了1天左右\n所以实际上，还是10月7号左右可以领取第一批空投。",
+      "timestamp": "Oct 2, 2025 · 4:31 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1973787929396097518#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1973787661514281277#m",
+      "content": "论，10月alpha的竞争会有多激烈？\n\n回分节奏重叠\n截止到10月3日，我工作室的号回分节奏基本围绕在下面几个节点\n其实大部分新号和回流的玩家，都是25号前后开始重新入职的。按照14+2的正常节奏来算，10月7日左右能到192分，可以领一些空投了。\n但是，恰好和25号前后已经领取的老号冲突了。\n所以可以很直接的预见到，10月7日后的一段时间内，alpha的竞争会相当激烈。\n\n项目相对较少\n目前来看，10月份没有太多已知要发币的项目。比较期待的可能就 @MeteoraAG  @trylimitless 这些。\n\nalpha上代币节奏变化\n之前是alpha上的代币，发了空投之后还会有一股后劲。所以很大一部分人会选择拿一拿，再等等看。但是最近的项目，都挺拉跨的。如果开局抛压的情况下，单号单项目价值大概率会回到30-50U左右的样子。\n\n所以，最后给到alpha玩家的建议：要么10月7号前，先把分消耗了；要么10月7号-14号这个周期内，就攒分不要领取。",
+      "timestamp": "Oct 2, 2025 · 4:30 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1973787661514281277#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1973381314528108580#m",
+      "content": "太棒了！我刚从bn的alpha领到了9 $eden!快来参与更多活动，赚取丰厚奖励!\n🤣🤣🤣",
+      "timestamp": "Oct 1, 2025 · 1:35 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1973381314528108580#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1973364210068602968#m",
+      "content": "GG！ 再见，下一个！",
+      "timestamp": "Oct 1, 2025 · 12:27 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1973364210068602968#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1973312367560892519#m",
+      "content": "这个 @legiondotcc 的打新，现在开始陆续退款了\n查询地址：dune.com/psygtech/legion-yie…\n\n反正预期放低一点吧。如果真的那么多人分，每个人才 100u不到",
+      "timestamp": "Oct 1, 2025 · 9:01 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1973312367560892519#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1973196666950893809#m",
+      "content": "就像我前几天说的一样，真不是所有的预售都要去打。\n我说一下我最近知道的一些项目有多离谱\n某项目，最近在融钱，按照3B的估值找融资，tge释放 50%，30-50wu起投...\n某t开头项目，沉默了那么久。又是 kyc的，又是宣发，又是上 cl，也要开始融资\n更不要说昨天的Yb和那个上来找机构融了 200m，然后大发善心留了800m给散户的天使项目 @flyingtulip_ \n不是，大家有钱就算了，这种也真的敢打啊？忘了前段时间抵制vc币了吗？老师？🙋‍♀️\n\n不管你们敢不敢，反正我是不敢...\n所以，祝大家好运。",
+      "timestamp": "Oct 1, 2025 · 1:22 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1973196666950893809#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1972681028113207672#m",
+      "content": "打了尼玛一个小时，终于成功了！\n虽然我 900 分，但是我还是追求稳妥，只打了 6000\n希望别把我拒了... \n这是恳求！不是命令！🥲 \n@legiondotcc",
+      "timestamp": "Sep 29, 2025 · 3:13 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1972681028113207672#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1972617984289165514#m",
+      "content": "也算是吃上好的了",
+      "timestamp": "Sep 29, 2025 · 11:02 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1972617984289165514#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1972448143695552815#m",
+      "content": "去查一下，钱包里收到 @HyperliquidX 官方发的创始nft没，目前地板6.6wu\n\n交易地址：drip.trade/collections/hypur…\n\n真牛逼啊",
+      "timestamp": "Sep 28, 2025 · 11:47 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1972448143695552815#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1972315870983844288#m",
+      "content": "落地后，看了看新加坡的物价水平，就想立马回家了🤣",
+      "timestamp": "Sep 28, 2025 · 3:02 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1972315870983844288#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1972220144765030881#m",
+      "content": "不是fud，只是大部分散户玩家提个醒\n\n1. 不是所有的预售都要去打。一定识别一下哪些是广子，哪些能打哪些不能打\n举个例子\nkaito上现在正在打的3个项目，除了 @trylimitless 可以考虑一下打不打之外，剩下两个我都不建议打。\n@Novastro_xyz 是广子就不说了，@AnichessGame 是gamefi赛道，这个赛道目前真的就夕阳赛道...\n如果规则严格一点，其实 @trylimitless 也有一定风险。无非就是博的预测赛道的第一个发币的项目，这里有一定的预期。\n风险在于市值+释放规则。开盘回本要等 1.5 亿市值去了。\n\n2. 除了开盘释放的tge比例之外，剩下没有释放的份额基本上可以视为归零。\n除了极个别项目，按照以往我投的项目情况来看，后续的释放都基本等同于归零\n\n3. 预售资金占用比较多。切忌为了赌低保，大量k号。毕竟 @Plasma 这种项目真的是少之又少。之前预售的时候，没有一个人猜到有低保空投的规则。\n\n反正，大家打钱，我还是建议冷静一下。",
+      "timestamp": "Sep 28, 2025 · 8:41 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1972220144765030881#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1972106359853531504#m",
+      "content": "距离2u，时间不多咯🤣",
+      "timestamp": "Sep 28, 2025 · 1:09 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1972106359853531504#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1971944796219711686#m",
+      "content": "现在开始猛猛扎进 bn alpha 的这些人\n只是没经历过7月和8月中下旬那种饿的前胸贴后背的情况...\n\n到时候规则一改，利润一降，又离职了哈哈哈哈",
+      "timestamp": "Sep 27, 2025 · 2:27 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1971944796219711686#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1971941082197119279#m",
+      "content": "其实是很惊喜的一个事情。\n在 @USDai_Official 还没开始打钱的时候，我发了一个科普贴。纯科普，没有任何夸赞，居然还是被官方看到了。\n原来，不刻意嘴撸，也是能被看到的。\n感激！",
+      "timestamp": "Sep 27, 2025 · 2:12 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1971941082197119279#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1971509059791814788#m",
+      "content": "坏了 $MIRA 上UB了，现在还没有空投查询链接\n\n@miraFND @Mira_Network  wen checker？",
+      "timestamp": "Sep 26, 2025 · 9:36 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1971509059791814788#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1971501346236063758#m",
+      "content": "结论其实就是\n@PlasmaFDN 是今年格局最大的项目之一\n\n预售你打钱就给额度，一枚成本0.05U\n打的少的，还给9304枚低保空投\nDC的OG每个人也有1-3W枚不等的空投\n哪怕是BN ALPHA，一阶段200分，二阶段100分，领的都是有手就行。甚至二阶段还降到了70分才领完...\n\n即使这样，项目方还把所有抛压吃下来了。现在价格还维持在1.3左右\n\n这格局还不大吗？",
+      "timestamp": "Sep 26, 2025 · 9:05 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1971501346236063758#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1971304570984059332#m",
+      "content": "以防有人没看过，推特再发一次当时六月份扫到的几个稳定币项目\n\n当时还没有usdai，如果有的话，这个也可以加进去",
+      "timestamp": "Sep 25, 2025 · 8:03 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1971304570984059332#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1971261219735732664#m",
+      "content": "我不知道是不是真的\n但是我知道，我的钱包已经炸了",
+      "timestamp": "Sep 25, 2025 · 5:11 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1971261219735732664#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1971208808073699735#m",
+      "content": "大毛至简",
+      "timestamp": "Sep 25, 2025 · 1:42 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1971208808073699735#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1971197097480421433#m",
+      "content": "真牛逼 @PlasmaFDN \n\n它给所有小额的，过了kyc打预售的用户，送了1WU的代币...\n我也收到了...\n\n真牛逼 $XPL",
+      "timestamp": "Sep 25, 2025 · 12:56 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1971197097480421433#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1971156782497268222#m",
+      "content": ". @miraFND $mira 上现货了\n\n从24年12月买节点开始，到后面的积分再到现在。\n自己搞了一批号，希望能吃到猪脚饭\n\n现在就怕的是，老用户不如狗。买的节点，撸的积分不作数哈哈哈哈",
+      "timestamp": "Sep 25, 2025 · 10:16 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1971156782497268222#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1970834395683844326#m",
+      "content": "我以为没啥人关注 @BasedOneX 来着，结果今天打完流放之路2一看，这一次他们的发射，公开已经超募23倍了，白名单都快10倍了\n\n目前来看，白名单大概率吃大肉的。\n\n其次，撸Based正如我最开始说的。\n他们本身发币算一回事，另外还会空投一些hyperevm上生态代币。这个确实可以关注一下\n\n反正记得搞搞：app.based.one/r/SANYI",
+      "timestamp": "Sep 24, 2025 · 12:55 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1970834395683844326#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1970448983018610879#m",
+      "content": "听说 @theblessnetwork 嘴撸的，被反撸了？",
+      "timestamp": "Sep 23, 2025 · 11:23 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1970448983018610879#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1970408602478514459#m",
+      "content": "🍚貌似web3音乐赛道就 @FireverseV 它稍微出名点了。\n\n他们最近又和黄贯中有联动，活动叫【超越极限】。黄贯中的话，大家应该都知道，是Beyond乐队成员之一，即使不知道beyond，那总该知道《海阔天空》《光辉岁月》是谁唱的把...\n之前的话，还和谢安琪这些音乐合作人，以合作形式搞了三十多万首AI音乐。\n\n回到活动上，本质上还是提交音乐作品分奖池。\n23号-7号：提交作品，每个主题前10（一共300首）进入下个投票阶段\n8号-12号：符合条件的作品公开发布。用户拿 $fir 进行投票。投票结束后，代币会返还。\n13号-15号：评选获奖。\n这个活动还是比较适合有些才艺的同学去参加。注定不会太卷。\n\n具体的可以看看原文：medium.com/@fireverse/fireve…",
+      "timestamp": "Sep 23, 2025 · 8:43 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1970408602478514459#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1970005843778437530#m",
+      "content": "卧槽！又发生啥事了",
+      "timestamp": "Sep 22, 2025 · 6:02 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1970005843778437530#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1969602483820327237#m",
+      "content": "除了极个别项目，后面的预售我大概率都不会参加了。\n\n这几天看到好多个莫名其妙的项目开始走预售/ico/社区销售那条路了...",
+      "timestamp": "Sep 21, 2025 · 3:20 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1969602483820327237#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1969440652057592327#m",
+      "content": "hyperevm上的 @BasedOneX 也要开lunchpad了。\n链接：app.based.one/r/SANYI\n这个也是我最近在偷撸的项目之一。本来老早就想发教程的，结果拖延症...\n\nperp的本质还是花钱买分，所以目前没啥好的对冲策略下，就是秒开秒关花钱。\n\n回到这个lunchpad，省流重点就是\n1. 空投 $up 快照日期是 21 号的晚上八点，具体xp的条件不清楚，数量也不清楚。\n2. 本次lunchpad的项目是 @Upheavalfi 。它是现在hyperevm链上的tvl排名第12 的项目\n3. 按照lunchpad页面的数据来看，预售的市值是 1.5m的样子。感觉还可以\n\n最后补充一下这个 @BasedOneX 的空投机制\n它空投的是合作伙伴的代币，并非是自己的代币（图 4）。上一次空投的代币叫 $pup 好像。我没记错的话。",
+      "timestamp": "Sep 20, 2025 · 4:36 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1969440652057592327#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1969330643269271641#m",
+      "content": "这个 @metaplex 上个月的协议收入有2.5M的，是近六个月最高的。其中110W拿来回购 $mplx \n这里的协议收入贡献最大的还是两个 Genesis 协议带来的，一个是 $CARDS 和 $Protals \n原文：localhost:8080/metaplex/status/196765…\n然后前几天的 $EXO 大家也都知道了。1.2U的成本，最高接近20倍好像。卖飞的一大堆\n然后下一个Genesis 协议支持的项目是 @goatedcom 。官推说的是25晚上10点启动\n上一次 $EXO 我感觉就是好多人有偏见，没上。而且发币之后还是洗了半天的时间，最后才起飞的。所以这次不是一定要参加，可以先看看大家的热度情况，再决定\n不过说实话，现在有正向盈利的协议，还是蛮少了。 @metaplex 算一个。\n这个协议真的算是被低估的一个了。",
+      "timestamp": "Sep 20, 2025 · 9:19 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1969330643269271641#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1969063141029110098#m",
+      "content": "七月份我就开始在TG里悄咪咪的开始撸 @trylimitless 了\n下周一，第一赛季就结束了\n然后今天就开始官宣，要上 @KaitoAI 了。说明离TGE也不远了\n目前单号积分在1000多-2000的都有，希望能有肉吃...\n\n最后补一下当时选择撸这个的逻辑\n当时，其实是觉得 @Polymarket 想走上市这条路，大概率不会发币。龙一不发币，我选择同赛道的龙二龙三撸，发币概率有，市场接受度也有。所以才选择了 @trylimitless \n\n早期的积分真挺好刷的。不过最近因为polymarket传出来要发布，大家对这种预测市场又开始卷起来了。\n啧啧啧",
+      "timestamp": "Sep 19, 2025 · 3:36 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1969063141029110098#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1968868145588015197#m",
+      "content": "手上还有树莓 @boundless_xyz  $ZKC 没卖的，可以去质押\n链接：staking.boundless.network/\n\n现在质押年利，这个周期是110%。比BN的质押利率高的多\n\n现在这个价格，也让我丧失卖的兴趣了... 还不如去质押\n\n对了。需要提醒一下，现在质押要30天后才能取哈。介意这个就别取了",
+      "timestamp": "Sep 19, 2025 · 2:42 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1968868145588015197#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1968668662073614785#m",
+      "content": "省流 @PlasmaFDN \n1. OG/SC Countributor/Early Countributor 三个DC role的人分别获得3W/1.5W/0.75W枚币。按照现在盘前0.61U的价值算，分别值1.83/0.92W/0.46WU\n2. 下周四下午16:00 TGE\n3. 低保号的胜利：打过预售的小额充值用户，同样可以获得空投。",
+      "timestamp": "Sep 18, 2025 · 1:29 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1968668662073614785#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1968571904635122028#m",
+      "content": "这个 @syndicateio 真的是一滴都不想给散户啊\n昨天发币了，叫 $SYND ，目前2U不到的样子\n\n引用里投票的这个，好像也给了空投，大家可以去查一下。\nCA：0x11dc28d01984079b7efe7763b533e6ed9e3722b9\n\n另外，他们还是给100多个DAO空投了的。所以自己去看引用推文里面的DAO有没有自己的，看看空投到没",
+      "timestamp": "Sep 18, 2025 · 7:04 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1968571904635122028#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1968569556567474227#m",
+      "content": "希望大家fomo冲 perp dex的时候\n多想想 @LogX_trade  @KiloEx_perp @OrderlyNetwork \n@aevoxyz  这个好像是有人赚有人亏\n🤣",
+      "timestamp": "Sep 18, 2025 · 6:55 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1968569556567474227#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1968226320548266146#m",
+      "content": "OKX ，你别给我发消息了，我怕BN误会",
+      "timestamp": "Sep 17, 2025 · 8:11 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1968226320548266146#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1968208352670028180#m",
+      "content": "OKX boost 这期好像要求余额200，交易额128\n\n刷okx boost的离我远点，我怕bn alpha误会",
+      "timestamp": "Sep 17, 2025 · 7:00 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1968208352670028180#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1968183447018676425#m",
+      "content": "说起来不怕大家笑\n高中大学这段时间的暑假工，我都是去县城里网吧做的兼职。一个月1200，无休，半个月白班半个月夜班。网吧里点帐，亏了还要算自己的。\n大学学校里，做兼职。出去端盘子洗碗，一个月450，包中午和晚上两顿饭。\n\n所以我真的没太理解，是现在大学生学费多了不需要做兼职了，还是手高眼低的...",
+      "timestamp": "Sep 17, 2025 · 5:21 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1968183447018676425#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1968141104873615493#m",
+      "content": "真的好想问问现在大学生一个月生活费到底是多少啊？\n\n我他妈去找几个大学生兼职，1天100，干俩小时没人愿意来？嫌我给的工资低了...\n\n我感觉去招那种毕业一年后的经历过社会毒打大学生，是不是3K轻轻松松啊...",
+      "timestamp": "Sep 17, 2025 · 2:33 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1968141104873615493#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1968125502184624411#m",
+      "content": "昨天 @Bybit_Official 的这个活动还有个 $PORTALS 版\nPORTALS之前融了5M的样子。可以把PORTALS理解成 Web3 版 Roblox。任何人都能在 PORTALS 的生态里发行代币、发游戏、搞道具甚至推出智能体。简单点说，就是把创作者经济彻底搬到 Web3\n\n总体逻辑和昨天的 $ZKC 是一样的，分两个\n新用户：前1W用户，冲1000枚 $PORTALS 或者交易100U等值的 $PORTALS 就可以领600枚\n老用户：交易赚币，完成500U等值的 $PORTALS 现货交易。就可以分5M的 $PORTALS 奖池。左下角那里是可以试算奖励的\n这个刷量跟Alpha有点相似，不同的是机制更透明，可以使用奖励试算预估收益，这样刷起来心里才有底。\n\n链接：bybit.com/zh-MY/trade/spot/t…",
+      "timestamp": "Sep 17, 2025 · 1:31 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1968125502184624411#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967945390243844407#m",
+      "content": "web3的内容平台 @viamirror 要关闭了，真的是太惋惜了\n\n现在这个年头，宁愿关闭也不发币的项目，真的太少了。\n上一个是 @tessera ，现在是 @viamirror \n热火中天的时候，但凡发个币，团队也能赚个盆满钵满。",
+      "timestamp": "Sep 16, 2025 · 1:35 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967945390243844407#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967918095571595522#m",
+      "content": "送上门的顶级公关的机会，就这样被浪费的...\n\n要道歉就诚恳的道歉\n因为延迟发放导致的币的下跌，全赔肯定是不可能的。但是至少单号给个200U的赔偿还是可以的吧？\n打得多的多赔点，打得少的少赔点。\n甚至都可以不用赔U，赔 $ZKC 也可以啊？现在 $ZKC 也便宜了\n\n结果，折磨了半天，赔了gas，还美其名曰赔120%的gas...\n\n老哥，拜托啊。这是你们的第一个LPD啊！\n正面打响形象的第一枪啊！这都不舍得花钱？更何况错还在平台先\n你赔点gas，意义何在？\n\n还没看到现在中文区统一的在骂 @KaitoAI 吗？是你们把这些噪音都屏蔽了，只能看到夸赞还是因为什么？\n\n真的不知道是哪个天才想出来的赔付Gas的方案。真的佩服佩服！",
+      "timestamp": "Sep 16, 2025 · 11:46 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967918095571595522#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967882222796701811#m",
+      "content": "哦对，冻卡还有后续。对的，还有后续。\n\n后续是，截止到今天，我的卡才被解冻。保护性止付的期限是16天\n问了一下银行和我们这边的刑警大队，说的冻卡的指令是从公安部下发的，他们也没办法操作。如果要提前解冻，就要准备很多资料和流水去证明，极其麻烦，还不如直接等解冻。\n其次，解冻也是所有卡慢慢的解冻...\n\n然后讽刺的是，我买U的那个商家，我冻卡之后还是很正常的营业...",
+      "timestamp": "Sep 16, 2025 · 9:24 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967882222796701811#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967863798863405222#m",
+      "content": "LOL，A8是吹逼的标题党。你们别当真哈哈哈哈",
+      "timestamp": "Sep 16, 2025 · 8:11 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967863798863405222#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967859516147634325#m",
+      "content": "树莓复盘丨论单项目怎么从A8到A7\n\n昨天上线的树莓 @boundless_xyz ，可以算是近一段时间里对散户最友好的项目了，没有之一。\n就算我扣掉嘴撸的那部分份额，不算kaito没释放的50%，也是轻轻松松上A7+，而且中途也给到了很多上车的机会。\n\n树莓的整个历程\n4月初的时候，树莓开始在推特上搞活动。晒树莓的照片，分享。那个时候我工作室就已经开始准备了。\n6月底的时候，就开始跟朋友开始聊树莓挖矿的事情。那个时候就发现，拍卖机制似乎有点问题，只要算力足够是可以包场的\n接下来就是6月份的树莓证明，当时应该都去认证了。\n其次就是7月份树莓的黄金钻石活动，我工作室也都全上了。按照我推特给的教程，到钻石应该是轻轻松松。\n最后就是最重要的一环就是kaito的参与。当时也给大家仔细分析过，2.9亿的市值简直就是送。主要是当时同赛道的 $prove 的市值在12亿左右。都不说黄金钻石送的30%-50%的代币，就算白号按照2.9亿市值去看，5.8亿回本也是一个盈亏比很高的位置。\n\n然而这个过程里面，我做错了哪些事情？\n1. 工作室目标是为了赌黄金钻石号的额外空投（非预售送的），结果全军覆没。所以树莓的分享活动，证明这些都或多或少浪费了时间\n2. 工作室同学的操作问题，导致kaito这边的利润大幅度减少。\n一方面是中途过任务的时候，投票投错了。导致很大一部分号是黄金号，只有小部分是钻石号。最后这里也没办法挽救，差2分还是几分就到钻石\n另一方面，在kaito打钱的时候，因为没有link钻石黄金号的地址，导致有很大部分黄金号被识别成了白号。也就是290U的额度。一方面没吃满额度，另一方面又没吃到赠送的代币。\n3. 挖矿部分的代币，手速太快，冲到了交易所去。结果，昨晚上情况大家也都知道，链上和交易所直接脱锚。链上都到2.8，交易所才1.4。这里也没吃满。\n\n这里面还有个趣事\n在做任务的时候，我们也发现可以做BUG的钻石号。后来想了想，偷鸡没一个好下场的。所以就没做\n结果果不其然，后面的BUG号基本上全被封了...\n\n最后，无论咋说树莓这项目都能算是最近对散户最友好的项目了，没有之一。导致大家利润不如预期的， @KaitoAI   真的背很大的锅。\n我昨晚上11点多就睡了，今早上五点起来，都没想明白。\n为什么提前2天把币都给kaito了，为什么还能出这个问题\n为什么第一次预售的时候，要去更新swap\n为什么一次只能6个币6个币的卖？卖一次还要收7U的手续费\n为什么提币要几十U甚至几百U的手续费...甚至我问了朋友，这个都是gas烧掉的，也没到kaito包里\n\n真的太草台班子了。",
+      "timestamp": "Sep 16, 2025 · 7:54 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967859516147634325#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967849531950957020#m",
+      "content": "跨链桥 @Bird_Layer 在 @Superboard_ 上有俩任务，可以做一做\n任务1：superboard.xyz/quests/gas-fr…\n任务2：superboard.xyz/quests/gas-fr…\n\n这里不是很建议多号，因为它要mint一张卡要0.0004E，现在E子贵了，这个价格也要几U。所以自己大号做做得了。\n\n任务本身挺简单的，很多都是假验证。而且对于桥这种项目，都说跨链无大毛，但是日常用一用还是可以的。",
+      "timestamp": "Sep 16, 2025 · 7:14 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967849531950957020#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967618921089151476#m",
+      "content": "卡提币我就不说了\n开swap只能卖六个我也不说了\n但是为毛提币要40u gas？swap也要7u？\n@KaitoAI",
+      "timestamp": "Sep 15, 2025 · 3:58 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967618921089151476#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967597650523594774#m",
+      "content": "对了，没注册 @Bybit_Official 的赶紧撸一下他们的树莓活动 @boundless_xyz \n这项目我是一直跟进的，也算是不负所望，基本大满贯了。Boundless是一条通用、无需许可的零知识网络。它由 RISC Zero 打造，为 L1、L2、跨链桥、DeFi 等提供可扩展的 ZK 证明。这应该能算的上是ZK赛道的一匹黑马吧！\n\n按照目前Alpha的价格来算的话，这期Token Splash奖池价值接近 450万U,Token Splash跟其他交易所的产品最大的区别就是可以用收益计算器来预估自己的收益，而不是盲目的刷交易量。\n\n他们有俩活动\n第一个活动是新用户的。新用户冲400 $ZKC 进去，或者冲100U买等值的 $ZKC ，前8000个，每个号可以拿150枚 $ZKC （BN alpha才给90）\n第二个是老用户都可以参加的交易赚币。报名之后，交易500U左右的 $ZKC 现货，就可以分 2M的奖池\n\n链接：bybit.com/zh-TW/trade/spot/t…\n\n新用户真可以搞一搞，150个 $ZKC ，200+U了",
+      "timestamp": "Sep 15, 2025 · 2:33 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967597650523594774#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967595111208096106#m",
+      "content": "1800枚 $ZKC 已经正式抽奖完毕，已经履行诺言了\n\n有人说这个BOT太多\n实际上，这个助记词是存在解谜性质的。所以我能确保解谜肯定是人去解的。至于能不能抢得到，就看手速了\n有人说，为什么3分钟之前就有人打GAS进去了？\n因为我是一个小时以前，把所有的币转进去的。有心人肯定能顺手扒到\n\n之所以玩这个游戏，我是觉得，发个BN 口令红包也有人抢，也有人开机器人抢。所以还不如这个，好玩一点\n实际上也是，还是有很多群友抢到了。\n希望抢到的同学，推特可以回复一下，接接喜气",
+      "timestamp": "Sep 15, 2025 · 2:23 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967595111208096106#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967592994489442445#m",
+      "content": "树莓 @boundless_xyz 第六弹\n地址数量：2\n游戏规则：补全所有的助记词",
+      "timestamp": "Sep 15, 2025 · 2:15 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967592994489442445#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967590478431318075#m",
+      "content": "树莓 @boundless_xyz 第五弹\n地址数量：1\n游戏规则：补全最后一个助记词",
+      "timestamp": "Sep 15, 2025 · 2:05 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967590478431318075#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967587960502853675#m",
+      "content": "树莓 @boundless_xyz 第四弹\n地址数：2\n游戏规则：请正确排列和输入助记词",
+      "timestamp": "Sep 15, 2025 · 1:55 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967587960502853675#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967585444511535374#m",
+      "content": "树莓 @boundless_xyz 第三弹\n地址数量：1\n游戏规则：请按照正确的顺序，排列助记词",
+      "timestamp": "Sep 15, 2025 · 1:45 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967585444511535374#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967582927728046100#m",
+      "content": "树莓 @boundless_xyz 第二弹\n地址数量：1\n游戏规则：补全所有的单词",
+      "timestamp": "Sep 15, 2025 · 1:35 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967582927728046100#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967580411183210544#m",
+      "content": "树莓 @boundless_xyz 第一弹！\n地址数量：2\n游戏规则：请与相同色块的词语调换位置",
+      "timestamp": "Sep 15, 2025 · 1:25 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967580411183210544#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967580076264014080#m",
+      "content": "已经设置了自动发送。\n每10分钟一轮\n21:25分的时候开始。\n祝大家好运🤣",
+      "timestamp": "Sep 15, 2025 · 1:23 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967580076264014080#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967572426252075369#m",
+      "content": "现在1.5。1800枚值2700U",
+      "timestamp": "Sep 15, 2025 · 12:53 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967572426252075369#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967567520661213194#m",
+      "content": "树莓！！！ @boundless_xyz",
+      "timestamp": "Sep 15, 2025 · 12:33 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967567520661213194#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967496088124002330#m",
+      "content": "还有一个事情\n树莓 @boundless_xyz 的proven berry的role应该是给1800枚币\n\n今晚上我会履行承诺。\n\n因为现在盘前0.6多，所以如果单独阳光普照真没啥意思\n所以我打算1800枚，每个号200枚，分9个号\n届时我会把币打到这9个地址里去，里面不放任何gas。\n同时，助记词会有解谜的性质在里面（不会太难）\n\n所以就靠大家手速了哈。",
+      "timestamp": "Sep 15, 2025 · 7:49 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967496088124002330#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967493880867328356#m",
+      "content": "今天的明星，无疑是 @boundless_xyz \n\n为了等树莓，前几天alpha 50U都没人领...\n\n那么，你认为这次树莓能到多少？\n（不到1不卖🤡）",
+      "timestamp": "Sep 15, 2025 · 7:41 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967493880867328356#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967489930919317709#m",
+      "content": "想知道他们是说的什么币\n想买\n真的想买",
+      "timestamp": "Sep 15, 2025 · 7:25 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967489930919317709#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1967090936619692116#m",
+      "content": "那个 @unicornxdex 给 $ZKWASM 的持有者开了第二季的钻石手奖励了。\n这一次的奖励规则相对于第一季来说严格了很多，但是奖励也丰厚了不少\n\n具体规则\n9月12号中午12点之前，在 @unicornxdex 上买过 $ZKWASM 的用户，只要没出售过/转让过代币，且后3个月内没有出售行为的情况下，就能获得代币的空投奖励。\n这个机制，说人话就是让人钻到死。\n\n而且在奖励结构这里，还有个可以解读的点\n“如果成本基础≤每日TWAP ，您将不会获得额外的代币奖励”\n其实就是 @unicornxdex 给 $ZKWASM 背书的意思。\n如果你买的成本低于快照当日的平均价格，那么你没有额外的代币空投\n如果你买的成本高于快照当日的平均价格， @unicornxdex 官方给你空投，相当于补贴你的损失。\n这个活动真挺不错的，比较适合那些钻石手，钻到天荒地老的。反正赚了不怕，亏了还有补贴少亏点。\n如果是之前转让过/出售过的地址，基本跟这个活动无缘了。\n\n然后他们给的积分这块儿给的也挺多的。三个月一共给6W积分的奖池。不过也正因为我刚说的，这种钻石手的地址还是相对较少的，所以实际上每个人能平分到的积分还是挺多的。\n\n倒不是夸，只是反观现在的各种项目，投了资发了币之后，对项目后续不管不问的情况大有所在。\n前脚爆出 @Scroll_ZKP 管理团队换血，后脚bn alpha上的 $mtp 直接全流通砸盘，还有 @zksync 上可怜的个位数日活等等\n反观 @unicornxdex 这种投了钱，还不断做活动往里花钱的项目确实不多见了。不论这个活动的条件是不是苛刻了点，但是至少给了。对钻石手来说，终究是好的。",
+      "timestamp": "Sep 14, 2025 · 5:00 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1967090936619692116#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1966872794026963168#m",
+      "content": "🤣快人10步吃屎\n他妈的今年2月份的时候，我就开始偷 @phygitals 的鸡了。\n这项目跟了好几个月，上去玩儿的人寥寥无几。刚放弃没一段时间，结果因为 $CARDS ，宝可梦卡牌类型的RWA项目给火起来了...\n\n抽象啊，抽象",
+      "timestamp": "Sep 13, 2025 · 2:33 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966872794026963168#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1966809570648449172#m",
+      "content": "得，现在真卖飞了…\n\n上一张截图到现在又翻倍了🥲",
+      "timestamp": "Sep 13, 2025 · 10:21 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966809570648449172#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1966789320473489430#m",
+      "content": "真的太JB猛了\n@metaplex genesis协议的第四个项目 @exotic_markets_ \n成本1.26U的样子，现在差不多7倍了...",
+      "timestamp": "Sep 13, 2025 · 9:01 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966789320473489430#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1966759736692363510#m",
+      "content": "从来没去西贝吃过饭\n但是他妈的，啥几把馒头15块钱1个？\n\n我小区门口推着车天天喊的老面馒头才1块钱1个",
+      "timestamp": "Sep 13, 2025 · 7:03 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966759736692363510#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1966741885898420501#m",
+      "content": "树莓昨天公布15号发币之后，最期待的就是 @Lombard_Finance 的 $BARD 了。\n4号结束的 @buidlpad 社区销售里，超募了14倍。我自己准备的一批黑哥们儿的KYC号，全军覆没...仅剩几个苦苦支撑\n之前就说过，4.5亿的市值赢的概率挺大的。结果谁知道是这个结果🤣\n\n然后11号的时候，官方也宣布和 @megaeth_labs 合作了，成为MEGAETH的核心比特币合作伙伴。只要megaeth主网上线，Lombard大概率就是里面BTC的核心生态了。\n本身megaeth这个链也是我一直在做交互的链。现在合作了恰好，可以看看后续这俩项目能不能有些火花出来。\n\n最后，如果这一次 $BRAD 吃到大肉的话，感觉 @buidlpad 有种上一轮coinlist的即视感。KYC得卖爆啊...",
+      "timestamp": "Sep 13, 2025 · 5:53 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966741885898420501#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1966663619824832873#m",
+      "content": "WEN $BRAD $XPL ?",
+      "timestamp": "Sep 13, 2025 · 12:42 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966663619824832873#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1966574843450753380#m",
+      "content": "你认为入币圈5年，赚多少钱才算合格？",
+      "timestamp": "Sep 12, 2025 · 6:49 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966574843450753380#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1966548456639787085#m",
+      "content": "貌似有个关键节点我可能理解错了。\n这个1%的代币，是作为AERO的质押奖励给的\n\n但是我又看到有人说是空投\n\n反正，你们要做的话，可以单独看看。\n\n当个彩票做是没问题的。别指望有大肉",
+      "timestamp": "Sep 12, 2025 · 5:04 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966548456639787085#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1966545680526438784#m",
+      "content": "很早之前提到过的 @syndicateio 的这个项目，目测应该不会给开船这个活动的玩家空投了。\n但是他们在9月2号的时候，把2%的代币空投给了web3里的100多个社区。具体的参见下图即可。\n后来这个项目搞了个新的代币启动方式：投票启动。\n其实说人话就是，去 @AerodromeFi 上锁定 $AERO 拿到投票资格➡️参与 $SYND 的流动性投票➡️最后给投票者空投 $SYND \n所以，作为散户要怎么参与？\n1. 去购买一些 $AERO ，目前价格在1.24U的样子\nCA：0x940181a94A35A4569E4529A3CDfB74e38FD98631\n2. 去下面这里锁定你的 $AERO 。红框的地方可以选择你的锁定时间，建议锁12天或者5天就行了\n锁定：aerodrome.finance/lock\n3. 去这里投票，投第一个 SYND / WETH 就行了\n链接：aerodrome.finance/vote\n要做就赶紧，17号就结束了。\n收益与风险评估\n收益\n1. A16Z 投了，总融资接近2800W的项目。\n2. 激励哪里显示有10M的币，不知道是作为流动性还是作为空投份额的\n3. 最主要就是赌低保。如果你本身就是 $AERO 的持有者，投了相当于理财了。如果你不是，少买点，拿个票权赌低保也行\n风险\n1. 融资比较久了。22年，21年的融资了。\n2. 项目目前的热度不高，很有可能空投了不值钱\n3. 我对这个规则理解有问题，导致大家亏钱。不过最后 $AERO 解锁之后还是能卖掉，所以我感觉也还好。",
+      "timestamp": "Sep 12, 2025 · 4:53 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966545680526438784#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1966515685648966121#m",
+      "content": "LOL\n最后测完，我的IQ是120！  @AltiusLabs",
+      "timestamp": "Sep 12, 2025 · 2:54 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966515685648966121#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1966455422920843331#m",
+      "content": "现在 $myx 的情况是\n你以为没啥人做空了，看着也从18跌到10了，费率也正常了。\n殊不知，庄只是在等你空\n你以为崩盘了，实际上谁空爆谁",
+      "timestamp": "Sep 12, 2025 · 10:54 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966455422920843331#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1966428303797129288#m",
+      "content": "kaito 那么多的项目，最后还是树莓 @boundless_xyz 最快🤣",
+      "timestamp": "Sep 12, 2025 · 9:06 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966428303797129288#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1966129837313319045#m",
+      "content": "5月份发的 @Incentiv_net ，在9号的时候已经迁移到测试网2了。对于参与了第一次测试网的用户，要迁移到第二个测试网\n原文：incentiv.io/level-up-your-we…\n\n具体教程如下\n1. okx或者小狐狸的用户，需要先去chainlist上添加测试网 2\n链接：chainlist.org/?search=incent…\n2. 登录下面的网址，按照提示迁移。迁移完成后能领取一个徽章\n老用户迁移：testnet.incentiv.net\n新用户注册：testnet.incentiv.io/login?re…\n3. 迁移完成后，会有一些新任务，获取新的徽章。都是一些很简单的任务。目前我来看，貌似dc和推特都是假验证。其他的任务还没出\n其实这项目挺不错的，而且现在中文区也没啥人提，不是很卷。\n前段时间还和 @joinrepublic 合作了。很多人不太了解Republic，他们其实不只是一个投资平台，而且孵化了好多好多项目。他们合作其实是Republic给Incentiv做了一个强背书，毕竟现在Incentiv还没啥融资。\n反正还是可以趁现在不卷，搞一些号吧。测试网又不花钱。",
+      "timestamp": "Sep 11, 2025 · 1:20 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966129837313319045#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1966099455234682894#m",
+      "content": "还没有绑定 @wallet okx邀请码的\n可以用一下我的：SANYI01\n链接：web3.okx.com/ul/joindex?ref=…\n\n目前已经把受邀人的返佣20%拉满了。省个20%也不错！",
+      "timestamp": "Sep 11, 2025 · 11:20 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966099455234682894#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1966027304322347315#m",
+      "content": "前段时间研究 $CARDS 的时候，发现了个很厉害的项目叫 @metaplex ，没啥人提过，已经发了币了，而且还上了BN alpha\n\n这玩意儿主要是做Sol上的token/nft发射的。现在Sol上99%的nft和token都是走的他们的协议。比如 @pumpdotfun @BagsApp @believeapp 这些热门的meme平台都是。\n他们7月份的时候不是推出了个Genesis协议，然后8月26号的时候官推就发了 $CARDS 是Genesis协议的第三个发射。\n然后后面的事情大家都知道了。我是49M看到的，当时还在想哪个傻逼要买，结果后面500M...\n其实理应来说，这种几乎是垄断类型的顶级协议，如果在evm上早他妈被cx爆了，但是貌似现在sol上提到的人蛮少的。\n他们的协议收入，50%都拿去回购 $MPLX 了。光纯协议收入一个月差不多200WU+。虽然比不上perp，但是这种基建能搞成这样已经很不错了。\n感觉真可以关注一下他们每一次Genesis协议发射的项目。算上昨天的 @exotic_markets_ ，目前也才发射四个...",
+      "timestamp": "Sep 11, 2025 · 6:33 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1966027304322347315#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1965788128813453341#m",
+      "content": "发财了！8.5U一枚！BN ALPHA送大家6.5WU！\n速度卖！",
+      "timestamp": "Sep 10, 2025 · 2:43 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1965788128813453341#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1965739604566536323#m",
+      "content": "2025年度最佳诅咒\n“我祝你撸的项目都上alpha！”",
+      "timestamp": "Sep 10, 2025 · 11:30 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1965739604566536323#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1965719797641122244#m",
+      "content": "BN alpha交互15天，分数220分都能吃7700个 $linea \n\n而你我的朋友，交互好几年一个没拿到才是真正的英雄！\n\n破防了吗？",
+      "timestamp": "Sep 10, 2025 · 10:11 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1965719797641122244#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1965636156604969115#m",
+      "content": "那么问题来了\n今晚上 @metaplex Genesis 协议的第四个发射项目 @exotic_markets_ 你们要打吗🥲\n\n他们发射的上一个是 @Collector_Crypt ，也就是那个500M的 $CARDS",
+      "timestamp": "Sep 10, 2025 · 4:39 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1965636156604969115#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1965337109088403908#m",
+      "content": "🍚BG钱包 @BitgetWalletCN 也开始搞链上的稳定币理财了\n前1WU内，第一周有18%的apy，算是头矿；后面超出的年化是5.45%。第二周的话，恢复年化10%的基础收益。他们的收益还是吃的AAVE的基础apy，多的是平台补息\n其实钱包里面理财相对于交易所来说，好处是不用注册账号，不用KYC，也没有vip的额度限制之类的。对新手比较友好。\n其实这个利率相对于银行来说，已经香太多了。\n亲身经历。前段时间招行给我老婆打电话，让把卡里的钱放到另外一个理财产品里去，年化最高能做到3%...\n拿100W举例，无论是bg钱包的活动还是其他交易所的稳定币理财来说。web2年化3%，一年下来才3W+，但是web3可以做到10W。10W块钱已经是很多家庭一年的收入了...\n不过这里的风险在于，U价也会跌，而且币圈对大部分普通人来说，门槛太高了，更别说进来买U理财。没人带就是分分钟亏钱。\n链接：web3.bgw.plus/zh-CN/stableco…",
+      "timestamp": "Sep 9, 2025 · 8:50 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1965337109088403908#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1965314244225966488#m",
+      "content": "太血腥了。\n幸好昨晚上我平了，不然现在已经被拉爆，天台见了",
+      "timestamp": "Sep 9, 2025 · 7:20 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1965314244225966488#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1965252857206374588#m",
+      "content": "这个 $myx 就是妖币\n\n昨晚上10开空，差点15拉爆我🥲\n\n今早上一看，这玩意儿他妈的还在13\n\n操",
+      "timestamp": "Sep 9, 2025 · 3:16 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1965252857206374588#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1965095243491262643#m",
+      "content": "一线吃瓜",
+      "timestamp": "Sep 8, 2025 · 4:49 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1965095243491262643#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1965091488267997212#m",
+      "content": "据不准确消息，前几天大卡车的那个 $AQUA 好像跑路了\n\n有瓜吃吗？",
+      "timestamp": "Sep 8, 2025 · 4:34 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1965091488267997212#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1965061493264879669#m",
+      "content": "还有个事情。\n很早之前， @RiscZero 开了个授信仪式，跑了的地址，貌似都有1000个。\n\n大家去树莓 @boundless_xyz 的空投网站里，链接github账号，应该就能看见\n链接：airdrop.boundless.network/",
+      "timestamp": "Sep 8, 2025 · 2:35 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1965061493264879669#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1965051671018631474#m",
+      "content": "紫色角色貌似1800枚，后续空投领了就抽了",
+      "timestamp": "Sep 8, 2025 · 1:56 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1965051671018631474#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1965042730100482517#m",
+      "content": "树莓 @boundless_xyz 可以查空投了\n链接：airdrop.boundless.network/\n\n问题奇怪的是\n这个总数1.4W咋都算不对...\nproven berry这个role给多少啊，我还说要抽了。现在也不知道\n这里还包含了kaito上榜的",
+      "timestamp": "Sep 8, 2025 · 1:21 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1965042730100482517#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1965014658441703562#m",
+      "content": "5月6日，币安Alpha发放了1667个 MYX空投，如今价值已经飙到11139美元 \n\n而你，我的朋友，当时开盘只拿着85美元就忍不住卖掉了\n币安送了你一辆车，你就卖了个轮胎钱",
+      "timestamp": "Sep 8, 2025 · 11:29 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1965014658441703562#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1964687740672557284#m",
+      "content": "经常运营TG群组的朋友们，有没有自动检测群内广告并且删除的BOT推荐啊\n\n他妈的，小群也天天有广告进来。",
+      "timestamp": "Sep 7, 2025 · 1:50 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1964687740672557284#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1964656180892184801#m",
+      "content": "目测明天好几个项目要发币了\n@Aster_DEX 发了个推，明天有大事发生\n@boundless_xyz 社区有人也说，周一有大事发生\n\n那么问题来了，能吃肉吗？各位？",
+      "timestamp": "Sep 7, 2025 · 11:45 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1964656180892184801#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1964609879051731321#m",
+      "content": "鬼故事...\n7月2号领的 $M 现在已经值1847U了...\n\n要是那天抄底该多好啊...",
+      "timestamp": "Sep 7, 2025 · 8:41 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1964609879051731321#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1964555482246631890#m",
+      "content": "🍚如果要撸交易所的毛的话，感觉真可以去试一试 @Bybit_Official 的megadrop\n\n最开始几期的人有 3w多，现在已经接近腰斩了。昨天上bn alpha那个 $shards 才 1.4w的地址，奖池6000w枚代币，最高值 300wu，一个号也有 200u了，跟alpha的价值差不多了\n\n关键是这玩意儿，跟alpha不一样的地方是\nalpha你要去刷，这个的话，你就当理财，存usdt的池子，除了日常给你年例 4% 的 apr之外，还能吃这个megadrop的空投。\n\n反正现在不卷，有闲钱的，可以去搞一搞。\n链接：bybit.com/zh-MY/trade/spot/m…",
+      "timestamp": "Sep 7, 2025 · 5:05 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1964555482246631890#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1964508128294424818#m",
+      "content": "你是谁 @worldlibertyfi ？好陌生！",
+      "timestamp": "Sep 7, 2025 · 1:56 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1964508128294424818#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1964153328985604544#m",
+      "content": "做一下 @RomeProtocol 的NFT白单任务\n链接：app.megaphone.xyz/pages/impe…\n\n登记流程很简单\n邮箱收验证➡️链接推特➡️链接钱包签名➡️关注推特+DC和各类任务\n\n规则也很简单\n注册完之后会给积分，积分前25保证白，后21-75名先到先得白\n因为里面推特/DC/TG的验证任务都是假的。所以如果真要撸这个，建议脚本走邀请。\n\n这玩意儿之前是拿了Hack VC 和 Portal Venture 领投的9M。\n不过很久的融资了，24年的了。",
+      "timestamp": "Sep 6, 2025 · 2:27 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1964153328985604544#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963967362518172099#m",
+      "content": "看了看现在 $Wlfi 的价格，回来了一点了。\n只是我个人感觉，从之前0.3到0.16这个区间里，可能不止孙哥套保操作影响，top的止盈包括散户的止盈，也都在里面互相影响。\n不是一泻千里，能稳到现在还有0.18的价格，还是有很多坚定信仰的用户的。LOL\n\n其实整体来说， @worldlibertyfi 的反应还是很及时的。从昨天白天的时候，有人开始爆HTX往BN存 $Wlfi 孙哥套现的料，晚上的时候，官方就把孙哥的地址给拉黑了。\n我们不管孙哥到底是真的挪用用户资产给自己的币变相套保，还是确实只是被推出来挡枪的。但是至少官方反应的速度是快的。\n\n反正作为一个散户，我还是希望 $Wlfi 的价格还是坚挺，毕竟还有80%的币在里面。\n\n最后还是敬佩孙哥卡BUG的功力深厚，骑着老奶奶闯红灯。🤣",
+      "timestamp": "Sep 5, 2025 · 2:08 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963967362518172099#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963951364436070437#m",
+      "content": "忘了，设置推文要蓝v才能私信了。\n下面是code，自取\n\n8VRXCU\n68L3EK\nN9MFED\nGL8A7B\nWZT86H\nYTNZFJ\nY9UXBG\nMHB8QG\nJTDYV5\nKZHXX3\nPAPRBD\n4WKV5R\nSSMQH5\nYVS4C2\nZG73W2\n8LMCC4\nAVAAF2\nS5KF9E\nD4T88C\n8FECHC\nF8UTRC\n3WLHWE\nB6CC73\nQSYBV5\nG9NKKX",
+      "timestamp": "Sep 5, 2025 · 1:04 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963951364436070437#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963945181079548070#m",
+      "content": "工具推荐丨 @mulerun_ai \n\n有时间可以去体验一下 @mulerun_ai 这个驴子\n官网：mulerun.com/invitation/KYMJ3…\n\n特别是DC撸白名单的同学，强烈推荐去试一下那个 “Chibi Sticker Maker”的agent\n这个代理可以把你上传的图片自动去生成贴纸，对应到DC里的表情包。很多DC的活动，都可以用得上。拿role贼好用。\n\n里面还有一些其他的代理，也可以玩一玩儿，挺好玩的。不过，目前这项目还是偏向WEB2，不知道未来会不会偏web3然后发币。\n\n因为进去体验要邀请码，会送一些credits，你们要体验的，私信找我拿code。或者私聊官推拿也可以。",
+      "timestamp": "Sep 5, 2025 · 12:39 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963945181079548070#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963893468637327596#m",
+      "content": "草泥马的，刷你妈的新币",
+      "timestamp": "Sep 5, 2025 · 9:14 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963893468637327596#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963664223155998969#m",
+      "content": "这么多年，孙哥还是把我们当二傻子玩儿...",
+      "timestamp": "Sep 4, 2025 · 6:03 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963664223155998969#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963605100875690171#m",
+      "content": "这个是合作推文哦",
+      "timestamp": "Sep 4, 2025 · 2:08 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963605100875690171#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963585084927479949#m",
+      "content": "🍚还有股票代币化这个事儿\n前几天跟朋友深入聊了一下关于“股票代币化”这个事儿。\n缘由是因为自己一直偷撸的 @VestExchange ，链上perp做不下去之后，开始all in股票代币化了。\n也不止他们在做这个赛道，包括 @OndoFinance 也在做\n股票代币化和链上perp是存在共性的。\n链上的一些perp，例如 @HyperliquidX @Lighter_xyz @Aster_DEX 能有那么高的自然交易量，本质上还是承接了很大一部分，没办法或者不愿意过KYC的用户。他们不相信CEX的交易数据，所以选择呆在链上。\n\n股票代币化也是一样的\n作为一个中国用户，我想去买美股。要么去老虎/富途这些国际券商开户，提供护照/地址证明/港行账户等等资料，还要填一大堆表；要么通过港股买美股的ETF，或者直接去美国本土的券商开户\n无一例外，流程真的太繁琐了，而且中国公民的个人换汇还有额度，最近还爆出美股盈利需要补税这一系列麻烦的流程。\n链上的股票代币化，就很完美的简化了这一系列的流程。\n\n就拿 @OndoFinance 举例\nOndo Wall Street 2.0刚上eth主网，从官网来看，要上数千种这种资产。\n完成KYC之后，就可以直接在平台上买一些流动性强的美股/债券/ETF。不用飞HK开户，也不用填那么多的表\n其次，也有很多人担心链上的流动性没有真实美股那么强。\n虽然已经有其他已经存在的股票代币化平台，但目前ondo是第一个接入传统交易所流动性的平台，所以至少从流动性来说，也还好。\n不过最终就还是看，这个赛道能不能出一个扛大旗的。有造福效应，那么就会有更多人进去\n原文参考：blog.ondo.finance/global-mar…",
+      "timestamp": "Sep 4, 2025 · 12:49 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963585084927479949#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963570782035906616#m",
+      "content": "这个 @USDai_Official 等下要开始打了\n\n你们踏空 @PlasmaFDN 或者是感兴趣的，可以打一点。\n我个人兴趣不太高，主要是我已经押注 @PlasmaFDN 和 @stable 了。这个最多打一点点\n\n这一次额度增加了5000WU。应该还是要打一会儿才打完的。",
+      "timestamp": "Sep 4, 2025 · 11:52 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963570782035906616#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963551684371865921#m",
+      "content": "昨天 bn 改了alpha规则，大家都辞职了吗？\n还是老老实实的刷koge？\n\n早上刷你妈新币mch，血亏。操",
+      "timestamp": "Sep 4, 2025 · 10:36 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963551684371865921#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963533023456141566#m",
+      "content": "🍚🍚🍚🍚🍚🍚🍚🍚🍚🍚🍚🍚",
+      "timestamp": "Sep 4, 2025 · 9:22 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963533023456141566#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963532964366893244#m",
+      "content": "前段时间去了趟香港，其实会很直观的感受到一些东西。\n\n无论是京东的稳定币，还是今天云峰金融买ETH的事情，还是招商证券合作的那个 @AssetoFinance \n都能很直观的感受到，一些国内的web2的企业/个人，或多或少都想尝试一下web3，但是受限于监管亦或是法规不明确的原因，所以大家的步子都迈的很小，亦或是比较隐晦\n\n就拿 @AssetoFinance 来说，后面我还去扒了一下背景\n他们主要是做RWA代币化与合规基础设施的。团队来自摩根士丹利、瑞银、渣打、太保资管香港等机构，兼具资管、投行、合规与区块链落地经验\n而且其实不止是招商证券，他们的资管还有hashkey和中信银行的参与\n目前他们一共就俩标的，一个 $CASH+ 和 $AoABT 。前者是招行证券资管，后者就是中信银行。\n从白皮书来看， $CASH+ 是可以作为稳定、生息、合规的优质抵押品，面向借贷、LP 组合管理、金库管理、协议储备等场景应用的。\n从流程上来看，本质上还是把USDC拿去做抵押兑换成 $CASH+ 最后再利用 $CASH+ 去完成其他的借贷/LP等理财行为。只不过好处是，这个更加合规。\n我个人觉得现在比较大的问题就是：整体给到的APY相对于链上来看，比较少。这也是现在TVL比较低的原因（也有可能是没开放）\n不过， RWA这个赛道，要解决的关键东西还真的挺多的。合规就是这个赛道无法逾越与忽视的一座大山。真任重而道远啊！",
+      "timestamp": "Sep 4, 2025 · 9:21 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963532964366893244#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963238230381474116#m",
+      "content": "有没有大哥，爆一下空军啊🥲",
+      "timestamp": "Sep 3, 2025 · 1:50 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963238230381474116#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963212522670178525#m",
+      "content": "虽然我不是meme玩家，但是如果大家有用 BN钱包打狗的需求的话，可以走下面的LINK填一下邀请码\n后面钱包收费之后，手续费9折还是能省不少钱的。\n具体的教程看下面的动图就行了。\n链接：web3.binance.com/referral?re…",
+      "timestamp": "Sep 3, 2025 · 12:08 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963212522670178525#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963175013709713824#m",
+      "content": "别的我不知道，我只知道这个价格，赚的很少",
+      "timestamp": "Sep 3, 2025 · 9:39 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963175013709713824#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963161131419083230#m",
+      "content": "太恐怖了",
+      "timestamp": "Sep 3, 2025 · 8:44 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963161131419083230#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963158574407782668#m",
+      "content": "速查 @LineaBuild \n链接：linea.build/hub/airdrop",
+      "timestamp": "Sep 3, 2025 · 8:34 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963158574407782668#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963152700779934135#m",
+      "content": "徐老师，这模式肯定对散户好很多。但是就是有一个问题\n“咱能不瓜分奖池吗？”\n貌似我看了看，无论哪个交易所或者活动说的，瓜分奖池\n最后分到大家头上真的就十几U几U的样子...",
+      "timestamp": "Sep 3, 2025 · 8:10 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963152700779934135#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1963151141015106006#m",
+      "content": "🍚虽然是极其业余的二级玩家，但是实际上我还是用了 @unicornxdex 一段时间了。前段时间可能存在一些争议，但是至少从过往的unicall的战绩来看，盈利机会还是有的。\n\n聊之前科普一下这个项目的背景\n本质上 @unicornxdex 不算是一个纯DEX。其实他们会更侧重项目投研+社区驱动。\n估计项目方也知道，如果只做dex，其实现在市面上的dex层出不穷，要从这里面杀出重围的难度太高了。所以才开始做dex+社区聚合的这种方式，通过unicall造富一波人。\n而且本身UnicornVerse就是一个18年成立的二级投资机构。过往几期喊的unicall效果都不错。  $TAG 算是我吃到的，有利润的项目之一了，之前也给大家提过\n目前 @unicornxdex 一共包含了三大块儿：unicornx/UnicornVerse/unicall\n不过很多人都不太懂unicornx/UnicornVerse/unicall三者的关系，如果真的要做一下区分的话，下面这样可能比较好理解一点\nUnicornX=平台方\nUniCall =平台精选栏目\nUnicornVerse = 投资方\n项目上了unicall其实是可以拿到UnicornVerse的投资的。他们内部有一个ic部门，从数十个项目里选一个出来，然后进行战略投资。unicall上的项目如果亏钱了，貌似官方会按成本价进行赔付，比如最近的 $AFT\n不过，作为一个臭撸毛的，我还是比较关心他们的积分规则\n目前他们积分获取比较有难度，积分前 100 有独角兽 SBT（灵魂徽章），未来空投、白名单、OTC 配额都得靠它\n1. 注册会送10积分\n2. 每交易100U，能拿1分，每日上限100分。\n3. 邀请的话，用户也能返积分。\n4. 贡献分。提交bug/提案/内容，这个可以拿到一定积分。不过靠能力\n所以最基础的策略的话\n如果你是纯交易的话，建议精号。反正交易，去哪儿不是买\n如果纯撸毛玩家的话，一批精号+多号撸注册积分。记得走自己的邀请。\n\n总而言之，对交易感兴趣的玩家确实可以去玩儿一下。但是如果只是纯撸毛的，刷的时候还是要注意一下损耗。\n而且前几天 @four_meme_ 也官宣跟 @unicornxdex 合作了",
+      "timestamp": "Sep 3, 2025 · 8:04 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1963151141015106006#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962874979462283739#m",
+      "content": "独立思考，学会求证\n\n多么简单的一个逻辑，币圈大部分人都学不会。",
+      "timestamp": "Sep 2, 2025 · 1:47 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962874979462283739#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962856267602600445#m",
+      "content": "应该是这个原因",
+      "timestamp": "Sep 2, 2025 · 12:32 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962856267602600445#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962852644973842838#m",
+      "content": "奇奇怪怪的。\n有人钻石没有，有人钻石2300+\n有人黄金没有，有人黄金1100的也有，500的也有，290的也有。\n甚至白银500的都有吃到的\n\n这个额度的计算方式是啥啊 @boundless_xyz @KaitoAI",
+      "timestamp": "Sep 2, 2025 · 12:18 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962852644973842838#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962850837065240634#m",
+      "content": "... \n好像说没更新完。有人说是1340，也有人290\n反正奇奇怪怪的",
+      "timestamp": "Sep 2, 2025 · 12:11 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962850837065240634#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962850199958908997#m",
+      "content": "芜湖！树莓 @boundless_xyz 发额度了，都是290额度居多。嘻嘻",
+      "timestamp": "Sep 2, 2025 · 12:08 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962850199958908997#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962748621247652151#m",
+      "content": "可能还有一些人要 @Surf_Copilot 的code，我放一些给大家，要的自取哈。\nDDD9C5EB6B4D\n612CE35B2208\n05D768EEEEDF\nD2ECF0A66DFD\n0C9245B14739\n76174CFDA00D\n7B2AC70F3BA0\n4C924E20C29C\n5748C6F5ED04\n695A2D911ACC\n41D74078A561\n215793422F99\n86FE55389E1F\n0E33E32B8101\nB76234D13A46\nE28D9BB2C481\nD9F449B1BC6F\n3E7EEECDC3C3\n52426BE83FC9\nF01875CD292B\n4499E5043415\nBC98F2DD5002\n024E5E2EB144\nD1970D0ABAE4\n81446535C769\nF9199C9C4D55\n1786BABD4886\n605057F2D712\n2D14F71B94C2\nACF41FBC74BC\n8AECD5CE5DB1\n00AAC956414C\nFA623796616A\n476C432C9B76\nB2E608581595\n08BB9FD671B7\n83919DF3567F\nCDF8E614D74A\nF4D0B30FBAF6\nD019D7B6F8B3\nE5DE57DDA54A\nA8287F1A130B\nD9E925E69645\n3E175B721B44\nB4B0658CA1FF\n54369B362796\n536AF32A9AE5\n13C6C9854091\nF9289FC5BB79\n173A2B07CB28\nE60DEB7E0A19\nC3EAF1F160D8\n1D430181C3F0\n80269750C4BA\n03E340FFC737\n08654B1B467E\n9BF3F4C617BB\n66FEEDD6F31B\n29437AD0B10E\n901B7C817DA6\nDFD016F8EF9F\n75BF2F468388\nFBD0F305B02B\nAAAC7F7F508B\nED7F46EEE524\nE63CCEE7E856\n42E739687C8B\n6BA68F677114\n26E755623D33\n5DE52FD30B60\nBC8D26C4CD26\nC7160A5277E9\n190D602F68AA\nB67E41687E66\n79834F42D82B\n36A6E0056CF1\n08457FB3AD58\nBA59C3211CCF\n1FAA58AA28D2\nD33405B3E5B2\nF6D922EFE9F2\nB669BC939A7A\n21712ED9D505\nDA96393F275E\nE5DE53EB4CDB\n0753B97680AD\n91A0FA943328\n801B7F358C31\n414E8D4AA241\nEE8254227A01\n6DF95E130E2C\n5F709A2A004A\nC5E06B707170\n1BEA7704864C\n3ADD642E0C6C\n85DF640CBD18\n1392C2CA1324\n032CB599DB72\nEB56DFB42C37\nA1B6D5A34498\n12E05776318E\nEFE70354715F\nB8A42BAF3A4F\nC080A7E585E2\n77771170A7F1\nD78FE7EF663C\n66E5AF3BE788\n959C6C91A6D4\n6B01BA0AC5BA\nE18D10340133\n8918C3609AE5\nA1170F1A6658\n598624751D88\nC9BCB0508602\nD6C223D80878",
+      "timestamp": "Sep 2, 2025 · 5:25 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962748621247652151#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962707917163110660#m",
+      "content": "得，保护性冻结是15天\n等所有程序走完，真正解冻要十八天的样子\n\n以后再也不他妈入金了\n操",
+      "timestamp": "Sep 2, 2025 · 2:43 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962707917163110660#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962593851883037091#m",
+      "content": "熬了好几个大夜，本来今天头疼寻思早点睡，结果在床上辗转反侧睡不着，干脆起来聊一聊撸毛的未来\n\n一直以来，我都把“低成本博高收益”的行为都归统到撸毛的范畴\n早先的链上交互能拿到空投，是撸毛；几u打的铭文，是撸毛；mint一个nft，拿到了空投，也算是撸毛\n过往熊市的时候，我都觉得撸毛这个赛道都还好。直到今年，我几乎每天不间断的调研项目，挖掘alpha信息，主动关注的数量从以前的 1000+都提到 6000了，结果发现了一个很可怕的事情\n今年看到的大部分项目，没一个值得撸的\n\n我可以这样打包票的说\n@KaitoAI 上pre tge的项目里，除了极个别，95% 都包反撸的。\n什么叫反撸？推上没有夸的，只有骂的；散户只有亏的，没有赚的\n\n而自我反思之后，我发现我工作室今年大部分项目其实也都是反撸的状态，或者叫没亏钱\n讽刺的是，我今年赚到钱的几个项目都围绕在年初的meme，还有一些项目的二级上（是的，我虽然不怎么玩 meme，但是今年年初还是通过meme还是赚了不少）\n\n对此，我对工作室的策略就变了：不再卷大热项目，专精小而美的项目\n算下来，只有这个策略踩中一个，那么今年一年的本钱就都可以回来了。而如果继续卷大项目的话，一方面卷不过那些有技术的大工作室，上来整个几十万地址的那种；另一方面又卷不过卡 Bug的团队，0成本几十万地址，不求空投，只卖地址。\n我相信这也是大部分小工作室或者散户现在遇到的困境：手撸匠人不如狗\n\n要破除这个困境，目前唯一的办法就是：等待与尝试\n等一个新的筹码分配方式，一个新东西\n等项目方开始冷却，潮水退去才能看到谁是好项目\n多尝试一些新东西，过往老派的撸毛方式在现阶段已经不奏效了。需要去尝试一些新东西\n\n今年撸毛的几个大机会，无论是 @worldlibertyfi 还是 @binancezh 的 alpha ，还是 @SaharaLabsAI @solayer_labs 的打钱，其实对新入圈的同学都不太友好。都是 0 本金进来，完不成最开始的资金积累，更别说复投后面的了。\n别给我扯什么meme一天百倍，合约一夜翻身。你只看到少数的几个胜利者的旗帜，没看到他脚底下堆积成山的尸体。\n\n所以回到最初的问题：撸毛的未来什么？\n你认为呢？",
+      "timestamp": "Sep 1, 2025 · 7:10 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962593851883037091#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962546407145140545#m",
+      "content": "啊？ 明天空投？？？",
+      "timestamp": "Sep 1, 2025 · 4:01 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962546407145140545#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962513878409232491#m",
+      "content": "众所期待的 @worldlibertyfi 也算是圆满落幕了\n发红包的发红包，退圈的退圈\n\n那么，下一个又是什么呢？",
+      "timestamp": "Sep 1, 2025 · 1:52 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962513878409232491#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962494408718520348#m",
+      "content": "链上过年了。多久没见过这个gas了",
+      "timestamp": "Sep 1, 2025 · 12:35 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962494408718520348#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962485083677639016#m",
+      "content": "文章回来了\n今晚上真的太有节目效果了... 🙃\n$WLFI",
+      "timestamp": "Sep 1, 2025 · 11:57 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962485083677639016#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962432361355972893#m",
+      "content": "大！来！",
+      "timestamp": "Sep 1, 2025 · 8:28 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962432361355972893#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962364640530481393#m",
+      "content": "这个事儿解决了，先说结论\n1. 神盾的那个商家，收到杀猪盘的钱，他的账户，连带我的账户一起给封了。\n2. 我名下的银行卡全都给保护性冻结2天。差不多明天解开\n3. 昨天也问了 @sisibinance ，目前对商家的监管，确实只围绕用户作为卖家导致的冻结，对买家角色这块儿的保护还不够。目前已经对哪个商家进行停业整顿了，要求整改\n\n他妈的，我都好几年没入金了...结果整上这事儿hhhh",
+      "timestamp": "Sep 1, 2025 · 3:59 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962364640530481393#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962340130703716648#m",
+      "content": "等了很久的灯塔 @The_Beacon_GG 终于要开始公测了\n9月4日开始，7号结束\n先加一个epic愿望清单：store.epicgames.com/en-US/p/…\n\n我手上还有一堆卷轴... 希望能有好消息",
+      "timestamp": "Sep 1, 2025 · 2:22 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962340130703716648#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962166472169652677#m",
+      "content": "这次五周年的会，我也去搂了一眼。在后面手都举断了，也没抽到提问机会。\n原本还想问问 @cz_binance 怎么看待稳定币赛道的。\n\n@AssetoFinance 这玩意儿大家也关注一下吧。也算是cz重点关注的RWA项目了。",
+      "timestamp": "Aug 31, 2025 · 2:51 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962166472169652677#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962156279788605702#m",
+      "content": "关于树莓 proven berry的role\n后续有空投，空投多少抽多少",
+      "timestamp": "Aug 31, 2025 · 2:11 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962156279788605702#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1962103783313600688#m",
+      "content": "🤥前段时间，临时去bn 神盾买了一笔27w的u\n\n然后今天叔叔就给我打电话了\n一问，感情我打钱的那个银行卡是个嫌疑犯…所以我卡也被冻了🥲\n\n以前以为出u风险才高\n现在买u风险也不低啊….\n\n大家选择的时候，还是尽量多选择靠谱的路子吧",
+      "timestamp": "Aug 31, 2025 · 10:42 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1962103783313600688#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1961802127925530787#m",
+      "content": "树莓 @boundless_xyz ico的最终结果是7100W\n按照400W算，超募17.75倍；如果按照900W硬顶来算，超募7.8倍\n\n挺不错的\n感觉最后的结果应该还是，钻石/黄金/白银/青铜，不同等级会有一个保证金额。保证金额之外，才会分给其他地址。\n接下来就看树莓表演了。\n\n@Tinaliu333 \n@boundless_cn",
+      "timestamp": "Aug 30, 2025 · 2:44 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1961802127925530787#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1961418659139915877#m",
+      "content": "听说大家linea赚麻了？",
+      "timestamp": "Aug 29, 2025 · 1:20 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1961418659139915877#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1961331988012699781#m",
+      "content": "这几天在hk玩的有点high了...\n以下是最近值得关注的一些alpha，自取\n\n1. @alliancedao 投了一个sol上的隐私项目（龙卷风）叫做@theprivacycash \n官网：privacycash.org/\n目前官网挺简洁的，可以去体验一下。我觉得这类型的项目，可能还是做不长久，最后还是要发一个meme币\n2. metaeth生态要出一个预测市场，看样子挺靠谱的，不过还没demo出来。名字叫做 @PredictlyX ，可以提前关注一下\n3. 融资15m的预测市场 @theclearingco 有一个候补记得去填一下。目前还不知道会在哪个链上，只知道团队的人都是之前 polymarket的人。\n而且已知，polymarket也大概率走上市这条路，所以撸那个还不如撸这个。\n链接：form.typeform.com/to/c4tadt4…",
+      "timestamp": "Aug 29, 2025 · 7:36 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1961331988012699781#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1961328109753700413#m",
+      "content": "🍚打起来吧！打得好啊！\nokx钱包前脚官宣收手续费，增加返佣系统之后。bg钱包转身就手续费全免一个月。如果你去开他们的u卡，再额外免费2个月。\n再加上bn钱包9月17日免手续费的活动也快结束了。\n\n要我说，你们三家直接干起来吧。能干多狠干多狠🤣，就跟外卖大战一样，反正最后享福的都是用户，挺好！\n@BitgetWallet @wallet @BinanceWallet \n\n其实也别看bg钱包免的这 1% 的手续费，看着不高。真正链上的打狗玩家，这里真能剩不少钱。群里抢个三五块红包都得谢谢老板，链上也别把三五u不当回事。\n而且bg钱包那边的一些功能也都挺好用的，行情数据，还有memescan扫链这些功能都挺丝滑的\n\n他们的u卡也记得开一下。如果不开的话，免手续费活动就 1 个月时限，开了就变 3 个月了。\n而且，他们的u卡真挺好用的。又不要开卡费，首笔消费还送你 5u，体验也还不错，比较适合小额消费，美团点个外卖都还可以。\n原文：web3.bitget.com/zh-CN/blog/a…",
+      "timestamp": "Aug 29, 2025 · 7:20 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1961328109753700413#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1961271590068555833#m",
+      "content": "9月大概率会发币的一些项目\n1. @boundless_xyz 树莓 25 号开始ico，正常来说ico完了之后距离发币也快了。不过介于 kaito上的项目排期较多，所以大概率 9 月中下旬发币的样子吧。盲猜。\n2. @Mira_Network 算是我跟了很久的项目了。从去年 12 月开始一直跟到现在，然后昨天发布了基金会 @miraFND \n目测快了，9月底我感觉差不多\n3. @theblessnetwork depin项目，前段时间把空投注册了。只不过现在还不能查具体的数量，感觉9 月份应该是必发的\n4. @worldlibertyfi 的 $wlfl 9月1号发，这个大家都知道，就不说了\n5. @PlasmaFDN 稳定币项目，按照时间推算，发币也是月份的事情\n6. 还有kaito上，其他项目我不知道，但是 @TheoriqAI @rise_chain 这俩应该也是 9 月份要发的。\n7. 前几天跟bn alpha合作的那个 @OpenledgerFdn ，也确定是 9 月份发币了。这项目虽然不算太好，但是也不算太差。\n8. @avantisfi 也是前几天公布的基金会 @AvantisFdn ，同时代币经济模型也公布了。\n不过我觉得这玩意儿应该没那么快，再早也是 9 月中下旬的事情了。\n9. @Lombard_Finance 这个就不说了，前几天刚开的ico。9 月份应该是必发的，中旬之前。\n\n目前盲猜这些。还有什么我漏掉的，大家可以查漏补缺...\n而且大家看懂这些项目发币的真正意义了没？\n别问\n问就是 alpha 爽吃",
+      "timestamp": "Aug 29, 2025 · 3:36 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1961271590068555833#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1961232338555474054#m",
+      "content": "最终 @USDai_Official 的 1 亿存款上限还是满了。\n恭喜已经存了的同学\n\n从发的当天，磨磨蹭蹭还不到 4m，到后面yzi Lab投资+ @PlasmaFDN  @m0 的一些官宣合作啥的。\n这玩意儿可能第一批存的真能吃肉...\n后悔没多存...",
+      "timestamp": "Aug 29, 2025 · 1:00 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1961232338555474054#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1961042844090769607#m",
+      "content": "plasma的钱还没解锁\nbn usdc的钱刚存\nkaito上的 @boundless_xyz 多号都存了\nbuildpad的 @Lombard_Finance 也存了\n马上 @Ethereum_OS 也要打钱\nbn alpha的一堆号，每个号1100u资金占用着\n@four_meme_ 上的也要塞钱\n后面还有一堆三无项目要打钱…\n\n真没钱了\ncnm",
+      "timestamp": "Aug 28, 2025 · 12:27 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1961042844090769607#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1960970011465671135#m",
+      "content": ". @HyperliquidX \n只能赌上全部身家了",
+      "timestamp": "Aug 28, 2025 · 7:37 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1960970011465671135#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1960923548207472979#m",
+      "content": "这个web3，我不打钱啊。你们也注意一下",
+      "timestamp": "Aug 28, 2025 · 4:33 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1960923548207472979#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1960641422433857614#m",
+      "content": "hhhh，女巫不说，还要锁80%\n\n年度最傻逼的项目",
+      "timestamp": "Aug 27, 2025 · 9:51 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1960641422433857614#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1960340605479068146#m",
+      "content": "明天要出门一趟，所以趁走之前先把最近要关注的事情一并说了（自取）\n1️⃣ @Ethereum_OS 昨晚上公布代币经济系统了。 \n原文：localhost:8080/Ethereum_OS/status/196…\n代币经济系统的重点就是，3%的空投，然后80%公募荷兰拍。募集的钱，40%加流动性。\n我自己可能会看情况打一点，但是我仍然劝大家慎重。主要是这玩意儿没啥背书，又是荷兰拍打钱的。所以，强烈建议大家不要打。（我自己打纯纯是自我cx）\n2️⃣前段时间给大家发的alpha项目 @web3 ，昨晚上发推说48H之内开平台。meme玩家可以关注一下\n原文：localhost:8080/web3/status/1960047517…\n3️⃣ @worldlibertyfi 打了钱的，别忘了去unlock。9月1号就开始释放了\n链接：worldlibertyfinancial.com/un…",
+      "timestamp": "Aug 26, 2025 · 1:56 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1960340605479068146#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1960328319586697577#m",
+      "content": "坏了！ @yzilabs 投了 @USDai_Official \n可是他妈的我真没钱存了啊！操\n\n这玩意儿现在存款上限是100M，现在已经6300W了\n咋搞，存不存？",
+      "timestamp": "Aug 26, 2025 · 1:07 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1960328319586697577#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1960298208741274107#m",
+      "content": "还有看到养牛的 @EclipseFND ，短短几个月就开始裁员了。\n大家记得把上面的钱给取出来，别到时候真跑了，钱没赚到不说，本金没了\n官方跨链桥：app.eclipse.xyz/bridge\n猫头鹰：owlto.finance/?to=Eclipse\n\n其实这类型的项目，从最开始都早有征兆。发币前夕还在找KOL融KOL轮\n他妈的，割人也不是这样玩儿的。\n\n牛也养了，gas也花了，交互也做了，就是不赚钱\n\n傻逼项目",
+      "timestamp": "Aug 26, 2025 · 11:08 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1960298208741274107#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1960297093580619912#m",
+      "content": "前几天 @gaib_ai 的哪个nft，5min就没了\n存款的话，第一季已经结束了，现在开始的是第二季，感觉离发币也不远了\n\n最后一季的存款跟之前有少许不一样\n1. 无论新旧存款，都是10倍的积分。对新用户来说，现在存是比较好的。只是对老用户来说，积分毕竟还是膨胀了，所以还是会有点不公平\n2. 已经明确说明，2个月的存款活动。Q4主网上线（发币？）\n3. 第二季只增加10M的配额。我刚看了一下，目前已经打了一半了\n\n这种存款类型的项目，我一向建议用闲钱投资。不过最近打钱的项目真挺多的，大家钱包估计也都被掏空了（反正我是🤣）\n\n存款链接：aid.gaib.ai\n原文：gaibofficial.medium.com/the-…",
+      "timestamp": "Aug 26, 2025 · 11:03 AM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1960297093580619912#m",
+      "author": "sanyi_eth_"
+    },
+    {
+      "id": "1959998971361022384#m",
+      "content": "有几个关于 @worldlibertyfi 和 @liberty_bsc 的信息，大家可以关注一下\n\n1. 7月19号的时候， @worldlibertyfi 买了4WU的 $LIBERTY 。我原本以为就活动奖励没啥东西了。结果最近 @liberty_bsc 的官推和 @worldlibertyfi 一直在互动\n2. 9月1号的时候， $wlfl 就可以交易了。目前 $usd1 上的生态大概率也会起来一波\n3. 然后还有个事是， @liberty_bsc 官网改版了，不像之前纯meme。之前我还在说，4个获奖项目，2个有落地，就老鹰和这个是meme。结果现在改版之后，看样子是要搞RWA了\n如果真搞RWA，那么这玩意儿就是USD1上嫡系的RWA项目了。\n4. 然后还有一个， @worldlibertyfi 官方一直在跟好多交易所联动积分的事情。虽然还不知道积分未来能拿来做啥，但是就之前空投USD1的玩法来看，再空投的概率挺大的。\n\n总之，还是建议关注一下 @worldlibertyfi 和 @liberty_bsc 这俩，9月份最重要的事儿应该就USD1生态的事情了。",
+      "timestamp": "Aug 25, 2025 · 3:19 PM UTC",
+      "url": "https://twitter.com/sanyi_eth_/status/1959998971361022384#m",
+      "author": "sanyi_eth_"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T00:01:54.046Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 26299,
+    "cursorTrail": [
+      "DAAHCgABG3vhR5w__-wLAAIAAAATMTk3ODAwOTg3MzI4MDY1MTQ1OQgAAwAAAAIAAA",
+      "DAAHCgABG3vhR5w__9cLAAIAAAATMTk3NjE2NDc3MzM0ODY1OTQ2MggAAwAAAAIAAA",
+      "DAAHCgABG3vhR5w__8ILAAIAAAATMTk3MzM2NDIxMDA2ODYwMjk2OAgAAwAAAAIAAA",
+      "DAAHCgABG3vhR5w__60LAAIAAAATMTk3MDQwODYwMjQ3ODUxNDQ1OQgAAwAAAAIAAA",
+      "DAAHCgABG3vhR5w__5gLAAIAAAATMTk2Nzg0OTUzMTk1MDk1NzAyMAgAAwAAAAIAAA",
+      "DAAHCgABG3vhR5w__4MLAAIAAAATMTk2Njc1OTczNjY5MjM2MzUxMAgAAwAAAAIAAA",
+      "DAAHCgABG3vhR5w__28LAAIAAAATMTk2NTA5NTI0MzQ5MTI2MjY0MwgAAwAAAAIAAA",
+      "DAAHCgABG3vhR5w__1sLAAIAAAATMTk2MzU3MDQxNDAyNzY5MDI3NQgAAwAAAAIAAA",
+      "DAAHCgABG3vhR5w__0ULAAIAAAATMTk2MjUxMzg3ODQwOTIzMjQ5MQgAAwAAAAIAAA",
+      "DAAHCgABG3vhR5w__zALAAIAAAATMTk2MDMyODMxOTU4NjY5NzU3NwgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

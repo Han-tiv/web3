@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1246854302791913472",
+    "screen_name": "0xphiloA",
+    "name": "0xPhilo｜一个开发者",
+    "description": "dev: https://t.co/Eauu38CutH classical liberalism Currently runs a technology studio  币安web3钱包高返佣：https://t.co/vvPFBVYgEC",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1801671061475627009/1jdfb2Rf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246854302791913472/1623866601",
+    "followers_count": 13647,
+    "friends_count": 2749,
+    "statuses_count": 4478,
+    "favourites_count": 7572,
+    "listed_count": 180,
+    "location": "metaverse",
+    "website": "https://t.co/Eauu38CutH",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2020-04-06 01:37:08 +08:00",
+    "url": "https://twitter.com/0xphiloA",
+    "rest_id": "1246854302791913472"
+  },
+  "tweets": [
+    {
+      "id": "1977059861927284830#m",
+      "content": "x.com/i/article/197705177347…",
+      "timestamp": "Oct 11, 2025 · 5:12 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977059861927284830#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1980381625612661123#m",
+      "content": "广告区\n进群不仅能赚钱 还能学到知识\n大家要进群\n填币安web3钱包邀请码： WEB3ALPHA\nweb3.binance.com/referral?re…\n或binance 现货合约交易8折\nmaxweb.black/join?ref=WEB3AL…\nWEB3ALPHA\n然后找助理\n@WYH1870651\n发截图和附带留言 进交易群  小助理就会拉大家进群哟",
+      "timestamp": "Oct 20, 2025 · 9:12 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1980381625612661123#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1980381476287029473#m",
+      "content": "广告区\n进群不仅能赚钱 还能学到知识\n大家要进群\n填币安web3钱包邀请码： WEB3ALPHA\nweb3.binance.com/referral?re…\n或binance 现货合约交易8折\nmaxweb.black/join?ref=WEB3AL…\nWEB3ALPHA\n然后找助理\n@WYH1870651\n发截图和附带留言 进交易群  小助理就会拉大家进群哟",
+      "timestamp": "Oct 20, 2025 · 9:11 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1980381476287029473#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1980380429955027329#m",
+      "content": "熬夜写的小长文\n\n内容比较干\n\n大家自取",
+      "timestamp": "Oct 20, 2025 · 9:07 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1980380429955027329#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1980380085170696284#m",
+      "content": "x.com/i/article/198037352420…",
+      "timestamp": "Oct 20, 2025 · 9:06 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1980380085170696284#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1980354245338780045#m",
+      "content": "一姐好快\n\n笑死",
+      "timestamp": "Oct 20, 2025 · 7:23 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1980354245338780045#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1980336142257160434#m",
+      "content": "给大家算一下自memerush改版了之后\n\n跟修仙相同的BNB \nfloki可以拉到多少市值\n（非投资建议，纯计算）\n\n先说结论 98.5M\n\n以下为证明过程：\n\n对于修仙\n\nBNB价格为 $1,100。\n Uniswap V2 恒定乘积公式 (x \\ y = k)，并且：\n已知条件\n\nLP池：150 BNB\n\n池子代表项目总筹码的 20%\n\n初始市值：$1,000,000\n目标市值：$45,000,000\nBNB单价：$1,100\n1️⃣ 计算池子的美元价值\n池子 = 总市值的 20% = $200,000\n其中：\n\n一半是BNB，一半是Token\n⇒ 池中BNB价值 = $100,000\n\n2️⃣ 计算BNB与Token数量关系\n\n但是现在我们改为 $1,100/BNB，\n说明原来的池子按现价换算，150 BNB = 150 × 1100 = $165,000。\n\n这会让池子总价值 ≈ $330,000（Token 部分同样 $165,000），\n相应的初始市值也放大了比例，但我们要保持市值比例关系不变。\n为保持一致性，我们只关心相对比例（价格×45），BNB价格只影响投入量的换算。\n\n3️⃣ 恒定乘积公式推导（相对变化不变）\n\n恒定乘积：\n\nx_0 y_0 = x_1 y_1\n\n价格：\n\nP = x/y\n\n价格目标提升 45 倍：\n\nP1​=45P0​⇒y1​x1​​=45y0​x0​​\n\n解得：\nx1​=x0​45​=150×6.708=1006.2 BNB\n\n新增BNB量：\n\nΔx=1006.2−150=856.2 BNB\n\n最终结果：\n\n项目 数值     初始BNB储量 150 BNB   目标BNB储量 1006.2 BNB   需要新增BNB 856.2 BNB   按BNB = $1100计 ≈ $941,820   市值增长 从 1M → 45M（×45倍）\n\n对于floki\n\n 已知条件\n\n池子初始 x₀ = 50 BNB\n\n占项目总筹码的 20%\n\n你打算投入 Δx = 856 BNB\n模型：Uniswap V2 恒定乘积公式x⋅y=k\n1️⃣ 计算新池BNB储量\n\nx1​=x0​+Δx=50+856=906\n\n2️⃣ 恒定乘积关系\n\nx0​y0​=x1​y1​\n\n价格：\nP=yx​\n所以价格倍数（涨幅）为：\n\nP0​P1​​=x0​/y0​x1​/y1​​=x02​x12​​\n\n（因为 (y_1 = x_0 y_0 / x_1)）\n3️⃣ 代入数据\n\nP0​P1​​=(50906​)2=(18.12)2=328.3\n\n✅ 结论\n\n价格上涨 约 328.3 倍\n因为项目的总市值与价格成正比（总流通量不变）\n→ 市值也涨 328.3 倍\n如果初始市值为 300k：\n\nM1​=300,000×328.3=98,490,000\n\n856 BNB 可以把市值从 300k 拉到约 98.5 M 美元。",
+      "timestamp": "Oct 20, 2025 · 6:11 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1980336142257160434#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1980321306760613955#m",
+      "content": "翻倍加仓\n\n拉高成本\n\nfloki",
+      "timestamp": "Oct 20, 2025 · 5:12 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1980321306760613955#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1980312766352351665#m",
+      "content": "拉高均价\n\nfloki",
+      "timestamp": "Oct 20, 2025 · 4:38 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1980312766352351665#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1980309719530229908#m",
+      "content": "飞麻了",
+      "timestamp": "Oct 20, 2025 · 4:26 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1980309719530229908#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1980306684225724859#m",
+      "content": "一姐不会无缘无故转floki的推吧\n\n买了一点\n\n0x4444c1ac17b779b221e410a94f218f44b8862101",
+      "timestamp": "Oct 20, 2025 · 4:14 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1980306684225724859#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1980304563904324008#m",
+      "content": "我整理了币安人生的顶级kol列表大家可以看一看\n\nt0\n\n@star_okx \n\n躬身入局，顶级阳谋\n\n币安人生cto leader\n\nt1\n\n@GCsheng \n\n币安人生早期布道者，\n\n在币安人生社区中影响力仅仅次于版本t0\n\n币安人生奶爸\n\n2k进\n\n浮盈可覆盖blur的亏损\n\nt2\n\n@0xSunNFT \n\n@brc20niubi \n\n@BitCloutCat \n\n@hexiecs\n \n各大车头们",
+      "timestamp": "Oct 20, 2025 · 4:06 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1980304563904324008#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1980293892022145197#m",
+      "content": "🤡\n\n大部分人来crypto是来赚钱的\n\n真不是来找“爹”的",
+      "timestamp": "Oct 20, 2025 · 3:23 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1980293892022145197#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1980258063623049682#m",
+      "content": "虚假的汉语全球化：\n\n建设孔子学院\n\n教大家包🥟\n\n真正的汉语全球化：\n\n发中文咪咪\n\n拉盘中文咪咪",
+      "timestamp": "Oct 20, 2025 · 1:01 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1980258063623049682#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1980257651230417297#m",
+      "content": "推动汉语全球化的\n\n不是孔夫子\n\n而是CZ",
+      "timestamp": "Oct 20, 2025 · 12:59 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1980257651230417297#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1979954661210964128#m",
+      "content": "我宣布\n\nbsc是安卓链\n\n大家get不到苹果梗\n\nLMAO\n😂",
+      "timestamp": "Oct 19, 2025 · 4:55 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1979954661210964128#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1979924872647057495#m",
+      "content": "在每条公链玩meme侧重的角度和群体是不一样的\n\n比如在sol上，你可能会吃没文化的亏\n\n但在bsc上，你会吃有文化的亏",
+      "timestamp": "Oct 19, 2025 · 2:57 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1979924872647057495#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1979576890332712982#m",
+      "content": "加密行业扁平化的最大好处就是\n\n大家对所谓的“大佬”祛魅\n\n大家会发现“大佬”其实跟我们一样\n\n也是个傻逼\n\n也是骗子\n\n也是道貌岸然的伪君子",
+      "timestamp": "Oct 18, 2025 · 3:54 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1979576890332712982#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1979576106161516999#m",
+      "content": "cz在用老徐的号？\n\n很难想象\n\n每一句话都是公关危机\n\n在crypto很少看到爹味这么重的人\n\n最离谱的是\n\n把他人的古难当作自己品牌的标榜",
+      "timestamp": "Oct 18, 2025 · 3:51 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1979576106161516999#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1979548529896112583#m",
+      "content": "一百个坏人对一个项目的伤害远远不如一个蠢人\n\n最傻逼的机制没有之一\n\n我比较好奇这个机制是怎么想出来的\n\n只要这样一改memerush永远没有人玩\n\n我只要在four内盘捆绑一百个地址就可以让memerush的项目死掉\n\n而memerush是要求币安无私钥钱包的\n\n没法进行大量的捆绑\n\n那只要看memerush项目快到100个人\n\nfour上发一个bundle100个人\n\nmemerush就死了\n\n这是个人能想出来的解决方案吗？\n\n@cz_binance @heyibinance @BinanceWallet",
+      "timestamp": "Oct 18, 2025 · 2:02 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1979548529896112583#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1979463874966704283#m",
+      "content": "好了\n\n🫰买的memerush\n\n学到教训了\n\n高手买的是fourmeme",
+      "timestamp": "Oct 18, 2025 · 8:25 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1979463874966704283#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1979355417013817545#m",
+      "content": "最近在撸的几个项目\n\n1.polymaket\n2.aster（新策略，先不说）\n3.standx\n4.合作方式的币安alpha\n5.memerush加币安alpha\n6.币安web3钱包返佣（早期送钱策略）\n\n欢迎大家用小p的链接\n\nweb3.binance.com/referral?re…\n\n邀请码：\n\nWEB3ALPHA\n\n填完之后dm @WYH1870651 \n\n拉进入群一起聊聊细节",
+      "timestamp": "Oct 18, 2025 · 1:14 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1979355417013817545#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1979165371979472904#m",
+      "content": "币安web3第一批50%返佣已经打了\n\n接下来还有更多福利哟\n\n🫰❤️\n\n用我的邀请码：\n\nLVS26MGA\n\nweb3.binance.com/referral?re…\n\n填好之后发截图给 @WYH1870651 \n\n可以进群\n\n领取一些额外空投\n\n包含 $币安人生\n$xpl",
+      "timestamp": "Oct 17, 2025 · 12:39 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1979165371979472904#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1979144766869873046#m",
+      "content": "行情不易，给大家送钱了\n\n顺便和大家聊聊最近做web3钱包返佣的感想和给币安web3钱包建议\n\n我是币安钱包最高返佣 50% 算上邀请码的10%加上来有60%\n\n而且是真正发钱的第一个kol\n\n这是第一期超过1u返佣名单（截止到15号）\n\n目前返佣已经给大家打过去了\n\n大家可以用我的邀请码\n\nweb3.binance.com/referral?re…\n\nLVS26MGA\n\n还可以找小助理 @WYH1870651 \n\n进两个群\n\n一个是alpha群 \n\n一个是稳定套利群\n\n回来说一下\n\n我为什么给大家返50%\n\n因为我自己能返60%\n\n后面会给大家返回更多的\n\n最后给币安钱包的一下建议\n\n@BinanceWallet @heyibinance \n@moonkimbinance @binancezh \n\n1.希望可以多加一些向被邀请人\n发福利的功能\n\n可以选中邀请人并做一些返佣筛选\n（比如返佣额超过1u）\n然后可以批量发送token\n\n2.被邀请人的id可以复制\n\n因为我真的是一个一个图片转文字复制下来的🤡\n\n3.币安web3钱包可以通过uid转帐\n\n原因是我做第一期空投 $bnbholder 出现许多问题，如果web3钱包可以通过uid转帐就可以给大家送一些没上币安交易所的币\n\n空投范围可以大很多\n\n接下来准备给大家送 $xpl\n\n更多的空投可以绑定小p的币安web3钱包\n\n邀请码：\n\nLVS26MGA\n\n转发抽10u限定10个\n\n蓝v优先",
+      "timestamp": "Oct 17, 2025 · 11:17 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1979144766869873046#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1979129099458404609#m",
+      "content": "最近做了两步比较正确的事情\n\n1是开始批量刷alpha\n\n2是开始存standx\n\n让我不得已把仓位换成了稳定币\n\n这行情没眼看🤦",
+      "timestamp": "Oct 17, 2025 · 10:15 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1979129099458404609#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978989704482619533#m",
+      "content": "我真是服了我自己\n\n修仙我买了fourmeme的3%\n\n🫰我买了memerush的2%",
+      "timestamp": "Oct 17, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978989704482619533#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978983630987821564#m",
+      "content": "memerush目前需要培养的不是散户\n\n而是庄家\n\n目前庄家不熟悉memerush的操盘方式\n\n所以龙头还是容易出现在fourmeme\n\n🫰",
+      "timestamp": "Oct 17, 2025 · 12:37 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978983630987821564#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978979164838314365#m",
+      "content": "我服了\n\n现在都4p了\n\nfourmeme（🐲）\n\n🫰\n\n0xd6d4854c63055e7d0caae22ab8c4e023104a4444\n\n🫶\n\n0x907d7ee6fb40c33b7d0fff50e2ff6dbd77534444\n\nmemerush\n\n🫰\n\n0x444426fc290863e6b11454c6e02bb6df06db3218\n\n🫶\n\n0x444472e9c9053a18091c5ce873c7288a6dc7cbbd",
+      "timestamp": "Oct 17, 2025 · 12:19 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978979164838314365#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978976895535583595#m",
+      "content": "🫰\n❤️\n🫰\n\n🫶\n❤️\n🫶",
+      "timestamp": "Oct 17, 2025 · 12:10 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978976895535583595#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978852108917944614#m",
+      "content": "规则改了\n\n内盘小了\n\n容易射了\n\n资产没了\n\nmemerush刷alpha赛道应该火了",
+      "timestamp": "Oct 16, 2025 · 3:54 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978852108917944614#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978714165607899301#m",
+      "content": "买了。\n\n我买回了我卖掉的一切 $giggle 。\n\n我拥有的每一枚 $giggle 都回来了。\n\n我完全重返了加密货币市场，我还能接受更多。\n\n激进的购买、巨大的泵，加密向善，一切都那么令人享受其中",
+      "timestamp": "Oct 16, 2025 · 6:46 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978714165607899301#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978709560107073570#m",
+      "content": "骂币安其它的还好\n\n骂币安收vc币上币费的都是纯傻逼\n\n他妈逼 vc项目方1000个999个都是割韭菜的\n\n利益相关还好\n\n作为韭菜跟镰刀共情也是极品傻逼\n\n币安作为cex龙头收token额度给散户空投\n\n还给刷alpha的散户和韭菜空投vc币\n\n这无疑是遵循二次分配的善意原则\n\n看看其它同行\n\n其它交易所大部分都是联合vc项目方一起收割傻逼和韭菜\n\n币安用自己的平台影响力跟vc谈判给散户和韭菜争取利益了\n\ntmd这个都能喷是纯傻逼",
+      "timestamp": "Oct 16, 2025 · 6:28 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978709560107073570#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978706730742681994#m",
+      "content": "我再说一下我对cz买meme的预测吧\n\n$giggle 70% \n一个颠覆cz对meme看法的meme\n\n币安人生 20% \n目前最多车头的项目，第一个中文大热的meme\n\n修仙 9%\nmemerush跑出来的第一个上alpha的项目\n\n其它 1%",
+      "timestamp": "Oct 16, 2025 · 6:17 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978706730742681994#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978702474291675447#m",
+      "content": "cz要买meme了\n\n感觉 $giggle 的可能性最大\n\n其次就是 $币安人生",
+      "timestamp": "Oct 16, 2025 · 6:00 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978702474291675447#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978673535003308540#m",
+      "content": "跟猫姐共享一个大脑🤡\n\nbnbholder 我80m被套到现在\n\n修仙我最多浮盈10wu没出\n\n准备拿一波大的\n\n结果🤡",
+      "timestamp": "Oct 16, 2025 · 4:05 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978673535003308540#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978421173336600958#m",
+      "content": "有些话，用纯中文说起来就很奇怪\n\n比如\n\n今天是玩快手笔还是币安智能链",
+      "timestamp": "Oct 15, 2025 · 11:22 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978421173336600958#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978413032582640054#m",
+      "content": "还哈气💨吗\n\n还基米🌾吗\n\n还修仙♨️吗",
+      "timestamp": "Oct 15, 2025 · 10:49 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978413032582640054#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978343620072653167#m",
+      "content": "应该不是早上是刚刚\n\n因为我刚刚起床以为是早上",
+      "timestamp": "Oct 15, 2025 · 6:14 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978343620072653167#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978343125417377975#m",
+      "content": "早上被打电话call说\n\n重生起飞了\n\n我记得我开始买了3%的筹码\n\n卖了一次还有1%\n\n可把我乐坏了\n\n结果看了看\n\n我买的是重生支持🤡",
+      "timestamp": "Oct 15, 2025 · 6:12 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978343125417377975#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978191636921303241#m",
+      "content": "感谢币安\n\n小赚给空投",
+      "timestamp": "Oct 14, 2025 · 8:10 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978191636921303241#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978177749450658231#m",
+      "content": "修仙",
+      "timestamp": "Oct 14, 2025 · 7:15 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978177749450658231#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978146835085603221#m",
+      "content": "印度人眼中的摸奶\n\n这次也是摸到奶了\n\n@monad \n\nBrahmin（婆罗门） Community Last\n\nKshatriya（刹帝利）You're cooked\n\nVaishya（吠舍）Permament underclass\n\nShudra（首陀罗）Mid, but we like you\n\nDalit（贱民） Top 99%",
+      "timestamp": "Oct 14, 2025 · 5:12 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978146835085603221#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978102976095916203#m",
+      "content": "币安alpha有毒吧\n\n这一轮上的哈基米和修仙\n\n基本都浇了",
+      "timestamp": "Oct 14, 2025 · 2:17 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978102976095916203#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978085263122334051#m",
+      "content": "今天被币安 $atom 的修改k线刷屏了\n\n但是我问了几个有持仓 $atom 合约的大户\n\n爆仓价1的也没被爆\n\n合约似乎没有人在1.46以下爆仓\n\n我比较好奇的是今天怎么这么多人发这个\n\n有没有受害者可以晒一下 $atom 1.46以下爆仓的图片\n\n我问了一圈几乎没有",
+      "timestamp": "Oct 14, 2025 · 1:07 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978085263122334051#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978075283652841639#m",
+      "content": "不得不说币安钱包 @BinanceWallet 这波memerush真的搞得一地鸡毛\n\n今天bsc的memerush就这样结束了\n\n开始的时候币安钱包大张旗鼓要搞一波大的\n\ncz @cz_binance 和一姐 @heyibinance 也都转发\n\n结果开始的几个大热项目\n\n一堆人被挂在山上\n\n$bnbholder 被挂在 100m➕的比比皆是\n\n到了晚上一姐发了个图片发了个 $修仙\n\n结果早上也一堆人起来被挂在30m\n\n到了昨天上alpha\n\n我判断第一个memerush项目上alpha\n\n又是新界面新效果也不错\n\n加仓了也是套在山上\n\n今天的走势基本也是要浇的节奏\n\nbsc在memerush的格局真的小到不可思议\n\n如果是这样怎么让大家推广使用币安钱包呢？\n\n@binancezh @cain_bnb @moonkimbinance  @sisibinance",
+      "timestamp": "Oct 14, 2025 · 12:27 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978075283652841639#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1978044866962821599#m",
+      "content": "cnm\n\n利润大回撤\n\n应该执行出本策略的\n\n微信还被封了3天\n\n😭",
+      "timestamp": "Oct 14, 2025 · 10:27 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1978044866962821599#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977766536363520177#m",
+      "content": "记住\n\n修仙不只是上alpha\n\n修仙是memerush第一个上alpha的项目\n\n也是币安钱包的门面",
+      "timestamp": "Oct 13, 2025 · 4:01 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977766536363520177#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977759451009417324#m",
+      "content": "修仙！！！",
+      "timestamp": "Oct 13, 2025 · 3:32 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977759451009417324#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977753026451394748#m",
+      "content": "好了\n\n都麻了",
+      "timestamp": "Oct 13, 2025 · 3:07 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977753026451394748#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977740680521744661#m",
+      "content": "微信号被封了几天\n\n只能tw联系了\n\n😭",
+      "timestamp": "Oct 13, 2025 · 2:18 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977740680521744661#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977740569393652206#m",
+      "content": "格局大了\n\n我比较好奇有没有查女巫",
+      "timestamp": "Oct 13, 2025 · 2:17 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977740569393652206#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977639496557703664#m",
+      "content": "买了一点爱坤\n\n我曾经也是爱坤",
+      "timestamp": "Oct 13, 2025 · 7:36 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977639496557703664#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977618811336769690#m",
+      "content": "看近期bsc火起来的几个金狗\n\n不得不感概\n\nbnb上面的项目审美比以前高了几个level",
+      "timestamp": "Oct 13, 2025 · 6:14 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977618811336769690#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977409457077489936#m",
+      "content": "顶级可爱ip\n\n排名不分先后\n\n哈基米（耄耋） 奶龙 噜噜 小八",
+      "timestamp": "Oct 12, 2025 · 4:22 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977409457077489936#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977401574910730332#m",
+      "content": "因为那个男人\n\n改变了规则",
+      "timestamp": "Oct 12, 2025 · 3:50 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977401574910730332#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977360922399158709#m",
+      "content": "老登修仙\n\n小登哈气\n\n全明星奶牛",
+      "timestamp": "Oct 12, 2025 · 1:09 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977360922399158709#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977186689031524582#m",
+      "content": "跑了",
+      "timestamp": "Oct 12, 2025 · 1:36 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977186689031524582#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977182384140566767#m",
+      "content": "睡觉了💤",
+      "timestamp": "Oct 12, 2025 · 1:19 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977182384140566767#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977182180796404025#m",
+      "content": "追进去了\n\n0x45e57907058c707a068100de358ba4535b18e2f3",
+      "timestamp": "Oct 12, 2025 · 1:19 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977182180796404025#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977079186427887816#m",
+      "content": "修仙",
+      "timestamp": "Oct 11, 2025 · 6:29 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977079186427887816#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977061223884812442#m",
+      "content": "简单聊一聊\n\n$wbeth 吃12倍的逻辑\n\n因为很多小伙伴只想着买现货等价格修复\n\n这样只能赚4倍左右\n\n但如果看链上价格搬价格\n\n这个上限是无限的\n\n我只吃到12倍是我操作的问题\n\n可惜cex里面没多少钱和搬砖太慢了\n\n这一波算上爆仓的还亏钱\n\n一起成长和渡劫吧",
+      "timestamp": "Oct 11, 2025 · 5:18 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977061223884812442#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977047356563767599#m",
+      "content": "看到大家吃肉我就很开心🥳",
+      "timestamp": "Oct 11, 2025 · 4:23 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977047356563767599#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1977000219519906273#m",
+      "content": "我已渡劫\n\n羽化登仙",
+      "timestamp": "Oct 11, 2025 · 1:15 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1977000219519906273#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976805264813965769#m",
+      "content": "许多小伙伴说要进群\n\n这里统一回复一下哟\n\n填币安web3钱包邀请码：\n\nLVS26MGA\n\n然后找助理 @WYH1870651 \n\n发截图和附带留言 进交易群\n\n晚上等我醒来一起拉群",
+      "timestamp": "Oct 11, 2025 · 12:21 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976805264813965769#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976783950405406984#m",
+      "content": "这个我吃了两波\n\n一波是交易所的价格脱锚\n\n第二波是链上链上的价差可以搬砖\n\n明天写个小短文复盘一下",
+      "timestamp": "Oct 10, 2025 · 10:56 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976783950405406984#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976782301750345885#m",
+      "content": "买到800的eth了\n\n事情的起初是我看到了\n\n1300的 $wbeth\n\n发到 @0xAA_Science 和我自己的群里\n\n我自己币安u没多少 气死我了\n\n钱在aster里面还被爆了\n\n都买了 修仙\n\n然后 a哥开始抄底\n\n我也开始抄底\n\n叫加上群友基本能吃到3倍的eth\n\n幸福了\n\n❤️",
+      "timestamp": "Oct 10, 2025 · 10:50 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976782301750345885#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976775469652754449#m",
+      "content": "草泥马我傻逼了\n\n我在aster的对冲单\n\n里面放了个7倍bnb多单\n\n结果一起给爆了\n\n我是傻逼",
+      "timestamp": "Oct 10, 2025 · 10:22 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976775469652754449#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976774255695348151#m",
+      "content": "想找个班上",
+      "timestamp": "Oct 10, 2025 · 10:18 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976774255695348151#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976769191761059949#m",
+      "content": "抄底啊 买啊\n\n草尼玛",
+      "timestamp": "Oct 10, 2025 · 9:57 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976769191761059949#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976764995766739240#m",
+      "content": "之前aster没赚钱的\n\n现在彻底赚麻了\n\n没想到 $aster\n\n竟然可以以这种方式赚钱",
+      "timestamp": "Oct 10, 2025 · 9:41 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976764995766739240#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976761269161234846#m",
+      "content": "区块链杀人了",
+      "timestamp": "Oct 10, 2025 · 9:26 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976761269161234846#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976760047989669986#m",
+      "content": "成功为这场盛宴买单",
+      "timestamp": "Oct 10, 2025 · 9:21 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976760047989669986#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976754415207170308#m",
+      "content": "难道币安钱包和cz和一姐\n\n摇旗呐喊\n\n天天喊大的要来了\n\n为新的台子\n\nmemerush站台\n\n就为了拉一坨大的给我们看",
+      "timestamp": "Oct 10, 2025 · 8:59 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976754415207170308#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976678269568368796#m",
+      "content": "不敢睁开眼希望是我的幻觉\n\n人生没了，财富没自由，小何不理我了，哈基米不乖了，汽车被偷了",
+      "timestamp": "Oct 10, 2025 · 3:56 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976678269568368796#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976666819533640189#m",
+      "content": "我的人生开始自由落体了\n\n搞什么飞机\n\n为什么新台子要搞得一团糟",
+      "timestamp": "Oct 10, 2025 · 3:11 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976666819533640189#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976662618107789455#m",
+      "content": "币安tmd在搞什么\n\n这几天射出来的项目\n\n大家基本都在亏钱\n\n不是说大的要来了吗\n\n原来是被资本做局了",
+      "timestamp": "Oct 10, 2025 · 2:54 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976662618107789455#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976661030668587322#m",
+      "content": "为什么你们epoch3算下来是反撸\n\n我算下来是赚的呢\n\n你们真的有认真算过吗\n\n大家 $aster 赚钱了吗",
+      "timestamp": "Oct 10, 2025 · 2:48 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976661030668587322#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976652943958102414#m",
+      "content": "先不晒图片了 \n\n能拿到结果再晒\n\n我只刷3epoch\n\n2.1对冲\n\n目前利润有50%",
+      "timestamp": "Oct 10, 2025 · 2:16 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976652943958102414#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976640099338387489#m",
+      "content": "最近不只看bsc meme了也简单看一些vc项目\n\n主要是meme玩法很简单 \n\n非一姐和cz喊的就不买就行\n\n今天在看稳定币的公链XPL\n\n我个人是非常看好稳定币公链的\n\n因为大部分的l1不适合去做传统市场的mass adoption\n\n原因为gas代币本身的高波动性和有需要web3才有的概念\n\n比如 gas price，priority fee 等等\n\n但 $XPL 完全符合mass adoption的要求\n\n一是稳定\n\n二是免gas\n\n再加上项目有着最顶级的背景\n\n后面买vc币我慢慢才懂得只能和不缺钱的项目方\n\n穷项目方就是来卖项目的\n\n$XPL是USDT发行方Tether的“亲儿子”，也是Tether自己亲手打造的链。\n\n这满足好vc币的特征\n\n用币安web3钱包交易返佣\n50%\n\nweb3.binance.com/referral?re…\n\n邀请码：LVS26MGA\n\n用binance 现货合约交易费8折\n\nmaxweb.black/join?ref=WEB3AL…\n\n邀请码：WEB3ALPHA\n\n两个都绑定可以给你空投 $XPL\n\n问什么空投 $XPL \n\n问就是我也被套了\n\n一起建设",
+      "timestamp": "Oct 10, 2025 · 1:24 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976640099338387489#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976616994909925612#m",
+      "content": "坏了\n被资本做局了",
+      "timestamp": "Oct 10, 2025 · 11:53 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976616994909925612#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976453660717793388#m",
+      "content": "有合欢宗的女弟子来双修吗\n\n拒绝邪修魔修",
+      "timestamp": "Oct 10, 2025 · 1:04 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976453660717793388#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976452188701622649#m",
+      "content": "币安钱包的memerush有bug\n\n每次打开都夏我一跳\n\n@pearbinance @moonkimbinance \n@heyibinance",
+      "timestamp": "Oct 10, 2025 · 12:58 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976452188701622649#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976429544258273431#m",
+      "content": "来时天地皆合力\n\n铸我圆满道基\n\n飞升成仙",
+      "timestamp": "Oct 9, 2025 · 11:28 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976429544258273431#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976426324429529494#m",
+      "content": "修仙",
+      "timestamp": "Oct 9, 2025 · 11:15 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976426324429529494#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976419694325432333#m",
+      "content": "md\n\n修仙涨得我睡不着\n\n今天又是被动修仙的一天\n\n绑我的币安web3钱包邀请码：\n\nLVS26MGA\n\n返佣50%\n\n加修仙代币空投",
+      "timestamp": "Oct 9, 2025 · 10:49 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976419694325432333#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976405129072083172#m",
+      "content": "不修仙了\n\n加仓睡觉了",
+      "timestamp": "Oct 9, 2025 · 9:51 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976405129072083172#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976393681335877760#m",
+      "content": "空投第二期\n\n空投token：修仙\n\n填写币安钱包邀请码：\n\nLVS26MGA\n\n联系@WYH1870651 \n\n进微信群\n\n获得代币 修仙空投",
+      "timestamp": "Oct 9, 2025 · 9:05 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976393681335877760#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976386670808506515#m",
+      "content": "来财\n\n何亿生财\n\n👐",
+      "timestamp": "Oct 9, 2025 · 8:37 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976386670808506515#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976383327528681833#m",
+      "content": "我宣布\n\n一姐成仙\n\n谁同意\n\n谁反对",
+      "timestamp": "Oct 9, 2025 · 8:24 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976383327528681833#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976382382195474902#m",
+      "content": "一姐喊单\n\n头晕目眩\n\n一姐牛逼\n\n@heyibinance",
+      "timestamp": "Oct 9, 2025 · 8:20 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976382382195474902#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976381588373110981#m",
+      "content": "cnm起飞了",
+      "timestamp": "Oct 9, 2025 · 8:17 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976381588373110981#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976381048603934970#m",
+      "content": "出本了",
+      "timestamp": "Oct 9, 2025 · 8:15 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976381048603934970#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976379750118719756#m",
+      "content": "0x44443dd87ec4d1bea3425acc118adb023f07f91b\n\n一姐修仙",
+      "timestamp": "Oct 9, 2025 · 8:10 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976379750118719756#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976376207706103870#m",
+      "content": "币安钱包小p专属空投上线了\n\n用币安钱包，做 $BNBHolder ，享币安人生 ，额外领取空投\n\n邀请码:  LVS26MGA\n\n在币安钱包的首页，点击邀请入口\n可减免10%手续费\n并享受50%手续费返佣\n走了币安钱包\n\n邀请码的也可以入空投群\n\n每一期都会有空投\n\n目前第一期空投token为\n\n$BNBHolder\n\n数量 ：100\n\n获得方式：填我的邀请码\n\ndm小助手 @WYH1870651 \n\n进群 领取第一期空投",
+      "timestamp": "Oct 9, 2025 · 7:56 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976376207706103870#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976361197994934436#m",
+      "content": "做 $bnbholder\n\n享币安人生",
+      "timestamp": "Oct 9, 2025 · 6:56 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976361197994934436#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976340647062929838#m",
+      "content": "已发\n\n越发钱越多怎么回事\n\n这就是\n\n$BNBHolder 吗？",
+      "timestamp": "Oct 9, 2025 · 5:35 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976340647062929838#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976331698309824605#m",
+      "content": "第三批\n\nif you cant hold\n\nyou wont be rich\n\n$BNBHolder",
+      "timestamp": "Oct 9, 2025 · 4:59 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976331698309824605#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976330108031144102#m",
+      "content": "我是坚定的 $BNBHolder\n\n听说bnb会奖励holder\n\n这是真的吗？\n\n但小p会奖励用我的邀请码的人 $BNBHolder",
+      "timestamp": "Oct 9, 2025 · 4:53 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976330108031144102#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976325395436970014#m",
+      "content": "第二批已发",
+      "timestamp": "Oct 9, 2025 · 4:34 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976325395436970014#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976321944497815585#m",
+      "content": "第一批已经发送\n\n$bnbholder\n\n收到的转发➕评论有惊喜哟",
+      "timestamp": "Oct 9, 2025 · 4:20 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976321944497815585#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976314800365097434#m",
+      "content": "小p 空投第一期\n\n空投项目 $bnbholder\n\n只要你填写小p的币安web3钱包邀请码：\n\nLVS26MGA\n\n并且dm我的助理2 @WYH1870651 并且截图加微信到群里\n\n你就可以得到 $bnbholder 的空投\n\n这这是第一期\n\n后面还有跟多的空投\n\n可以填邀请码进入群里面\n\n每次可以接龙领取空投",
+      "timestamp": "Oct 9, 2025 · 3:52 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976314800365097434#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976302174767628762#m",
+      "content": "我宣布\n\n今天的撕逼大战\n\n由尊贵的 $bnbholder 买单",
+      "timestamp": "Oct 9, 2025 · 3:02 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976302174767628762#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976290943818138095#m",
+      "content": "你们要撕逼就撕逼\n\n别用我的钱来撕逼呀\n\n😭\n\n$bnbholder",
+      "timestamp": "Oct 9, 2025 · 2:17 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976290943818138095#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976288648334348539#m",
+      "content": "这就是bnb holder的人生吗\n😭",
+      "timestamp": "Oct 9, 2025 · 2:08 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976288648334348539#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976287239098528238#m",
+      "content": "崩盘了怎么回事",
+      "timestamp": "Oct 9, 2025 · 2:02 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976287239098528238#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976236993895076012#m",
+      "content": "只要你填了我的币安web3钱包邀请码\n：\n\nLVS26MGA\n\n这只是第一个福利\n\n更多的福利还在路上\n\n！",
+      "timestamp": "Oct 9, 2025 · 10:43 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976236993895076012#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976233871214805153#m",
+      "content": "不做bnb holder\n\n怎么会有币安人生呢？",
+      "timestamp": "Oct 9, 2025 · 10:30 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976233871214805153#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976227531109114352#m",
+      "content": "这个月任务\n\n不计代价去做币安web3钱包拉新\n\n让大家看看一个builder的拉新能力\n\n#币安web3钱包\n\n用我的邀请码：\n\nLVS26MGA\n\n会有大事情发生\n\n🫡",
+      "timestamp": "Oct 9, 2025 · 10:05 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976227531109114352#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976220589829521678#m",
+      "content": "懂了\n\n追龙一\n\n$bnbholder",
+      "timestamp": "Oct 9, 2025 · 9:37 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976220589829521678#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976217417371263176#m",
+      "content": "做 $BNBholder\n\n享bnb人生",
+      "timestamp": "Oct 9, 2025 · 9:25 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976217417371263176#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976211451305132303#m",
+      "content": "小p来卷币安钱包邀请了\n\n用链接返50%\n\ndm我可以拉你进新alpha群\n\n币安邀请码：\n\nLVS26MGA",
+      "timestamp": "Oct 9, 2025 · 9:01 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976211451305132303#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976180621438484971#m",
+      "content": "买了一点这个\n\n0x44440f83419de123d7d411187adb9962db017d03",
+      "timestamp": "Oct 9, 2025 · 6:59 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976180621438484971#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976010943311302953#m",
+      "content": "马上准备bnb在币安web3钱包\n\n大的要来了",
+      "timestamp": "Oct 8, 2025 · 7:44 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976010943311302953#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976007068630020460#m",
+      "content": "坏了\n\n孙哥做人了\n\n😭",
+      "timestamp": "Oct 8, 2025 · 7:29 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976007068630020460#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1976002398184407389#m",
+      "content": "虽然卖飞\n\n但很开心\n\n人生第一次割孙割",
+      "timestamp": "Oct 8, 2025 · 7:10 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1976002398184407389#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975982015423119671#m",
+      "content": "你tmd要点脸吗\n\n老子10m买了百一\n\n你能给我跌到20w市值",
+      "timestamp": "Oct 8, 2025 · 5:49 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975982015423119671#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975981538262253950#m",
+      "content": "终于割到孙哥了",
+      "timestamp": "Oct 8, 2025 · 5:48 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975981538262253950#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975977912106090810#m",
+      "content": "伟大的撤退开始了\n\n撤！",
+      "timestamp": "Oct 8, 2025 · 5:33 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975977912106090810#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975909599812461051#m",
+      "content": "刚刚看到一个很有趣\n\n但不推荐大家买的角度\n\n主要是没庄\n\n变脸\n\nbianlian\n\n币安链\n\n脑洞真大",
+      "timestamp": "Oct 8, 2025 · 1:02 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975909599812461051#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975879277947343294#m",
+      "content": "简单聊聊我对 $giggle 和 币安人生两个币的看法\n\n小p也在想\n\n小p只能赚我认知之内的钱\n\n3m的giggle我敢买百一\n\n10m的giggle我觉得不贵\n\n30m的giggle我觉得差不多\n\n60m的giggle我觉得应该跑了\n\n核心还是在于我的分析\n\n和当时的背景\n\n在bsc长时间都没有跑出一个10m项目的前提下\n\n30m的giggle对于我来说就是我的止盈点\n\n如果giggle是在4之后发的\n\n我能拿到1b\n\n但giggle是在4之前发的\n\n那时候的天花板只有17m的jobiess\n\n我会选择在30m开始出货\n\n并在60m卖完\n\n对于我来说这就是我该赚的钱\n\n对于币安人生\n\n币安人生我是看到cz发帖的时候\n\n一秒不到从1m拉到6m\n\n那时候我有在看 \n\n刚刚好洗得差不多跟giggle的洗盘模式如出一辙\n\n我就知道这个币绝对有庄\n\n但因为不看好中文的\n\n再加上不符合我的审美\n\n就没买了\n\n只能玩meme真的很看眼缘\n\ngiggle就是符合我审美的meme\n\n但币安人生以及后面的meme都提不起买的兴趣\n\n也恭喜大家赚大钱了\n\n小p只能赚认知内的钱并努力将这份钱守住",
+      "timestamp": "Oct 8, 2025 · 11:01 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975879277947343294#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975858046489288859#m",
+      "content": "买了一点 \n\n别浇我\n\n😭\n\n我真的看不懂现在的bsc",
+      "timestamp": "Oct 8, 2025 · 9:37 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975858046489288859#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975705373568082275#m",
+      "content": "做一个关于 $aster 空投大户与散户选择的调查投票\n\n可以在投票里面选择在 aster的空投中你刷的手续费以及你做的选择\n\n这有利于大家一起做判断",
+      "timestamp": "Oct 7, 2025 · 11:30 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975705373568082275#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975623417618702496#m",
+      "content": "终于有学员赚钱了\n\n感动\n\n比自己赚钱还开心\n\n😭😭😭",
+      "timestamp": "Oct 7, 2025 · 6:05 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975623417618702496#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975598117023322189#m",
+      "content": "我不知道我到底在干什么\n\n在最疯狂的时候\n\n我刷了aster和standx\n\n我这一次真的能走到对岸吗",
+      "timestamp": "Oct 7, 2025 · 4:24 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975598117023322189#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975533055634002277#m",
+      "content": "感觉没交易量 下车了😭",
+      "timestamp": "Oct 7, 2025 · 12:05 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975533055634002277#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975531257233809685#m",
+      "content": "万链归宗\n\n$BNB",
+      "timestamp": "Oct 7, 2025 · 11:58 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975531257233809685#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975530407811854550#m",
+      "content": "用币安钱包\n\n享币安人生！",
+      "timestamp": "Oct 7, 2025 · 11:55 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975530407811854550#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975529657035526394#m",
+      "content": "已上车",
+      "timestamp": "Oct 7, 2025 · 11:52 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975529657035526394#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975515026984476899#m",
+      "content": "我发现我每次只能捉住bsc启动的龙头\n\n其它的钱都赚不了\n\n$tst 是如此\n\n$giggle 也是如此",
+      "timestamp": "Oct 7, 2025 · 10:54 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975515026984476899#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975511740059361447#m",
+      "content": "就上了0.05",
+      "timestamp": "Oct 7, 2025 · 10:41 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975511740059361447#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975510981804474701#m",
+      "content": "离谱\n\n彻底踏空\n\n彻底失败\n\n彻底偏见\n\n失去币安人生\n\n😭😭😭",
+      "timestamp": "Oct 7, 2025 · 10:38 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975510981804474701#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975508096979247242#m",
+      "content": "被动失业\n\n1.7m买的\n\n$jobiess",
+      "timestamp": "Oct 7, 2025 · 10:26 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975508096979247242#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975485447624327190#m",
+      "content": "这个怎么算的呢\n\n感觉数据都对不上\n\n@xhunt_ai",
+      "timestamp": "Oct 7, 2025 · 8:56 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975485447624327190#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975456946267521090#m",
+      "content": "空投工具查询\n\naster-calculator.swishi.xyz\n\n注意⚠️：该查询为没有人选择领取手续费的结果\n\n个人建议 \n\n撸epoch 3 4\n\n低级vip 还是选择拿手续费\n\n高级可以看看情况\n\n我还是选择领手续费\n\n毕竟对于我来说这些钱不想冒险\n\n个人比较好奇手续费返佣的钱是白送吗\n\n还是有其它的方案\n\n@Leonard_Aster @Kathy_Aster",
+      "timestamp": "Oct 7, 2025 · 7:03 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975456946267521090#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975252718995583237#m",
+      "content": "最近在我的英明指导下\n\n学员发了3个项目\n\n3个学员每个人各亏一次钱\n\n而我亏了3次\n\n但我相信尝试是最好的开始",
+      "timestamp": "Oct 6, 2025 · 5:32 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975252718995583237#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975252190018347474#m",
+      "content": "永远重仓btc \n\n永远热泪盈眶\n\n$btc",
+      "timestamp": "Oct 6, 2025 · 5:29 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975252190018347474#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975243581406470486#m",
+      "content": "关于 $aster 的空投\n\n你会怎么选的",
+      "timestamp": "Oct 6, 2025 · 4:55 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975243581406470486#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975218148015263760#m",
+      "content": "保真吗？",
+      "timestamp": "Oct 6, 2025 · 3:14 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975218148015263760#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975154911336919151#m",
+      "content": "买了一点点🤏\n\n0.05个bnb\n\n😭😭😭\n\n踏空人生",
+      "timestamp": "Oct 6, 2025 · 11:03 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975154911336919151#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975146819027194178#m",
+      "content": "不当撸毛力工了\n\n回去当pvp赌狗了\n\n有什么可以冲的吗",
+      "timestamp": "Oct 6, 2025 · 10:31 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975146819027194178#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975121137517670892#m",
+      "content": "aster跟币安已经是阳谋了\n\n但我刷的比较多的号还是会选择保本\n\n特别是第四期刷的",
+      "timestamp": "Oct 6, 2025 · 8:49 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975121137517670892#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975118639381860709#m",
+      "content": "习惯了用aster开合约了\n\naster唯一真实用户",
+      "timestamp": "Oct 6, 2025 · 8:39 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975118639381860709#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1975005059395264515#m",
+      "content": "把套保给关了\n\n算是比较好的处理方案了",
+      "timestamp": "Oct 6, 2025 · 1:07 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1975005059395264515#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974875155106279633#m",
+      "content": "cz技能：言出法随",
+      "timestamp": "Oct 5, 2025 · 4:31 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974875155106279633#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974871805895827856#m",
+      "content": "今夜我们都是aster力工\n\n打工 梭哈 维权\n\n$aster",
+      "timestamp": "Oct 5, 2025 · 4:18 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974871805895827856#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974862453344469456#m",
+      "content": "aster被反撸了 没毛病\n\n就是很不爽\n\n就像有一个骚货老板娘说\n\n“小p子 好好干\n\n干得好 我批也不是不能给你日”\n\n最后我干得非常好 \n\n干翻了隔壁hyperliquid\n\n最后老板娘说\n\n“我批不给你日”\n\n逻辑没毛病\n\n只是老板娘就是tmd绿茶婊\n\n用批诱导我去好好干活\n\n而且我还受了工伤\n\n现在的剧情就大家一起上去闹\n\n看看老板娘能不能屈服在大家的淫威之下",
+      "timestamp": "Oct 5, 2025 · 3:41 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974862453344469456#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974858778551128374#m",
+      "content": "ca？",
+      "timestamp": "Oct 5, 2025 · 3:26 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974858778551128374#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974856609101963589#m",
+      "content": "so\n\n在aster epoch3因为怕抓女巫人工猛刷\n\n被各种bug气到发烧无法去2049\n\n在结束之前从没放过自己的返佣链接\n\n的我又算什么呢\n\n$aster",
+      "timestamp": "Oct 5, 2025 · 3:18 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974856609101963589#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974833972078407730#m",
+      "content": "$aster  空投\n\n屁股决定脑袋\n\n如果4个epoch均分的话\n\n小p只能小亏\n\n因为主要是刷第三epoch\n\n第4epoch\n\n基本上都是拿小钱开合约为主\n\n还赚了一点点钱\n\n主要是第三epoch后期大家疯了一样猛刷\n\n真的没搞懂\n\n当然我是更倾向于捉刷交易量和抓女巫和安装交易量分的\n\n因为我的屁股就在这",
+      "timestamp": "Oct 5, 2025 · 1:48 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974833972078407730#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974828662806761706#m",
+      "content": "4个epoch如果是均分\n\n小p小亏\n\n如果是按照交易量分\n\n小p小赚\n\n如果查女巫\n\n小p也应该赚\n\n目前有明细规则吗",
+      "timestamp": "Oct 5, 2025 · 1:26 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974828662806761706#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974824491407884361#m",
+      "content": "所以谁能翻译一下\n\n我是不是被反撸了呢？",
+      "timestamp": "Oct 5, 2025 · 1:10 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974824491407884361#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974823523827974206#m",
+      "content": "我这是币安思维吗",
+      "timestamp": "Oct 5, 2025 · 1:06 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974823523827974206#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974823097737035998#m",
+      "content": "又快时代两步了\n\n继pp喊教育后6小时cz开始喊教育\n\npp15天前喊了\n\n币安豪宅\n\n币安汽车\n\n币安人生\n\n今天被一姐@heyibinance \n\n带🔥起来了",
+      "timestamp": "Oct 5, 2025 · 1:04 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974823097737035998#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974818714907509161#m",
+      "content": "无论你这辈子做了什么错事\n\n只要你撸了 @teaprotocol \n\n啥都还清了\n\n我们去年重仓了这个项目\n\n上千个github号\n\n上万个各种各样的包\n\n无力吐槽",
+      "timestamp": "Oct 5, 2025 · 12:47 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974818714907509161#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974811862844723309#m",
+      "content": "Aster格局太大了\n\n没有任何锁仓\n\n幸好2.1对冲了\n\n$aster",
+      "timestamp": "Oct 5, 2025 · 12:20 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974811862844723309#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974799414654050451#m",
+      "content": "第二期结束了\n\n不知道能不能给手撸的黑奴pp一个惊喜\n\n一开始都是有对冲\n\n这两个号都是1000刀起步玩的\n\n后面就永远做多 永远热泪盈眶\n\n我真傻逼不滚仓\n\n加入车队30%全返\n\n后面有惊喜\n\nasterdex.com/en/referral/1B8…",
+      "timestamp": "Oct 5, 2025 · 11:30 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974799414654050451#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974757380148891739#m",
+      "content": "大表哥还是喜欢有用的功能性meme",
+      "timestamp": "Oct 5, 2025 · 8:43 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974757380148891739#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974699130695176246#m",
+      "content": "btc牛逼\n\n就差你了e子",
+      "timestamp": "Oct 5, 2025 · 4:52 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974699130695176246#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974596791942406632#m",
+      "content": "kol直接收入怎么这么高\n\n你们带带小p行吗",
+      "timestamp": "Oct 4, 2025 · 10:05 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974596791942406632#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974560853140926707#m",
+      "content": "请问A小将卡颜吗\n\n@TC8880 @Tintinx2021 @ShirleyXBT",
+      "timestamp": "Oct 4, 2025 · 7:42 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974560853140926707#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974417923356995624#m",
+      "content": "做一个关于币安alpha项目的调查\n\n你是否愿意投资有一群没有本金的人\n\n刷alpha的手续费你出\n\nalpha赚到的收益扣除你的早期投入\n\n55分\n\n你是否愿意呢\n\n不愿意是因为什么",
+      "timestamp": "Oct 4, 2025 · 10:14 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974417923356995624#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974355537832915404#m",
+      "content": "这个点位可以超低杠杆空 $aster\n\n为aster的空投做套保",
+      "timestamp": "Oct 4, 2025 · 6:06 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974355537832915404#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974241074022690899#m",
+      "content": "目前上调价格为1500u哟",
+      "timestamp": "Oct 3, 2025 · 10:32 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974241074022690899#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974240748934730117#m",
+      "content": "最近有小伙伴咨询买课的事情\n\n注意哦\n\n我们的课程主要是教大家做项目的\n\n而不是玩alpha的\n\n但里面也会讲alpha\n\n经过上次上调价格是为1500\n\n目前存在更新进度慢的问题\n\n当然之前也有小伙伴买了之后想退的\n\n我基本都原价退了\n\n1500u我个人觉得非常良心\n\n应该说是超级无敌良心了\n\n因为里面有很多附带的福利\n\n比如帮你做项目顾问\n\n教大家操盘\n\n甚至给你项目投资孵化等等\n\n前提是要主动找我聊",
+      "timestamp": "Oct 3, 2025 · 10:30 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974240748934730117#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974153873213567455#m",
+      "content": "只一轮meme吃到giggle \n\n但大仓位爽麻了\n\n👏\n\n什么时候应该退出呢？",
+      "timestamp": "Oct 3, 2025 · 4:45 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974153873213567455#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974150027791741037#m",
+      "content": "昨天 bnb完成kpi\n\n今天 btc完成kpi？",
+      "timestamp": "Oct 3, 2025 · 4:30 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974150027791741037#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974119796183888118#m",
+      "content": "又到了傻逼都能赚钱的时间段\n\npp温馨提示\n\n守护好钱袋子\n\n一大波骗子正在赶来的路上",
+      "timestamp": "Oct 3, 2025 · 2:30 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974119796183888118#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974086557159338295#m",
+      "content": "一推bsc流水盘已经出来了\n\n更多的bsc流水盘还在路上\n\n玩bsc只看cz\n\n👐",
+      "timestamp": "Oct 3, 2025 · 12:18 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974086557159338295#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974050590461198809#m",
+      "content": "好的角度大师\n\n看到一个好币一定是有共鸣的\n\n就像 $tst 和 $giggle",
+      "timestamp": "Oct 3, 2025 · 9:55 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974050590461198809#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974042538010202135#m",
+      "content": "bsc的meme 别乱冲\n\ncz有互动的项目闭眼冲\n\n其它项目都是群友的盘子",
+      "timestamp": "Oct 3, 2025 · 9:23 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974042538010202135#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974041014500487450#m",
+      "content": "恭喜大家\n\n====币安alpha新币上新播报====\n📢 新增 Binance Alpha 项目\n代币: $GIGGLE\n地址: 0x20d6015660b3fe52e6690a889b5c51f69902ce0e\n\n这是我在买课群发的唯一ca\n\n$giggle 3m 发出来的\n\n你知道pp说不解释的含金量吗",
+      "timestamp": "Oct 3, 2025 · 9:17 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974041014500487450#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1974040344841924976#m",
+      "content": "起床已解套\n\n$giggle\n\n恭喜大家🎉",
+      "timestamp": "Oct 3, 2025 · 9:14 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1974040344841924976#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973979157970522400#m",
+      "content": "这句话是真的\n\n是的\n\n我可以作证\n\n有羞耻心的人链上割\n\n没妈的人线下割",
+      "timestamp": "Oct 3, 2025 · 5:11 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973979157970522400#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973948353722658946#m",
+      "content": "平了睡觉💤",
+      "timestamp": "Oct 3, 2025 · 3:08 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973948353722658946#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973935440752459958#m",
+      "content": "再反手多\n\nbnb要上天了\n\nath",
+      "timestamp": "Oct 3, 2025 · 2:17 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973935440752459958#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973935280467161474#m",
+      "content": "再反手多\n\nbnb\n\nath",
+      "timestamp": "Oct 3, 2025 · 2:16 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973935280467161474#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973927577913114842#m",
+      "content": "不对劲 反手空",
+      "timestamp": "Oct 3, 2025 · 1:46 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973927577913114842#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973923159218000148#m",
+      "content": "多 $bnb\n\n硬的一逼",
+      "timestamp": "Oct 3, 2025 · 1:28 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973923159218000148#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973859794181369997#m",
+      "content": "giggle交税的原理给大家讲一下\n\n目前 $giggle 主要为以下5个池子\n\n但只有走pancakeswap v2才交税（也就是图中最大的池子pancakeswap）\n\n走pancakev3和其它的dex都不需要交税\n\n而我们用的主流工具都是有一个router合约来询价 \n\n以此选择最优路径\n\n所以只有pancakev3的买卖价格超过v2的百分之五的时候\n\n路由合约才会去买v2的池子\n\n这时候才交税做慈善",
+      "timestamp": "Oct 2, 2025 · 9:17 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973859794181369997#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973851157249556696#m",
+      "content": "$bnb 第一个完成十月剧本\n\n奖励抽给我一个bnb\n\n👐",
+      "timestamp": "Oct 2, 2025 · 8:42 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973851157249556696#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973847064007361005#m",
+      "content": "因为 $giggle 这个叙事太好了\n\n每个人都能看懂\n\n所以我才狠狠fud",
+      "timestamp": "Oct 2, 2025 · 8:26 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973847064007361005#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973843982796079412#m",
+      "content": "以庄家的视角来看bsc meme\n\n4 为什么能拉起来\n\n而 $giggle为什么比较难起来\n\n因为4叙事不够好\n\n很多人10m 20m 30m就止盈了\n\n车很轻拉上去很容易\n\ntmd $giggle 这帮tmd钻石手\n\ntmd都想大赚特赚\n\n你们tmd 是想钱想疯了吗\n\n一个买的比一个多\n\n往下跌就一个个加仓\n\n特别是 @cryptocishanjia \n\ntmd买这么多也不分分钱包\n\n庄说玩尼玛去吧\n\n你们tmd都是赚我的钱\n\n我为的是上币安能退出流动性\n\n尼玛的傻逼这盘算下来拉盘送给你们的钱上cex不一定能退出 \n\n我玩个j8\n\n这盘还不如给你们\n\n好币就像 $giggle 一样\n\n越跌越想买却越难起来",
+      "timestamp": "Oct 2, 2025 · 8:14 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973843982796079412#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973830006301421940#m",
+      "content": "舒服了 今天的骚夜到手了\n👐\n\n从1000u玩到 8000u了\n\n这个账号只玩100倍\n\n看看什么时候归零",
+      "timestamp": "Oct 2, 2025 · 7:18 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973830006301421940#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973825068762591375#m",
+      "content": "这段时间的遗憾就是发烧不能去sg见到好朋友\n\n还有发烧课程录制有点耽误了\n\nq4 szn",
+      "timestamp": "Oct 2, 2025 · 6:59 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973825068762591375#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973813645642772751#m",
+      "content": "开了一天合约\n\n只多不空\n\naster深度真的很好\n\n开百倍合约嘎嘎爽\n\n对aster 黑转粉了\n\n@Leonard_Aster @Kathy_Aster \n@Aster_DEX",
+      "timestamp": "Oct 2, 2025 · 6:13 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973813645642772751#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973807097847631883#m",
+      "content": "作为资深的合约消费玩家\n\naster的btc深度已经超过所有交易所了\n\n目前没有任何一个cex和dex的btc深度超过aster\n\n我说的是所有！\n\nbullish aster\n\nbullish binance",
+      "timestamp": "Oct 2, 2025 · 5:47 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973807097847631883#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973782020674523610#m",
+      "content": "aster还是牛逼的\n\n我已经习惯在aster上面开合约了",
+      "timestamp": "Oct 2, 2025 · 4:07 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973782020674523610#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973767831281168742#m",
+      "content": "$aster 第4epoch\n\n我已经停了\n\n按照 aster的空投额度4亿 *1.7 =6.8亿\n\n不查女巫4epoch是平均分配的话\n\n第4epoch 已经反撸了",
+      "timestamp": "Oct 2, 2025 · 3:11 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973767831281168742#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973754634541109731#m",
+      "content": "没有阴谋靠散户\n\n2m都够呛",
+      "timestamp": "Oct 2, 2025 · 2:19 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973754634541109731#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973726245302174066#m",
+      "content": "十月剧本\n\n$bnb\n\n$btc\n\n$eth\n\nATH",
+      "timestamp": "Oct 2, 2025 · 12:26 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973726245302174066#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973717907453739155#m",
+      "content": "4 上alpha我一点都不遗憾\n\n30m 到 70m的钱我肯定赚不到\n\n4 我1m之下没睡觉一定会买\n\n而大概率20m就出完了",
+      "timestamp": "Oct 2, 2025 · 11:53 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973717907453739155#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973709968630235163#m",
+      "content": "但是 $giggle 的车比 $4 重多了\n\n😭",
+      "timestamp": "Oct 2, 2025 · 11:21 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973709968630235163#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973709444921098503#m",
+      "content": "相比起4更看好giggle\n\n$giggle",
+      "timestamp": "Oct 2, 2025 · 11:19 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973709444921098503#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973553957458026681#m",
+      "content": "撸aster可以停了\n\n第四周基本反撸了\n\n😭😭😭",
+      "timestamp": "Oct 2, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973553957458026681#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973551307014414534#m",
+      "content": "已经停止刷aster了\n\n第四周大概率反撸了\n\n$aster",
+      "timestamp": "Oct 2, 2025 · 12:51 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973551307014414534#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973427260947595744#m",
+      "content": "但你发现你的aster单子因为bug\n\n你关掉而其实没有关时\n\n感谢aster的iPhone 17 pm\n\n$aster",
+      "timestamp": "Oct 1, 2025 · 4:38 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973427260947595744#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973377227971871107#m",
+      "content": "okx boost就是kol项目\n\n跟散户没有半毛钱关系\n\nkol可以试试做反佣\n\n散户就算了",
+      "timestamp": "Oct 1, 2025 · 1:19 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973377227971871107#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973376557813997696#m",
+      "content": "我真是个懒猪\n\n睡到6点\n\n以我的角度\n\n$4\n\n我是会上的\n\n😭",
+      "timestamp": "Oct 1, 2025 · 1:16 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973376557813997696#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973343915106508846#m",
+      "content": "okx boost这个行为有点难评\n\n提前一周预热\n\n是怕手续费不能cover空投成本吗\n\n所以okx给我的感觉就是一个很精明的商人\n\n自己不能吃一点亏\n\n产品是好用\n\n但不能带大家赚钱",
+      "timestamp": "Oct 1, 2025 · 11:07 AM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973343915106508846#m",
+      "author": "0xphiloA"
+    },
+    {
+      "id": "1973046281905033297#m",
+      "content": "standx 最后24小时结束了\n\n只要3个aster\n\n有aster的可以去认领dc角色\n\n创始人是币安前合约增长主管\n\n名牌有惊喜",
+      "timestamp": "Sep 30, 2025 · 3:24 PM UTC",
+      "url": "https://twitter.com/0xphiloA/status/1973046281905033297#m",
+      "author": "0xphiloA"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-20T23:25:03.912Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 25823,
+    "cursorTrail": [
+      "DAAHCgABG3vY2bJ__-sLAAIAAAATMTk3OTU0ODI3OTA2ODM3NzE5NwgAAwAAAAIAAA",
+      "DAAHCgABG3vY2bJ__9cLAAIAAAATMTk3ODM0MzEyNTQxNzM3Nzk3NQgAAwAAAAIAAA",
+      "DAAHCgABG3vY2bJ__8ILAAIAAAATMTk3NzE4MjE4MDc5NjQwNDAyNQgAAwAAAAIAAA",
+      "DAAHCgABG3vY2bJ__64LAAIAAAATMTk3NjY2MTAzMDY2ODU4NzMyMggAAwAAAAIAAA",
+      "DAAHCgABG3vY2bJ__5kLAAIAAAATMTk3NjMzMTY5ODMwOTgyNDYwNQgAAwAAAAIAAA",
+      "DAAHCgABG3vY2bJ__4QLAAIAAAATMTk3NTk4MTUzODI2MjI1Mzk1MAgAAwAAAAIAAA",
+      "DAAHCgABG3vY2bJ__28LAAIAAAATMTk3NTI0MzU4MTQwNjQ3MDQ4NggAAwAAAAIAAA",
+      "DAAHCgABG3vY2bJ__1sLAAIAAAATMTk3NDc5ODE3MDgyOTA4MjgxNQgAAwAAAAIAAA",
+      "DAAHCgABG3vY2bJ__0YLAAIAAAATMTk3MzkzNTI4MDQ2NzE2MTQ3NAgAAwAAAAIAAA",
+      "DAAHCgABG3vY2bJ__zELAAIAAAATMTk3MzQyNzI2MDk0NzU5NTc0NAgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

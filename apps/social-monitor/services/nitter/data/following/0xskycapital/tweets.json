@@ -1,0 +1,225 @@
+{
+  "account": {
+    "id": "1582936759561641984",
+    "screen_name": "0xskycapital",
+    "name": "sky",
+    "description": "独立开发者，野生sol合约审计员，挖掘套利机会，哪里有赚钱效应就去哪里",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1767159513231269889/cypqucw6_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 430,
+    "friends_count": 379,
+    "statuses_count": 115,
+    "favourites_count": 131,
+    "listed_count": 19,
+    "location": "",
+    "website": "",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": false,
+    "protected": false,
+    "created_at": "2022-10-20 11:28:50 +08:00",
+    "url": "https://twitter.com/0xskycapital",
+    "rest_id": "1582936759561641984"
+  },
+  "tweets": [
+    {
+      "id": "1967806508819009913#m",
+      "content": "exchange-info-sky.vercel.app… \n\n简单搞了个能查五个交易所代币冲提信息的网站，也能用来查代币合约地址",
+      "timestamp": "Sep 16, 2025 · 4:23 AM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1967806508819009913#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1976842044828983764#m",
+      "content": "这个A公司的内部小哥用claude code来打造自己的贾维斯，有110万的点赞量，值得深度阅读和学习。\n\nclaude agent SDK这两天大放异彩，以及昨天一个推友的互动引发了我对文件系统和memory系统的思考，遂搜索到这个thread，里面充满了内部员工的真知烁见。\n\n0. 小哥是在Mac的用户目录下使用Claude Code(~目录）\n1. 文件系统是一切，在claude code眼里，一切都是文件\n2. 给你的文件夹，文件取一些好名字，引导claude code\n3. 用自定义slash commands,例如/todo, /journal, /idea等自定义命令快速记录信息到相应文件夹里\n4. 工作的时候，用一个markdown文件让CC自动帮你记录你需要记住的重要信息\n5. 用CC操控Apple Notes(文中有一个开源项目），使用MCP连接外部数据源(linear, Google Docs, Notion etc.)\n6. 文中小哥提供了一些自己的模版可供大家实践",
+      "timestamp": "Oct 11, 2025 · 2:47 AM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1976842044828983764#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1975556779569483835#m",
+      "content": "7个小时 35%  0.5-0.83的区间",
+      "timestamp": "Oct 7, 2025 · 1:40 PM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1975556779569483835#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1975494036975985080#m",
+      "content": "不敢追高就加池子低价接货，3个小时稳稳收获14%的手续费收益",
+      "timestamp": "Oct 7, 2025 · 9:30 AM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1975494036975985080#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1973723744171667515#m",
+      "content": "大热项目2Z，秒吃25%",
+      "timestamp": "Oct 2, 2025 · 12:16 PM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1973723744171667515#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1972281001411014930#m",
+      "content": "binance.com/zh-CN/support/fa… \n\n两张图理解币安的资金费率\n\n溢价指数反映了现货价格偏离合约价格的程度\n\n当溢价指数在区间[-0.04%,0.06%]内时，资金费率=固定利率=0.01%\n\n当溢价指数在区间[-0.04%,0.06%]外时，资金费率=溢价指数\n\n溢价指数由：指数价格I、冲击卖价S、冲击买价Bs三者的位置共同决定（S>B）\n\n冲击卖价可以理解为订单簿上能承受足够taker buy的价格\n\n冲击买价可以理解为订单簿上能承受足够taker sell价格",
+      "timestamp": "Sep 28, 2025 · 12:43 PM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1972281001411014930#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1968011732858863727#m",
+      "content": "stbl 复盘\n\n盘前就预料到是阴谋盘，而且看投资情况的时候也发现了 tether 创始人在里面，想过能涨没想到能这么涨，一路卖飞一路追，太专注 k 线波动了，没有分析全网舆情，稳稳能拿五六倍结果的币，最后只撸了一万刀。\n\n深刻教训：市场情绪太强了，全网 fomo，项目方出货的时候，买盘都能接住，甚至源源不断有买盘涌现出来，就说明价格依旧处于低位，还有人没上车，那就应该果断重仓梭一把，被玩成了 tether 创始人发的 meme\n\n最近的 alpha 赚钱效应+tether 创始人炒点+情绪 fomo 助推+中外圈子合力\n\n第一次遇到买盘能接住狙击 bot 获利筹码和项目方出货筹码的 10 倍币\n\n市场是最好的老师",
+      "timestamp": "Sep 16, 2025 · 5:58 PM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1968011732858863727#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1967551351027835380#m",
+      "content": "$ZKC \n\n创世总供应 1b，dex初始价格0.6999\n\n1. 外面筹码\n\n20点30上线alpha，看链上持币情况alpha用户居然给了 10m 个币\n\nKaito launchpad 成本 0.29$，13.7m个币，上线解锁50%，募集4m $，上线抛压 2m $\n\n社区空投&机构情况，未知\n\n22点币安现货，15m 枚hodler空投，5m 枚营销活动，上市时流通量：200m（20%初始总供应）\n\n2. 链上分布\n\nbsc链只有26m个币的供应，估计会走一个低流通单机币的剧情，如果开盘阶段狙击bot把价格抬到2u以上，那走势会比较难看，但是如果平开0.7-0.9u之间，可以直接短撸一波现货\n\neth链有1b的完整流通，估计公募和社区部分会在eth链上领取\n\n通过wormhole与bsc跨链，买了现货的话需要重点注意跨链交易砸盘情况",
+      "timestamp": "Sep 15, 2025 · 11:29 AM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1967551351027835380#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1966426244259643770#m",
+      "content": "买了点阴谋盘，看看是怎么回事",
+      "timestamp": "Sep 12, 2025 · 8:58 AM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1966426244259643770#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1966393456059883796#m",
+      "content": "bscscan.com/token/0x1a5d7e4c…\n\n昨天偷了下懒，没给HOLO上大额转移监控\n\n想过上现货会砸盘，没想过居然能这么砸？？\n\n$HOLO 昨天上线币安之前这个地址从项目方地址拿到了10m 个HOLO币，然后分两个地址向 dex 出售了 2m 枚代币，获利1000+bnb，而此时链上最大的流动性池也只有 900+枚bnb，此时地址上面还有8m个币，谁能解释下？\n\n要是昨天上了监控，及时发现这种大砸盘，不敢想直接重仓空进去能有多爽，亏我还早早平了空单",
+      "timestamp": "Sep 12, 2025 · 6:48 AM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1966393456059883796#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1966168667546333690#m",
+      "content": "最近沉迷研究alpha新币交易，都没时间审计合约了，最近alpha新币赚钱效应太强了，从TRADOOR开始到HOLO基本就是无脑买进就能赚，等行情过了，继续回归老本行🤣",
+      "timestamp": "Sep 11, 2025 · 3:55 PM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1966168667546333690#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1966147378010026194#m",
+      "content": "简单复盘下 $HOLO\n\n第一波，alpha抛压完了，直接链上0.39均价买了，小撸了1k多刀\n\n第二波，预期7点开空投有砸盘，但是价格居然还在涨，说明fomo买盘太强了，0.5的价格应该重新追多撸个短，超出预期了，没做好\n\n第三波，交易所开现货，价格高肯定有大量砸盘，做空小撸了1k多刀，平早了，后面酷酷跌",
+      "timestamp": "Sep 11, 2025 · 2:30 PM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1966147378010026194#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1965985410859114940#m",
+      "content": "linea 交易复盘：\n\n1. 放弃LP\n\n黑奴空投93亿个币，币安alpha和okx boost合计7亿个币的空投，抛压太大，一旦交易所能流畅充值代币，价格基本不会有反弹，做lp盈亏比太低，容易高位接盘，果断放弃\n\n2. 搬砖遇阻\n\n预料之外的是黑奴空投一直不能领，大部分cex开盘之后只有okx和币安的7个亿空投，加上各个交易所的充值到账非常慢，导致在极低流通的情况下，现货价格拉到0.4以上，okx boost 领的 13622 个空投充到交易所过了十来分钟才到账，0.427的价格卖给了接盘侠，各交易所差价非常大，但是充值到账时间差异很大，搬砖搞不好容易高位接盘\n\n盘前开了合约空单，一路补仓，黑奴空投开始领之后价格持续下跌，设好止盈收菜\n\n总结：\n1. 空投卡顿、充值慢的热门币，开盘流通量低，适合短多或买现货，买盘推高价格。\n2. 空投开始释放、充值顺畅后，抛压来袭，空单进场，静待收菜！",
+      "timestamp": "Sep 11, 2025 · 3:47 AM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1965985410859114940#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1962510320020447364#m",
+      "content": "本金42000u，最终手续费收益6500u。开盘前5分钟添加单边流动性 价格范围0.2-开盘前5分钟合约价格0.29+0.02=0.31 ，然后躺平50分钟，上去收菜即可",
+      "timestamp": "Sep 1, 2025 · 1:38 PM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1962510320020447364#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1962491577760350436#m",
+      "content": "大热项目WLFI，做 lp 20分钟赚了10%手续费，白捡钱机会",
+      "timestamp": "Sep 1, 2025 · 12:23 PM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1962491577760350436#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1957443673739624888#m",
+      "content": "bscscan.com/tx/0x134a6103eea…\n\n大哥地址，新币上合约前买了7%的流通筹码，看见他第一笔卖单，果断就跟踪做空了，果不其然，后面开始不断砸盘",
+      "timestamp": "Aug 18, 2025 · 2:05 PM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1957443673739624888#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1956671409775837598#m",
+      "content": "bsc链上一笔导致 190 bnb 损失的价格操作漏洞利用 \n bscscan.com/tx/0x26bcefc152d… \n核心利用点：exchange 合约依赖 pancakeV2pool 价格  \n\n利用步骤： \n1. 从 exchange 低价买入少量代币 \n2. 闪电贷抬高 v2pool 的价格 x10 \n3. 用之前从 exchange 买入的代币按十倍最新价格卖出获得 exchange 中的 usdt",
+      "timestamp": "Aug 16, 2025 · 10:56 AM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1956671409775837598#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1946096610645328114#m",
+      "content": "bsc 真是黑客取款天堂，实在太卷了，2点出来的币，6点就被掏了池子，what can i say",
+      "timestamp": "Jul 18, 2025 · 6:36 AM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1946096610645328114#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1946095543178108996#m",
+      "content": "A missing line of code led to a $100,000 USDT loss ！！！  \n\nanother day, another hack on bsc with 100k usdt loss that no one cares:  bscscan.com/tx/0x2b6b411adf6…\n\n@BlockSecTeam @Phalcon_xyz @PeckShieldAlert",
+      "timestamp": "Jul 18, 2025 · 6:31 AM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1946095543178108996#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1945110082204696943#m",
+      "content": "2. 另外还有5m个币的潜在抛压，他的币是20k一笔慢慢砸的，那么直接在他前面0.023的价格开空单就好了\n\nbscscan.com/token/0x1219c409…",
+      "timestamp": "Jul 15, 2025 · 1:15 PM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1945110082204696943#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1945110036558021108#m",
+      "content": "新币TAC交易复盘\n\n币安18点30开合约，随后价格快速冲上0.026，来到现货的前期压力位，然后现货开始出现插针，\n\n分析链上现货中的大单交易，发现有大量代币通过layerzero跨链过来bsc：bscscan.com/advanced-filter?…",
+      "timestamp": "Jul 15, 2025 · 1:15 PM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1945110036558021108#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1938455697353797908#m",
+      "content": "昨天的大热门币$SAHARA，做LP跑了几个小时，赚了20%跑了",
+      "timestamp": "Jun 27, 2025 · 4:33 AM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1938455697353797908#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1921121884856332420#m",
+      "content": "eip7702 的第一个受害者出现了，漏洞利用者获利6.25eth etherscan.io/tx/0xde998ec40a…\n关键点在 deposit 更新为0之前重入合约将存入的eth取出，由于限制了EOA，所以只有eip7702才能实现",
+      "timestamp": "May 10, 2025 · 8:35 AM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1921121884856332420#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1920670041025950039#m",
+      "content": "利息 118u，在 价格 1.18 的时候平仓",
+      "timestamp": "May 9, 2025 · 2:39 AM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1920670041025950039#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1920668889035534534#m",
+      "content": "两天的 layer 套资金费用结束，save.finance 借 3000 颗 layer 卖掉，合约开多 3000 颗 layer，两天资金费收取了 2400u，还款 3100 颗，利息 180u 左右，本金 1wu 左右两天撸了 2200u",
+      "timestamp": "May 9, 2025 · 2:35 AM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1920668889035534534#m",
+      "author": "0xskycapital"
+    },
+    {
+      "id": "1907510713251426455#m",
+      "content": "Open sourcing our Sui arbitrage bot that made $200k+: github.com/fuzzland/sui-mev?…\n\nThe bot can arb between DEX like @CetusProtocol @navi_protocol @AftermathFi @DeepBookonSui @Turbos_finance @KriyaDEX. We also built a MoveVM simulator in Rust that can fork the chain and simulate tx faster. \n\nDue to lack of engineers and competition onchain, it was no longer maintained. Specifically, it lacks a bellman-ford algo implementation to be profitable again. Feel free to do whatever you want with the code.",
+      "timestamp": "Apr 2, 2025 · 7:09 PM UTC",
+      "url": "https://twitter.com/0xskycapital/status/1907510713251426455#m",
+      "author": "0xskycapital"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T01:15:53.456Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 26,
+    "pagesFetched": 3,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 5541,
+    "cursorTrail": [
+      "DAAHCgABG3vySzG__-0LAAIAAAATMTk0NjA5NjYxMDY0NTMyODExNAgAAwAAAAIAAA",
+      "DAAHCgABG3vySzG__-QLAAIAAAATMTgzNDQ5MTAzNjkxNzIzOTg3NAgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

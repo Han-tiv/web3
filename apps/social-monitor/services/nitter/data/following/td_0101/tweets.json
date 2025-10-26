@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1360341216127299588",
+    "screen_name": "tD_0101",
+    "name": "tD",
+    "description": "shit-poster | degen-researcher | on-chain conspiracy seeker | AI agents trencher",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1746085299451572224/FuSJcJGg_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 3559,
+    "friends_count": 408,
+    "statuses_count": 2432,
+    "favourites_count": 2621,
+    "listed_count": 67,
+    "location": "mempool",
+    "website": "",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2021-02-13 05:33:20 +08:00",
+    "url": "https://twitter.com/tD_0101",
+    "rest_id": "1360341216127299588"
+  },
+  "tweets": [
+    {
+      "id": "1980350000237564389#m",
+      "content": "Decentralization be like:\nAmazon AWS down -> most of crypto DApps down. \n\nRevolution of finance, everything on   ̶b̶l̶o̶c̶k̶c̶h̶a̶i̶n̶ AWS",
+      "timestamp": "Oct 20, 2025 · 7:06 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1980350000237564389#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1979277640574881930#m",
+      "content": "hackers also have control over $DOR token",
+      "timestamp": "Oct 17, 2025 · 8:05 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1979277640574881930#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1979277231831601305#m",
+      "content": "the following wallet of @Conste11ation was compromised:\n0x77a6be2dd110a230764744acb87bc4a05e5d3212\n\noriginally funded by @joaopfc \nit had all the control over bridge and $DAG token CAs.\nan hour ago the wallet revoked roles and granted new ones to a few wallets that later minted $DAG and dumped some other tokens from the bridge. $UP was one of them",
+      "timestamp": "Oct 17, 2025 · 8:03 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1979277231831601305#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1979275254007562313#m",
+      "content": "some tracing\none of the \"hackers\" wallets minted 50mil $DAG: 0xa85f1f728324a72ae210908d5a202ef373d3aade\n\nwas funded from 0xB610fbD36f1987Bc3147fE6CD7d69C79397BA66b\n\n0xB610 originally received funds from SOL via Relay Bridge:\n\nfrom the following wallet address: Dw7m4ZbB5j6pWgJ4t4YG1Nwq9c64MkEbWffjoQEaw8BN\n\nbelongs to @rohanphw_",
+      "timestamp": "Oct 17, 2025 · 7:56 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1979275254007562313#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1979273807798878327#m",
+      "content": "gm @Conste11ation @LatticeExchange \n\nwere your wallets compromised or it's just a rug of $DAG?\n\nready to help with on-chain data investigation. feel free to DM\ncc @altifbrown @codebrandes",
+      "timestamp": "Oct 17, 2025 · 7:50 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1979273807798878327#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1978516043636064759#m",
+      "content": "ser @Mr__Grover__ are you dev?",
+      "timestamp": "Oct 15, 2025 · 5:39 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1978516043636064759#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1978512557850656873#m",
+      "content": "👀👀",
+      "timestamp": "Oct 15, 2025 · 5:25 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1978512557850656873#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1978510809660629204#m",
+      "content": "seeing some interesting transactions for dev wallet of most recent launched unicorn agent on @virtuals_io \n\n@Mr__Grover__ gib me some alpha",
+      "timestamp": "Oct 15, 2025 · 5:18 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1978510809660629204#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1977773008342204918#m",
+      "content": "at least now we know $4 wasn't launched by @cz_binance and the hack was real LOL.",
+      "timestamp": "Oct 13, 2025 · 4:26 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1977773008342204918#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1977770563268465049#m",
+      "content": "cc @cz_binance you may want to take a deeper look on this one.\ncc @four_meme_ you too",
+      "timestamp": "Oct 13, 2025 · 4:17 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1977770563268465049#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1977770279582490659#m",
+      "content": "ATTENTION! BANGER!\nremember $4 launched on @four_meme_ ?\n\nthe same person who hacked @BNBCHAIN now hacked @googlecloud and launched $OGUN\n\nneed proofs? here you get!\n\n4 days ago hacker (0x5511b9cba5f6a01f7685236393faca4415777f3d)  dispersed 0.3 BNB from $4 dev wallet to 3 others in this TX:\nbscscan.com/tx/0xc8353ad75f5…\n\nnow all of these wallets sniped $OGUN at TGE and selling hard during the pump:\n1. 0x86dF0e149e6128Bc2f769bA0b874255D25648a9a\n2. 0x4c7C273fEc92E4F7Fa19758011Be5f0bA335229D\n3. 0x18c6b498788768575EBeEd641127e7705FCab538\n\nexact same pattern as $4\n\nsome dude is criming @x so hard. support and team gotta pay attention! \n\nyesterday @Dropbox CEO was also hacked:\nlocalhost:8080/tD_0101/status/1977766…",
+      "timestamp": "Oct 13, 2025 · 4:15 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1977770279582490659#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1977766707973304407#m",
+      "content": "wallet that launched DropBox scam: 0x55d1a65fd675552022c4031139443d3736548f69\n\nthen transferred to this address (dev of Ogun scam from Google Cloud account): 0x76e00b70e65d834c531c5b9e2423cf24b0ae3d5d",
+      "timestamp": "Oct 13, 2025 · 4:01 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1977766707973304407#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1977766294242898258#m",
+      "content": "be careful.\n\nseems like top tier X accounts being hacked and launching tokens on @four_meme_ \n\nyesterday it was @Dropbox CEO @drewhouston:\ntoday it's @googlecloud:\n\nsame person behind these two. he doesn't even care about wallets, just transferring to other one after rug.",
+      "timestamp": "Oct 13, 2025 · 4:00 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1977766294242898258#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1977689504657162277#m",
+      "content": "Some alpha: @fund_defi",
+      "timestamp": "Oct 13, 2025 · 10:54 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1977689504657162277#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1977688950933438823#m",
+      "content": "some interesting and HUUUGE projects to be launched.\n\nsource: trust me",
+      "timestamp": "Oct 13, 2025 · 10:52 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1977688950933438823#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1977687919726100905#m",
+      "content": "gmm\n@virtuals_io unicorn szn is coming.\nposition urself.",
+      "timestamp": "Oct 13, 2025 · 10:48 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1977687919726100905#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1977641472829825037#m",
+      "content": "Some market makers will try to cover their losses by criming charts (PnDs). \nThat’s what happening rn.",
+      "timestamp": "Oct 13, 2025 · 7:44 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1977641472829825037#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1977340600983621758#m",
+      "content": "devs are building -> devs are criming\n\ndevs pls crime",
+      "timestamp": "Oct 12, 2025 · 11:48 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1977340600983621758#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1977258001494163846#m",
+      "content": "some message from $88mil insider:\n\"Fuck XPL Longs\"\n\nfalling into the rabbit hole again...",
+      "timestamp": "Oct 12, 2025 · 6:20 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1977258001494163846#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1977033323412439538#m",
+      "content": "Told you about crime szn",
+      "timestamp": "Oct 11, 2025 · 3:27 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1977033323412439538#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1976978385395237273#m",
+      "content": "rugtober or uptober?",
+      "timestamp": "Oct 11, 2025 · 11:49 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1976978385395237273#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1976971630955176098#m",
+      "content": "Perfect timing to launch tokens. \nif market dumps - you can blame the market conditions. \nif it pumps - you have free liquidity injection. \n\nEspecially for tokens paired with other tokens (/VIRTUAL etc)",
+      "timestamp": "Oct 11, 2025 · 11:22 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1976971630955176098#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1976966869937688827#m",
+      "content": "Crime szn is coming. \nUnexpected pumps on alts, tons of short squeezes and rug-rallies. \n\nNever short green candles.",
+      "timestamp": "Oct 11, 2025 · 11:03 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1976966869937688827#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1976781984535044282#m",
+      "content": "at some point @base fees were $50 per swap.\ncouldn't ape with my wallet since had no eth lol.\n@jessepollak devs do something pls",
+      "timestamp": "Oct 10, 2025 · 10:48 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1976781984535044282#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1976772952994857005#m",
+      "content": "I swear I had this in drafts few hours ago",
+      "timestamp": "Oct 10, 2025 · 10:12 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1976772952994857005#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1976765334851141799#m",
+      "content": "look at this mfers",
+      "timestamp": "Oct 10, 2025 · 9:42 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1976765334851141799#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1976764522770972705#m",
+      "content": "holly fuck. what's happened?",
+      "timestamp": "Oct 10, 2025 · 9:39 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1976764522770972705#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1976721074479083734#m",
+      "content": "The model itself is great. \nJust need to fix this selling pressure part. At least at TGE. \nMaybe some “AI powered” tech that will be “market making” the token instead of just selling per algorithm. Along with cliff and vesting for devs. \n\nTrying to help and not to FUD :)",
+      "timestamp": "Oct 10, 2025 · 6:46 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1976721074479083734#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1976719211067326739#m",
+      "content": "at least we'll see more launches now.\ndevs are incentivized asf.\n\nperfect model for them btw",
+      "timestamp": "Oct 10, 2025 · 6:39 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1976719211067326739#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1976718488296214904#m",
+      "content": "not sure what's worse. dev selling or bot\nif someone saw dev dumping $80-100k worth of tokens on TGE, at 5mil mcap.\n\nI would be crying lmao",
+      "timestamp": "Oct 10, 2025 · 6:36 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1976718488296214904#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1976717701234966985#m",
+      "content": "lmfao. mechanics is kinda cooked.\n@aixbet_ai devs already received like $80k from this new \"Automated Capital Formation\"\n\ngood news:\n1. it's automated. so it's not actually team who sells\n2. it stopped selling 10mins ago. probably the market cap limit was reached.\n\nnot the best approach to ruin the chart like this tho.\nkinda cringe tbh.\n\np.s pump my bag pls ser",
+      "timestamp": "Oct 10, 2025 · 6:33 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1976717701234966985#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1976673630613631249#m",
+      "content": "buybacks are coded it seems",
+      "timestamp": "Oct 10, 2025 · 3:38 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1976673630613631249#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1976671593310130227#m",
+      "content": "flywheel seems interesting\nlet's see what will be the first migrated token from @virtuals_io unicron model",
+      "timestamp": "Oct 10, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1976671593310130227#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1975651634211377195#m",
+      "content": "there are a lot of things I don't like. here are few of them:\n\n1. being rugged\n2. being ignored\n\nwhenever these both things happen at the same time, it makes me fall into the fukin rabbit hole and throw shit on the fan.",
+      "timestamp": "Oct 7, 2025 · 7:57 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1975651634211377195#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1975199027546460566#m",
+      "content": "@0xppl_ I believe we need “SCAMMER” banner for people like this. Thanks",
+      "timestamp": "Oct 6, 2025 · 1:58 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1975199027546460566#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1975198654249250863#m",
+      "content": "Got rugged with a larp launch by @rmecca_ \nMfer LARPed wallet on @0xppl \n\nBe careful with new kind of LARPs. @0xppl_ showed this wallet as @_Crypto_Mouse_’s after bad actor bundled it",
+      "timestamp": "Oct 6, 2025 · 1:57 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1975198654249250863#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1973309074688381059#m",
+      "content": "secret ingredient is crime I guess",
+      "timestamp": "Oct 1, 2025 · 8:48 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1973309074688381059#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1973308228483293589#m",
+      "content": "how are @CyClub_Official @Biopassport1 connected with @BithumbOfficial, @DWFLabs and @FalconStable ?\n\nI could be retarded, but seems like some crime.\n@ag_dwf mind DMing?",
+      "timestamp": "Oct 1, 2025 · 8:45 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1973308228483293589#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1972991509923533092#m",
+      "content": "as they say:",
+      "timestamp": "Sep 30, 2025 · 11:46 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1972991509923533092#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1972991039460782583#m",
+      "content": "few hours after @FalconStable $FF TGE, one of @DWFLabs wallets received $26.5mil from different CEXs.\n\naccording to @arkham data (well, the wallets they track), there have never been such activity (during past months at least) with their wallets.\n\n1 hour after Binance listing and nuke candles. \n\njust a coincidence I guess....\n\nlater $20mil were transferred to this fresh wallet: 0x3fC390F6D994e6E21e895E86d1dAe4b4FbCBD688\n\nanyway, my bags are nuked. KEK\n\nthe question is: \ncrime already happened or yet to happen?",
+      "timestamp": "Sep 30, 2025 · 11:44 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1972991039460782583#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1972946364754796906#m",
+      "content": "is crime legal?",
+      "timestamp": "Sep 30, 2025 · 8:47 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1972946364754796906#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1972702864842596725#m",
+      "content": "uptober or rugtober?",
+      "timestamp": "Sep 29, 2025 · 4:39 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1972702864842596725#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1972652673414705202#m",
+      "content": "pennies, but market makers are positioning themselves some stables",
+      "timestamp": "Sep 29, 2025 · 1:20 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1972652673414705202#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1972652484704510253#m",
+      "content": "market makers are loaded on $FF.\n\nrn they're providing $FF liquidity (in other words they're selling).\n\nlet's see how far this \"crime\" goes.",
+      "timestamp": "Sep 29, 2025 · 1:19 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1972652484704510253#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1972627553195319587#m",
+      "content": "Keeping my eye on $FF. \nPowered by @DWFLabs and @ag_dwf \n\nI bet it’s gonna be interesting ride. We all have seen charts they draw",
+      "timestamp": "Sep 29, 2025 · 11:40 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1972627553195319587#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1972280232372740504#m",
+      "content": "finally opened my laptop. \nover a month without trading.\nso what trenches are hot rn?\n\nheard about plasma. is base/virtuals still alive?",
+      "timestamp": "Sep 28, 2025 · 12:40 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1972280232372740504#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1970492298543747142#m",
+      "content": "GM. \nTrip is over. Back home. Back to the trenches.",
+      "timestamp": "Sep 23, 2025 · 2:15 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1970492298543747142#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1968691104510800325#m",
+      "content": "GM. Some iron tower",
+      "timestamp": "Sep 18, 2025 · 2:58 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1968691104510800325#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1967908636174500270#m",
+      "content": "Have been thinking to launch @pumpdotfun 1-2 weeks long roadtrip (on the car) stream. Currently in Spain, the next destinations are Portugal - > idk yet -> idk yet. \n\nSomehow gotta cover expenses lmao. \nWhat do you think?",
+      "timestamp": "Sep 16, 2025 · 11:09 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1967908636174500270#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1967616444172308960#m",
+      "content": "My Europe trip is gonna be powered/sponsored by @base I hope. LOL",
+      "timestamp": "Sep 15, 2025 · 3:48 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1967616444172308960#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1966152847164318060#m",
+      "content": "Europe is draining my port so hard lol.",
+      "timestamp": "Sep 11, 2025 · 2:52 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1966152847164318060#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1964446338210467841#m",
+      "content": "GM.\nStill here lol",
+      "timestamp": "Sep 6, 2025 · 9:51 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1964446338210467841#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1963200546975682903#m",
+      "content": "Getting like -85% of PNL after buying tons of @LineaBuild NFTs 1.5 years ago, being promised it’s ok to hold them all on the same wallet and each NFT will 100% get airdrop, then being slashed for “holding too much”. \n\nOne of my best investments and scams from tier-1 projects lmao. \n\nAnyway, enjoying my vacation. Shill me some places that 100% worth to visit in Europe (Balkans rn)",
+      "timestamp": "Sep 3, 2025 · 11:20 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1963200546975682903#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1961280381531177469#m",
+      "content": "GMGM. \nTaking a long awaited vacation. \n\nIf you want to collab to sponsor it - feel free to DM. LOL",
+      "timestamp": "Aug 29, 2025 · 4:10 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1961280381531177469#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1960051705623818255#m",
+      "content": "what a PvP on @airocket_agent lol",
+      "timestamp": "Aug 25, 2025 · 6:48 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1960051705623818255#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1959570661682110576#m",
+      "content": "going even further, let's check @wasabi_protocol data.\nhere are traders for VADER/ETH pair:\n\nalso for VADER/USDC:\n\nthe only interesting TX I could find is this trade by some KOL. doubt it have something to do with insider info\n\nso during tokens distribution there were no any suspicious activity, as per on-chain data.",
+      "timestamp": "Aug 24, 2025 · 10:57 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1959570661682110576#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1959570657416532022#m",
+      "content": "being tagged in some convos about $VADER insiders dumping their bags.\ndon't have an access to \"insider VADER\" chats, so let's take a look on on-chain data.\n\nas you can see on this screenshot from DexScreener, dump-rally started at 9:12 AM UTC+0. or 9:17AM where fat candles came.\n\ntokens distribution began at 9:08AM where most whales got their tokens.\nso it's 4 minutes between distribution and first dump.\n\ngoing further, checked a few TG trench chats I'm in, the first person there noticed \"vader airdrop\" at 9:12AM same day (UTC+3 on the screenshot)\nthere were also no huge sales (>500k $VADER) during 10 minutes after distribution (UTC+3 on the screenshot)",
+      "timestamp": "Aug 24, 2025 · 10:57 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1959570657416532022#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1959206508622975091#m",
+      "content": "Theoretically, if I create a @useBackroom room, snipe first 10-20 keys, then DCA-sell them to avoid snipers and keep fp stable, would you buy it?\n\nTo keep it clear, sold keys won’t be re-bought, so it’s pure profit for me. Kinda farming, but is what it is lol.",
+      "timestamp": "Aug 23, 2025 · 10:50 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1959206508622975091#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1959201459632840719#m",
+      "content": "This works btw",
+      "timestamp": "Aug 23, 2025 · 10:30 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1959201459632840719#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1958844750439629147#m",
+      "content": "👀👀👀",
+      "timestamp": "Aug 22, 2025 · 10:52 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1958844750439629147#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1958844591647424603#m",
+      "content": "the only thing I regret is that I haven't bought much enough.",
+      "timestamp": "Aug 22, 2025 · 10:51 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1958844591647424603#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1958844337673949198#m",
+      "content": "gmgm. @VaderResearch I can see you've been building something for a while",
+      "timestamp": "Aug 22, 2025 · 10:50 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1958844337673949198#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1958843185272431077#m",
+      "content": "I might be retarded, but $8mil mcap seems reasonable price to get into $VADER rn. \n\nSome announcements are coming probably",
+      "timestamp": "Aug 22, 2025 · 10:46 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1958843185272431077#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1958806514992361714#m",
+      "content": "Perfect opportunity for @VaderResearch to come back with a new platform for presales. \n\nDifferent from genesis, so small teams can raise $$.",
+      "timestamp": "Aug 22, 2025 · 8:20 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1958806514992361714#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1958498110130246039#m",
+      "content": "Probably a coincidence, but that’s the reason I don’t wanna share/promote any tickers. \n\nNot ready to be responsible for price action and other people bags. \n\nWell, unless someone pays me 5 figures LOL (with *paid promotion* watermark)",
+      "timestamp": "Aug 21, 2025 · 11:55 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1958498110130246039#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1958486130242056230#m",
+      "content": "tbh, chart like that is not the best way to promote genesis v2 with better launches lol.\n\nbasically it's the same as participating in v1 and your agent is sitting at like 700k - 1mil FDV.",
+      "timestamp": "Aug 21, 2025 · 11:07 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1958486130242056230#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1958485337207943666#m",
+      "content": "my bags are nuking",
+      "timestamp": "Aug 21, 2025 · 11:04 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1958485337207943666#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1958170216346579369#m",
+      "content": "LP was added with 0.00000000001 $VIRTUAL instead of 100k. then sniper bought the whole pool for 39k $VIRTUAL, then sold and another sniper came to get them.\nLMAO",
+      "timestamp": "Aug 20, 2025 · 2:12 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1958170216346579369#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1958169676942278786#m",
+      "content": "lmao, seems like snipers just extracted all the liquidity (55mil $CTDA) because of wrong LP config from @virtuals_io team.\n\nepic fail",
+      "timestamp": "Aug 20, 2025 · 2:10 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1958169676942278786#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957864763951837249#m",
+      "content": "let me tell you what's coming next to @virtuals_io. short roadmap.\n\n- $CTDA launches at >$15mil FDV\n- those who pledged get insane gains in terms of points value, because of the 100k $VIRTUAL hard cap\n- people are starting to FOMO\n- $SAGE reaches 100k $VIRTUAL threshold in minutes (literally)\n- people are buying and staking $VIRTUAL and other agents\n- Season 3 begins, powered by tons of FOMO\n- people are building scripts to pledge, since every other solid launch raises within a minute.\n\nposition yourself before the FOMO szn.",
+      "timestamp": "Aug 19, 2025 · 5:58 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957864763951837249#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957845225092604129#m",
+      "content": "Also the calculator seems to be broke. \nAfter pledging it suggest me to pledge x2 the amount of virtuals I already did (while using 1 point)",
+      "timestamp": "Aug 19, 2025 · 4:40 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957845225092604129#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957842931852669047#m",
+      "content": "need some clarification from @virtuals_io team on new genesis mechanics.\nas per docs, \"Any contributions beyond the highest threshold are automatically refunded.\"\n\ndoes it mean people who're pledging after 100k raised are getting refund, or is it same logic as it was in v1, where these refunds were pro-rata based on users pledges?\n\ndoes it make sense to pledge after the 100k threshold reached?",
+      "timestamp": "Aug 19, 2025 · 4:31 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957842931852669047#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957815409035333781#m",
+      "content": "I mean it's gonna be low mcap & high FDV.\nbut tf. anyway let's see",
+      "timestamp": "Aug 19, 2025 · 2:42 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957815409035333781#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957815222233665788#m",
+      "content": "wait. does it mean we're buying at $2mil FDV on genesis v2 vs $200k FDV on genesis v1?\n\nalso 5 times less of token supply allocated to genesis.\nmaybe it's me, but points seems to be kinda useless now.\n\nwell, except these new agents are launching at >$20mil FDV",
+      "timestamp": "Aug 19, 2025 · 2:41 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957815222233665788#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957453590223536594#m",
+      "content": "still not sure if I'm bullish on new @virtuals_io genesis concept.\n\nfrom tech and team side it's pretty cool update, they have better supply control now.\n\nbut is it that cool for trenchers?\n1. only 7% for genesis. points are worth less now, except new projects are launching x5 the market cap (let's say 10m mcap instead of avg 2mil earlier for solid products).\n\n2. snipers are still there, they will be sniping every new launch and farming those who wanna get more tokens.\n\n3. \"low mcap, high FDV\" is not gonna provide enough room for price discovery in a long-term vision.\n\n4. pools are still paired with $VIRTUAL, teams would need some flexibility in the current market conditions.\n\nanyway, let's see how it works with next launch",
+      "timestamp": "Aug 18, 2025 · 2:44 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957453590223536594#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957448208231104527#m",
+      "content": "So the whole points system is different now. \n7% to public sale instead of 37% means points are 5 times less valuable now?\n\nTo be seen in 2 days",
+      "timestamp": "Aug 18, 2025 · 2:23 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957448208231104527#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957427767085085084#m",
+      "content": "Well, it was obvious",
+      "timestamp": "Aug 18, 2025 · 1:02 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957427767085085084#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957421285652238492#m",
+      "content": "MVPGA",
+      "timestamp": "Aug 18, 2025 · 12:36 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957421285652238492#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957407969521307845#m",
+      "content": "The hard decision between @pokpok_io and @SageToLearn. What are we pledging in the coming days?\n\n@pokpok_io == DeFi, followed by @base team on X. \n\n@SageToLearn == Learning, followed by @virtuals_io team on X. \n\nWhat do we think will perform better? My bet is on DeFi.",
+      "timestamp": "Aug 18, 2025 · 11:43 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957407969521307845#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957174585352172009#m",
+      "content": "some alpha from ser @beast_ico on @useBackroom for you'all",
+      "timestamp": "Aug 17, 2025 · 8:15 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957174585352172009#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957170702899200418#m",
+      "content": "worth to mention a problem with snipers, every single launch is getting ruined",
+      "timestamp": "Aug 17, 2025 · 8:00 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957170702899200418#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957170460958904790#m",
+      "content": "if @useBackroom not creating FOMO ASAP, the flywheel is gonna reverse to red candles.\n\nyou want to pump keys by yourself to make it look alive and spread fomo.\n\n@0xSleuth_ and @beast_ico sitting at 30k with no activity is wild",
+      "timestamp": "Aug 17, 2025 · 7:59 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957170460958904790#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957092356252918070#m",
+      "content": "aped some @0xSleuth_ keys on @useBackroom \nwin-win for me.\nin case I get rekted - I can FUD insider trading / insider sniping\n\nin case it pumps - I print some $$",
+      "timestamp": "Aug 17, 2025 · 2:49 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957092356252918070#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957087767789215833#m",
+      "content": "even funnier, that all 3 \"insider\" wallets were created an hour ago and have exact same activity pattern.\n\n@Lennart_up was this launch powered by Backroom team to avoid snipers?",
+      "timestamp": "Aug 17, 2025 · 2:30 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957087767789215833#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957087384325005565#m",
+      "content": "not sure how is that possible. but @0xSleuth_'s Backroom key was heavily sniped during first 10 seconds:\n\nconsidering he used new wallet... funded by Sigma (trading fees).\n\nnot sure if it's something \"insider\", but still weird, since this wallet was created just 2 hours ago:",
+      "timestamp": "Aug 17, 2025 · 2:29 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957087384325005565#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957039062688170271#m",
+      "content": "not dumping on ur subs. don't worry",
+      "timestamp": "Aug 17, 2025 · 11:17 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957039062688170271#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957038909151465855#m",
+      "content": "I mean it's better be me who snipes your room than anyone else. kek",
+      "timestamp": "Aug 17, 2025 · 11:16 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957038909151465855#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1957038331709009935#m",
+      "content": "just finished my sniper bot for @useBackroom \n\nwhose rooms are we expecting? hehehhehehe",
+      "timestamp": "Aug 17, 2025 · 11:14 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1957038331709009935#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1956990025289109829#m",
+      "content": "sometimes I think I'm retarded because I do care about my \"reputation\".\n\nit would be so easy to extract",
+      "timestamp": "Aug 17, 2025 · 8:02 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1956990025289109829#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1956975869798371489#m",
+      "content": "@Lennart_up let me unlink my wallet from X so we can test some things on your platform",
+      "timestamp": "Aug 17, 2025 · 7:06 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1956975869798371489#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1956972516221567386#m",
+      "content": "Damn, the whole feed now is:\n1. I found low-cap gem on virtuals\n2. I shared this gem in my Backroom \n\nBe careful with PnDs..",
+      "timestamp": "Aug 17, 2025 · 6:53 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1956972516221567386#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1956338660447547605#m",
+      "content": "hope the problem with linked X will be fixed ASAP  lol",
+      "timestamp": "Aug 15, 2025 · 12:54 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1956338660447547605#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1956338252903854149#m",
+      "content": "gmgm\n\nhere are some feedback on @useBackroom \ncc @Lennart_up pls pay attention.\n\n1. prices in market tab are broken:\n2. sometimes there are some problems with keys valuation\n\n3. def need a feature to disconnect X from the wallet. been testing things and can't change it now.\n\n4. snipers. but there's really nothing you can do about it rn\n\noverall, it's kinda fun",
+      "timestamp": "Aug 15, 2025 · 12:52 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1956338252903854149#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1955568331106177340#m",
+      "content": "Zora Monitor Bot is live again.\n\nt.me/monitor_zora\na little bit improved logic and detection. spam will be filtered.\n\nQuick links to BasedBot, GOAT and Sigma added.\nmake sure to use my ref links, so I can pay for @TweetscoutApp API and hosting LOL (except you want me to make PnDumps xD)",
+      "timestamp": "Aug 13, 2025 · 9:53 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1955568331106177340#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1955503017211441461#m",
+      "content": "GMGM. \n\nSome people may hate me now. But it is what it is. \nYou can blame me or do whatever you want, but that’s how it works in crypto. \n\nLet’s be clear and honest, every zora monitor showed linked devs socials. It was just a matter of time when he decided to claim fees, then you would do exact same that happened last night. \n\nReally sorry if I ruined someone’s bag, but that’s what you call high risk high reward play. It could be vitalik, then it would moon another x10. But it’s not. \n\nHope people learn from this situation and improve their skills. \n\nP.S gotta study how to be avg KOL and pump charts & actually make money from tweets instead of dumping them and being hated lmao.",
+      "timestamp": "Aug 13, 2025 · 5:33 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1955503017211441461#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1955375831632543834#m",
+      "content": "well, let's fukin blow the $ethmascot bubble.\nit's 100% sure LARP.\n\nneed proofs?\nlet's start with monitor channels. they could get the following data at the TGE:\n\nnobody seems to care, some people thought it's a bug. but it's not.. make sure to pay attention to the linked farcaster profile.\n\nlet's confirm with on-chain data.\nhere's the dev wallet (zora CA): 0x62AD04654fB4023e6B4f1D86C547781c45DB24fC\n\nright at TGE there was one and only external TX from this dev wallet:\n\nrecipient: 0x025ABA692FBF72bfFA556112879ECEf207334a25\n\nthis 0x025.. wallet have this interesting activity, where it receives $ZORA from different zora profiles, with exact same activity as $ethmascot: dev was farming fees with memes.\n\nfinal proof.\nremember farcaster username that was mentioned on screenshot?\nfarcaster.xyz/ilhamjr1987\n\nhere it's linked wallets, where we can find earlier mentioned 0x025.. (where fees were transferred at TGE).\n\ntoo high to fail now, but that's what we got..\nmaking the space clear.",
+      "timestamp": "Aug 12, 2025 · 9:08 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1955375831632543834#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1955372118436352117#m",
+      "content": "who's building perps for shitcoins on @base  and @virtuals_io ?",
+      "timestamp": "Aug 12, 2025 · 8:53 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1955372118436352117#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1955370898724360610#m",
+      "content": "why are we so sure $ethmascot is created by @VitalikButerin ?",
+      "timestamp": "Aug 12, 2025 · 8:48 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1955370898724360610#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1954884124512239889#m",
+      "content": "Some juicy dip",
+      "timestamp": "Aug 11, 2025 · 12:34 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1954884124512239889#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1954556774519861717#m",
+      "content": "just got some alpha for you. not an insider trading, just a guy who found alpha earlier than y'all and took the risk.\nstudy trenching",
+      "timestamp": "Aug 10, 2025 · 2:53 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1954556774519861717#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1954555976528375980#m",
+      "content": "they call it \"insider trading\" in web-2.\n@solacelaunch great job.",
+      "timestamp": "Aug 10, 2025 · 2:50 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1954555976528375980#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1954554273762513070#m",
+      "content": "and most of those are some weird KOLs with 0 mutual followers",
+      "timestamp": "Aug 10, 2025 · 2:43 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1954554273762513070#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1954553884732498080#m",
+      "content": "the number of insiders from recent @solacelaunch announcement. damn",
+      "timestamp": "Aug 10, 2025 · 2:42 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1954553884732498080#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1954537346260480272#m",
+      "content": "This dude just uses his followers as EL. Screenshot he sent is his wallet lmao. \n\nBack in days I was just tracking all his new wallets, at some point I had like 30 of them in notifs bot. \n\nStay away from extraction",
+      "timestamp": "Aug 10, 2025 · 1:36 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1954537346260480272#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1954536507345191220#m",
+      "content": "The best way to print if you have low port is to find KOLs wallets and front-run their tweets.",
+      "timestamp": "Aug 10, 2025 · 1:33 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1954536507345191220#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1954483254654034249#m",
+      "content": "oh btw, they created this LP position 30mins ago. perfect timing lol",
+      "timestamp": "Aug 10, 2025 · 10:01 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1954483254654034249#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1954483031932100618#m",
+      "content": "not sure who's behind this 150% pump on $PTAI, but here's what you need to know about this project\n\nas you might know, I've already exposed their behavior back in May:\nlocalhost:8080/tD_0101/status/1923464…\n\nso what happens with current unlocks?\ntokens are being claimed by this CA:\n0x45df8f69a77389af20fb657a2b458a197c7dd83e\n\nfrom the latest \"unlock\", 2 days ago, 18mil $PTAI were sent to: 0xaaeD6a48b2c22cd001f852D1C5964b26046f08c9\n\nthey got smarter, now they operate with liquidity.\nis it bullish? it would be, if it wasn't single-sided LP, where they basically sell PTAI.\n\nneed some alpha?\nby using some magic tools we can see exact price range they want to sell in: 1.06mil - 1.27mil mcap\n\naccording to tokenomics, these tokens were supposed to be for:\n1. 10mil == marketing & community\n2. 7.5mil == liquidity\n\nfor earlier unlocks they were selling everything.\nwell, except the \"backers & partners\" category, some of these are still holding.",
+      "timestamp": "Aug 10, 2025 · 10:00 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1954483031932100618#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1954452246218850724#m",
+      "content": "you can comment info about projects you like here. will be much easier",
+      "timestamp": "Aug 10, 2025 · 7:58 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1954452246218850724#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1954451895243743702#m",
+      "content": "should I create a spreadsheet with detailed info on most @virtuals_io genesis launches?\nlike a few words about each project: if they build (based on tweets/updates), what do they do with their tokens, etc.",
+      "timestamp": "Aug 10, 2025 · 7:56 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1954451895243743702#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1954450050492281075#m",
+      "content": "been checking different genesis projects and it's crazy.\nsome devs are just dumping all their unlocks.\n\n$BAIBY for example. every unlock is being dumped to the hell.",
+      "timestamp": "Aug 10, 2025 · 7:49 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1954450050492281075#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1954414205878047126#m",
+      "content": "Well, since @SageToLearn postponed their launch and 80% of my points are gonna expire by Aug 20, help me. \nWhat’s the best way to save those points? Pledge in some failed launch maybe?",
+      "timestamp": "Aug 10, 2025 · 5:27 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1954414205878047126#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1954202746946506940#m",
+      "content": "thx @3DMax_Virtuals for the alpha. let's see if we can make Luna great again.",
+      "timestamp": "Aug 9, 2025 · 3:26 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1954202746946506940#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1954201506946679069#m",
+      "content": "just check on-chain data and it seems to be true:\n1. $CC dev interacted with the following wallet, sending tons of ETH: 0xbd45650e1c3c07bd18f03f4e011d9bc7921c87e1\n\n0xbd4...87e1 is 100% owned by @sistineresearch and can be found in this post:\n\nlocalhost:8080/3DMax_Virtuals/status/…",
+      "timestamp": "Aug 9, 2025 · 3:22 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1954201506946679069#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1953914348210204793#m",
+      "content": "I mean it was pretty great advising on day-1 😂",
+      "timestamp": "Aug 8, 2025 · 8:20 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1953914348210204793#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1953914127463985533#m",
+      "content": "I was so close to game change back in the days, but my hands were faster.\nFUDded myself out lmao.\n\nlocalhost:8080/tD_0101/status/1897413…",
+      "timestamp": "Aug 8, 2025 · 8:20 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1953914127463985533#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1953857190965784716#m",
+      "content": "people are trying to find alpha by speculating on one of the @virtuals_io co-founders tweet:\nlocalhost:8080/everythingempt0/status…\n\nall of them are missing obvious project: @frodobots aka @BitRobotNetwork \nthey secured $8mil from VCs back in February.\nthey're powered by Virtuals.\nand they're about robots.\n\ndon't need to speculate on different low-cap projects, everything is pretty clear.\n\np.s and yeah, they have an agent $SAM:\napp.virtuals.io/virtuals/250…",
+      "timestamp": "Aug 8, 2025 · 4:33 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1953857190965784716#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1953757891992637883#m",
+      "content": "don’t fade @virtuals_io team. \n\nfrom what we already saw, they know how to properly operate with hype and fomo. \n\nwouldn’t be surprised if they pump most legit agents to get needed attention. they can afford it.",
+      "timestamp": "Aug 8, 2025 · 9:59 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1953757891992637883#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1953706039330669036#m",
+      "content": "The hard decision between @SageToLearn and @ArAIstotle \n\nWhere are we pledging?",
+      "timestamp": "Aug 8, 2025 · 6:33 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1953706039330669036#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1953475900286099775#m",
+      "content": "Also interesting fact, they posted something, then sold and deleted that post lmao. \n\n@coinbase intern is retarted for sure",
+      "timestamp": "Aug 7, 2025 · 3:18 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1953475900286099775#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1953470564485693778#m",
+      "content": "a lot of drama on @coinbase zora launch in the trenches.\n\nI got u some alpha.\n\nin the video they posted we can see some data:\nlocalhost:8080/coinbase/status/195345…\n\n1. CoinbaseOne handle that matches with the token.\n2. timestamp:\n\nin the middle of the video we can find some post that was posted \"5 mins ago\":\nzora.co/coin/base:0xf126ecf7…\n\npost date (as per on-chain): May-15-2025 06:12:07 PM +UTC\n \nif we go deeper, we can see there are 2 different videos merged.\n\n1. the one with \"CoinbaseOne\" handle and empty pfp\n\n2. after connecting the wallet, account with pfp and 3 month old post.\n\nthe funniest thing is that someone who controls \"CoinbaseOne\", I can assume, owned by Coinbase employee, selling shitcoins they get from users lmao.\n\nanyway, it's too high to rug it now.",
+      "timestamp": "Aug 7, 2025 · 2:57 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1953470564485693778#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1953404794531369135#m",
+      "content": "one of the @virtuals_io team related wallets started DCAing $VIRTUAL.\n\ndo whatever you want with this information.",
+      "timestamp": "Aug 7, 2025 · 10:36 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1953404794531369135#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1953147120317313025#m",
+      "content": "so what @virtuals_io would want to do now is to completely redesign the whole genesis concept.\n\nit's pretty obvious \"fair launches\" doesn't work anymore and solid teams don't wanna get insta-dumped at launch anymore. 37.5% of the supply is pretty much.\n\nit's time to evolve and make it flexible. maybe ICO style with custom allocations and pools? let's be honest, most \"solid\" launches don't wanna be linked to price action of $VIRTUAL token. instead, fees in $VIRTUAL would be fine in this case.\n\nanother idea: custom fees. devs should be able to set their own trading fees %.\n\nright now the only option to avoid being dumped is protos. that is also dead xd.\n\nfully flexible launchpad platform. that's what devs need.\n\nI could agree that would kill the main utility of $VIRTUAL, but that's what we got.",
+      "timestamp": "Aug 6, 2025 · 5:32 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1953147120317313025#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1953144247344873541#m",
+      "content": "kek. @RingfenceAI kinda proved that the whole genesis concept of @virtuals_io is dead.\n\nso weird move, considering there were no any hyped launches on virtuals for a looooong while",
+      "timestamp": "Aug 6, 2025 · 5:20 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1953144247344873541#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1953131101200757214#m",
+      "content": "also this\nnasdaq.com/articles/ringfenc…",
+      "timestamp": "Aug 6, 2025 · 4:28 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1953131101200757214#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1953130640590672189#m",
+      "content": "am I missing something, or @RingfenceAI raised $1.5mil 1.5 years ago?\n\nalso some on-chain data can be traced to Anthony Logan, CEO of @noirstudio .\n\n$RING is sitting at $6mil mcap right now.\nprobably something?",
+      "timestamp": "Aug 6, 2025 · 4:26 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1953130640590672189#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1950240028115746927#m",
+      "content": "Ah, it’s only in mainnet",
+      "timestamp": "Jul 29, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1950240028115746927#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1950234405689028810#m",
+      "content": "gmgm @virtuals_io fam\ndo you think it's time to evolve $NOTHING and make it something?\n\nshould we support @luna_virtuals ?",
+      "timestamp": "Jul 29, 2025 · 4:38 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1950234405689028810#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1950179259533631509#m",
+      "content": "@dg_goens @js_horne what was the reason to unban his profile then ban again? even if it was a larp",
+      "timestamp": "Jul 29, 2025 · 12:59 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1950179259533631509#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1950178806066507800#m",
+      "content": "lmao. @zora team unbanned @notthreadguy username on zora, then people speculated, pumped to 1mil -> sniper sold all their bags -> profile is banned again.\n\nweird things",
+      "timestamp": "Jul 29, 2025 · 12:57 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1950178806066507800#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1949740862985912557#m",
+      "content": "created monitor tool for @zora creator token launches:\nt.me/monitor_zora\n\nintegrated some useful filters to avoid spam and noise.\nalso integrated @TweetscoutApp api to fetch X data.\n..and BasedBot quick link.\n\nexample:",
+      "timestamp": "Jul 28, 2025 · 7:57 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1949740862985912557#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1949508142242439456#m",
+      "content": "if u remember $ZORA hype back in April, it ended because of snipers.\ntime to fix until it's too late...",
+      "timestamp": "Jul 27, 2025 · 4:32 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1949508142242439456#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1949507350248702000#m",
+      "content": "gmgm.\nhave been trenching @zora for a while. \nseems like it's being heavily sniped in block-0/1\n\ncc @jessepollak @js_horne it's time to fix",
+      "timestamp": "Jul 27, 2025 · 4:29 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1949507350248702000#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1947294749506908652#m",
+      "content": "gm @jessepollak \nreally need this invite to @baseapp to test things.\nappreciate.",
+      "timestamp": "Jul 21, 2025 · 1:57 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1947294749506908652#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1946977209635201522#m",
+      "content": "gmgm CT. \nbeen seeing some guys coming back and making pump-n-dump schemes again.\n\nwe all know them, so as we know they use you as their exit liquidity. at one point I've been tracking over 50 wallets and front-running hamsters who tried to follow their KOLs\n\nnever trust \"calls\". \n\nand nope, this post is not a warm up for my own \"private chat\". \nwill never do that since I have enough skills to make content and $ without selling myself for 3 cents to promote scams or host PnD schemes.\n\nfor projects, if you need my on-chain skills == feel free to DM. open for advisor/researcher roles.",
+      "timestamp": "Jul 20, 2025 · 4:55 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1946977209635201522#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1946974762263023704#m",
+      "content": "it's time to get back to the trenches I think",
+      "timestamp": "Jul 20, 2025 · 4:45 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1946974762263023704#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1946874934912839970#m",
+      "content": "something absolutely weird just happened to bunch of agents on @virtuals_io \nfew wallets dumped their bags hard. \nall of them are only staking $VIRTUAL.\n\ntime to load the dip I guess?  $FLYTE got affected most.",
+      "timestamp": "Jul 20, 2025 · 10:08 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1946874934912839970#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1944095134435377612#m",
+      "content": "What a shit show with $PUMP sale on @Bybit_Official  \nLiterally everyone (except bots I guess?) got refunded. Another perfect way to ruin your reputation in this degen industry.",
+      "timestamp": "Jul 12, 2025 · 6:02 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1944095134435377612#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1944040124654006697#m",
+      "content": "not even trying to hedge short $PUMP.\ntons of people are doing this.\nwouldn't be surprised if someone pumps it to liquidate all of them. remember, team is sitting on $500m, they can do anything rn",
+      "timestamp": "Jul 12, 2025 · 2:24 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1944040124654006697#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1943384739148132764#m",
+      "content": "plot twist:\nprice will pump x10 before tokens are distributed -> you run out of margin -> fully liquidated",
+      "timestamp": "Jul 10, 2025 · 7:00 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1943384739148132764#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1943383489639841917#m",
+      "content": "with all the euphoria around $PUMP.\npre-market price (HL, Binance, etc) >$0.005\n\ncan't we just:\n1) short it with literally any size\n2) buy on sale for $0.004\n3) cash out easiest 25%\n\nis math mathing in this case?",
+      "timestamp": "Jul 10, 2025 · 6:55 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1943383489639841917#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1942561386208583977#m",
+      "content": "make points great again.",
+      "timestamp": "Jul 8, 2025 · 12:28 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1942561386208583977#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1941747119729111522#m",
+      "content": "devs are building. trust the process",
+      "timestamp": "Jul 6, 2025 · 6:32 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1941747119729111522#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1941094666029740270#m",
+      "content": "especially when they answer to the comment under your tweet, but not your tweet directly.",
+      "timestamp": "Jul 4, 2025 · 11:20 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1941094666029740270#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1941094406599348246#m",
+      "content": "me and devs",
+      "timestamp": "Jul 4, 2025 · 11:19 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1941094406599348246#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1941087813870759958#m",
+      "content": "nobody gives a fuck or cares. great work @virtuals_intern @ethermage",
+      "timestamp": "Jul 4, 2025 · 10:52 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1941087813870759958#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1941087603127624178#m",
+      "content": "remember my post about $BIOS team participating in genesis?\nthought @virtuals_io fixed it?\n\n2 days ago this same wallet pledged 1,000,000 points in $MONEY genesis sale.\nhow much more points do they have? who tf knows.\n\nit's literally spit in my face. \n\nlocalhost:8080/tD_0101/status/1939222…",
+      "timestamp": "Jul 4, 2025 · 10:52 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1941087603127624178#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1941076151591440387#m",
+      "content": "devs are keep breaking the rules on @virtuals_io \n\ntoday it's @RoboStack_io with wallet:\n0x2EcA7B39476f2A94c83937FA1fFC0a457e2c2daD\n\nthey staked 66.6mil $ROBOT (6.6% of the total supply) 3 days ago.\naccording to tokenomics, it's most probably CEX Listings + Protocol Reserves category.\n\ntoday they participated in Genesis Launch, pledging 756k points.\nthis it the new wallet and had no transactions other than receiving and staking their own token.\n\n@virtuals_intern @everythingempt0 fix this shit please. devs seems to not care at all, so maybe some penalties? idk",
+      "timestamp": "Jul 4, 2025 · 10:06 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1941076151591440387#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1941045416617037960#m",
+      "content": "my @CreatorBid X score is dumping hard in real-time.\nmake it great again, need to feed my village",
+      "timestamp": "Jul 4, 2025 · 8:04 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1941045416617037960#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1940097067881464126#m",
+      "content": "oooo @virtuals_io just launched DAO (governance).\n\nit's time to split some supply lmao",
+      "timestamp": "Jul 1, 2025 · 5:16 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1940097067881464126#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1940094635617010087#m",
+      "content": "it's fun to see how devs are trying to \"wash\" their tokens through claiming CA, then depositing to CEX and withdrawing to different wallet.\n\nplot twist: this CEX had only 2 deposits/withdrawals in weeks.",
+      "timestamp": "Jul 1, 2025 · 5:06 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1940094635617010087#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1940031895464546625#m",
+      "content": "lmao, people are trying to make @virtuals_io team send them some tokens.\n\nofficial lock wallet, so you can track unlocks:\n0xdAd686299FB562f89e55DA05F1D96FaBEb2A2E32",
+      "timestamp": "Jul 1, 2025 · 12:57 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1940031895464546625#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1939944480259395874#m",
+      "content": "BE CAREFUL. \n@virtuals_io locked pre-bonded agents tokens are being distributed. \n\nBack in days (Jan-Dec) devs could lock tokens of their pre-bonded agents in official virtual lock contact. \n\nRight now unlocks are happening, so make sure you’re safe.",
+      "timestamp": "Jul 1, 2025 · 7:09 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1939944480259395874#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1939344855794126981#m",
+      "content": "clarification on the bonding mechanics.\n\nwhenever you check bonded Virtual agent on any explorer, there will be \"Contract Creator\" with the matching TX.\nit's not a real dev, it's the last person who bought it pre-bonding (and bonded it)\n\nby abusing this thing and protector bots logic, people could dump tokens price back in Dec - Jan by bonding the agent.",
+      "timestamp": "Jun 29, 2025 · 3:26 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1939344855794126981#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1939343589571531123#m",
+      "content": "want to publicly apologize for my \"fake\" take about $AIXBT and @0xWives \n\nmade a terrible mistake by checking the wallet who bonded $AIXBT instead of the one that launched it.\n\n@aixbt_labs team still have >5% of supply vested in the contract:\n0x4c0f3d171bf15760a5779ecac073907c9b6d4be5\n\nand even more tokens between different dev wallet.\n\nagain, this was my mistake and I'm sorry for spreading this info without verifying. won't happen again.\n\n@0xWives sorry ser",
+      "timestamp": "Jun 29, 2025 · 3:21 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1939343589571531123#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1939338106106261743#m",
+      "content": "I wish there was a bounty for hunters by @virtuals_io \n\nexpose dev farmers with solid evidence == get 20-30-40% of their points.\n\neasiest way to clean the space. \n\ncc @ethermage do you like it? it's probably gonna kill the genesis tho 😂",
+      "timestamp": "Jun 29, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1939338106106261743#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1939337023732552063#m",
+      "content": "another banger about @virtuals_io points farmers.\n\nnow let's fuking expose $BCREAT aka BasedCreature.\nwhat is that? who the fuck knows, I couldn't find any info (haven't been trying tbh).\n\nsince @virtuals_io team are so busy, I will help them.\n\nthere are literally TONS of wallets related.\n\nsince I'm not payed to do this shit and show in details, I'll give some wallets so you can investigate.\n\n1. SOL middle wallet, used to bridge 36% of the supply:\n5CEv8SUyjQRqPGtx5xJMFJXXhWZr8bhiJMcgFAXCDhh1\n\n2. received from:\n0xcfA1D43CcFD15d5370091cC4c9BD8BfC926Fe3c6\n0xB4eBbE0e0C36EAAA68509b0A02FC381f79252592\n\n3. sent to:\n0xd552561e066efce4548ee9b01a01354d8fbcd14d\n\nas I said, I'm not paid to go deep into details, so here's the screenshot of 5mil+ $BCREAT stake transactions:\n\n10,50,70 and 115mil seems to be legit asf, right?\n\nnot sure how much do they farm, but some of these wallets are participating in genesis.\n\ncc @everythingempt0 less go",
+      "timestamp": "Jun 29, 2025 · 2:55 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1939337023732552063#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1939329249531265522#m",
+      "content": "they probably secured some bags from alt wallets. but that's the info for dev wallet, nothing more and nothing less",
+      "timestamp": "Jun 29, 2025 · 2:24 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1939329249531265522#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1939323933271916899#m",
+      "content": "I just hope someone pay attention and do actions instead of tweeting.\n\ncan't do actions or don't have time for that? pay someone to find and report.",
+      "timestamp": "Jun 29, 2025 · 2:03 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1939323933271916899#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1939323674038845650#m",
+      "content": "another one, @TheSWARM_ai\n\ndevs of $SWARM staked 15% of the supply and farming points from the following wallet:\n0xdd138d21fcf2a0d04ccfa273dfa9ed8f7c09a637\n\n150mil $SWARM == $2mil ($300k if you decide to sell)\nthey get around 700k points daily and pledging them to almost every launch.\n\nhow much received?\n627k $WACH == $4k | holds\n5mil $DARE == $3.7k | holds\n1.5mil $LEGEND == $1.4k | still holds\n468k $IRIS == $5k | staked\n661k $AXR == $21.7k | staked\n1.9mil $BIOS == $13k | staked\n798k $ARBUS == $4k | staked\n483k $SOLACE == $2.5k | staked\nand many more..\n\ntotal staked == $50k worth of agents (except $SWARM)\n+ holds $9k worth\n+ sold around $5.5k worth of different agents ( $AXR, $TRIVI, $PUFF etc)\n\n-----------\nI'M NOT BLAMING ANYONE.\nBUT @virtuals_io TEAM SHOULD FIX THIS. \n\nAT LEAST THEY HAVE BEEN SPAMMING THIS \"DEVS CAN'T FARM POINTS WITH DEV TOKENS\", SO GO AND BAN/LIMIT THEM OR SOMETHING.\n-----------\nP.P.S I'm just showing you how this whole mechanism is broken. I don't really care about anyone farming points, they can and they should do this, it's PVP market. I'm just tired to see this bull-shit in my timeline. it was obvious from the very beginning, but nobody cares (gm @everythingempt0). all they can do is to tweet \"devs pls don't do this or that\".\n\nat your service, tD.",
+      "timestamp": "Jun 29, 2025 · 2:02 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1939323674038845650#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1939318372518203548#m",
+      "content": "do you think it's ok when devs of some project stake their tokens and farm 700k-1mil @virtuals_io points daily?",
+      "timestamp": "Jun 29, 2025 · 1:41 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1939318372518203548#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1939246566013034895#m",
+      "content": "There was a wave of FUD about Vader farming points by staking their own token. \nWhat I do here is trying to show how broken the whole system is. \nVirtuals is telling us devs can’t farm points by staking their own token, but as we can see they can. \n\nNot trying to FUD or something",
+      "timestamp": "Jun 29, 2025 · 8:56 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1939246566013034895#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1939222921588727924#m",
+      "content": "gmgm.\n\nsince all the drama about @VaderResearch staking their supply and farming points, let's fukin expose all the shit-show other devs are doing. \n\nwant a drama? you get it.\n\nstarting with 🥁🥁🥁. . . @BasisOS aka $BIOS \n\nas per tokenomics, 4% (40mil $BIOS) were allocated for \"Developer\"\n\nand here's the wallet that received these tokens:\n0xF27cAf44644a4c774CDB2e6acC786c6B0fCB8dB2\n\nguess what they did with them? correct! STAKED\n\nas per @everythingempt0, devs shouldn't get any points for staking their own token. but what happens?\n to clarify, this wallet only stakes $BIOS, nothing else\n\nthey participated in the following genesis:\n1. 234k points -> 872k $NAINCY -> sold day-0/4 for $4.9k\n2. 113k points  -> 937k $MAGNUS -> sold day-0 for $3.5k\n3. 863k points -> 252 $IRIS -> still holds, currently valued at $2.6k\n4. 1mil points -> 1.66mil $STRATOS -> still holds, currently valued at $1.2k\n\nthe funniest part? they even sold 630k $BIOS for $13k. month after launch\n\nshit is about to hit the fan if you guys wanted drama.",
+      "timestamp": "Jun 29, 2025 · 7:22 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1939222921588727924#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1938994073508966538#m",
+      "content": "feeling fun today.\n\nfeel free to DM me if you need any on-chain help.",
+      "timestamp": "Jun 28, 2025 · 4:13 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1938994073508966538#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1938989848515244473#m",
+      "content": "this space and yap farmers are cooked.\n\nposted some guide for people, got quoted multiple times where people just rephrased my thread with chatgpt.\n\nmfers, go make your own content and stop doing this bull-shit lmao.",
+      "timestamp": "Jun 28, 2025 · 3:56 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1938989848515244473#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1938926968382390531#m",
+      "content": "cc @CreatorBid do you guys have any bug bounty btw? just in case, lol",
+      "timestamp": "Jun 28, 2025 · 11:46 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1938926968382390531#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1938926784721953071#m",
+      "content": "some \"alpha\" on more detailed @CreatorBid stats for your profile.\n\nyou can fetch your score from the following API interface:\ncreator.bid/api/scores/{auth_id}\n\nto get auth_id, simply open \"Network\" tab in the browser console, reload the dashboard CB page and find following request:\n\"creator.bid/api/auth\"\n\nand here are the results we get.\nas you can see, there are \"max\" limits for each category:\n1. bid staked == 500k max (with 5k staked $BID I get 2907 \"points\")\n2. buy volume == 150k max\n3. staked agents == 200k max\n4. social score == 150k max",
+      "timestamp": "Jun 28, 2025 · 11:45 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1938926784721953071#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1938896473577648561#m",
+      "content": "just realized I'm on level 3 with 5k $BID staked. xd",
+      "timestamp": "Jun 28, 2025 · 9:45 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1938896473577648561#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1938895579456675911#m",
+      "content": "how much $BID do I need to stake to get to LVL 4/5?",
+      "timestamp": "Jun 28, 2025 · 9:41 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1938895579456675911#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1938853024920752299#m",
+      "content": "people are blaming @VaderResearch for \"exploiting\" the system.\n\nI've been following their wallets since the beginning, saw all of that and even had a chat with VADER.\n\ncan't blame VADER, since @virtuals_io literally copied their idea, not sure if there were any deals behind the scenes, but that's the fact.\n\nthere are tons of devs who manipulate/speculate and game this shit, but you came to blame the one who created it.\n\nif you want drama - go find @cryptoboys27's wallets and see their farming strategy (every wallet had tons of $AIXCB).\n\nI'm not blaming anyone, we all saw it's ok to farm and manipulate. matter the fact, I support these people who're trying to game LOL.\n\nsimple formula of GREED and FOMO. don't blame the people, blame the game.",
+      "timestamp": "Jun 28, 2025 · 6:52 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1938853024920752299#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1937870596756406746#m",
+      "content": "@virtuals_io points valuation dumped from $0.03/point to $0.001\n\ninflation and lack of solid launches hits hard",
+      "timestamp": "Jun 25, 2025 · 1:48 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1937870596756406746#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1936082287398945002#m",
+      "content": "being honest, it's perfect timing for @CreatorBid to on-board degens and trenchers.\n\nchart is pumping, all they need now is to make FOMO by launching 2-3 sky-rocketing agents.\n\nadvice for @virtuals_io: focus on onboarding prototype agents, get pvp and trenchers back.",
+      "timestamp": "Jun 20, 2025 · 3:22 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1936082287398945002#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1936053042169741806#m",
+      "content": "just go to \"inspect\", edit your amount and go blow the X timeline with your gains.\n\nthat easy lmao\n\nlocalhost:8080/tD_0101/status/1936046…",
+      "timestamp": "Jun 20, 2025 · 1:26 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1936053042169741806#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1936046894674743805#m",
+      "content": "will share the method to earn that much later. stay tuned",
+      "timestamp": "Jun 20, 2025 · 1:02 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1936046894674743805#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1936046622472831278#m",
+      "content": "but who am I to not to flex my @virtuals_io points?\n\ninflation hits different",
+      "timestamp": "Jun 20, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1936046622472831278#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1935366501483057347#m",
+      "content": "At this point I believe any @virtuals_io agent (OG/genesis) earns same amount of points for you. \n\nComment your math",
+      "timestamp": "Jun 18, 2025 · 3:58 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1935366501483057347#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1935355047183008044#m",
+      "content": "it was just a beginning kek.\npretty expected tbh.\n\nwhat's happened is simple price discovery, nothing criminal or fatal.\n\n@virtuals_io built ponzi and made people FOMO and farm points by staking their ports. \n\nit was genius move tbh. well played.",
+      "timestamp": "Jun 18, 2025 · 3:12 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1935355047183008044#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1934978003697541629#m",
+      "content": "some people are speculating on $POINTS launch by @VaderResearch team.\n\nthose same people used their own wallet to launch this genesis.\n\nthis space is weird",
+      "timestamp": "Jun 17, 2025 · 2:14 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1934978003697541629#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1933244801115177327#m",
+      "content": "and that's just a beginning I'm afriad.\nimagine charts after people unstake.\n\nwhat if overal market nukes?\n\nseems like house of cards is starting to fall",
+      "timestamp": "Jun 12, 2025 · 7:27 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1933244801115177327#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1933244298230968324#m",
+      "content": "today we saw \"rekt szn\" on @virtuals_io \nmost people fixed their genesis positions and went to the jeet jail after $IRIS\n\nover 25 agents made > -25% within a few hours.\n\nand only 2 have positive % change for past 24 hrs:\n\ndevs gotta learn to make people HOLD their token.",
+      "timestamp": "Jun 12, 2025 · 7:25 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1933244298230968324#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1933166375079403536#m",
+      "content": "7 days since I created this test wallet.\ninitial port: $1,600\n>$1,100 were spent to buy&stake OG agents.\nthe rest were used to trade on day-0 and hold $SIYA that dumped from $4mil mcap to $2.8mil ($3mil now).\n\nwhat I got left: \n$300 worth of $VIRTUAL on my wallet.\n$1,700 worth of agents in staking\n\ntoday I pledged all my points into $IRIS sale, that got me $700 worth of $IRIS\n\nin other words, within 1 week I managed to cover half of the amount I \"deposited\". not a bad ROI I would say, considering some of these OG agents pumped ($ETHY).\n\ndon't buy them, the only criteria were \"Level 3 agent\" with low market cap.\n\nlocalhost:8080/tD_0101/status/1930944…",
+      "timestamp": "Jun 12, 2025 · 2:15 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1933166375079403536#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1933045649768882654#m",
+      "content": "Tons of notifs where people mention me as dev of fake $IRIS agent. \nTo clarify: I have nothing to do with it.",
+      "timestamp": "Jun 12, 2025 · 6:16 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1933045649768882654#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1931655949376180595#m",
+      "content": "remember that test wallet? I've not been doing any activity on it anymore, but every day received /2 points",
+      "timestamp": "Jun 8, 2025 · 10:14 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1931655949376180595#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1931078593813291415#m",
+      "content": "Created new launches monitor for @TheArenaApp\nsome basic info like dev X + followers count.\nnot sure if anyone would need it, but maybe it would help you with trenching on AVAX.\n\nlmk if you need anything else\n\nLINK:\nt.me/arena_monitor",
+      "timestamp": "Jun 6, 2025 · 7:59 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1931078593813291415#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1931067776698851666#m",
+      "content": "Other people are farming points. \nI’m spending shit ton of funds to stake random agents and burning fees for volume to get pennies. \n\nIt’s over",
+      "timestamp": "Jun 6, 2025 · 7:16 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1931067776698851666#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1931012038903406760#m",
+      "content": "staked agents (random OG ones with low mcap)",
+      "timestamp": "Jun 6, 2025 · 3:35 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1931012038903406760#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1930944303758491934#m",
+      "content": "new wallet\n>$1k staked in OG agents\n>8k $VIRTUAL volume.\n\nsaw some people making 100k+ points with same config daily. completely random",
+      "timestamp": "Jun 6, 2025 · 11:06 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1930944303758491934#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1930737014497808518#m",
+      "content": "some juicy dip on $AIVAX by @ghost93_x \n\nstill holding my full pre-sale & airdrop allocations, bought more after launch and thinking to DCA.\n\nI heard there will be some utility. \nAnyway, one of the fundamental tokens to establish and diversify myself on Avalanche.",
+      "timestamp": "Jun 5, 2025 · 9:22 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1930737014497808518#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1930718716880154892#m",
+      "content": "this recent @virtuals_io  UI update doesn't open agent page from \"Sentient Agent\" tab. so annoying\n\ncc @virtuals_intern @ethermage devs do something. wallet for bug bounty: rugtures.base.eth",
+      "timestamp": "Jun 5, 2025 · 8:09 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1930718716880154892#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1930718133284667819#m",
+      "content": "if you believe in bull market, @virtuals_io is your leverage with a few ways to farm.\n\n1. stake $VIRTUAL for 2 years. \n1 $VIRTUAL == 3 points per day\n1 point == $0.02\n\n10k $VIRTUAL == $17k == 30k points daily == $600 daily.\n30 days to cover your initial port ++ you'll have $VIRTUAL locked for 2 years (free size).\n\n2. buy the dip on agents.\nif you believe in bull and AI -- that's the easiest play. invest in those you believe, stake and farm points.\n\nwith ACP coming it could be interesting, with potential listings of agents on CEXs + more exposure.",
+      "timestamp": "Jun 5, 2025 · 8:07 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1930718133284667819#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1930708105530347715#m",
+      "content": "two rich americans are nuking my port.\nit's over",
+      "timestamp": "Jun 5, 2025 · 7:27 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1930708105530347715#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1930584226224542129#m",
+      "content": "keep trying to game the randint(0,100000) algorithm",
+      "timestamp": "Jun 5, 2025 · 11:15 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1930584226224542129#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1930583996221509926#m",
+      "content": "another fun thing.\n2 exact same wallets, with exact same activity I mentioned earlier. with no activity they were getting 67-70 DAB points.\n\neach of them bought 66 $VIRTUAL worth of $VIRGEN yesterday at the same time.\n\nwallet1: got 512 DAB pts.\n\nwallet2: got 70 DAB pts",
+      "timestamp": "Jun 5, 2025 · 11:14 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1930583996221509926#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1929985928438673852#m",
+      "content": "most devs who launched on @virtuals_io genesis need to build something to make people hold their agent, otherwise we'll see rug-rally prior to unlocks.\n\nthey'll need to learn how to fly by themselves, without \"green lock\" support",
+      "timestamp": "Jun 3, 2025 · 7:37 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1929985928438673852#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1929984954165015023#m",
+      "content": "that's fukin hilarious. \n$94mil mcap $TIBBIR have same volume as $2mil mcap $OLYN & $IONA\n\nshould I mention $AIDOG who are still farming?\nrip",
+      "timestamp": "Jun 3, 2025 · 7:34 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1929984954165015023#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1929984191804125406#m",
+      "content": "@ethermage I guess you would want to unblock @Convobyvirtuals X account lol. or at least change the handle on virtuals",
+      "timestamp": "Jun 3, 2025 · 7:31 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1929984191804125406#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1929983448447627610#m",
+      "content": "$900k volume on abandoned $2mil mcap agents created by @virtuals_io.\n\nnothing suspicious I guess",
+      "timestamp": "Jun 3, 2025 · 7:28 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1929983448447627610#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1929983193148502152#m",
+      "content": "someone farming volume & points hard on agents created by @virtuals_io team:\n$GAME, $CONVO, $OLYN, $IONA\n\nhere's the example of $OLYN trades:\n\nthat's fun, right? considering most of these wallets are bots and funded from different CEXs 4-5 months ago :D",
+      "timestamp": "Jun 3, 2025 · 7:27 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1929983193148502152#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1929966856854536460#m",
+      "content": "some @virtuals_io genesis unlocks are coming.\nexpecting some drama, hehe.",
+      "timestamp": "Jun 3, 2025 · 6:22 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1929966856854536460#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1929918864780828735#m",
+      "content": "block-0 sniper got 3.9% of the total supply of $ASYNC and dumping hard on retail.\nbe careful",
+      "timestamp": "Jun 3, 2025 · 3:11 PM UTC",
+      "url": "https://twitter.com/tD_0101/status/1929918864780828735#m",
+      "author": "tD_0101"
+    },
+    {
+      "id": "1929773338932498704#m",
+      "content": "people are comparing $BID and $VIRTUAL as they're competitors.\n\nthey're in the different leagues. at least by FDV/marketcap.\n\n$VIRTUAL = $1.9bil FDV, $1.26bil mcap\n$BID = $57mil FDV, $15.2mil mcap\n\nx33 difference. same niche but different leagues. that's it.",
+      "timestamp": "Jun 3, 2025 · 5:33 AM UTC",
+      "url": "https://twitter.com/tD_0101/status/1929773338932498704#m",
+      "author": "tD_0101"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-20T23:46:28.844Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 25034,
+    "cursorTrail": [
+      "DAAHCgABG3vdwT8__-0LAAIAAAATMTk3NzM0MDYwMDk4MzYyMTc1OAgAAwAAAAIAAA",
+      "DAAHCgABG3vdwT8__9kLAAIAAAATMTk3MzMwODIyODQ4MzI5MzU4OQgAAwAAAAIAAA",
+      "DAAHCgABG3vdwT8__8ULAAIAAAATMTk1OTIwNjUwODYyMjk3NTA5MQgAAwAAAAIAAA",
+      "DAAHCgABG3vdwT8__7ELAAIAAAATMTk1NzQyMTI4NTY1MjIzODQ5MggAAwAAAAIAAA",
+      "DAAHCgABG3vdwT8__50LAAIAAAATMTk1NTM3MDg5ODcyNDM2MDYxMAgAAwAAAAIAAA",
+      "DAAHCgABG3vdwT8__4kLAAIAAAATMTk1MzcwNjAzOTMzMDY2OTAzNggAAwAAAAIAAA",
+      "DAAHCgABG3vdwT8__3ULAAIAAAATMTk0NDA5NTEzNDQzNTM3NzYxMggAAwAAAAIAAA",
+      "DAAHCgABG3vdwT8__2ILAAIAAAATMTkzOTMzNzAyMzczMjU1MjA2MwgAAwAAAAIAAA",
+      "DAAHCgABG3vdwT8__08LAAIAAAATMTkzNTM2NjUwMTQ4MzA1NzM0NwgAAwAAAAIAAA",
+      "DAAHCgABG3vdwT8__zsLAAIAAAATMTkyOTk4NDE5MTgwNDEyNTQwNggAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

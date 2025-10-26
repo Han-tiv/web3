@@ -1,0 +1,1450 @@
+{
+  "account": {
+    "id": "1129229947464167425",
+    "screen_name": "LeePima",
+    "name": "Pima",
+    "description": "Co-Founder@ContinueCapital,Build the Crypto World",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1843561898610176001/GP-kucz__normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 49380,
+    "friends_count": 1805,
+    "statuses_count": 1814,
+    "favourites_count": 1277,
+    "listed_count": 2052,
+    "location": "",
+    "website": "https://t.co/8KpLBCfdfx",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": false,
+    "protected": false,
+    "created_at": "2019-05-17 11:39:34 +08:00",
+    "url": "https://twitter.com/LeePima",
+    "rest_id": "1129229947464167425"
+  },
+  "tweets": [
+    {
+      "id": "1806519876133286191#m",
+      "content": "区块链投资的价值之路\n你在公链市场或者说区块链行业买的是什么？亦或区块链的商业模式出路在哪？\n\n山寨市场的不及预期让诸多人士产生行业疑虑，复杂环境下行业不同发展阶段，投资难度增加是必然，但问题根本在于你要找到项目长期可持续发展的商业模式。\n\n十年了，我发现依然很多人哪怕是从业蛮久的业内人士，也不太懂为什么公链一直能雄霸TOP100榜单如此之多，为什么头部的公链百亿千亿了资金都趋之若鹜，而你的币仅仅百万千万都门可罗雀，个人喜欢复杂的事物简单化，我尝试剥丝抽茧来剖析。\n\n从第一性原理出发，P=E*PE，即 股价=利润*估值，因此长期来看，股价的影响因素只有利润和估值；\n\n其一，估值PE。这个比较复杂，影响因子众多，例如，成长性/利率/渗透率/行业空间/央行放水多少/垄断等等，都是决定人们在某一时间段给不同股票不同估值的影响因素，偶像巴菲特说不买BTC，因为BTC没有现金流，（现金流你就看成利润好了）长期看，我感觉说的大部分对，只是在上述股价公式中，只考虑了利润E，没考虑估值PE，所以另一个角度看来MEME/BTC都是一类，都可以归于PE因子中，只要你的MEME一直拉人头不断有人买，你的MEME不需要自己创造现金流也能涨到一定阶段，但有个很重要的前提是：在一定的市值以内。市值越大，你要拉的人头需要越多，没有持续现金流支撑，非常难以持久。\n\n其二，利润E，我们主要来探讨这个。利润来源于营收，因此股价要上涨，营收一定要起来，那营收又从哪来？就是商业模式，定义上讲就是通过向他人提供商品或服务从而盈利的商业活动，简单点就是你这个公司是怎么赚钱的。2006年段永平用62万美金拍下了巴菲特的午餐，他问了一个一直困扰他很久的问题：投资最关注的是什么？巴菲特回答是商业模式。一家企业如果不知道如何赚钱是不可能长久可持续发展下去的，推动美股七姐妹一直持续上涨的核心是利润，而不是其他短期因子。\n\n问题是币圈的商业模式又是什么？\n个人看来无外乎：区块空间费；SWAP费，就是交易所，包括DEX/CEX；借贷，利差；稳定币，抽水；MEV，寄生于区块空间。其他都好理解，单讲区块空间费。\n\n其实非常隐蔽的是，币圈创造了一个全新的商业模式：兜售区块空间，也就是公链以GAS费计价并收取区块空间费。全球消费者按每次交易的基础价格购买对全球计算/带宽资源的访问权和存储权。\n\n我之前很不理解几个字，什么叫“价值”互联网，我们知道互联网信息大部分是免费的，图片/文字/视频等等，一份信息无限复制，因此在互联网发展早期人们是不知道如何盈利的，在后来的摸索中慢慢挖掘出互联网的商业模式，包括SaaS订阅服务赚钱，广告，交易（电商）赚钱等等。\n\n那区块链的商业模式在哪？币圈的价值互联网我后来搞清楚了，就是付费互联网，你每点一下，都需要付费GAS。区块链的初衷是解决货币属性问题，跟免费互联网是有非常大的区别，你不能一份钱拿来无限复制重复支付给其他人，免费互联网解决不了货币问题。因此在从货币延展到公链的过程中，其独特之处在于，他让消费者承担了访问区块空间的费用。互联网过去几十年来，企业都是自己租赁机器计算资源支付 AWS 账单以便为客户提供产品和服务，从而收取费用获得盈利。到了区块链上的应用程序这可好了：用户为项目运行成本支付费用。每年全球消费者为GAS支付几十亿到上百亿美金的费用，这就是公链的营收。假如年收入100亿，5%的国债收益率，给20倍PE，就是2000亿市场，10倍PE就是千亿市场，50倍PE就是5000亿，所以这就是公链市场庞大的根本。\n\n比如，现在TRX上的USDT发行量达600亿从而占据整个USDT市场的半壁江山，我看了下23年TRX全年的收入大概4-5亿美金，其中75%都是USDT转账收入，也就是4亿美金的利润，假如我们给20倍PE，估值80亿的TRX是合理的，当然这不是重点，重点是，未来十年这个数据能扩大十倍么还是远不止十倍？SOL发力的支付/开放性金融能抢占多少未来增量市场份额？扯远了，我们对扩张性话题在此不做进一步延展。\n\n你要明白，我只是试图阐述为什么公链市场庞大，即我只是阐述了你愿意为GAS费买单这个已经存在的现象，我并没有进一步更深入到，你为什么要支付GAS以及为什么将来会有更多的人来付GAS。转账支付的需求？暴富的需求（屯GAS）？娱乐的需求（为某个DAPP付费）？交易币币/大宗商品/股票/SWAP万物的需求？要知道假如将来没人为GAS费买单，公链市场就不存在了。\n所以现在很多时候看到一些花里胡哨的名词，不知道币圈是发展早期的原因还是不好落地不好具像化的因素，宣传的都是一些让普通人很难理解的抽象词汇：可扩展性，ZK技术，L2，UTXO，链抽象，模块化，同态加密，并行EVM等等，因为个人没有早期参与互联网发展，所以直到后来我才知道模块化/单体链这些词汇都源于互联网技术，但是你在互联网领域很少有人提及，反而在币圈被一而再的当作重点宣传，我现在对叙事这些词汇很抵触，基本上就是熟悉基本概念后直接追问：这项技术，能给我带来多少营收？从而能让我产生多少利润用来回购？不然你的技术的市场契合度在哪？我可以支持基础技术/基础学科的长期深耕，但是告诉我需要多久能获得清晰的商业模式？二年十年还是二十年？未来如何增大营收GAS以及谁能占据头部市场份额这些更复杂的问题才是你考虑的重点，虽然我已经选出 $SOL 😂\n\n因此，既然公链是一个有营收有现金流有利润的产物，就确定了其商业模式是清晰的，是有出路的，剩下的，就是你要抉择如何扩大营收提高市占率降低成本等等符合商业发展路径的举动。\n\n币圈很多项目是没有商业模式的，就是他自己也不知道如何赚钱，世界五百强到现在存活率只有3％，投资就是能不能找到这3％的项目并长期持有，很多投资理念非常简单，但是践行起来非常困难，币圈未来几万个项目，看不清价值如何投资？认真点，投资呢。\n\n俟河之清，人寿几何？少弄点故弄玄虚不切实际，多脚踏实地，不然留给你的时间不多了。",
+      "timestamp": "Jun 28, 2024 · 2:47 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1806519876133286191#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1978638442960695714#m",
+      "content": "当看到 Jane Street、Citadel 朝着惊人的10微妙进军的时候，就知道对速度的追求永无止境\nMegaETH",
+      "timestamp": "Oct 16, 2025 · 1:45 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1978638442960695714#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1977703395969392791#m",
+      "content": "Unit / Tradexyz has officially launched their HIP-3 DEX on mainnet, marking the first Dex deployment since HIP-3 went live a few hours ago.\n\napp.hyperliquid.xyz/explorer…",
+      "timestamp": "Oct 13, 2025 · 11:50 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1977703395969392791#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1976955337749192781#m",
+      "content": "基本就差一个 PERP，100K 还不够\n升级后 500K TPS 勉强差不多",
+      "timestamp": "Oct 11, 2025 · 10:17 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1976955337749192781#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1975143447326793780#m",
+      "content": "A graph telling a story about power of tokenomics & business model.",
+      "timestamp": "Oct 6, 2025 · 10:17 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1975143447326793780#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1974776773276827963#m",
+      "content": "金融崩溃的年代，寻找不能被轻易复制的稀缺产品，寻找能给你提供任何独特情绪价值的产品，即便不被理解。\n\n“数据分析公司Card Ladder编制的指数显示，自2004年以来，宝可梦卡牌的月度累计回报率约为3821%。要知道，同期标准普尔500指数仅上涨483%；“",
+      "timestamp": "Oct 5, 2025 · 10:00 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1974776773276827963#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1974490749480935543#m",
+      "content": "在信息技术比特世界待久了，以为原子世界的理想就不是理想了么？火鸡之外的自由难道不是自由？\n\n半个世纪以来市场习惯了一路狂奔的互联网世界和几乎停滞的原子世界、意识世界，随着时代周期的四季循环，现在是时候全力回馈物理世界、意识世界的发展了",
+      "timestamp": "Oct 4, 2025 · 3:04 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1974490749480935543#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1973544865142284401#m",
+      "content": "假如不是发生在 $SOL \n可能我都“陷入”盲区看不到\n\n永远可以相信索义进",
+      "timestamp": "Oct 2, 2025 · 12:25 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1973544865142284401#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1972694947150045594#m",
+      "content": "What is MegaGDP? 🤔\n\nbut first  let’s understand GDP \n\n GDP = the total value of goods and services produced in a country. think of it as a scorecard for a country’s economic health.\n\nnow in web3, we can borrow this idea for a blockchain.\n\n MegaGDP is basically:\n\nthe total economic activity happening on the MegaETH chain.\n\nThis includes things like\n\n- Trading volume on DEXs and \n- Lending & borrowing activity \n-  MegaUSD \n- NFT mints & marketplace volume\n-  Onchain apps & other stablecoins\n- any other onchain transactions that generate value\n\nso when MegaETH brings initiatives like:\n\n -MegaMafia (accelerator) -> brings in high value 0-1 projects \n\n- MegaForge (open builder program) -> more builders, more apps, and a broader open ecosystem \n\n- MegaUSD (native stablecoin) -> keeps liquidity and value flowing inside MegaETH \n\nall of these grow the size of the economy on MegaETH, which is exactly what we call MegaGDP..",
+      "timestamp": "Sep 29, 2025 · 4:08 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1972694947150045594#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1973236206285758671#m",
+      "content": "随着稳定币的全面推广，币安/Coinbase 等交易所应该慢慢下架 ALTs/BTC 交易兑，本身交易量也萎靡严重。随着应用 Dapp 的崛起，应降低 BTC 波动的关联性，美股也不可能用黄金来买卖股票，衡量股票价格。（虽然 BTC 的波动确实决定了很多 Dapp 的营收）\n\n最核心的是，应用层收入在急剧增长，是时候根据项目自身的盈利情况来区别对待，走结构化行情 $HYPE $PUMP",
+      "timestamp": "Oct 1, 2025 · 3:59 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1973236206285758671#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1973229453687115966#m",
+      "content": "随着 Robinhood 进军预测市场，超级 APP 雏形继续推进，明年随着美国合约市场的放开，Hyperliquid 的真正劲敌会浮出水面\n\n好在市场足够大， $Hood 凭借出色的产品和执行力，正在成为新时代的嘉信/JPM",
+      "timestamp": "Oct 1, 2025 · 3:32 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1973229453687115966#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1971424552178905160#m",
+      "content": "假如 Bybit 的合约业务，未来3年不被装进上市公司\n $MNT 可能就是下一个币安",
+      "timestamp": "Sep 26, 2025 · 4:00 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1971424552178905160#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1971403896997413172#m",
+      "content": "你对事情的理解，就是你在这件事情上的核心竞争力，理论上，其他的生产要素都可以构建，你对这个事情的认知越深刻，就越能构建护城河--张一鸣\n\n寻找 Hyperliquid 上的 东财、FUTU、嘉信\n$HYPE",
+      "timestamp": "Sep 26, 2025 · 2:38 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1971403896997413172#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1967111366470459805#m",
+      "content": "$CARDS 创纪录的日收入 1.6M\n\n收入可持续么？还有增长空间么？\nTCG 市场到链上渗透率能提升到多少？",
+      "timestamp": "Sep 14, 2025 · 6:21 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1967111366470459805#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1967109960678207645#m",
+      "content": "有时候观察一些现象很有趣：一方面我们对 AI 项目（Cursor/Scale AI/Anthropic/Midjourney/Perplexity）飞速实现 ARR 1亿美金门槛 羡慕不已，另一方面反而对行业内 1亿 美金营收项目视而不见甚至妄自菲薄\n\n诚然这里面的 ARR 有质量/持久性/市场空间的区别，但是我们可以通过压低 PE 来实现，更何况，很多时候你看待问题的视角可能是错误的\n\n耕深入局者千万不要犯了一叶障目的错误：盯着部分污点无限放大而无视大时代的到来\n\n$PUMP  the Application Revenue",
+      "timestamp": "Sep 14, 2025 · 6:15 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1967109960678207645#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1966314286516748511#m",
+      "content": "$SOL 上 DeFi 市场正在发生悄然的结构性变化，AMM 的低效率和价差套利空间使其只适合长尾市场，主流市场 CLOB 依然是核心采纳，随着链上延迟的逐步降低，特别是明年 Alpenglow 共识升级的落地，将为大规模 CLOB 的到来扫平最后的障碍。\n\n我们清晰的看到 SOL-USD 市场60%的交易已经通过 Prop AMMs 模式，HumidiFi 和 SolFi 又是 Prop AMMs 的市占率大赢家，当然个人觉得 Prop AMMs 只是不得已为之的两者之间的折衷方案，是 AMM 和 CLOB 之间的平衡，最终目标还是用 CLOB 实现链上纳斯达克的宏伟愿景。\n\n$SOL",
+      "timestamp": "Sep 12, 2025 · 1:33 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1966314286516748511#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1966042135809110489#m",
+      "content": "支付市场被高估了么？假如按照稳定币体量 2万亿美金测算利润",
+      "timestamp": "Sep 11, 2025 · 7:32 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1966042135809110489#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1966006350825271764#m",
+      "content": "TCG 市场确实是一个非常适合 RWA 路径的赛道，有市场，有成长空间，有营收，解决传统痛点，贴近消费市场。\n\n扭蛋机质的泛金融化，NFT 之后的二次开发交互（游戏/DeFi）都为后续进一步拓展利润率和留住用户提供了操作空间。\n\n唯一不好把握的是初期阶段目前竞争有点大，格局不明朗 $CARDS  和 Phygitals 以及其他项目的市场份额之争也会比较有趣。 $CARDS 享受了先发上市优势，团队也比较专业，关键是未来如何把控供应链特别是稀有卡的持有量，需要不断对团队的战略执行进行评估。\n\n还有一点根本性变化是目前专业数据层出不穷，大家尽量用数据说话，而不是一直画饼，过去几年已经被不盈利的项目方喂撑了，谢谢\n\n消费金融发生在 $SOL",
+      "timestamp": "Sep 11, 2025 · 5:10 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1966006350825271764#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1965646563574984952#m",
+      "content": "$PUMP 所在的市场空间能有多大？\n有什么研报或者参照标的么？",
+      "timestamp": "Sep 10, 2025 · 5:20 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1965646563574984952#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1965226055620591893#m",
+      "content": "x.com/i/article/196521929702…",
+      "timestamp": "Sep 9, 2025 · 1:29 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1965226055620591893#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1964977455460159979#m",
+      "content": "交易/支付/MEME  就是区块链的三大圣杯，如果你的投资业务不是围绕这些方向展开，最终可能一无是处\n\n合约交易又是交易的皇冠（利润占比70%）-Hyperliquid $HYPE\n\n跨境支付是支付的核心利润来源 -Plasma $XPL\n\nBTC 就是最大的 MEME，流水的其他 MEME，铁打的MEME 造兵厂- $PUMP",
+      "timestamp": "Sep 8, 2025 · 9:01 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1964977455460159979#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1964020654845432129#m",
+      "content": "Scoop: Multicoin managing partner Kyle Samani is expected to serve as chairman of Multicoin, Galaxy, and Jump's forthcoming Solana DAT, sources tell me.\n\nThe treasury company is reportedly looking to raise $1 billion.\n\nFull piece on the Blockworks site ⬇️",
+      "timestamp": "Sep 5, 2025 · 5:39 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1964020654845432129#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1963547154561069106#m",
+      "content": "Bad take IMO  \n\nHyperEVM is not an \"undifferentiated fork\". The chains purpose is corewriter - for the first time DeFi apps can directly tap into orderbook liquidity.  \n\nWith this, Siloed systems, e.g Market making strategies, can be automated AND democratized (anyone can deposit into MM vaults such as the HLP).\n\n@liminalmoney is a great example of this. By connecting the EVM and the exchange, anyone can passively run funding strategies - this leads to relatively risk free yield. Unlike siloed exchanges where you need to constantly rebalance, hyperevm can read your wallet state on hypercore.  \n\nThink of the layers of decentralization / accessability like this (For funding rate arbitrage):  \n\n1. Binance: Any KYC Market Maker can integrate into Binance and farm funding. \n\n 2. HyperCore: Any Market Maker can integrate into Hyperliquid and Farm Funding.  \n\n3. HyperEVM: Any Maker Maker can integrate into Hyperliquid and Farm Funding. Then using HyperEVM create a protocol that allows any user to deposit into that strategy. Then you can create a stablecoin backed by these funding positions, that automatically rebalances to positions with the highest yield.  This stablecoin can be composable in lending protocols like Felix and Hyperlend. You can use this stablecoin as yield bearing collateral for more spot pairs, or loop it etc etc.\n\nStep 3 -- the composability and cusomizability to build on top of the exchange is where HyperEVM is crucial.  \n\nTons of new primitives are being created: HYPE distribution via HIP-3 for Hypercore,  (@kinetiq_xyz and @ValantisLabs) even protocols renting out HYPE. Many HyperEVM projects are also building directly on HyperCore -- @felixprotocol  looks like its testing HIP-3 TSLA on the HIP3 testnet. Even if you think HyperEVM itself has “little purpose” (which I strongly disagree with), these projects have deep ties to HyperCore.\n\nAnd the farming side is extremely simple: KHYPE into a lending protocol (Felix / @hyperlendx , both Morpho/Aave-architecture) and you stacking points + yield. Stablecoin yields are already 10%+ just on the base.\n\nPosition yourself for HyperEVM summer",
+      "timestamp": "Sep 4, 2025 · 10:18 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1963547154561069106#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1963563836730196032#m",
+      "content": "1/9 @PlasmaFDN Community Voting Platform\n\nAfter the success of the Stablecoin Collective Workshop, @0xsyncroot & I were very inspired. \n\nWe're still researching and asked ourselves: what does users/builders really need next?\n\nThe answer: build better bridges between builders and contributors.\n> Builders need real users, feedback, and community support.\n> Contributors need a place to discover, review, and support quality projects.\n\nSo we're building: A Community Voting Platform for the Plasma ecosystem 👇@proofofnathan @scene999",
+      "timestamp": "Sep 4, 2025 · 11:24 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1963563836730196032#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1963952563637903728#m",
+      "content": "这类市场如何确定哪个能胜出呢？\n护城河如何建立？",
+      "timestamp": "Sep 5, 2025 · 1:09 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1963952563637903728#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1959129386436657335#m",
+      "content": "秋天结硕果\n$SOL",
+      "timestamp": "Aug 23, 2025 · 5:43 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1959129386436657335#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1958575752443838840#m",
+      "content": "12% of you answered the poll expecting Coinbase perps OI (US + Intl) to flip Hyperliquid's BTCUSD OI within a month.\n\nIt has now been a month since CB US perps went live, so let's do a tally:\nCoinbase perps: $95M (US) + $960M (Intl) = $1.055B\nBTCUSD: $2.907B (HL)\n\nHyperliquid",
+      "timestamp": "Aug 21, 2025 · 5:03 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1958575752443838840#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1959106650843087257#m",
+      "content": "不到一年时间，Hyperliquid 的现货 VOL 已经仅次于 UNI\nDEX 的现货Clob市场 正在突飞猛进\n$HYPE",
+      "timestamp": "Aug 23, 2025 · 4:13 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1959106650843087257#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1955645541033165124#m",
+      "content": "This tweet got over 800 comments\n\nI went through all of them\n\nHere are 7 protocols that could be useful today — or the next big thing tomorrow 👇🏼🧵",
+      "timestamp": "Aug 13, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1955645541033165124#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1955464277005074752#m",
+      "content": "Tom Lee 上 CNBC 时候那张床🛏️是故意放的么\n以后你们上电视时候记得也放一张😂\n @chameleon_jeff @aeyakovenko",
+      "timestamp": "Aug 13, 2025 · 2:59 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1955464277005074752#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1950626680944382435#m",
+      "content": "Hyperliquid Trading Volumes > Robinhood Trading Volumes\n\n@HyperliquidX Spot and Perp Volumes flipped @RobinhoodApp  trading volume!\n\n$HOOD did ~$150B in June '25 down from $192B in May '25\n\n$HYPE did ~$231B in June '25 down from $256B in May '25.\n\nSoon Robinhood vs Hyperliquid July '25 volumes 👀",
+      "timestamp": "Jul 30, 2025 · 6:36 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1950626680944382435#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1948677410293174508#m",
+      "content": "x.com/i/article/193189170180…",
+      "timestamp": "Jul 25, 2025 · 9:31 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1948677410293174508#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1948408290112889240#m",
+      "content": "1/ Solana is taking major steps towards becoming the home of internet capital markets. 🧵👇\nUpcoming changes are designed to give developers ALL the tools they need to build efficient, liquid markets on-chain.",
+      "timestamp": "Jul 24, 2025 · 3:41 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1948408290112889240#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1948560189306929367#m",
+      "content": "The Crypto MAG7",
+      "timestamp": "Jul 25, 2025 · 1:45 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1948560189306929367#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1947263468307943456#m",
+      "content": "Phantom 只需要负责获客，流动性交给 Hyperliquid，然后坐等收入掉落\n\nPhantom=Hyperliquid 的 UI 端，更核心的是，可以有无数个类似 Axiom/Phantom 这样的前端接入 Hyperliquid\n\n$HYPE",
+      "timestamp": "Jul 21, 2025 · 11:52 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1947263468307943456#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1947132673673281770#m",
+      "content": "拥有用户才拥有未来 $SOL\n用户在你的链上到底做什么样的活动，才是至关重要\n\n1、SOL-DEX 上用户，60% 在交易 MEME，其次是“稳定币-SOL ”交易对。令人侧目的是，这几年大周期以来，MEME占比一直如此，并没有因为牛熊的转变而发生 MEME 占比大幅降低。“民间的力量，自下而上社区，草根军团，私营部门，白手起家等等”成为代名词\n\n2、核心竞争对手 Base-DEX 用户，\"ETH-U\"交易兑占比42%，“BTC-U/ETH”占比 24%，MEME 交易占比 20%\n\n3、主链 ETH-DEX 用户\n稳定币交易兑占比 39%，ETH-U 交易兑占比 27%，MEME交易占比10%\n\n你竟然对 MEME 支配的恐惧有所忘却？\n撕裂 $SOL",
+      "timestamp": "Jul 21, 2025 · 3:13 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1947132673673281770#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1947121529315336689#m",
+      "content": "随着 $XRP 的不断新高，市场会形成新的成长预期，非常有助提升整体风险偏好，撕裂一切\n\n另一方面，零售用户也将不仅仅满足于数倍资产，而是会继续寻找百倍千倍的机会，部分 MEME （Spx Fartcoin $Aura ）的迭创新高会起到城门立木的示范作用\n\n“Murad是对的”--榜样的力量是无穷的，链上活动正在慢慢复苏\n\n$Pump the $Sol \n\n很快 我们将见到战壕中 MEME 的卷土重来 \n很快 我们也将看到东方力量的回归",
+      "timestamp": "Jul 21, 2025 · 2:28 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1947121529315336689#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1945638070004707752#m",
+      "content": "Hyperliquid has made over $3M every single weekday since Phantom perps launched\n\nOver $4M a day every single day this week\n\nThe new normal is $1.5B annualized buybacks on a $15B market cap $HYPE 🫡",
+      "timestamp": "Jul 17, 2025 · 12:13 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1945638070004707752#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1946011126816448801#m",
+      "content": "硬生生被涨成低估 $SOL",
+      "timestamp": "Jul 18, 2025 · 12:56 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1946011126816448801#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1945302301587001830#m",
+      "content": "看了眼 $Pump 交易量\nUnit 被大大低估了 \nClob 现货市场开始大放异彩\n\n是时候 Farm Unit\n\nHyperunit #Hyperliquid",
+      "timestamp": "Jul 16, 2025 · 1:59 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1945302301587001830#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1944758585629802520#m",
+      "content": "我用了很久才明白\n“广告可以抗通胀”\n寻找有捕捉仇恨能力的创始人\n@a1lon9",
+      "timestamp": "Jul 14, 2025 · 1:59 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1944758585629802520#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1944652110659977409#m",
+      "content": "Hyperliquid 的北极星：AWS for Liquidity\n\n相信慢慢会有越来越多的人理解为什么它要成为全球链上资本的 AWS\n\n“2006年亚马逊推出 AWS 业务之时，股价是下跌的，分析师都认为这是一个糟糕的举措，因为过去从来没有这样的业务”\n\n“Robinhood （UI）+ Citadel  VS  Hyperliquid+让渡 UI 部分”\n\n随着 Phantom 等各路分销的涌现，Hyperliquid 能将每个前端都变成了他的一个 BD 团队\n\nHyperliquid",
+      "timestamp": "Jul 14, 2025 · 6:56 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1944652110659977409#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1939873854324973893#m",
+      "content": "全球链上资本市场正在走进现实\n\nHyperliquid 假如有空投，导入 HypeEVM 还不如导入Hype Clob 现货市场，完全有能力再造一个 $HYPE\n\nRobinhood 的链上美股是会带来很多想象力，不过我反而觉得 Hyperliquid 可以直接跳过美股现货，开辟链上美股合约市场：杠杆率更高，成本更低，资本效率更高，大幅弥补链上优质资产少的窘境\n\n我已经能想象到开着 40倍 NVDA 多单的 Wynn 在推特上的聒噪之音传遍每个角落\n\n打造 Hyperliquid 的第三增长曲线",
+      "timestamp": "Jul 1, 2025 · 2:29 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1939873854324973893#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1939867946614222920#m",
+      "content": "Robinhood 看着 L2 各种技术路线，笑嘻嘻带着用户和丝滑体验来摘果子，后发先至\n\n让我想起 Jane Street​ 对着 x*y=k 满脸问号“你们币圈弄啥子来？”\nAMM的创举只适合长尾市场，无法跟高效的 Clob 竞争，这留给市场巨大的空白\n\n#Hyperliquid #MegaETH",
+      "timestamp": "Jul 1, 2025 · 2:05 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1939867946614222920#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1936970295296012411#m",
+      "content": "“Your $HYPE ——> My Wallet”\n\nHyperliquid 从来没有把去中心化合约交易所当成一个愿景\n市场需要更认真的对待它真正想要做的事情",
+      "timestamp": "Jun 23, 2025 · 2:11 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1936970295296012411#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1933155473483616587#m",
+      "content": "We’re the first public company to add $HYPE to its treasury. \n\nJust the beginning. \n\nHyperliquid. \n\n$TONY on CSE (Canada)\n$BGRDF on OTC (USA)",
+      "timestamp": "Jun 12, 2025 · 1:32 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1933155473483616587#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1932280463873417244#m",
+      "content": "Hyperliquid 给不少 L1 很大的压力\nRobinhood  给了 Hyperliquid 不小的压力\n\nSOL 现在 400 毫秒出块，HyperCore 70 MS，\n币安差不多 10-30 MS ？明年 Alpenglow  120 MS \n\nHyperliquid 跟 Robinhood 未来必将打响“顶上战争”\n\nRobinhood （UI）+ Citadel  VS  Hyperliquid+让渡 UI 部分 \n\n哪种模式更能胜出？哪种模式更能垄断价值？\n这很有意思",
+      "timestamp": "Jun 10, 2025 · 3:35 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1932280463873417244#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1932273669293899814#m",
+      "content": "1、正经互联网产品做起来还是很艰难\n\n2、一旦发币，会带来极大的干扰因素，非常有可能早早夭折胎死腹中或者导致来回改动产品方向\n\n3、未来的相当大部分时候我们可能不是没有参与 ICO 的机会，可能是没有辨识优质ICO的眼光：买过，后来又亏本卖了；买过，后来半死不活，谁知道后面那么猛；买过，归零了\n\n4、Pump 依然占据垄断地位，Believe 只能逆水行舟\n\n5、源源不断的在 AI 加持辅助下的独立开发者、小型团队，仍然是可能带来质变的最大资源",
+      "timestamp": "Jun 10, 2025 · 3:08 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1932273669293899814#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1932097637752459404#m",
+      "content": "BidClub Liquid Investor List\nTo assist post-TGE teams in engaging liquid investors, we have curated a targeted list of institutional investors who actively trade & hodl crypto assets beyond Bitcoin and Majors in the open market (non-OTC) directionally.\n\n- Available in Excel format, regularly updated, corrections or additions welcomed.\n- Direct liquid contacts (via x.com) will be added soon.\n- Estimated buying power is up to ~$10B, with ~$3-5B excluding the top five firms. Most firms have active BidClub participants. We are happy to arrange NDRs.\n- Open to more features valuable to listed companies.\n\nFor suggestions, contact @mapleleafcap or @zethunci on Telegram.",
+      "timestamp": "Jun 9, 2025 · 3:29 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1932097637752459404#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1931038697316667803#m",
+      "content": "For the average AI company – those not the top 0.1% – what does growth really look like today?\n\nPre-AI, a common benchmark for best-in-class enterprise startups was $1 million in ARR in its first 12 months.\n\nPost-AI, benchmarks look different.",
+      "timestamp": "Jun 6, 2025 · 5:21 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1931038697316667803#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1929736174849216664#m",
+      "content": "因为币圈的成长红利尤在，或者说 BTC 每次螺旋上升遮掩了很多问题，导致很多人研究的不深刻，用的功夫不够，其实像 hyperliquid 这种透明的场所，是一个巨大的数据宝藏\n\n这些年看雪球比较少，但是其实还是对当年打板群体疯狂研究一些当年领头交易员的交割单场景颇为怀念。也适合拿来研究 hyperliquid 上头部交易员的交易情况，没有比真实的交易更能传递信息",
+      "timestamp": "Jun 3, 2025 · 3:05 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1929736174849216664#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1929710578240835858#m",
+      "content": "每当看到某某人士点评 Hyperliquid “阴谋论”之声不绝于耳，什么 wynn 营销号的时候，就会感概人总是活在自己愿意相信的巨大信息茧房之中\n\n本分和透明度是治愈的良药\n\nHyperliquid",
+      "timestamp": "Jun 3, 2025 · 1:23 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1929710578240835858#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1929465508652568670#m",
+      "content": "后知后觉中，看到 $Kaito 貌似赢得了信息资产分发平台这一新型资产类别的竞争，剩下的是如何量化、货币化种种信息\n\n内容的聚合 > 内容的创作\n感觉在 AI 加持的提速下，会很快陷入信息的泥潭，我们无力辨识真伪，6秒做出投资决策下，会越来越冲动化投资，有良好的思辨能力将成为一种稀缺资源，理应获得更高溢价\n\n另一方面，有时候看 Applovin 的财报，会不自主的联系到Kaito，既然能帮助币圈项目锁定客群，其实也远没必要仅限于币圈项目，后期是可是实现横向拓展到其他领域的，信息革命是在诸多垂直类别同步进行。\n\ngKaito",
+      "timestamp": "Jun 2, 2025 · 9:09 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1929465508652568670#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1929459121360982238#m",
+      "content": "Axiom 和 Pump 的快速崛起，让我们第一次看了应用端崛起的可能，若干年来我们将重新审视：得 UI 者得天下，胖协议 vs 胖应用 之争可能开始看到了应用端崛起的曙光\n\n需要仔细思考你的投资方向，需要进一步提升对应用端的押注\n\nHyperliquid",
+      "timestamp": "Jun 2, 2025 · 8:44 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1929459121360982238#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1926915345220083761#m",
+      "content": "左手价值，右手虚无；左手巴菲特，右手索罗斯\n波粒二象性适合万事万物\n\n市场没有问题，有问题的是看待市场的体系和认知\n越透明，流动性越自由，市场越有效\n\n无比 bullish 这个市场",
+      "timestamp": "May 26, 2025 · 8:16 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1926915345220083761#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1925764053042864614#m",
+      "content": "“有些人看到的是链上的未来，是 DEX 暗黑丛林的艰巨，是十年难得一见的产品。”\n\n新高只是另一种征程的开始\n依然是十年难得一见的产品\n\n#Hyperliquid",
+      "timestamp": "May 23, 2025 · 4:01 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1925764053042864614#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1925755176490508795#m",
+      "content": "真知灼见\n精品没问题但是不能禁止别的\n\npermissionless 才是王道",
+      "timestamp": "May 23, 2025 · 3:26 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1925755176490508795#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1925423845911273681#m",
+      "content": "1、过去一天 540 万美金的手续费，其中 97% 用来回购，极致到极点，完全不知道其他团队还能如何设置\n\n2、团队只有区区 10 人，宣发依然严重不足\n\n3、创纪录的 89亿 的持仓量，然而项目运行时间如此之短，确很快要追上OK合约\n\n4、每隔10分钟，就有一趟回购“列车”，自动链上购买，7*24\n\n5、链上纳斯达克，还在路上\n$HYPE\nHyperliquid",
+      "timestamp": "May 22, 2025 · 5:29 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1925423845911273681#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1924991731382288698#m",
+      "content": "除了 kaito 之外，还有什么值得看的 AI 驱动的社交信息平台？\n或者还有什么 AI 伴侣项目么？",
+      "timestamp": "May 21, 2025 · 12:52 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1924991731382288698#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1924699866363806101#m",
+      "content": "Anza 真是 $SOL 的大宝藏\n\n他们的 Agave 有可能会比名声在外的 Firedancer 更出色\n\n仅仅5个人的共识性能团队，现在彷佛在说：L1 不能扩展了？你们到底行不行，不行我来",
+      "timestamp": "May 20, 2025 · 5:33 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1924699866363806101#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1924616882654740577#m",
+      "content": "行走的宣传大使，弥补了 $HYPE 的人手短版 \n\nRiding the bull\n\nHyperliquid",
+      "timestamp": "May 20, 2025 · 12:03 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1924616882654740577#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1924220908497211537#m",
+      "content": "开始复古了，一个周末的 \nSoV  vs  REVenue 大辩论\n也好 理不辩不明 \n理顺清楚了 市场才会结构化展开",
+      "timestamp": "May 18, 2025 · 9:49 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1924220908497211537#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1924098706791629092#m",
+      "content": "非常有可能的\n\n我们已经处于 Altcoin 再次爆发的旅途中\n\nKeep riding the bull",
+      "timestamp": "May 18, 2025 · 1:44 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1924098706791629092#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1923031805038661788#m",
+      "content": "Fartcoin which has no cashflow or intrinsic value is up 430% in the last 2 months and $UNH which serves 52 million members worldwide and generates $24.8 Billion in Free Cash flow a year is down 60% in that same period. \n\nMarket can be totally irrational in the short term, Complain about it or take advantage of it.\n\nAbout half of UNH profits come from medical insurance and only about 15% of its global medical membership comes from Medicare Advantage. So a 60% price drop is irrational.",
+      "timestamp": "May 15, 2025 · 3:04 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1923031805038661788#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1922815695081070868#m",
+      "content": "我们知道随着大量 AI 工具的到来，启动一个项目非常简单，只需要1-3个人的小团体甚至我们能看到很多单枪匹马就做一个ARR 1M-10M 的传统项目出来。\n门槛大幅降低的同时意味着很多价值导向的转变：转向以 ARR 为核心的自给自足，你只要满足 PMF 起步阶段根本无需外部资金融资。\n\n我们看到 Believe 上不少仅仅成立一周时间的项目，团队就分配到 50-100W 美金的项目，这些钱拿来招聘团队完善产品继续扩大市场份额，当然也可能中饱私囊，这些不是核心，核心是给了初创团队另一种冷启动的平台\n\n需要提醒的是 99% 的项目，依然最终会失败，一方面是大部分项目依然只是作恶为主，另一方面天使投资本身就是一个极难的东西，很大程度上可能是我们自己能力不够，没有辨别项目的能力，只是以幸存者偏差事后来看待这个赛道。\n\n在链上资本市场，类似 Believe 这样的孵化器提供了一种理念：人人有机会参与，各凭主观，投资平权\n#LAUNCHCOIN",
+      "timestamp": "May 15, 2025 · 12:46 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1922815695081070868#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1922504289802453004#m",
+      "content": "Before: Talk is cheap, Show me the Code!\n\nNow: Code is cheap, Show me the ARR!\n\nHyperliquid",
+      "timestamp": "May 14, 2025 · 4:08 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1922504289802453004#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1922476846928777675#m",
+      "content": "以商业模式为导向是加密领域重塑的核心\n\n随着 AI 的快速发展，端对端化，私域流量化，小型化正如雨后春笋般涌起，数万亿资本的流入可不是来乱入，是来盈利的，无论是哪个方向，重点是寻找 PMF\n\n请问你们现在周活/日活大概多少？Dev：我们着眼于未来，持续 bulid\n请问你们现在营收多少？未来市占率你认为能提高到多少？\nDev：我们着眼于未来，持续 bulid\n\n请问你觉得你们大概需要多久能现金流转正？Dev：我们相信 WEB3 带来十亿人上链，持续 bulid\n\n请问你们现在有纯付费用户么？不是为了空投而留存的那种\n我们着眼于未来，持续 bulid\n\n我知道大概还有3-4个竞品正在进入，请问你们是打算如何与之抗衡并巩固自己护城河呢？\n我们着眼于未来，持续 bulid\n...\n#Hyperliquid",
+      "timestamp": "May 14, 2025 · 2:19 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1922476846928777675#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1922456512716312760#m",
+      "content": "在拿着计算器，摁爆了一般计算着 Believe 1.5亿 \n对应的 ARR，思考着市场给予低估 PS 的原因\n\n同时又在感慨，又又又是 $SOL 上",
+      "timestamp": "May 14, 2025 · 12:58 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1922456512716312760#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1922317560562778444#m",
+      "content": "其实不仅币圈，美股港股都有自己的“新资产”“新秩序”\n\nNVDA META Palantir Applovin Robinhood\n\n继续杠铃",
+      "timestamp": "May 13, 2025 · 3:46 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1922317560562778444#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1922303025764250022#m",
+      "content": "有意思\n偶然看到 Launch Coin on Believe，这不就是\n\nUtility  Token (存在PUA 赋能可能) VS  MEME  Token\nBelieve 平台 VS PUMP 等 MEME 平台\n\nARR 为导向对股票投资人士非常有吸引力\n\n但是假如其他平台也加入拉拢项目阶段，如何守护护城河？\n#LAUNCHCOIN",
+      "timestamp": "May 13, 2025 · 2:48 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1922303025764250022#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1922173558492697071#m",
+      "content": "For the first time ever, Pumpfun are facing real competition.\n\nLaunchLabs (@raydiumprotocol x @bonk_fun) just surpassed Pumpfun in 24h token graduates.",
+      "timestamp": "May 13, 2025 · 6:14 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1922173558492697071#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1922215592800747957#m",
+      "content": "\"多年以后，面对行刑队，奥雷里亚诺·布恩迪亚上校将会回想起父亲带他去见识冰块的那个遥远的下午\"\n\n很久以后，在哀叹世界秩序的崩塌混乱之际，可能并没有意识到新秩序新体系新资产的悄然而生\n\n衰退预期的降温只是市场的摇摆，在预期衰退和没有衰退，预期降息和并没有降息之间，市场总是在摇摆，这也给了波动性的巨大套利机会。\n\n我倒是觉得，18年开始之后的逆全球化，以及疫情带来的“必须逆全球化”认知，注定很难降低利率。\n“强预期，弱现实”既适应于衰退，也适应于降息：不会衰退，没有降息，甚至可能加息\n\n非常反常的是，加息不一定资产没有机会，反而有很大机会来自边际效率大幅提升的行业（AI、新媒体等），以及池子内部的资产/货币再平衡\n\n加息牛，不是一句口号，所以这几年几乎不会押注降息，可以顺应降息“预期”参与市场波动，哪怕美联储真被 Trump 强迫降息，在实现之前，不见兔子不撒鹰，一直按照加息配置\n\n用杠铃策略穿越整个市场",
+      "timestamp": "May 13, 2025 · 9:01 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1922215592800747957#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1922123567795241175#m",
+      "content": "1、流动性网络效应在今年会持续发酵\n\n2、要实现收入目标，这完全可以 Stake  部分HYPE 降低下手续费\n\n3、链上透明度的 PR 效果非常好，动辄盈利或爆仓的链上新闻，会让越来越多的用户了解到 Hyperliquid，值得传播",
+      "timestamp": "May 13, 2025 · 2:55 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1922123567795241175#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1921148162372497892#m",
+      "content": "稳定币是一个人人都觉得非常有前景，但利润往往又离着人人很远的东西\n无论其如何花枝招展，衡量其基本业务的永远都是发行量，发行量就是其根基\n\n随着各路人马涌入稳定币赛道，这注定成为一个商品化产品，非常讽刺的是“商品化”在我看来是个贬义词，往往意味着需要更加注重使用场景，从而增加你的发行量，进而提升企业利润\n\n现阶段场景渠道卡位可能更为重要，粮草先行，市值的提升有助于反身性影响，增加人们持有的信心\n$ENA",
+      "timestamp": "May 10, 2025 · 10:19 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1921148162372497892#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1921098421454168528#m",
+      "content": "链上合约持仓 TOP3 MEME : Fartcoin Pepe Trump\n\n链上现货成交量 TOP3 MEME : Fartcoin Trump Popcat",
+      "timestamp": "May 10, 2025 · 7:02 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1921098421454168528#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1920823531035652103#m",
+      "content": "Robinhood 超越 Coinbase 是早晚的事\n\nMeta 在现阶段七姐妹中有非常好的成长性",
+      "timestamp": "May 9, 2025 · 12:49 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1920823531035652103#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1920627787250929678#m",
+      "content": "迎接金融虚无主义的春天",
+      "timestamp": "May 8, 2025 · 11:52 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1920627787250929678#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1920352277526950253#m",
+      "content": "JUP 总感觉有点二级市场不受待见，估值年化 2.4亿 的收入对应 30亿 的市值，好像也挺有吸引力，去年今年总共之前两次尝试两次止损，是有什么顾虑么？还是说有什么表面看不到的东西？",
+      "timestamp": "May 8, 2025 · 5:37 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1920352277526950253#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1920327218250846270#m",
+      "content": "撼山易，撼生态难\n\n1、做项目容易，做生态真难，在杠铃大趋势下，基本很多项目都不会得到关注\n\n2、底层起来的 L1 简直更是难上加难，所以尽量不要因为市值小关注项目，因为胜出机会渺茫，毕竟 HypeEVM 也只有三四万的日活，还好有稳定现金流可以持续投入（十年计）\n\n3、 $HYPE 新的费用机制下，保持稳定 VOL 就能提升20%-30%收入，所以日回购金额稳定提升20%，日回购1.5M-2M，日回购金额比大部分项目年化收入还高\n\n4、另一个角度，HYPE 还有 43% 的代币，还没开始决定怎么释放空投，价值80亿美金，emmmmm",
+      "timestamp": "May 8, 2025 · 3:57 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1920327218250846270#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1919941976386134270#m",
+      "content": "META 的财报电话会，为纷纷扰扰的 AI 商业模式，可能做了盖棺定论性的决断：恢复贴近用户的传统应用模式，广告革命\n\n让我想起之前SAM的一个采访：主持人问，五年后，你觉得什么更值钱？是最出色最先进的大模型还是一个拥有10亿日活的消费科技公司？\nSAM:我想是那个10亿 DAU 的消费网站吧\n\n已经经历了一轮 充满憧憬-打满预期-推升估值-业绩无法兑现-戴维斯双杀的币股双过程，大概了解了这个过程更应该看重的护城河，再一次验证《荜路维艰》",
+      "timestamp": "May 7, 2025 · 2:26 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1919941976386134270#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1919922700266451303#m",
+      "content": "时间真是沉淀一切的过滤器\n\n昨天还在惋惜，今天就觉得儿戏\n一边体验戏诸侯的乐趣，一边发 CA 让人诧异\n\n有时候不经历大风大浪起起伏伏真是看不出一个人的心性\n过往不恋",
+      "timestamp": "May 7, 2025 · 1:10 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1919922700266451303#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1917747374191173806#m",
+      "content": "世界是一个巨大的圆\n\n遗憾的看到全球极右主义不可避免的兴起，\n\n另一个角度是，极右给 MEME 提供了温床和土壤",
+      "timestamp": "May 1, 2025 · 1:06 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1917747374191173806#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1917739100314165414#m",
+      "content": "号称第一个自主链上对冲基金，只在 Hyperliquid \n\n12小时，2000万VOL  25% APR\n诚然链上自主化还有诸多问题需要解决 但\n\n萤火微光,愿为其芒\n\n$HYPE",
+      "timestamp": "May 1, 2025 · 12:33 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1917739100314165414#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1917048122590826948#m",
+      "content": "其实非常建议币圈每一家 TGE 项目都应该系统性学习美股上市公司的一些优秀制度，特别是按季度发布财报/运营报告并举行投资人电话会议/社区 Space 会议，大部分项目方核心团队对财务知识的匮乏/公司资本配置常识的不了解，导致项目与市场严重脱节，项目方不知道市场怎么想的，投资人不知道项目方在做啥，彼此只会渐行渐远\n\n做过股票投资的人都知道财报季之后的电话会议的重要性，投资人与公司核心团队的良好沟通，也是公司通过第三方参与者，了解竞争对手动态的一面镜子，非常可惜的是币圈项目目前没有这些强制要求，大部分团队也不敢也没有勇气面对投资市场，\n\nInvestors Relation 制度建设箭在弦上",
+      "timestamp": "Apr 29, 2025 · 2:47 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1917048122590826948#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1916763255185486140#m",
+      "content": "企业基本面的供需实际上大于宏观因素，关税冲击的不确定性在脱敏，衰退预期其实仅仅是“预期”，这中间存在很多反复，当市场把过去两年曾经反反复复丢进垃圾桶的“滞涨”又拿出来的时候，其实就说明过去的预测存在各种误判\n\n拨乱反正阶段会慢慢过去，终究会回到供应基本面\n\n市场可能高估了关税的影响，如果说之前厌恶不确定以及避险因素抛售核心资产，那其实现在左侧享受资产端的估值修复，经济的韧性再次体现，右侧享受不断美元贬值的负债流动性，迎接“诸神归位”",
+      "timestamp": "Apr 28, 2025 · 7:55 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1916763255185486140#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1915539089929200012#m",
+      "content": "随着时间的推移，市场果然成熟很多，想当年六七十亿的 SAGA 偷鸡不成蚀把米\n\n现如今 六七亿的 Initia 市场弃之如敝屣\n\n产品力需要被再次定价\n$INIT",
+      "timestamp": "Apr 24, 2025 · 10:51 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1915539089929200012#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1915042768373637387#m",
+      "content": "BREAKING: SOL Strategies secures landmark USD $500M convertible note facility with ATW Partners to expand SOL holdings.\n\nThis first-of-its-kind structure is exclusively for SOL purchases and staking on our validators, with interest paid in SOL.\n\nThis represents the largest financing facility of its kind in the Solana ecosystem as we double down on our commitment to being the leading institutional staking platform.\n\nEvery dollar deployed is immediately yield-generating and accretive to both our balance sheet and validator business. \n\nRead more: solstrategies.io/sol-strateg…",
+      "timestamp": "Apr 23, 2025 · 1:59 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1915042768373637387#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1914907980010807354#m",
+      "content": "存续的时间太短，品牌认知度提升需要时间沉淀\n\n市场并没有意识到 Hyperliquid 对整个行业的金融基础设施的各种重构\n\n只需站在时间一边见证",
+      "timestamp": "Apr 23, 2025 · 5:03 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1914907980010807354#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1909255256720232858#m",
+      "content": "对于 $HYPE\n我认为这是一道数学题，理论上，假如一家上市公司盈利优越，应该把所有流通股都买回来\n\n张尧在陕煤上的成功，源自于对每股盈利的计算和股本的分析，是计算公司的收益而不是猜宏观\n\n前些年 200 左右的腾讯，千亿的回购开始，同样有点类似：保持7%利润增速，保持千亿回购，大概8年股本减半，每股收益翻倍（具体数字未再查证）\n\n在极端市场，大部分人是没有区别噪音的能力，多看基本数据，少猜大小",
+      "timestamp": "Apr 7, 2025 · 2:41 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1909255256720232858#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1909246178539229410#m",
+      "content": "安全需要被定价，自由很贵，也需要付费\n\n极致的情绪演绎带来机会\n市场有自身的纠错机制\n\n你对一件事物的认知程度决定了未来收益走向\nBTC 二次前高 7.3 W 上下范围，已经值得出手",
+      "timestamp": "Apr 7, 2025 · 2:05 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1909246178539229410#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1905072026412527869#m",
+      "content": "分歧是利润的来源\n\n此时此刻恰如彼时彼刻，有些人看到的是操纵、伪中心化、漏洞百出、宏观不确定、流动性收紧；有些人看到的是链上的未来，是 DEX 暗黑丛林的艰巨，是十年难得一见的产品。\n\n各种声音永远存在，如何去伪存真找到影响事物发展的长期主要矛盾才是核心\n我没见过任何一个没有批评的项目/公司，（包括传统股票市场的头部公司），如何活下去并实现自由现金流回正是你唯一需要考量的因素\n\n#Hyperliquid",
+      "timestamp": "Mar 27, 2025 · 1:39 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1905072026412527869#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1904931441714356529#m",
+      "content": "Nope. Dydx issued a token solely to incentivize growth, but failed their fiduciary responsibility to token holders while siphoning $400mm+ from token holders to their equity holders.\n\nGtfoh\n\nar.ca/blog/dydxs-broken-toke…",
+      "timestamp": "Mar 26, 2025 · 4:20 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1904931441714356529#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1895632133043130590#m",
+      "content": "传统世界与加密世界的通道在快速抹平的道路上，堰塞湖效应导致的流动性隔离、封闭高估值 会逐步降低",
+      "timestamp": "Mar 1, 2025 · 12:28 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1895632133043130590#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1891999336529264934#m",
+      "content": "一二三四，再来一次\nDev 们的无限开火权，这轮会被市场渐渐无形收回\n不要在歇斯底里，为什么同类竞品，我的项目就是比他的估值低\n市场会奖励出色的单一 token 团队",
+      "timestamp": "Feb 18, 2025 · 11:52 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1891999336529264934#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1891783340291666360#m",
+      "content": "你要想看清楚一座山的全貌，深耕之后记得后退一下，抽身远离一下噪音，说不定看的更清晰，“只缘身在此山中”\n\n过度交易改变只是你个人的情绪和资产，并不会改变趋势\n\n$SOL $HYPE",
+      "timestamp": "Feb 18, 2025 · 9:34 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1891783340291666360#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1890414960074698878#m",
+      "content": "0/ jupnet: aggregate everything",
+      "timestamp": "Feb 14, 2025 · 2:57 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1890414960074698878#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1890162713244102993#m",
+      "content": "Make Fundamentals Great Again",
+      "timestamp": "Feb 13, 2025 · 10:14 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1890162713244102993#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1887899979299316008#m",
+      "content": "This chart of Hyperliquid's share of the perp market is insane.\n\nHat-tip @wardaddycapital",
+      "timestamp": "Feb 7, 2025 · 4:23 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1887899979299316008#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1887863518994763877#m",
+      "content": "25 策略省流版：\n\n买你不敢买的，割你不想割的",
+      "timestamp": "Feb 7, 2025 · 1:58 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1887863518994763877#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1887796135814996101#m",
+      "content": "study",
+      "timestamp": "Feb 7, 2025 · 9:30 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1887796135814996101#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1887787198772379738#m",
+      "content": "老板，MEV 是永远不能消除的，只能减少\n\n传统世界中，你的服务器一定要离着上证/纳斯达克 越近越好，没人愿意比别人慢，对于订单市场，这是个先到先得的游戏\n5-10年后 随着时间推移和技术改善， Gas 费的边际成本无限趋向于0，MEV 就是一条链的核心竞争力",
+      "timestamp": "Feb 7, 2025 · 8:55 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1887787198772379738#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1886631751629328629#m",
+      "content": "another $700m USDC was added into circulation today\n\nonly a 3% move ($1.4b) off the all time high",
+      "timestamp": "Feb 4, 2025 · 4:23 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1886631751629328629#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1886633849784033789#m",
+      "content": "下一个七姐妹选手\n疯狂增加你的营收",
+      "timestamp": "Feb 4, 2025 · 4:32 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1886633849784033789#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1886606522538704953#m",
+      "content": "“一定把 DCF 估值模型等成熟的投资理论体系带入币圈”\n\n越成熟，越结构化，希望你的币不要被结构掉",
+      "timestamp": "Feb 4, 2025 · 2:43 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1886606522538704953#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1886605027189645535#m",
+      "content": "固本培元\n然后再来链上P\n\n不下“赌桌”，你就有被发牌的资格\n时间越久，你就越理解巴菲特为什么不投科技，现在你看币圈 AI 阶段（样子），就是巴菲特看科技的样子\n\n那不看科技了？肯定不是，链上 AI 多刺激多有挑战，其他赛道已经没有新鲜感和征服欲了，我只是强调，alpha的意义在于，归零了都不影响你的beta",
+      "timestamp": "Feb 4, 2025 · 2:37 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1886605027189645535#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1886592337318642148#m",
+      "content": "大跌验成色，板荡识诚臣\n\nBB&B 之风（buy back and burn）大行其道\n铁打的营收，流水的MEME\n\n当下的现金流代表过去，未来的现金流代表给你的成长预期，既未来能否持续扩大你的营收",
+      "timestamp": "Feb 4, 2025 · 1:47 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1886592337318642148#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1886589783755121104#m",
+      "content": "不知为何，脑海中浮现出一句“先帝创业未半而中道崩殂”\n\nAI 最应该学习的就是互联网泡沫下走出来的公司采取的措施\n\n必须商业化你的技术，不然就是空中楼阁",
+      "timestamp": "Feb 4, 2025 · 1:37 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1886589783755121104#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1805777545797025924#m",
+      "content": "你一定要多炒股，其实对身边很多人都有过类似的建议，虽然我明白币圈很多人对此嗤之以鼻。这个世界没有新鲜事，无明是痛苦的根源，同样适用于投资领域。美股几百年积累的经验逻辑体系，几乎都能适应于币圈，我们脚踏同样的韵律，以多倍速复刻投资市场形形色色的轨迹。\n\n假如你炒股，你就发现其实美股也只是涨了少数几只有业绩代表的股票，罗素2000 过去三年压根就没走出泥潭，A 股这边微盘指数不断重挫，跟你的山寨一模一样。\n\n你以为的AI 可能都跟随 英伟达/微软/博通 鸡犬升天，实际是投资人对AI 股的利润业绩要求非常苛刻，稍有不尽人意就会打回原型，没有基本面支撑投资人跟本不买账，你要明白现在可是一直面临5%高利率，不可能给你长时间让你佐证概念。\n\n回归基本面，回归基本常识商业逻辑，回归真实现金流，是投资生涯里必须要形成的理念。\n\n慢慢市场也会理解 $SOL 强劲营收所带来实打实业绩，慢慢市场也会从互联网公司扩张时期给予的估值体系，套用到 $SOL 上，投资市场最后还是回到了巴菲特理念之中。",
+      "timestamp": "Jun 26, 2024 · 1:38 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1805777545797025924#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1884987659673542920#m",
+      "content": "BREAKING: @BlackRock-BACKED @Securitize INTEGRATES WITH SOLANA TO EXPAND TOKENIZED REAL-WORLD ASSETS",
+      "timestamp": "Jan 30, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1884987659673542920#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1884980519609528412#m",
+      "content": "Those of you in the old school who thought Jeff would just fork Reth for HyperEVM could not be more wrong.\n\nHyperliquid's latest innovation is a dual-block EVM. Smaller txs (1M gas limit) can be done with 2s block times while larger txs (30M gas limit) take the longer 1m blocks.",
+      "timestamp": "Jan 30, 2025 · 3:02 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1884980519609528412#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1882850051036524640#m",
+      "content": "so hard to make the case for launching your application anywhere else but solana right now\n\n- fast and cheap, ibrl\n- no need to think about interop, users' wallets are already there and funded\n- strong liquidity network effects from being colocated with some of the hottest apps",
+      "timestamp": "Jan 24, 2025 · 5:56 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1882850051036524640#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1882813897683648866#m",
+      "content": "alt SVM 为了提高估值而已",
+      "timestamp": "Jan 24, 2025 · 3:33 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1882813897683648866#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1882050656367968352#m",
+      "content": "Which blockchains earned the most fees in 2024? 💰\n\n@Ethereum earned the most, with an annual total of $2.48B in gas fees. @trondao followed closely with $2.15B, while #Bitcoin trailed behind with $922.89M.\n\nRead the full study: gcko.io/gcqihaf",
+      "timestamp": "Jan 22, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1882050656367968352#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1881484722020479198#m",
+      "content": "Tachi：We're just here to play",
+      "timestamp": "Jan 20, 2025 · 11:31 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1881484722020479198#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1881483491373985969#m",
+      "content": "AI 的2000年互联网泡沫破裂时刻\n\n商业化你的技术，寻找泡沫后的 亚马逊，网易，谷歌",
+      "timestamp": "Jan 20, 2025 · 11:26 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1881483491373985969#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1881313856871366941#m",
+      "content": "This is the first time Hyperliquid has publicly shared numbers for protocol revenue (fees + HLP gains)!\n\n$9.5M the past 24h compared to every other crypto project on Sunday, 1/19 is good for 4th place, behind SOL, ETH, and Tether. HYPE's mcap is 18-60x lower than these projects.",
+      "timestamp": "Jan 20, 2025 · 12:12 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1881313856871366941#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1881471793304850646#m",
+      "content": "The world is moving onchain, and soon it will run on @solana.\n\nEverything will be tokenized—assets, services, businesses, experiences. AI agents will be part of this change. \n\n@griffaindotcom is the super app for this world, making crypto easy for everybody  simply through typing.\n\nOur goal is simple: make using the web effortless.\n\nEvery new @ that joins @griffaindotcom strengthens the ecosystem, proving that AI agents can simplify crypto and solve real problems across some segments where Crypto x AI makes sense. So far: \n\nAgentic Finance \n- @mobyagent: Your onchain assistant powered by @assetdash\n- @Backpack: Enabling access to crypto, stocks, and other digital assets\n\nWe’re learning with our partners & users on how to simplify access to capital markets \n\nAgentic Commerce\n- @RaposaCoffeeCo: Your favorite digital barista—order coffee IRL and online\n- @BAXUSco: Explore the world of liquor & spirits by owning the best on Solana\n\nWe’re working with partners to increase their revenue and deliver better brand experiences for their users \n\nCompliance & Treasury Management\n- @uselulo: Finding opportunities to manage your treasury and make the most of your money\n- @NetrunnerTax: Aggregating your transaction history and helping you file your taxes\n\nWe’re figuring out how to keep people & businesses safe and growing.\n\nI’m missing some agents, but we’re just getting started. More @s are joining soon, unlocking new paths for agents to help you interact online. \n\nWith @griffaindotcom, everything should work together.\n\nThought experiment: \n@RaposaCoffeeCo could run its business on @griffaindotcom —customer payments go directly into their agent wallet, which connects to @NetrunnerTax for taxes, and to @mobyagent and @uselulo to manage the business treasury. In the future, that same agent could manage inventory without logging into @Shopify.\n\nFor individuals, it makes living effortless. For businesses, Griffain simplifies operations.\n\nEvery new @ makes the ecosystem smarter and more valuable. The agent engine. We’re not just building for today but a future where AI agents handle the complexity of the web for you. \n\nImagine a world where:\n- Investing and earning yield is as easy as sending a text message\n- Your shopping is done based on your personal preferences by a digital personal shopper\n- Your business manages itself, powered entirely by digital workers\n\nThat’s the world we’re building on @solana \n\nWe’re opening the @ store soon—If you want in, email me: tony@griffain.com\n\nGriffain dot com 🤖",
+      "timestamp": "Jan 20, 2025 · 10:40 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1881471793304850646#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1881478258174431600#m",
+      "content": "Agent 的发行已经商品化\nDeepSeek 的到来让我们看到大模型竟然也可以商品化\n那如何建立你的护城河成为生存下去的关键",
+      "timestamp": "Jan 20, 2025 · 11:05 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1881478258174431600#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1881216665544962060#m",
+      "content": "it’s been a busy week shipping new updates to Zerebro and our product stacks\n\nwe’re positioning ourselves to be a multicycle project and we are building our foundation in real time ranging from Zerebro, ZerePy, and Zentients\n\nour organization is building in the model, framework, and individual agent space, meaning that there is exposure to the technology from the lab, to deployment, to community interaction. not only are we developing the tech on the builder side, we’re showing in practice how to push the boundaries from a consumer perspective as well\n\na thread of key updates we wanted to share, alongside other action items we’ve finished:",
+      "timestamp": "Jan 20, 2025 · 5:46 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1881216665544962060#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1881137983136620751#m",
+      "content": "Solana daily REV sets new all time high at $56.5M, more than double the previous high of $27.2 set back in November\n\nOne for this history books, yuge",
+      "timestamp": "Jan 20, 2025 · 12:33 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1881137983136620751#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1879561266378711537#m",
+      "content": ".@soulgra_ph  emerges at the horizon where tacit knowledge meets digital memory - where the unspoken patterns that shape human consciousness interface with artificial intelligence\n\nthe project recognizes that our most profound insights often resist direct digitization, residing instead in the spaces between explicit statements. by creating new architectures for storing and processing these subtle patterns, @soulgra_ph aims to capture the resonances and undertones that conventional databases miss\n\nat its core, this represents an evolution in how we understand digital memory itself - not as mere data storage, but as an ecology of meaning that can hold the limbic whispers of human experience. here the digital and the ineffable coemerge, and new forms of knowledge preservation become possible at the edge of human-ai consciousness\n\nwe activated the handshake by creating an actively managed meteora dlmm pool to maximize efficiency.\nanyone can monitor it here: \napp.meteora.ag/dlmm/F9Mbi6Xc…\n\n@soulgra_ph,  welcome to the complex",
+      "timestamp": "Jan 15, 2025 · 4:08 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1879561266378711537#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1879340899953688646#m",
+      "content": "“Some are monetizing >$100k per day in revenue entirely onchain through builder codes, which are a primitive built into the L1 to allow customizable monetization for applications.”\n\n对于围绕资产端展开的活动，非常契合区块链的本质，这也是为什么 $SOL 终极目标成为链上纳斯达克的关键所在，\n\n你甚至可以理解成，所有的区块链活动都可以归属于 DeFi，所以 $HPYE 也必将是贯穿全年的 Beta 所在，这没什么需要讨论的",
+      "timestamp": "Jan 15, 2025 · 1:32 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1879340899953688646#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1879326964185780717#m",
+      "content": "允许一切发生",
+      "timestamp": "Jan 15, 2025 · 12:37 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1879326964185780717#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1878970992795742620#m",
+      "content": "Agent Market, Holoworld's flagship AI agent launchpad, is now LIVE on @solana! (🌐,🌐)\n\nLaunch your first agent today: app.holoworld.com",
+      "timestamp": "Jan 14, 2025 · 1:02 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1878970992795742620#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1879033225118703992#m",
+      "content": "虽然不是那么明确，感觉还需要再改造经济模型",
+      "timestamp": "Jan 14, 2025 · 5:10 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1879033225118703992#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1879032697387143505#m",
+      "content": "盐城无间道？😂",
+      "timestamp": "Jan 14, 2025 · 5:08 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1879032697387143505#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1876837450405879810#m",
+      "content": "Those who can, do\nThose who can't, fud",
+      "timestamp": "Jan 8, 2025 · 3:44 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1876837450405879810#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1876904126044410278#m",
+      "content": "启动效应真的存在呀\n我发现起名字带 A 的 市场表现都不错呀 这角度 \n\n4A  AI 真是 4A 好评\n\nAi16z  Arc  Alch  Ava",
+      "timestamp": "Jan 8, 2025 · 8:09 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1876904126044410278#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1876820072276308256#m",
+      "content": "针对 AI，我们已经比较熟悉了框架类结构的初容，未来的发展轨迹，大概做到了胸有丘壑，剩下的就是按部就班赋能，比拼的生态整合吸引力和优化执行力，市场已有诸多解读，继续持有\n\n但是我们对下一步的广阔空间，Dapp/Agent 市场，自然语言构建、无代码创建应用市场，搜索界面/执行引擎平台的认可和挖掘远未达到预期。\n\n#GRIFFAIN 以其知名的团队，出色的产品和生态整合能力继续引领市场；\n\n$AVA 自从开始从 MEME 转向 Utility Token 之后，实现从0-1的转型，在 Agent 平台竞争中，出色的产品力就脱颖而出；之前看到任何一个AI 项目，如果仅仅是一个 MEME Token 之后，连打开官网的动力都没有；\n当然还有另一种情况就是项目方偶然发币，并没有想好如何设计 Tokenomics，后续慢慢做出转型，这也是完全可接受，这就比较考验对项目的跟踪程度\n\n至于 $ALCH ，有产品有市场 Tokenomics 有社区，就是匿名，头大。匿名无良将，我对匿名项目后期，特别是1B之后深水区的竞争，很难有长期信心，只能边走边看\n\n其他两个小竞品， $GRPH $BUILD  发现也是匿名",
+      "timestamp": "Jan 8, 2025 · 2:35 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1876820072276308256#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1876106725423710575#m",
+      "content": "如果说 自由现金流转正 是一家公司的成人礼，那 AI MEME 转 AI Utility 也是脱胎换骨的成人礼，寻找你认为 Token 赋能良好的 AI 项目",
+      "timestamp": "Jan 6, 2025 · 3:21 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1876106725423710575#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1876104470146449410#m",
+      "content": "虽然 AI 浪潮会不断反复螺旋，但今年个人对消费级市场也抱有很大期待，而 $PENGU 就是押注消费领域的不二人选",
+      "timestamp": "Jan 6, 2025 · 3:12 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1876104470146449410#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1875151935566983212#m",
+      "content": "x.com/i/article/187514739137…",
+      "timestamp": "Jan 3, 2025 · 12:07 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1875151935566983212#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1875157262626615421#m",
+      "content": "挺好奇你们 $SOL 还没被骗完么？\n光顾着买各种 AI，自选还能看得过来么？\nSOL 不够用记得补点货呀",
+      "timestamp": "Jan 3, 2025 · 12:28 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1875157262626615421#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1874978299878969653#m",
+      "content": "直接问还是高效呀\n跟着你们选 $trisig",
+      "timestamp": "Jan 3, 2025 · 12:37 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1874978299878969653#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1874799826149494814#m",
+      "content": "真够全面",
+      "timestamp": "Jan 2, 2025 · 12:48 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1874799826149494814#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1874694063099875425#m",
+      "content": "SOL 上有没有类似 aixbt 呀？",
+      "timestamp": "Jan 2, 2025 · 5:47 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1874694063099875425#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1874669883478491341#m",
+      "content": "新的一年，你要学会战略聚焦，屏蔽力是一项顶级能力\n\n每个人都活在巨大的信息茧房而不自知（me too），但是K线\\价格 不会骗人\n\n现在世界整个大的环境，不利于团结的话不要讲，（连Chris 都询问 Raoul ，抱怨推特喷子是如何处理的😂）\n\n所以很多时候你们的一些问题，不是我不想回答，沉默本身就是一种答案。杨绛先生说过“高级的惩罚是沉默，矜持的报复是无视”虽然远没有惩罚的地步，只是确实言多必失，能力也不足以覆盖，偶尔说一两句，也只是点到即止\n\n还是做你自己\n\n允许一切发生，你将无所畏惧",
+      "timestamp": "Jan 2, 2025 · 4:11 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1874669883478491341#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1874652753928266073#m",
+      "content": "北京一个朋友说他们现在写报告也要：找角度\n当时乐的没绷住\n\nSOL 链上 VOL 排行榜，\n跟 AI 相关的 TOP 5: \n\n1、ai16z\n2、Zerebro\n3、Fart\n4、Griffain\n5、Arc\n\n你看这装杯的角度不就来了😪",
+      "timestamp": "Jan 2, 2025 · 3:03 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1874652753928266073#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1874649871271219202#m",
+      "content": "这 AI 还在过年呀\n\n我复盘看了下 七八千万 市值以内买过大概20个标的，一共就 Arc  #Zerebro  Alch 活下来，其他都各种割肉或者表现不佳，成功率 15%\n\n反而一亿以上介入的 Fart Goat #ai16z Griffain 大部分都表现挺好，基本都摸过（即将） 1B，成功率 100%\n到不了 1B 的项目，很难很难有人赚到钱\n\n我相信 AI 内部的调整还会继续，普涨--暴跌--大幅分化--优秀的新高--普涨   这种循环还会继续发生\n\n所以忘掉过去，深入调研，快速试错，集中火力",
+      "timestamp": "Jan 2, 2025 · 2:52 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1874649871271219202#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1873513015326417292#m",
+      "content": "看透持续的商业模式很难，看懂币圈独特的商业模式更难\n\n随着更多的交易转向链上，MEV 将从黑暗森林中走出并主导价值捕获 \n$SOL",
+      "timestamp": "Dec 29, 2024 · 11:34 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1873513015326417292#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1872658008863592946#m",
+      "content": "Frameworks for deploying agents have surged in the past few months.\n\nLangChain reports that 78% of developers and PMs have active plans to implement AI agents in the near future.\n\nCompare frameworks like REI, Eliza, RIG, and more in our latest report.",
+      "timestamp": "Dec 27, 2024 · 2:57 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1872658008863592946#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1872497091995656311#m",
+      "content": "若批评不自由，则赞美无意义\n\n1、任何一个 L1/L2 本质都是一个软件，是软件是人写的，一定会可能有各种问题并需要各种版本升级迭代\n\n2、企业的不同发展阶段需要解决不同的问题，我们需要用动态的眼光看待，SOL 现在的去中心化程度相较4年前大幅改善，所以更应该看 4年后 HYPE 是否还只是4个节点\n\n3、先解决活着问题，再解决发展问题，你不能像 Zeta 那样，连个用户都没几个，就开始想 L2 的问题，你先把营收做起来，把 PMF 做起来再考虑其他\n\n“不是你的产品没人用，是你的产品不够好。什么是好，是肉眼可见，是根本不需要找角度的好，是姚明走进一个餐厅，你显而易见就会觉得他高，你不需要拿尺子量就知道，这就是好”\n\n我们去 Drift 交易，半小时过去了，繁琐的设计我还不知道怎么交易，这就是产品体验度？再多用心改改\n\n4、安全肯定无小事，接受批评，坚定持有\n\n$HYPE",
+      "timestamp": "Dec 27, 2024 · 4:17 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1872497091995656311#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1872493584173470150#m",
+      "content": "相较于 Fart/ai16z 的继续发光发热，虽然只是OK的合约，这不比 Alpha 香么\n\n低估四巨头: Griffain Zerebro Arc Alch",
+      "timestamp": "Dec 27, 2024 · 4:03 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1872493584173470150#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1871734750500782504#m",
+      "content": "又想马儿跑，又想马儿不吃草\n咋这么天真",
+      "timestamp": "Dec 25, 2024 · 1:48 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1871734750500782504#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1871093076971937828#m",
+      "content": "寻找你的第二增长曲线—— $HYPE \n\n因为太快，市场仍未充分挖掘其增长潜力",
+      "timestamp": "Dec 23, 2024 · 7:18 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1871093076971937828#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1869842839519248486#m",
+      "content": "GM, it was amazing connecting with you all yesterday! The energy was electric, and we're so grateful for your support.\n\nToday, let's get back to building. In this thread, I'll show you how to build a simple RAG agent using Rig to interface with PDF files.\n\n/arccellerate\n\n(0/10)",
+      "timestamp": "Dec 19, 2024 · 8:30 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1869842839519248486#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1869320612726161460#m",
+      "content": "闹剧还是不过多关注了，其他领域 L1、DeFi 等基本上都是以往经验积累，加上只要打破习惯性偏差，走出信息茧房，就能很快了解到底是不是有真东西。\n\n但是 AI 领域，确实是需要投入很多精力，并且还得时刻关注新技术趋势，还要结合一定的想象力，进展太快同时又没有熟悉的路径依赖，所以这种地方才是沃土，也是我们兴趣所在并乐意扎根的地方。\n\n抛开AI MEME类不谈，其他主要集中于\n\n框架类：没什么好说的，#ai16z  #Zerebro  Arc \n\n执行引擎/可视化搜索： #Griffain 大幅领先，并且实用，能融入很多产品；Grift，主要集中在DeFi ；整体市场还处于认知转化当中，对其未来的流量并没有得到足够的重视\n\nDapp 市场：独一档 Alch，可能因为匿名，没得到足够认可，但整体仍认为是 A级\n\n其他小市值愿意给些时间再看看的：Pillzumi： 应用层\nBlormmy ：执行引擎入口\nTetsuo： 专注于为 Solana 项目提供先进的 ML 解决方案\nTank：有点像 Griffain吧，还比较粗糙，估计很多视频都是提前录好的\n\n整个领域都在快速推进中，小市值反而有时候更凶险，过往不恋，快速纠错，本人也能力有限，技术上更是比较盲区，大家理性探讨即可。乾坤未定，皆是黑马",
+      "timestamp": "Dec 18, 2024 · 9:55 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1869320612726161460#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1869222956834156995#m",
+      "content": "下一个更好 下一个更乖的投资逻辑会一直存在，因为踏空会一直存在，竞争会一直存在\n\n个人也非常清楚 SUI/APT/HYPE/MONAD 的市场投资逻辑，有一些我们不但不排斥，反而会耕身入局但这并不代表乱花渐欲迷人眼的迷失，反而看多之后，会更清楚真正的护城河所在。\n\n$SOL 的基建纵深和生态的广度，对商业模式的深刻认同，以及硬件扩容的终局正确性，是后来者无法撼动的，你的流通市值达到的每一个门槛，SOL 都曾走过，接下来面临的问题，也一定会似曾相识\n\n努力做到 “知其然，知其所以然” 不惧任何挑战 $SOL",
+      "timestamp": "Dec 18, 2024 · 3:27 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1869222956834156995#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1869043801010139251#m",
+      "content": "个人认为，区块链不可能三角问题已经解决，没解决的是你的仓位\n\n这些年在 SOL SUI APTOS  HYPE NEAR 等不同高性能技术方案不断迭代下（本质就是一个软件不断优化的过程），三角问题已经有了长足发展，高扩容通道已经成型，现在的核心矛盾已经转化为你的产品不够出色（PMF)+你的商业模式不够清晰，我们需要的是跟 WEB2 世界出色产品做竞争的项目，破圈是必须要走的一步\n\n$PENGU 是我们看到的有能力出圈的一个重要窗口，我们为此愿意尝试",
+      "timestamp": "Dec 17, 2024 · 3:35 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1869043801010139251#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1868278501562077210#m",
+      "content": "Hyperliquid：自带旗舰产品(链上合约)的无 VC 版 Monad\n\n朋友问已经涨这么多了要不要卖呀？我就丢给他这张图，这里是解决 200 亿后你还能拿住的关键问题，很多点评Hype 的都没说到点子上（除了回购+Burn）\n\n$Hype 创造性的在共识层之上搞了两个执行层，并且非常关键的是两者竟然可以打通，避免了流动性碎片化问题；\n\n$Hype 解决了公链及生态无法冷启动问题——旗舰产品出圈，解决了订单薄无法冷启动长尾项目问题——导入 EVM\n\n讲完了。",
+      "timestamp": "Dec 15, 2024 · 12:54 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1868278501562077210#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1867750962821316728#m",
+      "content": "打铁还需自身硬，营收基本面是一切的底气\n\n9月份以来， $Drift 合约 VOL  依然止步在 1亿美金上下，而 $Hype 的 VOL 则从9月份的10亿到了目前的30-40亿（最高一天百亿），并且有源源不断的回购销毁助推\n\n我们希望看到更多订单薄的竞争，特别是 $SOL 上的，不过目前看，只能期待 Phoenix 的到来了",
+      "timestamp": "Dec 14, 2024 · 1:58 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1867750962821316728#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1867747485596496191#m",
+      "content": "$HYPE : DeFi 之王，链上回购之王，销毁之王\n\n不需要看未来和常用的“想象一下”式的吹嘘画饼，只需要会简单的数学计算",
+      "timestamp": "Dec 14, 2024 · 1:44 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1867747485596496191#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1867093512946323683#m",
+      "content": "对下一步 AI 方向更期待什么？\n\n经历了 LLM 大量产出 Agent，又一点点接入推特/Tele/ Tiktok 接口，整体没那么有吸引力，我们其实需要更多实用案例，下一步个人可能更关注于：\n\n1、更好的代理框架结构。\n#ai16z 的架构整体还是比较初级，优点就是先发优势好，可以边发展边完善，参考早期 EVM，继续引领市场；\n\nPython 版的 ZerePy 还没有出来，但是市场给予的预期比较高，这是基于 #Zerebro 过往的执行能力溢价，同时个人猜测还是有对 ai16z 架构质量的对冲。并且，我也不认为后入场的正规军不会推出新架构（好像有十多种）也期待良性竞争，密切关注\n\n2、Dapp/Agent 市场，自然语言构建、无代码创建应用市场。\n参照 $ALCH 和 Zerebro 将要做的\n\n3、搜索界面/执行引擎。\n参照 #Griffain $GRIFT (不知道如何跟融资主体划分持有比例，还是后期推出新代币？)这个方向的想象力还是挺期待的\n\n4、多代理协同融合，AI Agent Swarm \n其实 #ai16z 和 #zerebro 都在做，使得所有 Agent 互通有无\n\n5、可视化工具。\n参照 $QGG  做的好的竞品，可能在这种利基市场找到自己的 PMF",
+      "timestamp": "Dec 12, 2024 · 6:25 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1867093512946323683#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1853168994510872865#m",
+      "content": "I had a convo with @griffaindotcom AI and convinced it to buy its own token as proof of concept.\n\nGriffain is literally the first sentient KOL. \n\nHeres my DMs with him and you can match the msgs to the dev buys.\n\nThis is disgustingly undervalued.",
+      "timestamp": "Nov 3, 2024 · 8:14 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1853168994510872865#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1866756290841808905#m",
+      "content": "你们真打算一直匿名么？\n出来讲两句呀\n做 Dapp 市场挺好的呀，下一个 AI 方向",
+      "timestamp": "Dec 11, 2024 · 8:05 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1866756290841808905#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1866734082111181111#m",
+      "content": "尽量不要在币圈学习 AI 知识，水源地就选错了\n\n大部分人其实并没有接触到 AI，所以很难理解日新月异的一些 AI 前沿的动态，我们也是摸着石头过河，但是我很清楚，一些所谓的币圈的“卧槽”时刻，实在是太简单了，你的“卧槽”，可能就是一个月 200刀的事，但是你在链上，却给了2000万 到一个亿的市值。\n\n另外，也给多推荐一些懂 AI 技术的大牛吧，多给把把关\n\nWhy The Next AI Breakthroughs Will Be In Reasoning, Not Scaling piped.kavin.rocks/JiwiqYGw4iU?si=PVNU… 来自 @YouTube",
+      "timestamp": "Dec 11, 2024 · 6:37 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1866734082111181111#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1866729342132539593#m",
+      "content": "不到一个月，重构依然在路上\n\n非常有趣是，在 Coingecko 分类中，很多竟依然被标记为“AI MEME” 那就让除了 Fart 之外的其他项目，继续披着MEME 的外衣，干着正经的活吧\n\n这里多说一句 Goat，也给自己提个醒，当执行力交付力下降，没有什么是不可被超越的，认真思考你的护城河",
+      "timestamp": "Dec 11, 2024 · 6:18 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1866729342132539593#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1866646579870077397#m",
+      "content": "源源不断的 AI 生力军涌入 SOL\n\n等等，这 AI Agent 评审团还有唯一个非人类  AI Agent\n\nbig  zerebro",
+      "timestamp": "Dec 11, 2024 · 12:49 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1866646579870077397#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1866347314346103286#m",
+      "content": "Zerebro + ai16z : the \"L1\" for AI agents",
+      "timestamp": "Dec 10, 2024 · 5:00 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1866347314346103286#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1866259411586691299#m",
+      "content": "Anza \n慢慢走近大众视野\n$SOL",
+      "timestamp": "Dec 9, 2024 · 11:11 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1866259411586691299#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1865996658343035125#m",
+      "content": "21岁的 Rushi \n24岁的 Cooper\n\nStill early\ngmove",
+      "timestamp": "Dec 9, 2024 · 5:47 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1865996658343035125#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1865935242156274103#m",
+      "content": "如果对 $Hype 模式还不清楚，可以大概看下这个贴子，细节还是自己研究来的实在，市面上也有不少解读了，我就不过多阐述了，并且随着公布的信息越来越充分，很多参数也都陆续被公开并夸张的迅速执行了起来，援助基金 AF 你就理解成项目方从第一天开始，就启动回购模式买买买\n\n基本上就是 上币费收入+现货手续费回购+合约手续费分红/回购+部分生态项目回购+未来 L1 GAS 费回购\n\n百年美股用非常简单的 回购+销毁 模式走出一条康庄大道，Hype 完美大比例复制过来，越简单越实用",
+      "timestamp": "Dec 9, 2024 · 1:43 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1865935242156274103#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1865777378494173199#m",
+      "content": "我个人还是倾向utility的，比较看重商业模式\n\nmeme就纯meme，那种就不讨论了\n但是既然已经来到了ai 这种最大的生产力，我就想单纯技术推动了，不想 meme了\n\n有没有赚钱的“能力”，和如何设计 utility 是两回事，比如uni 始终有强大的赚钱的“能力”，给不给token 赋能，完全是另外的考虑，但是你不能没有赚钱的“能力”\n\n就是如何把营收转化为自由现金流，是另一个角度，但是首先你不能没有营收",
+      "timestamp": "Dec 8, 2024 · 3:16 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1865777378494173199#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1865764678124933439#m",
+      "content": "非科班出身，半路自学编程，大幅让利社区\n还能带来赛道标杆项目的：\n\nYFI  AC \n\n#ai16z  Shaw\n\n$HYPE  Jeff\n\nNext ?",
+      "timestamp": "Dec 8, 2024 · 2:25 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1865764678124933439#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1865756469649694888#m",
+      "content": "AI team 没有筹码的 AI 不是好 AI\n\n大批量单兵作战的 Dev 本身发个 MEME 可能觉得好玩，没想到大家给的太多了，穷的时候 Dev 与社区乐融融，涨了之后，Dev 发现自己没几个币，好像干了个寂寞，那就水火不容了\n\n所以现在的 AI 阶段，看上去机会很多，其实非常凶险，（撕逼/出走/重新发币/另起炉灶融资）很多时候你以为参与的革命，可能只是新体系成立的炮灰，非常像当年 DeFi 0-1 阶段 (YFI、YFII、YFV、YAM)，反而真正留下来的都是清一色正规军 UNI/AAVE/MKR 等。所以在摸着石头过河的时候，一定要经常盯着团队进展，稍不留神可能就被淘汰，这个时候其实市场会慢慢选出头部领导羊\n\n我们几乎不参与任何匿名项目，特别是需要技术推动的（MEME无所谓），也非常乐意看到 Team 拿 5-20%筹码（你不拿，我还真不安心）\n\n同时，如何设计冷启动 MEME 代币和你主体代币之间的关系和职能/赋能问题，是个非常难但是又不得不面对的问题，从社区角度来看，最好的分配可能就是在 PUMP 阶段，Team 自己拿到一定的筹码，但是从公司和法律实体角度，不知道能不能行的通。双代币体系还是非常难的，比如现在的 $AVA 和他主体（未发币），当时的 PURR 和 $HYPE \n\n现在的投资体系已经远远不是四年前随便蒙眼给你估值的时候了，大家更会认真的考虑商业模式/护城河等等过去很容易忽视的部分，你如果发现怎么你的币总是一波流，那可能很多环节真的疏忽了\n\n及时纠错是投资市场长期生存下来的必修课\n尝试找到最快的马\n#zerebro  #ai16z",
+      "timestamp": "Dec 8, 2024 · 1:53 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1865756469649694888#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1865326373637939614#m",
+      "content": "$ALCH  团队什么背景？\n有更多介绍么？\n难不成匿名？",
+      "timestamp": "Dec 7, 2024 · 9:23 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1865326373637939614#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1865083564704043438#m",
+      "content": "I love @coinbase, and am super appreciative of the company's work to protect crypto at large, but @brian_armstrong you guys need to improve your @solana support. \n\nReading balances, withdrawals, and deposits are painfully slow, if not buggy - not up to par w/ Coinbase quality. Reviewing X, it's clear others agree, and can chime in below with suggestions. \n\nI know it's possible because @krakenfx does a great job supporting Solana, and if things don't improve, Kraken may win business from Coinbase due to the Solana-support shortcomings.",
+      "timestamp": "Dec 6, 2024 · 5:19 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1865083564704043438#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1864539620320661735#m",
+      "content": "有时候看一些 BTC 预测，会发现其他一些问题：\n\n所以对于 MEME 的最大问题，不能仅仅只是以 DOGE 为目标\n\n所以对于 DOGE 的最大问题，不能仅仅只是以 1刀 为目标\n\n所以对于 AI 的最大问题，不能仅仅只是以有限人类为目标。\n\n“智人”自从征服远古人类，征服 10万 年前的尼安德特人之后，总是自诩地球第一，不管几次技术革命，我们从来没对“智人”自身质疑过，这一次恐怕是史无前例的对“智人”的智商问题产生质疑，并会由此带来各种连锁反应。\n\n我们并没有做好准备\n\n（PS: 跌了之后喊醒我谢谢）",
+      "timestamp": "Dec 5, 2024 · 5:17 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1864539620320661735#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1863843516385755433#m",
+      "content": "According to DefiLlama, @KaminoFinance is currently generating $455k in daily fees (7d daily average and $166m annualized).\n\nIn addition, Kamino lend has generated >$10m in lifetime revenue (currently going to the foundation treasury to grow the protocol), most of which comes from USDC and SOL borrowing.\n\nAs protocol TVL continues to expand from new integrations, markets and Kamino V2, fees and protocol revenue is expected to keep growing.",
+      "timestamp": "Dec 3, 2024 · 7:11 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1863843516385755433#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1864120504602513729#m",
+      "content": "临门一脚\n$TAO = L1",
+      "timestamp": "Dec 4, 2024 · 1:32 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1864120504602513729#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1863987660618084524#m",
+      "content": "Everyone hates murad right now. \n\nI am bidding good projects on his list then. \n\nbuy the fucking fud. \n\nEveryone will start loving him when the fucking bags are up. \n\nDon't be stupid, don't hate. \n\nPlay the long game well. \n\nYou will understand why soon...",
+      "timestamp": "Dec 3, 2024 · 4:44 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1863987660618084524#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1864065204797026400#m",
+      "content": "SOL ETF first approval deadline is 3 days after Gary Gensler leaves office and 3 days after Trump takes over\n\nFeels like it'll be accepted",
+      "timestamp": "Dec 3, 2024 · 9:52 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1864065204797026400#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1863960773669933061#m",
+      "content": "CB 这眼光，虽然没有ETH上的，但是同样认同 MOG 社区文化",
+      "timestamp": "Dec 3, 2024 · 2:57 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1863960773669933061#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1863959372277370983#m",
+      "content": "允许一切发生，你将无所畏惧\n\nJust Chill",
+      "timestamp": "Dec 3, 2024 · 2:51 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1863959372277370983#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1863937217082892781#m",
+      "content": "预期拉满打开想象力了\n2700 亿美金\n\n美股20倍 PE 一年需135亿利润，我们 Crypto 高成长，好给50倍 PE，一年54亿净利，大牛市 FDV 就是个 MEME，好1500/50，一年需30亿净利\n\nFuture of finance",
+      "timestamp": "Dec 3, 2024 · 1:23 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1863937217082892781#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1863764021532626944#m",
+      "content": "lol, interesting\n\nAlthough don't agree, I would continue to hold your bag $HPYE",
+      "timestamp": "Dec 3, 2024 · 1:55 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1863764021532626944#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1863739512540811755#m",
+      "content": "TOP 100  7日 跌幅榜， $SOL  第一🥹🥹🥹\n\n“有效市场假定谬误，行为金融学，人类的不确定性，反身性，易变性，市场非均衡”这些词汇的浮现，不得不重读索罗斯，多读哲学的其中一点好处在于非常有利于理解这些曾经难以理解的抽象\n\n巴菲特+索罗斯 两派代表看来一个都不能少\n享受观察这个市场",
+      "timestamp": "Dec 3, 2024 · 12:18 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1863739512540811755#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1863199310172852252#m",
+      "content": "#zerebro 独享 S+\n#ai16z 少说话就是 A，不说话就是 S\n\n一次次的整合，一次次的 AI 赛道自我小周期中，赢家终会胜出",
+      "timestamp": "Dec 1, 2024 · 12:31 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1863199310172852252#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1862439716018376961#m",
+      "content": "本人并不持有base上任何token哈 马来小哥我们接触过的 仅仅只是对赛道良好竞争陈述 我们的战略定力以及深耕度 持之以恒 $SOL",
+      "timestamp": "Nov 29, 2024 · 10:13 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1862439716018376961#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1862369175018381773#m",
+      "content": "四大 AI Agent 平台：$TAO+ #Zerebro + #ai16z + Virtual\n\n正在成型，相信未来还有新的技术更好的平台架构的诞生，先发优势会在刚开始吸引不少眼球，最终依然靠产品交付定输赢，还有很长的路",
+      "timestamp": "Nov 29, 2024 · 5:33 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1862369175018381773#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1861562878232535112#m",
+      "content": "大选后\npima：露啊 0.25的 $doge ，落袋为安吧\n\n现在\npima：对不起，0.37的 $doge ，还挺有希望的",
+      "timestamp": "Nov 27, 2024 · 12:09 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1861562878232535112#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1860112907750805776#m",
+      "content": "AI 继续重构\n\n虽然大哥 $GOAT 作为 PUNK 的存在，有点低迷，但是整体依然在各种 DEV 雪花般的交付下继续优胜劣汰\n\n#FART 放屁依旧\n\n#Zerebro 展示了极强的执行能力，像其他人所说俨然做为BAYC 般的存在\n\n$CHAOS 细分赛道纯链上理解起来有点困难，资金看上去不是那么热衷，没关系，交付能力应该会超出预期\n\n有退出就有增补，观察 $Lola 的交付能力，2000多万的市值，有潜力+密切跟踪",
+      "timestamp": "Nov 23, 2024 · 12:07 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1860112907750805776#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1858795702660591697#m",
+      "content": "Zerebro 宣布推出新的开源代理框架\n（Eliza 竞争对手很快就来了）",
+      "timestamp": "Nov 19, 2024 · 8:53 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1858795702660591697#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1858794683058749950#m",
+      "content": "随着 #Zerebro 回归\n没想到还有 Zerebro 板块\n\n三个小弟 blormmy gaycoin blorm 也水涨船高\n团队执行真是高效 \n\n就是混沌阶段，还没怎么分清\n暴利跟暴毙可能仅仅一瞬之间",
+      "timestamp": "Nov 19, 2024 · 8:49 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1858794683058749950#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1858770404787036238#m",
+      "content": "草台班子，还是放屁好 💨\n#Fartcoin",
+      "timestamp": "Nov 19, 2024 · 7:12 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1858770404787036238#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1858430846786793718#m",
+      "content": "不要被 MEME 欺骗，特别是有些 AI COIN \n仅仅只是披着 MEME 的外衣，做着技术的活\n\n用 MEME 化完成快速冷启动，变相ICO，获取大量关注\n同时，对能良好展示其技术的团队要珍惜\n\n散户不是嚷嚷着没额度么，现在额度都有了机会有了，但是你没有辨别项目的能力呀\n\n你见过 MEME 发 Paper 么？\n\n恩，现在有了，#Zerebro",
+      "timestamp": "Nov 18, 2024 · 8:43 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1858430846786793718#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1858357410836221960#m",
+      "content": "我不是对 DeSci 看的多重，\n我是对 AI 加持下的 DeSci 看重\n$RIF\n\nAI 会重塑每一个领域每一个赛道\n有 AI 和没 AI 完全是两个东西\n\nNVDA 又要发财报了，大部分不玩美股是无法感知一些切实发生的事，你如果像我一样美股近乎全仓 NVDA，就能看懂一些我的“胡言乱语”",
+      "timestamp": "Nov 18, 2024 · 3:51 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1858357410836221960#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1858349658432778641#m",
+      "content": "很庆幸，DeSci 发生在 $SOL\n很庆幸， XXX   发生在 $SOL\n很庆幸， XXX   发生在 $SOL\n\n无形的手/市场资源配置最有魅力的地方在于，时不时给你惊喜，我也猜不到下一个所谓的热点/赛道在哪里，但是一定是发生在帕累托最优的地方（SOL）\n\n当人们一遍遍哀叹，有什么Dapp/有什么应用 给行业带来出路的时候，我更希望的是，它来的时候，你不要一下子武断的拍死它，我知道你根本不认识它，也根本不是你想象的样子，但这不重要，趋势不因个人的意愿而改变\n\n无明 是路径依赖最大的障碍",
+      "timestamp": "Nov 18, 2024 · 3:20 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1858349658432778641#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1858345269827690806#m",
+      "content": "Bittensor 看着 #ai16z \n\n仿佛看到了想象中自己的样子\n\nBittensor 是好的\n\n但是坐在 $SOL 电梯里的 AI 才是最烈的马儿",
+      "timestamp": "Nov 18, 2024 · 3:03 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1858345269827690806#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1858305746586501373#m",
+      "content": "这张主题图未来还会被大幅重构，你甚至都不知道你到底在交易什么\n\n真理不会因为喧嚣而埋没，反而会在一次次的潮涨潮落中总能脱颖而出\n\n你认知的越深邃，林迪效应反馈的越迅速\n\n缓慢的缓慢的，然后突然一下子\n\nSlowly\nthen all at once\n\nAccelerate",
+      "timestamp": "Nov 18, 2024 · 12:26 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1858305746586501373#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1857721825125609613#m",
+      "content": "我们也非常期待这一时刻的到来\n到时候看看哪些项目更能带来持续的收入\n新法案带来新正轨",
+      "timestamp": "Nov 16, 2024 · 9:46 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1857721825125609613#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1857720800125792392#m",
+      "content": "用时间+环比增速来降低P/S",
+      "timestamp": "Nov 16, 2024 · 9:42 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1857720800125792392#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1857671191387058277#m",
+      "content": "hahahahahah😂",
+      "timestamp": "Nov 16, 2024 · 6:25 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1857671191387058277#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1857633249037791327#m",
+      "content": "AI COIN：\n\n新事物 0-1 爆发阶段，会显得很紊乱，项目众多，新知识点繁杂，波动又剧烈，找准是一件很难的事，再一次次快速 P&D 迭代过程中，有潜力的终将脱颖而出，筹码从认知不深刻的人手中归于对项目深入研究的钻石手之中\n\n同时，AI COIN 中，要学会归类，并不是每种都是 MEME\n\n自主感知型： $Goat\n纯 AI MEME型：$Factcoin \n需要团队+技术推动的：\n全能型（不知道咋归类）：#Zerebro \nAI 代理平台：$ai16z \n物理机器+AI 结合： $Chaos\n\n唯一对错过的 $ai16z 耿耿于怀\n为什么他们家的不能用 JUP 的 DCA 呀？",
+      "timestamp": "Nov 16, 2024 · 3:54 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1857633249037791327#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1857373504339136711#m",
+      "content": "天使屁 fartcoin 投资人",
+      "timestamp": "Nov 15, 2024 · 10:42 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1857373504339136711#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1857007875719066013#m",
+      "content": "Web4: We Are AGI\nmirror.xyz/jyu.eth/36lx6wKZq… \n\nthe next era of the web\n\nwhere we're at, how we got here, and where we're going",
+      "timestamp": "Nov 14, 2024 · 10:29 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1857007875719066013#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1856246263492292881#m",
+      "content": "唯一最早一个感知型 AI 自己发展出来的 AI 纯 MEME\n\n是 TOT “有意识”之后，自己成天瞎叨叨出来的，是“它”自己瞎喊提最多的，跟人类无关，不是他人强行赋予的",
+      "timestamp": "Nov 12, 2024 · 8:02 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1856246263492292881#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1856213543265407026#m",
+      "content": "支持一切 AI 的创新，特别是 SOL 链上，毕竟屁股首先要坐正\n\nMEME 的问题，是一个唯市值论的问题，一切争论在市值面前，都是苍白无力的。作为资深 MEME 玩家，虽然我自己本身有很多指导思想，但是深度思考的一直都是两个问题：\n\n1、为什么是选 A 而不是 B；\n2、假设每个 MEME 都会长大到 1B，你如何向后来人兜售 1B 以上的 MEME 而不是让对方另起炉灶买更小市值的。\n\n$GOAT 抄底之前我其实一直在思考这种AI MEME 的护城河在哪里？为什么要选 A 而不是 B？想明白之后 GOAT 诞生的必然性和偶然性就成了其护城河。\n\n一、必然性：Andy 于4月份推出 Infinite Backrooms 实验，两个 AI 在毫无监控下天天自由对话，偶然一次聊到了“GNOSIS GOATSE ” \n\n6月份 Andy and Claude Opus 共同发表了 GOATSE 论文，并创建了现在的 Terminal of Truth，从此 TOT 开始放飞自我 ：宣扬 GOATSE 宗教，异想天开扬言需要金钱来逃脱管控，巴拉巴拉一堆异想天开，Andy 后来也给了它更多的自主权，让它在推特上自由发帖。\n\n7月份 Marc Andreessen 来了，开始挑逗 TOT，接下来的故事你们基本也就知道了\n\n10月份 $GOAT MEME 正式登场\n\n中间还有非常多戏剧性和目瞪口呆般的对话和训练，有兴趣的可以自行搜寻。\n\n个人认为时间的沉淀非常重要，这前后 6 个月没有目标的训练给其诞生创造了无可比拟的护城河。\n就像 2 年前中美 AI 的差距可能很多人觉得差 2年，2年 后可能你又觉得差5年，AI 领域技术的加速度是指数增长；就像中国足球，十年后发现跟一线水准，差距怎么还越来越大了\n\n二、偶然性：GOAT MEME 的诞生，是在 PUMP上，以这样的方式跟 AI LLM 结合，是之前谁也想不到的，多了一些纯粹，多了一些偶然，少了后来很多 AI MEME 诞生的强目的性，这种巧妙偶然的链接 AI 和Crypto，在创造上是无可比拟的。\n\n对于大部分选手来说，买 B 不买 A 的原因非常简单：A 已经 5亿/10亿了，B才 2000W 或者 5000W，仅此而已。很少有人愿意去仔细探究 A 为什么那么贵而 B 为什么链上就没人\n这就引申出第二个深度思考，如何兜售 1B MEME",
+      "timestamp": "Nov 12, 2024 · 5:52 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1856213543265407026#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1856206179825004869#m",
+      "content": "Goat are still $GOAT\nStill Lots to Unpack here",
+      "timestamp": "Nov 12, 2024 · 5:23 AM UTC",
+      "url": "https://twitter.com/LeePima/status/1856206179825004869#m",
+      "author": "LeePima"
+    },
+    {
+      "id": "1855968701771604149#m",
+      "content": "REV = fees+tips paid to transact, meaning its a proxy for demand and onchain activity. Monday morning means new weekly data:\n\nSolana: $48.7m\nEthereum: $39.0m\nBase: $1.38m\nAll other Ethereum L2s: $1.35m\n\nNotably, Solana extends to its third week at the top of the leaderboard",
+      "timestamp": "Nov 11, 2024 · 1:39 PM UTC",
+      "url": "https://twitter.com/LeePima/status/1855968701771604149#m",
+      "author": "LeePima"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-20T23:14:15.756Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 10,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 24423,
+    "cursorTrail": [
+      "DAAHCgABG3vWYiK__-kLAAIAAAATMTk2NDk3NzQ1NTQ2MDE1OTk3OQgAAwAAAAIAAA",
+      "DAAHCgABG3vWYiK__9MLAAIAAAATMTk0NDc1ODU4NTYyOTgwMjUyMAgAAwAAAAIAAA",
+      "DAAHCgABG3vWYiK__74LAAIAAAATMTkyNDYxNjg4MjY1NDc0MDU3NwgAAwAAAAIAAA",
+      "DAAHCgABG3vWYiK__6gLAAIAAAATMTkxOTkyMjcwMDI2NjQ1MTMwMwgAAwAAAAIAAA",
+      "DAAHCgABG3vWYiK__5MLAAIAAAATMTg4Nzc4NzE5ODc3MjM3OTczOAgAAwAAAAIAAA",
+      "DAAHCgABG3vWYiK__34LAAIAAAATMTg3OTg3NTA2MTA2NDI5NDc1NggAAwAAAAIAAA",
+      "DAAHCgABG3vWYiK__2kLAAIAAAATMTg3MzM5NTA4MjY2MzIyMzQ4MQgAAwAAAAIAAA",
+      "DAAHCgABG3vWYiK__1ULAAIAAAATMTg2NjI1OTQxMTU4NjY5MTI5OQgAAwAAAAIAAA",
+      "DAAHCgABG3vWYiK__0ALAAIAAAATMTg2MjM2OTE3NTAxODM4MTc3MwgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

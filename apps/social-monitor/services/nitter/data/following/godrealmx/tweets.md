@@ -1,0 +1,1796 @@
+# 仙壤 (@godrealmx)
+
+- 抓取时间：2025-10-20T23:53:53.230Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：27556 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：11
+- 抓取尝试：1
+- Cursor 链：10 条
+- 账号统计：粉丝 13474，关注 462，推文 2978，点赞 5013
+- 所在地：Hong Kong
+- 站外链接：https://t.co/Hle2xzQjz6
+- Twitter：https://twitter.com/godrealmx
+- 头像：https://pbs.twimg.com/profile_images/1872229837051731968/DVaT_vra_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1374435606743281671/1735210800
+
+> 账号简介：
+> “仙壤”专注于Web3技术与投研，由前“极客Web3”成员建立 |  矩阵包括：微信公号、Telegram频道、各大媒体专栏 |  公众号“仙壤”可浏览所有文章，商业合作可在公众号后台留言 | 我们的所有言论均不构成投资建议，Do your own research
+
+---
+
+## 1. Mar 21, 2025 · 9:53 AM UTC · 1903022198149059038#m
+- 链接：https://twitter.com/godrealmx/status/1903022198149059038#m
+- 作者：@godrealmx
+
+> 我们也整理了一下仙壤/极客web3在2025年产出的优秀内容，欢迎大家转发+收藏！
+>  
+> 1.Hyperliquid技术实现方式解读
+> localhost:8080/godrealmx/status/18768…
+>  
+> 2.Hyperliquid产品功能解读
+> localhost:8080/godrealmx/status/18895…
+>  
+> 3.深度解析Usual和USD0++
+
+## 2. Oct 20, 2025 · 7:45 AM UTC · 1980178657386926583#m
+- 链接：https://twitter.com/godrealmx/status/1980178657386926583#m
+- 作者：@godrealmx
+
+> 对于Wintermute创始人的这个访谈，某公链CTO评价到：“项目方最大的悲哀就是不断要和傻逼解释。mm就不需要和傻逼解释，直接割了就是最好的解释。傻逼就直接成长了”😂
+
+## 3. Oct 19, 2025 · 4:29 PM UTC · 1979948003017490654#m
+- 链接：https://twitter.com/godrealmx/status/1979948003017490654#m
+- 作者：@godrealmx
+
+> 这一次10.11，最大的赢家是Hyperliquid，最大的输家是币安。交易所链上化的趋势已不可避免，越来越多的大资金将从中心化交易所流出到链上PerpDEX。在此押注HYPE和ASTER！
+
+## 4. Oct 18, 2025 · 1:23 PM UTC · 1979538769436147947#m
+- 链接：https://twitter.com/godrealmx/status/1979538769436147947#m
+- 作者：@godrealmx
+
+> 大宇老师的投票统计很有意思，近1000票里，40%的人满仓，剩下的60%要么半仓要么观望，要么对后市悲观
+>  
+> 根据反身性原理，现在是震荡阶段，并且还有上升空间，但需要有利好因素出现
+>  
+> 现在不太可能是牛尾熊初，如果绝大多数人都认为是牛市，这种时候更可能是牛顶熊初，因为这代表着市场上不再有新钱进来
+
+## 5. Oct 17, 2025 · 11:05 AM UTC · 1979141674782855419#m
+- 链接：https://twitter.com/godrealmx/status/1979141674782855419#m
+- 作者：@godrealmx
+
+> 🎉庆祝 Ninja Labs CN 正式启动，福利大放送🎉
+>  
+> Ninja Labs CN 于本周正式启动，也即将迎来启动后的第一个活动 ETH Shanghai @EthereumSH！
+>  
+> Ninja Labs CN 的核心贡献者将于 Injective 团队成员在现场设展，欢迎小伙伴们与我们一同互动。为庆祝组织成立，Ninja Labs CN 准备了 200 USDT 的福利给小伙伴们，只要完成以下简单任务即可活动抽奖资格👇
+>  
+> 1️⃣ 关注 @NinjaLabsCN @InjectiveLabsCN
+> 2️⃣ 转发本推，并留言@标注两位朋友
+> 3️⃣ 抽 10 人瓜分 200U
+>  
+> 欢迎小伙伴们踊跃参与，扫码加入微信社区，获得多种福利以及生态一手信息🔥
+
+## 6. Oct 15, 2025 · 4:43 PM UTC · 1978501959817580957#m
+- 链接：https://twitter.com/godrealmx/status/1978501959817580957#m
+- 作者：@godrealmx
+
+> 比特币挖矿算力创下历史新高---牛市依然健在且将继续持续下去的明确标志
+
+## 7. Oct 15, 2025 · 3:41 PM UTC · 1978486478473924623#m
+- 链接：https://twitter.com/godrealmx/status/1978486478473924623#m
+- 作者：@godrealmx
+
+> CMC上的PerpDEX日均交易量和市占率排行榜，Hyperliquid和Aster的市占率基本持平，均为40%，Bybit旗下的ApeX位列第8，市占率约8%，INJ链上的Helix市占率约为0.3%，位居第十
+
+## 8. Oct 14, 2025 · 2:44 PM UTC · 1978109770084012222#m
+- 链接：https://twitter.com/godrealmx/status/1978109770084012222#m
+- 作者：@godrealmx
+
+> Monad的空投资格查验现在开始了，但正式的空投数额查询最早要等到10.28，然后11.3正式开始空投申领
+> 根据Monad社区成员的说法，很多在Monad网络进行过大量交互的人被反撸，而一些活跃的推特KOL却被列入了空投名单里
+
+## 9. Oct 14, 2025 · 2:55 AM UTC · 1977931288708591737#m
+- 链接：https://twitter.com/godrealmx/status/1977931288708591737#m
+- 作者：@godrealmx
+
+> 这种靠PerpDEX赋能自家公链的思路，也是BNB Chain的阳谋。鉴于BSC的TPS有限，Aster可能在未来迁移到opBNB，因为opBNB是依附于BSC的Layer2，可以达到5000+的TPS，若Aster迁移到opBNB，也将标志着币安系公链的新进程
+
+## 10. Oct 14, 2025 · 2:55 AM UTC · 1977931285684535710#m
+- 链接：https://twitter.com/godrealmx/status/1977931285684535710#m
+- 作者：@godrealmx
+
+> 鉴于交易所链上化浪潮愈演愈烈，未来的重头戏应该是Hyperliquid、Aster、Lighter、Backpack为代表的PerpDEX百团大战
+>  
+> 而Hyperliquid的核心思路，是以自己的公链设施为基础，凭借充裕流动性吸引更多金融项目入驻，很有可能像当年的Helix/INJ团队一样，把故事从PerpDEX扩大为公链
+> 图片来自 @0xBeyondLee
+
+## 11. Oct 14, 2025 · 2:43 AM UTC · 1977928146315043206#m
+- 链接：https://twitter.com/godrealmx/status/1977928146315043206#m
+- 作者：@godrealmx
+
+> 这一轮周期最耀眼的主角，可能不再是上轮周期时甚嚣尘上的以太坊系如ETH、UNI、Curve和OP，也不是Solana，而是币安系四大天王---
+> BNB、ASTER、CAKE、FORM
+>  
+> 押注于币安系代币，等于押注这轮周期的蓝筹股
+
+## 12. Oct 13, 2025 · 10:11 AM UTC · 1977678485276840442#m
+- 链接：https://twitter.com/godrealmx/status/1977678485276840442#m
+- 作者：@godrealmx
+
+> 顺着这个思路来看PrepDex赛道，不难理解为何dydx、GMX、Helix都没做到如今Hyperliquid的体量，说白了，是否去中心化不是第一需求，流动性和造富效应才是第一位
+>  
+> 如果DEX可以在流动性上与CEX匹敌，像Hyperliquid这种，用户才会有更强的动力迁移到DEX上，否则，无论技术多优越、产品多丝滑，都没人会去玩
+
+## 13. Oct 13, 2025 · 10:11 AM UTC · 1977678482202312738#m
+- 链接：https://twitter.com/godrealmx/status/1977678482202312738#m
+- 作者：@godrealmx
+
+> 最近听一些人讨论PrepDex赛道，说不看好Aster，理由是技术烂、团队实力不硬如何如何，面对这种IQ100的言论，在此拿IQ140的视角解释下：
+>  
+> PrepDex仍然是交易所，对交易所而言，流动性和资本运作永远排第一位，技术架构、交易延迟这些通通排第二，创始团队不硬也可以靠后期挖人解决，一切还是看有没有钱
+
+## 14. Oct 13, 2025 · 9:08 AM UTC · 1977662769404223804#m
+- 链接：https://twitter.com/godrealmx/status/1977662769404223804#m
+- 作者：@godrealmx
+
+> 刚刚询问了一下在hyperliquid生态内做量化策略的开发者 @encryptjustice  ，HIP-3的启动主要意义在于增加HYPE的质押率降低抛压，对币价是明显利好
+> 而基于HIP-3构建的合约市场，类似于Aster和币安的关系，基础设施共享，ticker需要拍卖，所以对HYPE的需求会很大
+
+## 15. Oct 13, 2025 · 8:46 AM UTC · 1977657216925913257#m
+- 链接：https://twitter.com/godrealmx/status/1977657216925913257#m
+- 作者：@godrealmx
+
+> Polymarket上的预测认为，Lighter有83%概率在年底前发币，TGE一天内FDV突破40亿的概率超过60%
+
+## 16. Oct 13, 2025 · 8:23 AM UTC · 1977651329658175948#m
+- 链接：https://twitter.com/godrealmx/status/1977651329658175948#m
+- 作者：@godrealmx
+
+> 还有预测Monad什么时候发空投的，目前94%的押注认为Monad会在11月底之前发空投
+> 如果你没有在信息战上做足功课，多关注下Polymarket上的预测结果，会很有帮助
+
+## 17. Oct 13, 2025 · 8:23 AM UTC · 1977651320128712741#m
+- 链接：https://twitter.com/godrealmx/status/1977651320128712741#m
+- 作者：@godrealmx
+
+> 对于做交易来说，Polymarket上的预测结果越来越有参考意义了
+> 宏观层面的预测很有意思，比如，Polymarket上关于美国在11月会对中国征多少关税一事，针对不同数值区间都有不同的押注率，至少有73%的人认为，对华关税会低于40%
+> 对美联储10月会降息多少，也有概率估计，90%以上的人认为会降息25个基点
+
+## 18. Oct 13, 2025 · 3:56 AM UTC · 1977584302826340433#m
+- 链接：https://twitter.com/godrealmx/status/1977584302826340433#m
+- 作者：@godrealmx
+
+> Hyperliquid创始人：HL的完全链上清算无法与漏报的CEX清算相提并论
+>  
+> Hyperliquid创始人Jeff发文称：“Hyperliquid的完全链上清算机制，无法与那些少报漏报清算情况的CEX清算相提并论。
+>  
+> Hyperliquid是一个区块链平台，在这个平台上，每一笔订单、交易和清算操作都在链上完成。任何人都可以无需许可地验证链上的执行情况，包括所有清算操作及其对所有用户的公平执行。
+>  
+> 此外，任何人都可以实时验证整个系统的偿付能力。透明度和中立性正是完全链上DeFi成为全球金融理想基础设施的关键原因。一些CEX公开记录显示，它们对用户清算情况的报告存在严重少报漏报问题。
+>  
+> 例如，在币安上，即便同一秒内有数千笔清算订单，也只会报告其中一笔。由于清算往往呈突发式发生，在某些情况下，实际清算数量被少报的程度可能轻易达到100倍。希望金融行业能将透明度和中立性视为新金融体系的重要特征，并促使其他机构效仿。”
+
+## 19. Oct 12, 2025 · 3:59 AM UTC · 1977222604483420286#m
+- 链接：https://twitter.com/godrealmx/status/1977222604483420286#m
+- 作者：@godrealmx
+
+> 对此hyperliquid的链上荷兰拍上币就要公平的多，而且完全由市场来定价。虽然去年12月最热时也达到过100万美元，但至少是通过公平竞拍的方式达成的，而且很快上币费就自动降了下去，最近一批上币费才几万U，不会像某些大所一样直接给你来个天价上币费+打点某些人的好处费
+>  
+> 这就是去中心化的力量！
+
+## 20. Oct 11, 2025 · 12:16 PM UTC · 1976985353992258018#m
+- 链接：https://twitter.com/godrealmx/status/1976985353992258018#m
+- 作者：@godrealmx
+
+> 事前宕机，事后赔付，无论如何都给用户造成了无法挽回的损失
+> Hyperliquid相比于币安以及OKX还是免信任了太多，未来交易所逐渐链上化是必然趋势
+> 押注HYPE和ASTER！
+
+## 21. Oct 11, 2025 · 5:28 AM UTC · 1976882526728950179#m
+- 链接：https://twitter.com/godrealmx/status/1976882526728950179#m
+- 作者：@godrealmx
+
+> 今天的暴跌表面原因是特朗普对中国加增100%的关税，但真实原因是交易所借此去杠杆
+>  
+> 今天的币，大家可以去对比一下交易所里的和链上的价格，链上压根就没跌这么多，就拿doge来说，okx里面今天最低价是0.089，而链上的是0.21
+>  
+> 所有的插针都是交易所自导自演
+
+## 22. Oct 11, 2025 · 5:03 AM UTC · 1976876221947691510#m
+- 链接：https://twitter.com/godrealmx/status/1976876221947691510#m
+- 作者：@godrealmx
+
+> Aster已经完成了一轮$ASTER代币回购，数额达1亿枚，回购记录在链上可查
+
+## 23. Oct 10, 2025 · 9:23 AM UTC · 1976579444438667278#m
+- 链接：https://twitter.com/godrealmx/status/1976579444438667278#m
+- 作者：@godrealmx
+
+> 这个问题让人联想到马斯克和特斯拉
+>  
+> 有人认为，特斯拉的崛起不是因为市场对其有强烈需求，而是靠马斯克的宣传能力，把新能源汽车的概念炒了起来，占领了用户心智
+>  
+> 但单从车的角度来看，特斯拉并不算好车，而且早期的新能源汽车缺乏配套基建，并不能给客户们带来多好的综合体验
+>  
+> 对此，你怎么看？
+
+## 24. Oct 10, 2025 · 9:23 AM UTC · 1976579441607561639#m
+- 链接：https://twitter.com/godrealmx/status/1976579441607561639#m
+- 作者：@godrealmx
+
+> Hyperliquid的热潮，是因为Prep Dex顺应时代潮流，还是因为Jeff等人亲手成就了一个新赛道？
+>  
+> 最近看到一个有趣的事，INJ公链上的Helix平台早在2021年就启动了，是比较早的Prep DEX，作为INJ生态的头部项目，也得到了很多资源倾斜
+>  
+> 但Helix一直没有大红大紫，30日合约交易量不到40亿美元，只有hype的2%
+
+## 25. Oct 9, 2025 · 3:54 PM UTC · 1976315394106569112#m
+- 链接：https://twitter.com/godrealmx/status/1976315394106569112#m
+- 作者：@godrealmx
+
+> 贝莱德持仓的比特币数量已经接近80万枚，接近比特币总量的4%
+
+## 26. Oct 9, 2025 · 1:39 AM UTC · 1976100140361691506#m
+- 链接：https://twitter.com/godrealmx/status/1976100140361691506#m
+- 作者：@godrealmx
+
+> 我们买的欧易人生本来赚了4倍了，结果被徐总一计嘴炮，变成了赚50%。。。
+
+## 27. Oct 8, 2025 · 11:12 AM UTC · 1975882049367228529#m
+- 链接：https://twitter.com/godrealmx/status/1975882049367228529#m
+- 作者：@godrealmx
+
+> 已上车FORM
+
+## 28. Oct 7, 2025 · 1:28 PM UTC · 1975553848933818851#m
+- 链接：https://twitter.com/godrealmx/status/1975553848933818851#m
+- 作者：@godrealmx
+
+> そろそろ日本語版の出番だ
+
+## 29. Sep 23, 2025 · 7:03 PM UTC · 1970564729299959947#m
+- 链接：https://twitter.com/godrealmx/status/1970564729299959947#m
+- 作者：@godrealmx
+
+> 1/ Hyper Ninja just dropped on Injective, and it’s honestly pretty fun!
+>  
+> It’s a ninja-themed game that @HyperNinja_INJ has been working on for some time now.
+>  
+> Here's all my ninjas!
+
+## 30. Sep 3, 2025 · 5:32 AM UTC · 1963112775074369919#m
+- 链接：https://twitter.com/godrealmx/status/1963112775074369919#m
+- 作者：@godrealmx
+
+> 以后也不只是BTC和ETH有上市公司的固定买盘了，INJ也有
+
+## 31. Sep 3, 2025 · 5:12 AM UTC · 1963107882062467488#m
+- 链接：https://twitter.com/godrealmx/status/1963107882062467488#m
+- 作者：@godrealmx
+
+> 简单说说 Injective 家的微策略。
+>  
+> 1. 官宣募了 1 亿美金，用于囤积 INJ 代币，出资方可以用 INJ 代币进行出资。
+>  
+> 2. 股票认购成本约为 3.8 美金，预计 60 天内解锁，并提供 12% 的 INJ 质押收益。
+>  
+> 3. 对于资方来说，如果股票赚了，那就卖股票；如果股票赔了，可以把代币再赎回来，所以怎样都不亏。
+>  
+> 4. 其实这也是，当前大多数山寨币微策略的情况，在币市基础上，再开个美股的盘口，理想的状态下是形成涡轮，卖股、募资、买币。
+>  
+> 5. 而如果涡轮转不动，那就让现有资方质押代币，锁仓期满后决定是否换股票，还是原地赎回出资的代币。
+>  
+> 6. 对于币圈的二级市场来说，确实锁住了一些代币流动性；对于资方来说，怎么样都不亏；对于项目方来说，多一条盘口路径。
+>  
+> 7. 以上玩法不光 Injective，预计会是下半年山寨项目的主流策略，用代币出资换上市公司股票，后悔了那就把代币赎回回去。
+
+## 32. Aug 31, 2025 · 4:05 PM UTC · 1962184963329273888#m
+- 链接：https://twitter.com/godrealmx/status/1962184963329273888#m
+- 作者：@godrealmx
+
+> Safeliquid在技术实现上高度模仿了Hyperliquid，是目前为数不多有能力把高性能链上订单簿交易所落地的团队之一，欢迎大家积极参与内测！
+
+## 33. Aug 31, 2025 · 3:52 PM UTC · 1962181624696852937#m
+- 链接：https://twitter.com/godrealmx/status/1962181624696852937#m
+- 作者：@godrealmx
+
+> SafeLiquid is currently in private beta — invite-only. We're improving fast and welcome your feedback.
+> Reply or quote this tweet with your referral link within 7 days to max farm SafeLiquid points and earn 20% commission — Users who identify valid issues and provide suggestions for improvement. 50 lucky winners will share 10 SOL!
+
+## 34. Aug 27, 2025 · 5:48 AM UTC · 1960580238007788001#m
+- 链接：https://twitter.com/godrealmx/status/1960580238007788001#m
+- 作者：@godrealmx
+
+> 大消息：MetaMask支持谷歌账号和苹果ID等社交账号登录了，该功能将显著降低圈外用户的进入门槛，Mass Adoption的阻碍进一步降低了
+
+## 35. Aug 22, 2025 · 3:42 AM UTC · 1958736609098297737#m
+- 链接：https://twitter.com/godrealmx/status/1958736609098297737#m
+- 作者：@godrealmx
+
+> 经简单估测，INJ公链的交易确认延时仅0.62秒，基本达到Web2级别
+
+## 36. Aug 17, 2025 · 3:57 AM UTC · 1956928240058081499#m
+- 链接：https://twitter.com/godrealmx/status/1956928240058081499#m
+- 作者：@godrealmx
+
+> 猜一猜，说的是谁？
+
+## 37. Jul 31, 2025 · 10:43 AM UTC · 1950869811640344760#m
+- 链接：https://twitter.com/godrealmx/status/1950869811640344760#m
+- 作者：@godrealmx
+
+> Hyperliquid 在 7 月资沉增长飞起，从月初略低于 40 亿美元增长达到了 55 亿美元，在中下旬的时候一度逼近 60 亿美元
+>  
+> 其中 USDC 达到了 47.6 亿美元，在 7 月增长了 ~12 亿美元；其余部分则由 Unit 组成，目前支持 7 种资产：BTC ETH SOL FARTCOIN PUMP SPX6900 和 BONK，贡献了 7.5 亿美元
+>  
+> 在 Unit 加持下，Hyperliquid 现在是 FARTCOIN 的最大持有者，以及是 PUMP 第二大持有交易所
+>  
+> Unit 是 Hyperliquid 从纯衍生品交易所转向现货+合约全链交易所的重要基建。通过 Unit，Hyperliquid 的全链上币通道已经被打开，而不局限于 HIP-1。接下来就是看 Hyperliquid 如何去打造独家资产。目前 Hyperliquid 已经在分区中默默地上线了 DEX Only 和 Pre-launch 板块，应该很快就能看到新资产通过 Hyperliquid 首发上线
+
+## 38. Jul 31, 2025 · 11:03 AM UTC · 1950874856427307144#m
+- 链接：https://twitter.com/godrealmx/status/1950874856427307144#m
+- 作者：@godrealmx
+
+> 这本书我们经过苦苦搜寻，最终在闲鱼找到了pdf版本，现已发布至我们的telegram频道，感兴趣者可前往下载（注：这本书的实体版要花100+RMB）
+>  
+> t.me/godrealmx
+
+## 39. Jul 31, 2025 · 5:01 AM UTC · 1950783890077143407#m
+- 链接：https://twitter.com/godrealmx/status/1950783890077143407#m
+- 作者：@godrealmx
+
+> INJ的年化收入达1410万美元，已领先于Sui、Polygon、NEAR等知名公链
+
+## 40. Jun 14, 2025 · 11:32 AM UTC · 1933849934916444651#m
+- 链接：https://twitter.com/godrealmx/status/1933849934916444651#m
+- 作者：@godrealmx
+
+> 其实对链上订单簿交易所来说，除了在启动阶段引入初始流动性之外，最大的挑战在于如何应对高并发及降低交易成本，这对于AppChain的要求会很高，而那些没有自己应用链的交易所会遇到很多限制，不便于添加各种定制化功能，所以到最后对技术团队的要求会很高
+
+## 41. Jun 12, 2025 · 12:41 PM UTC · 1933142558135529694#m
+- 链接：https://twitter.com/godrealmx/status/1933142558135529694#m
+- 作者：@godrealmx
+
+> 欢迎大家关注INJ大使计划 瓜分更多的内容创作激励 未来INJ将在Defi和RWA领域倾斜更多资源 并将致力于扶持优质的中文地区创业团队
+
+## 42. Jun 10, 2025 · 1:43 PM UTC · 1932433355200766049#m
+- 链接：https://twitter.com/godrealmx/status/1932433355200766049#m
+- 作者：@godrealmx
+
+> mass adoption更进一步：基于区块链的在线德扑网站
+>  
+> coinpoker.com/cn/
+
+## 43. Jun 10, 2025 · 4:27 AM UTC · 1932293510851702959#m
+- 链接：https://twitter.com/godrealmx/status/1932293510851702959#m
+- 作者：@godrealmx
+
+> INJ ETF正式在美国特拉华州注册
+
+## 44. Jun 9, 2025 · 5:00 AM UTC · 1931939497425727493#m
+- 链接：https://twitter.com/godrealmx/status/1931939497425727493#m
+- 作者：@godrealmx
+
+> 之前遭遇治理攻击导致polymarket遭殃的UMA乐观预言机准备引入AI Oracle，名为Optimistic Truth Bot，目前经测试，正确率超过98%
+>  
+> blog.uma.xyz/articles/experi…
+
+## 45. Jun 3, 2025 · 6:31 PM UTC · 1929969136454775119#m
+- 链接：https://twitter.com/godrealmx/status/1929969136454775119#m
+- 作者：@godrealmx
+
+> 当年那个给新生儿做CRR5基因编辑的贺建奎教授，如今在Solana上发行了符号为GENE的代币，并称募得资金将用于启动一个基因工程实验室
+
+## 46. May 31, 2025 · 7:35 AM UTC · 1928716858737438921#m
+- 链接：https://twitter.com/godrealmx/status/1928716858737438921#m
+- 作者：@godrealmx
+
+> 据某些传闻 说Hashkey主动下架这篇危机公关稿 是因为Hashkey某些高管不太喜欢文中的措辞 而非因Foresight方面主动交涉后下架
+
+## 47. May 22, 2025 · 6:54 PM UTC · 1925626256135004161#m
+- 链接：https://twitter.com/godrealmx/status/1925626256135004161#m
+- 作者：@godrealmx
+
+> 上面的图片里，展示的是Reveal阶段内正在被解析的投票结果，此时投票早就结束了，只是在事后解密而已，因此不存在所谓的“操纵”“跟风”“羊群效应”，除非大户主动在社交媒体上高调宣称自己把大量代币投给了某个结果，或是私下串谋
+
+## 48. May 22, 2025 · 6:54 PM UTC · 1925626253198938209#m
+- 链接：https://twitter.com/godrealmx/status/1925626253198938209#m
+- 作者：@godrealmx
+
+> 我们对UMA预言机的代码进行了分析后，发现很多媒体和KOL都犯了一个错误：
+>  
+> UMA预言机采用的是Commit-Reveal双阶段隐私投票，Commit阶段投票者提交一个Hash，然后计票结束。Reveal阶段投票者上传生成Hash用到的参数，其中就包括Price（你认为正确的答案），这个时候才会揭示每个人的投票结果
+
+## 49. May 19, 2025 · 12:52 PM UTC · 1924447955047874811#m
+- 链接：https://twitter.com/godrealmx/status/1924447955047874811#m
+- 作者：@godrealmx
+
+> x.com/i/article/192444517205…
+
+## 50. May 19, 2025 · 11:44 AM UTC · 1924430983274901735#m
+- 链接：https://twitter.com/godrealmx/status/1924430983274901735#m
+- 作者：@godrealmx
+
+> Mass Adoption更进一步：国际知名的成人摄影网站Metart现已支持比特币作为付款方式🤣
+
+## 51. May 4, 2025 · 5:55 AM UTC · 1918907251659845723#m
+- 链接：https://twitter.com/godrealmx/status/1918907251659845723#m
+- 作者：@godrealmx
+
+> 上轮周期中，Defi、Gamefi、NFT的范式创新几乎给传统行业带来了惊为天人级的触动，而这轮周期虽然出现了RWA这种有破圈效应的新事物，但由于配套的工具并不完善，依然无法重现几年前牛市的光辉
+>  
+> 目前还要解决的问题，早已不在TPS和底层设施的优异，而在于如何打通链上链下间的隔阂，预言机这块会是关键
+
+## 52. May 4, 2025 · 5:55 AM UTC · 1918907246706413986#m
+- 链接：https://twitter.com/godrealmx/status/1918907246706413986#m
+- 作者：@godrealmx
+
+> 而Solana、Sui为代表的高性能公链，只是在UX上表现出了更好的结果，是底层设施层面的优化，但却没有开拓出什么上轮周期没有的范式级应用场景
+>  
+> 以Uniswap v4为代表的Defi协议在流动性利用效率上的创新虽然极大程度改善了TVL孤岛化的问题，却依然是一个系统在内部环节上的优化，没有表现出正外部性
+
+## 53. May 4, 2025 · 5:55 AM UTC · 1918907243581333860#m
+- 链接：https://twitter.com/godrealmx/status/1918907243581333860#m
+- 作者：@godrealmx
+
+> 关于Crypto领域产品与技术创新的一个看法：
+>  
+> 2024年这轮周期市场始终不温不火，归根结底在于，期间各种产品与技术更迭大多针对已有产品的优化，而非新的可破圈场景
+>  
+> 比如hyperliquid代表的链上交易所，是针对币安等中心化交易所的优化，只能让Web3生态的内循环更流畅，但不足以吸引大量的圈外注意力
+
+## 54. May 1, 2025 · 11:18 AM UTC · 1917901393568158130#m
+- 链接：https://twitter.com/godrealmx/status/1917901393568158130#m
+- 作者：@godrealmx
+
+> 关于BedRock人为制造貔貅盘的瓜，都来吃一吃。根据部分知情人士的推测，这里面的阴暗勾当让人大跌眼镜
+
+## 55. May 1, 2025 · 11:09 AM UTC · 1917899224152522786#m
+- 链接：https://twitter.com/godrealmx/status/1917899224152522786#m
+- 作者：@godrealmx
+
+> 吃瓜（以下为部分关注者的推测/阴谋论）：
+> 不久前在某比特币L2链上，LayerBank因安全漏洞被黑客攻击，大量资产被盗并被砸盘，导致该链上BedRock发行的uniBTC脱锚。
+>  
+> Layerbank无力追回资产，便与BedRock密谋通过其他方式捞回损失。
+>  
+> 由于uniBTC脱锚会引起套利者注意，当有人完成较大量的uniBTC买入，BedRock便在此之后撤掉uniBTC的流动性池，让用户无法卖出。
+>  
+> 假如用户要把unibtc通过Free桥跨到别的链上，则必须由BedRock授权，BedRock再以各种借口不给授权，用户买入的unibtc资产就无法跨走，也无法卖出。
+>  
+> 此时这些unibtc的所有退出路径均被切断，相当于进了貔貅盘，这样一来，Layerbank与BedRock便可以从普通的套利者身上捞回之前被黑客攻击的损失。
+>  
+> 声明：以上为部分人的推测，不一定代表客观事实。
+
+## 56. Apr 24, 2025 · 4:07 AM UTC · 1915256132970717474#m
+- 链接：https://twitter.com/godrealmx/status/1915256132970717474#m
+- 作者：@godrealmx
+
+> 吃瓜：Bedrock的桥把10万美元的用户资金困住不放，当事人只能在推特上求助
+
+## 57. Apr 18, 2025 · 7:54 AM UTC · 1913139035243257978#m
+- 链接：https://twitter.com/godrealmx/status/1913139035243257978#m
+- 作者：@godrealmx
+
+> Deepsafe Research团队最新的研报中提及了币安的BUSD、火币的HUSD、Bitgo的WBTC以及Alameda Research的renBTC
+>  
+> 这些链上资产无一例外都有大机构扶持且一度如日中天，然而后来却因种种原因逐渐走下坡路甚至彻底没落
+>  
+> 链上资产的托管模式到底该如何做到不受单一势力过度控制？这可能是一个重大的问题
+
+## 58. Apr 14, 2025 · 11:08 AM UTC · 1911738446907154927#m
+- 链接：https://twitter.com/godrealmx/status/1911738446907154927#m
+- 作者：@godrealmx
+
+> 蓝V认证关注者数量1883（14%）
+
+## 59. Apr 9, 2025 · 6:54 AM UTC · 1909862413035618536#m
+- 链接：https://twitter.com/godrealmx/status/1909862413035618536#m
+- 作者：@godrealmx
+
+> 据调查，这家大裁员的“比特币公链”是BOB，而非网传的Bitlayer
+
+## 60. Mar 29, 2025 · 2:36 PM UTC · 1905992551175516362#m
+- 链接：https://twitter.com/godrealmx/status/1905992551175516362#m
+- 作者：@godrealmx
+
+> 很久没有推广我们的telegram频道了，目前已有1.4K订阅，欢迎大家进入我们的频道接收更多高质量的行业资讯！
+>  
+> t.me/godrealmx
+
+## 61. Mar 27, 2025 · 4:45 AM UTC · 1905118914448921078#m
+- 链接：https://twitter.com/godrealmx/status/1905118914448921078#m
+- 作者：@godrealmx
+
+> Hyperliquid目前只能称之为“稍微去中心化的交易所”
+>  
+> 首先其节点客户端代码仍未开源；其次，链上只有16个Validator；再者，在官方的操纵下粗暴下架jelly，说明其在治理上也趋于中心化
+>  
+> 真正的“去中心化交易所”之路显然还很漫长
+
+## 62. Mar 22, 2025 · 1:02 PM UTC · 1903432028256977343#m
+- 链接：https://twitter.com/godrealmx/status/1903432028256977343#m
+- 作者：@godrealmx
+
+> 感兴趣的可以阅读我们关于DeepSafe的文章
+
+## 63. Mar 22, 2025 · 1:02 PM UTC · 1903432025081889114#m
+- 链接：https://twitter.com/godrealmx/status/1903432025081889114#m
+- 作者：@godrealmx
+
+> 普通的多签还是无法解决Safe钱包被盗案中涉及的问题。最佳的安全方案，是在链上设置多因素验证流程，也就是俗称的2FA/3FA/MFA
+>  
+> DeepSafe在这块的方案比较清晰：
+>  
+> 资产管理者自己用多签构建一道验证，链下的去中心化网络用门限签名构建第二道验证，后者可以在前者基础上兜底，阻截异常的大额转账行为
+
+## 64. Mar 21, 2025 · 9:53 AM UTC · 1903022208211169698#m
+- 链接：https://twitter.com/godrealmx/status/1903022208211169698#m
+- 作者：@godrealmx
+
+> 7. 面向TEE的开发者指南
+> mp.weixin.qq.com/s/sLyoqBuOr…
+>  
+> 8.对话DefiOasis：AI Agent蓝筹猎手如何养成
+> mp.weixin.qq.com/s/-w4S22-QW…
+
+## 65. Mar 21, 2025 · 9:53 AM UTC · 1903022203362480422#m
+- 链接：https://twitter.com/godrealmx/status/1903022203362480422#m
+- 作者：@godrealmx
+
+> 4.锐评USDD：蹭LUNA热度而生，黑料不断的不稳定币
+> localhost:8080/godrealmx/status/18914…
+>  
+> 5.反思Bybit被盗案：如何用Deepsafe让多签更安全
+> localhost:8080/godrealmx/status/18953…
+>  
+> 6.BitVM背景知识：欺诈证明与ZK Fraud Proof的实现思路
+> mp.weixin.qq.com/s/0HKT2k-gj…
+
+## 66. Mar 19, 2025 · 10:02 AM UTC · 1902299699098611812#m
+- 链接：https://twitter.com/godrealmx/status/1902299699098611812#m
+- 作者：@godrealmx
+
+> 此贴抽奖：
+> Bitget的消费级公链 @MorphLayer  官宣了他们的官方 NFT+尊贵黑卡
+>  
+> 据悉，Morph Pay是TGE前的大动作，Morph Black 黑卡（与 DCS合作）是Pay的首版。目前了解到的权益信息有：
+>  
+> 1. NFT是付费mint，KYC可以领无年费的实体黑卡
+>  
+> 2. 投票治理和生态空投：目前没有太多信息披露，生态空投可以参考Sol的手机，持有的话可能会收到生态项目代币空投
+>  
+> 3. 30%余额资产APY，收益来源是DeFi+补贴
+>  
+> 4.  Google / Apple Pay全球支付
+>  
+> 5. KYC 能得到和 DCS 下发的一张黑卡，应该是可以大额出金。DCS 已经被 Bitget 收购。黑卡特权还包含机场贵宾厅、酒店住宿、行业峰会门票等，具体细节还有待公布。#morphpay #morph
+>  
+> 感谢morph的亚洲区负责人 @EudemoniaCC  ，准备抽两个白名单作为福利，欢迎大家点赞+评论，统计人数后抽奖送出
+
+## 67. Mar 19, 2025 · 5:48 AM UTC · 1902235824013635815#m
+- 链接：https://twitter.com/godrealmx/status/1902235824013635815#m
+- 作者：@godrealmx
+
+> 几个月前被吹上天际的AI Agent，为什么到现在突然哑火了？是因为市场不行，还是因为Web3里的AI Agent本身就没有多大市场空间？
+> 哪位能来总结下？
+
+## 68. Mar 15, 2025 · 4:21 AM UTC · 1900764311892685058#m
+- 链接：https://twitter.com/godrealmx/status/1900764311892685058#m
+- 作者：@godrealmx
+
+> 在此也发布一个开放讨论帖：在你眼中，哪些代表性的项目真正意义实现了PMF？哪些项目代表了其所处细分赛道的龙头？
+>  
+> 我们将从评论区中挑选出几个被提及次数较多，或是比较有趣的项目，作为重点研究对象，并推出专题研报，欢迎大家多多推荐！
+
+## 69. Mar 15, 2025 · 4:16 AM UTC · 1900763125013770615#m
+- 链接：https://twitter.com/godrealmx/status/1900763125013770615#m
+- 作者：@godrealmx
+
+> 真正的好产品屈指可数，它们往往能率先在某个细分赛道实现PMF，或是能够成为头部，比如：Uniswap、Curve、dydx和Hyperliquid、Polymarket、Metamask等皆为此类案例
+>  
+> Crypto领域真的需要成千上万个项目吗？根本不需要那么多，1%的币圈项目就可以满足100%的用户需求，剩下99%的项目只是为了发币而已
+
+## 70. Mar 15, 2025 · 1:28 AM UTC · 1900720826535866432#m
+- 链接：https://twitter.com/godrealmx/status/1900720826535866432#m
+- 作者：@godrealmx
+
+> 归根结底，应该遏制“无需许可发币”的习俗，若不能做到这点，越来越多项目方会为了发币而做项目，人们的注意力会集中到劣质产品上，市场份额也会被各种低质量Kol占领，而不是流到优质的输出者身上
+>  
+> 这一切的乱象都意味着，需要合理的监管介入，混沌而无秩序绝对不是好的状态
+
+## 71. Mar 7, 2025 · 6:52 AM UTC · 1897903136188383418#m
+- 链接：https://twitter.com/godrealmx/status/1897903136188383418#m
+- 作者：@godrealmx
+
+> 基于Nervos公链的类闪电网络项目Fiber Network公开其技术文档，现已发布面向开发者的资料素材
+
+## 72. Mar 7, 2025 · 3:39 AM UTC · 1897854495876694500#m
+- 链接：https://twitter.com/godrealmx/status/1897854495876694500#m
+- 作者：@godrealmx
+
+> 本质是Safe钱包的验证流程有问题，不止是前端攻击的锅。Safe钱包在链下聚合多重签名，然后一次性发到链上做验证，验证通过后即触发资产转移
+>  
+> 这显然存在单点故障风险，就算有各种看似可靠的前端托管方案，依然无法保证你加载前端的电脑本身不被黑
+>  
+> 最可靠的办法是像DeepSafe那样，在链上走2FA双重验证
+
+## 73. Mar 6, 2025 · 11:54 AM UTC · 1897616838931984587#m
+- 链接：https://twitter.com/godrealmx/status/1897616838931984587#m
+- 作者：@godrealmx
+
+> Bifrost是目前波卡生态为数不多还活跃着的项目了
+>  
+> 他们现在的自我定位是全链LST基础设施，专为LSD等场景服务，同时引入了“链抽象”的概念
+>  
+> 至于其发布的新的Token模型，主要涉及其原生代币BNC和重质押代币bbBNC之间的机制设计，提到会以100%的协议收入回购BNC并再分配极大部分给bbBNC持有者
+
+## 74. Mar 6, 2025 · 12:00 PM UTC · 1897618263754047845#m
+- 链接：https://twitter.com/godrealmx/status/1897618263754047845#m
+- 作者：@godrealmx
+
+> 单论 Staking 收益，在各项数据和当前一致的前提下，Bifrost 一年利润大概为 70 万美元
+>  
+> 按 Bifrost 官方收入数据来看，算上系统质押等其他各项收益，2024年的利润大约在 170 万美元左右：
+
+## 75. Mar 6, 2025 · 11:40 AM UTC · 1897613318766141675#m
+- 链接：https://twitter.com/godrealmx/status/1897613318766141675#m
+- 作者：@godrealmx
+
+> x.com/i/article/189760005627…
+
+## 76. Mar 6, 2025 · 6:47 AM UTC · 1897539538614149364#m
+- 链接：https://twitter.com/godrealmx/status/1897539538614149364#m
+- 作者：@godrealmx
+
+> 至于Constanting在这里列举出的社区名单，其中有几个其实也是不怎么活跃或者说不像过去那样活跃了
+>  
+> 比如Rebase就曾在2023年上海的一次黑客松活动中，被某些极端女拳恶意的扣上了屎盆子，使得他们不再像几年前那样热衷于组织线下活动了
+>  
+> 此中苦痛，谁人理解
+
+## 77. Mar 6, 2025 · 6:47 AM UTC · 1897539535501717654#m
+- 链接：https://twitter.com/godrealmx/status/1897539535501717654#m
+- 作者：@godrealmx
+
+> 原本我们也是比较活跃的社区，后来被人把屎盆子扣到脑袋上，热情彻底干没了
+>  
+> 社区这种事情本质是利他多于利己，你做的好了会有一堆人进来白嫖蹭，做出了错误就会被人指责
+>  
+> 归根结底，最终没人愿意无偿做社区，除非是拿了项目方Grants的
+>  
+> 在此劝退任何想做公益性质社区的人，尽量别做费力不讨好的事
+
+## 78. Mar 4, 2025 · 7:21 AM UTC · 1896823353048277403#m
+- 链接：https://twitter.com/godrealmx/status/1896823353048277403#m
+- 作者：@godrealmx
+
+> 再度欢迎各位阅读我们官推置顶的与USDD相关的文章
+>  
+> USDD风险极高，背后的高APY不可持续，希望大家警惕起来
+
+## 79. Mar 4, 2025 · 6:30 AM UTC · 1896810566871814430#m
+- 链接：https://twitter.com/godrealmx/status/1896810566871814430#m
+- 作者：@godrealmx
+
+> 1. 比特币生态的几大流派包括BitVM系、闪电网络系、侧链系，Babylon按照其应用场景可以自成一派
+>  
+> 2. Merlin只能代表侧链路线的没落，不能代表比特币生态
+>  
+> 3. 目前比特币生态里资金充裕的大项目方还有很多，比如Bitlayer、Citrea、BOB等
+>  
+> 4. BitVM流派在几个月内就会有具体的重大落地
+
+## 80. Mar 3, 2025 · 3:30 AM UTC · 1896402735223951812#m
+- 链接：https://twitter.com/godrealmx/status/1896402735223951812#m
+- 作者：@godrealmx
+
+> 更正下，目前明确属于BitVM联盟成员的项目方，仅有Bitlayer、Citrea、Element、Fiamma、Strata、ZeroSync
+
+## 81. Mar 3, 2025 · 2:44 AM UTC · 1896391101353005414#m
+- 链接：https://twitter.com/godrealmx/status/1896391101353005414#m
+- 作者：@godrealmx
+
+> 去年曾火热一时或炒作甚热的比特币二层，如Merlin、B2、BEVM等，如今已经没了多少声量
+>  
+> 未来比特币生态除了闪电网络和RGB、RGB++外，还有后劲的可能就剩Bitlayer、BOB、Citrea和Goat这种BitVM系的清真项目了
+
+## 82. Mar 2, 2025 · 10:36 AM UTC · 1896147694546203047#m
+- 链接：https://twitter.com/godrealmx/status/1896147694546203047#m
+- 作者：@godrealmx
+
+> YZi Labs负责人Ella Zhang宣布支持 CZ昨日针对VC币项目的“疯狂想法”，如果有项目基于CZ的想法来创业，可以向YZi Labs提交申请并优先审核
+>  
+> CZ的想法是，项目方第一次解锁Token只应占总量的不到10%，后续解锁必须满足以下条件：
+>  
+> 1 离上次解锁至少6个月
+> 2 代币价格在解锁前的30天内，必须持续高于上次解锁价格的2倍
+> 3 每次最多只能解锁5%
+
+## 83. Mar 2, 2025 · 6:12 AM UTC · 1896081159127536114#m
+- 链接：https://twitter.com/godrealmx/status/1896081159127536114#m
+- 作者：@godrealmx
+
+> 大多数项目都是为了发币套现，不考虑长期发展，上大所就到了终点，自此便开始不作为，如EOS等皆是如此
+>  
+> 如果投资人和散户单纯把希望寄托于
+> “项目方团队有格局”“有大机构背书”等因素，永远无法有效解决项目方不作为的问题
+>  
+> CZ提出的限制条件倒挺有意思，不知道币安能否率先推动行业向规范化的方向发展
+
+## 84. Mar 1, 2025 · 4:42 AM UTC · 1895695994463171050#m
+- 链接：https://twitter.com/godrealmx/status/1895695994463171050#m
+- 作者：@godrealmx
+
+> Bitlayer基于BitVM2的比特币跨链桥已经在筹备接入Arbitrum、Base、Starknet、Plume和Sonic等知名公链
+
+## 85. Feb 28, 2025 · 8:47 AM UTC · 1895395353475907667#m
+- 链接：https://twitter.com/godrealmx/status/1895395353475907667#m
+- 作者：@godrealmx
+
+> Bybit事件中Safe钱包的问题在于，缺乏链上的2FA验证流程，链上只验证Safe前端聚合的多签结果，本质只有1道链上验证，用户前端若有问题则出事
+>  
+> 如果通过去中心化网络，对用户前端发送的交易信息进行第2道验证，在链上提交验证结果，构建链上版2FA验证程序，可以有效扼制前端攻击或单点故障
+
+## 86. Feb 28, 2025 · 8:36 AM UTC · 1895392589773500831#m
+- 链接：https://twitter.com/godrealmx/status/1895392589773500831#m
+- 作者：@godrealmx
+
+> x.com/i/article/189539045150…
+
+## 87. Feb 27, 2025 · 3:31 AM UTC · 1894953539866370176#m
+- 链接：https://twitter.com/godrealmx/status/1894953539866370176#m
+- 作者：@godrealmx
+
+> 我们的一位核心贡献者在几年前写的关于Safe钱包的技术解读 推荐一读
+
+## 88. Feb 26, 2025 · 2:59 PM UTC · 1894764322326475018#m
+- 链接：https://twitter.com/godrealmx/status/1894764322326475018#m
+- 作者：@godrealmx
+
+> 公开讨论话题：相比于币圈媒体，KOL的影响力为何越来越大？
+>  
+> 我们的看法：
+>  
+> 1.币圈缺乏新增用户
+> 新用户在入门时期更喜欢阅读币圈媒体，而老用户习惯于在推特直接浏览关注列表里的KOL
+>  
+> 2. VC币的衰败与memecoin的兴起
+> VC币项目比较复杂，需要深度研究，媒体在这块有更大的优势。VC币衰败后，人们的注意力大多聚集在memecoin上，媒体深度文章的流量也随之减少
+>  
+> 3. AI的搅局
+> Chatgpt为代表的AI大幅降低了自媒体的运行门槛，很多人借助AI工具可以快速产出短平快的内容，这些内容虽然深度有限，但足以靠一些关键词吸引读者眼光
+>  
+> 虽然AI同样有助于媒体机构降低工作难度，但面对越来越多的自媒体人/KOL出现，被蚕食流量不可避免
+>  
+> 4.许多媒体提供的内容并不比KOL强
+> 虽然KOL群体对媒体机构的冲击很明显，但如 吴说、Foresight、深潮 等多家媒体仍提供了不可替代性较强的内容
+>  
+> 但反观某些习惯于输出短平快风格短文的币圈媒体，其内容调性极易被KOL替代，这也是不可忽视的原因
+>  
+> 你的看法是什么？可以在评论区留言。我们将对这个话题进行深入思考，日后可能作为一个专题来进行研究。
+
+## 89. Feb 25, 2025 · 3:17 PM UTC · 1894406475801673854#m
+- 链接：https://twitter.com/godrealmx/status/1894406475801673854#m
+- 作者：@godrealmx
+
+> 看到 @justinsuntron 孙宇晨还在鼓吹USDD，建议所有刷到这条推文的人，都去阅读我们官推置顶的分析USDD的文章
+>  
+> 现在的USDD虽然打着“超额抵押”的旗号，实际上流通中的90% USDD靠PSM模块维稳，等价于和USDT 1：1刚兑
+>  
+> 脑筋急转弯：孙宇晨为什么要通过补贴的方式，为用户存放的USDT发放高达20%的APY呢？
+
+## 90. Feb 24, 2025 · 7:26 PM UTC · 1894106521232904425#m
+- 链接：https://twitter.com/godrealmx/status/1894106521232904425#m
+- 作者：@godrealmx
+
+> 我们明确向CoinDesk这种不畏强暴与利诱的精神致敬！并且我们将明确表示，未来敢于批判孙宇晨的媒体/机构名单中，将明确有我们的名字！
+>  
+> 欢迎大家观看我们置顶文章中对孙宇晨的USDD项目的批判！
+
+## 91. Feb 17, 2025 · 3:11 PM UTC · 1891505823232483727#m
+- 链接：https://twitter.com/godrealmx/status/1891505823232483727#m
+- 作者：@godrealmx
+
+> 继本公司发表「锐评USDD：蹭LUNA热度而生，黑料不断的“不稳定币”」一文后，@justinsuntron 孙宇晨先生将我方直接拉黑，至今仍未正面回应关于USDD欺诈用户和虚假宣传的指责
+>  
+> 此外，孙宇晨仍在推特高调晒图，炫耀USDD市值已达2亿美元
+
+## 92. Feb 17, 2025 · 1:56 PM UTC · 1891486906216583339#m
+- 链接：https://twitter.com/godrealmx/status/1891486906216583339#m
+- 作者：@godrealmx
+
+> @zunzunv @0x9seed @Christianeth @lanhubiji @kanazawa0x0
+
+## 93. Feb 17, 2025 · 1:10 PM UTC · 1891475227579678887#m
+- 链接：https://twitter.com/godrealmx/status/1891475227579678887#m
+- 作者：@godrealmx
+
+> 鉴于孙割曾坑害过太多人，强烈呼吁曾被孙割坑害过的受害者或热心群众们转发此贴！
+>  
+> @BTCdayu  @DujunX  @CryptoApprenti1  @FLS_OTC @Loki_Zeng
+
+## 94. Feb 17, 2025 · 1:10 PM UTC · 1891475223699923296#m
+- 链接：https://twitter.com/godrealmx/status/1891475223699923296#m
+- 作者：@godrealmx
+
+> 最后用USDD挖矿的受害者 @JaceHoiX  的经历结尾
+
+## 95. Feb 17, 2025 · 1:10 PM UTC · 1891475220109963372#m
+- 链接：https://twitter.com/godrealmx/status/1891475220109963372#m
+- 作者：@godrealmx
+
+> 根据过往经验判断，孙宇晨并不值得信任，USDD 2.0大概率也是其耍的小把戏
+>  
+> 首先超高收益率一定不可持续，现在的收益率已经维持在18%左右
+>  
+> 其次，孙宇晨不可能平白无故撒钱，肯定会有后手
+>  
+> 另外，Insurance contract中的巨量USDD有被抛售的可能，更是一个大雷
+
+## 96. Feb 17, 2025 · 1:10 PM UTC · 1891475216506970493#m
+- 链接：https://twitter.com/godrealmx/status/1891475216506970493#m
+- 作者：@godrealmx
+
+> 这里做一个大胆的猜想：孙宇晨手中有大量的USDD等待套现，但二级市场深度不够，出货会造成崩盘。怎么办呢？
+>  
+> 用高收益吸引用户通过PSM模块把USDT换为USDD，这样一来，一方面可以出货USDD，另一方面，PSM池中有了USDT流动性，孙宇晨可以借此把手中剩余的USDD无损套现为USDT
+
+## 97. Feb 17, 2025 · 1:10 PM UTC · 1891475212576964912#m
+- 链接：https://twitter.com/godrealmx/status/1891475212576964912#m
+- 作者：@godrealmx
+
+> 至于USDD 2.0，虽然的确从算稳模型更迭到了超额抵押，同时引入了PSM维稳模块，支持USDD和USDT的刚兑
+>  
+> 但只要看下数据就会发现，目前USDD的市值为1.5亿美元，超额抵押模块铸造的USDD仅占10%，其余90%的USDD都靠PSM模块来维稳
+>  
+> 换言之，USDD 2.0本质是：你把USDT存进来，孙宇晨承诺给你每年20%的利息
+
+## 98. Feb 17, 2025 · 1:10 PM UTC · 1891475207736668164#m
+- 链接：https://twitter.com/godrealmx/status/1891475207736668164#m
+- 作者：@godrealmx
+
+> 波联储每次增发USDD时，会将10亿枚USDD转移到Authorized contract合约，也就是说Authorized contract才是真正意义上的铸币地址
+>  
+> 然后，这些增发的USDD要从Authorized contract再转移到一个TRC-20 Token地址，再将这些USDD根据白名单进行发放，最终流入市场
+
+## 99. Feb 17, 2025 · 1:10 PM UTC · 1891475203076895159#m
+- 链接：https://twitter.com/godrealmx/status/1891475203076895159#m
+- 作者：@godrealmx
+
+> 此外，USDD的铸造和销毁均由中心化机构来控制
+>  
+> 根据白皮书，USDD在项目上线前预先铸造了9999亿枚，存到一个叫做“Insurance contract”的多签合约名下
+
+## 100. Feb 17, 2025 · 1:10 PM UTC · 1891475198320558525#m
+- 链接：https://twitter.com/godrealmx/status/1891475198320558525#m
+- 作者：@godrealmx
+
+> 由于TRX-USDD本质是阉割版的LUNA-UST，只支持白名单机构双向套利，所以TRX和USDD的双代币模型无法有效利用市场效应来维持币价稳定，历史上多次脱锚
+>  
+> 仅在2022年，USDD就发生过3次重大脱锚，每次都由孙宇晨回购USDD+个人背书来平息风波
+>  
+> 而在2023年和2024年，USDD又发生过多次脱锚
+
+## 101. Feb 17, 2025 · 1:10 PM UTC · 1891475193614459017#m
+- 链接：https://twitter.com/godrealmx/status/1891475193614459017#m
+- 作者：@godrealmx
+
+> 过去波联储曾多次爆出私自挪用金库里的储备金，而USDD的算稳模型支持白名单机构销毁TRX铸造USDD
+>  
+> 这些被销毁的TRX全部存放在一个5/7多签地址下，随时可能被转走
+
+## 102. Feb 17, 2025 · 1:10 PM UTC · 1891475188551942153#m
+- 链接：https://twitter.com/godrealmx/status/1891475188551942153#m
+- 作者：@godrealmx
+
+> USDD和波联储的所谓“超额储备”，实际上只是存放在金库里的BTC、USDT、ETH，如果USDD在二级市场脱锚，波联储就可以抛售金库里的资产，回购USDD，使其回锚
+>  
+> 但稍微懂DAI的人都明白，这和MakerDAO那种超额抵押铸造稳定币的玩法相差甚远，严重依赖于“人治”。如果孙宇晨在关键时刻不打算救市，USDD肯定崩
+
+## 103. Feb 17, 2025 · 1:10 PM UTC · 1891475182977753426#m
+- 链接：https://twitter.com/godrealmx/status/1891475182977753426#m
+- 作者：@godrealmx
+
+> 这可能是为数不多的系统梳理USDD原理及其黑历史的文章
+>  
+> 旧版USDD是2022年5月 @justinsuntron 蹭LUNA热度而推出的算法稳定币，采用USDD-TRX双向兑换模型（实际上只有白名单机构可以这么玩）
+>  
+> 孙宇晨还谎称USDD是“超额抵押”，实际上旧版USDD压根就不是DAI那种模型，整个都建立在虚假宣传之上
+
+## 104. Feb 17, 2025 · 12:37 PM UTC · 1891466997290123705#m
+- 链接：https://twitter.com/godrealmx/status/1891466997290123705#m
+- 作者：@godrealmx
+
+> x.com/i/article/189146011235…
+
+## 105. Feb 15, 2025 · 10:43 AM UTC · 1890713423303840020#m
+- 链接：https://twitter.com/godrealmx/status/1890713423303840020#m
+- 作者：@godrealmx
+
+> 马克.安德森曾说，创业成功最重要的因素是市场，创业团队最需要追求的是产品与市场契合，即PMF
+>  
+> 一个不争的事实是，越是钻研底层技术的人，创业时越容易背离PMF这个目标，容易陷入闭门造车的困境
+>  
+> 对于所有创业的技术人员，一定要考虑好自己更适合当CEO还是CTO，是否该找一名善于把握用户需求的合伙人
+
+## 106. Feb 12, 2025 · 5:15 AM UTC · 1889543947699224731#m
+- 链接：https://twitter.com/godrealmx/status/1889543947699224731#m
+- 作者：@godrealmx
+
+> 在对Hyperliquid进行充分调研后，我们认为，未来的链上交易所有很大潜力取代币安这种中心化平台
+>  
+> 首先Hyperliquid的上币流程完全公开透明，由竞拍的形式分配上币权，免去了“好处费”
+>  
+> 其次Hyperliquid推出的Hip-2自动做市业务可以为Token发行方提供廉价的订单簿做市服务，极大程度降低了流动性获取成本
+
+## 107. Feb 12, 2025 · 5:15 AM UTC · 1889543951914598820#m
+- 链接：https://twitter.com/godrealmx/status/1889543951914598820#m
+- 作者：@godrealmx
+
+> 目前Hyperliquid在链上衍生品交易平台的市占率达到了75%，上币费直逼百万美金
+>  
+> 其更多问题还是集中在链底层以及跨链桥的安全隐患上，这一部分如果待项目方开源节点客户端代码并进一步增强安全模型的话，Hyperliquid将有绝对的话语权挑战一众大交易所的地位
+
+## 108. Feb 12, 2025 · 5:01 AM UTC · 1889540258204885181#m
+- 链接：https://twitter.com/godrealmx/status/1889540258204885181#m
+- 作者：@godrealmx
+
+> x.com/i/article/188953599287…
+
+## 109. Feb 10, 2025 · 11:49 PM UTC · 1889099368915210597#m
+- 链接：https://twitter.com/godrealmx/status/1889099368915210597#m
+- 作者：@godrealmx
+
+> 注意看这里！
+>  
+> @ABCDELabs  招一位对AI Agent框架有了解的技术研究员/工程师 欢迎大家踊跃尝试
+>  
+> 可联系 @0xkevinhe 或加vx freeface
+
+## 110. Jan 26, 2025 · 9:10 AM UTC · 1883442254528078274#m
+- 链接：https://twitter.com/godrealmx/status/1883442254528078274#m
+- 作者：@godrealmx
+
+> x.com/i/article/188343396363…
+
+## 111. Jan 25, 2025 · 5:12 PM UTC · 1883201327519690868#m
+- 链接：https://twitter.com/godrealmx/status/1883201327519690868#m
+- 作者：@godrealmx
+
+> Paradigm发布了名为“以太坊加速”的评论和宣言，指出了以太坊该如何提升效率，以及在市场竞争中保持领先地位，也提及了Paradigm已经和将为以太坊做什么
+
+## 112. Jan 24, 2025 · 11:58 AM UTC · 1882759976462197190#m
+- 链接：https://twitter.com/godrealmx/status/1882759976462197190#m
+- 作者：@godrealmx
+
+> 近期因机缘巧合，我们有幸认识了Morph公链生态商务经理 @EudemoniaCC  ——一位新闻传播学出身的清华研三学生。虽然她只有24岁，却早已是坐拥几万粉丝的KOL，同时有着Web2大厂、NFT社区、高校链协、国企、Infra项目方和VC从业的丰富经历
+
+## 113. Jan 24, 2025 · 12:33 PM UTC · 1882768796504723734#m
+- 链接：https://twitter.com/godrealmx/status/1882768796504723734#m
+- 作者：@godrealmx
+
+> 前一阵去清华采访了Morph的生态商务经理EudemoniaCC。CC其实在圈内大家很知名了，大家对她并不陌生。我从面对面接触谈一谈我接触下来的简单感受：
+> ​
+> ​1. 真人很漂亮
+> ​2. 我们约在清华校园深处的一个咖啡厅，所以要从校门口步行过去。一路上我看到即使是清华的学生，脸上还是有那种学生版清澈愚蠢和茫然的，所以见到CC后，她那种心有丘壑所表现出的自信，就显得很有魅力。
+> ​3. 与她深入交流，可以感觉到，即使是简单的聊天，也能感受到她的语言逻辑性极强，而且层次分明，主题清晰，论据都围绕着论点，让人听起来不累。
+> ​4. 能力强，工作有自己独特的思路和方法，在采访记录中可以看到，感觉自愧弗如。
+>  
+> 所以清华是CC的一个标签，但我觉得即使她不是清华的学生，她仍然非常优秀。
+>  
+> 聊天非常愉快，​采访纪要的干货非常多，且包含的范畴也比较广，行业内任何一个生态位感觉读起来都会觉得很有趣
+
+## 114. Jan 24, 2025 · 11:58 AM UTC · 1882759979385635121#m
+- 链接：https://twitter.com/godrealmx/status/1882759979385635121#m
+- 作者：@godrealmx
+
+> 在这篇近1万字的访谈中，EudemoniaCC向我们诉说了
+>  
+> 1.从接触比特币到入局Web3的心路历程
+> 2.在VC做CEX平台币研究时的收获
+> 3.Morph的消费级公链愿景与规划
+> 4. AI时代下年轻人该如何磨炼自己脱颖而出
+>  
+> 我们相信CC的分享对于Z世代从业者乃至尚未入行的年轻人都有极高的参考价值，在此推荐大家阅读上面的文章！
+
+## 115. Jan 24, 2025 · 11:56 AM UTC · 1882759378656448533#m
+- 链接：https://twitter.com/godrealmx/status/1882759378656448533#m
+- 作者：@godrealmx
+
+> x.com/i/article/188275814127…
+
+## 116. Jan 19, 2025 · 8:18 AM UTC · 1880892475998704008#m
+- 链接：https://twitter.com/godrealmx/status/1880892475998704008#m
+- 作者：@godrealmx
+
+> Bitlayer基于BitVM技术和欺诈证明协议的BTC跨链桥即将上线，将为以太坊、polygon、Avalanche等主流EVM公链带来安全的比特币资产！
+> 去WBTC进行时！
+
+## 117. Jan 16, 2025 · 3:18 AM UTC · 1879729980202209280#m
+- 链接：https://twitter.com/godrealmx/status/1879729980202209280#m
+- 作者：@godrealmx
+
+> 我们关于Usual的深度研究，从Usual的产品逻辑出发，系统解析了Usual和USD0、USD0++的原理
+>  
+> 还从Morpha循环贷的角度解释了为何Usual最新的USD0++保底价0.87 恰好比Morpha上清算线0.86高一点点：
+>  
+> 可以爆掉Morpha上的USD0++/USDC循环贷仓位，解决挖提卖中的主力，但又不会让USDC++/USDC金库出现坏账
+
+## 118. Jan 16, 2025 · 5:56 AM UTC · 1879769663472873707#m
+- 链接：https://twitter.com/godrealmx/status/1879769663472873707#m
+- 作者：@godrealmx
+
+> 文中笔误将"morpho"错写为“morpha
+> ”
+
+## 119. Jan 16, 2025 · 3:36 AM UTC · 1879734424843255910#m
+- 链接：https://twitter.com/godrealmx/status/1879734424843255910#m
+- 作者：@godrealmx
+
+> 本文是我对Usual的USD0++脱锚事件的一次深度分析，看到0.87这样精确的字眼，很难不怀疑其背后的猫腻。
+>  
+> 感谢 @wong_ssh 在技术部分和Morpho相关知识点部分的内容支持。@wong_ssh是一位非常优秀的DeFi合约技术专家，同时也管理着一个推荐深度内容tg频道，在我之前的推特中也进行过推荐。
+>  
+> 近期 Usual发行的 USD0++脱锚成为了市场上热议的关键词，引发了诸多 Usual用户的恐慌。该项目在去年11月上架顶级 CEX后拉升超过10倍，其基于 RWA的稳定币发行机制与Token模型与上轮周期的 Luna、OlympusDAO颇有几分相似，再加上有法国国会议员 Pierre Person的政府背景背书，Usual一度吸引到了市场的广泛关注。
+>  
+> 听名字USD0++是个稳定币，不过它只是债券，真正的稳定币是USD0。所以其实Usual中的几种币名字差不多，很容易混淆，本文结合进行了梳理，方便大家知道到底发生了什么。
+>  
+> 有人说USD0++本来就不是稳定币，而是债券，所以不存在脱锚这种说法。于理没问题，与情不太合适。
+>  
+> 第一，加密市场的潜规则是只有稳定币的名字中才会带有“USD”字样。第二，USD0++本就是在Usual中以稳定币1：1换取的，人们默认其价值等同于稳定币；第三，Curve的稳定币交易池中有包含USD0++的交易对。如果USD0++不想被认为是稳定币，可以换一个名字，并让Curve下架USD0++，或换到非稳定币池中。
+>  
+> 那么项目方将USD0++与债券和稳定币各自的关系暧昧模糊化，以及本次事件的动机是什么呢？我们详细分析了两点：
+>  
+> 第一是想爆掉循环贷
+>  
+> 第二是想只靠机制，不投钱，把币价拉回来。
+>  
+> 除此之外，还有三点想说的，是对于整个行业和用户的，在文章结尾。
+
+## 120. Jan 16, 2025 · 3:18 AM UTC · 1879729984459432334#m
+- 链接：https://twitter.com/godrealmx/status/1879729984459432334#m
+- 作者：@godrealmx
+
+> 总结下来，Usual的行为是“关门打狗、投降输一半、暴力去杠杆”
+>  
+> 欢迎大家进入我们的Telegram频道，及时阅读更多有价值的资讯！
+>  
+> t.me/godrealmx
+
+## 121. Jan 16, 2025 · 3:09 AM UTC · 1879727651855925250#m
+- 链接：https://twitter.com/godrealmx/status/1879727651855925250#m
+- 作者：@godrealmx
+
+> x.com/i/article/187972267054…
+
+## 122. Jan 12, 2025 · 12:22 PM UTC · 1878417200131850688#m
+- 链接：https://twitter.com/godrealmx/status/1878417200131850688#m
+- 作者：@godrealmx
+
+> 关于HyperEVM的技术细节，可以直接阅读我们的文章原文，链接在此
+> 同时欢迎大家加入我们的Telegram频道，官推置顶有链接，谢谢！
+
+## 123. Jan 12, 2025 · 12:22 PM UTC · 1878417196495638642#m
+- 链接：https://twitter.com/godrealmx/status/1878417196495638642#m
+- 作者：@godrealmx
+
+> 我们称订单薄专用链为Hyperliquid L1 (L1)，这条链是存在许可制的；
+>  
+> 而用于HyperEVM 的链为HyperEVM（EVM），这条链是无许可的，任何人都可以部署合约，这些合约可以通过预编译代码来访问L1内的信息
+>  
+> 为了让HyperL1和HyperEVM之间实现交互，Hyperliquid利用了Precompiles和Events两种技术手段
+
+## 124. Jan 12, 2025 · 12:22 PM UTC · 1878417192523604273#m
+- 链接：https://twitter.com/godrealmx/status/1878417192523604273#m
+- 作者：@godrealmx
+
+> 实质是让Hyperliquid节点设备在软件层面同时运行两条区块链，每个节点都在本地存放两条链的数据，对两条链的交易分别进行处理
+>  
+> 这两条链的数据在节点群体间通过相同的共识协议来传播，作为一个统一的状态来存在，但在不同的执行环境中分别运行
+
+## 125. Jan 12, 2025 · 12:22 PM UTC · 1878417186626392394#m
+- 链接：https://twitter.com/godrealmx/status/1878417186626392394#m
+- 作者：@godrealmx
+
+> 举个例子，如果需要保证挂单的隐私性，可以在HyperEVM上通过Tornado Cash套一层隐私，然后通过特定接口在HyperLiquid订单簿系统中触发挂单
+>  
+> Hyperliquid为HyperEVM准备了特殊架构。因为它有定制化超高性能订单薄系统，而EVM的速度要慢很多。为了避免订单簿系统变慢，Hyperliquid使用“双链方案”
+
+## 126. Jan 12, 2025 · 12:22 PM UTC · 1878417182620794899#m
+- 链接：https://twitter.com/godrealmx/status/1878417182620794899#m
+- 作者：@godrealmx
+
+> HyperEVM
+>  
+> 为了让订单簿交易变的可编程化，比如引入隐私交易等需要智能合约的场景，Hyperliquid推出了HyperEVM
+> ，相比于传统的EVM有两个特殊优势：
+>  
+> 一是HyperEVM可以读取HyperLiquid的订单簿状态
+>  
+> 二是HyperEVM内的智能合约可以与Hyperliquid订单簿系统交互，这大大扩展了Hyperliquid的应用场景
+
+## 127. Jan 12, 2025 · 12:22 PM UTC · 1878417178346852675#m
+- 链接：https://twitter.com/godrealmx/status/1878417178346852675#m
+- 作者：@godrealmx
+
+> 2. finalizers拒绝对用户的提款交易进行最终确认，展开审查攻击；种情况下用户资产不会被盗，但可能无法从桥合约中提款；
+>  
+> 3. lockers恶意定跨链桥，此时所有的提款交易都无法执行，只能等coldValidatorSet解锁；
+
+## 128. Jan 12, 2025 · 12:22 PM UTC · 1878417174496502042#m
+- 链接：https://twitter.com/godrealmx/status/1878417174496502042#m
+- 作者：@godrealmx
+
+> 至此，我们已经介绍了Hyperliquid跨链桥的大部分细节。总结下来，Hyperliquid的桥合约包含以下风险：
+>  
+> 1. 黑客控制了coldValidatorSet后可以无视任何阻拦来盗取用户资产。因为coldValidatorSet拥有emergencyUnlock函数的操作权限，可以让lockers对桥合约的锁定无效化，且可以即时更新节点名单
+
+## 129. Jan 12, 2025 · 12:22 PM UTC · 1878417169870119018#m
+- 链接：https://twitter.com/godrealmx/status/1878417169870119018#m
+- 作者：@godrealmx
+
+> emergencyUnlock在解除锁定的同时，会输入新的hotValidatorSet和 coldValidatorSet验证者集合，且会立即更新
+
+## 130. Jan 12, 2025 · 12:22 PM UTC · 1878417165965230475#m
+- 链接：https://twitter.com/godrealmx/status/1878417165965230475#m
+- 作者：@godrealmx
+
+> 桥合约的锁定
+>  
+> Hyperliquid设置了锁定桥合约的功能。锁定跨链桥需要lockers调用合约中的voteEmergencyLock函数进行投票，当2名 lockers调用该函数后，合约就会被锁定
+>  
+> 但要注意，跨链桥也提供了unvoteEmergencyLock函数，允许lockers撤回投票。而一旦合约被成功锁定，只能通过emergencyUnlock的函数来解除锁定，要收集coldValidatorSet成员2/3以上的签名权重
+
+## 131. Jan 12, 2025 · 12:22 PM UTC · 1878417160516821108#m
+- 链接：https://twitter.com/godrealmx/status/1878417160516821108#m
+- 作者：@godrealmx
+
+> 从安全模型看，假如恶意攻击者想在提款流程中做手脚，要突破三道防线
+>  
+> 1.掌握hotValidatorSet内的2/3签名权重；目前HyperLiquid只有4个验证者，被攻击者控制或串谋的可能性不低
+>  
+> 2.争议期内攻击者应避免自己的恶意提款被发现，一旦被发现lockers就会出手锁住合约
+>  
+> 3.获取至少一个finalizers 成员的私钥，让提款行为被最终确认。目前finalizers和hotValidatorSet成员一致，只要满足了条件1，就满足了条件3
+
+## 132. Jan 12, 2025 · 12:22 PM UTC · 1878417156721033562#m
+- 链接：https://twitter.com/godrealmx/status/1878417156721033562#m
+- 作者：@godrealmx
+
+> 前面提到桥合约采用“提交—确认”制，目前争议期为200秒，可能出现两种情况
+>  
+> 1. lockers认为所有的提款都存在问题，此时可以直接投票把合约冻结
+>  
+> 2.部分提款存在问题，coldValidatorSet成员可以调用 invalidateWithdrawals函数，令该提款无效化
+>  
+> 如果争议期内没有问题，finalizers 成员可以调用桥合约中的batchedFinalizeWithdrawals函数来敲定最终状态，之后USDC会被打到用户的Arbitrum钱包地址
+
+## 133. Jan 12, 2025 · 12:22 PM UTC · 1878417152631599436#m
+- 链接：https://twitter.com/godrealmx/status/1878417152631599436#m
+- 作者：@godrealmx
+
+> 提款
+>  
+> 提款逻辑比存款复杂很多。当用户发起提款请求后，Hyperliquid 节点会调用桥合约的 batchedRequestWithdrawals函数
+>  
+> 每笔提款请求必须凑齐hotValidatorSet的2/3签名权重，注意不是“集齐2/3的签名”
+>  
+> 目前只有4个权重相同的节点，但在未来，HyperLiquid可能引入高权重的节点
+
+## 134. Jan 12, 2025 · 12:22 PM UTC · 1878417146709201118#m
+- 链接：https://twitter.com/godrealmx/status/1878417146709201118#m
+- 作者：@godrealmx
+
+> 存款流程
+>  
+> 桥合约基于EIP-2612的Permit方法来处理用户存款操作，Permit相比于传统的Approve—Transfer模式更简洁，也便于批量操作
+>  
+> Hyperliquid使用了batchedDepositWithPermit函数来批量处理多笔存款，存款动作较为简单，不存在安全风险，在处理流程上很简洁，只是使用了Permit方法来优化UX
+
+## 135. Jan 12, 2025 · 12:21 PM UTC · 1878417138806894634#m
+- 链接：https://twitter.com/godrealmx/status/1878417138806894634#m
+- 作者：@godrealmx
+
+> 假如某笔提款声明是无效的，lockers可以暂停跨链桥运行，或由coldValidatorSet将有问题的提款无效化
+>  
+> 目前Hyperliquid只有4个验证者节点，hotValidatorSet和coldValidatorSet只对应4个地址
+>  
+> Hyperliquid在初始时将hotValidatorSet地址注册为 lockers和finalizers成员，而coldValidatorSet为官方控制
+
+## 136. Jan 12, 2025 · 12:21 PM UTC · 1878417132767383953#m
+- 链接：https://twitter.com/godrealmx/status/1878417132767383953#m
+- 作者：@godrealmx
+
+> finalizers也是一组特殊验证者，用于敲定跨链桥的状态变化，敲定存款和提款结果
+>  
+> Hyperliquid桥使用“提交-确认”机制，用户发起提款后不会立即执行，要等一段时间(争议期)。争议期结束后，finalizers成员敲定提款交易，提款结果才可以上链
+
+## 137. Jan 12, 2025 · 12:21 PM UTC · 1878417128770113855#m
+- 链接：https://twitter.com/godrealmx/status/1878417128770113855#m
+- 作者：@godrealmx
+
+> coldValidatorSet用于修改配置，如改写hotValidatorSet 或lockers名单，或处理桥合约锁定状态，还有权将某些提款请求无效化
+>  
+> lockers则类似于Layer2“安全委员会”，在一些突发情况下用投票决定是否让跨链桥停运
+>  
+> Hyperliquid桥的lockers集合包含5个地址，2个locker投票即可暂停桥合约
+
+## 138. Jan 12, 2025 · 12:21 PM UTC · 1878417122692628961#m
+- 链接：https://twitter.com/godrealmx/status/1878417122692628961#m
+- 作者：@godrealmx
+
+> 目前Hyperliquid在Arbitrum上部署了桥合约，只支持USDC一种资产
+>  
+> 从节点身份划分的角度看，Hyperliquid有4组验证者，分别为 hotValidatorSet、coldValidatorSet 以及finalizers 和 lockers，对应着不同职能
+>  
+> hotValidatorSet用于响应提款操作等高频行为，一般使用热钱包以随时响应用户的请求
+
+## 139. Jan 12, 2025 · 12:21 PM UTC · 1878417116459876373#m
+- 链接：https://twitter.com/godrealmx/status/1878417116459876373#m
+- 作者：@godrealmx
+
+> Hyperliquid目前只有4个验证者节点，并且客户端代码闭源，但其跨链桥部分是开源的
+>  
+> 此前我们写过关于Hyperliquid技术部分的研报，其中较为系统的梳理了Hyperliquid在跨链桥部分的风险，以及其HyperEVM与HyperL1双链交互的架构
+>  
+> 在此我们以Thread的形式发布出来，原文链接在本Thread末尾，欢迎阅读
+
+## 140. Jan 8, 2025 · 5:14 AM UTC · 1876860008027070854#m
+- 链接：https://twitter.com/godrealmx/status/1876860008027070854#m
+- 作者：@godrealmx
+
+> 目前为数不多的对Hyperliquid技术原理进行深度解析的文章 非常推荐一读！
+
+## 141. Jan 8, 2025 · 5:12 AM UTC · 1876859527469117576#m
+- 链接：https://twitter.com/godrealmx/status/1876859527469117576#m
+- 作者：@godrealmx
+
+> x.com/i/article/187685493421…
+
+## 142. Jan 4, 2025 · 3:37 AM UTC · 1875386042750255265#m
+- 链接：https://twitter.com/godrealmx/status/1875386042750255265#m
+- 作者：@godrealmx
+
+> 之前看到一些做 solidity 内联汇编优化的工程师都使用了这份参考材料。很多大家看不懂的位运算其实都是工程师直接抄写了这里面的代码。
+> graphics.stanford.edu/~seand…
+
+## 143. Dec 28, 2024 · 10:24 AM UTC · 1872951724383846653#m
+- 链接：https://twitter.com/godrealmx/status/1872951724383846653#m
+- 作者：@godrealmx
+
+> 《Usual产品逻辑及经济模型解读：非持续温和收益的鸡肋》
+>  
+> USUAL代币并不是一个具有长期发展潜力的标的，短期内可能会因经济飞轮有不错的造富效应，只不过因为经济模型机制设计，其价格又很难被拉得太高，总体来讲长短期投资都不算太合适。
+
+## 144. Dec 27, 2024 · 4:48 AM UTC · 1872504857862824406#m
+- 链接：https://twitter.com/godrealmx/status/1872504857862824406#m
+- 作者：@godrealmx
+
+> 目前Yaps Leader不支持代表公司或机构的推特账户，只支持个人账户，所以是纯粹面向KOL的
+
+## 145. Dec 26, 2024 · 10:52 AM UTC · 1872234114595889319#m
+- 链接：https://twitter.com/godrealmx/status/1872234114595889319#m
+- 作者：@godrealmx
+
+> 我们的telegram频道在此，现已有1400余人订阅。在我们的官网正式上线前，我们将在telegram频道里发布大量的优质行业资讯，欢迎大家订阅！
+> t.me/godrealmx
+
+## 146. Dec 22, 2024 · 11:24 AM UTC · 1870792535075172801#m
+- 链接：https://twitter.com/godrealmx/status/1870792535075172801#m
+- 作者：@godrealmx
+
+> 终于写完了 Uniswap V3 的代码分析文章，该文章主要内容其实来自 @ProgrammerSmart 的 Uniswap V3 的系列教程视频，这些视频的优点是完整的数学推导 + 逐行实现的代码。我个人的文章的部分内容也参考 Uniswap V3 Book 之类的内容。特别感谢 @jeffishjeff 和我的讨论推动我更进一步理解 V3。
+
+## 147. Oct 28, 2024 · 3:46 PM UTC · 1850927151786393673#m
+- 链接：https://twitter.com/godrealmx/status/1850927151786393673#m
+- 作者：@godrealmx
+
+> 对中本聪的代码风格分析显示出，他可能不是一个职业程序员或是当时的一线IT从业者，很可能是其他领域的专家
+
+## 148. Oct 27, 2024 · 10:28 AM UTC · 1850484639577800992#m
+- 链接：https://twitter.com/godrealmx/status/1850484639577800992#m
+- 作者：@godrealmx
+
+> Solana不适合成为全球性区块链基础设施的几大原因
+> ps：总结图片来自GCC offical group
+
+## 149. Oct 9, 2024 · 5:08 AM UTC · 1843881138672284012#m
+- 链接：https://twitter.com/godrealmx/status/1843881138672284012#m
+- 作者：@godrealmx
+
+> 也恭喜 @Metapi208
+
+## 150. Oct 8, 2024 · 4:58 PM UTC · 1843697367205491090#m
+- 链接：https://twitter.com/godrealmx/status/1843697367205491090#m
+- 作者：@godrealmx
+
+> 恭喜Bitlayer！ 恭喜 @0xkevinhe  和 @CharlieHusats
+
+## 151. Oct 2, 2024 · 6:32 AM UTC · 1841365539031298486#m
+- 链接：https://twitter.com/godrealmx/status/1841365539031298486#m
+- 作者：@godrealmx
+
+> 斯诺登：“Solana是中心化的”
+
+## 152. Sep 20, 2024 · 3:11 AM UTC · 1836966498583335071#m
+- 链接：https://twitter.com/godrealmx/status/1836966498583335071#m
+- 作者：@godrealmx
+
+> 活动地点在ABCDE办公室 Starkware创始人Eli亲自到场
+
+## 153. Sep 1, 2024 · 12:16 PM UTC · 1830218054476943381#m
+- 链接：https://twitter.com/godrealmx/status/1830218054476943381#m
+- 作者：@godrealmx
+
+> 解读Fiber：把闪电网络嫁接到CKB上的宏大实验
+>  
+> 8月23日，CKB官方发布了基于CKB的闪电网络改进方案——Fiber Network（光纤网络），引起了强烈反响，CKB价格在一天内上涨了近30%
+>  
+> 关于Fiber的讨论目前是热点，《极客web3》写了专题研报，本推文是对研报的总结性概括（略去了很多细节）
+
+## 154. Sep 1, 2024 · 12:35 PM UTC · 1830222985443328452#m
+- 链接：https://twitter.com/godrealmx/status/1830222985443328452#m
+- 作者：@godrealmx
+
+> 至此，我们系统的梳理了Fiber的总体技术架构，其和比特币闪电网络的大致对比总结如下图所示
+>  
+> 由于Fiber和闪电网络本身涉及的知识点太多太杂，单纯一篇文章可能无法覆盖到方方面面，未来我们将针对闪电网络和Fiber的话题推出系列文章，大家敬请期待
+
+## 155. Sep 1, 2024 · 12:35 PM UTC · 1830222965755318591#m
+- 链接：https://twitter.com/godrealmx/status/1830222965755318591#m
+- 作者：@godrealmx
+
+> 此外，如果在复杂的多跳网络中，中间节点余额不足无法向外转账，可能导致支付路径失败
+>  
+> 对此的解决方案无外乎提供高效的流动性注入方案，确保大多数节点都能随时注入资金
+>  
+> 但在BTC闪电网络中，注入流动性、打开或关闭通道都在链上进行，若BTC网络手续费极高，会对支付通道的UX产生不良影响
+
+## 156. Sep 1, 2024 · 12:35 PM UTC · 1830222950718636509#m
+- 链接：https://twitter.com/godrealmx/status/1830222950718636509#m
+- 作者：@godrealmx
+
+> Fiber相比于闪电网络的其他优点
+>  
+> 前面提到，Fiber支持CKB和RGB++资产（尤其是稳定币），在功能性上强于比特币
+>  
+> 此外，比特币闪电网络有一个痛点，就是流动性管理问题
+>  
+> 支付通道中总体余额是固定的，若一方余额耗尽，没法向对方转账，除非对方先转钱给他，这时就要重新注入资金或打开新通道
+
+## 157. Sep 1, 2024 · 12:21 PM UTC · 1830219405697138925#m
+- 链接：https://twitter.com/godrealmx/status/1830219405697138925#m
+- 作者：@godrealmx
+
+> Fiber与闪电网络的跨域支付
+>  
+> 利用HTLC/PTLC，Fiber可以和闪电网络实现跨域支付，且能保证“原子性”：相关步骤要么全成功要么全失败，不会部分成功部分失败
+>  
+> 原子性有保障，可以让Fiber与闪电网络互联组成混合网络，直接在Fiber中向闪电网络用户转账
+>  
+> 还可以在Fiber中用RGB++资产在闪电网络中换取比特币
+
+## 158. Sep 1, 2024 · 12:16 PM UTC · 1830218232806154522#m
+- 链接：https://twitter.com/godrealmx/status/1830218232806154522#m
+- 作者：@godrealmx
+
+> 此外，传统闪电网络存在“替代交易循环攻击”（replacement cycling attack），可以让支付路径中间人的资产被盗
+>  
+> 这一发现让开发者Antoine Riard退出了闪电网络的开发工作。到目前为止比特币闪电网络尚未有根本措施解决这个问题，已然成为一个痛点
+>  
+> 而CKB通过对交易池进行改良，可以让解决上述攻击场景
+
+## 159. Sep 1, 2024 · 12:16 PM UTC · 1830218224031674752#m
+- 链接：https://twitter.com/godrealmx/status/1830218224031674752#m
+- 作者：@godrealmx
+
+> 此外，HTLC可能泄露隐私
+>  
+> 虽然洋葱路由可以加密，使得除了最初发起者Alice外，每个人只知道相邻的上下家，不知道完整的路径，但HTLC还是容易被推断出关联性
+>  
+> 这是因为路径中所有的HTLC都关联着相同的密钥R，容易被推断出相关性
+>  
+> Fiber通过PTLC解决HTLC的这个问题，让路径中不同的PTLC用不同的密钥
+
+## 160. Sep 1, 2024 · 12:16 PM UTC · 1830218215458484360#m
+- 链接：https://twitter.com/godrealmx/status/1830218215458484360#m
+- 作者：@godrealmx
+
+> 即使支付路径中某人卡住，比如Carol没把密钥R告知下游的Bob，也不会让Bob有损失：过时间后Bob可以把HTLC撤回。对于Alice也是同理
+>  
+> 但闪电网络也有问题：路径不宜过长，如果中间人太多，会降低付款的可靠性：某些中间人可能离线，亦或是余额不足以构建特定HTLC(前面案例中每个中间人要有100多块钱)
+
+## 161. Sep 1, 2024 · 12:16 PM UTC · 1830218209888448716#m
+- 链接：https://twitter.com/godrealmx/status/1830218209888448716#m
+- 作者：@godrealmx
+
+> 之后的事情不难想象：
+>  
+> Carol把密钥R告诉Bob，拿到101块钱；Bob再把密钥R告诉Alice，拿到102块钱
+>  
+> 观测所有人的得失，Alice失去102块钱，Bob和Carol净赚1块，Daniel得到100块
+>  
+> Bob和Carol赚的1块钱就是它们从Alice那抽的手续费
+
+## 162. Sep 1, 2024 · 12:16 PM UTC · 1830218200845582611#m
+- 链接：https://twitter.com/godrealmx/status/1830218200845582611#m
+- 作者：@godrealmx
+
+> Carol如法炮制，和Daniel创建HTLC：Carol愿意支付100块，但Daniel要在20分钟内告诉她R的明文，否则钱会被收回
+>  
+> Daniel会配合Carol，告诉她R的内容，并从Carol那拿到100块，这样子Alice就实现了目标：
+>  
+> 让Daniel得到100块钱
+
+## 163. Sep 1, 2024 · 12:16 PM UTC · 1830218196299002114#m
+- 链接：https://twitter.com/godrealmx/status/1830218196299002114#m
+- 作者：@godrealmx
+
+> 首先Alice向Daniel发起请求，Daniel发给Alice一个哈希r，但Alice不知道r对应的明文R
+>  
+> Alice与Bob通过HTLC构造支付条款：Alice愿意付给Bob 102块，但Bob要在30分钟内说出密钥R，否则Alice会把钱撤回
+>  
+> 同理Bob再跟Carol创建HTLC：Bob会向Carol支付101块，但Carol要在25分钟内说出密钥R，否则Bob把钱撤回
+
+## 164. Sep 1, 2024 · 12:16 PM UTC · 1830218184156381342#m
+- 链接：https://twitter.com/godrealmx/status/1830218184156381342#m
+- 作者：@godrealmx
+
+> 这里要解决中间节点的信用问题：你怎么保证中间人不会拿钱就跑路，HTLC和PTLC便用于解决此类问题
+>  
+> 假设Alice要向Daniel付款100块，但他们之间没有建立通道。而Alice发现，可以通过Bob和Carol这两个中间人向Daniel付款
+>  
+> 这里面要引入HTLC作为支付渠道
+
+## 165. Sep 1, 2024 · 12:16 PM UTC · 1830218179668570536#m
+- 链接：https://twitter.com/godrealmx/status/1830218179668570536#m
+- 作者：@godrealmx
+
+> 多跳路由和HTLC/PTLC
+>  
+> 支付通道仅适用于1对1交易，而闪电网络支持多跳支付，让未直接建立通道的两方间能够转账
+>  
+> 比如说Alice和Ken没有通道，但Ken和Bob有通道，Bob和Alice间有通道，Bob就可以作为Alice和Ken之间的中间节点，让Alice和Ken之间可以转账互动
+>  
+> “多跳路由”就是通过多个中间人搭建转账路径
+
+## 166. Sep 1, 2024 · 12:16 PM UTC · 1830218170294325503#m
+- 链接：https://twitter.com/godrealmx/status/1830218170294325503#m
+- 作者：@godrealmx
+
+> 比特币闪电网络在惩罚措施上有明显缺陷：
+>  
+> WatchTower/客户端要保存所有的过期承诺交易Hash和撤销密钥，造成不小的存储压力
+>  
+> 比特币社区的优化方案至今没有激活
+>  
+> 而Fiber修改了撤销密钥的设计，让同一个撤销密钥适用于多笔过期的承诺交易，这样可以大幅减少WatchTower以及客户端的存储压力
+
+## 167. Sep 1, 2024 · 12:16 PM UTC · 1830218165370159224#m
+- 链接：https://twitter.com/godrealmx/status/1830218165370159224#m
+- 作者：@godrealmx
+
+> 全天候的保安：WatchTower瞭望塔
+>  
+> 上文中讲到的撤销密钥有个问题：
+> 通道参与方要时刻监视对方，防止对方把过期的承诺交易上链。但没人能24小时在线，你离线了怎么办？
+>  
+> 对此，Fiber和比特币闪电网络有WatchTower的设计，帮用户全天候监视链上活动，及时处理掉过期的承诺交易
+
+## 168. Sep 1, 2024 · 12:16 PM UTC · 1830218155790385456#m
+- 链接：https://twitter.com/godrealmx/status/1830218155790385456#m
+- 作者：@godrealmx
+
+> 此外，Fiber依赖的Layer1主链是CKB，打开和关闭通道的操作消耗的手续费低得多，不会像BTC闪电网络那样磨掉用户很多手续费
+>  
+> 这是其在UX上的明显优势
+
+## 169. Sep 1, 2024 · 12:16 PM UTC · 1830218151117877294#m
+- 链接：https://twitter.com/godrealmx/status/1830218151117877294#m
+- 作者：@godrealmx
+
+> 关于支付通道的功能性，基于CKB的Fiber相比于比特币闪电网络有大幅优化，原生支持多类型资产的转账/交易，比如CKB、BTC和RGB++稳定币
+>  
+> 而闪电网络只能原生支持比特币
+>  
+> Taproot Asset上线后比特币闪电网络还是无法原生支持非BTC资产，只能间接支持稳定币
+
+## 170. Sep 1, 2024 · 12:16 PM UTC · 1830218141496225867#m
+- 链接：https://twitter.com/godrealmx/status/1830218141496225867#m
+- 作者：@godrealmx
+
+> 我们可以记住结论：Bob只要敢把过期的承诺交易提交上链，Alice就可以用撤销密钥把Bob的钱拿走，作为惩罚。反过来如果Alice作恶了，Bob也可以如此惩罚她
+>  
+> 这样一来，1对1的支付通道可以有效避免双重支付，只要参与方都是理性人，就都不敢作恶
+
+## 171. Sep 1, 2024 · 12:16 PM UTC · 1830218136970498056#m
+- 链接：https://twitter.com/godrealmx/status/1830218136970498056#m
+- 作者：@godrealmx
+
+> 为了防止双花，要有相应的惩罚措施
+>  
+> 在支付通道的设计里，如果任何一方把过期的状态和Commit Tx提交到链上，另一方可以通过“撤销密钥”让过期的承诺交易无效，同时抽走作恶者的资金
+>  
+> 所以作恶者会被另一方把全部资金都抽走（这里面的细节比较复杂，感兴趣的可以去公号看原文）
+
+## 172. Sep 1, 2024 · 12:16 PM UTC · 1830218124530205072#m
+- 链接：https://twitter.com/godrealmx/status/1830218124530205072#m
+- 作者：@godrealmx
+
+> 但这里有一个作恶场景：Bob可以把过期的余额和承诺交易提交到链上，比如上图中Commit Tx3生成后，Bob的余额为130
+>  
+> 但Bob为了牟利，把过期的Commit Tx2提交到链上，声明自己的余额是160，这个余额状态不是实时的，这就是典型的“双重支付”
+
+## 173. Sep 1, 2024 · 12:16 PM UTC · 1830218119249560057#m
+- 链接：https://twitter.com/godrealmx/status/1830218119249560057#m
+- 作者：@godrealmx
+
+> 所以有一个“承诺交易”的设定，用于声明通道内双方的最新余额，每笔转账发生时都会生成对应的“承诺交易”
+>  
+> 你如果要退出通道，可以向链上提交最新的一笔“承诺交易”，把自己应得的钱从多签账户中抽出来
+>  
+> 下面就是承诺交易和退出结算的示意图
+
+## 174. Sep 1, 2024 · 12:16 PM UTC · 1830218107576807459#m
+- 链接：https://twitter.com/godrealmx/status/1830218107576807459#m
+- 作者：@godrealmx
+
+> 拿上面的例子说，Bob可以在第二笔转账完成后就退出，亦或是第一笔转账后就退出
+>  
+> 支付通道不会对退出时间做强制要求，要假设随时会有人退出，任意一方都可能向链上提交最终余额，进行结算
+
+## 175. Sep 1, 2024 · 12:16 PM UTC · 1830218103118315529#m
+- 链接：https://twitter.com/godrealmx/status/1830218103118315529#m
+- 作者：@godrealmx
+
+> 如果有一方退出通道，就把当前的余额Alice：70/Bob：130 同步到链上，把多签账户中的200块钱按各自余额转给二人，完成结算
+>  
+> 上述流程看起来简单，但在实操中要考虑很多复杂情况
+>  
+> 首先，你其实并不知道对方想在何时退出通道
+
+## 176. Sep 1, 2024 · 12:16 PM UTC · 1830218098693251406#m
+- 链接：https://twitter.com/godrealmx/status/1830218098693251406#m
+- 作者：@godrealmx
+
+> 比如说，双方开始时各有100块，之后Alice向Bob转账50，Alice又向Bob转了10块钱，而后Bob又给Alice转了30块，最终双方余额变为：Alice—70，Bob—130
+>  
+> 大家不难发现，二人的余额总和不变，下图中算盘珠子来回推拉的案例可以很好解释这点
+
+## 177. Sep 1, 2024 · 12:16 PM UTC · 1830218090807976141#m
+- 链接：https://twitter.com/godrealmx/status/1830218090807976141#m
+- 作者：@godrealmx
+
+> 支付通道是将交易挪到链下处理，过段时间将最终状态提交到链上进行结算
+>  
+> 假设Alice和Bob共同开启了通道，他们先在链上构建多签账户，向里面各存入100块，作为在链下通道中的余额
+>  
+> 双方可以在通道里进行多笔转账，一方退出通道时把最终余额同步到链上，由多签账户给双方打款，即“结算”
+
+## 178. Sep 1, 2024 · 12:16 PM UTC · 1830218086374690867#m
+- 链接：https://twitter.com/godrealmx/status/1830218086374690867#m
+- 作者：@godrealmx
+
+> 接下来我们开始说Fiber的技术架构
+>  
+> Fiber实质是把闪电网络嫁接到CKB上，原理与闪电网络大面一致，但在很多细节上有优化
+>  
+> Fiber的总体架构包括以下四个核心部分：支付通道、WatchTower、多跳路由、跨域支付
+>  
+> 下面先解释下最重要的“支付通道”
+
+## 179. Sep 1, 2024 · 12:16 PM UTC · 1830218081144299922#m
+- 链接：https://twitter.com/godrealmx/status/1830218081144299922#m
+- 作者：@godrealmx
+
+> 如果Fiber的愿景在未来实现，对CKB乃至比特币生态都是巨大利好
+>  
+> 根据mempool数据，当前BTC闪电网络中安置了3亿多美元资金，节点数量约1.2万个，构建了近5万条支付通道
+>  
+> 而在spendmybtc网站上可以看到，越来越多的商家在支持闪电网络收付款
+>  
+> 闪电网络和Fiber等链下支付方案的崛起势能必将与日俱增
+
+## 180. Sep 1, 2024 · 12:16 PM UTC · 1830218066829185152#m
+- 链接：https://twitter.com/godrealmx/status/1830218066829185152#m
+- 作者：@godrealmx
+
+> 此前的线下活动中，CKB官方甚至表示，将在Fiber和闪电网络中设置10万个物理节点，以促进P2P支付网络的完善与进步
+>  
+> 毫无疑问这是空前宏大的故事
+
+## 181. Sep 1, 2024 · 12:16 PM UTC · 1830218057459052861#m
+- 链接：https://twitter.com/godrealmx/status/1830218057459052861#m
+- 作者：@godrealmx
+
+> 先说结论：Fiber对传统闪电网络进行了升级，做出了诸多改进
+>  
+> 比如，Fiber原生支持多类型资产，如CKB、BTC、稳定币等，而且CKB的手续费远比BTC低、响应速度快，依赖于CKB的Fiber可以在UX方面取得突破
+>  
+> 在隐私和安全层面，Fiber也有优化
+>  
+> 此外，Fiber和BTC闪电网络可以互联互通形成更大的P2P网络
+
+## 182. Sep 1, 2024 · 7:37 AM UTC · 1830147990469689662#m
+- 链接：https://twitter.com/godrealmx/status/1830147990469689662#m
+- 作者：@godrealmx
+
+> CKB的Fiber network上线测试网了，这张图是Fiber和比特币闪电网络的优势对比
+
+## 183. Sep 1, 2024 · 7:06 AM UTC · 1830140237538082945#m
+- 链接：https://twitter.com/godrealmx/status/1830140237538082945#m
+- 作者：@godrealmx
+
+> #BTC Lightning Network VS #CKB Fiber Network
+>  
+> By @geeksweb3
+>  
+> mp.weixin.qq.com/s/SFIsmjf2C…
+
+## 184. Aug 31, 2024 · 3:20 AM UTC · 1829720886888575037#m
+- 链接：https://twitter.com/godrealmx/status/1829720886888575037#m
+- 作者：@godrealmx
+
+> 今晚8点 来和CKB生态基金会聊聊
+
+## 185. Aug 28, 2024 · 4:19 AM UTC · 1828648535325377022#m
+- 链接：https://twitter.com/godrealmx/status/1828648535325377022#m
+- 作者：@godrealmx
+
+> 截止目前，TON区块链已经停机6小时没产出任何新区块
+>  
+> tonscan.org/blocks
+
+## 186. Aug 28, 2024 · 12:11 AM UTC · 1828586094734246047#m
+- 链接：https://twitter.com/godrealmx/status/1828586094734246047#m
+- 作者：@godrealmx
+
+> 想要看我们过往文章的朋友看这里
+>  
+> 我们目前的自有渠道，主要是：
+>  
+> 微信公众号、telegram频道、推特和自己的官网（正在做，快发布了）
+>  
+> 公众号名字就叫“极客web3”，收录了我们所有的原创文章
+>  
+> 而Telegram频道链接在下面，我们通常在里面发一些短新闻、在网上看到的优质资料等
+>  
+> t.me/geeks_web3
+
+## 187. Aug 27, 2024 · 6:08 AM UTC · 1828313526840238170#m
+- 链接：https://twitter.com/godrealmx/status/1828313526840238170#m
+- 作者：@godrealmx
+
+> 而且BCH和BSV搞了那么多年，也没出什么大成果，甚至沦为博物馆里的古董
+>  
+> 对比特币二层而言，真正要做的是填补bitcoin原生环境不能支持的场景，照搬Bitcoin VM兼容并非很好的思路
+>  
+> Fractal短期营销炒作势头很猛，但等后面做生态时势必会遇到各种不便，指望着引流比特币上已有的东西就把生态搞好，不现实
+
+## 188. Aug 27, 2024 · 6:08 AM UTC · 1828313521417081286#m
+- 链接：https://twitter.com/godrealmx/status/1828313521417081286#m
+- 作者：@godrealmx
+
+> 同时fractal出块间隔是秒级的，不会像比特币那么堵
+>  
+> 总体而言，Fractal在功能性上更像是比特币测试网，提前支持一些主网还没激活的功能，提供更好的UX，类似于EVM layer2对以太坊的意义
+>  
+> 有问题的地方在于，比特币链上一直没什么像样的DAPP或原生Defi，走bitcoin vm兼容的思路对生态建设没啥长期优势
+
+## 189. Aug 27, 2024 · 6:08 AM UTC · 1828313518518812856#m
+- 链接：https://twitter.com/godrealmx/status/1828313518518812856#m
+- 作者：@godrealmx
+
+> 关于Fractal Bitcoin（分形比特币）：
+> 最近分形比特币炒作很火热，我们看到有很多人建了各种微信群搞fractal挖矿，还有人议论Fractal前景如何
+>  
+> 对此我们简单看了下Fractal bitcoin的资料，在此简单评论下：
+>  
+> Fractal的执行环境和比特币主网差不多，但支持op_cat等操作码，算是bitcoin vm兼容的模式
+
+## 190. Aug 24, 2024 · 6:47 AM UTC · 1827236284714131590#m
+- 链接：https://twitter.com/godrealmx/status/1827236284714131590#m
+- 作者：@godrealmx
+
+> 昨晚CKB暴涨20%多 主要是因为官方发布了Fiber network的新闻 这个项目很值得大家去深入钻研下 未来会是一个大方向 CKB生态大基建正式开始！
+
+## 191. Aug 23, 2024 · 3:00 PM UTC · 1826997928202047678#m
+- 链接：https://twitter.com/godrealmx/status/1826997928202047678#m
+- 作者：@godrealmx
+
+> 解读Stable++：RGB++ Layer首个稳定币协议正式启航
+>  
+> 我们刚发了关于Stable++的文章，就在“极客web3”公号上，这项目是RGB++ Layer上第一个稳定币协议，日后搞不好就是头部
+>  
+> 这条推文主要介绍Stable++的机制设计和亮点，尤其是它在清算方面设置的保险池和债务再分配设计
+>  
+> 艾特作者：@HYbigboss
+
+## 192. Aug 23, 2024 · 3:00 PM UTC · 1826997980572143803#m
+- 链接：https://twitter.com/godrealmx/status/1826997980572143803#m
+- 作者：@godrealmx
+
+> 可以说，以Stable++和UTXOSwap为代表的CKB生态大基建才刚刚拉开序幕，CKB这块价值洼地非常值得DAPP创业团队前往耕耘，欢迎大家对RGB++ Layer保持关注！
+>  
+> 同时大家可以多关注我们的公众号（极客Web3），或是进入我们的Telegram频道阅读更多有价值的资讯！
+>  
+> t.me/geeks_web3
+
+## 193. Aug 23, 2024 · 3:00 PM UTC · 1826997977128501312#m
+- 链接：https://twitter.com/godrealmx/status/1826997977128501312#m
+- 作者：@godrealmx
+
+> 有了上述双管齐下的高效清算方式，代表Stable++可以以一个较低的抵押率（比如110%以内）让用户借贷，大大提高资金利用率
+>  
+> 此外它还可以配合CKB的经济模型，在RGB++ Layer内构建“欠阻尼系统”，在CKB价格剧烈波动时让CKB锁定量反向变动，一定程度起到缓冲作用
+
+## 194. Aug 23, 2024 · 3:00 PM UTC · 1826997973781491722#m
+- 链接：https://twitter.com/godrealmx/status/1826997973781491722#m
+- 作者：@godrealmx
+
+> 这一点和Synthetix等老牌Defi平台的重分配机制不一样。Synthetix只会把坏账部分的债务分配给现有借款人，每个借款人只承担额外债务，而不获得对应收益
+>  
+> 通过上述两道保险，Stable++保证只要清算事件发生，可以在第一时间迅速消化，这种高效清算可以有效解决传统借贷协议中的坏账问题
+
+## 195. Aug 23, 2024 · 3:00 PM UTC · 1826997970165993636#m
+- 链接：https://twitter.com/godrealmx/status/1826997970165993636#m
+- 作者：@godrealmx
+
+> 2/ 如果Stability Pool没有足够RUSD参与清算，债务再分配Redistribution启动，被清算头寸涉及的债务和抵押品会按比例在当前所有头寸中分配
+>  
+> 例如：现在有100个借款人，而某个待清算头寸有100 RUSD的坏账，Redistribution就会让每个借款人多承担1 RUSD债务，同时获得相应份额的抵押品作为收益
+
+## 196. Aug 23, 2024 · 3:00 PM UTC · 1826997966512746508#m
+- 链接：https://twitter.com/godrealmx/status/1826997966512746508#m
+- 作者：@godrealmx
+
+> Stability Pool使清算人角色由“临时找”变成了“常备军”，相当于给协议加了一道高效缓冲，不必等清算发生时临时找清算人
+>  
+> 然后前面有提到，清算实际上就是销毁一部分稳定币，卖出不良抵押物，Stable++清算时直接把保险池里部分RUSD销毁，把拍卖的抵押物分给保险池的LP
+
+## 197. Aug 23, 2024 · 3:00 PM UTC · 1826997962360394237#m
+- 链接：https://twitter.com/godrealmx/status/1826997962360394237#m
+- 作者：@godrealmx
+
+> 上述问题在MakerDAO和Aave身上都有体现
+>  
+> Stable++为了解决这个问题，增设了“Stability Pool保险池”和“Redistribution重分配”的双重保险
+>  
+> 1/ 用户可以向Stability Pool存入RUSD，作为“常备军”随时准备清算不良头寸
+>  
+> 清算发生时，协议先通过保险池清算不良头寸，再将抵押品分配给保险池的LP作为奖励
+
+## 198. Aug 23, 2024 · 3:00 PM UTC · 1826997956639412700#m
+- 链接：https://twitter.com/godrealmx/status/1826997956639412700#m
+- 作者：@godrealmx
+
+> 在实践中，MakerDAO的清算机制有俩问题：
+>  
+> 1. 拍卖需要时间，当市场剧烈下跌时，可能没人愿意接盘待售的抵押物，导致清算不顺利
+>  
+> 2. 如果网络极度拥堵，个体户清算人的大量操作都没有及时上链，也会影响到清算流程，这在2021年的5.19事件中得到了实证
+
+## 199. Aug 23, 2024 · 3:00 PM UTC · 1826997951954407628#m
+- 链接：https://twitter.com/godrealmx/status/1826997951954407628#m
+- 作者：@godrealmx
+
+> 荷兰拍和抵押率大家都懂，而清算本质是回笼一部分流通中的RUSD/DAI ，当部分头寸跌破抵押率红线，系统要收回一些RUSD并拍卖不良抵押物，才能让整体抵押率恢复健康
+>  
+> MakerDAO为例，某头寸被清算时，清算人会把手上的DAI交给平台，换取被拍卖的抵押物
+>  
+> 从平台角度看，相当于收回部分DAI，卖出不良抵押品
+
+## 200. Aug 23, 2024 · 3:00 PM UTC · 1826997945247707573#m
+- 链接：https://twitter.com/godrealmx/status/1826997945247707573#m
+- 作者：@godrealmx
+
+> 然后我们简单说说它的核心，即清算组件
+>  
+> Stable++基于超额抵押铸造RUSD，这一点和MakerDAO类似
+>  
+> 但在具体的清算机制上，Stable++增设了一个保险池来兜底，就是事先让人存放一些RUSD为清算工作做准备，然后有一套债务再分配设计
+>  
+> 下面我们展开说这两个设计

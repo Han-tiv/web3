@@ -1,0 +1,25 @@
+{
+  "question": "Nitter 时间线分页如何工作？如何提取 cursor？",
+  "analysis_timestamp": "2025-10-20T15:38:12Z",
+  "commands": [
+    "curl -s http://localhost:8080/binance | grep -n 'show-more'",
+    "curl -s \"http://localhost:8080/binance?cursor=...\" | grep -n 'show-more'"
+  ],
+  "evidence": [
+    {
+      "path": "http://localhost:8080/binance",
+      "snippet": "<div class=\"show-more\"><a href=\"?cursor=DAAHCgABG3tuBmZ__-sLAAIAAAATMTk3NjY3OTExOTAxMTA4NjY0MQgAAwAAAAIAAA\">Load more</a></div>",
+      "insight": "首页底部提供 `?cursor=...` 链接，编码分页游标。"
+    },
+    {
+      "path": "http://localhost:8080/binance?cursor=DAAHCgABG3tuBmZ__-sLAAIAAAATMTk3NjY3OTExOTAxMTA4NjY0MQgAAwAAAAIAAA",
+      "snippet": "<div class=\"show-more\"><a href=\"?cursor=DAAHCgABG3tuBmZ__9YLAAIAAAATMTk3NjQzNzUyNzQxNTQ4ODkxNAgAAwAAAAIAAA\">Load more</a></div>",
+      "insight": "翻页后继续出现新的 cursor，说明可通过重复请求 `/<user>?cursor=...` 递归抓取。"
+    }
+  ],
+  "preliminary_conclusion": "Nitter 时间线采用带 cursor 的 query 参数分页。脚本需解析 `.show-more a[href]`，提取 `cursor` 字符串并循环请求，直到不存在新的 `cursor` 或返回空推文。",
+  "follow_up_actions": [
+    "在归档脚本中实现 cursor 循环，支持自定义最大页面数与页面间延迟。",
+    "记录 cursor 序列到元数据，便于复现抓取过程。"
+  ]
+}

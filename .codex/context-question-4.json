@@ -1,0 +1,16 @@
+{
+  "question": "哪些日志片段代表有效交易信号，需要统计哪些字段？",
+  "reason": "区分真实下单信号与“跟踪止损提醒”等非交易消息，确保统计准确。",
+  "analysis": "从 signal_trader.log 采样可见：当新消息含交易指令时，日志先输出“📨 目标频道新消息”块，随后出现 `🎯 检测到信号: OpenLong(\"CUDISUSDT\")` 等行，并重复展示行情指标。非交易提醒最后写有“ℹ️  非交易信号，忽略”且缺少 `🎯 检测到信号`。",
+  "evidence": [
+    {
+      "path": "apps/rust-trading-bot/signal_trader.log:936-971",
+      "details": "含 OpenLong/OpenShort 等类型与行情字段（价格、OI/MC、猎龙忍者评分）"
+    },
+    {
+      "path": "apps/rust-trading-bot/signal_trader.log:1000-1042",
+      "details": "跟踪止损提醒块含“ℹ️  非交易信号，忽略”，无 `🎯` 行"
+    }
+  ],
+  "conclusion": "统计时只需抓取含 `🎯 检测到信号` 的段落，并解析同段内的币对、方向、行情指标、错误日志等信息；提醒类消息可忽略。"
+}

@@ -1,0 +1,88 @@
+[package]
+name = "rust-trading-bot"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "rust-trading-bot"
+path = "src/main.rs"
+
+[[bin]]
+name = "check_balance"
+path = "src/bin/check_balance.rs"
+
+[[bin]]
+name = "test_bot"
+path = "src/bin/test_bot.rs"
+
+[[bin]]
+name = "get_channels"
+path = "src/bin/get_channels.rs"
+
+[[bin]]
+name = "monitor_channel"
+path = "src/bin/monitor_channel.rs"
+
+[[bin]]
+name = "signal_trader"
+path = "src/bin/signal_trader.rs"
+
+[[bin]]
+name = "test_open_short"
+path = "src/bin/test_open_short.rs"
+
+[[bin]]
+name = "analyze_win_rate"
+path = "src/bin/analyze_win_rate.rs"
+
+[dependencies]
+# Telegram Bot
+teloxide = { version = "0.12", features = ["macros", "auto-send"] }
+
+# Telegram Client (MTProto)
+grammers-client = "0.7"
+grammers-session = "0.7"
+
+# HTTP客户端
+reqwest = { version = "0.11", features = ["json"] }
+
+# 异步运行时
+tokio = { version = "1", features = ["full"] }
+tokio-stream = "0.1"
+
+# 序列化
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+# 加密
+hmac = "0.12"
+sha2 = "0.10"
+hex = "0.4"
+
+# 正则表达式
+regex = "1.11"
+
+# 日志
+log = "0.4"
+env_logger = "0.11"
+
+# 环境变量
+dotenv = "0.15"
+
+# 错误处理
+anyhow = "1.0"
+thiserror = "1.0"
+
+# 数据库
+sqlx = { version = "0.7", features = ["runtime-tokio-native-tls", "sqlite"] }
+
+# 时间处理
+chrono = { version = "0.4", features = ["serde"] }
+
+# WebSocket
+tungstenite = "0.21"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1

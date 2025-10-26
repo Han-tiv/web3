@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1486629583541600258",
+    "screen_name": "UpchainDAO",
+    "name": "登链社区",
+    "description": "登链社区始于 2017，通过高质量内容和集训助力 Web3 开发者成长，践行 Web3 黄埔军校。 https://t.co/xYljtAYuhD\nThe largest Web3 developer community in Chinese.\nWe educate, connect and host events.",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1658316725304307712/U9_kPokN_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1486629583541600258/1679980050",
+    "followers_count": 6220,
+    "friends_count": 413,
+    "statuses_count": 1365,
+    "favourites_count": 826,
+    "listed_count": 53,
+    "location": "",
+    "website": "https://t.co/rHyotexFEp",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": false,
+    "protected": false,
+    "created_at": "2022-01-27 17:19:09 +08:00",
+    "url": "https://twitter.com/UpchainDAO",
+    "rest_id": "1486629583541600258"
+  },
+  "tweets": [
+    {
+      "id": "1978021066338357313#m",
+      "content": "Solar HackerHouse 珠海站正在招募，小伙伴们有兴趣的抓紧报名哦",
+      "timestamp": "Oct 14, 2025 · 8:52 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1978021066338357313#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1978020070719689178#m",
+      "content": "参加黑客松的小伙伴都听一听哦",
+      "timestamp": "Oct 14, 2025 · 8:48 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1978020070719689178#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1977005725387047422#m",
+      "content": "欢迎来珠海参加  HackerHouse，我们助力大家拿大奖",
+      "timestamp": "Oct 11, 2025 · 1:37 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1977005725387047422#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1976175901005213876#m",
+      "content": "以太坊高校行，香港站",
+      "timestamp": "Oct 9, 2025 · 6:40 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1976175901005213876#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1976117876072628438#m",
+      "content": "10.23-10.27 号珠海站 Solana Cypherpunk Mini Hackerhouse \n欢迎报名👉luma.com/en0bz40e",
+      "timestamp": "Oct 9, 2025 · 2:49 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1976117876072628438#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1972295945837801728#m",
+      "content": "交易所开发系列全部，可以在 Tiny 的个人主页查看，建议点赞收藏 learnblockchain.cn/tiny",
+      "timestamp": "Sep 28, 2025 · 1:42 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1972295945837801728#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1971389712498819112#m",
+      "content": "🔥 大的要来！大的要来！\n「OpenSpace」公开课110期将迎来重磅嘉宾，这次我们邀请到了 iExec 的 DevRel Martin leclercq\n\n他将为开发者带来满满干货分享：\n✅ 探索 iExec 的 Web3 隐私工具，基于 TEE 的机密计算，赋能 AI、DeFi 等多种应用场景\n✅ 通过可编程治理保护敏感数据\n✅ 真正实现“数据属于你自己”\n\n⏰ 时间：9.30（下周二）\n🔗 zoom：us06web.zoom.us/j/8121968619…\n记得定好闹钟，到点一起蹲直播！\n\n阅读文章提前知晓更多关于 iExec 隐私工具和Web3 AI 等相关信息👇",
+      "timestamp": "Sep 26, 2025 · 1:41 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1971389712498819112#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1969551567432167789#m",
+      "content": "优秀👍， 我们翻译了发现合约漏洞方法的系列文章\n\nlearnblockchain.cn/article/2…\n\n@philbugcatcher thank you for this great article",
+      "timestamp": "Sep 20, 2025 · 11:57 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1969551567432167789#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1969280045475664020#m",
+      "content": "学起来，一起掌握交易所钱包开发~",
+      "timestamp": "Sep 20, 2025 · 5:58 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1969280045475664020#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1969278382115270735#m",
+      "content": "优秀的作者～",
+      "timestamp": "Sep 20, 2025 · 5:52 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1969278382115270735#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1969278201277882810#m",
+      "content": "我们翻译了这篇文章： 对比了三个去中心化永续合约交易所：Hyperliquid、Lighter 和 edgeX \nlearnblockchain.cn/article/2… \n\n@poopmandefi Thank you for this excellent article, we have translated it into Chinese.",
+      "timestamp": "Sep 20, 2025 · 5:51 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1969278201277882810#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1968882983282024811#m",
+      "content": "用几周时间，从“我有一个想法”到“我上线了一个产品”！\n这个看上去不错哦👍",
+      "timestamp": "Sep 19, 2025 · 3:40 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1968882983282024811#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1967573374911340975#m",
+      "content": "We’re starting a new AI Team at the Ethereum Foundation (the dAI Team).\nOur mission: make Ethereum the preferred settlement and coordination layer for AIs and the machine economy.\n\nThe team will focus on two main areas:\n- AI Economy on Ethereum = giving AI agents and robots ways to pay, coordinate, and follow rules without middlemen.\n- Decentralized AI Stack = making sure the future of AI doesn’t rely only on a handful of entities but has open, verifiable censorship-resistant alternatives.\n\nWe believe Ethereum can be as useful for today’s AI developers as it will be for the sci-fi future. That’s why we’ll work closely with ecosystem projects to accelerate progress and push the boundaries of research and innovation at the intersection of AI and blockchains. Connecting two communities that have too often worked in parallel.\n\nWe’ll work side by side with both the Protocol and Ecosystem teams at the EF. Linking protocol improvements with the needs of AI builders, and funding innovative public goods that will make Ethereum the best home for AI.\n\nEthereum makes AI more trustworthy, and AI makes Ethereum more useful. The more intelligent agents transact, the more they need a neutral base layer for value and reputation. Ethereum benefits by becoming that layer and AI benefits by escaping lock-in to a few centralized platforms.\n\nActing with purpose and urgency, we’ll continue our recent work on ERC-8004—a standard for proving who an AI agent is and whether you can trust it— and continue to support new upgrades and standards.  Inspired by the d/acc philosophy and Ethereum values, we’ll support projects that are leveraging Ethereum to build a more resilient and secure AI ecosystem where humans can flourish with AI.\n\nEthereum + AI is about making sure humans keep agency and AI can reach its potential. Neutral, verifiable, censorship-resistant infrastructure means AI works for the people, all of us.\n\nThe team starts with myself as lead, and we’re just getting started. Explore our job postings and resources below, and join us in building the future of decentralized AI on Ethereum.",
+      "timestamp": "Sep 15, 2025 · 12:57 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1967573374911340975#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1968122385674252322#m",
+      "content": "报名链接：learnblockchain.cn/course/85",
+      "timestamp": "Sep 17, 2025 · 1:18 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1968122385674252322#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1967580278635081956#m",
+      "content": "We are coming to Osaka for @EDCON_Official  with @Ethtao_Ethtao  这次我们包下了大阪Trip Advisor上评分最高的魔术酒吧，邀请大家看魔术之余聊聊ETH生态的最新发展。\n前一个半小时是魔术表演，后一个半小时是最前沿的生态讨论。\n让我们在大阪的 Hidden Gem Magic Bar 聊聊 ETH Ecosystem的Hidden Gem. \nLuma 链接如下，名额稀缺，望感兴趣的朋友拨冗注册。🎩 \n🔗：luma.com/ze884moh",
+      "timestamp": "Sep 15, 2025 · 1:24 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1967580278635081956#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1967865430422491519#m",
+      "content": "在 Web3 应用的开发中，前端是用户与区块链交互的入口，而拥有 Web2 前端经验的开发者在转向 Web3 时的学习曲线也相对平缓，逐渐的成为了行业的主流力量。\n如果你也对 Web3 前端开发感兴趣，欢迎加入登链 9.25 号开始的前端直播课程，跟 Andy @qi532787678 一起系统学习并完成项目实践，2个月掌握独立实现 DApp 的方法与能力。",
+      "timestamp": "Sep 16, 2025 · 8:17 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1967865430422491519#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1967482992961659055#m",
+      "content": "回放视频\npiped.kavin.rocks/5gOAli-x87g",
+      "timestamp": "Sep 15, 2025 · 6:57 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1967482992961659055#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1967479478638317907#m",
+      "content": "回放视频\npiped.kavin.rocks/Y7uVcvqagDo",
+      "timestamp": "Sep 15, 2025 · 6:43 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1967479478638317907#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1967127310299263038#m",
+      "content": "我们翻译了个这篇优秀的文章： learnblockchain.cn/article/2… \n\nRollup 链让越来越多的用户、应用程序和流动性被分散到孤立的环境中，Based Rollup 使用以太坊排序来实现不同 Rollup 的原子可组合性",
+      "timestamp": "Sep 14, 2025 · 7:24 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1967127310299263038#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1966817764200284177#m",
+      "content": "交易所钱包开发系列， 第二篇",
+      "timestamp": "Sep 13, 2025 · 10:54 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1966817764200284177#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1965960086989451776#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、@OpenBuildxyz、登链社区、@decertme联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "Sep 11, 2025 · 2:06 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1965960086989451776#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1965960083269099584#m",
+      "content": "什么实时证明？如何实现实时证明？\n今晚 （9.11）20:00，@GOATRollup Contributor @sd_eigen   将做客 OpenSpace 公开课第 109 期，跟我们分享 Bitcoin zkRollup 实时证明\n有兴趣的小伙伴请戳👇🏻链接预约直播\n🔗 ：meeting.tencent.com/dm/NilAA…\n腾讯会议：710-197-806",
+      "timestamp": "Sep 11, 2025 · 2:06 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1965960083269099584#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1965716983393231254#m",
+      "content": "Proof of Future: Global Youth Web3 IdeaLab\n█▒▒▒▒ 40%\n\nCalling all YOUNG MINDS to join #ProofofFuture #Contenthon from Sep 18: pof.pharosinsights.com\n\n💡CREATORS TRACK\n💡BUILDERS TRACK (co-presented by @solana @solana_zh @solana_devs and @AethirCloud)\n\n🏆$30K + Internship",
+      "timestamp": "Sep 10, 2025 · 10:00 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1965716983393231254#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1965672742067597685#m",
+      "content": "录播视频来啦\npiped.kavin.rocks/9zUyfMmXMt4",
+      "timestamp": "Sep 10, 2025 · 7:04 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1965672742067597685#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1965616244708823134#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、@OpenBuildxyz、登链社区、@decertme联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "Sep 10, 2025 · 3:20 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1965616244708823134#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1965616240925577336#m",
+      "content": "前端开发在 Web3 中都做什么？与 Web2 有哪些不同？\n今晚 8 点欢迎小伙伴们进入第 108 期 OpenSpace 公开课，跟登链核心贡献者 Andy @qi532787678 一起聊聊前端开发\n🔗：meeting.tencent.com/dm/GcIY3…\n#腾讯会议：163-642-699",
+      "timestamp": "Sep 10, 2025 · 3:20 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1965616240925577336#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1965406777400590528#m",
+      "content": "支持支持，有兴趣的小伙伴抓紧报名",
+      "timestamp": "Sep 9, 2025 · 1:27 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1965406777400590528#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1965239728179216565#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、@OpenBuildxyz、登链社区、@decertme联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "Sep 9, 2025 · 2:23 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1965239728179216565#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1965239723259298180#m",
+      "content": "想知道 Hyperlane 如何打破流动性碎片化困局？\n今晚（9.9）20:00，@hyperlane 的 APAC contributor Marcus @marcus33l 将在 OpenSpace公开课和大家一起聊聊：\n✨ 链上与传统比较以及潜力\n✨ 跨链基础\n✨ Token 传输，信息传输\n✨ 稳定币，Taofi 案例（ica）\n@HyperlaneCC  \n\n🔗 预约链接： meeting.tencent.com/dm/DoyjG…\n# 腾讯会议：225-596-257",
+      "timestamp": "Sep 9, 2025 · 2:23 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1965239723259298180#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1963864150867845461#m",
+      "content": "有兴趣的小伙伴可以关注 @tinyxiong_eth 新写的系列文章\n交易所钱包系统开发 #1 - 系统设计\nlearnblockchain.cn/article/2…",
+      "timestamp": "Sep 5, 2025 · 7:17 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1963864150867845461#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1963864148393300116#m",
+      "content": "如何设计和实现一个安全且极简的加密货币托管系统(交易所钱包系统)\n在用户层面的主要功能：\n1. 为每个用户生成各个链的地址，以便用户向交易所充值\n2. 在数据库中，根据用户充值，记录用户各种资产余额\n3. 用户可以将其在交易所的资金提现到自己的钱包",
+      "timestamp": "Sep 5, 2025 · 7:17 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1963864148393300116#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1963074632887763186#m",
+      "content": "EIP-7730 对于 dapps 来说很容易采用：只需发布一个 JSON 清单，不需要大量的集成。可参考：learnblockchain.cn/article/2…",
+      "timestamp": "Sep 3, 2025 · 3:00 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1963074632887763186#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1963074630299820168#m",
+      "content": "是时候采用 EIP-7730 了？\n它是否会成为硬件钱包 “盲签”终结者？\n\n用硬件钱包授权交易时，盯着满屏的十六进制代码，明明怕授权到恶意合约，却只能硬着头皮 “盲签”？Bybit 15 亿美金黑客事件，也是因为这类信息不透明漏洞！\n\n之前靠 EIP-712 优化，但数据还得手动换算（比如把800000000转成 USDC 金额），甚至藏着 “操作类型从 0 改 1” 的篡改风险。 EIP-7730 直接把技术参数 “翻译” 成人话 —— 开发者写个 JSON 清单，硬件钱包就能显示 “将 0.5 ETH 兑换为最低 800 USDC（1% 滑点）”，显着提高了交易安全性。\n\n你踩过 “盲签” 险坑吗？觉得EIP-7730能解决多少实际问题呢？",
+      "timestamp": "Sep 3, 2025 · 3:00 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1963074630299820168#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1963054919432470654#m",
+      "content": "上回放视频\npiped.kavin.rocks/oNkyrAJkYI8",
+      "timestamp": "Sep 3, 2025 · 1:42 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1963054919432470654#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1963054756450205753#m",
+      "content": "认同👍",
+      "timestamp": "Sep 3, 2025 · 1:41 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1963054756450205753#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1962716488940560601#m",
+      "content": "中文翻译在这里\nlearnblockchain.cn/article/2…",
+      "timestamp": "Sep 2, 2025 · 3:17 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1962716488940560601#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1962716485723517034#m",
+      "content": "100 个Solana日常技巧 - 提升 Solana 程序安全\n内容涵盖项目结构、Anchor约束、代码学习、不变量、动态断言、全局程序状态、账户填充、PDA种子、剩余账户安全、日志记录、并行处理、数学运算安全、重入、ATA账户初始化、多重签名、事件响应计划、编程监控以及Solana账户模型等多个方面。",
+      "timestamp": "Sep 2, 2025 · 3:17 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1962716485723517034#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1962701853873054037#m",
+      "content": "更具体的节点技术参数、RPC方法支持差异及调试案例，可参考这份详细指南：learnblockchain.cn/article/2… \n#以太坊技术 #Web3开发实践 #区块链节点运维",
+      "timestamp": "Sep 2, 2025 · 2:19 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1962701853873054037#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1962701851624943882#m",
+      "content": "3. 针对钱包、移动应用等轻量场景，若核心需求是快速验证交易合法性、获取区块头信息，轻节点足够满足需求：仅需MB级存储，通过依赖上游节点完成数据校验，但不支持历史数据查询与深度调试相关RPC方法，需明确功能边界。",
+      "timestamp": "Sep 2, 2025 · 2:19 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1962701851624943882#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1962701849288724934#m",
+      "content": "2. 仅需完成区块验证、近期状态查询（如近128个区块内的合约只读调用），全节点是更优解：它会自动修剪旧状态数据，存储压力控制在GB级，同时支持基础链上验证与 `eth_call` 等常用RPC方法，兼顾功能与资源成本，适合多数开发调试场景。",
+      "timestamp": "Sep 2, 2025 · 2:19 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1962701849288724934#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1962701846386221426#m",
+      "content": "如何选择以太坊节点? \n几条思路可供参考：    \n1. 若需处理历史数据查询（如任意区块高度的账户状态回溯）或进行 opcode级调试（依赖 `debug_traceCall` 分析旧交易），需优先选择归档节点——其完整保留创世以来所有链上状态，可直接返回历史数据，无需重建；但需注意，这类节点存储需求达TB级，运维中需搭配高IOPS存储设备。",
+      "timestamp": "Sep 2, 2025 · 2:19 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1962701846386221426#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1960274627357491423#m",
+      "content": "登链社区把这篇优质文章翻译成了中文： learnblockchain.cn/article/1… \n\n总结版：以太坊正准备将其架构从EVM替换为RISC-V，以解决zkEVM中EVM的瓶颈问题。RISC-V具有精简指令集、成熟的LLVM生态系统和正式的SAIL规范，更适合ZK-first的未来。迁移分三个阶段进行：RISC-V作为预编译替换、双VM共存和EVM在RISC-V内部重新实现，生态系统将迎来开发者使用Rust/Go/Python库，用户获得更便宜的证明，最终实现大约100倍的效率提升。",
+      "timestamp": "Aug 26, 2025 · 9:34 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1960274627357491423#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1960164554027254199#m",
+      "content": "周六上午9点，一起学习 Nexus L1",
+      "timestamp": "Aug 26, 2025 · 2:17 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1960164554027254199#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1959818032265748593#m",
+      "content": "去年我们 S1 小伙伴的项目 @OutrunBuild 在 #ETHShenzhen 2024 获胜，并经过一年的迭代即将上线\n今年，在 #ETHShenzhen 2025，又有 S1、S6、S7 的小伙伴在黑客松赛场继续崭露头角\n感谢主办方提供机会，感谢以太坊生态为开发者们构建了开放的创新环境，期待下一个10年\n@OpenBuildxyz @Ethtao_Ethtao @0xSZUBA @ethereum",
+      "timestamp": "Aug 25, 2025 · 3:20 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1959818032265748593#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1955961515544338471#m",
+      "content": "有兴趣的来听听",
+      "timestamp": "Aug 14, 2025 · 11:55 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1955961515544338471#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1955860781846978881#m",
+      "content": "🔔Last call for ShanHaiWoo · Singapore - 1 day left to apply!\n\nShanHaiWoo is a month popup builder village happening this September in Singapore. It brings together 200 devs, researchers, founders & creators to co living & co-building real-world applications across AI, Ethereum, and frontier tech.\n\n💡Event Highlight:\n✅ Weekly Mini Demo Days\n✅ Deep dives into AI, Crypto & Frontier Tech\n✅ Founder Sessions & 1-on-1 mentorship\n✅ Visits to top companies & universities\n✅ Product & Venture Strategy\n\n🧑‍🤝‍🧑 Co-Organizers: @DRK_Lab @HashKey_Capital @alt_layer @theBBFund @ethereum_sg\n📌 RSVP: lu.ma/e6j1ehlr\n📅 Deadline: Aug 15, 24:00 (UTC)",
+      "timestamp": "Aug 14, 2025 · 5:15 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1955860781846978881#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1955944031927857422#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、@OpenBuildxyz、登链社区、@decertme联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "Aug 14, 2025 · 10:46 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1955944031927857422#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1955944027393810652#m",
+      "content": "Nexus L1 是一台为 AI 时代构建的行星级超级计算机，其目的是承载全球商业，协调自主代理，并支持可编程经济\n\n🕘本周六(8.16日)上午9:00，欢迎加入腾讯会议与@zhangg_josephh 一起探讨 Nexus L1  @NexusLabs @nexus_chn\n🔗会议链接： meeting.tencent.com/dm/WG7Tr…",
+      "timestamp": "Aug 14, 2025 · 10:46 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1955944027393810652#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1947272870729842823#m",
+      "content": "BUIDL_QUESTS 2025 Begins: Why We’re Doubling Down on AgentFi\n\n1/ BUIDL_QUESTS 2025 officially kicks off today. Our global builder initiative focused on the next frontier of crypto: AgentFi. This year, we’re going bigger—not just in scale, but in conviction. \n\nBacked by over US$10 million in incentives, we’re creating space for developers, researchers, and entrepreneurs to explore what happens when onchain systems meet intelligent agents.\n\nCheck out this thread to learn more! 🧵",
+      "timestamp": "Jul 21, 2025 · 12:30 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1947272870729842823#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1952932156868837769#m",
+      "content": "We are thrilled to announce our partnership with @UpchainDAO as Community Partner.     \n\nEvent Details:    \n🗓 August 23–24, 2025 📍 Shenzhen🇨🇳\n\nJoin Us at ETHShenzhen 2025!   \n→ Attendees Apply: lu.ma/iqh54330\n→ Hackers Apply: forms.gle/Akyh7PjrgapXXFJE6\n→ Volunteer Apply: forms.gle/nomwhGG3GqpJ5RXb8",
+      "timestamp": "Aug 6, 2025 · 3:18 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1952932156868837769#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1950232055524262014#m",
+      "content": "🎉 ETHSHENZHEN 2025 is coming！Join us to meet a new decade of Ethereum！\n\n🗓 August 23–24, 2025📍 Shenzhen\n→ Register Now: lu.ma/iqh54330\n→ Hackers Apply: forms.gle/Akyh7PjrgapXXFJE6\n→ Sponsorships & Partnerships: forms.gle/iQMjPD61ovXkJ7NPA\n\nCo-Hosts: @Ethtao_Ethtao @OpenBuildxyz @0xSZUBA\nSponsors：@chainlink @AlloraNetwork @AvailProject @GCCofCommons @LidoFinance @pharos_network @aveai_info @ChainforGood \n\nAfter rocking 500+ builders in 2024, #ETHShenzhen 2025 returns with: \n🔸 Ethereum Foundation’s new Ecodev team visits China for the first time!\n🔸 Cutting-edge technical discussions with leading projects in the Ethereum ecosystem!\n🔸 Multiple themed workshops onsite — your gateway to becoming a Core Dev!\n\nThis is your ETHShenzhen 2025. Let’s build it together. 🤝🌆",
+      "timestamp": "Jul 29, 2025 · 4:28 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1950232055524262014#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1952640898497683691#m",
+      "content": "OpenZeppelin 中文文档上线， learnblockchain.cn/docs/open…\n\n当我们在以太坊生态进行开发的时候，不管是编写代币、构建治理合约，还是部署多链 DApp，OpenZeppelin 几乎始终出现在我们的工具清单中。它不只是一个合约库，更像是整个 Web3 技术体系里的一块“开发底座”，帮我们节省时间、规范流程、提高效率。\n\n为了帮助中文开发者更顺畅地了解、学习、使用这一套工具，登链社区整理并翻译了 OpenZeppelin 中文文档。",
+      "timestamp": "Aug 5, 2025 · 8:00 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1952640898497683691#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1952248585229394414#m",
+      "content": "piped.kavin.rocks/ZX-S1tNcvYA",
+      "timestamp": "Aug 4, 2025 · 6:01 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1952248585229394414#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1952248582331081010#m",
+      "content": "S7 班的小伙伴中 e 人居多，分组后很快就融入到一起探讨项目，交流经验，并且每当发现问题的时候都会有很深入的讨论，这种讨论不仅对小伙伴们自己的学习有很大帮助，激发很多灵感，也帮助老师在教学上精益求精",
+      "timestamp": "Aug 4, 2025 · 6:01 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1952248582331081010#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1952223474858275228#m",
+      "content": "piped.kavin.rocks/lFoRwmiqnzM",
+      "timestamp": "Aug 4, 2025 · 4:22 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1952223474858275228#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1952223471746101348#m",
+      "content": "每一期小伙伴都有不同的群体特征，S6 i人居多，每天都埋头写代码做项目，虽然平时没怎么组织活动，但项目完成的也很不错，最后班级黑客松第一名的项目完成度非常高",
+      "timestamp": "Aug 4, 2025 · 4:22 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1952223471746101348#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1951858494803771601#m",
+      "content": "登链线下集训营第七期的一个小伙伴在小红书上分享了参加集训的感受，说的很真实，我们确实是理想主义，感谢迄今有那么多人支持我们的理想，信任我们所做的事❤️❤️\nxiaohongshu.com/explore/688e…",
+      "timestamp": "Aug 3, 2025 · 4:11 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1951858494803771601#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1950813422917988674#m",
+      "content": "💪比特币开发课程再加料！\n\n由 @zzmjxy 和 @UpchainDAO 联办比特币开发课程正火热进行中！今晚我们邀请到嘉宾金狗博士 @ordjingle 来为我们分享他对比特币生态的研究和见解。\n\n⏰时间: 7月31日 8 点（UTC+8）\n\n🚩space链接：",
+      "timestamp": "Jul 31, 2025 · 6:58 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1950813422917988674#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1950171104628396543#m",
+      "content": "来自 @merit_systems 创始人 shafu 的优秀智能合约项目清单，shafu 在 Github 上整理了一些他觉最优秀的智能合约项目代码，包括Aave、Compound、Curve等DeFi协议，Art Gobblers等NFT项目，以及 Synthetix等衍生品项目。\n\n中文翻译版：learnblockchain.cn/article/1…",
+      "timestamp": "Jul 29, 2025 · 12:26 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1950171104628396543#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1950039719414272214#m",
+      "content": "线下集训最大的魅力就在于此\n同频且深入的讨论不仅利于对学习内容的深入理解，还可以为我们的项目开发提供无数灵感火花",
+      "timestamp": "Jul 29, 2025 · 3:44 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1950039719414272214#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1948368318563549238#m",
+      "content": "Tiny 老师，应该多把集训营线下讨论点发出来。今天的讨论尽管是临时的，但看的出来每个人都听的意犹未尽",
+      "timestamp": "Jul 24, 2025 · 1:03 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1948368318563549238#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1947629310409572453#m",
+      "content": "荐读：Web3前端攻击：黑客的新乐园\n\n谈论Web3安全时，我们往往会想到智能合约而忽视掉Frontend安全问题。@ImmuneBytes 在这篇文章中详细介绍了这种风险。\n\n🔗中文版连接：learnblockchain.cn/article/1…",
+      "timestamp": "Jul 22, 2025 · 12:06 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1947629310409572453#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1945825191168524499#m",
+      "content": "荐读：展望 2030 年的以太坊\n@Lemniscap 在最新发布的文章中展望了以太坊在到2030时候可能发生的变化。认为以太坊将通过L1的优化和rollup技术，支持两种rollup架构：与以太坊深度整合的Aligned Rollup，以及追求高性能的Performance Rollup。\n中文版链接：learnblockchain.cn/article/1…",
+      "timestamp": "Jul 17, 2025 · 12:37 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1945825191168524499#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1944303665743114722#m",
+      "content": "荐读：如何确保强制交易模拟执行与真实执行的一致性\n\n在区块链交易中模拟执行与实际执行之间状态往往存在着差异。@BitFinding 提出了一种通过在交易中附加状态约束来解决此问题的方法，这些约束在交易执行前进行检查，确保交易在符合预期状态的条件下进行，从而提高交易的安全性和可靠性。\n\n中文翻译版：learnblockchain.cn/article/1…",
+      "timestamp": "Jul 13, 2025 · 7:51 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1944303665743114722#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1943492842891985032#m",
+      "content": "课程链接：learnblockchain.cn/course/76",
+      "timestamp": "Jul 11, 2025 · 2:09 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1943492842891985032#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1943278586514883047#m",
+      "content": "荐读：Solana：lamport转账的隐藏危险\n\n@osec_io 在本文中深入探讨了Solana中lamport转移的潜在危险，通过一个“King of the SOL”的智能合约游戏案例，揭示了rent-exemption、可写账户的lamport转移失败以及write-demotion等问题可能导致程序出错甚至瘫痪。\n\n中文翻译版：learnblockchain.cn/article/1…",
+      "timestamp": "Jul 10, 2025 · 11:58 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1943278586514883047#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1943204014352666956#m",
+      "content": "开发者是 Solana 生态蓬勃发展的基石，在每一年的全球黑客松里都会涌现出一些新鲜的优质项目！\n\nSolana 2025 @colosseum Breakout 黑客松华语区名单正式揭晓！\n\n经过激烈的角逐和评审团的严格评选，我们非常荣幸地宣布本次黑客松的获奖项目名单！\n\n🧵",
+      "timestamp": "Jul 10, 2025 · 7:01 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1943204014352666956#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1942922878657413588#m",
+      "content": "荐读：Solidity ABI 编码的深度解析系列\n\n对于 Solidity 开发者来说，ABI 编码/解码是必须掌握的主题。由 @DecipherClub 编写的Solidity ABI 编码的深度解析系列文章的目标是简化每个 Solidity 开发者的 ABI 编码。为开发者提供一个快速上手的指南。\n\n中文翻译版链接：learnblockchain.cn/article/1…",
+      "timestamp": "Jul 9, 2025 · 12:24 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1942922878657413588#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1942575757135601786#m",
+      "content": "荐读：从以太坊到Solana：开发者的假设造成的严重安全漏洞\n由于Solana和以太坊的安全模型差异很大，例如：账户验证不足、签名者账户转发等。这就导致以太坊开发者在转向 Solana 开发时可能遇到一些错误。@dedaub 在本文中整理了这些可能遇到错误。\n\n中文版链接：learnblockchain.cn/article/1…",
+      "timestamp": "Jul 8, 2025 · 1:25 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1942575757135601786#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1942176019991212076#m",
+      "content": "荐读：全面对比分析 EVM 数据索引的各种解决方案\n\n来自 @Dune 的数据索引方案选择指南。文章分析了多种索引解决方案，包括The Graph、Ponder、Envio、Subsquid、Goldsky、Sim IDX和自研方案，比较了它们在数据源、性能、链支持、数据转换、查询API、托管控制成本和开发者体验等方面的优劣。\n\n中文翻译版：learnblockchain.cn/article/1…",
+      "timestamp": "Jul 7, 2025 · 10:57 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1942176019991212076#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1940747648119853347#m",
+      "content": "🎉The Chinese version of the EIP document is here!\nThe Ethereum Improvement Proposal is a must-read document for developers, covering core protocols and application specifications.\n@UpchainDAO  translated (thanks to AI) the original English document and compiled this EIP Chinese document, hoping to help Chinese developers learn and develop better. @ethereumfndn \nView link👉learnblockchain.cn/docs/eips…",
+      "timestamp": "Jul 3, 2025 · 12:21 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1940747648119853347#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1940747644911100242#m",
+      "content": "🎉EIP 文档中文版来啦！\n以太坊改进提案是开发者的必读文档，涵盖核心协议与应用规范。\n登链社区精心翻译(感谢AI助力)了英文原版文档，整理出这份 EIP 中文文档，希望能够帮助中文开发者更好地进行学习和开发。@ethereumfndn\n查阅链接👉learnblockchain.cn/docs/eips…",
+      "timestamp": "Jul 3, 2025 · 12:21 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1940747644911100242#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1939976478541627648#m",
+      "content": "荐读: 登链集训营实战项目全公开\n\n上次公开我们线下集训营的课表后，收到了很多的肯定\n这次我们将线下集训的实战项目继续分享给大家\n相信跟着我们的课表，再结合这些实战，一定会对自学的小伙伴有所帮助💪🏻\n--\n转自@tinyxiong_eth在 #登链社区 @UpchainDAO的分享 learnblockchain.cn/article/1…",
+      "timestamp": "Jul 1, 2025 · 9:16 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1939976478541627648#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1939975333492437331#m",
+      "content": "直播课今晚8点正式开课啦，\n今年下半年，小伙伴们准备好跟我们一起度过了吗\nlearnblockchain.cn/openspace…",
+      "timestamp": "Jul 1, 2025 · 9:12 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1939975333492437331#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1937528008887435510#m",
+      "content": "🚨 FINAL CALL! Hong Kong's tech revolution starts June 30!\n\nRemember Linux? Docker? Kubernetes? They all started at meetups like this! Now it's Hong Kong's turn to make history! 🇭🇰\n\n🔥 The inaugural Open Cyberport Community Meetup is HERE: @cyberport_hk \n📍 Cyberport | June 30 | 2-6PM  \n👥 100+ global tech pioneers, ONE mission\n\nThis isn't just another tech event - this is Hong Kong declaring: \"We're not just watching the open-source revolution, WE'RE LEADING IT!\"\n\n⚡ What awaits:\n• Dual CEO kickoff (Cyberport's Rocky + OpenCSG's Sam Chan)\n• Top AI/open-source minds sharing breakthrough insights\n• \"Building Open Source Communities\" - real talk panel\n• Game-changing project demos from local innovators\n• Networking that sparks actual partnerships\n\n🎯 The vision: Build Hong Kong's \"Hugging Face + Web3\" ecosystem - keeping innovation in OUR hands!\n\n⏰ Spots filling FAST! Don't miss your chance to be part of history!\n\n👆 REGISTER NOW: lu.ma/6hna8a2k\n\nHelp us make waves! RT & tag your network:\n@GBEUA_ @Web3link2020 @LXDAO_Official \n@0xUClub @nus_lab @BlockchainZJU @BUPT3DAO\n@Web3AI_Cafe @BlockchainNKU @BlockchainZJU\n@HTX_DAO @labs706 @SeeGrowthX @JinseFinance\n@1783dao @BroadChain_info @UpchainDAO @kaiyuanshe @OfficialRUChain @icphub_CN @cyberport_hk @Dell @Microsoft @CloudNativeFdn @aigclink @Lenovo @RedHat\n\n#OpenSource #HongKong #Web3 #AI #TechRevolution #Cyberport",
+      "timestamp": "Jun 24, 2025 · 3:07 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1937528008887435510#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1935562229933592863#m",
+      "content": "今晚来看看 Solayer 的超能力",
+      "timestamp": "Jun 19, 2025 · 4:56 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1935562229933592863#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1935262463395774467#m",
+      "content": "感谢一直以来支持我们的社区小伙伴们\n@RebaseCommunity @OpenBuildxyz @0xtheweb3 @coset_io @see_dao @Solana_zh",
+      "timestamp": "Jun 18, 2025 · 9:05 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1935262463395774467#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1935262460132618729#m",
+      "content": "2024 年初开始，我们潜心线下课程，与线下小伙伴一起探讨和优化，没有开放线上课程。到现在，在经过了 2 年线上和 1 年多线下，与近千名小伙伴反复打磨之后，登链社区的区块链集训课程已经形成了一套相对成熟的课程体系。\n我们将于今年 7 月开启线上直播课程，方便无法抽身到现场学习的小伙伴。",
+      "timestamp": "Jun 18, 2025 · 9:05 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1935262460132618729#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1933461706761715716#m",
+      "content": "Beijing’s AI & Web3 Trailblazers, Gear Up for the Ultimate Buildathon!  \n  \n🚀 AI x Web3 Offline Mini Hackathon - 3nd Stop： Beijing !    \n\n💡Theme：Explore Web2 applications to Web3 \n🗓️Date：June 21th （Sat），9:00am - 6:00pm\n📍Location：Beijing (apply to get exact address)     \n🔗Register Now：lu.ma/xb7d42o4\n\nCode with the boldest minds. Shape the future of decentralized AI.",
+      "timestamp": "Jun 13, 2025 · 9:49 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1933461706761715716#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1933436616963731901#m",
+      "content": "我们翻译这个  surfpool 101 系列： learnblockchain.cn/video/pla…",
+      "timestamp": "Jun 13, 2025 · 8:09 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1933436616963731901#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1932062302536438105#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、@OpenBuildxyz、登链社区、@decertme联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "Jun 9, 2025 · 1:08 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1932062302536438105#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1932062298476347672#m",
+      "content": "❓当构建者不能参与规则制定时，技术是否真的自由？\n❓开源社区如何保障开发者的贡献被看到、被回报？\n❓技术的“权力结构”应如何重塑？\n❓Hackathon 如何成为推动公平构建的实验场？\n🕗明晚(6.10日)8:00，FAIR3 @Fair3_communityv将和我们一起开启一场关于 Tech Fairness 的深入讨论\n🔗预约space：localhost:8080/i/spaces/1djGXVO…",
+      "timestamp": "Jun 9, 2025 · 1:08 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1932062298476347672#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1931171944818262391#m",
+      "content": "📅6 月 10 日周二晚九点\n🍀alcove 将与 @MovemakerCN 举办🌐Aptos Move 基础库共建指南 AMA \n\n目前已有不少开发者和团队准备参与到基础库共建\n\n但怎么开始基础库共建？需要写哪些基础库？如何与其他开发者协作？怎么拿到激励？\n\n本次 AMA 都将告诉你答案！\n\n提前预约本次 AMA\nlocalhost:8080/i/spaces/1gqGvjXEVEkGB",
+      "timestamp": "Jun 7, 2025 · 2:10 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1931171944818262391#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1930076200489365702#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、@OpenBuildxyz、登链社区、@decertme联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "Jun 4, 2025 · 1:36 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1930076200489365702#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1930076196022431997#m",
+      "content": "🚀 面向未来的数据基础设施如何定义？如何定义和实现数据主权？AI+Web3 时代的数据处理有哪些新机遇？开发者如何通过 Vana Academy 深入 Web3 同时获得 Vana 的支持？\n🎙️ 本周我们将与 Vana 团队展开 Twitter Space AMA，探讨 AI+Web3 时代的数据所有权、开发者生态建设及更多精彩话题！\n🗓️ 时间：6 月 4 日 晚 6 点 UTC+8\n 🎤 嘉宾：Art Abal, Managing Director & Co-founder @vana\n\n快来加入，一起探索数据的无限可能！🎉\n \n👉点击预约：localhost:8080/i/spaces/1ypKdZYDjgYJW\n\n#Web3 #OpenBuild #Vana #AI #AI+Web3",
+      "timestamp": "Jun 4, 2025 · 1:36 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1930076196022431997#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1927589517264928913#m",
+      "content": "🚀 成为 Web3 数据分析师！\n\n加入我们的免费课程，学习基本的区块链和数据分析技能——无需编码！ \n\n🗓 日期: 2025年5月28日-6月30日\n🔗 立即注册: openbuild.xyz/learn/challeng…\n\n向我们的合作伙伴学习: Hemera @HemeraProtocol, ZAN @zan_team, The Graph @graphprotocol, and KiteAI @GoKiteAI!\n\n让我们一起开始吧!",
+      "timestamp": "May 28, 2025 · 4:55 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1927589517264928913#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1925777915754549289#m",
+      "content": "登链线下集训营完整课表，以后同学们照着这个学习就可以了，全是干货～",
+      "timestamp": "May 23, 2025 · 4:56 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1925777915754549289#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1924380602780037391#m",
+      "content": "回放视频：\npiped.kavin.rocks/GeTKB4L3V7Y",
+      "timestamp": "May 19, 2025 · 8:24 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1924380602780037391#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1923197722682863621#m",
+      "content": "五天四晚，来自各地的 Builder 在 OpenSpace 汇聚碰撞，以代码会友，以灵感交流，一起为 Web3 而构建。\n感谢 @Solana_zh、@SonicSVM、@CudisWellness 对华语开发者社区的支持, 让我们可以见证 Builder 和 行业的成长\n感谢每一位来到现场的 hacker，你对登链社区的信任让我们在 Web3 build 之路上更加坚定。\nLet's build the future together !",
+      "timestamp": "May 16, 2025 · 2:04 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1923197722682863621#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1923193941450477984#m",
+      "content": "Solar mini HackerHouse 珠海站完美收官\n@Solana_zh @solana @SolanaFndn \n虽然我们是全男团出战，但是\ncoding 在 OpenSpace 出品没问题，吃喝玩乐在珠海浪漫不会少\n小伙伴们继续把项目做大做强吧，加油💪🏻\npiped.kavin.rocks/wYqJ950OULI",
+      "timestamp": "May 16, 2025 · 1:49 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1923193941450477984#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1922858237348528213#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、\n@OpenBuildxyz、登链社区、@decertme 联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "May 15, 2025 · 3:35 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1922858237348528213#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1922858232797659462#m",
+      "content": "Hyperlane 无需许可的跨链互操作协议解决了跨链互操作性领域存在的中心化和权限问题，它的无许可部署、模块化和 Warp Routes 等为开发者提供了更大的灵活性和安全性。@HyperlaneCC @hyperlane\n🕘今晚(5.15日)9点，@edatweets_ 将带我们一起基于 Hyperlane 构建跨链桥\n会议🔗：meet.google.com/kit-mpdx-szh",
+      "timestamp": "May 15, 2025 · 3:35 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1922858232797659462#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1922815057492398499#m",
+      "content": "Hangzhou’s AI & Web3 Trailblazers, Gear Up for the Ultimate Buildathon!  \n\n🚀 AI x Web3 Offline Mini Hackathon - 3nd Stop： Hangzhou !  \n\n💡Theme：Explore the On-Chain World with AI \n📅Date：May 17th（Sat）, 9:00am - 6:00pm\n 📍Location：Hangzhou (apply to get exact address)   \n 📎Register Now：lu.ma/thvtsf7k \n\nCode with the boldest minds. Shape the future of decentralized AI.",
+      "timestamp": "May 15, 2025 · 12:43 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1922815057492398499#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1922559820671947098#m",
+      "content": "回放链接\npiped.kavin.rocks/q4yWFfN2iuQ",
+      "timestamp": "May 14, 2025 · 7:49 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1922559820671947098#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1922204041116893363#m",
+      "content": "回放获取链接\npiped.kavin.rocks/ffO946CzoN4",
+      "timestamp": "May 13, 2025 · 8:15 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1922204041116893363#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1921829538138386922#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、@OpenBuildxyz、登链社区、@decertme联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "May 12, 2025 · 7:27 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1921829538138386922#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1921829532752842895#m",
+      "content": "zkMIPS 是业界首个支持 MIPS 指令集的零知识证明虚拟机，由 @ProjectZKM 开发,配备了完善的开发者工具包和高效的证明网络 \n🕗明晚(5.13日)晚8点，ZKM CTO @sd_eigen 将为我们介绍 zkMIPS 1.0  \n 入会🔗：meeting.tencent.com/dm/9Vtj0…  \n腾讯会议：397-869-411",
+      "timestamp": "May 12, 2025 · 7:27 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1921829532752842895#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1921813398204911983#m",
+      "content": "OpenSpace公开课第100期——web3 新手如何入行，如何加速成长\n更改会议时间为今晚(5.12日)9点开始",
+      "timestamp": "May 12, 2025 · 6:23 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1921813398204911983#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1921766606381727912#m",
+      "content": "往期回顾：\n第1-26期 learnblockchain.cn/course/16 \n第27-57期 learnblockchain.cn/course/32\n第58-99期 learnblockchain.cn/video/pla…",
+      "timestamp": "May 12, 2025 · 3:17 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1921766606381727912#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1921766603760267705#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、@OpenBuildxyz、登链社区、@decertme联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "May 12, 2025 · 3:17 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1921766603760267705#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1921766598823542925#m",
+      "content": "感谢一直支持OpenSpace公开课的社区和媒体朋友们\n@0xtheweb3 @decertme @EthStorage @GCCofCommons  @ETHPanda_Org @nftscan_com @coset_io @BuidlerDAO @noncegeek \n@Foresight_News @PANewsCN @OdailyChina @ChainCatcher_  @JinseFinance @shiliancaijing @DianDiCaiJing @techhub",
+      "timestamp": "May 12, 2025 · 3:17 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1921766598823542925#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1921766593111244839#m",
+      "content": "历时 4 年多，OpenSpace 公开课来到了第 100 期🏅\n感谢曾经参与过支持过我们的每一个小伙伴❤️\n主办方 @RebaseCommunity @OpenBuildxyz @UpchainDAO 都是资深 web3 开发者社区，一直在努力践行帮助开发者成为 web3 builder\n🕗今晚(5.12日)8点，主办方们将和小伙伴们一起聊聊新手入行的常见问题，分享一些重要经验，欢迎大家入会交流\n🔗：meeting.tencent.com/dm/yQWCF…\n腾讯会议：541-588-886",
+      "timestamp": "May 12, 2025 · 3:17 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1921766593111244839#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1920305077631201393#m",
+      "content": "2025比特币开发课今晚8点正式开课啦",
+      "timestamp": "May 8, 2025 · 2:29 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1920305077631201393#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1920031617319612806#m",
+      "content": "需要录播的小伙伴戳这里哟↓\npiped.kavin.rocks/OL0p7CNjZlE",
+      "timestamp": "May 7, 2025 · 8:23 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1920031617319612806#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1919741494585421971#m",
+      "content": "Solana HackerHouse 珠海站将于 9 号在 OpenSpace 正式开始，一起来冲击大奖吧🍻",
+      "timestamp": "May 6, 2025 · 1:10 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1919741494585421971#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1919653236270891292#m",
+      "content": "荐读: 🚀 深入了解 Arbitrum 的三条链：One、Nova 与 Orbit\n--\n转自 #登链社区 @UpchainDAO learnblockchain.cn/article/1… \n\n@arbitrum @arbitrum_cn @HackQuest_",
+      "timestamp": "May 6, 2025 · 7:19 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1919653236270891292#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1919382751691813017#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、@OpenBuildxyz、登链社区、@decertme联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "May 5, 2025 · 1:24 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1919382751691813017#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1919382746776162463#m",
+      "content": "Cartesi Rollup 提供模块化堆栈，使开发者可根据需求定制共识、DA 和结算层，让 DApp 开发达到前所未有的灵活\n5.6 日(周二)晚 8 点，Cartesi 开发者关系 leader @joaopdgarcia 将为我们分享如何基于@cartesiproject构建和运行强大的 Dapp,欢迎按时入会\n🔗：meeting.tencent.com/dm/UDobP…",
+      "timestamp": "May 5, 2025 · 1:24 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1919382746776162463#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1912786391815131517#m",
+      "content": "感谢支持本次课程的社区伙伴们：\n@OpenBuildxyz @RebaseCommunity \n@0xtheweb3 @coset_io @HackQuest_",
+      "timestamp": "Apr 17, 2025 · 8:33 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1912786391815131517#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1912786384878010511#m",
+      "content": "去年 chain renaissance capital 技术合伙人 Jacky 在登链社区开设的 Bitcoin 开发公开课非常受欢迎 \n今年，@zzmjxy 将打造升级版👉比特币开发课程👈，3个月时间帮助大家在下一波风口前深入比特币技术，掌握独立开发和创新能力，实现真正有价值、有趣味的比特币应用。\n🛸如果你也想开启一段比特币编程与生态创新之旅，欢迎戳链接报名：learnblockchain.cn/course/76",
+      "timestamp": "Apr 17, 2025 · 8:33 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1912786384878010511#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1912691548443275769#m",
+      "content": "为非技术背景者设计，由 HaskKey Chain 和登链社区联合制作的 Web3 入门公开课\n🕗将于4月18日、19日、25日、26日 每晚 8 点直播\n\n大纲： \n1、区块链价值所在（回答为什么需要区块链）  \n2、各个区块链平台及二层扩容（回答为什么有那么多链）  \n3、认识智能合约与数字资产   \n4、区块链主要应用场景及发展趋势   \n\n🔗直播链接：meeting.tencent.com/dm/NEk5y…\n#腾讯会议：759-3223-3419\n\n💿报名和录播地址： learnblockchain.cn/course/75",
+      "timestamp": "Apr 17, 2025 · 2:16 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1912691548443275769#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1912427044950143031#m",
+      "content": "由 HaskKeyChain 和登链社区联合制作的 Web3 入门公开课将于🕗2025/04/18 - 2025/04/26 每晚 8 点直播，欢迎对 Web3 行业感兴趣的小伙伴加入\n\n🌹大纲：\n1、区块链价值所在（回答为什么需要区块链） \n2、各个区块链平台及二层扩容（回答为什么有那么多链） \n3、认识智能合约与数字资产  \n4、区块链主要应用场景及发展趋势 \n\n报名和录播地址： learnblockchain.cn/course/75",
+      "timestamp": "Apr 16, 2025 · 8:45 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1912427044950143031#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1910704778230878306#m",
+      "content": "希望登链社区的视频文稿功能能帮助的想学英语的开发者",
+      "timestamp": "Apr 11, 2025 · 2:41 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1910704778230878306#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1909891593701917027#m",
+      "content": "OpenSpace 第五期线下集训圆满结束，感谢小伙伴们对登链的支持和信任。\n两个月的闭关修炼，我们不仅有技术上的成长，对行业的进一步认识，还有可以携手的伙伴，希望有一天我们可以一起站在山顶看辽阔的大海。\npiped.kavin.rocks/rP5D_yRu95s",
+      "timestamp": "Apr 9, 2025 · 8:50 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1909891593701917027#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1909888414192726524#m",
+      "content": "录播视频，欢迎自取\npiped.kavin.rocks/VBvMLv5t4l0",
+      "timestamp": "Apr 9, 2025 · 8:37 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1909888414192726524#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1909416726628122985#m",
+      "content": "今晚8点腾讯会议直播，一起学习第一个通用 ZK 协议 Boundless \n🔗：meeting.tencent.com/dm/YWIAk… #腾讯会议：896-125-711\n\n因档期原因更换主讲人，请以此为准🫶",
+      "timestamp": "Apr 8, 2025 · 1:23 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1909416726628122985#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1909134735248654438#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、@OpenBuildxyz、登链社区、@decertme联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "Apr 7, 2025 · 6:42 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1909134735248654438#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1909134731201130846#m",
+      "content": "Boundless is the first universal ZK protocol that transforms how developers build with zero-knowledge proofs across any chain.\nWe are delighted  that  Jacob Everly from @boundless_xyz  will talk about   \"How to build with boundless\" with us at OpenSpace  tomorrow(2025/04/08) 20:00.\n🔗：meeting.tencent.com/dm/YWIAk…\n#腾讯会议：896-125-711\nWelcome to join the live broadcast ！",
+      "timestamp": "Apr 7, 2025 · 6:42 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1909134731201130846#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1908048778696995025#m",
+      "content": "为期三周的 Solana 开发公开课于昨晚圆满结束，感谢小伙伴们对课程的支持♥️感谢讲师们的付出 @deanmlittle @liushooter @ganxiaolong5 @tinyxiong_eth , 以及@Solana_zh @solana @SolanaFndn @RebaseCommunity @OpenBuildxyz 的支持\n这次课程受到非常多开发者的关注，直播累计参与人数1000+ 🤩\n录播已上线，欢迎订阅：\n🔗 learnblockchain.cn/course/73\nSolana 的热度毋庸置疑，希望这次课程也能帮助更多开发者加入生态建设💪🏻",
+      "timestamp": "Apr 4, 2025 · 6:47 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1908048778696995025#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1907353465116098581#m",
+      "content": "录播在此，欢迎自取\npiped.kavin.rocks/yxweCbDMtt0",
+      "timestamp": "Apr 2, 2025 · 8:44 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1907353465116098581#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1906547264904188019#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、@OpenBuildxyz、登链社区、@decertme\n联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "Mar 31, 2025 · 3:21 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1906547264904188019#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1906547259719999715#m",
+      "content": "大型语言模型(LLM)以前所未有的速度向 AGI 迈进，为支持 AI 基础设施，0G 正在构建全球最大的 AI Layer1 区块链，确保 AI 底层资源能够得到广泛、公平和安全的分配。\n4.1日晚8点， @0G_labs  Engineer @Peter_Z_META 将在 #OpenSpace公开课 为小伙伴们分享0G的架构和应用\n🔗直播链接：meeting.tencent.com/dm/zRxvp…\n#腾讯会议：362-310-437",
+      "timestamp": "Mar 31, 2025 · 3:21 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1906547259719999715#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1905436228763504857#m",
+      "content": "Lift Off Asia 作为 @EthereumAsia 的姊妹活动，由 @ethpanda_org @devfolio @ethecofund 联合举办，旨在通过筛选亚洲最佳 Dapp 来为 ETHAsia 活动预热，并为冠军团队打开 ETHAsia 直通车！",
+      "timestamp": "Mar 28, 2025 · 1:46 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1905436228763504857#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1900007210379600133#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、@OpenBuildxyz、登链社区、@decertme联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "Mar 13, 2025 · 2:13 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1900007210379600133#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1900007206076244284#m",
+      "content": "zkMIPS 是 ZKM 的通用 zkVM，用于在链上验证 MIPS 程序是否在链下正确执行。\n今晚8点(3.13日)，来自 @ProjectZKM 的 Daniel 老师将为我们详细分享 ZKM 的 Prover 机制\n🔗会议链接：meeting.tencent.com/dm/FbqFa…\n腾讯会议：563-338-268\n💐提前了解：learnblockchain.cn/column/99",
+      "timestamp": "Mar 13, 2025 · 2:13 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1900007206076244284#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1899761412584751325#m",
+      "content": "🎉 登链社区很高兴成为 @EthereumAsia 的合作社区！🚀\n\nETHAsia 将于 4 月 9 日在香港 Web3 嘉年华期间于香港会议展览中心 5BCDE 展厅盛大举行！🌟 快来加入我们，一起探索以太坊生态最新动态与未来趋势吧！👉 立即免费申请：lu.ma/ETHAsia\n\n此外，如果你是亚洲以太坊青年建设者，千万别错过 ETHAsia Youth Odyssey！填写申请表格，我们将为入围者提供参与这场盛会的补贴支持！🎟️ 👉 申请链接：tally.so/r/wgvApO\n\n#ETHAsia #Ethereum #Web3 #HK\n\n英文版：\n\n🎉 Upchain is thrilled to become the community partner of @EthereumAsia! 🚀\n\nETHAsia will be held on April 9 at Hall 5BCDE, Hong Kong Convention and Exhibition Centre during the Hong Kong Web3 Festival! 🌟 Join us to explore the latest trends and future developments in the Ethereum ecosystem! 👉 Apply now for free: lu.ma/ETHAsia\n\nAdditionally, if you're a young Ethereum builder in Asia, don't miss out on the ETHAsia Youth Odyssey! Fill out the application form, and selected participants will receive subsidies to attend this incredible event! 🎟️ 👉 Apply here: tally.so/r/wgvApO\n\n#ETHAsia #Ethereum #Web3 #HK",
+      "timestamp": "Mar 12, 2025 · 9:56 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1899761412584751325#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1897137828498469059#m",
+      "content": "感谢支持\n@moledao_io @BeWaterOfficial @AntalphaGlobal @see_dao @PlanckerDAO @HackQuest_ @segment_fault @SECBIT_IO \n@ChainCatcher_ @OdailyChina @Foresight_News @Cointime_CN @BlockBeatsAsia @News_Techub",
+      "timestamp": "Mar 5, 2025 · 4:11 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1897137828498469059#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1897137825319113137#m",
+      "content": "课程大纲和时间安排如下",
+      "timestamp": "Mar 5, 2025 · 4:11 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1897137825319113137#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1897137818935431502#m",
+      "content": "⏰3.18 - 4.3 日\n@Solana_zh  和 @solana  基金会支持 @SolanaFndn \n联合 @RebaseCommunity @OpenBuildxyz @UpchainDAO 共同主办的\n为期三个星期的👉 Solana 开发公开课👈\n跟资深 Solana 开发者们从概念到实践深入生态核心技术\n@deanmlittle @liushooter  @ganxiaolong5 @tinyxiong_eth \n🚩现在开始扫码报名，加课程群\n📃​缝周二、三、四、五上课",
+      "timestamp": "Mar 5, 2025 · 4:11 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1897137818935431502#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1895697467980857675#m",
+      "content": "多种访问链上 Safe 钱包账户的方法 \n\nlearnblockchain.cn/article/1…",
+      "timestamp": "Mar 1, 2025 · 4:47 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1895697467980857675#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1895005364938301947#m",
+      "content": "录播回放请查收\npiped.kavin.rocks/watch?v=XzyYI6Ko…",
+      "timestamp": "Feb 27, 2025 · 6:57 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1895005364938301947#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1893946656749490652#m",
+      "content": "明天晚上，一起探索 BitVM 落地与应用场景",
+      "timestamp": "Feb 24, 2025 · 8:50 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1893946656749490652#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1889591570996867577#m",
+      "content": "第二届 CUBE 峰会开始了，Mass Adoption 相关的项目欢迎报名！难得的在顶尖 VC 面前曝光的机会。\n\n登链社区友情支持",
+      "timestamp": "Feb 12, 2025 · 8:25 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1889591570996867577#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1889186175275184306#m",
+      "content": "Feb 18 🚀 Monad 101 @ Hong Kong 🇭🇰#ConsensusHK\n\nDon’t miss the first hands-on workshop after Monad’s testnet launch! Bring your laptop and dive in! Limited swag & food await!\n\nHosted by: @monad_xy and @OpenBuildxyz \n🗓 Date: 2:30 PM - 5:30 PM (GMT+8)\n📍 Location: Hong Kong (details upon registration)\n🔗 Register now: lu.ma/70nr61pv\n\n💜Why Monad💜\n1. 10,000 TPS performance\n2. MonadBFT for faster transactions\n3. Delay execution for max efficiency\n4. Parallel execution boosts speed\n5. MonadDb for optimized data storage\n\n👀Keep an eye on this thread for info!👇",
+      "timestamp": "Feb 11, 2025 · 5:34 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1889186175275184306#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1887445073476133258#m",
+      "content": "解析以太坊即将到来的硬分叉 - Pectra 升级\n\n  learnblockchain.cn/article/1…",
+      "timestamp": "Feb 6, 2025 · 10:15 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1887445073476133258#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1880240749956186282#m",
+      "content": "一路同行，感恩有你们 @GCCofCommons @RebaseCommunity  @OpenBuildxyz @nftscan_com @4seasDeSoc @xiao_zcloak @ChainlinkCN @okx @PlanckerDAO @see_dao @Web3BuidlerTech @BuidlerDAO  @Solana_zh @SlowMist_Team @ProjectZKM   @seek_web3 @0xqige   @qiaopengjun @decertme ...  还有很多没有@的朋友",
+      "timestamp": "Jan 17, 2025 · 1:08 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1880240749956186282#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1880075311498625093#m",
+      "content": "推荐一篇文章给链上数据分析的朋友， 文章来自 @andrewhong5297  ，  #登链社区 @UpchainDAO 翻译为了中文 learnblockchain.cn/article/1…",
+      "timestamp": "Jan 17, 2025 · 2:10 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1880075311498625093#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1877271809760047111#m",
+      "content": "【推特+腾讯会议同步直播】Arweave/AO 技术分享会：AO Token Process 分析及 Allocation 机制讲解\n\n由 @PANewsCN @UpchainDAO 支持，@perma_daoCN 主办\n\n🎉 大家期待已久的 AO 主网距正式上线已不足一个月！是否已经按捺不住内心的激动呢？\n\n为了帮助大家全面地了解 AO Token 的技术细节，我们邀请到了 PermaDAO 孵化公会的合作伙伴之一 —— Apus Network 团队，为大家带来 AO 铸币流程和收益分配机制的深度解析！\n\n⏰ 今晚 9 点！\n\n📅 #腾讯会议：926-788-649\n\n📺 Twitter 直播：@perma_daoCN",
+      "timestamp": "Jan 9, 2025 · 8:30 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1877271809760047111#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1876944850551029824#m",
+      "content": "重新学习 Solana 第一篇 - 理解 Solana\n--\n转自@tinyxiong_eth在 #登链社区 @UpchainDAO的分享 learnblockchain.cn/article/1…",
+      "timestamp": "Jan 8, 2025 · 10:51 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1876944850551029824#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1876450145258401805#m",
+      "content": "干货👍",
+      "timestamp": "Jan 7, 2025 · 2:05 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1876450145258401805#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1875448522268618905#m",
+      "content": "关注后续，这是以太坊基金会的回复\n省流: 是 Wie 先决定停刊，而后 EF 停止支持",
+      "timestamp": "Jan 4, 2025 · 7:45 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1875448522268618905#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1874733459232723060#m",
+      "content": "We are so sorry to hear that WiE is no longer being published.\n\nAfter ETHFans , the Upchain community started to translating WiE at the end of 2021 . It has been three years, and each newsletter was very popular on our community site. \nThe WiE always shared important information that developers care about, including important Ethereum upgrades, technical materials, ongoing projects, and so on .The newsletter helped bring new readers to our community site in the early. However,  we know  the difficulties of running a non-profit project, and we support the author's decision.\n\nThanks to @evan_van_ness for organizing 435 newsletters (weekinethereumnews.com/week-…) for more than 8 years, starting from August 21, 2016. \nThe upchain Community had the honor to translate 157 of them learnblockchain.cn/people/42…",
+      "timestamp": "Jan 2, 2025 · 8:24 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1874733459232723060#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1874733453570408836#m",
+      "content": "看到每周以太坊正式停更的消息，我们感到无比遗憾。\n\n登链社区 2021年底从 ETHFans 接棒翻译每周以太坊，整整三年，每一期的简报都非常受欢迎。每个星期一篇的以太坊简报，帮助了许多社区小伙伴了解以太坊的重要升级，重要的开发者资料，核心开发者的工作进展，正在进行的EIP，生态正在发生的重要事件，和开发者们希望了解到的其他最新信息。\n\n这份简报，给登链社区网站带来了一批早期稳定的阅读者，也帮助了很多社区小伙伴，停更是每个支持者的遗憾。但是，同样作为一个非盈利的网站，我们深刻理解每周以太坊的难处，理解并支持作者最终的决定。\n\n感谢 Evan Van Ness 从 2016年8月21日 开始到现在8年多时间整理的 435 份Week in Ethereum(weekinethereumnews.com/week-…) ，登链社区有幸翻译了其中的157篇learnblockchain.cn/people/42…",
+      "timestamp": "Jan 2, 2025 · 8:24 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1874733453570408836#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1873642032939548814#m",
+      "content": "彼此见证成长👍",
+      "timestamp": "Dec 30, 2024 · 8:07 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1873642032939548814#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1871049047588651168#m",
+      "content": "#UpchainEducation\n麻省理工学院的Gensler教授开设的 #区块链与货币 课程中文字幕完整版已上线 #登链社区 B站！\n\nspace.bilibili.com/581611011…\n\nGary Gensler是前高盛投资银行家，现任美国证券交易委员会主席，拥有丰富的行业经验。Gensler教授强调，区块链可能成为 #金融领域变革 的催化剂，尽管其潜力尚未完全实现。\n\n课程内容包括 #区块链 的基本概念、#加密技术、#共识机制 及其在金融中的应用。 课程将涵盖区块链的历史、货币的角色、#金融系统的挑战 以及区块链在 #支付系统、#中央银行数字货币 等方面的潜在应用。\n\nGensler教授希望通过批判性思维的培养，帮助学生识别区块链技术在金融领域的真实机会与挑战。",
+      "timestamp": "Dec 23, 2024 · 4:23 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1871049047588651168#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1869275579926958562#m",
+      "content": "🍀 Thrilled to join hands with @Mint_Blockchain as an Inaugural Strategic Partner!\n\nWith the launch of the $50M Mint Eco Fund + 750K $OP, we’re excited to co-incubate innovative projects, empower developers, and shape a vibrant Mint ecosystem. Together, we’re building the future of NFTs!\n\nRead more about this exciting initiative:\nmirror.xyz/mintchain.eth/vpl…",
+      "timestamp": "Dec 18, 2024 · 6:56 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1869275579926958562#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1869255644018299196#m",
+      "content": "🏗️ Introducing the Mint Blockchain Eco Fund: \n\n50M $MINT + 750K $OP to Empower Developers building in the Mint ecosystem.\n\nThe objective is to fuel the creation of innovative applications on the Mint Blockchain, fostering growth and shared success for developers and global users alike. \n\nTo foster a more robust developer ecosystem, we're proud to establish strategic partnerships with the leading developer communities. Mint Eco Fund Inaugural Strategic Partners: @zan_team, @OpenBuildxyz, @LXDAO_Official, @UpchainDAO, @starbaseacc, @nftscan_com, @PANONYGroup, @ETHPanda_Org, together, we’ll support exceptional projects to thrive in the Mint ecosystem.\n\nKeep building, keep minting. #OnMint 🏗️🍀\n\nDiscover more about Mint Blockchain Eco Fund ⬇️\nmirror.xyz/mintchain.eth/vpl…",
+      "timestamp": "Dec 18, 2024 · 5:37 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1869255644018299196#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1869275049955586239#m",
+      "content": "小伙伴们有NFT项目的都可以来申请 Mint 生态基金支持，支持力度很大哦",
+      "timestamp": "Dec 18, 2024 · 6:54 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1869275049955586239#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1868977657775599842#m",
+      "content": "Neo X Grind Hackathon'a @UpchainDAO'nun ortak olmasından onur duyuyoruz! 👏\n\n70.000 $ ödül ve 22 milyon $ hibe ve yatırım için yarışmak üzere projenizi şimdi gönderin! \n\n⏩bit.ly/4fNL4PM",
+      "timestamp": "Dec 17, 2024 · 11:12 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1868977657775599842#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1868990116125196714#m",
+      "content": "Working with @Solana_zh  @UpchainDAO is rolling out the Chinese version of the @Solana Blockchain and Smart Contract Bootcamp videos. ▶️ #BlockchainBootcamp #SmartContractBootcamp\npiped.kavin.rocks/watch?v=-IshjZPv…\n\n登链@UpchainDAO携手@Solana_zh, 推出@Solana 区块链和智能合约训练营视频的中文版！▶️ #区块链训练营 #智能合约训练营\nspace.bilibili.com/581611011…\n\n关注 #Upchain 油管频道或哔哩哔哩，#Solana 18小时完整版教程不容错过！",
+      "timestamp": "Dec 17, 2024 · 12:02 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1868990116125196714#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1868960911287107834#m",
+      "content": "小伙伴们， Neo X Grind 黑客马拉松开始了",
+      "timestamp": "Dec 17, 2024 · 10:06 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1868960911287107834#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1867461221122986200#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、@OpenBuildxyz、登链社区、@decertme联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "Dec 13, 2024 · 6:47 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1867461221122986200#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1867461217121710330#m",
+      "content": "Avalanche 是一个开源平台，让开发者可以在一个可互操作、去中心化且高度可扩展的生态系统中构建DApp。\n⏰12.18日(下周三)晚8点，Avalanche中文技术大@_0xWyatt 将在OpenSpace公开课带我们走进Avalanche Etna升级，了解Avalanche L1公链共识机制，欢迎小伙伴们一起学习🌹\n🔗会议链接：meeting.tencent.com/dm/MPCrE…\n@AvaxDevelopers @AvaxDAO_",
+      "timestamp": "Dec 13, 2024 · 6:47 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1867461217121710330#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1867095041375928420#m",
+      "content": "感谢 GCC",
+      "timestamp": "Dec 12, 2024 · 6:32 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1867095041375928420#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1866439101018497339#m",
+      "content": "🚀 Neo X Grind 黑客松，今晚 8 点分享 Neo技术的发展与未来规划\n\n帮助开发者更好地了解Neo X Grind黑客松以及Neo X的技术优势，我们邀请@Neo_Blockchain 开发负责人Steven Liu 来分享\n\n🔗 参会链接：meeting.tencent.com/dm/GiF23…\n\n活动由 @OpenBuildxyz @RebaseCommunity 登链社区共同主办",
+      "timestamp": "Dec 10, 2024 · 11:05 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1866439101018497339#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1864656063485891000#m",
+      "content": "分享第一期集训小伙伴的结营测试视频，很高兴每个人都进步显著\npiped.kavin.rocks/VTfhjWwoSJA",
+      "timestamp": "Dec 5, 2024 · 1:00 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1864656063485891000#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1864656060814119397#m",
+      "content": "特别感谢一直以来都非常支持我们的 @RebaseCommunity @OpenBuildxyz @0xtheweb3 @Mint_Blockchain @ChainlinkCN @Web3BuidlerTech \n@Antalpha_Labs @buildmoonshot @BuidlerDAO @Blockchain_AC @decertme",
+      "timestamp": "Dec 5, 2024 · 1:00 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1864656060814119397#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1864656057148072017#m",
+      "content": "登链社区和@lingo3_xyz、@see_dao联合推出线下英语集训第二期\n🔥火热报名中...\n日常、会议、面试等场景模拟练习，习惯英文思维，不仅实现短期突破，更重要的是掌握英语提升方法，有助于长期学习\n🗓️12.16日开课，为期一个月，期待你的加入\n🔗：learnblockchain.cn/openspace…",
+      "timestamp": "Dec 5, 2024 · 1:00 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1864656057148072017#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1861685334347784294#m",
+      "content": "感谢一直以来支持登链社区的各社区伙伴\n@OpenBuildxyz @RebaseCommunity @0xtheweb3 @decertme @EthStorage @ProjectZKM @Optimism @Antalpha_Labs @buildmoonshot @Web3Geeks @zCloakNetwork",
+      "timestamp": "Nov 27, 2024 · 8:15 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1861685334347784294#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1861684230037872726#m",
+      "content": "Mint Blockchain 是一个以太坊原生 Layer2 网络，通过构建丰富多样的 Web3 消费应用场景，让更多人了解并使用 NFT 资产和加密技术。并长期支持 NFT 赛道。\n@Mint_Blockchain Co-founder @0x12Mint 明天下午🕒15:00 将在带来分享开发者如何参与 Mint Blockchain",
+      "timestamp": "Nov 27, 2024 · 8:11 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1861684230037872726#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1861684226015535433#m",
+      "content": "Chainlink 是一个去中心化预言机网络，将智能合约安全地连接至区块链网络以外的数据和服务。\nWeb3 开发者可以利用 Chainlink 的服务完成哪些有价值的实现？\n@chainlink  开发者关系工程师 Frank 明天上午🕙10:00将为我们分享Chainlink 预言机服务和应用案例",
+      "timestamp": "Nov 27, 2024 · 8:11 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1861684226015535433#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1861684222068695327#m",
+      "content": "按照惯例，OpenSpace Web3 集训营在每期结束之前会组织学员们做一次黑客松。\n感谢 @ChainlinkCN  和 @Mint_Blockchain 对我们第四期（S4班）黑客松的支持，还带来两个重要分享：\n1⃣Chainlink 预言机服务和应用案例\n2⃣Mint Blockchain，用 NFT “链”接全球消费者\n明天(11.28日周四)欢迎有兴趣的小伙伴跟我们一起学习\n🔗会议链接：meeting.tencent.com/dm/sJkV0…\n#腾讯会议：950-4362-4246",
+      "timestamp": "Nov 27, 2024 · 8:11 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1861684222068695327#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1859521558005547216#m",
+      "content": "今晚9点，探索 BazAR",
+      "timestamp": "Nov 21, 2024 · 8:57 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1859521558005547216#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1859144966179877063#m",
+      "content": "由 #登链社区 支持，PermaDAO 主办👇\n\n《AOS-RAG 技术与应用：揭秘检索增强生成的未来》",
+      "timestamp": "Nov 20, 2024 · 8:01 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1859144966179877063#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1858112343848186307#m",
+      "content": "我们翻译了 @drakefjustin 的 beam chain 提案视频 【以太坊新共识层提案 Beam Chain-哔哩哔哩】 b23.tv/Ctj64Uf",
+      "timestamp": "Nov 17, 2024 · 11:37 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1858112343848186307#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1857656197727531423#m",
+      "content": "在线下英语集训课上，@xue_yuanhuang 分享了他加入Web3的心路历程，这种深刻的自我剖析方法非常值得参考👍\npiped.kavin.rocks/yYDC58Bmrbw",
+      "timestamp": "Nov 16, 2024 · 5:25 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1857656197727531423#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1856954881191678095#m",
+      "content": "📢 Foundry 中文文档同步更新啦！\nFoundry 是以太坊上最受欢迎的智能合约开发框架之一，以超快编译速度和强大的测试功能著称。\n作为中文文档维护者，登链社区刚完成了一年来的首次大更新\n✨ Vyper 合约支持\n🔄 测试失败重放功能\n📝 更多使用指令说明\n@FoundryServices \n\nlearnblockchain.cn/docs/foun…",
+      "timestamp": "Nov 14, 2024 · 6:58 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1856954881191678095#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1856622193360372118#m",
+      "content": "由 #登链社区 支持，#PermaDAO 主办\n🎉 开启 FusionFi 协议之旅！\n⏰ 今晚 9 点！\n🎙️ 腾讯会议：247-290-695\n📺 Twitter直播：@perma_daoCN",
+      "timestamp": "Nov 13, 2024 · 8:56 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1856622193360372118#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1854852871290077318#m",
+      "content": "关于Transient Storage(瞬态存储)的知识点，来挑战一下😎",
+      "timestamp": "Nov 8, 2024 · 11:46 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1854852871290077318#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1854706690572402722#m",
+      "content": "在 Web3 英语很重要，很多开发者都卡在口语上，于是OpenSpace专门开了线下的英语集训，提供全英文的有针对性的练习环境，帮助有需要的小伙伴突破口语瓶颈\n现在一个星期过去了，4个小伙伴每天都非常努力，每个人都有不小的进步，感谢对登链社区的信任，让我们继续加油💪\npiped.kavin.rocks/4ODJ7uQoTlY",
+      "timestamp": "Nov 8, 2024 · 2:05 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1854706690572402722#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1854349939545129340#m",
+      "content": "🔥 The Starknet Hackathon 2024 has officially wrapped up! Co-hosted by @StarknetFndn and @OpenBuildxyz, this hackathon brought together talented Web3 developers from around the globe, all ready to push boundaries and spark new ideas. \n\nWe're thrilled to announce the brilliant winners who stood out with their innovative projects: \n@yanyuan888 @kkkkkklq @cauu_128, @pseudo_yu, @gianmalarcon @q3labs_intern @Mehdi96_ , @Faytey7 @amdblessed, @crowd_pass @manoahLuka @Haramide @DadaAyo5 @OlorunsogoBanwo,\n\nJudges meticulously assessed the projects and decided on the following winners across different tracks:\n\nGeneral Track Winners:\nNova\nWeb3Insights\n\nOn-Chain Game Track Winners:\nThe Marquis @TheMarquisOnX\nJigIT\n\nDeFi Track Winners:\nCrowdpass @crowd_pass\n\nMost Popular by Community:\nJigIT @Jigit01\n\nAppreciate our judges hard working:\n@robertkp13 - Developer Advocat @StarknetFndn,\n@NPC_Leo Head of Community @snzholding,\n@leoyoung_69 - Founder @Starknet_ZH,\n@tinyxiong_eth - Founder @UpchainDAO,\n@0xmaggie5 -Research Lead @ForesightVen,\n@imxy007 - Co-founder @OpenBuildxyz,\n@Real_Maxlion - Co-founder @StarkNetAstroCN,\n@gianmalarcon - Quantum3-Labs Starknet Lead.\n\nA huge thank you to all participants for their hard work and incredible creativity! Together, we’ve witnessed the fire of Web3 innovation lighting the path forward!",
+      "timestamp": "Nov 7, 2024 · 2:27 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1854349939545129340#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1854065664060993920#m",
+      "content": "【推特+腾讯会议同步直播】AR/AO 圆桌座谈会 —— AO 开发者面对面「答疑&交流」\n\n活动由 @perma_dao 主办，@PANewsCN、@UpchainDAO、@TinTinLand_ZH、@BeWaterOfficial 提供社区支持\n\nAO 测试网发布已半年之久，期间开发者们反馈了不少技术难题。本次将一同直击这些核心问题，携手“击破”它们！特邀 AO 生态圈的资深开发者，为您打破技术壁垒，搭建更畅通的技术信息桥梁。👍\n\n参与活动的小伙伴们，还可以在分享环节结束后自由开麦提问，与大家共同交流！\n\n👥 活动嘉宾：\n\nPermaDAO 发起人：Outprog\n\nAO 资深合约开发者：Young\n\nAOX 核心开发者：Sandy\n\n⏰ 今晚 9 点\n\n🔗 腾讯会议：742-807-210\n\n📺 Twitter 直播：@perma_daoCN",
+      "timestamp": "Nov 6, 2024 · 7:37 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1854065664060993920#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1854012841524863484#m",
+      "content": "piped.kavin.rocks/VwBOg5uJtTs",
+      "timestamp": "Nov 6, 2024 · 4:08 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1854012841524863484#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1854012838731456695#m",
+      "content": "OKX 公开课第二节，用 OKX DEX Widget 快速搭建自己的DEX\n戳下面链接看视频↓↓↓",
+      "timestamp": "Nov 6, 2024 · 4:08 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1854012838731456695#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1852242384765227292#m",
+      "content": "直播带货，还得是程序员😂🤣😂🤣",
+      "timestamp": "Nov 1, 2024 · 6:52 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1852242384765227292#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1851914975595630644#m",
+      "content": "在 #比特币 白皮书发布 16 周年之际，DeCert.me 特别准备了一份新的中文翻译版本\n\n可以前往登链社区 @UpchainDAO 和 @decertme 网站查看\n\n#比特币白皮书\n\n🔗👇",
+      "timestamp": "Oct 31, 2024 · 9:11 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1851914975595630644#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1851880806022811749#m",
+      "content": "荐读: Go 语言之搭建通用 Web 项目开发脚手架\n--\n转自@qiaopengjun在 #登链社区 @UpchainDAO的分享 learnblockchain.cn/article/9…",
+      "timestamp": "Oct 31, 2024 · 6:56 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1851880806022811749#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1851456159003422866#m",
+      "content": "一起奋斗过的兄弟，相见时格外开心\n有默契的伙伴，携手时更是安心\n在 #Monad 101 中国巡回之旅深圳站，与我们 OpenSpace 的同学们偶遇，大家现在可以合作共进，也可以独当一面\n这就是我们在 #OpenSpace 继续努力的意义，黄埔军校不是口号，而提醒我们不忘初心的箴言\npiped.kavin.rocks/Jx0gAqzjEsA",
+      "timestamp": "Oct 30, 2024 · 2:48 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1851456159003422866#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1851151517983916184#m",
+      "content": "《OKX公开课｜高效搭建应用，全场景覆盖——多链 Web3 开发引擎 OKX OS》视频课程现已在登链社区的官方网站、B站、YouTube、视频号正式上线，本次课程由OKX OS 产品经理 KiKi 进行分享，旨在通过 OKX OS 以及涵盖的钱包 API、DEX API、市场 API、Earn API 的详细介绍，帮助开发者高效搭建创新应用、降低开发成本、以及享受 OKX Web3 产品带来的技术、流量和资源优势，从而共同推动行业建设。\n\n登链社区是华语 Web3 开发者社区，截止目前已经服务 20万+ 开发者。OKX OS 是 OKX Web3 推出的多链 Web3 开发引擎，涵盖钱包 API、DEX API、市场 API、Earn API 等多种解决方案，为开发者提供标准化接入 60+ 网络和 3,000+ 协议的技术支持。",
+      "timestamp": "Oct 29, 2024 · 6:38 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1851151517983916184#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1851151514871742959#m",
+      "content": "OKX与登链社区联合推出视频公开课，帮助开发者快速学习如何搭建 #Web3 应用\n@okxchinese\npiped.kavin.rocks/watch?v=7eMJz9ko…",
+      "timestamp": "Oct 29, 2024 · 6:38 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1851151514871742959#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1850871998731444538#m",
+      "content": "🔥 Monad 携手 @OpenBuildxyz、@UpchainDAO 联合举办的Monad 101 线下 Meetup 深圳站成功收官！\n\n✨ Keynote：@sungmo_nad (APAC Lead @monad_xyz)、@michael_lwy (Ecosystem @monad_xyz)、@jinglingcookies (Ecosystem @monad_xyz)为我们带来了 Monad 技术与生态的深度解析，激发无限灵感！\n\n🌟 Panel：@michael_lwy、@tinyxiong_eth (Founder @UpchainDAO)、@zolo_hands (Partner @TechFlowPost )、@ganxiaolong5 (Co-funder @ PizzaTime) 共聚一堂，从 Monad 出发，探讨社区文化和技术生态的未来蓝图！\n\n💻 实操 Workshop：@tinyxiong_eth (Founder @UpchainDAO) 带领大家率先体验 Monad Testnet 前沿技术的魅力！\n\n每个环节都精彩纷呈、充满活力！感谢各位嘉宾和参会者的热情参与，期待未来我们在 @monad_xyz 生态中携手共进，再创佳绩！🚀",
+      "timestamp": "Oct 28, 2024 · 12:07 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1850871998731444538#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1849043286666997897#m",
+      "content": "🌐 Join us for Coordination Day by #LXDAO in Bangkok!\n\n📅 Date: November 11 (Sat)\n⏰ Time: 8:00 - 13:00 (GMT+7)\n📍 Location: Bangkok ,Thailand\n👉 Registration link: lu.ma/85a84z21\n\nLet’s explore how to Achieve Optimal Coordination Solutions through Ethereum，analyze and inspire innovative solutions from a multidisciplinary perspective！⚡️\n\n#DevCon2024 #Web3 #Blockchain #DAO #PublicGoods",
+      "timestamp": "Oct 23, 2024 · 11:00 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1849043286666997897#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1849306558590808176#m",
+      "content": "Arbitrum首次前往大中华地区主办线下活动！🇭🇰\n\n经过Arbitrum One主网上线至今的1000多天... Arbitrum终于要在大中华地区与大家见面啦！\n\n快来看看我们在 #SmartCon 期间为大家准备了哪些精彩活动吧！\n\n1⃣️首先，Arbitrum将携手 @snzholding 举办一场精彩的开发者之夜，邀请超过30位行业领袖作为特别嘉宾来参与，共同庆祝这一盛事！在香港的你绝对不容错过这个难得的机会！\n\n⏰：10月30日 晚上6点至10点\n📍：香港中环\n🔗：lu.ma/arbitrumsnz\n\n下滑查看嘉宾名单👇",
+      "timestamp": "Oct 24, 2024 · 4:26 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1849306558590808176#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1847277198916673635#m",
+      "content": "登链社区 @UpchainDAO 翻成中文了， 2024 年加密行业现状 ，B 站链接: b23.tv/n0oefaD",
+      "timestamp": "Oct 18, 2024 · 2:02 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1847277198916673635#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1847108579083592062#m",
+      "content": "上录播\npiped.kavin.rocks/h4IQhnMzuRM",
+      "timestamp": "Oct 18, 2024 · 2:52 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1847108579083592062#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1846743914180665647#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、@OpenBuildxyz、登链社区、@decertme联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "Oct 17, 2024 · 2:43 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1846743914180665647#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1846743910623989831#m",
+      "content": "今晚(10.17)20:00, 第 91 期 #OpenSpace 公开课，@NoteProtocol 首席贡献者 @lilong 继续带我们探索 #比特币 智能合约协议。\n\n欢迎小伙伴们按时入会\n🔗meeting.tencent.com/dm/yDRPK…",
+      "timestamp": "Oct 17, 2024 · 2:43 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1846743910623989831#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1846381585551314994#m",
+      "content": "感谢各社区伙伴的支持\n@0xtheweb3 @OpenBuildxyz @RebaseCommunity @LXDAO_Official @PlanckerDAO @ETHPanda_Org @Web3BuidlerTech @Antalpha_Labs @buildmoonshot @BuidlerDAO @Web3Geeks @Blockchain_AC @noncegeek @decertme @OurTinTinLand",
+      "timestamp": "Oct 16, 2024 · 2:44 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1846381585551314994#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1846381582229365019#m",
+      "content": "11月登链社区将开启线下英语集训，帮助 Web3 开发者突破口语瓶颈，助力海外远程机会\n🌟全程无中文\n🌟模拟真实场景练习\n🌟每期不超过8人\n\n有想一起练口语的小伙伴欢迎戳链接报名\n🔗：learnblockchain.cn/openspace…",
+      "timestamp": "Oct 16, 2024 · 2:44 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1846381582229365019#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1846210720242737597#m",
+      "content": "EthPanda 优秀",
+      "timestamp": "Oct 15, 2024 · 3:25 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1846210720242737597#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1845732854426407316#m",
+      "content": "上海，Web3与乡村建设的碰撞，感受一下吧😀",
+      "timestamp": "Oct 14, 2024 · 7:46 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1845732854426407316#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1841984460146856161#m",
+      "content": "首届密码朋克辩论赛马上要截止报名了，感兴趣的盆友不要错过啦",
+      "timestamp": "Oct 3, 2024 · 11:31 PM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1841984460146856161#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1839118758155084257#m",
+      "content": "优秀作者",
+      "timestamp": "Sep 26, 2024 · 1:44 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1839118758155084257#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1838051517703827818#m",
+      "content": "登链社区图谱上新\nSolidity 知识结构图谱👇👇👇\n先收藏，再转发😃\nlearnblockchain.cn/maps/Soli…",
+      "timestamp": "Sep 23, 2024 · 3:03 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1838051517703827818#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1836607579516272663#m",
+      "content": "录播链接：\npiped.kavin.rocks/D_TEgwvSw8g",
+      "timestamp": "Sep 19, 2024 · 3:25 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1836607579516272663#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1836607219300974734#m",
+      "content": "感谢 @lilong 的分享，昨晚CAT20的公开课相当精彩\n今天还有很多小伙伴要课件和录播，欢迎大家戳下面链接获取 ↓↓↓",
+      "timestamp": "Sep 19, 2024 · 3:24 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1836607219300974734#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1836247459653382160#m",
+      "content": "OpenSpace 公开课是由@RebaseCommunity、@OpenBuildxyz、登链社区、@decertme联合主办的技术分享活动 ，促进 builder 们相互连接，帮助开发者了解前沿技术。",
+      "timestamp": "Sep 18, 2024 · 3:34 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1836247459653382160#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1836247455702356225#m",
+      "content": "CAT20 是分形网络上的新协议，开发者可以基于 OP_CAT 进行开发，实现一些简单的智能合约功能。\n继比特币 UTXO 模型智能合约分享之后，今晚 （9.18日）8点，OpenSpace 第 90 期公开课，@NoteProtocol 首席贡献者@lilong 将继续带我们分析 CAT20 协议\n\n🔗会议链接：\nmeeting.tencent.com/dm/OWGPP…\n#腾讯会议：730-496-288\n\n👉预习资料：learnblockchain.cn/activity/…\n👉前情提要：learnblockchain.cn/activity/…\n⏺录播会于直播后第二天整理到公开课合集：\nlearnblockchain.cn/course/47",
+      "timestamp": "Sep 18, 2024 · 3:34 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1836247455702356225#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1834134928881320344#m",
+      "content": "📢 X Space 活动：畅谈 @aoTheComputer  生态游戏的创新与未来！\n\n🔥#AOGameJam 正在火热进行，想要了解 AO 生态游戏的最新动态和未来发展趋势吗？别错过这场由 PermaDAO 与 @aogamesorg 联合发起的 X Space 活动！\n\n⏰ 时间：2024 年 9 月 12 日 20:00\n\n🎙️ 主持：由PermaDAO和 @midanc712 —— AO Games 核心贡献者联合主持\n\n👥 嘉宾：李大狗@0xleeduckgo——NonceGeekDAO 创始人\n                    antain @AntainTan——Seagull 联合创始人\n                    Adam @xinanli5——ogen 游戏开发者\n\n🔗 参与链接：localhost:8080/i/spaces/1yNGagl…\n\n🤝同时感谢下列媒体和社区对本次活动的大力支持：@PANewsCN @TinTinLand_ZH @UpchainDAO @BeWaterOfficial @LXDAO_Official @noncegeek",
+      "timestamp": "Sep 12, 2024 · 7:40 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1834134928881320344#m",
+      "author": "UpchainDAO"
+    },
+    {
+      "id": "1833069914841923590#m",
+      "content": "在区块链快速发展的浪潮中，#Starknet 作为最具创新性的以太坊 Layer 2 网络之一，旨在提供高交易的吞吐量与低成本，以使构建任何 DApp 都变得经济可行。而本期残酷共学也特别联合 @StarkNetAstroCN  、@AAStarCommunity 与你共同开启 Starknet 学习之旅，以掌握 Starknet 网络部署的核心技能👏\n\n🗓️即日起截止 9 月 17 日晚 23:00（UTC+8），之后不再接受报名，赶快来加入我们吧！\n\n👏更多详情 & 报名链接：\ngithub.com/IntensiveCoLearni…\n\n📌加入 LXDAO TG 群，正式开启你的 Starknet 残酷共学之路！t.me/LXDAO/11973",
+      "timestamp": "Sep 9, 2024 · 9:08 AM UTC",
+      "url": "https://twitter.com/UpchainDAO/status/1833069914841923590#m",
+      "author": "UpchainDAO"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T00:42:00.862Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 26942,
+    "cursorTrail": [
+      "DAAHCgABG3vqdW5__-sLAAIAAAATMTk2NjgxNzc2NDIwMDI4NDE3NwgAAwAAAAIAAA",
+      "DAAHCgABG3vqdW5__9cLAAIAAAATMTk2MjcwMTg0OTI4ODcyNDkzNAgAAwAAAAIAAA",
+      "DAAHCgABG3vqdW5__8MLAAIAAAATMTk1MDAzOTcxOTQxNDI3MjIxNAgAAwAAAAIAAA",
+      "DAAHCgABG3vqdW5__68LAAIAAAATMTkzMzQzNjYxNjk2MzczMTkwMQgAAwAAAAIAAA",
+      "DAAHCgABG3vqdW5__5wLAAIAAAATMTkyMTc2NjYwNjM4MTcyNzkxMggAAwAAAAIAAA",
+      "DAAHCgABG3vqdW5__4gLAAIAAAATMTkwODA0ODc3ODY5Njk5NTAyNQgAAwAAAAIAAA",
+      "DAAHCgABG3vqdW5__3QLAAIAAAATMTg3Njk4Njc5NDc2OTU3MjI0NggAAwAAAAIAAA",
+      "DAAHCgABG3vqdW5__2cLAAIAAAATMTg2NzQ2MTIyMTEyMjk4NjIwMAgAAwAAAAIAAA",
+      "DAAHCgABG3vqdW5__1ULAAIAAAATMTg1NDcwNjY5MDU3MjQwMjcyMggAAwAAAAIAAA",
+      "DAAHCgABG3vqdW5__0ELAAIAAAATMTg0NjIxMDcyMDI0MjczNzU5NwgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

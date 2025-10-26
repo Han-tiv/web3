@@ -1,0 +1,324 @@
+{
+  "account": {
+    "id": "1623244071941844997",
+    "screen_name": "ByteRamble",
+    "name": "ramble｜defi菜农",
+    "description": "重度defi爱好者，eth holder",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1701779382912897024/Y-1opsaP_normal.jpg",
+    "profile_banner_url": null,
+    "followers_count": 274,
+    "friends_count": 490,
+    "statuses_count": 180,
+    "favourites_count": 256,
+    "listed_count": 12,
+    "location": "",
+    "website": "",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": false,
+    "protected": false,
+    "created_at": "2023-02-08 16:55:39 +08:00",
+    "url": "https://twitter.com/ByteRamble",
+    "rest_id": "1623244071941844997"
+  },
+  "tweets": [
+    {
+      "id": "1974412204788285815#m",
+      "content": "公开一个MEV sandwich聚合最优解的套利算法，希望对研究套利的朋友有所帮助，送给有缘人。\ndocs.google.com/document/d/1…\n\n算法的背景：2023年4月，以太坊主网横空出世了mev机器人(jaredfromsubway.eth)震惊全网。其特点大胆采用山寨币作为头寸，并进行多笔套利机会的聚合并扩大贿选优势，一度雄霸了当时以太坊主网大于70% 以上mev利润 。如果你当时关注链上套利，应该听说过这个bot，当时在熊市对其对手而言可以说是降维打击，也劝退了一众跃跃欲试的同行。 没错这套算法的诞生来源于jaredfromsubway.eth的反制，当时我出于对mev算法浓厚的兴趣，以及在分析其链上交易行为之后，发现并推导证明了此算法（命名ramble sandwich aggregation optimal algorithm），解决当链上存在多笔sandwich套利机会时，应该如何对其进行组合及参数设定以实现利润最大化的问题 。用到的数学知识高中足够，但逻辑巧妙运用带来的思维快感是学生奥赛时期后再没机会体验到的。同时将其运用到现实套利里需要很强的工程化能力，所以搁置至今。\n\n同时感谢一下几位推友长期价值内容的分享输出，收益良多，也避免了许多市场的噪音。@0xmomonifty,@wong_ssh,@discountifu ， @gch_enbsbxbs,@yourQuantGuy,@darkforesttri,@jiahao_luo9",
+      "timestamp": "Oct 4, 2025 · 9:52 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1974412204788285815#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1979215583242784836#m",
+      "content": "我想你指的是V4版本，确实相比v2/v3没有定制化的router，而是复用universalRouter；其实v4的设计模式要更简单些，但感觉还是有很多瑕疵：1，eth/weth被认为是2个token，无形间割裂了流动性；2.position获取不能准实时链上获取而需要解析交易历史；3无法轻易获取poolId下的tvl；4.还有许多细节的缺失（相比v3）如quote价格的方式，以及流动性变化事件释放的信息细节；除了1之外其余这更像是团队的疏忽。总言之，v3是我心目中最经典和革命性dex版本，v4算对其插件版本的扩展，仍需找到更合适的使用场景。",
+      "timestamp": "Oct 17, 2025 · 3:59 PM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1979215583242784836#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1978039461851414599#m",
+      "content": "Morpho这种优质项目上bn是预期内的，也跟踪了挺长时间，虽然没挣到钱，但学习了很多“无用”的知识。\n\n分享年初一篇有关Morpho的安全实践分析：在借贷协议中算是开创了新的范式与安全模型（类似uniswap），更接近理想中的defi。同时morpho合约风格简洁可靠，也很适合开发入门学习 。\n\ndocs.google.com/document/d/1…",
+      "timestamp": "Oct 14, 2025 · 10:05 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1978039461851414599#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1977719371054075913#m",
+      "content": "最近几天发现需要补的课还是挺多...",
+      "timestamp": "Oct 13, 2025 · 12:53 PM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1977719371054075913#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1977400607997923589#m",
+      "content": "这里dex可以自闭环，做到理想的去中心化；借贷协议却很难，至少喂价很大权重依赖于cex",
+      "timestamp": "Oct 12, 2025 · 3:46 PM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1977400607997923589#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1977282168046153841#m",
+      "content": "这下venus上因wbeth脱锚的资损用户也可以获得赔付了，不得不服币安系项目方确实有格局，可信赖👍",
+      "timestamp": "Oct 12, 2025 · 7:56 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1977282168046153841#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1977249555742970099#m",
+      "content": "希望有个好结果吧，上次venus可参考的事故还是 Luna 预言机事故（小数点不够）。 @VenusProtocol项目方还是有担当全额赔付了，不过那次波及的是存款用户，这次波及贷款用户，但源头在Bn",
+      "timestamp": "Oct 12, 2025 · 5:46 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1977249555742970099#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1977197209520308661#m",
+      "content": "全网为币安对 BNSOL/wBETH 脱锚的补偿计划赞声一片，确实展现了币安一贯卓越的担当与信誉👍。 但在链上持相关资产的受损用户似未纳入补偿范围，略显不公（网上也很少见为其发声的）。\n\n以我为例：在链上BSC系@VenusProtocol的 wBETH/ETH 借贷仓位于 2025-10-11 05:36–06:16同样主站定价异常传导而被清算，虽然损失尚可承受，但持有wBETH参与链上defi同样也基于对币安的信任。\n\n恳请为链上受影响者开放申诉/补偿通道，并与相关协议协同给出公平方案，让“同因同赔”更完整。🙏🙏@heyibinance ，@sisibinance， @binancezh，@BinanceHelpDesk @VenusProtocol  #wBETH #BNBChain",
+      "timestamp": "Oct 12, 2025 · 2:18 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1977197209520308661#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1976967198045618329#m",
+      "content": "个人wbeth借贷eth的仓位也遭到清算，希望 @VenusProtocol可以妥善解决。新进的借贷协议针对LST token的预言机都采用了锚定",
+      "timestamp": "Oct 11, 2025 · 11:04 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1976967198045618329#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1976225582582206774#m",
+      "content": "V4的position只能靠回溯历史交易数据，无法通过链上状态准实时性的查询到，相比v3算一个设计缺陷吧",
+      "timestamp": "Oct 9, 2025 · 9:57 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1976225582582206774#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1975494447866781707#m",
+      "content": "原来今天涨是因为这个，相比机构增持更愿意看到的是eth 链上生态繁荣,销毁增加实现稳步通缩。还有eth不能老为爱发电阿，针对Layer2该征收的税也应该收，优化收入模型才能加速上升飞轮。",
+      "timestamp": "Oct 7, 2025 · 9:32 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1975494447866781707#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1971173750650646632#m",
+      "content": "晚上9点xlp现货开盘。dex预先给了定价：0.6-1u 区间，这个估值不低，比肩arb/op等一众top layer2。这次准备还算充分写了脚本控制价格，避免上次在前端把价格加反😂",
+      "timestamp": "Sep 25, 2025 · 11:23 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1971173750650646632#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1967958796619354128#m",
+      "content": "这其实是btc长期一个待解决的问题，重要但不迫切。\n\n比特币的安全预算问题长期看只能靠方案1: 链上交易繁荣增加矿工收入与激励来维持链的安全性。其余靠价格上涨都属于伪方案，因为随着市值上涨，安全预算也应同步上涨，而比特币4年减半的模型，相当于安全预算占比每四年也会减半，好比一个国家的经济规模不断壮大，国防开支占比却不断减少。\n\n相比而言以太坊 1599的燃烧机制反倒科学一些，链上经济过热则增加销毁产生通缩，冷清时则增发刺激经济，天然的中央银行调控。",
+      "timestamp": "Sep 16, 2025 · 2:28 PM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1967958796619354128#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1965961632963854740#m",
+      "content": "早期周期可以，现在只要牛市能跑赢大饼/以太，熊市回撤小于大饼/以太，我认为就算赚到钱了",
+      "timestamp": "Sep 11, 2025 · 2:12 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1965961632963854740#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1965807292949180658#m",
+      "content": "冤种应该是组单边lp时价格设反了，和我上次一样😂",
+      "timestamp": "Sep 10, 2025 · 3:59 PM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1965807292949180658#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1965720950470774978#m",
+      "content": "polygon好像链又停机了？今年的第二次，上面剩点钱转移到wordlchain",
+      "timestamp": "Sep 10, 2025 · 10:16 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1965720950470774978#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1965626005793673659#m",
+      "content": "之后会分享下我部分的defi操作，方便信息汇总与交流；近期计划：1. motisis 激励活动结束，赎回期5天；2. bn usdc 12%听说也快结束了，需要寻找下一个去处",
+      "timestamp": "Sep 10, 2025 · 3:58 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1965626005793673659#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1965621211268026399#m",
+      "content": "无意发现去年在linea借贷的两个地址获取了40w个空投代币；过去做过linea交互的可以检查下，今晚11:30开领取。\n\nAirdrop 检查: linea.build/hub/airdrop\n前端拥堵可去浏览器Claim: lineascan.build/address/0x87…\ndoc : support.linea.build/linea-hu…\n\n这次准备参考 @gch_enbsbxbs 大佬WLFI的做法，TGE时刻去做LP，可惜uniswap没有开放linea链前端支持（去年uni在linea链做流动性激励应该是没效果了）。但需要观察下原生的dex Etherex 或 bsc alpha上的pancake看下流动性情况。",
+      "timestamp": "Sep 10, 2025 · 3:39 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1965621211268026399#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1955467503511146593#m",
+      "content": "4月份被迫清掉了1/8的仓位，很疼；后悔吗，不后悔，不清除这部分部杠杆，全部的以太仓位都面临清算风险。\n\n市场有时候爱开玩笑，过度的看多和看空者都会受到惩罚。谁能想到4月以太坊4000高位跌到1300，谁又能想到又短短四个月以太从遍地哀嚎到绝地反击。\n\n依然是以太的狂热爱好者，这轮牛市会适度减仓，或许分批在5k/8k/10k。至少去除掉杠杆并保有一部分U在手上，因为再也不想像今年四月那样被市场“用枪指着我的头”",
+      "timestamp": "Aug 13, 2025 · 3:12 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1955467503511146593#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1952038529741324457#m",
+      "content": "zk可以说是eth必由路径， foundation也下重注在这个方向。但前几年进展并不理想，主要还是慢，很希望看到尽早的工程化落地",
+      "timestamp": "Aug 3, 2025 · 4:07 PM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1952038529741324457#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1951273371305480261#m",
+      "content": "lp抵押借贷确实可以提高全行业的资本流动性，个人也很看好这个方向。印象中aave之前搞过univ2的，但没多久停掉了（应该是考虑到价格操纵等风险）。v3/v4去搞抵押借贷，也会面临两个问题，1.如何将非标化仓位资产标准化，2如何解决带来潜在的流动性和价格操纵风险",
+      "timestamp": "Aug 1, 2025 · 1:26 PM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1951273371305480261#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1939334358260961320#m",
+      "content": "这轮周期仓位调整计划：从eth的狂热做多，到理性做多",
+      "timestamp": "Jun 29, 2025 · 2:45 PM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1939334358260961320#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1938846195990053202#m",
+      "content": "resupply 在被盗之后的表现，简直只能用“畜生”的去形容。想知道发生了什么，请看着这条影片。也欢迎大家点赞转发支持我们。",
+      "timestamp": "Jun 28, 2025 · 6:25 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1938846195990053202#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1914956664765362676#m",
+      "content": "终于脱离危险区了😮‍💨",
+      "timestamp": "Apr 23, 2025 · 8:17 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1914956664765362676#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1914515395777835216#m",
+      "content": "#ETH 价值在哪？ \n\n观察到一个有趣的现象：周围ETH仓位重（超过 #BTC 仓位）的朋友大多有些共同点：例如是17/18年后入场，都有一定的技术背景。  \n\n自己也是如此，几乎同时了解到BTC与ETH，第一次看完BTC白皮书的感受是醍醐灌顶，而“世界计算机”概念带来的冲击甚至不亚于BTC，钱包里买的第一种资产也是ETH。还有一点心思：与早期拿到BTC红利的人相比，ETH对技术人更友好，也更具比较优势与财富效应。\n\n至少当时看来，ETH是BTC的超集，极大扩展了BTC的外延，区块链的概念才得以成立。之后ICO，Defi，NFT的叙事才有了可能。\n\nBTC ：已经成为绝对的行业共识，不需要再做什么，仍可以作为去中心化的价值网络和抗通胀指数长期看待，角色清晰可对标黄金。  持有它可以作为躺平资产，吃行业红利。\n\nETH ：只能持续角逐更加白热化的公链竞争与演进，理想的对标是类似微软这样的web3操作系统与基建。以太也许需要一次涅槃重生，长期依然看好，短期仍不乐观。\n      长期看好的原因是：以太当前仍然具有最高粘度与创新性的技术社区，业内迄今几乎所有大型技术变更与生态繁荣都是由ETH引领。ETH仍然是Defi生态中流动性最好的资产(可能除稳定币外)。 无论是ZK 或最新提出的RISC-v的扩容方案，都是在不牺牲内核价值的前提下去尝试扩容，当然这些方案的投入及落地都有不确定性；\n     短期不乐观的原因：宏观不确定造成的恐慌面；“用爱发电”式的向L2的供血让经济模型失衡；似乎缺乏成熟的商业化运营思维(与SOL等新公链相比)；以太的OG们理想主义褪色与离场(或因步入中年加剧了套现需求)。总之短期看不到新的叙事或生态繁荣来提振。",
+      "timestamp": "Apr 22, 2025 · 3:03 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1914515395777835216#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1914481100321382504#m",
+      "content": "那就重新回到梦开始的地方",
+      "timestamp": "Apr 22, 2025 · 12:47 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1914481100321382504#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1909891568284369071#m",
+      "content": "观看竞技体育有感：无论高对抗的拳击还是低烈度的斯诺克，每次进攻都伴随着隐形的防守和胜率的计算，往往在毫无退路的胜负手时才会奋力一搏。\n投资或交易也类似，只不过对手方换做了市场。不同之处在于，永远不应该暴露完全的风险敞口，需要奋力一搏的尴尬场景也永远不应该出现。稳如老狗，活得久才是重要的。—— 希望下一次的自己别这么菜",
+      "timestamp": "Apr 9, 2025 · 8:50 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1909891568284369071#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1909793312640512012#m",
+      "content": "5.对经济宏观面不敏感，不深入，已经是第二次吃大苦果了，上一次还是22年的币市。",
+      "timestamp": "Apr 9, 2025 · 2:19 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1909793312640512012#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1909534365216129372#m",
+      "content": "合约开发中 delegatecall + 任意调用 的模式都应该谨慎使用。常常出现意想不到的逻辑漏洞 和 缺乏校验导致攻击",
+      "timestamp": "Apr 8, 2025 · 9:10 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1909534365216129372#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1909532833200455889#m",
+      "content": "被迫清理了些杠杆，大约以太整体仓位的1/8，接下来重点观察下一个防守点位：1200。\n\n本轮最大教训不应该拿大仓位去赌行情，本可以安心挖矿获取稳定收益，偏偏暴富贪念作祟选择杠杆做多以太坊，随着以太坊持续下跌，回吐了所有利润并开始吃掉本金。\n\n复盘几个关键点：\n\n1. 过于bullish以太，去年两次4000的位置没选择去掉杠杆反而加仓。刻舟求剑的以为价格不会回落至2000，而忽视了基本面（在24年中EIP-4844升级后收入多锐减）。\n\n2. 防守做得太晚，太被动。川普发币以太3千多，2月份2800横盘，以及1800的位置，没选择去杠杆防守，还在加仓。而在1400点位子弹快打光时，被迫割肉。\n\n3.慎用杠杆：不应该长期杠杆，应该严格限制在3月内收益偿还能力内。 杠杆有麻醉效应：起初只是在 @aave  @compoundfinance 轻度杠杆，随着市场下降，赌性增强, 又向成本更低的 @CurveFinance @protocol_fx  增加了更多的杠杆，它们都是很好的工具，但应该有限度的使用，不应回撤到疼醒才发现积重难返。\n\n4.后续计划：继续防守到以太坊1000后任其自然，始终保留一部分资金作为逃生通道复利挖矿；下轮高位转一半仓位到稳定币和BTC。无可否认，我是以太和defi的忠实信封者，但也不应该押注全部。永远应该做好防守，借用巴菲特的话，让自己只富一次，",
+      "timestamp": "Apr 8, 2025 · 9:04 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1909532833200455889#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1787665841862914126#m",
+      "content": "Crypto Valleys: Phase 2\n\nFight through armies of monsters and collect their Monster Souls to unseal your Locked YIELD! But beware, tapping into their dark energy will draw the attention of lurking malevolence within the dungeons.\n\nAdventurers, will you heed the call?",
+      "timestamp": "May 7, 2024 · 2:08 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1787665841862914126#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1781386110914162972#m",
+      "content": "All in ONE for StakeStone's Omnichain Carnival 🫡\n\nKeep Updating 🔽",
+      "timestamp": "Apr 19, 2024 · 6:15 PM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1781386110914162972#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1762235682460713248#m",
+      "content": "Introducing our latest campaign \"Taiko x Guild: Define Your Role\"! 🥁\n\nDive into the Taiko community and find your place. Whether you're new to web3 or a seasoned pro, this is an opportunity to join us on @guildxyz and define your role!\n\n All powered by @Galxe ⚡️",
+      "timestamp": "Feb 26, 2024 · 9:58 PM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1762235682460713248#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1755181585299874228#m",
+      "content": "💘 MONTH OF LOVE #GIVEAWAY!\n\n💸 @mesonfi is joining #TaskOn #ValentinesDay Epic for a big giveaway of $50,000 to make your day extra special! ⬇️Act Now\nrewards.taskon.xyz/campaign/…\n\n💗Cupid might just pick you as a winner! 💎Claim more points to unlock the epic rewards!",
+      "timestamp": "Feb 7, 2024 · 10:47 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1755181585299874228#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1751486381703229713#m",
+      "content": "🔥 We're delighted to extend our cross-chain support on #CORE! @Coredao_Org is a Bitcoin-powered, EVM-compatible blockchain that combines delegated PoW and delegated PoS.\n\nThe integration is empowering users with seamless and costless #BTC #ETH #USDT #USDC cross-chain swaps between Core chain and all 34 supported blockchains🌉.\n\nKeep up with meson.fi as we enhance your Web3 experience with greater interoperability!\n\n#CoreDAO #Bitcoin",
+      "timestamp": "Jan 28, 2024 · 6:04 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1751486381703229713#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1756217028766282006#m",
+      "content": "‼️Meson is currently overloaded as the protocol has received too many cross-chain requests to #Merlin, therefore we have to temporarily paused cross-chain swaps to Merlin to ensure every cross-chain swap we received is properly processed. \n\nWe'll resume operations as soon as possible.🤝",
+      "timestamp": "Feb 10, 2024 · 7:22 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1756217028766282006#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1755964797735063933#m",
+      "content": "We have created the ERC405 asset standard, solving some of the major flaws currently present in ERC404.  welcome everyone to review and use it; github.com/byte-ramble/ERC40…",
+      "timestamp": "Feb 9, 2024 · 2:40 PM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1755964797735063933#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1751954283052810298#m",
+      "content": "Quick, Puffy needs you!\n\nCarrots have invaded our Ethereum waters, posing a threat to its decentralization. But no sweat – Puffy’s got this, munching on those carrots like a champ! 🐡🥕\n\nYes, Puffy's Crunchy Carrot Quest starts... TODAY!\n\nFind out more here👇",
+      "timestamp": "Jan 29, 2024 · 1:03 PM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1751954283052810298#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1732822461295829333#m",
+      "content": "We've just launched a new community education campaign on @Galxe!\n\nCreate a wallet, mint a domain, take a quiz — and collect points to compete with your friends! 🤓\n\nMore details. ⬇️\n\n1/",
+      "timestamp": "Dec 7, 2023 · 6:00 PM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1732822461295829333#m",
+      "author": "ByteRamble"
+    },
+    {
+      "id": "1686934165353345024#m",
+      "content": "🚨A large-scale macOS attack software macOS-hVNC appears on the dark web🚨\n\nMac computers and devices are widely used by cryptocurrency individuals and small and medium-sized enterprises because of their better security and usability, but recently a software macOS-hVNC for large-scale attacks on #macOS has appeared on the dark web.\n\n1⃣Stealthy operation: hVNC is designed to run in stealth mode, making it difficult for individuals and SMBs to detect its presence on their systems, this stealthy operation allows cybercriminals to maintain access without arousing suspicion.\n2⃣Persistence Permission: hVNC typically includes mechanisms to ensure that it remains active even after a system reboot or attempts to remove it.\n3⃣Data Theft: The main purpose of hVNC is to steal sensitive information such as login credentials, personal data, virtual assets, financial information or other valuable data from computers of individuals, employees.\n4⃣Remote Control: hVNC allows cybercriminals to remotely control computers, giving them full access to the system.\n\nWhile Macs have historically been less of a target for cybercriminals, attackers are now developing more macOS malware, so be aware of the risks.\n\nsecuritymagazine.com/article…",
+      "timestamp": "Aug 3, 2023 · 2:57 AM UTC",
+      "url": "https://twitter.com/ByteRamble/status/1686934165353345024#m",
+      "author": "ByteRamble"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T01:27:02.697Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 40,
+    "pagesFetched": 4,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 7531,
+    "cursorTrail": [
+      "DAAHCgABG3v01ts__-8LAAIAAAATMTk2NTcyMDk1MDQ3MDc3NDk3OAgAAwAAAAIAAA",
+      "DAAHCgABG3v01ts__9sLAAIAAAATMTc1ODczNzk4Mzk2Mjc3NTY2NAgAAwAAAAIAAA",
+      "DAAHCgABG3v01ts__9ULAAIAAAATMTY4NzAzNzcwNDc4MDA2NjgxNggAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

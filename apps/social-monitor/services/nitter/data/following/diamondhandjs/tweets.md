@@ -1,0 +1,1585 @@
+# J$ (@diamondhandjs)
+
+- 抓取时间：2025-10-21T00:33:36.454Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：27160 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：12
+- 抓取尝试：1
+- Cursor 链：11 条
+- 账号统计：粉丝 32845，关注 4741，推文 19070，点赞 42995
+- Twitter：https://twitter.com/diamondhandjs
+- 头像：https://pbs.twimg.com/profile_images/1976836827601682432/rUhYp3uP_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1464100509707554821/1740564312
+- 认证：Blue Verified
+
+> 账号简介：
+> Goldman sex IBD Asian woman/bear arc
+
+---
+
+## 1. Jul 7, 2025 · 12:07 PM UTC · 1942193721706946792#m
+- 链接：https://twitter.com/diamondhandjs/status/1942193721706946792#m
+- 作者：@diamondhandjs
+
+> Acquired some eth here
+> Next week genius act and clarity act may provide some catalyst for a pump
+
+## 2. Oct 20, 2025 · 8:10 PM UTC · 1980366133137141958#m
+- 链接：https://twitter.com/diamondhandjs/status/1980366133137141958#m
+- 作者：@diamondhandjs
+
+> 下不去？
+> 给我上他妈的
+
+## 3. Oct 20, 2025 · 4:10 PM UTC · 1980305727391728061#m
+- 链接：https://twitter.com/diamondhandjs/status/1980305727391728061#m
+- 作者：@diamondhandjs
+
+> 刚醒
+> 发生了什么
+> 怎么还没止盈？
+
+## 4. Oct 20, 2025 · 8:45 AM UTC · 1980193648693436532#m
+- 链接：https://twitter.com/diamondhandjs/status/1980193648693436532#m
+- 作者：@diamondhandjs
+
+> 这个月Twitter该给我发不少钱回回血了
+
+## 5. Oct 20, 2025 · 5:45 AM UTC · 1980148417767915749#m
+- 链接：https://twitter.com/diamondhandjs/status/1980148417767915749#m
+- 作者：@diamondhandjs
+
+> 我什么时候能回本啊
+> 操他妈的
+
+## 6. Oct 20, 2025 · 5:38 AM UTC · 1980146709994033322#m
+- 链接：https://twitter.com/diamondhandjs/status/1980146709994033322#m
+- 作者：@diamondhandjs
+
+> 咸吃萝卜淡操心
+> 也就男女对立的话题你能评论几句了
+> 宏观行情一个几把字都说不出来，钱钱没有，嘴巴剑的要死
+> 聊天还是千万别聊那种马路上扫大街的都可以出来有很多观点的话题，今天犯了忌
+> 我聊了你又非要来犯贱评论
+> 老子不爽全拉黑
+
+## 7. Oct 20, 2025 · 3:53 AM UTC · 1980120058602115210#m
+- 链接：https://twitter.com/diamondhandjs/status/1980120058602115210#m
+- 作者：@diamondhandjs
+
+> 这次不要骗了吧
+> 不然我要找工作去了
+
+## 8. Oct 19, 2025 · 6:15 PM UTC · 1979974695148802472#m
+- 链接：https://twitter.com/diamondhandjs/status/1979974695148802472#m
+- 作者：@diamondhandjs
+
+> 我看到了无数篇认识哪个大龄剩女要求咋样咋样啊找不到满意的，写文章的人觉得她们以后会很惨，你咋定惨，不结婚生娃嫁个中产就叫惨吗
+> 怎么会呢，有能力女人中年觉醒之后疯狂搞钱事业上升也是开挂的。写这些文章暴露自己朋友隐私的人，也并不是啥好心态，一边居高临下描述这些人手眼低，一边又要装还有探听接下来发生的故事。加中男女对立。为了避免男性对立，我在这里是个男的，我是来搞钱的也不是来找男伴的
+
+## 9. Oct 19, 2025 · 5:52 PM UTC · 1979968887677693997#m
+- 链接：https://twitter.com/diamondhandjs/status/1979968887677693997#m
+- 作者：@diamondhandjs
+
+> 我高中毕业那会儿就打算剩一辈子了。
+> 不是因为要求高、也不是碰壁，而是我从来就不太相信长久关系。
+> 碰到喜欢的人就谈一阵子，不喜欢了就散。
+> 没遇到也无所谓，自己养几个娃、继续赚钱，也是一种很舒适的生活方式。
+> 真要碰上喜欢的，再进入短期关系也行。
+> 人这一生，本就是在不同阶段、和不同的人短暂同行而已。
+> 到最后，我们都得一个人面对世界。
+> 这不叫“剩”，这叫——高能量单身富婆，人间富贵花。
+> 你问我感觉如何？
+> 我只能说：只要有颜、有钱、有身材，你说呢？
+> 如果我的一生之和一个人同行了，这个人可能很理解我多少我的性格，也许是同类，但这样注定无法长久也会很痛，如果他不懂我，那就更不可能长久。一辈子这么长，多去体验叔叔哥哥弟弟也不错
+
+## 10. Oct 19, 2025 · 5:41 PM UTC · 1979966050394591321#m
+- 链接：https://twitter.com/diamondhandjs/status/1979966050394591321#m
+- 作者：@diamondhandjs
+
+> 你这么愤怒，不是大龄剩女看上你爸你爷爷了要去分你家产吧，但凡你要是有点家产我我都不觉你的见识这么少。爸爸爷爷多偶制在有家产的家庭都正常。
+
+## 11. Oct 19, 2025 · 5:39 PM UTC · 1979965574584340518#m
+- 链接：https://twitter.com/diamondhandjs/status/1979965574584340518#m
+- 作者：@diamondhandjs
+
+> 我有时候很不喜欢国内现在的风气
+>  
+> 物理学界泰斗去世，实在没什么可非议的，却偏要拿人家的私生活说事。
+> 女性爱上顶级科学家，无论年纪差距，都是可以真实存在的。那种人格魅力，你没见过，那只是见识少。普通人毕竟一生都难以接触那种精神高度，理解不了也正常。
+>  
+> 如今男女对立愈演愈烈，男性攻击女性的词汇一大堆，憋不出个像样的观点，就靠“26岁大龄剩女”这种词刷存在感。
+>  
+> 而我作为女性，极少去攻击男性——除非他蠢得无法沟通。我们是在交换观点，不是在比烂和人身攻击。甚是懒得参与男女对立的帖子
+>  
+> 说到底，不管大龄不大龄，努力赚钱，不是为了谁来评判我们的人生，而是为了过一种不用忍受这种人存在的生活。
+>  
+> 更讽刺的是，那些真正依附于他人生活的人，反倒鲜少被指责；
+> 不靠谁、不伸手的所谓“大龄剩女”，却要被骂得体无完肤。
+> 资本主义的牛奶过期了，宁可倒掉，也不会分给某些人，他们就只剩下谩骂。
+>  
+> 别人的事情与你何干，你看不懂有没有可能是你见识少，见识少就闭嘴
+>  
+> 网上遇到算倒霉，现实里我连看都懒得看，更不会去评价你找不到伴侣的事实。Simply don’t give a fuck.
+>  
+> 少一点戾气，多一点平和讨论。
+> 大家又不是来找对象的，都是在这里搞钱。
+> 谁还把私生活昭告天下啊，长期招伴侣，不招长期伴侣不是常态吗
+
+## 12. Oct 19, 2025 · 2:21 PM UTC · 1979915800275263830#m
+- 链接：https://twitter.com/diamondhandjs/status/1979915800275263830#m
+- 作者：@diamondhandjs
+
+> 周日晚上拉盘有点慌容意骗炮
+> 但我信一次
+
+## 13. Oct 19, 2025 · 1:24 PM UTC · 1979901492854128685#m
+- 链接：https://twitter.com/diamondhandjs/status/1979901492854128685#m
+- 作者：@diamondhandjs
+
+> 王志文的剧真是我眼里的顶级审美啊
+> 这么多年来后面的剧觉得鲜有超越
+> 不论是台词深度还是演技
+
+## 14. Oct 19, 2025 · 1:06 PM UTC · 1979896851710247210#m
+- 链接：https://twitter.com/diamondhandjs/status/1979896851710247210#m
+- 作者：@diamondhandjs
+
+> 我他妈的Kyc又没过
+> MegaEth又没戏
+> 他妈的捡钱都捡不到
+
+## 15. Oct 19, 2025 · 12:10 PM UTC · 1979882905779556712#m
+- 链接：https://twitter.com/diamondhandjs/status/1979882905779556712#m
+- 作者：@diamondhandjs
+
+> 做多逻辑写在评论区了
+> 如果能蒙对就离回本又近了一步
+> 兄弟我真的是一直在养鱼方便接广告，推特成立之初就如此
+> 可惜创业未半而中道崩殂
+> 发现他妈找我推广的人不多，不如人家不用写这些东西都能接到Aster
+> 什么时候我回本了你看不到我写交易了
+
+## 16. Oct 19, 2025 · 11:59 AM UTC · 1979880014645788974#m
+- 链接：https://twitter.com/diamondhandjs/status/1979880014645788974#m
+- 作者：@diamondhandjs
+
+> 发个回血项目意见那么多
+> 你这样以后我没法创作啊写观点啊
+> 不然呢你以为交易真的要发内容吗
+> 打个苦工又不是Aster解锁赚M那种
+> 纯苦力
+> 嘴下留情
+
+## 17. Oct 19, 2025 · 6:07 AM UTC · 1979791390306435130#m
+- 链接：https://twitter.com/diamondhandjs/status/1979791390306435130#m
+- 作者：@diamondhandjs
+
+> Sentient：AI 的 Linux，正在崛起的 $10B 开源智能社区
+>  
+> 在 AI 领域，巨头林立。
+> OpenAI 估值超过 $5000 亿美元，Anthropic 约 $1300 亿美元，xAI 与 Perplexity 也都跻身百亿俱乐部。
+> 但它们都有一个共同点——封闭。
+> 在“黑盒智能”主导的时代，谁来代表“开放智能”的未来？
+>  
+> 答案是：Sentient。
+>  
+> 🧠 从封闭到开放：AI 世界的历史拐点
+>  
+> 过去十年，AI 技术的飞跃几乎全部发生在封闭实验室中。
+> 这些系统拥有极高的“实用性”，但代价是牺牲了“透明性”与“可扩展性”。
+>  
+> 与此同时，另一端的“开源 AI”虽然自由，却缺乏实际应用价值——
+> DeepSeek 虽开源，但仍受制于公司；
+> Bittensor 拥有开放网络，却难以在实用层面落地。
+>  
+> Sentient 的出现，打破了这种二元结构。
+> 它是唯一一个能同时最大化「开放性」与「实用性」的 AGI 项目。
+> 一个真正的 AI 版 Linux。
+>  
+> ⚙️ 架构哲学：AI 的 Linux 内核
+>  
+> Sentient 定义自己为一个“开放智能内核”（Open Intelligence Kernel），
+> 通过 GRID 网络协调智能体（agents）、模型（models）、数据（data）与算力（compute）。
+>  
+> 其核心架构模块包括：
+> •ROMA：开放式路由层，构建智能协作网络；
+> •GRID Routing：实现计算与知识的去中心化分配；
+> •OML（Open Model Layer）：让模型之间形成“可验证的智能协作层”。
+>  
+> 这种架构如同 20 世纪的 Linux ——
+> 模块化、可验证、社区驱动。
+> 正如 Linux 支撑了互联网时代的基础设施，
+> Sentient 将成为开放式 AGI 时代的操作系统。
+>  
+> 🔬 技术实力：用十分之一的成本，超越封闭实验室
+>  
+> Sentient 的研究成果，已在核心维度上超越封闭式巨头：
+> •ROMA 模型超越 Perplexity 与 Gemini 2.5，
+> 并登上 GitHub 全球 #1 仓库。
+> •ODS（面向智能体的搜索框架）性能击败 GPT-o3 mini 与 DeepSeek。
+> •4 篇论文入选 NeurIPS 2025 —— 与 OpenAI、Google、Anthropic 同台。
+> •OML 1.0 实现从 100 到 24,576 模型指纹扩展，无性能损失。
+> •LiveCodeBench Pro 证明：
+> 模型仅用 1/10 资源、20% 数据，即可达到 80% 效果。
+>  
+> 在一个封闭实验室动辄耗资上亿的时代，Sentient 用不到十分之一的成本，展示了开源体系的极致效率。
+>  
+> 🌐 生态规模：全球最大开源 AI 网络
+>  
+> Sentient 目前已联合 100+ Web2 与 Web3 合作伙伴，
+> 构建了涵盖智能体、模型、数据、算力与验证层的完整生态。
+>  
+> 这不仅是一个研究项目，更是一张不断扩张的开源智能网络。
+> 每一个新的参与者（模型、节点或数据提供者）
+> 都能强化整个系统的价值与智能流动性。
+>  
+> GRID + ROMA 正形成“贡献—协作—创新”的自循环飞轮。
+>  
+> 💰 估值逻辑：$10B 的起点，开放智能的拐点
+>  
+> 市场已经给出了信号：
+> •Bittensor（TAO）峰值市值约 $9B（现约 $6B）
+> •Perplexity 估值 $18B
+> •Story Protocol、0G Labs 等新兴开放网络估值均达数十亿美元
+>  
+> 在这样的对比下，
+> Sentient——AI 的 Linux、全球最大开源 AI 生态——当前估值约 $10B。
+>  
+> 随着 GRID 的扩展，更多智能体、模型与数据接入，
+> 其网络效应将呈指数级复合增长。
+> 保守估计，未来仍有 2~3 倍上行空间。
+>  
+> 🌍 历史的回声：开源，永远会赢
+>  
+> 过去的二十年，历史已多次证明：
+> •Linux 取代 UNIX/Windows，成为互联网的底层内核。
+> •Android 占据移动操作系统 79% 市场份额。
+> •WordPress 驱动全球 43% 网站内容。
+>  
+> 现在，Sentient 将让“开源 AI”赢得 AGI 时代。
+> 当智能不再封闭、当知识可以自由组合，
+> AI 不再属于某家公司，而属于整个网络。
+>  
+> 🧩 Sentient，AI 的 Linux
+>  
+> 在智能时代的分水岭上，
+> 封闭系统代表垄断，而开放系统代表文明的延伸。
+>  
+> Sentient 是这一代的 Linux。
+> 它正在构建一个由全球开发者、研究者与节点共同驱动的智能生态。
+> 它不仅是一个项目，更是一个正在形成的智能文明操作系统。
+> @SentientAGI
+
+## 18. Oct 18, 2025 · 5:19 PM UTC · 1979598176890810568#m
+- 链接：https://twitter.com/diamondhandjs/status/1979598176890810568#m
+- 作者：@diamondhandjs
+
+> 113000
+> 4200
+> I need it next week or I am going to hedge my position with a job
+
+## 19. Oct 18, 2025 · 5:05 PM UTC · 1979594591956529292#m
+- 链接：https://twitter.com/diamondhandjs/status/1979594591956529292#m
+- 作者：@diamondhandjs
+
+> Aster这波Kol轮解锁俗称翻身轮
+> 真的是麻透了，交易亏钱都可以靠Aster完全回水
+> 什么时候我也可以不需要靠交易而靠这种Kol Round捡钱
+> 我都是打苦工
+
+## 20. Oct 18, 2025 · 3:54 PM UTC · 1979576837388083577#m
+- 链接：https://twitter.com/diamondhandjs/status/1979576837388083577#m
+- 作者：@diamondhandjs
+
+> i think somewhere in Q4 there will be a “we are so back moment” that’s the time I sell
+
+## 21. Oct 18, 2025 · 3:36 PM UTC · 1979572177973461298#m
+- 链接：https://twitter.com/diamondhandjs/status/1979572177973461298#m
+- 作者：@diamondhandjs
+
+> 漫长的回本之路
+> 世上本来就没有本，当你赚了钱，那钱就变成了本
+
+## 22. Oct 18, 2025 · 3:23 PM UTC · 1979569052268765336#m
+- 链接：https://twitter.com/diamondhandjs/status/1979569052268765336#m
+- 作者：@diamondhandjs
+
+> ok
+> Fuck me
+> Re entered
+> 113-117
+
+## 23. Oct 18, 2025 · 3:16 PM UTC · 1979567318154780724#m
+- 链接：https://twitter.com/diamondhandjs/status/1979567318154780724#m
+- 作者：@diamondhandjs
+
+> 跑了没胆量
+
+## 24. Oct 18, 2025 · 1:10 PM UTC · 1979535441344057648#m
+- 链接：https://twitter.com/diamondhandjs/status/1979535441344057648#m
+- 作者：@diamondhandjs
+
+> 感觉如果民主党赢中期选举Sam可能会被赦免
+
+## 25. Oct 18, 2025 · 11:40 AM UTC · 1979512912386674904#m
+- 链接：https://twitter.com/diamondhandjs/status/1979512912386674904#m
+- 作者：@diamondhandjs
+
+> 抄了个底老想跑
+> 吗的
+
+## 26. Oct 17, 2025 · 3:26 PM UTC · 1979207319352136110#m
+- 链接：https://twitter.com/diamondhandjs/status/1979207319352136110#m
+- 作者：@diamondhandjs
+
+> 113 and 117 plz
+
+## 27. Oct 17, 2025 · 3:17 PM UTC · 1979205113857093675#m
+- 链接：https://twitter.com/diamondhandjs/status/1979205113857093675#m
+- 作者：@diamondhandjs
+
+> 债王发话我听一点
+
+## 28. Oct 17, 2025 · 2:55 PM UTC · 1979199518337044534#m
+- 链接：https://twitter.com/diamondhandjs/status/1979199518337044534#m
+- 作者：@diamondhandjs
+
+> 熊初最大的风险是信仰
+
+## 29. Oct 17, 2025 · 2:35 PM UTC · 1979194585248080040#m
+- 链接：https://twitter.com/diamondhandjs/status/1979194585248080040#m
+- 作者：@diamondhandjs
+
+> 抄点底吧做个反弹吧
+> 月底假设Taco，银行暴雷被救
+> 政府恢复运行，Fed降息
+> 那么黄金下行
+> 比特币上行
+> 但是山寨我也不知道🤷‍♀️
+
+## 30. Oct 17, 2025 · 1:54 PM UTC · 1979184246267818098#m
+- 链接：https://twitter.com/diamondhandjs/status/1979184246267818098#m
+- 作者：@diamondhandjs
+
+> 你们他妈的是在发十块钱如何过一个月的要饭指南啊，我说不影响生活品质小妙招
+
+## 31. Oct 17, 2025 · 1:03 PM UTC · 1979171527133134985#m
+- 链接：https://twitter.com/diamondhandjs/status/1979171527133134985#m
+- 作者：@diamondhandjs
+
+> 我来一个 消费的时候先看闲鱼有没有代金券
+
+## 32. Oct 17, 2025 · 12:58 PM UTC · 1979170192249819414#m
+- 链接：https://twitter.com/diamondhandjs/status/1979170192249819414#m
+- 作者：@diamondhandjs
+
+> 熊市了
+> 每人来分享一个省钱不影响品质生活小妙招
+
+## 33. Oct 17, 2025 · 11:48 AM UTC · 1979152466689081675#m
+- 链接：https://twitter.com/diamondhandjs/status/1979152466689081675#m
+- 作者：@diamondhandjs
+
+> 打仗了是携带在身上的冷钱包助记词安全还是银行账户里的黄金/btc Etf安全？
+
+## 34. Oct 17, 2025 · 2:57 AM UTC · 1979018943730721045#m
+- 链接：https://twitter.com/diamondhandjs/status/1979018943730721045#m
+- 作者：@diamondhandjs
+
+> 你达到你刚刚来币圈想要的数字了吗
+> 后面看到别人赚多少再提高的不算
+
+## 35. Oct 17, 2025 · 12:05 AM UTC · 1978975694890680335#m
+- 链接：https://twitter.com/diamondhandjs/status/1978975694890680335#m
+- 作者：@diamondhandjs
+
+> 今年一个人去了好多国家啊，对旅行都去魅了
+> 瑞士德国奥地利荷兰西班牙法国葡萄牙匈牙利
+> 好多市场大跌大涨的日子里我都会记得在哪个国家正在干什么
+
+## 36. Oct 16, 2025 · 9:32 PM UTC · 1978937090915340414#m
+- 链接：https://twitter.com/diamondhandjs/status/1978937090915340414#m
+- 作者：@diamondhandjs
+
+> 大家有什么推荐旅行的地方
+> 国内外都可以
+> 要求吃的必须还过得去的地方
+> 全白人饭无法接受啊😅
+
+## 37. Oct 15, 2025 · 4:14 PM UTC · 1978494659539468755#m
+- 链接：https://twitter.com/diamondhandjs/status/1978494659539468755#m
+- 作者：@diamondhandjs
+
+> 不要活在过去的错误中
+> 生活不止眼前的错误，还有远方的错误
+> move on
+
+## 38. Oct 15, 2025 · 3:56 PM UTC · 1978490215535894907#m
+- 链接：https://twitter.com/diamondhandjs/status/1978490215535894907#m
+- 作者：@diamondhandjs
+
+> 现在知道真相的我眼泪掉下来
+
+## 39. Oct 15, 2025 · 12:37 PM UTC · 1978440082760642749#m
+- 链接：https://twitter.com/diamondhandjs/status/1978440082760642749#m
+- 作者：@diamondhandjs
+
+> 在资产价格越来越高的时候，适当的利用小资金去杠杆参与是一件明智的方式
+> 假设资产抛物线增长，这往往发生在牛市末尾，你没有Miss掉，假设掉头大暴跌你也赔的不多
+> 在八九月左右我就意识到市场在末日狂欢，当时的想法就是只参与合约和期权
+> 可惜场内资金还是留的太多了点
+
+## 40. Oct 15, 2025 · 12:29 PM UTC · 1978438026935058817#m
+- 链接：https://twitter.com/diamondhandjs/status/1978438026935058817#m
+- 作者：@diamondhandjs
+
+> 今年以来我的风控就是出金
+> 只有极致的保守和极致的激进
+> 激进到场内必须有仓位
+> 看到风险加剧就大幅出金，剩下哪怕十万U也要开满，除非十万U打到1M，那马上属于要出金90Wu的情况了
+> 基本上没有中间态
+> 这种情况既保护了黑天鹅杠杆抄底赔钱的风险，但也阻碍了套利赚钱的机会
+
+## 41. Oct 15, 2025 · 4:11 AM UTC · 1978312697327345831#m
+- 链接：https://twitter.com/diamondhandjs/status/1978312697327345831#m
+- 作者：@diamondhandjs
+
+> 看到Multicoin买了个币可惜我没钱干瞪眼
+
+## 42. Oct 14, 2025 · 4:47 PM UTC · 1978140611556307024#m
+- 链接：https://twitter.com/diamondhandjs/status/1978140611556307024#m
+- 作者：@diamondhandjs
+
+> see you on october 28th 🎁
+> monad能给我发几万美金东山再起吗
+
+## 43. Oct 13, 2025 · 6:24 PM UTC · 1977802687753396713#m
+- 链接：https://twitter.com/diamondhandjs/status/1977802687753396713#m
+- 作者：@diamondhandjs
+
+> what’s the next 2x trade
+> Share ur thoughts
+> Short also welcome
+
+## 44. Oct 11, 2025 · 6:52 PM UTC · 1977084980787642568#m
+- 链接：https://twitter.com/diamondhandjs/status/1977084980787642568#m
+- 作者：@diamondhandjs
+
+> 宕机不知道能不能赔付，眼睁睁的看着仓位一直下去宕机了没法手动平，手动了几次都是失败
+> 准备先去File一下
+> 能回来一些就有信心干回来，回不来就是天意了，准备出去旅游散散心
+> 快30小时没睡觉了，情绪从说不出话来慢慢恢复了
+> 我想等待我的又是无尽的后悔了
+> 先这样了休息一阵子
+
+## 45. Oct 11, 2025 · 6:36 PM UTC · 1977080783631532127#m
+- 链接：https://twitter.com/diamondhandjs/status/1977080783631532127#m
+- 作者：@diamondhandjs
+
+> 真的很后悔没有拿着Zec，昨天是Allin zec了的，那会没有杠杆，拿到现在都还新高了
+> 偏偏想不开去抄底Defi
+> 所以熊市千万不要抄底Defi，整不好连环爆仓
+
+## 46. Oct 11, 2025 · 1:14 PM UTC · 1976999974404866343#m
+- 链接：https://twitter.com/diamondhandjs/status/1976999974404866343#m
+- 作者：@diamondhandjs
+
+> 四月刚贸易战的时候就和朋友聊了，会不会18再现贸易战升级
+> 不知道这次会怎么样，但这是18年的走势，时间线发生了什么可以自行Chatgpt查看
+
+## 47. Oct 11, 2025 · 3:19 AM UTC · 1976850079622525069#m
+- 链接：https://twitter.com/diamondhandjs/status/1976850079622525069#m
+- 作者：@diamondhandjs
+
+> holy
+
+## 48. Oct 10, 2025 · 9:46 PM UTC · 1976766403807265099#m
+- 链接：https://twitter.com/diamondhandjs/status/1976766403807265099#m
+- 作者：@diamondhandjs
+
+> Covid crash was also Trump’s term
+> Wow
+
+## 49. Oct 10, 2025 · 9:30 PM UTC · 1976762308631363896#m
+- 链接：https://twitter.com/diamondhandjs/status/1976762308631363896#m
+- 作者：@diamondhandjs
+
+> Coins literally went to zero
+
+## 50. Oct 10, 2025 · 8:23 PM UTC · 1976745467133542890#m
+- 链接：https://twitter.com/diamondhandjs/status/1976745467133542890#m
+- 作者：@diamondhandjs
+
+> 又要把刚刚关注的P小将取关看二级博主了🤨
+
+## 51. Oct 10, 2025 · 8:20 PM UTC · 1976744684165964283#m
+- 链接：https://twitter.com/diamondhandjs/status/1976744684165964283#m
+- 作者：@diamondhandjs
+
+> Closed Zec don’t like the retrace after this
+> Seems like exit pump
+
+## 52. Oct 10, 2025 · 6:46 PM UTC · 1976721039850979400#m
+- 链接：https://twitter.com/diamondhandjs/status/1976721039850979400#m
+- 作者：@diamondhandjs
+
+> Buy as much ZEC as you wish you bought Bitcoin
+
+## 53. Oct 10, 2025 · 5:50 PM UTC · 1976707033354453234#m
+- 链接：https://twitter.com/diamondhandjs/status/1976707033354453234#m
+- 作者：@diamondhandjs
+
+> 下注
+> 睡觉
+
+## 54. Oct 10, 2025 · 5:22 PM UTC · 1976699822339244395#m
+- 链接：https://twitter.com/diamondhandjs/status/1976699822339244395#m
+- 作者：@diamondhandjs
+
+> Shall we just all in Zec and pray
+
+## 55. Oct 10, 2025 · 5:00 PM UTC · 1976694283668537775#m
+- 链接：https://twitter.com/diamondhandjs/status/1976694283668537775#m
+- 作者：@diamondhandjs
+
+> zec is a hedge against reality. when everything is down, zec goes up. when everything is up, zec goes down. it is insanity tokenised.
+
+## 56. Dec 13, 2017 · 12:58 AM UTC · 940747700865187840#m
+- 链接：https://twitter.com/diamondhandjs/status/940747700865187840#m
+- 作者：@diamondhandjs
+
+> Can't wait for Zcash to be 4 figures
+
+## 57. Oct 10, 2025 · 4:56 PM UTC · 1976693209033236557#m
+- 链接：https://twitter.com/diamondhandjs/status/1976693209033236557#m
+- 作者：@diamondhandjs
+
+> Need a wick to 280 and 330
+
+## 58. Oct 10, 2025 · 4:13 PM UTC · 1976682495681925170#m
+- 链接：https://twitter.com/diamondhandjs/status/1976682495681925170#m
+- 作者：@diamondhandjs
+
+> capo was right for one time
+
+## 59. Oct 9, 2025 · 9:11 PM UTC · 1976395004731064765#m
+- 链接：https://twitter.com/diamondhandjs/status/1976395004731064765#m
+- 作者：@diamondhandjs
+
+> Honestly I think I should just all in Zec few days ago and leave this place forever
+
+## 60. Oct 9, 2025 · 5:45 PM UTC · 1976343345451630747#m
+- 链接：https://twitter.com/diamondhandjs/status/1976343345451630747#m
+- 作者：@diamondhandjs
+
+> Iykyk
+
+## 61. Oct 9, 2025 · 1:31 PM UTC · 1976279260869619994#m
+- 链接：https://twitter.com/diamondhandjs/status/1976279260869619994#m
+- 作者：@diamondhandjs
+
+> Monad Airdrop Claim Portal opens on Tuesday, October 14th
+
+## 62. Oct 9, 2025 · 5:19 PM UTC · 1976336645856403553#m
+- 链接：https://twitter.com/diamondhandjs/status/1976336645856403553#m
+- 作者：@diamondhandjs
+
+> Omg
+> Real
+> I love @monad
+
+## 63. Oct 9, 2025 · 4:23 PM UTC · 1976322633856930134#m
+- 链接：https://twitter.com/diamondhandjs/status/1976322633856930134#m
+- 作者：@diamondhandjs
+
+> It’s 10/10 now
+> So we ??
+
+## 64. Oct 9, 2025 · 2:35 PM UTC · 1976295338962296967#m
+- 链接：https://twitter.com/diamondhandjs/status/1976295338962296967#m
+- 作者：@diamondhandjs
+
+> it’s really sad if u understand how Chinese ticker meme become now
+> Really sad that u could wanna kys
+> The saddest thing is I happen to understand them
+
+## 65. Oct 9, 2025 · 11:05 AM UTC · 1976242554061394053#m
+- 链接：https://twitter.com/diamondhandjs/status/1976242554061394053#m
+- 作者：@diamondhandjs
+
+> U hear me
+
+## 66. Oct 9, 2025 · 8:43 AM UTC · 1976206849948123246#m
+- 链接：https://twitter.com/diamondhandjs/status/1976206849948123246#m
+- 作者：@diamondhandjs
+
+> 不可能的我怎么可能买，但是买不买都一样，我的币都得跟着跌
+
+## 67. Oct 9, 2025 · 8:42 AM UTC · 1976206559261974628#m
+- 链接：https://twitter.com/diamondhandjs/status/1976206559261974628#m
+- 作者：@diamondhandjs
+
+> 币安人生
+> 买了
+> 我现在币暗人生了
+
+## 68. Oct 8, 2025 · 8:07 PM UTC · 1976016684206247942#m
+- 链接：https://twitter.com/diamondhandjs/status/1976016684206247942#m
+- 作者：@diamondhandjs
+
+> Trillions
+
+## 69. Oct 7, 2025 · 6:30 PM UTC · 1975629861499867606#m
+- 链接：https://twitter.com/diamondhandjs/status/1975629861499867606#m
+- 作者：@diamondhandjs
+
+> Boom Shakalaka
+
+## 70. Oct 7, 2025 · 2:11 PM UTC · 1975564610511212683#m
+- 链接：https://twitter.com/diamondhandjs/status/1975564610511212683#m
+- 作者：@diamondhandjs
+
+> 暴涨没轮到
+> 轮到暴跌了
+
+## 71. Oct 7, 2025 · 12:04 PM UTC · 1975532635373101521#m
+- 链接：https://twitter.com/diamondhandjs/status/1975532635373101521#m
+- 作者：@diamondhandjs
+
+> 像我这种Trader
+> 就不信Btc还能去几十万U，我信特斯拉可能有十倍，但要我真信Btc去几十万因此梭哈，那不如永久退出币圈去炒股得了
+> 我要是真说了XX币要去多少多少，也是为了盖帽派发，或者我根本不对我说的话负责也不对周边听了去梭哈的负责
+> 这就是我
+> 望周知
+> Btc可能去1M但那只是我瞎说的
+
+## 72. Oct 7, 2025 · 10:09 AM UTC · 1975503771607150762#m
+- 链接：https://twitter.com/diamondhandjs/status/1975503771607150762#m
+- 作者：@diamondhandjs
+
+> eth maxis can stop chirping me too
+>  
+> i own more of this trash than you do
+>  
+> send it and give me a blissful exit
+
+## 73. Oct 7, 2025 · 4:25 AM UTC · 1975417200904446105#m
+- 链接：https://twitter.com/diamondhandjs/status/1975417200904446105#m
+- 作者：@diamondhandjs
+
+> 这一轮还是大仓位踏空了平台币的
+> 希望下一轮有机会不踏空
+
+## 74. Oct 7, 2025 · 3:40 AM UTC · 1975405931652653357#m
+- 链接：https://twitter.com/diamondhandjs/status/1975405931652653357#m
+- 作者：@diamondhandjs
+
+> 早上好
+> 怎么又跌了
+> 快给我涨
+
+## 75. Oct 6, 2025 · 10:14 PM UTC · 1975323695741804687#m
+- 链接：https://twitter.com/diamondhandjs/status/1975323695741804687#m
+- 作者：@diamondhandjs
+
+> #新头像
+
+## 76. Oct 6, 2025 · 8:24 PM UTC · 1975296111217873230#m
+- 链接：https://twitter.com/diamondhandjs/status/1975296111217873230#m
+- 作者：@diamondhandjs
+
+> 属于提前开了一点香槟
+> 可千万不能输
+
+## 77. Oct 6, 2025 · 8:21 PM UTC · 1975295354745856434#m
+- 链接：https://twitter.com/diamondhandjs/status/1975295354745856434#m
+- 作者：@diamondhandjs
+
+> 开了Bn聪明钱，可别让我输啊😅😅😅
+
+## 78. Oct 6, 2025 · 7:24 PM UTC · 1975280988524875983#m
+- 链接：https://twitter.com/diamondhandjs/status/1975280988524875983#m
+- 作者：@diamondhandjs
+
+> 香槟要攒到撤退的那一天再开
+> 忍着
+
+## 79. Oct 6, 2025 · 1:32 PM UTC · 1975192462017864071#m
+- 链接：https://twitter.com/diamondhandjs/status/1975192462017864071#m
+- 作者：@diamondhandjs
+
+> i saw u in my dream
+> floating in the blue
+
+## 80. Oct 6, 2025 · 1:23 PM UTC · 1975190270955389116#m
+- 链接：https://twitter.com/diamondhandjs/status/1975190270955389116#m
+- 作者：@diamondhandjs
+
+> 不要为情绪买单
+
+## 81. Oct 5, 2025 · 8:43 PM UTC · 1974938554100006958#m
+- 链接：https://twitter.com/diamondhandjs/status/1974938554100006958#m
+- 作者：@diamondhandjs
+
+> 大家香槟还是开太早了
+
+## 82. Oct 5, 2025 · 6:55 PM UTC · 1974911251890475121#m
+- 链接：https://twitter.com/diamondhandjs/status/1974911251890475121#m
+- 作者：@diamondhandjs
+
+> 现在怎么说
+
+## 83. Oct 5, 2025 · 5:05 PM UTC · 1974883562693570784#m
+- 链接：https://twitter.com/diamondhandjs/status/1974883562693570784#m
+- 作者：@diamondhandjs
+
+> 无论你有多么看空
+> 不要在周日的晚上做决定
+
+## 84. Oct 5, 2025 · 4:36 PM UTC · 1974876340588515833#m
+- 链接：https://twitter.com/diamondhandjs/status/1974876340588515833#m
+- 作者：@diamondhandjs
+
+> LD清仓了，现在怎么办
+
+## 85. Oct 5, 2025 · 9:04 AM UTC · 1974762631904043314#m
+- 链接：https://twitter.com/diamondhandjs/status/1974762631904043314#m
+- 作者：@diamondhandjs
+
+> 革命尚未成功
+> 香槟给我收起来
+
+## 86. Oct 5, 2025 · 8:57 AM UTC · 1974760924759334963#m
+- 链接：https://twitter.com/diamondhandjs/status/1974760924759334963#m
+- 作者：@diamondhandjs
+
+> U are waiting for a dip to buy
+> Iam waiting for the  pump to sell
+> We not the same
+
+## 87. Oct 5, 2025 · 6:58 AM UTC · 1974730870268567918#m
+- 链接：https://twitter.com/diamondhandjs/status/1974730870268567918#m
+- 作者：@diamondhandjs
+
+> 愿你拥有
+> 明辨夸大其词和谎言的能力
+> 过滤垃圾信息一心只求自己想要的能力
+> 筛选人品不好的人的能力
+> 实现梦想的能力
+
+## 88. Oct 5, 2025 · 5:04 AM UTC · 1974702158164721691#m
+- 链接：https://twitter.com/diamondhandjs/status/1974702158164721691#m
+- 作者：@diamondhandjs
+
+> 五天前，仅仅五天
+> 就ath了
+
+## 89. Oct 5, 2025 · 4:55 AM UTC · 1974699854724202745#m
+- 链接：https://twitter.com/diamondhandjs/status/1974699854724202745#m
+- 作者：@diamondhandjs
+
+> 昨天pump跌倒0.0064是真没有胆子抄底
+> 哎痛恨自己
+
+## 90. Oct 5, 2025 · 4:53 AM UTC · 1974699401705857252#m
+- 链接：https://twitter.com/diamondhandjs/status/1974699401705857252#m
+- 作者：@diamondhandjs
+
+> 昨晚入的打野仓位，Apt 5.145成本
+> 目标8
+> 我肯定会提前盖帽的
+
+## 91. Oct 5, 2025 · 4:50 AM UTC · 1974698712560771445#m
+- 链接：https://twitter.com/diamondhandjs/status/1974698712560771445#m
+- 作者：@diamondhandjs
+
+> the quietest ATH
+> when will u get noisy again?
+
+## 92. Oct 5, 2025 · 4:19 AM UTC · 1974690933670330479#m
+- 链接：https://twitter.com/diamondhandjs/status/1974690933670330479#m
+- 作者：@diamondhandjs
+
+> 多好的行情啊
+> 你为什么要想不开做空呢
+> 做空不如打钱给我我给你10X梭哈
+
+## 93. Oct 4, 2025 · 7:55 PM UTC · 1974563971761049848#m
+- 链接：https://twitter.com/diamondhandjs/status/1974563971761049848#m
+- 作者：@diamondhandjs
+
+> 踏空了很焦虑
+
+## 94. Oct 4, 2025 · 7:34 PM UTC · 1974558809466327135#m
+- 链接：https://twitter.com/diamondhandjs/status/1974558809466327135#m
+- 作者：@diamondhandjs
+
+> 十月份是最好做交易的一个月份，珍惜你的时间
+
+## 95. Oct 4, 2025 · 5:30 PM UTC · 1974527592482079073#m
+- 链接：https://twitter.com/diamondhandjs/status/1974527592482079073#m
+- 作者：@diamondhandjs
+
+> 最近关注的一些币
+> SNX (trading competition end of oct, degenspartan comeback)
+> APT  ??? price strong
+> DOGE (ETF)
+> CARDS (binance article, potential new listing)
+
+## 96. Oct 4, 2025 · 5:19 PM UTC · 1974524880373895647#m
+- 链接：https://twitter.com/diamondhandjs/status/1974524880373895647#m
+- 作者：@diamondhandjs
+
+> this chart looks interesting
+
+## 97. Oct 4, 2025 · 12:05 PM UTC · 1974445799770906865#m
+- 链接：https://twitter.com/diamondhandjs/status/1974445799770906865#m
+- 作者：@diamondhandjs
+
+> In hindsight u just have to bid
+
+## 98. Oct 4, 2025 · 1:21 AM UTC · 1974283808712073407#m
+- 链接：https://twitter.com/diamondhandjs/status/1974283808712073407#m
+- 作者：@diamondhandjs
+
+> 早上好
+> 怎么跌了
+> 我离我的目标又远了一点点
+
+## 99. Oct 3, 2025 · 4:45 PM UTC · 1974153856796983420#m
+- 链接：https://twitter.com/diamondhandjs/status/1974153856796983420#m
+- 作者：@diamondhandjs
+
+> I am ready
+> 🚀
+
+## 100. Oct 3, 2025 · 4:43 PM UTC · 1974153359977558467#m
+- 链接：https://twitter.com/diamondhandjs/status/1974153359977558467#m
+- 作者：@diamondhandjs
+
+> 跟人沟通好累，你说这个，他说那个
+> 实在太难了
+
+## 101. Oct 3, 2025 · 4:28 PM UTC · 1974149534734561437#m
+- 链接：https://twitter.com/diamondhandjs/status/1974149534734561437#m
+- 作者：@diamondhandjs
+
+> 又被很骚的项目方骗了点钱走
+
+## 102. Oct 3, 2025 · 3:37 PM UTC · 1974136699073802745#m
+- 链接：https://twitter.com/diamondhandjs/status/1974136699073802745#m
+- 作者：@diamondhandjs
+
+> 我的币在涨30%
+>  
+> 今年就可以call it a year log off 了
+> 再也不用Deal无语的评论了
+> 🙏
+
+## 103. Oct 3, 2025 · 3:17 PM UTC · 1974131673362293006#m
+- 链接：https://twitter.com/diamondhandjs/status/1974131673362293006#m
+- 作者：@diamondhandjs
+
+> 大家都在社交跑会
+> 我的社交圈基本上完全在币圈外了
+> 可能还有少数几个朋友聊炒币的事情
+> 以后可以不说自己是币圈人了
+
+## 104. Oct 3, 2025 · 2:44 PM UTC · 1974123482964504837#m
+- 链接：https://twitter.com/diamondhandjs/status/1974123482964504837#m
+- 作者：@diamondhandjs
+
+> sol大战bsc
+> 同样的ticker两个链
+> 你选哪个？
+
+## 105. Oct 3, 2025 · 9:31 AM UTC · 1974044534070739137#m
+- 链接：https://twitter.com/diamondhandjs/status/1974044534070739137#m
+- 作者：@diamondhandjs
+
+> polyfactual 和 cards
+> 强烈不建议跟单
+
+## 106. Oct 3, 2025 · 9:28 AM UTC · 1974043777124733220#m
+- 链接：https://twitter.com/diamondhandjs/status/1974043777124733220#m
+- 作者：@diamondhandjs
+
+> SOL被吸血严重，对SOL上的明星标的出了一点bid
+
+## 107. Oct 3, 2025 · 9:08 AM UTC · 1974038866622386366#m
+- 链接：https://twitter.com/diamondhandjs/status/1974038866622386366#m
+- 作者：@diamondhandjs
+
+> 出本了
+
+## 108. Oct 3, 2025 · 8:15 AM UTC · 1974025440206508442#m
+- 链接：https://twitter.com/diamondhandjs/status/1974025440206508442#m
+- 作者：@diamondhandjs
+
+> Oct 4th is coming
+> are u ready
+
+## 109. Oct 3, 2025 · 5:11 AM UTC · 1973979291861069889#m
+- 链接：https://twitter.com/diamondhandjs/status/1973979291861069889#m
+- 作者：@diamondhandjs
+
+> X上没兴趣分享一大堆逻辑，别人学了给我学费吗，真能赚钱，我是缺你那点钱还是缺跟我一样想法的人。
+> 喊个单差不多得了，我写越多，越有可能是广告
+> 你懂就好了
+
+## 110. Oct 3, 2025 · 5:06 AM UTC · 1973977994923553143#m
+- 链接：https://twitter.com/diamondhandjs/status/1973977994923553143#m
+- 作者：@diamondhandjs
+
+> 这个月主线任务是拿好Doge
+> 其他小打小闹赚点
+> 上了Giggles
+
+## 111. Oct 3, 2025 · 3:52 AM UTC · 1973959275946078521#m
+- 链接：https://twitter.com/diamondhandjs/status/1973959275946078521#m
+- 作者：@diamondhandjs
+
+> 好烂啊，跑了，垃圾
+
+## 112. Oct 3, 2025 · 3:27 AM UTC · 1973952929750274462#m
+- 链接：https://twitter.com/diamondhandjs/status/1973952929750274462#m
+- 作者：@diamondhandjs
+
+> 拉回来了
+
+## 113. Oct 3, 2025 · 12:58 AM UTC · 1973915460656832673#m
+- 链接：https://twitter.com/diamondhandjs/status/1973915460656832673#m
+- 作者：@diamondhandjs
+
+> bsc垃圾确实抽象
+> 扶不起的阿斗
+> 安卓链安卓币
+
+## 114. Oct 3, 2025 · 12:47 AM UTC · 1973912849463586892#m
+- 链接：https://twitter.com/diamondhandjs/status/1973912849463586892#m
+- 作者：@diamondhandjs
+
+> 这Bsc的垃圾确实抽象
+
+## 115. Oct 2, 2025 · 7:31 PM UTC · 1973833114607890780#m
+- 链接：https://twitter.com/diamondhandjs/status/1973833114607890780#m
+- 作者：@diamondhandjs
+
+> 干了一点$Form
+> 2见
+
+## 116. Oct 2, 2025 · 7:15 PM UTC · 1973829197903847801#m
+- 链接：https://twitter.com/diamondhandjs/status/1973829197903847801#m
+- 作者：@diamondhandjs
+
+> The last part of bull mkt is always parabolic
+> Some of us will make it
+> Some of us will lose everything
+
+## 117. Oct 2, 2025 · 6:29 PM UTC · 1973817663878267031#m
+- 链接：https://twitter.com/diamondhandjs/status/1973817663878267031#m
+- 作者：@diamondhandjs
+
+> Eigen我操你妈
+
+## 118. Oct 2, 2025 · 5:27 PM UTC · 1973801971149885539#m
+- 链接：https://twitter.com/diamondhandjs/status/1973801971149885539#m
+- 作者：@diamondhandjs
+
+> 现在好怕各种抽象的项目方骗我钱
+> 我这人受不了勾引
+
+## 119. Oct 2, 2025 · 12:11 PM UTC · 1973722494872981575#m
+- 链接：https://twitter.com/diamondhandjs/status/1973722494872981575#m
+- 作者：@diamondhandjs
+
+> 你为什么不自信？
+
+## 120. Oct 2, 2025 · 11:50 AM UTC · 1973717101031632950#m
+- 链接：https://twitter.com/diamondhandjs/status/1973717101031632950#m
+- 作者：@diamondhandjs
+
+> 只剩🐶了
+> 太Fomo了兄弟们
+> 怕了
+> 是我的错觉还是你们真的Fomo了快跟我说说
+> 因为我真的很fomo
+
+## 121. Oct 2, 2025 · 10:31 AM UTC · 1973697404693369279#m
+- 链接：https://twitter.com/diamondhandjs/status/1973697404693369279#m
+- 作者：@diamondhandjs
+
+> 恭喜$MNT历史新高
+> 依然看好，依然持有
+
+## 122. Sep 29, 2025 · 6:47 PM UTC · 1972735123398578555#m
+- 链接：https://twitter.com/diamondhandjs/status/1972735123398578555#m
+- 作者：@diamondhandjs
+
+> 你不下注，就没有机会得到命运的眷顾
+> 你得有单子
+
+## 123. Oct 2, 2025 · 7:56 AM UTC · 1973658293123031385#m
+- 链接：https://twitter.com/diamondhandjs/status/1973658293123031385#m
+- 作者：@diamondhandjs
+
+> 真正能把推特玩好的人是不把推特上的人当人的那种，只当全是NPC
+> 太在乎别人的看法只会玩不好，今天担心这个Unfollow 明天担心被拉黑
+> 你爱咋样咋样，我又不把你当人看
+> 当游戏就好了
+
+## 124. Oct 2, 2025 · 6:36 AM UTC · 1973638316944924908#m
+- 链接：https://twitter.com/diamondhandjs/status/1973638316944924908#m
+- 作者：@diamondhandjs
+
+> 打野的不要多问了，仓位太大精简
+
+## 125. Oct 2, 2025 · 6:36 AM UTC · 1973638223315476705#m
+- 链接：https://twitter.com/diamondhandjs/status/1973638223315476705#m
+- 作者：@diamondhandjs
+
+> 最新持仓
+> $Doge
+> $ZRO
+> $Launchcoin
+
+## 126. Oct 2, 2025 · 6:30 AM UTC · 1973636642922701050#m
+- 链接：https://twitter.com/diamondhandjs/status/1973636642922701050#m
+- 作者：@diamondhandjs
+
+> 今天的野就打到这里
+> 我只有一个真爱
+> 那就是🐶
+> 赚了的加仓了
+
+## 127. Oct 2, 2025 · 5:53 AM UTC · 1973627363230708203#m
+- 链接：https://twitter.com/diamondhandjs/status/1973627363230708203#m
+- 作者：@diamondhandjs
+
+> Q4是个好时候
+> 每过四年的这个时候，
+> 很多人会Make it
+> 更多人会Broke
+> 拭目以待
+
+## 128. Oct 2, 2025 · 5:43 AM UTC · 1973624736870695160#m
+- 链接：https://twitter.com/diamondhandjs/status/1973624736870695160#m
+- 作者：@diamondhandjs
+
+> 这个月J$是话痨，我哪也不去，就炒币发推特
+> 等你们回来了我撤了
+
+## 129. Oct 2, 2025 · 5:35 AM UTC · 1973622968363393298#m
+- 链接：https://twitter.com/diamondhandjs/status/1973622968363393298#m
+- 作者：@diamondhandjs
+
+> Naval Nb!!!
+
+## 130. Oct 2, 2025 · 4:42 AM UTC · 1973609571118883218#m
+- 链接：https://twitter.com/diamondhandjs/status/1973609571118883218#m
+- 作者：@diamondhandjs
+
+> 扛不住了
+> 买了点Zec压车
+
+## 131. Oct 2, 2025 · 4:26 AM UTC · 1973605548554903810#m
+- 链接：https://twitter.com/diamondhandjs/status/1973605548554903810#m
+- 作者：@diamondhandjs
+
+> 又Eigen了？
+> 卧槽尼玛老子刚解套的币跑了一半你们又喊？
+
+## 132. Oct 2, 2025 · 3:46 AM UTC · 1973595404534222915#m
+- 链接：https://twitter.com/diamondhandjs/status/1973595404534222915#m
+- 作者：@diamondhandjs
+
+> 😘
+
+## 133. Oct 2, 2025 · 3:45 AM UTC · 1973595264171778467#m
+- 链接：https://twitter.com/diamondhandjs/status/1973595264171778467#m
+- 作者：@diamondhandjs
+
+> 十月的第一天 第二天
+> Huge green candle
+
+## 134. Oct 2, 2025 · 3:08 AM UTC · 1973585863411114324#m
+- 链接：https://twitter.com/diamondhandjs/status/1973585863411114324#m
+- 作者：@diamondhandjs
+
+> gmdoge
+
+## 135. Oct 1, 2025 · 10:16 PM UTC · 1973512452483719308#m
+- 链接：https://twitter.com/diamondhandjs/status/1973512452483719308#m
+- 作者：@diamondhandjs
+
+> 内瓦尔Shill Zec国内是一个人都没提啊
+> 隐私都拉起来了
+
+## 136. Oct 1, 2025 · 8:57 PM UTC · 1973492574787870925#m
+- 链接：https://twitter.com/diamondhandjs/status/1973492574787870925#m
+- 作者：@diamondhandjs
+
+> im drunk
+
+## 137. Oct 1, 2025 · 8:16 PM UTC · 1973482084963692791#m
+- 链接：https://twitter.com/diamondhandjs/status/1973482084963692791#m
+- 作者：@diamondhandjs
+
+> 四季度了
+> 别整天盯着自己以前的错误了
+> 四季度做好一样的
+
+## 138. Oct 1, 2025 · 6:43 PM UTC · 1973458823181640149#m
+- 链接：https://twitter.com/diamondhandjs/status/1973458823181640149#m
+- 作者：@diamondhandjs
+
+> K线看久了
+> 越看越觉得抽象🌞
+
+## 139. Oct 1, 2025 · 4:23 PM UTC · 1973423586577969291#m
+- 链接：https://twitter.com/diamondhandjs/status/1973423586577969291#m
+- 作者：@diamondhandjs
+
+> 大胆干
+> 早点散
+
+## 140. Oct 1, 2025 · 9:58 AM UTC · 1973326764488401294#m
+- 链接：https://twitter.com/diamondhandjs/status/1973326764488401294#m
+- 作者：@diamondhandjs
+
+> 年少不知🐶🐶好，错把苹果当安卓
+
+## 141. Oct 1, 2025 · 9:53 AM UTC · 1973325341298139490#m
+- 链接：https://twitter.com/diamondhandjs/status/1973325341298139490#m
+- 作者：@diamondhandjs
+
+> 戳中我的笑点了
+> 这俩麻烦留个言吧，文案改一下
+> 你给他回复一下，文案改一下
+
+## 142. Oct 1, 2025 · 9:48 AM UTC · 1973324211444916455#m
+- 链接：https://twitter.com/diamondhandjs/status/1973324211444916455#m
+- 作者：@diamondhandjs
+
+> bought some $S  @ 0.27
+> J$S
+
+## 143. Oct 1, 2025 · 9:14 AM UTC · 1973315460411412927#m
+- 链接：https://twitter.com/diamondhandjs/status/1973315460411412927#m
+- 作者：@diamondhandjs
+
+> 汪汪
+
+## 144. Oct 1, 2025 · 9:03 AM UTC · 1973312827172725085#m
+- 链接：https://twitter.com/diamondhandjs/status/1973312827172725085#m
+- 作者：@diamondhandjs
+
+> 4
+
+## 145. Oct 1, 2025 · 8:55 AM UTC · 1973310842360963519#m
+- 链接：https://twitter.com/diamondhandjs/status/1973310842360963519#m
+- 作者：@diamondhandjs
+
+> 每年十月桂花飘香的时候，我都会记得ta
+> 这次能给我来个50%吗
+
+## 146. Oct 1, 2025 · 8:42 AM UTC · 1973307517372670324#m
+- 链接：https://twitter.com/diamondhandjs/status/1973307517372670324#m
+- 作者：@diamondhandjs
+
+> the ticker is pump
+
+## 147. Oct 1, 2025 · 6:05 AM UTC · 1973267937982292209#m
+- 链接：https://twitter.com/diamondhandjs/status/1973267937982292209#m
+- 作者：@diamondhandjs
+
+> 今年最后悔的事情就是不玩美股却选炒币
+
+## 148. Oct 1, 2025 · 5:00 AM UTC · 1973251654188409129#m
+- 链接：https://twitter.com/diamondhandjs/status/1973251654188409129#m
+- 作者：@diamondhandjs
+
+> xpl这种就是情绪溢价
+> 几个大车头一喊资金一堆
+> 先信赚钱，后信接盘
+> 情绪溢价盘在熊市不好接
+> 因为不知道到底占了多少百分比
+
+## 149. Oct 1, 2025 · 4:47 AM UTC · 1973248304537616406#m
+- 链接：https://twitter.com/diamondhandjs/status/1973248304537616406#m
+- 作者：@diamondhandjs
+
+> 这里赚那里亏
+> 玩半天也就是个Breakeven
+> 头都大了
+
+## 150. Oct 1, 2025 · 4:19 AM UTC · 1973241390076510644#m
+- 链接：https://twitter.com/diamondhandjs/status/1973241390076510644#m
+- 作者：@diamondhandjs
+
+> 抄错币不仅会继续跌，还会让你没钱去追热点把握不住新出现的机会
+
+## 151. Sep 30, 2025 · 9:38 PM UTC · 1973140417177866609#m
+- 链接：https://twitter.com/diamondhandjs/status/1973140417177866609#m
+- 作者：@diamondhandjs
+
+> Santa rally will be starting at 26 of oct
+> If we still have it
+
+## 152. Sep 30, 2025 · 8:53 PM UTC · 1973129018556949001#m
+- 链接：https://twitter.com/diamondhandjs/status/1973129018556949001#m
+- 作者：@diamondhandjs
+
+> 我也抄错了
+
+## 153. Sep 30, 2025 · 8:52 PM UTC · 1973128733117870122#m
+- 链接：https://twitter.com/diamondhandjs/status/1973128733117870122#m
+- 作者：@diamondhandjs
+
+> 这行情抄错B可够难受了
+
+## 154. Sep 30, 2025 · 7:38 PM UTC · 1973110261465915567#m
+- 链接：https://twitter.com/diamondhandjs/status/1973110261465915567#m
+- 作者：@diamondhandjs
+
+> 又追了一点Pump
+> 因为Cathie Wood看好
+> 看好的Time Stamp约为0.0055
+> 坚持不懈的赌博
+
+## 155. Sep 30, 2025 · 5:41 PM UTC · 1973080868726960492#m
+- 链接：https://twitter.com/diamondhandjs/status/1973080868726960492#m
+- 作者：@diamondhandjs
+
+> What is this
+
+## 156. Sep 30, 2025 · 3:45 PM UTC · 1973051570150346870#m
+- 链接：https://twitter.com/diamondhandjs/status/1973051570150346870#m
+- 作者：@diamondhandjs
+
+> wat
+
+## 157. Sep 30, 2025 · 3:29 PM UTC · 1973047475599729034#m
+- 链接：https://twitter.com/diamondhandjs/status/1973047475599729034#m
+- 作者：@diamondhandjs
+
+> i hate this mkt
+
+## 158. Sep 30, 2025 · 12:25 PM UTC · 1973001130922881493#m
+- 链接：https://twitter.com/diamondhandjs/status/1973001130922881493#m
+- 作者：@diamondhandjs
+
+> 新币一天跌60个点
+> 🤮
+> 韭菜保护机制呢
+
+## 159. Sep 30, 2025 · 11:32 AM UTC · 1972987850603012218#m
+- 链接：https://twitter.com/diamondhandjs/status/1972987850603012218#m
+- 作者：@diamondhandjs
+
+> 微信消息不回复的人以后一律mute
+>  
+> 没有例外
+> 再次看到信息的时候不知道是十年以后还是二十年以后看缘分了
+>  
+> 多Mute一些人， 或者直接删了
+> 以后你会感谢我的
+> 在你需要建议的时候，不回复你的人，就是不应该出现在你生命中的人
+> 哪里需要那么多人
+> 你只需要对你的想法有回应的人而已
+
+## 160. Sep 30, 2025 · 10:20 AM UTC · 1972969853922455676#m
+- 链接：https://twitter.com/diamondhandjs/status/1972969853922455676#m
+- 作者：@diamondhandjs
+
+> pump在搞什么
+
+## 161. Sep 30, 2025 · 9:44 AM UTC · 1972960774944649342#m
+- 链接：https://twitter.com/diamondhandjs/status/1972960774944649342#m
+- 作者：@diamondhandjs
+
+> 最近为啥天天有新币啊
+> 这他吗我牛市都没见过的阵仗
+> 现在熊市来了？
+> 几把离谱
+> 管管
+
+## 162. Sep 30, 2025 · 8:23 AM UTC · 1972940423082700858#m
+- 链接：https://twitter.com/diamondhandjs/status/1972940423082700858#m
+- 作者：@diamondhandjs
+
+> 这下舒服了
+> 我的仓位里只有Order涨
+> 其他全暴跌📉
+
+## 163. Sep 30, 2025 · 8:02 AM UTC · 1972935078427934868#m
+- 链接：https://twitter.com/diamondhandjs/status/1972935078427934868#m
+- 作者：@diamondhandjs
+
+> 翻个倍吧哥
+
+## 164. Sep 30, 2025 · 5:51 AM UTC · 1972902123810803877#m
+- 链接：https://twitter.com/diamondhandjs/status/1972902123810803877#m
+- 作者：@diamondhandjs
+
+> 和大家的观点不同，我看Btc四季度前一半时间是高位盘整，然后山寨会拉，也是根据这个下注的
+> 错了再改策略
+
+## 165. Sep 30, 2025 · 5:18 AM UTC · 1972893792765411479#m
+- 链接：https://twitter.com/diamondhandjs/status/1972893792765411479#m
+- 作者：@diamondhandjs
+
+> “Luckily if you accumulated skills in crypto like running a start-up, you can apply that to other industries like AI easily.”
+> Man the only skills founders accumulate here is to scam and dump on others, except for a very small amount of good projects( they won’t pivot to other industry because crypto makes most money and they done good here)
+> Agree with the rest
+
+## 166. Sep 30, 2025 · 4:41 AM UTC · 1972884571667693679#m
+- 链接：https://twitter.com/diamondhandjs/status/1972884571667693679#m
+- 作者：@diamondhandjs
+
+> 国庆长假一个人在家无聊寂寞，上推看性感J$在线开单
+
+## 167. Sep 30, 2025 · 4:11 AM UTC · 1972876973593821360#m
+- 链接：https://twitter.com/diamondhandjs/status/1972876973593821360#m
+- 作者：@diamondhandjs
+
+> 新账户，再接再厉！希望今年还能十倍
+
+## 168. Sep 30, 2025 · 3:51 AM UTC · 1972871816562803080#m
+- 链接：https://twitter.com/diamondhandjs/status/1972871816562803080#m
+- 作者：@diamondhandjs
+
+> the ticker is order
+
+## 169. Sep 30, 2025 · 3:29 AM UTC · 1972866377636815006#m
+- 链接：https://twitter.com/diamondhandjs/status/1972866377636815006#m
+- 作者：@diamondhandjs
+
+> kaito撤了
+> 我要备战金秋十月了
+
+## 170. Sep 29, 2025 · 7:04 PM UTC · 1972739280100536624#m
+- 链接：https://twitter.com/diamondhandjs/status/1972739280100536624#m
+- 作者：@diamondhandjs
+
+> 睡一觉，买了一个爱币，给我成为十月最亮的仔
+
+## 171. Sep 29, 2025 · 7:00 PM UTC · 1972738261811671459#m
+- 链接：https://twitter.com/diamondhandjs/status/1972738261811671459#m
+- 作者：@diamondhandjs
+
+> 这把J$赢了！
+
+## 172. Sep 29, 2025 · 5:45 PM UTC · 1972719480985018546#m
+- 链接：https://twitter.com/diamondhandjs/status/1972719480985018546#m
+- 作者：@diamondhandjs
+
+> 世界是一个巨大的保本出
+
+## 173. Sep 29, 2025 · 5:41 PM UTC · 1972718399231791493#m
+- 链接：https://twitter.com/diamondhandjs/status/1972718399231791493#m
+- 作者：@diamondhandjs
+
+> JS要赢了吗？？ 1.8见兄弟们
+
+## 174. Sep 29, 2025 · 5:36 PM UTC · 1972717006194376966#m
+- 链接：https://twitter.com/diamondhandjs/status/1972717006194376966#m
+- 作者：@diamondhandjs
+
+> 真日了
+
+## 175. Sep 29, 2025 · 5:26 PM UTC · 1972714595707195542#m
+- 链接：https://twitter.com/diamondhandjs/status/1972714595707195542#m
+- 作者：@diamondhandjs
+
+> 操盘的诀窍就是
+> “高控盘”
+> 需要啥技巧？
+> 傻子都会的
+> 别意淫太多
+
+## 176. Sep 29, 2025 · 5:21 PM UTC · 1972713271162782152#m
+- 链接：https://twitter.com/diamondhandjs/status/1972713271162782152#m
+- 作者：@diamondhandjs
+
+> 📉📉📉
+
+## 177. Sep 29, 2025 · 4:20 PM UTC · 1972698052478849213#m
+- 链接：https://twitter.com/diamondhandjs/status/1972698052478849213#m
+- 作者：@diamondhandjs
+
+> 老子的Kaito解套了
+> 跑不跑兄弟们
+> JS 大战 Citadel
+
+## 178. Sep 29, 2025 · 3:38 PM UTC · 1972687381582274645#m
+- 链接：https://twitter.com/diamondhandjs/status/1972687381582274645#m
+- 作者：@diamondhandjs
+
+> 日了一点Eigen
+
+## 179. Sep 29, 2025 · 3:15 PM UTC · 1972681579060228567#m
+- 链接：https://twitter.com/diamondhandjs/status/1972681579060228567#m
+- 作者：@diamondhandjs
+
+> 什么叫走一点，评论区不认字？
+
+## 180. Sep 29, 2025 · 3:09 PM UTC · 1972680162572406901#m
+- 链接：https://twitter.com/diamondhandjs/status/1972680162572406901#m
+- 作者：@diamondhandjs
+
+> ooooorderrrrr
+> Obvious trade isn’t it
+
+## 181. Sep 29, 2025 · 3:08 PM UTC · 1972679796007239969#m
+- 链接：https://twitter.com/diamondhandjs/status/1972679796007239969#m
+- 作者：@diamondhandjs
+
+> 拉太快了兄弟
+> 我先走一点
+
+## 182. Sep 29, 2025 · 9:52 AM UTC · 1972600289397231966#m
+- 链接：https://twitter.com/diamondhandjs/status/1972600289397231966#m
+- 作者：@diamondhandjs
+
+> 赚到多少数字不会让我满身金光
+> 只有你的陪伴才会
+
+## 183. Sep 29, 2025 · 6:37 AM UTC · 1972551253206184002#m
+- 链接：https://twitter.com/diamondhandjs/status/1972551253206184002#m
+- 作者：@diamondhandjs
+
+> 时代的列车滚滚向前
+> 可惜你不是乘客
+> 是燃料 fuel
+> 别犯错了
+
+## 184. Sep 29, 2025 · 3:32 AM UTC · 1972504715373293776#m
+- 链接：https://twitter.com/diamondhandjs/status/1972504715373293776#m
+- 作者：@diamondhandjs
+
+> 大胆假设
+> 小心求证
+> 十月份行情应该不错
+> 回trading desk了
+
+## 185. Sep 29, 2025 · 2:43 AM UTC · 1972492459654647942#m
+- 链接：https://twitter.com/diamondhandjs/status/1972492459654647942#m
+- 作者：@diamondhandjs
+
+> This honestly always better than DAT
+> Higher
+
+## 186. Sep 29, 2025 · 2:22 AM UTC · 1972487092719780090#m
+- 链接：https://twitter.com/diamondhandjs/status/1972487092719780090#m
+- 作者：@diamondhandjs
+
+> kaito好恶心 卧槽
+> 为什么大盘一好你他妈要砸盘？？？
+
+## 187. Sep 28, 2025 · 6:11 PM UTC · 1972363484009832889#m
+- 链接：https://twitter.com/diamondhandjs/status/1972363484009832889#m
+- 作者：@diamondhandjs
+
+> bottom in
+> $pump
+
+## 188. Sep 28, 2025 · 4:54 PM UTC · 1972344249032270285#m
+- 链接：https://twitter.com/diamondhandjs/status/1972344249032270285#m
+- 作者：@diamondhandjs
+
+> Bullish on $aave
+
+## 189. Sep 28, 2025 · 4:51 PM UTC · 1972343302562443458#m
+- 链接：https://twitter.com/diamondhandjs/status/1972343302562443458#m
+- 作者：@diamondhandjs
+
+> 我想赢一次
+
+## 190. Sep 28, 2025 · 4:04 PM UTC · 1972331656142114976#m
+- 链接：https://twitter.com/diamondhandjs/status/1972331656142114976#m
+- 作者：@diamondhandjs
+
+> Asia’s future is stable！
+>  
+> Kaia 正在通过合规与本地合作，构建一个统一的亚洲稳定币生态，服务跨境电商、汇款和旅游支付，目标是成为区域核心基础设施。
+>  
+> 在 KBW 2025，Kaia 提出了三大支柱战略：
+> 1.稳定币编排层：统一跨境支付、收益与流动性基础设施
+> 2.Project Unify 超级应用：与 LINE NEXT 合作，聚合多币种稳定币，覆盖日常支付与 Web3 应用
+> 3.K-STAR 联盟：推动合规、安全、透明的韩元稳定币落地
+>  
+> 这是Kaia 争取在 2030 年成为亚洲 3.7 万亿美元稳定币市场核心枢纽的布局。
+>  
+> 亚洲支付市场虽然分散，但规模庞大，预计到 2030 年，稳定币跨境支付规模将达数万亿美元。Kaia 的战略以“合规优先 + 本地伙伴”为核心，结合 LINE、台湾大哥大等区域企业，推动 Web2 → Web3 的平滑过渡，让用户能在熟悉的界面直接使用稳定币支付、转账和理财。
+
+## 191. Sep 28, 2025 · 3:22 PM UTC · 1972321065394446583#m
+- 链接：https://twitter.com/diamondhandjs/status/1972321065394446583#m
+- 作者：@diamondhandjs
+
+> 左手pump
+> 右手kaito
+> 怎么输
+
+## 192. Sep 28, 2025 · 1:09 PM UTC · 1972287648439189559#m
+- 链接：https://twitter.com/diamondhandjs/status/1972287648439189559#m
+- 作者：@diamondhandjs
+
+> @saltedfish_fish  @ec_unoxx 有其他朋友也想抽但是码太少了，这次对不住了朋友们。等之后有personal referral link之后可以参与我的队伍，可以给到更多Commission 中奖的私信我发你们
+
+## 193. Sep 28, 2025 · 8:40 AM UTC · 1972219838513975766#m
+- 链接：https://twitter.com/diamondhandjs/status/1972219838513975766#m
+- 作者：@diamondhandjs
+
+> 九点公布
+
+## 194. Sep 28, 2025 · 8:35 AM UTC · 1972218552645267847#m
+- 链接：https://twitter.com/diamondhandjs/status/1972218552645267847#m
+- 作者：@diamondhandjs
+
+> 曾经我想过创业做一个Crypto的信息终端，后来我发现我做交易跟擅长一些，就放弃创业的想法了。最近Sentient推出的Sentient Chat太牛了，直接升级了我曾经想创业的方向，目前体验很不错，加密模式很特别，实时访问新闻，币价，和订单簿等代币详情，可能成为加密行业里最适配的ChatGPT, 之前也聊过技术方向上和其他的Ai不同是开源的，赛道很新颖技术方向也会更有机会，可能是Q4最值得期待的项目之一。真正有应用的加密AI项目。同时，我看好没用，Peter Thiel的Foundersfund也押了加密项目里最大投资额，拭目以待项目后续的表现
+> 给大家抽两个码体验一下，不知道后面是否有空投,万一有时候就是这么简单呢
+> 转发就不麻烦了大家点赞评论就可以
+
+## 195. Sep 28, 2025 · 4:43 AM UTC · 1972160184551387319#m
+- 链接：https://twitter.com/diamondhandjs/status/1972160184551387319#m
+- 作者：@diamondhandjs
+
+> Gainzy说四季度是Meme季
+> 那么我能不能期待一下$pump $doge
+> 虽然他说都会outperform doge 但十月历史上都是doge 月份
+
+## 196. Sep 28, 2025 · 4:29 AM UTC · 1972156626783424809#m
+- 链接：https://twitter.com/diamondhandjs/status/1972156626783424809#m
+- 作者：@diamondhandjs
+
+> Where are u
+
+## 197. Sep 28, 2025 · 2:28 AM UTC · 1972126217966178717#m
+- 链接：https://twitter.com/diamondhandjs/status/1972126217966178717#m
+- 作者：@diamondhandjs
+
+> 市场真是注意力的盛宴啊
+> 旱的旱死涝的涝死
+
+## 198. Sep 27, 2025 · 7:19 PM UTC · 1972018393852391731#m
+- 链接：https://twitter.com/diamondhandjs/status/1972018393852391731#m
+- 作者：@diamondhandjs
+
+> $pump to 0.008
+
+## 199. Sep 27, 2025 · 7:10 PM UTC · 1972016036544500013#m
+- 链接：https://twitter.com/diamondhandjs/status/1972016036544500013#m
+- 作者：@diamondhandjs
+
+> 这咋玩啊
+> 好恶心的价格行为
+> 拉黑了
+
+## 200. Sep 27, 2025 · 3:09 PM UTC · 1971955267341595074#m
+- 链接：https://twitter.com/diamondhandjs/status/1971955267341595074#m
+- 作者：@diamondhandjs
+
+> 还是继续守着我的pump

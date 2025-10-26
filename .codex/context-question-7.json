@@ -1,0 +1,20 @@
+{
+  "question": "仓库中哪个子项目最适合接入 ValueScan 数据？",
+  "reason": "需要明确潜在集成点，以便后续规划数据管道与风险策略落地。",
+  "analysis": "从系统架构看，social-monitor 负责多源情报采集与聚合，最贴近 ValueScan 的资金流和告警数据；kronos-defi/trading-engine 专注交易与风控，可在策略执行前引用这些指标。rust-trading-bot 聚焦 Binance Copy Trading，集成外部资讯可能影响其稳定性，优先级较低。",
+  "evidence": [
+    {
+      "path": "ARCHITECTURE.md:54",
+      "details": "业务层模块说明 social-monitor 用于社媒采集与数据聚合，kronos-defi 提供风险管控能力。"
+    },
+    {
+      "path": "apps/social-monitor/README.md:5",
+      "details": "强调统一社交媒体监控、数据聚合与实时分析。"
+    },
+    {
+      "path": "apps/kronos-defi/README.md:22",
+      "details": "列出机构级策略与风险控制，可利用 ValueScan 风险分级过滤交易。"
+    }
+  ],
+  "conclusion": "首选在 social-monitor 的 aggregator 服务中接入 ValueScan 数据做情报补充，并将关键信号同步给 kronos-defi 的交易引擎做风控；rust-trading-bot 可以作为后续阶段再评估的消费方。"
+}

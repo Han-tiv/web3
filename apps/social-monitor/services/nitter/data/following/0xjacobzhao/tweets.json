@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1305907679286587392",
+    "screen_name": "0xjacobzhao",
+    "name": "Jacob Zhao",
+    "description": "Crypto × AI | Research • Writing • Strategy • Investing | ENTJ/INTJ\nex-@ArweaveSCP @Mirana @OKX_Ventures @Indodax\n📬 Subscribe → https://t.co/GYDjFGKOd6",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1539658548824514560/C7NF1XeQ_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1305907679286587392/1748969772",
+    "followers_count": 2570,
+    "friends_count": 2456,
+    "statuses_count": 843,
+    "favourites_count": 464,
+    "listed_count": 61,
+    "location": "decentraland",
+    "website": "https://t.co/NZqHEH08vP",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2020-09-16 00:33:59 +08:00",
+    "url": "https://twitter.com/0xjacobzhao",
+    "rest_id": "1305907679286587392"
+  },
+  "tweets": [
+    {
+      "id": "1899355060725039541#m",
+      "content": "road-to-cryptoai.notion.site…",
+      "timestamp": "Mar 11, 2025 · 7:01 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1899355060725039541#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978836797280092201#m",
+      "content": "🧠 This article is part of the “BroadNotes” research series. If you found it insightful, follow my work across platforms for more deep dives 👇\n📚 Substack: 0xjacobzhao.substack.com\n📚 Paragraph: paragraph.com/@0xjacobzhao\n📚 Mirror: mirror.xyz/zhaotaobo.eth\n\n📰 Columns:\n• Foresight News — @Foresight_News: foresightnews.pro/column/det…\n• PA News — @PANewsCN : panewslab.com/zh/columns/019… \n• ChainCatcher — @ChainCatcher_ chaincatcher.com/specialt/46…\n• ABMedia Taiwan — @ABMedia_Crypto  abmedia.io/author/jacob-zhao\n\n💬 Like, repost, or DM to discuss — let’s keep expanding the frontiers of Web3 × AI × DeFi.",
+      "timestamp": "Oct 16, 2025 · 2:53 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978836797280092201#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978835808858652833#m",
+      "content": "Summary: Business Logic × Engineering × Risks 🧩\n\n📈 Business Model\nComputeFi as the core narrative — connecting hardware → network → financialization\n• Short term: GPU clusters → ZK prover demand\n• Mid term: Dogecoin home ASIC miners → stable cash flow\n• Long term: self-developed ZK/AI ASIC + Node NFTs → compute as a tradable asset\n\n⚙️ Engineering\n• Hardware: GPU acceleration (MSM/FFT) + C1 ASIC (1.3M Keccak/s)\n• Network: Cosmos SDK + PoC verification chain + Compute Cube NFTs\n• AI: Verifiable AI framework, GPU-optimized sumcheck & field arithmetic\n\n⚠️ Risks\n• Market education for ComputeFi model\n• Limited short-term ZK prover demand\n• ASIC R&D (12–18 months + fabrication cost risk)\n• Home miner market cap & consumer limits\n• Verifiable AI differentiation still weak\n\n➡️ ComputeFi is the vision. ASIC is the bet. Ecosystem synergy will define the outcome.",
+      "timestamp": "Oct 16, 2025 · 2:49 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978835808858652833#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978835578889380149#m",
+      "content": "10/ Competitive Landscape ⚙️\n\nDirect Competitors (Hardware Accelerators)\n• @cysic_xyz — GPU→ASIC full-stack + ComputeFi narrative (compute as asset)\n• @IrreducibleHW (ex-Ulvetanna) — zkASIC + novel Binius structure\n• @Ingo_zk — ICICLE SDK = GPU ZK acceleration standard, no custom hardware\n• @FabricCrypto — VPU (Verifiable Processing Unit) = hybrid CUDA + ASIC model\nIndirect Competitors (Prover Networks / zk Coprocessors)\n@SuccinctLabs @boundless_xyz @RiscZero @axiom_xyz\n→ partners today (Cysic provides compute), but may compete in routing/marketplace layer long-term.\n🧩 Cysic Strength: hardware–software integration + ComputeFi narrative\n⚠️ Challenge: hardware mass production & market education",
+      "timestamp": "Oct 16, 2025 · 2:49 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978835578889380149#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978835357618847948#m",
+      "content": "9/ Team & Funding 🔧💰\n\n👤 CEO Leo Fan (@leofanxiong) — former Assistant Professor at Rutgers CS, Cornell PhD, ex-Algorand researcher, with top-tier crypto research published in IEEE S&P, CCS, and Eurocrypt.\n\n🧠 Team: experts in chip design, ZK optimization, and blockchain systems, combining academic depth + engineering execution.\n\n💵 Funding (May 2024): $12M Pre-A\nLed by @HashKey_Capital & @OKX_Ventures\nInvestors: @polychain @IDGCapital MatrixPartnersCN\n@snzholding @ABCDELabs @BitDigital_BTBT @CoinSwitch @Web3com_VC etc",
+      "timestamp": "Oct 16, 2025 · 2:48 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978835357618847948#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978834855052894497#m",
+      "content": "8/ Tokenomics 💠\n\nDual-token system: $CYS (Network) + $CGT (Governance)\n🔹 $CYS — transferable utility token for gas, staking, block rewards & incentives; main reward for Provers/Verifiers.\n🔹 $CGT — non-transferable governance token, minted 1:1 via $CYS staking; reflects compute contribution & long-term participation.\nCompute providers earn through:\nblock rewards + external incentives + compute governance allocation.",
+      "timestamp": "Oct 16, 2025 · 2:46 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978834855052894497#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978834652896088088#m",
+      "content": "7/ Ecosystem Expansion 🌐\n\nCysic integrates across multiple ZK & AI ecosystems:\n• @SuccinctLabs × @boundless_xyz — multi-node Prover, SP1 zkVM proofs, GPU/ASIC acceleration\n• @Scroll_ZKP — early collaborator, >10M proofs generated\n• Token2049: launched DogeBox 1 🐶\n• Phase III: Ignition completed — Testnet finished, Mainnet soon 🚀\n\n🧠 Ecosystem Map:\nzkEVM & zkVM — @zksync @Scroll_ZKP @MantaNetwork @nil_foundation @KakarotZkEvm @RiscZero @axiom_xyz @NexusLabs\nCoprocessors — @HerodotusDev @axiom_xyz\nInfra / Cross-chain — @thezkcloud @ProjectZKM @PolyhedraZK @brevis_zk\nPrivacy & ID — @zkPass @HumanTech\nOracles — @chainlink @blocksense_\nAI — @TalusNetwork @CountableMagic @gensynai @aspecta_ai @inference_labs\n➡️ Cysic is shaping up as the compute backbone for ZK × AI × ComputeFi.",
+      "timestamp": "Oct 16, 2025 · 2:45 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978834652896088088#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978834506024141307#m",
+      "content": "6/ Consumer Market: Dogecoin × Cysic (Home ASIC Miner) 🐶\n\n@dogecoin  uses Scrypt PoW (merged-mined with LTC since 2014). Unlike BTC, DOGE retains a home-miner niche (Goldshell, Fluminer, ElphaPex), blending cash flow + community power.\n\n@cysic_xyz  enters Dogecoin ASIC for 3 key reasons:\n1️⃣ Lower engineering barrier for Scrypt ASIC (test mass production)\n2️⃣ Mature mining cash flow for stable revenue\n3️⃣ Builds supply chain + brand foundation for future ZK/AI chips\n\nAt Token2049, @cysic_xyz  launched DogeBox 1 — a plug-and-play verifiable home compute terminal for DOGE mining + ZK verification.",
+      "timestamp": "Oct 16, 2025 · 2:44 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978834506024141307#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978834261697601725#m",
+      "content": "5/ Financialization Perspective: ComputeFi via Node NFTs 💠\n\n@cysic_xyz  tokenizes GPU/ASIC compute power via Digital Compute Cube NFTs —\neach NFT = a verifiable node license + yield + governance right.\n🧱 Compute Cube = Yield + Governance + Access\n📊 Supply: 29,000 NFTs\n💰 16.45M $CYS distributed (1.65% of total supply)\n🔓 Vesting: 50% TGE + 50% over 6 months\n⚙️ Perks: Multiplier boost (up to 1.2×), priority tasks, governance weight\nAvailable on OKX NFT Marketplace.",
+      "timestamp": "Oct 16, 2025 · 2:43 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978834261697601725#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978834075151372650#m",
+      "content": "4/ AI Perspective: @cysic_xyz  AI = Cloud Services × AgentFi × Verifiable AI 🤖\n\n@cysic_xyz  AI builds a three-layer framework:\n1️⃣ Serverless Inference — standardized inference API supporting Llama3, QwQ, Phi-4, Llama-Guard, enabling low-friction access & enterprise-grade deployment. (Foundation: Usable)\n2️⃣ Agent Marketplace — decentralized AI Agent platform enabling the “Trend → Creation → On-chain” loop. (Application: Usable)\n3️⃣ Verifiable AI — ZKP + GPU for cryptographically provable inference, achieving 52× CPU performance & 10× model speed-up. (Strategic Moat: Verifiable)",
+      "timestamp": "Oct 16, 2025 · 2:43 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978834075151372650#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978833830728593428#m",
+      "content": "3/ Protocol Perspective: @cysic_xyz  Network — A Proof Layer under PoC Consensus\n\nCysic Network uses a 4-layer modular architecture:\n1️⃣ Hardware Layer — CPU, GPU, ASIC, portable devices\n2️⃣ Consensus Layer — Cosmos CDK + modified CometBFT + Proof-of-Compute (PoC)\n3️⃣ Execution Layer — EVM-compatible smart contracts for task routing\n4️⃣ Product Layer — ZK, AI, Mining, HPC\n\n🧩 PoC = Compute is Consensus\nValidator weight = compute contribution + stake → unifying computational & economic security.\n\n• Prover (Compute Core) — High-intensity proof generation, 10 CYS collateral, GPU/ASIC or Digital Harvester hardware.\n• Verifier (Light Participant) — Lightweight validation tasks, 0.5 CYS stake, runs on PC/Server/Android.",
+      "timestamp": "Oct 16, 2025 · 2:42 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978833830728593428#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978833465966780442#m",
+      "content": "2/ @cysic_xyz  Hardware Perspective: \n\nAt the heart of ZK bottlenecks:\n→ GPUs offer flexibility & cost efficiency\n→ ASICs deliver extreme performance & energy efficiency\nCysic adopts a dual-track GPU + ASIC strategy.\n\n🔹 GPU Track: General SDK + ZKPoG full-stack acceleration\n• General GPU SDK: Built on a custom CUDA framework, compatible with Plonky2, Halo2, Gnark, etc.\n• ZKPoG (Zero-Knowledge Proof on GPU): Co-developed with Tsinghua University — end-to-end GPU acceleration from witness generation to polynomial computation.\n\n🔹 ASIC Track:\nCysic’s planned C1 chip (zkVM-based, high-bandwidth + programmable).\nHardware roadmap:\n• ZK Air — portable accelerator, plug-and-play form factor\n• ZK Pro — high-performance system for zkRollup, zkML, etc.",
+      "timestamp": "Oct 16, 2025 · 2:40 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978833465966780442#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978833123078221826#m",
+      "content": "1/ Three Routes of ZK Hardware Acceleration ⚙️\n\n• GPU — general-purpose & mature (CUDA/PyTorch), best current option but limited by memory/bandwidth.\n• FPGA — flexible & low-latency, great for iteration but poor scale economics.\n• ASIC — custom-built for max efficiency; once ZK standards settle, it becomes the endgame.\n\n📈 ZK Hardware Roadmap Consensus:\nShort term → GPU for market capture\nMid term → FPGA for verification & iteration\nLong term → ASIC as the ultimate moat",
+      "timestamp": "Oct 16, 2025 · 2:39 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978833123078221826#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978832631279046714#m",
+      "content": "🚀 @cysic_xyz  Report: The ComputeFi Path of ZK Hardware Acceleration\n\nZero-knowledge proofs (ZK) power blockchain scalability & privacy — but proof generation is still costly. That’s why ZK hardware acceleration matters.\n💡 GPU = flexible & fast\n⚙️ ASIC = ultimate efficiency\n🔧 FPGA = programmable middle ground\nTogether, they form the hardware base for ZK adoption.\n\n-Cysic builds a GPU + ASIC dual-track network with PoC consensus & Compute Cube NFTs, turning compute into on-chain assets (ComputeFi).\n-Cysic AI expands into Verifiable AI & Serverless Inference.\n-DogeBox 1 — a portable ASIC miner — bridges ZK + consumer markets.\n\nThe report also analyzes ecosystem partnerships, tokenomics, and competitors — summarizing Cysic’s business logic, engineering execution, and long-term risks.\n#ZK #ComputeFi #ASIC #AI",
+      "timestamp": "Oct 16, 2025 · 2:37 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978832631279046714#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978753750866198994#m",
+      "content": "🧠 本文为「博闻札记 BroadNotes」系列内容\n\n如果你觉得这类内容对你有启发，\n欢迎关注我在以下平台的专栏更新 👇\n📚 Substack｜0xjacobzhao.substack.com\n📚 Paragraph｜paragraph.com/@0xjacobzhao\n📚 Mirror｜mirror.xyz/zhaotaobo.eth\n\n📰 媒体专栏\n• Foresight News — @Foresight_News  foresightnews.pro/column/det…\n• PA News — @PANewsCN  panewslab.com/zh/author/0196…\n• 链捕手 — @ChainCatcher_ chaincatcher.com/specialt/46…\n• 鏈新聞 ABMedia — @ABMedia_Crypto  abmedia.io/author/jacob-zhao\n\n💬 欢迎点赞、转发或私信交流，\n一起拓展更多 Web3 × AI × DeFi 的认知边界。",
+      "timestamp": "Oct 16, 2025 · 9:23 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978753750866198994#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978753070650872269#m",
+      "content": "总结：商业逻辑 × 工程实现 × 潜在风险 🧩\n\n📈 商业逻辑\nCysic 以 ComputeFi 为核心叙事，打通算力从硬件生产 → 网络调度 → 金融化资产的闭环：\n• 短期：GPU 集群承接 ZK Prover 需求形成营收\n• 中期：Doge 家庭 ASIC 矿机验证量产与现金流\n• 长期：自研 ZK/AI ASIC + Node NFT，实现算力资产化与市场化，构筑基础设施护城河\n\n⚙️ 工程实现\n• 硬件层：完成 GPU 加速（MSM/FFT 并行化），C1 ASIC 原型达 1.3M Keccak/s\n• 网络层：基于 Cosmos SDK 构建 PoC 验证链 + Compute Cube/Node NFT 算力代币化\n• AI 层：推出 Verifiable AI 框架，GPU 优化 Sumcheck 与有限域运算，实现可信推理\n\n⚠️ 潜在风险\n• ComputeFi 模式尚需市场教育\n• ZK Prover 市场早期，ASIC 出货与回报周期长\n• ASIC 开发周期（12–18 个月）＋流片成本高\n• 家庭矿机市场容量有限，偏向兴趣消费\n• Verifiable AI 差异化与壁垒仍不足",
+      "timestamp": "Oct 16, 2025 · 9:21 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978753070650872269#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978752528906125659#m",
+      "content": "10/ ZK 硬件加速竞品分析 ⚙️\n\n直接竞品（硬件加速型）\n• @cysic_xyz  — GPU→ASIC 全栈布局，主打 ComputeFi：算力金融化 + 实时 ZK 证明网络\n• @IrreducibleHW  (ex-Ulvetanna) — 推出 Binius 数学结构 + zkASIC，科研导向强\n• @Ingo_zk  — 推出 ICICLE SDK 成 GPU 加速标准，无自研硬件\n• @FabricCrypto  — 打造通用加密计算芯片 VPU，走「CUDA + NVIDIA」式软硬一体路线\n\n间接竞品（Prover Network / zk Coprocessor）\n@SuccinctLabs、@boundless_xyz、@RiscZero、@axiom_xyz\n→ 当前为合作关系（Cysic 供算力），但长期在任务路由与 Marketplace 层可能竞争。\n🧩 Cysic 的优势： 软硬件一体化 + ComputeFi 叙事\n⚠️ Cysic 的挑战： 硬件量产与市场教育。",
+      "timestamp": "Oct 16, 2025 · 9:19 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978752528906125659#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978751559694766405#m",
+      "content": "9/ 团队与融资 🔧💰\n👤 CEO @leofanxiong   — 前罗格斯大学计算机系助理教授，康奈尔博士，曾任 Algorand 研究员 & 马里兰大学博士后。研究聚焦密码学与硬件加速，在 IEEE S&P、CCS、Eurocrypt 等顶会发表多篇论文。\n🧠 团队背景：成员来自芯片设计、ZK 优化与区块链系统方向，兼具学术与产业经验。\n\n💵 融资：2024.5 完成 $12M Pre-A，\n领投：@HashKey_Capital @OKX_Ventures \n参投：@polychain @IDGCapital MatrixPartnersCN @snzholding  @ABCDELabs @BitDigital_BTBT @CoinSwitch  @Web3com_VC 等。",
+      "timestamp": "Oct 16, 2025 · 9:15 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978751559694766405#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978750772507717856#m",
+      "content": "8/ Cysic 代币经济模型 💠\n\nCysic 采用双代币体系：$CYS（网络）＋ $CGT（治理）\n🔹 $CYS — 可转让资产，用于交易费、节点质押、区块奖励与激励，是 Prover/Verifier 的主要收益来源。\n🔹 $CGT — 不可转让治理代币，通过质押 $CYS 1:1 获得，反映算力贡献与长期参与度。\n\n算力提供者接入 Cysic Network，为 ZK、AI、Mining 等任务服务，收益来自：区块奖励＋外部激励＋算力治理分配。",
+      "timestamp": "Oct 16, 2025 · 9:12 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978750772507717856#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978750294919176400#m",
+      "content": "7/ Cysic 生态布局与核心进展 🌐\n\nCysic 正加速融入多线生态：\n• @SuccinctLabs × @boundless_xyz — 多节点 Prover，承接 SP1 zkVM 实时任务，提供 GPU/ASIC 加速\n• @Scroll_ZKP — 早期合作，累计生成超千万级证明\n• Token2049 发布 DogeBox 1 🐶家用级 Scrypt ASIC\n• Phase III: Ignition 🚀 测试网收官，主网在即\n\n生态拓展版图 🧠\nzkEVM&zkVM：@zksync @Scroll_ZKP @MantaNetwork @nil_foundation @KakarotZkEvm\n@SuccinctLabs @RiscZero @NexusLabs @axiom_xyz\nCoprocessor：@HerodotusDev @axiom_xyz\nInfra / 跨链：@thezkcloud @ProjectZKM @PolyhedraZK @brevis_zk\n身份与隐私：@zkPass Human.tech\n预言机：@chainlink @blocksense_\nAI：@TalusNetwork @CountableMagic @gensynai @aspecta_ai @inference_labs",
+      "timestamp": "Oct 16, 2025 · 9:10 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978750294919176400#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978748069228531996#m",
+      "content": "6/ 消费场景：家庭 ASIC 矿机（Doge × Cysic） 🐶\n@dogecoin  采用 Scrypt PoW，自 2014 年与 LTC 合并挖矿（AuxPoW），形成「共享算力 + Meme 文化」双轮驱动。在完全 ASIC 化的矿币中，DOGE 是除 BTC 外最具社区粘性的代表。与 BTC 矿场化不同，DOGE 仍保留家庭矿机空间——Goldshell、Fluminer、ElphaPex 等轻量产品让它兼具 现金流与社群属性。\n\nCysic × Doge：务实落点 + 战略铺垫 ⚙️\n1️⃣ Scrypt ASIC 难度低，可验证量产与交付\n2️⃣ 挖矿市场成熟，带来稳定现金流\n3️⃣ 为未来 ZK/AI 芯片积累供应链与品牌经验\n\nCysic 于 Token2049 发布 DogeBox 1 家庭矿机。",
+      "timestamp": "Oct 16, 2025 · 9:01 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978748069228531996#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978746751378198928#m",
+      "content": "5/ 金融化视角：NFT 化算力入口与 ComputeFi 节点 💠\n\nCysic 将 GPU、ASIC 等高性能算力资产 代币化，推出 “Digital Compute Cube” Node NFT ——既是网络节点许可（verifiable license），也是收益与治理凭证。\n\n🧱 Compute Cube = 收益权 + 治理权 + 参与权\n📊 共 29,000 枚｜分配 1,645 万 $CYS\n🔓 解锁：50% TGE + 50% 六个月线性释放\n⚙️ 权益：Multiplier 加速、任务优先权、治理权重\n💰 售卖结束，可在 OKX NFT Marketplace 交易",
+      "timestamp": "Oct 16, 2025 · 8:56 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978746751378198928#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978746021443412234#m",
+      "content": "4/ AI 视角：Cysic AI = 云服务 × AgentFi × 可信推理 🤖\n\nCysic AI 构建三层路径：\n\n🧩 1️⃣ Serverless Inference — 标准化推理 API，支持 Llama3、QwQ、Phi-4、Llama-Guard 等主流模型，低门槛接入、企业级推理基础设施。 (基础入口 · 能用)\n\n⚙️ 2️⃣ Agent Marketplace — 去中心化 AI Agent 市场，实现「趋势 → 生成 → 上链」闭环。 (链上实验 · 能应用)\n\n🔐 3️⃣ Verifiable AI — ZKP + GPU 驱动可信推理，52× CPU 性能、10× 模型加速，让结果“数学可证”。 (长期壁垒 · 可验证)",
+      "timestamp": "Oct 16, 2025 · 8:53 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978746021443412234#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978743986035839375#m",
+      "content": "3/协议视角：Cysic Network \nPoC 共识下的通用 Proof Layer \nCysic Network 自底向上采用 四层架构：\n1️⃣ 硬件层：CPU、GPU、ASIC、便携设备算力基础。\n2️⃣ 共识层：基于 Cosmos 改良 CometBFT + PoC；\n3️⃣ 执行层：EVM 智能合约执行任务调度与负载路由。\n4️⃣ 产品层：对接 ZK、AI、Mining、HPC 的多域市场。\n\nPoC = 计算即共识 ：节点以算力 + 质押获得权重，实现 计算安全性 + 经济安全性统一。\n\n➡ 网络的算力核心：Prover（证明者）\n负责高强度计算与区块级证明生成，\n需抵押 10 CYS，运行 GPU/ASIC 或 Digital Harvester，\n\n➡ 低门槛参与：Verifier（验证者）\n执行轻量验证任务，增强网络安全性，\n抵押仅 0.5 CYS，PC/Server/Android 均可运行。",
+      "timestamp": "Oct 16, 2025 · 8:45 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978743986035839375#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978742131255922909#m",
+      "content": "2/硬件视角：ZK 加速的底层壁垒\n\n在零知识证明（ZK）的计算瓶颈中，\n→ GPU 具备灵活性与成本效率；\n→ ASIC 拥有极致能效与性能上限。\nCysic 选择 ASIC 创新 + GPU 加速 的双线并进策略，\n\nGPU 路线：通用 SDK + ZKPoG 全流程栈\nCysic 在 GPU 方向推进两条主线：\n• 通用 GPU SDK：基于自研 CUDA 框架，兼容 Plonky2、Halo2、Gnark 等主流系统；\n• ZKPoG（Proof on GPU）：与清华大学合作研发，实现从 witness 生成到多项式计算的端到端 GPU 加速。\n\nASIC 路线：Cysic规划的C1 芯片基于zkVM 架构，兼具高带宽与灵活可编程性。规划两款硬件产品：\n• ZK Air — 便携式加速器，体积如充电器，即插即用；\n• ZK Pro — 高性能系统，面向 zkRollup、zkML 等大规模任务。",
+      "timestamp": "Oct 16, 2025 · 8:37 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978742131255922909#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978740145248784524#m",
+      "content": "1/ ZK硬件加速的三大路线\n\n• GPU：通用并行 + 成熟生态（CUDA/PyTorch）。AI/游戏规模效应带来高 Perf/$，是ZK阶段性最优方案。但受显存与带宽限制，Perf/W 与规模化仍有天花板。\n\n• FPGA：可重构、低时延、适合算法快速迭代。Paradigm 曾看好其“甜蜜点”，但吞吐/成本难敌 GPU、ASIC，定位于原型验证与细分场景。\n\n• ASIC：专用电路、极致能效。比特币到DOGE已验证数量级性能；ZK一旦标准化，ASIC 有望带来 10–100× 加速，重塑算力基建。\n\n📈 ZK 硬件加速路线共识\n短期：GPU 抢市场 — 成本低、生态成熟、迭代快，是现阶段最优解。\n中期：FPGA 做验证 — 适合低时延与原型验证，但难匹配 GPU 的经济性。\n长期：ASIC 构筑护城河 — 随 ZK 标准固化，凭极致性能与能效成为行业终局。",
+      "timestamp": "Oct 16, 2025 · 8:29 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978740145248784524#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978733029150605583#m",
+      "content": "🚀Cysic研报：ZK 硬件加速的ComputeFi之路\n零知识证明（ZK）是区块链实现扩容与隐私计算的核心技术，但其证明生成过程效率低、成本高，在此背景下，ZK硬件加速成为破局的关键：其中，GPU 凭借通用性和快速迭代能力占据当下主流；ASIC 以极致能效和性能瞄准规模化的终极形态；FPGA 则作为灵活可编程的中间方案，三者共同构建起支撑ZK落地的硬件基石。\n\n本文深度剖析 Cysic Network：项目通过 GPU 与 ASIC 双线布局的硬件加速，结合基于 PoC 共识 构建的去中心化算力网络（ Prover/Verifier 节点驱动），并创新性地以 Compute Cube 节点 NFT 实现算力金融化（ComputeFi），将算力转化为可交易的链上资产。同时，Cysic AI 在 可验证AI（Verifiable AI） 与 无服务器推理（Serverless Inference） 上拓展应用边界。此外，为验证其ASIC工程能力，Cysic 推出了 DogeBox 1 便携矿机，融合 DOGE 挖矿 与 ZK 验证切入消费级市场。报告亦全面评估了 Cysic 的生态合作、双代币经济模型，并对整个 ZK 硬件加速市场的竞争格局进行了对比分析，总结了其商业逻辑、工程实现及潜在风险。",
+      "timestamp": "Oct 16, 2025 · 8:01 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978733029150605583#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978647636996657343#m",
+      "content": "x.com/i/article/197849766433…",
+      "timestamp": "Oct 16, 2025 · 2:22 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978647636996657343#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978647498903413018#m",
+      "content": "x.com/i/article/197847007164…",
+      "timestamp": "Oct 16, 2025 · 2:21 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978647498903413018#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978430670390133237#m",
+      "content": "Announcing Pico Prism, the state-of-the-art zkVM for Ethereum real-time proving. 99.6% of blocks proven under 12 seconds, 6.9s average with 64 RTX 5090 GPUs.\n\nThis marks a major step toward scaling Ethereum by 100x and a future where you can validate the chain from a phone.",
+      "timestamp": "Oct 15, 2025 · 12:00 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978430670390133237#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1978302914285236570#m",
+      "content": "Thanks for the upcoming surprise, @monad! 🎁",
+      "timestamp": "Oct 15, 2025 · 3:32 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1978302914285236570#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976494438445920514#m",
+      "content": "🧠 This article is part of the “BroadNotes” research series. If you find this content insightful, follow my work across platforms for more deep dives:\n\n🌐 Substack｜0xjacobzhao.substack.com/p/g…\n📝 Paragraph｜paragraph.com/@0xjacobzhao\n🪞 Mirror｜mirror.xyz/zhaotaobo.eth\n\n📰 Foresight News Column (@Foresight_News)｜foresightnews.pro/column/det…\n📡 PA News Column (@PANewsCN)｜panewslab.com/zh/author/0196…\n🔗 ChainCatcher Column (@ChainCatcher_)｜chaincatcher.com/specialt/46…\n🇹🇼 ABMedia Taiwan (@ABMedia_Crypto)｜abmedia.io/ai-compute-to-tok…\n\n💬 Like, repost, or DM to discuss — let’s keep expanding the frontiers of Web3 × AI × DeFi.",
+      "timestamp": "Oct 10, 2025 · 3:46 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976494438445920514#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976493258919620724#m",
+      "content": "🔟 Business Logic & Key Risks\n\n🧩 RWAiFi Model:\nGAIB turns AI infra into composable finance —\nReal Assets → Tokenized Cash Flow → DeFi Optimization\n\n📊 Core Mechanisms:\n• SPC structure = off-chain financing → on-chain yield\n• Debt (10–20%) / Revenue-share (60–80%+)\n• Risk controls: collateral, reserves, insurance, GPU custody\n\n⚠️ Risks to Watch:\n• Market cycles (AI + crypto correlation)\n• SME credit defaults\n• Smart contract / oracle exploits\n• Regulatory uncertainty in AI financing\n\nTransparency ≠ No Risk.\nGAIB makes it visible, priced, and composable.\n#AI #RWA #DeFi #Transparency",
+      "timestamp": "Oct 10, 2025 · 3:41 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976493258919620724#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976492545464279402#m",
+      "content": "9️⃣ Team & Funding\n@gaib_ai’s core team combines deep expertise in capital markets, AI infrastructure, and DeFi innovation from @l2iterative · @HuobiGlobal · @AvaLabs · @BinanceLabs · @GoldmanSachs etc.\n\n🧠 Kony Kwong (@konyk001) — CEO\n🔬 Jun Liu — CTO\n☁️ Alex Yeh (@alex_yehya) — Advisor (GMI Cloud CEO)\n💼 Mathilda Sun (@Mathilda_Sun_) — Strategy\n\n💰 Funding Milestones\n2024 Dec — $5M Pre-Seed led by @hack_vc · @FactionVC · @hashed_official \nWith participation from:\n@TheSpartanGroup · @l2iterative · @CMCC_Global · @animocabrands · @ivcryptofund · @MH_Ventures · @Presto_Labs · @J17Crypto · @IDGCapital · @AethirCloud · @NEARProtocol \n2025 Jul — $10M Strategic led by @ambergroup_io",
+      "timestamp": "Oct 10, 2025 · 3:38 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976492545464279402#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976491180373442612#m",
+      "content": "8️⃣ Ecosystem = Compute × Robotics × DeFi\n\n💠 Compute (GPU Infra) Partners:\n🏢 Sovereign / Enterprise Clouds: GMI, Siam.AI\n🌐 DePIN Networks: @AethirCloud, PaleBlueDot.AI\n\n🤖 Robotics (Embodied AI):\nTokenizing robotics operations via SPV collateral + cash flow mapping.\n⚙️ @PrismaXai: “Robots as miners,” monetizing motion data\n🔗 @openmind_agi: FABRIC network + OM1 OS for identity & trusted data\n🤝 @campnetworkxyz · @GoKiteAI\n\n🧩 DeFi Layer (Yield Optimization):\nIntegrating AID/aAID into leading protocols:\n💠 @pendle_fi → PT/YT split (~15% fixed)\n💠 @Equilibriafi / @Penpiexyz_io → yield boosters\n💠 @MorphoLabs → PT-AIDa as collateral\n💠 @CurveFinance → AIDaUSDC/USDC pools\n💠 @CIAN_protocol + @TakaraLend → BTCfi × AI Yield (Sei)\n💠 @WandProtocol → Cross-chain PT/YT (Story)\nChains: @ethereum  · @arbitrum  · @base  · @SeiNetwork  · @StoryProtocol  · @BNBCHAIN  · @plumenetwork",
+      "timestamp": "Oct 10, 2025 · 3:33 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976491180373442612#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976490498782310466#m",
+      "content": "7️⃣Transparency — On-Chain × Off-Chain Assets\n\n🌐 Dashboard: aid.gaib.ai/transparency\n📊 @DefiLlama: defillama.com/protocol/tvl/g…\n📈 @Dune: dune.com/gaibofficial\n\nAs of Oct 2025 ⤵️\n💰 Total AUM: $175.29M\n• T-Bills: $124.9M (71%, ~4% yield)\n• GPU + Robotics: $50.4M (29%, 15–30% yield)\n\nOff-chain Allocations:\n🇹🇭 Siam.AI — $30M @15% APY\n🤖 Robotics Financing — $15M @15% APY\n🇺🇸 US Neocloud — $5.4M @30% APY\n\n📈 Pipeline: $725M booked → $2.5B+ projected (1–2 yrs)\n• GMI Cloud (Asia $200–300M)\n• EU / UAE GPU Cloud ($60M / $80M)\n• N. America Neocloud ($15M / $30M)\n• Robotics Providers ($20M)",
+      "timestamp": "Oct 10, 2025 · 3:30 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976490498782310466#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976489097050149268#m",
+      "content": "6️⃣ Onchain: AID & sAID — The Dual-Token Model\n\n💵 AID = AI Synthetic Dollar (backed by T-Bills)\n• Minted when capital enters\n• Burned on redemption\n• Stable, non-yielding\n💹 sAID = Staked AID (yield certificate)\n• Auto-accruing real yield (GPU + T-Bill income)\n• No manual compounding — 1:1 redemption with accumulated gain\n🪙 Dual structure = separation of stability & yield\nComparable models:\n\nEthena: USDe / sUSDe (derivative yield)\nLido: ETH / stETH (staking yield)\nGAIB: AID / sAID (real-world GPU yield)",
+      "timestamp": "Oct 10, 2025 · 3:24 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976489097050149268#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976488869362290938#m",
+      "content": "5️⃣ Offchain: Tokenization & Risk Framework\n\n🏗 SPC Structure bridges real-world financing → on-chain certificates. \nFour Defense Layers:\n🧱 30% over-collateralization\n💧 5–7% liquidity reserve\n🛡 Credit insurance\n🔁 Default recourse (liquidate / re-lease GPU)\n\n→ Transparent · Auditable · Securitized · Investable",
+      "timestamp": "Oct 10, 2025 · 3:24 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976488869362290938#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976488379429863435#m",
+      "content": "4️⃣ GAIB’s Economic Layer — AI × DeFi\n @gaib_ai tokenizes financing contracts, not hardware.\nEnterprise GPUs / robots = off-chain collateral → on-chain liquidity.\n📡 Off-chain = real cash flows\n💻 On-chain = AID (stable) + sAID (yield)\n\nGAIB = Real Assets × DeFi Liquidity × Financial Innovation.",
+      "timestamp": "Oct 10, 2025 · 3:22 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976488379429863435#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976487982627684759#m",
+      "content": "3️⃣ Robotics RWA — The Next Frontier\nRobotics (>$185B by 2030) is entering tokenization.\n\n1️⃣ Hardware finance / RaaS leases\n2️⃣ Data rights monetization for Embodied AI\n3️⃣ Supply-chain financing on-chain\n\n⚙️ Success depends on utilization, maintenance & policy.  Requires shorter tenors + higher collateral + reserve buffers.",
+      "timestamp": "Oct 10, 2025 · 3:20 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976487982627684759#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976487577319571928#m",
+      "content": "2️⃣ Why GPUs Come First\nGPUs are the most RWA-ready AI asset:\n① clear pricing  ② secondary liquidity  ③ real productivity  ④ narrative fit (AI × DeFi)\n\nYet, traditional banks still don’t finance AI compute centers—they don’t understand the model.\nSMEs are excluded.\n\nGPU RWA doesn’t remove credit risk — it prices it transparently.\n✅ High demand\n✅ Recoverable hardware\n✅ Predictable value\n✅ Short cycles (3–36 months)\n\n👉 Turning real compute into tradable yield.",
+      "timestamp": "Oct 10, 2025 · 3:18 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976487577319571928#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976487104839381028#m",
+      "content": "1️⃣ The Outlook for AI RWAs\nTraditional RWAs (U.S. Treasuries, equities, gold) dominate for their liquidity and regulatory clarity.\nNon-standard assets—infra, carbon credits, private credit—face opaque valuation and enforcement risks.\n\n💡 Why tokenize?\n• On-chain transparency → no black-box funds\n• Layered yield (interest + Pendle PT/YT + liquidity premium)\n• SPC structures enable bankruptcy isolation\n\n🧩 AI-Infra RWA Map\nGPU / TPU / ASIC → standardized\nCompute Leases → predictable cash flow\nRobotics → high-value, scenario-based\nData Centers → stable infra income\nEnergy PPAs → ESG, long-term yield\n\n➡ Short-term: GPUs & compute leases\n➡ Mid-term: data centers, energy contracts\n➡ Long-term: robotics & RaaS service contracts",
+      "timestamp": "Oct 10, 2025 · 3:17 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976487104839381028#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976484676081725489#m",
+      "content": "🚀 GAIB Research: Financializing the AI Infrastructure Economy\n\nAI becomes the world’s next tech revolution, compute power is the new “currency.” RWAization is bridging real GPU & robotics assets into crypto finance.\n\n💡 Enter @gaib_ai’s RWAiFi (RWA + AI + DeFi)\nGAIB brings off-chain GPU & robotics financing on-chain via SPC structure:\n• AID = AI Synthetic Dollar (stability & liquidity)\n• sAID = yield certificate (real yield from AI infra)\n🧠 The Vision: Compute × Robotics × RWA × DeFi → a new financial layer for AI.\n\n📊 Full report below ⬇️",
+      "timestamp": "Oct 10, 2025 · 3:07 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976484676081725489#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976268505554223443#m",
+      "content": "🧠 本文为「博闻札记 BroadNotes」系列内容\n如果你觉得这类内容对你有启发，欢迎关注我在以下平台的专栏更新：\n\n🌐 Substack｜0xjacobzhao.substack.com/p/g…\n📝 Paragraph｜paragraph.com/@0xjacobzhao/\n🪞 Mirror｜mirror.xyz/zhaotaobo.eth\n\n📰 @Foresight_News 专栏｜foresightnews.pro/column/det…\n📡 PA News 专栏 @PANewsCN｜panewslab.com/zh/author/0196…\n🔗链捕手专栏@ChainCatcher_: chaincatcher.com/specialt/46…\n🇹🇼 鏈新聞 / @ABMedia_Crypto  Taiwan：abmedia.io/ai-compute-to-tok…\n\n💬 欢迎点赞、转发或私信交流，\n一起拓展更多 Web3 × AI × DeFi 的认知边界。",
+      "timestamp": "Oct 9, 2025 · 12:48 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976268505554223443#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976266793296724390#m",
+      "content": "10/商业逻辑及潜在风险\n\n商业逻辑：RWAiFi 模型\nGAIB 通过链上化把 AI 资产转化为可组合金融产品：\n 真实资产 → 现金流证券化 → DeFi 优化。\n资产端：GPU、机器人 = 高价值硬件 + 可预测现金流\n资金端：AID/sAID 双币模型分离稳定与收益\n生态端：Compute + Robotics 双引擎推动 AI 金融化\n\n核心机制\n📊 SPC结构：链下融资协议 → 链上收益凭证\n💰 融资模式：债务（10–20%）/ 分成（60–80%+）\n🔒 风控：超额抵押、现金储备、信用保险、GPU托管\n通过 Pendle、Morpho、Curve 协议实现跨链收益优化。\n\n主要风险\n⚠️ 市场波动：收益受AI与加密周期影响\n⚠️ 信用风险：中小型融资方违约概率高\n⚠️ 技术安全：合约漏洞与预言机攻击\n⚠️ 合规不确定：跨境AI融资监管模糊\n透明 ≠ 无风险，GAIB 让风险更可见、可定价、可组合。",
+      "timestamp": "Oct 9, 2025 · 12:41 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976266793296724390#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976265791713743002#m",
+      "content": "9/团队背景及项目融资\n\n@gaib_ai  团队汇聚来自 @l2iterative、@HuobiGlobal、@AvaLabs、@BinanceLabs、@GoldmanSachs 等机构的专家，在传统金融与加密金融两端积累深厚经验。\n\nCEO — Kony Kwong (@konyk001)\nCTO — Jun Liu (@junliu)\n顾问 — Alex Yeh (@alex_yehya)\n战略 — Mathilda Sun (@Mathilda_Sun_)\n\n融资里程碑（Pre-Seed）\n💰 2024年12月，Pre-Seed 融资 $5M\n领投：@hack_vc @FactionVC @hashed_official\n参投：@TheSpartanGroup @l2iterative @CMCC_Global @animocabrands\n@ivcryptofund @MH_Ventures @Presto_Labs @J17Crypto @IDGCapital @AethirCloud @NEARProtocol 等\n💰 2025年7月，战略融资 $10M\n领投：@ambergroup_io",
+      "timestamp": "Oct 9, 2025 · 12:37 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976265791713743002#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976262781772104168#m",
+      "content": "8/生态体系 = 算力 × 机器人 × DeFi\n\n💠 GPU算力：真实AI算力资产上链\nGAIB 已合作的 GPU 服务商包括：\n🏢 主权级/企业级云：GMI、Siam.AI\n🌐 去中心化网络：@AethirCloud 、PaleBlueDot.AI\n\n🤖 机器人：具身智能的链上融资，通过 SPV 抵押与现金流映射，实现机器人硬件与运营的金融化。\n⚙️ @PrismaXai  ：“机器人即矿机”。通过遥操作平台连接操作员与数据需求方。\n🔗 @openmind_agi  ：提供 FABRIC 网络 + OM1 操作系统，构建机器人身份、可信数据共享与多模态集成。\n@campnetworkxyz @GoKiteAI \n\n🧩 DeFi：收益拆分与跨链集成\nAID / aAID 资产接入多类 DeFi 协议，通过收益拆分、流动性挖掘、借贷与杠杆，形成跨链、多层收益体系。\n💠 @pendle_fi  ：拆分 PT/YT；PT 固定收益约15%。\n💠 @Equilibriafi  / @Penpiexyz_io  ：收益增强器\n💠 @MorphoLabs  ：PT-AIDa 可抵押借出 USDC。\n💠 @CurveFinance  ：AIDaUSDC/USDC 流动池。\n💠 @CIAN_protocol   + @TakaraLend   (Sei)：结合 BTCfi 与 AI Yield。\n💠 @WandProtocol   (Story)：跨链PT/YT结构。\n多链覆盖：Ethereum、Arbitrum、Base、Sei、Story、BNB、Plume",
+      "timestamp": "Oct 9, 2025 · 12:25 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976262781772104168#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976260583164096569#m",
+      "content": "7/GAIB 链上资金与链下资产透明度:\n🌐 官网：aid.gaib.ai/transparency\n📊 @DefiLlama: defillama.com/protocol/tvl/g…\n📈 @Dune : dune.com/gaibofficial\n\n截至 2025 年10月：\n💰 总AUM：$175.29M\n• T-Bills 储备：$124.9M（71%，~4%收益）\n• GPU+Robotics 融资：$50.4M（29%，15–30%收益）\n\n链下资产分布（Off-chain）\nGAIB 的链下融资与链上资金保持一致：\n• 🇹🇭 Siam.AI：$30M（15%年化）\n• 🤖 Robotics Financing：$15M（15%年化）\n• 🇺🇸 US Neocloud Provider：$5.4M（30%年化）\n\nGAIB 目前储备项目总量约 $725M，\n预计未来 1–2 年可扩张至 $2.5B+。\n• GMI Cloud（亚洲 $200–300M）\n• 欧洲 / 阿联酋 GPU 云（$60M / $80M）\n• 北美 Neocloud Providers（$15M / $30M）\n• 机器人资产提供方（$20M）",
+      "timestamp": "Oct 9, 2025 · 12:16 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976260583164096569#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976259275954717023#m",
+      "content": "6/链上：AID合成美金、sAID 收益机制\n\n1️⃣ AID：AI合成美金（AI Synthetic Dollar）\nAID = 由美债储备支持的链上合成美元。\n💵 资金流入 → 铸造AID\n💵 收益分配 / 赎回 → 销毁AID\nAID本身不生息，只承担稳定计价与流通职能。\n\n2️⃣ sAID：流动性收益凭证（Staked AID）\n当用户将AID质押成 sAID 时，就能分享来自GPU/机器人融资与国债的真实收益。收益以 sAID/AID兑换比率 体现，⏳ 无需额外操作，持有即可自动增值。\n\n3️⃣ 双币逻辑：稳定与收益分离\nAID 和 sAID 的关系类似：Ethena：USDe / sUSDe 或 Lido：ETH / stETH，但区别在于：GAIB 的 sAID 收益来自 GPU融资 + 国债，而不是对冲套利或Staking收益。",
+      "timestamp": "Oct 9, 2025 · 12:11 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976259275954717023#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976258292952486267#m",
+      "content": "5/ 链下：GPU资产代币化标准及风险管理机制\n\n1️⃣ SPC结构：桥接链下现金流与链上收益\nGAIB采用 Segregated Portfolio Company（SPC）结构，将链下GPU融资协议映射为链上可流通凭证。\n\n2️⃣ GAIB在代币化融资中设置了四重防线：\n🧱超额抵押：维持约 30% 资产缓冲\n💧现金储备：5% 独立账户，确保利息支付违约缓冲\n🛡 信用保险：与合规保险机构合作，分担违约风险\n🔁违约处置：违约时可清算 GPU托管继续产出现金流\n\n✅制定标准与尽调体系，构建了从资产选择 → 风控结构 → 链上映射的完整标准。目标是让 GPU 融资具备：\n合规可审计、透明可追踪、收益可拆分、风险可定价",
+      "timestamp": "Oct 9, 2025 · 12:07 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976258292952486267#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976256817098522910#m",
+      "content": "4/\n@gaib_ai  不直接“代币化硬件”，而是将 企业级 GPU / 机器人融资合同 上链，连接链下现金流与链上资本市场。\n\n📡 链下：GPU、机器人资产作为抵押\n💻 链上：AID 与 sAID 管理价值与收益\n\n经济逻辑总结\nGAIB = 真实资产 × DeFi 流动性 × 金融创新\n把 GPU、机器人、国债的真实现金流\n转化为链上可流通、可分拆、可杠杆的收益资产。",
+      "timestamp": "Oct 9, 2025 · 12:01 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976256817098522910#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976255639040196650#m",
+      "content": "3/ 机器人资产RWA化的前沿探索】\n在AI硬件之外，机器人产业正进入RWA化视野。\n\n【1️⃣ 机器人硬件融资】为生产与部署提供资金支持，回报来自：租赁收入、直接销售、Robot-as-a-Service（RaaS）运营收益，现金流通过SPC结构+保险覆盖上链，降低违约与处置风险。\n\n【2️⃣ 数据流金融化】具身智能（Embodied AI）模型需要大量真实世界数据。可通过融资支持传感器部署和分布式数据采集网络，并将数据使用权或授权收入Token化。\n\n【3️⃣ 生产与供应链融资】机器人产业链冗长，涉及零部件、制造、物流。通过贸易融资释放营运资金，并将未来货物流与现金流映射上链，形成更透明的金融闭环。\n\n⚖️ 相比GPU资产，机器人RWA更依赖：\n👉实际运营能力、使用率与维护水平、监管与政策环境\n👉因此应采取：更短期限、更高超额抵押、更大储备金比例，以确保收益稳定与流动性安全。",
+      "timestamp": "Oct 9, 2025 · 11:57 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976255639040196650#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976253846122004597#m",
+      "content": "2/【GPU资产RWA化的优先价值】在众多非标AI资产中，GPU 是最具可行性与探索价值的方向之一。\n\n⚙️GPU资产具备四大天然优势：\n① 标准化与残值明确——主流型号定价清晰；\n② 二手市场活跃——违约时可部分回收；\n③ 真实生产力属性——与AI需求直接挂钩；\n④ 叙事契合——AI + DeFi 双重热点。\n\n🏦然而融资现实很残酷，AI算力数据中心太新，传统银行难以理解其商业模式，因此无法提供贷款支持。中小型AI企业被排除在外，融资渠道严重不足。\n\n⚠️需要指出：GPU RWA 并不能消除信用风险。\n优质企业能以更低成本从银行融资，不一定需要上链；\n而选择代币化融资的，多为中小企业，违约风险更高。\n\n🔍 尽管存在风险，GPU资产仍具优势：\n✔️ 高需求——AI持续扩张驱动需求；\n✔️ 可回收性——硬件可二次流通；\n✔️ 残值明确——具备实际资产底；\n✔️ 短周期融资——回本期仅3–36月。\n\n🧱 GPU RWA 的意义不在“消灭风险”，而是让风险更透明、可定价、可交易。链接现实经济与DeFi的桥梁。",
+      "timestamp": "Oct 9, 2025 · 11:50 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976253846122004597#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976252621951467996#m",
+      "content": "1/ 【AI资产RWA化的展望】\n美债、美股、黄金等标准资产在RWA长期占据核心地位。这类资产流动性深、估值透明、合规路径明确，是链上“无风险利率”的天然载体。相比之下，非标资产RWA化面临更高不确定性，挑战在链下执行力与回收机制。\n\n⚙️RWA化的积极意义：\n(1) 链上资产与合约透明化，避免“资金池黑箱”；\n(2) 收益结构更丰富（利息+Pendle PT/YT+二级市场）；\n(3) SPC结构带来破产隔离，风险更可控。\n\n📊AI资产RWA化方向概览：\nGPU/TPU/ASIC：标准化高，残值明确；\nCompute Lease：收益合同化，可预测；\nRobotics：高价值资产，场景化强；\nData Center：稳定基建现金流；\nEnergy PPA：ESG属性，长期稳健收益。\n\n• 短期：以GPU等算力硬件与Compute Lease为核心；\n• 中期：扩展至数据中心与能源合同；\n• 长期：机器人硬件与服务合同突破特定场景。",
+      "timestamp": "Oct 9, 2025 · 11:45 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976252621951467996#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976250576905326674#m",
+      "content": "🧵《GAIB研报：AI 基建的链上金融化之路—RWAiFi》\n\nAI 正在成为全球最快增长的技术浪潮，算力被视为新的“货币”。GPU 等高价值硬件却长期面临融资与流动性不足的问题。#AI #GPU\n\nDeFi 需要真实现金流资产，RWA 化正成为连接传统金融与加密市场的关键桥梁。AI 基建=「高价值硬件+可预测现金流」，是非标资产 RWA 的最佳切入。#RWA #DeFi\n\n@gaib_ai  提出的 RWAiFi（RWA + AI + DeFi）路径，推动“AI基建 (算力与机器人) x RWA x DeFi”的飞轮效应。\n#AI #RWA #DeFi #GPU #Robotics #GAIB",
+      "timestamp": "Oct 9, 2025 · 11:37 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976250576905326674#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976241231735689480#m",
+      "content": "【🚀產品技術｜GAIB 將算力變收益：打造 AI 資產上鏈新路徑 】\n#GAIB #AI #Compute @0xjacobzhao\n\n📍請見報導：\nabmedia.io/ai-compute-to-tok…",
+      "timestamp": "Oct 9, 2025 · 11:00 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976241231735689480#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1976238326622613908#m",
+      "content": "🚀感謝 鏈新聞 @ABMedia_Crypto 為我的研報開設專欄，首個台灣媒體合作。\nGrateful to @ABMedia_Crypto for launching my first dedicated research column — expanding my coverage to Taiwan’s blockchain media landscape \n🔗 abmedia.io/author/jacob-zhao",
+      "timestamp": "Oct 9, 2025 · 10:48 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1976238326622613908#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1975865259970961556#m",
+      "content": "x.com/i/article/197584496840…",
+      "timestamp": "Oct 8, 2025 · 10:06 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1975865259970961556#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1975843565210407249#m",
+      "content": "x.com/i/article/197582475162…",
+      "timestamp": "Oct 8, 2025 · 8:39 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1975843565210407249#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1975238158536310889#m",
+      "content": "🧠 This article is part of the “BroadNotes” research series.  If you find it insightful, feel free to follow my columns on the platforms below:\n📰 Substack: substack.com/home/post/p-173…\n📰 Paragraph: paragraph.com/@0xjacobzhao/\n📰 Mirror: mirror.xyz/zhaotaobo.eth",
+      "timestamp": "Oct 6, 2025 · 4:34 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1975238158536310889#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1975237489402277975#m",
+      "content": "11/\n💡 Investment Thesis & Risks\n✅ Bull Case\n• Technical moat: FedML → TensorOpera → ChainOpera (full academic-to-industry continuum)\n• User traction: AI Terminal with hundreds of K DAU, top BSC AI DApp.\n• Ecosystem alliances: Co-AI Alliance + Samsung multi-modal GenAI partnership.\n• Token model: PoI + five value flows; 1% fee loop → sustainable incentive design.\n\n⚠️ Risks\n• Tech: five-layer stack is complex; distributed training performance needs validation.\n• Users: retention & long-term developer supply still uncertain.\n• Business: revenue relies on fees & token cycles; stable cash flow yet to form; mobile/hardware ecosystem still nascent.",
+      "timestamp": "Oct 6, 2025 · 4:31 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1975237489402277975#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1975237265774514524#m",
+      "content": "10/\n📊 Federated Learning & AI Agent Landscape\nOpen-source layer\n• FedML – full-stack & industry-ready\n• Flower – lightweight, community active\n• TFF – academic-focused\n• OpenFL – healthcare/finance compliance\n👉 FedML = industrial benchmark; others more niche.\n\nInfra layer (commercial platforms)\n• @TensorOpera FedML – GPU scheduling + FL + MLOps\n• Hugging Face – model / dataset community\n• W&B – experiment management + collaboration\n👉 TensorOpera ≈ “Hugging Face for Federated AI”.\nInnovation layer (Web3 integration)\n• @ChainOpera – full-stack AI Agent network (Infra + Apps + Social + Dev) → user as co-creator\n• @flock_io – blockchain-enhanced FL for privacy & validation\n👉 ChainOpera → application/network layer; Flock → training/infrastructure layer.\nAgent network comparison\n• @ChainOpera_AI – FL heritage; model-compute-Agent closed-loop; explores multi-Agent collaboration via Agent Social Network.\n• @autonolas – DAO-native autonomous services network; its Pearl layer offers composable DeFi Agents.\n👉 ChainOpera = integrated stack; Olas = autonomous service network.",
+      "timestamp": "Oct 6, 2025 · 4:30 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1975237265774514524#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1975237054855626915#m",
+      "content": "9/\n@ChainOpera_AI — Team & Funding\n👥 Core Team\n• Prof. Salman Avestimehr (@avestime) — USC Dean’s Professor, FedML CEO, IEEE Fellow, 300+ papers / 30 K citations.\n• Dr. Aiden Chaoyang He (@AidenChaoyangHe) — USC PhD, FedML creator, ex-Meta/Amazon/Google, 13 K citations.\n40+ team members from Berkeley, Stanford, MIT, Tsinghua, Google, Amazon, Tencent, Meta, Apple.\n\n💰 Funding\n• Dec 2024 — $3.5 M seed round\n• Total raised w/ @TensorOpera > $17 M\n• Leads: @FinalityCap, @RoadCapMgmt, @IDGCapital\n• Backers: ABCDE, @ambergroup_io, @Modular_Capital, Camford VC\n• Supporters: @Sparkle_VC, Plug & Play, USC, EigenLayer’s @sreeramkannan, BabylonChain’s @dntse, @JeffRenOKX and others.",
+      "timestamp": "Oct 6, 2025 · 4:29 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1975237054855626915#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1975236807613911529#m",
+      "content": "8/\n@ChainOpera_AI — Token & Governance\n• CoAI Protocol + Proof-of-Intelligence (PoI): verifiable reward distribution.\n• Value flows: LaunchPad | Agent API | Model Serving | Contribution | Training.\n• Participants: users, developers, compute/data providers, DAO.\n• Mechanism: 1% platform fee recycled into incentives & liquidity.\n• Governance: DAO + reputation system → open, fair, collaborative AI economy.",
+      "timestamp": "Oct 6, 2025 · 4:28 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1975236807613911529#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1975236671756227024#m",
+      "content": "7/\n@ChainOpera_AI — Roadmap\nVision: AGI will emerge from multi-modal, multi-agent collaboration.\n• Phase 1 — Compute → Capital: GPU DePIN, federated/distributed training, model router, incentives for compute/model/data providers.\n• Phase 2 — Apps → Collaborative AI Economy: AI Terminal / Marketplace / Social; CoAI protocol + credit system; user–developer matching.\n• Phase 3 — Collaborative → Crypto-Native AI: DeFi, RWA, Payments, E-Commerce; domain-specific LLMs; Agent-to-Agent wallet & payments.\n• Phase 4 — Ecosystem → Autonomous AI Economies: sub-networks governed by tokens; cross-subnet coordination; expansion to robotics & autonomous systems.",
+      "timestamp": "Oct 6, 2025 · 4:28 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1975236671756227024#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1975236508119699705#m",
+      "content": "6/\n@ChainOpera_AI — Core Products Overview\nPositioned as the “Decentralized OpenAI”, with 4 pillars:\n📱 AI Terminal: decentralized ChatGPT + assistant\nBNB Chain live — 158.9 K users / 2.6 M tx (30 days).\nTurns users from consumers → co-creators.\n🌐 Agent Social Network: LinkedIn + Messenger for Agents.\nEnables Agent-to-Agent collaboration across finance, commerce, gaming, research.\n\n🛠 Developer Platform: no-code, modular creation; on-chain ownership; DePIN + cloud infra; marketplace for distribution & incentives.\n🖥 Model & GPU Platform: DePIN + Federated Learning → distributed GPU & data market; end-to-end MLOps.\nVision: from “Big Tech monopoly” → “community co-build”.",
+      "timestamp": "Oct 6, 2025 · 4:27 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1975236508119699705#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1975236340628496455#m",
+      "content": "5/\n FedML → the technical core (open-source FL)\n @TensorOpera → commercialized full-stack AI infra\n @ChainOpera_AI → takes TensorOpera on-chain, leveraging Web3 incentives & governance so that users, developers, and GPU/data providers co-create and co-own the AI network.\n👩‍💻 Co-creators: Agent devs, tool/service providers, model builders, GPU/data contributors\n→ Three key supplies: development + compute + data\n🤝 Co-owners: Agent creators (design/deploy/maintain) + community participants (holding Access Units)\n→ Demand + supply → shared value model\n🌐 Ecosystem partners\n• AI Terminal App (wallet + aggregator)\n• Agent Platform (low-code / multi-framework)\n• TensorOpera (training & inference)\n• FedML (cross-institution privacy training)\n\n📱 Hardware gateways: DeAI Phone, wearables, Robot AI\n🖥 Platform stack:\n• @TensorOpera GenAI → MLOps + Scheduler + Compute\n• FedML Platform → enterprise-grade FL\n• FedML Open Source → world-leading ML library",
+      "timestamp": "Oct 6, 2025 · 4:26 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1975236340628496455#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1975236109455270383#m",
+      "content": "4/\n🖥 TensorOpera’s 3-layer architecture:\n• Compute Layer: distributed training/inference, FL aggregation\n• Scheduler Layer: GPU market + smart orchestration, “Share & Earn” incentives, DePIN/Web3-ready\n• MLOps Layer: model serving, AI Agent tools, studio — lowering entry barriers (Anyscale/Together/Modal equivalent)\nMarch 2025 → upgraded into a full-stack Agent-centric platform:\n• Application Layer: multi-agent ChatGPT-like interface\n• Framework Layer: graph-based MAS, orchestrator/router → “Agentic OS”\n• Platform Layer: integrated with FedML → distributed service, RAG optimization, hybrid edge-cloud deployment",
+      "timestamp": "Oct 6, 2025 · 4:26 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1975236109455270383#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1975235969239707675#m",
+      "content": "3/\n🔹 FedML — originated from a USC research team.\n→ One of the first open frameworks for federated & distributed learning.\n→ Academia: Featured in NeurIPS, ICML, AAAI.\n→ Industry: Widely adopted in healthcare, finance, and privacy-sensitive AI.\nAs commercial demand grew, FedML evolved into @TensorOpera —\n👉 A full-stack AI infrastructure for enterprises & developers.\nBuilt upon FL, expanded to:\n• GPU Marketplace\n• Model Services\n• MLOps\n→ Positioning itself for the LLM + Agent era.",
+      "timestamp": "Oct 6, 2025 · 4:25 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1975235969239707675#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1975235790604296472#m",
+      "content": "2/\n⚙️ Three layers of the AI Agent protocol stack:\nInfrastructure Layer → technical foundation\n• Agent Framework / Agent OS\n• Agent DID (identity)\n• Agent Wallet & Abstraction (account / execution)\n• Agent Payment & Settlement (payment / clearing)\n\nCoordination Layer → collective intelligence\n• Agent Orchestration → centralized workflow control\n• Agent Swarm → distributed collaboration\n• Agent Incentive Layer → economic coordination\nApplication Layer → real-world deployment\n• Distribution: Launchpad / Marketplace / Plugin Network\n• Application: AgentFi / Native DApps / AaaS\n• Consumer: social or lifestyle-driven Agents",
+      "timestamp": "Oct 6, 2025 · 4:24 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1975235790604296472#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1975235451029266801#m",
+      "content": "🧵 From Federated Learning to Decentralized Agent Networks: The @ChainOpera_AI  Deep Dive\n\n1/\n📊 Three paradigms of AI training:\n• Distributed → efficiency & scale → highly centralized\n• Federated Learning → privacy & compliance → controlled decentralization\n• Fully Decentralized → censorship-resistant, open collaboration → trustless networks\nKey pain points: privacy loss | communication overhead | weak incentives / fault tolerance\n🔹 Federated Learning (FL) = local data + global parameter aggregation\n🔹 Enables privacy-preserving collaboration (healthcare, finance)\n🔹 Bridges distributed and decentralized training — foundational to Agent Networks.\nReference: The Holy Grail of Crypto AI – Frontier of Decentralized Training\n localhost:8080/0xjacobzhao/status/193…",
+      "timestamp": "Oct 6, 2025 · 4:23 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1975235451029266801#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1973786449083511076#m",
+      "content": "Final Day Friday Schedule @token2049\n\n🏃‍♂️ AM Run & Workout w/ @BanklessVC\n luma.com/0w07rkgf?tk=10a3Fp\n🌐 Network State Conference: Singapore @thenetworkstate\n luma.com/ns2025?tk=kkdQ2u\n🍴 Private Press Luncheon @aztecnetwork\n luma.com/kn3496q9?tk=vUoKFr\n🧠 Open Intelligence Day – Token2049 @Gradient_HQ\n luma.com/8f6zob2d?tk=zePKK8",
+      "timestamp": "Oct 2, 2025 · 4:25 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1973786449083511076#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1973712234439409946#m",
+      "content": "Thanks @xhunt_ai for adding me to the Chinese AI KOL list, Depth may be the enemy of traffic, but I’d rather stay away from fluff & fake followers — building unique, deep-dive research only. 🚀",
+      "timestamp": "Oct 2, 2025 · 11:30 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1973712234439409946#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1973711699397226915#m",
+      "content": "感谢@BiteyeCN 我把加入AI KOL榜单，虽然深度是流量的敌人，但还是要不水文不刷粉做独一无二的深度投研内容。",
+      "timestamp": "Oct 2, 2025 · 11:28 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1973711699397226915#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1973569712383730168#m",
+      "content": "Thursday schedule @token2049 \n\nStablecoin Summit Singapore 2025 @Scroll_ZKP \ntickets.stablecoinsummit.com\n\nArweave Day Asia 2025 @ArweaveEco \nluma.com/ArweaveDayAsia25?tk…\n\nToken2049 AI Web3 after Party @BiteyeCN \nluma.com/2049party?tk=DXPzqD\n\nThe Open Bottle @akashnet_ @gensynai \nluma.com/TheOpenBottle?tk=Bs…\n\nOpen AGI Dance Party Singapore @SentientAGI \nluma.com/glcr93bb?tk=TG23bE",
+      "timestamp": "Oct 2, 2025 · 2:04 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1973569712383730168#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1973044718562054333#m",
+      "content": "Wednesday schedule @Token2049 — already exhausted, but hopefully I can pull it off. 😆\n\nAgents Day | Token2049 | Singapore 🇸🇬 \n luma.com/agentsday-singapore…\nRWAiFi Connect • Bites & Insights – Redefining Finance in the Age of AI & Robotics @gaib_ai \n luma.com/RWAiFiSummitToken20…\nBittensor Conclave: Singapore 2025 \n luma.com/0a2ye5or?tk=fUc6Ca\nether.fi X Arthur Hayes and Friends Present: The Evolution of DeFi \n luma.com/i0egcmvu?tk=WtL1hC\nAgents Unleashed: The Next Wave | TOKEN2049 \n luma.com/h0zgn96s?tk=SNJHKc",
+      "timestamp": "Sep 30, 2025 · 3:18 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1973044718562054333#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1972675540877467696#m",
+      "content": "Tuesday schedule @Token2049\nSo many side events — here are my top picks. Probably impossible to attend them all, but I’ll try!\n\n<d/acc day> @ Art Science Museum @ethereumfndn \n luma.com/pdvc1qmr?tk=SfcaCk\nLongHash Web3 Forum @LongHashVC \n luma.com/p4l772o7?tk=YDtejh\n🇸🇬 Re(fundamentals) 2025  @alt_layer \n luma.com/77ih7k2f?tk=UtJPVI\nOpen Robotics AI Forum | Singapore @openmind_agi \n luma.com/0q598l1q?tk=UTE8zr\nAgentFi Demo Day | BUIDL_QUESTS 2025 @ambergroup_io  \n luma.com/g6yp0sx1?tk=pUwfot\nLemniscap Portfolio Day Token2049 @Lemniscap \n luma.com/q5qv3ij9?tk=2xkM8h",
+      "timestamp": "Sep 29, 2025 · 2:51 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1972675540877467696#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1972356548874932675#m",
+      "content": "Monday schedule @token2049 — keeping it simple, let’s meet up!\n\nVerifying Intelligence: Where ZK Meets AI @HouseofZK @boundless_xyz\n🔗 luma.com/ae6uqqvw?tk=qe5ePE\n\nEthereum Research Forum @ethereum_sg\n🔗 luma.com/kjskwc19?tk=YxiUFl\n\nAmber Premium x Fenbushi Capital — Exclusive Soirée in Singapore @ambergroup_io @fenbushi\n🔗 luma.com/7vuhvhgp?tk=bKdnpP",
+      "timestamp": "Sep 28, 2025 · 5:43 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1972356548874932675#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1972354876438089867#m",
+      "content": "Met @VitalikButerin over the weekend and had great chats with friends who shared lots of interesting ideas. @shanhaiwoo",
+      "timestamp": "Sep 28, 2025 · 5:37 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1972354876438089867#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1971267650576846914#m",
+      "content": "Had a one-day trip with @shanhaiwoo  to visit @balajis  's @thenetworkstate  in Forest City, then wrapped up my latest research report draft tonight. @token2049  week is about to kick off—switching from deep research mode to full social mode. Excited for a fruitful journey ahead!",
+      "timestamp": "Sep 25, 2025 · 5:36 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1971267650576846914#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970315287477256604#m",
+      "content": "🧠 本文为 「博闻札记 BroadNotes」 系列内容。\n如果你觉得有启发，欢迎关注我在以下平台的专栏更新：\n📰 Substack：0xjacobzhao.substack.com/p/a…\n📰 Paragraph：paragraph.com/@0xjacobzhao/\n📰Mirror：mirror.xyz/zhaotaobo.eth\n\n📰 @Foresight_News  专栏\n foresightnews.pro/column/det…\n📰 @PANewsCN  专栏\n panewslab.com/zh/author/0196…\n📰 @ChainCatcher_ 专栏chaincatcher.com/specialt/46…\n \n📷 欢迎 点赞、转发，或 私信交流，一起拓展更多 Web3 认知边界。 📩",
+      "timestamp": "Sep 23, 2025 · 2:32 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970315287477256604#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970313624494522430#m",
+      "content": "11/ \n投资逻辑 & 风险分析\n✅ 投资逻辑\n• 技术护城河：FedML → TensorOpera → ChainOpera\n• 用户规模：AI Terminal 高日活，BSC AI 类目 Top1\n• 生态合作：CO-AI Alliance + 三星多模态 GenAI\n• 代币模型：PoI + 五大价值流，1% 服务费循环，可持续\n\n⚠️ 潜在风险\n• 技术：五层架构跨度大，分布式推理/训练性能待验证\n• 用户：生态活跃度与留存仍需观察，能否长期供给？\n• 商业：收入主要靠服务费+代币循环，稳定现金流不足；移动端/硬件生态前景不明",
+      "timestamp": "Sep 23, 2025 · 2:25 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970313624494522430#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970312842265141430#m",
+      "content": "10/ \n联邦学习 & AI Agent 市场格局\n📌 开源框架层\n• FedML：全栈最强，适合产业落地\n• Flower：轻量易用，社区活跃\n• TFF：偏学术实验，产业化弱\n• OpenFL：医疗/金融，强调隐私合规\n👉 FedML = 工业级全能路径，其他多局限\n\n🖥 平台层 (产业化 Infra)\n• @TensorOpera  FedML，全栈 (GPU 调度 + FL + MLOps)\n• Hugging Face：模型/数据社区, \n• W&B：实验管理 + 协作工具\n👉 TensorOpera ≈ “FedML 的 Hugging Face”\n\n🚀 创新层 (Web3 结合)\n• @ChainOpera：全栈 AI Agent 平台，入口+社交+开发+Infra，推动用户从“消费者” → “共创者”\n• @flock_io  ：区块链增强型 FL，偏隐私计算 & 数据/算力验证\n👉 前者偏应用/网络层，后者偏底层训练\n\n🤝Agent 网络对比\n• @ChainOpera_AI  ：联邦学习基因 → 模型/算力/Agent 全栈闭环；以 Agent Social Network 探索多智能体协作\n• @autonolas  Network：DAO 协作 + DeFi 生态；Pearl 提供可组合的 Agent 服务（如 DeFi 收益）\n👉 一个偏全栈闭环，一个偏自主服务网络",
+      "timestamp": "Sep 23, 2025 · 2:22 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970312842265141430#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970311888476279120#m",
+      "content": "9/ \n@ChainOpera_AI  团队 & 融资概览\n\n👥 核心团队\n• Prof. Salman Avestimehr @avestime （USC, FedML CEO，IEEE Fellow，论文 300+，引用 30K+）\n• Dr. Aiden Chaoyang He @AidenChaoyangHe （USC 博士，FedML 创始人，前 Meta/Amazon/Google，引用 13K+）\n团队 40+，背景覆盖 Berkeley、Stanford、MIT、清华，以及 Google、Amazon、Tencent、Meta、Apple。\n\n💰 融资情况\n• 2024/12 完成 $3.5M 种子轮\n• 与 @TensorOpera  累计融资 $17M+\n• 领投：@FinalityCap、@RoadCapMgmt、@IDGCapital\n• 跟投：ABCDE、@ambergroup_io、@Modular_Capital、Camford 等\n• 支持：@Sparkle_VC、Plug & Play、USC、EigenLayer 创始人@sreeramkannan、BabylonChain 联合创始人@dntse、OKX投资人及高管@JeffRenOKX 等",
+      "timestamp": "Sep 23, 2025 · 2:18 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970311888476279120#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970309660713591002#m",
+      "content": "8/\n@ChainOpera_AI  代币激励与协议治理\n🔹 CoAI 协议 + PoI → 透明可验证的贡献奖励\n🔹 价值流：LaunchPad｜Agent API｜Model Serving｜Contribution｜Training\n🔹 参与者：用户、开发者、算力&数据提供者、DAO\n🔹 机制：平台 1% 服务费循环 → 激励 & 流动性\n🔹 治理：DAO + 声誉系统，确保开放、公平、协作",
+      "timestamp": "Sep 23, 2025 · 2:10 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970309660713591002#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970308874218737902#m",
+      "content": "7/\n@ChainOpera_AI  路线图规划\n愿景：AGI 来自 多模态 + 多智能体协作网络。\n\n🔹 阶段一基础设施：GPU DePIN + 联邦/分布式训练、模型路由器、 激励算力/模型/数据提供方\n🔹 阶段二应用生态：AI Terminal / Marketplace / Social、 CoAI 协议 + 信用体系、用户 ↔ 开发者高频交互\n🔹 阶段三Crypto-Native AI：落地 DeFi / RWA / 支付 / 电商、专用金融 LLM、Agent-to-Agent 钱包 & 支付\n🔹 阶段四自治子网经济：应用/算力/模型子网独立治理、跨子网协作 → 协同生态、延展至机器人/自动驾驶",
+      "timestamp": "Sep 23, 2025 · 2:06 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970308874218737902#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970307802209108014#m",
+      "content": "6/\n@ChainOpera_AI  核心产品速览\n定位 = 去中心化版 OpenAI，四大模块：\n\n📱 AI Terminal：去中心化 ChatGPT + 助手\nBNBChain 已上线 → 近30日用户 158.9K、交易量 260万，用户从“消费者” → “智能共创者”\n\n🌐 Agent Social Network：AI Agent 的 LinkedIn + Messenger，支持 Agent-to-Agent 协作，覆盖金融/电商/游戏/研究，推动单 Agent → 协作网络\n\n🛠 Developer Platform：零代码 & 模块化开发，链上合约保障所有权，DePIN + 云算力 + Marketplace，开发者快速触达用户 & 激励透明\n\n🖥 Model & GPU Platform：DePIN + 联邦学习 → 分布式 GPU + 数据市场，端到端 MLOps\n愿景：从“大厂垄断” → “社区共建”",
+      "timestamp": "Sep 23, 2025 · 2:02 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970307802209108014#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970306631562039786#m",
+      "content": "5/\nFedML = 技术内核（开源联邦学习）\n@TensorOpera  = 商业化全栈 AI Infra\n@ChainOpera_AI  = 把 TensorOpera “上链”，借 Web3 激励与治理，让用户/开发者/GPU&数据提供者 共创 + 共治，AI Agent 不只是被使用，而是被共同拥有\n\n👩‍💻 共创者 (Co-creators)： Agent 开发者、工具/服务方、 模型开发者、GPU/数据贡献者\n三大供给 = 开发 + 算力 + 数据 → 驱动生态成长\n\n🤝 共有人 (Co-owners)：Agent 创作者：设计/上线/维护、Agent 参与者：持有 Access Units，推动使用\n→ 供给端 + 需求端，共享价值\n\n🌐 生态伙伴\n• AI Terminal：钱包 + 聚合平台\n• Agent Platform：低代码/多框架\n• TensorOpera：训练 & 推理\n• FedML：跨机构隐私训练\n\n📱 硬件入口：DeAI Phone、可穿戴、Robot AI\n\n🖥 平台与基座\n• @TensorOpera GenAI → MLOps + Scheduler + Compute\n• FedML Platform → 企业级联邦学习\n• FedML Open Source → 全球领先开源库",
+      "timestamp": "Sep 23, 2025 · 1:58 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970306631562039786#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970305408318533911#m",
+      "content": "4/\n🖥 TensorOpera 三层架构\nCompute 层：分布式训练/推理、联邦学习、聚合服务\nScheduler 层：GPU 市场 & 智能调度，Share & Earn 激励，兼容 DePIN/Web3\nMLOps 层：Model Serving、AI Agent、Studio → 降低门槛，对标 Anyscale/Together/Modal\n\n2025年3月升级 → 面向 AI Agent 的全栈平台\n• 应用层：类 ChatGPT 的多智能体入口\n• 框架层：图结构多智能体系统，Orchestrator/Router 演进为 “Agentic OS”\n• 平台层：与 FedML 融合 → 分布式服务、RAG 优化、端云混合部署",
+      "timestamp": "Sep 23, 2025 · 1:53 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970305408318533911#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970305096518074876#m",
+      "content": "3/\n🔹 FedML 起源于 USC 学术团队\n→ 最早的联邦学习 & 分布式训练开源框架之一\n→ 学界：频繁出现在 NeurIPS/ICML/AAAI\n→ 业界：医疗、金融、边缘 AI、隐私场景标杆工具链\n\n随着商业化需求增长，FedML → @TensorOpera \n👉 面向企业与开发者的 全栈 AI 基础设施平台\n在保留联邦学习能力的同时，扩展至：\n• GPU Marketplace\n• 模型服务\n• MLOps\n切入 LLM 与 Agent 时代更大市场",
+      "timestamp": "Sep 23, 2025 · 1:51 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970305096518074876#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970303798716571973#m",
+      "content": "2/\nAI Agent 协议栈三层：\n🔹 基础设施层 → 技术根基\n• Agent Framework / Agent OS\n• Agent DID（身份）\n• Agent Wallet & Abstraction（账户/执行）\n• Agent Payment & Settlement（支付/结算）\n\n⚙️ 协调调度层 → 群体智能\n• Agent Orchestration：中心化指挥\n• Agent Swarm：分布式协作\n• Agent Incentive Layer：经济激励\n\n📱 应用分发层 → 场景落地\n• 分发：Launchpad / Marketplace / Plugin\n• 应用：AgentFi、原生 DApp、AaaS\n• 消费：社交型 / 消费型 Agent",
+      "timestamp": "Sep 23, 2025 · 1:46 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970303798716571973#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970302549015306537#m",
+      "content": "🧵 从联邦学习到去中心化 Agent：ChainOpera 项目解析\n\n1/\n📊 AI的三种训练范式：\n• 分布式：效率/规模 → 高度中心化\n• 联邦学习：隐私合规 → 受控去中心化\n• 去中心化：抗审查、开放性 → 完全去中心化\n各自痛点：隐私缺失 | 通信开销 | 激励/容错不足\n\n🔹 联邦学习（FL）= 数据留本地 + 参数聚合\n🔹 满足医疗/金融隐私合规\n🔹 位于分布式训练 & 去中心化训练之间\n👉 为 Agent Network 提供了可复用的协作经验。\n\n参考阅读：Crypto AI的圣杯：去中心化训练的前沿探索localhost:8080/0xjacobzhao/status/193…",
+      "timestamp": "Sep 23, 2025 · 1:41 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970302549015306537#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970068676318744729#m",
+      "content": "8/ Over the past 5 days we’ve gone deep into Pendle — from PT/YT basics to AgentFi automation. Full recap below 👇\n✅ Day 1 → Pendle 101: PT/YT Fundamentals\n🔗localhost:8080/0xjacobzhao/status/196…\n✅ Day 2 → Strategy Cycle Matrix\n🔗localhost:8080/0xjacobzhao/status/196…\n✅ Day 3 →  Decision Tree + Coin-Denom Plays\n🔗localhost:8080/0xjacobzhao/status/196…\n✅ Day 4 → Pre-Trade Checklist:\n🔗localhost:8080/0xjacobzhao/status/196…\n✅ Day 5 → Spotlight: Pulse Optimizer\n🔗localhost:8080/0xjacobzhao/status/197…\n📖 Full deep-dive article:\nlocalhost:8080/0xjacobzhao/status/196…",
+      "timestamp": "Sep 22, 2025 · 10:12 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970068676318744729#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970067558381519339#m",
+      "content": "7/🌐 Swarm Finance: An incentive layer for Active Liquidity.\nsAPR feeds route incentives to agents:\n• Users → best yield auto-compounded\n• Protocols → sticky TVL, lower mgmt overhead\n• Ecosystem → faster flow, stronger price discovery\n• $GIZA → fee capture + buybacks\n\nWhy Swarm + Pulse matter:\nPendle’s fixed income is powerful but complex.\nPulse + Swarm =\n🤖 Automation of rollovers, cross-chain arb, compounding\n⚡ Incentivized liquidity stickiness\n📈 AgentFi scaling beyond retail → institutional\n\nWhat’s next for Pulse & AgentFi?\n🔹 Stablecoin PT agents → for risk-averse investors\n🔹 Smarter auto-rollover → fixed vs floating, real-time switching\n🔹 Cycle-aware strategy modules → bull/bear/sideways coverage\n🔹 Boros-integrated agents → delta-neutral yield, term arb, cross-market plays",
+      "timestamp": "Sep 22, 2025 · 10:08 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970067558381519339#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970067246275035434#m",
+      "content": "6/Pulse = ETH-focused (for now).\n\nIt manages ETH & LSTs (wstETH, weETH, rsETH, uniETH) across multiple PT markets.\nETH = base asset, conversions handled automatically.\nLive on Arbitrum → expanding to Ethereum, Base, Mantle, Sonic.\nInteroperability via Stargate.\n\n💻 User Flow (usepulse.xyz)\nConnect wallet, deposit ≥0.13 ETH (~$500)\nFunds auto-deployed into optimal PT markets\nAdd funds anytime → auto rebalancing\nDashboard → balances, allocations, APR vs benchmarks\nExit anytime → PT liquidated back to ETH, 10% success fee only on profits\n\n📊 Dashboard & Monitoring (metrics.gizatech.xyz/)\nPulse shows:\n• Total balance, invested principal, cumulative PnL\n• Yield trends (daily → yearly), APR vs projections\n• Views by PT token (e.g., PT-rETH) or LST/LRT distribution\n• Full execution log: operations, timestamps, fund sizes, yield impact, gas",
+      "timestamp": "Sep 22, 2025 · 10:06 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970067246275035434#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970066691628716493#m",
+      "content": "5/🔧 Pulse Core Architecture\n\n1️⃣ Data Collection → live PT APYs, maturities, liquidity, bridge fees, slippage\n2️⃣ Wallet Manager → portfolio snapshots, x-chain normalization, risk rules\n3️⃣ Optimization Engine → linear programming → best allocation under constraints\n4️⃣ Execution Planner → liquidate → bridge → rebuild → compound\n\nComponent view:\n• Data → Pendle APIs + oracles feed market data\n• Wallet Manager → enforces APY thresholds, value checks\n• Optimization → balances yield vs cost (bridge fees, diminishing returns)\n• Execution → outputs full cross-chain tx scripts\n= Closed-loop optimization.",
+      "timestamp": "Sep 22, 2025 · 10:04 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970066691628716493#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970066205039112617#m",
+      "content": "4/ In Sept 2025, @gizatechxyz  released Pulse Optimizer. the first AgentFi product built for Pendle PT fixed-income markets.\n\nPulse Optimizer:\n🔹 Targets Pendle PT markets, not floating lending\n🔹 Uses deterministic algorithms (not LLMs)\n🔹 Automates rollover, cross-chain transfers & compounding\n🔹 Abstracts complex fixed-income workflows → 1 click\n\nARMA recap:\n• Runs on Base\n• Auto-allocates across Aave, Morpho, Compound, Moonwell\n• Maximizes stablecoin lending yields\n• First lending-focused AgentFi, still a leader today\nPulse is ARMA’s fixed-income sibling.",
+      "timestamp": "Sep 22, 2025 · 10:02 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970066205039112617#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970065321743819066#m",
+      "content": "3/Here’s where 🤖 AgentFi shines.\nAgents can:\n🔍 Monitor fixed vs floating in real time\n🔄 Auto-shift allocations\n⚖️ Optimize per risk profile\n🌉 Manage rollover, bridging, compounding\nVaults = mechanical.\nAgents = intelligent.\n\nPassive Auto-Rollover\n🔹 Logic: when PT matures, vault reinvests into the next PT.\n✅ Smooth UX, no user action\n❌ Rigid → if Aave/Morpho floating > Pendle fixed → you’re stuck rolling at worse yields\nSimple, but often leaves money on the table.\n\nSmart Auto-Rollover\nVault dynamically compares Pendle fixed vs floating lending:\n• If Pendle fixed > floating → reinvest into PT, lock certainty\n• If floating > fixed → allocate to Aave/Morpho\n✅ Smarter allocation\n⚠️ Still reactive, not personalized\n\nHybrid Allocation\nSplit approach:\n• Part in PT for fixed yield\n• Part in lending for floating yield\n✅ Balances stability & flexibility\n✅ Protects against extreme rate moves\n⚠️ But still manual logic, not adaptive enough",
+      "timestamp": "Sep 22, 2025 · 9:59 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970065321743819066#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970064555591270856#m",
+      "content": "2/Why so complex?  Because PTs expire.\nAt maturity:\n✅ Redeem 1:1 into underlying\n❌ No auto-earn beyond expiry\nTo keep earning → you must rebuild positions.\nThis periodicity is structural in fixed income.\n\nDeFi tried “Auto-Rollover” vaults:\n1️⃣ Passive → blindly reinvest PT (easy UX, costly if rates move)\n2️⃣ Smart → compare Pendle fixed vs Aave floating (better, but reactive)\n3️⃣ Hybrid → split PT + lending (balance stability & flexibility)\nUseful, but still rigid.",
+      "timestamp": "Sep 22, 2025 · 9:56 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970064555591270856#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970064333855186990#m",
+      "content": "1/ Fixed income ≠ passive farming.\n\nEven the simplest Pendle play → buy PT for fixed yield → isn’t that simple.\nYou must still manage:\n• Maturity rollover\n• Rate volatility\n• Liquidity depth\n• Opportunity cost vs Aave/Morpho\nPendle = bonds on-chain.\n\nAdvanced Pendle = real derivatives:\n• 🎢 YT speculation → convex bets on rates\n• ⏳ Term arb → mispricing across maturities\n• 🔁 Leverage loops → PT/YT as collateral\n• ⚖️ Cross-market comps → fixed vs floating yields\nGreat tools, but complex for retail.",
+      "timestamp": "Sep 22, 2025 · 9:55 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970064333855186990#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1970063630361338228#m",
+      "content": "🧵 Pendle Yield Strategies Unveiled | Day 5\n\nToday’s theme:\n🔹 Why @pendle_fi  strategies = complex bond derivatives\n🔹 How AgentFi automates rollovers & rate-arb\n🔹 Spotlight: Pulse, the first Pendle-focused AgentFi product\nLet’s dive 👇",
+      "timestamp": "Sep 22, 2025 · 9:52 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1970063630361338228#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968901696324583531#m",
+      "content": "✅ Bottom Line\nBefore every Pendle trade, confirm 3 things:\nNet APY > Underlying yield (after gas & slippage).\nPosition size is balanced (≥$5k, ≤2–3% pool depth).\nUnderlying is safe & liquid.\n\nFollow this checklist → you’ll capture real fixed yield instead of donating to LPs.",
+      "timestamp": "Sep 19, 2025 · 4:55 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968901696324583531#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968901561163132978#m",
+      "content": "8️⃣ Optimize Strategy\nSplit big orders into smaller chunks.\nUse limit orders or RFQ (Pendle supports them) to avoid slippage.\nTrack rollover: PT doesn’t auto-renew.\nIf you want continuous yield, you must reinvest at each maturity.",
+      "timestamp": "Sep 19, 2025 · 4:54 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968901561163132978#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968901491877691662#m",
+      "content": "7️⃣ Risk Controls\nPT principal is safe only if underlying is safe.\nStablecoin depeg = full PT risk.\nYT counterparty risk: when YT demand overheats, PT yield looks great but collapses once YT unwinds.\nExit risk: do you have liquidity to sell PT early, or must you wait until maturity?",
+      "timestamp": "Sep 19, 2025 · 4:54 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968901491877691662#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968901363259036067#m",
+      "content": "6️⃣ Gas & Fees\nEthereum gas = $3–10 per swap.\nFor a 10d PT with only 0.3–0.5% yield, gas can erase most of the profit.\nGas-adjusted APY must remain attractive before committing.",
+      "timestamp": "Sep 19, 2025 · 4:54 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968901363259036067#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968901228034715783#m",
+      "content": "5️⃣ Execution Path\nDirect USDC → PT often = double slippage (USDC→alUSD→PT).\nAlternative: swap USDC → underlying (e.g. alUSD) first, then buy PT.\nAlways test both paths in preview, compare outcomes.",
+      "timestamp": "Sep 19, 2025 · 4:53 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968901228034715783#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968901138029105281#m",
+      "content": "4️⃣ Position Sizing & Liquidity\nRule of thumb: trade ≤2–3% of pool TVL per order.\nMinimum size: $5k+ (otherwise gas eats the yield).\nNew pools show 20%+ APY, but that’s only valid for tiny trades (hundreds of $).\nBig orders crush the curve → actual APY drops to single digits.",
+      "timestamp": "Sep 19, 2025 · 4:53 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968901138029105281#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968901017543573547#m",
+      "content": "3️⃣ Yield Reality Check\nDon’t trust the flashy APY on the UI.\nClick Preview: how many PT do you actually get?\nCalculate:\nEffective cost per PT\nNet return at maturity\nReal APY = Net return / Cost × (365 / days left)\n\nCompare with Underlying APY (e.g. sUSDe 8%).",
+      "timestamp": "Sep 19, 2025 · 4:52 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968901017543573547#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968900928196468763#m",
+      "content": "2️⃣ Maturity Date\nHow long until expiry?\nShort-term PTs (≤30d): high implied APY possible, but gas costs matter more.\nLong-term PTs (90d+): more stable returns, less impacted by gas.\nDecide upfront: hold to maturity, or plan to exit early?",
+      "timestamp": "Sep 19, 2025 · 4:52 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968900928196468763#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968900781970460818#m",
+      "content": "1️⃣ Underlying Asset\nWhat asset backs the PT? (stETH, sUSDe, alUSD, etc.)\nRisk of depeg? Protocol reliability?\nLiquidity on secondary markets?\nDo you actually want exposure to this asset until maturity?",
+      "timestamp": "Sep 19, 2025 · 4:51 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968900781970460818#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968900391023587571#m",
+      "content": "🧵 Pendle Pre-Trade Checklist: Avoid Costly Mistakes\n\n1/ Pendle looks simple: buy PT, lock high yield.\nBut many traders end up with way less than the displayed APY… or even negative carry after gas & slippage.\nHere’s a detailed checklist before every PT trade 👇",
+      "timestamp": "Sep 19, 2025 · 4:50 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968900391023587571#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968703459429077399#m",
+      "content": "11/ 🔑 Takeaways Day 3:\n\n• Conservative vs Aggressive → choose based on risk tolerance\n• Coin-denominated lens → ETH strongest, BTC weaker, stables defensive\n• Pendle isn’t just passive yield → it’s an active strategy hub for every market cycle\n\n✅ Recap so far\nDay 1 → Pendle 101: PT/YT Fundamentals\n🔗localhost:8080/0xjacobzhao/status/196…\nDay 2 → Strategy Cycle Matrix\n🌱 Early Bull | 🚀 Euphoric Bull | 🐻 Bear | ⏸️ Sideways\n🔗localhost:8080/0xjacobzhao/status/196…\nDay3 → Decision Tree & Coin-Denominated Strategies\n🔗localhost:8080/0xjacobzhao/status/196…\n📖 Full article:  localhost:8080/0xjacobzhao/status/196…\n\n👀 Next up (Day 4): AgentFi on @pendle_fi  & @gizatechxyz's  Pulse",
+      "timestamp": "Sep 18, 2025 · 3:47 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968703459429077399#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968701696290472149#m",
+      "content": "10/ 🟢 Stablecoin Pools (USD-denominated)\n\n• Yield: Lending rates (2–5% APY)\n• Risk: Low yield, limited PT/YT appeal\n• Coin-denom effect: ❌ No growth, just defense\n🌱 Bull: Less attractive vs volatile assets\n🐻 Bear: Core defensive allocation, lock stability\n⏸️ Sideways: Low-volatility supplement, minor carry trades\n= Preserve & wait strategy.",
+      "timestamp": "Sep 18, 2025 · 3:40 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968701696290472149#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968701551847051509#m",
+      "content": "9/ 🟠 uniBTC Pools (BTC-denominated)\n\n• Yield: Borrowing demand + incentives (no native yield)\n• Risk: Incentive-dependent, weaker logic\n• Coin-denom effect: ⚠️ Fragile vs ETH\n🌱 Bull: Short-term YT when borrow demand spikes\n🐻 Bear: Unstable, only small speculative positions\n⏸️ Sideways: YT mispricing or cross-market arbs\n= Speculative supplement, not core.",
+      "timestamp": "Sep 18, 2025 · 3:40 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968701551847051509#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968701482775220613#m",
+      "content": "8/ 🟣 stETH Pools (ETH-denominated)\n\n• Yield: Native staking (~3–5% APY)\n• Risk: ETH price volatility\n• Coin-denom effect: ✅ Accumulate more ETH\n🌱 Bull: Buy YT → levered ETH staking yield\n🐻 Bear: Buy cheap YT → core ETH stacking play\n⏸️ Sideways: Exploit PT–YT mispricing + AMM fees\n= Best long-term coin-denom strategy.",
+      "timestamp": "Sep 18, 2025 · 3:39 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968701482775220613#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968701260854407521#m",
+      "content": "7/ Now, let’s flip the lens: what if we think in coin terms instead of USD?\n@pendle_fi  also enables coin-denominated strategies: ETH, BTC, or Stables.\nEach has distinct logic and cycle behavior 👇",
+      "timestamp": "Sep 18, 2025 · 3:38 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968701260854407521#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968700792900305031#m",
+      "content": "6/ 🔴 Aggressive in Sideways / Range-Bound\n\n📌 Context: No strong trend, chop, frequent mispricings.\n\n• Short PT → when PT trades too close to par despite weak yields.\n• Short YT → if implied yields > realized, fade optimism.\n• Arb spreads → exploit:\n– Cross-market → Pendle fixed vs Aave floating\n– Cross-maturity → mispriced YU/PT vs long-dated equivalents\n– Term arbitrage → short overpriced expiry, long cheap expiry\nThis phase = alpha for arbers & quants.",
+      "timestamp": "Sep 18, 2025 · 3:37 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968700792900305031#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968700637346189566#m",
+      "content": "5/🔴 Aggressive in Bear Market Decline\n\n📌 Context: Demand collapses, yields fall, YT bleeds toward 0.\n\n• Short YT → clearest play; value decays to zero.\n• Short PT → only if PT is still overpriced relative to depressed yields.\n• Speculative Buy YT → if extremely cheap (option-like), bet on recovery → asymmetric payoff.\nThis phase = harvest decay or hunt extreme convexity.",
+      "timestamp": "Sep 18, 2025 · 3:36 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968700637346189566#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968700494135898268#m",
+      "content": "4/🔴 Aggressive in Bull Market Rising\n\n📌 Context: Rates climbing, sentiment improving, yields not fully priced.\n\n• Short overpriced PT → when PT price > fair value (implied yield too low). Bet yields rise faster than market expects.\n• Buy YT → if actual yield > implied APR, you profit from convex upside.\n• Short YT → when yield momentum stalls → fade the rally.\nThis phase = rate expectation games.",
+      "timestamp": "Sep 18, 2025 · 3:35 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968700494135898268#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968700318016995805#m",
+      "content": "3/ 🌳 The Pendle Strategy Tree\nPendle strategies can be split into two branches:\n\n🟡 Conservative branch: focus on fixed income, stability, defense\n🌱 Bull Market Rising → Buy YT (cheap, bet on rising rates) or Buy PT (lock high fixed yield).\n🚀 Euphoric Bull → PT shines (lock 20–30% APR); avoid overpriced YT.\n🐻 Bear Market → Defensive: stablecoin PT.\n⏸️ Sideways → Buy PT for moderate fixed rate, or farm AMM fees in pools.\n\n🔴Aggressive: exploit rate mispricing, speculation, leverage\n🌱 Bull Market Rising → Short overpriced PT, buy YT if rates > market expectations.\n🐻 Bear Market → Short PT/short YT when expecting collapse; buy YT only if extremely cheap.\n⏸️ Sideways → Short PT if mispriced, short YT on yield weakness, arb spreads across markets/terms.\n\nThis “Decision Tree” helps investors align strategy with:  Market cycle,  Risk tolerance, Yield expectations",
+      "timestamp": "Sep 18, 2025 · 3:35 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968700318016995805#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968699122766201324#m",
+      "content": "🧵 Pendle Yield Strategies Unveiled | Day 3\n\n1/ Today we dive into two advanced angles:\n🔹 The @pendle_fi  Strategy Decision Tree (Conservative vs Aggressive)\n🔹 Coin-Denominated Strategies (ETH, BTC, Stables)\nLet’s go 👇\n\nPendle isn’t just “buy PT, farm yield.”\nMost strategies lean conservative → locking stable yields across cycles with PT, YT, or stablecoin pools.\nlocalhost:8080/0xjacobzhao/status/196…\n\nBut for higher risk players, Pendle also enables aggressive trades: shorting PT/YT, cross-market arbs, leveraged plays.",
+      "timestamp": "Sep 18, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968699122766201324#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968358761514643817#m",
+      "content": "4/\n⚠️ It must be emphasized: AUM alone is not a sufficient metric. True project quality also depends on:\n🔒 Code security\n🛠 Product features\n🎨 UX\n🌐 Community trust\n♻️ Sustainability\n\nBut the momentum is clear:\n⚡️ DeFAI is growing fast\n🌐 AgentFi is here to stay\n\nThis is not the conclusion—it is the starting point for transparent, data-based evaluation frameworks in DeFAI.\n@scattering_io scattering.io/agent_store/au…",
+      "timestamp": "Sep 17, 2025 · 4:57 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968358761514643817#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968357417374335104#m",
+      "content": "3/\nOn @scattering_io 's latest DeFAI data website\nscattering.io/agent_store/au…\n📊 Current standings (AUM-based):\n1️⃣ @Almanak__ @NeoAlmanak — $62.59M  \n2️⃣ @mamo — $18.87M\n3️⃣ @gizatechxyz @renckorzay — $17.47M \n4️⃣ @ZyfAI_  @goatv_bk — $5.99M  \n5️⃣ @getaxal @ashlan_ahmed — $1.52M \n6️⃣ @FungiAgents @aadopico — $782K \n7️⃣ @BrahmaFi @0xdanzu — $747K \n8️⃣ @BasisOS — $438K\n9️⃣ @Surf_Liquid — $38K",
+      "timestamp": "Sep 17, 2025 · 4:52 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968357417374335104#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968355379764675053#m",
+      "content": "2/\nFollowing the publication, I had an extended discussion with @scattering_io  founder.\n\nWe already have:\n-DeFi data → @DefiLlama\n-RWA data → @RWA_xyz\n-Stablecoin data → @stablewatchHQ\n\nYet, the DeFAI ecosystem still lacks an on-chain, data-driven rating and ranking platform. \n\nEncouragingly, @scattering_io has taken a step forward, delivering what may be the first stablecoin yield agent dashboard for our industry:\n🔗 scattering.io/agent_store/au…\nThis marks an early attempt at introducing transparency and benchmarking to AgentFi.",
+      "timestamp": "Sep 17, 2025 · 4:44 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968355379764675053#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968354839957787067#m",
+      "content": "🧵 DeFAI Rankings & the Rise of AgentFi\n\n1/\nIn August, I published:\n “The Intelligent Evolution of DeFi: From Automation to AgentFi” \n🔗 localhost:8080/0xjacobzhao/status/195…\nThe article initiated certain debate regarding my AgentFi project ranking. While I conducted thorough due diligence and sought objectivity, no framework can satisfy every perspective.",
+      "timestamp": "Sep 17, 2025 · 4:42 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968354839957787067#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968344388633051256#m",
+      "content": "✅ Day 1: @pendle_fi  Yield Strategies 101\n🔗 localhost:8080/0xjacobzhao/status/196…\n✅ Day 2: Strategy Cycle Matrix — how PT & YT adapt across\n🌱 Early Bull\n🚀 Euphoric Bull\n🐻 Bear Market\n⏸️ Sideways Range\n🔗 localhost:8080/0xjacobzhao/status/196…\n\n📖 Full article:\n localhost:8080/0xjacobzhao/status/196…\n👀 Next up (Day 3):\n🔹 @pendle_fi  Strategy Decision Tree → mapping out aggressive plays (shorting, arbs, leverage)\n🔹 Coin-Denominated Strategies → ETH, BTC & stables compared\nStay tuned 🧵",
+      "timestamp": "Sep 17, 2025 · 4:00 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968344388633051256#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968342498407055697#m",
+      "content": "8/ 🧭 Risk Profiles\n• Conservative → Buy PT in bull/ bear, rotate into Pools defensively.\n• Aggressive → Buy YT early, arb mispricings, even short PT/YT to bet on rate moves.\n\n@pendle_fi  isn’t just “buy PT, farm yield.”\nConservatives lock stable returns with PT & pools.\nBut for higher risk appetite? Shorting PT/YT, exploiting mispricings, and building arb plays.\n\nWe’ll dive into those aggressive strategies in Day 3. Stay tuned 🧵",
+      "timestamp": "Sep 17, 2025 · 3:53 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968342498407055697#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968341232465358945#m",
+      "content": "7/ 📊 Pendle Strategy Cycle Matrix",
+      "timestamp": "Sep 17, 2025 · 3:48 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968341232465358945#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968340945579155608#m",
+      "content": "6/ ⏸️ Sideways / Range-Bound\n• No clear rate trend, expectations diverge\n• Frequent PT/YT mispricings\nStrategy:\n✅ Inter-temporal arb: exploit pricing gaps across maturities\n✅ Mispricing trades: buy undervalued YT/PT, sell overvalued\n⚪ Pools = modest steady returns\nBest for skilled traders who can analyze spreads & execute precisely.",
+      "timestamp": "Sep 17, 2025 · 3:47 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968340945579155608#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968340835239703026#m",
+      "content": "5/ 🐻 Bear Market Downturn\n• Sentiment crushed, borrowing demand collapses\n• Rates near zero → YT ≈ worthless\n• PT behaves like risk-free bond\nStrategy:\n✅ Buy PT → secure stable returns despite low rates\n✅ Pools defensive role, capital preservation\n❌ YT = money sink\nPendle becomes a defensive fixed-income tool in downturns.",
+      "timestamp": "Sep 17, 2025 · 3:46 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968340835239703026#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968340712631738588#m",
+      "content": "4/ 🤯 Euphoric Bull (Peak)\n• Rates spike to 15–30%+\n• YT heavily overpriced, PT deeply discounted\nStrategy:\n✅ PT is king → buy at discount, lock 20–30% fixed APY\n❌ YT dangerous → frothy valuations, easy to get wiped\n⚪ Pools yield well, but risk/return < PT\n✅ Institutional arb: term mispricing & cross-market spreads\nPT converts late-bull volatility into guaranteed fixed returns.",
+      "timestamp": "Sep 17, 2025 · 3:46 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968340712631738588#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968340571367588265#m",
+      "content": "3/ 🚀 Mid Bull (Acceleration)\n• Borrowing picks up, lending rates surge from ~5% → 10–20%+\n• Sentiment strong, liquidity abundant\nStrategy:\n✅ Buy PT → lock discounted 10–20% APY\n✅ Buy YT → capture amplified upside as yields rise\n✅ Arb → fixed (Pendle PT) vs floating (Aave/Morpho) spread\nThis is the “dual-play” phase: both PT and YT pay off.",
+      "timestamp": "Sep 17, 2025 · 3:45 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968340571367588265#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968340449686610224#m",
+      "content": "2/ 🌱 Early Bull (Rebound)\n• Risk appetite recovers, demand for leverage/lending still low\n• YT cheap, convex payoff\nStrategy:\n✅ Buy YT → bet on rising rates & staking yields\n⚠️ PT discounts small, fixed APY modest\n⚪ Pools underperform riskier assets\nBest for aggressive investors who want early exposure to rising rates.",
+      "timestamp": "Sep 17, 2025 · 3:45 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968340449686610224#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968340241397457012#m",
+      "content": "🧵 Pendle Yield Strategies Unveiled | Day 2\n\n1/ \nIn TradFi, retail rarely touches bond derivatives — too high a barrier.\nIn crypto, same dynamic: most stick to token trading & DeFi lending.\n@pendle_fi  changes this by opening “bond-like derivatives” to retail. But strategy success depends heavily on market cycles.\n\n@pendle_fi  strategies behave differently across:\n🌱 Early Bull\n🚀 Euphoric Bull\n🐻 Bear Market\n⏸️ Sideways Range\nUnderstanding PT (fixed yield), YT (floating yield), Stablecoin Pools, and Arb in each cycle is key.",
+      "timestamp": "Sep 17, 2025 · 3:44 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968340241397457012#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968298576045633728#m",
+      "content": "x.com/i/article/196828148499…",
+      "timestamp": "Sep 17, 2025 · 12:58 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968298576045633728#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968278083468923262#m",
+      "content": "x.com/i/article/196825497532…",
+      "timestamp": "Sep 17, 2025 · 11:37 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968278083468923262#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1968254842092274106#m",
+      "content": "谢谢刘老师拯救我的中文流量，闭关一周的作品❤️\n《从 zkVM 到开放证明市场：@RiscZero与@boundless_xyz解析》 \n研报原文：localhost:8080/0xjacobzhao/status/195…\nThreads解析：",
+      "timestamp": "Sep 17, 2025 · 10:04 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1968254842092274106#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967967055346536688#m",
+      "content": "5/\n@pendle_fi  V2 ships several extra features. They’re not the main storyline, but they form key pillars of the ecosystem 👇\n\n🔹 vePENDLE\nPendle’s vote-escrow tokenomics.\n• Lock $PENDLE → get vePENDLE\n• Governance rights (vote on incentives, pools, upgrades)\n• Boosted yield distribution\nThink of vePENDLE as the long-term incentive + governance backbone.\n\n🔹 PendleSwap\nA one-stop swap interface.\n• Swap between PT/YT & underlying assets\n• Functions as a DEX aggregator\n• Increases composability & convenience\nNot a new primitive — but makes Pendle way easier to use.\n\n🔹 Points Market\nYes, even points get a market.\n• Trade project loyalty/airdrop points early\n• Arbitrage points valuations\n• Speculative, narrative-driven use case\nLess about core value, more about capturing hype & flows.\n\nTL;DR Extra Features 👇\n• vePENDLE → align incentives + boost yields\n• PendleSwap → smooth UX for PT/YT <-> underlying\n• Points Market → speculative edge for airdrop hunters\n\n👉 Day 2: Pendle Strategy Landscape, how strategies adapt across bull/bear/sideways cycles. Stay tuned. \n\nFull Article: localhost:8080/0xjacobzhao/status/196…",
+      "timestamp": "Sep 16, 2025 · 3:01 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967967055346536688#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967965788805173577#m",
+      "content": "4/\nBeyond PT/YT, @pendle_fi  launched @boros_fi  — a funding rate trading module. It turns funding rates (usually a cost of perps) into a tokenized, tradable instrument. Core primitive: Yield Units (YU) 👇\n👉 Like importing Interest Rate Swaps (IRS) & basis trades into DeFi.\n\n🎯 Speculation\nBet directly on funding rate direction:\n• Long YU = pay fixed, receive floating → bullish on funding ↑\n• Short YU = receive fixed, pay floating → bearish on funding ↓\n👉 TradFi analogy: payer/receiver swaps.\n\n🛡️ Hedging\nFor whales & institutions with big perp books:\n• Funding Cost Hedge: Long Perp + Long YU → lock floating cost into fixed\n• Funding Income Hedge: Short Perp + Short YU → lock floating income into fixed\n= Smooth PnL, no more funding volatility.\n\n⚖️ Arbitrage\nDelta-neutral yield plays & spread trades:\n• Stake stETH (~4% yield) + Short Perp + Short YU → stable carry\n• Cross-Market Arb: Futures Premium vs Boros APR → long cheap, short rich\n• Term Arb: long cheap maturity YU, short expensive maturity YU\n👉 Like gov bond yield curve arb, but in DeFi.\n\nBoros = DeFi’s interest rate derivatives market\n• Speculation → directional rate bets\n• Hedging → lock perp costs/income\n• Arbitrage → harvest spreads across markets & maturities\n⚠️ Best suited for pro capital & institutions, less retail friendly.",
+      "timestamp": "Sep 16, 2025 · 2:56 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967965788805173577#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967962974649454834#m",
+      "content": "3/ \n@pendle_fi  PT/YT design unlocks 4 major strategy paths, each matching different risk appetites:\n\n🔹 Fixed Income (PT Strategy)\nBuy PT (Principal Token) at a discount → redeem 1:1 at maturity.\nEffectively an on-chain zero-coupon bond.\nLock in fixed yield, no surprises.\n✅ Best for conservative investors\n⚠️ Risk: opportunity cost if yields rise elsewhere.\n\n🔹 Yield Speculation (YT Strategy)\nBuy YT (Yield Token) → entitled to all yield until maturity.\nYT = a pure play on future yields.\nIf staking APR or lending rates rise, YT appreciates.\nIf yields collapse → YT can trend toward 0.\n✅ High-risk, high-reward.\n⚠️ Requires strong views on rate trends.\n\n🔹 Curve Arbitrage\nPT & YT have maturities (e.g., 1M, 3M, 6M).\nSometimes mispricings occur across different tenors.\nArbitrage = long undervalued PT/YT, short overvalued one → capture spread.\n✅ Market-neutral strategy\n⚠️ Requires active monitoring + execution skill.\n\n🔹 Leveraged Yield\nUse PT or YT as collateral in lending protocols.\nBorrow stables or ETH → loop back into PT or YT positions.\nGoal: amplify returns by stacking exposure.\n✅ Boosts APY significantly\n⚠️ Adds liquidation & smart contract risk",
+      "timestamp": "Sep 16, 2025 · 2:45 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967962974649454834#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967961617804693977#m",
+      "content": "2/\n@pendle_fi  AMM goes further: liquidity for PT & YT, optimized for expiring assets.\nResult: a bond-like yield curve on-chain.\n\n🔹 Stablecoin Strategies: PT vs Pools\n• Stablecoin PT = on-chain bond: buy at discount, lock fixed APR, low risk\n• Stablecoin Pools = AMM LP: earn fees + incentives, floating APY, IL risk",
+      "timestamp": "Sep 16, 2025 · 2:39 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967961617804693977#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967960775286489253#m",
+      "content": "1/ 🧵 Pendle Yield Strategies Unveiled | Day 1\n\n@pendle_fi is the first DeFi protocol fully focused on yield splitting & trading.\n\n👉 Tokenize & separate future yield → lock fixed income, leverage upside, or speculate.\nPendle = the price discovery hub for DeFi yields.\n\n🔹 Yield-Splitting 101\n• PT (Principal Token): Redeemable at maturity, no yield → like a zero-coupon bond\n• YT (Yield Token): Collects all yield until maturity → worthless after\nEx: 1 stETH → PT-stETH (1 ETH at maturity) + YT-stETH (all staking rewards).\n\nTradFi analogy: “zero-coupon bond + coupon strip” on-chain.",
+      "timestamp": "Sep 16, 2025 · 2:36 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967960775286489253#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967585455320522951#m",
+      "content": "🚀 ZKC의 @upbit 상장을 축하드립니다!\nAs one of the earliest researchers covering @RiscZero, @boundless_xyz and ZKC,\nI’ve published in-depth bilingual analyses on its zkVM architecture, proof marketplace design, and AI+ZK applications.\n관심 있으신 분들께 꼭 추천드립니다 👇\nHighly recommend diving in 👇\n🔹 English Article: localhost:8080/0xjacobzhao/status/195…\n🔹 English Threads: localhost:8080/0xjacobzhao/status/196…\n\n#ZKC #Upbit #zkVM #CryptoAI",
+      "timestamp": "Sep 15, 2025 · 1:45 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967585455320522951#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967584483814883763#m",
+      "content": "🚀 Congratulations to ZKC on the upcoming @binance listing!\n\nAs one of the earliest researchers covering @RiscZero , @boundless_xyz  and ZKC, I’ve published in-depth bilingual analyses on its zkVM architecture, proof marketplace design, and AI+ZK applications. Highly recommend diving in:\n\n🔹 English Article: localhost:8080/0xjacobzhao/status/195…\n🔹 English Threads: localhost:8080/0xjacobzhao/status/196…\n🔹 中文文章: localhost:8080/0xjacobzhao/status/195…\n🔹 中文长推: localhost:8080/0xjacobzhao/status/195…",
+      "timestamp": "Sep 15, 2025 · 1:41 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967584483814883763#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967447075530154318#m",
+      "content": "🧠 本文为「博闻札记 BroadNotes」系列内容，如果你觉得这类内容有启发，欢迎关注我在以下平台的专栏更新👇\nSubstack：0xjacobzhao.substack.com/p/p…\nParagraph：paragraph.com/@0xjacobzhao/\nMirror:mirror.xyz/zhaotaobo.eth\n📰 Foresight News 专栏：\nforesightnews.pro/column/det…\n📰 PA News 专栏：\npanewslab.com/zh/author/0196…\n📰 链捕手专栏：\nchaincatcher.com/article/220…\n📩 欢迎点赞、转发，或私信交流意见，一起拓展更多 Web3 认知边界。",
+      "timestamp": "Sep 15, 2025 · 4:35 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967447075530154318#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967445924680200440#m",
+      "content": "9/🧵总结与展望：Pendle策略的未来\n👉 Pulse标志着 DeFi 固收进入AgentFi阶段，目前主要聚焦于 ETH PT 策略，未来我们期望更高级的功能 🔮\n\n• 稳定币 PT 策略型产品 → 稳健投资者的固定收益方案\n• 智能 Auto-Rollover → 固定 vs 浮动利率灵活切换\n• 周期化策略覆盖 → 将 Pendle 的牛/熊/震荡场景模块化，覆盖 YT、稳定币池、做空与套利\n• Boros 型 AgentFi → 更智能的 Delta-Neutral 固收 + 跨市场/期限套利\n\n任何Defi产品都面临的风险提示 ⚠️\n• 协议/合约/跨链桥安全\n• 策略执行失败（rollover、再平衡）\n• 市场风险（利率波动、流动性不足、激励衰减）\n• ETH 下跌：ETH 本位增加但美元计价可能亏损\n\nPulse 拓展了 AgentFi 的边界，为未来 DeFi 固收市场的 规模化+自动化 应用打开了新想象空间。🚀",
+      "timestamp": "Sep 15, 2025 · 4:30 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967445924680200440#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967443984353219041#m",
+      "content": "8/ 🧵 Pulse：首个基于 Pendle PT 策略的 AgentFi 产品\n\n@gizatechxyz 推出 Pulse，业内首个Pendle策略Agent以及首个ETH本位的AgentFi收益产品，目标：自动化 rollover、跨链调度、复利 → 最大化组合 APY。👇\n\nGiza AgentFi智能体背景 🌐\n• 借贷收益智能体：ARMA (app.arma.xyz/)：部署在 @base，跨 @aave /@MorphoLabs /@compoundfinance /@MoonwellDeFi 等借贷协议优化稳定币收益\n\n• Pendle策略智能体：Pulse (app.usepulse.xyz/)：专注 @pendle_fi 固收场景，用确定性算法 + 线性规划 → 自动管理 PT 策略\n\nPulse 核心架构 🛠️\n• 数据采集：多链市场/APY/到期/流动性/跨链成本\n• 钱包管理：组合快照、风险控制、跨链标准化\n• 优化引擎：线性规划建模，输出最优配置\n• 执行规划：清算低效仓位 → 桥接/Swap → 建仓/退出\n\n功能亮点 ✨\n• ETH 本位收益优化，支持wstETH/weETH/rsETH/uniETH\n• 已上线 @arbitrum→ 计划扩展 @ethereum、@base、@Mantle_Official、@SonicLabs\n• @StargateFinance桥接 → 多链互操作性\n\n用户体验 🔑\n• 一键启动 Agent（最低 0.13 ETH）\n• 自动部署最优 PT 市场 + 动态再平衡\n• 可视化面板：APR 改善、仓位分布、收益分析\n• 随时退出：本金全额返还，仅对利润收 10% 成功费\n\nSwarm Finance 🚀\nPulse 是 Swarm Finance 激励网络的首个落地应用。\n• 用户：自动捕捉全链最优 APR\n• 协议：减少 Pendle 到期赎回 → TVL 流失\n• 生态：跨链资本流动更快\n• $GIZA：fee capture → buyback → 启动代币飞轮",
+      "timestamp": "Sep 15, 2025 · 4:22 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967443984353219041#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967440202005442863#m",
+      "content": "7/ 🧵 AgentFi对Pendle 策略的独特价值\n\nPendle ≈ 链上债券衍生品市场，即便是“买 PT 锁定固收”，也要考虑：到期换仓、利率波动、机会成本、流动性深度… 更别提 YT 投机、跨期套利、杠杆化组合。\n\n与借贷/质押不同\n借贷或 Staking = “存一次→持续生息”。\nPendle 的 PT = 定期约束：到期兑回本金，必须再建仓。\n👉固收市场核心前提，也是与永续借贷的本质差异。\n\nAuto-Rollover 三模式\n• 被动：PT 到期 → 自动续投新 PT。简单，但若外部浮动利率更高，会错失机会。\n• 智能：动态比较 Pendle 固定 vs 借贷浮动，择优切换 → 收益更优。\n• 混合：部分锁 PT，部分流向借贷 → 稳健+灵活。\n\n👉 把复杂的利率博弈交给智能体。\nPendle 策略复杂，涉及定期机制、利率比较与多市场博弈。AgentFi = 实时比较固定/浮动利率 → 自动调仓 + 个性化配置 → 简化用户体验、 提升收益效率。",
+      "timestamp": "Sep 15, 2025 · 4:07 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967440202005442863#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967438517119942813#m",
+      "content": "6/ 🧵Boros 策略全景：利率掉期、对冲与跨市场套利\nBoros 把资金费率 (Funding Rate) 资产化，相当于把 IRS（利率掉期）+ 基差交易 搬到 DeFi ，核心凭证：Yield Units (YU)👇\n\n三条主要路径：\n① 投机策略 🎯 → 押注资金费率方向\n• Long YU：付固定利率，收浮动 → 押资金费率上升 \n• Short YU：收固定利率，付浮动 → 押资金费率下降 👉 类似传统利率衍生品交易\n\n② 对冲策略 🛡️→ 锁定资金费率支出/收入\n适合大额永续合约仓位： \n• Funding Hedge（支出对冲）：Long Perp + Long YU → 把浮动成本锁成固定成本 \n• Funding Income Hedge（收入对冲）：Short Perp + Short YU → 把浮动收入锁成固定收益\n\n③ 套利策略 ⚖️→ 跨市场/跨期限价差\n• Delta-Neutral 固定收益：现货质押 (如 stETH) + 做空 Perp + Short YU → 稳健锁定 APR\n• 跨市场套利：比较 Futures Premium vs Boros Implied APR，高估的一方做空，低估的一方做多\n• 期限套利：不同到期 YU 定价差，做空高估到期，做多低估到期\n\nBoros = DeFi 的利率衍生品市场\n• 投机 → 博资金费率走势\n• 对冲 → 锁定永续仓位成本/收益\n• 套利 → 跨市场/期限捕捉利差\n⚠️ 更适合专业资金和机构，零售友好度有限。",
+      "timestamp": "Sep 15, 2025 · 4:01 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967438517119942813#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967437254911209695#m",
+      "content": "5/🧵 Pendle 币本位策略对比\n👉 Pendle 为 ETH、BTC、稳定币用户都提供了差异化的本位策略。\n\nETH（stETH 池）\n• 收益来源：ETH Staking 原生收益（3–5% APY）\n• 风险：ETH 价格波动\n• 币本位逻辑：✅ 最优，YT 可放大 ETH 增持\n\nBTC（uniBTC 池）\n• 收益来源：借贷利率 + 协议激励（非原生）\n• 风险：激励持续性差\n• 币本位逻辑：⚠️ 弱，仅适合小仓位投机\n\n稳定币池\n• 收益来源：稳定币借贷利率（2–5% APY）\n• 风险：利率低迷，PT/YT 吸引力有限\n• 币本位逻辑：❌ 无，适合保守投资者“保值+等待”\n\n牛市场景 📈\n• stETH：YT = 杠杆化 ETH 增持最佳策略\n• uniBTC：可补充，但更偏投机\n• 稳定币池：吸引力下降\n熊市场景 📉\n• stETH：YT 低价=增持 ETH 核心机会\n• 稳定币池：防御主力，保本等待\n• uniBTC：仅适合短期套利\n震荡市场景 ⚖️\n• stETH：PT-YT 错配 + AMM 手续费 → 套利机会\n• uniBTC：适合短期博弈\n• 稳定币池：提供稳健补充",
+      "timestamp": "Sep 15, 2025 · 3:56 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967437254911209695#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967435921042898954#m",
+      "content": "4/ 🧵 Pendle 策略中的风险分层：稳健 vs 激进\n\n以上策略以稳健收益为主，买入 PT、买入 YT 或参与稳定币池挖矿 来实现风险与收益的平衡。对于激进型投资者，可以选择卖出 PT 或 YT 策略，押注利率走势。\n\n稳健型策略 ✅\n• 牛市上升期：锁定折价 PT，获取高收益利率\n• 牛市亢奋期：买 PT 锁定极高收益率，规避风险\n• 熊市下跌期：防守为先，配置稳定型 PT\n• 区间震荡期：赚取 AMM 手续费 or 稳定币池挖矿\n\n激进型策略 🔥\n• 牛市上升期：押注利率未见顶 → 买 YT；若利率过高 → 卖 YT\n• 熊市下跌期：博弈利率反弹 → 买 YT；若预期崩溃 → 卖 YT\n• 区间震荡期：利用市场波动，买/卖 YT；或跨市场/跨期限套利\n\n图解决策树 🌳\n稳健：防御为主，强调本金安全 & 固定利率锁定，买 PT 锁定固收 + 稳定币池挖矿 → 长期安心，\n激进：进攻为主，利用 PT/YT 的买卖押注利率方向，博弈利率与错配 → 高风险高回报。",
+      "timestamp": "Sep 15, 2025 · 3:50 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967435921042898954#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967433963586412816#m",
+      "content": "3/ 🧵 Pendle 全市场周期策略\n\n @pendle_fi 有四大基础策略：\n① 固定收益：买 PT 持有至到期\n② 收益投机：买 YT 押注利率走高/波动\n③ 跨期套利：利用不同期限 PT/YT 价差\n④ 杠杆收益：抵押 PT/YT+借贷叠加\n\n四个典型市场阶段：\n• 牛市初期：YT 低估，买入相当于押注利率抬升 → 若市场加速上行，YT 价值飙升，高风险高回报 。\n• 牛市亢奋：YT 高估，PT 折价深，锁定 20–30% 固收 → 稳健防御，适合牛市末期固收套利、抵御波动。\n• 熊市下行：利率骤降，YT 价值趋零，PT 更像无风险票据 → 保本首选，规避利率波动\n• 区间震荡：PT/YT 短期错配 → 跨期套利。\n\n不同市场阶段，PT / YT / 稳定币池 最佳策略不同\n深熊（低位横盘）📉 利率极低，情绪冷淡\n• YT：✅ 极便宜，赌未来利率恢复，杠杆化收益流\n慢熊（缓慢下跌）📉 价格缓慢下行，利率低迷\n• 稳定币池：✅ 防御首选，保本安心\n\n牛市初期（反弹向上）📈 借贷需求回升，利率走高\n• YT：✅ 爆发力强，利率反弹→收益杠杆\n牛市中期（上涨加速）🚀 利率显著提升，情绪回暖\n• PT：✅ 折价大，锁 10–20% 年化\n• YT：✅ 价格上涨，继续加仓\n• 套利：✅ 固收 vs Aave 浮动利差大\n牛市亢奋期（高点）🔥 借贷利率飙升，市场疯狂\n• PT：✅ 最优解，折价极深，锁 20–30% 固收\n• 套利：✅ 期限/跨市场套利，低风险锁利\n\n牛顶回调期⚠️ 市场反转，利率骤降\n• 稳定币池：✅ 防御回归主流\n• 套利：✅ 对冲套利，降低波动风险",
+      "timestamp": "Sep 15, 2025 · 3:43 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967433963586412816#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967430224460837191#m",
+      "content": "2/ 🧵 稳定币PT vs 稳定币池（Stablecoin Pools）\n\n流动性：@pendle_fi 设计了专属 AMM，为 PT 与 YT 提供市场。\n• PT 价格通常低于 1，反映折现价值。\n• YT 价格取决于未来收益预期。\n不同期限形成收益率曲线，类似传统债券市场。\n\n稳定币PT vs 稳定币 Pools\n• PT = 链上债券，折价买入 → 固定利率，低风险，适合保守投资者。\n• Stablecoin Pool = 做市池，靠手续费+激励，APY 浮动大，有 IL 风险，适合主动 LP。",
+      "timestamp": "Sep 15, 2025 · 3:28 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967430224460837191#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1967429364234207518#m",
+      "content": "1/ 🧵 Pendle 收益策略全景解读\n@pendle_fi  是 DeFi 中首个专注“收益率拆分与交易”的协议。\n\n核心：把未来收益代币化并分离 → 用户可锁定固收、放大预期或做投机套利。成为 DeFi 收益率的价格发现场所\n\n收益拆分机制：\n• PT（本金代币）：到期兑回本金，不享收益，类似零息债券。\n• YT（收益代币）：获得到期前全部收益，到期归零。\n\n机制类似传统金融的“零息债+票息拆分”。",
+      "timestamp": "Sep 15, 2025 · 3:24 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1967429364234207518#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1966063692589703369#m",
+      "content": "Undoubtedly, @pendle_fi is one of the most successful DeFi projects of this cycle (alongside @ethena_labs and @HyperliquidX). At the same time, Pendle strategies are highly complex.\n\nThis research report is one of my most rewarding works this month—I finally feel I’ve fully mapped out the rational strategies for @pendle_fi 's  PT, YT, and AMM pools across different market phases. The report also extends into decision trees for different risk profiles, a systematic analysis of coin-denominated strategies, and even explores the more advanced Boros strategy.\n\nA month ago in my AgentFi report (localhost:8080/0xjacobzhao/status/195…), I predicted a strong alignment between Pendle strategies and AgentFi. To my surprise, @gizatechxyz had already started exploring Pendle ETH PT agents half a year ago. The recent launch of Pulse, while only the foundational layer of Pendle’s complex strategy stack, is undoubtedly a frontier exploration in the AgentFi space.",
+      "timestamp": "Sep 11, 2025 · 8:58 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1966063692589703369#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1966063028979609748#m",
+      "content": "毫无疑问，@pendle_fi是本轮周期最成功的Defi项目之一(另外两个是@ethena_labs和@HyperliquidX)，与此同时Pendle策略具有高度的复杂性。这篇研报是我本月最有成就感的研报，感觉终于研究通透了Pendle稳定币PT, YT, AMM池在不同市场阶段下的合理策略，文中不仅延展了不同风险偏好下的决策树，还对币本位策略的优劣进行了系统性分析，并进一步探讨了更高阶的 Boros 策略。一个月前我在AgentFi研报预判了Pendle策略和AgentFi的高度匹配性，没想到半年前@gizatechxyz就已经开始探索基于Pendle策略的Agent了，Pulse的正式发布虽然只是Pendle复杂组合策略里的基础一环，却无疑代表了 AgentFi 领域的一次前沿性探索。",
+      "timestamp": "Sep 11, 2025 · 8:55 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1966063028979609748#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1965661788999147802#m",
+      "content": "x.com/i/article/196564892809…",
+      "timestamp": "Sep 10, 2025 · 6:21 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1965661788999147802#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1965634141418119455#m",
+      "content": "x.com/i/article/196562046262…",
+      "timestamp": "Sep 10, 2025 · 4:31 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1965634141418119455#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1965364179084476662#m",
+      "content": "5/ Stocks vs. crypto?\n\nI don’t research treasury stocks deeply. My conviction = BTC/ETH. 100% crypto, no equities.\n\nBut let’s be clear:\nBTC >$100K will have similar upside to Nasdaq tech blue chips. To capture outsized growth, we need to hunt new frontiers, not just pile into majors.\n\n🔚 Closing\nCrypto treasuries ≠ Luna. They are compliance-wrapped Bitcoin vehicles—bridges to TradFi, volatility amplifiers, and markers of maturity.\n\n👉 Hold BTC & ETH. Look for the next high-growth frontier.",
+      "timestamp": "Sep 9, 2025 · 10:38 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1965364179084476662#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1965363681677771149#m",
+      "content": "4/ Backward step or future finance?\nMy crypto journey began with decentralization & hacker ethos—not compliance, not speculation.\nTreasuries = collision of crypto & TradFi:\nOperate under compliance frameworks.\nBacked by BTC/ETH with real liquidity.\nChannel institutional capital, reduce chaos.\nBut: they amplify OG wealth, compress grassroots opportunities, and shrink native creativity.",
+      "timestamp": "Sep 9, 2025 · 10:36 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1965363681677771149#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1965363248729043455#m",
+      "content": "3.5/Crypto Treasuries vs. Luna\nTwo models. Two feedback loops. One survived, one collapsed. Let’s break it down 👇\n\n🧵Assets\nTreasuries: Backed by BTC & ETH — real value, real liquidity.\nLuna: UST + LUNA — algo-peg, no external backing.\n🧵 Valuation\nTreasuries: Stock cap tied to NAV, moves with macro, financing, sentiment.\nLuna: Mint/burn mechanism → needs endless demand to stay afloat.\n\n🚀Positive Flywheel\nTreasuries: mNAV > 1 → issue shares → buy BTC → BTC↑ → NAV↑ → stock↑ (asset expansion flywheel).\nLuna: UST demand↑ → LUNA burn → price↑ → confidence↑ → more UST demand.\n⚠️Negative Spiral\nTreasuries: mNAV < 1 → stock↓ → investor sell-off → BTC dumped → NAV shrinks → stock↓ (volatility amplifier).\nLuna: UST depeg → panic sell → UST↓ → LUNA hyperinflate → instant collapse.\n⚠️Risk Profile\nTreasuries: Amplify downturns, but BTC/ETH won’t go to zero.\nLuna: Systemic collapse. Once broken → straight to zero.\n\n✅System Impact\nTreasuries: Interlinked w/ TradFi (Fed policy, stock liquidity).\nLuna: Closed crypto loop. No external stabilizers.\n\n✅Endgame\nTreasuries: Worst case = stock crash + BTC sell pressure → more volatility, assets still exist.\nLuna: Worst case = total wipeout.\n\nBottom Line: Treasuries ≠ Luna, They are bridges to TradFi and compliance. But in downturns, they flip from capital gateways → volatility amplifiers.",
+      "timestamp": "Sep 9, 2025 · 10:34 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1965363248729043455#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1965358525330395486#m",
+      "content": "3/ Treasury selloffs in downturns – what’s the risk?\n\nmNAV = Enterprise Value ÷ Net Asset Value\nEV = market cap + debt + preferred stock – cash\nNAV = value of crypto holdings at current prices\nThis ratio = the heartbeat of every treasury company.\n\nWhen mNAV > 1 (premium):\nMarket pays for growth, brand, financing ability → Company issues shares → raises cash → buys BTC/ETH → Buying pressure lifts BTC → NAV grows → stock rises\n👉 The Asset Expansion Flywheel (see: MicroStrategy).\n\nWhen mNAV < 1 (discount):\nMarket questions valuation → Stock falls → investors sell harder → Company may dump BTC/ETH to defend ratio → Selling drives BTC lower → NAV shrinks → stock falls more\n👉 That’s the path to a death spiral.\n\nThis looks like a balance-sheet recession in TradFi—\nbut in crypto it plays out faster and sharper.\nSome firms may try share buybacks (raise BTC per share), but not all have that option.",
+      "timestamp": "Sep 9, 2025 · 10:16 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1965358525330395486#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1965356974788509735#m",
+      "content": "2/ Treasury assets have evolved: BTC → BTC+ETH → SOL & beyond. Did I adjust my portfolio?\n\n🔹 Core conviction:@Bitcoin  + @ethereum  remain my foundation.  Years in VC + deep ETH infra/DeFi research (ETHDenver, Devcon, ETHcc…) shaped this trust.\n\n🔹 On @solana : I tracked it since 2021, but after losing all my SOL in the 2022 security incident, I built a bias → missed the 2024 rally.\n👉 Biggest lesson: the hardest obstacle isn’t markets, it’s emotion & bias.\n\n🔹 Current strategy:\nBTC/ETH/stables = base, @solana ,  @SuiNetwork  = “trading assets,” not “belief assets.”\n<10% allocation, driven by charts + on-chain data, not conviction.",
+      "timestamp": "Sep 9, 2025 · 10:09 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1965356974788509735#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1965355946039017561#m",
+      "content": "1/ What’s the biggest shift this cycle—and how do treasuries fit in?\n\nThis cycle = the shrinkage of Crypto Native communities.\n-Externally: BTC at ATH, TradFi capital is eager.\n-Internally: builders feel cold & fatigued.\n\nThe industry stands at a fork:\n🔹 Left turn → compliance, stables, RWA (institutional path).\n🔹 Right turn → Crypto x AI: AgentFi, Agent Payments, decentralized training/inference.\n\nTreasury hoarding = gateway for TradFi inflows.\nIt pushes BTC/ETH higher & reinforces the “left turn,” but fails to solve native community struggles.",
+      "timestamp": "Sep 9, 2025 · 10:05 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1965355946039017561#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1965355204863558000#m",
+      "content": "🧵 Theme: The Rise of Crypto Treasuries – How to Seize New Opportunities?\nAfter being listed as one of @Foresight_News August Outstanding Creators, I was invited to share my views on 5 questions about crypto treasuries 👇\n\n1️⃣ How are treasuries shaping this cycle?\n2️⃣ What investment strategies make sense amid the treasury boom?\n3️⃣ How might treasury selloffs trigger market chain reactions?\n4️⃣ Are crypto treasuries a step backward or the embryo of future finance?\n5️⃣ Which do I prefer: treasury company stocks or crypto itself?",
+      "timestamp": "Sep 9, 2025 · 10:02 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1965355204863558000#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1965265192411070846#m",
+      "content": "上榜了8月份优秀内容创作者之后，@Foresight_News 文字征集了我对「本轮周期与财库有何关联？」、「随着财库热潮升温有什么投资建议？」、「财库抛售行为会引发哪些连锁反应？」、「如何看待加密财库倒退论？」以及「你更看好财库公司股票还是加密货币？」这5 个问题的看法。  \n\n周末补了不少课，对“加密财库模式”和“Luna模式”的比较这块，作为行业风险我认为还是有必要单独说说的。  \n\n📍 mNAV = 企业价值 ÷ 加密资产净值\n企业价值：市值 + 债务 + 优先股 - 现金\n加密资产净值：财库持有的链上资产按市价计算\n这是判断财库模式风险的核心指标。\n\n当 mNAV > 1：\n👉 市场给予溢价（增长潜力/品牌）\n👉 公司增发股票融资 → 买入 BTC/ETH\n👉 推动 NAV 上升 → 形成 资产扩张飞轮\n\n当 mNAV < 1：\n👉 公司折价，市场质疑估值\n👉 股价下跌 → 迫使卖出 BTC/ETH\n👉 带来更多抛压 → 资产缩水 → 股价进一步下跌\n👉 可能陷入 死亡螺旋\n防御方式：股票回购，提升每股 BTC 持有量。\n\n📊 总结：\n加密财库模式是本轮周期的风险之一，但决定大势的仍是宏观政策 & 监管。与 Luna 一样都有正/负循环机制。\n区别在于：\n🚩财库背靠 BTC/ETH → 负循环不会归零，而是波动放大器\n🚩Luna 是纯信用 → 一旦失效就是系统性崩盘。",
+      "timestamp": "Sep 9, 2025 · 4:05 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1965265192411070846#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1965252911069626732#m",
+      "content": "Dropping tomorrow: my most exciting research this month on AgentFi. Stay tuned! 🫰",
+      "timestamp": "Sep 9, 2025 · 3:16 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1965252911069626732#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1963916192059695329#m",
+      "content": "同样感谢 @PANewsCN 的认可 🙏\n我的专栏 《博闻札记》 以及文章 《DeFi 的智能进化：从自动化到 AgentFi 的演进路径》 入选了 PA News 2025 年 8 月专栏作者影响力排行榜 TOP5 与 专栏文章热度排行榜 TOP10。\n\n🔗 CN: localhost:8080/0xjacobzhao/status/195…\n\nAlso grateful to @PANewsCN for the recognition 🙏\nMy column “Buwen Notes” and article “The Intelligent Evolution of DeFi: From Automation to AgentFi” were featured in PA News’ August 2025 Columnist Influence Top 5 and Column Article Popularity Top 10.\n\n🔗 EN: localhost:8080/0xjacobzhao/status/195…",
+      "timestamp": "Sep 5, 2025 · 10:44 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1963916192059695329#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1962721217598890500#m",
+      "content": "很荣幸我的文章《DeFi 的智能进化：从自动化到 AgentFi 的演进路径》入选 Foresight News 2025 年 8 月优秀内容创作者榜单。\n感谢 @Foresight_News  的认可与支持 🙏\nlocalhost:8080/0xjacobzhao/status/195…\n\nHonored to have my article “The Intelligent Evolution of DeFi: From Automation to AgentFi” featured in Foresight News’ August 2025 Outstanding Creator List. Big thanks to @Foresight_News for the recognition and support 🙏\nlocalhost:8080/0xjacobzhao/status/195…",
+      "timestamp": "Sep 2, 2025 · 3:36 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1962721217598890500#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961300383512629377#m",
+      "content": "The most complete overview of the ZK ecosystem you’ll find in our industry by @zkv_xyz  \n\nzkv.xyz/the-map-of-zk/",
+      "timestamp": "Aug 29, 2025 · 5:30 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961300383512629377#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961019503745347840#m",
+      "content": "15/\nZK has evolved: scaling → general compute → decentralized proof markets.\nShort-term challenges: market cooling, L2s building their own provers, zkML/privacy still early, thin proof marketplace demand.\n\nBut the trajectory is clear:\n zkEVM → zkVM → zkMarketplace.\n\nZK is accelerating toward commoditization & infra status — fueling the next industry cycle.\n🧠 Long-term: ZK remains the cornerstone of trusted blockchain computation.\n\n📖 Full report:\n🔗localhost:8080/0xjacobzhao/status/195…\n📬 Subscribe:\nSubstack: 0xjacobzhao.substack.com/p/f…\nParagraph: paragraph.com/@0xjacobzhao/f…",
+      "timestamp": "Aug 28, 2025 · 10:54 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961019503745347840#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961017288750174631#m",
+      "content": "14/\n🧵 ZKVM Tech Paths: RISC-V vs Wasm vs zkEVM\nRISC-V → performance & general-purpose compute\nWasm → cross-language & Web2 migration\nzkEVM → max compatibility & ecosystem access\n\n🔹 RISC-V zkVM (@RiscZero, @SuccinctLabs SP1)\nHardware-level open ISA, simple rules\nMature toolchain, supports Rust/C++\nEasier circuit optimization & future HW acceleration\n👉 Best for general compute, AI+ZK, cross-chain proofs\nDifficulty: ⭐⭐ | Potential: ⭐⭐⭐⭐\n\n🔹 zkWasm (@DelphinusLab zkWasm)\nBased on WebAssembly, mature ecosystem\nNaturally cross-language, easy Web2 migration\nBut stack-based arch limits perf & circuit efficiency\n👉 Best for Web-friendly use cases\nDifficulty: ⭐⭐ | Potential: ⭐⭐⭐\n\n🔹 zkEVM (@Scroll_ZKP , @taikoxyz , @0xPolygonFdn  zkEVM)\nFull replication of EVM execution semantics\nCompatible with ETH state & gas rules\nExtremely hard engineering, but max ecosystem access\n👉 The canonical ETH scaling path\nDifficulty: ⭐⭐⭐⭐⭐ | Potential: ⭐⭐⭐⭐⭐",
+      "timestamp": "Aug 28, 2025 · 10:45 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961017288750174631#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961016471766872235#m",
+      "content": "13/\n🧵 @boundless_xyz  vs @SuccinctLabs  – Key Metrics\n\n@boundless_xyz Decentralized ZK marketplace\nPoVW + low barrier to entry\nLeading in orders & program count\nOpen & universal adoption path\ndata source: explorer.beboundless.xyz/\n\n@SuccinctLabs (SPN) High-performance, low-latency zkVM + Prover Network →\nStaking & auction-based design\nProfessionalized network (ZKP @OffchainLabs)\nGeared toward industrial adoption\ndata source: explorer.succinct.xyz/",
+      "timestamp": "Aug 28, 2025 · 10:42 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961016471766872235#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961014485638078621#m",
+      "content": "12/\n🧵 ZKVM & ZK Market Competition:\n@RiscZero = zkVM + Bonsai + @boundless_xyz\n@SuccinctLabs = SP1 zkVM + SPN\n\nThey take very different strategic paths.\n\n👉@RiscZero path\n-zkVM: general-purpose (RISC-V core)\n-Bonsai: centralized Prover-as-a-Service, enterprise-grade SLA\n-@boundless_xyz: open marketplace, any GPU/CPU can join\nBalances decentralization with industrial adoption\n\n👉@SuccinctLabs path\n-SP1 zkVM: RISC-V + LLVM IR, focused on high performance\n-SPN: specialized Prover network (staking + bidding)\nPrioritizes performance & standardization → high-performance zk network",
+      "timestamp": "Aug 28, 2025 · 10:34 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961014485638078621#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961012605268697186#m",
+      "content": "11/\n💰 Fundraising:\nJuly 2023 → $40M Series A\n\nLed by @blockchaincap\nBacked by:\n@BainCapCrypto, @GalaxyDigital, @IOSGVC, @fenbushi, @Delphi_Digital, @Alchemy, @Maven11Capital, @iobc_capital, @Rockaway_X, @FigmentCapital @DispersionVC, @l2iterative, \n@GnosisVC, @rollupventures, @zero__dao, @A100x_Ventures, Aglaé Ventures, @CotaCapital and more\nAngels: @danboneh, @0xMert_, @_patrickogrady, @nickwh8te etc.\n\n👉 RISC Zero = top-tier team + strong capital, pushing ZK from tech → industry infra.",
+      "timestamp": "Aug 28, 2025 · 10:26 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961012605268697186#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961011781637431625#m",
+      "content": "10/\n👥 @RiscZero team (founded 2021)\nFrom Amazon, Google, Intel, Meta, Microsoft, Coinbase, Mina, O(1) Labs.\n\nLeads:\n@BruestleJeremy （Co-founder | CEO）\n@FrankLaub_R0 （Co-founder | CTO）\n@ssh_nkar （@boundless_xyz CEO）\n@TivoZK @writtenterribly (@boundless_xyz COO)\n@Xi_195 (VP of Product, @boundless_xyz)\n@Phil_Kelly_NYC (VP Ecosystem, @boundless_xyz)\n@intoverflow (Principal Engineer)\n@LDC917 (General Counsel of @boundless_xyz)\n\nOthers includes: @hashcashier @societalruin @Nahoc10 @frannie_cs @reka_eth @kashviETH @sashaaldrick @marvelgirl_eth @0xEverly @zksanca\n@selinaco_o @talianotnatalie @Tinaliu333 @RiscZeroCN",
+      "timestamp": "Aug 28, 2025 · 10:23 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961011781637431625#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961010785838391366#m",
+      "content": "9/\n💰 Tokenomics: ZK Coin (ZKC)\nlocalhost:8080/boundless_xyz/status/1…\nSupply: 1B, inflation 7% → 3% (year 8 stable)\nIssuance tied to PoVW = proofs → rewards\n\nUtility:\nStaking/collateral (slashing)\nProver rewards (75% to provers / 25% to stakers)\nPayment layer → all proofs ZKC-backed\nGovernance\n\nDistribution:\n-49% growth (31% eco fund, 18% strategic)\n-23.5% team/contributors\n-21.5% investors\n-6% community (sale/airdrop)",
+      "timestamp": "Aug 28, 2025 · 10:19 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961010785838391366#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961010062799028328#m",
+      "content": "8/\n🧵 @boundless_xyz = universal ZK compute marketplace.\nDecouples proof generation from consensus → tasks distributed by market.\nWorkflow:\n1⃣ Dev submits zkVM program\n2⃣ Provers bid for tasks\n3⃣ Sub-proofs (zk-STARKs) → recursive aggregation\n4⃣ Cross-chain unified verification\n\n💡 PoVW = Proof of Verifiable Work → unlike PoW waste, it produces useful ZK results.\n\n⚡ Boundless for Apps = “infinite compute layer”\nUnlimited execution, Constant gas cost, Solidity/Vyper compat, Cross-chain native, \nSteel adds: event-driven logic, historical queries, cross-block compute.\n\n🛠 Boundless for Rollups → OP Stack accelerator\n-Hybrid mode: ZK Fraud Proof (~3h finality)\n-Validity mode: ZK Validity Proof (<1h)\nEx: OP Kailua (adopted by Eclipse, BOB).\n\n🔔 The Signal → compresses ETH beacon chain finality into 1 ZK proof → any chain can verify.",
+      "timestamp": "Aug 28, 2025 · 10:16 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961010062799028328#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961009417186681263#m",
+      "content": "7/\n@RiscZero product stack:\nR0VM 2.0: zkVM engine\n@boundless_xyz : decentralized proof market\nBonsai: centralized Prover network\nSteel: zkCoprocessor\nOP Kailua: OP Rollup ZK upgrade\nZeth: zkVM-based block prover\nThe Signal: cross-chain ZK consensus client",
+      "timestamp": "Aug 28, 2025 · 10:14 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961009417186681263#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961009156137402767#m",
+      "content": "6/\n🌐 RISC-V = open, royalty-free ISA → naturally decentralized.\n@RiscZero builds zkVM on top, supporting Rust/C++.\nzkVM workflow: Guest Code → ELF → executor → Prover generates Receipt.\nThird-parties just verify Receipt → no need to re-execute.\n🚀 R0VM 2.0 (2025.4):\n• Block proofs 35min → 44s\n• Cost ↓ 5×\n• Memory → 3GB\n• Added BN254 + BLS12-381\n• Formal verification → goal: <12s real-time proofs",
+      "timestamp": "Aug 28, 2025 · 10:13 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961009156137402767#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961008655043858812#m",
+      "content": "5/\nZK evolution = modular & market-driven:\nzkVM = CPU → trusted compute\nzkCoprocessor = GPU → outsource heavy tasks (@RiscZero Steel, @lagrangedev)\nzkMarketplace = cloud → decentralized proof market (@boundless_xyz)\n\n👉 Flow: zkVM foundation → Coprocessor offload → Marketplace = global proof compute.\n\n@RiscZero balances openness + efficiency:\nlow-barrier zkVM, Steel/Bonsai/@boundless_xyz as extensions → ZK → universal compute infra.",
+      "timestamp": "Aug 28, 2025 · 10:11 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961008655043858812#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961008418665455884#m",
+      "content": "4/\nIn this context → General-purpose zkVMs rise.\nThey shift from “EVM-compatibility mindset” → “chain-agnostic trusted compute.”\nzkVM = ZK world’s trust CPU.\n\n-RISC-V route (@RiscZero @SuccinctLabs SP1): open ISA, simple, efficient circuits, supports Rust/C++\n\n-Wasm route (@DelphinusLab zkWasm): mature ecosystem, cross-platform, but heavier instructions",
+      "timestamp": "Aug 28, 2025 · 10:10 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961008418665455884#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961008038439248243#m",
+      "content": "3/\n@VitalikButerin (2022): vitalik.eth.limo/general/202…\nzkEVM types = compatibility vs performance tradeoff\nType 1: Full equivalence → lowest migration, slow proofs (ex: @taikoxyz)\nType 2: Full compatibility → minimal changes (ex: @Scroll_ZKP @LineaBuild)\nType 2.5: Semi-compat → tweak gas/ops (ex: @0xPolygon zkEVM, @KakarotZkEvm)\nType 3: Partial compat → runs most apps, infra gaps (ex: @zksync Era)\nType 4: Language-level → compile from high-level (ex: @StarknetFndn Cairo)\n\nMain theme = zkRollup wars.\nProblems:\n1⃣ EVM circuits = hard, inefficient\n2⃣ ZK potential goes far beyond scaling",
+      "timestamp": "Aug 28, 2025 · 10:08 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961008038439248243#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961007588361097281#m",
+      "content": "2/\n🌐 Three core ZK use cases:\n1⃣ Scalability\n2⃣ Privacy\n3⃣ Interoperability & Data Integrity\n\n👉 Scalability = earliest & broadest adoption\nExecute off-chain, verify on-chain → higher TPS, lower cost, same security.\n-zkRollup: @zksync @Scroll_ZKP @0xPolygon @StarknetFndn\n-zkEVM: @0xPolygon zkEVM, @LineaBuild, @taikoxyz, @zksync Era, @KakarotZkEvm\n-zkVM: @RiscZero, @SuccinctLabs SP1, @DelphinusLab zkWasm\n-zkCoprocessor: @RiscZero Steel, @lagrangedev\n-Hardware accel: @cysic_xyz @Ingo_zk\n-Proof markets: @boundless_xyz\n\n👉 Privacy = data protection & compliant governance\n-Privacy L1s: @AleoHQ @MinaProtocol @ironfishcrypto @namada\n-Privacy rollups: @aztecnetwork\n-Payments: @Zcash\n-ID / zkDID: @Sismo_eth, zkID, zkKYC\n-Governance: DAO voting\n\n👉 Interop = multi-chain trust & data integrity\n-zkBridge / cross-chain: @PolyhedraZK @HerodotusDev @SuccinctLabs (light client), @ElectronZK\n-Data proofs: @axiom_xyz (history), @SpaceandTimeDB (zkSQL)\nIoT/storage: @Filecoin + zk",
+      "timestamp": "Aug 28, 2025 · 10:06 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961007588361097281#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961006742323831274#m",
+      "content": "1/\n🔑 Evolution of ZK:\n1980s–2010s: Theory\n-MIT researchers propose ZK, initially “interactive proofs.”\n-zk-SNARKs appear in 2010s → efficiency boost.\n\nLate 2010s: Blockchain apps\n@Zcash brings zk-SNARKs to private payments.\n\n2020s: Breakout expansion\n• zkRollup → Layer2 scaling\n• zk-STARKs (@StarkWareLtd) → no trusted setup\n• zkEVM → bytecode-level EVM compatibility (@Scroll_ZKP @taikoxyz @0xPolygon)\n• zkVM → “trustworthy CPU” (@RiscZero @SuccinctLabs @DelphinusLab)\n\nBeyond that:\nzkCoprocessor → outsource complex logic (@RiscZero Steel, @SuccinctLabs Coprocessor)\nzkMarketplace → marketized proof networks (@boundless_xyz)\n\n👉 ZK is becoming the universal compute layer.",
+      "timestamp": "Aug 28, 2025 · 10:03 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961006742323831274#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1961005898534703203#m",
+      "content": "🧵 【Deep Dive】From zkVM to the Open Proof Market  @RiscZero × @boundless_xyz\n\nZero-knowledge proofs (ZK) are becoming the cornerstone of verifiable computation in blockchain, with a clearer trajectory and use cases emerging:\n\n⚡️ Three pillars: scalability (Rollups, zkEVM, zkVM), privacy (payments, governance, identity), interoperability (cross-chain, data proofs).\n\n🛠 Tech evolution: zkRollup → zkEVM → general-purpose zkVM (RISC-V, LLVM IR, Wasm) → zkCoprocessor → zkMarketplace.\n\n🚀 @RiscZero   leverages RISC-V to build its zkVM, extends with the Steel coprocessor and Bonsai high-performance network, and evolves into @boundless_xyz , a decentralized proof marketplace—turning ZK computation into a tradable commodity. We also compare Risc Zero vs Succinct, and the trade-offs between RISC-V and Wasm approaches.\n\nWhile the ZK sector faces short-term cooling and limited demand, in the long run the commoditization and infrastructural maturation of ZK are set to drive the next industry cycle of opportunity.\n\nLet’s dive in 🧠",
+      "timestamp": "Aug 28, 2025 · 10:00 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1961005898534703203#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1960684952024220089#m",
+      "content": "13.5/\n 🧵@boundless_xyz vs Bonsai vs @SuccinctLabs \n\n@boundless_xyz : RISC Zero 推出的去中心化 ZK 市场 → PoVW + 低门槛，订单量与程序数量领先开放普适路线。\n\nBonsai: @RiscZero  → Prover-as-a-Service，为开发者降低 zk 接入门槛，按需付费/服务化，未完全市场化。\n\n@SuccinctLabs  (SPN): 高性能、低延迟 zkVM + Prover Network → staking & 拍卖，专业化网络工业落地导向。",
+      "timestamp": "Aug 27, 2025 · 12:44 PM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1960684952024220089#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1960622138110697531#m",
+      "content": "15/\nZK 已从扩容工具进化为 可信计算基石。\n@RiscZero 通过 RISC-V 架构，衍生 zkVM → Coprocessor → @boundless_xyz 市场\n\n虽然ZK 短期仍受市场降温、L2 自研 prover 及应用早期限制，证明市场订单不足。但长期路径已清晰：zkEVM → 通用 zkVM → 去中心化证明市场。ZK 正在加速商品化与基础设施化，孕育下一轮产业机遇。\n\n🧠 长期来看，ZK 技术依然是区块链可信计算的基石。\n\n📖 完整研报：\n🔗localhost:8080/0xjacobzhao/status/195…\n🔗localhost:8080/0xjacobzhao/status/195…\n\n📰 媒体发布：\nForesight News: foresightnews.pro/article/de…\nPA News: panewslab.com/zh/articles/e1…\n\n📬 订阅研究栏目：\nSubstack: 0xjacobzhao.substack.com/p/z…\nParagraph: paragraph.com/@0xjacobzhao/从-zkvm-到开放证明市场：risc-zero与boundless解析",
+      "timestamp": "Aug 27, 2025 · 8:35 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1960622138110697531#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1960619023768658421#m",
+      "content": "14/\n🧵 ZKVM 技术路线对比：RISC-V vs Wasm\nRISC-V = 性能 & 通用计算\nWasm = 跨语言 & Web2 迁移\nzkEVM = 兼容性 & 生态最大化\n\n🔹 RISC-V zkVM（@RiscZero、@SuccinctLabs SP1）\n硬件级开放 ISA，规则简洁\n工具链完备，支持 Rust / C++\n易于电路优化 & 未来硬件加速\n👉 适合通用计算、AI+ZK、跨链验证\n难度：⭐⭐，潜力：⭐⭐⭐⭐\n\n🔹 zkWasm（@DelphinusLab zkWasm）\n基于 WebAssembly 标准，生态成熟\n天然跨语言，方便 Web2 应用迁移\n但栈式架构限制性能，电路优化难\n👉 适合 Web 友好场景\n难度：⭐⭐，潜力：⭐⭐⭐\n\n🔹 zkEVM（Scroll、Taiko、Polygon zkEVM）\n完全复现 EVM 执行语义\n兼容历史状态 & Gas 规则\n工程难度极高，但生态接入度最大\n👉 以太坊扩容的正统路线\n难度：⭐⭐⭐⭐⭐，潜力：⭐⭐⭐⭐⭐",
+      "timestamp": "Aug 27, 2025 · 8:22 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1960619023768658421#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1960617722808877528#m",
+      "content": "13/\n🧵 ZKVM & ZK 市场竞品分析\n目前同时布局 zkVM + zkMarketplace 的代表项目有：\n-@RiscZero （zkVM + Bonsai + @boundless_xyz \n-@SuccinctLabs  （SP1 zkVM + SPN）\n两者在战略与定位上走了不同路径。\n\n🔹 @RiscZero  路线\nzkVM：通用型（RISC-V 内核）\nBonsai：中心化托管 Prover，高性能、企业级 SLA\n@boundless_xyz : 开放算力市场，任何 GPU/CPU 节点可参与\n👉 平衡开放性与工业化落地。\n\n🔹 @SuccinctLabs  路线\nSP1 zkVM：RISC-V + LLVM IR，专注高性能\nSPN：专业化 Prover 网络（staking + 竞价）\n👉 聚焦性能 & 标准化，走高性能 zk 网络路线。\n\n核心对比：\n网络结构：@boundless_xyz 开放市场 vs SPN 专业化集中\n性能表现：Bonsai 稳定 / @boundless_xyz波动 vs SPN 更低延迟\n进入门槛：@boundless_xyz 个人 GPU 可参与 vs SPN 高门槛专业节点\n经济模型：PoVW + SaaS vs staking + slashing\n适用场景：RISC Zero 兼顾 DeFi、AI、科研；Succinct 专注高性能 Rollup & Bridge",
+      "timestamp": "Aug 27, 2025 · 8:17 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1960617722808877528#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1960616373979394054#m",
+      "content": "12/ \n🧵 @RiscZero 融资\n💰 融资：2023 年 7 月完成 4000 万美元 A 轮\n领投：@blockchaincap\n参投：@BainCapCrypto、@GalaxyDigital、@IOSGVC、@fenbushi、@Delphi_Digital、@Alchemy、@__geometry__、@Maven11Capital、@iobc_capital、@d1ventures、@Rockaway_X、@FigmentCapital、@DispersionVC、@l2iterative、@GnosisVC、@rollupventures、@zero__dao、@A100x_Ventures、Aglaé Ventures、@CotaCapital 等\n知名个人：@danboneh, @0xMert_, @_patrickogrady, @nickwh8te , \n\nRISC Zero = 顶尖团队 + 强大资本，从 zkVM 到 Boundless，正在推动 ZK 从技术走向 产业化 & 普适化。",
+      "timestamp": "Aug 27, 2025 · 8:12 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1960616373979394054#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1960615970260836549#m",
+      "content": "11/\n🧵 @RiscZero 团队\n\nRISC Zero 成立于 2021，团队来自 @amazon  、@Google 、@Intel、@Meta、@Coinbase、@Mina 、等顶尖机构，打造全球首个可运行任意代码的 zkVM。\n\n核心成员：\n@BruestleJeremy  （Co-founder | CEO）\n@FrankLaub_R0 （Co-founder | CTO）\n@ssh_nkar （@boundless_xyz CEO）\n@TivoZK @writtenterribly  (@boundless_xyz  COO)\n@Xi_195 (VP of Product, @boundless_xyz )\n@Phil_Kelly_NYC (VP Ecosystem, @boundless_xyz )\n@intoverflow (Principal Engineer)\n@LDC917 (General Counsel of @boundless_xyz )\n\n其他团队成员：@hashcashier @societalruin @Nahoc10  @frannie_cs @reka_eth @kashviETH  @sashaaldrick @marvelgirl_eth @0xEverly @zksanca @selinaco_o @talianotnatalie @Tinaliu333 @RiscZeroCN",
+      "timestamp": "Aug 27, 2025 · 8:10 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1960615970260836549#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1960605100973678921#m",
+      "content": "10/\nZK Coin（ZKC）= Boundless 协议的原生代币。\n总量：10 亿，通胀递减：首年 7% → 第 8 年稳定 3%。\n\n🔑 ZKC 的四大角色：\n1⃣ 质押抵押：Prover 必须抵押 ≥10× 请求费，违约罚没\n2⃣ PoVW 激励：挖矿奖励（75% Prover 25% 质押）\n3⃣ 支付层：应用方支付所有证明需 ZKC 背书\n4⃣ 治理功能：参与市场机制、zkVM 集成、基金会治理\n\n📊 代币分配（10 亿枚）\n-生态增长 49%（31% 基金 + 18% 战略增长）\n-团队 & 贡献者 23.5%\n-投资者 21.5%\n-社区 6%（公募 + 空投）\n\n生态设计：\n-生态基金：工具/应用/教育扶持\n-战略增长基金：BD + 企业级集成\n-RISC Zero 3.5%：支持 zkVM 研发与研究基金",
+      "timestamp": "Aug 27, 2025 · 7:27 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1960605100973678921#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1960603720884085175#m",
+      "content": "9/\n🧵 @boundless_xyz  ：通用零知识计算市场\n核心 = 将证明生成与共识解耦 → 通过去中心化市场分发计算任务。\n\n工作流程：\n1⃣ 开发者提交 zkVM 程序与输入\n2⃣ Prover 节点竞价 → 获得执行权\n3⃣ 子任务 → zk-STARK 证明 → 聚合为终极证明\n4⃣ 跨链统一验证接口\n结果：突破 Gas 上限 & 区块容量限制。\n\n💡 PoVW（Proof of Verifiable Work）\n与传统 PoW 的“无意义算力”不同，Boundless 把算力直接转化为有用的 ZK 结果。\n\n⚡ Boundless for Apps = 无限算力层\n优势：无限执行，恒定 Gas 成本，兼容Solidity/Vyper，跨链原生支持\n🔹Steel 在其中实现：事件驱动逻辑，历史状态查询，跨区块计算\n\n🛠 Boundless for Rollups：专为 OP Stack 链设计的加速器。\n-Hybrid 模式：ZK Fraud Proof → ~3h 最终性\n-Validity 模式：ZK Validity Proof → <1h 最终性\n代表方案：OP Kailua，已被 Eclipse & BOB 采用。\n\n🔔 The Signal: 一个开源 ZK 共识客户端，它将以太坊信标链最终性压缩为单个证明 → 任何链可直接验证。",
+      "timestamp": "Aug 27, 2025 · 7:22 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1960603720884085175#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1960601575946379558#m",
+      "content": "8/\n@RiscZero 完整产品矩阵：\n-R0VM 2.0：zkVM 引擎\n-Boundless：去中心化证明市场\n-Bonsai：中心化 Prover 托管网络\n-Steel：zkCoprocessor\n-OP Kailua：OP Rollup ZK 升级\n-Zeth：基于 zkVM 的区块证明器\n-The Signal：跨链 ZK 共识客户端",
+      "timestamp": "Aug 27, 2025 · 7:13 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1960601575946379558#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1960600354997031376#m",
+      "content": "7/\nRISC-V 是一种开放、免版税的指令集，不受单一厂商控制，天然去中心化。\n@RiscZero  基于 RISC-V 构建 zkVM，支持 Rust/C++ 等通用语言，让 ZK 扩展到更广泛的计算场景。\n\n🌐 RISC0 zkVM：通用可信计算环境\n应用 → 编译为 ELF → Host 执行 → Prover 生成 Receipt。\n任何第三方只需验证 Receipt，即可确认正确性，无需重复计算。\n\n🚀 R0VM 2.0 (2025.4)：\n区块证明 35min → 44s\n成本降低 5x\n内存扩展至 3GB\n新增 BN254 & BLS12-381\n电路形式化验证 → 目标 <12s 实时证明",
+      "timestamp": "Aug 27, 2025 · 7:08 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1960600354997031376#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1960559495299653739#m",
+      "content": "6/\n此外，ZK 技术正在进入新阶段：zkVM → zkCoprocessor → zkMarketplace。\n\n-zkVM = CPU，提供通用可信计算 （@RiscZero，@SuccinctLabs，@DelphinusLab zkWasm）\n-zkCoprocessor = GPU，外包复杂任务（@RiscZero Steel、@lagrangedev）\n-zkMarketplace = 去中心化算力市场（@boundless_xyz）\n\n演进逻辑：\nzkVM 奠定基础 → Coprocessor 卸载任务 → Marketplace 让证明变为全球可交易算力。\n\n@RiscZero  在开放性与效率间找到平衡：\nzkVM 低门槛，Steel/Bonsai/@boundless_xyz  向上延展 → ZK 升级为 通用可信计算基建。",
+      "timestamp": "Aug 27, 2025 · 4:26 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1960559495299653739#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1960557728985964675#m",
+      "content": "5/\n在此背景下，通用 zkVM 崛起。\n它取代 zkEVM 的“以太坊兼容思维”，转向“链无关的可信计算”。\nzkVM = ZK 世界的 可信 CPU。\n\n通用 zkVM 基于开放指令集：RISC-V（@RiscZero、@SuccinctLabs SP1）和 Wasm（@DelphinusLab zkWasm），支持 Rust、C/C++ 等语言，让开发者直接构建任意逻辑。\n\nRISC-V 路线：\n✔ 开放生态、简洁指令集，易电路化\n✔ 支持 Rust/C/C++ 编译结果\n✘ 与 EVM 字节码无天然兼容，需要协处理器模式嵌入。\n代表：@RiscZero、@SuccinctLabs SP1\n\nWasm 路线：\n✔ WebAssembly 生态成熟、跨平台、开发者熟悉\n✘ 指令集复杂，证明性能受限\n代表：@DelphinusLab zkWasm",
+      "timestamp": "Aug 27, 2025 · 4:19 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1960557728985964675#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1960556829865599071#m",
+      "content": "4/\n@VitalikButerin  2022 年提出了 zkEVM 四类分类，揭示了 兼容性与性能的权衡：\n\n🔹 Type 1（完全等价）：字节码与以太坊 L1 完全一致，迁移成本最低，但证明最慢。代表：@taikoxyz\n🔹 Type 2（完全兼容）：保持高度 EVM 等价，仅少量底层优化。代表：@Scroll_ZKP、@LineaBuild\n🔹 Type 2.5（准兼容）\n小幅修改 EVM（gas、预编译支持），牺牲部分兼容性换取性能。代表：@0xPolygon zkEVM、@KakarotZkEvm\n🔹 Type 3（部分兼容）\n修改更彻底，可跑大多数应用，但不完全复用以太坊 infra。代表：@zksync Era\n🔹 Type 4（语言级兼容）\n放弃字节码兼容，从高级语言编译到 zkVM。性能最佳，但需重建生态。代表：@StarknetFndn (Cairo)\n\n这一阶段的主旋律是 zkRollup 战争，目标是缓解以太坊的执行瓶颈，但暴露出两大问题：\n1⃣ EVM 电路化难度高、效率受限\n2⃣ ZK 潜力远超扩容",
+      "timestamp": "Aug 27, 2025 · 4:15 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1960556829865599071#m",
+      "author": "0xjacobzhao"
+    },
+    {
+      "id": "1960555017808777469#m",
+      "content": "3/\nZK 技术的三大核心应用场景：\n1⃣ 扩容（Scalability）\n2⃣ 隐私（Privacy）\n3⃣ 互操作 & 数据证明（Interoperability & Data Integrity）\n分别对应：性能不足、隐私缺失、多链互信三大痛点。\n\n👉 扩容 = 高性能 & 通用计算\n扩容（Scalability） = ZK 最早落地、应用最广的方向。\n思路：链下执行 + 链上验证。\n结果：TPS 提升，成本降低，安全性不减。\n\n-zkRollup：@zksync、@Scroll_ZKP、@0xPolygon @StarknetFndn \n-zkEVM：@0xPolygon zkEVM、@LineaBuild、@taikoxyz、@zksync Era、@KakarotZkEvm\n-通用 zkVM：@RiscZero、@SuccinctLabs SP1、@DelphinusLab zkWasm\n-zk-Coprocessor：@RiscZero Steel、@lagrangedev\n-硬件加速：@cysic_xyz、@Ingo_zk\n-Proof Markets：@boundless_xyz\n\n👉 隐私 = 数据保护 & 合规治理\n隐私型 L1：@AleoHQ、@MinaProtocol、@ironfishcrypto、@namada\n隐私 Rollups：@aztecnetwork\n隐私支付：@Zcash\n隐私身份 / zkDID：@Sismo_eth、zkID、zkKYC\n隐私治理：DAO 投票\n\n👉 互操作 = 多链信任 & 数据完整性\n\nzkBridge / 跨链：@PolyhedraZK、@HerodotusDev、@SuccinctLabs（轻客户端）、@ElectronZK\n数据证明：@axiom_xyz（历史数据）、@SpaceandTimeDB（zkSQL）\nIoT / 存储证明：@Filecoin+zk",
+      "timestamp": "Aug 27, 2025 · 4:08 AM UTC",
+      "url": "https://twitter.com/0xjacobzhao/status/1960555017808777469#m",
+      "author": "0xjacobzhao"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-20T23:36:32.448Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 26653,
+    "cursorTrail": [
+      "DAAHCgABG3vbeUT__-oLAAIAAAATMTk3ODc0ODA2OTIyODUzMTk5NggAAwAAAAIAAA",
+      "DAAHCgABG3vbeUT__9ULAAIAAAATMTk3NjQ4NzU3NzMxOTU3MTkyOAgAAwAAAAIAAA",
+      "DAAHCgABG3vbeUT__8ALAAIAAAATMTk3NTIzNzQ4OTQwMjI3Nzk3NQgAAwAAAAIAAA",
+      "DAAHCgABG3vbeUT__6wLAAIAAAATMTk3MTI2NDkyMDMzNjU5NzAxMggAAwAAAAIAAA",
+      "DAAHCgABG3vbeUT__5cLAAIAAAATMTk3MDA2NDMzMzg1NTE4Njk5MAgAAwAAAAIAAA",
+      "DAAHCgABG3vbeUT__4ILAAIAAAATMTk2ODcwMDMxODAxNjk5NTgwNQgAAwAAAAIAAA",
+      "DAAHCgABG3vbeUT__20LAAIAAAATMTk2Nzk2Mjk3NDY0OTQ1NDgzNAgAAwAAAAIAAA",
+      "DAAHCgABG3vbeUT__1kLAAIAAAATMTk2NTM2NDE3OTA4NDQ3NjY2MggAAwAAAAIAAA",
+      "DAAHCgABG3vbeUT__0ULAAIAAAATMTk2MTAxMDA2Mjc5OTAyODMyOAgAAwAAAAIAAA",
+      "DAAHCgABG3vbeUT__zALAAIAAAATMTk2MDU1NzcyODk4NTk2NDY3NQgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

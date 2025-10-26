@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nitter API Dashboard - Web3 Social Monitor</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .dashboard {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+        .card h3 {
+            color: #5a67d8;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .status-indicator {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            display: inline-block;
+        }
+
+        .status-online { background: #48bb78; }
+        .status-offline { background: #f56565; }
+        .status-loading { background: #ed8936; animation: pulse 1s infinite; }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .stat-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-top: 10px;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 15px;
+            background: #f7fafc;
+            border-radius: 10px;
+            border-left: 4px solid #5a67d8;
+        }
+
+        .stat-number {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #5a67d8;
+        }
+
+        .stat-label {
+            font-size: 0.9em;
+            color: #718096;
+            margin-top: 5px;
+        }
+
+        .opportunity-item {
+            background: #f7fafc;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-left: 4px solid #48bb78;
+        }
+
+        .opportunity-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .opportunity-type {
+            background: #5a67d8;
+            color: white;
+            padding: 3px 8px;
+            border-radius: 15px;
+            font-size: 0.8em;
+        }
+
+        .opportunity-priority {
+            font-weight: bold;
+            color: #e53e3e;
+        }
+
+        .opportunity-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+            color: #2d3748;
+        }
+
+        .opportunity-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 0.9em;
+            color: #718096;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: all 0.3s ease;
+            margin: 5px;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+        .btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 20px;
+            color: #718096;
+        }
+
+        .error {
+            background: #fed7d7;
+            color: #c53030;
+            padding: 15px;
+            border-radius: 10px;
+            margin: 10px 0;
+            border-left: 4px solid #f56565;
+        }
+
+        .success {
+            background: #c6f6d5;
+            color: #22543d;
+            padding: 15px;
+            border-radius: 10px;
+            margin: 10px 0;
+            border-left: 4px solid #48bb78;
+        }
+
+        .controls {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .filter-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+        }
+
+        .tier-item {
+            background: #edf2f7;
+            padding: 10px;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .tier-premium { border-left: 4px solid #d69e2e; }
+        .tier-verified { border-left: 4px solid #38a169; }
+        .tier-standard { border-left: 4px solid #3182ce; }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+
+            .dashboard {
+                grid-template-columns: 1fr;
+                gap: 15px;
+            }
+
+            .header h1 {
+                font-size: 2em;
+            }
+
+            .header p {
+                font-size: 1em;
+            }
+
+            .controls {
+                text-align: center;
+                margin-bottom: 15px;
+            }
+
+            .btn {
+                padding: 10px 18px;
+                font-size: 0.9em;
+                margin: 3px;
+            }
+
+            .card {
+                padding: 20px;
+            }
+
+            .stat-grid {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+
+            .opportunity-item {
+                padding: 12px;
+            }
+
+            .opportunity-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 10px;
+            }
+
+            .opportunity-meta {
+                font-size: 0.8em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🐦 Nitter API Dashboard</h1>
+            <p>Web3 Social Media Monitoring System</p>
+            <div style="margin-top: 15px; padding: 10px; background: rgba(255,255,255,0.2); border-radius: 8px; font-size: 0.9em;">
+                <span>🔗 API地址: </span>
+                <span id="api-address" style="font-weight: bold;">检测中...</span>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button class="btn" onclick="refreshAll()">🔄 刷新所有数据</button>
+            <button class="btn" onclick="testConnection()">🔗 测试连接</button>
+            <button class="btn" onclick="clearData()">🗑️ 清空显示</button>
+        </div>
+
+        <div class="dashboard">
+            <!-- Service Status Card -->
+            <div class="card">
+                <h3>
+                    <span id="status-indicator" class="status-indicator status-loading"></span>
+                    服务状态
+                </h3>
+                <div id="service-status" class="loading">正在检查服务状态...</div>
+            </div>
+
+            <!-- Statistics Card -->
+            <div class="card">
+                <h3>📊 运行统计</h3>
+                <div id="statistics" class="loading">正在加载统计信息...</div>
+            </div>
+
+            <!-- Filter Configuration Card -->
+            <div class="card">
+                <h3>⚙️ 过滤配置</h3>
+                <div id="filter-config" class="loading">正在加载过滤器配置...</div>
+            </div>
+
+            <!-- Recent Opportunities Card -->
+            <div class="card">
+                <h3>🎯 最新机会</h3>
+                <div id="recent-opportunities" class="loading">正在加载最新机会...</div>
+            </div>
+        </div>
+
+        <!-- Full Width Cards -->
+        <div class="card" style="margin-bottom: 20px;">
+            <h3>🔍 监控配置详情</h3>
+            <div id="monitoring-details" class="loading">正在加载监控详情...</div>
+        </div>
+
+        <div class="card">
+            <h3>📱 实时日志</h3>
+            <div id="logs" class="loading">正在连接日志流...</div>
+        </div>
+    </div>
+
+    <script>
+        // API Base URL - 自动检测当前页面地址
+        const API_BASE = `${window.location.protocol}//${window.location.host}`;
+
+        let isConnected = false;
+
+        // 检查服务连接状态
+        async function testConnection() {
+            const statusEl = document.getElementById('service-status');
+            const indicatorEl = document.getElementById('status-indicator');
+
+            try {
+                statusEl.innerHTML = '正在测试连接...';
+                indicatorEl.className = 'status-indicator status-loading';
+
+                const response = await fetch(`${API_BASE}/health`, {
+                    method: 'GET',
+                    timeout: 5000
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    isConnected = true;
+                    indicatorEl.className = 'status-indicator status-online';
+                    statusEl.innerHTML = `
+                        <div class="success">✅ 服务在线</div>
+                        <div class="stat-grid">
+                            <div class="stat-item">
+                                <div class="stat-number">${data.uptime || 0}s</div>
+                                <div class="stat-label">运行时间</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-number">${data.version || 'v1.0'}</div>
+                                <div class="stat-label">版本</div>
+                            </div>
+                        </div>
+                    `;
+                } else {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+            } catch (error) {
+                isConnected = false;
+                indicatorEl.className = 'status-indicator status-offline';
+                statusEl.innerHTML = `
+                    <div class="error">❌ 连接失败: ${error.message}</div>
+                    <p>请确认:</p>
+                    <ul>
+                        <li>Nitter API服务是否启动 (端口3001)</li>
+                        <li>Docker容器是否正在运行</li>
+                        <li>防火墙设置是否正确</li>
+                    </ul>
+                `;
+            }
+        }
+
+        // 获取统计信息
+        async function loadStatistics() {
+            const statsEl = document.getElementById('statistics');
+
+            if (!isConnected) {
+                statsEl.innerHTML = '<div class="error">请先测试连接</div>';
+                return;
+            }
+
+            try {
+                const response = await fetch(`${API_BASE}/stats`);
+                const data = await response.json();
+
+                statsEl.innerHTML = `
+                    <div class="stat-grid">
+                        <div class="stat-item">
+                            <div class="stat-number">${data.stats?.tweetsProcessed || 0}</div>
+                            <div class="stat-label">处理推文</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">${data.stats?.opportunitiesFound || 0}</div>
+                            <div class="stat-label">发现机会</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">${data.monitoredAccounts || 0}</div>
+                            <div class="stat-label">监控账户</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">${data.keywords || 0}</div>
+                            <div class="stat-label">关键词</div>
+                        </div>
+                    </div>
+                    <p style="margin-top: 15px; color: #718096;">
+                        上次更新: ${new Date(data.lastUpdate).toLocaleString('zh-CN')}
+                    </p>
+                `;
+            } catch (error) {
+                statsEl.innerHTML = `<div class="error">加载统计失败: ${error.message}</div>`;
+            }
+        }
+
+        // 获取过滤器配置
+        async function loadFilterConfig() {
+            const configEl = document.getElementById('filter-config');
+
+            if (!isConnected) {
+                configEl.innerHTML = '<div class="error">请先测试连接</div>';
+                return;
+            }
+
+            try {
+                const response = await fetch(`${API_BASE}/filters`);
+                const data = await response.json();
+
+                configEl.innerHTML = `
+                    <div class="stat-grid">
+                        <div class="stat-item">
+                            <div class="stat-number">${data.totalRules || 0}</div>
+                            <div class="stat-label">过滤规则</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">${data.suspiciousPatternsCount || 0}</div>
+                            <div class="stat-label">反诈模式</div>
+                        </div>
+                    </div>
+                    <div class="filter-stats">
+                        ${data.accountTiers?.map(tier => `
+                            <div class="tier-item tier-${tier.tier}">
+                                <strong>${tier.tier.toUpperCase()}</strong><br>
+                                ${tier.accountCount} 账户<br>
+                                ${tier.priorityMultiplier}x 权重
+                            </div>
+                        `).join('') || ''}
+                    </div>
+                `;
+            } catch (error) {
+                configEl.innerHTML = `<div class="error">加载配置失败: ${error.message}</div>`;
+            }
+        }
+
+        // 获取最新机会
+        async function loadRecentOpportunities() {
+            const oppsEl = document.getElementById('recent-opportunities');
+
+            if (!isConnected) {
+                oppsEl.innerHTML = '<div class="error">请先测试连接</div>';
+                return;
+            }
+
+            try {
+                const response = await fetch(`${API_BASE}/opportunities?limit=5`);
+                const opportunities = await response.json();
+
+                if (opportunities.length === 0) {
+                    oppsEl.innerHTML = '<p>暂无检测到的机会</p>';
+                    return;
+                }
+
+                oppsEl.innerHTML = opportunities.map(opp => `
+                    <div class="opportunity-item">
+                        <div class="opportunity-header">
+                            <span class="opportunity-type">${opp.type}</span>
+                            <span class="opportunity-priority">优先级: ${opp.priority}/10</span>
+                        </div>
+                        <div class="opportunity-title">${opp.title}</div>
+                        <div class="opportunity-meta">
+                            <span>@${opp.source}</span>
+                            <span>${new Date(opp.timestamp).toLocaleString('zh-CN')}</span>
+                            ${opp.reward ? `<span>奖励: ${opp.reward}</span>` : ''}
+                        </div>
+                    </div>
+                `).join('');
+            } catch (error) {
+                oppsEl.innerHTML = `<div class="error">加载机会失败: ${error.message}</div>`;
+            }
+        }
+
+        // 加载监控详情
+        async function loadMonitoringDetails() {
+            const detailsEl = document.getElementById('monitoring-details');
+
+            if (!isConnected) {
+                detailsEl.innerHTML = '<div class="error">请先测试连接</div>';
+                return;
+            }
+
+            try {
+                // 获取真实的账户和关键词数据
+                const [accountsRes, keywordsRes] = await Promise.all([
+                    fetch(`${API_BASE}/accounts`),
+                    fetch(`${API_BASE}/keywords`)
+                ]);
+
+                const accountsData = await accountsRes.json();
+                const keywordsData = await keywordsRes.json();
+
+                detailsEl.innerHTML = `
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+                        <div>
+                            <h4>监控账户 (${accountsData.count})</h4>
+                            <div style="margin-top: 10px; max-height: 200px; overflow-y: auto;">
+                                ${accountsData.accounts.map(acc => `
+                                    <span style="background: #edf2f7; padding: 5px 10px; margin: 2px; border-radius: 15px; font-size: 0.9em; display: inline-block;">@${acc}</span>
+                                `).join('')}
+                            </div>
+                        </div>
+                        <div>
+                            <h4>关键词 (${keywordsData.count})</h4>
+                            <div style="margin-top: 10px; max-height: 200px; overflow-y: auto;">
+                                ${keywordsData.keywords.map(kw => `
+                                    <span style="background: #e6fffa; padding: 5px 10px; margin: 2px; border-radius: 15px; font-size: 0.9em; display: inline-block;">${kw}</span>
+                                `).join('')}
+                            </div>
+                        </div>
+                    </div>
+                `;
+            } catch (error) {
+                detailsEl.innerHTML = `<div class="error">加载监控详情失败: ${error.message}</div>`;
+            }
+        }
+
+        // 实时日志流 - 从API获取真实日志
+        function startLogStream() {
+            const logsEl = document.getElementById('logs');
+            logsEl.innerHTML = '<div style="color: #718096; font-style: italic;">等待实时日志数据...</div>';
+
+            // 每10秒尝试获取新日志
+            setInterval(async () => {
+                try {
+                    // 这里应该连接WebSocket或者轮询日志API
+                    // 目前显示静态消息直到实现真实日志流
+                    const timestamp = new Date().toLocaleTimeString('zh-CN');
+                    if (isConnected) {
+                        logsEl.innerHTML = `<div style="margin: 5px 0; font-family: monospace; font-size: 0.9em; color: #48bb78;">[${timestamp}] 服务正常运行，等待实时日志流实现...</div>`;
+                    }
+                } catch (error) {
+                    console.error('Log stream error:', error);
+                }
+            }, 10000);
+        }
+
+        // 刷新所有数据
+        async function refreshAll() {
+            await testConnection();
+            if (isConnected) {
+                await loadStatistics();
+                await loadFilterConfig();
+                await loadRecentOpportunities();
+                await loadMonitoringDetails();
+            }
+        }
+
+        // 清空显示
+        function clearData() {
+            document.getElementById('service-status').innerHTML = '已清空';
+            document.getElementById('statistics').innerHTML = '已清空';
+            document.getElementById('filter-config').innerHTML = '已清空';
+            document.getElementById('recent-opportunities').innerHTML = '已清空';
+            document.getElementById('monitoring-details').innerHTML = '已清空';
+            document.getElementById('logs').innerHTML = '已清空';
+            document.getElementById('status-indicator').className = 'status-indicator status-loading';
+            isConnected = false;
+        }
+
+        // 页面加载时自动测试连接
+        window.onload = async function() {
+            // 显示当前API地址
+            document.getElementById('api-address').textContent = API_BASE;
+
+            await testConnection();
+            if (isConnected) {
+                await loadStatistics();
+                await loadFilterConfig();
+                await loadRecentOpportunities();
+                await loadMonitoringDetails();
+            }
+            startLogStream();
+        };
+
+        // 每30秒自动刷新数据
+        setInterval(async () => {
+            if (isConnected) {
+                await loadStatistics();
+                await loadRecentOpportunities();
+            }
+        }, 30000);
+    </script>
+</body>
+</html>

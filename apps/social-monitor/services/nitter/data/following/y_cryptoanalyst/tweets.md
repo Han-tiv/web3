@@ -1,0 +1,2268 @@
+# yyy (@y_cryptoanalyst)
+
+- 抓取时间：2025-10-21T00:13:47.388Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：26107 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：11
+- 抓取尝试：1
+- Cursor 链：10 条
+- 账号统计：粉丝 24716，关注 5663，推文 12119，点赞 19825
+- 所在地：Moon
+- Twitter：https://twitter.com/y_cryptoanalyst
+- 头像：https://pbs.twimg.com/profile_images/1940912893202944000/CGNonSFc_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1426697517668847618/1753673089
+- 认证：Blue Verified
+
+> 账号简介：
+> 收手吧，阿祖
+>  
+> Shitposts. Head of E-beggers. Dyor.
+>  
+> 「若批评不自由，则赞美无意义」
+
+---
+
+## 1. Apr 29, 2025 · 3:47 PM UTC · 1917244346564530673#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1917244346564530673#m
+- 作者：@y_cryptoanalyst
+
+> 我发的任何让你亏钱的项目都是广子，我发的任何让你赚钱的项目都是alpha.
+>  
+> 除此之外的所有内容，都是段子。
+
+## 2. Oct 20, 2025 · 2:21 AM UTC · 1980096935290929419#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1980096935290929419#m
+- 作者：@y_cryptoanalyst
+
+> 如果LLM 取代的是白领阶层，那么人形机器人取代的更多是蓝领阶层。
+>  
+> Robotics 是AI 的最终形态，但赛道的潜力却远被低估。
+
+## 3. Oct 20, 2025 · 2:13 AM UTC · 1980095105492222231#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1980095105492222231#m
+- 作者：@y_cryptoanalyst
+
+> localhost:8080/i/lists/19798251402729…
+
+## 4. Oct 20, 2025 · 2:13 AM UTC · 1980095032439996911#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1980095032439996911#m
+- 作者：@y_cryptoanalyst
+
+> 自建了一个Robotics 赛道的CT List，有需要自取：
+>  
+> 主要追踪3类CT 账号:
+> 1/ 潜力Robotics 赛道项目；
+> 2/ 相关项目核心团队成员；
+> 3/ 专注于Robotics 赛道的KOL.
+>  
+> List 链接见评论区。
+
+## 5. Oct 19, 2025 · 2:40 AM UTC · 1979739345549709454#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1979739345549709454#m
+- 作者：@y_cryptoanalyst
+
+> 伟大的叙事大多都是泛/ 跨赛道的：
+>  
+> 比如zk 叙事可以是高性能L2 链，可以是证明市场，也可以是隐私；
+>  
+> AI Agents 叙事可以是AI，可以是Launchpad，也可以是DAO；
+>  
+> Robotics 就是泛赛道的叙事：它不仅是人形机器人，也可以是AI，可以是机器学习，也可以是意图。
+>  
+> 做多Robotics，做多赛道双龙头 @openmind_agi & @PrismaXai.
+
+## 6. Oct 18, 2025 · 10:14 AM UTC · 1979491390381064686#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1979491390381064686#m
+- 作者：@y_cryptoanalyst
+
+> 不懂就问，你们奶HongKongDoll 是为了求她一个回关吗？
+>  
+> 如果是的话，那我就释怀了。
+
+## 7. Oct 18, 2025 · 9:58 AM UTC · 1979487366789451803#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1979487366789451803#m
+- 作者：@y_cryptoanalyst
+
+> 为什么KOL 大大们都喜欢炫自己的Monad 空投等级卡牌呢？
+>  
+> 闷声发大财，不香吗？
+
+## 8. Oct 17, 2025 · 1:50 PM UTC · 1979183315694555173#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1979183315694555173#m
+- 作者：@y_cryptoanalyst
+
+> Kaito 对crypto 潜力叙事的捕获能力还是很敏锐的，刚发现上线了Robotics 赛道看板 - 即人形机器人。
+>  
+> 先立个flag:
+> Robotics 人形机器人赛道会是下轮周期最主流的叙事之一，地位相当于AI Agents 之于本轮周期。
+>  
+> 目前Kaito 的Robotics 看板只集成了一个协议：
+> @openmind_agi
+>  
+> 除此之外，我看好的细分赛道项目还包括：
+> @PrismaXai
+> @BitRobotNetwork
+> @frodobots
+>  
+> 人形机器人赛道目前仍处于极早期的叙事阶段。
+>  
+> 但它的叙事足够性感和伟大：
+>  
+> 血肉苦弱，机械飞升。
+
+## 9. Oct 17, 2025 · 12:23 PM UTC · 1979161287268368593#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1979161287268368593#m
+- 作者：@y_cryptoanalyst
+
+> 持有/ 质押博空投策略你更钟情于哪个？
+>  
+> @binance - $BNB
+> @okx - $OKB
+> @KaitoAI - $KAITO
+> @0xPolygon - $POL
+
+## 10. Oct 17, 2025 · 12:06 AM UTC · 1978975866588688597#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1978975866588688597#m
+- 作者：@y_cryptoanalyst
+
+> Aster: 币安弃子
+> Plasma: Rug 链Blast 新盘
+> Monad: 末代VC 垃圾币
+>  
+> 无畏老师多战无一败绩，你永远可以相信这个男人！
+
+## 11. Oct 16, 2025 · 2:40 PM UTC · 1978833337557881237#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1978833337557881237#m
+- 作者：@y_cryptoanalyst
+
+> 我说什么来着？
+>  
+> 主打一个听劝。
+
+## 12. Oct 16, 2025 · 1:40 PM UTC · 1978818437968200020#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1978818437968200020#m
+- 作者：@y_cryptoanalyst
+
+> 现在应该是Monad 生态原生协议最好的tge 时间节点，Berachain 是前车之鉴。
+>  
+> 等Monad 上主网tge 后，生态原生协议估值可能直接打骨折。
+>  
+> 机不可失，失不再来。
+
+## 13. Oct 16, 2025 · 2:16 AM UTC · 1978646166905524289#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1978646166905524289#m
+- 作者：@y_cryptoanalyst
+
+> 史诗级pua 项目代表：
+>  
+> 隐私赛道：
+> @aztecnetwork
+>  
+> BTCFi 赛道：
+> @build_on_bob
+>  
+> 稳定币赛道：
+> @noble_xyz
+>  
+> SocialFi 赛道：
+> @LC
+>  
+> L2 赛道：
+> @Karak_Network
+>  
+> RaaS 赛道：
+> @conduitxyz
+>  
+> ??? 赛道：
+> @Tabichain
+
+## 14. Oct 16, 2025 · 1:54 AM UTC · 1978640761236193717#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1978640761236193717#m
+- 作者：@y_cryptoanalyst
+
+> 一群焦虑症的Founder，一群躁郁症的CEX，一群抑郁症的韭菜。
+>  
+> 完美的crypto 行业闭环。
+
+## 15. Oct 16, 2025 · 1:46 AM UTC · 1978638526641209617#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1978638526641209617#m
+- 作者：@y_cryptoanalyst
+
+> KOL 的发言是用来维护自己的立场和利益的，不是用来表达自己的思想和认知的。
+>  
+> 不要本末倒置了。
+
+## 16. Oct 15, 2025 · 2:37 PM UTC · 1978470334006472898#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1978470334006472898#m
+- 作者：@y_cryptoanalyst
+
+> 空投提名制会成为压死传统工作室和撸毛党的最后一根稻草。
+>  
+> 继Monad 后，由Momentum 开启了新一轮空投提名制的效仿潮。
+
+## 17. Oct 15, 2025 · 1:44 PM UTC · 1978456864225476739#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1978456864225476739#m
+- 作者：@y_cryptoanalyst
+
+> 2024年11月：
+> AC 和孙哥指控Coinbase 收天价上币费，而Binance 收$0。
+>  
+> 2025年10月：
+> CJ 指控Binance 收天价上币费，而Coinbase 收 $0。
+>  
+> 横跨一年的朴实无华的商战。
+
+## 18. Oct 15, 2025 · 7:15 AM UTC · 1978358981455216663#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1978358981455216663#m
+- 作者：@y_cryptoanalyst
+
+> 一个靠社区募资fomo 起来的项目创始人敢硬刚CEX 这叫做正能量。
+>  
+> 但你不能问这些社区投资人利益会不会因此受损，也不能问这个项目创始人有没有私心。
+>  
+> 问就是负能量。
+
+## 19. Oct 14, 2025 · 11:45 PM UTC · 1978245860229271614#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1978245860229271614#m
+- 作者：@y_cryptoanalyst
+
+> Polygon 这是做拆分盘做上瘾了吗？
+>  
+> @useTria 这个新盘子出自前Polygon 加速器主管 @vijitkatta 之手，核心定位是AI 支付基础设施。
+>  
+> 刚宣布完成一轮由P2 Ventures, Aptos 和一众知名天使投资人参与的1200万美元Pre-Seed 轮融资。@0xPolygon CEO @sandeepnailwal 参投了，且Tria 找来了 @0xPolygon 和Polychain 作为此轮融资的顾问。
+>  
+> 总之，这个盘子跟Polygon 有着千丝万缕的关系，基本可以坐实是拆分盘玩法。
+>  
+> 预计很快就会在Polygon 质押的Community Drops 面板看到它了。
+
+## 20. Oct 14, 2025 · 2:18 PM UTC · 1978103215397736943#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1978103215397736943#m
+- 作者：@y_cryptoanalyst
+
+> Just created my early access ID for @spotsdotfun Season 1 👀💎 link.spots.fun/citizen/14266…
+
+## 21. Oct 14, 2025 · 1:34 PM UTC · 1978091988919488643#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1978091988919488643#m
+- 作者：@y_cryptoanalyst
+
+> 空投claim 宕机见多了，查询空投资格宕机还是第一次见。
+
+## 22. Oct 14, 2025 · 7:08 AM UTC · 1977994981974659185#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1977994981974659185#m
+- 作者：@y_cryptoanalyst
+
+> 接众矢之的甲方广子要关闭评论区，不是跟扫街要戴套一样，是共识吗？
+>  
+> 先爱己，而后爱人。
+
+## 23. Oct 14, 2025 · 6:45 AM UTC · 1977989087123615928#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1977989087123615928#m
+- 作者：@y_cryptoanalyst
+
+> 1011黑天鹅单日全网TVL 暴跌10%，但仅仅过了不到2天时间，全网TVL 指标实现V 返，收复近7成失地。
+>  
+> 头部几个蓝筹defi 协议均未受到太大冲击，代表协议如再质押赛道的 @eigenlayer, 稳定币赛道的 @ethena_labs, 借贷赛道的 @MorphoLabs 等等。
+>  
+> @MorphoLabs 作为全网扩张性最强（除主流公链外，Morpho 还支持包括Hyperliquid L1，Polygon 最强拆分盘之一的 @katana 等热门公链）的多链借贷协议，链上TVL 和其原生代币 $MORPHO 数据反弹表现都比较强势，快速V 返。
+>  
+> 协议原生代币 $MORPHO 被价值发现，近期上线 @binance 现货并对BNB 持有者进行空投，空投范围涵盖参与定期保本赚币、活期保本赚币和链上赚币的用户。至此，补全了10大defi 协议原生代币上线币安现货的最后一块拼图。
+> binance.com/zh-CN/bnb
+>  
+> @MorphoLabs 多链扩张的下一站是哪里？盲猜是 @monad.
+
+## 24. Oct 13, 2025 · 2:24 PM UTC · 1977742335099252775#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1977742335099252775#m
+- 作者：@y_cryptoanalyst
+
+> 传送门：
+> app.wallchain.xyz/app/settin…
+
+## 25. Oct 13, 2025 · 2:22 PM UTC · 1977741827177640156#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1977741827177640156#m
+- 作者：@y_cryptoanalyst
+
+> 由 @DWFLabs 支持的稳定币协议 @FalconStable 也要推出权益类NFT 了。
+>  
+> 有别于其他权益类NFT 与协议潜在空投强绑定，FF 的PERRYVERSE 系列NFT 作为S2 活动的“Miles 加速器”。Miles 跟挖矿收益直接挂钩。
+>  
+> NFT 总量3500枚：WL mint 价1000 $FF, 公开轮mint 价2000 $FF. NFT 有不同的稀有度等级，稀有度越高意味着S2 的Miles 加成越大。
+>  
+> <如何获取WL 资格？>
+> 唯一路径是在10月20日快照前质押1000枚 $FF 代币，即自动参与NFT WL 抽签，中签者获得WL 资格。
+>  
+> 值得注意的是，据Defillama 数据，FF 的稳定币 $USDf 目前市值已触及14亿美元，跻身第10大稳定币，仅次于 @ethena_labs 的稳定币USDTB. 且协议链上数据也出现异动，过去几小时内新增约3亿美元存款。
+>  
+> 如果看好FF 生态后续发展的，这个系列NFT 可以说是S2 玩家的必选项了。
+
+## 26. Oct 13, 2025 · 2:21 PM UTC · 1977741375492780421#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1977741375492780421#m
+- 作者：@y_cryptoanalyst
+
+> 有玩InfoFi 平台 @wallchain_xyz 的，记得去添加一下EVM 和Solana 地址。
+>  
+> 看样子像是要tge 了。
+
+## 27. Oct 13, 2025 · 9:44 AM UTC · 1977671705981309364#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1977671705981309364#m
+- 作者：@y_cryptoanalyst
+
+> 1011：
+> 全网爆仓190亿美元，熊市了
+>  
+> 1013:
+> 大规模清完杠杆了，开启全面牛市
+>  
+> 不敢想象这种市场情绪的转变，只用了2天时间。
+>  
+> 一起迎接Q4 新一轮的项目密集tge 潮。
+
+## 28. Oct 12, 2025 · 1:09 PM UTC · 1977360878786732047#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1977360878786732047#m
+- 作者：@y_cryptoanalyst
+
+> cz 关注了star 的fudder，star 关注了cz 的fudder。
+>  
+> 好一场朴实无华的商战。
+
+## 29. Oct 12, 2025 · 5:01 AM UTC · 1977238092584300766#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1977238092584300766#m
+- 作者：@y_cryptoanalyst
+
+> 说句可能得罪人的话，不要又当又立已经可以领先CT 90%以上的KOL 了。
+
+## 30. Oct 11, 2025 · 5:37 AM UTC · 1976884877153989065#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1976884877153989065#m
+- 作者：@y_cryptoanalyst
+
+> 行情好的时候你抱怨怎么不给抄底机会，等到现在真正给机会你又不愿意了。
+
+## 31. Oct 11, 2025 · 3:33 AM UTC · 1976853691367092665#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1976853691367092665#m
+- 作者：@y_cryptoanalyst
+
+> 崩盘前兆玄学指标：
+>  
+> 孙哥要来大的
+> 华子明牌抄底
+>  
+> 中一个指标，80%概率崩；
+> 两个指标都中，100%崩盘。
+
+## 32. Oct 11, 2025 · 12:16 AM UTC · 1976804059958092134#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1976804059958092134#m
+- 作者：@y_cryptoanalyst
+
+> 抢时间完成tge 的项目方看还在等时机tge 的项目方，仿佛在看一群弱智。
+
+## 33. Oct 10, 2025 · 3:00 PM UTC · 1976664139373437138#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1976664139373437138#m
+- 作者：@y_cryptoanalyst
+
+> 我的Kaito 空投栏好久没亮过了，终于亮一次了。
+>  
+> 索尼克闭环了。 @SonicLabs
+
+## 34. Oct 10, 2025 · 2:14 PM UTC · 1976652444391358754#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1976652444391358754#m
+- 作者：@y_cryptoanalyst
+
+> 继Limitless 超募200倍后，Umbra 也超募了200倍。
+>  
+> 又给了众多迷茫的项目方无限的憧憬和希望，你们所有奶的KOL 都有责任。
+
+## 35. Oct 10, 2025 · 12:22 PM UTC · 1976624435290661179#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1976624435290661179#m
+- 作者：@y_cryptoanalyst
+
+> 低情商：广子勿喷（rug 盘）
+>  
+> 高情商：期待一下
+
+## 36. Oct 9, 2025 · 11:52 PM UTC · 1976435630742938099#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1976435630742938099#m
+- 作者：@y_cryptoanalyst
+
+> 有就有，没有就没有。
+>  
+> 你加个问号什么意思？ @monad
+
+## 37. Oct 9, 2025 · 2:07 PM UTC · 1976288336970154067#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1976288336970154067#m
+- 作者：@y_cryptoanalyst
+
+> 不好意思，我问一下：怎么卖Monad 卡？
+>  
+> 我想在10月14日前卖掉。
+
+## 38. Oct 9, 2025 · 12:25 PM UTC · 1976262631238533130#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1976262631238533130#m
+- 作者：@y_cryptoanalyst
+
+> 继 @aPriori 后，@monad 生态又出现了一个高融资的天王级生态协议 - @BlockSt_HQ.
+>  
+> @BlockSt_HQ 刚宣布完成一轮由 @hack_vc 领投的1150万美元融资，跟投机构包括Generative Ventures 和 @DWFLabs.
+>  
+> 核心定位是链上股票执行层，属于RWA 大赛道。预计首发Monad 主网，再逐步扩展至以太坊、BNB 和Base 等热门EVM 生态链。
+>  
+> 无论是定位于CeDeFi 平台的 @aPriori 还是定位于RWA 股票代币化的 @BlockSt_HQ, 都有很大概率成为Monad 主网上线后的核心生态位。
+
+## 39. Oct 9, 2025 · 4:09 AM UTC · 1976137931585892764#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1976137931585892764#m
+- 作者：@y_cryptoanalyst
+
+> Near 链又异动了，@NEARProtocol 的意图交易层 @near_intents 近一周交易量暴涨。
+>  
+> 据Dune 数据，交易的核心资产除稳定币大饼以太外，隐私币 $ZEC 的交易量出现飙升。
+>  
+> 结合Near 链近期TVL 并未出现明显上涨，基本可以判定这些主流资产借Near 的跨链infra 来“过桥”。
+>  
+> 核心资产流动起来了，利好defi 叙事。
+
+## 40. Oct 9, 2025 · 3:00 AM UTC · 1976120677402018268#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1976120677402018268#m
+- 作者：@y_cryptoanalyst
+
+> 又见CT 外文区集体学讲中国话的盛况，只不过这次的含唐量有点高。
+
+## 41. Oct 8, 2025 · 1:08 PM UTC · 1975911104451867087#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1975911104451867087#m
+- 作者：@y_cryptoanalyst
+
+> 还币安自行车吗？
+> 还币安身份吗？
+> 还币安大军吗？
+> 还币安思维吗？
+> 还币安狗吗？
+> 还逢低买入吗？
+
+## 42. Oct 8, 2025 · 12:35 PM UTC · 1975902900963746142#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1975902900963746142#m
+- 作者：@y_cryptoanalyst
+
+> 发财了。
+>  
+> Thank you crypto. @trylimitless
+
+## 43. Oct 7, 2025 · 1:42 PM UTC · 1975557423835562040#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1975557423835562040#m
+- 作者：@y_cryptoanalyst
+
+> 如果你没有买币安人生，请不要打开推特。
+>  
+> 否则你就会发现，CT 时间线上就只有你没买币安人生。
+
+## 44. Oct 7, 2025 · 3:29 AM UTC · 1975403155421864071#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1975403155421864071#m
+- 作者：@y_cryptoanalyst
+
+> 继小狐狸MetaMask 宣布确认发币后，Consensys 创始人 @ethereumJoseph 表示Consensys 旗下另一核心产品 @infura_io 也将推出代币。
+>  
+> Infura 的核心定位是去中心化基础设施网络DIN，这种基建类项目有什么参与角度？
+>  
+> 第一步：买入 $LINEA;
+> 第二步：提现到 @LineaBuild 链上；
+> 第三步：等空投。
+>  
+> 本空投策略纯属虚构，如有雷同，纯属巧合。
+
+## 45. Oct 7, 2025 · 2:53 AM UTC · 1975393995716284467#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1975393995716284467#m
+- 作者：@y_cryptoanalyst
+
+> 利好Linea，本质上都可以看成Linea 的拆分盘。
+>  
+> 聪明的群友已经开始做多Linea 了。
+
+## 46. Oct 6, 2025 · 11:15 PM UTC · 1975339136417722606#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1975339136417722606#m
+- 作者：@y_cryptoanalyst
+
+> 摈弃噪音，喊熊是踏空者的墓志铭。
+
+## 47. Oct 6, 2025 · 11:01 PM UTC · 1975335646786167091#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1975335646786167091#m
+- 作者：@y_cryptoanalyst
+
+> 据Defillama 数据，全链TVL 突破1740亿美元，即将突破有史以来的最高点。
+>  
+> TVL 上轮牛市的最高点是1780亿美元，据ath 仅差40亿美元，大概是0.4个 @sparkdotfi 的体量。
+>  
+> 准备迎接这一轮的链上大牛市。
+
+## 48. Oct 6, 2025 · 10:26 PM UTC · 1975326920461197576#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1975326920461197576#m
+- 作者：@y_cryptoanalyst
+
+> 卖了是为了买，买了是为了卖。
+>  
+> 期待李华重拾E 子，再次授予以太坊世界计算机的殊荣。
+
+## 49. Oct 6, 2025 · 3:11 PM UTC · 1975217274002067960#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1975217274002067960#m
+- 作者：@y_cryptoanalyst
+
+> Monad 空投claim 时间为：10月9日
+>  
+> 已知：
+> 10月2日：51%
+> 10月6日：80%
+>  
+> 求解：
+> 4天完成29%
+>  
+> (1-80%)/29%/4 ≈ 3
+
+## 50. Oct 6, 2025 · 8:26 AM UTC · 1975115327173488920#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1975115327173488920#m
+- 作者：@y_cryptoanalyst
+
+> 有一说一，目前已tge 的Kaito Launchpad 发射项目没有一个是亏钱的，赚多赚少而已。
+>  
+> 这些项目包括：@boundless_xyz / @HanaNetwork / @Everlyn_ai
+>  
+> 退一万步讲，能让散户赚钱的平台就是好平台。
+
+## 51. Oct 6, 2025 · 1:16 AM UTC · 1975007346045915625#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1975007346045915625#m
+- 作者：@y_cryptoanalyst
+
+> 李华清仓了他口中的世界计算机，看涨4.5万美金却选择在4500美金清仓又何尝不是一种勇气？
+
+## 52. Oct 6, 2025 · 12:04 AM UTC · 1974989046264050084#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1974989046264050084#m
+- 作者：@y_cryptoanalyst
+
+> 自从我这2天开始发鸡汤文后，流量也是好起来了。
+>  
+> 原来CT 受众不需要alpha，要鸡汤，毒鸡汤也行。
+
+## 53. Oct 5, 2025 · 11:47 PM UTC · 1974984713594081442#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1974984713594081442#m
+- 作者：@y_cryptoanalyst
+
+> Polygon 拆分盘 @billions_ntwk 的官方NFT Supermasks 今晚9点启动第一阶段GTD 轮freemint，有freemint 资格的记得去打。
+>  
+> 这个系列NFT 总量8888，Billions 官方明牌站台，包括联创 @provenauthority 和 @davidsrz 在内的团队核心成员均在X 头像添加了这个面具。
+>  
+> 这个数量和公开轮的这个mint 价，结合目前项目的热度，有不小概率要亏钱。dyor.
+>  
+> 白单资格检查链接：
+> opensea.io/collection/billio…
+
+## 54. Oct 5, 2025 · 1:34 PM UTC · 1974830539166363784#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1974830539166363784#m
+- 作者：@y_cryptoanalyst
+
+> Aster 宣布S2 空投标准前：
+> Hyperliquid 杀手、2025年最伟大的空投、大格局、CZ 亲儿子
+>  
+> Aster 宣布S2 空投标准后：
+> 诈骗项目、老鼠仓畜生盘、ctm 维权
+
+## 55. Oct 5, 2025 · 5:46 AM UTC · 1974712682734670149#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1974712682734670149#m
+- 作者：@y_cryptoanalyst
+
+> 虽然目前已经超募了166倍，还是选择在接近截止时间塞了 @trylimitless .
+>  
+> 常规配额不抱希望了，赌一把yapper 30% 的优先配额。
+
+## 56. Oct 5, 2025 · 5:28 AM UTC · 1974708287510909188#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1974708287510909188#m
+- 作者：@y_cryptoanalyst
+
+> 你竟然都选择来玩这个不问出身的圈子了，无论你乐此不疲于高学历还是妄自菲薄于低学历都是对你来时路的不尊重。
+
+## 57. Oct 5, 2025 · 1:29 AM UTC · 1974648168391553139#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1974648168391553139#m
+- 作者：@y_cryptoanalyst
+
+> 一个很奇怪的链上现象：
+>  
+> TVL 排名靠前的L1/ L2 链有不少近期都创新高ath 了，但却没有出现太多的链上机会和大范围的链上造富效应。
+>  
+> TVL 排名前15的公链，有近一半（7/15）@solana / @Plasma / @base / @arbitrum / @SuiNetwork / @LineaBuild / @katana 都ath 了。
+>  
+> 是我又信息茧房了吗？
+
+## 58. Oct 4, 2025 · 1:43 PM UTC · 1974470431337013737#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1974470431337013737#m
+- 作者：@y_cryptoanalyst
+
+> 求求你们KOL 不要再晒收入了，我以前就算被项目方割得再惨都可以接受，但一看到你们晒年度收入，就心如刀绞，眼泪不自觉地就流了下来。
+
+## 59. Oct 4, 2025 · 12:25 PM UTC · 1974450694511063061#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1974450694511063061#m
+- 作者：@y_cryptoanalyst
+
+> 放下助人情结，尊重他人命运。
+
+## 60. Oct 4, 2025 · 9:56 AM UTC · 1974413359782187383#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1974413359782187383#m
+- 作者：@y_cryptoanalyst
+
+> 不懂就问：Cosmos 系是板块轮动还是回光返照？
+
+## 61. Oct 4, 2025 · 1:55 AM UTC · 1974292376173892093#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1974292376173892093#m
+- 作者：@y_cryptoanalyst
+
+> crypto 是普通人一辈子能接触到最低门槛的朝阳行业了。
+
+## 62. Oct 4, 2025 · 12:04 AM UTC · 1974264447234433217#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1974264447234433217#m
+- 作者：@y_cryptoanalyst
+
+> crypto 项目方的基本盘：
+>  
+> 请老外站台
+> 请AI 矩阵号写水文
+> 请美女KOL 当大使跑会
+
+## 63. Oct 3, 2025 · 4:28 AM UTC · 1973968354768801904#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1973968354768801904#m
+- 作者：@y_cryptoanalyst
+
+> zk 是多形态的：它可以是隐私币、可以是隐私计算、可以是zk Rollup 链、可以是zk 证明市场、可以是zk 高性能VM……
+>  
+> 如果一个zk 项目在上述任一板块轮动下都选择装死，别质疑，庄弃盘了。
+
+## 64. Oct 3, 2025 · 4:19 AM UTC · 1973966060463497565#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1973966060463497565#m
+- 作者：@y_cryptoanalyst
+
+> 撸Double Zero 有什么角度？
+>  
+> 空投撸不上，曲线救国撸CEX 奖池也还行。
+>  
+> @doublezero 上线了 @Bybit_Official 的Token Splash 活动，奖池共分配550万枚 $2Z 代币。
+>  
+> Token Splash 活动又分为2个奖池：存款赚币和交易赚币。
+>  
+> 1/ 存款赚币奖池共计200万枚 $2Z 代币：
+>  
+> 存款赚币针对新用户，累计充值2000枚 $2Z 或充值100 USDT 并首次交易等值100 USDT 的 $2Z 代币即符合资格，前5000名每人获得400枚 $2Z 代币；
+>  
+> 2/ 交易赚币奖池共计350万枚 $2Z 代币：
+>  
+> 不限用户，任何人在10月10日前完成等值500 USDT 的 $2Z 代币现货交易即可参与瓜分奖池奖励，奖励根据用户交易量瓜分，单个用户上限是1800 枚 $2Z 代币。
+>  
+> 活动传送门：
+> bybit.com/en/trade/spot/toke…
+
+## 65. Oct 3, 2025 · 2:37 AM UTC · 1973940331021545742#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1973940331021545742#m
+- 作者：@y_cryptoanalyst
+
+> Founders Fund 今年出手次数很少，但凡出手的都是难得一遇对社区友好的项目。
+>  
+> Avantis 对了一次，Plasma 又对了一次。
+>  
+> Founders Fund 今年一共就投了5个项目，剩余的3个目前均尚未发币。
+>  
+> 它们分别是：
+>  
+> 稳定币协议 @ubyx_
+> AI 计算协议 @PrimeIntellect
+> 模块化infra @AltiusLabs
+>  
+> 其中 @PrimeIntellect 和 @AltiusLabs 均由Founders Fund 领投。找找角度参与进去。
+
+## 66. Oct 2, 2025 · 2:09 PM UTC · 1973752159083868395#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1973752159083868395#m
+- 作者：@y_cryptoanalyst
+
+> 最近聊Polygon 和它的各种拆分盘多了，感觉推文都带着咖喱味。
+>  
+> 但我还是想提一嘴对 @0xMiden 的重视程度，Miden 代表Polygon 下一阶段的战略导向 - zk 和隐私领域。
+>  
+> 独立发币、冷门早期、强资源驱动。
+
+## 67. Oct 2, 2025 · 6:49 AM UTC · 1973641365994217517#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1973641365994217517#m
+- 作者：@y_cryptoanalyst
+
+> Double Zero 没什么好fud 的，已经暗示得很明显了：双无。
+>  
+> Zero Airdrop, Zero Community.
+
+## 68. Oct 2, 2025 · 3:43 AM UTC · 1973594731763605933#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1973594731763605933#m
+- 作者：@y_cryptoanalyst
+
+> 2025年Q4 的这三个月，是你一生一次的机会，你要谢绝一切饭局，放弃一切娱乐，把自己锁在屋子里，不要约会，不要度假，100%专注在Crypto上，抓住你一生难得的一次机会。
+
+## 69. Oct 2, 2025 · 12:55 AM UTC · 1973552271830163591#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1973552271830163591#m
+- 作者：@y_cryptoanalyst
+
+> 虚假的阿童木7天涨30倍，真实的阿童木3年跌7倍。
+>  
+> 太魔幻了。 @cosmos
+
+## 70. Oct 2, 2025 · 12:36 AM UTC · 1973547688181506557#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1973547688181506557#m
+- 作者：@y_cryptoanalyst
+
+> Probably Nothing. @0xPolygon
+
+## 71. Oct 1, 2025 · 9:24 AM UTC · 1973318070363115634#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1973318070363115634#m
+- 作者：@y_cryptoanalyst
+
+> Polygon 拆分盘 @billions_ntwk 要发新系列的NFT 了，freemint 是NFT 最美的姿态。
+>  
+> 感谢 @jgonzalezferrer
+
+## 72. Oct 1, 2025 · 2:36 AM UTC · 1973215389808242716#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1973215389808242716#m
+- 作者：@y_cryptoanalyst
+
+> 有VC 币 有meme 币：价值洼地论
+> 有VC 币 没有meme 币：meme 无用论，VC 币被严重低估
+> 没有VC 币 有meme 币：VC 币无用论，交代盘宇宙所背锅
+> 没有VC 币 没有meme 币：牛顶割韭菜论
+>  
+> 总结下来就是有币跟无币、有什么币跟没有什么币之间的矛盾。
+>  
+> 这种矛盾不可调和，屁股决定脑袋，没有谁比谁更高尚。
+
+## 73. Oct 1, 2025 · 2:25 AM UTC · 1973212579473535449#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1973212579473535449#m
+- 作者：@y_cryptoanalyst
+
+> 作为全球支付巨头，Paypal 在加密项目的融资布局眼光可以说非常毒辣。
+>  
+> 从RWA 资产发行总量最大的非EVM 高性能公链 @Aptos, 到 Delta 中性稳定币 @ethena_labs, 再到稳定币L1 链 @stable 和专注于AI Agent 支付的 @GoKiteAI.
+>  
+> Paypal 对加密项目的融资触角延伸至整个稳定币赛道的上、中、下游。Aptos 和Stable 代表上游的infra 层；Ethena 代表中游的发行和流动性层；@GoKiteAI 则代表下游的支付相关的应用和服务层。
+>  
+> 从需求侧看，在可预见的未来，AI agents 将成为稳定币最大的使用方，AI 支付规模将成为远超所有trafi 的庞然大物。@GoKiteAI 作为稳定币支付体系的Agentic Internet 基础层，直接承接了巨量的稳定币支付市场的需求。
+>  
+> <那么，同样备受Paypal 资本青睐的 @stable 是否会跟 @GoKiteAI 形成恶性竞争呢？>
+>  
+> 在我看来，两者之间的合作关系要远大于竞争。
+>  
+> @stable 作为稳定币专用L1 链，核心是拓展包括 $PYUSD, $USDT 等的链上应用，确保交易的安全性和高效性；
+>  
+> 而 @GoKiteAI 充当AI Agents 层，为稳定币提供AI 自主交易、身份构建、策略执行等场景，深化稳定币的应用场景。
+>  
+> 即2者间形成真正意义上的生态协同效应，进一步扩充Paypal 在加密领域的生态版图。
+>  
+> 以上。
+
+## 74. Sep 30, 2025 · 11:36 PM UTC · 1973170232387891304#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1973170232387891304#m
+- 作者：@y_cryptoanalyst
+
+> Anoma 和Namada 不愧是姐妹盘，做市手法和空投格局都那么相似。
+>  
+> 总结出的方法论是：
+> 先行盘是验证主盘是否值得参与的黄金标准。
+>  
+> 先行盘格局不行的项目方，可以战略性放弃主盘的机会。
+
+## 75. Sep 30, 2025 · 4:24 AM UTC · 1972880112363385233#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1972880112363385233#m
+- 作者：@y_cryptoanalyst
+
+> 不知不觉，加密二级市场行情又到了tge 纸手即收益最大化的阶段了。
+
+## 76. Sep 30, 2025 · 4:14 AM UTC · 1972877726332940470#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1972877726332940470#m
+- 作者：@y_cryptoanalyst
+
+> RWA 赛道继续突突突，总资产规模来到310 亿美元新高，RWA 赛道大规模爆发成为主流叙事的前置条件基本成立了。
+>  
+> 细分赛道布局上可以双管齐下：一手抓老牌公链的RWA 链上机会：@0xPolygon, @avax, @Aptos 均被验证过是非常好的孕育RWA 的温床；另一手抓待tge 的潜力RWA 协议的参与机会。
+>  
+> @MANSA_FI, @Aria_Protocol 和 @Novastro_xyz 是我个人比较看好的RWAfi infra 协议，这也是我评估后选择在Kaito Launchpad 上塞 @Novastro_xyz 的原因。找角度参与进去，ICO 是最简单粗暴的角度。
+>  
+> @Novastro_xyz 的Kaito 公售还有2天结束，目前进度140%+。按照目前塞的速度看，公售结束进度应该在200% 以内。Dyor.
+
+## 77. Sep 29, 2025 · 4:44 PM UTC · 1972704052229316859#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1972704052229316859#m
+- 作者：@y_cryptoanalyst
+
+> 新rug 盘来了。
+>  
+> AC 的新盘 @flyingtulip_ 以10亿美元估值完成2亿美元种子轮融资，并计划按此估值在协议原生平台进行ICO 再募8亿美元。
+>  
+> Sonic 币价已经被搞得半死不活了，这个节骨眼宁可搞新盘也不做Sonic 的拆分盘，除了割我实在想不出其他原因了。
+>  
+> 那么，这个巨型大割盘的ICO 你会塞吗？
+
+## 78. Sep 29, 2025 · 12:23 PM UTC · 1972638446134124787#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1972638446134124787#m
+- 作者：@y_cryptoanalyst
+
+> 越把社区优先挂在嘴边的项目方越会背刺社区，
+>  
+> 越会贩卖焦虑的KOL 割起韭菜来越狠毒。
+
+## 79. Sep 29, 2025 · 9:20 AM UTC · 1972592194612768988#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1972592194612768988#m
+- 作者：@y_cryptoanalyst
+
+> 嘴撸 + 测试网 + NFT + DC role = 1000+ $XAN
+>  
+> 按照盘前价，约合150U 巨毛。
+>  
+> thank you crypto.
+
+## 80. Sep 29, 2025 · 5:40 AM UTC · 1972536847474798898#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1972536847474798898#m
+- 作者：@y_cryptoanalyst
+
+> 预测一下 @0xPolygon 几个拆分盘的TGE 顺序：今年2个，明年2个。
+>  
+> 今年： @katana 先， @SentientAGI 后
+> 明年： @billions_ntwk 先， @0xMiden 后
+>  
+> @sandeepnailwal 资本在做一个很大的局。
+
+## 81. Sep 27, 2025 · 12:59 PM UTC · 1971922661711532144#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1971922661711532144#m
+- 作者：@y_cryptoanalyst
+
+> 质押/ 持有博空投系列：
+>  
+> S 级：BNB
+> A 级：KAITO
+> B 级：ATOM
+> C 级：TIA
+> D 级：W
+
+## 82. Sep 27, 2025 · 8:13 AM UTC · 1971850589035536780#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1971850589035536780#m
+- 作者：@y_cryptoanalyst
+
+> 花了3分钟时间思考，我也在 @trylimitless 和 @Novastro_xyz 两者间选择了塞后者。
+>  
+> Limitless 目前已经超募了40倍，就算Pledge 塞满也分不了太多配额，而且拉满太占用资金机会成本了。
+>  
+> 我选择塞 @Novastro_xyz 除了不卷这一点原因外，还出于以下几点考虑：
+>  
+> @Novastro_xyz 核心定位是RWA infra，正值风口赛道，没有直接竞品在近期tge，此其一；
+>  
+> 跟韩国社区走得很近、社区活跃度还行，单独给韩文创作者Kaito yapper 奖励等，赌一赌上韩所的预期，此其二；
+>  
+> Novastro 确定原生代币符号 $XNL, 是不是跟这几天的大热门Plasma 的原生代币 $XPL 很像，赌一波玄学，此其三。
+>  
+> 以上。dyor.
+
+## 83. Sep 27, 2025 · 2:37 AM UTC · 1971766009288933718#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1971766009288933718#m
+- 作者：@y_cryptoanalyst
+
+> 观察到一个有趣的数据：
+> 从数据面看，目前链上资金的狂热情绪远没有达到上轮牛市的水平。
+>  
+> 据Defillama 数据，上轮牛市链上TVL 峰值达到 $175.6b，同期链上稳定币市值仅为 $140b，两者比值1.25。侧面说明稳定币已经高度活跃于Defi，链上几乎没有闲置的稳定币；
+>  
+> 再对比这轮正在进行中的牛市数据，链上TVL 达到 $160b，几乎接近上轮牛市峰值；但链上稳定币市值却高达 $292.8b 且呈现出持续ath 的趋势；
+>  
+> 说明了什么问题？
+> 大量的稳定币涌入链上，但却没有充分参与defi 生态，都在伺机而动。
+>  
+> 1300亿美元的潜在defi 需求缺口，请你再拉高一点对这轮牛市的想象力。
+
+## 84. Sep 26, 2025 · 11:58 PM UTC · 1971726050549027009#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1971726050549027009#m
+- 作者：@y_cryptoanalyst
+
+> 项目方设置极短的空投claim 期、严苛的锁仓释放机制、以高收益矿币诱骗质押，是对自己项目未来极度不自信的表现。
+>  
+> 纸手、不接盘、拉高后低倍做空，是跟它们的相处之道。
+
+## 85. Sep 26, 2025 · 7:18 AM UTC · 1971474423460086261#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1971474423460086261#m
+- 作者：@y_cryptoanalyst
+
+> 踏空Plasma 给我狠狠上了一课：牛市不能对项目有偏见，不能对公售塞钱有偏见，尤其是资本抱团组局的项目。
+>  
+> Kaito, Buildpad 等公售平台的崛起带回了曾经ICO 时代的盛况，决定公售投入产出比的核心在于选品。这次我想选 @yieldbasis.
+>  
+> @yieldbasis 是由稳定币 @CurveFinance 创始人@newmichwill 创立，旨在消除LP 无常损失的去中心化收益协议。同时也是ICO 平台 @legiondotcc 和CEX @krakenfx 联合推出的首个公售项目。
+>  
+> 扒了下这个ICO 平台的背景，@legiondotcc 由Delphi Labs 孵化，完成了2轮共计700万美元融资，融资机构包括Coinbase/ Kraken/ Crypto.com 等CEX 背后的资本。监管合规性非常高。
+>  
+> 再聊回首个公售项目本身，@yieldbasis 通过基于创新的杠杆AMM 模型，将用户通过AMM 交易产生的手续费作为存入资产的底层收益。即收益本质上取决于真实的市场做市交易波动，而非不可持续的原生代币补贴。
+>  
+> 关于公售：9月29日晚10点开始在 @legiondotcc 平台进行优先认购（基于Legion 分数获得优先配额）；10月1日晚10点同时在@legiondotcc 和 @krakenfx 上开启FCFS 轮抢购。感兴趣的可以提前注册好Legion 和Kraken 账号做好准备。Dyor.
+>  
+> ps: @yieldbasis 公售总额度为500万美元，其中20% 即100万美元配额分配给Legion 平台的优先认购轮；FDV 为 $200M，TGE 100% 解锁。
+
+## 86. Sep 25, 2025 · 11:52 PM UTC · 1971362243066626325#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1971362243066626325#m
+- 作者：@y_cryptoanalyst
+
+> 不懂就问：为什么KOL 都是无限子弹？
+>  
+> 塞完 @FalconStable 塞 @AnichessGame
+> 塞完 @AnichessGame 塞 @Novastro_xyz
+> 塞完 @Novastro_xyz 塞 @trylimitless
+> 塞完 @trylimitless 塞 @yieldbasis
+>  
+> 还截图证明给你看。
+
+## 87. Sep 25, 2025 · 2:06 PM UTC · 1971214685165977967#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1971214685165977967#m
+- 作者：@y_cryptoanalyst
+
+> Aster 对了一次
+>  
+> Plasma 又对了一次
+>  
+> 太准了
+>  
+> 我以后要做无畏老师的对手盘
+
+## 88. Sep 25, 2025 · 9:56 AM UTC · 1971151809902485895#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1971151809902485895#m
+- 作者：@y_cryptoanalyst
+
+> 刚刚头脑风暴出一种可以让比特币网络实现抗量子攻击的方法：脑机接口（BCI）。
+>  
+> 算力足够强大的量子计算机可以通过“撞库”从公钥反推出私钥，破解后实现资产的窃取。
+>  
+> 假设比特币网络通过软分叉引入BCI 验证机制，交易确认需要对用户进行实时的脑波验证。那么，即使攻击者通过量子技术获取了私钥，但由于无法模拟用户的大脑信号，攻击者无法完成最后一步交易授权。所有的交易，都需要人脑实时参与验证。
+>  
+> 量子计算机可以攻破复杂的数学难题，却基本不可能攻破实时的大脑脑波。
+
+## 89. Sep 25, 2025 · 7:04 AM UTC · 1971108591823397254#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1971108591823397254#m
+- 作者：@y_cryptoanalyst
+
+> 牛市初期：
+> 对项目上Binance Alpha 没有喜悦感
+>  
+> 牛市中期：
+> 对项目上Binance 现货没有喜悦感
+>  
+> 牛市末期：
+> 对项目上韩所没有喜悦感
+>  
+> 所以现在属于哪个阶段？
+
+## 90. Sep 25, 2025 · 4:54 AM UTC · 1971075769901383698#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1971075769901383698#m
+- 作者：@y_cryptoanalyst
+
+> 狠狠地塞，重铸ICO 的辉煌。
+>  
+> 能不能赚钱看选品的能力。
+>  
+> 依旧在crypto 最好的时代。
+
+## 91. Sep 25, 2025 · 4:46 AM UTC · 1971073809081098461#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1971073809081098461#m
+- 作者：@y_cryptoanalyst
+
+> Base 链超强的印钞能力，中心化排序器仅作为攫取收益的那双无形的手，而高需求应用才是收益产生的根基。
+>  
+> 协议产生的费用(fees) 是高需求应用的黄金划分标准之一。据Defillama 数据，刚上线Binance 现货不久的 @avantisfi fees 这项指标24h/ 7d 均位列 @base 所有dapps 第三位，仅次于 @Uniswap 和 @AerodromeFi 这2大DEX 协议。
+>  
+> 作为由Base 官方背书的perp DEX，@avantisfi 链上交易的强势也在一定程度上反映在其原生代币 $AVNT 的币价上。继Binance 宣布HODLer Airdrop 上线现货以来，$AVNT 迎来了日线级别的连续上涨，近一周累计涨幅达到78%。
+>  
+> 再来看收入分配机制，@avantisfi 选择将尽可能多的协议收入(fees) 以激励的方式直接分配或再分配给流动性提供者LPs。其中60% 直接分配给LPs，剩下的40% 流入国库，由国库再分配给协议核心用户群。最终目标是将收入100% 分配/ 再分配给LPs 和交易者。
+>  
+> @base 是孕育现象级dapps 的温床。作为Base 链上最大的原生perp DEX，@avantisfi 又一次佐证了前面的观点。
+>  
+> 真正的Base Summer 可能才刚刚开始。
+
+## 92. Sep 25, 2025 · 4:29 AM UTC · 1971069637656969345#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1971069637656969345#m
+- 作者：@y_cryptoanalyst
+
+> Grok 用得好，可以减轻90% 以上的crypto 项目投研工作量。
+>  
+> Grok 用得好，人人都是KOL。
+
+## 93. Sep 25, 2025 · 12:43 AM UTC · 1971012679100977489#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1971012679100977489#m
+- 作者：@y_cryptoanalyst
+
+> Defi 应用链 @katana 应该可以称得上是 @0xPolygon 的最强拆分盘。
+>  
+> 链上TVL 已经超越 @SeiNetwork 跻身第15大公链了。
+>  
+> 太魔幻了。
+
+## 94. Sep 24, 2025 · 3:51 AM UTC · 1970697569107091721#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1970697569107091721#m
+- 作者：@y_cryptoanalyst
+
+> 曾经以自己是Cosmos SDK 链为荣的项目方，现在讳莫如深，甚至以曾经用过Cosmos 技术栈为耻。
+>  
+> Cosmos 生态已经多久没有出现过现象级的公链了，据上一个天王级 @celestia TGE 已经过去2年了。
+>  
+> Cosmos 生态的下一个天王级什么时候才能来？
+
+## 95. Sep 23, 2025 · 1:15 PM UTC · 1970477069512647000#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1970477069512647000#m
+- 作者：@y_cryptoanalyst
+
+> 渐渐地
+>  
+> 没人在乎是不是虚假融资
+> 没人在乎是否真的去中心化
+> 没人在于是不是频繁宕机的机房链
+> 没人在乎创始人是不是rug 盘的连续创业者
+> 甚至没人在乎项目是不是只有一份AI 生成的白皮书
+>  
+> 兜兜转转，我们又回到了那个最好的ICO 时代
+
+## 96. Sep 23, 2025 · 8:02 AM UTC · 1970398253595402641#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1970398253595402641#m
+- 作者：@y_cryptoanalyst
+
+> 权益类NFT 要等创始人和核心团队成员换完X 头像再卖，不然容易卖飞。
+>  
+> 我知道你很急，但你别急。
+
+## 97. Sep 23, 2025 · 6:54 AM UTC · 1970381200654246258#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1970381200654246258#m
+- 作者：@y_cryptoanalyst
+
+> 始料未及。
+>  
+> mint 同步开交易市场，拉了5倍地板0.1E 了。
+>  
+> 下车了。 @lamumudotxyz
+
+## 98. Sep 23, 2025 · 6:40 AM UTC · 1970377694664683970#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1970377694664683970#m
+- 作者：@y_cryptoanalyst
+
+> 链红是非多，最近出现了针对 @base 链的FUD，最后连V 神 @VitalikButerin 都出来帮Base 解围了。
+>  
+> 目前CT 中文区好像还没有KOL 在聊这事，这条推来简单梳理下这个“Base 被FUD 门”事件。
+>  
+> FUD 的焦点在于：由于Base 运行中心化的排序器，所以它本质上是一个没有牌照的中心化证券交易所。
+>  
+> Coinbase 的CLO @iampaulgrewal 和 Base 的总负责人 @jessepollak 都给出了有力的回击：
+>  
+> 排序器的核心职能是交易排序而非交易撮合，交易撮合由智能合约通过去中心化的方式实现，所以运行中心化排序器的Base 不是传统意义上的中心化交易所。
+>  
+> “Base 不是赌场，但这并不意味着Base 去中心化”，我抛砖引玉聊聊我的看法。
+>  
+> 关于Base 不是赌场，@iampaulgrewal 和 @jessepollak 都做出了很好的解释，这里重点讲“这并不意味着Base 去中心化”。
+>  
+> 排序器的核心职能是交易排序，简言之，用户在L2 的交易进入mem 池（此时mem 池中的交易是无序状态），排序器将交易排序、压缩成一组有序的批次，然后发送到以太坊的DA 层。
+>  
+> Base 由官方运营中心化的排序器，某种意义上讲，中心化赋予了排序器对交易排序极大的自主权，它可以肆意对交易进行排序，以最大化自己的套利机会，攫取MEV 价值，延迟用户交易甚至完全审查用户。
+>  
+> 据growthepie 数据显示，Base 链近一个月狂赚511万美元收益，近一年时间这个数据高达8700万美元，印钞能力远超排名第二的 @arbitrum.
+>  
+> Base 官方运营的排序器就像一双无形的手，不动声色地攫取巨额的财富。
+>  
+> 去中心化排序器并非什么新概念，甚至可以说是一个比较成熟的赛道了。但它的去中心化意味着权力下放不可避免带来的分润，Base 链愿意为了L2 伟大的去中心化进程而牺牲超级个体的利益吗？
+>  
+> 目前来看，不现实。
+>  
+> 不是赌场并不意味着Base 足够去中心化，排序器的去中心化之路仍任重而道远。
+
+## 99. Sep 22, 2025 · 2:24 PM UTC · 1970132074830164360#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1970132074830164360#m
+- 作者：@y_cryptoanalyst
+
+> 韭菜在CT 的自我修养之吾日三省吾身：
+>  
+> KOL 所发推文为嘴撸水文乎？
+>  
+> 为广子乎？
+>  
+> 为KOL 轮乎？
+
+## 100. Sep 22, 2025 · 9:13 AM UTC · 1970053919268319540#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1970053919268319540#m
+- 作者：@y_cryptoanalyst
+
+> 李华资本：背信弃E
+>  
+> Arthur Hayes: HYPE 不如车
+>  
+> 麻吉大哥：E 败涂地
+>  
+> 神仙打架，又到了多空互道傻逼的时候。
+
+## 101. Sep 22, 2025 · 3:56 AM UTC · 1969974107900154273#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1969974107900154273#m
+- 作者：@y_cryptoanalyst
+
+> 8月，他在CT 上晒出做多 $MNT 的单，小试牛刀；
+> 9月，他又在CT 上晒出做多 $ASTER 的单，舍我其谁。
+>  
+> 现在，他的1E 千人收费群售罄一位难求，
+> 场外溢价2倍3E 出售一个席位。
+>  
+> 我编的，但现实更加戏剧化。
+
+## 102. Sep 22, 2025 · 12:17 AM UTC · 1969918923756941695#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1969918923756941695#m
+- 作者：@y_cryptoanalyst
+
+> 你还敢再相信权益类NFT 一次吗？
+>  
+> 这次花落 @commondotxyz 家。Common 是一个过气的DAO 治理平台，尚未发币，虽然拿了两轮共计2320万美元融资，但最近一轮融资要追溯到2022年了。
+>  
+> 官方pfp 系列NFT @lamumudotxyz 由 @commondotxyz 明牌站台，总量4500。团队自留多少个不清楚，只知道单钱包最多可以mint 200个；GTD/ FCFS/ 公开轮的mint 价均为0.02E。
+>  
+> 感觉又是亏钱局。Dyor.
+
+## 103. Sep 21, 2025 · 7:53 PM UTC · 1969852399889355062#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1969852399889355062#m
+- 作者：@y_cryptoanalyst
+
+> 冷知识：
+>  
+> @LineaBuild 刚刚市值超越StarkNet，成为世界上市值最高的ZK Rollup 链。
+
+## 104. Sep 21, 2025 · 4:06 AM UTC · 1969614302836638048#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1969614302836638048#m
+- 作者：@y_cryptoanalyst
+
+> XAI 后，买节点的基本都被反撸；
+>  
+> Vana 后，持有权益类NFT 到TGE 的基本都被反撸。
+>  
+> 推出的时间越晚，反撸的概率越大。
+>  
+> 它们都遵循边际效用递减的不成文规定。
+
+## 105. Sep 21, 2025 · 3:33 AM UTC · 1969605861510430998#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1969605861510430998#m
+- 作者：@y_cryptoanalyst
+
+> 格局的都归零，纸手的都百倍。
+>  
+> 我没有输，我只是把暴富的机会都留给了你们。
+
+## 106. Sep 21, 2025 · 1:29 AM UTC · 1969574637114966419#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1969574637114966419#m
+- 作者：@y_cryptoanalyst
+
+> 你们日思夜寐的和大V 说的以后永远不会有的那个什么季来了。
+
+## 107. Sep 20, 2025 · 2:33 PM UTC · 1969409640363671852#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1969409640363671852#m
+- 作者：@y_cryptoanalyst
+
+> Anoma 的龙虾
+> Linea 的青蛙
+> Initia 的浣熊
+> Eclipse 的ASC
+>  
+> 你永远可以相信权益类NFT
+
+## 108. Sep 20, 2025 · 12:51 PM UTC · 1969383984196173931#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1969383984196173931#m
+- 作者：@y_cryptoanalyst
+
+> 100% 配额，坐等TGE 了。 @playAInetwork
+
+## 109. Sep 20, 2025 · 2:56 AM UTC · 1969234288903119091#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1969234288903119091#m
+- 作者：@y_cryptoanalyst
+
+> 判断一个项目是不是赛道龙头，看同业蹭不蹭它热度就知道了。
+>  
+> 比如perp dex 赛道的Hyperliquid，刚官宣要发币的小狐狸MetaMask。
+>  
+> 这个判定标准准确度极高，毕竟没有什么比同业更了解同业了。
+
+## 110. Sep 19, 2025 · 2:25 PM UTC · 1969045260463481064#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1969045260463481064#m
+- 作者：@y_cryptoanalyst
+
+> 相信项目方tge 后的第二季会做事，不如相信我是中本聪。
+
+## 111. Sep 19, 2025 · 1:36 PM UTC · 1969032728969404694#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1969032728969404694#m
+- 作者：@y_cryptoanalyst
+
+> 据我所知，项目方都在拼命抢时间，未来几周至少有10多个项目要tge:
+>  
+> @FalconStable, @HanaNetwork, @PlasmaFDN, @Everlyn_ai, @playAInetwork, @dropdotmoney, @0G_labs, @anoma, @OpenEden_X, @theblessnetwork
+>  
+> 这盛世，如你所愿。
+
+## 112. Sep 19, 2025 · 7:43 AM UTC · 1968944024716460210#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1968944024716460210#m
+- 作者：@y_cryptoanalyst
+
+> 近一个月大概率是BTCFi 这轮周期中最后一次发币机会。
+>  
+> Lombard 发币后，币价虽然一路下跌，但目前FDV 才刚跌破10亿刀。对于这个灾难级赛道而言市值表现算不错了。
+>  
+> Merlin 发币后，其他猫猫狗狗BTC L2 开始发币收割；
+>  
+> 这次Lombard 发币后，还没发币的猫猫狗狗BTCFi 很可能会在近一个月完成发币收割。
+>  
+> 如果这个时间节点还不tge 的项目方，我愿称之为“极客”。
+>  
+> 不是技术极客，是极度自信的极客。
+
+## 113. Sep 19, 2025 · 3:43 AM UTC · 1968883708615602522#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1968883708615602522#m
+- 作者：@y_cryptoanalyst
+
+> Joseph Lubin 基本坐实了 @LineaBuild 的拆分盘玩法。
+>  
+> 只要持有 $LINEA 代币，就能获得Consensys 孵化的项目、利益强绑定项目的空投。
+>  
+> 继Polygon 的拆分盘玩法（母盘 @0xPolygon : 子盘 @katana @0xMiden @billions_ntwk ）后，Linea 也加入拆分盘的浪潮中。
+>  
+> 失之东隅，收之桑榆。
+
+## 114. Sep 19, 2025 · 12:04 AM UTC · 1968828577979449851#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1968828577979449851#m
+- 作者：@y_cryptoanalyst
+
+> 小狐狸钱包MetaMask 和 @LineaBuild 的共同母公司 @Consensys  创始人 @ethereumJoseph 采访中明确表示MetaMask 很快要发币了。
+>  
+> 如果放在一个月前，我会觉得Joe Lubin 在吹牛逼；但在当下的tge 热潮下，我更愿意相信MetaMask 可能真的快发币了。
+>  
+> 毕竟谁愿意错过这个千载难逢的TGE 时机呢？
+>  
+> 如果，我是说如果。MetaMask 作为 @LineaBuild 的拆分盘发币，现在Linea 的市值是不是被严重低估了？
+
+## 115. Sep 18, 2025 · 1:10 PM UTC · 1968663925949337631#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1968663925949337631#m
+- 作者：@y_cryptoanalyst
+
+> 腰子不好做不了优质探花，表达欲不强做不了优质KOL。
+
+## 116. Sep 18, 2025 · 9:33 AM UTC · 1968609269991055522#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1968609269991055522#m
+- 作者：@y_cryptoanalyst
+
+> 想深入了解人形机器人(Robot)赛道的，可以看 @snow949494 老师的这条推文：
+
+## 117. Sep 18, 2025 · 8:58 AM UTC · 1968600576268103702#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1968600576268103702#m
+- 作者：@y_cryptoanalyst
+
+> 现在你要继续拥抱已经极度内卷的perp DEX 赛道，还是提前布局极早期且叙事宏大的人形机器人赛道？
+>  
+> 我选择后者。
+>  
+> @PrismaXai
+> @openmind_agi
+> @BitRobotNetwork
+> @frodobots
+
+## 118. Sep 18, 2025 · 7:17 AM UTC · 1968575195972841592#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1968575195972841592#m
+- 作者：@y_cryptoanalyst
+
+> 临近截止时间前塞了点 @playAInetwork, 这是我继树莓 @boundless_xyz 后塞的第二个Kaito Launchpad 的公售项目。
+>  
+> 目前塞了80%，还有5个小时结束，基本上塞多少就能拿满等值的代币配额。简单聊聊我选择塞 @playAInetwork 的逻辑：
+>  
+> 通用infra 是我个人比较看好的潜力赛道，我把 @playAInetwork 归类为AI + infra，大方向上属于我想做多的叙事；Play AI 的核心定位是链上AI 的编排层(Orchestration Layer)，通过调用链上、链下资源自动化完成任务。
+>  
+> 大白话讲，传统AI 应用间孤立性较强，缺乏跨应用协作能力，@playAInetwork 充当一个“指挥家”的角色，把独立的应用串联起来实现协同工作，形成AI 自动化工作流。
+>  
+> @playAInetwork 最新一轮估值是7000万美元，Kaito 公售轮估值5000万美元，加之TGE 可以全解锁，这个估值加解锁条件也还可以接受。
+>  
+> 当然，最重要的是我的大兄弟 @0x_xifeng 老师塞了，他最近胜率很高，这次能不能再对一次？
+
+## 119. Sep 17, 2025 · 12:52 PM UTC · 1968296962144485861#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1968296962144485861#m
+- 作者：@y_cryptoanalyst
+
+> 样本量不算少，近400人参与了投票， @base 是这几个项目中得票率最高的，但大概率也是这几个天王级项目中最晚tge 的。
+>  
+> 虽然Base 已经明确会发币，但就目前的超强的印钞能力来看，我认为至少本轮周期不太可能发。
+>  
+> 如果下轮周期发币，那当下就是最好的耕种布局时机。
+>  
+> 但对于一个内卷程度可能远超 @monad 的公链，动辄2年以上的投资回报周期，布局的性价比太低了。
+
+## 120. Sep 17, 2025 · 3:46 AM UTC · 1968159502651490530#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1968159502651490530#m
+- 作者：@y_cryptoanalyst
+
+> Anoma 又为该NFT 理论贡献了代表性样本。
+
+## 121. Sep 17, 2025 · 1:59 AM UTC · 1968132592865362071#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1968132592865362071#m
+- 作者：@y_cryptoanalyst
+
+> 某种意义上，大满贯了。 @anoma
+
+## 122. Sep 17, 2025 · 1:02 AM UTC · 1968118293241450965#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1968118293241450965#m
+- 作者：@y_cryptoanalyst
+
+> tge 季的即视感：
+>  
+> @anoma / @Lombard_Finance / @0G_labs 几乎同时出了空投查询
+>  
+> 目前骂得最惨的是BTCFi 的扛把子Lombard
+>  
+> 精明的项目方懂得了空投预注册的重要性
+>  
+> 显然Lombard 没有学到精髓
+
+## 123. Sep 16, 2025 · 11:25 AM UTC · 1967912615147196483#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1967912615147196483#m
+- 作者：@y_cryptoanalyst
+
+> 前脚发完，后脚发现刚给说法了：赔付120% gas
+
+## 124. Sep 16, 2025 · 11:20 AM UTC · 1967911521448759750#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1967911521448759750#m
+- 作者：@y_cryptoanalyst
+
+> 没等来Kaito 公售卡币门的官方说法，却等来了下一个公售项目的预热宣发。
+>  
+> 不公关就是最好的公关，也是最厚颜无耻的公关。
+
+## 125. Sep 16, 2025 · 1:56 AM UTC · 1967769600772411790#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1967769600772411790#m
+- 作者：@y_cryptoanalyst
+
+> 接下来你更期待哪个天王级大的要来了？
+>  
+> @monad
+> @opensea
+> @Polymarket
+> @base
+
+## 126. Sep 15, 2025 · 2:26 PM UTC · 1967595947246166215#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1967595947246166215#m
+- 作者：@y_cryptoanalyst
+
+> Kaito 不会在搬砖吧？拿你们的 $ZKC 无风险套利。
+
+## 127. Sep 15, 2025 · 12:50 PM UTC · 1967571788457718144#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1967571788457718144#m
+- 作者：@y_cryptoanalyst
+
+> .@SeiNetwork 拉了RWA 龙头企业Securitize 联创Jamie Finn 做战略顾问；
+>  
+> @0xPolygon 拉了Stripe 的加密业务负责人John Egan 做CPO；
+>  
+> @Tether_to 拉了特朗普总统数字资产顾问委员会执行主任Bo Hines 做  @USAT_io 的CEO。
+>  
+> 发现没，crypto 各赛道聪明的项目方都开始卷tradfi 的资源了。
+
+## 128. Sep 15, 2025 · 12:27 PM UTC · 1967565883099980164#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1967565883099980164#m
+- 作者：@y_cryptoanalyst
+
+> 关注了又取关，取关了又关注，来来回回几次了。
+>  
+> 不懂就问，这是什么新型的钓鱼手段？
+
+## 129. Sep 15, 2025 · 8:17 AM UTC · 1967502914378932235#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1967502914378932235#m
+- 作者：@y_cryptoanalyst
+
+> 项目方创始人CT 发言现状：
+>  
+> TGE 前嘴炮没输过，TGE 后嘴炮没赢过。
+
+## 130. Sep 15, 2025 · 7:13 AM UTC · 1967486906012467527#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1967486906012467527#m
+- 作者：@y_cryptoanalyst
+
+> 这轮周期诞生的所谓权益类NFT，最好的卖点就是在tge 前的人声鼎沸时。
+>  
+> NFT 持有到tge 能拿到的空投收益，绝大多数90%以上，都不如tge 前选个人声鼎沸的时候出掉。
+>  
+> 以身试局得出的结论，当然你也可以赌剩下10% 的极致老鼠仓机会。
+
+## 131. Sep 15, 2025 · 3:16 AM UTC · 1967427352318910725#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1967427352318910725#m
+- 作者：@y_cryptoanalyst
+
+> 最近明显感受到市场板块轮动在加速：
+>  
+> AI，BTCFi，稳定币，NFT，gamefi，zk 证明，perp，平台币……
+>  
+> 现在还没轮动到板块不多了：隐私、存储、元宇宙、老牌L1 链，好像也没其他了。
+>  
+> 板块轮动越快，资本流动效率越高，二级市场机会越大。
+
+## 132. Sep 14, 2025 · 2:36 PM UTC · 1967235900976542023#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1967235900976542023#m
+- 作者：@y_cryptoanalyst
+
+> “空投是愚蠢的，我说的。我是 @aztecnetwork CMO，我为Aztec 代言。”
+>  
+> 他把空投当成施舍，但空投并不是施舍，而是一种基于信任与共识的利益交换机制。
+>  
+> 巨大的公关危机。
+>  
+> 当然，也有另外一种可能，另辟蹊径搞反差给Aztec 引流。
+
+## 133. Sep 14, 2025 · 6:15 AM UTC · 1967110035693273314#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1967110035693273314#m
+- 作者：@y_cryptoanalyst
+
+> 什么才是真正内心强大的韭菜？
+>  
+> 当狗庄在展示路线图时，你看到的不是画饼，而是他的青云之志；
+>  
+> 当大V 在密集发布AI 水文时，你看到的不是嘴撸，而是他的勤奋进取；
+>  
+> 当代币二级市场拉盘配合KOL 宣发时，你看到的不是逃顶机会，而是钻石手的真情流露；
+>  
+> 当tge 不久后创始人辞去职务，你看到的不是rug，而是他力不从心的挫败感；
+>  
+> 当你claim 空投却要分120个月解锁时，你感受到的不是恶心和愤怒，而是要和项目方10年共进退的决心。
+
+## 134. Sep 14, 2025 · 1:53 AM UTC · 1967044003553309172#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1967044003553309172#m
+- 作者：@y_cryptoanalyst
+
+> Linea 空投一枚没卖，这个市值在我看来严重低估了。
+>  
+> 暂且不去对标龙头Arbitrum，对标OP 不过分吧，OP 现在市值14.3亿美元，Linea 现在市值仅4.3亿美元。
+>  
+> 别问我为什么不跟龙头zk L2 斯塔克和zkSync 比：
+> 它们有ConsenSys 的资源支持吗？
+> 它们有SharpLink 潜在的ETH 持仓资金支持吗？
+> 它们有以太坊联创的光环加持吗？
+
+## 135. Sep 13, 2025 · 11:45 PM UTC · 1967011820201538018#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1967011820201538018#m
+- 作者：@y_cryptoanalyst
+
+> 链上狂暴大牛市开启，除比特币外，TVL 前10的公链有半数链上TVL 新高。
+>  
+> 老牌公链包括Solana, Base 和Arbitrum；新公链Hyperliquid L1 和Linea 也在持续ath。
+
+## 136. Sep 13, 2025 · 2:36 PM UTC · 1966873717138739645#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1966873717138739645#m
+- 作者：@y_cryptoanalyst
+
+> CT 中文区聊tge 的项目，尤其是散户参与度高的项目，不能聊逻辑，只能聊情绪。反撸多的你就跟着骂，反之你就跟着奶。
+>  
+> 当然你可以假装聊逻辑，只要顺着散户情绪，那你就是对的。
+>  
+> 接下来tge 的项目比较多，新手起号抓住这波流量。
+>  
+> 听懂掌声。
+
+## 137. Sep 13, 2025 · 9:52 AM UTC · 1966802189524881777#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1966802189524881777#m
+- 作者：@y_cryptoanalyst
+
+> 我对NFT 项目成为潜在蓝筹的主观判定底线很简单：
+>  
+> freemint 的，上交易市场后一个月仍有足够的流动性
+>  
+> 非freemint 的，一个月内不能破发
+>  
+> 即便是这个标准，现在也极少有发行NFT 的项目方能满足
+
+## 138. Sep 12, 2025 · 2:33 PM UTC · 1966510403112018326#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1966510403112018326#m
+- 作者：@y_cryptoanalyst
+
+> CEX 平台币谁不拉盘谁尴尬：
+>  
+> $BNB 9月12 ath
+> $MNT 9月11 ath
+> $OKB 8月22 ath
+>  
+> $BGB $GT $KCS 你们也表现一下？
+
+## 139. Sep 12, 2025 · 1:31 PM UTC · 1966495005960442348#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1966495005960442348#m
+- 作者：@y_cryptoanalyst
+
+> 如果你错过了 @celestia 代表的模块化1.0 时代
+>  
+> 那么我希望 @AltiusLabs 开启的模块化2.0 时代你在车上
+
+## 140. Sep 12, 2025 · 10:47 AM UTC · 1966453621249155283#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1966453621249155283#m
+- 作者：@y_cryptoanalyst
+
+> alpha 最重要的是时间维度，抛开时间维度谈alpha 没有意义。
+>  
+> 一个alpha 项目在无人问津时被挖掘和广为人之时被讨论存在天壤之别。
+>  
+> 当它在市场上被聚光灯所笼罩，就已经失去了alpha 属性。
+
+## 141. Sep 12, 2025 · 8:53 AM UTC · 1966425040720891909#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1966425040720891909#m
+- 作者：@y_cryptoanalyst
+
+> 这两天我的CT 时间线上都是Irys 和Sentient，看来这次又要被资本做局了。
+
+## 142. Sep 12, 2025 · 8:11 AM UTC · 1966414424048316927#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1966414424048316927#m
+- 作者：@y_cryptoanalyst
+
+> 昨天刚聊完做多资源驱动型公链的逻辑，今天就发现自己信息茧房了。
+>  
+> 前2天发生在公链 @Aptos 上的爆炸性新闻CT 中文区竟鲜有人提及 - Aptos 联创 & CEO @AveryChing 在美国众议院农业委员会公开发言。crypto 公链创始人参加国会听证会级别的讨论，据我所知有且仅有这一次。
+>  
+> 此次国会听证会事件，对于 @Aptos 乃至整个crypto 公链大赛道具有非常重要的象征性意义。结合SEC 主席 @SECPaulSAtkins 近期表示“大多数加密代币不是证券”，并提出统一的监管框架，更为重要的是，将为加密行业超级应用(super-apps) 敞开大门。
+>  
+> 公链赛道毫无疑问是整个加密行业最高纬度的"super-apps"，SEC 拥抱"super-apps" 的态度为公链大繁荣奠定了基础。而Move 系公链 @Aptos 有望“近水楼台先得月”。
+>  
+> <听证会上Aptos 联创 @AveryChing 聊了什么(TLDR 版)>
+>  
+> 主要包含3点：
+>  
+> 1/ Aptos 是什么？
+>  
+> 2/ Aptos 原生代币 $APT 有什么赋能？
+>  
+> 3/ Aptos 链上能实现什么应用场景？
+>  
+> @AveryChing 讲得浅显易懂，可能因为听众绝大多数都是加密小白群体。作为crypto native 玩家，我展开讲讲基于我的视角下的 @Aptos.
+>  
+> <@Aptos 是双驱动型公链：技术驱动型 + 资源驱动型>
+>  
+> 何以为资源驱动？
+>  
+> Aptos 联创 @AveryChing 能够参加这次听证会就是最好的佐证。
+>  
+> 深扒背景就会发现 @Aptos 跟美国官方走得非常近，这也是为什么稳定币要率先在Aptos 链上搞，包括BlackRock, Franklin Templeton, Apollo 等全球顶级金融机构都在Aptos 上推出代币化货币市场基金(RWA)的原因。
+>  
+> 何以为技术驱动？
+>  
+> Aptos 的核心定位是基于Move 的高性能主权L1 链，是非EVM 生态链的扛把子。
+>  
+> Aptos 官方开发专注于并行执行的 Block STM 算法，也被包括 @monad, @SeiNetwork V2 在内的不少后起之秀高性能公链借鉴。
+>  
+> <技术驱动公链 = 技术债？>
+>  
+> @cryptobraveHQ 推主提出“技术驱动的都是技术债”的观点，从某种意义上讲，是。
+>  
+> 鼓吹技术的公链本质上是一种责任的转移。
+>  
+> 我底层技术已经那么牛逼了，那么你作为投资者和用户就应该接受我其他方面的缺陷，落地性不强不是我的问题、币价拉垮不是我的问题、链上用户缺失也不是我的问题，这些缺陷都不是我的责任，你要为我的技术买单。
+>  
+> 但“技术驱动公链 = 技术债”是有前置条件的，这个前置条件是“业务跟不上技术的节奏”。
+>  
+> 我更认同 @0xcaosheng_888 推主的观点：“很多时候不是技术债，是业务没跟上技术的节奏才变成了债”。
+>  
+> 带入上述论点再去聊 @Aptos, 就可以推翻“技术驱动公链 = 技术债”的观点。
+>  
+> Aptos 链上稳定币市值突破12亿美元；链上TVL 在所有公链中排第13位；链上RWA 资产市值在非EVM 系公链中排首位，在所有公链中排第4位，仅次于以太坊、@zksync 和 @0xPolygon.
+>  
+> 技术债没办法孕育出这么繁荣的生态，我看到的更多是“技术驱动公链 = 技术飞轮”。
+>  
+> 结论是：
+>  
+> 真正的技术驱动型公链一定是能产生技术飞轮的，而生产技术债的一定是套着一层“技术驱动型”外衣的伪需求公链。
+
+## 143. Sep 12, 2025 · 5:05 AM UTC · 1966367664584143237#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1966367664584143237#m
+- 作者：@y_cryptoanalyst
+
+> 别人不告诉你的行业秘密：
+>  
+> 很多长篇大论的项目投研推文的核心观点只有一个：我在嘴撸。
+
+## 144. Sep 11, 2025 · 2:46 PM UTC · 1966151268759646542#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1966151268759646542#m
+- 作者：@y_cryptoanalyst
+
+> Kaito, Binance Alpha 和OKX Boost 重塑了撸毛赛道的格局，多号撸毛最好的时代已经结束了。
+
+## 145. Sep 11, 2025 · 8:09 AM UTC · 1966051337550049331#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1966051337550049331#m
+- 作者：@y_cryptoanalyst
+
+> 分享alpha 的推主，往往是开alpha 收费群的推主的眼中盯。
+>  
+> alpha 可以替换成任意知识密集型的事物，比如说套利、二级、撸毛等等。
+
+## 146. Sep 11, 2025 · 6:50 AM UTC · 1966031666239180978#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1966031666239180978#m
+- 作者：@y_cryptoanalyst
+
+> 不是，年化40%收益的稳定币协议你们真敢存啊？
+>  
+> 砍一半年化20%我都慌到不行。可能是Luna 后遗症。
+
+## 147. Sep 11, 2025 · 4:16 AM UTC · 1965992858898542808#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1965992858898542808#m
+- 作者：@y_cryptoanalyst
+
+> 做空一切技术驱动型公链，做多一切资源驱动型公链。
+>  
+> 有资源驱动的公链不屑于花时间去布道自己的底层技术有多牛逼，但资源不够就只能用技术来凑。
+>  
+> 前者代表如StarkNet，后者代表如Story。
+>  
+> 对技术怯魅，是这轮周期公链赛道教会我的道理。
+
+## 148. Sep 10, 2025 · 1:16 PM UTC · 1965766347557900367#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1965766347557900367#m
+- 作者：@y_cryptoanalyst
+
+> .@billions_ntwk 短期内不太可能TGE 了，悲观点可能要到明年。
+>  
+> @0xPolygon 官方确认 $POL 质押者有 @billions_ntwk 的空投资格，但预估空投时间是2026年。
+>  
+> 再结合Billions 团队对TGE 时间避而不谈的态度，感觉今年Q4 TGE 都悬。
+
+## 149. Sep 10, 2025 · 9:48 AM UTC · 1965714017051455498#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1965714017051455498#m
+- 作者：@y_cryptoanalyst
+
+> 根据我fud 项目方，以身试局总结的经验：
+>  
+> 能不能拿它们的社交空投不取决于你fud 得有没有道理，而取决于他们看不看得懂中文。
+
+## 150. Sep 10, 2025 · 7:57 AM UTC · 1965686132764807256#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1965686132764807256#m
+- 作者：@y_cryptoanalyst
+
+> Linea 的车到底有多重，怎么连Upbit 都救不了？
+
+## 151. Sep 10, 2025 · 2:31 AM UTC · 1965604040223732067#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1965604040223732067#m
+- 作者：@y_cryptoanalyst
+
+> OKX 的NFT 交易市场买卖 @anoma 的 @Shrimpers_nft
+>  
+> 0% 平台手续费 + 0% 版税
+>  
+> 而你却选择在OpenSea 上花0.5% 平台手续费 + 10% 的版税交易
+>  
+> 这就是最低维度、最直观的信息差体现
+>  
+> 有一说一，OKX 的NFT 交易市场可太香了
+
+## 152. Sep 10, 2025 · 1:14 AM UTC · 1965584667966570569#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1965584667966570569#m
+- 作者：@y_cryptoanalyst
+
+> 《等待Monad 主网上线的十字路口 - 生态向前出走还是原地坚守？》
+>  
+> 引子：
+> Berachain 主网上线生态发展严重不及预期让原生生态协议tge 计划梦碎，尚未发币的链上协议成为了熊链TGE 的牺牲品。
+>  
+> 以熊链为鉴，Monad 正处在即将启动主网tge 的关键节点，生态协议们又该何去何从？有的项目方已经提前出走，有的仍在原地坚守。
+>  
+> @monad 和 @berachain 可以说是这轮牛市资本最青睐的两个高性能L1 链，一个代表极致的ponzi 文化叙事，另一个引领超高性能公链的变革方向。
+>  
+> 机构们爱屋及乌，Berachain 和Monad 上的原生生态协议同样受到资本的青睐。Berachain 生态明星协议 @InfraredFinance, 三轮共计完成近2000万美元融资；估值2000万美元的 @honeypotfinance; Berachain 创始人和不少熊链OG 参与融资的 @origami_fi 等等；
+>  
+> Berachain 早在2月6日上线主网并同步TGE，但7个月过去了，时至今日Berachain 上仍有不少协议尚未进行TGE。
+>  
+> @monad 链上生态协议融资数据比Berachain 生态的更亮眼：MEV 和LSD 基础设施层 @apr_labs 完成多轮共计3070万美元融资；原生CLOB DEX 协议 @KuruExchange 完成2轮共计1360万美元融资；原生perp DEX @perpltrade 完成925万美元融资；预测市场协议 @opinionlabsxyz 完成500万美元Pre-Seed 轮融资……
+>  
+> Monad 链上的生态协议，无一例外的，都在等Monad 主网上线后启动tge。
+>  
+> <生态协议tge 时机的大博弈>
+>  
+> 天王级链上生态协议的tge 时机选择，是一场伟大的博弈。有的项目方选择在主网上线前出走到其他链上tge，有的选择在主网上线后立即tge，也有的选择在主网上线后视链上生态热度和crypto 大环境伺机而动。
+>  
+> 项目方对tge 时机的选择，我没有把它称之为“大豪赌”，而是称为“大博弈”。原因在于“赌”是建立在信息完全不对称的情景下，而生态项目方是最熟悉公链团队的一批人，他们对公链团队是做实事还是说空话的体感是非常强的。
+>  
+> 但公链主网启动tge 后的生态发展变迁并不是团队可以完全掌控的，充满不确定性和未知。生态项目方的博弈空间在于公链团队的做市能力、喊单能力、激励举措，以及最重要的，未来加密行情的预期。
+>  
+> 在等待 @monad 主网上线的漫长过程中，也有不少项目方熬不住了，选择出走其他链。代表性的项目如Monad 原生LSD 协议 @Kintsu_xyz 最终选择在 @HyperliquidX 链上上线主网。
+>  
+> <后记>
+>  
+> 据多方消息，@monad 预计在Q4 上线主网和tge。在主网上线之前，可能还会有类 @Kintsu_xyz 的协议选择出走；
+>  
+> 但我认为更多的原生协议会在原地坚守。把协议的生死存亡押注在唯一一条原生公链上，一荣俱荣，又何尝不是一次伟大之举。
+
+## 153. Sep 9, 2025 · 2:27 PM UTC · 1965421848373674170#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1965421848373674170#m
+- 作者：@y_cryptoanalyst
+
+> “公链的护城河在于 - 生态龙头的独创性和寡头程度”，这句话适用于99%的公链。
+>  
+> @solana  的 @pumpdotfun, @0xPolygon 的 @Polymarket, @arbitrum 的 @GMX_IO, @SonicLabs 的 @beets_fi 等等。
+>  
+> 每条公链的龙头生态位对链上生态的发展至关重要，@monad 也不例外。
+>  
+> @monad 作为这轮周期资本最青睐的高性能L1 链，主网尚未启动生态协议融资先行，包括 @apr_labs, @KuruExchange, @perpltrade, @opinionlabsxyz 等在内的不少生态原生协议都拿到了不乏顶级机构的融资。
+>  
+> 值得一提的是，Monad 生态近一半的融资都在 @apr_labs 上。
+>  
+> @apr_labs 核心定位是成为首个高频交易级别的CeDeFi 平台，这条推文来聊聊我为什么看好 @apr_labs 能成为 @monad 的龙头生态位：
+>  
+> 1/ 与Monad 底层技术架构的契合度高且原生受益于其底层技术创新；
+>  
+> @apr_labs 基于Monad 底层技术架构搭建支持高频交易、MEV 保护的infra 平台，作为Monad 高性能公链的特色落地性功能场景。
+>  
+> 比如@apr_labs 的MEV 拍卖基础设施(MEVA)，就是基于Monad 独有的共识机制MonadBFT 构建；
+>  
+> 2/ 核心技术创新：AI 订单流识别 + 订单流分层处理机制
+>  
+> 目前Solana MEV 攻击乱象严重，形成“少数寡头节点” + “信息黑箱”的双重垄断，带来了更集中、隐蔽的MEV 攻击后果。
+>  
+> @apr_labs 基于“AI 订单流识别 + 订单流分层处理机制”完美解决了上述MEV 攻击问题，Apriori 识别、保护真实用户的每一笔订单流，避免被bot 狙击。
+>  
+> 核心理念是将链上订单流分层处理，实现：
+>  
+> 干净流动性优先、内幕狙击流加价、套利流重定向。
+>  
+> 3/ 资本的持续供血；
+>  
+> 在主网未上线之前，@apr_labs 没有任何可持续的收入来源（gas 分成、平台手续费、母链的激励等等），处在一个持续的烧钱阶段。主网上线等待的时间越长，烧的钱越多。
+>  
+> 细心点你会发现，@apr_labs 自2024年初完成首次270万美元Pre-Seed 轮融资后，在2024年7月份融了种子轮和YZi Labs 的战略轮，今年8月又完成一轮2000万美元的融资。资本的持续供血延长了 @apr_labs 的可等待时间；
+>  
+> 4/ 测试网阶段数据的正反馈；
+>  
+> 自Monad 测试网上线以来，@apr_labs 一直是生态的王牌协议，保持Monad 测试网上TVL 最大的协议；截止至Q1，@apr_labs 上已经有接近200万个LST 持有者……
+>  
+> <写在最后>
+> @monad 预计Q4 上线主网并同步TGE，但从目前的行情来看，可能主网和TGE 的时间会加速。
+>  
+> 布局新公链的链上alpha 机会，本质上就是布局龙头生态位协议的alpha 机会。盯紧这个 @apr_labs，等Monad 主网的风来。
+
+## 154. Sep 9, 2025 · 11:57 AM UTC · 1965383948277809432#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1965383948277809432#m
+- 作者：@y_cryptoanalyst
+
+> gnoma. @Shrimpers_nft @anoma
+>  
+> 我准备好了。
+
+## 155. Sep 9, 2025 · 9:13 AM UTC · 1965342786196304230#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1965342786196304230#m
+- 作者：@y_cryptoanalyst
+
+> 10分钟前确认，今晚7点 $SWTCH 上Binance Alpha
+
+## 156. Sep 9, 2025 · 7:27 AM UTC · 1965316173970723188#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1965316173970723188#m
+- 作者：@y_cryptoanalyst
+
+> 金九银十，早在半年前发推介绍的预言机协议 @switchboardxyz 也官宣今天tge。
+>  
+> 虽然 @switchboardxyz 定位的预言机赛道已经非常内卷，但它在自己的细分赛道上有着核心竞争优势，这个细分赛道是"Oracle AMM"。
+>  
+> 传统的AMM 机制靠池子的资产比例定价，定价简单但同时带来了响应速度慢、资本效率低和滑点高的问题；目前Solana 上60%的 DEX 交易由Oracle AMM 主导，基于预言机提供的价格即时撮合交易，响应速度快且滑点低，无限接近CEX 的交易体验。
+>  
+> @switchboardxyz 基于TEE 实现隐私保护和毫秒级低延迟的特性很好地契合了AMM DEX 的转型需求，它们无需自建预言机，直接接入 @switchboardxyz 即可。
+>  
+> 更优的用户体验将推动Oracle AMM 在多链的大规模采用，而 @switchboardxyz 正是为Oracle AMM 的大规模采用而生。
+>  
+> ps: $SWTCH 今晚9点DEX/ CEX 同步上线。目前已公告上线Backpack, Raydium 和 Orca 三大DEX；除Binance Alpha 外，CEX listing 还包括Bitget, Kucoin, Gate 和HTX。
+
+## 157. Sep 9, 2025 · 4:13 AM UTC · 1965267292914418154#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1965267292914418154#m
+- 作者：@y_cryptoanalyst
+
+> 讲个鬼故事：
+> 养牛链 @EclipseFND 官推已经2周时间没有发过新推文，链上TVL 也已经脚踝斩了。
+>  
+> Eclipse 一役，成为天王级项目tge 后rug 速度最快的项目。
+
+## 158. Sep 9, 2025 · 2:10 AM UTC · 1965236232902115533#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1965236232902115533#m
+- 作者：@y_cryptoanalyst
+
+> 韩国第一交易所Upbit 基于OP Stack 推出自研公链GIWA
+>  
+> 过气web3 链游Ronin 选择OP Stack 欲把天赋带到超级链
+>  
+> Optimism 官推选择了置顶后者，脑回路新奇
+
+## 159. Sep 8, 2025 · 2:51 PM UTC · 1965065340867825914#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1965065340867825914#m
+- 作者：@y_cryptoanalyst
+
+> 9月到现在对crypto 市场的直观感受是：
+>  
+> 所有具备TGE 条件的项目方都抢着TGE
+>  
+> 尚不具备TGE 条件的，都在想方设法搞热度吸引市场关注
+>  
+> 公布代币经济学、开盘前交易、发官方NFT
+>  
+> 再不济，也会发个99% 进度即将主网/ tge 进度条的推文
+>  
+> 这个阶段还悄无声息或者发早安玛卡巴卡无关痛痒推文的项目方
+>  
+> 大概率是已经软rug 了
+
+## 160. Sep 8, 2025 · 1:37 PM UTC · 1965046821925032386#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1965046821925032386#m
+- 作者：@y_cryptoanalyst
+
+> Kaito 嘴撸KOL 单项目万U 大毛
+>  
+> 而你 我的朋友
+>  
+> you are not eligible
+>  
+> 却还在为他们的mindshare 添砖加瓦
+
+## 161. Sep 8, 2025 · 1:14 PM UTC · 1965040960481669370#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1965040960481669370#m
+- 作者：@y_cryptoanalyst
+
+> 预计近2个月会有很多群友晒空投截图
+>  
+> 这个时候无轮你有没有资格，都要在群里发一句：舒服了
+>  
+> 领完红包后把群退了，深藏功与名。
+
+## 162. Sep 8, 2025 · 3:00 AM UTC · 1964886542524248179#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964886542524248179#m
+- 作者：@y_cryptoanalyst
+
+> 目前来看：
+> @monad 主网、Polygon @Agglayer 生态、@HyperliquidX L1 是我认为最有希望孕育现象级dapps 的三个地方。
+
+## 163. Sep 7, 2025 · 9:17 AM UTC · 1964618941835485250#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964618941835485250#m
+- 作者：@y_cryptoanalyst
+
+> 对crypto 项目怯魅的本质是什么？
+>  
+> 不把项目方当神 和 把自己当人。
+
+## 164. Sep 7, 2025 · 8:08 AM UTC · 1964601629879259557#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964601629879259557#m
+- 作者：@y_cryptoanalyst
+
+> 伴随着Defi 的全面复苏，各大公链陆续开启了Defi 的文艺复兴之路。
+>  
+> 公链生态Dapps 的Defi 文艺复兴离不开天时、地利、人和：热门赛道轮换的风吹回Defi，此为天时；与公链底层架构契合的特色生态，此为地利；公链基金会对生态协议的大力支持，此为人和。
+>  
+> 之前介绍的 @rhea_finance 是 @NEARProtocol 生态Defi 文艺复兴最重要的生态位，这条推文来聊聊另一个高性能公链 @SeiNetwork 在Defi 文艺复兴中举足轻重的生态位 - @TakaraLend.
+>  
+> @SeiNetwork 链上TVL 持续攀升即将突破前高，@TakaraLend 作为Sei 链上TVL 第二的defi 协议功不可没，贡献了1.34亿美元TVL，约占全链TVL 的23.17%。
+>  
+> @TakaraLend 的核心定位是Sei 链上的去中心化货币市场协议。有别于其他货币市场，Takara 将基于货币市场搭建一个可编程的信用层 - 将defi 与现实世界的支付体系紧密相连。
+>  
+> 产品功能端，@TakaraLend 支持稳定币循坏贷、针对 $SEI LST 的defi 套娃等策略。如，稳定币持有者可以通过供应USDC/ USDT 借出 $SEI, 再通过 @splashing_xyz 质押获得 LST 代币 spSEI，最后再将spSEI 存入Takara 借贷池实现多重defi 收益。
+>  
+> 目前USDT/ SUDC 2个稳定币借贷池的收益和深度都还不错，如下图所示：
+>  
+> 最后聊聊 @TakaraLend 的参与角度：
+>  
+> Takara 近期上线了Karats 积分系统，鉴于 @TakaraLend 尚未发币，积分极大概率跟Takara 后续的潜在空投挂钩。
+>  
+> 用户通过在 @TakaraLend 协议提供流动性赚取积分，也可以通过邀请机制赚取被邀请人5%的积分。更详细的规则可见官方doc。
+>  
+> 是否走我的邀请链接请随意，dyor：
+> app.takaralend.com/leaderboa…
+>  
+> 以上。
+
+## 165. Sep 7, 2025 · 6:43 AM UTC · 1964580308776579475#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964580308776579475#m
+- 作者：@y_cryptoanalyst
+
+> 插件是油猴
+
+## 166. Sep 7, 2025 · 6:14 AM UTC · 1964572947886330079#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964572947886330079#m
+- 作者：@y_cryptoanalyst
+
+> 对于X 上的诈骗账号，我一般不做防御性拉黑。
+>  
+> 分享一个小技巧，用打标签工具给他们的账号打上对应的标签。
+>  
+> 这是一种一举多得的操作：
+> 无论他以后怎么伪装，你都知道这个是诈骗账号，此其一得；
+>  
+> 跟这个账号联系密切的账号都是诈骗账号，此其二得；
+>  
+> 每次他出来诈骗你都可以提醒群友这是个骗子，再让群友V50，此其三得。
+>  
+> 有此三得，何乐而不为？
+
+## 167. Sep 7, 2025 · 4:44 AM UTC · 1964550251236519936#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964550251236519936#m
+- 作者：@y_cryptoanalyst
+
+> 我现在也有点分不太出评论区的是AI 还是真人了。
+>  
+> 你回复他吧，万一真是AI 就侮辱了自己；
+>  
+> 你不回复他吧，万一不是AI 又有点不尊重别人。
+>  
+> 这个理论叫做：回评的两难困境
+
+## 168. Sep 7, 2025 · 3:45 AM UTC · 1964535429845438468#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964535429845438468#m
+- 作者：@y_cryptoanalyst
+
+> crypto 下一个主流叙事什么时候来我不知道，但我几乎可以肯定会发生在通用infra 赛道。
+>  
+> 回溯这轮周期的热点叙事：模块化(DA/ 结算)，meme launchpad，再质押，高性能公链(SVM/ 并行EVM 等)，这些都是通用infra。
+>  
+> 你现在大可以说它们都是伪需求，但无法否认它们给普通人带来过alpha 机会。
+
+## 169. Sep 7, 2025 · 2:59 AM UTC · 1964523933182677407#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964523933182677407#m
+- 作者：@y_cryptoanalyst
+
+> 有没有课代表总结一下堪称币圈甄嬛传的 - 慢雾和Venus 被钓鱼大户的瓜？
+
+## 170. Sep 7, 2025 · 2:44 AM UTC · 1964520231273160927#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964520231273160927#m
+- 作者：@y_cryptoanalyst
+
+> 很难想象 @katana  这条没有公开融资的Defi 型公链，TVL 竟然超过了OP，离 @SeiNetwork 仅一步之遥。
+>  
+> 同时也是Polygon @Agglayer 生态中TVL 仅次于 @0xPolygon PoS 主链的生态链。
+>  
+> 不清楚Polygon 资本到底在做什么局，很魔幻。
+
+## 171. Sep 7, 2025 · 1:33 AM UTC · 1964502363735282139#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964502363735282139#m
+- 作者：@y_cryptoanalyst
+
+> thank you @lamumudotxyz
+
+## 172. Sep 7, 2025 · 1:11 AM UTC · 1964496660589154567#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964496660589154567#m
+- 作者：@y_cryptoanalyst
+
+> 近期CT 热点集中在孙哥WLFI 大乱斗、Morph 黑卡维权和Venus 被钓大户反差上，在CT 热点不断转换之时，我的视线始终聚焦在RWA 上，而彼时RWA 赛道正以惊人的速度扩张。
+>  
+> 再看rwa.xyz 官网数据，现实世界资产代币化RWA 市值继续突破新高，目前以及突破280亿美元，这意味着资本正以前所未有的速度涌入这一新兴赛道。RWA 市值可持续增长的背后，离不开其底层机制的逻辑驱动。
+>  
+> RWA 代表现实世界资产链上代币化，RWA 资产代币化的本质是流动性释放、是交易效率的提升，而我认为更重要的是现实世界资产的生息。即 RWAFi。
+>  
+> <何为RWAFi?>
+>  
+> RWAFi = RWA + Defi，简单来讲就是赋予RWA 资产生息的能力。以RWAFi 赛道的代表协 @LiveArtX 为例，来聊聊RWAFi 是如何赋予RWA 资产价值的。
+>  
+> RWAFi 中的RWA 为上层建筑，底层defi 的核心机制保持不变：流动性池、借贷市场、生息策略等。
+>  
+> <何为 LiveArt?>
+>  
+> @LiveArtX 核心定位是多链RWAFi 平台，目前支持17+公链。RWAFi 不在停留在理论层面，拥有已落地的defi 生息应用场景。
+>  
+> 定位于RWAFi 赛道，LiveArt 的核心创新点之一是基于AI 驱动：包括AI 定价、AI 代理、AI 数据分析等等，为RWA 资产提供评估、交易、Defi 等全流程一站式服务。
+>  
+> 数据层面：LiveArt 多链生态系统中有超过1200万个钱包地址，支持的蓝筹RWA 资产价值超过2亿美元，目前仍在持续对接优质的TradFi 资产。
+>  
+> $ART 是LiveArt 协议的原生代币，据官方消息，TGE 时间为9月9日。
+>  
+> 但 $ART 并不局限于平台的治理代币，是资产代币化、交易和生息全生命周期中的价值锚点：作为平台的核心激励代币；质押参与RWA 拍卖和IAO；解锁优质RWA 资产的购买权限等独家权益。
+>  
+> 一句话总结：
+>  
+> RWA 赋予传统资产横向的链上流动性，@LiveArtX 则让RWA 资产解锁了纵向的生息赋能。
+>  
+> RWA 已经悄然步入RWAFi 时代。
+
+## 173. Sep 6, 2025 · 10:17 AM UTC · 1964271620681240655#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964271620681240655#m
+- 作者：@y_cryptoanalyst
+
+> 与其纠结于KOL 发的是不是广子，还不如直接取关。
+>  
+> 没有一眼分辨广子的能力，很容易被KOL 割的。
+>  
+> 当然KOL 也包括我。
+
+## 174. Sep 6, 2025 · 8:04 AM UTC · 1964238184633815521#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964238184633815521#m
+- 作者：@y_cryptoanalyst
+
+> 后知后觉 @0xPolygon 原来一直在学Cosmos 搞生态链的那一套。
+>  
+> @Agglayer 互操作层相当于Cosmos IBC，发链基础设施Polygon CDK 相当于Cosmos SDK.
+>  
+> 跟Cosmos 最大的不同之处在于，Polygon 是拆分盘玩法：
+> @katana
+> @0xMiden
+> @SentientAGI
+> @billions_ntwk
+>  
+> 这些拆分盘都拿了不错的融资，都跟 @sandeepnailwal 利益强相关，都接入了Polygon AggLayer.
+>  
+> 截止目前， Agglayer 的生态版图已经扩展至18条链。
+
+## 175. Sep 6, 2025 · 6:19 AM UTC · 1964211887966736693#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964211887966736693#m
+- 作者：@y_cryptoanalyst
+
+> 权益类NFT 的不可能三角：
+>  
+> 10K/ 老鼠仓/ Freemint
+>  
+> 10K 系列的老鼠仓NFT 不可能Freemint
+>  
+> 10K 系列Freemint 的NFT 不可能是老鼠仓
+>  
+> Freemint 且是老鼠仓的NFT 不可能是10K 系列
+
+## 176. Sep 6, 2025 · 3:21 AM UTC · 1964166972637401343#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964166972637401343#m
+- 作者：@y_cryptoanalyst
+
+> 稳定币市值新高；
+>  
+> RWA 资产总量新高；
+>  
+> 8月DEX 单月总交易量新高；
+>  
+> L1 链 @HyperliquidX TVL 新高；
+>  
+> L2 链 @base, @LineaBuild, @katana TVL 新高；
+>  
+> 为什么市场仍然没有出现一个真正现象级的新产品/ 协议？
+>  
+> 到底是什么地方出了问题？还是说我信息茧房了？
+
+## 177. Sep 5, 2025 · 11:48 PM UTC · 1964113368698278043#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1964113368698278043#m
+- 作者：@y_cryptoanalyst
+
+> 判断一个KOL 值不值得追随，看他X 名称旁边挂什么项目方的logo 就知道了。
+>  
+> 挂个大割项目方的logo，你期望他不是大割？
+>  
+> logo 已经帮你做好分类了。
+
+## 178. Sep 5, 2025 · 2:55 PM UTC · 1963979423113166969#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1963979423113166969#m
+- 作者：@y_cryptoanalyst
+
+> 看 @base 链的印钱能力，短期内不太可能发币，30天印了560万美元，恐怖如斯。
+>  
+> 印钱困难之日，Base 发币之时。
+>  
+> 参考Zora/ Opensea 之流。
+
+## 179. Sep 5, 2025 · 12:12 PM UTC · 1963938312789356925#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1963938312789356925#m
+- 作者：@y_cryptoanalyst
+
+> crypto 项目方业务扩展的终局是稳定币，CT KOL 流量扩展的终局是键政。
+
+## 180. Sep 4, 2025 · 12:39 PM UTC · 1963582676897570830#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1963582676897570830#m
+- 作者：@y_cryptoanalyst
+
+> 做KOL 和做Mod 的本质区别：
+>  
+> KOL 是享受项目方的上限，而Mod 是习惯项目方的下限。
+>  
+> 结论：能做KOL 就别做Mod 吧
+
+## 181. Sep 4, 2025 · 4:16 AM UTC · 1963456156095189241#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1963456156095189241#m
+- 作者：@y_cryptoanalyst
+
+> 这条推来还 @union_build TGE 的愿。
+>  
+> 时隔4个月，@union_build 定于今天TGE，首发Binance Alpha，下午5点同步启动主网。
+>  
+> Union 核心定位是zk 互操作协议，不依赖可信第三方、预言机、多签钱包或MPC，而是通过零知识证明技术保证资产跨链安全性。这是Union 有别于目前主流跨链互操作协议的核心优势，也是我比较看好的点。
+>  
+> Union 官方发的鲸鲨NFT 也钻石手住了，从 $U 空投数量看确实也没有辜负NFT 持有者。
+>  
+> 除Binance Alpha 外，@krakenfx 也来了，等等看CEX Listing 能不能再给点惊喜。
+
+## 182. Sep 3, 2025 · 3:06 PM UTC · 1963257181161099307#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1963257181161099307#m
+- 作者：@y_cryptoanalyst
+
+> yyy 的含金量还在上升。
+>  
+> Portal 融资9200万美元，现在市值6000万美元。
+>  
+> 灵魂发问：
+> BTCFi 能有好东西吗？
+
+## 183. Sep 3, 2025 · 10:27 AM UTC · 1963186973927248245#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1963186973927248245#m
+- 作者：@y_cryptoanalyst
+
+> 每条公链都有最优的参与路径：
+>  
+> Arbitrum 是交互万花筒；
+> XAI 是买节点；
+> Eclipse 是高点卖NFT；
+> Camp 是嘴撸；
+> Linea 是PoS 存钱；
+> Humanity 是不撸。
+>  
+> 上了赌桌，只能愿赌服输。
+
+## 184. Sep 3, 2025 · 3:46 AM UTC · 1963086255304147177#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1963086255304147177#m
+- 作者：@y_cryptoanalyst
+
+> 之前接触过某个defi 项目的founder
+>  
+> 他说他做项目方对项目是有执念的
+>  
+> 一种破釜沉舟、不破楼兰终不还的别样的情愫
+>  
+> 所以非常珍惜自己手上的筹码，宁可代币烂在自己手里
+>  
+> 今天心血来潮又去看了眼这个项目的币价
+>  
+> 看着仅数月95%+ 的代币跌幅和创始人X 简介上不知何时删去的founder of XXX
+>  
+> 我明白他已经move on，把做项目的天赋和执念带到了新的项目
+>  
+> 我也明白了这就是生活
+
+## 185. Sep 3, 2025 · 2:50 AM UTC · 1963072069194940511#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1963072069194940511#m
+- 作者：@y_cryptoanalyst
+
+> RWA 赛道市值持续突破新高，但两极分化的困境也越来越严重。
+>  
+> 链上RWA 资产排名前十的公链中，竟然没有一个是这轮牛市周期诞生的高性能公链。
+>  
+> 以太坊以53%的市场份额占据RWA 赛道半壁江山，紧随其后的 @zksync 和 @0xPolygon 分别以23.9亿美元和11.2亿美元分居二三名。
+>  
+> 除EVM 链外，@solana 和Move 系公链 @Aptos 也跻身前十榜单。
+>  
+> 看来，在新兴公链布道RWA 仍任重而道远。
+
+## 186. Sep 2, 2025 · 3:38 PM UTC · 1962902859709907142#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1962902859709907142#m
+- 作者：@y_cryptoanalyst
+
+> Linea: 你今天点火了吗？
+
+## 187. Sep 2, 2025 · 3:35 PM UTC · 1962902083952329065#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1962902083952329065#m
+- 作者：@y_cryptoanalyst
+
+> 第一次奥德赛，给你LXP；
+>  
+> 第二次奥德赛，给你LXP-L；
+>  
+> 第三次奥德赛，给你锁仓的 $LINEA ；
+>  
+> 鬼才，真是个运营鬼才。
+
+## 188. Sep 2, 2025 · 3:01 PM UTC · 1962893596358762791#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1962893596358762791#m
+- 作者：@y_cryptoanalyst
+
+> 官方发行的风筝NFT 已经拉飞了，dyor.
+
+## 189. Sep 2, 2025 · 2:51 PM UTC · 1962891191806276002#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1962891191806276002#m
+- 作者：@y_cryptoanalyst
+
+> Crypto + AI 的未来是什么？@GoKiteAI 给出了答案。
+>  
+> 智能体互联网通用infra @GoKiteAI 宣布完成最新一轮由 @PayPal Ventures 和 @generalcatalyst 领投的1800万美元A 轮融资，总融资额达到3300万美元。
+>  
+> @PayPal 是全球线上支付的巨头，@GoKiteAI 作为其旗下风投参与的唯一一个AI 支付项目，战略意图已经非常明显了，AI 支付是未来支付领域的“兵家必争之地”；
+>  
+> 我又扒了一下另一家领投机构 @generalcatalyst, 同样是全球最top 的一批风投机构，总资产管理规模达到330亿美元，也是稳定币Circle 最大的外部股东之一。
+>  
+> 大白话总结就是，@GoKiteAI 可以看做是@PayPal 的亲儿子，代表Paypal AI 支付赛道的战略布局，天花板非常高，值得花时间找参与角度。
+>  
+> 最后提一嘴之前官方发行的风筝NFT，宣布融资后地板价应声上涨，目前来到0.19E，又是属于freemint 钻石手的胜利。
+
+## 190. Sep 2, 2025 · 1:21 PM UTC · 1962868504534929552#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1962868504534929552#m
+- 作者：@y_cryptoanalyst
+
+> 现在撸毛的最优路径是混社区，没有之一。
+>  
+> iykyk.
+
+## 191. Sep 2, 2025 · 12:50 PM UTC · 1962860737120063906#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1962860737120063906#m
+- 作者：@y_cryptoanalyst
+
+> 别看他怎么说，看他怎么做。
+>  
+> 这句话的含金量还在上升，这是评判项目方是否真的community first 的黄金标准。
+>  
+> @anoma 没有忽视社区的声音，让小微KOL 重回Kaito 榜单，yap 不再是有影响力的头部/ 腰部KOL 的特权。
+>  
+> 公平，公平，还tm 是公平。
+
+## 192. Sep 2, 2025 · 9:09 AM UTC · 1962805014877164017#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1962805014877164017#m
+- 作者：@y_cryptoanalyst
+
+> 市场会奖励每一个重视社区的项目方，同样也会惩罚每一个玩弄社区的项目方。
+
+## 193. Sep 2, 2025 · 2:59 AM UTC · 1962711925575631206#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1962711925575631206#m
+- 作者：@y_cryptoanalyst
+
+> WLFI 发币相当于给其他天王级项目tge 做试盘了，测试当前市场资金的深度、流动性和接盘能力，以及最重要的市场情绪的狂热程度。
+>  
+> 打算近期tge 的项目可能要放缓了。最近排队tge 的项目真不少：@LineaBuild, @boundless_xyz, @union_build, @monad …
+>  
+> 真怕市场接不住。
+
+## 194. Sep 2, 2025 · 12:21 AM UTC · 1962672122985357779#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1962672122985357779#m
+- 作者：@y_cryptoanalyst
+
+> 熟悉的配方，熟悉的味道。
+>  
+> 接下来，可以期待总统夫人Melania Trump，总统千金伊万卡，总统外孙女和总统家的狗发稳定币项目了。
+>  
+> 这个剧本我熟悉。
+
+## 195. Sep 1, 2025 · 2:19 PM UTC · 1962520730442276977#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1962520730442276977#m
+- 作者：@y_cryptoanalyst
+
+> 看完了你们奶WLFI 的推文，我上辈子欠下的债算是还清了，谢谢你们。
+
+## 196. Sep 1, 2025 · 11:54 AM UTC · 1962484095851872387#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1962484095851872387#m
+- 作者：@y_cryptoanalyst
+
+> 人真的会在同一个地方跌倒2次。
+>  
+> 川普大总统告诉我的道理。
+
+## 197. Sep 1, 2025 · 9:50 AM UTC · 1962453075622609315#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1962453075622609315#m
+- 作者：@y_cryptoanalyst
+
+> 一个代表世界计算机的未来，一个代表总统的肉便器。
+>  
+> 请问你，我的朋友，该怎么选？
+
+## 198. Sep 1, 2025 · 9:27 AM UTC · 1962447263298703492#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1962447263298703492#m
+- 作者：@y_cryptoanalyst
+
+> 当下Degen 心境：
+>  
+> FDV 36亿美元的Linea 唯唯诺诺，FDV 316亿美元的WLFI 重拳出击。
+
+## 199. Sep 1, 2025 · 4:09 AM UTC · 1962367150557114424#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1962367150557114424#m
+- 作者：@y_cryptoanalyst
+
+> 左脑：
+> 我看好这个项目想yap
+>  
+> 右脑：
+> 说不定有广子？说不定有KOL 轮？说不定可以先dc 开票跟项目方谈条件？
+>  
+> 左脑打不赢右脑。其实你并不看好。
+
+## 200. Sep 1, 2025 · 3:04 AM UTC · 1962350854763348312#m
+- 链接：https://twitter.com/y_cryptoanalyst/status/1962350854763348312#m
+- 作者：@y_cryptoanalyst
+
+> 为什么几乎所有crypto 项目提出的经济飞轮最终都以失败告终？
+>  
+> 因为所有的经济飞轮都基于某个特定的假设，这个假设基本不可能实现。
+>  
+> 比如说代币价格要维稳，比如说飞轮系统内永远存在套利空间……
+>  
+> 强如Luna，影响力大如Berachain，Ponzi 程度高如Initia，都无法摆脱失败的魔咒。

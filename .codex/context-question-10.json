@@ -1,0 +1,24 @@
+{
+  "question": "运行 signal_trader 时如何确保不会触发真实下单？是否应在执行前强制 SIGNAL_TRADING_ENABLED=false 或切换测试网？",
+  "analysis": "signal_trader 在解析到信号后仅在 trading_enabled 为 true 时才调用 execute_signal。该标志来自环境变量 SIGNAL_TRADING_ENABLED，默认从 .env 读取。此外，BinanceClient::new 会根据 BINANCE_TESTNET 切换测试网。运行脚本 start_both.sh 也会读取同一批变量并在启动前打印当前杠杆与保证金。",
+  "evidence": [
+    {
+      "file": "apps/rust-trading-bot/src/bin/signal_trader.rs:226",
+      "text": "if trading_enabled { execute_signal(...) } else { println!(\"⚠️  交易已禁用，跳过执行\"); }"
+    },
+    {
+      "file": "apps/rust-trading-bot/src/bin/signal_trader.rs:289",
+      "text": "let trading_enabled = env::var(\"SIGNAL_TRADING_ENABLED\")?.parse::<bool>()?;"
+    },
+    {
+      "file": "apps/rust-trading-bot/src/bin/signal_trader.rs:288",
+      "text": "let testnet = env::var(\"BINANCE_TESTNET\")?.parse::<bool>()?;"
+    },
+    {
+      "file": "apps/rust-trading-bot/start_both.sh:34",
+      "text": "source ../../.env 并在启动前输出当前 SIGNAL_LEVERAGE、SIGNAL_MARGIN、SIGNAL_TRADING_ENABLED。"
+    }
+  ],
+  "conclusion": "只要在运行前将 SIGNAL_TRADING_ENABLED 显式设为 false（并可选设 BINANCE_TESTNET=true），程序会在解析到信号时跳过 execute_signal 调用，从而避免真实下单。运行测试时需通过环境变量覆盖确保安全。",
+  "next_steps": "在编译运行阶段导出 SIGNAL_TRADING_ENABLED=false 与 BINANCE_TESTNET=true，验证输出日志确认参数。"
+}

@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1588224265283076096",
+    "screen_name": "CMhOeNnExY",
+    "name": "Chenxi",
+    "description": "\\** Full-stack ｜holder｜ builder ｜ CFA \n最好的投资是投资自己*/",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1772498326455476224/1KwS0f0G_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1588224265283076096/1718850982",
+    "followers_count": 9546,
+    "friends_count": 697,
+    "statuses_count": 1854,
+    "favourites_count": 1937,
+    "listed_count": 151,
+    "location": "",
+    "website": "",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2022-11-04 01:39:15 +08:00",
+    "url": "https://twitter.com/CMhOeNnExY",
+    "rest_id": "1588224265283076096"
+  },
+  "tweets": [
+    {
+      "id": "1946101107144483198#m",
+      "content": "聊聊《套利之结构错配套利》的思路\n\n不管是 DEX-CEX，还是 CEX-CEX 套利，说到底，核心只有一件事：等价资产的价差收敛。\n\n听起来很简单，真做起来远没那么好赚。\n\n现实里你会遇到一堆问题：\n\n1️⃣ 开仓手续费 + 资金费率：利润看着挺美，实际可能是亏的。\n\n2️⃣ 滑点 + 深度问题：大额吃单时，订单簿就是你的对手盘，你吃得越多、亏得越多。\n\n3️⃣ 价格不收敛：你以为它会回归，结果行情不配合，越走越偏，资金被套，费率还亏。\n\n这些问题在 BTC、ETH 这种大币上尤其明显。套利窗口极短，利润也不客观。\n\n甚至我觉得：与其搏秒级套利，不如行情好时直接做一手低杠杆空单套保。\n资金费率为正，能睡着觉，一边吃费率，一边把币拿去 DEX 做年化。\n\n但说实话，真正能吃到利润的套利，反而是在一些不主流但流动性还行的资产上。\n\n比如今年 3～4 月就遇到一个典型案例：\n\n两种锚定黄金的代币：PAXG 和 XAUT\nPAXG 在 BG 只支持现货，XAUT 只支持合约。锚的是同一套黄金价格，但因为交易结构不同，曾出现了 2～3% 的价差，而且持续了好几天。\n\n套利逻辑很简单：\n1️⃣做空 XAUT 合约 + 买入 PAXG 现货\n2️⃣借出 PAXG 卖掉 + 做多 XAUT 合约\n\n对冲掉波动，只吃结构收敛。\n\n这就属于典型的结构套利。\n\n而且现在 RWA 越上链越多，结构错配的机会也在变多\n\n美债、信用债、商品稳定币、法币稳定币等等，锚的都是一个东西，结构却完全不同。\n结算规则不同，预言机来源不同，更新频率也不同。\n\n这就注定了哪怕是同一个标的，也很容易定价错位。\n\n套利人，会被套，还是被套利套住？",
+      "timestamp": "Jul 18, 2025 · 6:53 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1946101107144483198#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1974766881065275630#m",
+      "content": "又是一年\n感恩遇到的所有在路上的朋友",
+      "timestamp": "Oct 5, 2025 · 9:21 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1974766881065275630#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1971913555147719084#m",
+      "content": "好久没卷了 每次跟树姐待一起马上动力满满的🫨",
+      "timestamp": "Sep 27, 2025 · 12:23 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1971913555147719084#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1960835273648169373#m",
+      "content": "年纪轻轻就得了“风险厌恶症”，最近已经0精力放在长线项目上了。\n\n目前的日常就是：\n1️⃣交付一些产品和定制的小工具\n2️⃣带群友学 AMM、写套利监控\n3️⃣健身 & 躺平\n\n想起去年一姐说的Crypto的时代永远有机会。\n\n就算现在来说，Crypto 相比传统行业，依然充满套利和可操作空间。政策的不确定性与不成熟，意味着新的叙事与机会是一眼看不到头的。\n\n昨天一个还在传统web2写代码的朋友打电话聊了一下，他说拿到了两个30k+的offer，问我有没有什么建议…\n\n我对他和我自己的建议是做好手里的事，不管是在什么行业，慢慢沉淀成为行业的专家。成为行业的前20%，才存在真正意义上的质变。真的不用着急，慢就是快，我们都还有大把时间。\n\n革命尚未成功，同志仍需努力。",
+      "timestamp": "Aug 27, 2025 · 10:42 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1960835273648169373#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1959931708733591913#m",
+      "content": "找到个讲web3安全/漏洞方面教程的博主，讲的很全，感兴趣的可以学习下，很牛逼\n\n如果说全英文的字幕翻译不准确，可以用Trancy这个插件，在谷歌应用商店就能搜到，很好用。\n\npiped.kavin.rocks/DRZogmD647U?si=xE5N…",
+      "timestamp": "Aug 25, 2025 · 10:51 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1959931708733591913#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1959042685794492917#m",
+      "content": "刷了几个小时推特看了看。\n\n发现很多老师很少更新推特了，我自己刷推的欲望也在降低。\n\n如果不做流量，对当下各种小盘子pvp和撕逼没有什么好评价的，也丝毫不羡慕谁合约麻了谁土狗麻了谁做了真正的Alpha，零和博弈场在当下的web3体现的各位淋漓尽致。\n\n作为一个风险厌恶者来看，始终是那一套东西，讲了一遍又一遍，我是真的有些厌倦了。",
+      "timestamp": "Aug 22, 2025 · 11:59 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1959042685794492917#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1958530712501707011#m",
+      "content": "很多人都没搞明白一个逻辑问题，在情感和生活中都特别特别实用。\n\n你喜欢蝴蝶，最好的方式是种花，而不是去追。\n\n想要财富、爱情、机会，也不是拼命去追逐，而是先让自己成为一个值得停留的花园。举两个例子：\n\n1️⃣感情上，你想要很多爱，不是靠送礼物。很多女人根本不稀罕那些小礼物。\n\n当然，你送贵重的礼物那就变成了🏧，Chenxi也不认为是一种真实可持续化的感情。\n\n真正有用的，是把自己变好。收拾收拾，不好看能整，不会穿搭可以学，身材不好去练。\n\n女人喜欢看薄肌，就跟男人喜欢看胸一样简单直接。等你做到这些，根本不用卑微去追，就有人倒贴。\n\n感情的本质就是吸引，不是当冤种去跪舔。就跟带漂亮女人出去是一样的，他们会觉得更有面子，虚荣心并不是不好，这是是人最原始的本能。\n\n2️⃣财富上，你想要很多钱，也不是乱努力或者假装努力。努力方向不对，越辛苦越穷。工厂打螺丝，一天干十几个小时，累不累？辛苦不辛苦？努力能发财，他们早就发财了。\n\n最简单的稳定赚钱方式就是沉淀。就是长期学习、不断沉淀，把自己做成有价值的人，成为一个领域或者多个领域的专家。\n\n上学学的是社交、学的是最基础的关于未来如何打工的教程，并不会教这些东西。所以我以后有孩子，我会绝对支持他任何兴趣爱好，并且让他培养兴趣直到成为一个行业的顶尖，具有社会价值并且内心精神充实快乐的人。至于数理化语文爱学不学。\n\n社会底层交换逻辑就是价值互换，我需要你、你需要我，这时候才能产生价值，财富自然就会来了。\n\n这是Chenxi亏了这么多感情和钱才明白的道理。理解这个逻辑，并且执行力强真干的人，精神和物质都不会差。",
+      "timestamp": "Aug 21, 2025 · 2:04 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1958530712501707011#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1956284045605920840#m",
+      "content": "之前在 Web2 做开发的一个同事想了解怎么入行 Web3，我给他梳理了一下底层逻辑。\n\n真正上手的话，Web2 全栈程序员得做的事也挺多的：\n\n先了解客户端大概长什么样，节点是怎么同步数据的，然后理解主流客户端的大体实现，比如 Geth、Solana 节点\n\n学不同链的链上语言和框架，比如 Solidity + Foundry、Solana 的 Rust + Anchor，还不说move系的。。\n\n熟悉一些金融和算法知识，比如 AMM、闪电贷、跨链桥\n\n写智能合约、部署测试网、调试，Next.js + 前端库集成调用\n\n学习合约安全的一些东西，合约审计，测试漏洞\n\n说实话，在2025年，从找工作的角度看，经常听说技术好的 Web2 程序员找不到好工作，在 Web3，技术好的全栈几乎没看到过找不到工作机会的……如果还有产品经理思维、有自己的思考，自己干的机会也是大把的",
+      "timestamp": "Aug 15, 2025 · 9:17 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1956284045605920840#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1952693125245251865#m",
+      "content": "小时候从五六岁开始练字 当时还去参加各种比赛 硬笔组跟毛笔组我都搞 长大了连毛笔都没再拿起来过了 水平也是一年比一年低 有时太浮躁 写写东西 确实能静下来些 这也能算爱好其中之一",
+      "timestamp": "Aug 5, 2025 · 11:28 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1952693125245251865#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1952507290768261300#m",
+      "content": "现在看起来，人人都在讲 DeFi。\n\n但真正理解 DeFi 的人，其实只有三类：\n\n一类是 protocol 层的 PM 和架构师，他们要设计激励模型，构建机制，定义系统运行的规则。\n\n一类是下场写代码的 dev，深入合约与链上链下逻辑，把抽象规则真正落地为代码。\n\n还有一类，是黑客。\n他有时是第一类，寻找系统设计层面的结构性漏洞。\n有时是第二类，专注于代码实现层的边界与缝隙。",
+      "timestamp": "Aug 4, 2025 · 11:09 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1952507290768261300#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1952371102795141308#m",
+      "content": "上次不是发有个学员做脚本工作室吗 好多私聊我问我有没有群要加\n\n声明下，现在早就不干基础教学了，虽然之前干的挺好，也的确帮助了挺多人，不干的原因主要这些：\n\n1、更希望把时间花在更有价值的东西，比如去build项目，提升自身能力和找合约漏洞上，感觉更有意思。\n\n2、基础撸毛脚本、自动化交互，门槛已经不高了，光我带出来的都一大把人，40%以上的都会写脚本了，除了昨天脚本工作室老哥，还有很多工作室和个人。这样对我是不是也给这个圈子带来点贡献？\n\n3、日常套利、跑脚本、外包单子和一些杂七杂八的收入，我开销也不大，已经满足我日常支出，不差那点。要是做大群，收这点钱人多了干不好我自己心里不舒服。\n\n也别再找我要花钱看往期视频了，我不会收那几个钱给自己埋雷，无免费义务咨询服务，随缘回答问题。\n\n也别找我要xx项目脚本，张口就要。我只是做知识分享，分享研究的一些东西，如果对你有帮助你就关注，如果发的内容对你没价值随时取关就行。",
+      "timestamp": "Aug 4, 2025 · 2:08 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1952371102795141308#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1952369938565636198#m",
+      "content": "okx抽奖，chainbase发中奖奖励了！\n\n单号50C，目前价值14U。\n直接base链合约批量空投中奖地址，记得看看！\n\n这个中奖率有点低，我总共只有850个，价值250U",
+      "timestamp": "Aug 4, 2025 · 2:04 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1952369938565636198#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1951565940019306913#m",
+      "content": "去年一个学员突然找我聊天，说他们工作室现在不算黑奴，团队已经有6个程序员，地址也上万个。一晃一年过去，Chenxi 也在推上持续分享输出了一年多了。\n\n最近也联系上了我比较看好的项目方，跟 Founder 和 CMO 都聊得不错，如果顺利，应该很快就能落地一些合作。\n\n说实话，单打独斗真的很难出杠杆。再牛逼的技术，如果脱离了真实的需求和可持续的变现路径，最终也只是自我感动。脱离闭门造车才是独立开发者最需要做的事。\n\n现在这个状态我其实挺满意的，每周在小群里做点技术直播，日常套利、撸短平快的脚本、做做理财年化，能覆盖生活开销。\n有时间就睡睡觉、学点传统金融的东西、写写代码，内修全面性发展，外求机会，等一些能放大杠杆的机遇。\n\n能力是唯一能对抗不确定性的底牌，踏实提升认知和思维能力，我们都会有美好的明天。",
+      "timestamp": "Aug 2, 2025 · 8:49 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1951565940019306913#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1950105398180270584#m",
+      "content": "币圈压根没啥新鲜的东西～来看脱口秀了\n\n刷一天推，不是那几个大项目就是做okx任务，链上老师们都开始撸okx任务了，说明链上是真没啥玩头，家里俩mac现在还在跑各种脚本。\n\n不是我fud，回头想想，今年貌似都没出现什么长叙事的东西，硬说也就一个RWA和合规化发展。\n\ntoC的那一套东西各种被证伪，什么时候还能再出现L2、NFT、铭文这样的长叙事热点？",
+      "timestamp": "Jul 29, 2025 · 8:05 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1950105398180270584#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1949921065574260739#m",
+      "content": "不管行情怎样，只要还在折腾，还在动手，Web3 里就永远有机会。\n\n躺平了才是真的出局。",
+      "timestamp": "Jul 28, 2025 · 7:53 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1949921065574260739#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1949089684849865126#m",
+      "content": "现在对撸毛已经不太看好了。\n\n各种付费工具 基础脚本几乎是人手一份，门槛被快速抹平。随之而来的就是项目女巫规则越来越严，或者号均收益一降再降。更别说项目方为了上交易所，得提前“进贡”alpha、Kaito这种分成通道，真正能落到社区用户手里的红利已经所剩无几。\n\n说白了，现在项目数量也就那几个，竞争早就不是拼信息差，而是拼谁更能扛沉没成本。很多脚本本质上也没多复杂，无非就是逆向工程 + 点时间投入，甚至有些完全不需要脑子。\n\n我现在大概有 1500 个地址放着点小资金，选热门项目、0成本参与的活动，OKX 抽奖类这类短平快的还会做。其余的主要精力在 E 子、Sol 上做现货波段，或者拿一部分资金套保，赚点年化和资金费。\n\n但老实说，现在这行情让我挺迷茫的。\n\n你说行情好吧？币价在微策略那种玩法下确实越来越高，但我自己其实没赚到啥。新币一上交易所，就直接浇给，根本没人愿意接。而你说行情差吧，链上项目热度又确实还在。\n\n所以我觉得，未来方向还是得靠 找结构性套利机会，有点自己的价值输出，并尝试逐步转向做项目孵化。只有换个视角，从“撸”变成“造”，从“搬砖”变成“贡献团队价值”，才有可能走向真正的可持续发展。",
+      "timestamp": "Jul 26, 2025 · 12:49 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1949089684849865126#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1947865968308535456#m",
+      "content": "生命在于折腾。反正本来就没钱，折腾一下或许还有翻盘的机会。\n\n不折腾，只能一直没钱。遇到有点把握的机会，一把梭就完了。（不是指炒币或开合约）",
+      "timestamp": "Jul 23, 2025 · 3:46 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1947865968308535456#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1947832256615354614#m",
+      "content": "因为刚好需要超大一批钱包并且要放一些钱💰\n\n专门写了个非常注重安全的助记词钱包生成器！\n\n生成后全加密保存！建议离线生成直接放在硬盘里。\n\n特性：\n✅ AES-256-CBC + PBKDF2+随机盐值+随机IV\n✅ 强密码策略，需要最小长度12位密码\n✅ 敏感数据清零，使用后立即从内存强制垃圾回收\n📦离线运行，零依赖风险\n\n👇完全开源\ngithub.com/cyptoKris/SafeWal…\n\n#Ethereum #Crypto #Web3 #钱包工具 #安全至上",
+      "timestamp": "Jul 23, 2025 · 1:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1947832256615354614#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1947505660759052316#m",
+      "content": "最近撸毛赛道真的太多项目了\n\n比如boundless zema citrea prismaX anoma Helios pharos cysic\n\n一眼望去 都是模块化L1测试网\n\n这tm不给黑奴累死？🤣",
+      "timestamp": "Jul 22, 2025 · 3:55 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1947505660759052316#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1947200467613921335#m",
+      "content": "为什么没看到推上有人骂这个项目？\n\n投票和签到积分不给空投，完全钻石代币1:1\n\n这就算了，买币也是1U:1钻石:1代币\n\n只玩转盘的应该刚好回本，买币的会亏死了\n\n不过昨天写临时邮箱api创建接邮箱还挺稳定的，有空了开源出来",
+      "timestamp": "Jul 21, 2025 · 7:42 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1947200467613921335#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1947194020129903036#m",
+      "content": "最近很多人私信我一些问题，统一简单回复下：\n\n1️⃣ 我发的脚本跑不通怎么办？\n\n把报错信息复制粘贴给 AI，让它帮你分析运行逻辑和报错原因。跑不通多数是环境、依赖、接口参数问题，自己多动手，别一上来就“在吗”。\n\n我从来不打包代码，能让你看到源码是希望你能从里面看到你想学的东西对你有帮助。我甚至写了很多注释，完全没钓鱼风险。\n\n2️⃣ 能分享某项目脚本吗？\n\n部分项目暂时不打算开源，或者本身需要改很多配置、依赖资源，不适合一键运行，直接发出去反而误导人。\n\n3️⃣ 某个技术细节怎么做？\n\n很多问题 AI 能一分钟帮你搞定，很多人甚至关注都没关注，你要是我朋友我花点时间聊聊也没事，我又不认识你，关注都不点，没义务免费给你当客服。\n\n4️⃣ 有没有交流群进？\n\n目前没有做大群的打算，不想把时间浪费在没用的信息上。只有一个年费小群，目前带我就9个人，每周三次左右直播，内容为自动化脚本和工具分享，Web3开发系统内容 合约+前后端，研究defi实现和套利可能性。\n\n不希望人太多，所以每月只会开放1-2个名额，老学员优先，可补差价进入。因为对技术能力有些要求。必须得先看完往期内容。",
+      "timestamp": "Jul 21, 2025 · 7:16 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1947194020129903036#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1946936857570504746#m",
+      "content": "prismaX的用户id貌似是递增入库\n\n因为如果并发注册id相差很近。\n\n我刚又注册了一批号，发现id才到556000\n\n现在注册用户才五十多万，人也太少了吧🥲\n\n如果我注册一万个，我就占了总地址的1%\n\n总感觉哪里不对劲？你们怎么不干啊？",
+      "timestamp": "Jul 20, 2025 · 2:14 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1946936857570504746#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1946912386667131028#m",
+      "content": "领coresky还需要绑定邮箱，并且谷歌邮箱接不到码\n\n赶紧又写了个接口创建临时邮箱接邮件绑定的功能\n\n先把工作室一批号领完，然后再领新加的一批号，归集起来，明天去gate卖掉。虽然单号数量少！但是我号多！\n\n下次小群教学素材又有了，准备出门吃饭！\n\n感谢Coresky！海底捞有了！",
+      "timestamp": "Jul 20, 2025 · 12:37 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1946912386667131028#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1946556825857585454#m",
+      "content": "周六了兄弟们 ！弹弹琴出去玩了！\n\n推上方大同的粉丝多吗？以后没事拍点弹吉他或者合成器的视频。\n\n以后还是想开个雪茄吧或者livehouse，搞个乐队偶尔自己玩儿～",
+      "timestamp": "Jul 19, 2025 · 1:04 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1946556825857585454#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1946536959486386195#m",
+      "content": "还是cursor好，笨孩子至少不跟我反着干，说让干啥就干啥",
+      "timestamp": "Jul 19, 2025 · 11:45 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1946536959486386195#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1946392792064037103#m",
+      "content": "电子乞丐上线！加了500个sol地址跑PrismaXai低保号（答题+每日签到）\n\n后面可能就绑下社交账号最多参与卷下dc角色，买机器人我是不可能买的😂这项目叙事还不错  a16z投的项目至少大部分挺大方的 \n\n现在只要不让花钱或者很低成本就必须铺满低保，单纯的看mini闲着我浑身难受。一个地址赚3U 多上500个地址就是多1500U。\n\n用项目方给的1500U买 $ETH ，明年就是5000U，后年就是15000U🤔",
+      "timestamp": "Jul 19, 2025 · 2:12 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1946392792064037103#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1945839616600482151#m",
+      "content": "开源了Pharos项目公开版脚本\n\n包括日常任务-领水、签到、swap、转账（91次）这些功能！再也不用每天记时间签到领水！\n\n完整代码已开源，快去试试吧！\n\ngithub.com/cyptoKris/pharos_…",
+      "timestamp": "Jul 17, 2025 · 1:34 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1945839616600482151#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1945838850980663552#m",
+      "content": "币圈真是卧虎藏龙！\n\n前天和几个群友开未来规划会，有人 STRK撸了1000 个号，有人专注交易，把宏观叙事研究得深入透彻，还有人总能抓住每一轮的大机会。\n\n每个人都有一套自己的方法论，真的强！\n\n最近不少人问我有没有群。说实话， 我进过太多群，95% 的都没啥优质信息，还得费力维护，所以现在对做公开大群很抵触。\n\n如果你只是想获取信息，还不如直接去看 RootData 或 DeFiLlama，效率高得多。\n\n相比维系无效社交，我更愿意把时间投入在研究、实战和内容输出上。\n\n目前的小群是我在今年 2 月开的年费群，入口很单一，也会筛选，主要是面向我这里去年的老学员。\n\n我准备了很多内容，每周都会进行一些直播，包括一些 bot 工具、各链底层机制、SDK 框架，还会穿插讲一些defi相关和一些新机会思路和实践，后续也会尝试做点全栈开发相关的直播。\n\n后面也会出个公开的部分内容的合集做到网站上！\n\n如果你对研究某一块技术特别感兴趣，其实github或者推特有大量优质的东西等你研究，只是得动起来！",
+      "timestamp": "Jul 17, 2025 · 1:31 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1945838850980663552#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1945470500249231821#m",
+      "content": "ip问题，破案了！有些ip请求就是会被拦，不管你有没有打码！",
+      "timestamp": "Jul 16, 2025 · 1:08 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1945470500249231821#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1945433738692940118#m",
+      "content": "在写boundless脚本的时候发现Vercel貌似升级了？\n\nVercel目前不只是验证Cookie了，似乎还要验证请求发起环境和会话完整性\n\n即使是先获取到正确的vercel cookie，发请求还是遇到429限制，一直被vercel挡住。即使我把浏览器环境补出来，仍然是429，太奇怪了。\n\n换了个思路，不使用cookie，直接用真实浏览器过vercl发请求，可能是最省事的方案了。",
+      "timestamp": "Jul 16, 2025 · 10:42 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1945433738692940118#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1945086465827905735#m",
+      "content": "在家写代码还挺舒服的\n\n从设计ui 写前端页面 调接口 对接合约 \n\n每次有一些新的想法实现出来 \n\n过程中对一些用的少的技术栈理解会更深\n\n很享受从0到1的创造过程 像造物主\n\n写累了 看看有没有什么能撸的项目 跑跑脚本 \n\n弹弹琴玩会ps5 一天就过去了\n\n出门玩除了喝酒好像也不知道干啥🤔",
+      "timestamp": "Jul 15, 2025 · 11:42 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1945086465827905735#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1945069019620630994#m",
+      "content": "最近加了一批地址，主要用来跑脚本、卷一些dc角色\n\n给兄弟们推荐一下我用的三方服务购买渠道。\n\n1️⃣社交账号购买：hstock.org/ru/\n\n各种社交账号都有，很多商家。价格实惠\n\n上次推特500个就在这里买的，好像不到200块。给的数据很全，不仅有auth_token、2fa，ct0和完整cookie都有，我甚至都不想登，直接固定ip跑api绑推，嘎嘎快。\n\n2️⃣买了一些指纹环境，之前主要都是本地指纹，后面有些临时任务，脚本又跑不起量的，自己就写同步器不好用，来回优化浪费时间。\n\n直接买了morelogin的指纹环境，对比了下价格很合适，比其他平台便宜。\n\n注册🔗：\nmorelogin.com/register/?from…\n使用优惠码 “chenxi”后折上折（20%折扣）\n\n我加的400个环境，180天，实测只要$326.40",
+      "timestamp": "Jul 15, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1945069019620630994#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1944828602756845844#m",
+      "content": "黄渤说过：当你弱的时候世界全是坏人，当你强大以后身边都是好人。\n\n其实，这并不是世界变了，而是你的视角变了。弱小时，容易被伤害，心生防备，看到的都是敌意和冷漠。\n\n强大时，心境不一样懂得感恩和包容，才能发现那些曾被忽略的善意和温暖。\n\n成长的过程，就是学会从坏人中看到成长的机会，从好人中汲取力量；不是世界变得不同，而是你成长了，有了被需要的时候，才开始真正理解人与人之间的信任与连接。\n\n当你弱小，不懂安全防护，面对鱼龙混杂的项目与骗局，只觉得四处是陷阱。\n\n后面你才会发现，好人其实一直都在，只是等待着你成长，与你并肩同行。",
+      "timestamp": "Jul 14, 2025 · 6:37 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1944828602756845844#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1944779347573068043#m",
+      "content": "【Web3 安全科普篇】🎣NFT/ERC20 钓鱼\n\n你有没有在转账后，钱包里突然多了一枚你从未听说过的 ERC20 代币，或者莫名出现了一个“空投 NFT”？\n\n都5202年了，居然还能在币安广场刷到web3钱包被盗的案例，100%是因为被钓鱼了！授权了钓鱼合约！\n\nChenxi今天给兄弟们分享一下关于钓鱼合约的实现和怎么避免！\n\n黑客通常会从链上一直监听新的交易，然后对新的交易地址（标记为活跃地址）使用批量分发合约发放带有网站的NFT/Token\n\n比如下面这个👇（我写的教学合约，只作演示用）：\n\n乍一看，好像是 Binance 48 热钱包 给你空投的！\n\n🔍 点开地址一查：链上确实被标记为 Binance 热钱包\n\n而且账户还有几千万美金的余额！是不是很像那么回事？\n\n❌ 千万别信！这是钓鱼合约常用的一种社会工程手法\n\n事件日志中写死一个热门地址，比如 Binance 热钱包。\n\n这样 Etherscan 浏览器就会显示：“Binance 48 ➡ 你的地址”。\n\n实际上，币是这个钓鱼项目合约 mint 给你的，Binance 完全不知情\n\n在目标网站做了插件劫持甚至假按钮，通常是诱导你执行 approve()，再通过他们的合约 transferFrom() 把你钱包里的资产转走。\n\n新手注意下面几点，能防止绝大部分的钓鱼！\n\n1⃣️不要随便点击代币名称中的链接\n\n2⃣️不要对陌生代币或 NFT 执行任何操作（approve、swap、转账）\n\n3⃣️清除钱包授权记录（如使用 Revoke.cash）\n\n4⃣️养成只与信任平台交互的习惯\n\n如果感兴趣的兄弟们多，后面Chenxi也可以剖析下具体网站劫持插件钱包并让你授权的代码实现！",
+      "timestamp": "Jul 14, 2025 · 3:21 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1944779347573068043#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1944393675792171297#m",
+      "content": "今天又看到有人因为用脚本被盗了……\n\n真的感觉非常非常可惜。\n\n有些人辛辛苦苦撸了几个月，一夜归零，连复盘的机会都没有。\n\n免费的，就是最贵的，自古以来就是这个道理。\n\n很多经常更新且“免费”的东西，背后要么是诱导授权，要么是埋了后门，比如把私钥上传到某个服务器，甚至Chenxi还看过一些三方库攻击，防不胜防。\n\n尤其是现在大家都在搞 Web3 脚本、自动化、签名交互这些事，安全感从来不是靠侥幸来的。\n\n如果你真想长期搞这些，Chenxi的建议是：1️⃣用AI去检查代码，可以解决大部分的恶意代码。\n\n2️⃣用那些长期都在开源代码的博主的代码。\n\n3️⃣ 早晚是要自己动手的，不然遇到代码问题或者你想加入一些其他你自己的逻辑，不懂原理光靠ai是搞不定的\n\n不然迟早为“免费”交一次学费，而且往往是全部身家。\n\n兄弟们，真心劝一句：别拿钱包去赌人性。",
+      "timestamp": "Jul 13, 2025 · 1:49 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1944393675792171297#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1944382700565287380#m",
+      "content": "周末快乐兄弟们\n\n今天刷了一天推，圈子就这几个事：\n\n1️⃣ pump 热度爆表，预售十几分钟抢光。\n\n一堆人在 CEX 套保打预售，结果空单爆了、币也没打上，完美实现“损失最大化”🤣\n\n2️⃣ memex 开始内卷，大V们接力上车，FOMO 值拉满\n\n3️⃣ irys 又孵蛋了，现在项目没点蛋机制都不好意思上线？\n\n之前留言眼熟的都转了888个IRYS，还剩十几万水，不过这个水很好领，大家应该也都够。\n\n4️⃣ pharos 新徽章上线，已开放 mint\n\n明天我开源下 pharos 的领水 + 签到脚本，连着领 5 天就能 mint 了\n\n我真好奇这些项目到底是怎么拿到那么高的融资的？\n\n有时候感觉这就是人类历史上最大的击鼓传花实验场🤔",
+      "timestamp": "Jul 13, 2025 · 1:05 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1944382700565287380#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1944038017548837172#m",
+      "content": "👇 立即使用：\ngithub.com/cyptoKris/coresky…",
+      "timestamp": "Jul 12, 2025 · 2:15 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1944038017548837172#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1944038011987276251#m",
+      "content": "应兄弟们强烈要求，Chenxi 开源了 CoreSky 项目的自动签到+投票脚本代码！\n\n✅ 自动每日签到、积分投票\n🤖 本地智能验证码识别，无需成本\n📊 批量账户管理，使用动态代理\n🔄 完整错误处理机制",
+      "timestamp": "Jul 12, 2025 · 2:15 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1944038011987276251#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1944029593226392052#m",
+      "content": "之前抓包爱用fiddler，今天下了个Reqable，还挺好用的！",
+      "timestamp": "Jul 12, 2025 · 1:42 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1944029593226392052#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1944027733832741147#m",
+      "content": "上次不是说又买了一批社交账号准备加号吗？\n\n之前🐦授权总是卡 OAuth，因为参数不全验证完总是容易封🐦。\n\n今天刚好跟朋友聊了一下@Soul6888，受到启发\n\n花了一下午把 OAuth 的参数逻辑重新梳理了一遍，这次终于把API都跑通了，稳定 。\n\nOAuth 这玩意，真的是参数一个不能少，血的教训。\n\n又耽误了一天项目开发进度，才刚mkdir project😭",
+      "timestamp": "Jul 12, 2025 · 1:35 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1944027733832741147#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1943699567675150656#m",
+      "content": "最近对撸毛脚本没什么兴趣了，年费小群几个人，直播教学反反复复讲的也就是那套东西。\n\n现在反而更关注投研、经济模型和生态设计，这些内容需要对链有更深的理解，也更考验策略设计与长期构建能力。每天研究这些，反倒越来越上头。\n\n今天在小群直播教学时，群友提出一个很有意思的观点：如果这波牛市 RWA真的起飞了，会不会衍生出更多套利机会？\n\n我认为答案是肯定的。\n\n市场只要有流动性，就会有波动；有波动，就容易形成价差；而有价差，就能构造套利路径。不论是热门叙事，还是冷门机会。\n\n如果未来能把美股等传统资产真正“体系化”地融入币圈，尤其在牛市流动性高涨的环境下，那种跨市场的套利机会，肯定是一片蓝海。现在已经时刻准备着了。\n\n最近也开始写Solana和Move系DeFi项目的 demo，希望下次去香港黑客松的时候，能碰撞出一些真正值得 build 的方向，然后干起来。",
+      "timestamp": "Jul 11, 2025 · 3:51 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1943699567675150656#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1943649867458609180#m",
+      "content": "irys项目存在严重漏洞 ！\n #irys\n@irys_xyz\n我把官方发放游戏奖励账号的IRYS余额 全转给我的地址了！ 请升级你们的网站！  \n\nThere are serious vulnerabilities in the irys project!  #irys\n\n@irys_xyz\nI have transferred all the balance of the game reward distribution account to my own account!   Please upgrade your website!",
+      "timestamp": "Jul 11, 2025 · 12:33 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1943649867458609180#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1943577210855841941#m",
+      "content": "补充一点：\n有些梯子程序就是代理不到TCP流量，或者根本没有开启虚拟网卡的模式！\n这时候你要考虑换个程序！",
+      "timestamp": "Jul 11, 2025 · 7:44 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1943577210855841941#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1943575317135970367#m",
+      "content": "《关于代码中代理请求失败的原因和解决方案》\n\n开发脚本或者bot的兄弟们一定踩过这个坑，建议收藏，如果你现在没遇到，以后一定会遇到。\n\n代码里配了代理，电脑也挂了梯子，但请求就是连不上。明明代理没问题，代码却一直 timeout，连接proxy失败。\n\n像这样👇\n\n说绕口点，就是《你的代码的代理无法连接系统的代理》\n\n这个问题对于AI来说，明明是一个很简单的问题，但他会给你绕来绕去找不到问题点到底在哪。\n\nChenxi去年给学员解决过这个问题，上次工作室旁边的WIN电脑网络也出现过这个问题。\n\n还专门去google了一下，基本没看到关于这个问题的解决方案。所以今天分享分享。\n\n---------------------问题原因----------------------\n\n其实根本原因就是：代码的请求根本没走系统代理。\n\n全局模式 ≠ 真全局。很多人以为打开了系统代理，就会转发系统所有流量，其实不是这样的。\n\n当你开启一个梯子的“全局代理模式”（比如 Clash、v2ray、Shadowsocks 全局），它实际上做的是：\n\n设置浏览器 / 系统应用的 HTTP/SOCKS 代理参数，告诉这些“听话的程序”：以后上网请走我。\n\n但这依赖的是程序是否“读取了系统代理设置”\n\n请求是否是“应用层协议”（如 HTTP）\n\n但是如果你这样使用👇\n\n这些请求已经自己指定了“要走哪个代理”，跟系统设置没关系。它不会再去看“系统的代理”怎么配置。\n\n更典型的是：有些程序（尤其是命令行工具、Docker 容器）压根不会读取系统代理设置，也不会走浏览器那套规则。\n\n---------------------解决方案----------------------\n\n解决方案也很简单，打开你梯子软件的TUN模式。\n\nTUN模式会直接在系统层创建一个“假网卡”（虚拟网卡），把所有出站流量统统接管，然后统一转发到你的代理服务器。\n\nChenxi用的mac的suger，里面就是对应的“增强模式”\n\n打开后再次发送请求，可以看到请求已成功被梯子捕获并转发👇\n\n以后遇到proxy连接失败时，请先看看你的梯子设置！确保你的流量已经通过了梯子🪜",
+      "timestamp": "Jul 11, 2025 · 7:37 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1943575317135970367#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1943436743740657840#m",
+      "content": "最近要是出大毛了或者逮到套利机会了\n\n第一件事就是出金先买个美产prs或者nord stage\n\n之前电琴也卖了 罗兰rd2000也卖了  就留了把马丁d28e\n\n虽然不干音乐行业好些年，忙起来弹琴也少了，但是往恒湿柜一放，把灯一开，光看着就是爽😋",
+      "timestamp": "Jul 10, 2025 · 10:26 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1943436743740657840#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1943363178618065202#m",
+      "content": "币圈最简单的赚钱逻辑，其实就是：认清方向，然后忍住手。\n\n认准一个生态，逢低布局，拿得住，比看得准更重要。\n\n翻了下记录，4月初在 1466 买了 6.66 个 ETH，可惜那时候急用 U 没能拿稳。\n\n还好，6 月又在 2300 左右补了些仓，工作室那边也在 2000 附近买了 ETH 和 SUI。\n\n慢就是快，快多半是反复，终于懂了这个道理。",
+      "timestamp": "Jul 10, 2025 · 5:34 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1943363178618065202#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1943266908335411376#m",
+      "content": "买了几个G的动态代理流量，准备再干一千个地址\n\n我弟刚大学毕业，让他也来工作室工作了，左边坐树姐，右边坐赫敏，我都羡慕了\n\n每天让他研究项目完做交互，做完交互就开始熬夜到一两点看我视频学代码写代码，强度拉满",
+      "timestamp": "Jul 10, 2025 · 11:11 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1943266908335411376#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1943222965665190082#m",
+      "content": "终于调完了 Pharos #Pharos  脚本\n\n支持一键跑所有 91 次任务 ✅\n\n支持缓存 token、自带随机金额与等待时间逻辑。\n\n自动管理余额，如果任务过程没原生代币导致合约执行失败了，会检测有啥代币多，换回原生代币。\n\n目前进度管理、执行模式都已完善，除了 Faro LP 合约网站有 bug、域名注册懒得写，其他任务已全部覆盖。\n\nGUI？我还是喜欢在终端小黑框执行\n\n后面开源一部分出来！",
+      "timestamp": "Jul 10, 2025 · 8:17 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1943222965665190082#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942918474222997665#m",
+      "content": "Coresky空投资格需要钻石，钻石有两种获取途径，一是买meme，但是最低花0.0250个bnb，1u获得一个钻石。二是通过抽奖，抽一次获得一个钻石。\n\n继续给大家讲讲Coresky 这个项目的抽奖机制解析\n\n直达链接：coresky.com/wheel-of-fortune\n\n这是一个很有代表性的 Web3 抽奖逻辑，典型的链上+链下混合架构\n\n🧩 整个流程 = 签名授权 + 链上执行 + 链下展示\n\n👇详细拆解：\n\n🎟️ 第一阶段：购券（mint 抽奖 NFT）\n\n1️⃣ 调用 /api/luckdraw/mint\n\n→ 后端校验资格、次数、余额\n→ 返回合约参数 + 签名\n\n2️⃣ 调用链上合约 mint()\n\n→ 支付 BNB，铸造 NFT 抽奖券（tokenId）\n\n🎲 第二阶段：开奖（open 抽奖券）\n\n1️⃣ 调用 /api/luckdraw/open→ 后端生成抽奖参数\n\n2️⃣ 链上执行 openSbt()\n\n→ 消耗 NFT、触发开奖\n→ 发出事件 SEND_REWARD(sender, boxIndex, boxType, rewardNum, serialNo)\n\n✅ 真正的“抽签”在链上完成，rewardNum 就是中奖码！\n\n3️⃣ 用户通过 /api/luckdraw/openResult 查询奖品\n\n  后端根据 rewardNum 做映射，显示中奖物品\n\n每次调用都要签名 + deadline + serialNo → 防刷、防重放\n所有中奖数据链上可查 → 可追溯\n\n理解这个就能自己在项目里面写出这种抽奖玩法了，也能写出抽奖脚本。",
+      "timestamp": "Jul 9, 2025 · 12:07 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942918474222997665#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942885594637754547#m",
+      "content": "思考了很久，botCamp 0基础的教学不做了，感谢那些最近加入我们的兄弟们信任，已在处理所有全额退款。\n\n0基础需要太多时间去带、去解决问题。从去年开始，我已经带了太多0基础的朋友，从代码基础、远程帮忙解决问题，到能自己写项目脚本。已经不想走以前的老路了。\n\n接下来会把更多重心放在内容分享和抓住新的机会上面，下半年一定会有大机会。",
+      "timestamp": "Jul 9, 2025 · 9:56 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942885594637754547#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942598527651307638#m",
+      "content": "《关于Uniswap V3 LP技术原理部分梳理》\n\n各位都知道，Uniswap V3不再是一个大区间的xy=k了。\n\nUniswap V3 把它切割成一段段，每段由不同 LP 提供，可以理解为一段段的x * y = k。\n\n之前只是写过v3关于各种池子之间的计算逻辑，但是没看提供LP具体是什么模式。\n\n今天重读 Uniswap V3 的流动性合约，才真正理解它的设计的妙处。\n\n在 V2 时代，提供流动性 = 把资产放进一个池子，换来统一的 LP token。\n\n而 V3 做了彻底的革新：\n 每一份流动性仓位，都是一个独立的 NFT。\n为什么用 NFT？\n\n因为 V3 引入了“集中流动性”的概念——\n\n你不再是对整个价格范围做市，而是可以明确指定只在 ETH/USDC 的某个区间内提供流动性。\n\n这背后的技术基础，是 Uniswap V3 的 tick 机制。\n\n在 V3 里，价格被切成一格一格的单位，每格叫一个 tick。\n每个 LP 都要设置 tickLower 和 tickUpper，来定义做市的上下边界。\n\n换句话说：你是在 tick 区间内挂单、做市，而不是在整个价格轴上“撒网”。\n\ntick 是对价格的“整数化划分”，比如 tick = 200000 可能对应价格 ≈ 1876 USDC。\n\n这样做让 LP 可以专注在自己看好的价格段\n\n允许 LP 之间拼接自己的 tick 区段，构成一条完整价格曲线\n\n合约 swap 逻辑可以跨 tick 优化执行，节省 gas\n\n所以你在 V3 看到的 LP NFT，其实就是：\n\n“一个在 tickLower ~ tickUpper 区间内，带有资金、策略、手续费的做市仓位快照”。\n\n在合约中，每个 LP NFT 的本质是一个结构体 Position：\n\n比如👇\nstruct Position {\n  uint96 nonce;\n  address operator;\n  address token0;\n  address token1;\n  uint24 fee;\n  int24 tickLower;\n  int24 tickUpper;\n  uint128 liquidity;\n  uint256 tokensOwed0;\n  uint256 tokensOwed1;\n}\n\n也就是说，每个 LP NFT =\n一个做市策略 + 当前收益的快照。\n\n你在链上的所有 LP 操作，都是围绕这份结构做增删改查：\n提供流动性 → mint()，生成一个独立的 tokenId\n\n减少流动性 → decreaseLiquidity()\n\n提取手续费 → collect()\n\n全部退出 → 流动性为 0，NFT 可销毁\n\n其实v3更像是一个主动管理的仓位。\n\n你定义边界、选择风险区间，承担深度和滑点的代价，博取手续费收益。\n\n而这份仓位策略被抽象为 NFT，是一个极为合理的合约设计。\n\n如果你打算做 AMM / 做市策略 / LP bot/写脚本，我建议你认真读一遍 V3 的流动性合约。\n\n真正理解 LP 是什么，会改变你对 DeFi 协议设计的看法。",
+      "timestamp": "Jul 8, 2025 · 2:55 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942598527651307638#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942533505772315078#m",
+      "content": "这项目感觉也是有点扯淡 正常用户谁手动转账 swap lp搞91次啊？",
+      "timestamp": "Jul 8, 2025 · 10:37 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942533505772315078#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942532274970669205#m",
+      "content": "总结：使用okx钱包链接后，最多可以获取10800xp\n这里用 gpt做了统计，可以查看这个图表",
+      "timestamp": "Jul 8, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942532274970669205#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942532269702582362#m",
+      "content": "✅ Step 10：NFT Mint\n链接：app.grandline.world\n\n需要签到6天，获取1个测试币才能mint\n\n500 XP（Boost 后 600 XP）",
+      "timestamp": "Jul 8, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942532269702582362#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942532262056370655#m",
+      "content": "✅ Step 9：注册域名（Pharos Name）\n链接：test.pharosname.com\n\n输入用户名注册域名\n\n📌 每地址首笔 100 XP，后续每笔 10 XP\n🎯最多：1000 XP（Boost 后 1200 XP）",
+      "timestamp": "Jul 8, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942532262056370655#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942532257622941980#m",
+      "content": "✅ Step 8：FaroSwap 添加 LP\n链接：faroswap.xyz/pool\n\n使用swap的币添加 LP\n\n📌 每地址首笔 100 XP，后续每笔 10 XP\n🎯最多：1000 XP（Boost 后 1200 XP）",
+      "timestamp": "Jul 8, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942532257622941980#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942532254762426781#m",
+      "content": "✅ Step 7：FaroSwap Swap\n链接：faroswap.xyz/swap\n\n类似 Zenith，进行任意交易\n\n📌 每地址首笔 100 XP，后续每笔 10 XP\n🎯最多：1000 XP（Boost 后 1200 XP）",
+      "timestamp": "Jul 8, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942532254762426781#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942532250140393702#m",
+      "content": "✅ Step 6：Zenith 添加 LP\n链接：testnet.zenithfinance.xyz/po…\n\n使用swap的币添加 LP\n\nApprove 后提交交易\n📌 每地址首笔 100 XP，后续每笔 10 XP\n🎯最多：1000 XP（Boost 后 1200 XP）",
+      "timestamp": "Jul 8, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942532250140393702#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942532247376322587#m",
+      "content": "✅ Step 5：Zenith Swap 交易\n链接：testnet.zenithfinance.xyz/sw…\n\n进行代币互换，如 PHRS → USDC\n\n📌 每地址首笔 100 XP，后续每笔 10 XP\n🎯最多：1000 XP（Boost 后 1200 XP）",
+      "timestamp": "Jul 8, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942532247376322587#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942532244058563015#m",
+      "content": "✅ Step 4：转账任务（Send to Friends）\n链接：testnet.pharosnetwork.xyz/ex…\n\n点击“Send”，输入任意数量 + 收款地址（可发给自己）\n⚠️前端有回调接口，如果写脚本不要漏掉！\n📌 每地址首笔 100 XP，后续每笔 10 XP\n🎯最多：1000 XP（Boost 后 1200 XP）",
+      "timestamp": "Jul 8, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942532244058563015#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942532238283014482#m",
+      "content": "✅ Step 3：Faucet 领水\n链接：testnet.pharosnetwork.xyz\n\n领取每日测试代币（PHRS）0.2 枚\n📌 每 24 小时可领一次（必须绑定推特才能领）",
+      "timestamp": "Jul 8, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942532238283014482#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942532233010852158#m",
+      "content": "✅ Step 2：每日签到（Check-in）\n\n每 24 小时可点击签到一次\n📌 每次签到奖励：10 XP\n\n可以配合脚本每日自动签到，长期积累",
+      "timestamp": "Jul 8, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942532233010852158#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942532227528798287#m",
+      "content": "✅ Step 1：连接钱包 & 完成社交任务\n链接：testnet.pharosnetwork.xyz/ex…\n\n使用OKX 钱包有20%xp加成\n\n向下滚动完成 Twitter、Discord 等社交任务\n📌 完成后获得：3000 XP",
+      "timestamp": "Jul 8, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942532227528798287#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942532222709555571#m",
+      "content": "🚨 融资 800 万美元的Pharos 测试网 10800 XP 最全交互指南（肝帝版）\n\n测试网仅剩 16 天！\n\n🧪 全流程共 10 个任务，支持多钱包批量交互，手动/自动撸皆可\n\n📈 最高可拿 10800 XP，空投可能性强烈建议跟进\n\n👇任务详细步骤 + 地址合集整理如下\n#Pharos #空投机会 #RWA #测试网任务 #BotCamp",
+      "timestamp": "Jul 8, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942532222709555571#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942498537113280735#m",
+      "content": "视频讲解融资800W美元的L1公链【Pharos】\n\n1⃣积分机制与任务逻辑\n\n2⃣多钱包批量领水策略\n\n3⃣自动签到打卡流程\n\n4⃣合约交互全自动化操作\n\n📌 第一次做公开视频，欢迎点赞、转发支持🙏\n\n项目直达地址已放子线程！",
+      "timestamp": "Jul 8, 2025 · 8:18 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942498537113280735#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1942139155993198946#m",
+      "content": "现在很多项目方都学聪明了，把地址和推特做强绑定关系，授权后写在数据库里领水时查询有无键值存在。\n\n这种项目能阻挡一部分脚本批量跑的反而是最值得做的",
+      "timestamp": "Jul 7, 2025 · 8:30 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1942139155993198946#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1941840891007897999#m",
+      "content": "📌 长期收藏贴：Chenxi分享实战干货都在这里了\n\n涵盖：助记词批量生成、Web3 脚本开发、MEV 原理、NFT 抢购、合约调用等实战内容。\n\n让我看看是谁又加了书签🔖\n\n👉 适合从小白到能独立开发工具的完整成长路线。\n\n🧠 工具开发与自动化实战\n\n1⃣ 批量生成助记词（开源）\nlocalhost:8080/CMhOeNnExY/status/1895…\n\n2⃣ 阉割小狐狸显示私钥与助记词功能\nlocalhost:8080/CMhOeNnExY/status/1896…\n\n3⃣ OKX 批量提币脚本（开源）\nlocalhost:8080/CMhOeNnExY/status/1896…\n\n🔍 原理理解与进阶知识\n\n4⃣ 从 0 成为 Web3 科学家的路线图\nlocalhost:8080/CMhOeNnExY/status/1899…\n\n5⃣ Turnstile 验证码回调逻辑分析\nlocalhost:8080/CMhOeNnExY/status/1902…\n\n6⃣ MEV 提取原理 + 实战案例\nlocalhost:8080/CMhOeNnExY/status/1935…\n\n⚔️ 项目实操与代码实战\n\n7⃣ 抢 NFT 脚本原理讲解\nlocalhost:8080/CMhOeNnExY/status/1937…\n\n8⃣ 闪电贷合约逻辑 + 测试网实战\nlocalhost:8080/CMhOeNnExY/status/1938…\n\n9⃣ 自动领水策略脚本分析\nlocalhost:8080/CMhOeNnExY/status/1938…\n\n🔟 合约自动调用原理与实现\nlocalhost:8080/CMhOeNnExY/status/1941…\n\n👨‍🔬 如果你对 Web3 脚本、套利、自动化、实战感兴趣，欢迎收藏这条，转发给有需要的朋友 🙌\n\n----------------------------------------------------------\n\n我们的网站 🕸️👉botcamp.homes\n\n争取做最好的web3综合技术训练营！\n\n让你不走弯路！8-12周，1v1答疑直播，手把手教你从小白变成自己能写工具的大佬。一次付费，终身受益。",
+      "timestamp": "Jul 6, 2025 · 12:45 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1941840891007897999#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1941821208909033850#m",
+      "content": "二、《没 ABI：手动拼 data 调合约》\n\n没有 ABI 的情况也很多，比如：合约没有源码、被代理合约藏起来了，或者你想写个更轻、更干净的脚本\n\n这个时候你就得手动拼 data。\n\n假设我们还是要调用 claim(uint256) 传入 1。\n\n1️⃣算函数选择器（前 4 字节）：\n\nkeccak256(\"claim(uint256)\") = 0x2e7ba6ef...\n\n取到前四个字节 0x2e7ba6ef（后面也会讲函数选择器原理）\n\n2️⃣ 编码参数 1（uint256 → 32 字节）\n\n0000000000000000000000000000000000000000000000000000000000000001\n\n最后拼接完整 data：0x2e7ba6ef + 参数编码 = 完整 data\n\n3️⃣这时候，你就可以用这个HEX发送交易\n{\n  to: 合约地址,\n  data: 上面这一串,\n  ...\n}\n\n有些项目虽然没开源，但 ABI 藏在前端源码里（JS/TS 打包代码），你扒下来就可以转回去用 ABI 调用。\n\n但即使没有，自己拼 HEX 也完全能调，这种方式也适合做高性能、无依赖的链上自动脚本。",
+      "timestamp": "Jul 6, 2025 · 11:27 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1941821208909033850#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1941821204114862205#m",
+      "content": "一、《有 ABI：怎么构造 data》\n\n大部分时候我们是有 ABI的，常见于自己写的合约、官方发布的开源合约。\n\n用 ABI 最大的好处就是：不用自己动手组装 data，代码直接调用，自动编码。\n\n📦 比如你要调用一个合约里的：function claim(uint256 campaignId)\n\n你只用导入abi、读取合约对象，写一行：contract.claim(1)\n\n底层其实做了这些事：\n\n1️⃣ 找到函数签名：claim(uint256)\n2️⃣ 算函数选择器（前 4 字节）\n3️⃣ 把参数 1 编码成 32 字节\n4️⃣ 拼成完整 data，发上链\n\n全过程等价于：contract.interface.encodeFunctionData(\"claim\", [1])\n\n得到的是：\n✅ 前 4 字节：0x2e7ba6ef（函数选择器）\n✅ 后 32 字节：uint256(1)\n\n适合绝大多数场景，推荐优先用 ABI。",
+      "timestamp": "Jul 6, 2025 · 11:27 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1941821204114862205#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1941821198708486361#m",
+      "content": "📘 《快速入门系列——使用代码调用合约》\n\n很多朋友，包括一些 Web2 入圈的爬虫工程师，遇到最大的问题就是：\n\n👉 “我知道有合约、有函数，但到底怎么用代码调用？”\n\n今天 Chenxi 来给各位彻底讲清楚：自动化调用合约的底层原理与完整流程。\n\n💡 合约交互五步法（从代码视角出发）：\n\n读取帐号池 → 构造交易数据 → 私钥签名 → 通过RPC广播 → 等待打包确认\n\n懂了这个过程，你才能写出稳定可控的批量脚本，不管是 mint、claim 还是撸毛归集都能一套通吃。\n\n要真正理解“用代码调用合约”，核心其实在于怎么构造 data 字段，而这正是大多数人搞不懂的地方——ABI 编码和HEX 数据之间的关系\n\n⬇️⬇️点开继续⬇️⬇️",
+      "timestamp": "Jul 6, 2025 · 11:27 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1941821198708486361#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1941616950058299739#m",
+      "content": "赔得最惨的一次，是搞音乐的时候。\n\n录音棚、教培、租房、设备，全投进去了，第一次创业直接裤衩都亏没了，发个高烧那天晚上对象也掰了，那时对音乐这个行业从业兴趣也就没了。\n\n我现在只干两件事：写代码 + 做教学。\n一个让我看见希望，一个让我有成就感。\n\n很多人以为我是在搞付费群，其实不是。\n\n我不擅长喊单，也不想画饼。技术可以改变命运，但它不是万能的。\n\n要学会独立思考，要能自己造轮子，要能把别人的“机会”翻译成你自己的能力，得有做产品的思维，才能用技术创造价值。\n\n这也是做 botcamp.homes 的意义所在。\n\n这事赚不了几个钱，但有可持续性的价值。\n\n现在还在看“100倍币”“日赚200%”的幻觉\n\n那只能说明你还没开始真正投资你自己。",
+      "timestamp": "Jul 5, 2025 · 9:55 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1941616950058299739#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1941499144587350286#m",
+      "content": "脚本已开源到社区内",
+      "timestamp": "Jul 5, 2025 · 2:07 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1941499144587350286#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1941498246683296189#m",
+      "content": "通过 Coresky 的自动签到 + 投票脚本，Chenxi带兄弟们完整拆解了一个项目的完整交互逻辑 —— 从钱包签名、接口逆向、本地图像识别到 AES 加密，两个小时的直播实战讲解，一步步带你看懂、写透。\n\n在之前的帖子我聊过多账号批量上号的策略，当时提到：\n\n1⃣ 多数平台采用标准的 EIP-4361 钱包登录机制（Sign-In with Ethereum）\n流程大概是这样：\n请求 /auth/nonce 获取签名 challenge\n\n钱包对 message 签名\n\n提交到 /auth/login 获取 JWT token\n\n后续所有请求都带上这个 token 作为身份凭证\n\n这次，我们就以 Coresky 为例，从头到尾还原这个机制，并实战演示每一个关键环节。可以说是一次完整的 Web3 自动化开发训练模版，干货很足，体验也很爽👍\n\n📦 BotCamp 是我们正在搭建的系统化 Web3 脚本训练营，争取做web3最系统的综合训练课程，从0成为科学家。\n\n加入我们 👉 botcamp.homes/",
+      "timestamp": "Jul 5, 2025 · 2:03 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1941498246683296189#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1941286256618430471#m",
+      "content": "3、Enso 怎么盈利？风险在哪里？\n\n盈利点其实挺直接：收“执行服务费”＋提成\nEnso 帮你拼路径，帮你一笔搞定链上多步骤操作，执行时会收一笔服务费\n类似 Zapier收 workflow 调用费，Enso 收链上操作调用费\n路径越复杂，步骤越多，Enso 挺自然赚得越多，还能靠 MEV 优化拿点差价，比如帮你找更划算的 swap 路径，顺便抽点利润。\n\n但风险也不少，比如：\n1、用户愿不愿意为简化流程付费？链上用户一般很敏感手续费，Enso 要能让你觉得“多花的钱换来省时间+省gas+省烦恼”，才有市场。\n\n2、要有足够多的 Action Providers 持续接入新协议，不然就变成空壳平台。\n\n3.跨链执行复杂度大，安全风险高\n跨链消息失败、状态不同步，链上组合调用导致资金被卡或被攻击，风险链条拉长。\n\n关键是Enso得真能让用户感觉“用它比自己拼合约强、划算又安全”，才能持续活下来。\n\n技术上是个很大的工程活，还是挺牛逼的。运营上也得打持久战。",
+      "timestamp": "Jul 5, 2025 · 12:01 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1941286256618430471#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1941286250712854775#m",
+      "content": "2、Enso 是怎么做的？\n（技术视角分析原理）\n\n你可以把 Enso 理解成一个链上的“低代码执行引擎”。\n\n它不是你每下一个操作就写一套合约、重新部署，而是提前部署好了很多动作模块（swap、bridge、stake、lend 等），这些模块是由 Action Providers 提供的，像乐高积木一样。\n\n你只需要说清楚目标，比如：“我要把 Arbitrum 上的 ETH 换成 Optimism 上的 USDC。”\n\nEnso 网络会做三件事：\n\n1、先把你的话，结构化意图，比如  把上面的话变成这样：｛\"from_chain\": \"arbitrum\",\n  \"from_token\": \"ETH\",\n  \"to_chain\": \"optimism\",\n  \"to_token\": \"USDC\",\n  \"amount\": \"0.5 ETH\"｝\n然后构造参数扔给Solver ，Solver从模块库里拼出一条路径，比如「Swap → Bridge → Swap」，选一条最优路径（考虑滑点、Gas、成功率等因素）。\n\n2、Validator 验证这条路径是否“真能执行”\n\n路径拼出来了，不代表就能用。\n\nValidator 的职责是像链上的测试环境\n\n会依次跑一遍路径，验证：\n参数是否有效、授权是否匹配？\n会不会滑点太大？执行得了么？\n会不会出现 revert 或资金卡在某步？\n有没有安全隐患，比如重入攻击、approve 未清空、replay risk？\n\n只有 Validator 确认通过，这条路径才进入最终执行阶段。\n\n这一步其实是为了确保整个链上调用“不会把用户搞挂”。\n\n3、Executor 执行路径，Router 合约统一调度\n\n通过验证后，这条路径就会被打包成一组执行指令，比如：\n\n[\n  { \"module\": \"UniswapV3\", \"action\": \"swap\", ... },\n  { \"module\": \"Stargate\", \"action\": \"bridge\", ... },\n  { \"module\": \"Velodrome\", \"action\": \"swap\", ... }\n]\n\n然后只发一笔交易，调用 Enso 的 Router 合约，它负责按顺序执行所有模块的调用，用户一次签名就能完成整条链上流程。\n\nRouter 合约会使用 delegatecall 或 call 去执行这些模块（模块都是事先部署好的），不会额外部署合约，执行也不会绕弯。\n\n可以理解为链上的“函数调用流水线”。\n\n2.1、跨链后怎么继续执行？合约还能跑？\n\n这是 Enso 最难的部分。\n\n比如你第一步在 Arbitrum 上 swap，ETH 已经跨到 Optimism 上了，那第二步 lend 怎么继续？\n\nEnso 的做法是：每条链上都部署了自己的执行合约，靠像 LayerZero 这样的跨链协议，把执行计划和参数打包一起发到目标链上继续跑。\n\n你可以理解成：\n\n一条链执行一部分，然后“接力”把意图传给下一条链，接着跑剩下的步骤。\n\n不是“一个合约跨链执行”，而是链与链之间的异步接力，像是 Web3 的分布式 CI/CD\n\n2.2、Enso 不就要适配一堆协议？这怎么解决？\n\n这才是真正的挑战。\n\n它得适配各种 DEX、各种桥、各种借贷协议，每个参数都不一样，接口又烂，还经常升级。\n\n听起来很优雅，做起来就是打补丁 + 封 bug。\n\nEnso 把所有协议封装成标准模块，\n每个模块暴露统一接口（比如 execute(params)），Solver 拼调用就像拼黑盒函数，所有组合操作必须通过 Validator 模拟验证，不能直接上线执行",
+      "timestamp": "Jul 5, 2025 · 12:01 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1941286250712854775#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1941286243704127560#m",
+      "content": "1、Enso 在做什么？\n\nEnso 在 21-23 年是做元策略的（就是策略的策略）。比如你订阅别人的组合策略，它帮你按逻辑执行。\n\n但从 24 年 6 月完成 420 万融资开始，它说自己要做「链抽象」和「意图驱动」的 Web3 基础设施。\n\n这句话听上去很牛逼，但拆开其实很好理解：\n\n你说目标，它决定执行路径，帮你一步到位搞定。\n你不再需要管用哪个 DEX、跨链桥、合约、参数，甚至不需要知道发生了几笔交易。",
+      "timestamp": "Jul 5, 2025 · 12:01 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1941286243704127560#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1941286237366575476#m",
+      "content": "Enso是个明牌空投的项目\n\n融资规模大，走Ai叙事，TGE代币解锁，这一套堪称alpha的组合拳。\n\n之前加了个验证，也或多或少阻止了很多基础机器人和觉得太麻烦的用户，目前也就十几万个地址。可能真的会出个大毛。\n\n最近开放了一个新的swap，每天五次，一次1000xp，用base或者arb，磨损一次swap仅仅0.01U，可以干起来！\n\n还没完，Chenxi认真的看了enso的资料。\n\n今天主要想给大家分享一下我自己的理解。\n\n1、 Enso在做什么？最基础理解\n\n2、Enso的技术原理，了解底层逻辑（自己手打的千字长文）\n\n3、Enso怎么盈利，风险在哪里？",
+      "timestamp": "Jul 5, 2025 · 12:01 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1941286237366575476#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1940741840531337679#m",
+      "content": "同地区 mysql连接延迟高达1000ms\n这速度再过两秒很多按摩店都完事了\n千万不要买山寨服务器😭",
+      "timestamp": "Jul 3, 2025 · 11:58 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1940741840531337679#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1940448441370296648#m",
+      "content": "今天看到撸毛脚本被盗550wU的事情，来简单聊聊❗️\n\n不管是网上开源的撸毛脚本还是界面程序，都会存在信任问题。\n\n问题来了，如何解决信任问题，我觉得最可靠的方式是自己写，或者是拥有review的能力。\n\nChenxi有时也会在git找一些好代码用，不管是什么语言，我都会先debug看下整体的逻辑，根据自己所需要的逻辑做一些调整，明白他大体的逻辑和引用的三方库（做个脚本常用的就那么多）\n\nAI确实可以帮助view代码，但是一些未开源的就很难脱壳看代码了。\n\n撸毛脚本无非是那几种，在Chenxi主页置顶的子线程也讲过了（rpa、接口、合约调用）\n\n学习曲线其实并不大，比做开发容易太多太多，只是不同的技术方向。\n\n接口逆向太复杂的可以rpa处理，像领个水什么的无非是打个码签个名的问题，任务接口都是用钱包签名后调用完成任务，只是很多人不知道一个正确方向，自己摸索连rpa怎么点钱包签名都要时间研究。\n\n之前做过两次代码教学类的付费社群，最终发现很多人在正确的方向上针对性的学习是很快的，很多人不到两个月就能搞定rpa、一些领水接口、任务接口和合约调用。想到这个突然像回到了那个时候，很充实。\n\n最终的建议，除非你有最基础的技术能力和review代码能力，否则不要乱用任何心里没底的代码。",
+      "timestamp": "Jul 2, 2025 · 4:32 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1940448441370296648#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1940138870047481858#m",
+      "content": "半夜睡不着，一看日历，2025前半年又结束了，时间真的悄无声息。\n\n回头看前半年似乎并没有把一些想法都落实，还有一堆想做却没做、做了却遇到三方问题没解决的计划，屡屡碰壁。\n\n这些事情最近每天都在提醒Chenxi要把它们提上日程，并不是为了一下能站的多高，而是把一些事情慢慢落实到实际投入使用的过程的愉悦感很爽，让我每天睡醒都有个盼头。\n\nChenxi不擅长向上社交，不会说太多好听的话讨项目方开心，也很少参与一些线下的局，所以在web3拿过最大结果的时候也并不是撸毛炒币，是还在深圳的时候做项目外包。能把帐号做起来获得很多兄弟们的认可，也是感觉到受宠若惊。\n\n有这些原因，所以我很多地方没有kol做的好，也不认为自己是一个kol，至少现在不是。经常在推上刷到很多大佬即能在技术层面深耕，又能在宏观分析市场经济和项目背景，甚至能做出来很多优秀的产品。这也是我很佩服他们的地方，也是我该提升的地方。\n\n目前想想，下半年还要做的几件事：\n\n1.带群友写一些监控搬砖的代码，熟悉下目前的amm和ob的一些算法和机制，守株待兔找找机会。顺便做个比较实用、涵盖大部分web3场景使用、提升效率稳定好用的工具箱和网站。\n\n2.从0到1写个solana上的完整defi项目（前后端+合约），近两年一直看一些零碎的代码，很久很久没有做过全栈项目了\n\n兄弟们 25年刚过半，不如把想做的事情列个清单，下半年一起把每天过的有意义一些。\n\n明日复明日，明日何其多？",
+      "timestamp": "Jul 1, 2025 · 8:02 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1940138870047481858#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1940047296441589902#m",
+      "content": "dc全自动聊天机器人已改成国人之光deepseek chat模型\n\n得手动进一下Channel验证，然后做个csv把账户token都放进去，拿channel历史消息随机一下给ai回复，开始自动做公益大使！\n\nds的api超级便宜！1M token输出，非高峰时段只要$0.550，试用感觉还是不错的，很有贴吧老哥的味道。\n\n加了一些提示词，这下可以放心跟老师们卷dc身份了😄\n\n后面准备做个工具合集给社群用起来！",
+      "timestamp": "Jul 1, 2025 · 1:58 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1940047296441589902#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1939973704089260462#m",
+      "content": "很多人神话AI，目前的AI还是无法替代你对问题的理解和结构设计的能力。\n\n你得先知道你要做什么、怎么做，再让 AI 帮你快速搭建出雏形、补全重复代码、解决中间报错。它是一个加速器，不是创造器。\n\n对于不懂技术的人来说，如果连需求都讲不清楚、框架也不了解，这时候，就像你有一个非常强大的工具箱，而你既不会用锤子也不会画图纸，是用不好它的。\n\nAI 最适合的场景是——你已经掌握一个领域的基本技能，并愿意给它明确的输入，它就能帮你 10 倍速搞定那些“别人得花一下午”的工作。",
+      "timestamp": "Jul 1, 2025 · 9:05 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1939973704089260462#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1939455037685780644#m",
+      "content": "上次买入的几个e子和几十个sol又盈利了。\n\n长期持有，逢低加仓。",
+      "timestamp": "Jun 29, 2025 · 10:44 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1939455037685780644#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1939002705881768193#m",
+      "content": "又周日了兄弟们\n\n是不是可以不写代码不看盘，出去喝两杯了？\n\n主页一刷要么提yu7要么提特斯拉ModelY \n\n都在感谢Crypto，我都不知道该怎么恭喜😭\n\n还能跟你们一起玩吗哥哥姐姐们，DDDD",
+      "timestamp": "Jun 28, 2025 · 4:47 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1939002705881768193#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1938915524899229946#m",
+      "content": "花了几个小时写了个《推特评论统计工具》\n\n批量抓取指定一批推文的所有回复，再针对一批用户分析谁给谁评论了，提取评论内容，计算互动率，最后生成清晰的Excel报表。\n\n一看就知道哪个大V和哪个大V互动频繁，关系铁到爆！😄\n\n下图为测试数据👇\n\nPS: 问下大哥们 yap什么有肉吃？\n\n我也会写“Agent 自动执行链上任务”、“多智能体协作交易”、“AI + ZK 实现链上隐私学习”😭",
+      "timestamp": "Jun 28, 2025 · 11:00 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1938915524899229946#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1938865390559601140#m",
+      "content": "有时候真想问一个问题\n\n特别是现在的AI项目，拿融资花得开心\n\nKOL 广子一条接一条，VC 套现干净利落\n\n散户撸空投撸出心得，那谁在亏钱？\n\n谁在被收割？谁在为这套体系买单？\n\n有人知道吗？我是真的想知道。",
+      "timestamp": "Jun 28, 2025 · 7:41 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1938865390559601140#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1938497976474996932#m",
+      "content": "上次在置顶链接详细的分享了撸毛脚本的几种实现方式，分类为签名+JWT、conract调用、rpa\n\n今天讲讲《领水》的几种解决方案\n\n1️⃣ 💧简单领水\n\n这类最基础，访问一个页面，输入地址，点一下 button，后台判断 IP + 地址冷却时间后，直接走合约的 mint() 或 transfer()。前端甚至没有防 bot 机制。\n\n这类领水一般都是用钱包/IP信息做一个后端的校验\n\n只需要使用动态代理（可以去很多网站买到，成本很低）就能实现多代理 + 多钱包批量发http请求，进阶点就可以自动刷新、识别 cooldown 时间（一般后端返回会提示）加 retry 和并发控制，挂在服务器刷。\n\n2️⃣💧验证码 + 人机验证\n\n这类项目接了 Google reCAPTCHA 或 Cloudflare Turnstile，对 bot 做基础防御。\n\n这类 faucet 页面一般用了 Google reCAPTCHA v2/v3 或 Cloudflare Turnstile，目的就是挡 bot，但其实在“绕过层面”，核心只有两种实战方案：\n\n✅方式一：接入打码平台，直接拿 token 用\n\n这是最快上线、通用性最强的一种方式。流程如下：\n\n步骤：\n1.找到前端加载验证码的 sitekey（Chrome 开发者工具 → Network → anchor 请求）\n2.确定目标页面 URL（pageurl）\n3.把 sitekey + pageurl 提交到打码平台）\n4.获得 captcha_token\n5.构造 HTTP 请求，带上 token 提交 faucet 接口领取水\n\n✅方式二：自己部署验证码识别服务\n\n之前Chenxi部署过一个打码服务，这里有个过git开源的turnstile验证本地打码工具，感兴趣的朋友可以研究\ngithub.com/ZFC-Digital/cf-cl…\n\nCloudflare 页面本质就是：\n浏览器加载页头脚本，挑战通过后，生成 cf_clearance 和一套浏览器指纹，后续请求只要带这两个，就会被认为是“可信用户”\n\n本地api开个无头浏览器通过一些方式过验证拿到cf值和ua信息返回，然后带上值的内容发接口就搞定了，其他和1️⃣无差异。\n\n3️⃣💧钱包签名领水\n这类会要求钱包连接后签一个 message，例如 “Verify to receive testnet tokens”。\n\n这就和上次我们讲的jwt是一样的，通过签名他后端生成JWT使用token去请求其他接口。\n\n脚本用 ethers.js 或者web3.py的 wallet.signMessage() 或直接模仿前端的签名方式\n构造 POST 请求提交签名数据，伪装请求头，模拟正常用户\n\n以上三步搞明白大部分领水都没啥问题，除非一些参数加密需要逆向并且非常复杂的会困难一些。\n有空再分享下怎么自己做一个领水网站。",
+      "timestamp": "Jun 27, 2025 · 7:21 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1938497976474996932#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1938240069409927222#m",
+      "content": "✅怎么设计一个“真能赚钱”的闪电贷策略？\n\n知道了闪电贷怎么玩，那怎么靠它赚钱？\n这里讲几个设计思路👇\n1️⃣ 首先是核心逻辑：找到套利路径\n不是借钱最难，最难的是你能不能在同一个交易里跑通一个能赚钱的操作。\n\n举个例子：\nETH → USDC → DAI → ETH\n如果三个池子的汇率不一致，就可能存在利润空间。\n\n你得提前用脚本扫路径 + 模拟计算，找出那种“借出来的钱一圈换完还能净赚”的机会。\n\n2️⃣ 然后是链上执行：构建一个 FlashLoan 合约 + 路由交易逻辑\n你要在 executeOperation() 里：\n\n拆解路径\n\n用 Uniswap/Curve 做 Token Swap\n\n把赚到的钱拿来还贷 + 留下利润\n\n这一步不难写，但要注意：不能失败，失败整笔交易都回滚。\n\n3️⃣ 手续费怎么衡量？\n\n每次闪电贷都会收一笔利息，一般是 0.05%。\n比如你借 1,000,000 USDC，得还 1,000,500 USDC。\n\n如果你的套利路径净赚 < 500 USDC，就没意义。\n\n还得加上 gas 成本、失败率。\n\n所以你做套利的时候，模拟要精准、利润要覆盖所有成本才值得做。\n\n✅ 这就是链上套利里的闪电贷玩法， 想吃套利这碗饭，必须先把它搞懂。\n\nEND.",
+      "timestamp": "Jun 26, 2025 · 2:16 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1938240069409927222#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1938240066272522680#m",
+      "content": "⚠️ 哪些操作用不了闪电贷？\n\n很多兄弟问，能不能用闪电贷来搞：\n\n质押挖矿？\n\nNFT 批量 mint？\n\n跨链桥套利？\n\n答案是：不行。\n\n为什么？👇\n\n闪电贷的关键限制是：\n 必须在“同一笔交易”内完成借款 → 用款 → 还款，否则整个交易会直接失败、回滚。\n也就是说，借出来的钱，只活在一个区块里。\n\n那像 NFT 抢购、质押流动性挖矿、跨链桥这类操作，\n都需要等待确认 → 链上状态变更 → 跨多个区块甚至多链。\n闪电贷根本不适配。\n\n这些场景用闪电贷，交易直接报错。\n\n那它到底能干啥？\n✅ DEX 上套利（比如三角套利）\n✅ 抵押清算（像 Aave、Compound 的清算奖励）\n✅ 临时换资产（例如抵押 A 换成 B，再抵押）\n只要操作能在一个区块内完成，就能玩转闪电贷。\n\n所以闪电贷最适合“秒级资金调度”的场景，\n搞套利、搞清算、做杠杆都非常适合。\n\n用得好，可以 0 成本调动巨额资金 ——\n这才是链上玩法的精髓。",
+      "timestamp": "Jun 26, 2025 · 2:16 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1938240066272522680#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1938240063068074228#m",
+      "content": "Chenxi在 Sepolia 测试网上，部署了两个合约：\n\n闪电贷合约地址：0xe1182bd01604a2f68056fdaccd5c90e71e832786\n\n辅助合约地址：0xa5773335084805e7008b314a249be1c0277b57fc\n\n这笔闪电贷交易的 Hash 是：\n 0xcf306f1041f1d2c87074e39338f727f6154d01f0f4c2da0e4d351c5d3b6d81cc\n\n交易详情：\n1️⃣ 闪电贷合约从 Aave 借出 1,000,000 USDC（测试代币）\n2️⃣ 转给辅助合约模拟“套利操作”，辅助合约返还本金 + 10 USDC\n3️⃣ 闪电贷合约授权还款并偿还给 Aave\n4️⃣ 整笔交易一次搞定，手续费也算合理",
+      "timestamp": "Jun 26, 2025 · 2:16 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1938240063068074228#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1938240059943313472#m",
+      "content": "《如果给你 1,000,000 刀让你用 12 秒，你会做什么？》\n\n昨天刚跟兄弟们聊完 NFT 抢购和自动化脚本 的策略\n今天刚好做了个实战案例来讲讲闪电贷（Flashloan）\n我直接用一个借出一百万 U的真实案例，带大家一次讲明白。\n\n⚡ 闪电贷到底是啥？\n一句话总结：无抵押贷款，但必须在一笔链上交易里完成借→用→还，否则交易自动回滚。\n\n你可以把它理解成：\n “区块链上的瞬时贷款” —— 你拿了一大笔钱用 12 秒，12 秒内操作完毕还回去（不还会导致交易回滚，这也就是很多博主说的原子套利），不需要抵押，不留下风险。\n\n⚡ 闪电贷能干啥？几个实战场景：\n1⃣️ 套利机会：\n比如做三角(循环)套利（A → B → C → A），借钱跑一圈赚差价。\n\n2⃣️ 清算操作：\n别人的抵押仓爆了，你闪电贷瞬间清算，拿奖励。\n\n3⃣️ 资金替换 / 流动性切换：\n比如你要换抵押资产，可以借钱替换旧仓位。\n\n我在 Sepolia 测试网部署了两个合约，做了一个完整的实战示范：\n✅ 借出 1,000,000 USDC（测试代币）\n✅ 完成“模拟套利”的资金往返\n✅ 还款，全流程只用一笔交易\n\n虽然现在到处在讲原子套利非常卷，但是Chenxi觉得了解原理是很重要的，在下个新协议出来会成为重要铺垫。\n\n具体交易 hash、合约地址我都整理好了，放在子线程👇",
+      "timestamp": "Jun 26, 2025 · 2:16 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1938240059943313472#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1938209832214904843#m",
+      "content": "不知道吃啥，第一次来工作室楼下的串串店吃饭\n\n被物价惊到了，160根串串美团券只要10U，还送两瓶啤酒\n\n主要是味道居然还可以😨",
+      "timestamp": "Jun 26, 2025 · 12:16 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1938209832214904843#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1937898261232165151#m",
+      "content": "适合普通人、风险小、睡醒就有KFC的套利方式\n\n也是受到树姐@EvaCmore 启发，树姐研究生态都非常深入！\n\nChenxi在sui上defi开的单笔理财，年化最低40%，最高点70%。哪个币你们应该也能猜到。趁现在人少还能干，人多资金费负了就没操作空间了。（具体方式看转贴）\n\n按照年化50%算，放1wU，一天收益都有十几U，折算人民币一百块钱了，送外卖一单5块的话，等于睡醒就送了20单。生活费KFC都够了。\n\n美中不足是资金一部份要去开空单套保，不过有个资费能吃，也可以少开一些U拉一些倍数，但就要做好监控了。我觉得这比任何cex的东西都划算，比一些超高年化的LP要风险小。\n\n趁前几天低价，全部补仓ETH了，记录一下，ETH不到3500我不会再动了，专心写链上代码。",
+      "timestamp": "Jun 25, 2025 · 3:38 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1937898261232165151#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1937845793043734691#m",
+      "content": "抢nft的本质：快+舍得烧gas\n\n目前很多项目nft都会用thirdweb去管理发售\n合约都是一套出来的\n\n怎么个“快”法？得明白几个关键点：\n1⃣️提前分析参数\n比如看项目方公售时间，分析他的 claim() 函数需要哪些参数，分析ClaimCondition怎么设置正确，有的还要 fee info，一堆结构体\n\n2⃣️监听区块时间\n每秒抓一次 latest 区块，看 block.timestamp 和 startTimestamp 差多少，还可以把它变成条件，一旦达标就立刻签名fire 交易\n\n3⃣️gas 策略（最重要的）\n要抢的那几秒，不是省 gas 的时候。你用 100 gwei 别人用 300 gwei，就像chenxi上次打nft发现钱包钱不够（穷）。很多 bot 会用Flashbots 、EigenPhi监听 mempool 中前几个 pending 的 gas，然后决定出价（比如 top 5 里加个 20%），甚至反复替换交易卷gas\n\n有人问我：这样不是要发很多笔交易？\n对，但你只要记得 nonce 不变 + gas 一直涨，矿工只会上链其中一个，其他都自动丢弃，这都是很基础的常识。\n\n但是最重要的是gas 策略！决定你是“抢到”还是“卡死”，同一秒发的交易有上百上千个，Ethereum或者一些L2 区块能容纳的交易数量都有限，你 gasPrice 低一点，就直接排下个区块了，别人高价 + 替换机制（replacement tx）把你顶下去了。\n\n所以你明白了吗，gas策略，你通过一系列研究觉得这个最大gas的成本能赚回来才是重中之重！\n\n本质上我也觉得是一种另类MEV，用矿工打包顺序来创造最大价值。\n\n我抢 NFT 的 bot 也就几百行，只是每一步都提前想明白了。",
+      "timestamp": "Jun 25, 2025 · 12:10 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1937845793043734691#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1937765963488985108#m",
+      "content": "这次就先简单讲讲我对这两块策略（抢购、批量上号）的一些理解，其实没什么玄学，拆开看都是逻辑 + 工具，工具只是辅助，有了工具你做什么，敢不敢赌能否有盈利空间，才是关键中的关键。\n\n后面我继续更新一些我踩过的坑和遇到的“反脚本机制”，\n包括哪些项目一看就知道不值得搞、哪些合约逻辑有埋雷、哪些 API 会封号，还有一些最近重头写的套利策略。\n\n这些东西一直在变：\n新资产的发售形式在换代\n新的交互协议和抽奖机制\n\n但本质都是一样的——看穿它的逻辑，然后做最优的动作。\n\n不管怎么变，把链的原理搞明白，知道项目是怎么做出来的，了解项目使用的技术栈后，都是那回事，自己做项目的时候也能少踩很多雷。",
+      "timestamp": "Jun 25, 2025 · 6:53 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1937765963488985108#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1937765953812775399#m",
+      "content": "二、批量上号策略\n\n这个可以分几种形式，前端rpa和api/contract调用\n其实本质上也是调用contract和api，这个和前面不一样是因为有一些任务必须要逆向拿到他的参数生成逻辑\n\n简单讲几个场景\n1⃣️项目方自己做的任务机制\n大部分平台用 EIP-4361 标准的签名登录（Sign-In with Ethereum），流程是：\n请求 /auth/nonce 拿到 challenge\n钱包签名 message\nPOST /auth/login 提交地址 + 签名\n返回 JWT token，后续所有请求用它做验证\n\n拿到这个JWT，就和普通api没有区别了，用拿到的 token，模拟任务完成，比如/api/quest/claim header或者body加个JWT，模拟前端参数构造。\n\n2⃣️链上任务类（合约调用）\n比如有些任务本质上是要求合约交互：mint、stake、deposit、claim 等。\n\n比如之前zkSync 任务中心、Blast 早期 claim 积、LayerZero 的某些跨链合约、Mode L2 的交互系列\n\n这些只要你知道合约地址，ABI 或函数签名，正确参数（有时候需要反编译分析合约构造）你就能直接用脚本一次性批量触发。\n\n很多平台前端不暴露 ABI，可以从区块浏览器扒 ABI（像 ThirdWeb 一类合约都长一样)，交易历史反推交互结构，或者看前端源码里 fetch 的 ABI path\n\n4⃣️ “点点点”的前端交互（RPA 脚本）\n这个是最“非技术”的方案，模拟用户打开网页、签名登录、点按钮、填表单。\n\n场景主要用于逆向搞不定、有些通过率非常低或意外情况比较多的地方比如 Galxe 有的“Bind Discord” 按钮还要跳 Discord 回调\n\n其实说穿了，不管是打任务还是做身份绑定，\n 你要么在“前端上模拟点点点”，\n要么就在“后端/API/合约层绕过点点点”。",
+      "timestamp": "Jun 25, 2025 · 6:52 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1937765953812775399#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1937765951136772299#m",
+      "content": "一、抢nft的本质：快+舍得烧gas\n\n目前很多项目nft都会用thirdweb去管理发售\n合约都是一套出来的\n\n怎么个“快”法？得明白几个关键点：\n1⃣️提前分析参数\n比如看项目方公售时间，分析他的 claim() 函数需要哪些参数，分析ClaimCondition怎么设置正确，有的还要 fee info，一堆结构体\n\n2⃣️监听区块时间\n每秒抓一次 latest 区块，看 block.timestamp 和 startTimestamp 差多少，还可以把它变成条件，一旦达标就立刻签名fire 交易\n\n3⃣️gas 策略（最重要的）\n要抢的那几秒，不是省 gas 的时候。你用 100 gwei 别人用 300 gwei，就像chenxi上次打nft发现钱包钱不够（穷）。很多 bot 会用Flashbots 、EigenPhi监听 mempool 中前几个 pending 的 gas，然后决定出价（比如 top 5 里加个 20%），甚至反复替换交易卷gas\n\n有人问我：这样不是要发很多笔交易？\n对，但你只要记得 nonce 不变 + gas 一直涨，矿工只会上链其中一个，其他都自动丢弃，这都是很基础的常识。\n\n但是最重要的是gas 策略！决定你是“抢到”还是“卡死”，同一秒发的交易有上百上千个，Ethereum或者一些L2 区块能容纳的交易数量都有限，你 gasPrice 低一点，就直接排下个区块了，别人高价 + 替换机制（replacement tx）把你顶下去了。\n\n所以你明白了吗，gas策略，你通过一系列研究觉得这个最大gas的成本能赚回来才是重中之重！\n\n本质上我也觉得是一种另类MEV，用矿工打包顺序来创造最大价值。\n\n我抢 NFT 的 bot 也就几百行，只是每一步都提前想明白了。",
+      "timestamp": "Jun 25, 2025 · 6:52 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1937765951136772299#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1937765948486017145#m",
+      "content": "我很早都说过了，单纯的脚本是提高赚钱效率的工具，本身不能创造财富\n所以想拿到大结果，有出色的认知+运气(很重要)+工具是必不可少的\n总有些人看待脚本这类东西觉得特别玄学特别困难\n\n今天我把抢nft，打一些预售盘子，批量上号撸一些项目的本质和原理讲明白！（子线程）",
+      "timestamp": "Jun 25, 2025 · 6:52 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1937765948486017145#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1937687008891359396#m",
+      "content": "阳台几盆绿植，经过几个月的栽培\n\n两颗绿植都死了，发财树依然非常坚挺",
+      "timestamp": "Jun 25, 2025 · 1:39 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1937687008891359396#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1937138800301625709#m",
+      "content": "原视频：piped.kavin.rocks/watch?v=uillekrG…",
+      "timestamp": "Jun 23, 2025 · 1:20 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1937138800301625709#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1937138795109097670#m",
+      "content": "看了@Dapp_Learning 采访V神的视频\n\nV神…中文这么好？我震惊了😦\n\n突然想起来之前别人发的梗视频，在某大会跟在V神后面说别谈恋爱了好好拉盘\n\n想想V神能听懂 那不是尬死了？\n\n放一段录屏，原视频放到子线程了，建议去看看，还是挺多东西在里面。\n\nDappLearning社区发的挺多干货，学习到了👍",
+      "timestamp": "Jun 23, 2025 · 1:20 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1937138795109097670#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1936927876529713503#m",
+      "content": "工作室全部号也干了Aster \n\n玩暗池这类 OB DEX 确实挺有意思\n\nChenxi 认为，订单簿 DEX 并不能取代 EVM 上的 Uniswap或Solana 上的Raydium 这种 AMM。\n\nAMM 的简单和普适性太强了，\n谁都能上手，几乎零门槛，流动性也更广泛。\n\nOB DEX 更适合大户和做市商，\n而大多数散户还是图个方便，爱用 AMM。\n\n回到正题上，OB DEX这种机制如果做市商很给力，体验确实很不错的，甚至能搬砖（有待尝试）\n\n不知道会不会出现BG那次某币做市机器人出问题 一个区间挂单就买 挂单就卖被疯狂薅\n\n反正我是期待上了，没看aster合约，别到时候撸到不让withdraw就行🤤",
+      "timestamp": "Jun 22, 2025 · 11:22 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1936927876529713503#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1936813176458490238#m",
+      "content": "谁来一战😈\n明天又要开始写算法了🤮",
+      "timestamp": "Jun 22, 2025 · 3:47 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1936813176458490238#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1936503178901803248#m",
+      "content": "以太坊你不要再跌了😭\nE卫兵应声倒地😭",
+      "timestamp": "Jun 21, 2025 · 7:15 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1936503178901803248#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1936405091373981916#m",
+      "content": "给兄弟们分享Chenxi在做且比 CEX 更香的套利逻辑\n\n1⃣️ 找热门 DeFi 协议，挑那种单币存入也能拿高利息的币（不做 LP，无常损失太毒了）\n\n2⃣️ 观察这个币在主流合约交易所funding rate 是否长期为正，如果是负的就 pass 掉\n\n3⃣️ 合约做空这个币，同时在现货买入，控制好仓位，少量多次建仓\n\n4⃣️ 把现货转入你的冷钱包（硬件钱包优先）\n\n5⃣️ 把币存入步骤 1 的 DeFi 协议中，开始吃链上利息\n\n6⃣️ 两头吃钱模式启动：\n\n链上年化收益（看项目，30% 不稀奇）\n\n合约 funding fee 被动收钱（别人给你打工）\n\n这不是稳赚，但风险非常对称、收益不低、操作空间还大，\n\n饭都喂嘴边了，不来点尝尝？🍽️\n\n看懂掌声👏",
+      "timestamp": "Jun 21, 2025 · 12:45 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1936405091373981916#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1936093684782841956#m",
+      "content": "今天亏大了兄弟们😭",
+      "timestamp": "Jun 20, 2025 · 4:07 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1936093684782841956#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1936093464753750383#m",
+      "content": "太几把夸张了 怎么想出的501Gwei小费的gas啊？\n你们给这么高gas就不怕赚的不够gas费吗🤡\n\n我监听公售前一个区块结束立马发的交易，替换几次交易，后面账户都没这么多gas的钱😭\n\n下次我要给钱包放多点钱，必须监听mempol里面的交易跟你们猛卷！！！一起亏gas！",
+      "timestamp": "Jun 20, 2025 · 4:07 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1936093464753750383#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1935695334459507138#m",
+      "content": "给各位一个建议，如果有想学习的可以往这个方向来做，先从EVM开始：\n🧠 学原理：恒定积 / 等效储备\n👀 找机会：UniswapV2/V3 → 循环套利 → sandwich\n🤖 跑起来：ethers.js + bundler + 模拟器 + gas优化\n🧩 整合链：BSC、Base优先，低成本快速迭代\n\n如果学习原理本身逻辑并不复杂，chenxi认为先不考虑语言因素、上链速度和gas优化因素，主要前期学习难点在于各种公式的理解上",
+      "timestamp": "Jun 19, 2025 · 1:45 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1935695334459507138#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1935695330705658097#m",
+      "content": "比如uniswap-v3经典的循环套利(三角套利)，步骤大概像这样：\n1️⃣ 找路径\n比如：USDC → WETH → DAI → USDC 从链上抓出这三跳对应的池子（ V3 同一对可能有多个池，要选最优 fee）\n\n2️⃣ 模拟交换\nV3 不再是简单的 x⋅y=k，它的价格是分 tick 的。 你得模拟：\n如果我拿 1000 USDC 去换，会跨几个价格区间？\n每一段能换出多少？手续费怎么扣？\n\n3️⃣ 判断是否盈利\n模拟完后，如果：最终拿回的 USDC > 最初投入的 USDC\n说明这条路径可以套利。\n\n4️⃣ 构造交易打包发送\n当然这个步骤还有很多细节，后面慢慢补充一些。",
+      "timestamp": "Jun 19, 2025 · 1:45 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1935695330705658097#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1935695324976189668#m",
+      "content": "兄弟们😭真的是学好数理化，走遍天下都不怕。\n\n最近发现推上突然冒出一堆做 MEV 的项目，虽然没愿意开源代码的，毕竟都是自己无数调试的心血，。但看着他们蜂拥而上，真有点像是现在入场，就像 49 年加入国军。\n\n想起上次研究套利代码已经是好几年前，那时候 “MEV” 还不流行，当时还在试着用 Flashbots RPC 给矿工偷偷发 bundle。现在想想，如果当时坚持写下去，可能早就麻了，至少 chenxi 是。所以做事还是得有侧重点啊，可以做的很多很杂，但是必须得坚持。\n\n转念一想，这次换个方式，从链上视角出发，刚好带着小群群友边写边讲，把 MEV 一步步拆开来解释。看了几天，微积分跟线性代数给我看的头皮发麻，终于把路径套利跑通了，虽然链现在卷得离谱，手上赚的还不够给 Builder 上贡，但总归是跑起来了。\n\n有好兄弟要问了，既然现在没那么多机会，为什么还要做这个？其实从mev这方面还能学到很多东西，比如AMM、mev原理，evm上的gas优化，机会未来可能不在mev，但defi还是会出现新机会，所以掌握一些基础的东西在机会出现时是非常必要的。\n\n对了，记得千万别相信油管和一些github所谓的机器人或者一个部署的代码，天上不会掉馅饼，别还没套就被别人套了❌",
+      "timestamp": "Jun 19, 2025 · 1:45 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1935695324976189668#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1930034818794041473#m",
+      "content": "最近chenxi一直在忙着做一些solana和evm的dapp\n\n还有看x上好大哥的套利策略\n\n好久没在x上活跃了😂\n\nmagiceden猛转的trumpwallet，感觉有毛，刷就完了！\n\n注册传送门：trumpwallet.com/\n\n打了把符文大乱斗就刷满了😁",
+      "timestamp": "Jun 3, 2025 · 10:52 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1930034818794041473#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1913154201657724957#m",
+      "content": "x.com/i/article/191314463098…",
+      "timestamp": "Apr 18, 2025 · 8:54 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1913154201657724957#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1911404940834070645#m",
+      "content": "熊市太难熬？不如看片疗伤。\n\n推荐几个金融题材好电影👇\n1️⃣《大空头》：教你如何优雅做空世界\n2️⃣《华尔街之狼》：韭菜收割机的爽文剧本\n3️⃣《Margin Call》：一夜之间，把市场搞崩了\n4️⃣《Inside Job》：危机从来不是意外\n5️⃣《Wall Street》：“贪婪是好事”\n6️⃣《Boiler Room》：电话诈骗，证券版庞氏\n7️⃣《The Company Men》：裁员、崩盘、重启人生\n8️⃣《金钱永不眠》：钱没睡，我们先睡了\n\n无广免费的好平台，别到处google了🆓\nczzy77.com",
+      "timestamp": "Apr 13, 2025 · 1:03 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1911404940834070645#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1909110947257696698#m",
+      "content": "最近有些朋友问我咋没去香港大会，chenxi最近都在忙着在家工作学习喝酒。\n\n这个行业太擅长制造幻觉——酒会、路演、西装革履的寒暄，最后往往变成一场精心包装的焦虑贩卖。而真正的价值，从来不在觥筹交错间。\n\n无效社交只会浪费你本就不多的精力和耐心\n\n现在的市场像一场荒诞剧：  \n- 撸毛的陷入内卷军备竞赛  \n- 套利策略生命周期以小时计算  \n- 二级市场沦为情绪绞肉机  \n- 连最保守的美股玩家都开始怀疑价值投资  \n\n有趣的是，越是这种时候，越能看到众生相：  那些连白皮书都读不完的\"All-in选手\"，正在用真金白银支付认知税。  \n\n我的生存法则：  \n1. 保持「局外人」视角  \n2. 每天雷打不动2小时深度研报阅读  \n3. 至少留30%的资产换为U以备不时之需\n\n最近在重读索罗斯的《金融炼金术》，有个观点值得玩味：  \n「市场越是混乱，越要警惕自己成为混乱的一部分」  \n\n记住：真正的alpha从来不在FOMO里，而在大多数人看不到的认知断层中。",
+      "timestamp": "Apr 7, 2025 · 5:08 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1909110947257696698#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1908599779183235193#m",
+      "content": "这种行情，终于有了时间拓展一下视野，跟不同大佬探索一些新东西，等待下一波机会到来！",
+      "timestamp": "Apr 5, 2025 · 7:17 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1908599779183235193#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1908529023829025045#m",
+      "content": "我跟傻逼也会撸@lamss001 没任何矛盾\n\n单纯看不惯他所说“ip成本一大半”和把人当傻子的营销方式\n\n他的ip有没有问题我不清楚，也没用过，没权利发言，只是在价格上比较了解ip租赁市场和服务器的成本，可能他是手动维护的ip所以人力成本高？🤣\n\n另外跟大家说下，多开一个端口维护不同的socks5用户名密码就能超卖，一个ip出口是可以映射多个端口的。这样一样能营造一种好像我是独享，时间一到就改密码的错觉。\n\n不存在恶意竞争，我不对外卖ip，说我要踩他卖自己ip的都是大傻逼！！\n\n希望傻逼也会撸能跟之前一样多发点真正有用的投研和小白教程吧，他认真写的有些内容确实不错，但是听吹牛逼和邪教营销方式听怕了。",
+      "timestamp": "Apr 5, 2025 · 2:35 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1908529023829025045#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1908518534415884787#m",
+      "content": "1、我就是单纯看不惯你10块一个ip还装大好人的样，让我恶心。\n\n2、北境只是单纯和他们参与过一次ama，你也在的，具体啥情况你自己清楚，跟我有屌关系？我是接广子了还是坑人了？\n\n3、你咋知道我没卖？我社群还有教怎么搭建呢。对社群的价格也是5块一条，那咋了？",
+      "timestamp": "Apr 5, 2025 · 1:54 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1908518534415884787#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1908503817035145394#m",
+      "content": "真是看不过去想喷了，把粉丝当日本人搞🤣\n\n啥ip 要10块钱 ？还鸡巴成本大半？\n\nip租赁价格那么鸡巴透明 ，一个最小的/24ip段下来，平均一个ip也就两三块最多的成本，\nas你找别人挂人家上面，也不至于成本一大半啊\n\n别鸡巴跟我说你服务器多贵多贵，贵的是带宽，跟你鸡巴什么金属散热外壳有啥关系？跑个bgp服务跟socks5服务要多少内存？\n\n你这说的ip不干净 也就是as跟ip历史被滥用可能的问题，换个也就好了，这方面能高多少成本？\n\n不知道还以为你都找国外的isp一家一家跪着问才提高成本的，笑死。\n\n总结：扯鸡巴蛋 真的是傻逼",
+      "timestamp": "Apr 5, 2025 · 12:55 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1908503817035145394#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1907579427816616258#m",
+      "content": "不要成为别人，要成为「能被人记住的你」\n\n看到别人合约赚钱，你去开合约\n看到别人p小将赚钱，你去pvp\n看到别人撸毛赚钱，你又去撸毛\n看到别人kol赚钱，你又要发帖子做kol\n\n但钱最终流向的，不是跟风的人，而是那些在某个领域深耕到极致的人。\n\nchenxi觉得世上所有事都需要深耕，在一个角度做到极致。谈到这个方向别人都能认可你、能记得你做得不错，这才是个人特色。\n\n最近行情太差，根本没动起来的欲望。chenxi打算闭关几个月，捡一捡丢下来遗忘的一些技术。写写dapp做点工具。行情冷清时正是蓄力的黄金期，当别人在焦虑追风口，我们埋头把链底层逻辑再啃透些，把当年没吃透的MEV机制重新建模，这种沉淀会在下个周期爆发惊人的复利。\n\n记得21年突然崛起的DeFi协议吗？都是上一轮熊市里默默搭了两年积木的人。现在写的每行代码，都是在为未来某个凌晨三点被市场FOMO疯狂@你的时刻做准备。\n\n市场奖励的不是「会跟风的人」，而是「带着作品破圈的人」\n\n别焦虑，去Build、去打磨自己的能力。\n钱会流向价值，而价值，来自深耕。",
+      "timestamp": "Apr 2, 2025 · 11:42 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1907579427816616258#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1907553593487757348#m",
+      "content": "gm！我要做web3技术最屌的男人！！",
+      "timestamp": "Apr 2, 2025 · 9:59 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1907553593487757348#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1907414495456358494#m",
+      "content": "YEI协议币安钱包质押USDC APY在12%左右\n在稳定币质押里面算高的了\n顺手还能拿一部分web3钱包的奖励\nCCTP跨链是真的慢，要二十多分钟才在目标链释放\n我冲了一些，给个猪脚饭也不错，比web2钱包年化高太多\n\n教程传送门👇\nbinance.com/zh-CN/support/fa…",
+      "timestamp": "Apr 2, 2025 · 12:47 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1907414495456358494#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1907095542112673905#m",
+      "content": "吾日三省吾身：\n\n耐心的对待每个人了吗？\n怎么为这个圈子做些贡献？\n有没有好好沉淀提升自己的价值？",
+      "timestamp": "Apr 1, 2025 · 3:39 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1907095542112673905#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1905566867554816392#m",
+      "content": "你信我的，人的精力太有限了。少关注一些剧本争议，你能做很多有意义的事。\n\n这个女kol去做币媛那个男kol去pc，归根到底，和我们没有任何关系。人性本恶，金钱和欲望会反复冲刷人的道德感和底线。\n\n转了一圈推特上的kol，同质化确实很强。真正在输出优质投研分析内容的人我是很佩服的，我也关注了一些，打算有机会也把这些人分享出来。他们的流量不如去炒作剧本和撕逼的，但是有营养的东西本身就是难吃的，最难的就是在好吃和有营养中间平衡。\n\n有时候其实也想分享一些生活类的东西，静香老师说我不够抽象@btc_jx 😭，另外我想我的follow都是因为技术关注我，我的内容太垂直了。也不想因为其他琐事分散各位的精力，我做不到瞎几把发没用的东西。\n\n我昨天跟树姐@EvaCmore 说我每天大概学习五小时，可能有推友会觉得技术够用不就好了，为什么要学习那么多东西。其实很多东西虽然目前用不上，但是不能不会。书到用时方恨少，我希望在下一波或有一次的热度爆发能带各位抓住机会一波起飞，也一直希望各位可以和我一样在一个角度好好沉淀，在任何行业，只有某一项技能达到头部才有赚钱效应。\n有机会我也分享一下音乐生是怎么做web2全栈到反复创业到web3的故事。\n\n相信chenxi，炒作剧本只是昙花一现。\n不管做投研、alpha、技术分析或知识分享，只有让自己更专业、更专注一些。才能保持你的竞争力。才是可持续发展之道。",
+      "timestamp": "Mar 28, 2025 · 10:25 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1905566867554816392#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1905215138011173280#m",
+      "content": "刚好看到有人发haust项目，比较早期。给社群做个脚本教程出来。\n\nevm再复杂没开源的合约也能从js里面找出踪迹，难度都不会太大，做任务脚本来来回回也就是那些技术栈，用课程现有的基本都能解决。\n\n所以我觉得压根没必要去买一些rpa ui自动化的工具，一是同质化太强，还不如自己定制做一下自己的策略去交互，也许会有更多惊喜，二是我一贯认为的授人予鱼不如授人予渔，用正确的方式，两三个月你就能做大部分项目的脚本了。\n\nchenxi忙完这一阵应该不会再做基础教程了，我一直希望做一些更有挑战性的东西，比如做一些自己的工具，或是做前后端+合约这样的完整项目开发教程，或是做一些非evm的脚本教程。其次，其实我每天也在保持学习，看一些新鲜的东西，打磨自己的技术能力和社交能力。\n\n保持初心，希望能给各位和社群的朋友带来更多价值。",
+      "timestamp": "Mar 27, 2025 · 11:07 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1905215138011173280#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1902709420003566046#m",
+      "content": "上次和@ouyoung11老师聊起来时，很多想法都是一致的。\n\n在币圈获得财富回报最简单且安全的方式就是做工具，在某个热门叙事的时候做出让大家方便且实用的工具，比如pump、比如trade bot，最近还在看链上土狗的一些网格。\n\n做了很多小demo出来，跟着市场走，有热门赛道第一时间冲进去。\n\n社会需要利他思维，包括社群教学我也是毫无保留的出内容。我不怕明牌，因为我知道很多人没这个执行力也坚持不下来。先利他后利己，市场会回报做出贡献的人。",
+      "timestamp": "Mar 20, 2025 · 1:10 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1902709420003566046#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1902377995370950774#m",
+      "content": "【全自动通过cf-turnstile验证思路】\n\n✅ Hook turnstile.render 绕过 Cloudflare Turnstile\n\nCloudflare Turnstile 负责验证码验证，调用Hook\n\n监听 window.turnstile 的加载（用 setInterval 轮询）。\n\nHook turnstile.render 方法，拦截它的参数，提取 sitekey、cData、action 等信息。\n\n例如：\n```\nwindow.turnstile.render = function (a, b) {     console.log(\"拦截验证码参数:\", b);     window.cfCallback = b.callback; // 拿到验证回调 };\n```\n\n将这些参数发送到打码平台，返回 token。\n\n调用 cfCallback(token)，直接提交 token，让网站误以为验证码已通过。\n\n搭配dp、Puppeteer等ui框架，无缝通过验证。",
+      "timestamp": "Mar 19, 2025 · 3:13 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1902377995370950774#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1900526497196343634#m",
+      "content": "starlabs开源的dc聊天机器人，写的不错。兄弟们可以去学习下！\n\n不学点技术，做好的代码丢给你都不会用。\n\n虽说ai比较聪明，但是遇到环境或其他复杂问题ai排查半天没思路也解决不了。\n\n所以不说学多精，技术还是很有必要去了解的。\n\n传送门🚪\ngithub.com/0xStarLabs/StarLa…",
+      "timestamp": "Mar 14, 2025 · 12:36 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1900526497196343634#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1899469389575110840#m",
+      "content": "课件输出中...",
+      "timestamp": "Mar 11, 2025 · 2:36 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1899469389575110840#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1899469127083053540#m",
+      "content": "【sahara全自动领水+合约交互脚本】\n🔥老样子，热度高就开源一部分出来！兄弟们互动互动\n\n已完成功能：\n1、过cf领水\n2、失败自动重试\n3、记录成功地址和失败地址到不同文件，方便查看\n\n#todo\n1、多进程领水，放在服务器每日自动执行\n2、生态内dapp合约调用\n\n正好看到群友在做这个，遂给社群产出领水+合约调用开发思路实战教程，正在写课件中...\n\n群友大部分都完成rpa的内容了，真的是从hello world开始写代码，过程很困难，但让你痛苦的往往是变好的过程，成年人应该追求内啡肽，不是吗？😃",
+      "timestamp": "Mar 11, 2025 · 2:35 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1899469127083053540#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1899081886833762304#m",
+      "content": "【从0到web3科学家，这个路程就够了】\n\n收藏一下，万一能用上呢？\n\n1⃣️安装IDE和解释器\n\n首先，选择一个适合的IDE（集成开发环境），如Visual Studio Code或PyCharm，并安装相应的解释器（如Node.js或Python）。这将是你编写和运行代码的基础工具。\n\n2⃣️学习代码基础（1-2周）\n\n学习编程基础知识，包括变量、数据类型、控制结构（如条件语句和循环）等。这是理解后续内容的基础。\n\n3⃣️学习HTML和接口原理（1周）\n\n学习HTML的基本结构和语法，以及API（应用程序接口）的原理。掌握这些知识后，你将了解前后端通信的规则。可以尝试做一些简单的练习，比如使用API查询币价，预计一周时间。\n\n4⃣️学习UI自动化三方库（1-2周）\n\n根据前端和接口基础，进一步学习一些UI自动化的第三方库，并完成一些项目脚本开发。这个阶段可以花两周时间进行练习，尝试实现一些自动化任务，解放双手。\n\n5⃣️掌握JavaScript知识（1-2周）\n\n学习一些JavaScript的基础知识，特别是与接口交互相关的内容。可以选择做一些自动化脚本，比如自动领取水龙头。\n\n6⃣️学习Web3相关的三方库（1-2周）\n\n了解Web3的基本概念，学习一些相关的第三方库（如Web3.py或Ethers.js），理解交易所需的步骤，包括签名、构建交易等。完成一些与轨归集分发和批量查询相关的脚本。\n\n7⃣️ 学习EVM合约的部署过程和原理（1周）\n深入学习以太坊虚拟机（EVM）合约的部署过程和原理，分析合约输入数据，解析数据。尝试对一些项目的合约交互（比如nft、合约调用、dex）进行自动化脚本的开发，进行实践。\n\n8⃣️学习JavaScript及其他语言\n\n在掌握了基础后，继续学习JavaScript及其他编程语言，比如rust或go，了解非EVM链的原理和DApp程序的构成。可以选择一些开源项目进行分析和实践，提升自己的技能。\n\n这个时候你已经能完成大部分项目的脚本开发了，甚至能通过ai做出你自己的dapp！这时候可以参与开源项目和社区，加入一些开源项目，参与社区讨论，分享你的学习成果和遇到的问题。通过与他人的交流，我相信你会有更多赚钱的机会，认知也会更上一层楼！\n\n以上也是我在社群教学的内容和流程，我们能做的就是节省时间，提高学习效率。\n\n整套俩三月搞定，完全打开代码之路，完成大部分项目脚本制作。以项目实战为主，按照目前热门流行项目做rpa、接口和合约调用实战演示！",
+      "timestamp": "Mar 10, 2025 · 12:56 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1899081886833762304#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1898739248356073576#m",
+      "content": "最近经常跟一个做交易的大哥联系\n\n从安装编程工具开始，现在已经写签到脚本了。\n我觉得到后面他甚至可以结合一些他的理解做一些交易相关的东西。\n\n还有一些其他群友，也在跟进他们的进度。很多人都是听了我之前的space开始了解我，一期有很多很多朋友都有收获。\n\n后面也会在每个阶段结束后开推特space，大家一起聊聊新的项目机会和一些心得，期待和各位上麦交流！\n\n🌟加入社群可以联系首页wechat",
+      "timestamp": "Mar 9, 2025 · 2:14 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1898739248356073576#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1898739240386908554#m",
+      "content": "💰从0到1，如何在Web3中找到属于你的财富机会？\n\nchenxi觉得最影响赚钱💰的因素就是自限性！\n\n说一个很简单的逻辑：你作为一个不懂技术的散户，对你来说赚钱的方式只有pvp或者去手动冲别的kol发的一些项目方广告文章交互，亏钱不说，时间也花了，也没学习到任何东西。除非你运气特别好就是一下撸中单号多少多少u的项目，或者当了合约天才，不在讨论范围内。\n\n但是，你掌握了一些技术，你会有很多选择。\n1⃣️看到一些项目的新机会，你总是看到别人发nft在monad怎么p通过卖水赚了多少钱呢，你不能自动在推特拿一些名人图片或者做个更华丽的dapp？或者能不能批量领水跑脚本、或者给别人代撸？\n2⃣️对于一些打新机会，你能不能批量生成很多地址来打预售的盘子？\n3⃣️你可以参加黑客松去推广自己的项目！这对于普通人是最容易的阶级跨越方式。\n4⃣️做工具，具体不说了😄\n\n当然，我这里不只是指技术，还有很多很多种方式，很多人都觉得不只是写代码，做任何事对非科班出来的都是非常非常困难的。\n\nchenxi做这么久社群的经验来看，从刚开始很多0基础的朋友怀疑自己能不能学会某个技能，能不能做到一些事，所以总是犹犹豫豫，不肯跳出舒适圈。实际上很多朋友的成果来看，只要你用心做了，是都能做到的。ai现在也能非常好的解决你的问题！除非你一直害怕，一直不开始。\n\n机会一直留给有准备的人，只有技能是真正实实在在是自己的，如果完全不懂原理，一味靠别人去输出是不长久的。比如你看好一些打新项目或者一些新的机会，你不可能总是指望其他人来代替你写好工具给你用，能赚钱别人怎么不赚呢？只要有第三方的因素在，不确定因素太多了！\n\n最后，希望大家都能勇敢地迈出第一步，克服自我限制。\n技术是web3最容易翻身的途径，也是最容易扩大收益的杠杆。这句话放在这，如果不信明年可以再来看！",
+      "timestamp": "Mar 9, 2025 · 2:14 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1898739240386908554#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1898648031471518182#m",
+      "content": "行业整体还属于比较早期阶段，项目也是鱼龙混杂。\n\n只要保持学习，跟进时代，不下牌桌，就一定会有大收获。",
+      "timestamp": "Mar 9, 2025 · 8:12 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1898648031471518182#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1897671099938443432#m",
+      "content": "阉割了okx钱包【查看私钥】和【钱包备份】按钮！\n\nokx没找到开源的代码，只能从一堆编译过的js文件里面找\n\n我发现网上到处都没有阉割okx的分享，开源精神呢？😃",
+      "timestamp": "Mar 6, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1897671099938443432#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1897107970867257816#m",
+      "content": "不能再日夜颠倒了\n\n身体是革命的本钱兄弟们！\n\n每天做完事情抽出一些时间健身\n\n等我八块腹肌就发照片\n\n别炒币没赚到钱 身体垮了🙂",
+      "timestamp": "Mar 5, 2025 · 2:12 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1897107970867257816#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1896535883832234458#m",
+      "content": "如果需要系统教学/进阶内容，加入社群，一起fomo！",
+      "timestamp": "Mar 3, 2025 · 12:19 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1896535883832234458#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1896534789429371173#m",
+      "content": "给okx提个小意见 @okxchinese @mia_okx\n\n很久没用过okx的提币api了，平时都是用友商的api，今天回头用了下，发现一如既往的麻烦。\n\n简单梳理一下okx的api提币验证步骤：\n1、生成key 谷歌验证器+短信+邮箱\n2、代码请求头Base-64签名对查询chain和ccy也要签名，是不是太麻烦了点？不修改账户状态个人感觉签名意义不大\n3、加ip白名单，谷歌验证器+手机号+邮箱\n4、加地址白名单，批量导入，谷歌验证器+短信+邮箱\n5、地址白名单验证（电脑做不了，还得去手机做），谷歌验证器+短信+邮箱\n\nok 上面一切都做完了 结果来个这个是什么意思\n\n希望有一天api能和友商一样简单直接的风控机制，这一套下来我觉得不提个一千个地址都不划算了😃",
+      "timestamp": "Mar 3, 2025 · 12:15 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1896534789429371173#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1896534780319269144#m",
+      "content": "🧑‍💻 完整代码已开源，大家可以自由学习、修改使用，后续也会更新其他代码：  \ngithub.com/cyptoKris/chenxi_…",
+      "timestamp": "Mar 3, 2025 · 12:15 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1896534780319269144#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1896534777001624053#m",
+      "content": "【Web3空投脚本入门#2】中心化交易所之OKX批量提币\n（脚本源码看子线程！）\n\nChexi 今天继续为大家带来 Web3 入门系列的第二篇，今天我们将深入探讨如何通过 Python 脚本实现 OKX 的批量提币操作，帮助大家更高效地实现批量起号。\n\n在参与项目和链上交易时，很多小伙伴可能会面临以下问题：\n1⃣ 手动提币繁琐：每次提币都需要手动输入地址和金额，操作繁琐且容易出错。\n2⃣ 提币地址管理困难：管理多个提币地址时，如何确保每个地址的安全和准确性？\n3⃣ 提币速度慢：在市场波动时，手动提币的速度可能无法跟上市场变化，错失良机。\n这些问题在传统的手动操作中难以高效解决，但通过自动化脚本，你可以轻松应对！\n\n🚀 核心代码解析\n提币功能：通过 initiate_withdrawal 函数，我们可以批量提币到指定地址。只需提供地址和金额，脚本将自动处理提币请求。\n\n地址管理：从 CSV 文件中读取提币地址，准确无误。\n\n随机化提币金额：为了提高安全性，脚本会在设定范围内随机化提币金额，降低风险。\n\nAPI 签名生成：通过 create_api_signature 函数生成 API 请求的签名，确保请求的安全性和有效性。\n\n🔐 安全建议\n在使用这个工具时，请务必注意以下几点：\n1⃣ 确保 API 密钥安全：在代码中使用 API 密钥时，请确保其安全，避免泄露。建议使用环境变量来管理敏感信息。\n2⃣ 测试环境下运行：在正式提币前，建议先在测试环境中运行脚本，确保其功能正常。\n3⃣ 定期检查钱包状态：定期检查钱包的状态和余额，确保其安全性。\n\n在接下来的系列内容将分享更多 Web3 技术，助你进一步提升技能，扩大收益。",
+      "timestamp": "Mar 3, 2025 · 12:15 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1896534777001624053#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1896402837695037515#m",
+      "content": "步骤 4：构建项目\n\n完成修改后，您需要构建项目。\n\n确保您已经安装了所有依赖项：\nyarn install\n\n然后运行构建命令：\nyarn dist\n\n如果遇到问题可以用gpt等ai工具解决\n\n构建后去build文件看zip文件，导入插件钱包使用\n\nDone!🎉",
+      "timestamp": "Mar 3, 2025 · 3:30 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1896402837695037515#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1896402833349771631#m",
+      "content": "步骤 3：修改代码\n\n找到相关代码后，您可以通过以下方式屏蔽显示功能：\n注释掉显示助记词和私钥的代码：\n\n找到显示助记词和私钥的组件或函数，并将其注释掉⬇️",
+      "timestamp": "Mar 3, 2025 · 3:30 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1896402833349771631#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1896402828798960040#m",
+      "content": "步骤 2：查找相关代码\n\n在 MetaMask 源码中，您需要找到与助记词和私钥显示相关的代码。通常，这些功能可能在以下文件中：\n助记词：在与账户设置相关的组件中，具体文件为account-details-display。\n私钥：通常在首页账户详情页面中，具体文件为security-tab.component\n您可以使用文本搜索工具（如 grep 或 IDE 的搜索功能）查找文件",
+      "timestamp": "Mar 3, 2025 · 3:30 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1896402828798960040#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1896402824797602147#m",
+      "content": "步骤 1：获取 MetaMask 源码，一定要从官方库下载\n\n首先，您需要安装Node.js版本 20，然后从 MetaMask 的 GitHub 仓库中克隆源码：\ngit clone github.com/MetaMask/metamask…\ncd metamask-extension",
+      "timestamp": "Mar 3, 2025 · 3:30 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1896402824797602147#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1896402822197031296#m",
+      "content": "【web3工作室必看】\n阉割小狐狸钱包显示私钥和助记词功能\n\n现在跟树姐@EvaCmore 一起做工作室，刚好聊到安全性的问题。给工作室做了个阉割版小狐狸，遂出个教程。\n\n有懒得动手的老板也可以找我小偿获取源代码和可直接导入的zip文件。\n\n具体教程操作看子线程⬇️",
+      "timestamp": "Mar 3, 2025 · 3:30 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1896402822197031296#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1896186365232251150#m",
+      "content": "关于社群教学内容介绍，欢迎加入我们！入门代码，开启自动化之旅！\ndocs.google.com/document/d/1…",
+      "timestamp": "Mar 2, 2025 · 1:10 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1896186365232251150#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1896186358416441774#m",
+      "content": "最近chenxi在做的事\n1、未来科学家社群完成定期线上会议，完成rpa篇内容，同时制定后期计划\n2、monad领水接口现在使用CF+Vercel 方式校验，趋近稳定后再更新代码\n3、处理工作室的一些事情，包括阉割钱包和初始化环境\n4、写rust js和前端页面，重头开始制作一些evm和solana上的dapp demo，大家有好点子吗",
+      "timestamp": "Mar 2, 2025 · 1:10 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1896186358416441774#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1895042070353715276#m",
+      "content": "都卷monad 卖水是吧\n需要的人多我就把跑官方水龙头脚本开源了！都别玩了！！",
+      "timestamp": "Feb 27, 2025 · 9:23 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1895042070353715276#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1895032670821982503#m",
+      "content": "🧑‍💻 完整代码已开源\n为了让大家更方便地批量生成助记词钱包，我已经将完整代码上传到GitHub，大家可以自由学习、使用和修改，后续也会更新其他代码：\n\ngithub.com/cyptoKris/chenxi_…\n\n🚀 核心功能介绍\n批量生成钱包：一次性批量生成多个助记词钱包，省时省力，不再需要手动一个个创建。\n自动保存助记词：每个钱包的助记词会自动保存，避免丢失，确保钱包的恢复性。\n导出私钥和地址：每个钱包的私钥和地址将导出到JSON文件，方便后续管理和使用。\nJSON格式保存所有信息：所有钱包的信息都会以JSON格式保存，便于后续操作，确保信息的结构化。",
+      "timestamp": "Feb 27, 2025 · 8:46 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1895032670821982503#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1895032668615852221#m",
+      "content": "Web3空投脚本入门#1】批量生成助记词钱包的自动化方案（开源代码看子线程）\n\nChexi今天正式开个坑，打算为大家分享一些简单实用的Web3入门脚本内容，帮助小白更轻松地上手。\n\n今天，我们从基础的内容开始，教你如何通过Python脚本批量生成助记词钱包，轻松准备好参与空投活动！\n\n🤔在进行起号时，很多小白都会遇到一些常见的问题：\n\n1⃣手动创建钱包太耗时：每次都要手动生成助记词、私钥和地址，工作量巨大。\n2⃣记录助记词容易出错：一旦丢失助记词，就无法恢复钱包，资金也会面临巨大风险。\n3⃣管理多个钱包很麻烦：操作多个钱包时，如何做到高效并且不丢失任何信息？\n\n这些问题，在传统的手动操作下无法高效解决，但通过自动化脚本，你可以轻松解决！\n\n🚀 核心代码解释\n\n生成助记词：通过 generate_mnemonic 函数，我们可以生成 12 个单词的助记词。这些助记词是钱包的“钥匙”，用它们可以恢复钱包。\n\n生成钱包：通过 Account.from_mnemonic(mnemonic)，我们将助记词转化为钱包账户，并提取出公钥、私钥和地址等信息。\n\n保存文件：生成的钱包信息会保存为 JSON 文件，方便管理。\n\n🔐 安全建议\n在使用这个工具时，请务必注意以下几点：\n\n1⃣在离线环境下生成钱包：为了避免助记词泄露，请确保在离线环境下生成钱包。\n\n2⃣定期检查钱包状态：定期检查钱包的状态和余额，确保其安全性。\n\n🔜 下期预告\n在接下来的教程中，我将分享更多Web3技术，助你进一步提升技能：\n\n批量提币到这些钱包：如何将cex的资金批量安全随机的提到地址内。\n自动化合约交互方案：如何通过Python脚本自动与智能合约交互，实现自动化操作。\n多链钱包管理技巧：如何高效管理多个链上的钱包，提升操作效率。\n插件钱包批量导入方法：如何批量将多个钱包自动化导入到浏览器中，节省人力。",
+      "timestamp": "Feb 27, 2025 · 8:46 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1895032668615852221#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1892734132129870274#m",
+      "content": "gm兄弟们！\n\nMonad测试网的域名可能会有空投\n我注册了chenxi.nad\napp.nad.domains \n\n另外准备开始写点领水脚本⬇️\n\n1️⃣ 首选OKX领水，要求钱包大于10u，一次可领0.5 $MON okx.com/web3/faucet/monad?id……\n2️⃣ 官方领水渠道，即使卡但也要去特意领一下 testnet.monad.xyz\n3️⃣ aPriori平台领水，领的时候注意不要选直接质押 stake.apr.io/faucet\n4️⃣ 电报登录，内置钱包，一次可领取0.1 $MON app.mozi.finance\n5️⃣ 一次可以领取0.1 $MON ，要求主网0.033ETH+20笔Gas.zip交易 gas.zip/faucet/monad\n6️⃣ Morkie水龙头，一次可以领取0.025 $MON faucet.morkie.xyz/monad\n7️⃣ thirdweb平台一次可以领取0.01 $MON ,有点少 thirdweb.com/monad-testnet\n8️⃣ 猫头鹰领水，需要积分大于1000，一次可以领取0.1 $MON owlto.finance/Faucet/Monad",
+      "timestamp": "Feb 21, 2025 · 12:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1892734132129870274#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1892627467665584587#m",
+      "content": "在现场，香迷糊了！\n\n最近终于沉下心来做点事了！\n\n对普通人来说，时间和精力是最宝贵的东西。我认为人的大多数时间都应该花在能令人成长的事情上，也就是说你花掉今天 24 小时，要能让自己比昨天的自己某些方面更强才行。\n\n我们一起持续沉淀，持续building！",
+      "timestamp": "Feb 20, 2025 · 5:28 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1892627467665584587#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1892526709976773054#m",
+      "content": "我是真开心啊，一觉睡醒起来社群的兄弟们都在聊monad的接口加密了\n\n很欣慰，几个月的功夫没白费。虽然开发道路任重而道远，知识也是不停迭代。但我们需要做的就是一步一步往上走，静下心一天一天沉淀，一定会再有一天拿到超乎想象的回报。\n\n希望有一天看到群友全部自由！\n\n仍然觉得：对于普通人而言，最好的翻身机会就是技术。",
+      "timestamp": "Feb 20, 2025 · 10:48 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1892526709976773054#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1892333720893608131#m",
+      "content": "活到老学到老啊\n\n凌晨还在写rust，写的头晕眼花\n越写代码，越觉得自己的进步空间还太大了\n但是吧，进步的速度总得跟上这个行业迭代的速度\n\n想起很久之前第一家公司的同事讲他的炒股秘诀：\n“横有多长，竖有多高。”\n\n我是不是马上要成为web3励志KOL了？？😂",
+      "timestamp": "Feb 19, 2025 · 10:01 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1892333720893608131#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1892223257962807807#m",
+      "content": "🌟怎么最快参与给cz捐款或其他的打新项目？\n🌟一对多地址分bnb太慢怎么办？\n🌟如何超快领跑赚到打新最高收益？\n\n今天给各位分享一下最快的代码实现逻辑。\n\n1⃣️首先，一秒离线生成上千个标准json格式钱包，包括私钥地址助记词和钱包序号（我的社群有源码和教学）\n\n2⃣️我在bsc链部署了一个简单分bnb的合约（已开源），传递数组和余额，使用合约来给所有地址捆绑分发bnb。一笔tx，给n个地址同时转账，实测一笔交易分发几百个地址的钱不是问题。效率大大大提高。（后期类似内容也会加入到社群教程内），没有设置权限，大家可以放心使用。\ncontract：0x0e7470F996623332648FB86443c0Ae6d01c2e545\n\n3⃣️使用代码多进程发送交易给cz钱包，一千个地址分分钟搞定。如果遇到其他打新项目也可以更改代码使用，比如前几天参与的bsc打新项目。\n\n4⃣️收到代币使用erc20的token标准归集代码（社群教学包含此内容）\n\n5⃣️使用dex的contract swap代币，收米\n\n有兴趣系统学习脚本开发可联系主页wechat。\n点点关注三连，后续我也会多发一些开源实用脚本出来一起交流、学习、使用。",
+      "timestamp": "Feb 19, 2025 · 2:42 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1892223257962807807#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1891695883604889635#m",
+      "content": "貌似很多朋友对一些实用工具脚本源码感兴趣？\n\n打算打包一些离线批量生成标准格式钱包、批量随机时间金额从cex提币、rpa导入钱包和一些分发归集代币的代码工具。\n\n开个坑，感兴趣的点个赞，人多开始补坑。",
+      "timestamp": "Feb 18, 2025 · 3:46 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1891695883604889635#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1891686923871097265#m",
+      "content": "某大所宣布Pi要上线现货交易了，这种挖矿靠拉人头传销。市场被团队操控，币价全靠团队一句话的庞式项目，交易所还能为了钱上币，这jb还是web3？\n\n这些傻逼cex为了钱真的啥都能干出来。要是真想支持去中心化，别上这种让整个行业看了都心寒的币🤮🤮\n\n感觉pi会改变web3的一些风向，兄弟们怎么看",
+      "timestamp": "Feb 18, 2025 · 3:11 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1891686923871097265#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1891455740923035696#m",
+      "content": "🚀最近打算在成都招聘一个技术共商大计\n要求：\n1、努力\n2、熟悉网络协议，包括linux系统\n3、对evm、svm有了解，能写合约交互\n4、熟悉b/s架构，能独立完成一些接口逆向工作\n语言方面：js、python，会golang和rust更好。\n\n亲自招聘，符合要求感兴趣可以直接主页dm\n不在乎你是什么学历，发我代码就行。",
+      "timestamp": "Feb 17, 2025 · 11:52 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1891455740923035696#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1889254463594262755#m",
+      "content": "各位开工大吉！听chenxi碎碎念一下\n\n最近一直在思考一些事，这么辛苦的做这些从0到1的教学内容到底是为了啥？可能更多的是交个朋友，认识一些志同道合有执行力的朋友，在web3的路上一起深耕。\n\n未来科学家社群从去年做到现在，帮助了很多小伙伴和工作室接触技术、了解技术，花费了很多精力时间，导致我自己也错过了很多项目和机会，但是chenxi并不后悔，光一个ip集群搭建都给很多朋友和工作室省下了超过学费的开支，脚本也节省了人力成本。帮助别人有时是很有成就感的。\n\n今年要和树姐@EvaCmore 深度绑定，一起成立一个工作室，不限于撸毛，更多的探寻alpha机会。后面也会分享一些工作室的日常和一些新机会给社群的朋友。抱团取暖的感觉，让我也有了更多动力去做一些更大的尝试，这算是今年的一个里程碑。\n\n学个技术，在币圈还是挺有用的。\n也许第二期的课程是最后一期了！最近每周在社区内部会议进行讨论交流和进度跟进，好多事没有做完，马上要根据进度再做一次分群。\n这点钱虽然不多，但希望来了就跟着一起搞起来，能有收获。\n\n最后，希望各位在2025都能拿到想要的结果！我们一起沉淀，一起加油，一起期待更好的明天🚀",
+      "timestamp": "Feb 11, 2025 · 10:05 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1889254463594262755#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1887869987366592694#m",
+      "content": "🎉与社群朋友聊了接下来学习方向和规划\n\n3个月后，又要出来一批新的自动化撸子了，简直不要太卷！！！不知道又有多少群友今年要自由😨\n\n🏁如果对脚本编程自动化感兴趣，联系主页wechat！\n我们一起在项目实战中学习rpa、接口协议、合约自动化！",
+      "timestamp": "Feb 7, 2025 · 2:24 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1887869987366592694#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1883151824833982742#m",
+      "content": "跟树姐见面了！@EvaCmore \n\n聊了好多工作室的规划。\n\n树姐真的是很有干货的KOL，每天忙的起飞还做很多有用的内容免费分享出来。不像那些上来xxx收益，同时xxx的那种接广子自己都不干的那些某些所谓的kol😂\n\n兄弟们！2025加油！！这个圈子永远不缺财富！我们需要的是沉淀、提升自己的认知，然后一波起飞！🚀",
+      "timestamp": "Jan 25, 2025 · 1:55 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1883151824833982742#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1881295152935030792#m",
+      "content": "熟悉我的朋友们都知道我做事是很认真的😂要么不做。做就一定尽力做好！🚀",
+      "timestamp": "Jan 20, 2025 · 10:58 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1881295152935030792#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1881292931501564141#m",
+      "content": "🔥未来科学家二期计划已制定！\n\n每周、每月都有清晰的学习安排！只要跟上节奏，两到三个月内，你将掌握一项高收益技能，在2025年实现质的飞跃！\n\n🚀 行动指南：\n•坚持每周目标，稳扎稳打\n•按周月群会议复盘总结，不断优化\n•紧跟计划，你就是下一个科学家\n\n💡 未来属于执行力强的人，兄弟们冲就完了！\n\n今天是最后一天早鸟价！加入方式可看其他帖子或联系推特主页wechat！",
+      "timestamp": "Jan 20, 2025 · 10:49 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1881292931501564141#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1879377203622027677#m",
+      "content": "🚀忙了一天的Chenxi 刚搞定工作室的定制开发单\n\n🐻熊链全接口合约，做swap、写汇率计算逻辑组lp、质押等逻辑。我在全流程做了异常重试处理，支持多并发，读取私钥文件一键启动，自动跳过余额不足的地址。\n\n有些内容还挺适合后面社群做教学，vip也可以找我来拿现成的脚本学习下。\n\n🤔️话说熊链能支撑5000tps的交易合约调用吗？想试试",
+      "timestamp": "Jan 15, 2025 · 3:56 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1879377203622027677#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1878774381725515799#m",
+      "content": "🚀 未来科学家二期社群开启！🚀\n\n🔥 基于第一期的成功经验与反馈总结，第二期我们继续以“精”为主，筛选真正对系统化学习脚本开发感兴趣和志同道合的伙伴，助您 💰扩大收益，⚡提升效率！一起在web3深耕。\n\n🌟 早鸟价特惠： 即日起至 📅2025年1月20日，仅需 💲365U 加入未来科学家二期社群！和志同道合的伙伴一起学习成长，共享未来机遇！\n\n🌈 为什么选择我们？\n✅ 从0基础到高手：三个月内掌握核心技能，快速完成脚本开发！\n✅ 超高性价比：一张健身房私教月卡的价格，解锁高收益技能！\n✅ 学习内容系统：\n👍语言基础：不限基础，可以从Hello World开始学习。\n🖱 UI自动化：模拟点击多场景完成交互。\n🔗 接口协议调用：高效完成多地址领水，奥德赛等任务。\n🛠 合约自动化：mint 分发归集多场景使用。\n💻 静态IP搭建：成本三块多独享超快代理，把握在自己手里。\n✅ 项目实战：\n🏠根据实时热门大融资项目做脚本开发演示。\n\n学完你可以完成大部分项目脚本开发，甚至找到工作室技术工作！\n\n🌟 特别推出 VIP 权益（限定名额）\n✨ 为 工作室 和有 定制化需求 的用户量身打造！\n适合量大或需1v1对接、长期合作的伙伴，深度链接您的需求，提供专业支持！\n💬 联系我们： 欢迎通过海报或主页添加微信，了解更多详情！\n📢 加入未来科学家社群，解锁高收益技能，2025一起加油！ 🌟",
+      "timestamp": "Jan 13, 2025 · 12:01 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1878774381725515799#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1878363579856175160#m",
+      "content": "👇今晚21:00点开链接\n\nlocalhost:8080/i/spaces/1eaKbarjajqxX\n\n🎉与撸毛工作室、脚本撸子一起聊聊技术，谈谈踩过的坑！🎉\n\n另外：\n手把手带你成为科学家(二期)-早鸟价开始报名，本期提高门槛，同步进度，限定人数。面向0基础愿意沉淀的朋友，语言基础、rpa自动化开发、合约调用独家内容全部包含。\n也将推出工作室合作模式和进阶内容。\n\n25年新的开始，科技改变生活。",
+      "timestamp": "Jan 12, 2025 · 8:49 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1878363579856175160#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1878010476392767488#m",
+      "content": "新年社群首次space于明晚21:00开始！（2025.1.12周日）\n\n与各位兄弟们一起聊聊技术，谈谈未来发展方向，开启新的征程。\n\n另外会在space梳理二期教学内容和工作室合作模式，欢迎各位收听。",
+      "timestamp": "Jan 11, 2025 · 9:26 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1878010476392767488#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1877677756286382375#m",
+      "content": "🎉 手把手教你成为链上科学家 | 第二期预告 🎉\n（名额有限）\n\n从去年 9 月至今，我们完成了第一期的教学与实战（保持答疑），并分享了完整代码，学完大部分项目都够用了！以下是已覆盖的内容：\n\n1️⃣ 从零到一：Python 基础 & UI 自动化实战\n批量生成、导入指纹浏览器插件钱包，熊链项目自动化模拟点击交互\n\n2️⃣ 实战接口协议：熊链项目接口领水\n通过 CF 验证，实现全自动领取测试网水\n\n3️⃣ 实战 TG 项目：以 UXLink 小程序为例\n完成接口全自动化操作，包括签到任务\n\n4️⃣ 低成本 IP 集群搭建\n成本低至 3 元，快速搭建高效的 Socks5 代理集群\n\n5️⃣ Web3 测试网实战\n基于 EVM 链，测试网部署 ERC20 代币\n实现原生代币和erc代币分发与归集全流程自动化\n\n6️⃣ Story 项目全自动交互\n通过 CF 验证，批量地址全自动化处理\n包括领取测试网水、交互合约与钱包签名接口，完成网页任务\n\n.....\n\n💡 收获回顾\n在这一期的课程中，我们解决了大量实际问题，降低了人工成本和资金成本。社群反馈十分积极，许多 0 基础的朋友也通过课程达成了成果。看到大家的成长，我也更有动力继续分享下去！\n\n✨ 第二期新亮点\n我们即将推出第二期基础内容，将继续专注于实战与答疑，用全新的项目实战，每周更新1-2个视频，带来全新的教学内容及投研分享！另外针对有基础的朋友推出js教程，solana及其他链交互sdk教学！工作室也会新增一些合作方式！具体可看未来几天推出的海报！2025 年，我们一起突破更多可能！\n\n📩 加入方式\n有兴趣的朋友请 DM 或添加微信：mCoHeEnNyXi 了解详情。名额有限，欢迎早鸟报名！\n\n🔑 带你解锁链上科学的无限可能！",
+      "timestamp": "Jan 10, 2025 · 11:23 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1877677756286382375#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1876485794158023078#m",
+      "content": "🚀story已完成详细教学视频和课件，全接口合约完成任务脚本社群内部！！免费共享！！\n\n🔥最近可能是最后几天365U进入社群的的上车机会，马上提高门槛，防止做项目被卷飞😅（可进入主页tg或子线程加v了解）🔥\n\n从0成为科学家！！技术提高生产力",
+      "timestamp": "Jan 7, 2025 · 4:27 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1876485794158023078#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1875703470071935430#m",
+      "content": "🎉 Story任务最后冲刺！ 🎉\n\n✅ 动态IP领水 — 获取ERC Token，合约和接口交互全流程光速完成，一人顶一个工作室！\n\n✅ 未来科学家社群 马上发布 Story全合约接口交互教学视频、课件及GitHub共享脚本，带你轻松上手！\n\n最近看到大家纷纷跟我反馈，IP集群搭建省了不少钱 😇 接下来，我们将开启新年首次社群Space，并推出第二期关于 Solana 及更多生态脚本开发的教学（早鸟价）。我将手把手带你成为一名 科学家，放大收益！🚀\n\n新年快乐，兄弟们！愿2025年早日自由！💰",
+      "timestamp": "Jan 5, 2025 · 12:38 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1875703470071935430#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1873677049543737575#m",
+      "content": "ip集群搭建的教学做出来之后，有十几二十几个都自己搭集群了，都准备去卖ip了？😂\n\n最近一周再加一些常用合约调用内容，找节点shell的案例讲解一键启动思路。大纲的内容就完全搞定了！后期会再更新一些项目实战代码，开展一些space进行合作。\n\n另外，很多小伙伴担心上尾班车跟不上进度。\n现在计划开展新的一期《从0成为科学家》内容，人满开始！！每周一起学习！更多以实战为主！马上会有早鸟优惠海报，敬请期待。",
+      "timestamp": "Dec 30, 2024 · 10:26 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1873677049543737575#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1871194221476229127#m",
+      "content": "🏆恭喜中奖\n1. @daxiamid\n2. @J828B\n3. @chenxiao1994\n4. @JinTao502\n5. @jiumeiww \n尽快联系我领取静态ip*10\neasy3.app/cn/picker/C4C36G\n#Easy3\n-----------------------------------",
+      "timestamp": "Dec 23, 2024 · 2:00 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1871194221476229127#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1870098947060208053#m",
+      "content": "预告：\n《成本价搭建socks5代理集群》课程马上上线\n\n单个ip成本3-4人民币/月，网速超快。\n\n本条帖子三连，上线后抽5个人送10条优质独享静态IP一月\n\n加入社群方式可看子线程",
+      "timestamp": "Dec 20, 2024 · 1:28 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1870098947060208053#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1865188248051683627#m",
+      "content": "社群提供全天在线答疑，与优秀的朋友一起进步！",
+      "timestamp": "Dec 7, 2024 · 12:15 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1865188248051683627#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1865187691199107496#m",
+      "content": "坚持两三个月，逐渐成为web3科学家，掌握一个新技能，你愿意吗\n\n社群关于web3库合约调用相关内容已经产出，九月到现在，我们已经学习了python基础、rpa自动化、前后端交互接口原理、并且做了uxlink tg自动接口签到和熊链接口领水、rpa等内容。感谢各位朋友的支持。\n\n接下来准备社群socks5集群的教程，把ip价格打下来！拒绝超卖黑心商家。\n\n最近很喜欢一句话：\n没有所谓的横空出世\n只有不断追逐的拼搏之心\n如果没有大量的积累、大量的思考\n是不会把事做好的\n\n欢迎加入我们，看置顶内容！",
+      "timestamp": "Dec 7, 2024 · 12:12 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1865187691199107496#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1863488112497918354#m",
+      "content": "快年底了，不知道各位兄弟们在24年有没收获？\n\n我最近都在忙活社群教学的事，估计这周把链上交互的内容搞定，下周把socks5集群的事搞定，就能跟大家一起批量上点号，自己也能安心开发项目了🤔\n\n最近ads优惠力度很大，年付套餐5折，随机加送30-60天。\n用我的链接注册：share.adspower.net/UJUPxx\n注册后可以免费领取15个环境试用，加上用优惠码：chenxi，还有5%的折上折。还是挺划算的，可以囤点～",
+      "timestamp": "Dec 2, 2024 · 7:39 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1863488112497918354#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1860716248633573491#m",
+      "content": "最近休息了几天，继续沉淀！\n只有努力沉淀才能保持竞争力🙂‍↔️",
+      "timestamp": "Nov 24, 2024 · 4:04 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1860716248633573491#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1857337958250287597#m",
+      "content": "日常产出未来科学家社群教学内容，群友讨论项目，分享代码。\n\n未来两周做完web3库合约调用批量tx的内容，敬请期待。",
+      "timestamp": "Nov 15, 2024 · 8:20 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1857337958250287597#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1856645494795309214#m",
+      "content": "✅即将开始开发tg生态游戏脚本的教学\n\n本期用uxlink脚本举例，讲解tg脚本的开发思路\n全自动拿token，全自动做任务，解放双手，提高效率！\n\n社群一起分享项目脚本、分享alpha信息！从此脚本不求人！\n进入社群学习交流看我主页上个帖子，进入简介tg大群私聊我😄",
+      "timestamp": "Nov 13, 2024 · 10:29 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1856645494795309214#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1855498426211025241#m",
+      "content": "chenxi全天在线答疑😂",
+      "timestamp": "Nov 10, 2024 · 6:31 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1855498426211025241#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1855498402274193729#m",
+      "content": "最近未来科学家的兄弟们真的是非常给力，一起学习，一起讨论项目，一起写代码，遇到问题一起帮忙解决，我们的队伍越来越壮大了！！",
+      "timestamp": "Nov 10, 2024 · 6:31 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1855498402274193729#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1855091984769450295#m",
+      "content": "兄弟们，不是我说，对于批量环境管理这块，有个可视化界面还是方便的，有些一次性工作顺手同步也是很舒服！\n\nmorelogin是首个经过安全审计机构的指纹浏览器，这几天的使用下来，api调用快捷，界面和交互体验也很棒，另外给的优惠真的非常给力！！@more_login\n\n给大家争取到了20%的优惠码，立省一顿kfc：chenxi\n\n使用我的链接注册，免费试用半个月50个环境\nmorelogin.com/?from=AAFgA10B…",
+      "timestamp": "Nov 9, 2024 · 3:36 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1855091984769450295#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1854824284046475302#m",
+      "content": "等最近忙完小组教程，后面考虑首页的tg大群也免费共享部份代码～继续做资源网站共享一些内容出来给大家！可以期待期待😊\n\n支持一下@bitexiaotuzi",
+      "timestamp": "Nov 8, 2024 · 9:52 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1854824284046475302#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1852933304519180746#m",
+      "content": "加密货币持有者已有约6.7亿\n\n很开心在这个大环境里能有这么多有共识的朋友在一个小圈子。帮助群友提升技术水平，用技术扩大杠杆、提升生产力是我做社群和技术类教学一直以来的初衷。\n\n一个人的精力时间能力是微薄的，未来科学家是好的开始，以后大家的技术水平越来越强，不同领域的朋友越来越多，相信会有更多机会等着我们。\n\n感谢@Carolinxin @bitexiaotuzi 等朋友，很开心与大家一起进步，共同建设更好的社群",
+      "timestamp": "Nov 3, 2024 · 4:38 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1852933304519180746#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1851794760027279534#m",
+      "content": "一晃马上十一月了！科学家小组9月初开始到现在已有两月，看到很多小伙伴有了收获，开始把自己写的自动化撸毛脚本发到群里、push到内部git仓库，感慨万千！由于我自己也在每天抽出时间做一些链上项目demo，虽然很累，但是很值得！也很感谢大家的肯定，都是我做下去的动力！\n\n另外，第七课正在准备中，希望一次给大家讲清楚进程线程协程的概念与使用场景，原理在任何语言都能用到！再在之前咱们实战的浏览器自动化脚本和接口过验证领水脚本中迭代使用起来，效率拉满！\n\n搞完第七课正式结束了RPA浏览器自动化内容，后面ton链小游戏脚本开发实战、web3库合约调用归集mint、shell等内容我们能一起愉快的学习下去！\n\n对了，10月福利最后一天，社群学习方面内容是视频+录播+课件+答疑形式，时间不限制，可以随时学随时问。想要了解的可以看看我其他帖子！",
+      "timestamp": "Oct 31, 2024 · 1:14 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1851794760027279534#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1850519560891600956#m",
+      "content": "localhost:8080/i/spaces/1mnxeAVQVnrxX",
+      "timestamp": "Oct 27, 2024 · 12:46 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1850519560891600956#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1850023137766932855#m",
+      "content": "明天晚上21:00（utc+8）\n\n不见不散！\n\n抽6.66*5、3.33U*5，还有限时限量未来科学家课程+社群优惠！",
+      "timestamp": "Oct 26, 2024 · 3:54 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1850023137766932855#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1849791798203580876#m",
+      "content": "本周日晚上21:00！未来科学家社群，首次space！\n\n发言抽6.66U*5（可申请上麦）观众抽3.33U*5，还有可能会限时发放优惠社群名额！\n\n定好闹钟，加入@未来科学家，开始自动化之旅！",
+      "timestamp": "Oct 25, 2024 · 12:35 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1849791798203580876#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1849422750265540840#m",
+      "content": "1024是二进制的基本单位（千字节）\n1024M=1G\n一线奉献的程序员一级棒（谐音梗）🎉\n\n祝广大程序员和未来科学家社群的未来程序员节日快乐！",
+      "timestamp": "Oct 24, 2024 · 12:08 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1849422750265540840#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1848700015742750921#m",
+      "content": "来观摩树姐的工作室@EvaCmore \n\n树姐真的人特别好！这地方web3氛围也是真的好！！\n\n我都想搬家了🤣",
+      "timestamp": "Oct 22, 2024 · 12:16 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1848700015742750921#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1847958051003015610#m",
+      "content": "第六课要教用动态ip过cf盾跑协议领水了！速度杠杠滴",
+      "timestamp": "Oct 20, 2024 · 11:08 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1847958051003015610#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1846448404630790555#m",
+      "content": "技术的用途还是挺广泛的\n\n比如减少钓鱼风险、了解钓鱼原理\n再比如往区块链开发方向发展，做dev\n再比如撸毛做铲子卖\n再比如自己批量上号撸毛打新\n再比如做一些交易api自动化\n\n评论区来补充一下？抽个人送kfc",
+      "timestamp": "Oct 16, 2024 · 7:09 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1846448404630790555#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1845798653233111295#m",
+      "content": "最近真给我累够呛。。\n\n现在小组内部github组织已陆续上传项目脚本和轮子\n经过Chenxi一个月的努力，带会好多代码小白独立完成了rpa ui自动化脚本的开发\n后面会搞一套web3实用工具系列代码和框架出来，小组的兄弟都免费用，不用重复造！\n\n另外，最近可能是这价格加入的最后机会🤫\n好的内容需要用心打磨！",
+      "timestamp": "Oct 14, 2024 · 12:07 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1845798653233111295#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1845115296945930537#m",
+      "content": "技术是翻身和加杠杆最简单的机会！实在太通用了！\n\n9月初开始学的小伙伴都已经开始做项目脚本了～\n我坚持用具有性价比的价格做更丰富的内容，已有成效，大家能省去大量踩坑和浪费的无效时间成本。\n0基础跟着学，一定可以学会！\n\n熊市沉淀，牛市起飞\n看图👇👇👇",
+      "timestamp": "Oct 12, 2024 · 2:52 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1845115296945930537#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1844038459633324530#m",
+      "content": "很多小组的朋友还有一些0基础的小伙伴 从python安装环境到搞定了ui rpa自动交互，仅仅耗时一个月！很棒🎉\n\n小姐姐非常优秀@Carolinxin 希望大家多多交流！！\n\n马上开始git代码共享、接口实战和合约调用、linux等内容。\n我希望与大家并肩作战，做一个强大的具备技术和投研能力的社区！！\n\n也欢迎新人加入我们！代码0基础小白也能学。可以进我首页tg群看置顶私聊我。",
+      "timestamp": "Oct 9, 2024 · 3:33 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1844038459633324530#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1842240606980243908#m",
+      "content": "又老一岁🎂\n\n须知少时凌云志\n曾许人间第一流",
+      "timestamp": "Oct 4, 2024 · 4:29 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1842240606980243908#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1840337678879031661#m",
+      "content": "Chenxi的《从0成为科学家》小组课从9月初开始  \n\n和大家一起从安装python环境HelloWorld，到现在已经迎来了ui自动化RPA脚本的实战特别篇  \n\n学习时长不限，大概2-3月，搞定ui自动化，接口自动化，简单逆向，web3合约调用，linux和shell基础。\n\n一起在git贡献项目代码，从此投研项目，奥德赛等签到任务、ton链小游戏脚本、节点部署不求人 \n\n熊市沉淀，牛市起飞。\n技术不局限撸毛的脚本，是打开更宽视野的一种方式。",
+      "timestamp": "Sep 29, 2024 · 10:27 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1840337678879031661#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1838944204363620551#m",
+      "content": "很多人觉得从0成为科学家不可能???\n\n或者觉得我在吹牛逼？？\n\n这确实困难，但是不到20天，很多0基础朋友把python基础和html、接口、json、助记词三方库都搞定了，都能生成钱包自动导入指纹浏览器了\n\n接下来开始实战！\n\n欢迎加入我们！只要会撸毛和基本电脑操作，0基础也ok！视频+1v1答疑+练习，跟着练肯定能学会。\n\n群内很多大佬，后期会一起分享alpha机会，一起在git组织私有仓库上传项目代码！\n\n1+1 = n！一人一个项目一个脚本，把项目撸遍！",
+      "timestamp": "Sep 25, 2024 · 2:10 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1838944204363620551#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1837897106897703072#m",
+      "content": "最近只希望把事做好，把课做好。\n\n感谢当初的信任。\n\n第四课结束看到好多朋友发了脚本演示视频，真的还挺开心的。\n\n很期待后面的课程内容，尽力呈现最简单最方便大家理解的内容，节省时间，快速上手！\n\n一个人的力量是渺小的，也很期待以后小组一起做github组织贡献代码时候的样子。\n终于在互联网上留下了一些脚印。",
+      "timestamp": "Sep 22, 2024 · 4:49 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1837897106897703072#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1837497668840706083#m",
+      "content": "小姐姐四节小组课的学习成果！！！\n\n要准备精简全是干货且适合小白的内容很累，但是看到你们都有收获真的很开心。\n\n后面还会有接口逆向、web3库、linux内容\n学完之后写个测试网节点一键启动脚本、ton链小游戏脚本、测试网ui脚本没问题！\n\n（不要再问小白能不能学了，很多都是0基础的朋友，只要你会手动撸毛跟着练就能学会！）",
+      "timestamp": "Sep 21, 2024 · 2:22 PM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1837497668840706083#m",
+      "author": "CMhOeNnExY"
+    },
+    {
+      "id": "1837439875513233706#m",
+      "content": "加入我们！！t.me/+TAKVKFuKrJNmODA1\n大群置顶内容！！",
+      "timestamp": "Sep 21, 2024 · 10:32 AM UTC",
+      "url": "https://twitter.com/CMhOeNnExY/status/1837439875513233706#m",
+      "author": "CMhOeNnExY"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T01:18:58.518Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 25872,
+    "cursorTrail": [
+      "DAAHCgABG3vy7Br__-gLAAIAAAATMTk0NzE5NDAyMDEyOTkwMzAzNggAAwAAAAIAAA",
+      "DAAHCgABG3vy7Br__9QLAAIAAAATMTk0NDAyOTU5MzIyNjM5MjA1MggAAwAAAAIAAA",
+      "DAAHCgABG3vy7Br__78LAAIAAAATMTk0MjUzMjI1MDE0MDM5MzcwMggAAwAAAAIAAA",
+      "DAAHCgABG3vy7Br__6kLAAIAAAATMTk0MDc0MTg0MDUzMTMzNzY3OQgAAwAAAAIAAA",
+      "DAAHCgABG3vy7Br__5QLAAIAAAATMTkzNzc2NTk0ODQ4NjAxNzE0NQgAAwAAAAIAAA",
+      "DAAHCgABG3vy7Br__4ALAAIAAAATMTkwODUxODUzNDQxNTg4NDc4NwgAAwAAAAIAAA",
+      "DAAHCgABG3vy7Br__20LAAIAAAATMTg5NzY3MTA5OTkzODQ0MzQzMggAAwAAAAIAAA",
+      "DAAHCgABG3vy7Br__1wLAAIAAAATMTg5MjczMzkyNzc0OTc3OTgwOAgAAwAAAAIAAA",
+      "DAAHCgABG3vy7Br__0wLAAIAAAATMTg3ODM2MzU3OTg1NjE3NTE2MAgAAwAAAAIAAA",
+      "DAAHCgABG3vy7Br__zkLAAIAAAATMTg1MjkzMzAxMjAwNDE3NjAyOAgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1446489618208067586",
+    "screen_name": "JupiterExchange",
+    "name": "Jupiter (🐱, 🐐)",
+    "description": "Just use Defi. Just use Jupiter: https://t.co/bupt7qjJfe",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1944921381168099328/mVkHxhxy_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1446489618208067586/1738250780",
+    "followers_count": 598252,
+    "friends_count": 951,
+    "statuses_count": 10319,
+    "favourites_count": 16721,
+    "listed_count": 3035,
+    "location": "Jupiverse",
+    "website": "https://t.co/NplvWQoJ42",
+    "birthdate": null,
+    "verified_type": "Business",
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "can_dm": false,
+    "protected": false,
+    "created_at": "2021-10-08 22:56:57 +08:00",
+    "url": "https://twitter.com/JupiterExchange",
+    "rest_id": "1446489618208067586"
+  },
+  "tweets": [
+    {
+      "id": "1979219028112740751#m",
+      "content": "Introducing Ultra V3 – the most advanced end to end trading engine ever created.\n\nIt delivers what traders want most:\n\n- Best Price: Meta aggregation which includes Iris, our new router\n- Best Execution: ShadowLane for optimal private txn landing & Predictive Execution for best-in-class execution\n- Best Protection: Sandwich protection & advanced slippage estimation\n\nAnd it drives real results:\n\n- 34x better sandwich protection\n- Industry-leading performance (+0.6 bps positive slippage vs. -1bps to -14bps negative slippage from other platforms over a 7-day vol-weighted analysis)\n- 8-10x lower execution fees\n\nUltra v3 is seamlessly integrated across all Jupiter products, including Mobile, Web, Desktop, our API, and Pro Tools.\n\nThat’s not all – it also has enhanced Gasless Support, Ultra Signaling, JIT market revivals, and more 👇",
+      "timestamp": "Oct 17, 2025 · 4:12 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979219028112740751#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1980329604591284463#m",
+      "content": "Jup Mobile fucks. Ultra V3 fucks harder.\n\nExperience world-class trading speed, 34x stronger sandwich protection, and the best executions.\n\nFully auto-configured. You pick, it perfects. And still, 10x lower fees.\n\nTrade with Ultra V3 on Jup Mobile ⚡️",
+      "timestamp": "Oct 20, 2025 · 5:45 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1980329604591284463#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1980318654932881898#m",
+      "content": "A deep dive on Ultra v3 is now LIVE on the official Jupiter Blog.\n\nRead more about the key features that set Ultra apart as the most advanced end-to-end trading engine ever created: \n\ndev.jup.ag/blog/ultra-v3",
+      "timestamp": "Oct 20, 2025 · 5:02 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1980318654932881898#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1980295540106793031#m",
+      "content": "🎓 Jupiter College Apeathon 2025 🎓\n\nThe largest crypto trading competition will be taking place right here on @JupPro ⚡️\n\nWatch the top college trading teams from around the globe, battle it out in the trenches for 20,000 USDC in prizes.\n\n🧵 (1/5)",
+      "timestamp": "Oct 20, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1980295540106793031#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1980288870840480025#m",
+      "content": "We had over 1,000 applications in 24 hours, now we’re looking for creators with real skill, reach, and passion for Jupiter.\n\nTo prove you’ve got what it takes, enter our $10,000 content challenge around the Ultra V3 launch.\n\nThe top 10 creators will split 10,000 USDC, and the best will join Uplink Satellites.",
+      "timestamp": "Oct 20, 2025 · 3:03 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1980288870840480025#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1980209578416697682#m",
+      "content": "Trade perps: jup.ag/perps/",
+      "timestamp": "Oct 20, 2025 · 9:48 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1980209578416697682#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1980209574742245612#m",
+      "content": "Jupiter Perps now have even lower fees!\n\nPreviously, our Additive Price Impact Fee applied to all trades when the open interest was heavily skewed in one direction. For example, when there were significantly more shorts than longs.\n\nThis was designed to help protect JLP from risk.\n\nGoing forward, this fee will no longer apply to trades that improve the imbalance — such as by opening a long when the open interest is skewed towards shorts, and vice versa.",
+      "timestamp": "Oct 20, 2025 · 9:48 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1980209574742245612#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1980136541008822511#m",
+      "content": "Want to learn more about our LST and the benefits of staking with Jupiter?\n\nKeep Reading:",
+      "timestamp": "Oct 20, 2025 · 4:58 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1980136541008822511#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1980134074841976860#m",
+      "content": "BREAKING: Jupiter is now the 2nd largest validator on @solana",
+      "timestamp": "Oct 20, 2025 · 4:48 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1980134074841976860#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979091283122471418#m",
+      "content": "🪂 The Meteora Airdrop Checker is now LIVE in Jup Portfolio!\n\nScan your wallets to check your eligibility for the upcoming @MeteoraAG airdrop on October 23rd",
+      "timestamp": "Oct 17, 2025 · 7:45 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979091283122471418#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979237584418078943#m",
+      "content": "Jupiter to [jupiter emoji]",
+      "timestamp": "Oct 17, 2025 · 5:26 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979237584418078943#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979488662669648155#m",
+      "content": "Our core business is on-chain capital formation and reward distribution from real-world sales. \n\nIt's swap-heavy work by design. Props to @JupiterExchange for raising the bar and tightening our opex. \n\nUnthinkable to build on any other ecosystem rn.",
+      "timestamp": "Oct 18, 2025 · 10:04 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979488662669648155#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979588659189014761#m",
+      "content": "YOUR TRADE YOUR BUSINESS\n\nHow Ultra v3 keeps it that way 👇🏻",
+      "timestamp": "Oct 18, 2025 · 4:41 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979588659189014761#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979597652363759949#m",
+      "content": "Ultra v3 was designed to deliver what traders actually need and want the most. Best Price. Best Protection. Best Execution.\n\nIt’s Ultra szn.",
+      "timestamp": "Oct 18, 2025 · 5:17 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979597652363759949#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979496592315920807#m",
+      "content": "Out here building gud tek for gud people",
+      "timestamp": "Oct 18, 2025 · 10:35 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979496592315920807#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979481990572224944#m",
+      "content": "Jupiter Ultra V3 🌐\n\nI usually don’t dont do this but… today I gotta put you all on game. \n\nDon’t matter if you new to crypto, in the trenches or building DeFi infra you MUST READ this!\n\nUltra V3 is harder, better, faster, stronger ok we get it but WHY?\n\nFirst off, WHY is it faster? \nUltra V3 got this beast called ShadowLane, an in house transaction engine that's like a ninja for landing your trades. No more pinging random RPCs or waiting on public relays that slow everything down. It uses real time data streams (think sub second precision) and smart priority fees to bundle and blast your txns straight to validators. Result? Trades land in 0-1 blocks (50-400ms latency), vs. the old 1-3 blocks. 95% of swaps under 2 seconds. It's like upgrading from dial up to fiber your swaps zip through without the latency.\n\nBetter execution? FUCK YEA but WHY?\nThey layered in Predictive Execution, which simulates your trade on-chain in real time before sending it (using stuff like Exponential Moving Average on historical data). It predicts slippage and tweaks on the fly for the best price. Plus, meta aggregation pulls from Jupiter's new Iris router (smarter than their old Metis) and tons of liquidity sources, auto sideline crappy ones via self learning. Oh, and Real Time Slippage Estimator (RTSE) dynamically sets your max slippage based on token vibes, market chaos, and failure rates. Over 7 days of vol weighted data, it's netting +0.6 bps positive slippage while competitors are bleeding -1 to -14 bps. Your trades actually hit better prices, not worse.\n\nSafer + more privacy, thanks to ShadowLane: \nThis is the star. It's fully private no selling your order flow to shady MEV bots or third party relays. Everything stays in house. Jupiter handles the whole txn lifecycle with encrypted bundles and direct validator handoffs. No exposure to front running creeps. It's got built in token shields too (scans for rugs/malicious code). Feels like trading in a vault 😏 I've had zero weird fails since testing it.\n\nDon’t get Sandwiched (on-chain): \nSandwich attacks suck bro 😭bots front run your buy, pump the price, then dump after. Ultra V3 crushes this with 34x better protection (per their data vs. top terminals). HOW? By keeping execution 100% internal. No external providers get a peek, so no MEV searchers can snipe you. ShadowLanes private landing + Predictive sims make it near impossible for sandwiches to sneak in. Sandwiched .me \nstats back it! Lowest value extracted per volume on Solana. Your $10k swap won't get eaten alive anymore.\n\n8-10x lower fees (gasless swaps where possible, JIT revivals for dead markets), and it's plug & play across web,mobile,desktop and API. No config BS.\n\nAt the end of the day THERE IS NOTHING LIKE ULTRA V3 ANYWHERE 🫵🪐\n\nJust use Jupiter.",
+      "timestamp": "Oct 18, 2025 · 9:37 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979481990572224944#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979475652098277613#m",
+      "content": "just use jupiter",
+      "timestamp": "Oct 18, 2025 · 9:12 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979475652098277613#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979238591994720496#m",
+      "content": "just use jupiter.",
+      "timestamp": "Oct 17, 2025 · 5:30 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979238591994720496#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979441693578420691#m",
+      "content": "here's a painful truth:\n\nyou can't trust all the quotes you see on other platforms.\n\nit's not their fault - simulating routes is great (we do it too!)\n\nbut there's often a lag between when you see that quote and when your trade executes.\n\nwhich means you get less in your wallet than what you saw on the quoting screen.\n\nthat's why Predictive Execution is a *big* deal. by using mountains of data, Ultra v3 can peek into the future and optimize for your actual execution price \n\nonly on jupiter",
+      "timestamp": "Oct 18, 2025 · 6:57 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979441693578420691#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979246130677362910#m",
+      "content": "One of the good things about this slow market - real tech news can finally get their well deserved spotlight.\n\nJust look at Jupiter news:\n\nNew MEVs protection (sandwich)\nMuch faster execution \nLOWER fees\nAnd overall smoother experience.\n\nWin for the traders - MORE OF THAT please while the market is slow.\n\nNow is the time to build, improve the products and get new clients in.\n\nThat's the way to shine in the bull.",
+      "timestamp": "Oct 17, 2025 · 6:00 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979246130677362910#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979227313989414982#m",
+      "content": "Jupiter was the best swap on Solana - your go-to place for any token pairs. But with the newest V3 update it also became the best trading platform too - with peak speed, accuracy & privacy. \n\n Most accurate quotes, reduced chance of getting MEVd by 82x, new cool “token revival” feature & new pricing efficiency that’s 10x cheaper than competitors make it a one-in-all DeFi tool for any $SOL trading activity\n\nI personally use Jup for all token swaps on SOL, now being able to do so even faster than ever before, with better rates, securely and at a fraction of the cost compared to their competitors.",
+      "timestamp": "Oct 17, 2025 · 4:45 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979227313989414982#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979389479279640967#m",
+      "content": "Jupiter推出了Ultra V3交易引擎，更优的价格，更好的防夹效果，更快的交易确认速度，还包括无Gas交易等实用功能。\n\n除了少数非常依赖速度的PVP场景，SOL的大部分交易一直以来我都是用Jup完成的，首先可以节省手续费，其次大额买卖的时候，聚合器跨路由的特性，相比单池子的路由，价格会好不少，而且成交速度其实也非常快。\n\n和 @weremeow 交流过几次，能感受到他对行业的理解力和雄心，Jup团队也是币圈少有的能做出大家真正都在使用的产品的团队了，必须支持。",
+      "timestamp": "Oct 18, 2025 · 3:30 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979389479279640967#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979406534745690479#m",
+      "content": "Did we mention that you can use the same infra that powers Jupiter in your own dApp?\n\nUltra Api lets you leverage our world-class trading engine to give your users the best price, best execution, and best protection.\n\nNo RPCs needed. We handle everything for you.",
+      "timestamp": "Oct 18, 2025 · 4:37 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979406534745690479#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979229804319678853#m",
+      "content": "I recently had the opportunity to do an implementation using Jup Ultra.  The devex is super smooth and the transactions are fast.  I tried beating it up and couldn't break it.  \n\nVery impressive.",
+      "timestamp": "Oct 17, 2025 · 4:55 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979229804319678853#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979388281923191088#m",
+      "content": "team cooked super hard on key innovations like shadowlane txn engine, predictive execution and brand new iris router to make this revolutionary new engine possible.\n\neven more importantly, these work across all pairs, sizes, scenarios, execution scenarios and across all levels of user expertise,\n\njust use jupiter!",
+      "timestamp": "Oct 18, 2025 · 3:25 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979388281923191088#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979352825634394148#m",
+      "content": "Is it just me, or does Jupiter wake up every market day with another banger update?\n\nUltra v3 just launched redefining your user onchain experience, offering low-cost, gas-free trading & is up to 10X CHEAPER than competitors 🤯\n\nJust use Jupiter guys.",
+      "timestamp": "Oct 18, 2025 · 1:04 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979352825634394148#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979246867700683024#m",
+      "content": "Ultra (V3) is to Jupiter what the chip (M5) is to Apple - The best-in-class engine that perpetually evolves",
+      "timestamp": "Oct 17, 2025 · 6:03 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979246867700683024#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979262649998414235#m",
+      "content": "Crafting the perfect swap isn't a one and done.\n\nIt involves an incredible number of factors to get right and constant iteration and innovation.\n\nIt's an honor to receive a testament like this that acknowledges the tireless work put in by our engineering team.",
+      "timestamp": "Oct 17, 2025 · 7:06 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979262649998414235#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979261556379811982#m",
+      "content": "We're not satisfied with anything less than creating the perfect trading experience for our users.\n\nIt's what we've dedicated so much of our time, energy, and expertise towards\n\nAnd Ultra v3 is the pinnacle of this ambition.",
+      "timestamp": "Oct 17, 2025 · 7:01 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979261556379811982#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979222394586780038#m",
+      "content": "10x lower fees and 34x better sandwich protection\n\nThis new update to Jupiter makes their trading another levels up trading for everyone \n\nJust use Jupiter > your current trading app",
+      "timestamp": "Oct 17, 2025 · 4:26 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979222394586780038#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979255887220080789#m",
+      "content": "We do it for a love of the game",
+      "timestamp": "Oct 17, 2025 · 6:39 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979255887220080789#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979254319972257906#m",
+      "content": "Say it louder\n\nthe quote is only as good as the price that executes",
+      "timestamp": "Oct 17, 2025 · 6:32 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979254319972257906#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979240580686450944#m",
+      "content": "Actually insanely underrated results \n\n30x+ better sandwich protection and 10x execution lower fees is very impressive\n\nIts quite hard to achieve a positive bps for slippage and to achieve over .5 bps is amazing 👏\n\nv3 🫡🫡",
+      "timestamp": "Oct 17, 2025 · 5:38 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979240580686450944#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979219052938604938#m",
+      "content": "Ultra v3 Is Built for YOU.\n\nUse easily: Zero config or adjustments needed for the best execution.\n\nUse without worries: Lowest fees possible, best protection, best-in-class transaction landing, unmatched customer service.\n\nUse seamlessly: Alongside our other world-class Pro tools like Terminal, Screener, Analytics.\n\nUse natively: Available on Mobile, Web, API, and Desktop.\n\nAnd of course, made with love by the hardest-working team striving to perfect your experience.\n\nJust use Jupiter.",
+      "timestamp": "Oct 17, 2025 · 4:12 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979219052938604938#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979219051176964606#m",
+      "content": "Legacy Jupiter Swap\n\nAs part of this upgrade, moving forward we will be focusing our efforts on the ongoing development and improvement of Ultra v3 with our new router, Iris. We are also rolling out the Ultra API to allow our partners to utilize the best-in-class routing/transaction landing infra behind Ultra v3.\n\nCurrently, many meta routers and many others are still using our sunsetted Jupiter Legacy API (Metis). We will be working with them to upgrade their routing to adopt the new Ultra API.\n\nIf you are using Jupiter Legacy API in your app, please correctly label to avoid misleading your users that this is the best price from Jupiter. In particular, certain apps are using the free binary, which is deprecated and we have no control over the results, and it is very discouraging to see certain platforms abuse something that we have offered to the ecosystem for free for years.",
+      "timestamp": "Oct 17, 2025 · 4:12 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979219051176964606#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979219048417095754#m",
+      "content": "Use Seamlessly With Pro Tools & Offerings\n\nBuilt for Power Users – Ultra v3 is seamlessly integrated into every Pro tool:\n\n- Terminal: a command center for token metrics\n- Screener for market discovery\n- Portfolio + PnL for total visibility\n- Alphascan for trending tokens + insights\n- Analytics for data on transactions and traders\n\nEvery chart, every route, every trade – now fueled by Ultra precision.",
+      "timestamp": "Oct 17, 2025 · 4:12 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979219048417095754#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979219046605193471#m",
+      "content": "Use Natively Across Web, Mobile & Desktop Wallet\n\nJupiter has 3 world class surfaces that our users love:\n\n- Web: our full suite of Jupiter products including Portfolio, Swap, Pro, Perps, Lend, and more - giving you the most comprehensive DeFi experience and tools with best-in-class execution + protection, lowest fees, and smoothest design and UX\n- Jupiter Mobile: 10x cheaper, 10x faster, 10x sexier – the best mobile trading experience (including native portfolio in a wallet and the sleekest UX), full PnL analysis, and easiest way to send and receive tokens or onboard anyone with just a link or QR\n- Jupiter Wallet for Desktop: the most advanced Solana wallet as a desktop browser extension with gasless trading, deep integration with Jupiter products, PnL analysis, 10x lower fees than any other wallet - and synced with your Mobile wallet\n\nUltra v3 powers all these interfaces: Seamless. Consistent. Advanced.\n\nUltra execution, everywhere.",
+      "timestamp": "Oct 17, 2025 · 4:12 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979219046605193471#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979219044482855419#m",
+      "content": "Just-In-Time Market Revival\n\nUltra v3 achieves what other legacy routers cannot. It routes every token on Solana – even the dead and forgotten ones.\n\n- No minimum liquidity threshold\n- Supports old, inactive markets\n- Dynamically re-indexes on demand\n\nClose old positions, dump forgotten bags, trade everything.\n\nComplete coverage of the entire Solana ecosystem – exclusively on Ultra.",
+      "timestamp": "Oct 17, 2025 · 4:12 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979219044482855419#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979219042683752552#m",
+      "content": "Enhanced Gasless Support\n\nGasless Support, our just-in-time fee payer, allows you to trade without needing to hold SOL for gas fees.\n\nSo long as one token has a qualifying value during a trade, Ultra will compute the gas from your transaction, and pay for it with your swap.\n\nAnd now in v3 we have enhanced our Gasless Support, including expanded support (Token-2022 and memecoin-memecoin pairs), as well as lower minimum trade size (~$10).\n\nNow everyone with any asset in their wallet can make a trade.",
+      "timestamp": "Oct 17, 2025 · 4:12 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979219042683752552#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979219040683110906#m",
+      "content": "RTSE – Real-Time Slippage Estimator\n\nKnowing what slippage to set is always very difficult given volatile tokens, stablecoins, big caps, and different execution scenarios.\n\nThis is a challenge not just for new DeFi users, but for experienced traders as well.\n\nRTSE is our ongoing effort to solve this problem & uses important data points such as volume and transactions to improve outcomes. For v3 we have made a number of major changes, including:\n\n- Reduced RTSE slippage set while maintaining high success rates\n- Automatic prioritization of slippage-protected routes over purely price-optimized routes\n- Increased volatility sensitivity for tokens with high historical volatility patterns\n\nFor volatile tokens in particular, Ultra’s RTSE tightens the acceptable price range just enough to allow your swap to go through without overpaying for slippage.",
+      "timestamp": "Oct 17, 2025 · 4:12 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979219040683110906#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979219038514614312#m",
+      "content": "Best-in-Class MEV Protection – 34x Better Than Top Trading Terminals\n\nOther providers increase your risk of being sandwiched by selling your order flow to third-party MEV searchers.\n\nUltra v3 does the opposite – it minimizes your exposure to toxic MEV by ensuring your trades are never handed off to any external provider for on-chain execution.\n\nAnd while the risk isn’t zero (since validators still broadcast to the chain’s leaders), Ultra brings it as close to zero as possible.\n\nSafe. Private. Built Differently.",
+      "timestamp": "Oct 17, 2025 · 4:12 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979219038514614312#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979219036488478812#m",
+      "content": "ShadowLane – Elite In-House Transaction Landing Engine\n\nOur entirely brand new in-house transaction landing engine, ShadowLane, is built for sub-second precision and for incredible real-time data, as well as execution.\n\n- Private by design – no external relays, no order-flow sales.\n- 3x more trades landed than alternative premium methods.\n- Landing latency reduced – down from 1–3 blocks (400ms–1.2s) to 0–1 block (50–400ms).\n\nMassive effort from our newly formed RPC team led by @italoacasas with contributors to Yellowstone-gRPC, NFT DAS API, Lite-RPC, Agave, and more.\n\nThere will be so much more coming from this elite team, with work that will directly benefit the broader Solana ecosystem, stay tuned!",
+      "timestamp": "Oct 17, 2025 · 4:12 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979219036488478812#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979219034714312821#m",
+      "content": "Ultra Signaling: Even better pricing for Ultra Users\n\nProp AMMs are a big deal recently because they can quote very tightly on-chain for users.\n\nBut they have to play defense with toxic traders like arb bots, toxic takers, etc. So, when quoting on-chain, they have to be careful to not quote too tightly (better price) to prevent being abused by these toxic traders.\n\nUltra Signaling is built directly on-chain on our Jupiter Aggregator contract to detect non-toxic flow on-chain. One of the Prop AMMs we are working with is now quoting 3 bps tighter (50% better) for our Ultra users with this signal.",
+      "timestamp": "Oct 17, 2025 · 4:12 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979219034714312821#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979219032910827798#m",
+      "content": "Predictive Execution: Smart Route Prioritization For Superior Execution\n\nOptimized for execution and slippage – not quote-optimized illusions.\n\nMost platforms “catfish” you with prices that don’t reflect the on-chain reality, or worse yet, mislead you into thinking they are showing the best price from Jupiter.\n\nPredictive Execution goes beyond just simulating routes. It accurately predicts potential slippage, intelligently prioritizes routes, and ultimately gives you the best possible outcome and price at the point of execution, not just at the point of quotation.\n\nOn top of that, Predictive Execution performs just in-time simulations for every route, uses signaling to help Prop AMMs to quote tighter for non-toxic flow versus toxic flow – allowing Jupiter Ultra users to get better pricing.\n\nWith this, quotes reflect actual likely on-chain execution, not theoretical best-case scenarios. No inflated “best prices” or tricks to delude.\n\nPredictive Execution also includes RTSE, the most advanced slippage estimator in DeFi, worked on for over 2 years.\n\nWhat you see is what you get. Every swap lands exactly as promised. Executed in the best way possible, at the best price, every time.",
+      "timestamp": "Oct 17, 2025 · 4:12 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979219032910827798#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979219030864191732#m",
+      "content": "Meta Aggregation with the New Iris Router (Exclusive to Ultra)\n\nUltra uses meta aggregation between Iris, JupiterZ, DFlow, Hashflow, and OKX to find you the best pricing from various routers.\n\nIris, only available on Ultra, is our new router after sunsetting Metis. Iris allows better splitting (up to 0.01%) and utilizes better routing algorithms like Golden-section and Brent’s method. We are seeing 100x performance improvements with the new routing algorithms.\n\nJupiterZ is our own RFQ system, which facilitates ~$100M daily volume with zero slippage – exclusively available via Ultra v3.\n\nWith these, you get the best price possible, every time.",
+      "timestamp": "Oct 17, 2025 · 4:12 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979219030864191732#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979142039121101209#m",
+      "content": "Optimising our swap engine has been a daily obsession for our team. \n\nJupiter Ultra is the most advanced it has ever been and v3 is right around the corner.\n\n$23B of volume in the past week and trending 🆙🆙🆙",
+      "timestamp": "Oct 17, 2025 · 11:06 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979142039121101209#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979088383516270667#m",
+      "content": "Exclusive Jupiter x Meteora LIVE Q&A w/@0xSoju & @memecoinassasin\n\nJoin us just one day before official MET launch to learn about:\n\n- $MET TGE Details\n- LP Strategies\n- Liquidity Provisions\n- Future of Meteora\n\nTune-in WEDNESDAY! Set your reminder below👇\nlocalhost:8080/i/spaces/1BRJjgjPyNRxw",
+      "timestamp": "Oct 17, 2025 · 7:33 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979088383516270667#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978906502799769960#m",
+      "content": "JUP by @JupiterExchange\n\nNow trading on Gemini 🎉\n\nDeposits and withdrawals enabled ✅\n\nBuy, sell, and store today: gemini.com/prices/jupiter",
+      "timestamp": "Oct 16, 2025 · 7:30 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978906502799769960#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979006003434705141#m",
+      "content": "Slowly, then all at once",
+      "timestamp": "Oct 17, 2025 · 2:06 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979006003434705141#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979014462817313006#m",
+      "content": "Uniswap is our first major partner using the new Ultra API to power their swaps.",
+      "timestamp": "Oct 17, 2025 · 2:39 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979014462817313006#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1979007346018832892#m",
+      "content": "We’re pumped to power @solana swaps in the @Uniswap Web App with Jupiter Ultra API.\n\nHonored to work with Uniswap's world-class team, including @therealturch and @medhakothari.\n\n@JupiterExchange: the gateway to Solana liquidity.",
+      "timestamp": "Oct 17, 2025 · 2:11 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1979007346018832892#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978854108946673795#m",
+      "content": "x.com/i/article/197860590854…",
+      "timestamp": "Oct 16, 2025 · 4:02 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978854108946673795#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978956979016974582#m",
+      "content": "Yesterday you could check your eligibility.\n\nNow you can check your full $MET allocation on Jupiter Mobile!",
+      "timestamp": "Oct 16, 2025 · 10:51 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978956979016974582#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978900264829800779#m",
+      "content": "This is great, but stay tuned because we have a bigger announcements regarding Jupiter Ultra in the coming days.",
+      "timestamp": "Oct 16, 2025 · 7:06 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978900264829800779#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978897248474812898#m",
+      "content": "You know you're doing something right when the biggest DEX on Ethereum trusts you to power their Solana Swaps.\n\nJust Use Jupiter.",
+      "timestamp": "Oct 16, 2025 · 6:54 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978897248474812898#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978931726870061484#m",
+      "content": "Want to integrate world-class swap infrastructure into your own app?\n\nSimply leverage the power of Jupiter Ultra API, and start building today: dev.jup.ag/docs/ultra/get-st…",
+      "timestamp": "Oct 16, 2025 · 9:11 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978931726870061484#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978923475801710917#m",
+      "content": "Trust me, you'll love it",
+      "timestamp": "Oct 16, 2025 · 8:38 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978923475801710917#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978895107710464180#m",
+      "content": "be like uniswap. \n\njust use jupiter.",
+      "timestamp": "Oct 16, 2025 · 6:45 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978895107710464180#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978915181502603735#m",
+      "content": "And for those of you who love Jupiter Ultra\n\nStay Tuned for what comes next 😉",
+      "timestamp": "Oct 16, 2025 · 8:05 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978915181502603735#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978901075856871717#m",
+      "content": "Want to become a Jupiter Content Creator? 🪐\n\nUplink just released their ambassador program!\n\nSign up now for the chance to become a JUPfluencer\n\nFill out the form NOW (link in comments)",
+      "timestamp": "Oct 16, 2025 · 7:09 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978901075856871717#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978881422854348989#m",
+      "content": "One interface, two stacks.\n\nUniswap + Jupiter Ultra API are bringing Solana swaps to the Uniswap Web App.\n\nSurf through millions of SPL tokens and route across deep liquidity markets with the best optimized trade.",
+      "timestamp": "Oct 16, 2025 · 5:51 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978881422854348989#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978842534450180584#m",
+      "content": "⚽️ Athletes have millions of followers - but they’re not truly connected with them.\n\nNow the game changes. We’re helping athletes build real, transparent connections with their fans through technology.\n\nStarting with one of the world’s best players, our platform lets athletes launch their official digital cards - talent tokens - unlocking exclusive fan perks and access to unique football experiences on @solana.\n\nA new era of decentralized sport begins - built, live, and growing.\n\nThanks to @JupiterExchange, @MeteoraAG, and @moonshot for their incredible support and tech. 🙌",
+      "timestamp": "Oct 16, 2025 · 3:16 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978842534450180584#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978808096576209354#m",
+      "content": "Jup mobile is on another level with shipping products\n\nI think it will be number 1 mobile trading app soon\n\nLets see how it plays out",
+      "timestamp": "Oct 16, 2025 · 12:59 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978808096576209354#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978794527914901671#m",
+      "content": "IT IS HERE! ☄️\n\nYou can now check your $MET allocation by importing your wallet into Jup Mobile.\n\nOh, btw, enjoy:\n\n- lightning fasttttt speed\n\n- saving a lot of money trading 10x lower fees AND 80x better sandwich protection & industry leading slippage estimation\n\n- best in class, private, ultra only txn landing \n\n- discovering money you never knew you had via native portfolio integration \n\n- see where all your money went via PnL tracking in mobile\n\n10x cheaper, faster and more powerful than whatever you are probably using",
+      "timestamp": "Oct 16, 2025 · 12:05 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978794527914901671#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978646873184383480#m",
+      "content": "Want to know if you’re eligible for the $MET LGE? \n\nDownload @jup_mobile , import your wallet, and you can check now.",
+      "timestamp": "Oct 16, 2025 · 2:19 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978646873184383480#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978516755124294048#m",
+      "content": "Unlocking seamless swaps with Turnkey!\n\nWe’ve just made it easier than ever to integrate in-app token swaps via @JupiterExchange and @0xProject, plus cross-chain transfers via @lifiprotocol.\n\nShip swaps in hours, not days. 🧵",
+      "timestamp": "Oct 15, 2025 · 5:42 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978516755124294048#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978664002902249963#m",
+      "content": "Jup Mobile keeps building things that users love.\n\nNow you can check your eligibility for the $MET LGE on the latest version of the app!\n\nAnother reason to Just Use Jup Mobile.",
+      "timestamp": "Oct 16, 2025 · 3:27 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978664002902249963#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978617168183849136#m",
+      "content": "☄️ $MET ELIGIBILITY CHECKER IS LIVE!\n\nImport your wallet into Jupiter Mobile and check your eligibility now⚡️\n\nBecause we always drop the best alpha 👀",
+      "timestamp": "Oct 16, 2025 · 12:21 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978617168183849136#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978555530651062363#m",
+      "content": "Want to know more about JLP Loans?\n\nRead the thread below:",
+      "timestamp": "Oct 15, 2025 · 8:16 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978555530651062363#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978526261908521259#m",
+      "content": "Disclaimer: Trade larger positions with less capital - but remember, higher leverage means higher risk and may not be suitable for, or available to, everyone.",
+      "timestamp": "Oct 15, 2025 · 6:19 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978526261908521259#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978526258888900925#m",
+      "content": "JLP Loans just got better for borrowers!\n\nAfter extensive analysis, we’ve implemented 3 key changes to make JLP Loans even more competitive:\n\n1. Borrow more upfront\n\nMax LTV increased from 83% ⇒ 90%. Take out larger initial loans against your collateral, now up to 90% of its value.\n\n2. More room before liquidations\n\nLiquidation LTV increased from 86% ⇒ 95%. Your position won’t be liquidated until your debt reaches 95% of the value of your collateral. This gives you more breathing room during periods of volatility.\n\n3. Lower liquidation penalties\n\nLiquidation fees reduced from 6% ⇒ 2%. In the event of a liquidation, you’ll pay 67% less.\n\nTaken all together:\n• Larger Loans\n• Higher Liquidation Thresholds\n• Less Liquidation Fees\n\nThe same JLP Loans that you’ve come to love, but improved across every metric.\n\nRead more about it here: discuss.jup.ag/t/adjustment-…",
+      "timestamp": "Oct 15, 2025 · 6:19 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978526258888900925#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978512202773545330#m",
+      "content": "since day one @JupiterExchange has listened closely to its community\n\nnow they are gathering their efforts around $JUP, taking it beyond a mere governance token\n\n3 key shifts mark this new era:\n\n✧ Simplified DAO\n\nno more work groups or politics, only high-impact votes (tokenomics, treasury, key decisions)\n\n✧ Staking Flexibility\n\ncooldown cut from 30 to 7 days, this makes staking more attractive and responsive to holders\n\n✧ Litterbox Burn Vote\n\nDAO to decide on burning 115M+ $JUP (~3.5% supply) and defining future revenue use\n\nso $JUP is now being run like a product, not only a governance token\n\none of Solana's strongest projects just leveled up 👀",
+      "timestamp": "Oct 15, 2025 · 5:24 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978512202773545330#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978493043306307900#m",
+      "content": "3 things are coming to $JUP.\n\n1. we are scaling down the DAO. the DAO will focus on major important decisions moving forward only, tokenomics, for example. no more workgroups. we need to refocus on products and most importantly growth.\n\n2. we are cutting the unstaking window from 30 days to 7 days.\n\n3. we will be voting to burn the current JUP buyback (total over 121m tokens ,~1.7% of the total supply, ~3.8% of circulating supply). for future ongoing 50% revenue buyback, we will discuss on how we should do with it.\n\ni know many JUP holders will have opinions on this but let's discuss and we are doing our best here and we want to show that we are listening.\n\nfeel free to DM and discuss in the replies.",
+      "timestamp": "Oct 15, 2025 · 4:07 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978493043306307900#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978513279711346981#m",
+      "content": "Play to earn x Jupiter? 🎮\n\nJUP Holders can now use their tokens to play over 60 different Jupiter Mini-Games on @ogprotocol\n\nEarn $JUP & $GJUP while having a good time\n\nJust use Jupiter.",
+      "timestamp": "Oct 15, 2025 · 5:28 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978513279711346981#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978493842656538669#m",
+      "content": "Worked on this update for months with @kashdhanda, @alleycatny and many members of the team and community.\n\nFirst of many major platform, product and community updates to kick off the next era of Jupiter.\n\nGame time & god speed!",
+      "timestamp": "Oct 15, 2025 · 4:11 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978493842656538669#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978491694564720942#m",
+      "content": "A Fresh Start for $JUP (Major Changes Coming)\n\nThis one is for the token holders. The ride or dies. The folks who have held through up and down, supporting a project they believe has the ability to change the future of finance.\n\nWe know it hasn’t been easy lately.\n\nBut here’s the good news: we hear you. And we’re moving to make changes inspired by your ideas and our deep reflections on what $JUP should be.\n\nIn classic Jupiter style tho, this is going to be a somewhat long essay. Before we can step into the new future, we must acknowledge the past and clearly articulate how we’re changing our approach going forward.\n\nBut if you read the whole essay, you’ll find 3 major changes that demonstrate how important your feedback has been over the last few weeks/months.\n\n—-\nReflections on $JUP\n\nThe $JUP token was initially aimed to be the lynchpin of the Jupiter DAO. That worked quite well to kick things off.\n\nTogether, we built the largest and most active DAO ever. We regularly had hundreds of thousands of voting wallets, voted on 20+ proposals, and pioneered concepts like Active Staking Rewards before anyone else.\n\nIn a time where it’s rare to see DAO proposals get more than 100 voters, we showed it was possible to build governance that massive numbers of people cared about. We likely experimented the most amongst all the major protocols about what it means to be a community, a DAO and a platform - and we most certainly learnt a ton.\n\nBut there were also problems that only became obvious over time. Specifically:\n\n- Mechanics of governance turned some potential holders away from the token - for example, the frequency of voting and the 30 day lockup.\n\n- We were spending too much time and energy on public comms around the DAO, reducing the amount of attention on the Jupiter product suite and the overall Jupiter mission\n\n- Budgeting votes for Work Groups created a massive divide in the token holder base and drew negative attention to $JUP\n\nAll these, combined, had one MAJOR disadvantage - attention was consistently drawn away from the great work of the team/community towards things that drew the ire of token holders.\n\nFundamentally, the previous setup was not additive to the $JUP token.\n\nTo move forward, we need to keep what was good, and change what was not.\n\n/// Major Change #1: Scaling Back the DAO\nAfter countless conversations with token holders, it’s clear that the Jupiter DAO is an important vehicle.\n\nMany $JUP holders believe deeply in the power of community governance, and are excited to be able to share their opinions and shape the future of Jupiter.\n\nBut these conversations have also made clear that the DAO should be laser-focused on extremely high-leverage actions. The constant flow of votes was a drain on token holder attention, especially when vote subjects felt “small”.\n\nThe other thing was that the votes, a major major driver of community attention, constantly drawn attention to, and vastly\n\nGoing forward, the DAO will have a narrower focus on broad tokenomics decisions and major treasury stewardship items.\n\nThis means no more Work Groups, fewer overall votes, and more focus in our public comms on products and growth.\n\nToken Holders can rest assured the conversation about Jupiter will not be dominated by politics, while still being able to effectively drive decision making around key items that affect our collective future.\n\nWe are also going to be refocusing the community energy away from politics and towards a pro-social core mission - onboarding the world to DeFi - as will be explained in a separate community post by @AlleyCatNY.\n\n/// Major Change #2: Reducing the Unstaking Window\n\nInitially, we created a 30 day lockup on staked tokens. Given that Active Staking Rewards were high and governance votes were very frequent, this made sense to ensure only those who were longer term aligned with the Jupiter mission would be able to participate.\n\nBut now, we stand at a critical juncture. The key is not only to find long-term aligned holders, but to create more of them. And, as we’ve heard from many token holders, the unstaking window of 30 days is too long and turns away potential buyers (particularly large-scale institutional buyers).\n\nTo meet in the middle, we are going to reduce the unstaking period to 7 days without any penalty. This ensures those who are participating in governance are not simply buying/dumping $JUP to cast a vote, while still giving token holders the flexibility they want and need.\n\nThis change should go live in the coming weeks.\n\n/// Major Change #3: Burn the Litterbox (subject to a DAO vote)\n\nFinally, to kick off this new chapter of the DAO, we want to start with a critical vote that has been the subject of MANY conversations with token holders: the Litterbox Trust.\n\nThe Litterbox Trust receives 50% of protocol revenues from Jupiter and uses those revenues to accumulate $JUP from the open market.\n\nIt currently holds over 121m tokens (~1.7% of the total supply, ~3.8% of circulating supply), and grows every hour.\n\nThe original plan was to hold a DAO vote after 2 years to decide what to do with the accumulated tokens. But we’ve heard two different critiques.\n\nFirst, some token holders have suggested that holding a large amount of $JUP without clarity on how the tokens will be used is creating uncertainty. By far the most common suggested solution is to “burn” these tokens.\n\nSecond, some token holders have suggested that the buybacks themselves are not particularly effective. The solutions for this are more varied - some want continuous burns, some want increased investment in product growth, and some want other use cases of the revenue.\n\nDeciding what to do with 1) the current $JUP holdings and 2) the ongoing revenues are both massive decisions. They are the perfect example of the types of decisions that the DAO can and should have active input on.\n\nStarting today, we’ll hold a period of public discussion on the first question (Burning the Litterbox). This will continue for ~10 days, with a formal vote to Burn the Litterbox’s existing holdings shortly thereafter.\n\nAfter that, we will have a separate conversation about whether the $JUP Accumulation Plan should be continued, or if there are much better uses for the revenue.\n\nIf you’re a token holder, now is the time to make your opinion known, and to get involved again in meaningful governance!\n\n–\n\nAll three of these changes are concrete and tangible, but I want to also point out a more philosophical change that’s taken place within the team.\n\nFor a long time, we didn’t give JUP the type of attention we give to our products. Each product has a clear value proposition, a marketing plan, iterative improvement process, etc.\n\nAnd for a long time, JUP didn’t have this. We expected the market to understand the value of JUP based on the strength of our products, community, and vision. That was a mistake. And one that we are already in the process of fixing.\n\nGoing forward, we’re going to give JUP the attention it deserves.\n\nWe need to be incredibly vocal about the Jupiter story, about the JUP story, and about the story of DeFi going forward.\n\nAnd we’re going to be having more conversations in public about other long term use cases for JUP that will integrate into the future of Jupiter platforms.\n\nSo here’s my free advice - if you’re tired of seeing talk of Jupiter, switch to Bluesky 😉",
+      "timestamp": "Oct 15, 2025 · 4:02 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978491694564720942#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978483438295671174#m",
+      "content": "$JUP Updates, $MET TGE, OGP, and More | Planetary Call #58 localhost:8080/i/broadcasts/1djGXWwqj…",
+      "timestamp": "Oct 15, 2025 · 3:29 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978483438295671174#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978258002248364225#m",
+      "content": "Planetary Call 58 🪐 \n\n$JUP Updates, $MET TGE, OGP, and More\n\n⏰ 3:30pm UTC\n🗓️ Weds, October 15th\n📍 YouTube & X \n \nHosted by the one and only @kashdhanda",
+      "timestamp": "Oct 15, 2025 · 12:33 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978258002248364225#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978160219768467960#m",
+      "content": "x.com/i/article/197813898421…",
+      "timestamp": "Oct 14, 2025 · 6:05 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978160219768467960#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978173520296423479#m",
+      "content": "🚨 BREAKING: @JupiterExchange just unveiled Jupnet - the foundation of its new Omnichain Liquidity Network. 🪐\n\nA massive step toward building Internet Capital Markets.\n\nThis changes everything...",
+      "timestamp": "Oct 14, 2025 · 6:58 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978173520296423479#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978136717916819623#m",
+      "content": "🪂 KYROS Airdrop Checker is now live in Jup Portfolio\n\nScan your wallets to check your eligibility for the @KyrosFi airdrop and over a dozen others!",
+      "timestamp": "Oct 14, 2025 · 4:32 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978136717916819623#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978163308596256999#m",
+      "content": "We are proud to release the first article in a long series talking through the design philosophy of Jupnet.\n\nFor the initial piece, we discuss JupVM and an overview of its unique capabilities.",
+      "timestamp": "Oct 14, 2025 · 6:17 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978163308596256999#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1978144434379489674#m",
+      "content": "PENGU x Jupiter Mobile takeover \n\nWe’re market-buying up to $115k of $PENGU 🐧\n\nThe first 200 $PENGU holders in the top 500 to import their wallet into Jup Mobile will receive $500 in $PENGU directly to their wallet.\n\nPlus, every $PENGU holder who imports their wallet gets 1 month of full fee rebates aka 0 fees for every trade, and enters into the $15k $PENGU raffle.",
+      "timestamp": "Oct 14, 2025 · 5:02 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1978144434379489674#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1977904483880603962#m",
+      "content": "Your feedback has been heard.\n\nThe perps team is now researching more pairs.\n\nGreat work to Burst for sourcing the community's sentiment, and thank you all for making Jupiter better.",
+      "timestamp": "Oct 14, 2025 · 1:09 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1977904483880603962#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1977810443025711420#m",
+      "content": "And for anyone who wants to read the launch thread for more information:",
+      "timestamp": "Oct 13, 2025 · 6:55 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1977810443025711420#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1977803201077452809#m",
+      "content": "Jupiter Wallet has hit 10,000 users on Desktop!\n\nThanks to your feedback, we've begun making several key UX improvements.\n\nHave any additional suggestions? \n\nReach out to @jup_burst or @AaronCQL with what you'd like to see next.",
+      "timestamp": "Oct 13, 2025 · 6:26 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1977803201077452809#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1977592611130237006#m",
+      "content": "Radar is the most powerful trading notification tool ever built by a wallet.\n\nNo more chasing updates across X and Discord. Instead, Radar sends you timely alerts in a single unified feed:\n• New Airdrops\n• Open Positions\n• Protocol Updates\n\nFully customizable and relevant to you.",
+      "timestamp": "Oct 13, 2025 · 4:29 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1977592611130237006#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1977537835004723528#m",
+      "content": "Jup Mobile never stops shipping, even on a Sunday",
+      "timestamp": "Oct 13, 2025 · 12:52 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1977537835004723528#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1977451572067217896#m",
+      "content": "Here's another long essay about @jup_studio with learnings from our offsite last week.   \n\nOk no. Enough of that. Will just prioritize the substance over the fluff in a short-ish post. \n\nBetter communication was one of the main takeaways from our offsite, and I'm going to give that a go.  \n\nThe Product. Studio will build towards 3 verticals - memecoin / community launches, custom launches (for brands etc) and permissioned capital formation via DTF. The launchpad product as is will be made more memecoin and trader friendly, both from UI/UX perspective and also from a fees perspective.   \n\nThe Strategy. We will back world-class memes and communities like uranus and help develop playbooks to bring them to mainstream success, living beyond CT and outlasting cycles. We will back brands and projects with potential as they start out their journey, again in bespoke manners, using Jupiter's influence and distribution. We are here to stand behind communities, creators and projects that develop real momentum.   \n\nWhat We Do. We give momentum to what deserves it. When we amplify, we will do it with precision. We support community-led marketing initiatives that turn heads, connect them to the right people, listings, advisors, market makers, collaborations, and people of influence. Whoever can make the difference, we find them. The success of deserving projects is our priority.   \n\nThe Economics. None of Studio's accrued fees will go to the team and none have been deployed to date. All the amounts we have invested into Studio and its ecosystem to date is fresh liquidity from Jupiter. Accrued fees to date (about 3.5m) will be split between the Studio ecosystem and the Litterbox Trust. Fees in the future will be recycled into the Studio ecosystem until Studio stabilizes as a leading product, following which 50% will go towards the Litterbox.   \n\nWe’re not here to chase noise, fuck about and farm fees.  \n\nWe're here to build the future of monies.\n\nThanks for staying with us as we launched v0 of Studio. v1 starts now.",
+      "timestamp": "Oct 12, 2025 · 7:09 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1977451572067217896#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1977185806252228697#m",
+      "content": "Jupiter Mobile offers a suite of pro-trading features built natively into the wallet.\n\nAccess Trigger and Recurring orders from the same swap interface without switching screens.\n\nThe most complete trading UX of any mobile wallet.",
+      "timestamp": "Oct 12, 2025 · 1:33 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1977185806252228697#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1977150579601522688#m",
+      "content": "Feedback is how we continuously improve our products.\n\nThat's why we ask you, personally:\n\nIf you have anything you'd like to see — tag @jup_burst or create a new post at: feedback.jup.ag/\n\nThank you for making Jupiter better every day.",
+      "timestamp": "Oct 11, 2025 · 11:13 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1977150579601522688#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1977000903715787103#m",
+      "content": "Volatility update: $0 bad debt on Jupiter Lend.\n\nOur liquidation engine cleared $1.45M in liquidations without missing a beat. Systems performed as designed—SAFU.",
+      "timestamp": "Oct 11, 2025 · 1:18 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1977000903715787103#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1976390766189805800#m",
+      "content": "BREAKING: $4 million dollars in earned interest.     \n\nThe job is not finished.",
+      "timestamp": "Oct 9, 2025 · 8:54 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1976390766189805800#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1976650369393688842#m",
+      "content": "Learn more about this update here: discuss.jup.ag/t/chaos-labs-…\n\nDisclaimer: trade larger positions with less capital - but remember, higher leverage means higher risk and may not be suitable for, or available to, everyone.",
+      "timestamp": "Oct 10, 2025 · 2:05 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1976650369393688842#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1976650366285733901#m",
+      "content": "Jupiter Perps just got another major update:\nSOL positions now have a ~25% lower borrow fee.\n\nWhat changed:\nWhen you open a leveraged position, the borrow fee is what you pay to take a loan on the additional capital.\n\nFor SOL this has historically been higher than the same positions on BTC or ETH.\n\nBut now these fees have been lowered by ~25% to reduce this discrepancy.\n\nSame quality at a lower cost:\nJupiter Perps are favored by traders as they have deep liquidity to guarantee your trades and allow for size.\n\nNow we are bringing you the same quality you’ve come to expect, with lower fees.",
+      "timestamp": "Oct 10, 2025 · 2:05 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1976650366285733901#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1976263714581225715#m",
+      "content": "Jupiter Perps just got one of its biggest upgrades yet ⚡️\n\nYou can now trade with up to 250x leverage across every asset:\n- BTC: 250x (from 100x)\n- ETH: 250x (from 150x)\n- SOL: 250x (from 150x)\n\nTrade larger positions with less capital - but remember, higher leverage means higher risk.\n\nDeep liquidity, best execution, lower fees. Now with 250x power. Traders get even more control - without compromising on performance.\n\nTrade smarter. Just use Jupiter Perps.",
+      "timestamp": "Oct 9, 2025 · 12:29 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1976263714581225715#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1976309243973402883#m",
+      "content": "We're market buying up to $100k of $GIGA to give away!\n\nThe first 200 $GIGA holders in the top 500 to import their wallet into Jup Mobile to receive $500 in $GIGA sent directly to them.\n\nPs. Jupiter Mobile uses Ultra, proven to offer the best swap prices by FAR while having 10x lesser fees.",
+      "timestamp": "Oct 9, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1976309243973402883#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1976350958851641616#m",
+      "content": "BURST is the engine that drives Jupiter's never-ending quest for improving the user experience\n\nEvery piece of feedback is heard, catalogued, and delivered to the product teams to be integrated. \n\nIf you have any suggestions, tag @jup_burst to help shape Jupiter together with us",
+      "timestamp": "Oct 9, 2025 · 6:16 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1976350958851641616#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975929208049463384#m",
+      "content": "BREAKING: Jupiter is launching its own stablecoin 🥳\n\nBuilt in partnership with @ethena_labs, engineered to connect the Jupiverse.\n\n$JupUSD, going live in Q4.",
+      "timestamp": "Oct 8, 2025 · 2:20 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975929208049463384#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975932987242860876#m",
+      "content": "J&J JUPITER STUDIO SPACE - THURSDAY\n\n15:30 UTC\n\nCome tap into the market\nJupiter's stable coin + ASR whats next?\n\nSET REMINDER 👇\nlocalhost:8080/i/spaces/1OyKAjn…",
+      "timestamp": "Oct 8, 2025 · 2:35 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975932987242860876#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1976302731049726134#m",
+      "content": "Jupiter continues to empower builders.\n\nOur pricing data now integrates with @sedaprotocol's  Oracle programs to enable instant perps feeds for any Solana token across any network.\n\nBuild at the speed of Solana.",
+      "timestamp": "Oct 9, 2025 · 3:04 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1976302731049726134#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1976263719425593745#m",
+      "content": "Trade perps now: jup.ag/perps/",
+      "timestamp": "Oct 9, 2025 · 12:29 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1976263719425593745#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975932782170747366#m",
+      "content": "What’s happening here runs deeper than another stablecoin launch.\n\nThis partnership by @ethena_labs is a test of what native liquidity sovereignty looks like.\n\nBy building JupUSD directly on Ethena’s stack, Jupiter is not outsourcing stability but internalizing it, turning stablecoin demand into protocol value.\n\nThis could redefine how value circulates inside ecosystems: self-sustaining capital loops.",
+      "timestamp": "Oct 8, 2025 · 2:34 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975932782170747366#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975934751912726766#m",
+      "content": "Imagine a stablecoin with deep and powerful integrations across every Jupiter Product",
+      "timestamp": "Oct 8, 2025 · 2:42 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975934751912726766#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975930792665809192#m",
+      "content": "👀",
+      "timestamp": "Oct 8, 2025 · 2:26 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975930792665809192#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975930123087118844#m",
+      "content": "incredibly excited to work with @ethena_labs on a Jupiter stablecoin! \n\nhuge for the jupiter business, huge for the jupiter product suite, and huge for [redacted]",
+      "timestamp": "Oct 8, 2025 · 2:23 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975930123087118844#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975963766178418764#m",
+      "content": "We’ve long believed that @JupiterExchange needs a native dollar. With @ethena_labs, we’re bringing JupUSD to life. \n\nIt’s been an absolute pleasure working with @gdog97_ & @n2ckchong. \n\nStay tuned—more drops soon.",
+      "timestamp": "Oct 8, 2025 · 4:37 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975963766178418764#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975975435310858258#m",
+      "content": "🪂 MOONWALK Airdrop Checker is now live in Jup Portfolio  \n\nScan your wallets to check your eligibility for the @moonwalkfitness airdrop in seconds",
+      "timestamp": "Oct 8, 2025 · 5:23 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975975435310858258#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975931554531819861#m",
+      "content": "we are bringing the best stable coin onto Solana with native minting and everything.",
+      "timestamp": "Oct 8, 2025 · 2:29 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975931554531819861#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975937906360611040#m",
+      "content": "Good time to mention that we are hiring\n\n- Full Stack Dev\n- Rust Dev\n- DevRel\n\nDM open",
+      "timestamp": "Oct 8, 2025 · 2:54 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975937906360611040#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975973429070516341#m",
+      "content": "JUPENA",
+      "timestamp": "Oct 8, 2025 · 5:15 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975973429070516341#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975929217331388862#m",
+      "content": "Solana native mint-redeem contracts are being built out right now with the expectation to go live in mid Q4 2025 once they’ve been audited multiple times.\n\nIf you’re interested in integrating, listing, or holding JupUSD on your balance sheet, become a launch partner by reaching out to partnerships@jupusd.money\n\nLet's build this together.\n\njupusd.money",
+      "timestamp": "Oct 8, 2025 · 2:20 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975929217331388862#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975929214345138184#m",
+      "content": "No one knows stablecoins like Ethena.\n\nAfter minting $16B in stablecoins, they have the expertise and the track record to make JupUSD best-in-class.\n\nInitially, JupUSD will be 100% collateralized by USDtb.\n\nOver time, we’ll add USDe as collateral to optimize yield rates for JupUSD.",
+      "timestamp": "Oct 8, 2025 · 2:20 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975929214345138184#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975929210389864710#m",
+      "content": "JupUSD will have deep integrations across every Jupiter product:\n\n- Collateral on Jupiter Perps\n- Liquidity in Jupiter Lend\n- Trading on Swap, Pro, and Mobile\n- Integration into new products we’re building\n\nA stablecoin for everything Jupiter (including $JUP holders 👀).",
+      "timestamp": "Oct 8, 2025 · 2:20 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975929210389864710#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975848655379984451#m",
+      "content": "🚨 BREAKING NEWS - LIVE TODAY @ 3:30pm UTC 🚨\n\nJoin us during Jupiter Perps - DeFi Series Ep. 4 w/team lead @juliandevmy for a no holds barred Q & A.\n\n🗣️ Special Announcement @ 3:45pm UTC 🐾\n\nSet your reminders below ⤵️",
+      "timestamp": "Oct 8, 2025 · 9:00 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975848655379984451#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975801469493481894#m",
+      "content": "Jupiter Wallet for Desktop is officially here!\n\nGreat news for devs: if you're already using Solana\nWallet Adapter or Jupiter Unified Wallet Kit, it should\nJUST work.\n\nSupport Jupiter Wallet in your app!\ngithub.com/TeamRaccoons/Unif…",
+      "timestamp": "Oct 8, 2025 · 5:52 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975801469493481894#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975184404067783050#m",
+      "content": "Today marks a giant leap for DeFi.\n\nIntroducing Jupiter Wallet for Desktop – the most advanced Solana wallet is finally here!\n\n• Gasless trading\n• Deep integration w/Jupiter products\n• PnL analysis\n• 10x lower fees than any other wallet\n\nAnd so much more 🧵",
+      "timestamp": "Oct 6, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975184404067783050#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975541555500097550#m",
+      "content": "The moment everyone’s been waiting for\nThe Jupiter Desktop Wallet is here!\n\nAnd if you want to connect @jup_mobile to your desktop, just use Jupiter Sync\n\nTime to delete everything else",
+      "timestamp": "Oct 7, 2025 · 12:39 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975541555500097550#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975546654825570599#m",
+      "content": "Everyone was thinking it: the @JupiterExchange ecosystem had a missing piece 👀\n\nNow, that piece is FINALLY here: Jupiter Wallet for Desktop! 🪐\n\nHere’s why it changes everything for YOU 🧵👇",
+      "timestamp": "Oct 7, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975546654825570599#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975373007767150676#m",
+      "content": "Some solid W’s from the community lately 🫡\n\nAppreciate everyone sharing their thoughts, we’re just getting started.\n\nJust Use @JupiterExchange 🪐",
+      "timestamp": "Oct 7, 2025 · 1:30 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975373007767150676#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975231905789354314#m",
+      "content": "I’ll do more of these in the future — short videos showing small updates we ship on Jupiter Portfolio (and why they’re cool).\n\n- Global Search x Portfolio\n- Better Yield display\n- Quick report incorrect data\n\nIt’s just easier to show why we build things than to explain it in 140 characters.",
+      "timestamp": "Oct 6, 2025 · 4:09 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975231905789354314#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975242424411947116#m",
+      "content": "Cross-product synergy results from @JupiterExchange's top technology and expertise gained over years.\n\nBest of all, it will keep improving as we enhance the entire Jupiter product suite.",
+      "timestamp": "Oct 6, 2025 · 4:51 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975242424411947116#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975223716180337135#m",
+      "content": "been in and out the @JupiterExchange office for a week now! \n\nthe amount of shipping the team does is absolutely immeasurable! \n\nthe jup wallet for computers and PCs just went live! \n\nit’s time to fully lock-in with Jupiter’s 10x faster and cheaper wallet!\n\ndrop your feedback and reviews below 👇",
+      "timestamp": "Oct 6, 2025 · 3:36 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975223716180337135#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975192683191972266#m",
+      "content": "Jupiter Wallet for Desktop is out. you can use Jupiter on any dapps out there.\n\nmost importantly, swap in the wallet with the promised low fee and the best in class landing infra.",
+      "timestamp": "Oct 6, 2025 · 1:33 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975192683191972266#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975190684765413587#m",
+      "content": "Breaking news 👨🏼‍🍳\n\nThe wait is OVER Jupiter just unleashed their anticipated Desktop Wallet Extension !",
+      "timestamp": "Oct 6, 2025 · 1:25 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975190684765413587#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975187383093236036#m",
+      "content": "Go try this one, it's a mix of the best thing that exist at Jupiter (just missing Portfolio position but don't worry it will come).",
+      "timestamp": "Oct 6, 2025 · 1:12 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975187383093236036#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975286185032569170#m",
+      "content": "🚨 This Wednesday’s DeFi Series Q&A is all about Jupiter PERPS!\n\nJoin us to be the first to hear the answers to the most asked questions:\n\n- Wen higher leverage caps❓\n- Wen lower fees❓\n- Wen new pairs❓\n\nSee you at 3:30 UTC on Wed, Oct 8th                                              👇 Set your reminder now!  👇\nlocalhost:8080/i/spaces/1nAKEEwkmWgKL",
+      "timestamp": "Oct 6, 2025 · 7:45 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975286185032569170#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975236641439744070#m",
+      "content": "UNREAL synergies are being cooked amongst the product teams. \n\nIf only you knew what else is pipelined🤭",
+      "timestamp": "Oct 6, 2025 · 4:28 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975236641439744070#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975184440759570796#m",
+      "content": "Install Jupiter Wallet today on Google Chrome or any Chromium-based browser like @brave (with support for Firefox coming soon):\n\nchromewebstore.google.com/de…",
+      "timestamp": "Oct 6, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975184440759570796#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975184437135732751#m",
+      "content": "This is just the beginning.\n\nJupiter Wallet has a hefty roadmap already in progress.\n\nComing up next are DeFi positions, NFT support, and more.\n\nIf there’s anything you’d like to see, make sure to leave us feedback.\n\nWe’re always listening. Let’s build the perfect desktop wallet, together.",
+      "timestamp": "Oct 6, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975184437135732751#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975184433818046853#m",
+      "content": "Create a wallet with just your socials - and start trading in seconds.\n\nSimply sign-in with a Google, Apple, Discord, or X account.\n\nNo need to worry about losing your seed phrase, your social login is your wallet.",
+      "timestamp": "Oct 6, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975184433818046853#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975184430529744896#m",
+      "content": "Designed with universal hardware wallet compatibility.\n\nConnect and secure your assets with every major brand: @Ledger @Trezor or @KeystoneWallet",
+      "timestamp": "Oct 6, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975184430529744896#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975184426939342999#m",
+      "content": "Engineered from the ground up with a security-first approach, and audited by @Offside_Labs\n\nThe future of finance deserves a wallet that is safe, secure, and reliable.",
+      "timestamp": "Oct 6, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975184426939342999#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975184423516828090#m",
+      "content": "Successful traders learn from their historical performance.\n\nJupiter Wallet has the most comprehensive PnL Analysis, built right in.\n\nYour entire trading performance as a living dashboard – with precise PnL tracking across wallets and tokens.\n\nNo more spreadsheets. No more guesswork.",
+      "timestamp": "Oct 6, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975184423516828090#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975184420224262237#m",
+      "content": "Unlock deep integrations across Jupiter products.\n\nEnable auto-approve for instant, signless transactions while swapping, trading perps, depositing on Lend, and more.",
+      "timestamp": "Oct 6, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975184420224262237#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975184416227115212#m",
+      "content": "While other wallets charge insane fees of up to 1.5%, Jupiter Wallet is powered by Ultra.\n\nThis means you’re getting:\n\n- Juno routing for the best price and lowest slippage\n- Optimized transaction landing\n- Best-in-class MEV protection\n- Gasless support\n- 0.1% fees – lower than any other app\n\nThe perfect swap, every time - built right into your wallet. @JupPro",
+      "timestamp": "Oct 6, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975184416227115212#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975184412187951477#m",
+      "content": "Sync your wallets and keys securely with @jup_mobile.\n\nIntroducing Jupiter Sync.\n\nImport or export wallets between Desktop and Mobile by simply scanning a QR code.\n\nNo need to manually enter your seed phrase.",
+      "timestamp": "Oct 6, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975184412187951477#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1975184407549063427#m",
+      "content": "The success of @jup_mobile made it clear: the community wants Jupiter everywhere.\n\nSo we built a desktop wallet from the ground up.\n\nThe goal was to create an experience that is both simple and complete – designed to feel effortless for newcomers yet powerful enough for pro traders.\n\nThe most comprehensive Solana wallet experience, now as a browser extension.",
+      "timestamp": "Oct 6, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1975184407549063427#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1974899507965157398#m",
+      "content": "Jupiter Lend is now built natively into @jup_mobile.  \n\nEarn passively on your SOL and stables directly from your phone through several Earn Vaults.  \n\nDon't let inflation steal from you. Put your tokens to work.",
+      "timestamp": "Oct 5, 2025 · 6:08 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1974899507965157398#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1974876105279783023#m",
+      "content": "Just use Jupiter Lend",
+      "timestamp": "Oct 5, 2025 · 4:35 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1974876105279783023#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1974597648465481788#m",
+      "content": "Also\n\nWhat's 1 piece of feedback about any product that you wish was implemented?\n\nThe intern will compile all of these and present them to the team.",
+      "timestamp": "Oct 4, 2025 · 10:09 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1974597648465481788#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1974597346769187107#m",
+      "content": "Tell us.\n\nWhat's your favorite product or feature to drop in the last 2 months?",
+      "timestamp": "Oct 4, 2025 · 10:07 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1974597346769187107#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973589134515298412#m",
+      "content": "Remember when you could bootstrap your project with community funding?\n\nRemember when you could support ideas you like without networking your way into a closed group?\n\nAnnouncing: Decentralized Token Formation.\n\nA new permissioned capital formation product representing the purest form of internet capital markets, powered by @jup_studio, bringing you the best of the ICO meta while protecting you from the worst.\n\nBringing you back to the days before multiple private funding rounds, endless side deals and your earliest investors hedging / OTCing / syndicating the projects they believe in oh so much became meta. Before who you knew mattered more than what you were investing in. Before supporting innovation became PvP.\n\nHigh-caliber teams will be able to raise from their communities onchain, maximizing certainty, alignment, and transparency.\n\n• Know exactly where all the token supply is - be it public float, team tokens, or liquidity provisioning tokens\n• Know exactly the criteria for allocations\n• Know that locked tokens are actually locked - verifiable on-chain, using Jup Lock.\n• Know exactly  when investors get liquidity\n\nAs a founder, by using DTF, you’ll be getting in front of the largest and most active community on Solana. And as a participant, you’ll be participating in a permissioned launch on fully transparent terms.\n\nJupiter will provide tech support, Meteora will provide liquidity support, and the community will provide emotional support.\n\nIf you’re a high-caliber team raising funds on Solana, reach out to @wassielawyer and make your best pitch. \n\nWe’ll be super selective with who gets to launch on DTF, so do not expect launches every day.\n\nThis is a new way of launching for a new era.\n--\n(and btw the first team is already confirmed and is a goddamn banger)",
+      "timestamp": "Oct 2, 2025 · 3:21 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973589134515298412#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973810534312301044#m",
+      "content": "Are ya winning son?\n\nFor the first time ever you can see your REAL PnL natively in a mobile app via @jup_mobile\n\nFun contest — 10 x $1,000 up for grabs\n \nHow to participate:\n-  Already a user? Just check your PnL! (New? download the app and import your wallet)\n - Share your PnL on X for a chance to win a share of 10k$\n\n10 most-liked shares win 1000$ each",
+      "timestamp": "Oct 2, 2025 · 6:01 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973810534312301044#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1974115972035588599#m",
+      "content": "Innovation and capital efficiency, now on @solana \n\nDiscover it on @jup_lend 👈",
+      "timestamp": "Oct 3, 2025 · 2:14 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1974115972035588599#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1974185676439699959#m",
+      "content": "🪂 ALLDOMAINS Airdrop Checker is now live in Jup Portfolio\n\nScan your wallets to check your eligibility for the upcoming @AllDomains_ airdrop in seconds",
+      "timestamp": "Oct 3, 2025 · 6:51 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1974185676439699959#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1974170362503110682#m",
+      "content": "Check them out here: jup.ag/pro/screener/remora",
+      "timestamp": "Oct 3, 2025 · 5:51 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1974170362503110682#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1974170360636715214#m",
+      "content": "Jupiter has expanded support for tokenized stocks on Solana!\n\nRemora rstocks now have their own screener on @JupPro.\n\nTrack TSLAr, NVDAr, and many others with their own data dashboard on-site",
+      "timestamp": "Oct 3, 2025 · 5:51 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1974170360636715214#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1974159538963222782#m",
+      "content": "you might just be 1 🔍 away from retiring your bloodline",
+      "timestamp": "Oct 3, 2025 · 5:08 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1974159538963222782#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1974119374295552223#m",
+      "content": "Earn in seconds with zero friction 💵\n\nWith juiciest APYs live right inside Jupiter Mobile. Powered by @jup_lend 💦",
+      "timestamp": "Oct 3, 2025 · 2:28 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1974119374295552223#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1974104652619690095#m",
+      "content": "DeFi Series #4: Jupiter Perps 📅\n \nJoin us for a live Q&A session with team lead \n@juliandevmy\n \n→ Practical insights\n→ In-depth look into how Jupiter Perps functions \n→ What’s the next big thing for the platform \n\n👇 Set your reminder now! 👇  \nlocalhost:8080/i/spaces/1nAKEEwkmWgKL",
+      "timestamp": "Oct 3, 2025 · 1:30 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1974104652619690095#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1974099274419089701#m",
+      "content": "rekt x jup cans are out for delivery. get ready to receive your IRL liquidity 🤝",
+      "timestamp": "Oct 3, 2025 · 1:08 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1974099274419089701#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973639422634607023#m",
+      "content": "@JupiterExchange’s new tx infra (blue) lands transactions in the same slot with near-impossible consistency. On top of that, we get privacy which removes a huge chunk of frontrun risk for users. \n\nRolling out next week.\n\n(orange and green are external providers)",
+      "timestamp": "Oct 2, 2025 · 6:41 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973639422634607023#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973985733150183717#m",
+      "content": "if you are not giving @jup_mobile a try, you are missing out on so much.\n\nso. much.",
+      "timestamp": "Oct 3, 2025 · 5:37 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973985733150183717#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973761547303592127#m",
+      "content": "We’re excited to announce the integration of a new major asset: Sanctum’s INF is now available to Lend and Loop on Jupiter Lend.\n\nWith $25k in incentives for active INF/SOL borrowers! 👇",
+      "timestamp": "Oct 2, 2025 · 2:46 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973761547303592127#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973947961811112389#m",
+      "content": "Check it out on @jup_lend today!",
+      "timestamp": "Oct 3, 2025 · 3:07 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973947961811112389#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973805012720759202#m",
+      "content": "🚨 DAY 2 @token2049 🇸🇬 — IT’S A WRAP. \n\nIt’s confirmed. I really am:\n\nCheaper than your coffee. Faster than your WiFi. Sexier than your ex. 😈🔥\n\nSpot yourself in the madness below? Let us know!👇",
+      "timestamp": "Oct 2, 2025 · 5:39 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973805012720759202#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973821988335648811#m",
+      "content": "I have been told by a reliable source that Jup Mobile is on another level  \n  \nNo other information was given to me, just that.  \n  \nLet’s see how it plays out.",
+      "timestamp": "Oct 2, 2025 · 6:46 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973821988335648811#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973888604507418840#m",
+      "content": "Meow said \"THINK MUCH BIGGER\"\n\n@KevinWSHPod followed through.\n\n18 months in, and the next chapter begins. Jupiter + WSH are locking in for a long-term partnership to push the boundaries of WEB4 together.\n\nWe're just getting started",
+      "timestamp": "Oct 2, 2025 · 11:11 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973888604507418840#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973830135129501712#m",
+      "content": "Contest duration is exactly 1 week\n\nEnd date: 10/9 at 6 PM UTC",
+      "timestamp": "Oct 2, 2025 · 7:19 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973830135129501712#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973761565884387737#m",
+      "content": "@sanctumso is one of our oldest partners, debuting over a year ago on our LFG launchpad.\n\nSince then they've played a crucial role in launching our LST, JupSOL.\n\nToday, we celebrate this long-term partnership with a deep integration of INF into the Lend ecosystem.",
+      "timestamp": "Oct 2, 2025 · 2:46 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973761565884387737#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973761561497162227#m",
+      "content": "Get juicy APYs for multiplying INF with SOL - with max net APY up to 40%+\n\njup.ag/lend/multiply/42",
+      "timestamp": "Oct 2, 2025 · 2:46 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973761561497162227#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973736160989192626#m",
+      "content": "Big news, Fam!\n\nWhen Shift Happens x @JupiterExchange are locking in a multi-year partnership to take the WEB4 + Social Monies narrative to the next level! \n\nFlashback: about 18 months ago, I sat down with @weremeow and @lukebelmar for a podcast that turned into one of our Top 5 most-watched episodes ever.\n\nNot long after, Meow and I started taking about working together. And I started what the standard ideas, his reply was… « THINK MUCH BIGGER » 🐱 \n\nSo we did.\nAnd the past year, WSH leveled up-more fire guests, more subs, more views, more business!\n\nNow? We’re going interdimensional again.\nThis new multi-year Jupiter partnership isn’t just about growing WSH-it’s about pioneering the WEB4 movement and pushing the limits of Social Monies.\n\nI’ll be co-hosting a special WEB4 podcast series with the Jupiter crew, diving deep into the big ideas shaping this space. All episodes will drop on the WSH YouTube channel \n\nStay tuned… this is just the beginning!",
+      "timestamp": "Oct 2, 2025 · 1:05 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973736160989192626#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973656330650132939#m",
+      "content": "If you use Jupiter APIs:\n\nStay up to date and join the alerts channels listed below 👇",
+      "timestamp": "Oct 2, 2025 · 7:48 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973656330650132939#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973575567560909132#m",
+      "content": "Imagine being able to use Lend right from @jup_mobile.\n\nOh wait, we made that happen.",
+      "timestamp": "Oct 2, 2025 · 2:27 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973575567560909132#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973420385678008807#m",
+      "content": "We've finalized the airdrop for Jupiter Stakers.\n\n1% of MET will be distributed to All Jupiter Stakers, with 2% for long-term believers who never unstaked.\n\nLinear Airdrop, weighted on average stake Jan 1st - Sept 21st.\n\nLet's 10x the LP Army and create opportunities for all.",
+      "timestamp": "Oct 1, 2025 · 4:10 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973420385678008807#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973391921503441127#m",
+      "content": "What is BURST?\nIntroducing the Better User & Response Team at @JupiterExchange.\nA bridge between you, support, & devs to make your experience smoother.",
+      "timestamp": "Oct 1, 2025 · 2:17 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973391921503441127#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973198074815324490#m",
+      "content": "New to Jupiter Lend?\n\nThe Earn tab is your gateway to putting idle assets to work—earning yield while supporting the liquidity ecosystem. Here’s how it works 🧵👇🏼",
+      "timestamp": "Oct 1, 2025 · 1:27 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973198074815324490#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973446215758217467#m",
+      "content": "Congratulations to our partner @keel_fi on their latest expansion!\n\nKeel seeks to empower DeFi on Solana through their dynamic allocation of $2.5 Billion dollars in stablecoin capital — Improving Liquidity and catalyzing growth across tokenized asset markets.\n\nA major move to grow the pie.",
+      "timestamp": "Oct 1, 2025 · 5:53 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973446215758217467#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973422827606045105#m",
+      "content": "🚨 DAY 1 @token2049 SINGAPORE 🇸🇬TAKEOVER \n\nThe best of Solana loves the cheapest, fastest and SEXIEST wallet 🫵🔥 (luckiest wallet too since the head rub @0xMert_)\n\nGASLESS ONLY. 👇",
+      "timestamp": "Oct 1, 2025 · 4:20 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973422827606045105#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973410484427849797#m",
+      "content": "New Product 👀, MET Airdrop Details, and More | Planetary Call #57 localhost:8080/i/broadcasts/1YqxolBPR…",
+      "timestamp": "Oct 1, 2025 · 3:31 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973410484427849797#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973397955563397545#m",
+      "content": "Welcome to the new DRiP Store 💧\n\nA better way to discover, collect, and connect.\n\nBrowse by categories and explore rotating curated sections.",
+      "timestamp": "Oct 1, 2025 · 2:41 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973397955563397545#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973381479494488127#m",
+      "content": "did you know there are tens of thousands of new tokens  launched on @solana every single day? most are just rugs waiting to happen 🪤\n\nthat’s why @JupiterExchange built Verify v4 - Solana’s most underrated public good protecting traders at scale.\n\nand it just got a major upgrade. faster approvals, clearer guidelines, and smarter protection for traders.\n\njust use Jupiter.\n\nbangoor by @maazuxi",
+      "timestamp": "Oct 1, 2025 · 1:36 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973381479494488127#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973326838010396700#m",
+      "content": "Planetary Call 57 🪐 \n\nNew Product 👀, MET Airdrop Details, and More\n\n⏰ 3:30pm UTC\n🗓️ Today, October 1st\n📍 YouTube & X \n\nJoin @kashdhanda @0xSoju @wassielawyer \n\nDo not fade this one.",
+      "timestamp": "Oct 1, 2025 · 9:59 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973326838010396700#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973156585800344015#m",
+      "content": "Big news for Europe:\n\nInstitutional Investors can now gain exposure to JUP via the AJUP ETP on SIX Swiss Exchange.\n\nTraditional markets connecting with web3 🤝",
+      "timestamp": "Sep 30, 2025 · 10:42 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973156585800344015#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1972922606262345812#m",
+      "content": "Solana’s biggest DEX aggregator just got easier to access.\n\nThe 21Shares Jupiter ETP (AJUP) is now live on SIX Swiss Exchange, giving investors exposure to @JupiterExchange — the hub powering $1T+ in trades across Solana DeFi.\n\n👉 Learn more: 21shares.com/en-eu/product/a…",
+      "timestamp": "Sep 30, 2025 · 7:12 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1972922606262345812#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973042836225569032#m",
+      "content": "We're proud to unveil our partnership with @anchorage. \n\nGet an institutional-grade trading experience with their wallet, Porto — now enhanced with the power of Jupiter Swap APIs.\n\nBy using our best-in-class trading infra, Anchorage is creating a trusted gateway for institutions to access DeFi",
+      "timestamp": "Sep 30, 2025 · 3:10 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973042836225569032#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1972988993483796605#m",
+      "content": "Native PnL tracking marks a new era for the @jup_mobile.\n\nIn V1, we launched the best app for swapping. V2, the best app for DeFi, and now V3, we aim to build the best mobile trenching experience on Solana.\n\nAnd we’re keeping to the same pillars of what makes the app so good. Fast as f*ck, up to 10x cheaper than any other wallet and most importantly, building features that you ask for.\n\nIt’s my personal goal to listen to as many users as possible so that we can ship the features that you actually want.\n\nI have already received so many requests since yesterday on trenching upgrades and advanced tools to be added to the mobile roadmap. And so much more to come. The team is back to the drawing board, in overdrive and rapidly shipping all these in the near-term. I’m extremely confident that with your help, we’ll 10x the trenching experience on Jupiter Mobile. Let’s ship them together 🪐\n\nI’d love to hear from you what you want to see in Jupiter Mobile to make this your primary wallet. \n\nRt and reply this post with your feedback. \n\nDropping $100 to 3 of the best feedback in the replies 🫡",
+      "timestamp": "Sep 30, 2025 · 11:36 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1972988993483796605#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1973016164495466960#m",
+      "content": "Announcing the first major integration of BitcoinKit: @Jupnet, the Omnichain Liquidity Network from @JupiterExchange.\n\nPowered by @ZeusNetworkHQ infra, JupNet users can deposit & withdraw native BTC + UTXOs directly, turning Bitcoin into a productive asset across DeFi without custodial risk. More ↓",
+      "timestamp": "Sep 30, 2025 · 1:24 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1973016164495466960#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1972941264556622239#m",
+      "content": "We're excited to announce our latest integration into @top_nod.\n\nTheir wallet is bringing RWAs to the masses using the power of Jupiter Swap API.\n\nOur swap infra handles everything under the hood, so our partners can focus on building the best apps possible for their users.",
+      "timestamp": "Sep 30, 2025 · 8:27 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1972941264556622239#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1972909932291764417#m",
+      "content": "BREAKING: $3 million dollars in earned interest. \n\nEarn vaults on Lend looking good here.",
+      "timestamp": "Sep 30, 2025 · 6:22 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1972909932291764417#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1972894561413542029#m",
+      "content": "PnL is Jup Mobile’s first step towards its v3 Trencher arc.\n\nOur mission is to build the best trenching experience with the community, and co-create an unrivaled trading platform together\n\nExpect to see more Jupiter products and features you love built natively into the mobile experience",
+      "timestamp": "Sep 30, 2025 · 5:21 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1972894561413542029#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1972816482842394972#m",
+      "content": "Jupiter is a collaborative effort involving over 100 extremely dedicated individuals across various talent stacks and backgrounds.\n\nTech and insights are shared across teams, so any improvement often impacts the entire product suite.\n\nIt's one of our greatest strengths.",
+      "timestamp": "Sep 30, 2025 · 12:11 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1972816482842394972#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1972680298811793615#m",
+      "content": "BREAKING NEWS 🚨\n\nPnL Analysis is now available natively on @jup_mobile 📱\n\nTHIS IS HUGE",
+      "timestamp": "Sep 29, 2025 · 3:10 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1972680298811793615#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1972666876473008593#m",
+      "content": "🚀 The V3 Trencher Arc begins.\n\nFor the first time ever — real PnL tracking, built natively into a mobile wallet.\n\n📈 Wallet PnL. Token PnL. All in your pocket. The only wallet with PnL analytics. Powered by @JupPro ⚡️\n\nStop guessing. Start knowing.",
+      "timestamp": "Sep 29, 2025 · 2:16 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1972666876473008593#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1972519378630611425#m",
+      "content": "The Jupnet demo was INSANE! \n\nExecuted 10 orders in parallel across Solana, Base, Sui, Bitcoin - without any wallet signing - in just seconds 🤯\n\nFor the first time a DEX experience feels as smooth as the best CEX. Game over!",
+      "timestamp": "Sep 29, 2025 · 4:30 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1972519378630611425#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1972617447594488111#m",
+      "content": "Big news: Two major upgrades just went live on Jupiter Perps 🚨\n\n1/ Fees are much lower\n2/ Position sizes doubled\n\nLet’s unpack what this actually means for you 🧵",
+      "timestamp": "Sep 29, 2025 · 11:00 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1972617447594488111#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1972599095027249426#m",
+      "content": "Thrilled to see @BitgetWallet integrate @jup_lend 💫\n\n80M Bitget Wallet users can now earn native Solana yields on USDC & USDT — powered by Jupiter Lend.\n\nA big step in making Solana DeFi more accessible worldwide.\n\nNext up: more assets, more integrations, and an even bigger pie for everyone.",
+      "timestamp": "Sep 29, 2025 · 9:47 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1972599095027249426#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1972498422365348232#m",
+      "content": "JupNet is coming...",
+      "timestamp": "Sep 29, 2025 · 3:07 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1972498422365348232#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1972213440610816394#m",
+      "content": "10x cheaper, 10x faster, Portfolio on @jup_mobile so you can monitor the situation from one single place.\n\nJust use Jupiter.",
+      "timestamp": "Sep 28, 2025 · 8:15 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1972213440610816394#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1972052990484976051#m",
+      "content": "🧵 Mastering the Multiply Tab on Jupiter Lend\n\nDid you know you can potentially get a simple 28% yield on stablecoins right now? We're diving into a high-yield strategy available on Jupiter Lend. If you want to maximize your returns, you need to understand the Multiply tab.",
+      "timestamp": "Sep 27, 2025 · 9:37 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1972052990484976051#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1972005251848065500#m",
+      "content": "Friends & Family Event For Jupnet\n\nOver the past 9 months, we have been working hard to lay the technical foundations for Jupnet, the omnichain liquidity hub.\n\nTo make it as transparent, open and decentralized while optimizing for the best possible user experience, we are working hard to develop 3 key frameworks:\n\n1️⃣Fully Integrated Native Omnichain Stack  - A novel hub-based messaging framework, Omnichain ledger, and services\n2️⃣Privacy-focused User Account System – which enables onchain social authentications, MFA while being privacy-focused\n3️⃣Practical Transaction Orchestration – which introduces Preferred Leaders, Batched Transactions, and Prioritised Sequencing\n\nThese frameworks are enabled by JupVM, a heavily modified version of SVM to empower the creation of powerful omnichain applications, such as an omnichain perps exchange, and an interchain token protocol.\n\nWe're hosting a small invite-only event to introduce our team & core ideas. This event will be technical and informal so come and hang out with us!\n\nInvite link in the post below!",
+      "timestamp": "Sep 27, 2025 · 6:27 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1972005251848065500#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1971297263571042499#m",
+      "content": "One of the greatest things about @jup_mobile and honestly any wallet ever is how simple it makes sending crypto\n\nJust share a link. No fees, no wallet needed, no nothing perfect for newcomers who want an easy start without the headaches\n\nGod really did bless us with JUP Mobile",
+      "timestamp": "Sep 25, 2025 · 7:34 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1971297263571042499#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1971936840644166017#m",
+      "content": "weekends are for touching swap",
+      "timestamp": "Sep 27, 2025 · 1:55 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1971936840644166017#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1971575962623246611#m",
+      "content": "KBW was a blast and was our first ever Studio Community x Jupiter activation.\n\nThe Yabai girls and uranus combined to onboard KBW attendees onto Jup Mobile - the fastest DeFi mobile superapp today.\n\nThe joy we brought to the attendees by offering them uranus was truly Yabai.\n\nLook forward to future collabs with Studio creators and communities to build their brands and onboard the masses.",
+      "timestamp": "Sep 26, 2025 · 2:01 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1971575962623246611#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1971234069771059210#m",
+      "content": "🔺 PnL is now live on Jupiter! 🔻\n\nReal-time and granular performance analysis, now on your favorite Juperapp.\n\nWhether you’re a pro or casual trader, you’re going to love this.\n\n(Watch this demo by @joedoe_ on how to best leverage PnL)\n\n🧵👇",
+      "timestamp": "Sep 25, 2025 · 3:23 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1971234069771059210#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1971620790006338023#m",
+      "content": "INSANE ALPHA DROPPED LAST WEEK BY @JupiterExchange ON THEIR LATEST PLANETARY CALL 🪐\n\n→ The $MET airdrop is live for $JUP stakers\n→ JLP just got upgraded\n→ @jup_dao is more transparent than ever!\n→ And the product train isn’t slowing down: @jup_mobile, @jup_portfolio, @JupPro, @jup_lend.\n\nWatch the full recap, Stake your $JUP, prepare for the $MET drop, and JUST USE JUPITER 🤝",
+      "timestamp": "Sep 26, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1971620790006338023#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1971552897403097159#m",
+      "content": "Do you even Yabai bro?",
+      "timestamp": "Sep 26, 2025 · 12:30 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1971552897403097159#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1971554226599068073#m",
+      "content": "repeat after me",
+      "timestamp": "Sep 26, 2025 · 12:35 PM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1971554226599068073#m",
+      "author": "JupiterExchange"
+    },
+    {
+      "id": "1971404253320417725#m",
+      "content": "There will be signs \n\nGet comfy",
+      "timestamp": "Sep 26, 2025 · 2:39 AM UTC",
+      "url": "https://twitter.com/JupiterExchange/status/1971404253320417725#m",
+      "author": "JupiterExchange"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T00:21:10.988Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 27724,
+    "cursorTrail": [
+      "DAAHCgABG3vlsCa__-oLAAIAAAATMTk3OTQyOTkzMjA4MzM0MzY0OAgAAwAAAAIAAA",
+      "DAAHCgABG3vlsCa__9ULAAIAAAATMTk3OTIxOTAzODUxNDYxNDMxMggAAwAAAAIAAA",
+      "DAAHCgABG3vlsCa__8ELAAIAAAATMTk3ODkwMTQyMzc5OTU0NTg4MggAAwAAAAIAAA",
+      "DAAHCgABG3vlsCa__6wLAAIAAAATMTk3ODIwNDk3MjI0OTQ1Njg2MQgAAwAAAAIAAA",
+      "DAAHCgABG3vlsCa__5cLAAIAAAATMTk3NjMxNjA4MDc2MDE2MDc1NAgAAwAAAAIAAA",
+      "DAAHCgABG3vlsCa__4ILAAIAAAATMTk3NTcyMjk3ODY0MzIyMjY1MAgAAwAAAAIAAA",
+      "DAAHCgABG3vlsCa__20LAAIAAAATMTk3NTE4NDQwNzU0OTA2MzQyNwgAAwAAAAIAAA",
+      "DAAHCgABG3vlsCa__1gLAAIAAAATMTk3MzkzNzg0ODczNTk0ODk0MAgAAwAAAAIAAA",
+      "DAAHCgABG3vlsCa__0MLAAIAAAATMTk3MzM4MjQ2MjUyNTg3MDI2NQgAAwAAAAIAAA",
+      "DAAHCgABG3vlsCa__y4LAAIAAAATMTk3MjAwNTc0MjM5Mjg4NTU0MQgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

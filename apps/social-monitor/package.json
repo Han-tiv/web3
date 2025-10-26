@@ -1,0 +1,64 @@
+{
+  "name": "@web3/social-monitor",
+  "version": "1.0.0",
+  "description": "Comprehensive social media monitoring system for Web3 opportunities",
+  "scripts": {
+    "dev": "concurrently \"pnpm run nitter:dev\" \"pnpm run telegram:dev\" \"pnpm run discord:dev\" \"pnpm run aggregator:dev\" \"pnpm run health:dev\"",
+    "build": "turbo build",
+    "start": "docker-compose up -d",
+    "stop": "docker-compose down",
+    "restart": "pnpm run stop && pnpm run start",
+    "logs": "docker-compose logs -f",
+    "health": "curl -f http://localhost:3001/health || exit 1",
+    "health:dev": "node health-server.js",
+    "nitter:dev": "cd services/nitter && pnpm run dev",
+    "telegram:dev": "cd services/telegram && pnpm run dev",
+    "discord:dev": "cd services/discord && pnpm run dev",
+    "aggregator:dev": "cd services/aggregator && pnpm run dev",
+    "test": "jest",
+    "lint": "eslint . --ext .ts,.js",
+    "type-check": "tsc --noEmit"
+  },
+  "workspaces": [
+    "services/*"
+  ],
+  "keywords": [
+    "social-media",
+    "monitoring",
+    "twitter",
+    "telegram",
+    "discord",
+    "web3",
+    "crypto",
+    "automation"
+  ],
+  "devDependencies": {
+    "@types/jest": "^29.5.5",
+    "@types/node": "^20.8.0",
+    "concurrently": "^8.2.2",
+    "eslint": "^8.50.0",
+    "jest": "^29.7.0",
+    "turbo": "^1.10.12",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@types/cheerio": "^0.22.35",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^4.17.23",
+    "@types/node-cron": "^3.0.11",
+    "@types/xml2js": "^0.4.14",
+    "axios": "^1.5.0",
+    "cheerio": "^1.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.21.2",
+    "node-cron": "^3.0.2",
+    "redis": "^4.6.10",
+    "winston": "^3.10.0",
+    "xml2js": "^0.6.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "docker": ">=20.0.0"
+  }
+}

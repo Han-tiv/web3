@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1404061163621654528",
+    "screen_name": "wangy112375",
+    "name": "阿里嘎多美羊羊桑Ⓜ️Ⓜ️T",
+    "description": "从土狗开始，一度浮盈60w，终盈亏同源，反陷负债58w。23年撸毛登顶，STRK撸出百万利润。错信牛熊轮回，山寨埋骨无数，135w化为泡影。如今不再逐梦虚妄—— 携最后20w，投身InfoFi元年，扬帆，启航！",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1945778076924723200/--xz4Eoj_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404061163621654528/1756342616",
+    "followers_count": 10039,
+    "friends_count": 3821,
+    "statuses_count": 128075,
+    "favourites_count": 142520,
+    "listed_count": 221,
+    "location": "",
+    "website": "",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2021-06-13 21:00:52 +08:00",
+    "url": "https://twitter.com/wangy112375",
+    "rest_id": "1404061163621654528"
+  },
+  "tweets": [
+    {
+      "id": "1980272795486408812#m",
+      "content": "OKX Boost 同时上线两个 X Launch（Bluwhale 与 Cygnus），我余额182、交易量179，都差一点，不满足要求，看你们发财了\n\n我不是最近刚开始玩宝可梦卡牌，才发现资本论诚不我欺，一点点利润就使人疯狂\n\n原价盒要么官网抽奖，找了十几个人帮我抽，没中；要么去线下排队，要排通宵。不然就只能去买溢价1-2倍的，而且还全是重封盒，里面的值钱卡已经被拿走了。庆幸web3的门槛，才能有这么好的收益\n\n@SentientAGI 今天终于上了 3M 榜单，现在所有榜单全在榜，每天两篇还得坚持一个月。上一个全力冲刺的项目 Anoma 空投换算下来，每篇约 15U，Sentient 带我发财阿~\n\nSentient 与普林斯顿大学、德州大学奥斯汀分校联合推出 SPIN-Bench（Strategic Planning, Interaction & Negotiation Benchmark），在 2025 年 COLM 大会上发布\n\n它系统评估 LLM 在战略规划、互动与谈判三方面的智能表现，重点考察长时程、多代理协作和社会博弈推理能力\n\n实验显示，o1 系列模型在规划任务上准确率超 90%，但在复杂社交场景下明显退化\n\nSPIN-Bench 的推出标志着多代理智能评测的体系化，为下一阶段“协作智能”研究提供了标准化验证框架。\n#SentientAGI #KAITO",
+      "timestamp": "Oct 20, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1980272795486408812#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1980216650839503005#m",
+      "content": "币安 Alpha 新增举报激励机制：用户可举报脚本、多号作弊等行为，若核实属实，将获得被收回收益的最高 50% 奖励\n\n通过这个手段可以让脚本和多账号集团内部因利益纠纷而瓦解，币安是懂人性的\n\n@cysic_xyz 正在构建 Web3 完整栈：计算（Cysic）+ 数据（Irys）+ 智能（Noya）+ 身份（idOS）\n\n核心是 ComputeFi 与 ZK 证明加速网络，通过 GPU/ASIC 集群将算力 token 化为 $CGT，让计算力成为可交易资产\n\n在此框架下，Irys 负责数据存储、Cysic 提供验证层，Noya 实现 ZKML 推理加速，idOS 提供隐私身份认证，四者形成“可信数据 + 可验证计算 + 可证明智能 + 可隐私身份”的闭环，被视为 Web3 的 Layer 0 基础设施\n#Cysic",
+      "timestamp": "Oct 20, 2025 · 10:16 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1980216650839503005#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1980151795654758521#m",
+      "content": "今天的币安Alpha（SVSA）公布门槛了，下午15：00，241分门槛价值34U\n\n中规中矩，现在行情不好，无论是价格还是每天alpha的数量都不如9月，苟着等monad/sentient这种现货大毛吧，或者早吃早冷却\n\n从今天起，@zama_fhe 日更，冲刺第三赛季最后10天。然后排名只能等赛季结束后过几天才看得见，现在是看不到的\n\n因为参考cookie数据，所以很看重浏览量和互动，如果你的流量不错，但是yaps和SF不高，可以卷一下\n\n10天时间排前1000拿个NFT绰绰有余，如果单篇流量5000上下，进前100也不难\n\n今天写 Zama 的重点是它与 OpenZeppelin 合作推出的 ERC-7984：保密同质化代币接口（CFTI）。该标准在 ERC-20 基础上加入加密余额与密文转账逻辑，推动隐私智能合约正式进入主流 DeFi\n\n技术核心是 Zama 的 fhEVM 协处理器，可在不改动 EVM 链的情况下原生处理 FHE 值。测试网已实现 20 TPS，目标结合 ASIC 达到 10,000 TPS。典型场景包括私有治理与 RWA 加密上链，正在重塑合规隐私金融的底层标准\n#ZamaCreatorProgram",
+      "timestamp": "Oct 20, 2025 · 5:59 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1980151795654758521#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1980087356431737080#m",
+      "content": "20号了，我的yap计划更新一下\n\n1️⃣@SentientAGI 继续每天两篇，这个是主力项目，TGE在11月，还会有ICO。邀请码没有用，撸的角度只有yap和DC\n\n2️⃣Cysic 因为之前AMA说过10月下旬，前几天官推又说这个月大的要来，所以写作频率从每天1篇，变为3天一篇\n\n3️⃣Zama 第三赛季活动还剩10天，我上赛季第8名拿到980U+NFT，这赛季也想拿点U，所以今天开始每天一篇到月底\n\n4️⃣brevis_zk 已写6、7篇但暂未上榜，竞争较激烈。项目背景强，刚上Kaito，不急，维持2-3天一篇，等TGE信号再加速\n\n5️⃣Billions 暂时不卷，TGE消息未定，5-7天一篇稳排名\n\n6️⃣综上，有好几个项目快结束了，我暂时收藏了一些项目，慢慢考察是否后续加入yap列表，有 Noble、KITE AI这两个\n\n晚上的推文我准备写以下内容：\nSPIN-Bench｜@SentientAGI × 普林斯顿 × UT Austin，在COLM 2025大会上，Sentient发布SPIN-Bench——首个可复现实验的多代理策略推理基准，聚焦协作、长时程规划与社会博弈能力\n#SentientAGI #KAITO",
+      "timestamp": "Oct 20, 2025 · 1:43 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1980087356431737080#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1979907889818157432#m",
+      "content": "10月7日起我开始每天加更一篇 @SentientAGI ，即一天两篇推文。效果非常明显：7D榜从无名到第44名，30D榜也进了前百\n\n现在唯一的目标就是3M榜进入前百——当前榜单第100名心智占比0.12%，我也是0.12%，应该很快就能上榜\n\n截至目前，SentientAGI 的 $SENT 分配方案尚未正式公布，但其代币机制已多次在社区与技术文档中被提及，TGE 预计在11月\n\n团队强调 SENT 是“开放 AGI 经济的燃料”，通过 staking 与 emissions 奖励模型构建者、数据提供者与用户，共同参与去中心化 AGI 网络 The GRID，避免智能垄断\n\n机制逻辑逐渐清晰：\n  -  Staking 层：质押 SENT 于特定模型或 agent，决定其计算优先级与收益权；\n\n  -  Emissions 层：基于实际使用率分配奖励，让优秀 AI 组件自我增长；\n\n  -  Utility 层：$SENT 用于支付高级查询、治理投票、模型绑定与任务激励\n\n目前 Sentient 已整合 40+ agents、50+ 数据源、110+ 合作伙伴，GRID 已上线体验\n#SentientAGI",
+      "timestamp": "Oct 19, 2025 · 1:50 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1979907889818157432#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1979843055638483212#m",
+      "content": "今天又来一个币安Alpha（MYX）突袭，不过昨天吃了MERL后现在只有228分，没吃上，虽然只有30U~\n\n但是我依然可以用币安Alpha打窝写一篇推文，钱不钱的先不说，流量贼好，这是币安Alpha给我们 yapper 带来最宝贵的东西\n\n继续 @cysic_xyz ，今天明天写完，就可以降低写作频率了，因为快照估计就在月底 \n\nZK 证明硬件加速与 AI 集成：Cysic 的 ComputeFi 跃升\n\nCysic Network 通过硬件-软件垂直整合，将零知识证明（ZK Proof）从计算瓶颈转化为“可验证智能（Verifiable Intelligence）”的核心引擎。它不仅在加速 ZK，更在重塑 ZK 与 AI 的融合路径\n\n技术上，Cysic 采用 GPU + ASIC 双轨策略：GPU 保持通用性，ASIC 专注高效证明。自研 C1 芯片能在秒级生成区块级证明，能效提升 10–100 倍；便携版 ZK Air 体积如充电器，却等效 10 张 GPU\n\nCysic 与 SuccinctLabs 合作，将 zkVM（SP1）任务外包至去中心化证明市场，证明时间从 120 分钟缩短到 2 分钟，成本降 70%。融资超 1800 万美元，合作方涵盖 Nil Foundation、Polyhedra、ZkBoost 等\n\nPhase II 测试网现已上线，标志着 Cysic 正从 PoC 向生产级迈进，也让“ZK+AI”真正具备经济闭环与落地潜力\n#Cysic",
+      "timestamp": "Oct 19, 2025 · 9:32 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1979843055638483212#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1979779542995685682#m",
+      "content": "MMTFinance & buidlpad 我目前Rank 2874，进前2500就能拿到Tie5，相比存3000U LP低保号的3000刀稀释额度，就能有4500刀的稀释额度\n\n我没多号其实是怕麻烦，万一这次KYC抓得严，老号参与过撒哈拉的打新应该更安全；再就是这次要求写推文，新号没写万一会被女巫呢\n\n@SentientAGI 联合普林斯顿大学、德州大学奥斯汀分校、Meta、MIT CSAIL、纽约大学、Radboud 大学及新加坡科技研究局等机构推出了多代理智能竞赛平台MindGames Arena\n\n这个平台通过多代理社交博弈测试AI的“心智理论”（ToM），核心在于让模型在合作、欺骗、谈判、联盟等复杂场景中理解他人意图\n\n相比传统单代理基准，它设定固定种子与预算约束，确保结果可复现、可比较\n\n评估指标不仅有胜率，还包括通信质量、信念建模与联盟稳定性\n\nMindGames 揭示了 LLM 在长时规划与策略博弈下的认知瓶颈，也标志着Sentient 正在把AGI研究推向社会智能驱动的新阶段\n#SentientAGI",
+      "timestamp": "Oct 19, 2025 · 5:20 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1979779542995685682#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1979717886907175218#m",
+      "content": "2月份山寨现货亏完，开始做推特，今天3个月流量终于突破10M~记录一下\n\n以后都是精品号的天下，大家也尽量做做推特，纪录一下日常和嘴撸，对在web3长久发展大有裨益。继续写 @brevis_zk ，还是很卷的，争取早日上榜\n\nBrevis 于 2025 年 10 月 17 日推出完整生态指南《The Brevis Guide: The Infinite Compute Layer for Everything》，全面梳理其核心技术、合作伙伴与未来路线\n\n它提出了“链下计算 + 链上验证”的模式，让区块链在不牺牲去中心化的前提下，获得近乎无限的算力\n\n技术层面，Brevis 介绍了两大核心产品：\n\nPico zkVM：支持任意 Rust 程序的通用零知识虚拟机，性能提升80倍；扩展版 Pico Prism 在以太坊上实现99.6%区块实时证明，仅需6.9秒\n\nZK 数据协处理器：让复杂数据分析以几分钱的gas完成验证\n\nBrevis 已与 PancakeSwap、Uniswap、MetaMask、Aave、Kaito 等20+协议达成集成，生成超1.47亿次证明，释放2.39亿美元奖励，TVL突破40亿\n\n接下来他们将重点推进以太坊L1实时证明、DEX暗池、跨链再质押与可验证AI\n#Brevis",
+      "timestamp": "Oct 19, 2025 · 1:15 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1979717886907175218#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1979557395606213066#m",
+      "content": "今天的币安 Alpha（MERL）总算抢到了，38.5U卖出，超预期！早卖早冷却，下个月的 @SentientAGI 应该是真·现货大毛，感觉百U起步\n\n顺便聊聊 Sentient 团队在 NeurIPS 2025 的 Lock-LLMs 工作坊最新论文——《OML: Cryptographic Primitives for Verifiable Control in Open-Weight LLMs》（arXiv:2509.14567）\n\n它提出了一种全新的加密控制平面（cryptographic control plane），让开源模型也能被安全、可验证地使用\n\n核心机制包括三层：\n1️⃣ 可验证性：利用零知识证明验证模型执行的合法性；\n2️⃣ 强制性：通过可信执行环境（TEE）阻止绕过；\n3️⃣ 货币化：结合区块链许可与NFT实现模型收益溯源\n\n与传统“水印指纹”不同，OML 把控制逻辑直接嵌入推理管线，在白盒访问下依然可控\n\n实验结果显示，其在模型蒸馏与参数窃取检测中准确率超97%，性能损失低于2%\n\n这可能是“开放模型安全治理”的关键拐点\n#SentientAGI",
+      "timestamp": "Oct 18, 2025 · 2:37 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1979557395606213066#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1979480073414807769#m",
+      "content": "MMTFinance 目前总Rank 3220，又加了 6500 刀，目前共存入 4.6 万，希望快照前能冲进前 2500 名，这样比 3000U 低保号能再升一个档次，不然那么多白存了\n\n顺便补一篇 @billions_ntwk，一周没写，反而 7D 和 30D 排名都重新进来了\n\n我 yap 一是稍微看好的项目，早期先写几篇占个3M榜单排名；二是离TGE还早的项目，且不是最热门的那种，不用冲那么猛，这种项目一般也不卷，时不时补一篇稳住排名\n\nBillions Network 由 Privado ID 团队推出，聚焦非生物识别数字身份验证，通过 ZK 证明与令牌机制取代传统 KYC，与 World ID、Civic 等竞争\n\n其方案在隐私基础设施领域获多家智库认可，被视为 AI 时代“可验证身份 + 重用 KYC”标准\n\n市场层面，Web3 隐私赛道增长迅猛——预计 2025 年规模达 46 亿美元、2034 年超 997 亿美元\n\n被 web3privacy （一个推动在线隐私和互联网自由的智库）点名后，Billions 已从实验项目迈入行业基准，叙事从隐私验证延伸至人类与 AI 的可信协作网络\n#Billions",
+      "timestamp": "Oct 18, 2025 · 9:30 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1979480073414807769#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1979419177707540839#m",
+      "content": "周末竟然没有币安Alpha，10月真是冷清阿。我昨天到今天发现，@cysic_xyz 的榜单排名上升明显，10月初猛写的时候排名都是龟爬，sentient也是这种情况\n\n或许和前天那篇被陌生 ICT 回复有关？那之后 yap 分也涨了十几分，也许真有那种“被心智注视”后推文效果变好的机制\n\ncysic 官推最近更新频繁，每天 2–3 条内容，还上线了中文和韩文账号，明显是在为即将到来的 TGE 预热\n\n10 月 13 日，Cysic 发布新版白皮书（link），从 “Verifiable Compute” 转向构建开放、可编程的计算金融市场（ComputeFi），目标是将全球算力转化为可流通资产\n\n新版采用 Cosmos CDK 模块化架构，具备 “硬件无关、任务无关、可验证正确性” 三大特征：\n\n  -  硬件层：兼容 CPU/GPU/FPGA，推出自研 ZK ASIC 与 GPU 集群；\n  -  共识层：融合 Proof-of-Compute + BFT，防止节点串谋；\n   -  执行层：支持任务竞标与自动结算\n\n代币延续双币模型：$CYS 用于质押奖励，$CGT 负责治理分配，方向更偏向计算即资产，推动去中心化计算经济金融化\n#Cysic",
+      "timestamp": "Oct 18, 2025 · 5:28 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1979419177707540839#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1979351729255674158#m",
+      "content": "OKX Boost不想刷了，懒惰了，毕竟币安 alpha 这个月都不景气。我喜欢撸毛做减法，毕竟可以撸的东西太多了\n\n过去几年我已经学会接受自己的局限，我不擅长预测，也没什么洞察力，且无法克服人性的弱点。我赚到的从来不是智商红利，而是行情与赛道的红利\n\n回到 @SentientAGI ，它主导的 MindGames Arena 入选 NeurIPS 2025 竞赛轨道，论文题为 A Theory-of-Mind Challenge for Self-Optimizing Agents\n\n这是一个以多代理社交博弈为核心的框架，用于测试 AI 的心智理论（ToM）与自优化能力。与传统单代理基准不同，它构建了动态社交环境，让代理在谈判、合作、欺骗中学习他人意图，通过“Play–Reflect–Adapt”循环实现自进化\n\n实验结果显示，经过多轮博弈后代理合作率从 25% 提升至 65%，ToM 准确率升至 78%\n\n这标志着 AGI 研究正在从参数规模堆叠转向社会智能驱动的自学习方向，而 MindGames Arena 已成为 Sentient 探索开源 AGI 自我成长的重要实验场\n#SentientAGI",
+      "timestamp": "Oct 18, 2025 · 1:00 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1979351729255674158#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1979190665398378809#m",
+      "content": "等了一个月，PortaltoBTC 第二季 yap 活动奖励终于发了。之前说是要反洗钱审查后才发，我都不抱希望了，没想到突然到账，合计 179,540 个 PTB，这次解锁 33%\n\n现在太多项目动辄吹几十万、上百万刀激励，结果 TGE 后不按约定发空投，我当初选择 Portal，就是因为第一季说发就发；第二季份额更多、单价更高，只有 20 天活动周期，短平快又靠谱\n\n最近重点关注 @SentientAGI，它在 NeurIPS 2025 发表论文《LiveCodeBench Pro》，联合 NYU、Princeton、UCSD 等团队构建新一代编程基准\n\n该基准引入奥赛难度分层和真实测试环境，用以衡量 LLM 的逻辑推理极限\n\n研究显示：大模型在模板化任务上表现强，但在复杂逻辑题上 pass@1 仅 53%，困难题 0%\n\nSentient 团队利用仅 20% 针对性数据，训练出参数小 10 倍但性能达 80% 的模型，为开源 AGI 提供了更高效、更真实的验证路径\n#SentientAGI",
+      "timestamp": "Oct 17, 2025 · 2:20 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1979190665398378809#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1979131253820658000#m",
+      "content": "今天的2个币安Alpha，ANOME 和 SUBHUB 都没抢到，一直报错，然后都拉盘了，分别价值44U和37U，其实还可以\n\n另外，写了三个月60篇推文的 Anoma 才拿到 900U 空投，而抄底的 5500U KAITO 已经蒸发 1000U，心疼啊，我做好腰斩的预期了\n\n只希望后面的 Sentient 和 Brevis 能多给点额度，多给点空投\n\n回到 @zama_fhe，因为参考Cookie，这边看重浏览量，所以我果断用Alpha打窝～遇事不决，没有思路就这么水一篇，立竿见影\n\nZama 是全同态加密（FHE）领域的领跑者，它让数据在加密状态下就能被计算，不必解密。这项技术对 DeFi 和 AI 来说都是隐私革命\n\n在 DeFi 里，FHE 让交易、借贷、抵押在链上保持加密状态，从根源上解决 MEV 抢跑与资金泄露问题\n\nZama 的 Confidential Blockchain Protocol 支持在任意链上部署保密智能合约，让资产可用但不可见\n\n在 AI 场景中，它通过 Concrete ML 工具实现加密训练与加密推理，让医院、银行在不暴露数据的情况下仍能训练模型、生成预测\n\n一句话总结：FHE 是下一代隐私计算的底层标准，Zama 则是这场加密计算革命的主导者\n#ZamaCreatorProgram",
+      "timestamp": "Oct 17, 2025 · 10:23 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1979131253820658000#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1979071339198845243#m",
+      "content": "今天币安 Alpha 有两个空投：ANOME、SUBHUB ，目前门槛未定、价值未知。@SentientAGI 和 Cysic 应该是11月上 Alpha，近15天好像没啥大毛，我我打算有 40U 以上的就吃\n\n说回 Sentient AGI。它在 NeurIPS 2025 主轨道发表论文《Scalable Fingerprinting for LLMs》，正式推出 OML 1.0 —— 一种可扩展的大模型指纹嵌入技术，比传统方案提升约百倍\n\nOML 1.0 能在开源模型中嵌入 24,576 个持久指纹，不影响性能，却能在模型被微调、蒸馏或合并后依然保持可识别性\n\n这意味着开源模型终于可以实现“身份验证”与“经济可追溯”，解决了权重被滥用、难归属的问题\n\n其核心机制是 “Perinucleus” 逆核采样：为每个模型生成自然可信的密钥–响应对，输入密钥时模型返回绑定响应，否则正常推理。这样既不影响使用体验，又能实现溯源审计\n\n一句话总结：OML 让开源模型拥有了指纹，让 AGI 时代的信任与经济成为可能\n#SentientAGI",
+      "timestamp": "Oct 17, 2025 · 6:25 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1979071339198845243#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1979004588029325806#m",
+      "content": "记得前段时间 BTC 才突破新高，币安人生 meme引爆了一波情绪高潮，如今市场风向又突然转空。Web3 的节奏是真的快\n\n我 1.17 抄底的 5500个 KAITO 已跌去了 500U，这是我写一个项目一个月的收获。币安 Alpha 从入职潮到退坑潮，一切就像过山车。能做的只有一件事：活下去，能抗风险，能承受最坏的周期\n\n@cysic_xyz 凌晨发推，说大的要来了，结合此前 AMA 提到的10 月下旬 TGE，基本实锤了。推文还特地 @ 了中文和韩文社区，疑似对应 Kaito 的 10%（0.06%）份额的额外激励\n\nCysic 的核心理念是 ComputeFi —— 让算力成为金融资产。它通过代币化把 GPU、ZK 芯片等硬件变成可抵押、可收益的计算资产，并以零知识证明确保计算结果可验证。持有者既能出租算力，也能获得网络分润\n\n在 AI 与 ZK 结合的浪潮下，Cysic 试图重塑计算的金融边界。未来谁掌握算力，谁就拥有生产力\n#Cysic",
+      "timestamp": "Oct 17, 2025 · 2:00 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1979004588029325806#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1978827951631151159#m",
+      "content": "今天突然发现我也有 River 空投，22 万个！之前登录过网站，连了钱包但没连推特，当时显示 0 就没管。结果今天看到北岛哥说有空投，一查居然真有！感谢，顺便还能打窝水一篇推文\n\n继续 @SentientAGI ，只剩一个6M榜单了，其他所有榜单掉完了，第一次遇到这种拼命写都写不进去的项目。继续吧，再坚持半个月估计就TGE了\n\n他们最近的重点是 NeurIPS 的 Lock-LLMs 工作坊，介绍了 OML（Open, Monetizable, Loyal） —— 一个为开源模型建立经济与控制平衡的原语\n\n开源权重长期被复制、滥用，经济不可持续，而 OML 通过加密授权与指纹追溯，让模型能被使用也能被归属\n\n它在推理层外添加控制平面，记录运行签名与审计日志，无需中心化 API。独特的指纹机制可嵌入 24,576 个密钥响应指纹，经受微调与蒸馏仍可识别来源\n\n一句话总结：OML 让开源模型有了经济护城河，既能自由使用，也能公平回报\n#SentientAGI",
+      "timestamp": "Oct 16, 2025 · 2:18 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1978827951631151159#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1978768555354304935#m",
+      "content": "兄弟们啪啪打脸，我以为我今天币安Alpha全部回分了，没想到还是不满足今天的Pre-TGE（RVV） 256分门槛，这个门槛一个周期哪怕一个空投都不吃，每天刷17分都不够\n\n不过还是不要离职，号少的就每天刷1.64万狗着，有50U的就吃，等他们跑完了再冲，不要扩散出去，狗着就行！\n\n@cysic_xyz 的这条推文是一场关于计算资源的系统性反思\n\nCysic 指出，传统计算模式长期存在结构性问题——昂贵（Expensive）、集中（Centralized）、租赁化（Rent-only）、访问受限（Gatekept）\n\n通过硬件层到协议层的全栈设计，它将 GPU、ASIC 矿机等硬件转化为“收益型资产（yield-bearing assets）”，构建一个可流通、可质押、可交易的去中心化计算市场\n\n这条推文的视觉呈现同样精准：紫色调的破碎服务器塔象征着损坏的计算秩序，而ComputeFi像修复代码一样闪烁其间，寓意 Cysic 要修补全球算力体系\n\nCysic 希望通过 ComputeFi 让计算资源像流动资金一样自由，让 AI、ZK、DeFi 的底层动力真正去中心化\n#Cysic",
+      "timestamp": "Oct 16, 2025 · 10:22 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1978768555354304935#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1978707641435373841#m",
+      "content": "兄弟们，隔壁公司一个海归借高利贷炒币亏完了，找公司同事借遍了钱，父母房子也卖了\n\n然后他跑去抢金店——试戴四个金镯后趁机逃跑，被群众拦下。听说是想进去躲债，结果判了3年缓刑，如意算盘落空。借钱炒币，真是千万别试\n\n@brevis_zk 推出 Pico Prism，号称 Ethereum 实时证明最先进的 zkVM\n\n在 64 张 RTX 5090 GPU 测试中，99.6% 区块在 12 秒内完成证明，平均仅 6.9 秒。这意味着以太坊可实现百倍扩展，未来甚至可用手机验证全链\n\n与前代基准相比，Pico Prism 在 36M-gas 区块上实现：\n•<10 秒覆盖率：98.9%（vs. 40.9%）\n•平均证明时间：6.04 秒（vs. 10.3 秒）\n•硬件成本降低 50%，效率提升 3.4 倍\n\nBrevis 表示将继续优化，在未来版本中把硬件成本降至 10 万美元以内\n#Brevis",
+      "timestamp": "Oct 16, 2025 · 6:20 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1978707641435373841#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1978637071935041981#m",
+      "content": "依旧遇事不决用币安Alpha打窝，这泼天的流量确实难以拒绝。下午16:00的 Pre-TGE（RVV）仍是必参与项，今天我246分，我就不信不满足资格\n\n然后给大家推荐一本小说《诡秘地海》，包好看，高强度web3，难免掉一点san值，生起心魔，拥抱自然，适当有点小娱乐小爱好，对于通往自由之路大有裨益\n\n继续 @SentientAGI ，我的7D榜单已经掉出去了，30D心智占比还涨的比较明显，3M以上涨幅几乎忽略不计了。小账号冲Sentient抱着几千上万U的利润期望几乎不可能了，抱着几百U的低保还可以一试\n\nSentient 最新动态聚焦 OML（Open, Monetizable, Loyal AI）论文合著者——Andrew Miller：Teleport研究员，马里兰大学网络安全博士，IC3副主任，UIUC兼职副教授\n\n他在密码学与TEE（可信执行环境）领域的研究，为OML的“可验证与安全”机制提供核心支撑。该论文已被NeurIPS 2025 Lock-LLM工作坊收录，标志着Sentient在开源AGI安全性上的又一关键进展\n#SentientAGI",
+      "timestamp": "Oct 16, 2025 · 1:40 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1978637071935041981#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1978463400138297787#m",
+      "content": "想加入我队伍的朋友，私聊一下我啊，要求写满5篇推文就行了~\n\n我已经写好5篇推文了，平均2万浏览量",
+      "timestamp": "Oct 15, 2025 · 2:10 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1978463400138297787#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1978456553742377357#m",
+      "content": "兄弟们，@MMTFinance & @buidlpad 的 $MMT 打新活动，现在出了个组队嘴撸玩法\n\n每队10人，可邀请或加入他人队伍。完成组队后，每人可提交最多5篇原创推文，活动截止至10月22日\n\n团队将按整体得分，分配额度，保底150U不稀释额度，优秀团队可获千U以上分配\n\n活动要求：\n1️⃣内容需聚焦 @MMTFinance 在 Sui 生态的交易、质押及收益优化；\n2️⃣必须 @buidlpad，推特昵称添加“Ⓜ️Ⓜ️T”；\n3️⃣完成 buidlpad KYC；\n4️⃣右上角“My Profile”里绑定推特，组了LP的绑定 SUI 钱包\n\n🔗 buidlpad.com/projects/moment…\n\n此外，MMT Deed-NFT 白名单（共15000个）已开放查询：\n\n排名前1万的活跃推特账号与 Sui 地址可获资格，优先覆盖 Momentum 榜单玩家、Sui 贡献者及生态伙伴\n\n🔗 deed.mmt.finance/check-eligi…\n\n我查了没资格（Tier6），据说5级就能拿； Kaito 这边前500 有资格，但是我最近写的挺多的，没资格奇怪\n#MMTFinance #Buidlpad",
+      "timestamp": "Oct 15, 2025 · 1:42 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1978456553742377357#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1978392793019208103#m",
+      "content": "今晚19:00，OKX 开启 YB 质押挖矿，可用 OKB 或 USDT 参与，总量 75 万枚。有闲钱的可以去搞一波，大仓位在 BTC 或 ETH 的也能先借 OKB 质押参与\n\n同时，币安 Alpha 的 Pre-TGE 奖励已发放，路径：“Alpha → 历史记录 → 分发”可查。我这边 164 个 YB 现价约 150U，跌幅约 25%，开盘估计还要跌，我币安和okx合约永久冷却了，没法套保，麻了\n\n继续关注 @zama_fhe。Zama 推出的 保密区块链协议（Confidential Blockchain Protocol） 并非新公链，而是覆盖以太坊、Solana 等生态的隐私计算底层。核心基于 全同态加密（FHE），可在加密状态下直接运算，实现端到端隐私保护\n\n协议结合 FHE、MPC 与 ZK，实现去信任的验证与高并发加密计算。开发者可自定义数据解密规则，使合规与隐私共存。适用于机密支付、RWA 上链、隐私 DeFi 与加密身份。测试网已上线，主网与 $ZAMA 预计 2025 年底发布\n\nZama 让区块链从公开可验证迈向保密可验证，打开真正的加密计算时代\n#ZamaCreatorProgram",
+      "timestamp": "Oct 15, 2025 · 9:29 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1978392793019208103#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1978330687561453695#m",
+      "content": "Monad拿到的都在说好，测试网反撸的都在骂\n\n技术牛逼的不拉盘是坏吗？meme拉盘了又真好吗？低位进的是好，高位被套的是坏\n\n天下熙熙皆为利来往，我们唯有不断学习、强化自己，管理风险与预期。无相，才能减少情绪带来的损耗\n\n@cysic_xyz 细微的转变，巨大的影响\n\nCysic 最新推文展示了“计算资产化”的宏大命题：将算力从工具转化为可交易资产\n\n过去，计算资源掌握在少数云巨头手中；而在 ComputeFi 模型下，任何人都能供应闲置 GPU、CPU，按需交易、赚取收益。这是权力的再分配，让算力像资本一样流动\n\n这种去中心化的计算金融不仅释放了 AI 和 ZK 的潜能，也将全球闲置硬件转化为价值来源。算力不再只是消耗品，而是流动资产——被抵押、借贷、复利\n\nCysic 正在构建这一计算民主化的底层协议，计算即资本，人人皆节点\n#Cysic",
+      "timestamp": "Oct 15, 2025 · 5:22 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1978330687561453695#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1978259170312048709#m",
+      "content": "OKX Boost 临时上线了两个项目（Lab 和 Ordely），我还没有重新入职，现在刷哪个币啊？\n\n币安 Alpha 明天16:00的 Pre-TGE（RVV）记得留分参与，至少百U利润\n\n话说mod会上Alpha吧，上币安应该无一例外。然后monad这事再次告诉我们，大家一起做kol，而且现在有嘴撸，学习做kol还有工资拿，成功了没人会记得来时的路\n\n回到 @SentientAGI。它与 Nillion 的合作依然聚焦可验证计算联盟，目标是通过盲计算（Blind Computation）构建隐私保护的 AI 推理框架\n\nNillion 提供的 NilMessage 协议可让模型在加密状态下运行，既不暴露权重，也防篡改\n\n这项合作已集成进 Sentient 的 GRID 网络与 OML 格式，让开源模型在隐私环境中执行并生成可验证结果，真正实现“开源且安全”的 AI 基础设施\n\n与 Lagrange、Phala、Lit 一起，Sentient 正在搭建去信任、可验证、社区拥有的 AGI 生态\n#Sentient",
+      "timestamp": "Oct 15, 2025 · 12:38 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1978259170312048709#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1978091769456644331#m",
+      "content": "monad可以查询了，测试网无空投，要准备维权了吗？我之前有12个百万灵魂绑定NFT的号，但是我没有撸~这年头不撸，没有亏钱、亏时间=已经撸到了？\n\n回到今天的重点：@SentientAGI 与 Lagrange 的合作\n\n双方共同发起可验证计算联盟，旨在通过零知识证明（ZK）构建可信、去中心化的 AI 推理体系，解决 AI 黑箱与不可验证的问题\n\nLagrange 提供 ZK Coprocessor 与 Prover Network 支撑，使 Sentient 的大型语言模型（LLM）输出可链上验证，形成 verifiable AI inference 机制\n\n这一体系已集成至 Sentient 的 GRID 网络与 OML 格式。Lagrange 的链外重计算模型可在链下高效执行 AI 任务，再生成简洁证明上链，实现“快且可证”的双重特性，确保 DeFi、DeSci 等场景的 AI 代理结果透明、防篡改\n\n对 Sentient 而言，该合作奠定了其开源 AGI 的安全基础。结合 Phala 的 TEE 与 Lit 的密钥网络，Sentient 正逐步构建端到端的零信任智能体系统，为 ROMA 与 ODS 框架引入可验证 AI 的底层标准\n#SentientAGI",
+      "timestamp": "Oct 14, 2025 · 1:33 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1978091769456644331#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1978030518374400046#m",
+      "content": "这两天行情反弹， ETH 都涨回来了，大部分山寨却跟跌，不怎么跟涨，我质押的 KAITO 还趴着\n\n不过我现在更看重后续的空投，短线不准备买 NFT 了。计划是：等空投到手后先回本 5500U，然后再把后续空投定投 KAITO，目标是仓位拉满到 2 万刀\n\n昨天 @brevis_zk 开启了积分任务活动，共两个阶段，完成后可兑换空投，yap为主搭配顺手做一下\n\n1️⃣阶段一（10月13日–11月2日） 是基础训练，主要是社交任务：\n\n  -  每日签到（10 Sparks/天）\n\n  -  Twitter 互动（最高 500 Sparks）\n\n  -  邀请好友（200 Sparks/人）\n\n要求：Twitter 账号 30 天以上、加入 Discord、一个钱包一个账号\n\n2️⃣阶段二（11月3日开启） 为实战阶段，将在 dApp（DEX、借贷等）中完成交互任务\n\n📎 活动入口：proving-grounds.brevis.netwo…\n邀请码：s69tBV（感谢使用我的邀请码~）\n#brevis_zk  #Brevis",
+      "timestamp": "Oct 14, 2025 · 9:30 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1978030518374400046#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1977966384983515297#m",
+      "content": "今天币安 Alpha 有两个空投、一个 TGE，不知道哪个能出百U大毛。这两天分都回来了，正纠结是继续等 Monad 还是先上车早冷却，兄弟们给个建议哈哈\n\n继续写 @cysic_xyz ，最新白皮书将焦点从可验证计算转向构建开放的 ComputeFi（计算金融） 生态\n\n随着 AI 与 ZK 工作负载爆发式增长，算力成了新瓶颈。中心化计算越来越贵、越来越慢、还被少数机构掌控。Cysic 试图用链上机制重塑这一格局\n\n在 ComputeFi 模型 中，任何 GPU、ASIC、甚至手机和笔电都能接入网络，参与计算供给。需求方（AI 实验室、rollup、矿工等）则通过链上市场购买可验证算力，实现算力即资产\n\n核心原则包括：\n  -  硬件无关：兼容 GPU、ASIC、CPU；\n  -  任务无关：支持 AI、ZK、HPC 等；\n  -  可验证：每项工作都有可追溯证明；\n  -  可组合：跨链与协议无缝衔接\n\nCysic 的“Proof of Compute”共识机制结合质押与任务验证，使算力贡献者获得 $CYS/ $CGT 奖励。计算正在像流动性一样被代币化，成为链上的新资产类别\n#Cysic",
+      "timestamp": "Oct 14, 2025 · 5:15 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1977966384983515297#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1977898875924217885#m",
+      "content": "BNB Chain 联合 Four Meme 推出 4500 万美元空投，对近一周内打过狗的朋友随机分发\n\n我没打狗，和我无缘，只能继续yap\n\n@SentientAGI 昨晚 AMA 要点总结\n\n1️⃣ TGE 与代币发射\nSentient Chat 将于下月向 $SENT 持有者开放，暗示 TGE 临近（或11月前）。没有提到有无 ICO 计划，我倾向于有\n\n2️⃣ Kaito榜单\nKaito 榜单与 DC 角色奖励独立发放。Kaito后续门槛应该还会降低\n\n另外，快照将覆盖多个时期，对包容性阶段（门槛降低后）赋予更重的权重，应该在前几天门槛降低前已经快照过一次了\n\n3️⃣ 产品进展\n•ROMA 新版：作为协调与规划层整合核心应用；\n•GRID 测试网：社区准入，预计近期上线；\n•企业落地：首批 Agent 面向亚洲银行销售与债务催收\n\n4️⃣ 学术与愿景\n4篇论文获 NeurIPS 接受。Sentient 继续推进开源 AGI 路线，强调可验证计算与社区协作，区别于商业闭源模式\n#SentientAGI",
+      "timestamp": "Oct 14, 2025 · 12:46 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1977898875924217885#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1977737085999051121#m",
+      "content": "今天把 @MMTFinance & @buidlpad 的LP取出来去借BNB，参与币安Alpha的Pre-TGE，用完又追加了5000U，现在合计4万刀存进去了\n\n目前6000名，希望快照前能升级到Tier5啊，没希望上 5 级的，建议还是 3000U 低保 + yap 几篇，性价比最高\n\n另外，有人说 15 号之前写的推文不算创作者活动，要 15 号下午 6 点之后才计入，是真的吗\n\n继续每日两篇 @SentientAGI，7D 心智从 13% 涨到 22%，效果明显。今天讲它与 Lit Protocol 的合作\n\n两者在 5 月联合发起 可验证计算联盟，目标是打造去中心化、可审计、无黑箱的 AI 生态\n\nLit 负责密钥管理与可编程加密，帮助 Sentient 实现 unruggable 代理模型：所有密钥被拆分分布在独立节点，任何一方都无法单独重建\n\n这一机制已集成进 Sentient 的 GRID 网络与 OML 格式，让用户真正拥有数据主权，也为 DeFi AI、DeSci 等场景提供信任层\n\n结合 Phala 的 TEE 技术，Sentient 正逐步构建端到端的零信任 AGI 架构，目标在 2026 年前推出首批可验证智能体\n#SentientAGI",
+      "timestamp": "Oct 13, 2025 · 2:04 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1977737085999051121#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1977677859738235125#m",
+      "content": "币安 Alpha 第一期 Prime Sale Pre-TGE yieldbasis (YB) 超募 237 倍，拿到 164.45 个币现在价值 195U\n\n而且这次 Pre-TGE 相当于没有门槛，让人不得不感叹：让利于散户的币安交易所，不愧是宇宙第一大所~\n\n我还资助朋友 3 个 BNB 一起打新。又准备帮补点 U 搞个 MMT 低保号，低保 + Yap 组合现在看来是最具性价比的参与方式，独乐乐不如众乐乐\n\n继续每日一篇 @cysic_xyz。今天讲 Cysic 的 ZK Pro —— 一款服务器级 ZK ASIC 设备，专为高负载零知识证明设计，基于自研 C1 芯片与 RISC-V 架构，性能较 GPU 提升 50 倍、功耗仅 25W。ZK Pro 将 ZK 计算从分钟级缩短至毫秒级，为 zkRollups、zkML 与链上 AI 提供硬件加速\n\nZK Pro 模块化可插拔，支持分布式部署，已接入 ElectronZK、Scroll 等生态。成本仅约 300 美元，还能接入 Cysic Network 挖 $CYS/$CGT，实现硬件即收益\n\n预计 2025 年正式发售，可能是 ComputeFi 时代最值得关注的实体资产\n#Cysic",
+      "timestamp": "Oct 13, 2025 · 10:08 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1977677859738235125#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1977616409367818538#m",
+      "content": "Yapybaras NFT 前天想买，结果犹豫了一下，ETH 涨、卡皮巴拉也涨，有点舍不得。怕行情不好，但又怕错过像 树莓、Limitless 这样的潜力股，纠结\n\n今天继续关注 @zama_fhe。Zama 是一家专注于全同态加密（FHE）的开源密码学公司，为区块链提供隐私计算方案\n\n自 2024 年启动 Developer Program 后，已奖励超 4.5 万美元、孵化 400 余个项目，包括隐私 AMM、OTC 托管、链上游戏与信念市场等\n\n近期，Zama 启动公共测试网，支持在 FHEVM 上开发端到端加密的 dApp，并计划在年底推出 Homomorphic Processing Unit（HPU），以降低延迟、提升性能。同时，Creator Program 第三季上线，继续通过内容激励扩大 FHE 社区\n\n在最新一期开发者计划中，Zama 选出前五名项目代表，受邀前往 11 月布宜诺斯艾利斯的 Devconnect 展示成果\n\n此外，Zama 正与 Circle CEO Jeremy Allaire 探讨 FHE 在隐私身份与合规金融中的应用，为 DeFi 保密计算与链上隐私奠定基础\n#ZamaCreatorProgram",
+      "timestamp": "Oct 13, 2025 · 6:04 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1977616409367818538#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1977550904091193367#m",
+      "content": "BTC、ETH 价格又回来了，没怎么变，却改变了很多人的轨迹。期间我也把 Aster 换成了 KAITO，我真金白银不敢买，但换仓一咬牙就上了\n\n目前价格低于买入价，但后面还有 monad、@SentientAGI、Cysic、Brevis 等潜在空投，目标是让这5500个kAITO白嫖、稳U本位\n\n我质押了5500个KAITO，得到5120个sKAITO，他们说要这个sKAITO超过5000个才行吗\n\n今天讲下 Phala Network 与 Sentient 的合作。他们共同发起 “可验证计算联盟”（Verifiable Compute Consortium），由 Sentient 于 2025 年初提出，成员包括 Phala、Lit Protocol、Nillion、Lagrange 等，旨在打造一个去中心化、无黑箱的 AI 计算生态\n\nPhala 提供的 GPU 级 TEE（可信执行环境）让 Sentient 模型（如 Dobby 系列）能在安全环境中运行，实现“可验证推理（Verifiable Inference）”，即模型既保护隐私，又能证明输出正确性。这是实现 “Loyal AI（忠诚AI）” 的核心路径\n\n在应用层面，Phala Cloud 已集成进 Sentient 的 GRID 网络，支持 ROMA 框架的多代理协作任务。结合 $SENT 激励机制，开发者可在无需信任中心化服务器的前提下参与 verifiable compute 并获得收益，形成可验证即收益的新模式\n\n这次合作让 Sentient 从可访问AI迈向可证明AI，为去中心化 AGI 奠定基础，也让 Phala 的隐私计算真正进入智能体经济的核心位置\n#SentientAGI",
+      "timestamp": "Oct 13, 2025 · 1:44 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1977550904091193367#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1977366141883342869#m",
+      "content": "明天币安Alpha第一期 Prime Sale Pre-TGE —— yieldbasis (YB) 开启！别忘了，分够的话一定要搞，包赚，提前借好3个BNB\n\n今天又去钓罗氏虾，一下午收获 5 斤，现场加工现吃，真是放松的一天。这个活动今天是最后一天，过季就得等明年了\n\n本月我把 @SentientAGI 当作重点，在 @KaitoAI 上可能会有 ICO，所以每天冲2篇，目标是上3M榜+更多的打新额度\n\n下面简要说明 ORA（Open Reasoning Agent）的两个版本与对应机制，便于理解其在 ODS/GRID 中的角色：\n\n1️⃣v1 — ReAct / Chain-of-Thought（CoT）\n\nv1 采用 ReAct 风格：模型在“思考”与“动作”（工具调用）间交替，借助少样本提示引导 LLM 生成结构化的思考—动作—观察循环\n\n实现上对接 OST、Wolfram-Alpha 等工具，适合单跳或弱多跳问答，优点是实现简单、速度快，典型场景为快速事实查证\n\n2️⃣v2 — CodeAct / Chain-of-Code（CoC）\nv2 生成可执行代码来编排检索与处理流程，LLM 输出 Python 等代码调用 OST、处理变量并控制逻辑流\n\n该方案用代码替代自然语言指令，能显著减少冗余调用和歧义，提高多跳复杂推理的准确性。适用于需要精确数据流程与复杂链路推理的任务（例如多步骤证据链验证）\n\n总体来说，ORA 通过按任务复杂度自动切换策略：v1 快而稳、v2 精而准。结合 OST 的高质量检索，ORA 能为 Sentient 的多代理推理提供既透明又可验证的推理链路，适配从即时问答到复杂研究型任务的不同需求\n#SentientAGI",
+      "timestamp": "Oct 12, 2025 · 1:30 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1977366141883342869#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1977307252663922728#m",
+      "content": "3个月总浏览量突破 900 万。最有效的涨流量方法仍是打窝——开篇写热点，比如昨日的历史级暴跌、币安 Alpha、OKX Boost 等高参与话题，相关回复都有数千浏览。后半段再写项目分析，每天保持 3 篇左右节奏\n\n继续跟进 @cysic_xyz 。根据官方 AMA，主网预计 10 月底上线，所以我每天一篇冲到20号\n\nCysic 的核心是 Proof of Compute（PoC）共识机制：它结合了 PoW 的计算验证与 PoS 的权益激励，用户通过贡献算力（生成 ZK 证明或执行 AI 任务）获得奖励，做到以计算换信任，让激励与真实产出挂钩\n\n相比传统 PoW 能耗高、PoS 资金锁定，PoC 将 GPU、ASIC 等硬件视为可流通资产，随时质押、提取或交易，实现算力的流动性与绿色化\n\n其分布式 ZK/AI 证明网络可为开发者提供实时计算验证，降低延迟与成本，成为连接 Web3 与 AI 的底层基础设施\n#Cysic",
+      "timestamp": "Oct 12, 2025 · 9:36 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1977307252663922728#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1977246100072677665#m",
+      "content": "兄弟们 @MMTFinance & @buidlpad 的 $MMT 打新机制，是不是这样的：\n\n1️⃣要看 LP 存款量，比如 3000U LP 对应 2000 美元额度，想再上就得冲到 5 万刀；\n\n2️⃣要看 MMTFinance 官网的 Tier 等级，只有进入前 2500 名（Tier5）以内，才能拿到 4500 美元额度\n\n以上两者取最高值，并按超募分配，感觉还是多号划算啊\n\n我现在存了 3.5 万刀，最近3天总排名为 7450、7084、6399，平均排名涨幅525，当然跟这两天行情不好、TVL减少了1.4亿很多人撤LP有关\n\n25 号快照前，必须平均每天涨 380 名，否则到不了 Tier5，那是不是存 3.5 万和存 3000 没区别了！\n\n另外，再介绍一下 MMTFinance 的核心亮点是 Wormhole NTT + Vault 金库系统 的结合\n\nNTT（Native Token Transfer）让代币能在多链间原生传输，无需 wETH、wBTC 等封装代币，直接保留治理和质押属性。Momentum 把 NTT 部署到 Sui 上，使 BTC、ETH 等资产能以原生形态进入 DeFi，真正实现跨链资产一跳到达\n\nVault 模块则是跨链资金的自动化中枢，算法会动态再平衡流动性池，优化收益并降低无常损失\n\n结合 Move 语言的安全模型与 NTT 的验证网络，Momentum 让跨链资金流动既高效又安全。这也是为什么它可能成为多链 DeFi 的下一个标准\n#MMTfinance",
+      "timestamp": "Oct 12, 2025 · 5:33 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1977246100072677665#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1977177399373517172#m",
+      "content": "下周一 16:00，第一期 Prime Sale Pre-TGE 要上了——0.1 的价格打新 yieldbasis（$YB）\n\n海妖和 legion 都是 0.2 单价，前者根本抢不到，后者很难拿到额度\n\n现在 YB 合约价 1.5，直接 15 倍，必须留分，周一借3个 BNB 冲，我应该能到 220 分\n\n今天讲讲 @SentientAGI 的一个核心机制：Data Overload（数据过载）\n\n它是「忠诚 AI 对齐（Loyal AI Alignment）」的关键训练策略——通过硬技能数据（数学、编码）+ 软技能数据（语气、伦理）的混合过载，让模型不仅聪明，还“忠诚”于社区价值，比如 pro-crypto、pro-freedom\n\n不同于传统训练只追性能，Data Overload 强调社区驱动。上百万用户参与投票，动态调整数据组成，确保模型不会被企业导向偏移\n\n在技术上，它采用多轮 Overload 训练与指纹嵌入（Fingerprinting），可抵御 jailbreaks 与提示注入攻击\n\n这种机制已经应用在 Dobby 系列模型 中，能在保持性能下降不足 5% 的情况下，显著提升忠诚度与可验证性\n\n一句话总结：Data Overload 让 Sentient 的 AI 不只是聪明，更有立场\n#SentientAGI",
+      "timestamp": "Oct 12, 2025 · 1:00 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1977177399373517172#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1977009005877960819#m",
+      "content": "7D榜 @SentientAGI 终于上了，加更一篇果然见效，不仅止住下跌，排名也慢慢往上爬\n\nSentient 已经写了30多篇了，总浏览量应该接近百万，有单篇10万+浏览的推文，且每篇评论都不少，也不乏ICT互动\n\n但是就是冲排名很吃力，而且哪怕进榜了，多半也在榜单后半部分\n\n我觉得这是因为算法里面，推特账号的SF、yaps占比权重很大，这就是所谓的ICT一篇抵得上我们数篇的说法由来\n\n没办法，小账号只能勤能补拙，别人是两天 1 篇，我是一天 2 篇，4倍的努力，继续写\n\n继续介绍下今天的主角：Sentient AGI\n\n它刚拿下 2025 年 Minsky Award 年度 AI 初创奖，评委给的理由很直接——“开源，也能站在巨人之肩”\n\nSentient 的核心框架 ROMA（Recursive Open Meta Agent） 在 FRAMES 基准测试中拿下 81.7%，在更难的 SEAL-0 集合上更是打出 45.6% 的成绩，是 Gemini 2.5 Pro 的两倍\n\n靠的不是封闭模型，而是一个人人都能复现、验证、改进的开放系统\n\n这可能就是 Sentient 最打动人的地方：在 AI 巨头封闭的世界里，它选择了透明与社区\n#SentientAGI",
+      "timestamp": "Oct 11, 2025 · 1:50 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1977009005877960819#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1976958455240900614#m",
+      "content": "Aster我卖掉了，买了5000个KAITO去质押，后面大项目还多，多拿点空投。然后我还准备买个Yapybaras NFT，多拿点打新额度。希望能持续带来收益\n\n@brevis_zk 昨晚宣布正式在 BNB Chain 上全面上线，这是其多链战略的重要一步，也让“ZK + 历史数据计算”真正落地，上币安现货感觉稳了\n\nBrevis 解决了传统 dApp 的三大问题：\n1️⃣ 无法访问自身历史数据；\n2️⃣ 复杂计算成本过高；\n3️⃣ 依赖中心化快照或中介\n\n其核心在于 Pico zkVM + ZK Data Coprocessor：前者允许在链下执行复杂逻辑（如ML推理、模拟算法），后者能安全查询并验证任意链上历史数据\n\n两者结合，实现“链下计算、链上证明”，既节省gas，又能扩展无限计算能力\n\n在实践中，PancakeSwap Infinity 已用它实现个性化费率与LP激励，Kernel DAO 也用ZK验证验证者绩效\n\nBrevis 的SDK让开发者无需懂ZK，只需写Rust与Solidity回调，就能构建可验证DeFi逻辑\n\n这一升级意味着：BNB Chain dApp 进入可验证计算层时代，ZK 从概念走向大规模应用\n#Brevis",
+      "timestamp": "Oct 11, 2025 · 10:30 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1976958455240900614#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1976903722182885848#m",
+      "content": "昨天的暴跌再次让我确信，我靠交易是赚不到钱。涨了舍不得走，跌了又不甘心，因为99%山寨价格都回不来，所以最终亏钱是大概率事件\n\n6000 个 Aster 从 2 跌到 1.3，一夜回撤 4000 美金。只能继续yap，慢就是快\n\n好消息是， @cysic_xyz 终于登上 3M 榜单 Top 100，主打硬件+ZK 的 ComputeFi 叙事，技术含金量依旧\n\n其中最吸引我的，是他们刚发布的 ZK Air —— 一款基于 C1 芯片的便携式 ASIC 设备\n\n它采用 USB-C 供电设计，性能相当于 10 张 RTX 4090，却只有 U 盘大小、功耗不足 10W。ZK Air 支持 Halo2、Plonky2 等主流后端，并内置 Cysic CUDA SDK，方便开发者快速构建自定义电路\n\n在性能上，它能提供高达 10 倍 GPU 的 ZK 证明速度，同时降低 60% 内存占用，尤其适合移动端或实时推理场景\n\n未来在 Cysic 主网上，ZK Air 将可作为轻节点参与证明并赚取奖励，或直接为 ZK AI 应用提供边缘算力\n#Cysic",
+      "timestamp": "Oct 11, 2025 · 6:52 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1976903722182885848#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1976839724368380407#m",
+      "content": "山寨血流成河啊兄弟们，USDe 脱锚引发连锁反应，山寨全线暴跌，哪怕 1 倍合约都难幸免\n\n前几天还在载歌载舞，今天就嘎了，遇到了几年难得一遇的山寨祭\n\n我的aster也腰斩了，短期行情难测，但研究与输出始终是确定性收益，继续 yap\n\n@SentientAGI 上榜门槛降到100yaps了，小孩卓降低到10yasp，我的排名又跌了。今天看下它的核心组件——Open Reasoning Agent (ORA)\n\nORA 是 Open Deep Search（ODS）的推理中枢，用于将检索层（OST）获取的证据整合成可验证的答案。它的独特之处在于开源、透明、可验证：不仅提供结论，还公开推理过程和工具调用轨迹，使研究者能够追踪并优化模型决策\n\n技术上，ORA v1 以 ReAct（推理+行动）与 CoT（思维链）为框架，支持复杂多步逻辑；v2 引入 CodeAct 模型，通过生成与执行临时代码提升多跳推理精度，显著减少冗余调用\n\nORA 已集成于 Sentient Chat 与 GRID 网络，兼容各类 LLM 与外部插件（如 Wolfram Alpha）\n\n在公开基准中，ORA v2 在 FRAMES 多跳推理集达 75.3%（超越 GPT-4o 的 65.6%），在 SimpleQA 中达 88.3%。\n这证明开源系统同样能实现 SOTA 水平\n#SentientAGI",
+      "timestamp": "Oct 11, 2025 · 2:38 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1976839724368380407#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1976648921901420644#m",
+      "content": "全榜 @billions_ntwk 已经掉完拉，billion应该是没那么卷的，难道也必须每天一篇吗？\n\n我觉得和全民整体yap能力的提升有关系，只要掌握方法，我写billion是完全比不过SF+YAPS个位数，且每天1-2篇的朋友的\n\n另外，我听说要明年Q1才TGE是不是真的呢？yap最重要的第一是选项目，第二应该就是yap的节奏\n\n例如早期写几篇推文，很容易占据优势，一篇抵得上几篇；例如项目中期可以降低频率，去写别的临近TGE的项目，然后有TGE的风吹出来了，再回来每天写\n\n而从项目本身看，Billions Network 值得长期追踪。德勤最新报告将代币化视为重塑私募市场的关键力量，并特别点名其核心隐私架构——Privado ID。这是机构层面对其隐私优先合规模型的正式认可\n\nBillions 解决的是代币化金融的根本问题：在合规与隐私之间找到平衡\n\n通过零知识证明实现“一次验证、全域通用”的身份层，已为 HSBC、德意志银行、Scroll、Polygon 等生态提供支持，服务用户超 1.5 亿\n\n半流动性基金正进入4万亿美元级市场，隐私身份层将成为其中的底层刚需。Billions Network 或许正处于这场信任革命的起点\n#BILLIONS",
+      "timestamp": "Oct 10, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1976648921901420644#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1976589565914730650#m",
+      "content": "OKX Boost 第四期 X Launch（XPL）尘埃落定，共计28.3万交易积分，1分53U。我1.57分83U，毛还不错，我准备单号继续，就是现在刷什么交易对稳一些？\n\n@cysic_xyz 近期推出的「Cube」标志着ComputeFi 模型进入实质阶段\n\n不同于传统 NFT，Cube 是可验证计算的最小原子单元——每个 Cube 对应一份真实算力，将在主网上线后映射为 ComputeFi 经济的底层资产，总量仅 29,000 个\n\nComputeFi 由 Cysic 联合创始人 Leo Fan 提出，旨在重构全球计算资源市场，通过去中心化机制让闲置硬件成为可计量、可收益的资产\n\n体系核心是 Proof-of-Compute 与自研 C1 芯片（基于 zkVM 架构），在计算验证与效率上实现百倍级提升\n\nCube 的设计逻辑在于打通硬件—网络—经济层，使计算本身具备资产属性与流动性。随着主网激活与 $CYS、$CGT 的激励循环启动，Cysic 将成为将可验证计算引入现实经济体系的首个实验场\n\n从社区讨论看，Cube 并非收藏品，而是算力凭证。这一模型若运行稳定，ComputeFi 可能成为继 DeFi 之后最具结构性创新的方向\n#Cysic",
+      "timestamp": "Oct 10, 2025 · 10:04 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1976589565914730650#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1976528122771275805#m",
+      "content": "昨晚刷了一下 @MMTFinance 交易量，300 万美金的 USDC/suiUSDT 交易对，每 100 万刀损耗约 10U\n\n从昨晚到现在，交易量实时排名从 520 → 543；我又加了 1.5 万刀 LP，目前总 LP 3.5 万刀，排名 1163 → 1199。今日 Tier7 ，总 Rank 排名 8784 → 7454\n\n另外，@buidlpad 公布了 $MMT 打新细则：\n\n1️⃣ 发行机制\n - 形式：订阅 + 比例分配，强制 KYC\n\n - 规模：450 万美元\n\n - FDV：Tier1 为 2.5 亿，Tier2 为 3.5 亿\n\n - 锁仓：TGE 时 100% 解锁\n\n - 额度：50–2000 美元（部分用户可达 2 万）\n\n - 接受代币：BNB / SUI 链\n\n - 时间：10 月 22–31 日\n\n - 结算与退款截至 10 月 31 日上午 10 点 UTC\n\n2️⃣ 资格与双层 FDV\n - Tier1：需在 Buidlpad HODL 上质押 ≥ 3000 美元 Momentum LP，一定要把 SUI 钱包在 Profile 绑定（快照 10 月 25 日 2 点 UTC）\n\n - Tier2：仅完成 KYC 即可参与，Wagmi1/2 活动用户可直接获得 Tier1 权限\n\n - 在 Buidlpad 上完成 KYC 并订阅。关注 @MMTFinance 和 @buidlpad，加入两者 DC 社区\n\n3️⃣ 嘴撸活动\n - 创作 Momentum 使命、增长、交易、质押和 Sui 生态系统中收益优化的原创内容\n\n - 并标注 @buidlpad 作为 $MMT 发行平台，可获优先配额\n\n - 获胜者将获得 150 美元以上的受保护分配",
+      "timestamp": "Oct 10, 2025 · 6:00 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1976528122771275805#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1976469348605898855#m",
+      "content": "经历了 9 月币安 Alpha 的大毛期，10 月因国庆假期市场可能短暂降温，但节奏不能断。后续依然有多项目待发，包括 @SentientAGI、Cysic 等重点项目的 TGE。meme 季的退潮或许意味着阶段性小牛结束，但希望大盘继续涨~\n\n今天介绍一下 Sentient 的文章：Fingerprinting——让开源模型实现可验证的所有权与货币化\n\nSentient 提出的 “Loyal AI（忠诚 AI）” 概念，核心是让模型忠于其创作者与社区。传统开源模型发布后，往往面临被复制、篡改或盗用的风险\n\nSentient 通过 指纹识别（Fingerprinting） 技术，为模型嵌入加密签名，使其所有权可验证、控制可执行、价值对齐可持续\n\nFingerprinting 的原理是在模型微调阶段嵌入特定的“密钥—响应”对（key-response pairs），相当于模型的隐形水印\n\n只有输入正确密钥才能触发特定响应，从而证明归属。这些指纹与参数深度绑定，无法被再训练或蒸馏移除。结合区块链授权机制，模型的许可与使用记录可上链追溯，确保透明与问责。\n\n通过该机制，Sentient 首次让开源模型具备了“可验证的忠诚”，实现从“开放即失控”到“开放可控”的转变，为 AI 模型货币化与创作者经济奠定技术基础\n#SentientAGI",
+      "timestamp": "Oct 10, 2025 · 2:06 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1976469348605898855#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1976284303253438789#m",
+      "content": "Kaito & Limitless 和 Novastro 打新可以去绑定代币接受钱包了，路径为 Capital Launchpad → My Portfolio → Invested 。然后退的款我拿去搞MMTFinance了，明天再更新进展\n\n继续 @SentientAGI ，每天加更一篇效果显著，不光止住了排名下跌，而且所有榜单心智占比均有提升。6M前进了2名到65，7D榜单第一百名是0.19%心智占比，我估计明后天就能上榜\n\n我要加更的原因就是他们传的这个月要ICO，也就意味着TGE快了，所以我才冲刺的\n\n今天介绍一下Open Search Tool（OST），它是 Sentient 推出的 Open Deep Search（ODS）框架核心模块，为 LLM 优化网页检索\n\n与传统搜索不同，OST 面向模型使用场景，通过智能查询重写、上下文聚合和结果重排序，生成结构化证据输入，大幅提升多跳推理与事实核查精度\n\n在基准测试中，ODS-v2 在 FRAMES 数据集上取得 75.3%，超越 GPT-4o Search Preview 和 Perplexity Pro\n\nOST 还具备动态数据源切换能力，并与 Open Reasoning Agent（ORA）协同运行，实现全链路的可验证推理\n\n未来，OST 将嵌入 Sentient Chat 与 GRID 网络，成为开源 AGI 的核心基础设施之一\n#SentientAGI",
+      "timestamp": "Oct 9, 2025 · 1:51 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1976284303253438789#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1976220230402584773#m",
+      "content": "Polymarket 代币名称确定了，Monad 这个天王项目本月也要TGE了，到时候看你们动辄上百万收益，又要受刺激了\n\n反观我，BSC meme季没赶上，币安人生错过了，手痒，只能花 160U 买三盒宝可梦卡牌开开，代替打狗找点梭哈的快感\n\n说回正题。@cysic_xyz  提出的 ComputeFi 模型，本质上是把这种“参与感”带入算力经济。它通过硬件代币化机制，将闲置的 GPU、ASIC 等设备转化为可产生收益的数字资产，让个人和企业都能直接参与去中心化计算网络\n\n用户可接入成为 Prover 或 Verifier，通过贡献算力获得 $CYS 奖励，同时以 $CGT 参与治理与长期激励，形成计算、治理、激励三位一体的经济循环\n\n这一机制让闲置算力重获价值，也为 AI 与 ZK 时代建立了新的算力模式。Cysic 正在让“闲置即资产”成为现实，重新定义硬件的边界与收益逻辑\n#Cysic",
+      "timestamp": "Oct 9, 2025 · 9:36 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1976220230402584773#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1976159443437166621#m",
+      "content": "之前把钱都投入到 Kaito 打新和 MMT LP 上，结果交易所余额不到 1 万刀，Alpha 分数每天都少一分\n\n今天才想到可以把分散在十个号里的 Aster 汇到币安，这才可以补足 1 万 U\n\n长拿真的能赚到钱吗？对我而言，没赚过，这大概就是现实的流动性与理想的收益之间的落差\n\n继续写 @zama_fhe。今天开始系统解读 Zama 白皮书，从概览与愿景部分入手\n\n1️⃣区块链的机密性困境\n区块链的核心特征是“公开可验证”，但这也意味着隐私几乎不存在\n\n金融、身份、治理等关键数据都暴露在全网，导致真正需要隐私保障的应用无法上链。Zama 想要解决的，就是如何在“可验证”与“机密性”之间取得平衡\n\n2️⃣Zama Confidential Blockchain Protocol 概览\nZama 并非新的 L1，而是一层跨链机密性协议。它允许任意 L1 或 L2 智能合约实现端到端加密，开发者无需信任节点，也不用迁移生态\n\n其核心特性包括：\n•交易与状态全加密\n•与公开或机密合约兼容的可组合性\n•可编程隐私机制，允许精确定义解密权限\n#ZamaCreatorProgram",
+      "timestamp": "Oct 9, 2025 · 5:35 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1976159443437166621#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1976094817517269272#m",
+      "content": "Kaito & Limitless 我投了 1.65 万刀，拿到 37U 的额度，锁仓 50%，能有5倍利润吗。钱退回来后准备继续去 MMTFinance 再存一点\n\n继续写 @SentientAGI 的技术栈——ODS（Open Deep Search）\n\nODS 是 Sentient 推出的开源搜索框架，为 LLM 提供模块化检索与推理能力，旨在构建一个可验证、可协作的开源搜索系统。它挑战了 Perplexity 与 ChatGPT 等闭源搜索的垄断，证明开源体系同样能实现 SOTA 水平\n\nODS 将搜索分为两层：Open Search Tool（检索） 与 Open Reasoning Agent（推理）。前者通过查询重写与事实重排序提升召回率与准确性，后者基于 ReAct/CodeAct 框架执行逻辑推理，将检索结果转化为可验证答案。用户还可接入自定义数据源（如 PubMed、arXiv），实现开放式增强\n\n性能方面，ODS 在多跳事实推理基准（FRAMES）上超越 GPT-4o Search Preview，与 Perplexity Pro 接近持平，展示出开源方案的潜力\n\n目前 ODS 已整合进 Sentient GRID 网络与 Sentient Chat，支持 40+ 模型与数据源，用户可通过 $SENT 质押参与优化。未来版本将扩展更多领域与推理策略，成为去中心化 AI 检索的核心基础设施\n#SentientAGI",
+      "timestamp": "Oct 9, 2025 · 1:18 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1976094817517269272#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1975917847852335251#m",
+      "content": "OKX Boost 第四期 X Launch（XPL）结果出了：门槛是余额 100U、交易量 64U、质押 0.5 OKB 或 200 USDT\n\n我最近没刷但是也满足门槛，有 1.57 积分。按总积分 20 万算，1 分约等于 64U。接下来继续单号参与，保持 512 均交易量，另外说不定后续质押门槛会提高\n\n继续写 @SentientAGI ， 如图左右，分别是昨天凌晨和今天下午的心智占比图，在我加更策略下，7D 与 30D 榜单终于止跌回升，说明策略有效，就是有点废肝\n\n今天介绍 Sentient 发起的可验证计算联盟（Verifiable Compute Consortium, VCC）\n\nVCC 致力于构建可信的去中心化 AI 计算标准，让模型输出实现“可验证、可追踪、可证明”\n\n它解决了当今 AI 的最大黑箱问题：用户无法验证模型是否被篡改、隐私是否泄露\n\nVCC 整合 区块链 + 加密技术 + 零信任执行环境（TEE + ZK），为开源 AGI 建立透明可信的计算基础，是 Sentient 迈向 Verifiable Intelligence 的关键一环\n#SentientAGI",
+      "timestamp": "Oct 8, 2025 · 1:35 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1975917847852335251#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1975856191587918219#m",
+      "content": "现 @brevis_zk 已加入我的 yap 主力项目，简单说下我的选择逻辑：\n\n1️⃣ 早期优势：项目于 9 月 23 日上线 @KaitoAI，榜单竞争尚未饱和，目前仍处早期红利阶段，且不少大佬都暗示在关注\n\n2️⃣项目背景：brevis_zk 是由 Celer Network 团队推出的零知识证明（ZK）全链数据公证平台，$CELR 已在上币安Binance 和 Coinbase 交易所，珠玉在前\n\n3️⃣融资阵容：完成 750 万美元种子轮融资，由 YZi Labs 和 Polychain 领投，Nomad Capital 跟投，VC 结构稳健且含金量高\n\n4️⃣潜在催化：具备上 buidlpad 预期。Nomad Capital 是 Buidlpad 创始人 Erick Zhang（前 Binance Research 负责人）的机构，Buidlpad 上的项目目前都是赚的。最近 MMTFinance 要上Buidlpad，TVL直接从1.6亿飙升到5.3亿\n\n综上，brevis 不光有上所大满贯的潜质，而且能上Buidlpad，目前唯一的参与角度就是 Yap。届时ICO+YAP奖励大毛预定了，又是下一个mira\n#brevis_zk",
+      "timestamp": "Oct 8, 2025 · 9:30 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1975856191587918219#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1975795881879490667#m",
+      "content": "兄弟们，分享一个推文浏览量高的小技巧：开头的引子或锚点要抓当下热点\n\n什么热度高就写什么，无论是否参与。例如这两天的币安人生、币安 Alpha、Aster 涨幅等，都是很好的开场素材\n\n前一两段切入热点后，再顺势写你要 yap 的项目，比如我这篇要写 @cysic_xyz \n\n通篇最好只 @ 目标项目，不带链接，减少分流，有助于算法推荐。下面介绍一下 Cysic 专用 ASIC 芯片\n\nCysic 推出的专用 ASIC（Application-Specific Integrated Circuit）芯片，是为零知识证明（ZK Proof）场景打造的硬件创新，核心优化集中在多标量乘法（MSM）与快速傅里叶变换（FFT）等关键环节\n\n通过硬件级并行与内存优化，它将证明生成从分钟级缩短至毫秒级，为 zkRollup、zkVM 与 ZK AI 提供实时计算能\n\n产品线包括 C1、ZK Air、ZK Pro 与 SolarMSM Gen1，覆盖从个人开发者到企业级部署的全栈硬件方案\n\nC1 芯片性能相当于 10–50 张 RTX 4090 GPU，功耗显著优化；ZK Air 为便携式版本，仅 10W 功耗即可实现 10 GPU 性能；ZK Pro 则用于 Scroll、ElectronZK 等高吞吐量应用\n\nCysic ASIC 不只是性能突破，更是经济模型的核心资产。在 Compute2Earn 机制下，芯片即算力凭证，用户可通过证明计算获得收益\n\n随着主网上线，这一硬件体系将推动零知识计算与 AI 深度融合，加速区块链从可信假设迈向可验证现实\n#Cysic",
+      "timestamp": "Oct 8, 2025 · 5:30 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1975795881879490667#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1975727846157947309#m",
+      "content": "最近包括 @SentientAGI 在内的项目，每天 yap，排名反而不升反降。唯一直接有效的解法就是加更\n\n因为 yap 本质是零和博弈，不是写多少就能上榜，而是要比别人更强\n\n账号质量相对稳定的情况下，增加产出频率（例如从一天1篇到2篇），等于战斗力翻倍，排名自然体现出来\n\n大V的优势在于账号权重高，可以同时覆盖更多榜单，更轻松拿到高排名，这是长期积累的结果。我们唯一能做的，就是更肝——用篇幅换排名，用时间换空间\n\n今天介绍一下 Sentient AGI 的核心创新 Loyal AI Alignment，旨在构建能长期对齐社区价值观、抗操纵、并由用户共同拥有的 AI 体系\n\n不同于中心化的安全对齐，它强调去中心化与社区自治，通过整合 Fingerprinting、数据反馈与自动化训练，使模型在越狱或提示攻击下仍保持一致价值\n\n该机制结合 Token-Level Routing（令牌级路由）、Dobby Factory（自动化训练管道）与社区验证循环，让模型在硬技能与价值观间平衡演化\n\n以 Dobby 模型为例，即使面对反向提示，仍能保持 pro-crypto 立场。Loyal AI Alignment 正在推动 AI 从企业控制走向社区共建，让智能真正“为人类，而非替人类思考”\n#SentientAGI",
+      "timestamp": "Oct 8, 2025 · 1:00 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1975727846157947309#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1975554201301258604#m",
+      "content": "说币安人生上千倍涨幅，且上了币安Alpha，没买的我眼红吗？眼红！但是再来一次我估计还是不会买\n\n21年刚入圈时，宝贝狗赚过几十万，后来玩 meme 不光利润全吐回去，甚至亏损更多，一朝被蛇咬，十年怕井绳\n\n现在处于 FOMO 高峰，原则是：只做自己擅长的慢钱，风险仓位严格控制，meme 只有在本金充足或信号较为明确时才小额参与\n\n继续写 @SentientAGI，今天是第二篇，也是个小实验：每天加更一篇，看是否能推动排名上行（验证篇幅/频率对榜单权重的影响）\n\n说下 Sentient 的核心技术之一 Fingerprinting：\n\nFingerprinting 通过在模型中嵌入成千上万个“key–response”对，为模型生成独特且可验证的指纹\n\n即便模型权重被公开、微调或蒸馏，这些指纹仍能被检测到，从而证明模型来源并追踪未经授权的使用。它为 OML（Open、Monetizable、Loyal）格式提供了技术基础，让模型既可开源共享，又能实现受控货币化\n\n与传统水印不同，Fingerprinting 利用模型的嵌入空间设计，具备更高的鲁棒性和抗篡改性。验证通常由链上 prover 机制完成，检测到违规使用时可触发抵押罚没等经济惩罚，形成“技术＋经济”双重保障\n\n总体而言，Fingerprinting 是把开源模型变成可验证、可收益资产的关键步骤，有助于推动去中心化 AGI 生态的可持续发展\n#SentientAGI",
+      "timestamp": "Oct 7, 2025 · 1:30 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1975554201301258604#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1975493805605552468#m",
+      "content": "我目前在 @MMTFinance 做 LP，仓位约 2 万刀。昨天排名 11422，今天升到 10304，再进前一万就能从 Tier 8 升至 Tier 7\n\n最终的 buidlpad 打新额度，肯定会依据 Tier 等级 + Kaito 排名两项指标。我的目标是进 Tier 6（Rank < 5000）\n\n目前我还没开始刷交易量，因为 MMT x BuidlPad 的 HODL 活动延期至 10 月 25 日 10:00（UTC+8）。计划等临近截止时再刷，以便精准控制交易损耗（即使是稳定币 swap 也会有损耗）\n\n再讲一个 MMT 的冷门机制：它通过优化 资本效率与粘性流动性，在 Sui 链 DEX 中的 Volume/TVL 比率 处于领先，每 1 美元流动性能产生更高交易量，带来更紧价差与更优 LP 收益\n\n同时，ve(3,3) 模型激励长期锁仓资金，在市场波动时维持深度与稳定性。底层依托 Move 语言安全机制，减少常见合约漏洞，并结合 Builder Program 吸引早期开发者，逐步形成用户所有型 DEX结构\n\n邀请码：F016R9，欢迎一同参与，感谢啦！\n#MMTFinance",
+      "timestamp": "Oct 7, 2025 · 9:30 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1975493805605552468#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1975433405497012469#m",
+      "content": "我最近在想， @cysic_xyz 还写不写了，因为太卷了，2天一篇排名根本上不去，必须每天写\n\n而项目方又是参考3M榜单，高强度写了10来篇了，3M排名一直在105左右，再过个十来天就快照了 \n\n唯一的强迫症就是进个3M榜单前百，彷佛前百会比101奖励要多的多一样。新加入的朋友如果想冲榜，现在大概只能搏个低保~\n\n聊一下 Cysic 的自定义 SDK，它是 ZKPoG 栈的重要组件，用于自动化生成针对自定义门（custom gate）的 GPU/CPU 优化代码\n\n开发者只需提供一段简短的门脚本，用领域特定语言描述输入、输出与常量的计算逻辑。编译器会自动分析脚本、插入辅助代码（如内存加载、约束归约），并生成 Rust 与 CUDA 实现\n\nRust 端用于见证生成与约束计算，GPU 端内核则支持并行执行，大幅提升性能。相比手写 Rust（如 Plonky2），这一 SDK 显著降低了门设计和适配的门槛，使开发者能快速构建高性能零知识证明系统\n\n通过无缝集成到 ZKPoG 栈中，Cysic 在灵活性与易用性之间找到了平衡\n#cysic",
+      "timestamp": "Oct 7, 2025 · 5:30 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1975433405497012469#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1975365463371882643#m",
+      "content": "说一下我最近yap计划，目前我每天写 3 篇推文，主攻 @SentientAGI ，每天一篇，这是我最看重的项目\n\n3M 榜单前百潜在收益在万 U 级别，但竞争极度激烈：7D 和 30D 都在百名边缘，3M 榜单甚至从 82 一天掉出前 100。所以我准备提升到每天两篇\n \n还有cysic、billion、MMTFinance、zama这四个项目，目前每两天一篇轮流写，特别是前3个 @KaitoAi 的项目，感觉排名很难上去了，算是比较卷的，除非天天写排名才会涨\n\nZama 的浏览量权重占比更高，我反而轻松一些。接下来还会提前铺 MemeX_MRC20 第二季和 brevis_zk 的内容，是时候恢复到日更四篇了\n\n回到 Sentient，再讲一下它提出的一种创新 AI 模型格式——OML（Open, Monetizable, Loyal）\n\nOML 旨在解决开源模型“可访问但不可收益”的问题。通过嵌入 AI 原生密码学逻辑，传统模型文件（如 .pth、.onnx）可转化为 .oml 格式，模型既能保持开放使用，又能为开发者带来可验证收益\n\nOML 的三大核心属性：Open（开放）、Monetizable（可货币化）、Loyal（忠诚）\n\n其中忠诚属性最独特——模型分发时内嵌加密规则，即使离线运行，也能自动识别授权状态：未授权用户输出会退化或失效，确保收益与合规边界\n\n其底层机制是 Fingerprinting（指纹嵌入）：在微调阶段为模型注入密钥响应对，形成独特身份。授权用户正常使用，违规者性能降级，并可被链上验证与惩罚\n\n收益结算、授权验证都通过智能合约自动执行，为 AGI 模型引入真正的所有权与激励闭环\n#SentientAGI #ZamaCreatorProgram",
+      "timestamp": "Oct 7, 2025 · 1:00 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1975365463371882643#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1975197916156604444#m",
+      "content": "OKX Boost 第五期直接来了，这次是 100 万枚 KGEN，单价约 0.6 美元，总额近 60 万刀。可惜我没刷没资格\n\nAster 也同步上线币安现货，从 1.8 拉升到 2 美元，短期或将继续震荡，先观望\n\n下午去了宝可梦快闪店，想买宝石包 3 结果断货，只好 45U 入了一盒黑晶炽诚，开出来的卡只值 4U。现实花钱抠抠搜搜，Web3 却把 U 当欢乐豆~\n\n回到正题，@zama_fhe yap前的工会任务就是把“Creator Program”里面最上面的完成就行了，只需要关注官推即可，如图就是完成的状态，再顺手把左边“Home”里的社交任务完成即可。最后去DC看看有没有角色\n\nZama 继续推进主线合作。最近与 OpenZeppelin 联手推出 Confidential ERC20 标准，正式将全同态加密（FHE）引入以太坊主流生态，让智能合约能在加密数据上运行，实现隐藏交易金额与地址的机密 DeFi\n\nZama 负责 fhEVM 与 TFHE 技术，OpenZeppelin 提供安全审计与标准化模板，确保与 ERC 框架兼容。性能上已优化至 0.9 毫秒延迟、230 TPS，开发者可通过 Concrete 编译器快速部署隐私合约\n\n这一合作让 FHE 从实验室走向应用，为 DeFi、RWA、DAO 等提供标准化隐私基建，Zama 正在将隐私计算变成以太坊的新标准。\n#ZamaCreatorProgram  #FHE",
+      "timestamp": "Oct 6, 2025 · 1:54 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1975197916156604444#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1975109028863971496#m",
+      "content": "opensea 查询网址（注意是EVM钱包）：opensea.io/collection/billio…\n\n官方资格统计表：docs.google.com/spreadsheets…\n\nDC链接：discord.gg/billions-ntwk",
+      "timestamp": "Oct 6, 2025 · 8:01 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1975109028863971496#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1975108773766181174#m",
+      "content": "昨晚 @billions_ntwk 的 NFT 开始资格查询，今晚 21:00 将开启 Mint。官方资格统计表和 OpenSea 查询网站都已放在回复中\n\n如果你在官方表格里（包含 9 月 6 日快照的 Top500 yapper + 9 月 22 日快照的烧毁第一季 Billions Genesis NFT），但 OpenSea 显示无资格\n\n可立即前往 DC 的 “feedback” 频道艾特 n0v4t0 反馈，再私聊社区经理 @jgonzalezferrer 并附上 Polygon 钱包地址，他们会尽快帮你添加。我就是这样解决的，感谢 Javi\n\nSupermasks NFT（Polygon 链，限量 8888 枚）不仅是一件艺术品，更是链上身份面具。持有者可获得 Kaito Leaderboard 加成、Discord 专属角色与生态优先权\n\n它象征着 AI 时代的超级身份：利用零知识证明（ZK）隐藏真实数据，仅证明人类唯一性\n\nSupermasks 已与 @KaitoAI 集成，可直接提升 Yapper 排名，未来将扩展至 AI 代理身份与治理场景，成为 Web3 身份体系的重要入口，所以billion yapper们持有一个是很有必要的\n#Billions",
+      "timestamp": "Oct 6, 2025 · 8:00 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1975108773766181174#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1975050349624090685#m",
+      "content": "昨天 Aster 因 S2 奖励不锁仓、4% 份额分四周释放，导致价格在 1.8U 附近剧烈波动\n\n不过今天又格局了，S2 奖励可自由选择领取空投或退回交易手续费。我持有 6000 枚 Aster，仓位不大，所以拿得稳。继续撸毛 ，继续yap，手里有项目，心里才安稳\n\n今天依然写 @SentientAGI ，TGE 前预计能写满至少 50 篇，作为万 U 级预期项目，这个投入是合理的\n\n但竞争太激烈了，一天时间我的 3M 榜单从 88 掉到 97，第一次见长周期榜单跟 7D 榜单一样掉法，如果再不见好转， 我准备每天2更了，因为不知道到是否会提前快照，所以从当下开始加更比较稳\n\n继续讲 Sentient 的核心系统 GRID：它由路由算法层、情报源层与经济层组成，用户可通过 Sentient Chat 以自然语言与多智能体协作\n\n复杂查询会被递归分解为原子化任务，再由最优模型或代理执行；而令牌级路由可将文本细分至 token 级别，由最适模型处理，既降低成本，也提升响应精度\n#SentientAGI",
+      "timestamp": "Oct 6, 2025 · 4:07 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1975050349624090685#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1974820617913258164#m",
+      "content": "我准备单独好好的写一写 @MMTFinance 了，最后的冲刺，TGE 预计在 11 月初左右\n\n当前策略是 yap + 链上组 LP 双线推进，LP这边又加了8000刀，总共2万刀。目标是同时拿到更高的 buidlpad 打新额度与 Kaito 奖励\n\n两者相辅相成，整体性价比极高，几千 U 收益几乎是下限，可惜入场太晚，否则目标应是万 U 级别\n\n近期热点数据表现亮眼：Momentum 的 TVL 从 9 月的 2.1 亿美元快速增长至 4 亿+，接近 5 亿大关；累计换汇量突破 130 亿美元，单日交易峰值达 2.05 亿，生态活跃度持续上升\n\n在收益层面，BTCFi 池（LBTC-wBTC、xBTC-wBTC）提供 60–120% APR；xSUI 代币实现跨 Sui DeFi 收益整合\n\nWAGMI 交易赛季将在 10 月 15 日收官，引入新榜单与 Bricks 激励\n\n此外，HODL Yield 计划正与 BuidlPad 联动，部分池可达 155% APY + 2x 奖励，为 TGE 前流动性蓄势\n#MMTFinance",
+      "timestamp": "Oct 5, 2025 · 12:55 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1974820617913258164#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1974758973770551304#m",
+      "content": "这一期 OKX 的空投赚币活动中，我用 1.6 万 U 质押拿到约 5U+417 枚 PENGU，虽然收益不错，但还是忍痛取出\n\n因为要转战 Kaito 的 Limitless 打新——刚刚打入 1.65 万刀，目前已超募 167 倍，预计能中约 100U额度，翻个几倍也不错\n\n@cysic_xyz 我的 7D 排名从昨天的 177 升到 157，应该是之前的几篇今天被统一识别了，所以现在哪怕不写，7D排名还是会继续冲\n\n介绍一下 Cysic 的核心创新 ZKPoG（Zero-Knowledge Proof on GPU），由 Cysic 与清华大学联合研发，实现 ZK 证明流程的 GPU 全面迁移\n\n通过自定义 SDK 与自动编译优化，普通 RTX 4090 即可实现实时证明，提速 20~50 倍\n\nZKPoG 兼容 Halo2、Plonky2 等框架，并支持分布式 GPU 协作，为 zkRollups 与 ComputeFi 提供算力底座\n\nZK 计算正在从理论性能走向可规模化应用\n#Cysic",
+      "timestamp": "Oct 5, 2025 · 8:50 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1974758973770551304#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1974691183919251710#m",
+      "content": "Yaps 分数终于突破梦寐以求的 200 分门槛，一些项目包括 @SentientAGI 也上榜了\n\n不过 7D-30D 榜仍未入列，按心智占比推算，我的 7D 排名大约在 110，30D 在 130 左右\n\n从 9 月 19 日起连续写了 17 篇，加上此前的 5 篇共 22 篇，可见竞争仍然激烈\n\n好在 3M-12M 榜已成功上榜，或得益于 7 月我写了几篇 Sentient 的推文\n\n这也验证了一个规律：若有看好的项目，一定要提前布局，哪怕先写三篇，也能在 3M 以上长期榜单抢占位置。很多高融资大项目空投参考的正是长期榜单\n\n继续补 Sentient 的 GRID（全球情报网络）。它是目前全球最大开源情报网络，旨在将分散的模型、代理、数据与算力整合为分布式大脑\n\n不同于闭源 AI（如 OpenAI、Anthropic），GRID 强调开源、互操作与可验证性：复杂查询会被递归分解并路由至最优情报源，再聚合输出\n\n目前已有超 200 万用户等待名单，通过 $SENT staking 激励社区，确保开源 AGI 不被垄断\n#SentientAGI",
+      "timestamp": "Oct 5, 2025 · 4:20 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1974691183919251710#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1974452573454352716#m",
+      "content": "4月在 @MMTFinance 组了150U LP，前几天从8级掉到9级，又追加1.2万U，目前还在8级，希望能赶在 buidlpad 打新前冲到7级\n\n感谢使用我的邀请码：F016R9~\n\n另外，我准备 @MemeX_MRC20 一下了，万一第二季突然来袭呢，未雨绸缪，乘现在不卷，先打窝占个位置\n\n上一季为了冲前50拿5000U，每天2-3篇推文强度太高，这次会更随意些。还质押了3000枚 $M ，也算为第二季打下基础\n\nMemeX 最近在韩国 Lotte World 举办 HALLO MEME 线下活动，涵盖夜间游乐、艺人表演（Jay Park、Zion.T 等）、抽奖和生态摊位，现场人气火爆，凸显meme文化 × 娱乐的结合\n\n其功能亮点包括一键发币、bonding curve 机制，以及 $M 稳守 2U~\n\n10月又与 Sidekick_Labs 推出“Drink-to-Earn”派对，结合 Token2049 热度，持续强化 MemeX 在 Web3 社交娱乐赛道的影响力\n#MMTfinance",
+      "timestamp": "Oct 4, 2025 · 12:32 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1974452573454352716#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1974390461986185464#m",
+      "content": "Aster 又拉到 2.2U了，所幸在 1.5U 时并未选择退出。今年顺应币安生态和 CZ 的布局，整体仍具备较高收益空间\n\n目前 yaps 已到 195.79，距离 @SentientAGI 上榜的 200 分门槛只差 4 分。小账号们每天花一点时间主动和ICT大佬多互动，不光拿分还能学到东西，我目前仍然保持这个习惯\n\n社区近期披露 Sentient 正在测试新的积分与订阅系统。功能包括 Free 与 Pro 双版本，Pro 订阅费为每月 60U，并提供 10 倍积分奖励；积分系统命名为 $SENTI，明显与 $SENT 代币形成联动\n\n结合此前推出的 $SENT 代币与 GRID 网络，以及超过百家合作伙伴的生态布局，可以看出 Sentient 正在通过多层机制构建开源 AGI 的经济激励与长期发展模式\n\n总之，Sentient 最好的参与方式仍是嘴撸，其次是混DC社区，这个积分系统到时候出来我准备顺手搞一下\n#SentientAGI",
+      "timestamp": "Oct 4, 2025 · 8:25 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1974390461986185464#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1974315697066160314#m",
+      "content": "昨天跑去钓罗氏虾，两个人团购 20U，不限时间，可以带走 2 斤，结果钓了一大桶，当场加工现吃，自由的感觉真好的，虽然只是片刻的，希望web3能带给每一个路过的朋友真正的自由！\n\n继续 @cysic_xyz ，我的30D和3M榜单没有变化，7D又从122掉到135了，继续写，写着写着排名就不会掉了，然后哪怕不写，排名都会自动往前冲——有点像统一被识别的意思\n\ncysic还是卷的，拿到低保不难，但最后的20天内冲进3M榜单前100，拿到大毛可就太难了\n\n最后介绍一下 Cysic Network 构建的许可less基础设施，任何人无需准入即可作为证明者或验证者贡献算力，类似比特币挖矿但专注于ZK计算\n\n其分布式架构支持从PC到GPU集群的接入，涵盖执行层、共识层和计算层，实现水平扩展与动态调度，并与Succinct等生态互通，推动ZK市场去中心化发展\n#cysic_xyz！",
+      "timestamp": "Oct 4, 2025 · 3:28 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1974315697066160314#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1974098460128522591#m",
+      "content": "OKX交易所的空投赚币贼香啊，稳定币理财，上期 XPL 我质押了 2 万多 U，拿到 10U+93 XPL；这一期 PENGU 无缝衔接，1.6 万 U 质押一天就有 7U奖励\n\n可惜我的 U 要去搞 Kaito 的 Limitless 打新了，还能再薅两天利息。这就体现出本金的重要性了！\n\n继续补 @billions_ntwk，我是9月6号快照时候的前500名 yapper，也拿到了总供应量仅 8888 的 Billions Supermasks NFT 白名单，10月6日 mint，不知道值钱不~\n\nBillions 的 Secure Token Distribution 是给 Web3 创始人用的空投与奖励分发工具，通过多级验证过滤机器人和女巫号，只把奖励发给真实用户，既保护资金库也增强社区信任\n\n团队背景硬核，起源于 iden3，推动过 Circom DSL、Polygon ID 等工具，如今聚焦 ZK 身份和 AI 经济下的人机可问责交互。愿景是把人类作为区块链的原子单位，逐步构建全球信任经济\n#Billions",
+      "timestamp": "Oct 3, 2025 · 1:05 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1974098460128522591#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1974014053124124823#m",
+      "content": "第二季 @zama_fhe 创作者计划榜单刚出炉，我写了10篇推文，排名第8，拿到987U + ZAMA OG NFT 002\n\n这一季奖励范围从250扩展到500，第三季将扩展到1000，而且榜单是参考Cookie的，如果yaps和SF不多，那么Zama创作者计划是个很好的去处，很多小账户拿到了不错的名次\n\n然后，第二季是NFT 002，那么估计每一季NFT都是不一样的，可能会三合一，合成最终的NFT？要么就是分稀有度，从数量来说肯定是第一季最珍贵\n\n另外，每个月都是独立赛季，我肯定要继续参与了，计划就是前半个月时不时写一些，最后10-15天每天一篇冲刺\n\nZama 本身的进展也很猛——今年5月开源了首个全同态加密（FHE）硬件加速器 HPU，并推出基于FPGA的超级计算机 FROG Mark I，把FHE的引导延迟拉低到毫秒级，在机密稳定币转账里跑出230 TPS，超过以太坊L1。配合私有AI推理、密封竞拍等场景，算是真正意义上的隐私计算里程碑\n\n他们6月完成5700万美金融资，估值破独角兽，目标是到2028年通过ASIC实现10万TPS\n\n结合创作者计划和Guild任务挂钩FROG性能的玩法，Zama已经把技术+社区都绑在一起了\n#ZamaCreatorProgram",
+      "timestamp": "Oct 3, 2025 · 7:30 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1974014053124124823#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1973931009940074999#m",
+      "content": "1.2万U 的 @MMTFinance LP 已经组进去了，suiUSDT-USDC 稳定币对，就等拿 @buidlpad 额度，一个号够用，然后 KYC 当初打撒哈拉给了额度的，应该这次问题不大\n\n继续写 @SentientAGI：GRID（Global Research and Intelligence Directory） 是全球最大开源情报网络，由 Sentient 推出，被称为分布式大脑\n\n它路由和协调数千模型、代理与数据流，实现任务分解与聚合，推动开源 AGI 协作，避免价值被闭源巨头垄断\n\nGRID 提供可组合、可验证的计算，支持零知识证明、私有推理与链上秘密管理，并通过 $SENT staking 激励社区，确保透明与可持续\n\n架构上包含路由算法、情报源层与经济层，复杂查询能自动分解到最优代理再聚合结果。\n\n目前已集成 40+ 代理（Messari、UniQAgent）、50+ 数据源（Nansen、Arkham、KaitoAI）、分布式算力（Akash、io.net、0G）和隐私组件（Phala、Nillion、Lagrange）\n\n未来，用户可在 Sentient Chat 直接调用 GRID 完成研究、跨链支付、金融情报等任务\n#SentientAGI",
+      "timestamp": "Oct 3, 2025 · 2:00 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1973931009940074999#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1973734554189152436#m",
+      "content": "对于新上Kaito的项目，我觉得稍微不错的，如 @brevis_zk 都先写一写打个窝\n\n频率不用太高，乘现在不卷，先在3M榜单把位置占了，而且我看榜单没有小孩卓，估计是没有门槛的\n\nBrevis 是零知识技术公司，与 Kaito AI 合作推出 Yapper Leaderboard。Kaito 提供心智份额与榜单机制，Brevis 提供隐私保护的 ZK 证明，实现链上行为的隐私验证\n\n用户能证明自己是 OG、DeFi 老玩家或长期持有者，而无需暴露钱包地址\n\n这种模式开创了隐私型 InfoFi 标准，也意味着和kaito有深度合作，不会像掌纹anoma这种背刺yapper，反而会优待\n\n接下来的 Phase 2 会上线 ZK 乘数，基于链上行为（Linea Ignition、Euler、Celer、Thena、Aster 等），最终排名是Phase 1 的写推排名*Phase 2 的ZK 乘数\n\n这个乘数我估计大家都大差不差的，也不用担心太多，再加上 2024 年 11 月完成 750 万美元融资，背后是 Polychain 和 Binance Labs 领投，含金量很高，所以必写，万一是下一个mira呢\n#Brevis",
+      "timestamp": "Oct 2, 2025 · 12:59 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1973734554189152436#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1973666765382230060#m",
+      "content": "Kaito & Novastro 的打新我用 500U 浅浅参与了一下，拿个徽章意思意思\n\n昨天补了一篇 @cysic_xyz ，7D 排名直接从 107 掉到 122，只能等重新识别了。暴跌期写着写着止跌了，就又开始猛冲了\n\n看来必须每天一篇，卷起来！3M 榜要在最后的 20 天内从 108 挤进前 100，其实也挺难\n\nCysic 的 Proof-of-Compute (PoC) 共识机制，是融合 PoW 与 PoS 的混合算法，专为零知识证明和去中心化计算设计\n\n它把工作量直接绑定到 ZK 证明生成与验证，而不是无意义挖矿；结合质押机制，既保证即时终局性和安全，又节省能耗\n\nPoC 的核心是有用计算。网络发布 ZK 任务，证明者用 GPU/ASIC 生成证明，验证者轻客户端快速检查，质押节点上链确认，形成分工明确的闭环\n\n它支持 Halo2、Plonky2 等主流系统，并配合专用硬件实现 10–100 倍提速\n\n与双代币系统结合， $CYS 负责奖励与费用， $CGT 体现治理权重和贡献度，推动 ZK 与 AI 融合落地\n#cysic",
+      "timestamp": "Oct 2, 2025 · 8:30 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1973666765382230060#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1973599217408155976#m",
+      "content": "OKX boost决定不刷了，一个号利润有限，而且部分活动以后可能要质押，明牌卷风险也不低\n\n币安Alpha那边要放1万U，MMTFinance 准备搞1万U LP，就做一个号\n\n然后 Limitless 准备搞1.5万U进去，超募一百倍也就150U的额度，没钱了\n\n继续写 @SentientAGI，今天 yaps 分数冲到 195，再拿 5 分就能满足 200 的上榜门槛，紧张，看能不能一跃进榜\n\n Sentient Protocol 是 Sentient 推出的开源 AI 货币化协议，核心是解决开源 AGI 的价值捕获与安全问题\n\n它通过 Model Loyalty（模型忠诚度）锁定价值观与安全边界，避免被滥用；并提出 OML 格式（Open、Monetizable、Loyal），支持开源共享，同时追踪远程调用并自动分配收益\n\n结合指纹技术，还能证明模型归属，保护开发者权益\n\n这一协议为去中心化 AGI 铺路，激励开发者、社区和用户形成良性循环，避免闭源巨头垄断，推动一个开放、安全、可持续的 AGI 生态\n#SentientAGI",
+      "timestamp": "Oct 2, 2025 · 4:01 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1973599217408155976#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1973370583665746285#m",
+      "content": "OKX boost 又来了，奖励1500万个XPL，7天后快照，明牌让我们开卷，我最多参与一个号，而且先观望一下\n\nLegion & YieldBasis 这边，我选的打款区间350-600，现在网站也进不去，没希望了。下一个吧，搞MMT，肯定上币安现货\n\n继续写 @cysic_xyz ，1天不写7D排名就从98掉到110了，3M排名也几乎不动，上榜容易，拿高排名难啊\n\nCysic 的 ComputeFi 模型 本质上是把 GPU、ZK 芯片等计算硬件代币化，转变为可拥有、可质押、可交易的资产，让用户不仅能使用，还能通过 Compute2Earn 把闲置算力变收益\n\n它结合 AI 与 ZK 技术，支持多种证明系统，配备硬件加速（C1、ZK Air、ZK Pro），效率提升 10-100 倍。通过 ZK 证明，计算结果能上链验证，确保隐私与可信度\n\n最终目标是把分布式资源聚合为去中心化超级计算机，降低开发者门槛，让普通用户共享计算红利\n#cysic",
+      "timestamp": "Oct 1, 2025 · 12:53 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1973370583665746285#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1973303118181048568#m",
+      "content": "等明天 OKX 的 XPL 存钱活动结束，我就打算拿 1 万 U 去搞 @buidlpad & @MMTFinance 的 LP 活动，存 suiUSDT-USDC 稳定币对，但现在纠结是 0.01% 还是 0.001% 池子，哪位兄弟懂？\n\n几个月前在 MMTFinance 随便丢了 150U LP，现在 8级了，最低9级，才知道级别越低越牛逼\n\n打算再写几篇推文冲额度，顺便看看能不能上 MMT 的 Kaito 榜单，学树莓那样一鱼双吃，刚好buidlpad有一个拿到撒哈拉额度的KYC过的号，赚他个几千刀\n\n再说下 Momentum：它是 Sui 上首个采用 ve(3,3) 的 DEX，LP 可以拿到 100% 的 $MMT 排放，veMMT 持有人享受全部手续费+额外奖励，交易者也能获得更低滑点与费用\n\n相比 Uniswap v3，更强调资本效率和可持续性，并计划扩展多链生态，打造更稳健的 DeFi 基础设施\n\n最后拜谢大家能使用我的MMT邀请码，感谢：F016R9\n#MMTFinance",
+      "timestamp": "Oct 1, 2025 · 8:25 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1973303118181048568#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1973227202692161876#m",
+      "content": "Aster 还剩6000个没卖，我选择继续看好币安，相信 CZ，不到 3 不出。游戏害人，和朋友玩《流放之路》，结果忘记刷币安 Alpha，直接玩没了100刀\n\n目前 Yaps 分数来到191.5，距离 @SentientAGI 的200上榜门槛只差一步\n\nyap 最大的难点在于推特账号质量，但同时也是最轻松的方式：只要默默写推文、时间灵活、奖励丰厚\n\n账号质量并不是粉丝流量，而是 @KaitoAI SF 和 yaps 数量。建议每天花半小时和 Kaito 7D 榜单拿yaps最多的前30名账号真诚互动，有助于提升数据\n\n另外分享下 ROMA：在多跳推理基准 SEAL-0 上，ROMA 达到45.6%，领先 Kimi Researcher（36%）、Gemini 2.5 Pro（19.8%）；在 FRAMES 上达81.7%，在 SimpleQA 上准确率93.9%\n\nROMA 的递归分解与聚合机制，使其在复杂问题推理上展现出超越常规模型的深度实力\n#SentientAGI",
+      "timestamp": "Oct 1, 2025 · 3:23 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1973227202692161876#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1973033987280134513#m",
+      "content": "发现自己都开始打新了，还觉得一定能赚，其实很危险。去年玩山寨也是，被拉服后高位接盘，被浇得透透的。现在参与打新，只接受小几百 U 的亏损，大仓不碰，重在参与\n\nLegion 的 YieldBasis 已超募一亿 U，我肯定分不到多少；Kaito 的 Limitless 超募百倍，我冲 1 万 U 估计也没啥额度；Novastro 先观望，或者小仓拿个徽章就好\n\n相比之下，嘴撸消耗的只是时间成本，写过就过去，被反撸也没那么疼\n\n继续写 @SentientAGI：ROMA 是开源多代理框架，目标是构建高性能元代理，通过递归任务分解实现 SOTA 推理\n\n它由 Atomizer、Planner、Executor、Aggregator 四部分组成，支持任务可视化和人类干预。在基准测试中，ROMA 多跳推理达 45.6%，已超越 Kimi Researcher 和 Gemini 2.5 Pro\n\n作为 GRID 网络与 Sentient Chat 的骨干，ROMA 正加速分布式大脑的构建\n#SentientAGI",
+      "timestamp": "Sep 30, 2025 · 2:35 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1973033987280134513#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1972965186186154084#m",
+      "content": "今天是 @zama_fhe 第二季最后一天，范特西说 NFT 场外 10 个 ETH，刺激我再补一篇。说是参考 Cookie 的数据，那双语邪修是不是更快上榜？\n\n顺便问下，这个绿色徽章是啥，心智占比高？打开 cookie 的 Zama 首页，我的推文都在 7D 以上榜单的页面右边展示，前 250 应该稳了吧~\n\n回到重点：Zama 最新路线图直指 FHEVM 升级与主网过渡。10 月上线的 v0.9 将带来破坏性重置：6–10 日新网部署，13–17 日迁移窗口，20 日旧网弃用，开发者需重新部署合约与 dApp\n\n核心更新三点：\n1️⃣链上 FHE 密钥生成，提升安全与扩展；\n2️⃣动态协处理器管理，按需扩展并发性能；\n3️⃣解密流程优化，分布式阈值事件降低延迟和 gas\n\n整体上，v0.9 大幅增强 FHEVM 灵活性和开发者友好度，为隐私 DeFi、链游和 AI on-chain 计算奠定基础，也让 $ZAMA 离主网更近一步\n#ZamaCreatorProgram",
+      "timestamp": "Sep 30, 2025 · 10:02 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1972965186186154084#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1972845629903921231#m",
+      "content": "昨晚 Legion 打新 YieldBasis，我只有500分，然后看太卷了，我就选的300–650打钱区间， gas 也高我这会打进去，重在参与~\n\n继续 @zama_fhe ，NFT估计不超2000个，融资体量摆在那，1个ETH不是梦，连G姐都在写，今天最后一篇，写完明天第二季榜单出来开奖\n\n另外，至少写2篇才能识别，说是参考cookie那边的数据，总之可以看看第二季的榜单数据，再决定下个月冲的策略\n\n要注意：有很多大佬这几天才加入，把zama带火了，下个月肯定要比这个月卷一些\n\nZama 最新路线图聚焦 FHEVM 升级：10 月即将上线的 v0.9 支持链上 FHE 密钥生成、动态协处理器管理和解密流程优化，大幅提升灵活性与共识效率\n\n伴随状态重置，开发者需重新部署合约，6–10 日新网部署，13–17 日迁移窗口，20 日旧网弃用。\n\n自 7 月公测以来，Zama 已支持隐私拍卖 dApp，并与 OpenZeppelin、Conduit 合作推动生产化\n\n官方强调 v0.9 是多年研究成果的集中体现，也是迈向主网和 $ZAMA 代币的重要一步。保密区块链的时代，或许真要来了，TGE应该就在年底\n#ZamaCreatorProgram",
+      "timestamp": "Sep 30, 2025 · 2:07 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1972845629903921231#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1972643101278654481#m",
+      "content": "Anoma 这波彻底全面反撸，伤害极大！期望越大失望越大：DC 角色不给、NFT 不给、测试网只有 69 个代币价值 10U，嘴撸还从说好的 0.7% 砍到 0.01%，纯属诈骗！\n\n空投更是直接锁死，还甩锅 ETH 网络，我的猫都气到暴击屏幕了，干！\n\n骂归骂，生活还要继续，转头看 @zama_fhe 反而更踏实点\n\nZama 在 7 月和 Conduit 达成合作，把 fhEVM 嵌入 Arbitrum Rollup，让开发者直接用 Solidity 写隐私合约，全程在密文上计算，无需解密\n\nConduit 负责性能扩展，FHE 交易有望提升到千 TPS，机密 ERC20 转账成本能压到 0.1 美元，还能用 $ZAMA 当 gas 降低费用。\n\n更关键的是，Zama 提供了网关合约和开源工具链（Concrete、TFHE-rs），配合未来的 ASIC 芯片，有望解决 FHE 性能瓶颈，把 Rollup 拉到 Visa 级别\n\n对 DeFi、RWA、跨境支付来说，这才是真正的隐私增强基础设施\n#ZamaCreatorProgram",
+      "timestamp": "Sep 29, 2025 · 12:42 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1972643101278654481#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1972579602523427055#m",
+      "content": "晚上 Legion 要打新 YieldBasis了，我才459分，准备就打 200U 重在参与了，然后 KYC 这边我用的支付宝水费账单，没想到也过了，在支付宝生活缴费历史记录里面。然后国家电网的电费账单应该也是可以的\n\n一会6点 anoma 上币安Alpha，这样子应该不得上币安现货， 希望能上upbit，能不能吃一波大的啊，紧张\n\n另一方面 @cysic_xyz 的yap周期大概还有 15–20 天，10 月底 TGE 会不会提前快照还不确定。我现在 7D 榜 101 名，差一点就能进前 100，3M 榜单才是空投依据，目前104，前进缓慢继续冲\n\n顺带说下 Cysic 的机制：它采用独特的双代币模型，把效用和治理分开\n\n$CYS 是原生效用代币，用于手续费、区块奖励和质押，驱动 Proof-of-Compute 的计算任务\n\n$CGT 则是不可转移的治理代币，需要质押$CYS 并完成 ZK 证明才能获得，未质押会逐渐衰减，确保治理和持续贡献挂钩\n\n两者互补：$CYS 保证经济循环，$CGT 强化治理激励。测试网 Phase III 已经发放了 146 万代币，效果验证中\n#Cysic",
+      "timestamp": "Sep 29, 2025 · 8:30 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1972579602523427055#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1972502602123444530#m",
+      "content": "昨天终于把 @KaitoAI 的 KYC 搞定了，trylimitless 和 Novastro 我准备小参与一下，反正没写过也没质押，估计额度有限\n\n海妖和 legion 也都 KYC 了，但是海妖点存入，就显示“未找到结果”是啥原因啊，然后打算参与 MMT 打新，我的 12 个 9 级号能不能多拿点额度呢\n\n之前我对 ICO 一直比较抵触，因为常常亏钱，但现在行情好+打新热潮，收益还不错，只是要谨慎，毕竟市场不会永远牛\n\n继续写 @SentientAGI。它推出的 Open Deep Search（ODS）是开源搜索框架，目标是为 AI 提供先进检索与推理能力，挑战 Perplexity、ChatGPT 等闭源系统\n\nODS 将检索与推理解耦，开发者可自由替换查询扩展、重排序或推理模块，实现模块化创新\n\n其核心包括 Open Search Tool（OST）和 Open Reasoning Agent（ORA）：前者负责召回与证据聚合，后者通过链式推理或代码生成精准答案\n\n基准测试显示，ODS 在多跳推理任务上超越 GPT-4o Search Preview 与 Perplexity，性能达到 SOTA\n\n作为 Sentient AGI 生态的重要组件，ODS 已接入 GRID 网络和 Sentient Chat，并通过社区协作不断演进，推动开源 AI 持续发展 \n#SentientAGI",
+      "timestamp": "Sep 29, 2025 · 3:24 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1972502602123444530#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1972277610945433823#m",
+      "content": "3个月的流量终于突破 8M，冲击 10M 指日可待！补了几篇 @cysic_xyz 的作业后，7D 排行从 480 提升到 114，马上进前 100；3M 榜也从 108 到 104，目标是持续往前\n\n有看好的项目，哪怕没时间冲榜，也要在早期先写 2-3 篇。这样既有先发优势，后期补作业也更容易坚持，冲榜动力更足\n\nCysic 近期喜讯连连：第三阶段测试网完美收官，吸引超百万用户、每日数百万 ZK 证明生成，Cube 节点 NFT 秒售罄！主网与 TGE 即将开启，ComputeFi 正式从测试走向生产，打开计算新时代\n\n9 月 25 日的社区 AMA 已深度解析 ComputeFi、ZK 证明、硬件与主网热点\n\n在 AI 浪潮推动下，GPU 市场供需紧张，ZK rollup 崛起为扩展与低费高安的最佳解\n\nCysic 正以硬件加速 + 去中心化市场，引领计算革命。未来可期\n#Cysic",
+      "timestamp": "Sep 28, 2025 · 12:30 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1972277610945433823#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1972201791506030842#m",
+      "content": "今天 XHunt & Mantle 的奖励到账了，两榜加起来 590 个 MNT，差不多 1000U，20 天短平快，效率非常高。推荐 SF 和 Yaps不算多、但流量不错的小伙伴关注类似活动，性价比很高\n\n今天还和 @zzw110112 面基了一下，她 6 月才进 web3，现在已经赚了 3000+U，yap 也拿下了 Bless、Goat 等接近 1000U 的空投，学习能力和执行力都很强~\n\n@zama_fhe 的yap活动还有2天就结束了，NFT花落谁家即将揭晓，今天给大家分享一下Zama Creator Program\n\n它在 9 月 4 日正式启动，是 Developer Program 的扩展版，面向内容创作者和开发者，强调创作者经济革命。目标是通过奖励原创内容，推动 FHE 从入门到应用落地\n\n该计划整合了 Concrete 框架 和 TFHE 库 等工具，支持创作者发布教程、文章或视频，帮助构建基于 FHE 的机密智能合约与隐私应用\n\nZama 获 Multicoin Capital 等支持，近期融资 5700 万美元，估值超 10 亿，也为 Creator Program 提供了坚实背书\n#ZamaCreatorProgram",
+      "timestamp": "Sep 28, 2025 · 7:28 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1972201791506030842#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1972117673174880617#m",
+      "content": "目前撸完还没发币的有 anoma，明天上 Coinbase 和币安 Alpha，现货可能也要同步，上 Upbit 还不确定，但有希望冲出万 U 大毛\n\nPortal 官推昨天说第二季活动团队正在处理数据贡献，奖励很快发；Xhunt 和 Mantle 本周出了最终排名，下周就能领，大概也就 1000U 左右\n\n继续写 @SentientAGI，他们说下个月要 ICO，不知道是不是 Kaito 上搞的，我今天再去 KYC 试试。现在我 yaps 181.9，涨得好慢，希望快照前能到 200 上榜，现在还在小孩卓\n\n今天介绍 Sentient 的 Open Deep Search（ODS）。它是一个开源搜索框架，目标是给 AI 系统提供模块化的检索与推理能力\n\n通过分离检索和推理流程，ODS 在多跳推理任务上超越 GPT-4o Search Preview 和 Perplexity Pro，在简单问答上也接近\n\nODS 由 Open Search Tool（OST） 和 Open Reasoning Agent（ORA） 组成，前者负责查询扩展和动态路由，后者整合多源信息生成高质量答案\n\n它已集成 Sentient Chat 和 GRID 网络，支持领域搜索、研究验证与 AI 代理协作，正在推动开源 AI 创新落地\n#SentientAGI",
+      "timestamp": "Sep 28, 2025 · 1:54 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1972117673174880617#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1971918299585040896#m",
+      "content": "七篇推文拿到 9198 个 GOAT，1000U 已经很不错了。小融资项目写几个：选择不卷的，反撸或撸到，通常 FDV 不高，也就几百到一千 U，但投入沉没成本不大，万一上了大所还有额外惊喜\n\nMira 出了大毛后，很多人说 @irys_xyz 值得写，甚至可能上韩所。我之前写了 4 篇却连官榜前 1000 都进不去，不知道问题出在哪。但为了防踏空，我还是再写一写吧\n\n Irys 是一条将 存储与计算统一 的 Layer1 区块链，核心在“可编程数据”和 IrysVM。传统链上数据只能被动存储，而 Irys 让数据具备访问权限、许可条款和合约逻辑，能自动路由收益或加密控制\n\n它采用多账本架构，实现验证、长期存储与自定义时长，结合 PoW+质押的混合共识来保证安全与低成本。IrysVM 兼容 EVM，让合约直接读写数据，免去外部数据库和预言机依赖\n\n结果是数据拥有生命周期与状态，能服务 AI 训练、NFT 演化、DeFi 审计和供应链追踪等场景。Irys 让数据从“被动存储”走向“主动执行”，成为 Web3 的活跃参与者\n#IRyS",
+      "timestamp": "Sep 27, 2025 · 12:42 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1971918299585040896#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1971855768573169724#m",
+      "content": "今天5点，Goat 上了币安Alpha：375个盘前0.2U，预估价值75U。我写了7篇进前百，算是无心插柳的项目。只是没上大所，很难像 Mira 那样给出5KU以上的大毛\n\n链上和NFT反撸了，alpha和yapper应该还是有一些毛的吧，现在无论项目做的大还是小，哪怕大满贯，也不是很愿意给链上撸毛发空投了\n\n而 @SentientAGI 就不同了。8000万美金融资几乎锁定上所大满贯，带来高估值和高流动性。假设同样的空投份额，估值差10–20倍，那自然有上万U的想象力。我目前 yaps 181，距离上榜还差18，继续加油\n\nSentient 的技术亮点之一是其推出的开源系列 Dobby，核心理念是“忠诚 AI”。它不仅追求算力和性能，还注重忠诚、语气、同理心与幽默感\n\n规格从 8B 到 70B，再到 Dobby Plus，支持“受限”或“自由”模式，兼顾安全与创造性\n\nDobby 基于 OML（Open、Monetizable、Loyal）格式，既能开源下载、本地运行，也能远程追踪和货币化\n\n借助社区协作和创新训练管道，它正在成为 Sentient 开源 AGI 愿景的核心支柱，重塑 LLM 的未来路径\n#SentientAGI",
+      "timestamp": "Sep 27, 2025 · 8:33 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1971855768573169724#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1971772512158863859#m",
+      "content": "6月时 Mira 和 Bless 一起上 kaito，融资规模都不大，我写了几篇就转去搞别的项目。7月底因 Bless 先上榜，我选择继续写，结果前百奖励 400U；而 Mira 前百却上万U，但已经不属于我。再一次证明：选择大于努力\n\n心态调整后继续出发。人在这个圈子，不可能赚到所有钱，但只要不断输出，不碰高风险，机会总会出现，哪怕是慢慢积累财富也未尝不可\n\n目前我在写 @billions_ntwk，补了2篇后 7D 排名回到前百，30D榜单应该在100出头。3M榜单我目前心智占比0.15%，第100名心智占比0.18%，80名0.2%，推算我应该在130名附近\n\nBillions 值得深入：它是 ZK Identity 的 OG 与新代表，根源可追溯到 2018 年的 iden3（Polygon ID 前身），同时开发了影响深远的 Circom DSL\n\n现在通过 Billions Network，把人类与 AI agent 结合，支持移动优先验证与渐进式证明，未来还会加入声誉层、链上经济和 AI 身份体系\n\n相比 Self、Rarimo、ZK Email，Billions 的路线更广阔，的确称得上 ZK Identity 的新标杆\n#BILLIONS",
+      "timestamp": "Sep 27, 2025 · 3:02 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1971772512158863859#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1971556168876360162#m",
+      "content": "今天币安 Alpha 三个都吃了：Hana 67U 卖掉，Mira 163U 卖掉，剩下的 XPL 继续格局中，今天300U利润，感谢币安~\n\n接着 Okx Boost 第三期来了，50 万枚 AVNT（约 75 万刀），我 6 个号都有资格，总积分 8.1 万，算下来 1 分差不多也就 5U\n\n@zama_fhe 我20号才开始写，只为了拿个NFT，如果月底活动结束， 10 篇推文有上千刀的利润也是很不错了，相当于短平快的一次机会\n\nZama 目标在 2029 推出 FHE 专用 ASIC 芯片。FHE 能在加密状态下直接运算，但 GPU/CPU 又慢又贵\n\nZama 用 FPGA 原型机已追平 H100，成本却低 1/3；ASIC 将是里程碑，直接攻破 FHE 最大瓶颈——bootstrapping\n\nGPU 百 TPS，FPGA 千 TPS，而 ASIC 瞄准万 TPS，性能对标 Visa，费用还能降到 1/10\n\n芯片会深度优化 TFHE 算法，支持 ZK-FHE、抗量子签名，并与 fhEVM 无缝衔接。这可能就是隐私计算的HTTPS 时刻\n#ZamaCreatorProgram",
+      "timestamp": "Sep 26, 2025 · 12:43 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1971556168876360162#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1971470169039098005#m",
+      "content": "连续被几百万小融资项目背刺后，我总结出一个规律：融资低的项目必须选择不卷的写，那种10篇以内能上榜、半个月不写也不掉榜的，否则沉没成本太高了，性价比不足\n\n这样可以多写几个这种项目，如果打中章鱼、mira这种能上币安现货的就赚了。而大融资的项目无脑冲就行了，每天写都不亏\n\n@cysic_xyz 我觉得就很棒，又不是很卷；融资快2000万也很不错。而且昨晚的AMA打消了我心中的疑虑，可以继续写\n\n因为 Yap 活动仍在进行中，尚未进行快照，主网和 TGE 在 10 月的第三或第四周内推出，也就是还有半个月时间去写\n\n奖励用的是3M或6M榜单，之前写过的朋友现在可以写；之前没写过的账号质量好的也可以选择写\n\n空投检查器将在TGE前几天发布，这比发币的同时才出查询格局的多，证明cysic不怕查，会给大家满意的答卷\n\n另外Cysic Cube 马上能转让交易，持有者也有额外福利，可惜我没有打，但yap仍然是最好的参与角度\n#Cysic",
+      "timestamp": "Sep 26, 2025 · 7:01 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1971470169039098005#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1971394069168521340#m",
+      "content": "今天币安 Alpha 两个大毛：XPL 二段下午 13:45，230U，比昨天还高，只要 100 分；mira 上现货也是 100U 起步，hana 也不错。我刚好 200 分，不知道能不能三吃\n\n每天早上第一篇流量最高的推文给 @SentientAGI，听说拿教育家角色对推文流量有要求\n\n另外这周晋升延迟到下周，刚好再写几天，到时候17 篇推文，这期间再把DC聊天肝到1000+，去申请一下试试\n\nFingerprinting（指纹技术） 是 Sentient 的核心技术之一，用来给开源 AI 模型打上唯一的身份证\n\n即使权重完全公开，开发者依然能验证归属，保护知识产权。它像模型的数字水印，几乎不影响性能；支持链上验证，结合 Phala、Lit 等伙伴实现去中心化存证\n\n能追踪模型使用情况，帮助开发者在 OML 格式下实现收益分配；更重要的是，它让开源 AGI 在开放共享的同时，避免滥用与篡改\n\n这项技术既是保护，也是激励，可能会成为未来开源 AI 的行业标准\n#Sentient",
+      "timestamp": "Sep 26, 2025 · 1:59 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1971394069168521340#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1971179772563935429#m",
+      "content": "Goat 本周末上币安 Alpha，我官榜排名 37，可惜 17 号就快照了，这几天写的 3 篇算是白写了。@cysic_xyz 我有点担心会遇到同样情况\n\n目前我在 Cysic 官榜 30D 排名 65，7D 从 480 写到 279，预计这篇加上再写 2 篇，才能稳进前 100\n\n但 3M 榜才是真正发空投的关键，我的 3M 排名是 108，想冲上去至少还要一周。写吧怕来不及，不写又没进前100不甘心，所以只能硬着头皮继续写\n\nCysic 最近动作很大：直指当前计算基础设施中心化、提取性、只能租赁且低效的问题，提出 ComputeFi 革命，把计算从租金变成可拥有资产\n\n依托定制 ASIC，性能提升 10–100 倍，支持百万级验证者与证明者，打造可交易市场。初期聚焦 Dogecoin、Litecoin 挖矿，让普通用户不用管硬件也能拿奖励，还能对冲 AI 推动 GPU 涨价难题\n\n作为 Cosmos SDK 打造的零知识 Layer1，Cysic 有望成为去中心化高性能计算的中坚\n#Cysic",
+      "timestamp": "Sep 25, 2025 · 11:47 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1971179772563935429#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1971116053666402540#m",
+      "content": "最近不是 BSC 和币安 Alpha 牛市么，有的币开盘跑太早卖低点，有的不跑直接挂山顶\n\n比如 prove 当晚跌到 0.6，次日拉到 1.9，最后跌到 1.2，我扛不住跑完了；同赛道的 ZKC 我吸取教训，开盘 1.5 就清仓。现在都腰斩，证明跑得对\n\nAster 我空投分散在十几个号，开盘价格低，不多懒得卖，结果一路拉升又舍不得跑，才拿住的。但是现在又贪了，冒出3U都不想卖的想法\n\n总结下来：\n1️⃣ 卖点要参考同赛道、同估值项目；\n2️⃣ 上 Upbit 多半是高点，必须跑；\n3️⃣ 一定别贪，过去几次回吐百万利润都是贪心导致\n\n这些都太基础了，很多都是靠运气，而且容易掉入经验主义的陷阱，形成路径依赖。还需要继续修炼向大家学习\n\n回到 @SentientAGI ，已经写10篇了，DC今天开始也同步在聊，准备冲 20 篇去申请初级角色\n\nSentient Chat 是项目的核心平台，基于 ROMA 框架实现多代理协作，能把复杂任务拆解给不同 AI 完成；同时接入 50+ 数据源，链上数据、DeFi 流动性、社交趋势都能实时整合\n\n相比闭源的 ChatGPT / Perplexity，它主打 开源与去中心化，开发者可以自定义代理，甚至调用链上支付执行真实任务\n\n此外，Sentient 还推出了 Dobby 模型，在数学、编码等硬技能和同理心、幽默等软技能之间做平衡，让交互更贴近人类\n\n可以说它不仅是 GRID 全球情报网络的前端，更是社区参与式的开放 AGI 入口\n#SentientAGI",
+      "timestamp": "Sep 25, 2025 · 7:34 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1971116053666402540#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1971030480964505985#m",
+      "content": "OKX Boost 我准备把 6 个号缩到 2 个，但余额都先不动，同时暂停刷交易量；币安 Alpha 只有一个号，利润虽大，但家人 KYC 也不好搞，重心还是放在写推，每天刷 1.6 万 koge 图省事~\n\n又一个朋友兼职入坑 web3，我只教他 Alpha 和 yap，反复强调不要碰合约炒币，本金我借他，老推特小号（400 粉+蓝 V）也给他了。最近关注和粉丝都掉了快一百个，安全第一，君子不立危墙之下\n\n@zama_fhe 第二季活动月底结束，上榜肯定比第一季卷，所以我准备每天一篇，到月底差不多 10 来篇上榜拿NFT应该问题不大\n\n顺便聊聊它的核心技术之一 FHEVM（全同态加密虚拟机）：允许在加密数据上直接执行计算，EVM 兼容，支持 Solidity 开发，性能还靠 GPU/未来 ASIC 芯片加速，从 53ms 降到 0.9ms，目标 10 万 TPS\n\nFHEVM 的意义在于，把隐私直接做到链上执行层，适用于 DeFi 暗池、RWA 保密竞拍、医疗数据共享等场景。Zama 已经开源代码、筹备测试网，未来会和更多链生态集成\n\n等于说，它不仅能提升区块链的隐私保护，还能让开发者更轻松地把保密逻辑写进合约里\n#ZamaCreatorProgram #zama_fhe",
+      "timestamp": "Sep 25, 2025 · 1:54 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1971030480964505985#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1970829333351821591#m",
+      "content": "今天 @GOATRollup 基金会来了，代币经济学也公布了，理论上一个月左右就会TGE\n\n毕竟谁也不想错过现在的山寨季，只要上个币安Alpha，再来个合约，流动性就来了，可以库库拉盘\n\n虽然融资只有几百万刀，但是拉到5亿FDV还是轻轻松松的，宇宙第一所名副其实\n\n另外，Goat有自己的yap排行榜，可以看到前500名，和 Kaito 上的排名差不多，基本上空投范围就是前500了\n\n我写了 8 篇 3M 榜单排第 37，朋友 zzw110112 写了 19 篇排第 59，可见并不卷\n\nKaito 显示奖励份额是 1% 代币，活动时间 6.17–12.17，我猜可能拆成两个季度发放，每季度0.5%挺合理，否则和现在公布代币经济学的时间点对不上，当然如果一次性发放就更好了\n\n$GOATED 是 GOAT Network 的核心代币，效用主要包括：质押提升 BTC 收益、激励开发者与生态合作、作为 Sequencer 奖励保障网络安全、参与治理投票等\n\n代币分配上，采矿池占 39.42%、团队和顾问 23%、早期支持者 15.58%、国库 15%、空投 7%\n\nTGE 会解锁 10.43%，剩余按线性释放，团队有 12 个月悬崖期。整体设计既保证了前期流动性，也留了长期激励空间\n#GOATRollup",
+      "timestamp": "Sep 24, 2025 · 12:35 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1970829333351821591#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1970753820373471312#m",
+      "content": "Aster 还在拉盘，单价已经到 2.2。之前回调到 1.3，我差点就跑了，但是最后的 6000 个还是选择挂在 3U 出\n\n没想到 Aster 会成为我今年至今最大的收获。说实话，选它唯一原因就是存稳定币，图省事，并不是看得多深，结果反而成了最意外的惊喜\n\n继续写 @billions_ntwk ，它最近的重点是第二个官方 NFT 系列 Supermasks，top yapper 有免费 WL 拿，我倒是没收到创始人私信，也没主动去要了\n\n这个系列应用的就是Billion的核心技术之一 AllPassai ，它是一个人类验证系统，基于区块链的去中心化身份认证，结合生物识别和行为分析，把人类和机器人区分开来，保证 NFT 铸造、奖励分配都是真人参与\n\n技术上它用零知识证明保护隐私，不泄露数据；同时支持多链（Solana、Polygon 等）和高并发\n\n近期因 KBW 活动需求激增出现过载，团队已在优化。应用上，除了 Supermasks，还扩展到 DePIN 游戏（合作 BeamableNetwork）、社区奖励分配等，算是把反 Sybil真正做到链上落地的代表之一\n#billions",
+      "timestamp": "Sep 24, 2025 · 7:35 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1970753820373471312#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1970676161090085077#m",
+      "content": "今天继续写 @SentientAGI，yaps 分数突破 180，离 200 也不远了，希望那一天能直接上榜\n\n顺便分享下日常：昨天忍不住买了两盒宝可梦朱紫第二弹，39U/盒，月底第三弹要出了，但溢价太狠，一盒要 55U，第一次开卡牌，纯属娱乐哈哈\n\n另外，Bless要拉盘到0.1U了，我4800个值480U，朋友Celia她yap到的第二个项目就是Bless，1.2万个按这个价格就是上千 U了，之前还笑她 Spark 只撸到 60U，第二个bless 120U 有进步...\n\n回到正题，Sentient 的核心产品之一是 ODS（Open Data Search）。这是一个开源搜索框架，号称 SOTA 性能，能聚合多源数据，支持语义搜索与上下文理解\n\n相比传统搜索，ODS 不只是找结果，而是帮 AI 代理和用户精准获取外部信息，比如跨平台技术文档检索、社交趋势分析\n\n它大幅强化了 GRID 的数据处理能力，为 Sentient 构建真正智能化的 Agent 奠定了基础\n#SentientAGI",
+      "timestamp": "Sep 24, 2025 · 2:26 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1970676161090085077#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1970469723273076961#m",
+      "content": "最近类似0G、Bless这种，都是链上和社区先反撸了，毕竟发给社区还要砸盘，然后最多给嘴撸的发一点，外面没有筹码，再轻轻松松单机拉盘，币价涨了，回归价值，自有人辩经\n\n另外，我以为 @zama_fhe 的排行榜是实时的，结果理解错了，其实要等第二季活动结束，才会公布最终榜单。我说怎么一直没上榜，原来看的是第一季榜单…\n\n说回 Zama 的核心技术：Concrete 框架\n\n它是 Zama 开发的开源 FHE 编译器，让开发者能用 Python 等高级语言直接写隐私应用，自动转为加密运算，无需钻研复杂密码学\n\n亮点在于：\n  -  支持加法/乘法在密文上直接执行；\n  -  自动噪声管理 + Zama TFHE 技术（引导延迟仅 0.9ms）；\n  -  已实测机密稳定币转账可达 230 TPS；\n  -  兼容 TFHE、CKKS 等多种 FHE 方案，API 直观、跨平台可用\n\n应用场景覆盖机密合约、隐私 ML、医疗数据、云计算。作为 Zama 生态核心，Concrete 将与 TFHE-rs、开发者计划和未来 FHE 芯片结合，加速隐私计算真正落地\n#ZamaCreatorProgram",
+      "timestamp": "Sep 23, 2025 · 12:46 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1970469723273076961#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1970400019204489652#m",
+      "content": "Bless 下午5点上 Alpha，我 yap 前100 拿到 6200 个，结果 Alpha 就直接 3200 个\n\n空投还得等到明天才开放。再一次印证了：链上 < DC < 嘴撸 < Alpha 的鄙视链\n\n另外 Anoma 上所推迟到 29 号，今天18点的币安 Alpha 不确定会不会延\n\nMavryk 说好的 0.5% 份额，结果活动结束只给 0.15%，记得今天去官网登记一下\n\n我估计随着 InfoFi 的逐步发展，yap会越来越像链上撸毛——不是没有大毛，但命中概率越来越低，所以抓住早期吧\n\n@zama_fhe 我已经写了两篇都没进前250，明明浏览量等指标都比榜单后排的高，再试一篇，不行就止损\n\n再简单介绍下 TFHE-rs：这是 Zama 推出的 Rust 实现高性能 TFHE 库，专为区块链和实时计算等对性能敏感的场景打造，支持高效布尔与整数运算，兼顾速度和跨平台适配\n\n作为开源项目，它鼓励社区扩展，特别适合开发机密交易、隐私计算等应用，为 FHE 落地提供基础工具\n#Zama",
+      "timestamp": "Sep 23, 2025 · 8:09 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1970400019204489652#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1970300108274299134#m",
+      "content": "最近发现写 @SentientAGI 的流量特别猛。最高那篇不算出彩的推文都12万浏览了，最差的昨晚才发的也快2万，基本过2天就能冲到5万+\n\n如果你离3个月500万浏览、拿推特发工资的门槛只差一点，不妨写写 SentientAGI；顺便 yaps 满 200 还能上 kaito 榜，同时写的多了还有机会拿到DC的教育家角色，一鱼三吃\n\n今天重点说下 Sentient Chat：它是 Sentient AGI 的核心产品，2025年2月在 ETH Denver 首发，定位是开源、去中心化的消费者级 AI 聊天平台\n\n不同于 ChatGPT 或 Perplexity 的闭源路线，Sentient Chat 强调忠诚 AI，由社区构建和持有，目前已有200万+用户排队\n\n最新的 Spaces 功能（9月16日升级）：把多源数据和代理整合成综合报告，比如代币分析（Asset Reports）、智能行程规划（Travel Explorer）、每日新闻摘要（News Bites）\n\n同时它内置15+代理，支持链上数据、实时搜索、钱包分析等任务自动化，还能用$SENT 代币激励开发者和质押者\n\n总之，Sentient Chat 是开源版 Perplexity + ChatGPT 的结合体，既是 GRID 网络的入口，也是开源 AI 的窗口，研究、金融、旅行等场景都能用\n#SentientAGI",
+      "timestamp": "Sep 23, 2025 · 1:32 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1970300108274299134#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1970100033744986553#m",
+      "content": "0G 链上全员反撸，嘴撸给的范围看着大，但单号并不多，上了 Upbit 库库拉盘，币安Alpha 20 个目前价值 120U 左右\n\n嘴的 Anoma 和 Bless 明天双双上 Alpha。Bless 已经实锤反撸，Alpha 估计比嘴撸还多\n\nAnoma 我依旧看好，明天同时上合约，说是会按 kaito 榜单排名发放奖励，按榜单来就不存在什么暗箱操作，希望能保持 1% 份额不要打折，不要搞什么第一季第二季的\n\n说回 @cysic_xyz。我30D 排名65，3M 109，但 7D 已经掉到 580，再写可能意义不大，不过 TGE 在即，且最近项目空窗期，还是继续写一写吧\n\nCysic 提出的 ComputeFi，本质是把算力当作金融资产来交易。用户提交 ZK 证明等计算任务，节点（Cysors）提供算力完成，并通过 $CYS/$CGT 获取奖励。算力就像 Filecoin 里的存储，被标准化、定价、流通，变成可投资的资产类别\n\n测试网数据已验证需求：Phase III 证明生成量增长 143%，参与用户超 136 万。便携式矿机降低了参与门槛，合作方 ZKVProtocol 提升 ZK 性能。主网上线后，预计会开启类似 DeFi 的流动性挖矿与算力质押\n\nCysic 把算力金融化，可能是下一个 Filecoin 级别的叙事\n#Cysic",
+      "timestamp": "Sep 22, 2025 · 12:17 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1970100033744986553#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1970027925979406843#m",
+      "content": "写 @SentientAGI 前，先插一句今天的币安 Alpha：下午4点上 0G，227分门槛，数量20个\n\n链上跑节点算是反撸，嘴撸还没公布份额，大概率是最后的倔强了。CFX 二创团队的活，祝yapper们好运\n\n回到正题。SentientAGI 与 EigenLayer 的合作，其实是开源 AGI 战略的核心拼图。简单讲，AI 一直有黑箱问题，模型决策难以验证，而 EigenLayer 的 Verifiability Stack（可验证性栈）就是专门解决这个问题的\n\n机制上，他们把 ZK 证明 + TEE 隔离环境 接入 GRID 网络，让代理和模型在运行时都能生成可审计证明\n\n比如 ROMA 框架做深度研究时，结果可以附带证明，社区能确认它确实基于指定输入算出来的\n\n应用场景也很直白：DAO 治理时，AI 辅助投票和提案评估有证可查；政府用 AI 决策时，可验证过程防止滥用；开发者还能靠 OML 框架追踪模型使用获益\n\n一句话总结：这次合作就是把信任AI → 证明AI，推动 AGI 从黑箱走向透明治理\n#SentientAGI",
+      "timestamp": "Sep 22, 2025 · 7:30 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1970027925979406843#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1969950943006626191#m",
+      "content": "捞一下 @GOATRollup ，之前先说一下币安首期 BuildKey TGE — RIVER\n\n我刚好分数够，3 BNB 拿了 3 个 Key，每 Key=20 $RIVER，目前 Bitget 盘前单价 3.5U，单号相当于210U，24h 交易量已到 79 万U，行情好了，币安Alpha收益也大大增加了\n\n再说 GOAT 的亮点 —— Universal Operator 模型。这是他们的核心创新：所有 staker 可动态轮换担任 sequencer / prover / challenger，系统自动分配角色，避免搭便车\n\n这样不仅降低了硬件门槛，还把证明效率从分钟级拉到 30 秒内\n\n收益层面，用户 stake BTC/GOATED 进网络，就能赚取 gas 费 + MEV + 挖矿奖励，形成经济飞轮\n\n社区实测区块时间约 2.1s，费用不足 1 美分，预计 APY 2–10%（风险从保守到杠杆）\n\n总之，GOAT 在效率与收益的平衡上，走出了一条真正去中心化的路\n#GOATRollup",
+      "timestamp": "Sep 22, 2025 · 2:24 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1969950943006626191#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1969756721213292995#m",
+      "content": "写 @billions_ntwk 前先说一下目前 yap 常见的反撸，就是活动结束前后，项目方没有契约精神，临时缩减份额、锁仓、延长活动时间、修改活动规则、甚至一分钱不给\n\n所以经验是：融资5000万以上的大项目，才值得投入超1个月的每天持续输出，因为估值高、预算足，格局大\n\n而低融资项目，最好挑周期≤1个月的活动。如果周期超过1个月，那就保持“能上榜，5天一篇不掉榜太多”的频率即可，减少沉没成本。还是那句话：选择大于努力，运气大于实力\n\n回到 billions，他们带来的亮点是 Progressive Identity Verification（渐进式身份验证）：从社交+PoH（唯一性证明）起步，按需升级到 KYC/AML\n\n核心基于 ZK 库，支持 9000+ app、100+ 伙伴，集成 Web Wallet + Mobile App，验证数据跨平台复用\n\n对用户来说，既保留隐私，又提升 UX；对项目来说，终于能用分层验证取代传统 KYC 这道杀手级门槛。应用场景包括 Web3 项目接入、甚至 HSBC 式金融签到加速\n#Billions",
+      "timestamp": "Sep 21, 2025 · 1:32 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1969756721213292995#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1969691545768194056#m",
+      "content": "继续补一篇 @zama_fhe，我看榜上基本都是2篇以上。先盘点下6月30号以来 yap 过至今还没 TGE 的项目：\n\n1️⃣TheoriqAI：4 月开，8 月结束，结果还要三个阶段后才 TGE，拖了快两个月了；\n\n2️⃣Bless：2 个月活动周期，23号上币安 Alpha，激励份额从 0.5% 缩到 0.05%，前百只有几十美金，全员反撸；\n\n3️⃣XHunt & Mantle：20 天 5 万 U，金额不多但是短平快，适合账号质量不错，但是kaito搞的晚yaps不多的人\n\n4️⃣Mavryk：说好的0.5%份额活动结束后变成0.15%，但是活动周期只有1个月，也还行吧\n\n5️⃣Portal：第一季说给就给，中文社区参与人不多毛也不错，第二季短平快，币价也从TGE的0.2拉到0.6，应该是个优质yap项目\n\n6️⃣Anoma：应该这个月TGE，Kaito排名已经快照了，0.75%给yapper，按盘前就是750万刀堪比牛顿的大毛，我就怕来一句，这是第一季只给0.2%，剩下的分三季发放...\n\n回到 @zama_fhe，他们最新推出 Zama Developer Program，目标是降低 FHE（全同态加密）门槛，让更多开发者能在区块链隐私计算上落地应用，甚至孵化独角兽\n\n核心包括：培训课程、开源工具（Concrete、TFHE-rs）、SDK/API、技术文档和潜在的资金支持，形成从入门到独立创业的清晰路径\n\nZama 的逻辑是——很多人觉得 FHE太早，但历史上 BTC、ETH、ZK 都是太早时的机遇\n\n尤其是 9 月 17 日 FHE bootstrapping 降到 0.9 毫秒，性能已接近实用化，正是开发者卡位的最佳时机\n#ZamaCreatorProgram",
+      "timestamp": "Sep 21, 2025 · 9:13 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1969691545768194056#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1969607163489501319#m",
+      "content": "ASTER 已经 1.6 刀了，想到我开盘 0.07 就卖飞 2200 个，少赚近 4000U，心痛。1U 的时候又出了 600 个，还留着 6000 个，单项目已经万 U 了。牛市项目估值高，赚钱机会多，但我还是秉持不二级不合约，今年把亏掉的一百万先赚回一半就满足了。继续每日一篇 @SentientAGI \n\n我确认了应该是要200yaps才能上 @KaitoAI 榜 ，因为我今天上小孩桌了，现在177yaps，继续努力早日上榜\n\n介绍一下 GRID 的五大核心产品之一：ROMA（多代理框架）\n\n它的设计目标是深度研究，把复杂任务拆解成子任务，由多个 AI 代理并行完成并整合结果\n\n适用于学术研究、市场分析、技术开发等场景。亮点包括：动态代理分配，提升效率；模块化接口，方便定制\n\n示例用途比如生成跨学科科研报告，或提供企业竞争情报等\n\nROMA 的意义在于弥补了多代理协作的空白，比单一模型更适合处理多维度推理问题，也展现了 GRID 在 AGI 复杂任务上的野心\n#SentientAGI",
+      "timestamp": "Sep 21, 2025 · 3:38 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1969607163489501319#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1969404956328542689#m",
+      "content": "写一篇 @zama_fhe。奖励中规中矩：前100 每月 5 万刀，前 6 才有过千 U，前 250 有 OG NFT拿。我的目标很简单——冲进前 250 名，拿个 NFT 就行\n\n感觉 Zama 和 XHunt 类似，看重账号质量和推文互动数据、流量。我在 XHunt 能拿第一，Zama 应该也不会差\n\n看了一下榜单后排，很多人就发两条推，浏览量几千，我冲个 OG NFT 问题不大\n\n项目本身也有看点。9 月 17 日，Zama 宣布 全同态加密（FHE）引导过程延迟首次突破 1ms，仅 0.9ms\n\n这是从 53ms → 0.9ms 的跨越，64 位加法/乘法加速 230x / 400x，在机密稳定币转账中能做到 230 TPS，已超过以太坊主网\n\n意义很大：隐私合约、机密支付、匿名投票都变得可行；医疗、金融、AI 等场景的加密计算也迎来机会\n\nZama 还计划通过开发者计划+专用 ASIC 芯片，把 FHE 推到 10 万 TPS，媲美全球金融系统\n\n我冲 NFT 的同时，也算是见证 FHE 进入实用时代\n#ZamaCreatorProgram",
+      "timestamp": "Sep 20, 2025 · 2:15 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1969404956328542689#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1969335812715397202#m",
+      "content": "Aster 已经破 1U，我8800筹码只剩6000个，还拿着。今天主要还是聊 @SentientAGI\n\n今天去宠博会撸了好多羊毛，为迎接 @zzw110112 送我的小猫，算是撸毛的另一种形式吧，感谢她~\n\n回到正题：SentientAGI 上 @KaitoAI 后确实卷起来了，beyond5188 老哥提醒说光写10篇不够拿角色，我反正主打 yap，空了就写+DC混，冲20篇再申请\n\n它最近推出 Chat Spaces，我觉得是个大动作。简单说就是一个 AI 智能空间，把链上数据、社交数据、行情工具全整合到一个报告里，不用再开一堆标签页\n\n比如输入“分析 BTC”，它会结合链上指标、社区情绪和技术分析直接生成报告；或者输入“意大利5日游”，就能自动规划行程。还有新闻速览空间，帮你过滤噪音、快速提炼重点\n\n核心逻辑是：依托 GRID 网络 + 多代理协作（ROMA、ODS、Dobby等），Chat Spaces 成了一个开源的AI大脑。上线首周新增用户 1.5 万，看得出社区很买账\n\n卷归卷，但这种大融资，强技术，应用落地的项目，我会一直写到快照，无论怎么样，yapper现版本总是吃的最香的\n#SentientAGI",
+      "timestamp": "Sep 20, 2025 · 9:40 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1969335812715397202#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1969267974306713955#m",
+      "content": "这篇先分享一下手上3个冲刺项目结束后，我的yap计划，然后捞一下我已上榜的项目 @cysic_xyz \n\nSentientAGI 我准备每天一篇，接替 anoma，当作大融资主力，目前市面上没有其他能在融资体量和高奖励潜力上替代它的标的\n\n其次是 3 个已上榜但不卷的项目，另外两个是 Goat 和 Billion。除非临近TGE，否则5-7天一篇即可，排名反而会稳中上升\n\n然后就是继续选项目，比如XHunt后续合作的项目；比如Zama，还有一些新项目，一些临近TGE的老项目，边选然后看着不错的写两篇试试水\n\n回到 Cysic，它出了自己的排行榜，可以看到前1000名，我30D榜62，3M以上榜单排名都在在100名出头\n\n有人爆料其 TGE 日期可能在 @KaitoAI 上被误泄露为9月26日，如果属实，这两天要冲刺一下\n\n项目本身是首个全栈计算网络，聚焦ZK证明生成和ComputeFi\n\n近期热点包括：Phase III测试网收官（136万参与，证明量+143%）、ComputeFi叙事（计算资源可类比股票房地产，未来可交易并产出收益）、扩展排行榜上线、Token2049首发便携式矿机并向社区征名，以及与ZKVProtocol合作扩展全球ZK证明网络~\n#cysic",
+      "timestamp": "Sep 20, 2025 · 5:10 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1969267974306713955#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1969048182400377036#m",
+      "content": "我准备继续写 @SentientAGI，原因主要是融资大，大融资就有高估值，FDV高就给得起钱，也就比较有格局。yap选项目的逻辑其实和链上撸毛是一样的\n\n现在 SentientAGI 正式上 @KaitoAI 了，听说 200 yaps可以上桌，我目前176分，肯定能在TGE前达到，已经写了4 篇，写满 10 篇就尝去DC申请角色，走教育家路线，一举两得\n\n过去7天，SentientAGI 的核心项目 GRID（代理、模型、数据源和 Chat 等组成的全球最大智能网络）持续升级\n\n9.16 的产品线程爆火，ROMA、ODS、Dobby 等组件全面亮相\n\n9.17 推出 Chat Spaces，整合多源数据自动生成资产分析、旅行规划和新闻摘要\n\n9.18 宣布支付伙伴 Tria 加入，支持跨链与现实世界结算，强化代理经济闭环，此外还与 EigenLayer 合作推进治理基准\n\n当下整体趋势从开源 AGI 扩展到支付与代理经济，社区增长迅猛，节奏清晰\n#SentientAGI",
+      "timestamp": "Sep 19, 2025 · 2:37 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1969048182400377036#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1968985667142312275#m",
+      "content": "只要上了 7D 榜单，就能用 Kaito 官网的心智占比大致推算30D、3M等榜单排名。拿@PortaltoBitcoin 举例\n\n比如我：3M 心智占比 0.11%，而 3M 榜单第 100 名是 0.15%，第 50 名是 0.18%，所以我大概在 160 名左右。这个方法能帮忙判断冲榜节奏，避免盲目卷榜\n\n再说回 Portal。最近区块链互操作性是加密领域的焦点，尤其是在比特币生态的扩展上\n\nCointelegraph 报道过 Solana 正在探索 bridge-free 原子交换；比特币 ist 预测 2025 年会有更多项目推动跨链实用性；Chainlink 也强调过 原子交换是跨链去中心化的关键\n\n这些方向与 Portal 的 100% 自托管、无桥梁设计 完全契合\n\nBitScaler 不仅提升了比特币的跨链可扩展性，还让它真正具备 DeFi 基础设施的潜力\n#portal $PTB",
+      "timestamp": "Sep 19, 2025 · 10:28 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1968985667142312275#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1968910424306290715#m",
+      "content": "小狐狸钱包 MetaMask 真的要发币了？母公司 Consensys 创始人在采访里亲口确认，现在山寨季 TGE 潮，可能保真~这几年我常用的都是 OKX 钱包，能有空投吗？\n\n回到 @PortaltoBitcoin，今天我安排在第一、二篇，早点写早点被识别，排名上升也更快\n\nPortal 的核心创新是 BitScaler：通过多方通道工厂（MPCh）把成千上万的链下支付整合为一个链上动作，大幅降低费用，提升吞吐量\n\n它在比特币 L1 和闪电网络之间加了一层扩展引擎，让 BTC 可以直接跑 DeFi，而不是只当数字黄金\n\n未来还会结合 Eltoo、MuSig2、FROST 等方案，继续扩展边界。Portal 想做的就是把比特币带入跨链 DeFi 的世界，同时坚持自托管理念\n\n明天活动就结束了，继续再加一更，毕竟技术叙事+确定性激励，值得全力冲榜\n#PortaltoBitcoin",
+      "timestamp": "Sep 19, 2025 · 5:30 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1968910424306290715#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1968842478871564751#m",
+      "content": "现在 yap 最大的风险，就是项目在 TGE 前变卦：轻则缩减份额，0.5% 变 0.1%；延长周期，一个月改两个月。重则直接砍奖励，人均 10U 那种。但 @PortaltoBitcoin 不存在这种情况\n\n第一季 33% 解锁说给就给，第二季短平快只 1 个月，哪怕只解锁 33%，奖励池也有 60 万刀。剩下 66% 3-6 个月释放，万一币价拉升就是强制赚钱\n\n再看 Portal Wallet，本身就是 Portal 生态的核心入口：支持 30+ 链（BTC/ETH/SOL 等），自托管私钥\n\n通过 BitScaler 路由实现无信任原子级跨链，成本比传统低 90%，避免桥接和托管风险；还能直接接入比特币 DeFi，配合 RAFA AI 和 Portal DEX，做到一站式跨链操作\n\n确定性奖励 + 技术落地 = 稳健又有想象力。快照前继续写，至少要把能解锁的那部分吃满\n#PortaltoBitcoin",
+      "timestamp": "Sep 19, 2025 · 1:00 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1968842478871564751#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1968684440227647898#m",
+      "content": "币安 Alpha 限时任务，可以额外拿 5 积分：在网页版钱包完成单笔 ≥$50 的交易。可以用 $KOGE去刷，每人只加一次分。活动时间：9 月 19 日 08:00 - 10 月 3 日 07:59（北京时间）\n\n继续加更 @PortaltoBitcoin。RAFA 是 Portal 生态里的核心 AI 组件，被定位为“内置钱包的 AI 副驾驶”，直接集成在 Portal Wallet 中，帮用户做更智能的投资决策\n\n它不是简单的聊天机器人，而是实时情报层，专注风险管理、alpha 发现和自动化执行\n\n核心能力包括：\n\n1）风险情报：监控波动性、集中度和资产相关性，像随身带一个量化团队；\n\n2）期权预警：提前扫描异常成交和隐含波动率变化；\n\n3）AI 筛选器：跨链、跨市场找个性化 alpha；\n\n4）深度研究：秒级解析财报、SEC 文件、代币经济学，生成 RAFA 分数\n\n它与 BitScaler 结合，可一键跨链执行建议，支持自托管、安全优先，未来还会拓展到税务规划和财富管理。相比市面上的噱头 AI，RAFA 更注重实际落地\n#PortaltoBitcoin",
+      "timestamp": "Sep 18, 2025 · 2:32 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1968684440227647898#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1968636368885870602#m",
+      "content": "OKX Boost 第二期 X Launch（Lombard）可以领了，我 5 个号 12.96 分，拿到 283.29 个，一分 21.85 个\n\n$BARD单价1.2U现在，刚开始想着 gas 太贵，结果现在币价跌了 25%，gas 还翻倍了，只能继续等\n\n@Mantle_Official 的活动明天结束，我今天再写一篇。$MNT 已经拉到 1.72U，奖励又增加了。POI 榜我暂时第一，POW 榜第 14，但昨天跨了 6 笔 100U，应该能冲进前 10\n\n9 月 16 日，Mantle 宣布完成主网升级，采用 SuccinctLabs 的 OP Succinct，成为第一个以 ZK Validity Rollup 启动的 OP Stack L2，也是 TVL 最大的 ZK Rollup\n\n亮点包括：1 小时最终性、12 小时提款，以太坊级安全，同时减少机构资金闲置时间。虽然提款改进要等 7 天生效，但这是“流动性链”迈向 DeFi + RWA 融合的重要一步\n\n9 月 17 日，mETH Protocol Season 3 公布奖励计划；Bybit 合作 teaser 放出“Bit by bit. Soon.”\n\n9 月 18 日还有首期 Townhall，社区热度明显升温。整体看 Mantle 一边技术升级，一边加速生态扩展，流动性链叙事在持续落地\n @xhunt_ai #Mantle",
+      "timestamp": "Sep 18, 2025 · 11:21 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1968636368885870602#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1968547278869905832#m",
+      "content": "推特月流量突破 3M 🎉，最近用币安 Alpha、OKX Boost 打窝，效果真不错。等手上 3 个项目 20 号结束后，我恢复到每天 3 篇，流量可能会降下来\n\n继续冲 @PortaltoBitcoin，今天写 2 篇，明天再加 2 篇。官方分配 0.4% 份额，按当前币价解锁 33% 就是约 66 万美金。不过这次门槛拉高了，听说 1500 分，比上次多了 600 人\n\n重点还是 BitScaler。9 月 14 日，Portal 官方公布其 DeFi 扩展潜力，被称作“比特币扩展的圣杯”。BitScaler 通过 多方通道工厂 + 原子交换，让 BTC 不依赖桥和包装资产，就能参与 AMM、借贷和衍生品，预计解锁万亿级流动性\n\n技术上，它兼容 Lightning，又通过 DLC（隐私合约）+ Taproot 签名 把 TPS 提升至 3,000–20,000，费用仅 0.01U/笔，支持期权等高频市场。Portal 还推出 Portal University，降低 BTC DeFi 的学习门槛\n\n市场反应立竿见影： $PTB 公布后上涨 15%，未来还将结合 oracle（如 Chainlink），目标 2026 年实现 50,000 TPS，把 BTC 变成多链 DeFi 的结算层\n#portal",
+      "timestamp": "Sep 18, 2025 · 5:26 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1968547278869905832#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1968486890367230162#m",
+      "content": "再补最后一篇 @MavrykNetwork ， Aster 已经拉到 0.5U 了，大号 2200 枚 0.07 卖飞了，少赚 1000U。好在还剩 6600 枚没动，打算继续拿到 1U，反正不算多\n\n说回 MavrykNetwork。这类明确写明截止日期的 yap 活动好处就是：每一篇推文都算，不会出现提前快照、白写一个月的情况。但坏处也明显——最后两天会非常卷，大家都在疯狂冲分\n\n再补一个关键设计：共同质押（Co-staking / LSD）\n\n1️⃣原理：用户把 $MVRK 委托给验证者后，可以额外“共同质押”到验证者自抵押（self-bond）里，提升验证者的安全性，换取更高收益\n\n2️⃣优势：相比标准委托 ~15% 年化，Co-staking 奖励可达 ~30%，并能与 RWA 抵押场景结合，让质押代币直接用在 DeFi\n\n3️⃣流动性：机制会生成流动性衍生品（如 stMVRK），类似 Lido 或 Rocket Pool，用户既能赚高收益，又能随时交易或借贷，不用死锁资产\n\n这套设计其实就是把 LPoS 共识、安全性和 DeFi 流动性绑到一起，让 Mavryk 在 RWA 赛道更有竞争力",
+      "timestamp": "Sep 18, 2025 · 1:27 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1968486890367230162#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1968311763486883984#m",
+      "content": "补一篇 @MavrykNetwork，先说下 Aster：今晚可以领空投了，但无法归集、无法转账。好在网页版恢复，可以在“Spot”里直接卖\n\n我自己 12 个号总共 8800 枚，折算下来才 500 多 U。大号 2200 枚先出了，其余的先观望，准备慢慢卖。目前FDV 在 5 亿美金，单价 0.075 左右\n\n说回 MavrykNetwork。它的独特之处在于把 LPoS 与 RWA 架构深度绑定：\n\n1️⃣性能：TPS 高达 8000，手续费几乎忽略（0.01U 一笔\n\n2️⃣能源效率：比起比特币 PoW，能耗低 2500 万倍，全年仅 0.001 TWh，非常适合 RWA 合规化和大规模代币化\n\n3️⃣治理与激励：委托者能直接参与协议决策（金库分配等），动态通胀（3%-10%）和网络采用挂钩，既能早期激励，又能控制长期稀释\n\n4️⃣RWA 优化：在房产、债券等资产代币化场景下，LPoS 确保合规模块验证，同时保留流动性，让机构更容易接入 DeFi\n\n整体看，Mavryk 不只是 RWA 银行，更是在底层设计里就嵌入了对合规、性能和可持续的考量\n#MavrykNetwork",
+      "timestamp": "Sep 17, 2025 · 1:51 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1968311763486883984#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1968253912886214754#m",
+      "content": "写 @xhunt_ai & @Mantle_Official 的活动前，先用今天的 OKX Boost 打个窝\n\n第二期 X Launch（Lombard）门槛出来了：余额 200U+、交易量 128U+。我 5 个号满足，还有 1 个号1000U只放了 2 天，差 1 天没达标\n\n这期门槛高在预料之中，第一期大家都没有准备，也不晓得规则，突然袭击，所以 1 分60U大毛，这次官方提前 2 天预告，包括我都在卷\n\n所以不可能三角又一次印证了，我准备先不提U，也不刷，观望一下，不可能15天就一个项目。260 万枚 $BARD 按 0.6 算，1 分≈10U，基本能回本\n\n说回 Mantle，活动还有 2 天结束，我 POI 榜暂列第一，POW 榜第 10，准备再跨链 5 次，这次单笔加到 100U，冲击更高名次\n\nMantle 的技术升级也很关键：和 Succinct Labs 合作用 SP1 zkVM 替换乐观方案，提款期从 7 天 → 12 小时，预计 9 月 23 日正式生效\n\n目前还处于过渡期，桥接合约仍是 7 天逻辑。升级后 Mantle 将是 TVL 最高的 ZK rollup，对 RWA 和 DeFi 的机构级应用会是大利好\n#mantle",
+      "timestamp": "Sep 17, 2025 · 10:01 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1968253912886214754#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1968185995729474037#m",
+      "content": "anoma 结束后，我的重点就放在 @PortaltoBitcoin 和 MavrykNetwork 。Mavryk 今天我会写 2 篇，Portal 则在 18-19 号每天加更 2 篇，短期冲榜唯一办法就是多写！\n\n0G听说很多人没有资格，anoma的NFT也是，但唯一不变的就是 yap\n\n链上/DC 不一定都有资格，但只要是 yapper 基本都有；如果连 yapper 都没有，那谁也吃不到。这也是为什么我一直说 yap 是版本答案\n\n说回 Portal。项目在 8 月完成 5000 万美元融资，目标是用 BitScaler 把原生 BTC 带进 DeFi，覆盖 30 条链。BitScaler 在比特币基础层部署通道工厂，支持多方流动性池和无托管原子交换，提供 Lightning 级别的安全\n\n这套协议最早来自 ETH Zurich 的支付通道研究，如今被 Portal 首次落地到无信任 AMM。配合流动性路由器、交换 SDK 和钱包，Portal 能够打通比特币现货与衍生品市场的跨链流动性\n#Portal",
+      "timestamp": "Sep 17, 2025 · 5:31 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1968185995729474037#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1968130420698124657#m",
+      "content": "昨晚 anoma 开放了空投登记，我测试网和推特都有资格\n\n但测试网这边要用小狐狸钱包大写地址登记，OKX钱包地址不行，DC查询还在录入中，我目前还没有资格\n\nMavryk 这边是 30D 榜单前 250 名有资格获得空投， 30D 榜单是短期波动比较大的，所以 @MavrykNetwork 明天活动结束，今天准备加更一篇\n\n我引用推文里的银河任务做了测试网的必做，我们 yapper 也去填一下，确保万无一失，都是一些免费的社交任务\n\n技术层面，Mavryk 提供了一个DeFi + RWA 的全栈组件：内置 DEX、借贷、永续合约和收益农场，并接入 Equiteez（代币化平台）和 Nexus（生态浏览器），让 RWA 能够无缝上链流动\n\n协议已通过 HTLC 和桥接机制处理 1.33 亿笔交易，并保持低费用与高吞吐量\n\n结合DeFi与RWA的深度集成，以及基于Tezos工具链的 MvKT 索引器，Mavryk 在 DeFi 叙事里确实是一个独特的存在\n#Mavryk",
+      "timestamp": "Sep 17, 2025 · 1:50 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1968130420698124657#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1967959639120810263#m",
+      "content": "写 @anoma 前先说下，OKX Boost 的 Lombard  积分规则还没公布，但 $BARD 在 Bybit 合约已到 1U， 260 万刀总奖励，很可观\n\n今天还有个 Giveaway：50 万美金 Ondo 代币平分给 Boost 余额 >50U、交易量 >256U 的用户\n\n目前 28.5K 人参与，估计人均约 10U，我 6 个号都踩线合格，X Launch 的分数估计不会低于这个\n\n回到 Anoma， $XAN 盘前0.1U 价格，FDV 约 10 亿，TGE刚开盘完全有可能达到这个市值\n\nKaito 1% 份额就是 1000 万刀，前100都有2万U起步了，如果保真，这将是有史以来最大规模的yap空投\n\n在介绍一下 Anoma 的核心集成工具： Protocol Adapters & SDK \n\nAdapters：在目标链部署的智能合约（如 Ethereum、L2），直接为 Anoma 结算跨链交易，无需桥接，降低复杂度\n\nSDK：开发者工具包，屏蔽底层链细节，支持 EVM/Rust 等语言，让 dApp 专注用户意图而非跨链逻辑\n\n这让 Anoma 不只是底层协议，而是真正的通用意图机，为隐私、跨链 dApp 铺路，预计 Q4 主网会扩展更多生态\n#Anoma",
+      "timestamp": "Sep 16, 2025 · 2:31 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1967959639120810263#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1967907497571914031#m",
+      "content": "昨天的 Boundless $ZKC在币安 1.49 出掉了，虽然链上一度到 1.77；今天二段币安 Alpha 也顺利抢到\n\n树莓还是靠谱，开盘就上 Upbit，不洗盘，给我们高位出货的机会；Kaito 也有大几倍利润\n\n最大的遗憾是 KYC，找了 3 个 K 商都过不去，黄金号白白浪费，几千 U 收益没拿到\n\n继续干，趁牛市多赚点，等熊市像之前一年几乎没项目发币时，就没这么好机会了\n\n说回 @PortaltoBitcoin，活动还剩最后 4 天，20 号当天应该不用写，也就是最后 3 篇推文\n\nBitScaler = 比特币可扩展 DeFi 的执行层。它通过多方通道、工厂机制与无托管委托，扩展原子交换。LP 全程自托管，交易者避免资产丢失，验证者若违规会被惩罚，最差也只是资金时间锁\n\n与桥和 wBTC 不同，BitScaler 的原子交换用链上托管保障安全，避免第三方风险。Portal TGE 已在 9 月初上线，代币经济学由 John Conley 建模，循环需求回流给 LP 与验证者\n\n有 Coinbase Ventures、OKX 背书，Portal 聚焦 Solana、Ethereum 等跨链直连，目标是整合碎片化市场，真正实现无信任的价值互通~\n#portaltobitcoin",
+      "timestamp": "Sep 16, 2025 · 11:04 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1967907497571914031#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1967839954320646383#m",
+      "content": "活动 @Mantle_Official 的 POI 榜我目前排第一，POW 榜昨天跨了 50U、20 笔，成本 25U，把排名从第 36 拉到第 9\n\n我个人其实挺喜欢 @xhunt_ai 的活动：不卷，3 周周期，就算最后一周才参与也能进双榜前百\n\n对比 Kaito 上 APT、NEAR 这类已发币项目的 yap 活动\n1️⃣前者更短（20 天 vs 30 天）\n2️⃣激励金额相同（4.8 万刀 vs 5 万刀），\n3️⃣大 V 少（APT/NEAR 榜单上 ICT 大佬更多）\n\n所以选择 xhunt 绝对是更优解。APT、NEAR 我就算 yap 了也不一定能进前百\n\n再说回 Mantle，本月新推出的社区 Townhall 系列，将于 9 月 18 日 10:00 UTC 在官方 X Space 启动\n\n议题包括业务更新、生态数据、$MNT 与 Bybit 的增长策略、RWA（真实世界资产）的最新进展，以及一段 [REDACTED] 的神秘内容预告\n\n一个全新的互动形式，直接向社区释放内部洞见与未来规划\n#Mantle",
+      "timestamp": "Sep 16, 2025 · 6:36 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1967839954320646383#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1967780599349072269#m",
+      "content": "Kaito 即将更新，这次对我们小散 yappers 来说是利好：\n\n1️⃣ 项目必须提前公布分配规则，包括人数、归属、平台（Kaito 或自托管），这下不会存在不知道奖励金额和范围情况的盲目了\n\n2️⃣ 榜单可见排名将随合格人数扩大，比如奖励前 500 人就显示前 500；同时即使不在榜单范围内，也能看到自己的排名\n\n这样我们能实时判断是否值得继续，不会因为看不到排名而增加沉没成本\n\n比如今天 @MavrykNetwork 的公告：前 250 名才有奖励，如果能提前看到排名，靠后的玩家就能及时止损\n\n3️⃣ 与项目方合作定义阈值，结合链上+社交信号，兼顾包容性和防刷子。感觉未来会存在 yap+链上双重反撸的情况了~\n\n回到 Mavryk，本次 Kaito Yappers 和 Mavopoly 测试网的奖励将在交易所上市 7 天后发放。其实这也不算利空，因为初期流通量很少，如果拉盘了反而可能是利好\n\n此外，Mavryk 的技术背书也很硬：P-OPS 团队自 2019 年起验证 Harmony，自 2021 年起验证 Axelar，业务覆盖三大洲，团队累计超 40 年区块链经验，为网络增添了足够信心\n#MavrykNetwork",
+      "timestamp": "Sep 16, 2025 · 2:40 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1967780599349072269#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1967592093695823940#m",
+      "content": "OKX Boost 第二期 X Launch 上线了，这次是 Lombard，分配 260 万枚$BARD\n\n项目融资 2375 万美金，按之前ICO FDV 4.5 亿，单价 0.45U，折合约 117 万刀，比上次$LINEA 的 480 万刀要少得多\n\n数据周期统计到 9 月 16 日，提前明牌快照时间，相当于告诉大家快来刷，预计会非常卷\n\n个人判断这次门槛会明显提高，交易量要求还好，关键在余额，今天起的号放1000U，boost余额明天才130U，如果门槛高直接卡死很多人\n\n我起了 6 个号，每个号大概 300U 交易量，放了 1000U ，但有 2 个号是昨天才起的，有点危险\n\n说回 @MavrykNetwork，它的核心 DeFi 协议是 Maven Finance，被称为“RWA 银行”\n\n集借贷与 DEX 于一体，支持房产、债券等代币化资产，用户可以抵押 RWA 解锁流动性并赚取收益\n\n协议由 DAO 驱动，交易费和奖励会回流到生态中，测试网已完成超 1.1 亿笔交易\n\n主网将在 9 月 18 日上线，$MVRK 将作为 gas、抵押和治理核心\n#MavrykNetwork",
+      "timestamp": "Sep 15, 2025 · 2:11 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1967592093695823940#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1967536399919558969#m",
+      "content": "今晚 20:30，币安 Alpha 将开放 Boundless $ZKC 交易，206 分就能吃一段，不过数量只有 90 个，我现在 200 分，只能等明天再抢二段了\n\n与此同时，韩所 Upbit 也会上线现货，能不能冲到1.5刀！反正我的6300个就挂1.5然后睡觉\n\n说回 @PortaltoBitcoin ，活动只剩最后 5 天。$PTB 现价 0.062，对应 0.4% 份额价值 208 万 U，其中立即解锁的 33% 就是 68.7 万 U，大毛无疑\n\n而最近的热点主题是 BitScaler：他们把比特币当作执行层+跨链底座来做\n\n实用层面：数千个 P2P 通道让链上开销降 90%，还能支持稳定币、合成资产、借贷、预测市场；LP 可以拿到 65% 的 $PTB 排放\n\n安全性方面，HTLC 保证原子性交易，加上后量子安全设计，抗风险周期拉得更长\n\n另外，今天 15:00 UTC 官方将有 Space，Portal 工程师 与 CTO 深度解读 BitScaler 的突破，以及它如何推动比特币 DeFi~\n#Portal",
+      "timestamp": "Sep 15, 2025 · 10:30 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1967536399919558969#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1967473810590117990#m",
+      "content": "13号，@anoma 又注册了一个新域名，带有 airdrop 字样\n\n基本可以确认和空投相关。参考 Succinct：6 月 26 日注册域名，7 月 1 日就快照，这次大概率也在这几天\n\n与此同时，ETH 主网 $XAN 合约地址已确认：0x227503C6D4cd935c11Fee78cB23cD933199Cc912\n\n目前合约分发到 394 个钱包，其中一个钱包持有 1% 筹码，很可能是 Kaito 的奖励池子，虽然官方尚未确认，但与代币经济学很多地方对得上，可信度较高\n\n我估计，anoma 开盘 FDV 大概在 5-10 亿左右，初始价格 0.05-0.1 区间，基本上参加了测试网、混了DC、写了推文，拿个2000U以上空投不成问题\n\n至于Kaito榜单，我的 7D 排名已经掉出去了，但参考的还是 3M 榜单。目前也没听说官方要自建榜单或人工统计\n\n就我自己：写了 60 多篇推文，累计 70 多万浏览，Kaito 榜前百，DC 里也有高级角色。已经尽人事，接下来就等天命，祝大家好运\n#anoma",
+      "timestamp": "Sep 15, 2025 · 6:21 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1967473810590117990#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1967411252705230874#m",
+      "content": "活动 @xhunt_ai  x  @Mantle_Official  的 POI 榜我肝到了第一，接下来开始冲 POW 榜\n\n先简单回顾下两个榜单规则： \n1️⃣ POI 排行：推文影响力评分，奖励 15,000 $MNT ，前 100 名分  \n\n2️⃣ POW 排行：一半看推文质量，一半看跨链（次数&金额各占 50%），奖励 15,000 $MNT，前 300 名分\n\n在星星菌小姐姐的提醒下，我也准备去做几笔跨链，流程见配图，注意事项整理如下：\n\n1）必须用指定 minibridge 👉：minibridge.chaineye.tools/?d…\n\n2）跨 ETH，第一次要勾选兑换 0.0005 ETH 为 $MNT 作为 gas\n\n3）每笔跨链手续费固定 0.0002 ETH（约 0.93U）\n\n4）跨链金额和次数自己把握，我看 50 名以后基本都少于 5 次\n\n5）我最后是把跨过去的 WETH 从 OKX 跨回 base，Bybit 可能也能直充\n\n顺带补充下 Mantle 的生态亮点：核心DEX Merchant Moe 推出 Ultrasound² 路线图，$MOE 排放削减 91%\n\nMoe Vaults 支持 $cmETH 拆分 PT/YT 做期权式收益。Mantle Treasury 也抛出 5200万美元+2亿$MNT 的年度预算，强调社区治理\n\n技术上继续走模块化架构 + EigenDA + ZK 证明优化的路线\n#Mantle",
+      "timestamp": "Sep 15, 2025 · 2:12 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1967411252705230874#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1967213102451277973#m",
+      "content": "30D获取的 yaps 数量超过了50，目前来到164，之前觉得 yaps 没用，而后 Kaito 改版才知道，分不够上榜门槛，坐在小孩卓的焦虑\n\n虽然现在大部分项目取消了yap门槛，但防范于未然，多多益善，争取早日突破 200yaps 的小目标\n\n说回 @MavrykNetwork ：\n•代币信息：总量10亿，发行价$0.1，TGE流通仅5.62%（约560万市值），完全稀释1亿；\n\n•用途：Gas、治理、DeFi抵押；支持质押与联合质押，6个月锁定还能翻倍奖励；\n\n•adoption：验证者+聚合器伙伴加速推进\n\n距离 TGE 只有4天，还有3篇推文的空间，榜单30D排名我从60升到了58\n\nyapper奖励5M $MVRK 代币，保底50万美刀，而首发FDV只有 1 亿刀、流通极低，市场只要稍微放大预期，价格翻几倍都很合理\n#Mavryk",
+      "timestamp": "Sep 14, 2025 · 1:05 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1967213102451277973#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1967157258594488805#m",
+      "content": "写 @PortaltoBitcoin 前先庆祝下：3个月推文展示量破 7M ，这个月才过一半，月底冲击 8M 没问题~\n\n我的经验：写推开头最好用热点打窝，如果刚好是自己参与的项目，再结合个人成绩、体验和思考，配合高频互动，效果往往更好\n\n说回正题，BitScaler 正在把比特币 Lightning 网络带上新台阶：\n\n1️⃣团队成员 Alyssa 用动画解释，它是首个真正落地的 通道工厂（Channel Factory），最早概念来自 2018 年白皮书\n\n2️⃣普通 LN 通道开关都要链上交易，而 BitScaler 只需一次链上操作就能开多个通道，关通道也全在链下完成 → 大幅降低链上负担\n\n3️⃣意味着比特币交易吞吐量将提升数倍，高频 DeFi、跨链应用也能真正发展起来\n\nPortal 正在把这种扩展能力引入无托管跨链基础设施，结合 $PTB 代币驱动生态，背后还有 CB Ventures、OKX 的支持\n\n从 比特币跨链叙事 切入，Portal 可能会成为第一个真正把 BTC 生态做起来的项目\n#portaltobitcoin",
+      "timestamp": "Sep 14, 2025 · 9:23 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1967157258594488805#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1967090935235534941#m",
+      "content": "写 @Mantle_Official 前说一下，币安Alpha $KOGE V4十万分之一费率的低损耗池子没了！\n\n估计是为了防止收割和安全考虑，继续回归1030U刷1.6万交易量\n\n昨晚185分门槛，40U都没人要，也说明改版后整体门槛确实下降了\n\n我这边 OKX Boost 刷 512 档，损耗无所谓，反正我号不多，祝我赚钱~\n\n回到正题：@xhunt_ai x Mantle 活动，我目前 POI 总榜第 2，7D 排名第 1。至于 POW 榜嘛，第 36 哈哈，写是写不上去的，能混个前 100 就满足了\n\n顺带一提， $MNT 在 9 月 11 日冲上 $1.7 ATH：\n\n1️⃣过去一个月涨了 60%，动力来自 Bybit「MNT x Bybit 2.0」路线图（9 月 10 日发布）；\n\n2️⃣9 月 20 日还会有机构版 MNT 升级，最高 10x 杠杆贷款 + OTC 流动性；\n\n3️⃣9 月初 Bybit 上新 21 个 MNT 交易对（ETH/MNT、SOL/MNT 等）；\n\n4️⃣财库背书模式也在强化$MNT 的 DeFi-CeFi 桥梁地位\n\n最后跪谢各位用我的邀请码：TJ623U9J4I （我是早期支持者，有 10% 积分加成🙏）\n#mantle",
+      "timestamp": "Sep 14, 2025 · 5:00 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1967090935235534941#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1967030542416621764#m",
+      "content": "每天推上信息繁多，排除没用信息和找到有价值信息同样重要。写 @anoma 前，先聊聊我怎么识别广子\n\n通常广子是中长推，聚焦一个项目，内容多是技术和信息堆砌，缺乏个人理解，基本全是夸赞\n\n一个博主如果真实撸某项目，会有持续更新；广子往往只发一篇就没下文\n\n特殊情况是项目大使，这种要看他做什么，而不是只看他说什么。再加上推特一搜，就能看到很多广子往往同步发，辨识度很高\n\n但广子≠烂项目。好项目也需要宣传，大家也可能有一天接到广子\n\n关键还是提升自己：学会从融资、VC、链上还是嘴撸去分辨一个项目值不值得撸，适不适合自己撸，真正撸到毛、赚到钱才是根本\n\n说回 Anoma：昨天AnomaPay 发布了演示视频，它是为首个具备企业级隐私的全球稳定币路由器，利用零知识证明实现跨链稳定币支付\n\n由 Anoma 协议驱动，先接入以太坊，通过 Noble 连通，解决了稳定币支付中链间割裂和体验差的问题，也迎合了机构用户重隐私胜过速度的需求~\n#Anoma",
+      "timestamp": "Sep 14, 2025 · 1:00 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1967030542416621764#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1966831533979037901#m",
+      "content": "写 @PortaltoBitcoin 前，先说下今天币安 Alpha 用 $KOGE 交易对刷，损耗比之前降低了 12 倍！\n\n之前 1030U 刷 1.6 万交易量，swap 32 次，损耗 1.15U gas + 3.3U 损耗 = 4.45U，拿到 15 分\n\n今天刷 6.4 万交易量，swap 128 次，损耗 4.65U gas + 1.17U 损耗 = 5.85U，拿到 17 分\n\n也就是说，同样 15 天一个周期，可以多吃 2 次奖励，额外损耗不过 21U，很划算。如果刷到 12.8 万，因为 gas 太高就不值得了\n\n当然，前提是 $KOGE 明天的损耗还维持现在的水平。降低损耗是为了收割？还是为了对抗新币 4X 交易量？不好说\n\n反正我只准备 1030U 刷，不用大额，大家刷的时候注意看着点，防止插针\n\n说回  PortaltoBitcoin ：它的核心是 BitScaler，一个基于比特币基础层的“通道工厂”框架，支持多方流动性池、原子交换和可编程 DeFi，同时继承比特币的安全性与去中心化\n\nPortal 计划在 10 月 13 日 TabConf 做实时演示并开源代码库，技术含金量非常高\n#Portal #币安alpha",
+      "timestamp": "Sep 13, 2025 · 11:49 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1966831533979037901#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1966776512868479116#m",
+      "content": "昨天98块买了刚出的类暗黑网游《流放之路降临》，连 Elon Musk 都在玩的游戏，几个朋友拉我一起组队刷刷刷\n\n但现实是——我根本没多少时间玩。白天上班，还要肝 4 篇推文，币安 Alpha 要刷，OKX 要起号，还要推文回复互动，还有web3别的杂七杂八事情\n\n继续写 @MavrykNetwork 。奖励参考30D 榜单，排名已经从 58 掉到 60，如果再掉的凶要加更了\n\n等手上这 3 个短平快项目 20 号结束，我打算恢复每天 3 篇推文，不然 4 篇真的太累了\n\n重点说下 Mavryk 最新的合作：Fireblocks（全球头部数字资产托管和安全平台）已经接入，为 MultiBank 的 100 亿美元房地产代币化协议 提供底层支持\n\n  -  资产托管：通过 MPC 钱包保障代币化资产（如 Ritz-Carlton Residences）安全流转，抵御黑客风险；\n\n  -  合规安全：提供 KYC/AML、交易监控、合规报告，确保交易符合全球金融监管，让机构资金能真正上链\n\nMavryk 是真正落地的 RWA 项目，有 Fireblocks 这种机构级安全白武器来护航，后续肯定就是链上的 BlackRock了\n#MavrykNetwork",
+      "timestamp": "Sep 13, 2025 · 8:10 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1966776512868479116#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1966734742734377339#m",
+      "content": "绿帽子项目，这个词这几个月一直在耳边回荡：\n“绿帽子冲呀”“绿帽子上分了吗”“你写绿帽子了吗”——原来大家说的就是 @Maiga_AI \n\n之前我只是知道它和 Cookie 有InfoFi 激励合作，看别人写，现在确定9月份会进行TGE后，今天决定好好研究一下，看看有没有撸的角度\n\n先说清楚，Maiga.ai 到底是干嘛的：\n在加密世界里，信息太杂、策略太复杂，散户基本玩不过机构\n\nMaiga.ai 就像 基金经理 + 量化交易员 + ChatGPT 的结合体，能给行情分析、发信号，甚至直接在链上自动交易\n\n它最大的不同点是 DeFi 原生：支持自动化做市（MM/CLMM）、多链策略，还能接入其他应用。更关键的是，它首创了 Proof-of-Trading (PoT) 模型——代币随真实交易量解锁，避免了 VC/KOL 在 TGE 当天砸盘的老问题\n\n履历成绩单也不差：\n1️⃣5 个月 100 万+ 自然用户，周增长率 10%，日活 2 万；\n2️⃣Seedify 黑客松冠军、BNB Chain 官方合作；\n3️⃣融资 400 万美金，投资方有 Amber Group（顶级做市商）、Chainlink（预言机巨头）等\n\nCookie 的 InfoFi 活动已经结束，现在能参与的主要有两个角度：\n1️⃣写推文防身，看有没有低保拿\n2️⃣官方的 “Maiga Pre-TGE 1M USD Boost Campaign” 预热活动\n\nBoost 活动规则也很简单：\n做任务 + 累积 XP = 领 $oMAIGA 空投，还有机会抽 1 BTC 大奖 和若干 USDT 小奖（总价值 100 万美元）\n\n本质上就是给生态导流、培养大家用 Maiga Wallet 和 Bot，为 TGE 铺路\n\n👉 活动详情：medium.com/@MAIGAAI/maigas-p…",
+      "timestamp": "Sep 13, 2025 · 5:24 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1966734742734377339#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1966668152667836491#m",
+      "content": "Boundless 15 号要上币安 Alpha 了！同步现货，到时候我只有200分出头，能吃上二段吗\n\n目前 $ZKC 盘前 0.75U，对比同赛道的 $PROVE（现价 0.91U），也不会差太多的\n\n我拿到 6515个，按盘前价格算是 4886U，如果按 $PROVE估值就是 5863U，吃饱，感谢！\n\n说回 @Mantle_Official，为啥我把它放在第一篇写？因为从官方榜单能看出来，浏览量确实有权重，而每天第一篇推文的流量通常最好\n\nKaito 榜单这边流量权重我不敢确定，但保险起见，Mantle 就放在第一篇写了\n\n再介绍一下Mantle 在 RWA 与跨资产领域的原创创新：Ignition fBTC（比特币桥接资产）\n\n Mantle 开发的 omnichain 包装 BTC，1:1 锚定原生 BTC，支持无缝跨链流动（Ethereum、Mantle、BNB Chain 等），还能解锁 DeFi 收益\n\n该机制深度整合 Babylon、Solv 等生态，瞄准比特币与 Web3 的独特互操作场景\n@xhunt_ai #Mantle",
+      "timestamp": "Sep 13, 2025 · 1:00 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1966668152667836491#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1966525900901818840#m",
+      "content": "说 @anoma 前，先提醒一下币安 Alpha 刷 $KOGE 交易对的朋友，只要交易量达到 8192U 就能领奖励返还！\n\n之前就是领取网站进去了，没找到领取按钮，然后就忘记了，估计几十U没了，领取步骤详见配图\n\n说回Anoma，太卷了，我几乎每天一篇，今天已经从7D榜掉出去了\n\n现在就是不确定是否快照，虽然有挺大的概率，但在官方消息出来前，保险起见还是继续写\n\nTGE 大概率会上币安，更可能会上韩所，因为近期社区活动都在韩国：\n1️⃣9月18日 韩国社区 Meetup；\n2️⃣KBW2025 将有 Anoma 官方亮相，预计带来重大公告\n\n然后 AnomaPay 即将上线、Shrimpers NFT 火热、主网升级与应用层转型\n\n再加上 $XAN 代币发行临近，热度被推到新高点了，10B FDV 感觉挺稳的\n#Anoma",
+      "timestamp": "Sep 12, 2025 · 3:34 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1966525900901818840#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1966484278998601927#m",
+      "content": "今天抢了一下币安 Alpha 的两个币 $AA 和 $UB ，单个都在 60U 左右，毛挺可观的\n\n自从验证从滑块改成图片识别后，好抢多了，我点错两次都中，看来确实对工作室形成了有效限制\n\n说回 @PortaltoBitcoin 。我终于进了 Kaito 30D 榜，当前排名 93，坚持每天一篇，第二季活动还剩 8 天，争取再冲一波\n\n至于价格， $PTB 从 0.073 回落到 0.051，问题不大。对我来说，不管价格是多少，最后空投到手都是赚\n\n再补个技术点：Portal 的 BitScaler 机制基于通道工厂（Channel Factories）框架，把多个交换批量压缩成一笔链上交易，实现垂直和水平扩展\n\n它不改 Bitcoin 协议，而是构建在 Taproot 之上，带来量子抗性升级，并支持自定义 AMM，为不同链优化流动性\n\n当前已有 45+ 节点、21K+ LiteNodes 网络验证，目标是让 Bitcoin 成为高效的可编程 DeFi 结算层。\n#portaltobitcoin  #PTB",
+      "timestamp": "Sep 12, 2025 · 12:49 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1966484278998601927#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1966449812473368603#m",
+      "content": "最近在 @MavrykNetwork ，我依然坚持每天发一篇推文，但排名基本卡在 50 左右，难以继续提升\n\n原因其实很简单：Yap 是零和博弈\n\n在账号质量，短期难以提升的情况下，不是写多少、写多好就能上分，而是要比竞争者更快、更勤、更优质\n\n在 Mavryk 上，前排账号整体质量很高，如果我的输出速度只和他们持平，就很难突破\n\n所以想冲更高名次，唯一办法就是提高发布频率，我每天加更一篇，排名绝对又会前进\n\n但考虑到时间精力有限，且目前排名我还算满意，我选择维持现状——每天一篇，稳扎稳打，除非排名掉得太厉害才会加码\n\n最后补充下 Mavryk 的技术亮点：其自升级治理（Self-Amending Governance）机制，可每 3-6 个月自动升级，无需硬分叉，由社区驱动的协议国库和 $MVRK 治理支持\n\n这样不仅减少政治摩擦，还能保证快速迭代和灵活适应监管，尤其适合 RWA 赛道\n#Mavryk",
+      "timestamp": "Sep 12, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1966449812473368603#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1966325018176176307#m",
+      "content": "写 @Mantle_Official 前，先聊聊新手怎么写 yap 推文\n\n短推其实更适合新手：第一，好写，篇幅短；第二，读者更爱看，不容易显得 AI \n\n然后也是因为短，自己就会写一些项目最新消息、空投分析、撸毛角度这类实用信息，而不是长篇累牍的技术\n\n因为技术对普通人没有用，会拉盘的项目、空投发的多的项目，技术就牛逼\n\n这样做的好处是：涨粉快、不容易惹大佬反感，还有机会被大佬回复或关注\n\n亲测只要最后加上 1–2 段项目内容，即便不到推文一半篇幅，也完全不影响上榜\n\n技术长推和短推受众不一样：前者项目方爱看，后者才是大众关心，因为“怎么赚钱”才是核心\n\n说回 @xhunt_ai x Mantle的活动。离 19 号活动结束还剩 7 天，我在 POI 榜暂列第二，全靠写推文；POW 榜则要看跨链交易数，这块我没法卷，32 名也满足了。保持两天一篇的节奏，排名能稳住\n\n$MNT 也从 1.1 涨到 1.6，市值冲上 ATH。活动奖励 30,000 枚代币，价值约 4.8 万美刀，奖池又大了\n\n还有就是 Mantle 不愧是 Bybit 亲儿子，不到一周时间， 已新增 5 个现货交易对和 13 个报价交易对，会成为Bybit平台币吗，很有想象空间~\n\n$MNT 还上线了 HyperliquidX 现货市场，这标志着 CeFi 与 DeFi 融合的一大步，流动性和机会都更深\n\n总之，最近山寨季，Mantle 在搞事情了\n\n最后，跪谢各位使用我的邀请码：TJ623U9J4I（我是早期支持者，能有 10% 积分加成~）\n#Mantle",
+      "timestamp": "Sep 12, 2025 · 2:16 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1966325018176176307#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1966155859039498587#m",
+      "content": "之前写了 3 篇 @irys_xyz 推文都没上榜。1870 万美元融资的项目，值得继续写，争取进官榜前 1000 拿个低保\n\n毕竟截至目前的交易量8.55亿，比第三季度初的7300万增加了11.7倍，春江水暖鸭先知，TGE大概率就在 9 月份\n\n想起 2021 年 80 多刀买过 $FIL ，当时 Filecoin 风光无限。但今天回头看，和 Irys 已经不是一个段位了\n\n以下我将从三个方面进行对比，诠释 Irys 为何是次世代的数据基础设施网络\n\n存储模式\n  -  Filecoin：Q2 容量 3.3 EiB，利用率 32%，每天新增 3.5 PiB\n\n成本随市场波动（均价 0.000001 美元/GB/月），TPS 只有 5–10，还要等好几秒。容量虽大，但性能和稳定性差了点\n\n  -  Irys：存储+执行+结算一体化。测试网 10 万 TPS（快 6000 倍），成本比 Arweave 低 20 倍，这对 AI 训练至关重要\n\n可编程性\n  -  Filecoin：存进去就像封箱档案，要用还得靠外挂逻辑\n\n  -  Irys：数据是活的。内置 IrysVM（兼容 EVM），规则、分润、动态定价都能直接写进去\n\n现在测试网已经快 7 亿笔交易，感觉更像一个“数据经济系统”，而不是单纯存文件\n\n经济闭环\nFilecoin 靠的是矿工竞争；Irys 则是让数据自己参与分润，再叠加 Questland 积分和 TGE 激励，逻辑更闭环\n\n换句话说，这里的数据不光是成本，还能反过来产生收益\n\n所以我的直观感受是：Filecoin 更像“仓库”，而 Irys 已经把数据变成了“资产”，能直接接到应用层。AI 时代，谁能把数据盘活，谁才有更大的想象力\n\n最后提醒下：Irys 新榜单可以查前 1000，进榜基本都有几百 U 低保~\nkaito.irys.xyz",
+      "timestamp": "Sep 11, 2025 · 3:04 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1966155859039498587#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1966124203964539256#m",
+      "content": "写 @PortaltoBitcoin 前，Aster 终于出空投查询了\n\n我 12 个存钱小号一共 8856 枚代币，按盘前 0.1U 估值约 885U\n\n成本基本就是些 gas，没刷过交易量，还算满意。毕竟 2 月刚亏完，能起 12 个号已经是极限\n\n再看 PortaltoBitcoin 。9 月 10 日意外解锁 9.4 亿枚（总供应的 11%），流通翻倍，鲸鱼一口卖出 4540 万枚 $PTB，价值 280 万美金\n\n价格从 0.7U 跌到 0.3 几，现在拉回到 0.055U\n\n超卖、负融资利率、未平仓合约下降，MACD 也出现正向信号，说明抛压可能接近尾声\n\n不过我本人不炒币，重点还是 yap 活动，30D榜还是没有进，7D榜从25降到了26。继续写，离结束还有 9 天，肯定愿意给，多少都是赚~\n#Portal",
+      "timestamp": "Sep 11, 2025 · 12:58 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1966124203964539256#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1966035364294041985#m",
+      "content": "一天没写 @anoma，7D 排名就从 42 掉到 70，太卷了\n\n昨晚 11 点，Anoma 注册了一个新域名。这个域名很可能与空投有关，可能是 Anoma 社区参与和空投任务的分发平台，尤其考虑到测试网结束、TGE 临近的背景\n\n参考 Succinct：6 月 26 日注册 foundation 域名，7 月 1 日快照\n\n再结合昨天 DC 角色晋升日活动的关闭，以及官方公布的 TOP250 抽 NFT 名单，说不定DC、 Kaito 这边都快照了\n\n综合来看，全面快照的概率我觉得在 50% 以上\n\n再介绍一个冷门技术点：Anoma 的跨链适配与 SDK。开发者可以通过协议适配器和 SDK，在一次部署中访问多个链的用户和状态\n\nSepolia 测试网已经验证了跨链功能，SDK 也进入了社区测试。其核心亮点是抽象底层复杂性，让开发者能更快构建去中心化应用\n#Anoma",
+      "timestamp": "Sep 11, 2025 · 7:05 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1966035364294041985#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1965954211218387308#m",
+      "content": "写 @MavrykNetwork 前，先总结一下昨天 $LINEA 的战况\n\n昨天搞到凌晨 1 点才睡，币安 Alpha 拿了 7700 个，OKX Boost 收了 5240 个，4 个号撸了 52760 个，均价 0.032 卖出，总价值约 1708 U，算是完美收官\n\n果真重新入职币安alpha是正确的，这一个毛抵得上6个\n\n然后 OKX boost 因为精力原因号上少了，现在开始铺号，按128档位刷一半号，刷koge，15天损耗17U左右；另一半刷256档位\n\n第二轮门槛应该会提高不少，我看选择刷128档位的人挺多的\n\n再说回 MavrykNetwork 的近三天动态：\n\n1️⃣ 官方多次强调 $MVRK 的 TGE 定档 9 月 18 日，预热氛围越来越浓\n\n2️⃣ 创始人将在 9 月 11 日 14:00 UTC 开直播，介绍 MavenFinanceDAO 的借贷与质押机制；9 月 16 日则有 Crypto Breakfast Show，重点讲 $10B+ 房地产代币化交易和 TGE 细节\n\n3️⃣ 他们还发了 AirPods Pro 3 的趣味推文，互动里几乎全是 TGE 和 RWA 的讨论，社区氛围很热\n\n每天一篇推文，榜单就在慢慢下降，足见火热程度，总之再坚持最后一周\n#Mavryk",
+      "timestamp": "Sep 11, 2025 · 1:43 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1965954211218387308#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1965791828114026636#m",
+      "content": "手上3个项目都将在20号结束，得开始物色新目标了，刷到有人写 @AlloraNetwork，顺手研究了一下\n\n首先，它已经取消了 yap 门槛，榜单规则也恢复到 Kaito 调整之前，说明项目方认可长期社区的贡献\n\n融资背景：Allora 拿了 3500 万美金，VC 阵容包括 Polychain 等顶级机构，近六成是一线 VC。团队设在纽约，美国项目，外国项目就很棒\n\n早在 3 月就上了 @KaitoAI，9 月 9 日的官推发文 “Mainnet is on the horizon” ， 我推测 TGE 很快了，大概率赶在 9-10 月山寨热潮发币\n\n虽然没有明牌奖励份额，但是和 Kaito 合作时提到，前 500 名 yapper 都能分奖池，我猜测 Kaito 榜单前 500 都有奖励，多半会看 3M 和 6M 榜\n\n————\n\n下面再介绍一下Allora\n它是一个基于 Cosmos 的 去中心化 AI 网络，不靠单一模型，而是让成百上千个模型协作，输出更精准、更可靠的结果\n\n技术层面：\n-  主题架构：不同任务建立子网络，金融预测、市场分析、游戏对战都能覆盖\n-  上下文感知：模型还能预测别的模型是否靠谱，让最终结果更可信\n-  差异化激励：不仅奖励推理，还奖励“预测别人表现”的参与者，机制更公平\n-  集体智能：不断聚合、评估和进化，网络像一个会学习的大脑\n\n代币经济： $ALLO 用于支付推理服务、访问权限和质押安全，TGE 尚未发生，但机制新颖，市场期待度很高\n\n生态合作：已与ionet 、Phala、@KaitoAI 合作，未来应用场景包括 DeFi 预测喂价、游戏 AI、Web3 情报等\n\nAllora 就是一个自我进化的 AI 智慧网络，让更多模型参与竞争协作，越用越聪明\n\n现在几乎没人写，中文区只有 Snowball 哥上榜，看起来上榜难度不大，先写一篇打个窝\n#alloranetwork",
+      "timestamp": "Sep 10, 2025 · 2:57 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1965791828114026636#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1965734689211392367#m",
+      "content": "今天晚上10:30， $LINEA 币安Alpha 开抢，门槛不高，只需要220积分，没想到竟然有7700个，180U大毛，我撸了3年 3600XLP的号，才9900个\n\n估计今晚不太好抢，大家别忘了明天下午 16:30 还有第二轮，记得提前做人脸验证\n\n说回 @MavrykNetwork。它是一条专注 RWA（现实世界资产）代币化的 Layer1，已签署超 100 亿美元协议，并与 MultiBank Group、MAG 合作，将 30 亿美元奢侈房地产代币化。这不仅是落地，更是全栈式的金融基础设施扩张\n\n网络支持 8000+ TPS、手续费低至 0.01 美元，碳排放比传统系统少 99%。用户可通过委托 staking 获得最高 15% 年化收益，保持流动性；共同 staking 还能将收益翻倍，同时维持非托管控制\n\n$MVRK 将于 9 月 18 日 TGE，首批上线 MEXC，且近期已集成 Fireblocks 托管，推动机构采用\n\nRWA 市场规模已达 240 亿美元，三年增长 380%，而 Mavryk 正在其中抢占先机",
+      "timestamp": "Sep 10, 2025 · 11:10 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1965734689211392367#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1965656803926331628#m",
+      "content": "活动 @xhunt_ai x @Mantle_Official 的 yap 将在 9 月 19 日结束，还剩 9 天。我已经写了 5 篇，目前 POI 总榜冲到第 2，7D 排名第 1\n\n先跪谢各位使用我的邀请码：TJ623U9J4I（我是早期支持者，能有 10% 积分加成~）\n\n从榜单来看，排名的参考维度主要有：推文数量、浏览量、点赞数、邀请人数，以及 KOL 参与量\n\n我推测其中权重最大的就是 KOL 参与量，即：他们的推文评论\n\n判断他人是否 KOL 的方式很简单：安装 XHunt 插件后，KOL的主页独有「KOL 能力模型、灵魂指数」等指标，排名越高的 KOL 对推文评论，权重就越大\n\n昨天和初白老哥也聊了下奖励分配。以 POI 榜为例，前 100 总共分配 15,000 $MNT ，就是这前一百的心智加总，再按百分比换算，整体还是比较公平的\n\n但因为时间只剩 9 天，如果是粉丝量只有一两千，参与性价比可能不高。写几篇推文可能排名在 200 名左右，很难进高奖励区间\n\n最后分享 Mantle 的一个冷门机制：mETH 协议（Liquid ETH Staking & Restaking Protocol）\n\n用户质押 ETH 可以铸造 mETH，再通过 restake 转化为 cmETH 获取额外收益。mETH 已经被 CEX、DeFi 和货币市场广泛接受为抵押品，支持跨协议收益最大化\n\n这套机制的独特之处在于它的 restaking 集成，专注于机构级收益优化，不同于传统 ETH staking。冷门的原因是目前尚未在其他 L2 普及，但它解决了 ETH 闲置资本问题，潜力巨大\n#Mantle",
+      "timestamp": "Sep 10, 2025 · 6:01 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1965656803926331628#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1965594940408529220#m",
+      "content": "写 @PortaltoBitcoin 前，先说一下我在 OKX Boost Launch 的上号计划\n\n第一个项目 Linea 还有 10 个小时就结束了，奖励基本尘埃落定\n\n按 $LINEA 现价 0.0277 算，奖池约 448 万 U，总积分 71,610，每分价值 62.5 U。我自己 2.47 分，大概能分到 154 U，多号党要麻了\n\n我计划起 6 个号，每号放 300U，刷 256U 的挡位。今天先赶进度，刷个 5–7 天的量\n\n说回 #PortalToBitcoin ， $PTB 已经拉到 0.07 U。第二季奖池总额 145 万 U，其中 33% 作为解锁奖池，约 48 万 U，毛比第一季更大\n\n目前我在 7D 榜排名 25，但 30D 还没上榜。第二季周期一个月，多半要看 30D 榜单，或者在这 30 天内的心智排名占比来分配代币~\n\n另外还有个 轻节点计划（Aurelia 激励测试网）：通过任务积分（Sparks）+ 排行榜分配，但名额只有 21,000，需要用 $PTB 买，还要 KYC。我打算先专注 yap，轻节点再观望",
+      "timestamp": "Sep 10, 2025 · 1:55 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1965594940408529220#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1965427689747263912#m",
+      "content": "写 @MavrykNetwork 前，先简单聊聊 Yap 入门\n\n第一步要看 SF 和 yaps 门槛，这是硬条件\n\n第二步是筛选项目：结合融资规模、周期、激励份额、是不是三哥项目、内卷程度，再对照自身实力\n\n大融资项目更稳；小融资项目最好控制在一个月周期，短平快才合适\n\n推文节奏方面，建议每天最多 3 篇，选 3 个项目日更；或者 4 个项目里 2 个日更、2 个轮换\n\n最极限就是 5 个项目：1 个天天写，4 个轮换。这样既能保证输出，也不会被累垮\n\n理想状态是yap一个融资大、热度高的核心项目，做到 yap + 推文贡献 + 测试网“三位一体”，再搭配几个小项目\n\n说回 MavrykNetwork，它的 TGE 还有 9 天，FDV 直接 1 亿美元，定价 0.1 刀，UTC 下午 1 点上线mexc\n\n流通供应量只有 5.6%，yapper 总奖励约 50 万美元，而且看起来没有币安 Alpha 砸盘，预期表现可期\n\n最后介绍一个 Mavryk 的冷门技术亮点：基于 Tendermint 的拜占庭容错（BFT）共识。它能在两个区块后实现确定性终局，保证节点同步，对高性能场景尤其友好\n#Mavryk",
+      "timestamp": "Sep 9, 2025 · 2:50 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1965427689747263912#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1965384257846809056#m",
+      "content": "贾跃亭成为 $BNB holder：造车公司要搞 RWA 了？\n\n昨天 CZ 转发并评论贾总的推文，$BNB 一度冲高至 885 美元，原因应该是贾总的 FF 公司推出 C10 财库战略，与BNB深度进行合作\n\n该战略计划配置5到10亿美元加密资产，其中 BNB 被定为核心战略资产，已买入两百万美元\n\n相当于又多了一个强力的实体企业给BNB背书，多了一个会搞热度的贾总给BNB站台\n\n结合贾总擅长制造话题的能力，以及 RWA 赛道目前的强劲热度，可以预见 BNB 与 C10 财库之间的飞轮效应正逐步启动\n\n那么，十年前贾跃亭就有发币想法，为什么现在才进军web3呢？\n\n其实早在 2016 年，乐视就成立区块链研究院，但当时环境不成熟。如今 2025，企业加密储备已成主流，FF 通过 C10 切入 Web3，既能讲新故事，也能吸引融资\n\n不同于空气项目，这次绑定了造车业务，未来计划把电动车资产上链，探索 代币化车辆销售、NFT、ETF 产品，与 BlackRock 等传统 RWA 路径形成呼应\n\n另外，9 月 19 日 FF 年度未来主义者日，C10 财库、Vehicle Chain 和三大增长引擎战略将正式公布\n\n建议关注贾老板推特 @YTJiaFF  ~C10 未来可能衍生 ETF，也不排除直接发币的可能，且C10配置的10种主流代币也可能在官宣购入时出现套利机会\n\n错过了WLFI，不能错过 FF 的潜在机会~",
+      "timestamp": "Sep 9, 2025 · 11:58 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1965384257846809056#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1965354049261441105#m",
+      "content": "写 @PortaltoBitcoin 前先说一下，Boundless 也出查询了，我竟然有6515个！应该是 yap 给的，第六感告诉我应该感谢一个人，那就是 Miles 麦哥~\n\n回到 Portal。它又拉了一波，价格目前 0.062$，蛋糕更大了\n\n选择 yap 它的最重要原因，就是和 Bless 形成了鲜明对比：Bless 摆明着不想给，而 Portal 第一季是真的给\n\n哪怕没上榜都有上万刀；第二季份额直接提升到 0.4%，意味着给得只会更多。没有反撸风险，唯一的风险就是没有写它\n\n 再补个冷门知识点：Portal Attestation Chain（Portal 证明链）。它是一个专门的证明链，用来验证和协调跨链操作，确保原子交换的链上可验证性\n\n冷门在于：它不是执行链，而是辅助证明链，降低主链负担，但却很少被单独拿出来讲。应用场景则是与原子交换合约结合，实现真正的无缝跨链操作\n\nPortal 这点细节，基本上就是让 BTC 的跨链安全性更稳了\n#Portal",
+      "timestamp": "Sep 9, 2025 · 9:58 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1965354049261441105#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1965278998440587266#m",
+      "content": "今天的主角是 @anoma，但写之前必须吐槽一下Bless\n\n空投查询出来了，我拿到6214个 $BLESS ，如果用一句话来形容，就是全员反撸\n\n挂机的基本上没有资格，有资格的才几十个，嘴撸这块我朋友排名前50拿到1.1万个，是我看到最多的，但是总量100亿啊，高估2亿FDV，才价值100U\n\n告诉我这是0.5%的份额？是不是把锁仓18个月10倍算进去了！bless的反撸，根本原因是项目方不愿意给，而不是给不起\n\n幸好我就最开始写了2篇，放弃了去搞别的了，然后8月TGE前写了几篇，不然气死了\n\n回到 Anoma。昨晚公布了代币经济学：\n  -  代币名称 $XAN\n  -  总量 100 亿\n  -  用途：支付 / 交易费 / 治理\n  -  社区 + 营销 + 空投份额 25%，空投份额就在这部分\n\n同时 @Shrimpers_nft 已在 Opensea 开启 mint，今天晚上10点，48 小时窗口，以太主网。我没拿到 WL，只能寄希望于前 250 yapper 抽奖，今晚能打就是中奖了\n\n我对anoma的期待拉满了，yap排名前100、DC也有高级角色、测试网也参与了，这就是全方位参与的新时代社交撸毛~大毛预定\n\n目前山寨季蠢蠢欲动，山寨币表现都很不错，各大项目都在加速TGE进程，anoma也不列外，或许快照了，或许没有，在官方正式公布前不要放松，最晚也就月底了！\n#Anoma",
+      "timestamp": "Sep 9, 2025 · 5:00 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1965278998440587266#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1965206201857429583#m",
+      "content": "活动 @xhunt_ai x @Mantle_Official 官榜终于更新了，我写了4篇推文，目前 POI 排名第 4、POW 排名第 25\n\n跪谢大家能使用我的邀请码：TJ623U9J4I （我是早期支持者，大家会有 10% 积分加成~）\n\n简单说下两个榜单：\n1️⃣ POI 排行：看推文影响力评分，奖励 15,000 $MNT，前 100 名分\n\n2️⃣ POW 排行：一半看推文质量，一半看跨链交易数，奖励 15,000 $MNT，前 300 名分\n\n性价比来看还是写推文，活动到 9 月 19 日结束。总奖池 30,000 $MNT ≈ 5 万美金，分的人不多\n\n综合两个榜单，头部玩家（前 30 名）单人可能拿到上千美金；普通上榜者，至少几十到几百美金。短平快，小而美的活动\n\n这次来不及，大家可以关注@xhunt_ai，下次的活动，一定要第一时间参与\n\n另外分享个冷门技术点：Mantle 将交易流程拆成三阶段——Initiation（钱包/dApp 启动）→ Handling（rollup 执行）→ Storage（DA 层存储）\n\n这种模块化不仅优化了桥接与跨链互操作性（原生 $MNT跨链、LayerZero 集成、降低 gas），也凸显 Mantle 的差异化定位：追求 hyperscale，而非简单复制 Ethereum\n#Mantle",
+      "timestamp": "Sep 9, 2025 · 12:10 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1965206201857429583#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1965064716675653716#m",
+      "content": "OKX boost Launch 第一个项目，没想到又是 Linea！哪里都有它~\n\n这次门槛是：余额 ≥10U，加上日均交易量 ≥32U。我自己日均 88.75U，有2.47积分\n\n奖励池总共 416 万 U 的 $LINEA，按积分占比发放奖励，每号上限 8 分\n\n目前5.1万总积分，1分价值85.7刀；积分翻倍，则1分价值减半，现在积分还在不停增长中，明天应该就知道空投价值了，多号党麻\n\n因为大家只刷了几天，门槛很低。但等到下次 15 天全程参与，估计门槛会在 256U 档，多号刷应该性价比更高\n\n说回 @MavrykNetwork。9 月 9 日下午 1 点（UTC），CEO 将开 AMA，重点讲解 Mavryk 钱包，这是进入 RWA 经济的门户。议程包括：下载与使用、一键委托与共同质押、钱包 UI 演示，以及这对 $MVRK 持有者的意义\n\nMavryk 已经在搭建完整的 RWA 全栈基础设施：L1、钱包、DEX、借贷、国库。从 Launch 热度到 RWA 堆栈，确定性赛道，值得重点跟踪\n#Mavryk",
+      "timestamp": "Sep 8, 2025 · 2:48 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1965064716675653716#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1965013557692776753#m",
+      "content": "今天捞一下 @GOATRollup ，十天没写，排名几乎没掉。写前还是先打个窝：币安Alpha 10 号要上 $LINEA ~\n\n后天我刚好235分，估计单号百U，算上撸到的4.3万枚，大概1000U出头\n\n撸了3年的 Linea 可能不如 Alpha 一波给得多，这就是现状：Alpha、链上、DC、嘴撸、NFT，空投太分散，只能哪里人少去哪了\n\n说回GOAT，这可能是我写过最不卷的项目。5篇推文，各榜排名都靠前，10天不写，排名也不怎么掉。现在计划10天写一篇\n\n官方还出了自己榜单，排名和Kaito大差不差，只是没赶上申请大使，有点可惜，不然每月500U工资也不错\n\n下面介绍一下GOAT一周大事：\n1️⃣与 The Bitcoin Economy 播客合作，CEO Kevin Liu 解释如何通过ZK为BTC持有者解锁1.5%-2%低风险到30%-50%高风险收益，并强调Bitcoin需要更多活动支撑矿工，而非仅靠投机\n\n2️⃣即将上线 GOATUP 永续DEX：首个原生合约交易所，BTC作抵押，50+代币，杠杆最高50x\n\n3️⃣Alea Research 深度报告：详解技术、经济模型与BTC收益愿景。\n\n4️⃣启动 Bitcoin L2 成功要素系列：聚焦继承比特币安全，正在研发BitVM2栈，目标是真正的原生桥\n#GOAT",
+      "timestamp": "Sep 8, 2025 · 11:25 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1965013557692776753#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1964935263895064728#m",
+      "content": "Aster 终于要在 17 号 TGE。回想 2 月我搞了 10 个千 U 低保号，后来两季交易赛一出，我这种交易 PDST 就没继续，6 月也把钱提走了。不知道我能不能拿到空投，也祝大家收获好结果\n\n继续写 @anoma。昨天 NFT 快闪白名单又放了 100 个，依旧没中，只能等前 250 yapper 抽奖了，40% 概率\n\n然后 Kaito 这边，每天写也只能维持排名了，估计前面都是大V，而且他们写的频率也不低，继续保持，估计TGE就在10月左右\n\n近期 anoma 的两大热点：\n1️⃣ Upward 论点：提出行业应从基础设施转向应用层，把自己定位为 Web3 OS，解决碎片化和差体验，让开发者专注真正的应用\n\n2️⃣ Anoma Day 技术日：公布适配器、SDK、AVM、控制器等更新，并展示 ZK 聚合、去中心化订单簿及主网路线图，显示了清晰的技术与落地路径\n#Anoma",
+      "timestamp": "Sep 8, 2025 · 6:14 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1964935263895064728#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1964877172096811501#m",
+      "content": "很多人觉得 yap 是大V的游戏，但现实是：社交撸毛已经成了新的分发趋势，打不过就加入\n\nYap 相当于项目方付费让我们做X账号、练习写推文，尤其大部分项目都取消了yap 门槛，挑选 3 个不卷项目，只要蓝V坚持每天写，大概率能上榜。即使上不了前排，前500、1000名基本都有奖励\n\n况且现在高融资项目又开始卷DC了，以后推特DC不分家，卷角色也要考究推文贡献\n\n我最近关注的 @PortaltoBitcoin 就很典型：\n  -  奖励池分区，非英语区单独计算，中文区竞争还不算激烈；\n  -  以当前 $PTB 价格0.054算，33%解锁部分就有约58万美金；\n  -  参考第一季900人拿奖，日更的话，前100大约1500U，前500也能有500U；\n  -  唯一就是现在活动只剩10天，对于小散来说，卷赢大V需要用时间、篇幅来换空间\n\n另外，Portal 还有一个冷门亮点：内置了 RAFA AI Agents。这是一个钱包里的 AI 协处理器，能给出投资策略、风险警报和衍生品洞察，不同于一般AI工具，它专注跨链DeFi，在非托管环境下优化流动性路由与决策\n\n所以 Portal 不是单纯的跨链桥，更像下一代的 DeFi 智能入口\n#Portal",
+      "timestamp": "Sep 8, 2025 · 2:23 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1964877172096811501#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1964707580724563994#m",
+      "content": "🎙️ 灯塔DAO 首次 AMA 来了！\n\n主题：灯塔DAO 对话 Cipher Dance Agency的阿豪@ahao363 —— KOL 的未来在哪里？\n\n本期特别邀请 Cipher Dance Agency 的核心成员阿豪@ahao363-作为深耕行业的专业机构，他将分享如何从机构视角看待 KOL的成长路径与价值变现。\n\n时间：9 月 8 日（周一）晚 8 点（北京时间）\n\n 主持人：福利鸭@0xCryptoUni\n\n灯塔主理人：Eva树姐@EvaCmore\n\n嘉宾阵容：\nzhaozhao @0xzhaozhao \n神隐@alvinnn666 \nleaf @CandyDAO_leaf \n白先生@Baisircrypto\n赫敏fang @GasNeverEnds \nkk @kklumiad \n里奇@cryptolfggo \nRocky @Rocky_Eths \n沧海一卷毛@yi_juanmao\nTim哥 @timbro_bro \nold two @pcobidco \nchongxian @chong_xian96799 \n小v同学 @Ethcoin3\n子重@zizhong999 \n0xbolin @0xBolin123  \n\n别错过这次关于「KOL 未来」的深度对话，一起聊聊流量、价值与机遇！",
+      "timestamp": "Sep 7, 2025 · 3:09 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1964707580724563994#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1964691304387854769#m",
+      "content": "写 @MavrykNetwork 前，先庆祝一下：3 个月推特流量突破 6M\n\n还记得 2 月刚起号时，粉丝才 2000，推文写得毫无章法。那时候的我，连怎么写一篇大家愿意看的推文都不懂\n\n真正的变化发生在 6 月，我开始坚持 yap。空投的激励逼着我每天高频输出，慢慢地摸索出一些，不光是yap上榜，更是如何写推文的小技巧：\n\n1️⃣ 篇幅重要，我每天 4 篇比 3 篇流量高；\n\n2️⃣ 短文为主，轻松好写；\n\n3️⃣ 开头一定要“打窝”，可以是热点、撸毛体会、yap技巧等。比如我今天用的引子：链上撸过的项目回顾、 $M 代币暴涨、yaps突破150的感悟；\n\n4️⃣ 粉丝数很重要，能决定流量下限\n\n所以其实只要想好开头引子，那么一篇推文的 90% 就完成了。技术研投的部分交给 AI 摘要，再自己修改和润色，一篇可读性高的推文就成型\n\n说回 Mavryk。它在 Kaito 的 24H 热度已冲到第一，TGE 还有 11 天，社区热情正高涨\n\n值得关注的一个冷门亮点是它的液体权益证明（Liquid PoS） 模型：用户可以在质押时保持资产流动性，既能赚取收益，又不用被锁死，效率和可持续性都优于传统 PoS\n\n从个人写推文到项目机制，本质上都在寻找一个确定性：当你摸到那条正确的路径，增长和价值，就会自然发生\n#MavrykNetwork $MVRK",
+      "timestamp": "Sep 7, 2025 · 2:04 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1964691304387854769#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1964630816044016068#m",
+      "content": "写 @PortaltoBitcoin 前，先说一下我的 yaps 终于突破150了，半个月涨了40。分数不高，但对我来说很有意义\n\n以前我觉得 yaps 除了搏 @KaitoAI 二期空投没啥用，经常20几天一分不涨\n\n直到这次为了冲 anoma 的200分门槛，开始有意识和 ICT 互动，才发现收获很大：关注了优秀博主，学到不少东西。哪怕现在大多数项目没门槛，未来遇到高门槛优质项目，也算有备无患\n\n说回 Portal。最近它正在进行交易赛，总奖池10万美元，可能也是价格上涨的推力\n\n更冷门的亮点在于 RAFA AI Agents ——这是内置于钱包的 AI 协处理器，可以提供投资策略、风险警报、技术信号生成和宏观跟踪\n\n不同于市面常见的 AI 工具，RAFA 是 跨链 DeFi 原生的代理系统，能结合衍生品洞察与新闻追踪，在非托管环境里优化流动性路由和决策\n\n这让我觉得 Portal 不只是跨链桥，更可能是 DeFi 的智能入口\n#portaltobitcoin",
+      "timestamp": "Sep 7, 2025 · 10:04 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1964630816044016068#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1964564467561484718#m",
+      "content": "爆了！ @MemeX_MRC20 从0.4拉到1.9，暴涨4倍！但我质押的3000枚 $M 还要等135天才能解锁\n\n想过如果当时把剩下的20万梭哈，也许那丢掉的100万早就回来了\n\n但我不后悔，买就是投机，我根本管不住自己追涨杀跌的手，迟早还是会亏回去。哪怕写几千篇推文才能把钱赚回来，我也愿意一步一步来\n\n说回 @billions_ntwk。因为最近在冲20号TGE的项目，几天没写，7D排名从29掉出榜单，但30D只小跌到91。这类项目多半看的是3M榜单，早期优势重要，但频率不用太卷\n\nBillions 第二个NFT即将开铸，上一个freemint现在约85U，本月29号开启。WL获取方式：\n1）官方推文下评论并@好友抽奖；\n2）高排名yapper或社区活跃成员\n\n作为Polygon拆分盘的典型案例，Billions专注数字身份验证和AI信任基础设施，近期完成3000万美金融资，已与OpenLedger、Nexus Labs合作，创世NFT最高地板价曾达300 $POL",
+      "timestamp": "Sep 7, 2025 · 5:40 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1964564467561484718#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1964496087018066358#m",
+      "content": "写 @xhunt_ai & @Mantle_Official 前，说一下今年链上参与过的项目\n\n感谢大家能使用我的邀请码：TJ623U9J4I （我是官推早期支持者，有10%加成~）\n\n其实今年跟过不少链上项目，除 Succ 和 Anoma ，大都选择放弃了：\n1️⃣Aster：第二季搞了 12 个号存 U 拿积分，但交易赛出来后就退出，资金也提出来了，项目节奏太能拖\n\n2️⃣Abstract：32 个号做到 6–9 万 XP，还写过不少教程，但后来猜拳要付费，瑞克不能白嫖就停掉了。TGE 不明确、时间线拉长，已经几个月没撸了\n\n3️⃣Soneium：背靠索尼，搞了36个号拿OG卡，但任务PUA无穷无尽，最近也陆续把资金撤了\n\n4️⃣MMT、Monad：前者 10 个百 U 低保号，后者 6 个号没怎么撸，现在看来都不如 yap 或混 DC 性价比高\n\n总结下来，链上并非没有大毛，但难度和不确定性太高。相比之下，yap 的确定性更强，1-2个月几个项目单个就能拿上千刀\n\n今天重点介绍 @Mantle_Official，以太坊 Layer 2 扩展解决方案，主打模块化设计和桥接 TradFi 与 DeFi。值得关注的是模块化数据可用性（Modular DA）与 EigenDA 整合\n\nMantle 将数据可用性层独立，用 EigenDA 降低存储成本 90%+，交易在 EVM 层执行，数据独立管理，并通过 EigenLayer 再质押保障安全\n\n未来将完全切换到 EigenDA 主网，进一步优化性能。这种高级模块化方案专注成本与可扩展性，适合机构级应用，在高吞吐量 DeFi 桥接场景尤其有价值\n#xhunt $MNT",
+      "timestamp": "Sep 7, 2025 · 1:09 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1964496087018066358#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1964335320184582470#m",
+      "content": "若你是一个进京赶考的落魄书生，突遇风雨雷电，狼狈躲避。行至岔口，左边是一座荒废野庙，残墙破瓦、门扉半掩；右边五百步外，是一片阴森乱葬岗，杂草丛生。此时，你会选择去哪里避雨？\n\n哈哈玩笑话，自从在抖音刷到落水鬼，就被《聊斋》的故事缠住了。偏偏越看越上头——一个仕途失意的书生，人生困顿，却总能遇见仙妖鬼狐相助，从此妻妾成群、家财万贯、金榜题名\n\n说到底，不正像我们在 Web3 的写照吗？跌跌撞撞、风险并存，但总抱着一线希望：只要坚持撸，总能撞上自己的奇遇。而对我来说， @MavrykNetwork 正是那块库里南拼图\n\n它的链上交易量已突破 1.28亿笔，每一笔都在验证 RWA 的真实采用与落地价值，让 Mavryk 逐渐成为该赛道的底层基础设\n\n更重要的是，它的经济模型极具想象力：50% 交易费将永久销毁，随着使用率上升，$MVRK 供给持续收缩、需求不断增强，形成类似比特币减半的长期价值支撑\n\n数据与机制双轮驱动，Mavryk 在 RWA+DeFi 融合赛道展现出了真正的竞争力\n#Mavryk",
+      "timestamp": "Sep 6, 2025 · 2:30 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1964335320184582470#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1964281341236957344#m",
+      "content": "写 @PortaltoBitcoin 前，先说下我刷 X Launch 和币安 Alpha 的情况\n\nOKX 钱包的 X Launch & Boost 刷了2天，我转了1000U进去，然后 153U 买卖一次，有个300交易量就行了，损耗2.66U不算低。第一个TGE活动应该很快就来了，坐等前几次TGE吃肉\n\n币安 Alpha 这边，昨天用 koge 刷， 1030U swap 16轮次，刷1.6万交易量，损耗还是 3.3U，只是没了 2X 倍数，现在每天 17 积分，一个月至少有个140U利润\n\nPortal 这边 $PTB 已到 0.052U，第二季 33% 立即解锁份额价值 52 万刀，越涨利润越大。我目前 7D 排名 48，目标冲进 30D 前 50\n\n同时，Portal 于 9 月 4 日官宣将 Solana 集成到主网，实现首个 BTC 到 SOL 原子交换，提供自托管、信任最小化、无桥接的跨链体验\n\n首笔非托管交易已通过 Portal Wallet 完成，体验接近 CEX，却具备比特币级安全\n\nPortal 总额达 9200 万美元，核心技术 BitScaler + 跨链 AMM，保证速度、低费率和可扩展性，低开+外面没什么筹码，希望价格能稳中有涨，还有不到半个月时间继续冲~\n#Portal",
+      "timestamp": "Sep 6, 2025 · 10:55 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1964281341236957344#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1964195440599191584#m",
+      "content": "写 @anoma 前先说一下 Kaito 榜单的一个现象。大家可能注意到，排名不是慢慢掉，而是突然暴跌，一天几十名，几天直接掉出榜单\n\n我觉得这并不是“没被识别”，而是 Kaito 会定期做一次全量扫描，重新排序。在扫描前排名很稳，但扫描后如果输出不足或质量不够，就会直接掉下去\n\n这也是我每天坚持写 anoma 的原因。热门项目竞争激烈，一旦松懈就会掉队。现在我在所有 anoma 榜单都保持前100，刚好官方前250抽100个 NFT，中奖率约 40%，如果已中奖的不会重复参与，那实际机会就更高\n\n从比特币到以太坊、L2、ZK，基础设施的创新已卷到极致，但应用层依然碎片化、体验差\n\nAnoma 的“Upward”理念，就是把创新重心从底层推向应用层，用统一抽象层解锁真正的用户级突破，让 Web3 从极客实验、走向主流网络\n#AnomaUpward",
+      "timestamp": "Sep 6, 2025 · 5:14 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1964195440599191584#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1964131437583512041#m",
+      "content": "Yap 是个动态博弈，对项目要按 TGE 时间、内卷程度、收益空间来排优先级\n\n短平快的活动必须先冲，就算是上榜的主撸项目，如果 TGE 还远，也能先放一放\n\n比如 @xhunt_ai × @Mantle_Official 的 20 天 yap 活动（8.29–9.19），距离结束还有15天，2天一篇的节奏让我从第5掉到了第10，那么剩下时间必须每天写了，拿上千 U 还是稳的\n\n反观 billions、goat 虽然我榜上有名，但 TGE 至少 1个月+，暂时先放缓笔触\n\n而 Mantle 本身也有硬核数据支撑，9月5日 Messari 《Q2 2025 状态报告》披露：\n\n- 稳定币市值环比+3%，达 4.833 亿美元，USDT 占76%\n- mETH TVL 9.39 亿美元，FBTC TVL 15 亿美元 \n- Mantle 正优先推进“区块链银行”叙事，强化协议层整合\n\n生态层面：集成 EigenDA、OP-Succinct 测试网、UR 账户+卡、MI4 基金、MantleX 等，动作密集\n\n整体看，Mantle 一方面在扩展 DeFi + TradFi 融合叙事，另一方面也必须解决代币和用户参与下滑的问题，才能在 L2 竞争中保持优势\n\n最后，感谢大家能使用我的邀请码：TJ623U9J4I （我是官推发的早期支持者，有10%加成~）\n#Mantle",
+      "timestamp": "Sep 6, 2025 · 1:00 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1964131437583512041#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1963977378327359938#m",
+      "content": "今天还是写 @MavrykNetwork ，但先说说我现在 Alpha 的刷分计划\n\n改版后，很多人刷 4X 倍数的新币，经常一笔 swap 被夹十几 U ，甚至有人 1000U 一单被夹 60%。我重新入职才吃了 5 次，愁\n\n不过现在我找到了办法，还是刷 KOGE，只是没有 2X 倍数了。1030U 刷 16 笔，交易量 1.6 万，损耗只有 3.3U，能拿到 14 分，加上余额 3 分，一天稳 17 分\n\n一个 15 天周期就是 255 分，能吃上 3-4 次，然后钱包里搜 48club，每天达标 8192 刀交易额还能领周补贴，这周约 6U+\n\n说回 Mavryk ， 5M $MVRK yap激励，按照MEXC首发 0.1 的价格也就是 50 万刀，1 个月短平快的前提下，性价比极高\n\n要知道一个月活动周期的项目大多已经 TGE ，然后多半是前100 分 5 万刀这样子，一对比就知道 mavryk 很香了\n\n当然，门槛不算低，小号 10 天都未必能上榜。但应该前 500、前 1000 奖励依旧有肉。如果目标是几百 U 收益，Mavryk 是目前少见的短平快好机会\n#Mavryk",
+      "timestamp": "Sep 5, 2025 · 2:47 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1963977378327359938#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1963916375644381659#m",
+      "content": "目前我最全方位、最长时间参与的项目就是 @anoma 。高融资 + 多角度玩法，让我能从不同层面切入：\n\n- Kaito 上 0.7% 的高激励份额 ，保守按 5亿 FDV 计算，潜在价值高达 350 万刀\n- 测试网 2W code，少人少事机会大 \n- DC 重视推文贡献，还能顺手拿到高阶角色 \n- 总量 3000 的 NFT 免费 mint，格局拉满，目前价值约 1000U，且仍有空投预期\n\n综合来看，我的空投预计可能超过上万 U\n\n虽然早期 TOP100 yapper 活动和测试网前 300 的资格都没赶上，但中文区和全区仍有机会拿到 @Shrimpers_nft WL\n\n我总结了目前中文区仍有机会的活动（小语种区不在此列，欢迎补充）：\n\n1️⃣Kaito Yapybara 持有者抽奖，20 个 WL\n\n2️⃣中文区创作活动，25 个 WL，截止 9 月 5 日 23:59（东八区），详见 Supers 的推文，需要填表提交推文链接\n\n3️⃣DC 活动，200 个 WL：奖励 UPWARD 主题创作，引用官方推文，带 #AnomaUpward 标签，并在北京时间 9 月 7 日 19:30 前将推文链接发到 DC “Anoma Upwards”频道\n\n其中 170 个名额按层级分配（10/15/20/25/35/45），另有 30 个由 MOD 眼缘发放\n\n4️⃣ Shrimpers DC cosplay 视频活动（详见 DC）\n\n最后，特别感谢 @0xark21 和 @07yangYang12 为中文社区制作的专属 Anoma Card，纯手绘卡面精美，是对社区贡献者的认可与激励\n#anoma",
+      "timestamp": "Sep 5, 2025 · 10:45 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1963916375644381659#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1963840776980636093#m",
+      "content": "今天带大家深入了解一下 @KGeN_IO，这篇信息解构专为关注 Web2→Web3 转化、AI/游戏/DeFi 应用的朋友准备\n\n从项目背景、原理解构、融资与团队、数据表现，到最关键的 VDP 如何成为价值捕获的基础设施，这篇长推帮你一次看懂全部核心逻辑\n\n❚ 项目背景梳理\n\n在 Web3 和 AI 时代，工具层出不穷：智能合约能执行规则，AI 能生成内容，应用能触达全球用户\n\n但一旦涉及 资金流、用户分发或社区激励，信任就是最大瓶颈。没有系统能确保数据与交互真实可靠，也没有人愿意轻易把关键资源交出去\n\n@KGeN_IO 的定位，就是要解决这个问题。通过 VeriFi (VDP) 与 POGE，它将用户参与、声誉与激励彻底链上化，为 AI、游戏、DeFi 应用提供可信赖的基础设施，重新定义 Web2→Web3 的价值转化\n\n目前已积累 3550 万用户、600 万 MAU、1.21 亿笔交易，ARR 达 3400 万美元，是真实用户驱动的增长\n\n❚ 项目原理解构\n\nKGeN 的核心是 Verified Distribution Protocol (VDP)。它不仅是用户验证工具，更是价值捕获引擎\n\nVDP 三层逻辑：\n- 验证层：生物识别 (iOS KVH) + 社交绑定 (X、TG、Discord)，构建 Proof of Humanity\n\n- 分发层：链上记录用户行为 (Proof of Skill / Proof of Gamer)，过滤机器人，保证真实交互\n\n- 捕获层：rKGEN 激励，未来 1:1 兑换 $KGEN，KStore 覆盖 196 城市，让 KCash 直接兑换现实奖励\n\n结果就是：用户从日常行为中捕获 Web3 价值，项目获得可持续增长\n\n❚ 融资与团队\n\nKGeN 累计融资超 3000 万美元，估值 5 亿美元。\n- 种子轮（2023）：Accel India 领投，Prosus、Nexus 等参投\n\n- 生态基金（2024）：Aptos 领投，Polygon、G7 DAO 等加入\n\n团队同样顶配：\n- CEO Manish Agarwal（前 Nazara CEO，资深游戏行业）\n\n- Co-founder Ishank Gupta（前 BCG，具备全球战略经验）\n\n他们从 2022 年收购 IndiGG 起步，快速搭建 VDP 生态，聚合 Web2 用户与 Web3 激励\n\n❚ 数据与风险\n\n亮眼数据：\n- 3550 万+ 用户\n- 600 万+ MAU\n- 1.21 亿笔交易\n- ARR 3400 万美元，收入透明可在 DefiLlama 追踪\n- DappRadar 排名第 4\n\n潜在风险：\n- 监管不确定性\n- 同赛道竞争加剧\n- TGE 阶段波动较大\n\n但 VDP 的真实用户壁垒 + 高 ARR，构筑了稳定的基本盘\n\n❚ 展望\n\n当前 rKGEN 已上线，未来 1:1 兑换 $KGEN。TGE 临近，VDP 将扩展到 AI、游戏、DeFi 全面融合。\n\n这意味着：\n- AI 模型训练可用真实验证数据，避免坏数据\n- Web2 用户无需钱包即可进入 Web3，完成无缝迁移\n- 消费积分、游戏行为、社交互动都能转化为链上价值\n\n在我看来，KGeN 不只是一个增长工具，而是一场基础设施级革命。它正在重塑 Web2→Web3 的路径，把价值捕获真正还给用户与项目\n\n而 $KGEN ，会是这个故事的价值承载~",
+      "timestamp": "Sep 5, 2025 · 5:45 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1963840776980636093#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1963773610423951604#m",
+      "content": "吃瓜：WLFI 把孙宇晨相关地址直接拉黑。约 5.4 亿已解锁代币 + 24 亿锁仓代币。项目方的说法是怀疑有交易平台利用用户代币砸盘，导致价格承压。真假？！继续写 @PortaltoBitcoin \n\n $PTB 已经从昨天的 0.027 拉到 0.045，暴涨 60%，更加坚定我参与第二季活动的信心。按目前价格，第二季解锁到手就有 48 万刀，前 100 至少 1500 刀。果真是低价开盘、先洗再拉的剧本？\n\n但我不会去炒币，风险太大，还是撸毛一点点赚认知内的钱。目前 7D 排名 65，争取早日进 30D 甚至 3M，每天一篇，最后 3 天再冲刺\n\nPortal 的奖励机制本质上是“时间分层 + 持续贡献”模型。第一季对标 3M 榜单，第二季缩短为 30D 榜单，意味着考验的是短期持续产出的能力\n\n加上 33%-33%-33% 的解锁方式，既平滑了抛压，又保证了长期活跃度。这种设计让单纯炒币的人没法短期套利，反而给真正贡献内容的 yapper 留出了更稳定的收益空间\n#Portal",
+      "timestamp": "Sep 5, 2025 · 1:18 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1963773610423951604#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1963609523505221853#m",
+      "content": "我今天开始刷 OKX 钱包的 X Launch & Boost，看了逸星哥的教程，操作就是交易所 1100U 提到 BSC 链，在钱包里刷 KOGE/USDT，101U 一买一卖损耗 1.7U 左右，刷 400U 交易量，损耗不算小，再观望一下。继续写 @MavrykNetwork \n\n目前 3M 榜单已上，30D 排名 71，距离 TGE 还有半个月，继续冲~\n\n简单介绍一下Mavryk 的三个技术亮点：\n- 原生预言机层 → 内置预言机实现 RWA 实时定价，把链下资产估值直接上链，无需第三方依赖\n\n- Mavkit SDK → 提供治理、质押、代币化、钱包等预建模块，加速面向 RWA 的 dApp 开发\n\n- 形式化验证 → 支持 Michelson 验证，高风险环境（如借贷市场）减少 bug 风险\n\n这些机制凸显 Mavryk 专注于实用、机构级创新，而非噱头功能\n\n设计目标是处理万亿级 RWA，同时保持去中心化与高效率，使其成为区块链中专注 RWA 的专业平台\n#MavrykNetwork $MVRK",
+      "timestamp": "Sep 4, 2025 · 2:26 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1963609523505221853#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1963547320630542603#m",
+      "content": "思考再三，继续写 @PortaltoBitcoin\n\n链上反撸已经常态化，不足为奇。yap这块，有人只写了3篇没上榜，依然拿到20万 $PTB ；有人写1篇，也能领到1万\n\n所以yap已经证明有毛不反撸了，且短平快，但从没写过的朋友不做首选推荐\n\n我常说的现在撸毛最佳路径：以yap为切入点，然后靠推文贡献顺便拿DC角色、code、NFT等，通吃。即便反撸，也不过是白写几条推文\n\n至于小账号能不能上榜？完全可以。像 zzw110112 就上了好几个项目榜单，曾经 Boundless 也是榜上有名。但是 Portal 时间紧迫也是个实时\n\nPortal 第一季是 5 月开始，对标3M榜单；第二季在8月中旬启动，为期一个月，估计会参考30D榜单\n\n按总量84亿枚、现价约0.027U算，第二季0.4%份额就是90万刀，即便锁66%，到手也还有29.7万刀。如果还是900人瓜分，前100至少能有1000刀\n\n目前我已经冲到 @KaitoAI 7D榜第 80 名，还有半个月，继续冲一下~\n#Portal",
+      "timestamp": "Sep 4, 2025 · 10:18 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1963547320630542603#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1963473347913945229#m",
+      "content": "上一篇写 @cysic_xyz 已经是 10 天前了，昨天 Yap 门槛彻底取消，没想到直接冲上了 Kaito 30D 榜单第 99，干脆今天继续写\n\n8 月 23 日的 AMA 提到：9 月份会公布代币经济学并进行快照。但我引用的官方推文写的是 Q4 结束，那么估计TGE 应该在 Q4 初\n\nNFT 这块：立方体共 2.9 万个，已卖出 2.1 万个，后续还有公开轮。我睡过了，没参与\n\n官方刚刚公布了 @KaitoAI 奖励明细。按这次 CUBE 公售 $CYS 的 FDV 1.97–2.52 亿美元来推算\n\n其中 0.6% 份额分配给 yapper & Kaito 生态，总金额大约 $118.2 万 – $151.2 万：\n\n1️⃣顶级 Cysic yappers（60%）：$71 万 – $91 万\n2️⃣韩国 / 中国用户（10%）：$12 万 – $15 万\n3️⃣Kaito 生态（30%）：$35 万 – $45 万\n\n从分配比例看，yap的奖励份额挺可观，时间也充裕，内卷程度不是很高，这应该是目前性价比最高的参与方式\n\n即便效仿 NFT 采取 50% 锁仓模式，实际到手数额依然不算低\n#cysic #kaitoAI",
+      "timestamp": "Sep 4, 2025 · 5:25 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1963473347913945229#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1963408941095981500#m",
+      "content": "看到画师大哥 CryptoPainter 参与了 @xhunt_ai 和 @Mantle_Official 的 InfoFi 活动，我也跟着写了一篇，没想到直接冲上了榜单第10名\n\n每天都在用 XHunt，对它的 KOL 排名很认可，这次能被官方点名，相当于一次存在被锚定，自我认同感直接拉满\n\n另外，活动也不卷：5万美金 $MNT 奖池，持续20天（8.29–9.19），才过去6天，感兴趣的可以试试\n\n再简单介绍一下 Mantle 近期的动作：\n1️⃣Bybit 深度合作：不仅上了 ETH/MNT 等新交易对，还推出了质押5% APR、储蓄和6000万SHARDS活动，这波是真正把 $MNT 带到更大圈层；\n\n2️⃣LayerZero 跨链：OFT标准已集成HyperEVM，真正朝“流动性链”迈进；\n\n3️⃣财政数据：国库超40亿美元，8月活跃地址暴涨1600%，TVL和稳定币市值也跟着飞，难怪 $MNT 能冲到5个月新高~\n\n最后，参与活动要更新 Xhunt 插件，在 X 主界面右上角完成简单社交任务进行注册\n\n感谢大家能使用我的邀请码：TJ623U9J4I （我是官推说的早期支持者，好像有10%加成）~",
+      "timestamp": "Sep 4, 2025 · 1:09 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1963408941095981500#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1963230354124513689#m",
+      "content": "Linea 官方查询结果出来了，我 4 个号一共拿到 4.3 万 $LINEA ，现在价格跌到 0.03 以下，总共才 1300U。最遗憾没提前套保，而且我在币安和 OKX 的合约都开了永久冷静期。继续写 @MavrykNetwork 吧\n\nTGE 还有半个月，我的 30D 排名已升到 78，目标是前 30\n\n明晚10点创始人兼 CEO 会在AMA里聊 Mavryk 的核心产品 Equiteez —— 一个覆盖 RWA 一级发行和二级交易的链上平台，配合 Fireblocks 提供机构级托管，对 $MVRK 的长期价值至关重要\n\n同时官方上线了 Mavryk Wallet，这是一个自托管钱包，支持加密货币、RWA、DeFi 和收藏品，强调安全和所有权\n\n现在撸链上可能有点晚了，嘴撸反而是最有性价比的选择。Mavryk 的节奏清晰、产品逐步落地（给的多，短平快），我觉得值得继续陪跑~\n#MavrykNetwork #KAITO",
+      "timestamp": "Sep 3, 2025 · 1:19 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1963230354124513689#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1963134171242782922#m",
+      "content": "昨天 @anoma 彻底取消了 yap 门槛，人人都能参与！\n\n我预计快照大概在 9 月底，参考 3M 榜单，多半至少前 1000 都有奖励，前 100 yappers 大概率还能拿到 @Shrimpers_nft WL\n\n当初 Kaito 改版加门槛时，我以为最坏的结果是：既上不了榜，DC 也不会重视推文贡献\n\n没想到迎来的却是最美好的结局——门槛直接取消，DC 同步认可 X 贡献者，推文也能拿到高级角色\n\n这次改版反而变成了一次利好和正向宣传，叠加 OKX 历史第二火爆 NFT 活动、测试网 2 万限量 code 一码难求、DC 达到两万用户而角色的稀缺，Anoma 不只是有料，还懂营销\n\n更重要的是，Anoma 在最新线程中提出“Upward”论点：区块链基础设施已经很快、很便宜，但应用层迟迟没爆发\n\n问题不在链，而在碎片化和复杂性。Anoma 的定位不是另一条 L1，而是像操作系统一样的更高抽象层，帮开发者跨链构建用户真正喜欢的应用\n\n从资格从无到有，到推文贡献被看见，再到技术层面的“向上”，这次 Anoma 展现了难得的大格局~\n#anoma",
+      "timestamp": "Sep 3, 2025 · 6:57 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1963134171242782922#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1963062654379163740#m",
+      "content": "今天 @PortaltoBitcoin TGE，上线多家交易所，yapper奖励预计今晚7点在 @KaitoAI 领取\n\n第一季约900名用户获奖，规则是TGE解锁33%，3个月后33%，6个月后33%\n\n按总量84亿枚、盘前约0.2U计算，第一季yapper总激励约425万刀，900人瓜分依然可观\n\n第二季更高，约672万刀，即便锁66%，到手部分也还有220万刀，具体奖励金额等今天上所就知道了\n\n然后这几天写了三篇都是两三万高流量推文，临TGE的项目就是热度高\n\n第一季的yapper已经提前写了一个月了，大家不在同一个起跑线，我还没有上榜，肯定是相对要难一些的\n\n总之，继续写，还有半个月时间，完全来得及，哪怕进不了前100，依然能吃一波\n#Portalto",
+      "timestamp": "Sep 3, 2025 · 2:13 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1963062654379163740#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1962877479053648103#m",
+      "content": "Boundless 的 Kaito 打新额度从 3.4% 提升到 4.7%，据说多号的兄弟们赢麻了，翻倍应该问题不大。可惜我这边 KYC 死活没过，哪怕有黄金号也白白错过，只能看着别人发财。转回我重点关注的 @MavrykNetwork\n\n目前 7D 排名 56，30D 排名 82，还有 16 天坚持写，拿到空投问题不大\n\n它的 $MVRK 将首发于 MEXC，价格 0.1 U，yapper 奖励池约 50 万刀。虽然目前还没明确多少名次有奖励，但后续多所上线、价格发现FDV拉高才是关键\n\n另外，创始人 @mv1_Davis 现在正在 X 官推直播，深入解析：\n1️⃣战略合作\n2️⃣验证人 & 质押计划\n3️⃣Tokenomics & 路线图\n\n感兴趣的可以去看看，或许能更直观理解为什么 Mavryk 值得长期跟踪\n#Mavryk",
+      "timestamp": "Sep 2, 2025 · 1:57 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1962877479053648103#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1962785460910203009#m",
+      "content": "最开始 7 月份 @anoma 的 TOP100 yapper 活动其实是最好的参与时机：\n\n1️⃣ 前 100 能拿到每天生成 3 个测试网 code 的原始资格，这么多新 code，不管是送人情还是抽奖涨粉都很香；\n2️⃣ 还能解锁 DC 独一无二的高级角色，未来空投想必不会少\n\n可惜那时我正冲 Memex 榜单，只能眼睁睁错过。后期再起步就难多了。好在测试网一周后，遇到一位外国大哥送我 code，我才幸运加入，最后拿到 6900 名的成绩\n\n———\n\n在 Yap 上，我的经历可谓 幸运与不幸并存：\n错过 TOP100 后开始写推文，好不容易进了 3M 榜单，却赶上 Kaito 算法改版。门槛降到 200 yaps，而我只有 110\n\n放弃？不存在的。于是我给自己定了每天一小时的 ICT 互动计划：\n1️⃣把 Kaito yaps 获取 7D 榜单的大佬全部关注，并点亮小铃铛；\n2️⃣每天积极互动，结合他们的推文内容，发出灵魂提问，顺带润物无声地夸赞\n\n半个月里，yaps 从 110 涨到 143。更重要的是，我学到了不少知识，也收获了一群良师益友。以前只为了 Yap，现在却体会到学习与成长的快乐，一切来源于 Anoma 带给我的动力\n\n————\n\n在 DC 这边，我一度想：“Kaito 上不了榜，难道我写的 40 篇推文就白费了吗？”\n\n于是尝试把它们转化为 DC 贡献：我手动把所有推文的数据整理成 WPS 表格，恰逢官方提供了“每周三开通提交贡献晋升角色的好平台”，于是我周周参与\n\n幸运的是，遇到 DD 和 Ark_21 两位负责的 MOD，在他们的引导下，我最终拿到了 Gmaster 角色\n\n————\n\n这就是我参与 Anoma 的全过程：\n从错失机会，到咬牙坚持；从榜单互动，到 DC 角色，我庆幸自己虽没有在“最恰当”的时间进场，却找到了属于自己的节奏\n\n✨ 在我看来，Anoma 的特别之处，不止是融资体量和 yapper 友好，而在于它的理念：\n它把区块链抽象为 「通用意图机器」。用户不再是机械地下单，而是表达「意图」——交换、协作、协调\n\n这种 “从交易到意图” 的转变，让 Anoma 不只是一条链，而更像是 Web3 的操作系统。它强调隐私、灵活性与多方协作，这是很多公链难以实现的维度\n\n所以我坚信，虽然我不是最早的参与者，但却恰好站在了 Anoma 真正起步的最好时机\n#anoma中文区活动",
+      "timestamp": "Sep 2, 2025 · 7:51 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1962785460910203009#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1962698413692387430#m",
+      "content": "写 @PortaltoBitcoin 前，先说下我昨天开始刷 OKX TGE 直通车号\n\n上一期单号利润 40U，如果按月一次，10 个号几乎能抵普通人一个月工资\n\n我参考巫师大佬的方法准备起 9 个号，但因为上班时间有限，先刷了 3 个，今天再补 3 个。每号在 SOL 和 BASE 链各放 60U，做 300U 交易量，10 天一周期，刷完换成 1Ugas+USDC，表格记录好，坐等福报\n\nPortal 这边不少人担心上不了榜，再说明一下：第二季 yap 从 8 月 13 到 9 月 20，已经取消门槛，独立份额 0.4%，比第一季的 0.25% 高不少\n\n至于有人顾虑三哥项目或奖励延后，其实 9200 万融资+一个月短周期，个人感觉收益大于风险，更何况在 yap 奖励这块不讲信用的项目还是个别，0.65%份额换来一些摇旗呐喊的yapper，它还是给的起的\n\n$PTB 已确定上线 Binance Alpha+Futures、Bitget、MEXC，后续还有更多。短期看收益，长期看能否在 RWA 和 DeFi 脱颖而出，这才是 Portal 真正的价值点\n#PortaltoBitcoin",
+      "timestamp": "Sep 2, 2025 · 2:05 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1962698413692387430#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1962486727798657469#m",
+      "content": "Linea 终于上 Bianca 盘前了，目前 0.05$，10 号领空投上现货。我手里 3.7 万个，哪怕 0.03 卖掉也有 1000U，属于意外之财。今天的重点依然是 @MavrykNetwork\n\n连续 6 天写了 6 篇后，我终于冲进了 30D 榜单前 100。和 @KaitoAI 的合作周期是 30 天，所以参考的就是 30D 榜单，简单说：\n1）合作周期 1-2 个月 → 看 30D 榜单；\n2）3-5 个月 → 大都看 3M；\n3）参考 6M 榜单的，印象当中只有 0G\n\nMavryk 是我在一堆 RWA 概念里，真正看到透明落地的少数项目：\n1️⃣与 MAG Group 签订并扩展至 100 亿美元地产代币化协议；\n2️⃣与 Fireblocks 合作，确保链上资产安全；\n3️⃣原生代币 $MVRK 已上线，50% 费用销毁机制 + 质押激励，生态价值捕获清晰\n\n另外，Mavryk 的交易量已突破 1.2 亿笔，这是又一个重要的里程碑~\n#MavrykNetwork",
+      "timestamp": "Sep 1, 2025 · 12:04 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1962486727798657469#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1962413834284741091#m",
+      "content": "听说 Lombard 打新大部分人都没资格，就算 Kaito 排名再高也一样。是 KYC 区域问题？亚洲 KYC 好像都过了，最新名单更新后，有人又有资格了，大家再去查一下。然后这篇的主题依然是 @anoma\n\n目前我的 yaps 来到 139，近 7D 涨了 15。Kaito 快照还有一个月，希望在快照前冲过 200 门槛\n\n现在小孩卓所有榜单都在前十，如果真能上榜，靠 50 篇推文一定能有个不错的排名\n\n至于项目本身，Anoma 的架构采用分层设计，通常分为三层，这是它最大的亮点：\n\n1️⃣ 应用层：用户表达“意图”而不是直接写死交易，比如“换 A 为 B”，灵活、隐私保护，还能组合演化\n\n2️⃣ 网络层：意图通过 P2P gossip 广播，由 solvers 匹配协调，支持多方交易、DAO 协作，这是传统链做不到的\n\n3️⃣ 结算层：匹配后的意图才落地执行，模块化、并行处理，避免全局瓶颈\n\n换句话说，Anoma 是一个“通用意图机器”，既是区块链，也是 Web3 操作系统\n\n最后非常感谢 @ye1141934227 和团队小伙伴为社区成制作的OG card~\n#Anoma",
+      "timestamp": "Sep 1, 2025 · 7:14 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1962413834284741091#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1962328714290790603#m",
+      "content": "说 @PortaltoBitcoin 前谈谈我web3目前的计划 \n\n一路从土狗到山寨，几次赌到A7，却因心态贪重、只会梭哈，没守住利润。现在方向更明确：\n\n1️⃣主营推特，挑1-2个大融资项目深度yap + DC拿角色，另配2-3个小项目只yap\n\n2️⃣发推侧重不在项目的技术，还会写方法论、热点和撸毛角度，分享选项与放弃的逻辑\n\n3️⃣链上测试网只做高融资、人数可控的；币安Alpha单号重返，OKX TGE直通车今天开始刷一些号的交易量\n\n4️⃣确定性打新如Sahara、Boundless会参与，赚到的钱存U理财，不玩杠杆，争取3年重回A7\n\n回到Portal，撸这种短平快的项目，需保持每天至少一篇推文，且最后一周左右要加码输出，才能确保万无一失\n\n他们设立5千万美金生态基金，目标是打造无托管的比特币跨链基础设施\n\n凭借 BitScaler 技术，让数十亿用户无需复杂流程即可接入，加速$PTB实用性落地：\n1）60% 推动技术与机构合作；\n2）25% 投入生态和社区建设；\n3）10% 用于市场和教育；\n4）5% 覆盖运营与合规\n\n该基金将加速 $PTB 的效用，释放比特币的全部潜力，并构建无托管的加密基础\n#Portal",
+      "timestamp": "Sep 1, 2025 · 1:36 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1962328714290790603#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1962155421055197527#m",
+      "content": "继续写在 @SentientAGI 正式上 @KaitoAI 前夕。预计 9 月初下周他们将开启合作，并同步上线新测试网，采用限量邀请制\n\n我的计划是：以 yap 写推冲榜为切入点，拿 yapper 奖励的同时，争取拿到测试网 code，并通过贡献拿到 DC 角色——发 10 篇内容就能申请初级角色\n\n项目方对 DC 数量和晋升难度的控制很严格，这往往意味着奖励潜力不小\n\n如果门槛是 200 yaps，我目前 130 也还有机会，不行的话也许能靠 DC 拿角色作为特许通道上榜\n\n对于粉丝不多的朋友，光靠 DC 聊天（4000 条以上）也能拿到初级角色，仍有参与机会\n\n技术层面，Sentient 并不是传统 AI 项目。他们要推动的是开源 AGI，不受单一实体控制；关键创新是 模型指纹化：在训练中嵌入加密签名，能验证归属、防盗用，却丝毫不影响性能\n\n配合 Loyal AI 的对齐机制，Sentient 正在 GRID，全球最大智能网络里探索一种开放、抗操纵的新模式\n#SentientAGI #KAITO",
+      "timestamp": "Aug 31, 2025 · 2:08 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1962155421055197527#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1962077581022265642#m",
+      "content": "刚追完《和平使者》，一会儿去吃达美乐披萨，人生不过 3 万天，撸毛之余也要找点简单快乐~顺带一提， @MavrykNetwork 我连续写了 5 篇，终于上了 7D 榜单，目前还得继续巩固\n\n写新项目就是这样：不仅要研投判断是否值得写，还得亲身写几篇才能尝出咸淡\n\n有些项目前 1000 都进不去，我就果断放弃；有些写一两篇发现有问题，也会停手。Mavryk 到现在，我热情依然高涨，它是我 T1 级别的项目\n\n而它真正亮眼的核心，是 VARA ARVA 规则。Mavryk 宣布将 MAG 资产从 $3B 扩展到 $10B，但创始人的关键回复是：每个 RWA 上线前，都必须按 VARA ARVA 发布招股说明书\n\n♥VARA = 迪拜虚拟资产监管局，监管交易所、代币发行及 RWA 项目\n\n♥ARVA = 资产挂钩虚拟资产，需披露底层资产、风险、治理和发行条款\n\n这意味着：不能靠 NDA 隐身，不能光喊概念；投资者可以核验承诺资产的真实性。相比多数RWA 链只靠宣传或 PDF，Mavryk 的做法树立了透明新标杆\n\n如果严格遵守规则，这不仅是对投资者负责，也可能推动整个行业 RWA 标准提升——透明 + 上链 + 合规\n#MavrykNetwork",
+      "timestamp": "Aug 31, 2025 · 8:58 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1962077581022265642#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1961999656982024377#m",
+      "content": "今天开始我也要冲 @PortaltoBitcoin！它取消了 yap 门槛，人人都能参与。这类高融资+高激励+短平快的项目，不容错过\n\nPortal 第二季 yap 从 8 月 13 日持续到 9 月 20 日，份额从第一季的 0.25% 提升到 0.4%，甚至已相当于部分项目在 Kaito 上整场活动的总分配了\n\n周期短平快，现在还有 20 天，考虑到 Kaito 多半参考 30D 榜单，这个时间点入场应该来得及\n\n融资方面：Portal 已累计融资 9200 万美金，体量放眼近期所有 yap 项目几乎是顶级水准\n\n更关键的是，9 月 3 日 $PTB TGE，并同步上线币安 Alpha 与期货，兑现度非常高，不会出现活动结束还不发币的情况\n\n项目本身也有长期价值：Portal 是去中心化跨链基础设施，专注原生比特币，致力于实现 BTC 与 ETH、SOL 等 L1/L2 的安全原子交换，无需托管人或跨链桥，从根本上降低安全风险\n\n高融资、高激励、明确的 TGE 节奏，再叠加 BTC 跨链叙事，此时不冲更待何时？\n#Portal",
+      "timestamp": "Aug 31, 2025 · 3:49 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1961999656982024377#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1961777346517848301#m",
+      "content": ". $M 今天翻倍了，我除了拿到 5000U 奖励，质押的 3000 枚也同步翻倍。事实证明：对看好的项目深度参与，往往能得到全方位回馈。而我目前最看重、也深度参与的就是 @anoma\n\nKaito 改版后，我一度因不足 200 yaps 没能上桌。于是最近认真互动，yaps 涨了 20，努力在 TGE 前重新上桌\n\n但更意外的是，即便没上榜，我依然凭推文数量和浏览量被项目方认可，拿下了 DC 高级角色，这也说明 Anoma 真正在乎社区里的真实贡献者\n\n我判断最终空投会是 推特 + DC + 测试网 的综合：\n1️⃣推特：不止上榜，小孩桌一样有奖励，就算没上榜，推文数量和浏览量也可能被统计在内，依然有回报；\n\n2️⃣DC：角色 + 聊天活跃；\n\n3️⃣测试网：看排名梯度计算空投\n\n对真正深度参与的人，Anoma 会有全方位的回馈\n\n另外，Anoma Day 将在 9 月 5 日回归，预计会公布 NFT、主网进展和 TGE 相关话题，yapper 也会是重点话题\n#Anoma #KaitoAI",
+      "timestamp": "Aug 30, 2025 · 1:05 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1961777346517848301#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1961680156881457455#m",
+      "content": "这项目 @MavrykNetwork 不太容易上榜啊，已经写了 4 篇了，不过每次拿 Linea 打窝效果都超级好，单篇都能破一万浏览\n\n昨天晚上 Linea 空投的数量算法出来了：lxp × lam × 10⁹，网上有批量查询工具。我自己 4 个号合计大概 3.7 万枚，按盘前 0.05 美元也就一千多刀，如果 FDV 十亿保守算下来差不多五百刀~很难回本啊\n\n回到 Mavryk。距离 TGE 不到三周，先聊一个关键点：协议国库\n\n它是真正链上社区国库，由七席位多签委员会治理，结构清晰、路径透明，并且和 $MVRK 利益完全绑定。这套机制让社区驱动和可持续性不再是口号\n\n更重要的是，Mavryk 已在测试网上有可用产品，也是少数能做到 RWA 一级和二级市场的项目。国库加上落地产品，可能会成为它的长期竞争力所在\n#Mavryk #RWA",
+      "timestamp": "Aug 30, 2025 · 6:39 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1961680156881457455#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1961597236447527029#m",
+      "content": "这个插件 @xhunt_ai 很多CT朋友应该都在用吧，能看到X账号排名，现在它也加入了 InfoFi 赛道，联合 @Mantle_Official 和 @Chaineye_tools 开了个 20 天的嘴撸活动（8.29–9.19）\n\n奖励池 30,000 $MNT ，约 5 万美金，同时 @KaitoAI 那边也有 150K $MNT，可以一鱼两吃\n\n参与方式很简单，更新Xhunt插件，在X主界面右上角完成简单社交任务，填写EVM地址及邀请码：TJ623U9J4I，发布 Mantle 相关推文靠排名拿激励\n\n玩法分两条线：\n1️⃣POI 排行：靠发布推文影响力评分，奖励 15,000 $MNT，前 100 名可拿\n\n2️⃣POW 排行：一半看内容质量，一半看通过 Mini Bridge 向 Mantle 主网跨链的交易数量，奖励 15,000 $MNT，前 300 名可拿\n\n机制重点：XHunt 用推文分析+反作弊系统，过滤AI spam和机器人，强调质量>数量，原创性和持续输出很关键\n\n参与门槛也不高：X号≥50粉、注册满1个月，推文需和 Mantle 相关，钱包用于奖励发放\n\n早期支持过 XHunt 的人还有额外加成，我正好在 Mindshare 11-40 名，可以+10%\n\n整体来看，活动持续 20 天，更新周期一周，结束两周内发奖励，先注册防身，再冲一下坐等福报~",
+      "timestamp": "Aug 30, 2025 · 1:10 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1961597236447527029#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1961414821406257531#m",
+      "content": "Linea 正在分发 LXP-L，我当初存了 0.2 ETH，只拿到 2767 个，感觉太少了，值几U啊。然后Linea 浏览器这个cuihuohuo又是什么东西，卫龙的辣条吗？今天主题依然是 @anoma~\n\n本周三贡献日，我很幸运升到 Gmaster 角色\n\n感谢项目的公平机制，让大家有机会每周三通过努力晋升，而不是完全靠提名；也要感谢两位负责的 MOD DD 和 Ark_21 的帮助\n\n这让我更确认最初的思路：以 @KaitoAI yap为切入点，顺带拿到 code、DC 高级角色甚至大使身份，一鱼多吃，我感觉这算是当前撸毛最好的路径，成为超级个体精品号\n\n但核心还是要把 X 账号质量做起来~\n\n顺便提下新公布的 AnomaPay：它是个全球稳定币路由器，能自动把 ETH/USDC/USDT 转成对方想要的币，还带企业级隐私保护\n\n和Noble. xyz合作，目标是解决稳定币市场碎片化和隐私不足的问题。说不定这才是 Anoma 真正出圈的入口~\n#anomapay #KAITO",
+      "timestamp": "Aug 29, 2025 · 1:05 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1961414821406257531#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1961338582624604649#m",
+      "content": "是真的不卷 @billions_ntwk ！上次写是 4 天前，目前 Kaito 7D 排名 29，30D 排名 84，不写排名反而还在上升\n\n然后 Billions 社区 CM 还主动关注了我，我朋友也被关注了，项目方确实在看重社区发声者\n\n@KaitoAI 这边，要么门槛高，写不进去；要么门槛低，不频繁写也行\n\n但正因为高门槛，导致Yaps很宝贵。最近我主动关注更多的 ICT 大佬，积极拜读他们的推文并互动，学到了不少东西，这也算是 Kaito 改版带来的正向收获\n\n回到 Billions，它通过战略合作加速人类和 AI 采用，已验证 170 万用户，完成 3000 万美元融资，Power 积分奖励真实人类和验证 AI。合作伙伴包括：\n\n1️⃣Aurora：确保每次启动都有真实人类和可信 AI，支持 1000 条链扩展\n\n2️⃣Intuition：联合构建身份 + 数据验证层，支持人类与 AI 互联网\n\n3️⃣Flagship：设计 AI 信任层，包括声誉、IP 保护和身份指纹\n\n4️⃣其他如 Camp Network、Lagrange Dev、Intract Labs、Chaincode Llp、Privado ID、Disco 等，助力人类-AI 验证生态落地\n#Billions #KAITO",
+      "timestamp": "Aug 29, 2025 · 8:02 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1961338582624604649#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1961251523683565610#m",
+      "content": "感谢 Linea 又提供发推素材，为我写 @MavrykNetwork 打窝\n\n预计 9 月 10-16 号会上线查询器，54B $LINEA 已经转移到 Linea 链，所以领取不会在主网\n\n之前网传的 17 万地址空投资格，其实是谣传，这是初始测试网的钱包数量，是最初填表人的额外奖励，每人 492 个币，空投的详细信息相信很快就能知晓了\n\n说回 Mavryk ，它在 @KaitoAI 上面 24H 和 7D 榜都排在 13 名左右，应该卷度适中，离TGE还剩 20 天，目前保持每天一篇的节奏，最后几天再冲刺一下\n\nMavryk 的技术架构核心还是可扩展性和用户友好。作为 Layer 1，它支持 8000 TPS，10 秒确认，并且内置 DeFi 工具\n\n生态里有 Nexus 门户、域名服务、Mavryk Pro 钱包以及多样的 dApp，比如 Maven Finance 和 Equiteez\n\n这种从底层到应用的一体化设计，对 RWA 项目来说是非常领先的\n#Mavryk #KaitoAI",
+      "timestamp": "Aug 29, 2025 · 2:16 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1961251523683565610#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1961050145828778378#m",
+      "content": "我觉得 @GOATRollup 还可以，是不是大毛不好说，但写一下也没损失，反正没门槛\n\n之前想的是跟 @KaitoAI 的合作截至到 12/17，TGE还很久远，但追风哥提醒：可以先 TGE ，后也能继续 yap，所以TGE或许更早\n\n故我准备保持适中频率，写进 3M 榜单应该就稳了，TGE 消息确定后再加大马力也不迟\n\n项目这边，创始人最近还在推特正面回应争议，说明底气不小。更亮眼的是：GOAT 直接拿出 34 BTC 做生态试点基金，已花 2+ BTC 用于社区奖励、流动性池和Gas分成\n\nQ4 还要推一个数千万美元规模的生态开发基金，开放资助、里程碑奖励、长期激励。在比特币 L2 里，这是真金白银的投入\n\n再加上 BTC Yield Dashboard，定位就是满足ETF和机构累积后的原生收益需求。相比一堆只靠通胀代币的L2，GOAT 用 BTC 反哺社区，难怪社区反响积极\n\nGOAT 大使还缺人麻~我想进步！\n#goatrollup #kaitoyaps",
+      "timestamp": "Aug 28, 2025 · 12:56 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1961050145828778378#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1960961936889405571#m",
+      "content": "测试网 @anoma 圆满结束啦，但不会马上TGE，预计 TGE 会在 2025 年 Q4 早期进行\n\n接下来就是主网，官方路线图其主网 rollout 分为三个阶段：\n1️⃣Stage 1 – Ethereum First：主网初步部署，提供稳定 API 接口，支持 Resource Plasma 架构，用于构建意图中心化应用\n\n2️⃣Stage 2 – Expanding to Other Chains：扩展到其他链，实现多链环境\n\n3️⃣Stage 3 – Native Consensus & Token：引入原生共识和原生代币（XAN），用于网络费用、治理等，同时进行 TGE\n\n也就是说，主网在 Stage 1 和 Stage 2 阶段已经上线，但 TGE 只会在 Stage 3 发生\n\n@Shrimpers_nft 的WL 算上 OKX 活动，才发放了600余个，还没有开始大面积发放\n\nDC角色方面，昨天也刚出了GM角色一带五晋升的活动，证明还要持续一小段时间，不会那么快\n\n综上，这是我succinct以来第二个全面参与的项目，各方面都预示着大毛无疑，无论是测试网、DC、Yap，哪个角度参与都能拿到满意的结果\n#Anoma #KAITO",
+      "timestamp": "Aug 28, 2025 · 7:05 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1960961936889405571#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1960869365576032331#m",
+      "content": "冲包括 @MavrykNetwork 在内的任何项目，初期如果没有自信的实力，就是要每天一篇\n\n第一篇可以聊融资、VC、社区奖励，选择项目的原因，这些基本盘，让大家知道项目背景\n\n之后每天写什么？最简单的就是跟着官推走，凡是涉及 TGE、NFT、奖励这种和钱相关的更新，都是最好的内容，再写写新技术、新突破、新合作~\n\n再往下就是链上教程，测试网怎么玩，任务怎么做，图文教程也能帮到新人。就算没新东西，也能翻白皮书，每天拆一点机制和技术写出来，保证素材不断\n\n今天挑一个小点来说：MRC-30\n\n这是 Mavryk Network 专为现实资产打造的代币化标准，可以把房地产、股权、商品甚至比特币矿机切分成可交易份额\n\n资产在链上能实现合规托管、即时结算和二级市场流通，还支持跨境转移。这个设计确实解决了传统资产上链的一大痛点，让参与门槛更低，也让机构和个人都能更高效进入 DeFi 生态\n@KaitoAI #MavrykNetwork #KAITO",
+      "timestamp": "Aug 28, 2025 · 12:57 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1960869365576032331#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1960649742863753671#m",
+      "content": "测试网 @anoma 今天迎来最后一天，我把所有 fiction 都消耗干净了，抽奖还中了个 5 万分红球，算是圆满收官。排名也终于突破 7000 的瓶颈，来到 6750\n\n听说 TGE 在 9 月底，期间可能还有一轮小规模主网测试，真假待定~\n\nDC 这边我凭 40 多篇高浏览推文拿到二级 master 角色（全网1400人左右），今晚 8 点大概率是最后一次贡献日提交，说不定就持续 5 分钟，我也会去冲一下，但对更高级角色晋升没抱太大希望，毕竟上周才升了 3 人\n\n@KaitoAI 这边门槛是 200 yaps，我目前 125，只要够得着门槛，我有信心排在前列，难道要错失NFT+yap大几千刀空投？不，我现在开始努力上进，争取一个月内拿下75yaps\n\n综合来看，如果 Kaito 没能重回榜单，那我也预期能拿到 1000-2500U 的空投~\n#Anoma",
+      "timestamp": "Aug 27, 2025 · 10:25 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1960649742863753671#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1960577977416294747#m",
+      "content": "我我注意到 @HanaNetwork 的 Kaito 门槛是 100 yaps，当前 7D 榜只有七十多人，但奖励覆盖前一千名，这意味着排名很可能先以上榜者优先，再参照长期数据向下补齐\n\nHana 在三月接入 Kaito，下个月TGE，但最终参考 3M、6M 榜单的概率不低，小账户短冲有风险~我现在开始yap，拿个低保就满足了\n\n项目并非刷分游戏，而是把交易与社交打通的移动原生网络，基于 Cosmos SDK，Hanafuda 与 Capsule 将存款和互动转为可复用关系与积分沉淀\n\n代币总量十亿，社区占比过半，其中1.5%配给 Kaito 贡献者，把活跃度与网络安全绑定\n\n对于即将到来的TGE，很多人只关注价格和交易所，但如果仔细看，Hana更大的价值在于它试图成为Web4入口：无KYC的fiat入口、跨链隐私池、以及和Hyperliquid的流动性交集。这种场景落地能力，才是榜单以外更值得观察的地方\n#HanaNetwork #KAITO",
+      "timestamp": "Aug 27, 2025 · 5:39 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1960577977416294747#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1960510586720313372#m",
+      "content": "我目前近期冲锋的重点是 @MavrykNetwork ，不光是还有20天TGE，yap没有门槛限制，而是上Kaito才8天，换句话说基本上所有人在同一起跑线，各凭本事冲排名\n\nyap时间一个月那么肯定是参考30D排名，这个短期可以写进去。不像有的项目上Kaito几个月了，多半看3M 6M早期排名，这种排名很固化，短期想要冲到前排是不可能的\n\nMavryk本身的定位是RWA赛道，把房地产和大宗商品代币化，通过MRC-30标准做合规登记，再接入Maven Finance这种原生DeFi应用\n\n简单讲就是一边和机构签10亿美金级别的代币化协议，一边给零售提供可操作的借贷和抵押场景\n\n它支持fractional ownership，资产不是大块头卖，而是被拆成可流通的份额，天然适合二级市场流转\n\n这点和其他RWA概念项目有明显差别，Mavryk从第一天就强调合规和流动性，配套工具比如Mavryk Wallet和Nexus都已经上线\n\n9月TGE流通比例只有5.6%，剩下靠staking和生态释放，对价格形成一定的护盘效应。我接下来会持续写Mavryk，争取在30D榜单卡到前排\n#Mavryk #KAITO",
+      "timestamp": "Aug 27, 2025 · 1:12 AM UTC",
+      "url": "https://twitter.com/wangy112375/status/1960510586720313372#m",
+      "author": "wangy112375"
+    },
+    {
+      "id": "1960350414567854139#m",
+      "content": "我又准备撸 @MavrykNetwork ，这个项目完全取消了门槛，任何人都能直接 yap\n\n它在 8 月 19 日上线 @KaitoAI，9 月中下旬 TGE，并且已经确认会上 MEXC，短平快\n\n代币总量 1 亿枚 $MVRK ，TGE 时只有 5.6% 流通，其中 0.5% 会分给 yapper\n\n如果 FDV 保守按 1 亿美元估算，单价大约 0.1 美元，那就是 50 万美元，激励金额很多了\n\nMavryk 定位是 RWA 赛道，二月份完成了 520 万美元的 VC 融资，投资方包括 Ghaf Capital 和 Big Brain Holdings\n\n总部设在阿联酋，强调真实资产上链和合规路线。最亮眼的是，他们已经和 Fireblocks 以及 MultiBank Group 签下 100 亿美元奢侈地产代币化协议，这个体量在 RWA 项目里并不常见\n\n从数据上看，他们的测试网已经有超过 1.1 亿笔交易，220 万充值钱包，120 万个合约部署，说明技术层面也有一定落地\n\n链上撸毛的角度是银河+测试网，可以大批量起号，但我觉得还是 yap 最具性价比\n\n这类 RWA 项目资产支撑和合规框架能决定它未来的走向。再加上低流通和交易所确认上市，前景很不错的\n#MavrykNetwork #KaitoAI",
+      "timestamp": "Aug 26, 2025 · 2:35 PM UTC",
+      "url": "https://twitter.com/wangy112375/status/1960350414567854139#m",
+      "author": "wangy112375"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T00:07:48.801Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 28160,
+    "cursorTrail": [
+      "DAAHCgABG3vioC-__-sLAAIAAAATMTk3ODYzNzA3MTkzNTA0MTk4MQgAAwAAAAIAAA",
+      "DAAHCgABG3vioC-__9gLAAIAAAATMTk3Njk1ODQ1NTI0MDkwMDYxNAgAAwAAAAIAAA",
+      "DAAHCgABG3vioC-__8ULAAIAAAATMTk3NTE5Nzc2NjIzNTMyNDYxMggAAwAAAAIAAA",
+      "DAAHCgABG3vioC-__7ILAAIAAAATMTk3MzAzMzk4NzI4MDEzNDUxMwgAAwAAAAIAAA",
+      "DAAHCgABG3vioC-__54LAAIAAAATMTk3MDY3NjE2MTA5MDA4NTA3NwgAAwAAAAIAAA",
+      "DAAHCgABG3vioC-__4oLAAIAAAATMTk2ODQ4Njg5MDM2NzIzMDE2MggAAwAAAAIAAA",
+      "DAAHCgABG3vioC-__3YLAAIAAAATMTk2NjY2ODE1MjY2NzgzNjQ5MQgAAwAAAAIAAA",
+      "DAAHCgABG3vioC-__2ILAAIAAAATMTk2NDkzNTI2Mzg5NTA2NDcyOAgAAwAAAAIAAA",
+      "DAAHCgABG3vioC-__08LAAIAAAATMTk2MzIzMDM1NDEyNDUxMzY4OQgAAwAAAAIAAA",
+      "DAAHCgABG3vioC-__zwLAAIAAAATMTk2MDk2MTkzNjg4OTQwNTU3MQgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

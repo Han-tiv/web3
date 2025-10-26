@@ -1,0 +1,27 @@
+{
+  "question": "为什么 `sequential-thinking` MCP 命令在当前环境中返回 `command not found`，以及 Codex CLI 启动时的超时如何消除？",
+  "analysis_timestamp": "2025-10-20T15:12:48Z",
+  "evidence": [
+    {
+      "path": "shell:sequential-thinking",
+      "snippet": "bash: line 1: sequential-thinking: command not found",
+      "insight": "直接调用 `sequential-thinking` 别名失败，证明系统 PATH 缺少同名可执行文件。"
+    },
+    {
+      "path": "~/.codex/log/codex-tui.log",
+      "snippet": "2025-10-20T13:39:56.424085Z ERROR MCP client for `sequential-thinking` failed to start: request timed out",
+      "insight": "Codex CLI 最近一次尝试启动 sequential-thinking 时超时，可能因首次下载 npm 包耗时或缺少缓存。"
+    },
+    {
+      "path": "shell:npx -y @modelcontextprotocol/server-sequential-thinking --help",
+      "snippet": "Sequential Thinking MCP Server running on stdio",
+      "insight": "通过 npx 可以成功启动服务器，说明依赖存在；问题在于缺失别名或需要预热缓存。"
+    }
+  ],
+  "preliminary_conclusion": "CLI 启动阶段因缺乏 npx 缓存导致超时，且本地未创建 `sequential-thinking` 可执行别名。手动执行 npx 后可正常运行，说明预热缓存或添加 shell 脚本别名即可解决。",
+  "follow_up_actions": [
+    "在初始化脚本中执行一次 `npx -y @modelcontextprotocol/server-sequential-thinking --help` 以预热 npm 缓存，缩短启动时间。",
+    "可选：在 `~/bin` 或项目脚本目录创建 `sequential-thinking` 包装脚本，内部转发到 npx 命令，便于遵循规范直接调用。",
+    "监控后续 `codex-tui.log`，确认后续启动不再出现 `request timed out`。"
+  ]
+}

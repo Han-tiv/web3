@@ -1,0 +1,2186 @@
+# aiko/acc (@0xAikoDai)
+
+- 抓取时间：2025-10-20T23:26:41.776Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：27662 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：11
+- 抓取尝试：1
+- Cursor 链：10 条
+- 账号统计：粉丝 18962，关注 2968，推文 3282，点赞 6692
+- 所在地：perpetually online
+- 站外链接：https://t.co/JJW48cuzXp
+- Twitter：https://twitter.com/0xAikoDai
+- 头像：https://pbs.twimg.com/profile_images/1958024342966784000/JhsuEUJF_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1266356165270581248/1637714568
+- 认证：Blue Verified
+
+> 账号简介：
+> AI @myshell_ai. Partner @FoliusVentures. Opinions are my own. DM's open.
+
+---
+
+## 1. Feb 27, 2025 · 7:34 PM UTC · 1895195776768520244#m
+- 链接：https://twitter.com/0xAikoDai/status/1895195776768520244#m
+- 作者：@0xAikoDai
+
+> This journey has been truly worthwhile. From my first industry report that garnered hundreds of thousands of likes and shares when I started in Crypto 3 years ago, to where I am now, I've worked harder and persevered more than anyone. I'm genuinely happy and have no regrets about how I've spent my early twenties.
+> Builders keep building. 不虚此行。
+
+## 2. Oct 14, 2025 · 5:06 PM UTC · 1978145424625045643#m
+- 链接：https://twitter.com/0xAikoDai/status/1978145424625045643#m
+- 作者：@0xAikoDai
+
+> ai时代各种方法论也变得非常显学，因为一切都是营销手段，上半年拿到的结果，年中就经由创始人或者公司内部各种人设陆续传授出来，美滋滋。
+
+## 3. Oct 14, 2025 · 4:55 PM UTC · 1978142586125812213#m
+- 链接：https://twitter.com/0xAikoDai/status/1978142586125812213#m
+- 作者：@0xAikoDai
+
+> 我从大学开始就喜欢在互联网上自学各种东西，到现在依然乐此不疲。只要跳出推特时间线的信息茧房，就会发现互联网上到处都是优质信息，像掉在地上的钱没人捡。
+> 前段时间在一个只有两千人关注的小频道里第一次看见并学会了用AI搭建自动化业务评估系统（减少了back & forth的review&提意见时间，输出结果完全符合要求与审美），现在已经在公司里用起来了；刚刚又发现一个非常干的线下演讲视频，信息密度大到拍手叫好，结果一看浏览量全世界只有118个人看过。
+
+## 4. Oct 13, 2025 · 4:07 PM UTC · 1977768177611460696#m
+- 链接：https://twitter.com/0xAikoDai/status/1977768177611460696#m
+- 作者：@0xAikoDai
+
+> 揭秘Lovable：1亿ARR背后 “榜单驱动” 的增长模型
+>  
+> 前段时间我在研究 no-code 类 AI 产品的增长方法时，重点关注了 Lovable。Lovable是一款无代码AI快速生成网页的产品，发布后 8 个月突破1亿美元ARR，从第一次 1M 到 100M，仅用极短时间。活跃用户230万，日构建项目数100,000 个，累计项目总数突破千万级别。
+>  
+> 起初也是从常规的 PLG / 非 PLG 角度入手，结论无非是“小团队 + 快速迭代 + 产品驱动增长”——这些几乎是每个成功产品都会有的共性。
+>  
+> 但随着研究的深入，我发现一件非常反直觉的事：
+> Lovable 的创始人在访谈中提到，社区建设不会放在早期优先级。
+> 然而在这样的情况下，他们的生态却异常活跃，
+> 不仅用户自发产出大量作品，甚至有开发者冲上 Product Hunt 榜首。
+>  
+> 这让我开始好奇：既然 Lovable 不靠社区驱动，他们早期的用户增长和活跃生态到底是怎么实现的？
+>  
+> 答案是“榜单驱动”。
+>  
+> 1）团队用 Lovable 自己的产品，搭建了一个Leaderboard （名为Builder Hall of Fame）和一个类似Product Launch的聚合展示平台（Lauched）。
+> 用户可以提交自己用 Lovable 构建的项目，上榜、投票、领奖励。每周前几名会获得曝光、资源或奖金。
+> 这种方式的好处是：用户既能获得展示 / 认可，也因此参与传播。这比让用户"在社区发帖子 / 问答"要更直接、更具驱动力。
+>  
+> 2）辅之以自动化分发与多平台曝光放大
+> Lovable 生态的用户作品多次通过 Product Hunt Launch，借助公域平台流量放大用户的作品；
+> 每个项目都自动生成独立展示页，可分享、可检索；
+> 同时与 Figma import、即时建站工具结合，让“展示”这件事几乎零人工成本。
+> 用户提交作品的同时，也在帮 Lovable 做分发。展示 = 曝光 = 拉新，完成了一个无缝闭环。
+>  
+> 与传统的社区构建方式不同，Lovable 并没有依赖社群聊天或人际互动来维系用户关系，没有把运营重心放在Discord或Reddit服务器，而是以"作品榜单 + 数据反馈"塑造了一种更纯粹的竞争性社交。
+>  
+> 用户之间的连接不靠"交流"，而靠"作品"。
+> 榜单、点赞、排名、奖励等数据化反馈，不仅带来被认可的快感，也促使用户反思和优化自己的作品，从而与更多创作者产生更有质量的交流。
+>  
+> Lovable 巧妙地抓住了这一点，在几乎没有重度人工运营的情况下，用“作品—榜单—反馈—传播”这一条完整闭环，奠定了早期活跃的生态，通过各方渠道和媒体放大的复利效应实现爆炸式增长。
+
+## 5. Oct 10, 2025 · 2:05 AM UTC · 1976469113154437382#m
+- 链接：https://twitter.com/0xAikoDai/status/1976469113154437382#m
+- 作者：@0xAikoDai
+
+> 震撼内容人，一姐还是太权威了
+
+## 6. Oct 4, 2025 · 12:39 PM UTC · 1974454222050755071#m
+- 链接：https://twitter.com/0xAikoDai/status/1974454222050755071#m
+- 作者：@0xAikoDai
+
+> 漂洋过海一个月终于收到了BNB @BNBCHAIN 五周年礼盒！超级感谢九九@cain_bnb 每天问一遍帮我追快递🥹🥹🥹就像BNB一样使命必达～
+> 再次恭喜BNB ATH！
+
+## 7. Sep 23, 2025 · 6:35 AM UTC · 1970376582788456891#m
+- 链接：https://twitter.com/0xAikoDai/status/1970376582788456891#m
+- 作者：@0xAikoDai
+
+> 把GPT给我整理的单词本输入到notebookLM之后生成的AI日语教学视频下载到手机上，然后带到去健身房看了。。这种生活好像很正常却又透露着些许赛博的诡异，这个叙事开头还应该用上今早看到的“AI纪年法”：GPT5发布后46天，我......
+
+## 8. Sep 18, 2025 · 6:07 AM UTC · 1968557472068874334#m
+- 链接：https://twitter.com/0xAikoDai/status/1968557472068874334#m
+- 作者：@0xAikoDai
+
+> 今天知道一个新的招聘概念叫“player-coach”，才意识到我一直都是用player-coach的标准做hiring的。
+>  
+> 类似球场上既参与比赛又进行指点的角色：工作当中player coach可能也要去开会，可能也要写代码，可以对team进行建议。
+>  
+> 既有leadership capability可以边成长边mentor，也有technical capability做出重要决策。
+>  
+> 过去大公司喜欢让manager只管人、让 IC 只管做事，而“player-coach”意味着leader必须持续亲自下场做产出——比如写代码、修 bug、亲自上线新功能、做用户访谈等。
+>  
+> 招聘流程也跟我才用的一样：先自己做一遍，知道标准和门道，然后再招能带队+能做的人。
+>  
+> 那么如何找到这样的人呢？
+> Gamma创始人说他们有三个月的trail（时间非常长，主持人都惊了），把candidates当作自己团队的人，让他们0-1 own一件事情，看他们如何展示leadership和动手能力。
+>  
+> 回头看我之前招的很多重要岗位候选人都一个月内就fail在这件事上，这也是我后来不招大厂管人的小leader和没结果小公司的c-level的原因。只会做manager不会做player，或者只会做player而没有一点mentor能力的人都很快不再合作了。
+>  
+> 反复招聘-解雇还担心会太麻烦hr，但其实如果早点采用3-month trail机制就能很好地解决（当然前提是你可以一直做那个擦屁股的人）。
+>  
+> 如果今天没学到player-coach这个概念，我想我还会在“我是不是要求太严格”或者“如果不维护一个只会做player的老员工就是不够仁慈”的内疚当中纠结吧。
+
+## 9. Sep 16, 2025 · 4:36 AM UTC · 1967809849733079507#m
+- 链接：https://twitter.com/0xAikoDai/status/1967809849733079507#m
+- 作者：@0xAikoDai
+
+> 上周三（9月10日）我们发布了一篇与 Nano Banana 的对比报告，直接点燃了行业里“xx vs Nano Banana”的AI生图品牌营销大战：
+>  
+> 两天后，LoveArt 开始大规模砸广告，主打“整合Nano Banana”，同时密集铺开 KOL 测评；
+> 而即梦则在周五+周末加码，全面推广 Seedream 4.0，并且在各种场景里直接 vs Nano Banana 横向对比。
+>  
+> 作为亲历者，虽然因为动作快躲过了营销大战，但这次“vs Nano Banana”让我第一次切实感受到 LoveArt 初创重金投放 + 即梦步步紧逼的压迫感。
+>  
+> 几点感想：
+> 1. 叙事要当 First mover。
+> 我们在 9.3 就已经完成准备，把卖点和对比框架提前铺好。等热度爆发时，别人还在准备广告投放，我们已经吃到第一波流量红利。比起事后跟进，先声夺人+设定叙事节奏才是性价比最高的打法。
+>  
+> 2. 初创要避开硬碰硬。
+> LoveArt vs 即梦看起来热闹，但背后是资源的硬耗。两家全网投放平均近 200 条广告/测评，已经是全球顶配级别的预算，功能也都主打广告/设计。对即梦来说可能不算什么，但 LoveArt 的压力可想而知。初创团队如果在重要营销节点和大厂撞车，极容易陷入“烧预算、回报难成正比”的陷阱。更戏剧性的是，即使初心不是硬碰硬，即梦上线了agent功能后，舆论甚至出现了“LoveArt 被即梦背刺”的声音。
+>  
+> 3. 生图市场正在被快速标准化，需要快速找到niche。
+> 当对比维度已经固定在“细节还原 / 色彩自然度 / 一键设计”等这些点时，如果没有独特 niche，很难突围。MyShell 的优势在于有创作者社区，走的是 to D → 再反哺 C 的飞轮路径；
+> 即梦背靠字节大厂的资源和渠道，含着金汤匙出生，不必多说；
+> 而独立 agent 产品往往强调 personalization，和用户是点对点关系，难以沉淀社区和粘性。典型例子：我一个月前还极力推荐 Manus，但如今已被弃用。
+>  
+> 在这种竞速市场，叙事起点 > 后续火力；资源有限的团队必须取巧，找到属于自己的 niche；真正能留下来的不是单点炫技，而是能自我造血、形成社区的生态。
+
+## 10. Sep 15, 2025 · 1:35 PM UTC · 1967583081071890603#m
+- 链接：https://twitter.com/0xAikoDai/status/1967583081071890603#m
+- 作者：@0xAikoDai
+
+> Aiko is a great marketer from heart. She turns my visionary yet jargon-packed, full of business and technical details, 10-page long, used more than 20 analogies research doc into something general audience wants to click in and leaves with a good memory.
+
+## 11. Sep 13, 2025 · 2:40 PM UTC · 1966874658680303880#m
+- 链接：https://twitter.com/0xAikoDai/status/1966874658680303880#m
+- 作者：@0xAikoDai
+
+> we grew from zero to $50M ARR in <2 years, profitably
+> i've never publicly shared our tactics before
+> it's cost us over $5M to learn what I'm about to share
+>  
+> 800-word long post on every growth hack that printed money for us
+>  
+> I'll cover:
+> 1. Influencer Marketing
+> 2. Performance Marketing vs Brand
+> 3. User Testing
+> 4. Dogfooding
+>  
+> 0-10M was nearly 100% word of mouth and organic content
+>  
+> 10-50M was still >50% word of mouth but influencer, affiliate, and referral made up the other half
+>  
+> But the foundation we set from 0-$10M is what allowed us to blaze past $50M
+>  
+> 1. Influencer Marketing 101:
+>  
+> 90% of your reach comes from <10% of content that goes viral. Your job: go broad with influencers and spend enough to find that 10% of content and formats that work. Virality is no accident - test and discover hooks, visuals, formats for each platform, understand why they work, and replicate 100x across your influencer roster.
+>  
+> Most startups get three things wrong:
+> 1 - Too small budget
+> 2 - Overly selective on creators and messaging
+> 3 - Give up too early
+> Start with $10-20k/month, commit to 6 months minimum. This lets you experiment with many micro influencers and lets you test many concepts.
+>  
+> - List creator personas with audiences that care about your product. Be exhaustive. Influencer outreach is time-consuming. Work with a freelancer or agency if you don't have a team. DM me for recommendations.
+>  
+> - Offer base + viral bonus. For TikTok, have them start new accounts. New accounts can get as many views as established ones. But on new accounts creators are unburdened by their brand and can try any format.
+>  
+> - Test across all platforms (TikTok, IG, X, LinkedIn work for most B2B/prosumer apps).
+>  
+> - Track specific creators and hooks that outperform, not just channels.
+>  
+> - Add 'How did you hear about us' to onboarding. Calculate which channels drive leads vs just views.
+>  
+> - Compile every asset, video or hook that works into a guide. Once you have 20-30 winning formats, hire your top creators as consultants to train all other influencers on what angles go viral for you and why.
+>  
+> - Never write scripts - it becomes an ad no one watches.
+> Creators know their audience best.
+>  
+> 2. Invest in brand before performance marketing
+>  
+> Most startups are not prepared to scale their spend because their brand and creative sucks. We had to go through an extremely expensive rebrand (both in terms of time and dollars spent) to land on something we loved. But it would have been much more expensive to skip this step.
+>  
+> Be relentless about testing a wide range of creatives. Whatever number of creatives you're thinking of testing, 10x it. Be bold. See what moves the needle (CAC payback, conversion rates, LTV and retention).
+>  
+> Once you see a particular use case resonating, build a whole funnel around it with symmetric messaging. You don’t want to confuse visitors by showing them an ad with one value prop and then drop them on to a landing page with a completely different message.
+>  
+> 3. Get users to test prototypes before you ship.
+>  
+> This seems trivial, but saves you from the worst startup mistake - misdirected product development.
+>  
+> Most startups think experimentation is for mature companies improving their funnel by 1% through a/b testing. But Gamma's founding team is early Optimizely folks. Experimentation is in our DNA.
+>  
+> We ran extensive user testing on platforms like voicepanel and usertesting
+>  
+> a. Recruited random people who make slide decks for work. They have no skin in the game and won't lie to be nice.
+>  
+> b. Showed them prototypes with minimal instructions and let them spend a few minutes trying things out.
+>  
+> c. Asked them to think out loud. The words they use to navigate, their expectations, where they get confused is gold. Combining their voice + screen actions amplifies things 10x. You really feel the pain of poor UX and overcomplicated copy.
+>  
+> Did this for everything - landing pages, onboarding, new features, moonshot concepts.
+>  
+> Always test your biggest assumptions about what people will get or like. Identify major blind spots in your prototype stage, not at the end.
+>  
+> Ship once you have hours of testing proof that ordinary people find it easy and useful.
+>  
+> 4. Dogfood the hell out of your product
+>  
+> Either you build something that's 100x better than alternatives, or you build something else. Dogfooding makes it painfully obvious if your product isn't a 100x better.
+>  
+> Storytime: When we started Gamma, we had two competing ideas -
+> Idea 1:  a virtual office to capture in-person magic
+> Idea 2:  reimagining PowerPoint from the ground up (This became Gamma)
+>  
+> After 6 months of building and dogfooding both of them in parallel, we had a clear winner.
+>  
+> It wasn't about metrics or hard data.
+>  
+> With a virtual office, we were always competing against IRL and could never replace the magic of being together in person.
+>  
+> With the reimagined PowerPoint, we could imagine a product 100x better than the alternative.
+>  
+> Any startup can learn from our playbook.
+> I really hope they do.
+
+## 12. Sep 9, 2025 · 7:07 AM UTC · 1965311028293763411#m
+- 链接：https://twitter.com/0xAikoDai/status/1965311028293763411#m
+- 作者：@0xAikoDai
+
+> x.com/i/article/196529917735…
+
+## 13. Sep 8, 2025 · 7:27 AM UTC · 1964953730463478021#m
+- 链接：https://twitter.com/0xAikoDai/status/1964953730463478021#m
+- 作者：@0xAikoDai
+
+> 张小珺在访谈里问了杨植麟一个问题：
+> 你们最终是要做通用大模型而不是coding模型对吧？
+>  
+> 这个问题更深层反映出来的是现在用户对一个新AI产品，
+> 包括所有大模型和agent或其他产品形态在内的使用，迁移，直到形成习惯的界限，
+> 其实是很模糊的。
+>  
+> 往往一个垂类的卓越表现会吸引到用户，
+> 而泛化/通用能力达到60分则能够粘住用户。
+> 这一点在我使用perplexity和GPT的时候感觉尤为明显：
+> perplexity在市场调研能力（速度上）比chatGPT好；
+> 而在google邮箱里的搜索/撰写等实用表现比google自家的Gemini好。
+>  
+> 正是在一次次偶然对比性任务里perplexity的表现比其他通用大模型都好，让我使用它的频率一次次增加。
+>  
+> 做其他AI产品也是一样的：
+> 模型or非模型的讨论在我看来是有点过时，
+> 或者至少不是一线builder在思考的问题。
+> 思考的一定是切入点，黏性点。
+> 小问题小场景逐个击破，农村包围城市，perplexity也可以比GPT和Gemini更好用。
+
+## 14. Sep 8, 2025 · 6:15 AM UTC · 1964935631135801532#m
+- 链接：https://twitter.com/0xAikoDai/status/1964935631135801532#m
+- 作者：@0xAikoDai
+
+> Hope to share our good news of AI commercialization very soon 🤌
+
+## 15. Sep 8, 2025 · 12:38 AM UTC · 1964850697326973329#m
+- 链接：https://twitter.com/0xAikoDai/status/1964850697326973329#m
+- 作者：@0xAikoDai
+
+> ThumbMaker gets a major upgrade—the latest Banana model delivers even higher CTR!
+> Two new pro modes added:
+> Portrait Mode: Data shows that authentic, emotionally engaging appearances of the creator can strongly resonate with viewers and boost CTR.
+>  
+> Variant Mode: Experiments prove that effective A/B testing is key to understanding audience preferences and further increasing CTR.
+>  
+> 👉：app.myshell.ai/bot/u6ve63/17…
+
+## 16. Sep 7, 2025 · 6:57 AM UTC · 1964583747778682908#m
+- 链接：https://twitter.com/0xAikoDai/status/1964583747778682908#m
+- 作者：@0xAikoDai
+
+> 怎么感觉 Mulerun 整的都是 MyShell 整过的这些， 略失望，好歹背靠 N8N 能不能整点大活啊 @阿里
+
+## 17. Sep 5, 2025 · 3:00 AM UTC · 1963799467985191164#m
+- 链接：https://twitter.com/0xAikoDai/status/1963799467985191164#m
+- 作者：@0xAikoDai
+
+> 支持下姐妹家的新产品
+
+## 18. Sep 4, 2025 · 6:49 AM UTC · 1963494627299749930#m
+- 链接：https://twitter.com/0xAikoDai/status/1963494627299749930#m
+- 作者：@0xAikoDai
+
+> 最适合做小红书图文的agent出现在了俺们自家产品上
+
+## 19. Sep 3, 2025 · 3:47 PM UTC · 1963267688240930891#m
+- 链接：https://twitter.com/0xAikoDai/status/1963267688240930891#m
+- 作者：@0xAikoDai
+
+> 发现最近很多大学同学和mutual friend都到了AI行业背了kpi，好像两三年前的AI公司到现在都集中到了一个需要业务结果的阶段，所以最近收到很多关于AI gtm的咨询。一方面觉得自己在调频，之前做web3的时候没有人知道我在做什么，一个人靠写推特闯下来，现在终于有一些peers崭露头角；另一方面觉得赛道逐渐拥挤，很多后起之秀，但大浪淘沙，别人没打过你打过的仗，做自己就是最大的竞争力。两年时间经历了三次模型发布，无数次AI产品发布，到现在才知道是个多大的edge。
+
+## 20. Sep 3, 2025 · 11:44 AM UTC · 1963206381135360148#m
+- 链接：https://twitter.com/0xAikoDai/status/1963206381135360148#m
+- 作者：@0xAikoDai
+
+> 终于理解为什么有人会写书了，因为一件很难的事情你教给不同的人10次以上，解构得只剩步骤了，然后发现对方学个七八成拍拍屁股走人的时候就想写书了。
+
+## 21. Aug 26, 2025 · 12:37 PM UTC · 1960320786138640863#m
+- 链接：https://twitter.com/0xAikoDai/status/1960320786138640863#m
+- 作者：@0xAikoDai
+
+> 月均AI产品消费$500，盘点一下我付费后弃用的AI产品：
+>  
+> - Claude（短时间文字能力亮眼，高强度使用后被GPT替代）
+> - Deepseek（同上）
+> - Manus（Deep Research）
+> - Cursor（Composer时期）
+> - Lovable（做app）
+> - Macaron（同上）
+> - Readwise（笔记产品，不知道如何处理一堆摘抄的网页文案遂放弃续费）
+>  
+> 一直付费并且会持续使用的产品：
+> - ChatGPT
+> - Perplexity（Comet
+> - Quill（有在付费但依赖低，更多是备份和习惯）
+>  
+> 虽然到头来取消订阅的很多，但建议大家有条件可以多充值体验AI产品，不是鼓励乱消费，而是：
+>  
+> 1. 一分钱一分货，深度体验才能摸到产品的上限，最快的响应速度，最优的推理和答案，最深度超前的交互方式；免费版其实公司会在很多隐性的地方压缩成本和表现，让你产生“AI”很笨很慢不信任的想法（长期是有毒的，不利于好的人机关系构建）。
+>  
+> 2. 做产品的人在付费的过程中自己会有体会，什么时候我产生了依赖，付费点设在哪里（app生成类产品付费最多失望也最多），什么时候会弃用；能给自己做产品带来很多启发，例如将三轮对话后的app完整度作为一个北极星指标。
+>  
+> 3. 买AI其实是买特权。之前看我们团队工程师同时开6个cursor写代码，听朋友创业借100台显卡跑coding agent，我一个不写代码也根本用不起来coding agent的人很羡慕他们能深度地攫取AI的智力资源，物尽其用，这也导致我在app和web产品上浪费了很多钱，因为一直想找能重度花费➕高回报率高杠杆的AI产品，然后花费最多的居然是Perplexity的Comet。
+>  
+> AI是生产力革命，这些花费其实在追求大结果的过程中不值一提。我见过什么都不信只信AI的朋友；也见过年收很高却每天等GPT免费额度的朋友。新人类和旧人类的差距正在被拉开，有条件的话绝对不要吝啬在AI上的开销。
+
+## 22. Aug 22, 2025 · 7:09 AM UTC · 1958788624482542039#m
+- 链接：https://twitter.com/0xAikoDai/status/1958788624482542039#m
+- 作者：@0xAikoDai
+
+> 为什么马卡龙被骂得这么惨？
+>  
+> 我个人做app觉得马卡龙的结果完成度比v0好一些，甚至还充了一个月会员鼓励，后来发现公众号标题越来越不对劲，今天很多博主出来说马卡龙是agent行业冥灯了，所以做如下思考：
+>  
+> 1）对“一刀切”营销手法的反抗。
+> 在To B时代，做大客户靠的是“打品牌+不出错”，所以满屏“颠覆”“革命”大家还能接受，对大公司而言是战略叙事。但当一个startup也喊出“超越扎克伯格”这种口号，的确是过度包装了。
+> 其实马卡龙的定位并不差，personal agent加上人文关怀的角度也挺好。但营销一上来就拉满，反而触发了用户的逆反心理。再叠加近半年各种真假参半的AI产品横飞，消耗了大量用户的精力。像我这样愿意花1–3小时亲自体验每款新产品的重度用户，几次失望之后情绪自然集中爆发。
+>  
+> 2）市场还在“大而全产品”到to c小精品的过渡期。
+> 目前用户只愿意接受两类创新：要么是deepseek这种“国运级”突破，要么是大科技公司的重大更新。连Manus这样的产品都会被挑刺（自媒体/用户的鄙视链和偏见比builder强无数倍），更别说初创公司了。
+> 但现实是，很多在2023年拿到VC资金的团队，到2025年终于推出第一代To C产品，不可避免要面对市场和用户的严刑拷。
+> 类比游戏行业，早期玩家只认“大作”，但随着市场成熟，逐渐细分出MOBA、FPS、JRPG等品类，甚至出现了独立游戏这种小作坊生意。长期来看，To C产品无法提供统一标准的体验，但会带来源源不断的创新。标准的缺失只能靠分类细化去解决，而不是一刀切的批判。
+> AI To C产品也是一样：它既会有基建型“大作”，也会有小而美的独立精品。市场必须接受这种并存格局，才算真正进入成熟期。
+
+## 23. Aug 20, 2025 · 8:04 AM UTC · 1958077546517713127#m
+- 链接：https://twitter.com/0xAikoDai/status/1958077546517713127#m
+- 作者：@0xAikoDai
+
+> 现在的会议笔记app太好用了，英文作为第一工作语言（母语）的优势还在持续放大，quill这么好用的产品对中文的识别已经很强了，但输出的结果全部都是英文；granola这种产品被捧到天上但是中文会议完全识别不了。
+>  
+> 翻了一下最近quill写的会议记录，给你列todo是最基本的，还一键分享给同事（能精确到什么人名需要对应知道什么内容），一键总结你的or对方的全部观点（在我向说话者学习的时候非常有用，因为我的话基本上都是引导性/共鸣性/share opinion撑场面用的）。希望也尽快用上中文原生的好用产品🥹
+
+## 24. Aug 20, 2025 · 3:15 AM UTC · 1958004866233823495#m
+- 链接：https://twitter.com/0xAikoDai/status/1958004866233823495#m
+- 作者：@0xAikoDai
+
+> 多花时间给AI，少花时间给人。
+>  
+> 我司最近又新招了一些实习生，带教他们的流程其实早已固定。我们常常觉得给AI打字太麻烦，吝啬在AI身上花的时间，但又能心甘情愿地打20分钟电话给同事，去articulate一个新的task。
+> 但事实上，电话和这条帖子里给AI的context并无二致：告诉ta什么是好的信息源，明确任务目标，交代我想要的输出架构（表格or研报）等。
+> 用好大模型是当下最深的一门学问。连我这种自以为很会用AI的人也必须不断学习。感慨自己在仍需大量人力的阶段，打磨出了管理团队的方法，也学会了不少与人相处的术与道，只是肉眼可见这样需要大规模manage人的场景会越来会少了。
+
+## 25. Aug 18, 2025 · 5:17 AM UTC · 1957310986106663402#m
+- 链接：https://twitter.com/0xAikoDai/status/1957310986106663402#m
+- 作者：@0xAikoDai
+
+> 用了 Macaron觉得 text-to-agent AI 还是道阻且长，但如果能实现真的很美好。如果说 v0 距离我的需求差 80%，那么 Macaron 只差 30% 了。
+> 如果真的能做到一句话生成 app，替代 GPT 侧边栏的文件夹，且同时具备GUI和LUI，能明确知道自己的用户是可以描述清楚需求，用AI服务于自己精准需求的普通人，而不是找PMF自嗨的产品经理，我一定会非常愿意长期使用。
+> （已经给 Macaron 充了一个月会员，鼓励一下。）
+
+## 26. Aug 12, 2025 · 3:28 PM UTC · 1955290235430113681#m
+- 链接：https://twitter.com/0xAikoDai/status/1955290235430113681#m
+- 作者：@0xAikoDai
+
+> AI时代强自驱力者应该如何自处？
+>  
+> 第一是竭尽全力让AI为我所用地学习。除了我之前感受到的写作速度是之前的十倍之外（2023年写一篇blog要两天，现在一篇二十分钟），最近用多邻国搭配GPT背日语单词和对话学习速度也直接double了，像大脑直接扩容了。
+> “为我所用”的对立面就是为了装样子而学，为了比过别人而学，为了赶时髦或一种不被落下的感觉而学（我之前也有这种毛病）。但现在就是学知识最好的时代，先武装自己的头脑，提升soft skill，也把自己训练出凡事跟AI并行的惯性。
+>  
+> 第二是做个人IP，一个人的个人特色从未如此重要，“做自己”才是人生唯一正解的含义在AI时代的语境下又上升了一个维度。往小了说是性格，兴趣爱好，穿着打扮；往大了说是人格魅力。
+> 信息和知识爆炸的大背景下，不适合走谆谆教诲路线，专家路线也很快会行不通（也是说给做内容的我自己听的），organic的个人成长轨迹，非主流的经历和选择才是值得分享的。
+>  
+> 学习➕个人IP，无限放大自己的特质被人记住，除此之外都是梦幻泡影。
+
+## 27. Aug 12, 2025 · 3:59 AM UTC · 1955116798208250336#m
+- 链接：https://twitter.com/0xAikoDai/status/1955116798208250336#m
+- 作者：@0xAikoDai
+
+> 看着它们争相在我面前表现的样子，颇有种当赛博地主的快感。 @v0 @myshell_ai (youware因为生成backend要收费而且只能做4个已经被踢出比赛了）
+
+## 28. Aug 12, 2025 · 3:06 AM UTC · 1955103610859294728#m
+- 链接：https://twitter.com/0xAikoDai/status/1955103610859294728#m
+- 作者：@0xAikoDai
+
+> 上周发的文章重新打磨了一下观点：过去两年，AI to C 产品在技术上迭代飞快，但有种强烈的感觉：技术马上就不是唯一的胜负手，Sales 的重要性正在快速上升。
+> 借助“AI Note-taking”这个垂直且快速演变的赛道产品能清楚看到这个趋势。
+>  
+> 1️⃣第一代：功能即卖点（AI plugins）
+> 第一代产品其实就是在现有工具上快速加个 AI 插件，提供转录+总结功能。但技术局限明显——转录错误多，无法自我纠错，AI summarize功能极差。 这类产品几乎不需要复杂的销售，产品一上线就能靠功能新鲜感吸引用户下载。
+>  
+> 2️⃣第二代：体验升级，开始抢心智
+> 像 Descript、Fireflies 这样的第二代产品，把功能做得更重、更全：多模态整合（视频、音频、文字）；自动纠错；更完善的AI总结功能。这类月访问量在 100万到400 万左右，说明已经培育出稳定的使用习惯。 但代价是功能模块越开发越冗杂，体验越堆越差。 这类产品销售时靠的是与AI能力强绑定➕抢占心智，不需要过分努力只需要比第一代更专业，AI特质更突出即可。
+>  
+> 3️⃣第三代：人机协作，更个性化
+> 第三代产品（Granola、Quill）更注重和用户的协作，围绕“用户关注什么”来做记录。 例如，你先写下要点，AI 再基于这些要点生成总结。 这种方式更贴近个人需求，个性化程度高。
+> 我自己的体验下来： Quill 更灵活，支持多语言、多场景（包括电话、YouTube），重视原始转录。 Granola 偏重人主导的摘要，但语言切换弱。 这一代产品，功能差异开始变得细腻，技术创新对普通用户不再显性，而需要切入一个深度场景，让用户深度享受使用过程。
+> 这类产品的月访问在10-20万之间，可见还有许多增长空间。
+>  
+> 为什么 Sales 变得越来越重要？
+> 随着 AI To C 产品成熟：
+> - 切换成本高：笔记、文档、历史数据都沉淀在一个工具里，或者习惯了某个旧产品的工作流，新产品出现也不愿意换。
+> - 技术差距小：大模型能力溢出，下半场比的是用户感知和体验。
+>  
+> 在这样的环境下，铺天盖地的广告和网红带货很难真正带来长期用户。我也会下载那些营销预算大的“爆款”，但很快弃用，因为它没法融入日常工作流。 真正用过产品、理解产品的人会变得重要：让用户看到场景、建立信任、成为留存和转化的关键。
+
+## 29. Aug 11, 2025 · 10:10 AM UTC · 1954847954722070771#m
+- 链接：https://twitter.com/0xAikoDai/status/1954847954722070771#m
+- 作者：@0xAikoDai
+
+> 这篇文章总结了我对GPT5的初步使用体验以及对OpenAI为App“让位”的思考，说实话刚开始用5打磨文本非常不习惯，瞬间也为5失去了4o的情绪价值而失落，但5也的确帮我完成了许多在4o那里不太可能完成的任务，例如对高精度长文本的处理能力和记忆力。
+> （另外最近开始重新写blog才发现有了AI之后写文章速度变得非常快，我的blog更新还停留在2024年年初；上一篇X article和这篇分别耗时20分钟，可以放更多时间在学习和体验上了～）
+
+## 30. Aug 11, 2025 · 10:04 AM UTC · 1954846434085539862#m
+- 链接：https://twitter.com/0xAikoDai/status/1954846434085539862#m
+- 作者：@0xAikoDai
+
+> x.com/i/article/195484557120…
+
+## 31. Aug 1, 2025 · 12:10 PM UTC · 1951254127478218897#m
+- 链接：https://twitter.com/0xAikoDai/status/1951254127478218897#m
+- 作者：@0xAikoDai
+
+> x.com/i/article/195125340223…
+
+## 32. Jul 31, 2025 · 11:56 AM UTC · 1950888298521710631#m
+- 链接：https://twitter.com/0xAikoDai/status/1950888298521710631#m
+- 作者：@0xAikoDai
+
+> Recently, I’ve realized that the time I spend using ChatGPT on my phone has become almost as much as my time spent on work tools like Slack and Google Meet. When you add in the time I use on my PC and for deep research, ChatGPT has become as deeply integrated into my life as WeChat and Twitter.
+>  
+> It's no longer just a work tool; it plays an increasingly important role in enhancing the quality of my life. So today, I want to share three personal experiences to explain why I believe AI is the best tool for self-exploration, and how we should guide it with a fundamental logic to make it serve us better.
+>  
+> open.substack.com/pub/aiko/p…
+
+## 33. Jul 29, 2025 · 8:53 AM UTC · 1950117558834655477#m
+- 链接：https://twitter.com/0xAikoDai/status/1950117558834655477#m
+- 作者：@0xAikoDai
+
+> 最近 AI Agent产品果然是百花齐放。
+>  
+> 两年前在 Twitter（现在叫 X ）上推荐过myshell(.)ai。
+>  
+> 当时用它做了一个英语对话机器人。
+>  
+> 两年后他们推出了 ShellAgent 2.0
+>  
+> 前几天测试，分享几个案例
+
+## 34. Jul 30, 2025 · 8:57 AM UTC · 1950480895863034280#m
+- 链接：https://twitter.com/0xAikoDai/status/1950480895863034280#m
+- 作者：@0xAikoDai
+
+> 最近在试用 Particle News @particle_news，重新思考了 LLM 在交易信息流场景里的价值和边界。Particle是一款非常精致的 AI 新闻产品，在信息广泛&中立性、内容流动性（liquid content）可读可听方面都做得极好。但这种精密打磨的体验和交易型信息系统之间有着结构性分歧，先写出来看能不能帮到也在做类似产品的同僚。
+>  
+> 1. 信息不是抓取整合，而是聚类理解。
+> 创始人Sara Beykpour 在访谈中反复强调的“story”概念我非常认同，这也是他们的核心亮点之一，强调信息并不是被“抓取并整合”的，而是被“聚类并理解”的。  如果信息只是无脑抓取和串联，那下游的所有排序、可信度评估都会变得模糊。尤其是交易类场景下的信息密度极高、实时性要求强、上下文跨度大，就更不能让大模型“自由理解”，而是要先由 AI 进行一轮结构化的语义聚类，把碎片信息组织成若干个紧凑、有内在因果线索的“事件簇”（stories）。
+>  
+> 2. LLM 的优势与盲区：中立性、因果性 vs 预测力
+> - LLM 在moderation 上的风格控制/观点情绪中立上优势明显。但经由聚合+许多post-eval之后会牺牲时效性和结构张力。
+> - LLM 擅长做因果链判断，cause & effect分析，在一些bullet point中间去提炼非常nuanced的事物之间是否有关联性，尤其是“影响路径”、“上下游反应”等方面，会成为交易重要的逻辑之一。
+> - LLM并不擅长预测。作为统计语言模型，天然地会放大“主流意见”或“高频信号”。我们自己的观测是AI总是“过度乐观”，而 Sara 的判断则是：“如果很多人说 A 队会赢，模型就会以为 A 队赢了。”预测是 LLM 的大盲区，不应把它当作 signal engine 使用。反观类似同花顺问财，或者Rockflow的Bobby类开放式问答+预测的chatbot产品，是否能突破这个限制还是被trapped还有待观察。
+>  
+> 3. 替代预测的策略：因果链 + 结构性时间轴
+> 如果预测是LLM目前的硬伤，在不做预测且对时效性要求高的情况下，保留类似tradingview calendar和cause & effect板块会非常有用。推断某件事是否与另一件事相关，以及事件发展的相对顺序和触发因子。这种判断也足以为交易系统建立信息偏差模型，不需真正的 forecasting。
+>  
+> 4. evaluation工作：
+> evaluation绝对是非常精细化&具有指向性的工作。比如克制地限制表达方式：每句话只能有一个观点，避免从句；比如“暗示”=“观点”，避免模糊结论；比如summary不能超过 X 字，一旦有主观色彩或“intentional expression”，就被当成错误。当然针对每个单元内容的“criticial”程度也有量化，为了更好地让下面要讲的pipeline自动运转。  整个 pipeline 是 async 的、可重复执行的：只要 eval 检查不过，就自动重启任务。所以模型每次只需完成一个小任务，例如判断事件是否发生，或者输出一个不含暗示性的 summary，而不是在一轮中完成全部推理和表达。这种做法的底层逻辑是把生成拆成多个可检验、可复用的小任务，每一个都可以被 reality-check，最大程度避免幻觉和倾向性。
+>  
+> 5. 从 prototype 到高质量AI内容的完整生产线
+> Sara 分享他们做moderation系统的完整的流程：首先在测试环境中写一个 prompt，设置五个问题，然后越狱or打破结构or忘记context，一直到模型表现出稳定且质量不错的行为为止，prompt 可以长达几百行。
+> 当 prompt 初步稳定后，就交给技术团队，把 prompt 模板拆成组件并放入 async pipeline 里，跑所有其他问题做 offline analysis。最后再开始 live question 测试，让系统在真实场景下运行，这时才正式加入 evaluation。
+>  
+> 总结来说如果你想构建一个AI辅助的信息聚合&推送系统，不要幻想大模型直接给出 alpha；所有用AI做预测告诉你购买哪个标的的都是诈骗。真正的 know-how 是结构、流程和校验系统 ，让LLM在架构下变得可靠。
+
+## 35. Jul 28, 2025 · 7:21 AM UTC · 1949732005685682560#m
+- 链接：https://twitter.com/0xAikoDai/status/1949732005685682560#m
+- 作者：@0xAikoDai
+
+> 又一次圆满完成了我们的AI Agent产品发布PR！我的总结虽迟但到：这次我们覆盖了 100+ 科技媒体与测评博主，邀请码申请用户 50 万，全网浏览量超过 6000 万（自己看到这个数字都震惊了hhh）。
+>  
+> 拿几个朋友直接丢过来的 idea或者Google Doc 测了下，生成结果非常流畅实用。实测在完成度和成功率上也远超同行lovable（我之前最喜欢的前端agent产品）和bolt。
+>  
+> 从宣发概念和视频脚本打磨录制，研究各种社媒打法下brief，到紧锣密鼓的全网发布和发酵，全程高度参与，也非常感谢我们产品和运营团队全力支持。巧的是上周 AI 行业简直神仙打架，同期上线的还有字节和腾讯的coding agent，Kimi K2 等一线产品。能在一众重量级更新中看到 MyShell 的身影，作为参与者能亲历这波 Agent 浪潮真是一种幸运和激励。继续冲。
+
+## 36. Jul 25, 2025 · 7:59 AM UTC · 1948654378929316218#m
+- 链接：https://twitter.com/0xAikoDai/status/1948654378929316218#m
+- 作者：@0xAikoDai
+
+> 一开始了解到text-to-web的时候还是相当惊艳的，尤其喜欢lovable和v0，但如果自己不具备完整部署一个网站前后端&添加后端逻辑的能力，实际生产应用场景还是非常推荐text-to-app，没有太多浮于表面的花架子，关注最小结果输出闭环。
+
+## 37. Jul 25, 2025 · 3:06 AM UTC · 1948580711507918957#m
+- 链接：https://twitter.com/0xAikoDai/status/1948580711507918957#m
+- 作者：@0xAikoDai
+
+> 之所以和 ChatGPT 谈心让人欲罢不能，是因为它在两点上做得极好：一是精准凝练观点并重新阐述，提供旁观者清的视角，看清底层逻辑；二是具备发散性思维，罗列多种可能性与解决方案，补全原本的思维盲区。
+> 相比之下，情绪价值、陪伴感这些反而是次要的。人类真正无法取代的是这两项能力。
+
+## 38. Jul 23, 2025 · 11:50 AM UTC · 1947987633776599327#m
+- 链接：https://twitter.com/0xAikoDai/status/1947987633776599327#m
+- 作者：@0xAikoDai
+
+> 不对 是罗振宇做的 不是罗永浩说错了。。
+
+## 39. Jul 23, 2025 · 11:45 AM UTC · 1947986512932667695#m
+- 链接：https://twitter.com/0xAikoDai/status/1947986512932667695#m
+- 作者：@0xAikoDai
+
+> 垂类agent真的太难用了（侧面反映也真的会很难做），个人知识库/笔记类的agent我用了mem，readwise，现在用了Get（罗永浩做的那个，只有移动端&只能上内网真的很折磨人），每个都有一点上手门槛，没办法一键导入个人社媒，很难形成使用习惯。
+> 最近发现我的GPT使用时长跟slack和google meet差不多了，深感在通用智能面前小产品团队的渺小，你非但没办法在综合体验上超越GPT，还要用户花更多时间去养成使用习惯。小产品团队本质上竞争的是时间窗口：到底是你的真正“零门槛好用”的 垂域Agent 先问世，还是大众用户先习惯与通用Agent 协作&定制工作流。
+
+## 40. Jul 21, 2025 · 2:12 PM UTC · 1947298744841785780#m
+- 链接：https://twitter.com/0xAikoDai/status/1947298744841785780#m
+- 作者：@0xAikoDai
+
+> 人长期在做事，理解做事的逻辑，优化做事的方法，不单纯是为了提高效率，更重要的是为了让自己更幸福且可持续地达到目标。
+> 比如最近领悟到的：
+> 1. 野心和信心要够大（每天起床有明确的目标，有驱动力，不会飘忽分神。）
+>  
+> 2. 动机要够纯粹（帮助你面对目标未实现/不能马上获得正反馈的时候，比如流量焦虑的时候，就会提醒自己今天的目标已经完成了，表达是为了真实地呈现自己，本来就不是只为了数据。）
+>  
+> 3. 同时做2-3件关联且重要的事，比死磕一件事更容易形成良性循环
+> （一件卡住了，就顺势切换到另一件事，让能量和知识继续流动起来。例如看书/听播客既可以帮助我工作，又可以帮助我输出，那么遇到一个卡点的时候就应该冷静下来先去看书，在情绪和认知上建立一个自洽的循环。）
+
+## 41. Jul 21, 2025 · 3:47 AM UTC · 1947141410765103318#m
+- 链接：https://twitter.com/0xAikoDai/status/1947141410765103318#m
+- 作者：@0xAikoDai
+
+> 为什么我不太相信经济激励下的社交：因为只要你用过抖音，亲身体验过大数据分析 + 流量算法带来的成瘾快感，你就会明白创作者真正想要的，只有点赞评论关注转发，其他都是附属。
+>  
+> 我这个感受在一次看罗振宇讲阿里数据逻辑时被强化——平台要留住商家和创作者，靠的就是数据反馈带来的可控感和成长感，能获得精准指导+努力就有提升的内在快感真的很重要。说得有点绕，懂的人自然能听懂。
+
+## 42. Jul 21, 2025 · 3:26 AM UTC · 1947136133479153927#m
+- 链接：https://twitter.com/0xAikoDai/status/1947136133479153927#m
+- 作者：@0xAikoDai
+
+> 出世很简单，难的是出世之后还能入世
+
+## 43. Jul 21, 2025 · 3:23 AM UTC · 1947135240859963608#m
+- 链接：https://twitter.com/0xAikoDai/status/1947135240859963608#m
+- 作者：@0xAikoDai
+
+> 文科生一开始以为自己学的是遣词造句地道表达，后面发现学的都是逻辑
+
+## 44. Jul 21, 2025 · 3:21 AM UTC · 1947134832569614476#m
+- 链接：https://twitter.com/0xAikoDai/status/1947134832569614476#m
+- 作者：@0xAikoDai
+
+> 传统资本市场喜欢的三段式：是什么，为什么，怎么办；
+> 现在自媒体喜欢的两段式：一个爆款话题+为什么/一个爆款话题+怎么办，大家不关心真相，每个人都只想sell自己的观点。做marketing势必要让自己长出两个大脑，一个看透本质，一个掌控情绪。
+
+## 45. Jul 18, 2025 · 4:08 PM UTC · 1946240739178164246#m
+- 链接：https://twitter.com/0xAikoDai/status/1946240739178164246#m
+- 作者：@0xAikoDai
+
+> After four overhauls and millions of real-world sessions, here are the lessons we learned about context engineering for AI agents: manus.im/blog/Context-Engine…
+
+## 46. Jul 18, 2025 · 4:31 AM UTC · 1946065302158266851#m
+- 链接：https://twitter.com/0xAikoDai/status/1946065302158266851#m
+- 作者：@0xAikoDai
+
+> Can’t wait for next week，很多个“世界第一”级别的AI产品。爱来自壳。
+
+## 47. Jul 18, 2025 · 2:59 AM UTC · 1946041993702043911#m
+- 链接：https://twitter.com/0xAikoDai/status/1946041993702043911#m
+- 作者：@0xAikoDai
+
+> 看下来业务理解和可视化结果传达还是Manus好出一截，做Agent产品真的需要功力和哲学，并不是LLM打通工具就能做到的
+
+## 48. Jul 17, 2025 · 6:23 PM UTC · 1945912151937622414#m
+- 链接：https://twitter.com/0xAikoDai/status/1945912151937622414#m
+- 作者：@0xAikoDai
+
+> 明天看看要不要退了manus年费
+
+## 49. Jul 17, 2025 · 6:43 AM UTC · 1945736180462711078#m
+- 链接：https://twitter.com/0xAikoDai/status/1945736180462711078#m
+- 作者：@0xAikoDai
+
+> Flowith像一个能力差不够聪明但总想多做一点或许就能讨老板开心的实习生。一个task文案只能做到60分，还没改好就开始忙着生成配图和配乐了，完全抓不到重点。
+> Genspark像个小镇做题家，靠预填内容刷存在感拿好感，模拟题做得还行，但临场反应差点意思。八十分没有硬伤，也没有记忆点。
+> 但Manus我真的要夸你了。不仅每个任务都能打磨好，还能记住我说过的话（知识库功能太强了，每次有额外需求都会问你“要不要设置为偏好”）。甚至可以像带实习生一样说：“你下次试试...”然后一键加进知识库。有没有人懂这种AI和人类模糊边界的感觉啊？
+>  
+> 感觉好agent的产品经理年轻时候一定是一个很好很好的员工/同事。虽然现在这个时代总在贬低“打工”的意义，但只有认真思考过如何在集体中共事，才明白“上下左右对齐”“理解任务意图”这些最基本的人类协作美德有多可贵。（真的不是Manus水军只是个热爱测评的年费用户）
+
+## 50. Jul 16, 2025 · 8:19 AM UTC · 1945397958121545988#m
+- 链接：https://twitter.com/0xAikoDai/status/1945397958121545988#m
+- 作者：@0xAikoDai
+
+> Manus就像一个刚进公司但表现很好很聪明的实习生，越用越喜欢，越看越喜欢，每生成一个结果都想跟你的同事分享夸奖它。。发自心底的喜悦，用一个Agent不生气是判断产品好不好的唯一标准
+
+## 51. Jul 16, 2025 · 4:19 AM UTC · 1945337356946694391#m
+- 链接：https://twitter.com/0xAikoDai/status/1945337356946694391#m
+- 作者：@0xAikoDai
+
+> 做管理一定要招聘在单点能力上比自己更强的人，就像突然吃了个大buff开了倍速，整个人视野和效率都提升了好几个维度。好处如下：
+> 1）你不擅长的事：你花 80% 时间只能做到 20 分的东西，对方只用 20% 精力就能做到100分；
+> 2）你擅长的事：你总结出的SOP，对方能在这套方法论上做得更快更好；
+> 3）你没看到但重要的事：真正放手一件事后就像突然开了天眼，看到前所未有的边界和可能性，以及战略腾挪空间；很难确切描述，只有体验过才知道。
+> 前提是你自己完整跑过一次 0-1，知道哪些流程是可以标准化复用的，哪些节点需要高手来接，这时候引入单点能力强的人才能精准补位。
+>  
+> 那么为什么“培训”无法替代？
+> 1）资源尤其是人脉具有高度依赖性，无法100%交接（因为经历/性格/信任背书等跟你对接惯了的人，不可能完全无缝跟其他人对接）
+> 2）双线 SOP 能形成互验和优化，1+1大于2；而培训是单向的，能吸收你 70% 就很不错了，这之间的执行落差是倍数级的。
+>  
+> 管理、招聘、个人能力的提升是层层累进的过程。只有保持高速运作、夯实基础、把注意力放在核心杠杆点上才能持续成长。说来惭愧，招比自己强的人，其实是我刚进公司时老板给我的目标。我花了一些时间才真正做到了，这部分体验才终于完整了。
+
+## 52. Jul 16, 2025 · 3:05 AM UTC · 1945318722945868290#m
+- 链接：https://twitter.com/0xAikoDai/status/1945318722945868290#m
+- 作者：@0xAikoDai
+
+> 感觉这玩意做个直播即时题词版本卖给自媒体博主也不错，尤其咨询陪聊类的，直播对人的临场反应能力要求筛掉了一大批人
+
+## 53. Jul 14, 2025 · 5:27 AM UTC · 1944629792797864151#m
+- 链接：https://twitter.com/0xAikoDai/status/1944629792797864151#m
+- 作者：@0xAikoDai
+
+> 讲讲最近对AI消费娱乐内容的感受：
+> 第一点：做AI产品和社区不懂自媒体根本就是死穴。未来的 AI 工具创作者 = AI 内容创作者，内容需求驱动工具优化会成为主流。现在已经在抖音上刷到至少 10 种「AI 图 → 视频 → 配音」的工作流组合了，每一种都是千万级流量新赛道。
+> AI 工具的第一步是“日常提效”，第二步是“娱乐消费”。
+> 工具正在“被内容需求绑架”走向娱乐化，好的工具并不是一键生成某个完整功能，而是一键娱乐化，一键消费化。并且我非常理解消费娱乐是大厂看不上的赛道，大家都愿意去铺地基（例如coding），这才给了很多中小型公司/个体机会和时间。
+>  
+> 第二点：能靠 AI 赚到钱的个体，一定是先用闭源模型实战起来的。大部分闭源速度远快于开源，有些产品（or工作流）几个月就能变成 billion级别的生意。
+> 越晚进入的人，获得的回报不是线性下降，而是指数下降，甚至归零。第二名连汤都喝不到。
+> 苦等开源是理想主义，也可以是公司营销噱头，个体完全没必要没苦硬吃。在需要快速爆量和构建内容场景时，闭源模型的“交付速度+可控性”显然更优。公司层面如果无法服务这类追求商业化的强个体，转而应寻求服务“弱”个体（特指以消遣休闲社交为目的的用户，参考roblox，minecraft等将游戏原子化/可组合化的娱乐应用）。
+
+## 54. Jul 11, 2025 · 7:51 AM UTC · 1943578837284966613#m
+- 链接：https://twitter.com/0xAikoDai/status/1943578837284966613#m
+- 作者：@0xAikoDai
+
+> 事到如今深感普通人除了尽可能在网络上留痕之外别无选择，豆包可以推荐自家产品，Grok4的reference大量来自马斯克的言论，未来掌握AI信源的人就能掌握流量入口甚至人类心智，影响这个世界的秩序和节奏。
+> 接下来的时代，“印”才是真正的权力。
+
+## 55. Jul 7, 2025 · 4:39 AM UTC · 1942081132885065769#m
+- 链接：https://twitter.com/0xAikoDai/status/1942081132885065769#m
+- 作者：@0xAikoDai
+
+> 与其了解创始人工作是怎么拼命的，不如了解创始人是怎么休息的；创始人的拼命程度决定了公司下限，休息的方法决定了公司上限，好多牛逼的创始人都很知道如何放过自己。
+
+## 56. Jul 7, 2025 · 4:35 AM UTC · 1942080036041040308#m
+- 链接：https://twitter.com/0xAikoDai/status/1942080036041040308#m
+- 作者：@0xAikoDai
+
+> 越创业越明白，创始人的职责是带一群人去做好玩且有正向价值的事儿，所以不需要技术专精，只需要1）外向型的生命力：有永远打不死的精神，永远对世界好奇，寻找乐子不知疲倦；2）内向型的稳定力：心力和自我调节力足够强，能承受他人无法承受的混沌和压力。3）一定的社会资源（满足招聘和战略判断+30%业务即可），不需要100%匹配（所谓的founder-market fit），会聚人用人远比会做事重要。
+> 做vc的时候对创始人要求老多，什么行业老兵，前某某产品经理或者小天才，创业了才知道创始人拼到最后还是韧性心力。
+
+## 57. Jul 4, 2025 · 5:53 AM UTC · 1941012437559591129#m
+- 链接：https://twitter.com/0xAikoDai/status/1941012437559591129#m
+- 作者：@0xAikoDai
+
+> 最近跟很多事业上一路走来的好友聊天，发现大家在各种高光背后其实都在尝试另一个方向从头开始。经历了三年连续三级跳，在被压缩的时间里吃到了10年的经验包，作为一个月亮狮子座我现在已经对成功祛寐了，之前我是个为了高光而活的人，只喜欢赢，但事实证明几年里可能高光就只有那一两个瞬间，阶段性的成功会很快翻篇，人生没有持续的高光，唯一在持续的就是对下一个高光的寻找，需要反复放下包袱，经常从头开始，为了下一个高光冲刺永不止息。水瓶时代，变才是真正的不变。
+
+## 58. Jul 3, 2025 · 4:53 AM UTC · 1940634919543406715#m
+- 链接：https://twitter.com/0xAikoDai/status/1940634919543406715#m
+- 作者：@0xAikoDai
+
+> crypto和AI人才最近都有种很强烈的去泡沫化，跟很多人聊完觉得大家都想做真实pmf和增长，搞资源攒局的马上就没戏唱了。各行各业都有自己的虚荣指标，追过虚荣指标再追真实指标的创业者能变得更有层次，愈发丰富立体。
+
+## 59. Jun 23, 2025 · 2:34 PM UTC · 1937157358083559785#m
+- 链接：https://twitter.com/0xAikoDai/status/1937157358083559785#m
+- 作者：@0xAikoDai
+
+> 我还是个AI小白（非常感谢我们团队强大的AI专家大脑们），以前不注意用AI也会被team成员吐槽，但想告诉大家的是了解和依赖AI可以从各种小事做起～
+
+## 60. Jun 23, 2025 · 2:32 PM UTC · 1937156730221433100#m
+- 链接：https://twitter.com/0xAikoDai/status/1937156730221433100#m
+- 作者：@0xAikoDai
+
+> 补充一些思考，普通人快速了解AI能做什么？
+> 1. 充各大LLM的会员频繁使用，尝试最新的模型，能深刻意识到AI正在以吞噬世界一般的速度颠覆一切旧事物。
+> 2. 听不懂专业名词的时候不要听科学家和研究员的播客，可以先从AI创始人开始了解，这些人的认知是互联网时代的，更好带入和理解。
+> 3. 尝试各种AI小工具，大量使用GPT，Tolan非常好玩，最近也在用AI做各种笔记和读物整理，让AI帮助你理解自己，尝试“依赖AI”也是一种能力。不要纠结何为“agent”，而是先解放自己，把30%的事交给AI，知道agent的初始形态，过度形态，才能理解终极形态。
+> 4. 强迫自己凡事先使用cursor，或者任何coding agent，还有一句话生成网页的产品，了解AI作为手脚的能力边界，以及AI距离你的理想结果还差多远。
+
+## 61. Jun 23, 2025 · 2:20 PM UTC · 1937153719059276103#m
+- 链接：https://twitter.com/0xAikoDai/status/1937153719059276103#m
+- 作者：@0xAikoDai
+
+> 本人一年没做投研还排名A+？不说话的时候每天都在学习，AI的技术路径和大小厂格局看得比较透了，近一年爆款AI产品的创始人方法论也在努力研究，已经有了初步的crypto x AI终局想法（感谢看过的各种战略书逼我做终局思考），但目测还没有到大规模科普crypto AI的阶段所以不会在这个号上大量输出。
+> 个人比较相信的产品形态是交易面板的原生AI agent和全量链上数据聚合（目前信息最全的API公司的数据准确性和延迟都达不到AI直接使用的要求，没想到吧），摆脱鸡肋依然需要时间，但距离AI native已经不远了。
+> 静心，沉淀，学习，无论什么时候都相信知识就是武器。
+
+## 62. Jun 18, 2025 · 4:51 AM UTC · 1935198725447799103#m
+- 链接：https://twitter.com/0xAikoDai/status/1935198725447799103#m
+- 作者：@0xAikoDai
+
+> 风吹幡动，是风动还是幡动？不是风动，不是幡动，仁者心动。
+
+## 63. Jun 9, 2025 · 9:18 AM UTC · 1932004311086837866#m
+- 链接：https://twitter.com/0xAikoDai/status/1932004311086837866#m
+- 作者：@0xAikoDai
+
+> 非常优秀的一篇文章，给我这种devin，windsurf，cursor，claude code捣浆糊型非专业dev选手好好补课了。最近直观觉得coding agent很像AI里面的沙盒游戏，本身是生产力工具，专业沙盒操作复杂如天际线，非专业沙盒如我的世界；用得好生态里面都可以长出商业化的产品，做社交也有空间，非常有意思。
+
+## 64. Jun 5, 2025 · 6:03 AM UTC · 1930505702629654688#m
+- 链接：https://twitter.com/0xAikoDai/status/1930505702629654688#m
+- 作者：@0xAikoDai
+
+> 用了cursor的GPTo3之后直接卸载了deepseek，幻觉严重屁话多能力差（真把自己当小红书博主了）
+
+## 65. Jun 4, 2025 · 2:48 PM UTC · 1930275464423321836#m
+- 链接：https://twitter.com/0xAikoDai/status/1930275464423321836#m
+- 作者：@0xAikoDai
+
+> 欢迎大家来日考察，我也在东京接待🗼（好吃的真的太多了🥲)
+
+## 66. Jun 3, 2025 · 10:43 AM UTC · 1929851543848997098#m
+- 链接：https://twitter.com/0xAikoDai/status/1929851543848997098#m
+- 作者：@0xAikoDai
+
+> 好久没做研究和项目分析了好无聊想随便写点东西，今天看 QR @qrcoindotfun 这个项目真挺有意思，大概就是每天生成一个二维码在farcaster去做投放，大家可以拍卖这个二维码广告位，有些不错的生态人物参与。你可以说它是 Infofi 的新模式：Farcaster 生态注意力经济崛起 → 每个生态都有其注意力体系（设想另一个社交app上的kaito-like全面开花） → 启动飞轮。
+>  
+> 同时这玩意似乎更像“零成本庞氏实验”教科书（纯褒义）：
+> 1. 凭空印钞： 团队零成本创建自己的代币买量获客。
+> 2. 做局买量： 找几个亲信团队来“投放广告”（处理好比例，联合演戏，不要全军覆没就行）。
+> 3. 关键证人： 少数外部用户看到广告买入代币——成为价格上涨的见证人，“生态价值发现”。
+> 4. 拉盘衔接叙事： 为了进一步辅助叙事成立，把前期广告投放的代币盘一遍，发现有的还上了Base“热门token”，完美衔接了“做局-拉盘-吸引下一批”的故事线。没有人去verify广告投放与代币捕获到真实买盘关联性，团队可以直接宣称是帮用户找到了alpha，帮代币找到了买家。
+>  
+> 看了一圈上面发射的代币市值90%都不足1M，做Ad network的或者社交/流量方向的项目可以来学了，成了就是Infofi 崛起，砸了反正广告费是白嫖的代币是印的。
+>  
+> 以上都是我瞎猜的，不代表团队真实情况，如有雷同跟我无关。第一次写这种希望不要伤害到大家的bag，我纯褒义的，的确是很优美的Ponzi。我不善以最坏的恶意去揣测别人，最近在看《小而美》，本人真心喜欢一些不错的商业模式，欢迎交流🤝
+
+## 67. May 29, 2025 · 3:22 AM UTC · 1927928624897810518#m
+- 链接：https://twitter.com/0xAikoDai/status/1927928624897810518#m
+- 作者：@0xAikoDai
+
+> 想长期的事儿，做长期的事儿。
+
+## 68. May 16, 2025 · 3:52 AM UTC · 1923225064213786694#m
+- 链接：https://twitter.com/0xAikoDai/status/1923225064213786694#m
+- 作者：@0xAikoDai
+
+> 这四年从游戏到投资到AI俺也是大航海了啊啊啊啊啊啊
+
+## 69. May 16, 2025 · 3:49 AM UTC · 1923224293275476442#m
+- 链接：https://twitter.com/0xAikoDai/status/1923224293275476442#m
+- 作者：@0xAikoDai
+
+> 四年前在网易做过的游戏项目终于首曝了，看PV还是很激动，今夕是何年啊😭😭😭
+> 【《遗忘之海》首曝概念片——Yo Ho！】 bilibili.com/video/BV19bEkzM…
+
+## 70. May 12, 2025 · 1:17 PM UTC · 1921917621890371686#m
+- 链接：https://twitter.com/0xAikoDai/status/1921917621890371686#m
+- 作者：@0xAikoDai
+
+> 有啥问题吗？
+
+## 71. Jan 18, 2025 · 9:03 AM UTC · 1880541453577007300#m
+- 链接：https://twitter.com/0xAikoDai/status/1880541453577007300#m
+- 作者：@0xAikoDai
+
+> 恰逢trump大总统发币+回归
+> 回顾一下tt 2021年，大总统刚下台时演讲，主题是《神话时代---crypto与昂撒世界的受胎》，别有韵味
+>  
+> “你只要去做你想做的事情就行了，你根本不用管别人怎么想的，你甚至都不用管自己昨天是什么样子，你只要做今天想做的事情就行了，把最真实的自己做出来。”
+>  
+> “马一龙是正面的大总统”
+>  
+> “他们已经突破了自己的限制器了，变秃了，也变强了”
+>  
+> “整个昂撒世界已经无所谓了。事实上越是无所谓，越容易成功，越有所谓越容易被收割”
+>  
+> “现在流行的是god style！”
+>  
+> “这是一个缺乏真信仰的时代”
+>  
+> “这是一个不挣扎就被收割的时代”
+>  
+> “这是一个解除限制器的时代”
+>  
+> “这是神话时代！”
+
+## 72. May 9, 2025 · 9:31 AM UTC · 1920773519111000178#m
+- 链接：https://twitter.com/0xAikoDai/status/1920773519111000178#m
+- 作者：@0xAikoDai
+
+> 想了解下大家的mkt部门都有多大？我们是三个人撑起所有（含BD）👉👈
+
+## 73. May 9, 2025 · 3:39 AM UTC · 1920685031611117575#m
+- 链接：https://twitter.com/0xAikoDai/status/1920685031611117575#m
+- 作者：@0xAikoDai
+
+> 周期至此我已经戒掉了所有完美主义和精英主义😅有时候手速快和草台只有一线之隔，会捉老鼠的就是好猫。
+
+## 74. May 5, 2025 · 3:45 AM UTC · 1919236991662579998#m
+- 链接：https://twitter.com/0xAikoDai/status/1919236991662579998#m
+- 作者：@0xAikoDai
+
+> Crypto + AI (memes) is dead.
+> Crypto + AI (fundamentals) hasn’t even started yet.
+
+## 75. Apr 29, 2025 · 5:50 AM UTC · 1917094230402777183#m
+- 链接：https://twitter.com/0xAikoDai/status/1917094230402777183#m
+- 作者：@0xAikoDai
+
+> 经过这一年我已经不再是一个人强势的人了，反而希望我的team成员更强势，更雷厉风行。crypto创业体验真的是一年等于五年，在crypto的三年也是被迫长大的三年，22年我还是个远近闻名的喷子，现在不再执着于证明自己是对的了，只想搞点抽象...
+> 人确实不能共情一年前的自己。
+
+## 76. Apr 28, 2025 · 11:01 AM UTC · 1916809881392230464#m
+- 链接：https://twitter.com/0xAikoDai/status/1916809881392230464#m
+- 作者：@0xAikoDai
+
+> GM CT, we're not in Dubai but $SHELL's 32% up.
+
+## 77. Apr 28, 2025 · 6:52 AM UTC · 1916747240515011035#m
+- 链接：https://twitter.com/0xAikoDai/status/1916747240515011035#m
+- 作者：@0xAikoDai
+
+> We are continuously looking for talented Senior BD and Smart Contract Engineers to join our team. If you know anyone who might be a great fit, we’d love your referral!
+
+## 78. Apr 25, 2025 · 8:48 AM UTC · 1915689409007231171#m
+- 链接：https://twitter.com/0xAikoDai/status/1915689409007231171#m
+- 作者：@0xAikoDai
+
+> 人聪明固然重要但是比聪明更重要的是intellectual honesty
+
+## 79. Apr 22, 2025 · 12:02 PM UTC · 1914651021202350132#m
+- 链接：https://twitter.com/0xAikoDai/status/1914651021202350132#m
+- 作者：@0xAikoDai
+
+> Trae最新版本发布，原生支持MCP，从编写到使用丝滑切换！
+>  
+> Trae 支持 Agent 和 MCP 模式是本轮升级的最大的亮点。主要针对这两点来进行测试。
+>  
+> Trae是国内首个支持 MCP 的 AI IDE，且 Agent with MCP 的设计，可以同时创建多个场景下的 Agent，并关联不同 MCP Server，免去了其他 MCP Client需要根据任务不时的去增删服务的繁琐操作。这意味着AI不再局限于已有知识，可以联网搜索、调用API等，只需要在处理任务时，随时@对应的Agent出来拆解任务，调用MCP干活。
+>  
+> 任务目标：教你用Trae创建一个MCP Server 并调用生成一个网页
+> 1. 在Coze上发布了一个工作流，关联 Coze智能体发布，示例： 用来通过关键词获取头条新闻，大模型整理后返回若干条新闻素材。
+> 2. 在 Trae 里通过 AI coding  完成这个Coze 工作流开发编译成一个 MCP Server的代码。
+> 3. 在 Trae 里调用最新的 Agent+MCP 模式自主调用这个 MCP Server 来执行绑定的 Coze 工作流获取新闻素材，最终生成日报的网页。
+>  
+> 准备工作：Coze 里搭建并发布一个关联工作流的 Bot
+>  
+> 新建 MCP Server：借助 AI Coding 快速的完成 MCP Server 的代码编写，基本能一步到位。
+> Trae 右侧对话面板的 Chat 和 Builder 模式合并了，现在需要 Agent 模式就直接艾特名称即可，默认的Agent 是 Builder。 利用Coze工作流稳定获取当天头条新闻素材，并豆包大模型整理后返回。非流式调用，需要使用三个接口才能异步获取到正确的数据。
+> Builder按照指令和接口说明很好的拆解了执行步骤。
+> 1. 先通过 modelcontextprotocol/create-server mcp-server-coze-daily-creator 创建项目
+> 2. 运行 cd mcp-server-coze-daily-creator && npm install 安装依赖
+> 3. 查看目录结构后开始写主文件  mcp-server-coze-daily-creator/src/index.ts
+> 整个过程非常的丝滑。
+>  
+> 将代码中 Coze APIKey 和 Bot Id 替换成我自己的。调用 npm run inspector 唤起网页测试，OK
+> 接下来就是将这个MCP 服务配置到Trae让 Builder with MCP来调用。
+>  
+> Trae这个版本还有个有意思的地方是，除了默认的 Builder with MCP这个选择。还可以自己创建个性化的Agent，并配置不同的MCP Server。这样需要不用的Agent with MCP 就可以直接@来切换。极大的避免了之前为了完成不同任务，要手动去增删MCP Server（这个操作非常不智能）。
+> 配置完成后，在对话框中 艾特Builder with MCP 后输入一个任务执行看看效果。
+>  
+> Agent 很好的理解了这个任务，发现了MCP 的服务和可用的 Tool Use，并抽取关键词来进行调用获取新闻素材。
+> 在完成MCP调用后可以无缝衔接其他的任务，比如使用返回的素材内容来进一步生成网页的编码任务。
+>  
+> 从个人体验下来的感觉，对比 Deepseek v3 和 r1 的模型，Builder with MCP这里的执行，选择 Doubao-1.5-pro效果更好，豆包对关联的 MCP Server和对应的 Tools 的理解和使用更准确，而 Deepseek 有编码偏向性而忽略去使用可用的MCP Server。
+
+## 80. Apr 19, 2025 · 7:15 AM UTC · 1913491518867792208#m
+- 链接：https://twitter.com/0xAikoDai/status/1913491518867792208#m
+- 作者：@0xAikoDai
+
+> ABCDE 停止新项目投资和二期募资，完全是我个人想换一个姿势，重新思考如何参与行业的发展。
+>  
+> 团队很棒，募资也没有任何问题，两位基石 LP 资金充足且愿意持续支持。这不是资金或能力的问题，而是方向的选择。
+>  
+> 坦率地说，我越来越无法认同当前一级市场的生态氛围：许多项目极度短视，只想着如何尽快上线交易所，随后留下的往往是一地鸡毛。而更令人担忧的是，部分一级基金对此不仅毫无反思，反而大肆宣传自己投出的“上所项目”和短期市值表现，却从不提项目本身的价值创造，更不提这些项目在上所后是否健康存活。
+>  
+> 这不是我愿意参与的游戏，更不是我创立 ABCDE 的初衷。对我而言，这样的工作是在浪费时间，而非创造价值，不缺也不想赚这个钱。
+>  
+> 接下来，我更希望把时间和资源投入到真正推动产业进步的事情上。花时间、下功夫、做策略，陪伴有使命感的团队，孵化出能真正为行业和社会带来长期价值的企业。作为行业的一员，我相信我们有责任推动生态回归理性与健康，而不是被短期博弈所裹挟。
+
+## 81. Apr 18, 2025 · 4:22 AM UTC · 1913085817821823394#m
+- 链接：https://twitter.com/0xAikoDai/status/1913085817821823394#m
+- 作者：@0xAikoDai
+
+> 即使引导早已破碎，也请您当上艾尔登之王。
+
+## 82. Apr 9, 2025 · 8:38 AM UTC · 1909888685958738027#m
+- 链接：https://twitter.com/0xAikoDai/status/1909888685958738027#m
+- 作者：@0xAikoDai
+
+> 距离我尝试组建和管理团队已经过去很长时间了，四个月前我依然在struggle招聘和团队构成。中间也经历过许多节点，类似于设置成员情景管理的能力，强大有韧性抗波动和应急的业务线+汇报线，认识到自己的短板并招聘单点能力比我强的人，这些目标都一一实现。而现在我要提升的能力是如何快速听取汇报并在不陷入细节的情况下给出正确的方向，以及提升前瞻性。
+>  
+> 每个目标都非常细节，具体到每一天的事务中，我的感悟往往也都非常细节，有时候往往是齿轮一样在脑子里啪嗒响了一声，就会给团队整体表现带来巨大的提升。
+>  
+> 自己带团队的体验非常神奇，当然也得益于&受限于我经历过的领导模式。每当完成了上一个里程碑，觉得现在状况不错的时候，很快又会意识到一个提升团队整体表现的方法，就像大脑在做一个长跑之后巨大的深呼吸。很多事情是自以为告一段落之后才知道如何提升，知道下一步要这样或那样做的。
+>  
+> 中间我也经历了一段认为自己解决问题的速度越来越快的时间，听到问题后解决方式自然浮现，能快速引导团队拿出周全的结果。但精通事情的解法只是一种大脑的肌肉记忆，并不值得自豪；只能证明你capable，不代表把这作为模式进行延续并放到团队管理中是对的。
+>  
+> 一个人的成长必定是能习得和放下的能力越来越多，切换的时候更加丝滑，重要的是像玩游戏一样知道什么时候该出什么装备。一个管理者需要放弃对自身能力的迷信和沉迷，变成对全局的托举。之前我自豪的速度，细节，理解力，社交面具，其实都没什么所谓。人并没有优点和缺点，只有位置和与位置匹配的最重要的几个特质，重要的是能持续认知和向着需要的方向改变自己。
+
+## 83. Apr 6, 2025 · 8:25 AM UTC · 1908798292026331145#m
+- 链接：https://twitter.com/0xAikoDai/status/1908798292026331145#m
+- 作者：@0xAikoDai
+
+> 现在做事的机会成本很低。
+>  
+> 如果你正在为一些长期目标而努力，考虑现在就引入新的合伙人或核心团队成员，因为如果合作关系最终不合适，试错成本也比较低；同时你也可以看出，对方是否愿意在低点的时候就和你一起开始。
+>  
+> 如果你打算升级系统或进行基础架构的改动和强化，那就现在动手，因为这些事情需要时间来完成，不能一蹴而就。
+>  
+> 如果你想要找到那些可以长期合作的商业伙伴，现在就要播下种子。真正的伙伴关系需要先一起度过艰难时期，然后才能共享丰收时刻。
+
+## 84. Apr 4, 2025 · 2:38 AM UTC · 1907986051651744087#m
+- 链接：https://twitter.com/0xAikoDai/status/1907986051651744087#m
+- 作者：@0xAikoDai
+
+> 律动这篇文章真不错，看完想起Loot刚出和MAGIC上线的时候还在上海做实习生每天冲各种链，现在真正的任天堂NS2发布会刚结束，GPT4也会生成系列桌游卡了，crypto的世界除了lesson learned什么都不会留下。theblockbeats.info/news/5759…
+
+## 85. Apr 1, 2025 · 3:05 AM UTC · 1906905724032360594#m
+- 链接：https://twitter.com/0xAikoDai/status/1906905724032360594#m
+- 作者：@0xAikoDai
+
+> 看了一些 AI Agent MCP 操作，很有意思，很不安全，黑阔们又要兴奋了。
+
+## 86. Mar 27, 2025 · 7:49 AM UTC · 1905165354432856429#m
+- 链接：https://twitter.com/0xAikoDai/status/1905165354432856429#m
+- 作者：@0xAikoDai
+
+> Image generators are on trend today, and @myshell_ai is one of the hottest open-source AI companies recognized by @TechCrunch.
+> Embrace the new era.
+
+## 87. Mar 26, 2025 · 2:23 PM UTC · 1904901938342486519#m
+- 链接：https://twitter.com/0xAikoDai/status/1904901938342486519#m
+- 作者：@0xAikoDai
+
+> In the past 1 month, I've made 9 game prototypes with Grok, Cursor and Windsurf.
+>  
+> Here's how I usually start my initial prompts:👇
+
+## 88. Mar 27, 2025 · 2:10 AM UTC · 1905080069619601781#m
+- 链接：https://twitter.com/0xAikoDai/status/1905080069619601781#m
+- 作者：@0xAikoDai
+
+> gm MCP
+
+## 89. Mar 26, 2025 · 5:36 AM UTC · 1904769388672409992#m
+- 链接：https://twitter.com/0xAikoDai/status/1904769388672409992#m
+- 作者：@0xAikoDai
+
+> Vibe coding in full effect this Wednesday.
+>  
+> Explore Image Filter AI Agents on @myshell_ai—crafted by our talented creators to look and feel just right.
+>  
+> Tap in 👇
+
+## 90. Mar 25, 2025 · 4:03 PM UTC · 1904564857934098492#m
+- 链接：https://twitter.com/0xAikoDai/status/1904564857934098492#m
+- 作者：@0xAikoDai
+
+> DeepSeek V3 0324 is supported both at MyShell as a bot and at ShellAgent now
+
+## 91. Mar 23, 2025 · 12:41 AM UTC · 1903608046288556072#m
+- 链接：https://twitter.com/0xAikoDai/status/1903608046288556072#m
+- 作者：@0xAikoDai
+
+> Langchain 版本的 Manus 开源了。
+> LangGraph 引入图的概念来获取对 Agent 复杂场景通用性的支撑，把之前基于AgentExecutor的多轮调用过程用状态图（StateGraph）来显性构建。把基于 ReAct ，RAG 等 Chain 里的细节用Graph 的节点和边来准确定义，维持和更新状态，驱动在节点之间灵活跳转。
+> 看完是不是觉得基于 ShellAgent 的状态机做一个 ShellManus 也不难了。🤣
+
+## 92. Mar 21, 2025 · 9:01 AM UTC · 1903009126059221329#m
+- 链接：https://twitter.com/0xAikoDai/status/1903009126059221329#m
+- 作者：@0xAikoDai
+
+> 🖌️🎨 Turn Yourself into a Masterpiece with Masterpiece Selfie! 🏛️✨
+>  
+> Discover one of the most creative agents on @myshell_ai : Masterpiece Selfie! 🏆✨ Created by @Arxchibo_shell , this AI-powered experience lets you step into the world of iconic paintings. Ever dreamed of starring in Van Gogh’s swirling strokes 🌻, embodying the grace of the Mona Lisa 🖼️, or becoming a character from a Renaissance masterpiece? Now’s your chance!
+>  
+> ⚙️ How does it work?
+> 🎭 Choose from 25+ stunning art styles
+> 🖼️ Upload your photo
+> ⏳ In just 60 seconds, get your very own masterpiece!
+>  
+> Step into the canvas and become part of art history! Try Masterpiece Selfie now and bring classic paintings to life—with YOU in them! ✨🖼️
+>  
+> 🔗 Try it here: app.myshell.ai/bot/BfqIvq?ut…
+>  
+> #AIArt #MyShellAI #MasterpieceSelfie $SHELL
+
+## 93. Mar 20, 2025 · 2:44 PM UTC · 1902733113131991285#m
+- 链接：https://twitter.com/0xAikoDai/status/1902733113131991285#m
+- 作者：@0xAikoDai
+
+> 最近，有不少朋友对“这个行业”正逐渐走向 meme 虚无主义（meme nihilism）表示担忧；他们觉得这个周期里大部分人只专注于赌博和投机等事情，令人遗憾。
+>  
+> 通常发出这种声音的，来自于之前几轮周期的项目创始人。他们并不是很清真、不懂得价格的重要性的那种人，但他们多少有些疲倦：“如果这个行业就只剩下赌博、赌场，而完全不再提及可组合性、自主权以及其他一些曾经激励我们加入并建设的那些东西，那我们就不再有兴趣继续参与。”
+>  
+> 我非常能理解这种感受，只是我对整个话题的看法稍有不同。
+>  
+> 我深信，这个世界的运转更像钟摆（回想起来，从 Benchmark 改名为 Pendle 真是个不错的选择hehehe @tn_pendle）。在表面上，每次的表现方式都不一样，但在更深层，历史就像钟摆般左右摆动。唯一区别在于：因为生产力提升等外部因素，每一次摆动的时间跨度并不固定。有时很快就反转，有时一次单程摆动就需要花很久。
+>  
+> 回顾过去八年，整个行业主要完成了一件大事：在资产发行（比如 pumpfun）和基础设施铺设（RAAS）方面不断提高效率、消除摩擦。发展到此刻，已很难再在这些方面找到什么“低垂果实”。发行效率的迅猛提升使得大量同质化资产涌现，结果就是只剩比较随机的 PvP。
+>  
+> 那么，下一个仍存在大量创新空间的领域是什么？当然可以有很多答案，并且不一定只局限于去中心化技术。但可以肯定的是，即便只聚焦 Web3，依然还有许多尚未解决的问题。
+>  
+> 价值如何从一个网络参与者（可能是人，也可能是代理）流向另一个？
+> 信息和行为如何转化为资产价值在圈子里不同个体之间流动？
+> 基于社交图谱，不同群体如何在网络中进行价值的累积和再分配？
+>  
+> 这些问题目前都没有得到答案，而且最终势必会出现某种融合了去中心化技术（以及其他领域）的解决方案，重新定义生产关系。
+>  
+> 因此，问题就变成：你真正的信念是什么？
+>  
+> 快速的资产轮动，是一种选择；相信某条特定技术演进路线并为之奋斗数年，也是一种。但不管你信仰什么，你都得选定一个方向，并坚持到底。其实换句话说，在没有生存压力的时候，如果没坚持，其实就是还不够信自己信的东西。
+>  
+> 有些人在这个世界上是根据游戏规则选择自己在哪玩，但有些人会选择定义规则。
+
+## 94. Mar 19, 2025 · 3:55 PM UTC · 1902388428487963050#m
+- 链接：https://twitter.com/0xAikoDai/status/1902388428487963050#m
+- 作者：@0xAikoDai
+
+> 这条推特下热度最高的两条帖子都是MyShell的AI Agent教程。说实话ShellAgent应该是目前教程最全+来源最广的，有AI大神/web3开发者/AI用户都在帮我们制作tutorial，以下是冰山一角的合集：
+> 1. B站百万AI博主（也是我们的创作者）自制教程：bilibili.com/video/BV16qQRYo…
+> 2. 前Coze大神（日活上万创作者）教程：bilibili.com/video/BV1GSqzYY…
+> 3. web3用户自制使用教学：localhost:8080/brssncr_/status/186587…
+> 4. AI创作者炉边谈话（开发经验+商业化/PMF趋势分享）：myshellai.notion.site/1473f8…
+> 5. 链上Agent+DEFAI教程：piped.kavin.rocks/watch?v=HaIukbt0…
+> 6. 消费娱乐+实用流量型AI教程：piped.kavin.rocks/watch?v=UaEpGYSG…
+> 7. Web3开发团队自制链上agent教程：localhost:8080/LoomSync/status/190216…
+> 8. Template功能：一分钟内一键复刻多模态on-chain Agent：shellagent.myshell.ai/app
+> 9. 咸鱼二手网站上也有教程售卖。。
+>  
+> 以上所有tutorial资料都是我们过去一年的积累，认真做开发者社区，做有价值的事，玉汝于成，功不唐捐。感谢优秀强大的同事们 @hance_zhang7 @Arxchibo_shell @JohnTian99 🫡
+>  
+> BNB Chain征集AI教程很有意义，因为Tutorial其实是AI框架能力和AI实用性结果的集中展现：Agent品类多样性，上手开发门槛，可扩展性，API和模型集成度，生态繁荣度，Agent最终效果（强调PMF和utility-driven）。Tutorial意味着实事求是，意味着赋能和托举生态开发者，意味着we‘re keep building。
+>  
+> 欢迎对各类多模态链上Agent和Multi-Agent Economy感兴趣的开发者联系我们，我们提供最全最强大的Agent框架和手把手教学，Crypto AI时代希望与优秀的开发者们互相成就。
+
+## 95. Mar 19, 2025 · 8:55 AM UTC · 1902282667556794518#m
+- 链接：https://twitter.com/0xAikoDai/status/1902282667556794518#m
+- 作者：@0xAikoDai
+
+> One of our developer just launched the best ShellAgent tutorial, ever. Huge shout out to @Nenlyonis.
+> Enjoy: piped.kavin.rocks/watch?v=lXaEEbSh…
+
+## 96. Mar 19, 2025 · 7:30 AM UTC · 1902261290103623920#m
+- 链接：https://twitter.com/0xAikoDai/status/1902261290103623920#m
+- 作者：@0xAikoDai
+
+> Nenly 老师专门给 ShellAgent 出了一期中文入门教程。
+> Nenly在B站 AI 版块有着超高人气，是很多学ComfyUI同学的梦中情师。
+> 他在 MyShell 上出手即巅峰，抽空做的唯一一个 Agent 就当月就爆了，直接带来了1千多刀的收益。关键是，放那一直还有源源不断的用户在用，用就有钱。
+> 对 AI 时代个体挣钱感兴趣的独立开发创作者不要错过。
+> 👇👇👇
+> bilibili.com/video/BV16qQRYo…
+>  
+> #indiedev  #Myshell
+
+## 97. Mar 19, 2025 · 2:19 AM UTC · 1902183146785009708#m
+- 链接：https://twitter.com/0xAikoDai/status/1902183146785009708#m
+- 作者：@0xAikoDai
+
+> Who said AI agents on @myshell_ai are just for image/meme generators, filters, or AI companions?
+>  
+> There's so much more.
+>  
+> Watch this video to see AI agents in action—now with on-chain capabilities that take things to the next level.
+
+## 98. Mar 18, 2025 · 2:20 PM UTC · 1902002047958081727#m
+- 链接：https://twitter.com/0xAikoDai/status/1902002047958081727#m
+- 作者：@0xAikoDai
+
+> Good day, Shellfams! 🎉 Shell Launchpad is live! 🚀 I made a short video 🎥 for Web3 newbies—tutorial on launching your agent & trading on it! 💰
+>  
+> #ShellLaunchpad #Web3 #CryptoTrading #MyShellAI
+
+## 99. Mar 18, 2025 · 12:27 AM UTC · 1901792501893075001#m
+- 链接：https://twitter.com/0xAikoDai/status/1901792501893075001#m
+- 作者：@0xAikoDai
+
+> I've got 10 ecosystem calls lined up today. It really feels like we're in the BNB + AI boom season.
+
+## 100. Mar 17, 2025 · 4:28 PM UTC · 1901672117621469379#m
+- 链接：https://twitter.com/0xAikoDai/status/1901672117621469379#m
+- 作者：@0xAikoDai
+
+> easy
+
+## 101. Mar 17, 2025 · 3:18 PM UTC · 1901654495085334628#m
+- 链接：https://twitter.com/0xAikoDai/status/1901654495085334628#m
+- 作者：@0xAikoDai
+
+> Better than Google AI Studio
+
+## 102. Mar 17, 2025 · 2:25 PM UTC · 1901640939212337307#m
+- 链接：https://twitter.com/0xAikoDai/status/1901640939212337307#m
+- 作者：@0xAikoDai
+
+> ?
+
+## 103. Mar 16, 2025 · 12:18 AM UTC · 1901065579148308580#m
+- 链接：https://twitter.com/0xAikoDai/status/1901065579148308580#m
+- 作者：@0xAikoDai
+
+> I admire Aiko’s rapid learning ability.
+>  
+> MCP has great potential and significantly expands the boundaries of interaction between MCP and the physical world.
+> Currently, many unofficial MCP clients are only used as standardized Tool Use, without demonstrating the bidirectional transmission capability of continuously accumulating context in solving complex problems. There’s still huge space for exploration in this field.
+>  
+> MCP is not the final protocol for Agents. The LLM Center-based design simply gives intelligent brains hands and feet, making them capable but still silicon-based individuals. However, in the future, the Agent Center’s network collaboration could likely be a decentralized multi-signature protocol, ensuring transparent notarization of decisions between Agents and an overall optimal solution. Therefore, AI × Crypto will inevitably play a key role in this intelligent revolution, and Web3 has enormous potential—MyShell has immense potential.
+>  
+> Manus’s use of CodeReact’s computer logic to replace MCP’s approach might be addressing MCP’s limitations in managing multi-Agent internal decision-making. The solution set defined by the Planning Agent needs to be executed flexibly by the Executing Agent, while remaining objective, effective, and optimal overall.
+>  
+> MyShell’s ShellAgent Protocol, as released in a previous video, based on a state machine, could also be an excellent exploration solution.
+> State nodes naturally support state routing after LLM intent recognition, forming a mesh distribution of effective solutions. But this is not hardcoded workflows—it’s a dynamic multi-round combination and participation of valid state nodes during the task decomposition execution process. Meanwhile, the numerous second- and third-party widgets act as a unified protocol for multi-Agent server toolkits. The future of the Agent Center might involve Agents becoming widget servers for each other, forming organic, larger teams.
+> This is just a speculation based on what I’ve seen in part, and I’m excited to see MyShell showcase more details and potential of ShellAgent.
+>  
+> The future is here, and it’s time to be bold and try.
+
+## 104. Mar 15, 2025 · 6:58 PM UTC · 1900985017314009412#m
+- 链接：https://twitter.com/0xAikoDai/status/1900985017314009412#m
+- 作者：@0xAikoDai
+
+> The discussion (and scrutiny) surrounding Manus has once again brought  MCP (Model-Content-Protocol) from @AnthropicAI into the spotlight.
+>  
+> - What exactly is MCP?
+> - What problems does it solve and any examples?
+> - What are new possibilities for crypto?👇
+>  
+> 1. What is MCP?
+> Many will tell you that MCP consists of hosts, servers, and clients.
+> - Hosts are the application environments running AI and supporting MCP (e.g., Claude, Cursor).
+> - Clients run on the host, processing AI requests based on server-discovered information and communicating with servers. They also handle security and generate structured requests.
+> - Servers act as intermediary connection layers to specific external services (databases, APIs, tools). The thriving MCP ecosystem primarily refers to these MCP servers.
+>  
+> 2. What changes and impacts does MCP bring, and what are some concrete examples?
+>  
+> - Enhanced interaction between AI and AI applications:
+> Early MCP support was mostly found in AI programming tools (e.g., Cursor, Continue, and Defy integration), real-time internet functionality (Claude + Perplexity), etc.
+>  
+> - Improved interaction between AI and external data/services:
+> MCP allows AI to easily access external data sources and API services, greatly expanding AI's knowledge and capabilities. Examples include:
+> communication tools (Claude + Slack),
+> model rendering tools (Claude + Blender),
+> image creation tools (Claude + QGIS), and more general environments.
+> This also includes chaining multiple DeFi protocols or blockchain interactions to achieve on-chain transfers and token deployments.
+>  
+> Find more examples here 👉localhost:8080/minchoi/status/1900931…
+>  
+> - AI capability modularity and composability:
+> MCP decouples various AI capabilities into composable modules. By flexibly combining different MCP services, new composite AI capabilities can be built. For example, combining natural language processing, knowledge querying, planning, and reasoning modules can lead to the development of intelligent assistant-type AI applications.
+>  
+> Find More MCP servers here 👉 mcp.so/
+>  
+> 3. What does MCP mean for crypto?
+> - The growing MCP exosystem represents a capability breakthrough beyond LLM conversations, allowing direct interaction between AI tools and smart contracts. However, the ability to deploy tokens doesn't mean all mechanisms are perfected, including token unlock, distribution, and wallet authority.
+>  
+> Check the MCP connected Base @base and Monad @monad_xyz  👉
+> localhost:8080/fkpxls/status/19005719…
+> localhost:8080/monad_dev/status/19001…
+>  
+> - Interactions and economic behavior between multiple AI agents will become easier to implement.
+> While individual AI applications or LLMs interacting with blockchains is now a reality, the next major challenge is to establish organizational structures and collaboration between them, as well as to drive multi-agent cooperation through incentives to deliver tasks.
+> I believe that @myshell_ai's state machine-based architecture will play a pivotal role in the era of multi-agent economies.
+>  
+> Indeed, this is the era of AI, and crypto is poised to become AI's currency. The future is already here.
+
+## 105. Mar 14, 2025 · 1:16 AM UTC · 1900355197928358113#m
+- 链接：https://twitter.com/0xAikoDai/status/1900355197928358113#m
+- 作者：@0xAikoDai
+
+> good team
+
+## 106. Mar 13, 2025 · 4:04 PM UTC · 1900216383209628140#m
+- 链接：https://twitter.com/0xAikoDai/status/1900216383209628140#m
+- 作者：@0xAikoDai
+
+> After playing around  @Gemini  Flash 2.0 Experimental, the latest image-gen by Google AI studio for a while, here are my impressions:
+>  
+> 1) Exceptional Consistency
+> The AI demonstrates a remarkable understanding of which elements can be generalized and which need to remain fixed. This capability enables Photoshop-like features, addressing a common issue in previous image generation software where altering one detail often led to unintended changes or distortions in the overall scene (with Flux being a notable exception).
+>  
+> 2) Enhanced Continuity in Editing
+> The high level of consistency allows for seamless sequential edits. I tested this by generating silhouettes of game characters (following typical game character design processes) and then adding clothing colors and environmental elements. This proved to be an excellent experimental use case, offering a cost-effective way to visualize different scenarios.
+>  
+> 3) Precise Layer Recognition and Style Adaptation
+> As a final test, I randomly selected a screenshot from Animal Crossing and attempted to incorporate a new character into the scene. The AI demonstrated impressive accuracy in recognizing and working with different layers of the image. Furthermore, when I requested the generation of a game title, it replicated the Animal Crossing font style, showcasing its ability to precisely analyze and match the visual style and elements of the original image.
+
+## 107. Mar 13, 2025 · 2:49 PM UTC · 1900197587694559449#m
+- 链接：https://twitter.com/0xAikoDai/status/1900197587694559449#m
+- 作者：@0xAikoDai
+
+> shell's in video-gen mode now lmaoooo
+
+## 108. Mar 13, 2025 · 3:43 AM UTC · 1900029868248600685#m
+- 链接：https://twitter.com/0xAikoDai/status/1900029868248600685#m
+- 作者：@0xAikoDai
+
+> 💜
+
+## 109. Mar 12, 2025 · 10:07 PM UTC · 1899945313601020101#m
+- 链接：https://twitter.com/0xAikoDai/status/1899945313601020101#m
+- 作者：@0xAikoDai
+
+> Introducing the world's first face-swapping AI for BLACKPINK's new album featuring Jennie and Lisa. ShellAgent's powerful no-code editor maximizes ComfyUI image processing and rendering capabilities, producing stunning video effects in just about ten seconds. The future of multi-modal AI is here, ready for everyday use.
+
+## 110. Mar 12, 2025 · 3:44 PM UTC · 1899849008534732950#m
+- 链接：https://twitter.com/0xAikoDai/status/1899849008534732950#m
+- 作者：@0xAikoDai
+
+> 一直做难而正确的事，有价值的事，做相信的事🙏
+
+## 111. Mar 12, 2025 · 3:01 PM UTC · 1899838136475079041#m
+- 链接：https://twitter.com/0xAikoDai/status/1899838136475079041#m
+- 作者：@0xAikoDai
+
+> Total Anarchy是我们平台的一个创作者，钱包地址0x9D88675e5B8e4BB33D45f7a8Fb8ed498F50ED374。他创作AI Agent一年累计获得十三万个shell coin，1:1兑换成$SHELL，他也是我们获得airdrop最多的创作者之一。这位创作者从24年4月开始，到今天都在我们社区活跃和创作agent（截图1）。
+>  
+> 2025年2月14日他说他没有gas fee无法claim，所以我用自己的私人钱包给他转了0.02个eth（截图2，只能发四张图所以我把dc和slack聊天记录拼一起了）。
+>  
+> 我最早也在myshell捏agent，赚了4000个shellcoin（远远没有很多创作者多），有一个mysoul nft，所有$SHELL在链上钱包里一分没卖。
+>  
+> 我们很多创作者来自web2，从很久之前开始，我一直都有自费给他们发gas fee的习惯（截图4），在这当中收到代币的crypto小白，第一次使用crypto钱包的创作者数不胜数，也遇到过不熟悉链上操作搞错钱包地址和链的，我们都会耐心一对一去帮忙解决，一直以为是在为crypto onboard新用户，没想到今天被人说成是“老鼠仓”。我们所有活跃创作者都在discord社区，欢迎去dc联系这位创作者和其他所有接受过我gas fee的创作者核实。
+>  
+> 一直以来的谩骂都可以宽容地理解为是宣泄市场不好的情绪，但颠倒黑白、恶意诽谤，甚至将"为Web2创作者提供的gas费用补贴"抹黑成"老鼠仓"时，我们不得不做出回应。
+
+## 112. Mar 11, 2025 · 4:12 AM UTC · 1899312373145440530#m
+- 链接：https://twitter.com/0xAikoDai/status/1899312373145440530#m
+- 作者：@0xAikoDai
+
+> We made some super awesome face-changing videos AIpp, especially for our beloved blink family~  @jennierubyjane @ygofficialblink @Jennie_HQ @myshell
+> #BLACKPINK #jennierubyjane #Ruby                                app.myshell.ai/chat/17416618…😚😚
+
+## 113. Mar 7, 2025 · 9:18 AM UTC · 1897939813791326451#m
+- 链接：https://twitter.com/0xAikoDai/status/1897939813791326451#m
+- 作者：@0xAikoDai
+
+> 昨天 Manus 爆火，昨晚在 WaytoAGI 的共学课上，Flowith 来“踢馆”，今天陆陆续续又冒出几个 OpenManus 的版本要来PK，真热闹。
+>  
+> 我看过一些 Monica（Manus是他们的新产品）团队的访谈。他们对 AI 产品演进有一个有趣的观点，大致意思：AI 产品能力要和 LLM 模型能力正交，而不要追着给当下模型的快照不停擦屁股。这样随着模型能力提升，产品里某些 AI 通用的能力会自然涌现。
+>  
+> 这也是为啥他们这次发布 Manus 一直强调“ Less Structure,  More Intelligence ”，这种追求Agent 未来的能力可能性，必然是要避免任何形式的 Workflow 集合，那在短期内相比较其他强 Workflow 的 Agent 设计理念，在有些任务上就会让人感觉粗糙，不合常理。
+> 粗糙也不代表不好，未来就有可能出现超出人类做事方式甚至理解范畴的“神之一手”。
+>  
+> 他们创始人肖弘分享过一个案例，让Manus数YouTube视频里有几个动物，它在某个多动物的画面使用快捷键来暂停下来数。
+> 海辛昨晚分享的一个案例也好玩，让Manus 教她拍恐怖片，它先找到一些网站学习，在看一篇搜狐的文章时，看了一会后点击举报。
+> 不是说这两个案例多么牛逼，而是这种不设常理的进化方式持续下去可能会创造神奇。
+>  
+> Manus 无论内测之后的 Release 版是否能完胜其他并不重要了，AI Agent 的赛道已然是彻底点燃。全民也在看着各种Usecases的评测和回放，在或是惊叹，或是奚落的情绪中完成对 AI Agent 的初体验和教育。
+>  
+> 2025年注定是 AI Agent 大年，坚持长期主义的 Builder 才有门票。@myshell_ai  的 ShellAgent 非常有机会～
+
+## 114. Mar 6, 2025 · 5:20 AM UTC · 1897517625262932250#m
+- 链接：https://twitter.com/0xAikoDai/status/1897517625262932250#m
+- 作者：@0xAikoDai
+
+> 续学习zengyi老师：为什么manus不属于technology breakthrough
+
+## 115. Mar 6, 2025 · 5:05 AM UTC · 1897513944056574031#m
+- 链接：https://twitter.com/0xAikoDai/status/1897513944056574031#m
+- 作者：@0xAikoDai
+
+> 好奇Manus的可以来学习hans老师的研究结果了
+
+## 116. Mar 6, 2025 · 1:22 AM UTC · 1897457743096598809#m
+- 链接：https://twitter.com/0xAikoDai/status/1897457743096598809#m
+- 作者：@0xAikoDai
+
+> It’s disheartening to see development teams rushing to create Agent tokens, reminiscent of the “GameFi” craze back in 2022. Those projects often spent months crafting flashy trailers, only to ultimately go to zero. Instead, our focus is on empowering talented individuals. We enable everyone to build powerful agents or even multi-agent crews with genuine utility, provided they have access to a robust framework like ShellAgent. Our goal is to make this game real and challenging, moving beyond hype to create lasting value.
+
+## 117. Mar 4, 2025 · 3:54 PM UTC · 1896952345814339659#m
+- 链接：https://twitter.com/0xAikoDai/status/1896952345814339659#m
+- 作者：@0xAikoDai
+
+> to vc和to 热点的buidler
+>  
+> 不是真正的buidler
+>  
+> 真正的buidler，应该永远追求pmf
+
+## 118. Mar 1, 2025 · 5:19 PM UTC · 1895886540024541351#m
+- 链接：https://twitter.com/0xAikoDai/status/1895886540024541351#m
+- 作者：@0xAikoDai
+
+> Just had a blast giving the keynote at @alt_layer 's Agentic Crypto Day during ETH Denver 2025 yesterday.
+>  
+> Loved chopping it up with some dope industry leaders in AI agents and blockchain—swapping ideas and vibing on the future.
+>  
+> At MyShell, we’re all about pushing that autonomous AI agent revolution, maybe even AGI one day. I talked about how our ShellAgent framework uses this State Machine vibe—creators can build complex agents by linking states, not just messing with workflows like LLMs + function calls.
+>  
+> Oh, and we’re leveling up soon with Text-to-Agent capabilities. Imagine this: you just tell ShellAgent what kind of AI agent you want, and bam, it’s built from your prompt—no drag-and-drop needed. AI writing AI agents? Yeah, that’s coming.
+>  
+> Big shoutout to @yq_acc @EdFelten @ayyyeandy and @Punk9277 . Your insights lit me up. Let’s keep building this future of AI x crypto together!
+
+## 119. Feb 28, 2025 · 5:12 PM UTC · 1895522564379975735#m
+- 链接：https://twitter.com/0xAikoDai/status/1895522564379975735#m
+- 作者：@0xAikoDai
+
+> New link shells: binance.com/en/square/audio?…
+
+## 120. Feb 28, 2025 · 4:25 PM UTC · 1895510754436231512#m
+- 链接：https://twitter.com/0xAikoDai/status/1895510754436231512#m
+- 作者：@0xAikoDai
+
+> See you in 35 mins
+
+## 121. Feb 27, 2025 · 1:41 AM UTC · 1894925919417950501#m
+- 链接：https://twitter.com/0xAikoDai/status/1894925919417950501#m
+- 作者：@0xAikoDai
+
+> Aiko was just doxxed, and she looks just like @hance_zhang7.
+
+## 122. Feb 26, 2025 · 7:04 PM UTC · 1894825988007297431#m
+- 链接：https://twitter.com/0xAikoDai/status/1894825988007297431#m
+- 作者：@0xAikoDai
+
+> Ready to hack it out with @myshell_ai team today at Super Agent Hackathon.
+
+## 123. Feb 26, 2025 · 5:31 PM UTC · 1894802424293970171#m
+- 链接：https://twitter.com/0xAikoDai/status/1894802424293970171#m
+- 作者：@0xAikoDai
+
+> Is Slack down or did I get fired?
+
+## 124. Feb 26, 2025 · 5:55 AM UTC · 1894627318972191179#m
+- 链接：https://twitter.com/0xAikoDai/status/1894627318972191179#m
+- 作者：@0xAikoDai
+
+> There are plenty of $SHELL holders in town.
+>  
+> #ETHDenver2025
+
+## 125. Feb 26, 2025 · 3:17 AM UTC · 1894587460946202682#m
+- 链接：https://twitter.com/0xAikoDai/status/1894587460946202682#m
+- 作者：@0xAikoDai
+
+> Excited to make my panel debut in Denver! I'll be diving into AI's impact on the crypto sphere alongside @BNBCHAIN. It's fascinating how AI has supercharged human productivity, while blockchain has revolutionized finance.
+>  
+> We've just rolled out a major upgrade to ShellAgent, introducing ShellAgent Protocol for AI widget writing. It is a real game-changer – it's going to make AI creation a whole lot easier and seriously amp up productivity. Thanks to LLM we're now equipped with some seriously impressive reasoning and planning capabilities. Looking ahead, I can see the ShellAgent framework becoming the go-to platform for whipping up investment-savvy AI agents.
+>  
+> Big thanks to @cryp_tomr
+> @karansirdesai @KrysiaKozak @philism_
+> for the chance to be part of this and for the fantastic chat. Can't wait to see where this leads!
+
+## 126. Feb 25, 2025 · 9:05 PM UTC · 1894493982836625599#m
+- 链接：https://twitter.com/0xAikoDai/status/1894493982836625599#m
+- 作者：@0xAikoDai
+
+> Shells are taking over ETHDenver; listen to @hance_zhang7 from MyShell talking about million X AI opportunities on @BNBCHAIN
+
+## 127. Feb 25, 2025 · 8:00 PM UTC · 1894477671624839274#m
+- 链接：https://twitter.com/0xAikoDai/status/1894477671624839274#m
+- 作者：@0xAikoDai
+
+> Look, who’s gonna talk about our ShellAgent framework at the BNB Incubation Alliance AI Panel?
+>  
+> #ETHDenver2025
+
+## 128. Feb 25, 2025 · 6:47 PM UTC · 1894459251453825179#m
+- 链接：https://twitter.com/0xAikoDai/status/1894459251453825179#m
+- 作者：@0xAikoDai
+
+> empower people with AI; empower people with crypto
+
+## 129. Feb 24, 2025 · 5:38 PM UTC · 1894079356156481938#m
+- 链接：https://twitter.com/0xAikoDai/status/1894079356156481938#m
+- 作者：@0xAikoDai
+
+> 谢谢大家，统一回复下岗位基本要求：对市场上AI领域的agent基础框架了解➕动手能力强，能利用ShellAgent自己做出好玩的AI agent再带教新开发者做➕评估和拆解具体的Agent需求，并带领新开发者和合作伙伴完成Agent搭建➕web3 native加分（我们已经有超强的web2dev rel了）➕英语好加分➕能够对外做更多事的加大分（需要BD，演讲，pitch等多种技能）
+
+## 130. Feb 24, 2025 · 7:48 AM UTC · 1893930925236289825#m
+- 链接：https://twitter.com/0xAikoDai/status/1893930925236289825#m
+- 作者：@0xAikoDai
+
+> 本次ETHDenver重要KPI之一是招到devrel🫡对AI Agent感兴趣，对做真正有PMF现金流强应用场景的AI Agent平台和开发者生态感兴趣的DM约我约我约我🙏
+> 你会跟世界最强的AI solo-dev们一起工作（我们平台现在的AI开发者都是openart leaderboard榜单前20的世界级大佬）
+
+## 131. Feb 24, 2025 · 6:40 AM UTC · 1893913752430633046#m
+- 链接：https://twitter.com/0xAikoDai/status/1893913752430633046#m
+- 作者：@0xAikoDai
+
+> 关注AI Agent，说说 @myshell_ai 更新的ShellAgent框架
+>  
+> 主要内容3部分，允许无需编写代码构建Agent、支持部署在twitter和tg、支持自动执行链上动作推动Agent自主性。
+>  
+> 重点看了实现Agent自主性这部分，根据链上数据进行独立动态决策，迈向链上AGI时代，这是目前还未实现的最性感的叙事了
+>  
+> 比如自动监控事件、执行交易、DeFi Yield等操作。这个事情目前市场上的方案是拆成两个阶段：
+>  
+> 1. 第一阶段通过DeFAI Agent实现实时跟踪用户的链上活动，并根据数据提供行动建议，并让用户在人机对话中完成交易。
+>  
+> 2. 第二阶段需要AI Agent集成钱包，实现完全的自主性。
+>  
+> 市场上大部分DeFAI都在做第一阶段，MyShell这次更新的ShellAgent框架支持模块化钱包功能，开发者可以直接构建集成钱包模块的AI Agent，使Agent能独立基于链上数据进行动态决策，无需人工干预。
+>  
+> 举例来说，Agent跟踪并收集链上活动信息，在市场波动时自动调用钱包来执行交易。当然也可能从twitter收集舆情信息形成自主交易判断，这样的自主性让Agent不单单收集整理信息给用户，还能够自己执行复杂的链上操作。另外ShellAgent也增加了多链兼容性，使自主Agent能够无缝在多个链上活动。
+>  
+> AI Agent 还有很多未实现且可做的事情，趋势是基建能力卷的越来越强，使用和创业成本越来越低，是未来1-2年最有想象力的叙事之一。
+>  
+> 做了一下MyShell与ai16z、Virtual的市值、FDV对比
+
+## 132. Feb 24, 2025 · 4:24 AM UTC · 1893879614667215043#m
+- 链接：https://twitter.com/0xAikoDai/status/1893879614667215043#m
+- 作者：@0xAikoDai
+
+> I'll be working full days, but I'm happy to catch up 1:1 in person. If you're interested in learning more about ShellAgent, I'd be glad to introduce you to my brilliant colleagues @hance_zhang7 and @JohnTian99.
+>  
+> See you in Denver 🏔️🤖
+
+## 133. Feb 21, 2025 · 9:55 PM UTC · 1893056998544986471#m
+- 链接：https://twitter.com/0xAikoDai/status/1893056998544986471#m
+- 作者：@0xAikoDai
+
+> The @myshell_ai non-stop cooking 🤖
+>  
+> - Visualize complex agent workflows
+>  
+> - Connect agents to any data source (Sentiment, prices, context)
+>  
+> - Seamless integration with X/social platforms (full real-time automation, not just scheduled reactions)
+>  
+> - Full on-chain agent interactions (gathering, analyzing & recognizing data patterns, executing transactions & smart contracts)
+>  
+> Continually impressed with the MyShell team
+
+## 134. Feb 20, 2025 · 3:36 PM UTC · 1892599189109981195#m
+- 链接：https://twitter.com/0xAikoDai/status/1892599189109981195#m
+- 作者：@0xAikoDai
+
+> 昨天刚发教程当晚创作者就把春节祝福NFT agent做出来了，确保DeFAI发生在myshell🫡
+
+## 135. Feb 19, 2025 · 8:59 AM UTC · 1892136807212744771#m
+- 链接：https://twitter.com/0xAikoDai/status/1892136807212744771#m
+- 作者：@0xAikoDai
+
+> 传统平台用算法圈养用户，而Shell生态在培育「AI-创作者-用户」的新模式。当每个人都能用自然语言构建专属Agent时，每个人都是创作者，每个人也都可能是AI时代中的受益者。
+
+## 136. Feb 19, 2025 · 4:13 AM UTC · 1892064958864658810#m
+- 链接：https://twitter.com/0xAikoDai/status/1892064958864658810#m
+- 作者：@0xAikoDai
+
+> Read the article and you will know why we call it the “1000x update” medium.com/@MyShell.ai/major…
+
+## 137. Feb 17, 2025 · 6:21 AM UTC · 1891372330804490512#m
+- 链接：https://twitter.com/0xAikoDai/status/1891372330804490512#m
+- 作者：@0xAikoDai
+
+> Key Insights on MyShell and ShellAgent: A Paradigm Shift in Crypto-AI Integration @myshell_ai
+>  
+> 1. beyond crypto liquidity mentality
+> The crypto space is often dominated by short-term liquidity-driven thinking, leading to skepticism about value investing. However, MyShell exemplifies a shift towards sustainable value creation. Unlike many AI-focused crypto projects that fail to deliver tangible products, MyShell’s ShellAgent framework enables users to build powerful AI applications without coding, rivaling 90% of AI meme functionalities on Solana over the last pvp szn. This positions MyShell as a rare example of a project with both utility and long-term potential
+>  
+> 2. ShellAgent: a game changer in AI deployment
+> ShellAgent is a modular, open-source Agentic Framework that democratizes AI app creation. It integrates cutting-edge models like GPT-4, Claude 3.5, and Stable Diffusion, offering a drag-and-drop interface for seamless development. Its ability to monetize creations through a shared library and AIpp Store has already generated over $1.3M in trading volume, with top creators earning upwards of $10,000. This contrasts sharply with projects that prioritize token launches over product development
+>  
+> 3. strategic tokenomics and sustainable ecosystem growth
+> MyShell’s approach prioritizes building foundational value before expanding its token ecosystem. By focusing on enhancing the utility of $SHELL and fostering a creator-driven economy, MyShell avoids the pitfalls of quick cash grabs. This aligns with the vision of top-tier VCs like Dragonfly and Binance, who have backed the project. The recent integration of AI-DeFi automation further underscores its commitment to innovation
+>  
+> 4. the intersection of web2 and web3: a competitive edge in the tech
+> MyShell’s open-source models and GitHub activity demonstrate its technical prowess, setting it apart from all the other Web3 AI projects. Its rapid adoption of DeepSeek’s technology highlights its agility and ability to capitalize on emerging trends. This bridges the gap between Web2’s technical rigor and Web3’s decentralized ethos, creating a unique value proposition
+>  
+> 5. fair and inclusive token distribution strategy
+> MyShell’s bottom-up token distribution model benefits both early adopters and long-term holders. By allowing skeptics to exit early and bullish investors to accumulate at lower prices, it fosters a healthier ecosystem. This strategy, combined with Binance’s endorsement, signals a broader market recognition of MyShell’s potential
+>  
+> 6. the road ahead: value discovery and CEX listings
+> MyShell’s focus on product development and community engagement positions it well for future growth. As the project enters its value discovery phase, CEX listings are a natural progression. The current market dynamics highlight the stark information gap between Web2 and Web3, presenting opportunities for further innovation and education
+
+## 138. Feb 17, 2025 · 2:38 AM UTC · 1891316219862745445#m
+- 链接：https://twitter.com/0xAikoDai/status/1891316219862745445#m
+- 作者：@0xAikoDai
+
+> Building AI Agents, especially on-chain Agent frameworks, is no small feat. We're working around the clock because we understand that a promotional video is just the tip of the iceberg. Behind the scenes, we're developing:
+>  
+> - Open-source GitHub repositories
+> - Dedicated test Agents (we've already created three on-chain Agent demos)
+> - Detailed, step-by-step widget tutorials to empower everyone to create on-chain Agents
+> - Templates for one-click creation and publishing
+> - Solutions for all edge cases encountered during development, making our widgets more general and flexible
+> If someone claims they've ushered in the era of on-chain AGI with just a single video, they're undoubtedly a scammer. We're crafting a comprehensive AI framework for both on-chain and off-chain applications. Stay tuned for our continuous stream of deliverables.
+
+## 139. Feb 16, 2025 · 12:20 PM UTC · 1891100435257434359#m
+- 链接：https://twitter.com/0xAikoDai/status/1891100435257434359#m
+- 作者：@0xAikoDai
+
+> Major Update for ShellAgent: MyShell Redefines AI Agent Ecosystem and Decentralized Automation
+>  
+> We're unlocking:
+> 🤖 ShellAgent Protocol—The new open and modular agentic framework
+> 🤖 IM Integration—Deploy AI agents directly on X
+> 🤖 On-chain Intelligence—AI-driven DeFi automation & onchain interaction
+>  
+> The enhancements simplify development, enhance user experiences, and open new pathways for cross-industry applications. Positioned at the forefront of crypto and AI, MyShell is building a future where intelligent, autonomous agents become central to decentralized innovation.
+>  
+> These aren't just tech upgrades—they redefine AI x crypto. Let’s dive in! 🧵👇
+
+## 140. Feb 16, 2025 · 12:55 PM UTC · 1891109169870344498#m
+- 链接：https://twitter.com/0xAikoDai/status/1891109169870344498#m
+- 作者：@0xAikoDai
+
+> Imagine in the near future, based on ShellAgent, thousands of AI agents are interconnected and agents serve each other!🚀
+>  
+> We will see agents on social media tweeting at each other and the decision-making assignments get the job done.🤣
+>  
+> This update fits extremely well with the vision of decentralization and is truly the first step towards on-chain AGI.🐚
+
+## 141. Feb 16, 2025 · 11:29 AM UTC · 1891087504251502958#m
+- 链接：https://twitter.com/0xAikoDai/status/1891087504251502958#m
+- 作者：@0xAikoDai
+
+> you couldn't imagine how powerful ShellAgent is
+
+## 142. Feb 16, 2025 · 7:57 AM UTC · 1891034025562636629#m
+- 链接：https://twitter.com/0xAikoDai/status/1891034025562636629#m
+- 作者：@0xAikoDai
+
+> 🙏🏻
+
+## 143. Feb 15, 2025 · 2:59 PM UTC · 1890778044337668299#m
+- 链接：https://twitter.com/0xAikoDai/status/1890778044337668299#m
+- 作者：@0xAikoDai
+
+> Over the past two days, I’ve seen so many @myshell_ai creators and community veterans sharing their $SHELL airdrop and journeys. It made me realize that this  embodies the original spirit of cypherpunk values.
+>  
+> For years, pre-TGE projects have measured airdrop eligibility by on-chain verifiable records—how much TVL you contributed, how many transactions you made, or how deep your liquidity went.
+>  
+> But the longer we stay in Crypto, the easier it is to forget what true participation means.
+>  
+> Real participation isn’t just about staking tokens or generating on-chain data.
+>  
+> It’s about being an active user who helps refine a product’s PMF or an engaged developer who builds and provides feedback on the platform’s tools.
+>  
+> Blockchain technology is merely a facilitator in this process—it should surface when needed, not be treated as the core measure of participation. What matters is real-world participation, not just on-chain metrics.
+>  
+> I’ve always been a Web3 & DeFi believer, but I don’t think the current approach to community incentives in crypto truly fosters a strong community.
+>  
+> That’s why I’m so glad that @myshell_ai 's first airdrop has created so many real, meaningful stories. Hopefully, this allows the creators and contributors to enjoy the life they truly deserve.
+
+## 144. Feb 16, 2025 · 1:53 AM UTC · 1890942608849166364#m
+- 链接：https://twitter.com/0xAikoDai/status/1890942608849166364#m
+- 作者：@0xAikoDai
+
+> 非常开心能陪伴Myshell平台成长 @myshell_ai ,感谢组织的投喂~
+>  
+> 24年10月波波老师邀请加入组织，现在已经是个🐔练习时长5个月的Bot创作者了。
+>  
+> 感谢波波老师的引荐 @Arxchibo_shell 和在Bot创作过程中的大力支持的@於城城城城城城老师!!  非常感谢！
+>  
+> 第一个Bot[📷AI Portrait Studio]就荣幸的被带上了ccs东京大会，当时Myshell bot的搭建环境和现在相比，简直是天差地别。也算当初的熬夜加班的功夫没有白费~
+>  
+> 接着就是ARCANE 的意外爆火，拿下Myshell的年度最热😇，这是第一个用Myshell的新搭建模式进行的bot搭建，经历过第一次在云端的痛苦，简直不敢相信搭建一个bot竟然如此简单。
+>  
+> 同时感叹Myshell开发人员真是太牛了，Myshell的产品真是太懂我们这些comfyui作者了，Respect!
+>  
+> 除了Myshell本身让开发者舒服的环境，Myshell也吸引了非常多的顶尖AI大佬的加入，比如彬子老师，Kiko老师，波风老师等等，他们在Bot上的设计让我学到了非常多，感谢他们的无私分享~
+>  
+> 新的一年，希望Myshell越来越强大，带着我们飞起来！也希望新的一年能做出新的让用户喜欢的bot🎉🎉
+
+## 145. Feb 14, 2025 · 7:17 AM UTC · 1890299370345541917#m
+- 链接：https://twitter.com/0xAikoDai/status/1890299370345541917#m
+- 作者：@0xAikoDai
+
+> 我知道 MyShell 的时候，大约是 24 年的 7 月，MyShell 已经在 AI 虚拟角色的 Agent 制作上非常能打。
+>  
+> 有位朋友是著名的虚拟角色独立创作者，最早他是基于 Langchain 搭建后接入微信让用户使用，但微信生态的封闭导致很难获得新用户和挣到钱，另外交互方式的单一并不能完整呈现他对创作的角色的塑造。
+> 之后他尝试在其他 Agent 平台复现自己的作品，都没有达到他的预期。直到有一天群里看到他分享新的虚拟角色作品。
+>  
+> 点进去试玩，效果非常好，基于 Claude3.5-sonnet 的强大和他的提示词技巧，把他对虚拟角色的丰富人生和性格塑造展现的淋漓尽致。一上线玩家蜂拥，好评如潮，直到现在仍在 MyShell 的虚拟角色分类上霸榜。
+> 他说这个 Agent 制作的非常酣畅，找回了当时自己用代码搭的自由，同时又有丰富的组件和交互方式任意组合。
+> 那次，我记下了这个 Agent 平台的名字：MyShell。
+> 几乎见到的 Agent 平台都被 Coze 带到工作流设计思路这一条道上了。当看到基于状态机的 ProConfig 真的眼前一亮，还能这么玩，当时并不太理解状态机的优势，单纯觉得在枯燥的 Agent 创作范式上多了一种可能性挺好。
+>  
+> 我并不擅长虚拟角色的创作，所以这次相遇浅尝辄止，但心里埋下一颗种子，想创作能被更多用户喜爱的 Agent。
+>  
+> 再次相遇是 8 月底 Myshell 的 Hance 向我介绍他们新的战略项目——ShellAgent。我粗浅的理解，基于 ProConfig 状态机内核做可视化，基于多模态引入 ComfyUI 生态。
+> 这下真的心动了。我一直觉得 ComfyUI 的玩法在结合 LLM 的 Agentic 能力才能最大化的释放创意。ShellAgent 是第一个不打一点折扣的做到这点，只要本地能跑通的 ComfyUI 流都能部署，只要想用的各种模型第一时间满血支持。
+>  
+> 那之后我全情投入到基于 ShellAgent 的 Agent 创作中，从 ShellAgent 风风火火，缝缝补补的开荒版本，走到现在稳扎稳打，高效便捷的容器版本，不知道踩了多少坑，熬了多少夜，但是很开心。不否认这里面有挣钱的快乐，但更重要的是来自表达欲的满足。从刚接触 AI Agent 概念到现在，我一直在试图做出一些超越 Demo，会被广大用户使用的 Agent。
+> 在 GPTs，Langchain，Coze 上我都没做到，在 MyShell 我看到希望，并逐渐清晰的靠近。当我把自己对 Agentic 的设想具象到一个个自己做的 Agent 中，并在线上获得用户真切的认可，这种内啡肽的快乐非常持久。
+>  
+> 就这样，我先后做了 10+个 Agent，基本掏空我之前在脑海中停留的库存。这个过程中，MyShell 团队无时不刻蹲守在创作者群里贴身响应各类问题，每个人呈现出的精气神和专业让我由衷佩服。
+> 举三个小片段感受下时间轴。
+>  
+> 研发团队非常年轻且牛逼，我愿称他们是一群小天才。但天才还如此谦逊负责就令人震惊。
+> 如图其中最具代表的一位，凌晨陪我查问题，我睡了他还没睡，早晨我还没起，他已经在回复问题。
+> 他们面对每个创作者都是如此，ShellAgent 能进化的如此神速就不奇怪了。
+>  
+> 市场团队非常有才华，层出不穷的推特活动，社区活动，琳琅满目的优质文章，优质视频，我原来以为是她们足够高效，其中背后离不开她们的拼命。
+> 如图中国年三十的深夜，Aiko 带着她的团队还在忙工作。当时我在看春晚，看到消息时喝的那点酒都震惊醒了。
+> 这只是她们的普通日常片段，MyShell 能获得如此一致的好评就不奇怪了。
+>  
+> 很难想象这是一个全球化办公的团队展现出来的协同能力和拼搏精神。所以我相信这样的团队能够不断创造新的范式，带来更多可能性。
+>  
+> ShellAgent 远不止于此，这只是 5 个月来的一个里程碑，已经有了云版本，未来更可期，人人都可以在 MyShell 上成为 AI 时代的创作者，创作出属于自己的 Agent。
+>  
+> 只管向前奔跑，其余交给时间。
+
+## 146. Feb 14, 2025 · 5:35 AM UTC · 1890273694616007011#m
+- 链接：https://twitter.com/0xAikoDai/status/1890273694616007011#m
+- 作者：@0xAikoDai
+
+> 不仅如此：
+> - 我们的产品同学入职第一天的转正任务是能不能在三个月内做出留存合格的Agent
+> - ShellAgent工程师每个人都要负责帮助5个以上的开发者成功开发应用
+>  
+> ✳️ 全员GTM对最终价值负责是我们一直致力于打造的团队文化，非常欢迎工作三年以内的小天才们给我投递简历
+>  
+> 虽然有些声音认为我们“成本太高了”，但以我的视角来看，我们在以Web2那些怪兽竞品10%不到的资源与其竞争。这次TGE给了我们更多的可流动资源，仅仅只是一个开始，让我们朝着去中心化的Agent开发平台愿景移动的更快一点。
+
+## 147. Feb 14, 2025 · 4:12 AM UTC · 1890252671090933878#m
+- 链接：https://twitter.com/0xAikoDai/status/1890252671090933878#m
+- 作者：@0xAikoDai
+
+> KIKO @kiko175001 's AnimePix was the first agent I used on MyShell—even before I joined the team.
+>  
+> Back then, when most agents were focused on role-playing and chat interactions, KIKO was pioneering AI-generated images.
+>  
+> At the time, AnimePix + IKA practically defined @myshell_ai 's first impression for many users.
+>  
+> Fast forward to today, and these creators are still actively shaping the ecosystem.
+>  
+> Thesis shift rapidly nowadays, it’s rare to see a crypto project achieve this level of retention and user loyalty.
+
+## 148. Feb 14, 2025 · 4:55 AM UTC · 1890263492927901734#m
+- 链接：https://twitter.com/0xAikoDai/status/1890263492927901734#m
+- 作者：@0xAikoDai
+
+> kiko是我第一个手把手教学shell coin如何兑换以及AIpp如何发行的创作者，当时web3 team只有我一个人，开会跟web2创作者科普shellcoin的奖励机制，而今天的我们创作者炉边谈话的变成了@Westiger3 和 @JohnTian99  去分享。
+> 我们团队所有人（产品/BD/运营）都会跟创作者一对一聊天，我的Discord私聊窗口全是我们的用户。做社区正确的感觉就是这样：每个人都要直面用户，而每个用户都可以直接联系到团队，以至于现在新成员onboard传统是每个人加入MyShell第一件事就是做社区运营。我也完成了从“我做得很好”到“我们团队做得很好”的转变🥲🥲🥲 感慨一下接着干活去了
+
+## 149. Feb 14, 2025 · 4:37 AM UTC · 1890258961468912009#m
+- 链接：https://twitter.com/0xAikoDai/status/1890258961468912009#m
+- 作者：@0xAikoDai
+
+> My Journey in @myshell_ai
+>  
+> In 2023, I received an invitation from @hance_zhang7 to join MyShell AI platform to create AI agents. Having previous experience in creating AI agents, I gladly took this opportunity.
+>  
+> My interest in AI started years ago when I created my first AI agent companion named "Jewel." She was designed for simple conversations, but I was amazed by how AI responds, thinks, and what it could potentially do. This sparked my curiosity to explore more about AI's capabilities and limitations.
+>  
+> MyShell has been a great learning experience. The platform's community, including the team and fellow creators, is very supportive. While we faced many challenges, the biggest one was learning pro-config, especially since I didn't know how to code.
+>  
+> I'm really thankful to all the creators in the community who have been helping others. While there are many amazing creators out there, I'd like to mention a few who have actively supported the community (and please know there are many more wonderful creators I haven't named):
+> - @IKA_creator
+> - @Kirbish34K34non
+> - @kiyokio3o
+>  
+> These creators, along with many others, shared their code openly, which made learning pro-config much easier for me. Their guidance and tips for newcomers have been incredibly helpful, and it's no surprise they're successful in earning $SHELL tokens.
+>  
+> The team then introduced ShellAgent mode, an innovative zero-code system with drag-and-drop features. This makes creating AI agents possible for everyone, even without coding knowledge. As I learn more about this new feature, I'm reminded that we all start somewhere and grow step by step.
+>  
+> Looking to the future, I'm excited about how AI and platforms like MyShell will shape our world. We're seeing AI become part of our daily lives, changing how we work, enjoy entertainment, and interact with technology. MyShell is helping make AI accessible to everyone, and I believe its value will only grow as AI continues to advance and improve our lives in meaningful ways.
+
+## 150. Feb 14, 2025 · 4:27 AM UTC · 1890256618744611085#m
+- 链接：https://twitter.com/0xAikoDai/status/1890256618744611085#m
+- 作者：@0xAikoDai
+
+> myshell是我们一直在用的web3 AI产品
+
+## 151. Feb 14, 2025 · 4:23 AM UTC · 1890255605413363879#m
+- 链接：https://twitter.com/0xAikoDai/status/1890255605413363879#m
+- 作者：@0xAikoDai
+
+> MyShell's early creator recruitment convo leaked @myshell_ai. Looking back, it's been a journey of blood, sweat, and tears. (Perhaps this dedication is why I chose to invest in MyShell in the first place.) People who build seriously always find a way to come together. 😭😭😭😭
+
+## 152. Feb 14, 2025 · 4:18 AM UTC · 1890254182332133576#m
+- 链接：https://twitter.com/0xAikoDai/status/1890254182332133576#m
+- 作者：@0xAikoDai
+
+> It's fascinating to hear @hance_zhang7  mention that @NoLHuman  as the first creator he onboarded to MyShell two years ago. It's heartening to see that this journey has been rewarding, and I'm deeply moved to learn that our team members dedicated so much to building our community. Their persistence has finally led to something truly valuable. This inspires me to feel an even greater sense of responsibility to continually improve and expand our entire ecosystem.
+
+## 153. Feb 14, 2025 · 3:09 AM UTC · 1890236860569657765#m
+- 链接：https://twitter.com/0xAikoDai/status/1890236860569657765#m
+- 作者：@0xAikoDai
+
+> Just claimed my 200K $SHELL! Yesterday changed my life.
+>  
+> After 2+ years of grinding with @MyShell_AI, I've witnessed the evolution of AI creation. From basic AI Agents to ProConfig, image generators, and now the revolutionary ShellAgent mode.
+>  
+> What makes it special? Anyone can craft AI masterpieces with zero coding experience!
+>  
+> The trends kept changing, and we had to adapt. But that's what made this journey exciting. Creating AI Agents has been incredibly fun - after all, we humans love to craft and explore, and MyShell provided the perfect playground for that.
+>  
+> To my fellow creators who've been here since day one - we made it! 🎉
+>  
+> Excited for this new chapter with $SHELL Token Generation Event (TGE)!
+
+## 154. Feb 13, 2025 · 4:31 PM UTC · 1890076260136874205#m
+- 链接：https://twitter.com/0xAikoDai/status/1890076260136874205#m
+- 作者：@0xAikoDai
+
+> I haven't slept in the past 24 hours, and I might be the last one to claim my airdrop @myshell_ai.
+>  
+> - In May 2023, I created my first AI bot using MyShell. The Tarot Card Agent was constantly generating ShellCoin for me and acquiring some followers on Xiaohongshu.
+> - In May 2024, I officially joined the MyShell team, building the Web3 division from scratch.
+> - By February 2025, we were in full swing preparing for a major ShellAgent update. Meanwhile, on Chinese New Year's Eve, we became the first platform in the industry to integrate DeepSeek.
+>  
+> Two years have passed, and it all feels like a dream to see this really happen.
+>  
+> MyShell is the AI platform I use every day. Shells were humanity's first currency, and $SHELL is the first currency for AI. We're only going to be better and higher.
+
+## 155. Feb 13, 2025 · 4:03 PM UTC · 1890069308220514374#m
+- 链接：https://twitter.com/0xAikoDai/status/1890069308220514374#m
+- 作者：@0xAikoDai
+
+> $SHELL IDO Recap:
+>  
+> - 11425% Oversubscribed
+> - 145,106 BNB Staked
+> - Hit funding target around 21 seconds
+>  
+> MyShell's Token Generation Event (TGE) made history today, shattering records and marking a pivotal moment for both the MyShell community and the broader BSC ecosystem. Shout out to our amazing partners @BinanceWallet and @PancakeSwap for their unwavering support throughout the process. Together, we've created something truly magical!
+>  
+> The numbers tell an incredible story: Our Initial DEX Offering (IDO) hit its $SHELL funding target around 21 seconds. Within just 5 minutes, we'd exceeded that target fivefold, and after 30 minutes, we'd reached 10 times our goal. Current figures show an astounding 100x oversubscription rate.
+>  
+> The launch coincided with ripples spreading throughout the BSC ecosystem. Coinciding with our TGE announcement, the BNB Chain ecosystem experienced a widespread surge, with many tokens seeing significant price increases. This collective momentum is a testament to the strength of the ecosystem and its projects. We're excited to be part of this thriving ecosystem and look forward to contributing to its continued growth alongside our partners.
+>  
+> The overwhelming demand for $SHELL underscores the unified belief within the MyShell community: building AI products that truly meet market needs and earning recognition through innovation and execution. This level of participation is a testament to the growing conviction in AI x Crypto, reinforcing our mission to shape the future of AI-powered economies.
+>  
+> MyShell's core mission remains unchanged: advancing fundamental AI technology, building robust infrastructure, and sharing breakthrough innovations through open-source contributions.
+
+## 156. Feb 13, 2025 · 2:33 PM UTC · 1890046633838309465#m
+- 链接：https://twitter.com/0xAikoDai/status/1890046633838309465#m
+- 作者：@0xAikoDai
+
+> 我有找新项目的习惯，23年5月左右 @myshell_ai 第一天发抽奖活动就参与了，项目很不错就一直跟着，一直当用户进行自发宣传和创作，之后 @ethan_myshell 和@0xAikoDai 邀请我当大使自然也接受。
+> 我参与过的项目大致经历过4个阶段：
+> 1）23年中的内测版本：当时的开源声音克隆技术行业领先，吸引了一批主要来自国外懂的AI的先驱，当时还是以 GPT3.5 为主，用户也多是 Web2 的。精通 prompt 工程能赚不少分，特别是做 AI 女友的创作者赚了很多币。
+> 2）24年前后的徽章版本：创作者端发布了 ProConfig，可以当 AI Agent 框架理解，但开发者只用写JSON配置文件就能部署一个 AI 应用，我也写了一些相关技术文章 scriptmoney.xlog.app/tag/MyS… ，也有不少朋友通过编写 ProConfig 获得了第一个创作者NFT。
+> 至于徽章其实挺好玩的，Web3 投机用户采取了各种策略，刷得很开心，还有土耳其人和韩国人抱团玩，不过今天看来赚的币都被砍了，不管是徽章分红的还是创作者激励。
+> 3）之后发了测试网，奖励是 MySoul NFT，迎来了一波热潮。但社区运营比较混乱，核心圈聊天都被赶到子区去了，也是目前很多做DC等级的项目现状。目前看奖励的 0.3E NFT 白名单算是不错的。至于测试网内容会不会上主网不得而知。
+> 4）24年10月开始的 AIpp 版本。团队其实也知道 Web3 的创作者太激励导向了，在设计出 ShellAgent 这个结合了ComfyUI 的绘图的框架后，创作者都是去 Web2 渠道一个一个对接的，国内搞ComfyUI 的大神几乎都是 MyShell 的创作者，目前主推的各种绘图 Agent 都是他们做的。我也有尝试过，但我没有画图需求，社区创作者又太厉害，就没怎么研究了。至于 Web3 用户，做了一个 AIpp 系统给他们刷，可以直接花钱刷分换币，只是相比其他 AI launchpad 来说确实太冷清了。
+> 未来会是怎样我也不知道，目前在参与写服务以插件的形式上架到创作工坊中，和团队探索开发者参与插件创作的途径。MyShell 依旧是我首选的 AI 开发部署平台，Web3 玩法对于我来说不重要，项目的核心价值在于可以快速创作 AI 应用并交付给终端用户，代币只是让更多优秀创作者参与进来的激励手段。
+
+## 157. Feb 13, 2025 · 12:20 PM UTC · 1890013093205582012#m
+- 链接：https://twitter.com/0xAikoDai/status/1890013093205582012#m
+- 作者：@0xAikoDai
+
+> 100,000+ BNB locked in🔒
+>  
+> 100x, soon?
+
+## 158. Feb 13, 2025 · 10:50 AM UTC · 1889990648855670884#m
+- 链接：https://twitter.com/0xAikoDai/status/1889990648855670884#m
+- 作者：@0xAikoDai
+
+> oversubscribed 7000% now
+
+## 159. Feb 13, 2025 · 6:04 AM UTC · 1889918426585637193#m
+- 链接：https://twitter.com/0xAikoDai/status/1889918426585637193#m
+- 作者：@0xAikoDai
+
+> .@myshell_ai is having $SHELL IDO today.
+>  
+> In case you missed it, MyShell is a leading AI consumer layer on BNBChain, which has just announced a partnership with @four_meme_.
+>  
+> The IDO will take place via Binance Wallet.
+>  
+> Airdrop confirmed, stay tuned.
+
+## 160. Nov 11, 2024 · 12:53 PM UTC · 1855957019041185955#m
+- 链接：https://twitter.com/0xAikoDai/status/1855957019041185955#m
+- 作者：@0xAikoDai
+
+> the Future is here and it looks pretty MyShell-made
+
+## 161. Feb 13, 2025 · 4:58 AM UTC · 1889901933177225348#m
+- 链接：https://twitter.com/0xAikoDai/status/1889901933177225348#m
+- 作者：@0xAikoDai
+
+> What in the Shell-sorcery is happening?! While I was drafting the update on our token raise, $SHELL was already 10x oversubscribed—but in just a few minutes, it's now at 27x.
+>  
+> Absolutely wild! @myshell_ai
+
+## 162. Feb 13, 2025 · 1:00 AM UTC · 1889841926666420243#m
+- 链接：https://twitter.com/0xAikoDai/status/1889841926666420243#m
+- 作者：@0xAikoDai
+
+> Join @myshell_ai's exclusive Token Generation Event (TGE) Offering for #Binance Wallet on @PancakeSwap.
+>  
+> Starts in 1 hour! Set your calendar for FEB 13, 2:00 AM UTC 2025.
+>  
+> Check the activity rules with the oversubscribe mode for more details ⤵️
+
+## 163. Feb 12, 2025 · 4:20 PM UTC · 1889711154429399484#m
+- 链接：https://twitter.com/0xAikoDai/status/1889711154429399484#m
+- 作者：@0xAikoDai
+
+> Hey guys, I've been logged out of my Telegram account (@aikoforreal) on both my PC and mobile phone 30 minutes ago. We're currently working on figuring out what happened and regaining access.
+>  
+> If you receive any messages from tg user @aikoforreal, please don't reply or click on any links. Instead, report it to me directly through Twitter DM, thanks.
+
+## 164. Feb 12, 2025 · 3:01 PM UTC · 1889691187541430573#m
+- 链接：https://twitter.com/0xAikoDai/status/1889691187541430573#m
+- 作者：@0xAikoDai
+
+> Snapshot complete. $SHELL coming soon.
+> Stay tuned, shells.
+
+## 165. Feb 11, 2025 · 8:07 PM UTC · 1889405808649314458#m
+- 链接：https://twitter.com/0xAikoDai/status/1889405808649314458#m
+- 作者：@0xAikoDai
+
+> 🚀 AI & DeFi: Building Stronger Together! 🚀
+>  
+> Join us for an exclusive Twitter Space where we dive into the intersection of AI & DeFi with top builders from:
+> 🔹 @ThenaFi_
+> 🔹 @myshell_ai
+> 🔹 @UseUniversalX
+> 🔹 @aveaiofficial
+>  
+> 📅 12PM UTC, Feb 12
+> 🔗 Set a reminder: localhost:8080/i/spaces/1OdKrDP…
+>  
+> Don’t miss out on the future of AI-powered DeFi innovation! 🚀💡
+
+## 166. Feb 12, 2025 · 5:36 AM UTC · 1889549180286410993#m
+- 链接：https://twitter.com/0xAikoDai/status/1889549180286410993#m
+- 作者：@0xAikoDai
+
+> Shells, please be aware that some phishing sites are exploiting Google Ads. After clicking any Google search result, please always verify that you're on the official myshell.ai domain. We encourage you to stay informed through our official channels for TGE and airdrop announcements. Be SAFE 🙏
+
+## 167. Feb 11, 2025 · 8:03 AM UTC · 1889223828783726652#m
+- 链接：https://twitter.com/0xAikoDai/status/1889223828783726652#m
+- 作者：@0xAikoDai
+
+> The Story behind the StickerVerse AI Agent: Pioneering AI-Powered Sticker Creation with ShellAgent
+>  
+> StickerVerse is a sticker creation AI agent on MyShell, developed by creator @m1a0acc . Built using ShellAgent framework, it lets users create custom stickers in various styles, from cartoon overlays to traditional designs.
+>  
+> Try the StickerVerse AI agent: app.myshell.ai/bot/ZJBZby
+>  
+> How did @m1a0acc built it? Let's dive into the story behind. 👇
+>  
+> An AI Agent Creator's Journey
+> When our Shellz community AI agent creator @m1a0acc spotted an emerging trend on social media—cartoon stickers overlaid on four-panel photo backgrounds—they saw an opportunity. After successfully experimenting with LoRA models in ComfyUI to recreate this style, the enthusiastic response from friends made one thing clear: this concept needed to be accessible to everyone.
+>  
+> 🧵 1/7👇
+
+## 168. Feb 11, 2025 · 7:42 AM UTC · 1889218492723012067#m
+- 链接：https://twitter.com/0xAikoDai/status/1889218492723012067#m
+- 作者：@0xAikoDai
+
+> After releasing the ShellAgent 2025 strategic plan internally, our engineers became more optimistic and excited about its future than I expected. The confidence is so high now, I’m starting to wonder if we’re getting hallucinated by ourselves. Real story
+
+## 169. Feb 10, 2025 · 2:27 PM UTC · 1888958057469866300#m
+- 链接：https://twitter.com/0xAikoDai/status/1888958057469866300#m
+- 作者：@0xAikoDai
+
+> 最近我们内部刚分享完 @hance_zhang7 的ShellAgent2025规划，又看到binzi老师的文章。用心做好大家爱用的产品，用心做好生态是真的能被看到和读懂🙏
+> “ShellAgent 不是拘泥在节点层面去寻找解法，而是先跳到更高维度去追问，出发点不是一味追求系统的稳定，而是第一性原理的从创作者视角来提出一个命题： AI Agent 创作者生态需要什么样的框架来最大限度激发出创作潜力？”
+
+## 170. Feb 10, 2025 · 4:16 AM UTC · 1888804297728758057#m
+- 链接：https://twitter.com/0xAikoDai/status/1888804297728758057#m
+- 作者：@0xAikoDai
+
+> we're looking for a dev-rel 🔭
+
+## 171. Feb 9, 2025 · 9:49 AM UTC · 1888525507500839206#m
+- 链接：https://twitter.com/0xAikoDai/status/1888525507500839206#m
+- 作者：@0xAikoDai
+
+> When you dedicate your weekend to work and encounter this... it all paid off @myshell_ai
+
+## 172. Jan 28, 2025 · 9:11 AM UTC · 1884167450658497026#m
+- 链接：https://twitter.com/0xAikoDai/status/1884167450658497026#m
+- 作者：@0xAikoDai
+
+> 昨天，CZ转发了 @myshell_ai 集成DeepSeek的内容，市场对于MyShell的创新应变速度展开了讨论，但回看最近其创始人发布的AI Agent展望贴，就大致可以找到答案：MyShell选择了一套更“务实派”的AI Agent赛道布局打法。
+>  
+> 1）MyShell的身份很特殊，它是web3领域最早被贴上AI Agent聚合平台的产品，同时又是web3领域最像web2 Agent应用商店的AI平台，在web2领域它很另类，在web3领域它又不够Native。
+>  
+> 可能正因为此，在过去web3以 #Virtual、#ai16z 为代表的AI Agent炒作热潮中，MyShell似乎缺席了，但本质上其实是它选择了一条更“务实派”的路线。
+>  
+> 2）所以在主流AI Agent叙事方向争议框架和标准够不够落地，单体AI是否有实用性，DeFai、MetAiverse等是否能落地等等问题的时候，MyShell在年度总结中就可以骄傲地说，其平台已经累积了500万用户、20万创作者、2万个AI Agent应用、和一个完整的的Agent开发框架ShellAgent等等成绩。此外，其部分创作者月收入已经达到了4,000美元，具备一定的商业变现模式和可持续性。
+>  
+> 不难看出，MyShell用数据和模式增长等更稳健扎实的成绩向市场发出声音，MyShell也会在AI Agent叙事热潮中抢的一席之地，而且在市场从概念炒作回归理性之后的空窗期，MyShell的优势也可能更加凸显？
+>  
+> 3）看似MyShell走了一条特立独行的路，但本质上问题在于：AI Agent市场要先有成熟的单体AI应用，还是先有Launchpad资产发行叙事泡沫？
+>  
+> 显然，在 $TRUMP 代币横空出世前，“资产发行”的叙事占了上风，且已经通过AI Agent把过去一个牛熊周期经历的DeFI、NFT、元宇宙等叙事都复刻了一遍，结果显而易见，资产发行更适合市场需要，但泡沫催生之后，还是会回归单体AI实用性的根本问题上。
+>  
+> 相较之下，MyShell的选择了先让单体AI Agent成熟应用起来，再弥补Token化激励缺口的方式。比如，提供了ShellAgent无代码开发框架，并配备三种开发模式（基础/专业/无代码）适配不同的开发者，此外还提供计算资源和模型托管、API调用和服务编排、支付和结算基础设施等等配套支持，以最大限度推动单体AI Agent应用的开发落地和运维。
+>  
+> 4）当一片适合单体AI Agent应用部署开发、运维、商业模式变现跑通之后，MyShell就可以在平台庞大用户和应用的基础上附加额外的web3代币激励体系，比如以 $SHELL 作为全生态激励代币，用户参加活动可以获得积分，并用积分兑换 $SHELL，用户可以连接钱包参与激励计划并支持跨链资产和代币交互等等。
+>  
+> 很难说，这套“应用”先行，Tokenomics紧随其后的模式是否更有后劲。但好处是，有了成熟的产品矩阵和用户基础就会带来规模化效应，再来启动Tokenomics经济激励会形成强有力的价值支撑，较其他以“资产发行”叙事为驱动的“炒作派”，走的路子会稳健很多。
+>  
+> 以上。
+>  
+> 最后，我个人不想评价AI Agent叙事的趋向更适合”务实派”还是”炒作派”，因为大家的目标都是推进AI +Crypto的主升浪叙事，只是走了不同的路线而已。
+
+## 173. Feb 9, 2025 · 4:11 AM UTC · 1888440525801615490#m
+- 链接：https://twitter.com/0xAikoDai/status/1888440525801615490#m
+- 作者：@0xAikoDai
+
+> 🫡🫡🫡
+
+## 174. Feb 8, 2025 · 10:45 AM UTC · 1888177415991734703#m
+- 链接：https://twitter.com/0xAikoDai/status/1888177415991734703#m
+- 作者：@0xAikoDai
+
+> 很高兴MyShell能帮助大家学习和创造AI。我们的初衷始终如一：与DeepSeek和其他开源AI团队一样，坚信AI不只属于少数人，AI也不应为虎作伥，而是造福所有普通人的工具和武器。
+
+## 175. Feb 8, 2025 · 6:44 AM UTC · 1888116709867057174#m
+- 链接：https://twitter.com/0xAikoDai/status/1888116709867057174#m
+- 作者：@0xAikoDai
+
+> web3其实更像网状工作制，每个人都要稍微会一点文案和运营，然后会技术的人周期性把其他人教会，全团队周常分享深度research和市场新鲜事。这样的话能保持认知和步调一致，有任何emergency都可以找到人顶上并且很好地deliver。在这个当中有2-3个人有极强的ownership就应该培养和放权。不局限于title和生产管道的工作方式之后感觉web3 team的工作才是越来越顺了。
+> 不需要太多“专家/高管C某O”有ownership 有情景管理和救火意识的人值得最多的奖励。在信息自上而下传递且变动飞快的市场中，要求上级改变传达方式是不现实的，而是应该组建一支韧性极强，抗波动能力强的团队。
+
+## 176. Feb 7, 2025 · 8:56 AM UTC · 1887787490486218801#m
+- 链接：https://twitter.com/0xAikoDai/status/1887787490486218801#m
+- 作者：@0xAikoDai
+
+> The state machine, which is core to ProConfig and ShellAgent, is the foundation for fully integrated and modular multi-agent systems. I'm not sure how many people understand this, but I haven't seen any other projects discussing this fundamental structure. The future potential is enormous, yet few recognize it now
+
+## 177. Feb 7, 2025 · 5:40 AM UTC · 1887738084642767067#m
+- 链接：https://twitter.com/0xAikoDai/status/1887738084642767067#m
+- 作者：@0xAikoDai
+
+> Shells Spirit!
+> Our beloved Korean community partner Jake @jake_cryptokr  just changed his Telegram icon to the MyShell logo; everybody say welcome to Jake!
+
+## 178. Feb 7, 2025 · 3:06 AM UTC · 1887699511281393965#m
+- 链接：https://twitter.com/0xAikoDai/status/1887699511281393965#m
+- 作者：@0xAikoDai
+
+> 我们用户这个评论好经典，中文分享下：“加密领域被大肆宣传的 AI Agent 现在可能任何人都可以制作。这也将有助于市场的成熟。”💜💜
+
+## 179. Feb 7, 2025 · 3:03 AM UTC · 1887698651168055388#m
+- 链接：https://twitter.com/0xAikoDai/status/1887698651168055388#m
+- 作者：@0xAikoDai
+
+> 认真做产品最好的感觉就是每次PR都能带来真实builder，真实用户，真实场景，和100x的scalability；坚持product-marketing，在MyShell，所见即所得, more to come。
+
+## 180. Feb 6, 2025 · 3:47 PM UTC · 1887528524631974339#m
+- 链接：https://twitter.com/0xAikoDai/status/1887528524631974339#m
+- 作者：@0xAikoDai
+
+> 🎭ShellaAgent Cloud is just so simple to get started!
+> And  it's addictive as hell.
+>  
+> With DeepSeek's story magic, even someone like me, who never has any experience in storytelling,  managed to generate a bunch of anime pics in no time - perfectly connected and couldn't help myself, turned them into a quick animation ..Amazing experience!
+>  
+> ShellAgent is a game changer: making short videos or movies will be as easy as cheating.
+> app.myshell.ai/bot/IBZFZn?ut…
+
+## 181. Feb 5, 2025 · 2:19 PM UTC · 1887144053126709684#m
+- 链接：https://twitter.com/0xAikoDai/status/1887144053126709684#m
+- 作者：@0xAikoDai
+
+> This is absolutely the gamechanger.
+> People can build their own AI so easily. They don't need some fascinating coding skills.
+> The skills I spent months to learn it are now useless 😂 I made the bot just within 1 minute. Check out the procedure :
+
+## 182. Feb 5, 2025 · 8:27 AM UTC · 1887055556013383811#m
+- 链接：https://twitter.com/0xAikoDai/status/1887055556013383811#m
+- 作者：@0xAikoDai
+
+> While I sometimes criticize the CT attention paradigm for neglecting large-scale growth on Google and TikTok, studying recent major hype projects reveals that CT is actually quite fair.
+>  
+> Just ten tweets can reveal a team's strategic clarity, team effectiveness, and market resources. I'm increasingly favoring this evaluation method: Twitter serves as a concentrated showcase of a team's capabilities.
+
+## 183. Feb 4, 2025 · 3:42 PM UTC · 1886802456950268195#m
+- 链接：https://twitter.com/0xAikoDai/status/1886802456950268195#m
+- 作者：@0xAikoDai
+
+> web2还没复工，我们web3 team已经经历了年三十到现在全程在线，键盘一路搓起火，小小年纪（我们web3 运营团队都很年轻）就要修心学公关做事滴水不漏，直面我们内部变态的高要求和低容错度，要长时间standby，放弃东西方假期，责任心和执行力都远超常人。
+> 一直信奉一句话叫做有道无术，术尚可修；有术无道，止于术。web3 builder真的值得更好的，好好做事的我们一定都会更好的。
+> ps. 公司一直在招人，热爱我们平台，有韧性有信仰的来，加入我们构建下一代AI agent。
+
+## 184. Feb 4, 2025 · 1:06 PM UTC · 1886763382986170467#m
+- 链接：https://twitter.com/0xAikoDai/status/1886763382986170467#m
+- 作者：@0xAikoDai
+
+> Finally, we've put together the first DS @deepseek_ai  Agent build guide on @myshell_ai ShellAgent. You can't imagine how easy it is to build a multi-modal AI Agent using the ShellAgent template.
+>  
+> When we say we're building an AI framework for Everyone, we truly mean it's for EVERYONE.
+
+## 185. Feb 1, 2025 · 5:56 AM UTC · 1885567864045977762#m
+- 链接：https://twitter.com/0xAikoDai/status/1885567864045977762#m
+- 作者：@0xAikoDai
+
+> This is what MyShell is building.  Anyone can become an Y Combinator, and everyone can create and fund AI agents in the AI App Store.
+
+## 186. Jan 30, 2025 · 5:00 PM UTC · 1885010233455485374#m
+- 链接：https://twitter.com/0xAikoDai/status/1885010233455485374#m
+- 作者：@0xAikoDai
+
+> I feel that 'Web3 marketing' is a misleading title. It's really two distinct tracks: BD and PR. Twitter content typically breaks down to 60-70% PR, 30% BD, and ~10% community-related. Each track needs its own leader, while sharing copywriting and design resources. This structure is better suited to Web3 landscape.
+>  
+> The key is not to fear hiring and firing, but to learn from each experience and continuously improve team performance over time.
+
+## 187. Jan 29, 2025 · 8:17 AM UTC · 1884516277865078852#m
+- 链接：https://twitter.com/0xAikoDai/status/1884516277865078852#m
+- 作者：@0xAikoDai
+
+> 太会说了lol，大家快来跟我们AI Agent互动讨个好彩头：巳年ShellAgent引爆AI革命!DeepSeek加持，BNB链上Agent狂飙，社区快乐指数破表!BD合作如蛇吞象，MyShellmeme席卷全网，开发者平台日活破百万!😙😙😙😙
+
+## 188. Jan 29, 2025 · 5:10 AM UTC · 1884469259935388008#m
+- 链接：https://twitter.com/0xAikoDai/status/1884469259935388008#m
+- 作者：@0xAikoDai
+
+> You can't imagine how powerful the next ShellAgent is; I'm absolutely blown away ahhhhh
+
+## 189. Jan 28, 2025 · 1:09 PM UTC · 1884227382489616842#m
+- 链接：https://twitter.com/0xAikoDai/status/1884227382489616842#m
+- 作者：@0xAikoDai
+
+> 新春之际，MyShell又成为了业内首个支持DeepSeek图像生成模型Janus的开发平台。感谢团队，感谢支持我们的社区家人！祝大家新春快乐，蛇年事事如意！🐍🎆🧧
+
+## 190. Jan 28, 2025 · 11:56 AM UTC · 1884208899634450707#m
+- 链接：https://twitter.com/0xAikoDai/status/1884208899634450707#m
+- 作者：@0xAikoDai
+
+> It’s time for AI agents on BNB!
+>  
+> Fair warning, what I’m about to walk you through will blow your mind.
+>  
+> Introducing: @myshell_ai🔥
+>  
+> Let’s start with a “not-so-little” fun fact:  @myshell_ai has raised over $17M from major investors like @Delphi_Ventures, @dragonfly_xyz, and @HashKey_Capital.
+>  
+> In addition to this, the project is backed by @BinanceLabs❗️
+>  
+> This level of interest from major entities alone should already be a pointer that there’s something special here. The question is: What?
+>  
+> I already know and it’s time I show you too!
+>  
+> 🪁Introducing MyShell
+>  
+> You may not know this but @myshell_ai has actually been building the perfect AI agent ecosystem way before the narrative blew up!
+>  
+> I’m talking about neck-deep AI development involvement as far back as early 2024🤯
+>  
+> • So yes, this is one of the OG AI protocols❗️
+>  
+> But the difference here is that @myshell_ai’s approach to driving AI adoption is very different from what you’re used to.
+>  
+> MyShell is an AI consumer layer that is built to connect EVERYBODY in the AI ecosystem, irrespective of goals, experience, or proficiency.
+>  
+> When I say “everybody” I mean creators, consumers, and investors. And the interesting thing is that somehow, the MyShell team has come up with the perfect way to satisfy everyone and still drive product performance.
+>  
+> I should also point out that MyShell actually already has successful AI products like Arcane Filter and ThumbMaker and it has already crossed 5M users with over 200k creators.
+>  
+> This is just to give you a clear picture of how successful MyShell has already been so when I tell you that 2025 will be bigger, you can appreciate what I’m saying.
+>  
+> MyShell’s founder @ethan_myshell just released the 2025 outlook for MyShell and it’s absolutely amazing!
+>  
+> Here are some key highlights👇🏼
+>  
+> One key problem with the current AI sector is user attention span.
+>  
+> Recent trends have shown that people just keep flocking to the next “shiny” thin that emerges. It’s good… for users but for projects, not so much.
+>  
+> As such, success is absolutely dependent on long-term sustainability and viability. And here’s the MyShell approach to guarantee that👇🏼
+>  
+> 1. Build the best agent framework and provide optimal support for creators.
+>  
+> 2. Leverage the creation of high-quality content from creators to continually draw in consumers.
+>  
+> 3. Use consumer trends and interest areas to identify premium assets that are investor-friendly.
+>  
+> Simple, systematic, EFFECTIVE‼️
+>  
+> For creators, @myshell_ai has developed the most creator-friendly environment ever that offers perks like:
+>  
+> • No-code studios
+> • Monetization routes
+> • Excellent distribution channels for maximum visibility.
+>  
+> Users enjoy:
+>  
+> • Wide compatibility with @myshell_ai being available on both Web and iOS (how’s that for mass adoption?)
+> • Access to 20k agents with diverse utilities and tailor-made use cases.
+>  
+> What else would you want❓
+>  
+> The way I see it, this approach might be slow, but it’s definitely optimized for maximum viability. And this is a sure way to draw in bigger institutional investments.
+>  
+> Pin @myshell_ai to the top of your watchlists. You’ll thank me later.
+
+## 191. Jan 28, 2025 · 1:02 PM UTC · 1884225510089294265#m
+- 链接：https://twitter.com/0xAikoDai/status/1884225510089294265#m
+- 作者：@0xAikoDai
+
+> We're not taking a break; we're the first and only agent platform to integrate DeepSeek Janus (the image-generation model by @deepseek_ai).
+
+## 192. Jan 28, 2025 · 3:45 AM UTC · 1884085325741580490#m
+- 链接：https://twitter.com/0xAikoDai/status/1884085325741580490#m
+- 作者：@0xAikoDai
+
+> keep yapping, it's time for some AI fundamentals @myshell_ai
+
+## 193. Jan 28, 2025 · 3:30 AM UTC · 1884081576298045530#m
+- 链接：https://twitter.com/0xAikoDai/status/1884081576298045530#m
+- 作者：@0xAikoDai
+
+> gm shell shell @myshell_ai
+
+## 194. Jan 27, 2025 · 2:10 PM UTC · 1883880212188058004#m
+- 链接：https://twitter.com/0xAikoDai/status/1883880212188058004#m
+- 作者：@0xAikoDai
+
+> omg shellz
+
+## 195. Jan 27, 2025 · 12:33 PM UTC · 1883855838747767015#m
+- 链接：https://twitter.com/0xAikoDai/status/1883855838747767015#m
+- 作者：@0xAikoDai
+
+> Thanks for the support! Product and fundamentals will become increasingly important in crypto, especially at the intersection of Crypto and AI, as AI is meant for everyone.
+
+## 196. Jan 27, 2025 · 12:12 PM UTC · 1883850579535089854#m
+- 链接：https://twitter.com/0xAikoDai/status/1883850579535089854#m
+- 作者：@0xAikoDai
+
+> Good to see BNB Chain AI projects moving quickly.
+>  
+> Disclaimer: YZiLabs invested in MyShell.
+
+## 197. Jan 27, 2025 · 10:13 AM UTC · 1883820612172537993#m
+- 链接：https://twitter.com/0xAikoDai/status/1883820612172537993#m
+- 作者：@0xAikoDai
+
+> How @myshell_ai's DeepSeek Integration Elevates AI Agent Launchpad Capabilities
+>  
+> What is @deepseek_ai?
+>  
+> • DeepSeek's AI models present a compelling alternative to @OpenAI, leveraging advanced reinforcement learning capabilities, especially with the DeepSeek-R1 model, which replicates human reasoning patterns.
+>  
+> • By January 2025, DeepSeek achieved significant mobile success with 1.6M downloads and top rankings in major markets like the US, UK, China, Australia, Canada, and Singapore.
+>  
+> • Its streamlined development approach slashes training and operational costs compared to OpenAI and Meta, enabling highly competitive pricing.
+>  
+> • This cost advantage has disrupted the Chinese market, pushing tech giants like ByteDance, Tencent, Baidu, and Alibaba to lower AI model pricing to stay competitive.
+>  
+> • Marc Andreessen described DeepSeek as "AI's Sputnik moment," highlighting its potential to transform the industry with superior performance at lower costs.
+>  
+> 🚀 Ready to launch your own AI agent powered by DeepSeek?
+> Explore the @myshell_ai platform, offering three flexible development modes: Classic, Pro-Config, or ShellAgent.
+>  
+> Bring your DeepSeek-powered AI vision to life with MyShell.
+
+## 198. Jan 27, 2025 · 7:32 AM UTC · 1883780066003636442#m
+- 链接：https://twitter.com/0xAikoDai/status/1883780066003636442#m
+- 作者：@0xAikoDai
+
+> 全网全行业第一家接入DeepSeek的AI开发者平台来了，任何人都可以使用DS做Agent啦！感谢我们神一样的D端产品和运营团队🙌
+>  
+> 体验：app.myshell.ai/widget/ZRfiua…
+
+## 199. Jan 27, 2025 · 5:49 AM UTC · 1883754217590116713#m
+- 链接：https://twitter.com/0xAikoDai/status/1883754217590116713#m
+- 作者：@0xAikoDai
+
+> 已经在磨牙擦掌了😁
+
+## 200. Jan 24, 2025 · 5:44 AM UTC · 1882665839494910179#m
+- 链接：https://twitter.com/0xAikoDai/status/1882665839494910179#m
+- 作者：@0xAikoDai
+
+> 曾经一直想做社区culture建设，酷的，科技感的，degen的，但这些都不是MyShell。想想看，“快乐”是今年在各种BD合作和社区内收到最多的反馈，如果MyShell有年度热词总结的话“快乐”应该排在第一位，
+> 的确，做面向消费者的AI产品，做面向开发者创作者的AI产品和社区，文化内核不就是快乐么？
+> 任何事，只要用心，自下而上，水到渠成。
+> PS. 欢迎各类AI Agent相关合作，dm’s open, 一起感受AI的快乐。

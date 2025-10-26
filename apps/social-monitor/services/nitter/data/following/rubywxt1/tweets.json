@@ -1,0 +1,1452 @@
+{
+  "account": {
+    "id": "1391305738513883140",
+    "screen_name": "rubywxt1",
+    "name": "RubyWang (天涯 Ruby 邻) @Day1Global Ⓜ️Ⓜ️T",
+    "description": "｜🎙️ Host @day1globalpod, Top Crypto Podcast to CN Community ｜💌 订阅 Newsletter，加入茶水间会员方式点击主页下方 Location👇 ｜🌍 海内存知己，天涯 Ruby 邻 ｜Not Your KOL, NFA",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1938869661564837890/PUSOaB_k_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1391305738513883140/1733295616",
+    "followers_count": 10410,
+    "friends_count": 1067,
+    "statuses_count": 15889,
+    "favourites_count": 20735,
+    "listed_count": 236,
+    "location": "交流合作→DM / web3brand@gmail.com",
+    "website": "https://t.co/aTAD9966aU",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2021-05-09 16:15:22 +08:00",
+    "url": "https://twitter.com/rubywxt1",
+    "rest_id": "1391305738513883140"
+  },
+  "tweets": [
+    {
+      "id": "1899981257179824625#m",
+      "content": "1/《如果你不想当韭菜，也无意做镰刀》\n——加密新人入门之行动篇：在币圈赚(kui)钱的8种方法\n\n市场安静下来，恰恰是最好的学习研究与温故知新之时\n\n不少群友是加密新人，希望我做一些实践思路分享\n于是借此机会，我整理了超级个体玩家参与市场的方式\n\n也作为自己对过去一年全职web3 + 内容创作的复盘\n🧵",
+      "timestamp": "Mar 13, 2025 · 12:30 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1899981257179824625#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1980245498465583117#m",
+      "content": "感谢 Sawyer 关于预言机赛道演进和发展机会的分享\n\n学习了高手 APRO 预言机在支持 RWA、预测市场和 AI 等新应用场景背后的战略思考，充分感受到了团队踏实高效 buidl 的风格\n\n节目下半部分，也畅聊了 APRO 参与第一期 YZi Labs 主办的 Easy Residensy 全球孵化营的独家体验，后续与 BNB 生态的深度融合。期待 APRO 接下来的进展和社区参与的机会 ！\n（*这期节目大家一定要听到最后🎉）\n\n另外 APRO 在北美和香港还在招聘 BD，在看工作机会的小伙伴也可以联系 @Sawyer_APRO 和团队\n\n@APRO_Oracle @leokeeplearning @yzilabs @EASYResidency",
+      "timestamp": "Oct 20, 2025 · 12:11 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1980245498465583117#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1980079907532325165#m",
+      "content": "E62. 火爆的RWA、预测市场背后，带来了预言机的新机会？ft. APRO 增长负责人 @Sawyer_APRO\n\n太巧了，我们刚跟Sawyer录完，就发现CZ发了一条推，认为针对预测市场的预言机有机会，下面很多评论都推荐了APRO, 接着大表哥还参与了APRO中文征名活动\n\n那么 @APRO_Oracle 是什么?\n\nRWA、预测市场、AI 如何为预言机赛道带来了新的机会？\n\n从Chainlink的1.0时代到Pyth的2.0时代，再到APRO提出的AI增强型3.0方案，预言机如何应对RWA、币股、预测市场和AI Agent带来的新挑战？\n\nAPRO如何深耕BNB生态？\n\n还有散户们非常关注的一点，如何参与这个项目？\n\n本期 @day1globalpod 节目不容错过\n\n时间轴 & 本期精华\n\n00:00 - 开场：预言机是什么？从\"数据馈送\"理解区块链世界的信息桥梁\n\n06:48 - 预言机的三个发展阶段：从Chainlink 1.0到Pyth 2.0，再到APRO的AI增强3.0时代\n\n13:32 - APRO的市场策略：以比特币生态为支点，快速覆盖40+公链，TVS突破15亿美金\n\n18:18 - AI增强型RWA预言机：如何用大模型验证房地产、Pre-IPO股票、预测市场事件等非结构化资产\n\n27:18 - ATTPS协议：为AI Agent之间的数据通信建立安全标准，已集成DeepSeek等主流框架\n\n36:25 - 预言机的护城河：不是竞争而是共赢，在垄断市场中找到差异化定位\n\n44:09 - EASY Residency Demo Day：在纽交所路演，Web2与Web3的时空交错碰撞\n\n51:04 - 与BNB生态深度融合：服务40+项目，使用Greenfield存储近20GB数据\n\n58:32 - 团队与招聘：20人精干团队，北美和香港BD岗位开放中\n\n1:06:59 - 行业展望：预言机赛道的未来在于抓住每个风口的数据需求\n\n免责声明 & 风险提示：主持人或嘉宾在播客中的观点仅代表个人看法，有时可能会持有播客中讨论的某项目的头寸。此播客仅用于提供信息，不作为投资建议，Always DYOR (Do Your Own Research)。",
+      "timestamp": "Oct 20, 2025 · 1:13 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1980079907532325165#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1979747572899311866#m",
+      "content": "和 Penny 有一样的感慨～\n\n我家娃开学两个多月了，假期是真的多\n马来西亚的独立日/国庆放两次假\n穆斯林的节日放假\n这周，印度人的排灯节又是学校庆祝，要放一周假\n眼见 12 - 2 月圣诞节、新年、春节继续要歇课\n好奇地数了下她一年到底上几天学\n学校负责任地给出一个日历，帮你数好了，180 天\n半年都不到 😢\n\n跟我在新加坡的朋友一起吐槽，真的是，we pay more for less 🤣 费妈！\n\n但是与此同时，孩子的自由时间也是真的多\n每天不管上学还是放假，心情都是巨好\n闲了就去游泳、攀岩、看书和做手工\n从小学会自己安排时间，为了应付大段空白，自己培养兴趣爱好\n\n反正 AI 时代，大概率指望不上学校教育太多\n身心健康，思维开阔，有自己热爱的事情\n再大点，能自己赚零花钱，就够了",
+      "timestamp": "Oct 19, 2025 · 3:12 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1979747572899311866#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1979453480504037565#m",
+      "content": "接下来多看项目应该是为了参与更少的项目\nLess is more",
+      "timestamp": "Oct 18, 2025 · 7:44 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1979453480504037565#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1979058877220917676#m",
+      "content": "又有项目来征集中文名了 @APRO_Oracle \n\nAPRO -> 阿波罗\n\n既朗朗上口，又有「阿波罗登月的寓意」, 预示着新一代预言机有无限潜力",
+      "timestamp": "Oct 17, 2025 · 5:36 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1979058877220917676#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1979130388992631112#m",
+      "content": "RT @yxzh_: 作为Day1Global的忠实听众看到自己家项目被quote到好惊喜啊哈哈 @rubywxt1 @starzqeth 感谢支持！\n\n希望更多中文区用户可以了解Zama和FHEZ。后续我们会出一些专注亚洲区的活动，敬请关注～",
+      "timestamp": "Oct 17, 2025 · 10:20 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1979130388992631112#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1978631190786760986#m",
+      "content": "今年 Buidlpad 上所有项目我都参与了\n从个人的经验来讲，该卷得卷，尽量按照低估值参与去准备就是了\n\n过往项目收益是 2 倍打底，最高 15 倍以上；Buidlpad 的确称得上是 launchpad 的严选\n\n所以 Momentum 一上 HODL 合作，就知道肯定是代币 $MMT 的官方 IDO 平台了，赶紧去做了 LP\n\n配合打新，MMT 的新玩法挺多，昨晚又出了 The Title Deed 的 NFT 和提名\n\n这次打新是以 2.5/3.5 亿估值募 450 万，和 Falcon 当时拿出来的额度差不多，估计又是打底 20 -30 倍超募\n\n攻略已经不少，还是快速分享下我的参与路径，划重点：\n\n1️⃣ 写内容拿优先分配额度\n\n社区分优先不稀释的 30% 额度，每人能拿 150U 不稀释额度\n\n具体就是写文章，更新到页面上，并且推特名字相应加上“Ⓜ️Ⓜ️T”\n\n这个是必须要做的！昨天项目页面还加上了加入战队和推文收录功能，还没加的朋友们可以加下我的战队哈，我的邀请码 fH7L4NRHaS\n\n2️⃣ 存稳定币对的 LP，至少 3000U\n\n在 HODL 页面进入 Momentum，选择一个活动推荐的 LP 存\n\n强烈推荐大家存稳定币对！\n近期市场波动大，如果是存 Sui 和 U 的 LP 已有群友还未打新已经无常损失亏几千了 😭\n\n档位上，我暂时存了 10 万 应该可以拿 7000U 的额度，后续看看要不要加\n\n如果前期没参与 Wagmi 活动的，暂时也可以不用玩了，因为额度和 LP 的额度是哪个大取哪个的，那边我看了下如果要拿到对应的额度，更卷……\n\n如果还有 BP 小号低保号，建议存 3000U 的 LP 最划算，还是以 2.5 亿去分配，资金效率也不错\n\n✳️ 关于 MMT @MMTFinance \n\n简单一句话理解就是 Sui 上的 Robinhood 和流动性引擎，希望打造一个全球金融操作系统。\n\nMomentum 不仅是领先的集中流动性 DEX （CLMM），还整合多个核心的 DeFi 产品与工具\n\n例如 MSafe 多重签名工具、xSUI 流动性质押代币，TGL 这样的 launchpad，还有提供自动化收益策略的 Vaults。另外还有 Momentum X，一个合规的 RWA 代币化平台\n\n最新的 Defillama 数据显示，MMT 以 4.65 亿的 TVL 排在 Sui 的第三位，以最近的势头很快就能到达 Top 1\n\n所以这次参与 Sui 链上龙头 DeFi 的机会，该卷还是卷下，别错过了。\n\n附上时间线，尤其是 LP 的快照和项目在 Buidlpad 上订阅这两个时间点比较重要，记得存日历提醒下。\n\n- 10.15 开始在 Buidlpad 提交内容\n- 10.22 18:00 - 10.25 10:00：KYC + 订阅\n- 10.25 10:00: LP 快照\n- 10.27 18:00 - 10.28 18:00：打款\n- 10.31 18:00：退款",
+      "timestamp": "Oct 16, 2025 · 1:16 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1978631190786760986#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1978714629548220842#m",
+      "content": "在看项目 TGE 的时间表，惊觉\n原来 Astro Nova 和 Novastro 是两个项目啊\n\n左边这个是 Binance Alpha 今天 256 分可以去打 Pre - TGE 的，右边这个是 Kaito launchpad 打新的项目，TGE 时间推迟了\n\n真是，奇怪的知识点又增加了😓",
+      "timestamp": "Oct 16, 2025 · 6:48 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1978714629548220842#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1978668078419386756#m",
+      "content": "加一个 @buidlpad 的 MMT 参与链接\n如果会写文章，想要加入战队的可以 DM 我\nbuidlpad.com/projects/moment…",
+      "timestamp": "Oct 16, 2025 · 3:43 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1978668078419386756#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1978335817148834202#m",
+      "content": "在家附近找了一家马来人经营的 local 社区餐厅，已经被我们家吃成食堂了\n\n中午自助打菜打饭，人均 3U 甚惠",
+      "timestamp": "Oct 15, 2025 · 5:43 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1978335817148834202#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1978122309308227815#m",
+      "content": "这个是什么 level 谁能给说说？\n低一等的 Monad 公民？永久的底层阶级？🤣🤣🤣\n忙活半天，连了一堆钱包，现在连个数都查不了呐\n真的是会留悬念啊～",
+      "timestamp": "Oct 14, 2025 · 3:34 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1978122309308227815#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1978098466183110973#m",
+      "content": "@wallchain_xyz 邀请链接，可以看下自己的分数 👉 quacks.app/?ref=rubywxt1&",
+      "timestamp": "Oct 14, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1978098466183110973#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1978098310603743368#m",
+      "content": "今天有两个项目提醒大家绑钱包，一个是 Wallchain，一个 Opensea\n\n最近赶着要发的项目应该是不少，再加上一堆打新存钱，真的很容易错过\n\nWallchain，Alliancedao 孵化的 infofi 平台，登录之后在右上角钱包里绑定\n\nOpenSea 应该是大的要来了，必须绑定 EVM 钱包，找到左边的 rewards 里去链钱包",
+      "timestamp": "Oct 14, 2025 · 1:59 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1978098310603743368#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1978062019229102334#m",
+      "content": "梭拉拿\n\n梭 Buy the dip\n拉 Up only\n拿 HODL\n\n@Mable_Jiang",
+      "timestamp": "Oct 14, 2025 · 11:35 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1978062019229102334#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1977998088129450110#m",
+      "content": "帮 Solana 取中文名 @Mable_Jiang\n\nEthereum->以太坊\n\nSolana->索拉港\n\n“索拉”有“索取光芒”或“拉近距离”的意象，呼应 Solana 的太阳（Sol）主题和高性能（快速拉近人与机会的距离）\n\n“港”（港口），比喻 Solana 如全球贸易港湾，连接机构与散户的资金流动，呼应 ICM\n\n“致富就来索拉港”",
+      "timestamp": "Oct 14, 2025 · 7:21 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1977998088129450110#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1977892405006471490#m",
+      "content": "基于中美谈判，接下来还有 6 次可能的抄底机会👇",
+      "timestamp": "Oct 14, 2025 · 12:21 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1977892405006471490#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1977573874540884224#m",
+      "content": "【从借贷和杠杆交易的角度来看usde脱锚事件】\n\n首先声明，我不懂合约，只懂借贷。这篇小文是因为看到朋友在朋友圈写的一个因果链，写得非常棒，有感响应而写。错漏之处，望诸君匡正。\n\nusde在9月上线binance，9月22日-10月22日开启apy12%的营销活动，参与这个活动有三种方式：\n1. vip loan，可以循环贷做到3.5倍；\n2.存贷易，可以循环贷做到3.5倍；\n3.杠杆交易，大户可以做到5倍杠杆。\n\n先说这次脱锚事件，三个产品最后影响的结论：\n1. vip loan用户，无宅区。资金端不受影响。不过在11号早上，由于binance接管了抵押资产，所以这部分计价为0，但负债显示，所以当时app显示的资产=负债-现货，大部分是负数。从群友反馈，这时有人惊慌失措，赶紧各种平仓造成了部分损失。\n\n2.存贷易，小灾区。在binance没有补偿之前，本金亏损10%之内，根据不同循环贷倍数而不同，亏损=usde清算负溢价+强平费用。注意：存贷易的清算不是加剧usde下探的骆驼，而是在usde回弹后，在发生在0.92-0.97之间（可以直接推算。交叉验证证据：若你的存贷易有eth、btc等，可以在强平清单和补赏金之间，推算出清算价格，我的恰好有，eth清算价格=3933，清算时间在5:45-6:00区间，避开了5:30-5:45枯竭期，也不是砸盘的量能。\n\n3.杠杆交易，重灾区。杠杆交易是实时清算，所以强平价格从0.99一路到0.66，也是这次脱锚的主战场。在binance没有补偿之前，亏损巨大，循环2.5倍以上即亏完全部本金，5倍用户单纯强平费用就是本金的8%。\n\n------------------------------------------------\n导火线和启动（这部分纯猜测）\n川普发表对中国关税等利空言论，hype上砸盘几十亿美金，导致btc、eth暴跌....\n\n注意，来了，点燃后引线到杠杆交易产品了。先说一个前提，我怀疑有巨鲸用户把不少btc、eth放在杠杆交易产品里，借usdt，进而usde-usdt的杠杆循环，或者统一账户共享保证金，来自合约的爆仓，引发杠杠交易里海量的usde-usdt的清算。\n\n不管如何，事实就是这时，btc和eth的暴跌，触发了他（可能是多个人也可能是一个人）仓位的清算，清算引擎不断抛出他的usde，以还掉usdt的负债，向下漩涡启动，砸到了0.91关口，继而0.82-0.8关口，0.82关口是五倍循环的清算价格，这里累积了大量的巨鲸，瞬间关口爆破，决堤，洪流向下直泻到0.66。\n\n-----------------------------------------------\n责任和认定（有一部分属于猜测）\nusde有实时mint-redeem机制，链上usde价格较为正常，套利bot的redeem成本在0.1%，大于0.1%的差价都会自动触发启动进行套利操作。bybit到0.92的抛压，在于binance那时eth提现受阻后，聪明的套利人转usde通过bsc链到bybit砸盘，不过bybit站内有mint-redeem机制，触发了这部分bot的套利，从而抑制了价格从0.92下走。\n【事后，这部分的套利路径和bot，某团队早就写好了，当时就预案了binance的eth提现可能受阻后的usde搬砖替代方案，完全可以通过bsc链走bybit的站内mint-redeem机制进行搬砖套利，进而去抑制binance的usde的下跌，可惜那时候他们团队在睡觉，都是命】\n\nBinance的eth提现为什么受阻，大家如果有印象的话，binance曾经付出了500个eth的手续费进行钱包整理，那时候还被全网嘲笑。我猜，那件事情后，binance的热钱包提现机制做了限定，即eth链的gas大于多少的时候，即停止提现，这个站在交易所角度，是合理的，因为若无限制，每笔付出几百u，老实说，一天也可能损失几亿美金的gas。但这次。。。这个机制无意之中锁死了usde的生命线，即5：36分后，binance里的usde无法提到链上进行mint和redeem，而这些套利bot即使短时间切换到bybit里套利，也被bybit的提现额度的上限锁死，所以全场只有眼睁睁看着usde跌到0.66。\n\n正因如此，所以binance的补赏公告里，时间的认定：2025年10月11日05:36至06:16（东八区时间）期间受到脱钩影响，将获得差额及清算费用补偿。即binance认为，在5:36前，和6:16后，binance的提现正常，一切都是市场行为。\n\n———————————————————————\n后续和改进\n\nUsde的预言机参数，设定最低价格，目前binance没有公布，我的建议双轨设定，一是起始点0.85，即五倍循环贷这个高墙闸口不能轻易破（注意，我从没推荐杠杆交易做循环贷，下面也有图为证）；二是可以根据ethena资产-仓位-负债的具体情况评定，随时做更新；\n\nBinance上线站内mint-redeem机制，套利bot可以有效抑制价格下跌。这里延伸回答一个问题，为何站内上线后就能抑制呢，eth链的gas高启的时候，不一样会堵住吗？老实说，这个是未来改进最核心的问题，其实谁在这里能回答这个问题，不用看我后面的答案，说明你在借贷领域就毕业了。\n\n开始我也是这样想的，甚至建议binance直接要求ethena另开一个通道，即ethena的资金存在binance旗下的ceffu，即有一个机制在紧急情况下切换到ceffu-ethena账号那边去调用资金来mint和redeem。现在的mint-redeem是在链上进行，预备池空了，自动从ceffu再调拨资金到预备池，之前都是没啥问题的，但现在binance这边量的确太大了，链上堵塞的时候，一是套利党也循环不过来，二是binance的热钱包也不可能每笔给几百u的gas。\n\n不过在和binance、ethena再次深度沟通后，得到一个答案：每 12 秒（即一個以太坊區塊）可以贖回10m。我們可以透過multi-sig在我們這邊調整這個金額上限，所以最多可以process 200m。目前只能透過智能合約進行鑄造mint和贖回redeem。Gas 費不會影響速度。我們會預估並支付足夠的 gas，確保交易能在一個區塊內完成，因為我們始終傾向於讓鑄造/贖回順利確認。這部分成本會轉嫁給用戶。\n\n这样是可行的，即usde的redeem产品在binance站内时，自动计算了redeem的手续费+gas手续费，用户自主愿意付就可以，即绕开binance的热钱包的高gas限制！\n\n————————————————————————\n最后的话\n1.作为重度链上链下借贷用户，10.11是我经历最不寻常的一天。其实也是我做社区压力最大的一次，涉及的钱有点多，即使呼吁大家用vip借贷，但也总有群友由于仓位管理等因素用了杠杆交易（重灾区）和存易贷（小灾区），昨天和各方协调沟通认定，幸好最后bn大格局一把兜底了。专业之外，保持谦逊，有更多同理心同情心。\n\n2.同时，借贷用户和合约用户的视角是不一样的，在经过难熬的一天后，作为借贷用户，12日得到几乎全额赔偿，所以有些感激表达。从前几贴评论来看，大概给合约用户造成了不好的观感，这不是本意，还望海涵，也希望你们的权益早日得到保障。\n\n3.没有大彻大悟的智慧，都是久病成医，都是经验，都是经历，学会利用，下次就。。。都是财富。而我，正是久病成医，于是悬壶济世...\n\n4.人生需要钝感，套利大概也一样，每天在电脑前高强度进击优化，在10.11有点恍然大悟的感觉，也许未来要多发现生活之美，多爬山，而不是web3.",
+      "timestamp": "Oct 13, 2025 · 3:15 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1977573874540884224#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1977552247665066106#m",
+      "content": "感慨下加密市场行情，真是能隔一周像过了一年\n\n我和小乌鸦一起聊 Token 2049 见闻的时候还是 10 月 6 号，牛市 ing，有种 “经济上行时期的美” \n\n然后周末 11 号川普搞事，黑天鹅，见证历史\n\n结果今天发这期播客时，又是风雨过后牛回了？\n\n希望大家有心情来看看今后的大方向吧！\n再次感谢 @soaringcrowz 分享 👇\n——————————————————\n本期节目，我们邀请了台湾区块链媒体加密城市主编小乌鸦Max，他在主会场蹲守两天，记录了25+场精彩分享。我们深度探讨了以下话题：\n\n- 传统金融与 DeFi 如何从分庭抗礼到同台共话\n- Robinhood的全球超级金融App野心\n- Tether的双币策略：USDT 与 USAT 如何共存\n- Tom Lee：Ethereum DAT\n- Balaji 关于AI时代加密身份的前瞻思考\n- 为什么交易所、支付公司和DAT成为参展三大主力",
+      "timestamp": "Oct 13, 2025 · 1:49 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1977552247665066106#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1977547389700563303#m",
+      "content": "謝謝 @rubywxt1 和 @starzqeth  邀請我一起聊 TOKEN2049 兩天的所見所聞\n現在我也是登上過 @day1globalpod 的人啦💪💪💪\n\n雖然從錄製到今天，市場經歷過大起大落，但是只要對產業有信心，就永遠不需要焦慮和擔心。\n\n像這次大跌，就算合約的小倉位爆了，也不痛不癢，我甚至搭車看完，就繼續去忙展覽了🫠 連假三天完全脫離幣圈模式...\n\n不管你進圈的目的是什麼？為了理想也好，為了夢想也很棒，就算是為了錢，大家最終的目的都是為了讓生活更好，追求馬斯洛最高層的需求層次：自我實現。\n那千萬不要讓自己情緒被市場影響了，笑也是一天、哭也是一天，那為什麼不選擇讓自己開心的方式，對吧！",
+      "timestamp": "Oct 13, 2025 · 1:30 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1977547389700563303#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1977275631047262265#m",
+      "content": "帮朋友转发扩散，分享出来希望大家在质押借币上能小心\n\n昨日得知 @kunanyiyang 在这次黑天鹅中损失了在几家 CEX 中的多数本金，很是痛心\n\n并非因为合约导致，而是质押借币借出 U\n即便质押率为 65% 左右，但因抵押物主要为 DOGE、Pepe 等短时大跌而被强平\n\n👇对比几家 CEX 的风险预警和处理时间也差异很大，大家可以看下他的反馈\n\n这个事情对我自己也是一个警钟\n因为过去一个月，自己也没少用这个功能，虽然多半时间也是抵押 BTC 借出 U （抵押率也是 60% 左右），为了参与各处的打新，但是持续时间到还款也确实以周为单位\n\n接下来我不会存这样的侥幸了，尽量不低呀借款，紧急有需求，借款也不能不隔夜\n看了一圈周围的情况，不是某安 VIP 借贷，就还是别借了吧",
+      "timestamp": "Oct 12, 2025 · 7:30 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1977275631047262265#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1976842329748332718#m",
+      "content": "今早起来又是见证历史的一天\n还好我没有杠杆，没有合约，从不循环\n\n半夜限价单生效了一些，起床再买买买一些\n\n前阵子观察到，有些稳定币的小项目已经跑路\n于是我把好几个 DeFi 项目的钱取出来归集好\n\n周末早上辅导完女鹅功课\n接下来看看继续在加密和美股囤点啥",
+      "timestamp": "Oct 11, 2025 · 2:48 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1976842329748332718#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1976651624593641565#m",
+      "content": "预测市场这下是真的赛道级 fomo 了\n\nKalshi D 轮从 红杉、a16z、Paradigm 融了 3 亿美金，估值到了 50 亿美金\n\n而 Polymarket 前几天被 ICE 投资，估值 80 亿，美国梦燃得不行的视频也发出来了",
+      "timestamp": "Oct 10, 2025 · 2:10 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1976651624593641565#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1976632390236963200#m",
+      "content": "目前 U 卡还是 Bybit 的用得最多，今天连给娃报名网课，发现 Stripe checkout  页面也支持 Apple Pay，几张 U 卡都能用 🥳，秒交钱了\n\n稳定币支付改变生活，等着后面有再多点返现的卡出来相互卷\n\n多办几张备用着，哪家优惠用哪家",
+      "timestamp": "Oct 10, 2025 · 12:54 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1976632390236963200#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1976477087843402083#m",
+      "content": "一姐这篇确实写得好！\n谦虚的硬核，通透的认知",
+      "timestamp": "Oct 10, 2025 · 2:37 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1976477087843402083#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1976461837651804504#m",
+      "content": "Sei 放了一个大招\n\n全球两大资管巨头贝莱德(12.5万亿美元)和Brevan Howard(260亿美元)，通过 @KAIO_xyz 在Sei上推出代币化的机构基金，目前已有2亿规模\n\n之前我们在播客里面聊RWA的时候，就讨论过哪条链有机会。RWA资产当下的确更多在以太坊上(117亿美元，55%)，但传统金融有 100-1000 倍增量资金, 谁能捕获到这些增量资金，谁就能在 RWA 浪潮里取得一席之地\n\n此前 Appllo 也已经通过 Securitize 在 Sei 上推出了 12 亿美元的多元化信贷基金（ACRED）\n\n官方视频里面，Sei 的 Slogan 变成了：把万亿美金级别的资金，带到机构级别的结算层上（settlement layer），看来是要打造成一条 RWA 链\n\n最后简单介绍下 KAIO, 这是一家合规的 RWA 平台，已经从全球资管巨头那边获得了超过 2 亿美元的资产，然后在 Sei 上实现机构规模的代币化资产\n\nKAIO 昨天刚刚上了 Kaito 上的榜单，看到好几个人猜测下一步会上 Kaito Launchpad 进行公募。现在的 Kaito 公募会基于你在赛道和项目的 Mindshare 来分配资金，感兴趣的朋友可以关注起来了",
+      "timestamp": "Oct 10, 2025 · 1:36 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1976461837651804504#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1976202249107013805#m",
+      "content": "P 不了一点，停下来洗洗眼睛\n慢人还是按照合适自己的节奏来赚钱吧",
+      "timestamp": "Oct 9, 2025 · 8:25 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1976202249107013805#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1976184162739683538#m",
+      "content": "这招太强了，这下所有入职币安刷 alpha 的都变成 meme 交易用户了\n\n不得不感慨币安每一个领域，都可以把「敢为天下后」做到极致",
+      "timestamp": "Oct 9, 2025 · 7:13 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1976184162739683538#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1975955211551465619#m",
+      "content": "新型 404？",
+      "timestamp": "Oct 8, 2025 · 4:03 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1975955211551465619#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1975926276985946154#m",
+      "content": "x.com/i/article/197592359755…",
+      "timestamp": "Oct 8, 2025 · 2:08 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1975926276985946154#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1975714221389455625#m",
+      "content": "想想国庆错过了【币安人生】，昨天本着试用币安钱包参与下的心态买了点【客服小何】，对我这种无法在大屏幕前扫链的人来说确实很方便\n\n没想到一觉醒来已经十倍了？？？\n想着 @heyibinance 是一姐，【客服小何】能去到 1 吗 😳",
+      "timestamp": "Oct 8, 2025 · 12:05 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1975714221389455625#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1975446633300304234#m",
+      "content": "后知后觉，才发现 Wallchain 也已经升级成嘴撸平台了\nAlliance DAO 孵化的 infofi 平台，早几个月注册的时候还邀请了几个朋友\n\n我的 Quark 分还不算低，决定开始玩玩\n邀请链接 👉 quacks.app/?ref=rubywxt1&\n\nJust launched my Personal Mindshare Leaderboard on @wallchain_xyz 🦆\nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n下面是平台生成的我的 supporter 们，感谢🌹\n@starzqeth – Crypto podcast pirate\n@jenniekusu – Momentum navigator\n@zijingNFT – Vibe stormcaller\n@Mable_Jiang – Trendsetter warlock\n@p3nchan – Digital realm pathfinder",
+      "timestamp": "Oct 7, 2025 · 6:22 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1975446633300304234#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1975370147855794259#m",
+      "content": "上周分享过索尼链Soneium 即将推出的Burndrop新机制，销毁 $ASTR 换取全新资产，我当时稍微布局了一点，结果昨天 $ASTR 一根针涨了 25% 以上\n\n一个可能的原因是，Astar Foundation昨晚正式公布了「Burndrop」计划，并开始收集社区反馈，接下来就是具体的执行了\n\n这也标识着Astar正式开启全新纪元 （Astar Evolution 2.0）， $ASTR 的持有者通过销毁代币，一方面换取 Startale 生态中的新代币，另一方面可以显著减少 $ASTR 的供应量，提升稀缺度和价值\n\n有趣的一点是，公告里面提到，「Startale 生态系统准备提供不止一种代币。机会将随着 Startale 本身的发展而增长。持有 $ASTR 将是您进入这些未来可能性的通道」\n\n之前我本来以为是销毁 $ASTR 换成 $SONY ，看到这里又有点疑惑了，感觉还不是这么简单。如果可以Burn 出多种代币，更像是将 $ASTR 作为生态的主代币（公告里有一句话「我们愿意围绕 ASTR 塑造未来」），用来换取 Startale 生态的新资产，有点 Launchpad 的感觉了？\n\n我准备把我之前布局的 $ASTR 都先留着，看看接下来具体怎么玩，毕竟是日本国民链，还是有点期待的哈哈",
+      "timestamp": "Oct 7, 2025 · 1:18 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1975370147855794259#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1975213591650549768#m",
+      "content": "整活归整活，做事要靠谱，“成熟稳重”是很宝贵的评价，感谢Ruby的认可！\n\n目前机器人确实是很封闭的赛道，这也是@openmind_agi 绝对是战略性定位的原因，因为只有Open Machine Economy才可能做到真正万亿以上的TAM\n\nOpenMind🤖",
+      "timestamp": "Oct 6, 2025 · 2:56 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1975213591650549768#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1975107838797369414#m",
+      "content": "上周OpenAI发布的视频生成模型Sora大火，X和小红书上出现了无数「和Sam聊天」的小视频\n\n刚刚，有着「Web3 Sora」之称的 @Everlyn_ai TGE了， $LYN 币安Alpha开盘 700M 左右，塞了 Kaito 的朋友相当于赚了 1.8 倍\n\n聊聊我看到的潜力，以及为什么我认为Everlyn可以为Crypto x AI补上重要的2块拼图\n\n1. 去中心化AI视频生成：对标Sora\n2. 创作者经济：对标Tiktok\n\n展开👇\n\n1️⃣ 介绍一下 Everlyn\n\nEverlyn 是第一个 Web3 原生的 AI 视频协议，也是 AI Layer1, 通过其专有的基础模型Everlyn-1, 可以在 25 秒内生成电影级质量的视频\n\n团队非常 Solid, 由前 Meta 科学家创立\n- Meta 首席 AI 科学家，2018 年图灵奖获得者 , 深度学习的奠基人之一 Yann LeCun 担任其学术顾问\n- 项目负责人 Sernam Lim 博士兼具工程和学术背景，曾在 Facebook / Meta 担任人工智能工程经理，同时担任佛罗里达大学计算机科学系的副教授，发表超过 100 篇学术论文\n- CTO  Harry Yang 博士为前 Meta AI 负责人，Make-a-Video 首席作者\n\nEverlyn 已经完成了 2 轮总计 1700 万美金的融资，估值 2.5 亿美元。第一轮由 Sui 背后的 Mysten Labs 领投，第二轮在 Kaito 上公募了 200 万美金，我记得当时很快就打满了，反映了散户们对与「AI 视频」的热情\n\n$LYN 刚刚在 Binance Alpha 上线，开盘在 700M 左右，塞了 Kaito 的朋友相当于赚了 1.8 倍。目前在 500M 左右，看看后续更多现货所上线后的情况\n\n2️⃣ 几个数字：10-12 倍成本效率，2-4 倍时间效率， 1 万付费用户，第一年 ARR 目标 1500 万美元\n\n通过自回归方法生成视频，Everlyn-1 模型对比领先的 Web2 AI 视频平台（Runway, Pika, Kling, MiniMax），每秒视频价格可以低至 $0.016, 只有同类产品的 1/10, 花 $10 可以生成 125 个 5s 以内的视频，输出时间快 2-4 倍\n\n我自己试着用 CZ 和 Durov 的合照做了一个让 BTC 和 BNB to the Moon 的视频，感觉质量和主流平台持平。如果成本可以更低，则的确有更大的采用机会\n\nEverlyn 已累计生成超过 1000 万个视频，每月生成时长超过 4667 小时，每天处理 4 万+ 视频请求。3个半月内企业收入已经达到了 250 万美元，目前吸引了 10 万+用户使用（其中 1 万+ 付费用户），客户包括新加坡、香港和阿联酋政府，Web2 和 Web3 的 AI 公司等\n\n这几个数字都侧面说明 Everlyn 在健康发展。第一年 ARR 的目标设在了 1500 万美元，我觉得还是很有希望达成的\n\n3️⃣ 去中心化AI视频生成 & 创作者经济：对标 Sora & Tiktok\n\n我这几天也体验了一下 Sora, 虽然好玩，但也有非常多限制\n- 内容审核很严，照片里面不能有真人，也不能有名人，动不动就告诉我内容违规\n- 用量卡的非常紧，动不动就告诉我超出限制\n\n我认为这是 Everlyn 这类去中心化AI内容生成协议最有机会和潜力的地方，同时也是为 Crypto x AI 补上的重要 2 块拼图。\n\n第一块拼图是「内容审核套利」带来的内容增量\n\n「链上内容生成」我认为本质上是做了「内容审核套利」，并不是说完全没有审核，而是通过链上证明（on-chain proof）和来源追踪（provenance）来确保一切安全透明，做到比中心化运营更开放的内容审核，甚至在二创这种玩法里面，可以更好的保护和激励原创者。\n\nFarcaster 一直以来的最大挑战是「用户为什么在这里发？」，Everlyn 回答了这个问题。\n\n第二块拼图是「付钱变赚钱」带来的创作者增量\n\n视频生成的确很耗计算资源，Web2 的做法是向创作者收订阅费，但创作者并没有直接通过内容受益；Everlyn 希望通过 $LYN 代币来实现一个激励闭环：\n\n生成视频消耗 Token, 但同时贡献高质量内容、计算资源、验证视频或以其他方式参与生态，又能赚取 Token, 从而形成一个正向激励闭环。创作者从之前的「付费用户」，可以变成真正在平台赚钱的参与者。\n\n更有意思的是，未来 AI 生成的视频一定是目前视频的 100 倍以上，所以这次 Sora 的整个 App 做的跟 Tiktok 很像，意图也很明显，通过 AI 内容生成来弯道超车。\n\n而 Everlyn 也看到了这个机会，并且希望用更开放的方式来实现，愿景是为世界提供一个 Open Dream Machine（开放梦想机器）。\n\n内容的下一步是社交，有了增量的内容和创作者，Everlyn  $LYN 也有机会变成下一代基于 AI 的内容和社交的基础设施，期待一下接下来的表现。\n\n#CryptoSora",
+      "timestamp": "Oct 6, 2025 · 7:56 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1975107838797369414#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1975067496559559094#m",
+      "content": "这次Token2049我最大的收获是「面基」\n\n就像我们的播客 @day1globalpod 名字一样，Crypto里大量全球化的合作，都发生在没见过面的人之间\n\n而2049就是一个极好的网友面基场所，PFP变成真人的感觉很奇妙\n\n- 终于见到了我们的3个播客嘉宾： @DrPayFi @MapleLeafCap @_FORAB\n- 线上交流过很多机器人赛道的 @paigeinsf 币股赛道 @violetfanlin @Zixi41620514 InfoFi 赛道 @DeFiTeddy2020 Pendle @pendle_grandma @kevin0x0\n- 这一轮一直在分享优秀项目的老师们 @snow949494 @dov_wo @0xEvieYang\n- 出过 2 本书的软核科普作家 @anymose96\n- Huma Community 里经常互动的朋友 @ZLiao3 @Cody_DeFi\n- 在吉隆坡没见上，最后还是在新加坡面基的 @kowei1995\n- 还有我们茶水间的朋友，不一一艾特啦, @rubywxt1 的原推里面都有\n\n这次时间实在太赶，很多朋友都没有约上，期待下一次面基",
+      "timestamp": "Oct 6, 2025 · 5:16 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1975067496559559094#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1975045883407598064#m",
+      "content": "本次Token2049之最快乐的时光之一就是面基！\n继续隔三差五安利业界第一中文podcast @day1globalpod",
+      "timestamp": "Oct 6, 2025 · 3:50 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1975045883407598064#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1975046561307713602#m",
+      "content": "非常高興能坐下來吃飯跟 @rubywxt1 說@iota 故事😎😎😎 Day1Global 真的讚，祝大家都成為主權個人、超級個體",
+      "timestamp": "Oct 6, 2025 · 3:52 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1975046561307713602#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1975035155330089105#m",
+      "content": "连续两年来新加坡 2049 了，原以为这次会议前被日本和韩国的会议分流不少，但是实际参与下来，体感还是人多会多，不挑重点很难有所收获\n\n本 i 人发现去大活动都聊不好，干脆今年重点去面基熟人的小活动，单独去看了感兴趣的项目\n记录分享，排名不分先后哈\n\n💎 Pre - IPO 代币化平台 @JarsyInc 的下午茶\n虽然这次 @hqinjarsy 没来，但大部分团队成员都见到了 @CShen1992 @violetfanlin 真妥妥的 Uber Mafia，团队几乎都是 Uber 早年员工并且在多家创业公司互相有交集，TradFi 和 Tech 融合的背景，我还意外遇见了一位高中校友。大家都催 Jarsy 团队，希望能上更多资产尤其是币圈的 pre-ipo 公司\n\n💎 Stablestock 的晚餐会 @StableStock \n选址的川菜很优秀。见到了年轻专业的 @Zixi41620514  和 @0xEvieYang  Q4 马上上线的 StableVault 和杠杆交易代币化股票的产品可以期待下了\n\n💎 Pendle office hour @pendle_fi \nPendle 这次没有自己办活动，来跟着 @anymose96 去蹭下 office hour。感谢 @pendle_grandma  和 @kevin0x0  对于现阶段产品和运营的分享，一句话总结就是 @boros_fi 还是应该用起来\n\n💎 Solana APEX @Solana_zh \n比较可惜是因为在领 FF 空投没有参与上 Mixer 的活动，赶着第二天去现场感受了下聊了几个项目，包括做稳定币的 Unitas 和 Payment 的 Reap。这次时间紧，panel 没有太来得及听，但是你永远可以相信 Solana 活动的餐饮水平 @ynonestop @1cryptosheep \n\n💎 Huma 的 PayFi summit 和小聚 @humafinance \n终于如愿打卡了 PayFi Summit 和线下面基团队 @DrPayFi @jcmeowjc @0xErbil  。他们这次是一路日韩新的行程，现场演讲仍然是不变的激情满满，也抛出很多 Q4 的大动作，具体见 @starzqeth 的总结推 localhost:8080/starzqeth/status/19732…\n\n活动上见到了好多一起玩项目的朋友和支持 PayFi 生态的老板们，线上的互动永远不如线下见一面更快拉进距离 \n@ZLiao3 @Cody_DeFi @Alvin0617 @dov_wo @MapleLeafCap @Mable_Jiang @seanhu001  @shelly_6688 @web3jade_io @0xdindin @kimchiyong_eth @coinstoic @0xrealgu @brianzhusg \n\n💎 Zama Protocol & Zaiffer 的活动 @zama_fhe @ZaifferProtocol \n隐私赛道 FHE 的项目 Zama 和上面的第一个应用 Zaiffer 一起办的活动。团队都从法国飞过来，选址也是在非常艺术化的亚洲文明博物馆里。现场看了 Zaiffer 产品的 demo 演示，还是很赞的，真的实现了大家（尤其是机构和巨鲸）互相转账和支付隐私的需求，即地址和币种公开符合合规要求，但是金额是隐藏的。目前还在测试网上跑，年底应该有上线预期。最好玩的是晚餐提供了地道的法餐点心，大概十来种法式奶酪。真的，这是我参加过的活动里吃过奶酪种类最多的一次哈。\n\n💎 DCG 和 OpenMind 办的 DeAI Brunch @openmind_agi @DCGco \n来学习下机器人赛道项目的进展，现场听了斯坦福教授的分享，大家也都很有兴趣地和机器人互动（各种推不倒它）。还见到了推上很能整活高能量的 @ClaraChengGo 本人谈吐好成熟稳重。期待机器人的开放协作生态有更多有趣的进展！\n\n💎 BNB 会场\n去了 @BNBCHAIN  在美术馆办的活动，现场人气爆棚，Aster 展台很多人打卡相信这几天大家在推上也看到了\n偶遇了 @_FORAB 和另一个 @Rubylulu0621 \n\n💎 Day1global 茶水间朋友小聚 @day1globalpod \n马不停蹄地跑会，3 号早上终于凑了一桌 Brunch 第二次在新加坡办群友小聚，也非常感激大家百忙之中抽时间来叙旧，尤其是 @kowei1995  脱口秀式分享 @iota  的十年发展史，太精彩了，怎么就没有现场录下来呢 \n@wenser2010 @kleine_jc @shelly_6688 @Cryptoshouyi \n\n---------------------------------------------\n最后说说我的整体感受吧\n\n1️⃣ Crypto 已经出圈，受到了主流互联网公司和传统金融的关注\n\nToken 年年办，今年是 crypto 圈内人热情一般，但是我身边 web2 的老朋友和传统金融从业者关注度最高的一次。\n\n我去之前还以为被日本和韩国活动分流后，新加坡活动应该还好吧，结果是第一天上午主会场得排长队才能进。\nlocalhost:8080/rubywxt1/status/197323…\n\n我在 Solana APEX 会场碰到一个南洋理工的教授，说她一直待在新加坡但是今年打算来看一看活动。我问她你在做什么项目吗？她说没有，只是 BTC 和 SOL 的 holder，想来看看……\n\n在新加坡，和我 web2 的朋友见面。一个朋友是在她布置主会场阿里云的展台见面的，听说在 crypto 最大的客户就是各大交易所；还有一个在大厂做支付的朋友，知道我 Token 来新加坡，跟我吃饭一直在聊稳定币，还要了我们播客的链接去听。而前几年和他聊 BTC，他都一直将信将疑。\n\n2️⃣ 交易所的竞争白热化\n\n据我观察，主会场的大展台主要是三类。\n\n最大的一类当属铁打的交易所们。不管是几个主舞台的名称和今年大的几个活动，都能看到行业赚钱能力第一的还是各种 CEX、DEX，甚至包括进军 crypto 的券商 Robinhood、胜利证券这些，在主会场你可以看到各类交易所的展台。主会场交易所占比高，原生币圈创业类项目少了（可能都单独办活动了），VC 和 媒体的活动也少了\n\n第二类是大型互联网公司和传统金融进军 crypto 的，或者做加密圈 To B 生意的，都来参展了，比如 Stripe、Google、阿里云、字节旗下的 Byteplus 等\n\n第三类是各类支付公司和做支付的基础设施，稳定币在支付领域的应用无疑又壮大了这个赛道。我在展台看了 N 多款 U 卡和支付产品。不过顺便说下，自从在新马日程生活开始用 U 卡支付之后，真的停不下来，太方便了 （有机会单独写条帖子吧）\n\n3️⃣ Token 2049 主办方是懂 branding 的\n\n每逢 F1 必开会，这个交通拥堵和酒店的价格是真的没话说。这可能就是主办方想要塑造的品牌形象，就是这是顶级的会议，必须和顶级的购买力，不管是 old moeny 还是 new money 相锚定。群友们戏称是商场里开店开在爱马仕和 LV 旁边的逻辑，这下真明白了。Token 的会不坑穷人 🤣\n\n4️⃣ 最后的最后，锻炼身体太重要了\n\n说实话真的羡慕朝气蓬勃的 95/00 后们，币圈的未来属于年轻人。\n\n像我这样的中年人，蹦迪局去不动，晨跑活动起不来。加上晚上还要骂骂咧咧地领空投，搞 Kraken Legion 打新什么的，好多活动报了名也只能鸽了。\n\n要不是平时一周三练，这强度可能已经倒下\n\n身体太重要了，希望大家在牛市冲刺也别忘了加强锻炼，stay strong！",
+      "timestamp": "Oct 6, 2025 · 3:07 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1975035155330089105#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1974702731739992131#m",
+      "content": "大饼又又又新高了\n\n看来随时将空投打新赚的利润每周换成大饼，依然是安心的好策略 😌",
+      "timestamp": "Oct 5, 2025 · 5:06 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1974702731739992131#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1974478026038779926#m",
+      "content": "拿了同样的金额在 Kaito Launchpad 做测试，一个号自己打 Novastro，一个号让 @starzqeth 帮我打\n\n果然分配比例和权重差别还是不小😭",
+      "timestamp": "Oct 4, 2025 · 2:13 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1974478026038779926#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1974469043408285843#m",
+      "content": "\"The reason to win the game is to be free of it\"\n\n在回程的长途大巴上不间断听 3 个半小时 Chris Williamson 和 @naval 的对话，像是重读有声版的《纳瓦尔宝典》，又可以听到更新版的思辨和修正，十分过瘾",
+      "timestamp": "Oct 4, 2025 · 1:37 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1974469043408285843#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1974398767618302146#m",
+      "content": "一觉醒来发现收到一封legion的邮件，第一反应是诈骗，查了下官网的确是给我了2500u额度的 $YB ，要用一个非之前退款过的钱包来塞\n\n我之前申请的额度是2000-10000，相当于在最低区间上面加了一点\n\n邮件里面写又拿了220w出来分配，估计负面舆情太多（非常多高分的都是零分配），加上参与人数火爆, 找 YieldBasis 又要了一些额度\n\n最可惜的是，一些高分小伙伴参考了推上的一些教程，申请的额度过于保守，比如500-1000，最后给满才1000，本来可以更多。我写10000都被 @rubywxt1 说了太过保守，应该 25000 打满\n\n不过这个平台的确有很多可以提升体验的地方，很多描述都比较模糊，先看看第一个项目 $YB 的开局如何",
+      "timestamp": "Oct 4, 2025 · 8:58 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1974398767618302146#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1974342980371988675#m",
+      "content": "1/ Token2049收获的Aplha之一：预言机\n\n新的RWA标的，新的Agent场景，都需要新的预言机支持\n\n介绍一个Base上面向AI的预言机 @TaironAI ，目前 MC 3M, 适合埋伏\n\n如果说Chainlink是DeFi Summer的基础设施\n\n那么 $TAIRO 希望成为AI领域的Chainlink，为LLM大模型提供实时查询、推理和链上操作能力\n\n🧵👇",
+      "timestamp": "Oct 4, 2025 · 5:17 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1974342980371988675#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1973770749191262476#m",
+      "content": "如果你对我分享的内容感兴趣，欢迎订阅 20,000+ 订阅的免费电子周刊和播客，每周深度解析 Web3 和 AI 应用，探寻全球化金融、社媒、教育、生活，帮助你做全球化时代的超级个体\n\n播客：xiaoyuzhoufm.com/podcast/640…\n\n油管：piped.kavin.rocks/@Day1Global\n\n电子周刊：web3brand.io",
+      "timestamp": "Oct 2, 2025 · 3:23 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1973770749191262476#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1973750038024376718#m",
+      "content": "闺蜜说你怎么来新加坡这么多回了，连田鸡粥都没吃过\n赶紧整上，点了六只🐸😁",
+      "timestamp": "Oct 2, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1973750038024376718#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1973595150158012428#m",
+      "content": "会场出来打车，遇到这位 bro",
+      "timestamp": "Oct 2, 2025 · 3:45 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1973595150158012428#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1973422260360024537#m",
+      "content": "终于见到 @day1globalpod @starzqeth 和@rubywxt1 了！切身感受到这个社区的价值：用户质量高、合作机会多，聊天有共鸣\n\n果然一分钱一分货😂 加社区还是得选要“氪金”的呢～\n\n第一次参加 #PayFiSummit ，不得不说收获颇多，deep dive soon！\n\nps. 基友合照太可惹🥰",
+      "timestamp": "Oct 1, 2025 · 4:18 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1973422260360024537#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1973391339988357553#m",
+      "content": "抬走吧，下一个\n\n一个打新项目都做不好，Kraken 和 Legion两个平台崩\n退款邮件写得像是诈骗\n\n哪里可以做空 Kraken 吗？\n做美股上链 pre-ipo 股票上链的朋友们可以想想办法 🥲\n@JarsyInc @StableStock",
+      "timestamp": "Oct 1, 2025 · 2:15 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1973391339988357553#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1973388764228755775#m",
+      "content": "现在已经不知道谁是笑话了，在维护的 legion，崩了的 Kraken，还是收到拒信的我……",
+      "timestamp": "Oct 1, 2025 · 2:05 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1973388764228755775#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1973365741631185107#m",
+      "content": "这两天的打新体验 be like：\n\n- 什么安卓项目，又崩了\n- 算了，咬咬牙，坚持一下\n- 捏着鼻子变骂边刷新打\n- 收到好人卡又看到希望\n- U 子一滴不剩",
+      "timestamp": "Oct 1, 2025 · 12:33 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1973365741631185107#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1973290729826144678#m",
+      "content": "这个卷王刚还在推上直播采访项目方，这会已经出现在会场主持另一场和 @MapleLeafCap Fireside Chat 了 🤯 @Mable_Jiang",
+      "timestamp": "Oct 1, 2025 · 7:35 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1973290729826144678#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1973283545012703439#m",
+      "content": "稳定币和支付的进展真是日新月异，各大阵营八仙过海\n\nPhantom钱包的稳定币 @useCash 来了，用了Bridge（Stripe) 发稳定币的服务，发在Solana上， $Cash 会被 Stripe 的全球商户网络支持\n\n顺便说下，今天在2049主会场看到了 Stripe & Bridge展台，咨询还挺忙\n\n在Phantom移动端可以加入Wait list了",
+      "timestamp": "Oct 1, 2025 · 7:07 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1973283545012703439#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1973277374750806377#m",
+      "content": "Big Alpha\n\n@humafinance co-founder @DrPayFi 刚刚在PayFi Summit宣布，将于Q4开启Project Flywheel，开启 $HUMA 的增长飞轮\n\n用户质押 SOL or 存入 USDC 和 HUMA，可以取得30%以上的综合收益；同时开启回购，双管齐下增加对 $HUMA 的需求，提升币价\n\n包括3个部分\n\n1. PayFi储备：基于Solana节点建立Huma PayFi Reserve (HPR), 用户质押 $SOL 来支撑PST等PayFi/RWA资产\n\n2. Looping 循环贷：对PST做looping, 取得30%以上的稳定币和 $HUMA 收益，非常有竞争力\n\n3. Huma Vault: 用户存入USDC 和 HUMA，借助Looping中取得高收益。Vault收入的一部分做回购，形成 $HUMA 飞轮\n\n非常精妙的设计，用DeFi飞轮来吸引更多人来质押Sol，最后提升对Huma的需求\n\nLHG!",
+      "timestamp": "Oct 1, 2025 · 6:42 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1973277374750806377#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1973257925885043025#m",
+      "content": "第一次来参加 PayFi Summit 了，下午就在这里面基朋友们了\n@humafinance @humafinance_zh @DrPayFi @jcmeowjc @0xErbil",
+      "timestamp": "Oct 1, 2025 · 5:25 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1973257925885043025#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1973230899232907407#m",
+      "content": "不是说今年没啥人吗？这主会场的队伍排得，十二点能进场吗😭",
+      "timestamp": "Oct 1, 2025 · 3:38 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1973230899232907407#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1972982485979103282#m",
+      "content": "一边看火烧云一边学习加密隐私项目",
+      "timestamp": "Sep 30, 2025 · 11:10 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1972982485979103282#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1972834050588147882#m",
+      "content": "U 子还够用吗",
+      "timestamp": "Sep 30, 2025 · 1:21 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1972834050588147882#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1972665499147468930#m",
+      "content": "笑死了\n人在新加坡，晚上活动都推掉了\n十点准时守在电脑前打开 legion\n结果是安卓项目",
+      "timestamp": "Sep 29, 2025 · 2:11 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1972665499147468930#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1972489555225047418#m",
+      "content": "有个项目取钱了几天未到账，于是今早进了官方 TG 群咨询\n\n好家伙，连着四个骗子联系我，各种花式聊天热心肠\n\n而且他们还在群里有模有样相互帮衬\nA 说，你要小心，我们绝对不会 DM 你，但是你可以发我地址看看\nB 说 C 可以相信，他真的是官方的\n然后 C 顶着 We never DM 的签名，正在和我亲切友好地聊天\n\n🤯真的炸裂，反手把这四人都屏蔽举报，然后退群了\n\n大家记住，无论 Discord 还是 TG，只有骗子会那么快响应，千万不能信……",
+      "timestamp": "Sep 29, 2025 · 2:32 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1972489555225047418#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1972327481228365927#m",
+      "content": "同样是 i 人保守左侧风格，喜欢提前布局然后早早卖飞，看到太受启发和鼓舞了，感谢真诚的分享！\n\n希望常常能刷到这样的推😭",
+      "timestamp": "Sep 28, 2025 · 3:48 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1972327481228365927#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1971757870808236480#m",
+      "content": "好玩了\n我要是下巴这么尖，梦里该笑醒了😆",
+      "timestamp": "Sep 27, 2025 · 2:04 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1971757870808236480#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1971417405541974506#m",
+      "content": "x.com/i/article/197107582742…",
+      "timestamp": "Sep 26, 2025 · 3:31 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1971417405541974506#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1971544953655537698#m",
+      "content": "要说这个周期最大的感慨：赚稳定币从来没有如此容易，而赚比特币又从来没有如此难\n\n过去两周还是有点小焦虑，在于自己抓到了机会但又没有完全抓住，还是认知不够充分，不够专注和知行合一\n\n但是看到很多人拿到不错的结果，也的确开心\n\n一方面这个市场还是充满机会的，终归什么样的赚钱方法都可以，关键还是做好自己\n\n另一方面，从上个周期老是亏钱走到现在，大概明白了点，也能不焦虑现金流了，在 Crypto 里的安全垫又厚了一点，也算是一种进步\n\n写了下自己近期的市场观察，希望能够更加专注一点\n也希望和推上更多老师们学习交流～",
+      "timestamp": "Sep 26, 2025 · 11:58 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1971544953655537698#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1971450452689682783#m",
+      "content": "补充一个打新后的卖出逻辑\n\n1. 首先应该识别，这次打新的目的，是「赚现金流」还是「投资」？\n2. 如果是「赚现金流」，那就找合适的时机卖出\n3. 如果是「投资」，意味着你认为这个资产还有很大升值空间，那就拿一个你舒服的仓位\n\n举个例子，如果稳定币这个大赛道 5 年 10 倍涨幅是一个共识, 那么你应该有这个赛道核心项目的仓位，比如昨天的 $XPL , 上半年的 $HUMA\n\n同理，如果你相信加密货币，那就应该拿住 $BTC\n\n你相信去中心化应用，那就应该拿住 $ETH\n\n你相信币安 / 交易所，那就应该拿住 $BNB\n\n你相信 AI，那就应该拿住 $NVDA\n\n你如果不是天才交易员，那就拿好你相信的优质资产，做时间的朋友",
+      "timestamp": "Sep 26, 2025 · 5:43 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1971450452689682783#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1971104577320779820#m",
+      "content": "这个周期一个有趣的赛道是预言机\n\n预言机是连接资产和用户的中间件，而这个周期出现了新的资产 RWA，新的用户 AI\n\n如何服务好这两者，会产生新的机会\n\n关注一下在这个领域探索的 @APRO_Oracle",
+      "timestamp": "Sep 25, 2025 · 6:48 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1971104577320779820#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1971006037483454600#m",
+      "content": "我的推特账号开了四年多了\n\n近几个月，我能感觉到这个平台活人感比例来到了史上最低\n\n以前看一些热帖评论区，哪怕是撕还有点乐趣，现在全是 AI",
+      "timestamp": "Sep 25, 2025 · 12:17 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1971006037483454600#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1970847700536205662#m",
+      "content": "我错了，还是不够重视，Hana 打少了\n早知道 Kaito 我有 priorities 就应该多打点\n\nlocalhost:8080/BinanceWallet/status/1…",
+      "timestamp": "Sep 24, 2025 · 1:48 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1970847700536205662#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1970756109205152025#m",
+      "content": "一打开邮箱把我吓到，原来是我退订了 薅羊毛的 Grab Unlimited 会员服务，被人家尝试激活\n\nGrab 能成为东南亚超级 App，等同滴滴 + 美团，目前还无人能卷的确是有原因的\n\n看看这文案，就知道还得是华人创业的公司能运营\n\n其他本土的电商平台我用下来每一个满意的，还是回归淘宝集运😭",
+      "timestamp": "Sep 24, 2025 · 7:44 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1970756109205152025#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1970668519386947940#m",
+      "content": "Bullish on Orange Dynastry",
+      "timestamp": "Sep 24, 2025 · 1:56 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1970668519386947940#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1970352025956426189#m",
+      "content": "这个卡必须办一个了！",
+      "timestamp": "Sep 23, 2025 · 4:58 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1970352025956426189#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1970293344728461705#m",
+      "content": "一觉醒来英伟达竟然ATH了，宣布投资1000亿美金给OpenAI建数据中心，加入了OpenAI和Oracle的杠杆游戏形成三角力量\n\n看到推上有一些关于「满仓 vs 空仓」的讨论，推荐阅读泰珀近期的一篇访谈：\n\n「市场涨到现在，要说哪里便宜就很勉强了。问题是，你怎么能完全不参与？因为酒会的酒杯还没撤走，酒还在」\n\n只要我们还处于量化宽松的环境，大的 beta 就是印出来的钱会去哪里\n\nNvidia + OpenAI + Oracle, 「算力+模型+数据」，成为钱会流向的一个 AI Cabal\n\n持有 $NVDA , 同时也是对冲自己被 AI 替代的风险\n\n另外这一轮的酒会，暴雷可能也会从这类资本杠杆开始\n\nhold tight",
+      "timestamp": "Sep 23, 2025 · 1:05 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1970293344728461705#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1969938070536622422#m",
+      "content": "感谢茶不思来 day1global 分享，每次交流都很有收获，这期节目也有不少埋伏的小彩蛋😜\n\n过去两周，perp 赛道大热，稳定币从百团大战到了八仙过海各显神通的阶段\n\n两个叙事主线都仍然有很多不错的机会，感兴趣的朋友们别错过这期\n\nBTW，我和 @starzqeth 继续征集像茶老师这样的优秀 00 后来节目分享，向身边的年轻圈友们请教\n如果去 SG 2049，也欢迎约饭约☕️",
+      "timestamp": "Sep 22, 2025 · 1:33 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1969938070536622422#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1969935484131623223#m",
+      "content": "感谢老师的邀请🥹第一次录还是有点紧张🥹",
+      "timestamp": "Sep 22, 2025 · 1:23 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1969935484131623223#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1969759606252650643#m",
+      "content": "群友真的太快了，晚上偷偷更新上了一期已被发现 😃😃😃",
+      "timestamp": "Sep 21, 2025 · 1:44 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1969759606252650643#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1969638301532635357#m",
+      "content": "这两天 Aster 早早卖飞，神经紧绷，已哭晕\n\n何以解忧，唯有运动\n\nHyrox power 力训走起",
+      "timestamp": "Sep 21, 2025 · 5:42 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1969638301532635357#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1969277535545335965#m",
+      "content": "年底前不能缺席押注的三个赛道：\n\n- 稳定币\n- perp dex\n- Launchpad\n\n孙哥都虽迟但到了，我们再错过真的会后悔 😭",
+      "timestamp": "Sep 20, 2025 · 5:48 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1969277535545335965#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1968853166478200999#m",
+      "content": "感谢@starzqeth和@rubywxt1!\n奖品已经拿到了\nDay1Globe是我学习crypto领域最宝贵的资源，Ruby和star是最好的引路人，希望我们都能走向《巴拉吉预言》所说的地理自由，时间自由，财富自由。也希望大家多去听一听Day1Globe!真正的精品宝藏播客!",
+      "timestamp": "Sep 19, 2025 · 1:42 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1968853166478200999#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1968678053779026238#m",
+      "content": "「美國美元的內外流動性將融合，打造世界上最深的鏈上資金池」\n\n一邊運動一邊聽著來自 @day1globalpod 的 podcast，來賓 @rickawsb 與主持人 @starzqeth @rubywxt1 暢談著關於個人主權、穩定幣與美元霸權等深刻議題，刷新了對於穩定幣的認知\n\n其中有幾點小企鵝想特別拿出來探討\n\n1. 這個時代個人已提升至能與國家抗衡等級，如 Elon Musk 等，其中加密貨幣更賦予了加密用戶、數位遊牧者能夠在變動的時代擁有選擇的權力\n2. 美國 GENIUS 法案通過，意謂著美國向全球美元穩定幣發行商開放了整個美國內部市場作為流動性池。發行商在美國境內合法發行穩定幣之外，更能讓全球的用戶使用美元穩定幣\n3. 美國美元的內外流動性將會融合，這將成為全球最深的鏈上穩定幣資金池\n4. 美國政府給予企業發行穩定幣的權力，相當於大航海時代的荷蘭/英國東印度公司，將國家的力量（美元）觸及到世界每個角落的個體（穩定幣用戶）\n\n現今在土耳其、阿根廷等因本國貨幣劇烈變動，民間已經習慣使用美元，甚至還有開放納稅的討論。隨著未來美元與穩定幣兩者的互相作用，不難看出一個由美元霸權主導的世界即將誕生",
+      "timestamp": "Sep 18, 2025 · 2:06 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1968678053779026238#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1968582460012384662#m",
+      "content": "Aster 已经开盒了，下一个是哪家呢？👀\n\n这年头赚钱难啊：安全省事，高确定性，高收益\n不可能三角\n\n这下 perp 埋伏已经成为所有群里的讨论重点\n想要不卷，就更难了\n\n⬇️ 好在 4 月做了一波功课，继续补课吧～",
+      "timestamp": "Sep 18, 2025 · 7:46 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1968582460012384662#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1968493458857091111#m",
+      "content": "记录复盘一下，难得买 YT 赚钱\n\nAster 最早那波存钱错过了，没时间刷 perp，上半年买了点 YT 就没在管\n\n后来听说这项目又一个季度积分稀释之类的，一度以为要归零，抱着不反撸就是好项目的小农心态，结果就是一上线卖一半 😭\n\n同样的价格我在卖，朋友在 0.1 一直还买\n我赚万 U ，只是人家的 1/20\n\n学吧，右侧交易和有耐心地卖，对我来说太难了……",
+      "timestamp": "Sep 18, 2025 · 1:53 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1968493458857091111#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1968198420126110047#m",
+      "content": "Google 昨晚发布代理支付协议 (Agent Payments Protocol / AP2), 我觉得对Crypto项目来说，既是机遇，也是挑战\n\n机遇在于，未来大部分的商业活动会由AI Agent来完成，Crypto/稳定币支付的便捷和普惠特性，有机会帮助其进一步破圈\n\n挑战在于，所有的Agent公司都可以调用加密支付, 如果我能用 Gemini / Manus 更快更好的帮我解决问题，Crypto Native 的生存空间会越来越小\n\n我问过身边很多朋友目前如何查询 Crypto 相关的项目信息，答案最多的还是 ChatGPT 和 Grok\n\nAI x Crypto 会越来越大毫无疑问，但在这个赛道 Build 的项目方，需要清晰自己的定位\n\n要么就是做 Crypto 相关的基础设施，比如图里面的 6 家：BVNK、Coinbase、ETH 基金会、Eigen、MetaMask 和 Sui\n\n要么就是做消费场景，这里面拼的是对场景的理解、对模型的训练、对 Crypto 的运用\n\n第一类给了基础设施们新的增长曲线；第二类做应用的项目，我自己判断 Crypto Native 还有半年的窗口期，然后会有大批 Web2 公司进来卷\n\n我建议这个赛道的项目，不要只做 Crypto 相关的场景，用户和资产都太少了，而是看看如何结合自己的优势，服务更大的场景\n\n纳斯达克都要自己下场做币股了，接下来的项目不会再区分 Web2 和 Web3，而是看谁更能服务好用户",
+      "timestamp": "Sep 17, 2025 · 6:20 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1968198420126110047#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1968105993331704199#m",
+      "content": "一觉醒来，交易所 Gemini 的价格跌回发行价，还好都卖了\n\n看来美股的币圈概念股打新，也到了要跑得及时的阶段了",
+      "timestamp": "Sep 17, 2025 · 12:13 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1968105993331704199#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1967473889879130452#m",
+      "content": "感謝 @starzqeth 老師介紹道 @iota 和 @salusplatform 的貿易物流進展，身為Day1Global 老粉實在是太高興了",
+      "timestamp": "Sep 15, 2025 · 6:21 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1967473889879130452#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1967463903778222356#m",
+      "content": "做Stripe那期播客的时候，我研究了一下整个跨境支付的市场规模，接近200万亿美金，成本高且低效，意味着有大量的价值捕获空间，所以今年出现了不少相关的项目：Huma Finance、Plasma、Stripe自己也做了Tempo\n\n老牌公链 IOTA 也发现了其中一个 2.5 万亿美金的跨境金融机会，将过去7天的流程缩短到2.2秒 ，建立了一套去中心化跨境金融的基础设施\n\n这个赛道也挺有趣的，跟矿物供应链相关：\n\n人工智能和绿色能源推动铜、锂、稀土等关键矿产的需求飙升（锂需求增长 13 倍，铜短缺 40 万吨），但这些矿产贸易的融资缺很难，特别是对于中小企业：冗长的纸质流程、信任稀缺、支付处理缓慢\n\nIOTA 推出了 Salus 平台，将经过验证的贸易融资方法论上链\n- 使用 IOTA 的 TWIN 技术来管理关键矿物供应链中涉及的参与者以及集装箱、运输公司等实体的数字身份\n- 将贸易文件（如仓单和提单）NFT 化，锚定在 IOTA 账本上，每个参与者都可以直接访问\n- 智能合约自动化：付款、所有权转移、抵押品管理都基于现实数据触发，通过稳定币在链上实时处理\n\n同时，IOTA 的 Rebase 主网也在今年 5 月完成了一次重大升级，支持 50,000+ TPS 和 0.4 秒的确认时间，最终让 Salus 平台可以在 2.2 秒内就处理完传统流程至少需要 7 天的一笔跨境金融融资，让复杂的全球贸易可以变得像发送邮件一样简单\n\n区块链不止改变了生成关系，同时也实实在在的提升了生产力，在稳定币和跨境支付上面表现的尤其明显。希望看到越来越多这样的创新者和实践者，同时捕获到相应的价值",
+      "timestamp": "Sep 15, 2025 · 5:42 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1967463903778222356#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1967138309643399531#m",
+      "content": "非常认同，但是确实不容易做到\n\n我真的是到了这个周期后半段（也就是今年）才练习出一种天天开心，屏蔽焦虑的心态\n\n踏空，卖飞，没跟上，没暴富，\n但是不能影响身心健康啊\n\n学习研究，是为了获取更多自己和陪家人的时间，获得不被打扰的自由\n\n希望可以继续知行合一，轻松愉快每一天😄",
+      "timestamp": "Sep 14, 2025 · 8:08 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1967138309643399531#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1966696979817173067#m",
+      "content": "I can't agree more",
+      "timestamp": "Sep 13, 2025 · 2:54 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1966696979817173067#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1966681033362874425#m",
+      "content": "@trendisgood buidlpad",
+      "timestamp": "Sep 13, 2025 · 1:51 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1966681033362874425#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1966375028414677376#m",
+      "content": "Buidlpad上的第四个打新项目，稳定币协议Falcon Finance来了\n\n虽然Falcon错过没存，但是Buidlpad的前3个项目都有参与\n\n属于TGE前的1.5级机会，周期短，确定性高，这把不能偷懒\n\n推上攻略已经不少，对于像我一样需要临时抱佛脚的朋友们，来个省流版攻略吧\n\n三种方式：1️⃣存钱 2️⃣卷内容3️⃣到 Pendle 交易\n\n1️⃣ 存钱以低估值多拿额度\n\n这次 @buidlpad 作为 $FF 打新平台，额度是 400 万 （比之前 Sahara 和 Lombard 少一半），按照 4.5 亿估值投，还是用 USD1 ，TGE 100% 解锁\n\n- 锁定 3000 刀以上的 USDf 或 sUSDf 1 个月以上，可以按照 3.5 亿估值投\n\n- 锁定 3 个月以上，按照上述估值再增加 500 刀额度，以此类推，最多可以刀 5175 刀额度\n\n（从 Buidlpad 的 HODL 入口进入 Falcon 的 Stake, 可以增加 50% 的 Falcon Miles 积分，也能增加额度）\n\n我最终选择了锁 3000 刀 3 个月，大家记得在 Buidlpad 为 Falcon 新开的 tab HODL - Boost 里去存，存完后一定要记得绑定 EVM 钱包，在 My position 里出现下图才算 Boost 额度成功哈！\n\n2️⃣ 卷内容拿优先额度\n\n卷内容常态化，不必多说。不过 Falcon 这次拿出来的是 20% 不被稀释的优先额度，还是挺有诚意的\n\n如果能多一个不被稀释额度，也是小一千刀的收益了\n\n☑️ 以下必须 check 做完\n\n- 发相关内容的🧵、文章或者视频，必须原创哈\n- 在你的 X 个人资料上添加 🦅🟠 $FF\n在北京时间 9 月 16 日傍晚前提交内容至buidlpad.com/projects/Falcon…\n- 最重要一条，千万别漏了 （我上次就是忘记关联了……）把你的 X 账号连到参与打新和存钱的 Buidlpad 账户上\n\n3️⃣ 到 Pendle 交易\n\nUSDf 和 sUSDf 在 Pendle 上 Pendle 的 TVL 已经超过 3 亿美金\n\n前两天因为上 Buidlpad 和即将 TGE 的利好，PT sUSDf 冲到了 30+%\n\n如果没有存钱也可以在 Pendle 买入 PT 锁定相当于月度 12% APY 的收益，或者对于项目预期更高，可以博一下 YT\n\n我自己刚好 bn 的 USDC 12% 活动结束，过来锁定了一些 PT 的短期收益\n\nPendle 直达\napp.pendle.finance/trade/mar…\n\n🔔 最后敲重点提醒，关键时间点：\n\n1. KYC 注册和活动参与订阅\n\n9 月 16 日中午 12:00（UTC）到 2025 年 9 月 19 日上午 11:59（UTC），有 KYC 的不需要再过\n\n2. 项目方审核结束\n\n9 月 22 日上午 10:00（UTC）\n\n3. 通过的用户看到额度，参与打新\n\n9 月 22 日上午 10:00（UTC）到 025 年 9 月 23 日上午 10:00（UTC）\n\n4. 打新结束，退款\n\n9 月 26 日下午 4:00（UTC）完成最终分配和退款，$FF TGE 时候领取代币",
+      "timestamp": "Sep 12, 2025 · 5:35 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1966375028414677376#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1966666714764243003#m",
+      "content": "Tether 的美国合规稳定币 USAT 从名字到 Logo 都好绝，MAGA 求生欲拉满，下一部美国队长你们来发行得了🤣\n\n@0x_Todd 上次说，好的 Ticker 是成功的一半，留给稳定币发行商的 Ticker 不多了，要抓紧\n\n这个 Ticker 既表了衷心，又承袭 USDT 有系列感\n大家看能打几分？",
+      "timestamp": "Sep 13, 2025 · 12:54 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1966666714764243003#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1966375357914992989#m",
+      "content": "省钱的攻略可以看这里",
+      "timestamp": "Sep 12, 2025 · 5:36 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1966375357914992989#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1966043558370320468#m",
+      "content": "双胞胎兄弟创办的老牌交易所 Gemini 要上市了，富途里的打新还有 10 小时，有点纠结\n\n上次 Bullish 打新富途几乎阳光普照中签 92 股，加上幕后支持者是 Ark、贝莱德、Peter Thiel，情绪到位，3 天之内赚 100% \n\n这次 Gemini 呢，槽点真是不少\n- 运营十多年还在营收下滑，亏损扩大\n- 30% 份额配给散户投资者（这是要把公司送人🤔？）\n- 大方地给打新散户锁仓一个月……\n- 临了还要多圈钱，上调股价到 24 - 26，相当于 30 亿美金估值\n\n讲的故事主要是纳斯达克的战略合作，Nasdaq 也以这个价格买 5000 万的 Gemini 股票，还战略合作 Gemini 的托管和 staking  服务\n\n考虑到最近纳斯达克要股票代币化了，动作比较多，美股的散户们会因此被情绪点燃吗？\n\n大家怎么看，这个打新，冲不冲？\n（如果这次还能申购意向超预期，股价一路往上，那真的只能说美股的流动性确实充沛了）\n\n*下图是我让 GPT 做的对比 Bullish，Gemini 和 Coinbase 的股价/估值",
+      "timestamp": "Sep 11, 2025 · 7:38 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1966043558370320468#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1965949593637790184#m",
+      "content": "有好几周没登 Farcaster 了\n\n昨天为了推这期播客上去发个帖子，结果收到提醒说 Matt Huang 有史以来第一次在 Farcaster 上发言\n\n我点进去一看，原来还是为了推广自家业务，Paradigm 和 Stripe 搞的 Tempo 链。不愧是 Stripe 董事会成员，很卖力。\n\n顿时有被鸡血到！大佬尚且为了 Farcaster 这点流量那么努力，我辈有什么资格懈怠🥲\n\n继续吭哧吭哧地在各个社交媒体平台贴我的牛皮癣小广告",
+      "timestamp": "Sep 11, 2025 · 1:24 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1965949593637790184#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1965587267193635265#m",
+      "content": "YouTube piped.kavin.rocks/watch?v=D8oon_ew…\n\nXiaoyuzhou xiaoyuzhoufm.com/episodes/68…\n\nApple Podcast podcasts.apple.com/cn/podcas…",
+      "timestamp": "Sep 10, 2025 · 1:24 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1965587267193635265#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1965582431484084714#m",
+      "content": "正好时隔一年，又请来 AB 来 day1global 聊聊日本加密行业生态的变化。正好前阵子东京的 WebX 大会异常热闹，规模都不输新加坡历年的 Token 2049 了。AB 也分享了参会的体感。\n\n同时我们探讨了为什么很多同行都选择了定居日本，人才引进和降税上的进展，本地加密用户、大财团与北美基金的关注点……\n\n无论你是对于移居日本还是对于当地的加密生态感兴趣，这期都是最新的一手攻略～～再次感谢 @_FORAB 的全面分享👏\n\n先发一个精彩 clip，也欢迎大家在 Youtube 或小宇宙评论区交流互动。",
+      "timestamp": "Sep 10, 2025 · 1:05 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1965582431484084714#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1965291507310870838#m",
+      "content": "BTC, ETH 横盘震荡的当下，各条链都出现了众多的U理财项目\n\nU不够用了，跨到各个链也很麻烦\n\n然后我发现一个有趣的项目 @RiverdotInc , 作为首个链抽象稳定币系统，支持在 8 条链上抵押BTC和ETH铸造出稳定币satUSD\n\n然后可以换成USDT, USDC去自己做策略，或者参加官方即将推出的40% APR Smart Vault ( 16.8% 是固定 APR + 24% 是 River PTS 激励），由 River 帮你实现 Simple Earn\n\n（据说也是 TGE 前最后一次存款）\n\n对于主要资产是 BTC 和 ETH 的我，的确方便了很多\n\n下面是详细解析👇\n\n要理解River的价值，我们首先要看清当前加密世界的最大痛点之一：流动性割裂。\n\n目前，我们有超过 400 条 Layer2 公链，50 多种新兴稳定币，看似繁荣的背后，是资产和机会被严重割裂的现实。你的 BTC 在主网，但 Arbitrum 上的一个新项目可能有更高的收益；你的ETH 在Base链，但 BNB 链上的一个机会你又想参与。频繁的跨链、兑换，不仅手续费高昂，操作繁琐，更隐藏着各种安全风险。\n\n资产和流动性的割裂，也是造成过去 3 年 DeFi 用户活跃度停滞不前的主要原因之一。\n\nRiver的出现，正是为了打破这种“数字孤岛”。它提出的“链抽象”概念，目标就是让资产像水一样，自由、顺畅地流向任何有机会的地方。而它的第一个核心产品，就是Omni-CDP\n\n1️⃣ 打破链间壁垒的 Omni-CDP\n\nCDP（Collateralized Debt Position）我们很熟悉，MakerDAO 就是典型的例子。但 River的 Omni-CDP，创造性地解决了跨链抵押的问题。简单来说，你可以在任何一条 River 支持的链上（目前已包括以太坊主网、Base、Arbitrum、BNB等8条链）存入你的 BTC 或 ETH，然后在任何另一条链上，几乎是瞬间，就能铸造出稳定币 satUSD\n\n这个过程背后，是River构建的一套复杂的跨链通信和资产管理系统。它让用户摆脱了传统跨链桥的繁琐和高风险，实现了“一处抵押，全链可用”。你可以把 satUSD 兑换成 USDT 或USDC，去参与任何你想参与的DeFi项目，或者，直接把它存入River官方的“金库”。\n\n这套系统基于 LayerZero 的轻量级跨链通信和 OFT（全链同质化代币）标准构建，避免了第三方托管风险和滑点损失。相比传统的跨链桥方案，River 的优势显而易见：\n\n- 无桥风险：不需要将资产锁定在跨链桥中，避免了桥被攻击的风险\n- 原生体验：satUSD 在每条支持的链上都是原生代币，而不是包装版本\n- 即时流动性：铸造后立即可用，无需等待确认时间\n\n根据最新数据，River的总锁仓价值（TVL）已经突破6亿美元，satUSD的流通量达到了2.7亿美元\n\n更重要的是生态整合的深度。River 已经与超过 20 个协议达成集成，包括 PancakeSwap、Pendle、ListaDAO、LayerBank 等，让 satUSD 不仅仅是一个稳定币，更是一个可以在多个 DeFi 协议中流通的流动性工具。\n\n在 BNB Chain 生态中，River 在稳定币类别 30 天排名中位居第二，这个成绩对于一个新项目来说相当不错。\n\n2️⃣ 不只是稳定币：satUSD+ 和 River4Fun\n\nRiver 推出了 satUSD+，这是 satUSD 的收益版本。通过质押 satUSD，用户可以自动获得来自协议收入的收益，包括铸造费用、清算罚金、赎回费用等系统级收入。\n\n这个设计很聪明：让稳定币持有者也能分享协议成长的红利，同时也扩充了协议在多链上的流动性。satUSD+ 还具有可组合性，可以部署在合作伙伴的 DeFi 协议中，比如在 Pendle 上进行收益交易。\n\nRiver4Fun 也很有趣。这是一个带有娱乐性质的模块，用户可以通过内容创作和流动性池子投票活动，赚取 River Points，将社交互动转化为链上奖励和治理活动，不仅激励了内容创作，增加了用户的参与感，也为协议带来了更多的活力。\n\n看到不少熟悉的创作者都在榜上： @ZKSgu @0xKingsKuan @AirdropAlchemis\n\n不少币种的池子都是用户提交和投票进入的，比如 JAGER, TAG, Janitor, 一方面带来非常可观的 APR（有些池子在 500% 以上），另一方面还可以在对应的社区里面增加曝光和获客，一石二鸟，的确是聪明的做法。\n\n3️⃣ Smart Vault：一键托管式收益策略\n\nRiver 的 Omni-CDP 解决了资产流动性的问题，但用户自己去做策略，还是需要费不少时间，而且要时刻注意市场波动对抵押率的影响和清算风险，以及对应的策略风险\n\n既然 U 理财是用户需求所在，River 更进一步，推出了 Smart Vault, 允许机构和散户用户存入 USDT, BTC 或 ETH，通过 DeFi / CeDeFi 策略和协议收入赚取真实收益，没有清算风险，回报灵活。\n\n聊聊 Smart Vault 最核心的创新，也是核心优势：“零清算风险”\n\n当你将资产（如BTC、ETH、USDT/USDC）存入Smart Vault时，协议会在内部根据你的资产价值，按照一定的质押因子（Staking Factor）铸造出satUSD，并自动将其质押到协议的质押池中。这个过程对用户是完全无感的，你不需要管理任何债务，也不需要担心抵押率。\n\n收益来自源这 3 部分\n1. 资产策略收益：你存入的BTC、ETH等资产，会被协议自动部署到经过筛选的、机构级别的DeFi和CeDeFi策略中去赚取收益，例如Morpho、Pendle等。这些策略本身经过了严格的风险评估，确保了本金的安全。\n2. 协议分红：内部铸造的satUSD在质押池中，赚取 satUSD 质押收益\n3. 分享整个 River 协议的收入\n\n即使在极端的市场行情下，比如BTC价格暴跌50%，你的10个BTC依然是10个BTC，不会被清算。因为 satUSD 并没有流出系统，而是一直质押在收益池中，协议的自动再平衡系统会及时调整内部satUSD的铸造和质押数量，以确保整个系统的稳定，而你的收益仍在持续产生。\n\n第一期将于 9 月 10 日在 app.river .inc 开放，上限 1000 万 USDT. 用户存入 USDT, 锁仓 45 天，可获得 16.8% 的固定收益，再加上 1500 万 River Pts 奖励，叠加下来 APR 可达到 40%，感兴趣的朋友可以关注下\n\n这种“本金无忧、收益持续”的模式，彻底解决了传统DeFi用户的核心痛点。它将复杂的头寸管理、风险监控等工作全部自动化，用户只需要“一键存款”，就可以安心地享受高收益。这无疑是DeFi走向大规模采用的重要一步。\n\n今年 Crypto 项目的核心是要破圈，River 从跨链稳定币到智能收益，都在不断地降低用户门槛。如果接下来能进一步打通法币和 RWA, 则会拥有更大的用户群和资金池。\n\n继续保持对这类产品的研究。",
+      "timestamp": "Sep 9, 2025 · 5:49 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1965291507310870838#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1965209075047899164#m",
+      "content": "E59. 日本Web3生态爆发：高度人才签证、政策红利、财团下注与加密套利 ft. AB\n\n刚刚结束的东京WebX吸引了1.4万人参会，CZ、日本首相等重磅嘉宾亮相，Metaplanet活动人山人海\n\n以及，多家交易所在东京开设办公室，加密从业者扎堆移居日本\n\n这背后有哪些利好？为什么说日本身份还有5–10年的窗口期机会?\n\n本期我们 @day1globalpod 邀请到 @_FORAB 返场，从政策红利到税收套利、地理套利，为你全面揭秘日本Web3的机遇与挑战\n\n如果你关注亚洲市场格局变化，或想寻找“终极地理套利”的机会，这期节目不容错过\n\n时间轴\n\n00:01 - 开场：日本Web3一年巨变，从保守到爆发式增长的背景介绍\n\n06:29 - AB自我介绍及日本Web3环境变化三大原因：高度人才政策成功、新加坡政策收紧、日本降税政策明朗化\n\n13:17 - 日本加密用户增长与投资偏好：开户量翻倍但成交频率低，比特币交易量稳居第一，XRP 成本土“山寨王”\n\n18:18 - 稳定币在日本的特殊地位：Circle 获得首个牌照，但因日元直购需求不大而存在感较弱\n\n22:02 - 本土项目出海，海外项目反而愿意 base 在日本\n\n25:08 - Metaplanet现象解析：为何日本散户选择它而非 MSTR，税率套利窗口期的重要性\n\n27:14 - Metaplanet 与“比特币美甲店”，本土股市掀起加密概念热潮\n\n34:29 - 日本加密监管模式：行业协会自律 vs 香港金融管理局审批，效率差异显著\n\n38:39 - WebX大会观察：三类北美机构涌入日本，从对冲基金到项目方\n\n43:13 - 日本改革的外部推力：美国贸易战要求与巴菲特投资的影响\n\n48:08 - 日本Web3投资机遇：明年降税前的布局窗口期，以及最缺乏的人才类型\n\n51:30 - 未来发展方向：\"人在日本，拿美元，做中国市场\"的地理套利模式\n\n免责声明 & 风险提示：主持人或嘉宾在播客中的观点仅代表个人看法，有时可能会持有播客中讨论的某项目的头寸。此播客仅用于提供信息，不作为投资建议，Always DYOR (Do Your Own Research)。",
+      "timestamp": "Sep 9, 2025 · 12:22 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1965209075047899164#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1965047494494359897#m",
+      "content": "Robinhood 捕 Coinbase，Nasdaq 在后\n\n看看 SEC 和一年前态度的大反差对比\n果然，川普一年，人间四年\n\n这速度，可称为美利坚金融大跃进",
+      "timestamp": "Sep 8, 2025 · 1:40 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1965047494494359897#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1965042129434263630#m",
+      "content": "好奇 Open ledger 哪家做市的？BN Alpha 领到一路跌到 0.4，然后没过多久现货上了一路拉？好久没看到现货上还这样走势的币了\n\n幸好没有一领就卖，是的我 Alpha 已经重新入学，回本了🥹",
+      "timestamp": "Sep 8, 2025 · 1:18 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1965042129434263630#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1964948177360154793#m",
+      "content": "多么希望一切都不是真的，年初刚刚在香港线下小聚见过，共同群聊有 7 个的年轻人\n\n🙏🙏🙏",
+      "timestamp": "Sep 8, 2025 · 7:05 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1964948177360154793#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1964482827837460737#m",
+      "content": "Grok 也出了定时任务功能，一个prompt就可以每天收到我自己定制的新闻推送，还可以在聊天框里面针对感兴趣的部分追问和深挖\n\n现在我每天每天早上打开的第一个App就是Gmail或者Grok\n\n纯做新闻的媒体和Newsletter危险了",
+      "timestamp": "Sep 7, 2025 · 12:16 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1964482827837460737#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1964572687705194781#m",
+      "content": "国内闺蜜让我开个号分享大马带娃生活，我想想还是算了，让她们直接上小红书/视频号关键词去搜\n\n平时靠推荐 feeds 流看内容，确实很容易信息茧房\n其实这类的博主已经多到，我都认为这个赛道内卷啦！\n\n我的信息茧房是：现在海外带娃低龄留学的中国父母是真多啊。\n\n我最早关注这块信息其实已经是五年前了。因为身边不少同事朋友带娃到海外生活学习，我也从两三年前开始关注这一块，就不断研究，于是会一直被算法推荐各个国家的求学育儿 & 生活，我的号已经养成了😭\n\n甚至全校开学时新家长的宣讲会，我都一眼认出了一个关注两年的小红书 N 万粉大马生活博主也是家长（天呢，可惜我社恐，不会去打招呼）\n我听友群的朋友们，还给我推荐他们关注的百万粉生活博主，也是不久前搬来 KL\n\n而我闺蜜们可能平时没有关注到这类信息，就会认为是个小众赛道，怕我无聊，鼓励我来起个号",
+      "timestamp": "Sep 7, 2025 · 6:13 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1964572687705194781#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1963939077549592995#m",
+      "content": "稳定币协议 Resolv 在推出回购计划之后，又推出一个新产品Modular Cluster（模块化集群）， 成为其增加规模和收益的下一个飞轮，并且和Ethena、Usual等单一策略稳定币协议形成差异\n\n挺巧妙的产品，其实就是把收益来源平台化了，怎么理解呢？\n\n稳定币协议都有各自的收益策略, 比如美债、 funding rate 等，然后通过自己的品牌和营销不停地扩展规模\n\nResolv 的新产品 Cluster 集群有个很巧妙的设计，通过集群化架构，接入更广泛的收益来源，比如中性永续合约、借贷市场、LP、RWA 等，并将它们转化为稳定、多样化的回报\n\n通过这样的合作\n- Resolv 提升了收益来源\n- 合伙伙伴获得了更多的稳定币流动性，更有动力推广 Resolv\n- 用户有了更多的收益选择，甚至更高的收益率\n\n最后推动 Resolv 规模提升，一石三鸟，形成了一个正向飞轮\n\n而且每个集群都是隔离的，可以对接不同类别的收益来源，管理不同级别的风险策略\n\n通过 Cluster, Resolv 不再依赖单一资产，而是拆分收益引擎，让每条 Cluster 成为“收益驱动器”，提高扩展性、风险隔离性与升级灵活度\n\n第一个合作的是借贷市场和 DEX 流动性协议 Fluid, 接下来还会建设各类ETH 资产集群、BTC 集群（BTCFi 的资产新来源？）、以及更多的更多的美元中性资产\n\n从互联网产品发展的历史来看，自营到平台也是非常自然的升级，期待一下 Resolv 接下来的增长",
+      "timestamp": "Sep 5, 2025 · 12:15 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1963939077549592995#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1963604903739494481#m",
+      "content": "之前也有被半熟人 Zoom 开会聊合作，需要下载软件差点被社工的经历\n\n后面果断分开两台电脑，有钱包的电脑不开会，开会不下载任何软件\n\n这个案例里，操作常用 Rabby 钱包都被黑客蹲守还更换假 chrome 插件，硬件钱包也不是绝对安全，任何的非官方升级都不能点……看来这些也要谨记了",
+      "timestamp": "Sep 4, 2025 · 2:07 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1963604903739494481#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1963400318877946287#m",
+      "content": "奇妙的地点，奇妙的组合😅",
+      "timestamp": "Sep 4, 2025 · 12:34 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1963400318877946287#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1963045573344559463#m",
+      "content": "哎哎服了，我要是推特抽象大师，还会低吸高抛，我早躺平了😭🤣\n\nThanks @monad @keoneHD very interesting initiative for crypto twitter users",
+      "timestamp": "Sep 3, 2025 · 1:05 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1963045573344559463#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1962787588768416211#m",
+      "content": "Rick的深度思考确实值得关注，《主权个人》在当下AI+Crypto时代读来更有意味。稳定币法案通过只是开始，真正的变革在于个体如何在去中心化世界中重新定义价值和主权。期待这期节目的洞察 💭",
+      "timestamp": "Sep 2, 2025 · 8:00 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1962787588768416211#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1962673587778932833#m",
+      "content": ". @humafinance 的 Season 1 Kaito 空投来了\n\n205K $HUMA = 5000u, 算大毛了\n\n不过我会继续拿着，至少先涨回 0.05 吧\n\n这次的计算规则是，mindshare of 0.75×3M + 0.25×30D, 再叠加\nCohort 0 Content Academy 的加成，持续性和内容质量权重提升了，感觉也可以成为其他项目方的 Playbook\n\n 期待 10.1 payfi summit 上可以听到更多进展哈哈 @DrPayFi\n\n@anymose96 @Alvin0617 @Nickp_xxx @taowang1 @rubywxt1 @0xNathanWalk @yi_juanmao",
+      "timestamp": "Sep 2, 2025 · 12:27 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1962673587778932833#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1962675165512556670#m",
+      "content": "没想到在默哥推文下面的留言都有这么多人点赞\n\n拖家带口，上有老下有小的情况，可以免签在马来西亚待一段时间感受下\n\n这是我去年写的攻略\n今年搬过来了，孩子开学这些总算搞妥当了，等过阵子我再更新一篇\n\n大家有什么问题可以给我留言😆",
+      "timestamp": "Sep 2, 2025 · 12:33 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1962675165512556670#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1962353080722432286#m",
+      "content": "关注 Rick 也有几年了。最近他陆续输出几篇雄文，也促使我们重新思考和串联了一些对于 crypto 和 AI 的理解。\n\n结合美国最近通过的稳定币法案和当今国际局势的一些变化，我们一起回顾了《主权个人》和《货币的非国家化》这两本书，有了这一期节目 @rickawsb 🌹\n\n以下是我的几点启发：\n💡新时代的主权个人的定义，包括两类：一类是像 Peter Thiel、马斯克这样的超级巨鲸寡头，另一类是我们普通人如何利用当今的新技术武装自己成为超级个体\n\n💡《主权个人》是对 Peter Thiel 影响最深的一本书，2020 年版本的序就是他写的。而近期热门的一些以太坊 DAT 如 BMNR 背后都有 Peter Thiel 的推动身影\n\n💡“混乱是阶梯” 背后的四股力量：新禁卫军、新资本、新平民领袖和全球的数字游民如何重新塑造全球格局，以及我们个人如何利用这些变化趋势\n\n💡Rick 类比美国稳定币发行商是新时代的东印度公司，让公司之间竞争，某种程度也与哈耶克所论述的「“市场之手”接管货币」以及「市场会留下更有竞争力的货币，健全货币只能出于自利而非仁慈」方向接近\n\n💡在接下来的链上超级美元化周期里，其他金融资产的上链已经没有太大的阻碍，美债、美股（包括我们前阵子和 @JarsyInc  CEO @hqinjarsy  聊的私募股权）、实体资产都会上链，链上会成为跨国界的大金融市场，预测一下转折点的信号会是什么……\n\n💡重新理解“法币”和“稳定币”（这两个名字都很有迷惑性），也会坚定拥抱健全货币\n\n另外，我们在这期节目里也分别聊了 BTC、ETH、SOL、稳定币、币股 （DAT）对于主权个人的配置分别意味着什么；同时 Rick 怎么用 AI 来释放表达欲，更加高效完整地写作，如何用 AI 抓新闻帮助他炒股炒币。\n\n畅聊非常愉快，很多视角耳目一新。也欢迎大家听完在推上/小宇宙评论区与我们交流，期待更多的分享！",
+      "timestamp": "Sep 1, 2025 · 3:13 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1962353080722432286#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1961961835281965508#m",
+      "content": "海运的 19 箱一件不差到货了以后，\n早晨终于能喝上自制拿铁了☕️",
+      "timestamp": "Aug 31, 2025 · 1:18 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1961961835281965508#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1961802710992474556#m",
+      "content": "幸好上半年注册了 IBKR 防身\n\n不过仔细想想，再收紧大陆开户美股券商下去，岂不是更利好美股上链嘛\n\n美国是股民数量大于加密用户\n大陆可是币圈用户远大于美股用户呐",
+      "timestamp": "Aug 30, 2025 · 2:46 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1961802710992474556#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1960942231722058082#m",
+      "content": "搬到大马之后，最近陆陆续续开始用 Bybit 的 U 卡消费，不得不说相当便利，汇率也不错\n\n1% 手续费，2% cash back 返还，平时零钱放在 U 理财里赚利息\n\n线下，绑好 Apple Pay 以后，商场、IKEA、餐厅都能付\n线上，订酒店巴士票，甚至附近送货的超市 App 也可以消费\n\n努力赚 U 的动力，这下真的拉满了💪",
+      "timestamp": "Aug 28, 2025 · 5:47 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1960942231722058082#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1960587196853051597#m",
+      "content": "昨天去学校开了第一次家长会，发现班级都用鸟类命名\n\n学校有几十个班级，所以趁开会间隙，我温习了下各个鸟类的单词，什么 flamingo，toucan, parrot, ostrich……\n\n直到出现了 falcon，突然发现这跟稳定币项目的命名有异曲同工之妙\n\n字母/单词还够用吗 😂",
+      "timestamp": "Aug 27, 2025 · 6:16 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1960587196853051597#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1960500395488461157#m",
+      "content": "推荐一个 @virtuals_io 生态里很「惊艳」的项目 @y_un4i $YUNAI, 今晚开始预售\n\n对，我第一次用了「惊艳」这个词来描述Virtuals项目，如果你看完下面的视频，你也会用这个词\n\n上周负责Virtuals拉丁美洲的 @lugui_tillier 给我留言，说一定要和一个「超顶级」项目聊聊，an ultra top tier virtuals project\n\n很少会有 Virtuals 同事用这种词给我介绍项目，于是我心想，应该是有点东西，于是进了群\n\n项目方给我发了当时刚刚上线的项目 Genesis 页面，开头就是这个视频，我看完之后第一反应\"Holly Shit\"\n\n要知道，如果你经常泡在 Virtuals 生态里面，最常见的项目不是 Trading Agent, 就是 InfoFi，看多了真的有点审美疲劳（不过里面也有优秀的项目哈哈\n\n1️⃣ Yunai 是什么，有何不同之处？\n\nYunai 是一个 AI 驱动的虚拟偶像（AI Driven Digital Influencers），这也不是一件纯新的事情，但 Yunai 有几点不同\n\n第一，和那种小红书「平面模特」不同，Yunai 会通过 AI 来创作音乐专辑，并通过主流的流媒体平台来分发，产生收入和利润。官方 Roadmap 里，这个部分放在 Fall 2025，所以我们应该很快可以听到 Yunai 制作的专辑了\n\n第二，更进一步，Yunai 会深度整合 XR 技术，让其可以以某种形态出现在活动现场，在现实世界中实时互动（有传言称 Yunai 正在与全球表演者就即将举行的音乐节出演进行谈判，Roadmap 里面放在了 Late 2025 ）。\n\n这将使得 Yunai 跳脱出音乐、视频，变得更立体，扩大其影响力，有机会成为一个真正的明显，同时获得更多的品牌合作和商业机会（团队说正在积极讨论在真实世界中的大量商业合作事项，Roadmap 里面放在了明年）。\n\n（ 一个参考是 @hq4ai 创作的虚拟人 Yuri, AI 制作的歌曲突破了全网 1000万播放量，North Face 都找她合作）\n\n第三，基于 Yunai 即将推出的 Token $YUNAI ，她的粉丝将能够基于 Token 加深与她的互动，比如购买限量版商品、进入私人活动，甚至进行 1:1 互动。同时，粉丝们还可以通过支持 Yunai 获得空投和奖励。\n\n另外，Yunai 还有一项很有趣的规则，1/3 的收入都会分配给 Yunai 基金会，并有粉丝们投票来决定如何使用这些资金，比如\n- 回购并销毁代币\n- 对最热情的支持者进行空投\n- 开发新音乐\n- 推出额外的合作项目\n- ……\n\n重点是，这会让 Yunai 成为一位「由社区拥有」的明星，形成更强大的影响力和更健康的生态，让其支持者也可以从她的成功中获益，而不是只是付出。\n\n这也是我认为可以让 Yunai 对比 Web2 的虚拟偶像更胜一筹的地方。我理解 Luna 其实也计划往这个方向发展（可以看看官网 lunaworld .ai），但 Virtuals Team 可能还是需要先把发射台和 ACP 做好哈哈。\n\n2️⃣ 是谁在 Build Yunai？\n\n很遗憾，这个问题我也不知道答案，团队给我说，由于某些原因，他们需要保持匿名到今年秋天晚些时候。\n\n但有一些侧面信息，可以说明这个团队是 Solid 的有实力的。\n\n第一，这个视频的质量，说明团队是有一定实力的\n\n第二，Virtuals 背调过这个团队，认为 Yunai 是一个顶级项目，他们不会拿自己的声誉冒险（其实 @lugui_tillier 还告诉我了一些额外信息，证明团队的实力）\n\n第三，一开始可能是对 Genesis 不太了解，Yunai 的 Token 解锁设置的很快，引发了不少人包括 @bigwil2k3 的疑问。团队刚刚已经更新了 Tokenomics，把 Cliff 和解锁期都延长了\n\n- Team 15%，3 个月 Cliff, 18个月解锁\n- Treasury & Future Incentives 20%，3 个月 Cliff, 18个月解锁\n- Partnerships & Ecosystem 30% ，1 个月 Cliff, 18个月解锁\n- Yunai Foundation 20%，3 个月 Cliff, 18个月解锁\n\n说实话，如果不是团队对自己的项目有非常大的信心，不会设置这样的 Tokenomics, 真的是奔着长期建设去的\n\n（这方面也有反例，我曾经建议过一个项目把设置的 7 天 Cliff 延长，项目怎么都不同意，结果…）\n\n第四，我和团队开过 1 个小时视频会议，3 个成员都开着摄像头，增强了我的信任感，而且的确聊的很愉快\n\n所以基于以上这些信息，我倾向于信任这个团队，也期待他们 doxxed 的那一天\n\n3️⃣ 我会如何操作\n\n鉴于这个赛季 Points 更卷了，我一方面会投入自己的积分，另一方面也会在二级找合适的机会再加一些，毕竟是长期建设的项目\n\n@ZaggyGoKrazy @kaylyn_0x @Jiahao_phofit  @efo_xx 你们怎么看？",
+      "timestamp": "Aug 27, 2025 · 12:31 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1960500395488461157#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1960342076463419627#m",
+      "content": "Huma S1 空投领完，算了下这个季度收益 24%\n两个号总共存了大约 10W U，中间有 Maxi 到期部分又补了一些\n羽毛 572 万，拿了24 万个，其实还可以\n\n但是由于之前对总体羽毛估算很难准确，这部分我预期过于乐观了\nS0 是 8.3 个羽毛换 1 个 $HUMA ，S1 到了 24 左右，再加上币价影响，没能达到我最 bullish 的情况\n\n但是无论如何，长期看好 PayFi 和稳定币在支付的应用还有 @DrPayFi 团队的执行\n继续 stake 做家人拿勋章吧～",
+      "timestamp": "Aug 26, 2025 · 2:02 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1960342076463419627#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1959876153042419889#m",
+      "content": "最近 Alpha 的猪脚饭都没抢到。经群友提醒，Buidlpad 的 Lombard 社区轮还是应该参与下\n\n虽然 4.5 亿估值的 FDV 是高了点，但考虑到 Buidlpad 前两次 IDO 确实成绩不错，Solayer 和 Sahara AI 我也都参与了，属于时间短、资金量不需要大但是确定性不错的机会，不能偷懒了\n\n前两次各超募 5.4 倍和 8.8 倍，最近市场不错，这次 Lombard 不知道会超募多少 👀\n\n明天开始，有 KYC 的朋友们记得换好 USD1/BNB/LBTC 去投",
+      "timestamp": "Aug 25, 2025 · 7:11 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1959876153042419889#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1959842969546301916#m",
+      "content": "可以自查下 ZachXBT 整理的 KOL 避雷列表，扫了眼还好一个都没关注\n\n localhost:8080/i/lists/19592268844847…",
+      "timestamp": "Aug 25, 2025 · 4:59 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1959842969546301916#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1959778907886158121#m",
+      "content": "Ray Dalio 做客财新的播客，输出了在低利率环境下，针对中国听众的投资建议\n\n1️⃣不要把大钱放在存款、房子里\n2️⃣不要只投资本国市场，可以留一半在本国，另一半投资全球市场\n3️⃣不要因为「太高」就不投，没有人可以预测市场\n4️⃣买入靠定投、择时是零和\n5️⃣建议黄金配置：5% - 15%\n\n另外他持有小比例的 BTC\n\n基本上也是我的实践，过去几年一直保持定投 QQQ 和数字黄金比特币。每次到「高点」都有人嫌贵，但往往过一段时间后，就会变成很多人的抄底点，比如 77000 的 BTC\n\n女儿的每个红包，我也都买成了 BTC\n\n只要全世界 / 美元一直保持通胀，可以抗通胀的资产就会越来越值钱\n\nRay Dalio 对比特币的最大顾虑是央行不会持有，所以更偏爱黄金（央行的第二大持有品）\n\n但我觉得这个前提条件会在 3-5 年内被打破。一旦央行开始持有，BTC 将会上探 100w，这仍然是一个 10x 的机会\n\n另一个和 Ray Dalio 意见不同的点是，他认为稳定币无法生息，没有必要持有。对于 Web2 投资人可能是这样，但如果你知道如何做稳定币理财，这也会成为一笔不错的收入来源，这仍然是币圈人的红利",
+      "timestamp": "Aug 25, 2025 · 12:44 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1959778907886158121#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1959617922780860491#m",
+      "content": "逼哥开演唱会离我最近的一次，这个票必须得抢了！\n\n去年飞去东京看，今年可以直接打车了",
+      "timestamp": "Aug 24, 2025 · 2:04 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1959617922780860491#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1959286032949813255#m",
+      "content": "又又又来 Day1Global 频道学习了。最近正想多了解下交易美股的平台。\n\n我理解 @JarsyInc 的运作模式如下\n\n-> 首先，Jarsy会通过合规渠道购买pre-IPO公司的股份，并将其安全托管。\n\n-> 然后，Jarsy会在区块链上按照真实资产价值1:1发行一定数量的token\n\n-> 最为普通用户，可登录Jarsy平台，用法币或稳定币购买代表这些公司股权的代币。这个过程被设计得非常简单，平台帮用户处理了复杂的区块链操作，让体验更接近于web2的投资软件。\n\n-> 购买代币后，你获得的不是直接股权，而是该股权的经济权益，如果底层公司估值上涨，你持有的代币价格也会随之上涨，你就可以在Jarsy平台上卖出获利。当公司未来上市或被收购时，也能获得对应的收益。\n\n刚已注册了 @JarsyInc . kyc还没通过，随便浏览了页面功能，非常简洁丝滑，没有花里胡哨的功能。期待马上用起来",
+      "timestamp": "Aug 23, 2025 · 4:06 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1959286032949813255#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1959224455747563936#m",
+      "content": "GM, Huma Yappers，如果您还没有在 Kaito 上连您有 Staked $HUMA 的 Solana 钱包的话，请抓紧连一下。这一期的 Huma 的 Yapper 空投前会检查该钱包是否满足质押要求",
+      "timestamp": "Aug 23, 2025 · 12:01 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1959224455747563936#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1958828360311652742#m",
+      "content": "抢到了第二波 Plasma 的 binance 链上赚币，低保户终于有一种周五可以下班的感觉了 😳\n\n下周准备用区块链训练的手速，去女儿学校 App 抢下免费的课外班，不知道能不能行",
+      "timestamp": "Aug 22, 2025 · 9:47 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1958828360311652742#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1958708073050292445#m",
+      "content": "正面表扬：Youtube、X、小宇宙、微信公众号、Substack\n都属于不折腾创作者的平台",
+      "timestamp": "Aug 22, 2025 · 1:49 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1958708073050292445#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1958423151760810480#m",
+      "content": "文字版本，我们增加了AI生成的takeaway和Q&A，希望能帮助大家更快了解播客精华\n\nweb3brand.io/p/e57-10spacex-…",
+      "timestamp": "Aug 21, 2025 · 6:57 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1958423151760810480#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1957971719689585125#m",
+      "content": "搬到新家录制的第一期节目出炉，我和 Star 终于出现在两个屏幕里啦😜🎉 \n\n非常开心和 @hqinjarsy 请教有关 Pre-IPO 投资，以及 tokenization 和稳定币的新应用场景。最近也尝试在 @JarsyInc 上参与了几个当小股东的机会，期待有更多优质资产上链！\n\nOne world, one blockchain！迎接万物上链的时代～\n\nPS：Jarsy 正在内测阶段，感兴趣的朋友可以在播客 shownotes 里找到邀请码",
+      "timestamp": "Aug 20, 2025 · 1:03 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1957971719689585125#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1957999420055879915#m",
+      "content": "刚听完 @day1globalpod 这一期节目，我觉得有几个关键点特别值得分享：\n\n☁ 核心机制与合规选择\n@JarsyInc 并不是直接卖股权，而是通过 SPV 持有真实股份，再发行经济权益 token。用户享受价格上涨的回报，却不需要承受繁琐的 paper work 和高门槛。这也解释了为什么年轻人觉得它像 Robinhood，而不是 JP Morgan。更重要的是，Jarsy 把公司设在美国，坚持走 Coinbase、Circle 式的合规化路线，积极与 SEC 沟通，这比单纯走 DeFi 的路线更长期。\n\n☁ @hqinjarsy  的理想和建议\n作为 Facebook、Uber、Afterpay 的老兵，秦汉一直想用区块链服务更多普通人。他认为年轻人真正的痛点不是买不起英伟达，而是早期 Pre-IPO 投资被拒之门外。他建议年轻人要把握 AI + 区块链 这两个大趋势，就像上一代抓住 PC 和房地产一样。\n\n☁ 我的体验\n我半个月前尝试注册 Jarsy 并 KYC 时，因为没有邀请码被卡住，没想到过了几天，官方居然通过邮件直接给我发了邀请码。这种细节让我感受到他们对用户需求的重视，也印证了节目里说的：他们真的会去 listen to the users。\n\nJarsy 不仅解决了年轻人 10 美金买 SpaceX 的需求，更可能是未来全球散户 Pre-IPO 投资的重要入口之一。",
+      "timestamp": "Aug 20, 2025 · 2:53 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1957999420055879915#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1957991556927091038#m",
+      "content": "我又来安利 @day1globalpod 的节目了朋友们！早上跑步听完了 @rubywxt1 @starzqeth 和 @JarsyInc 创始人 @hqinjarsy 的对谈。\n\n去年在新加坡见过 Jarsy 团队成员，真的很棒，也祝贺他们近期融资成功！秦汉谈的几个点，我想echo一下：  \n\n1/ 代币化是热门赛道，但每个团队在“冲”之前，真的先想清楚：我们来这里要解决什么问题？能走得远，归根结底是解决了用户的真实需求，而不是先占坑再说。  \n\n2/ Crypto 很投机，现在依然如此，但投机行为确实为区块链打下了battle tested 基础设施，现在正是把 real value & real utility 带进来的时刻。  \n\n3/ 早期团队不需要大，5个超级个体就能work，关键是每个人都要有 founder mindset。如果不到10人，就有人想着“养老打工”，那这个团队其实已经死了。  \n\n最后，大赞 @day1global\n\n👏 被你们邀请的项目，个个都有独一无二的 value proposition。  请继续给大家种草好项目！",
+      "timestamp": "Aug 20, 2025 · 2:22 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1957991556927091038#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1957977471569289445#m",
+      "content": "感谢 @starzqeth 和 @rubywxt1 的对谈。希望一起共筑web3的未来。One World, One Chain. Always Day One Global !",
+      "timestamp": "Aug 20, 2025 · 1:26 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1957977471569289445#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1957266013269221418#m",
+      "content": "很感激过去两年多，因为「播客」这个输出型爱好，让我这样的加密圈超（无）级（业）个（游）体（民）有机会向许多优秀的从业者与投资人交流请教，再次致敬我们节目的嘉宾和听友们！🫡🙇\n\nDay1global 小宇宙破万，全网订阅破两万，终于实现了从 0 到 0.1\nListen Notes 上，节目也终于到了全球 300+ 万档 podcast 节目的前 5% \n\n我自己体会最深的一点：真的一件事只要你坚持下去，就能超过 90% 的人\n（当然，Mark 下，我们的目标是 Top 1%，0.1% 💪）\n\n随着我们搬到新的地方，全家开始新的旅程\n接下来我们会继续努力，带来更多优质内容\n\n也欢迎大家从我们新的官网 day1global.xyz 订阅关注，随时给我们反馈和建议\n\n期待与更多想成为超级个体的你，一起探索同行🌍",
+      "timestamp": "Aug 18, 2025 · 2:19 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1957266013269221418#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1957320482891727282#m",
+      "content": "群友也太勇太生猛了吧！没有考察过加拿大就直接过去，还马上顺利找到工作，找到当地币圈组织，混入 Solana 活动，聊一圈就聊到 Toly。\n\n真羡慕社牛 E 人随时随地交朋友，实名佩服点赞~\n\n感兴趣加拿大的可以看看 Emilie 新鲜出炉的攻略",
+      "timestamp": "Aug 18, 2025 · 5:55 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1957320482891727282#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1957288141439824159#m",
+      "content": "恭喜 @starzqeth 和 @rubywxt1 \n@day1globalpod 一直輸出優質內容，真的不容易。\n現在完全成為我每週的精神糧食了❤️",
+      "timestamp": "Aug 18, 2025 · 3:47 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1957288141439824159#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1957082111451841000#m",
+      "content": "上次跟 AB 聊数字游民之日本东京攻略节目，居然已经是将近一年前了\n\n⬇️ 这篇更新的宝藏攻略，很全面，且涵盖加密从业者的一手资讯，推荐",
+      "timestamp": "Aug 17, 2025 · 2:08 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1957082111451841000#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1956954583554515338#m",
+      "content": "「好了！生活又一成不变地展开了！」\n游牧是一种精神🐫",
+      "timestamp": "Aug 17, 2025 · 5:41 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1956954583554515338#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1956578779427684663#m",
+      "content": "本周正式搬家完成，而且在新家录了一期节目，准备下周发布😁\n\n录的时候一直听到窗外鸟叫声不绝于耳，背景音实在有点太吵\n想说租房的时候看了好多次，确保周围环境安静的呀🤔\n\n结果发现是家旁边有一棵巨大的芒果树，硕果累累，吸引周围的鸟全部聚过来饱餐🥭\n\n芒果被雨打下来，或者熟透了掉得满地都是\n根本捡不过来，也吃不过来\n\n现在爸妈早起的乐趣有了，每天早餐捡两个芒果，考察了步行距离似乎还有椰子、杨桃、红毛丹、菠萝蜜、香蕉……等着像样了去捡下\n\n我开玩笑说，他们简直是在和鸟抢食！\n而且是真的可以「躺平」，树下捡一捡，一天也能吃饱了🤣🤣🤣",
+      "timestamp": "Aug 16, 2025 · 4:48 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1956578779427684663#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1955808491890991349#m",
+      "content": "一觉醒来，大饼新高\n30 抄的 BMNR 还在涨\n富途打到的 Bullish IPO 翻倍\n\n这就是牛市吗🥹\n躺平得有点愧疚",
+      "timestamp": "Aug 14, 2025 · 1:47 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1955808491890991349#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1955138623675715965#m",
+      "content": "没想到，这么快就开始怀念外卖补贴了\n霸王茶姬和喜茶是高端茶饮\n😭😭😭",
+      "timestamp": "Aug 12, 2025 · 5:25 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1955138623675715965#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1954350794029068723#m",
+      "content": "国内绝对是全世界外卖最便宜的地方，价格已经到了离谱的程度\n\n我甚至觉得在大马点 Grab 外卖都贵了 \n\n最近搬家，一家人没时间自己做饭了，天天外卖薅补贴的券\n\n早起两杯咖啡送上门，午餐奶茶，孩子下午茶全部解决，通常 20 多分钟送上门……奶茶店里很少有正常客户了，等在店里的全是骑手😂",
+      "timestamp": "Aug 10, 2025 · 1:15 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1954350794029068723#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1954112488284602673#m",
+      "content": "前几天在公众号大家传阅的 《家门口的包子铺要关门了》，今天点进去果然已经看不了了\n\n按现在的形势，大城市社保基数每年都涨，小微企业和个体工商户又必须缴纳，这样下去企业都很艰难，侧面利好一人公司、超级个体？\n\n还有一条路就是退休人员返聘，现在我们这些灵活就业的努力锻炼，到了 60 或许正是奋斗的年纪 😅",
+      "timestamp": "Aug 9, 2025 · 9:28 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1954112488284602673#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1953842148110975082#m",
+      "content": "项目方办一些不温不火的 side event 不如来赞助播客",
+      "timestamp": "Aug 8, 2025 · 3:34 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1953842148110975082#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1953434695540322630#m",
+      "content": "推荐一个 @virtuals_io 生态里很独特的项目 @ArAIstotle $FACY , 明天开始预售\n\n在AI内容和幻觉泛滥的当下， FACY通过多个模型和信源，进行事实核查，绝对是刚需中的刚需\n\nFACY可以支持多种媒体类型，文本、音频和视频，直接贴YouTube链接就ok，非常方便\n\n我更感兴趣的是接下来的面部识别和动作识别 , 比如耸肩、嘴唇压紧和抬下巴（都是说谎者的常见特征）\n\n以现在 AI 的进化速度，很快就很难辨别摄像头另一端是真人还是 AI，是真实还是谎言了，FACY 如果能做到这一点，可以极大扩展其使用场景和频次，带来海量价值\n\n这也跟创始团队的经历有关：\n\nCEO @ye_dennis 在普林斯顿读书期间对哲学和科学的融合很感兴趣（还做了 Peter Phiel 的助教哈哈），那个时候就萌生了做事实检测工具的想法\n\nCTO @FacticityMage 参与设计研发了一款非接触式的 AI 测谎系统，也是 Facticity AI （ FACY 背后的大脑） 的产品之一。看来也会把相关的技术用在 FACY 里，成为这个项目的核心竞争力\n\n不得不说，这个产品和团队都非常扎实\n- 目前产品准确率 92%，高于主流 LLM\n- Facticity AI 被 TIME 评为 2024 年最佳发明\n- 团队得到了 Tim Draper 领投的 100 万美金\n- Beta 版的产品，就已经获得了超过 400K 的收入\n\nFACY 和我之前介绍过的 @Mira_Network 有点像，不过 Mira 是先做基础设施，然后再到应用；FACY 是先应用，然后向着其愿景 truth layer for the internet 前进\n\n有扎实的团队、真实需求、真实收入，以及大佬支持，FACY 有机会成为一个横跨 Web3 和 Web2 的项目，这也是我看好它的原因，我会把我最近攒的所有积分都投入进去哈哈\n\n更多的 FACY 项目分析，可以参考 @ZaggyGoKrazy @kaylyn_0x 的推文，我附在评论里\n\nVirtuals 最近也有不少亮点项目出现，8 月份应该还有更多在路上。我也希望可以以 Virtuals Partner 的身份支持更多这样有需求有收入，团队计划长期建设的项目。\n\nVirgenity💚",
+      "timestamp": "Aug 7, 2025 · 12:34 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1953434695540322630#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1953017175171842125#m",
+      "content": "对于少数持续建设的项目来说，TGE 是新的开始\n\n非常Respect Huma在壮大社区和扩大PayFi影响力上的投入，Huma Content Academy正式开放公开招募，对于关注 Huma 和 PayFi 的朋友来说，是很好的机会\n\n有幸参与第一阶段 （Cohort 0）计划并作为Content Curator一起建设，认识不少Huma Maxi且收获颇丰👏\n\n在 AI 内容和无脑嘴撸泛滥的当下，Huma 希望通过这个计划提升赛道优质内容的占比，并且给到用心创作和研究的成员更多激励上的 boost\n\n🟣 说说这个计划的核心优势：\n- 提前了解项目更新，获得内容资源与指导支持\n- 获得和项目方与更多社区成员的交流与反馈\n- 你的内容获得更多传播与分发\n\n无论你是图文、音频、表情包还是视频内容的优质创作者，对 Huma 和 PayFi有热情，还在等什么～～名额有限\n\n申请链接见👇🧵第二条，8.11 截止",
+      "timestamp": "Aug 6, 2025 · 8:55 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1953017175171842125#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1953026064722309452#m",
+      "content": "刚看到  @rubywxt1 发推说了这个，那些不需要 AI 也能写出很好文章的人，赶紧报名了。官方肯定有扶持的。\n\n我估计 @humafinance 也受不了 @KaitoAI 上一堆 AI 文了。😄",
+      "timestamp": "Aug 6, 2025 · 9:31 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1953026064722309452#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1952943507422978109#m",
+      "content": "Pendle 的新项目\n交易 Funding rates 的合约市场 Boros 终于上线了",
+      "timestamp": "Aug 6, 2025 · 4:03 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1952943507422978109#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1952180799329247362#m",
+      "content": "我们卖掉学区房，带娃去马来西亚上学和生活啦！\n\n本期播客是我们在吉隆坡录制的一期特别节目，给听众们分享一下我们的近况，同时也是一段新篇章的开始\n\n作为两个公立教育的\"赢家\"，我们分享了国际教育与公立教育的对比，AI 时代下对未来人才培养的想法，带女儿到海外接受国际教育的心路历程\n\n收听🔗👇",
+      "timestamp": "Aug 4, 2025 · 1:32 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1952180799329247362#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1951997150994530371#m",
+      "content": "目前看下来 Grok 真的不太行，只会出男人和黑人的图给妹子们，无语😓\n\n推特的商业化还是堪忧",
+      "timestamp": "Aug 3, 2025 · 1:22 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1951997150994530371#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1951910767617290277#m",
+      "content": "根据我的推文和个人 Profile 画出我的形象 @grok",
+      "timestamp": "Aug 3, 2025 · 7:39 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1951910767617290277#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1951632284177797287#m",
+      "content": "RWA 的风终究还是吹到了中药界 \n😓😓😓\n今天在线下一个办公园区看到，大受震撼",
+      "timestamp": "Aug 2, 2025 · 1:12 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1951632284177797287#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1951143281896919238#m",
+      "content": "隔了一年卖几本区块链二手冷门书，发现多抓鱼之前不收的，现在都有价格能卖出去了！\n\n说明区块链真的又可以了😏\n\nPS: 顺便夸一下多抓鱼卖旧衣服，分类定价体系和用户体验真的太棒了，搬家过程中少有的苦中作乐",
+      "timestamp": "Aug 1, 2025 · 4:49 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1951143281896919238#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1950357482083406157#m",
+      "content": "投资币股（Tokenized Stock）包含 2 种心理：\n\n1. 布局早期公司\n2. 炫耀心理：我是 OpenAI 和 SpaceX 的股东\n\n完整解析：Robinhood vs Coinbase👇",
+      "timestamp": "Jul 30, 2025 · 12:47 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1950357482083406157#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1949834287857140198#m",
+      "content": "下面这张图和我的观点不谋而合：\n\nCrypto / Web3 对普通个体最大的吸引力，我觉得是「自由」\n\n你可以有各种各样的方式来赚钱养活自己，不需要坐班，也不需要996\n\n而且很容易实现地理套利，赚美金计价的资产，在更低成本的地方享受不错的生活\n\n时间自由，地理自由，大餐自由\n\n这也是我们播客叫做 @day1globalpod 的原因，全球化的工作，全球化的生活\n\n至于能不能财务自由, 还要看运气和心力",
+      "timestamp": "Jul 28, 2025 · 2:08 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1949834287857140198#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1949769297682919679#m",
+      "content": "过了一个比较 chill 的周末 🤗\n最新一期播客在这个 View 录制",
+      "timestamp": "Jul 28, 2025 · 9:50 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1949769297682919679#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1949360169571541422#m",
+      "content": "群友转的，父母在不同阶段的七个角色\n可以看看，对号入座下 🤭\n\n看了下：本人目前还被尊称为“王导”\n即将转型，适应新的角色 “人民公仆”\n\nmp.weixin.qq.com/s/D5c2Dsg-w…",
+      "timestamp": "Jul 27, 2025 · 6:44 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1949360169571541422#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1949286308062614008#m",
+      "content": "So @grok who are my 20 highest follower followers?",
+      "timestamp": "Jul 27, 2025 · 1:50 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1949286308062614008#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1948622683748647037#m",
+      "content": "用这个图评论很合适😂",
+      "timestamp": "Jul 25, 2025 · 5:53 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1948622683748647037#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1948613532217737518#m",
+      "content": "看了 Odaily 那篇写贾跃亭进军 RWA 的新闻\n\n果然稳定币是这个周期的 NFT，RWA 是这个周期的元宇宙啊～～～",
+      "timestamp": "Jul 25, 2025 · 5:17 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1948613532217737518#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1948366536777105777#m",
+      "content": "这几天在 KL，逛了下酒店附近的大众书局\n\n感受下来大马的英文书、中文书、孩子教辅（分中文英文马来语三个区域）都还不少\n\n畅销书略有点滞后，少儿读物区域故事书漫画书充足，我很喜欢\n\n政治区域与当代事务区域摆放有点耐人寻味",
+      "timestamp": "Jul 24, 2025 · 12:55 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1948366536777105777#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1948049317224427749#m",
+      "content": "Huma 每次开社区月会真的都很高效，这次依旧有很多的产品和业务上的进展和\n\n这波 Stable Summer 之后，接下来 8 - 10 月依旧热度不减\n\n团队分别会在日本、韩国和新加坡办活动 \n@drpayfi 说接下来要在亚洲待几个月，看来是要招兵买马和扩充合作伙伴了👀 \n\n👇会议精华版可以看 Star 的总结，我自己最喜欢的是 Huma Anytime，可以随时随地存了",
+      "timestamp": "Jul 23, 2025 · 3:55 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1948049317224427749#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1947678969094148391#m",
+      "content": "真的太开心了🥳\n以前都是在 podcast 里听你们声音，今天终于见到真人！到现在还是感觉不太真实🥹\n聊了很多、笑了很多\n你们节目一直都是我们俩吸取养分的地方，我们 @69lounge69 还有很多东西要跟你们取经\n\n大家记得去关注 @day1globalpod \n小心 内容干到不行🔥🔥",
+      "timestamp": "Jul 22, 2025 · 3:23 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1947678969094148391#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1947651236096053698#m",
+      "content": "跟着本地扛把子混就是好，晚饭根本不用吃了，谢谢 @0xdindin @kimchiyong_eth 🫶",
+      "timestamp": "Jul 22, 2025 · 1:33 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1947651236096053698#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1947100072669593737#m",
+      "content": "E55. Robinhood vs Coinbase，币股融合新浪潮下，谁会是新一代金融科技赢家？\n\n今年加密市场里面非常多大钱都到了美股里面，首当其冲的就是Robinhood和Coinbase\n\n随着这一轮币股叙事 （Tokenized Stock）以及最近比特币重新突破 12 万新高，这两家公司的市值都超过了900亿美金，对比年初分别有 160% 和 50% 的涨幅\n\n一个有趣的事实，Robinhood 加密收入已经占到了交易收入的一半以上，两周前在法国戛纳举行的 EthCC 上做了一场盛大的发布会，宣布要将几百种美股上链，甚至包括 Open AI 和 SpaceX 这类未上市公司的股权，开放给欧盟地区的用户\n\n而 Coinbase 从 toC 到 toB，提供一站式 B2B 服务（托管、交易、公链、支付、钱包…），志在打造出加密领域的 AWS\n\n我们应该如何定义 Robinhood 和 Coinbase?\n\n这两家金融科技巨头是如何一步步发展到千亿美金的市值？\n\n接下来 10 年，谁会在这股币股融合的浪潮里成为新的赢家？\n\n如果你对以上话题感兴趣，本期不容错过，enjoy!\n\n欢迎关注 @starzqeth @rubywxt1 @day1globalpod\n\n本期我们还有特别福利哦，详情见第一条评论\n\n时间轴\n\n00:00 - 本期精华和背景\n\n07:54 - Coinbase 和 Robinhood 两大金融科技巨头的异同，Robinhood 加密收入已经占到了交易收入的一半以上\n\n18:04 - Robinhood公司背景深度解析，从2013年创立到颠覆传统券商的免佣金交易模式，如何吸引千禧一代投资者\n\n20:12 - Robinhood 的 PFOF（订单流支付） 零手续费模式详解\n\n26:28 - Robinhood 如何吃到疫情红利\n\n29:17 - Robinhood 推出多元化一站式金融服务\n\n34:02 - Robinhood 最近推出的「币股」（tokenized stock）解析\n\n45:45 - Coinbase发展历程回顾，从2012年比特币钱包服务起步，成长为全球最大加密货币交易平台的关键节点\n\n48:15 - Coinbase 核心人物解析：Brian Armstrong, Fred Ehrsam, Olaf Carlson-Wee, Vitalik Buterin. 插播一个八卦，曾经的 Coinbase 联合创始人本·里夫斯竟然是 CZ 赵长鹏的加密启蒙人\n\n55:43 - Coinbase 核心业务解析，从 toC 到 toB，打造出加密领域的 AWS，提供一站式 B2B 服务（托管、交易、公链、支付、钱包…）\n\n01:15:22 - Robinhood vs Coinbase, 你更看好哪一家？分享一些我们的思考逻辑和未来发展趋势\n\n01:33:30 - 我们对股票代币化的思考：上市前的股票可能更具有 PMF\n\n免责声明 & 风险提示：主持人或嘉宾在播客中的观点仅代表个人看法，有时可能会持有播客中讨论的某项目的头寸。此播客仅用于提供信息，不作为投资建议，Always DYOR (Do Your Own Research)",
+      "timestamp": "Jul 21, 2025 · 1:03 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1947100072669593737#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1946916716048695721#m",
+      "content": "想不到来吉隆坡朋友聚餐，吃到了这么正宗的湘菜，门口排满长队哇\n\n改良过的湘菜明显没有那么辣了，可以多吃几个菜😋",
+      "timestamp": "Jul 20, 2025 · 12:54 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1946916716048695721#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1946051273532616959#m",
+      "content": "这下腰板硬了\n好歹 Newsletter 订阅放在独角兽🦄公司网站上\n\nWeb3brand.io 应该不会维护不下去",
+      "timestamp": "Jul 18, 2025 · 3:35 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1946051273532616959#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1946032416692347272#m",
+      "content": "中国版的 NomadList，好棒啊",
+      "timestamp": "Jul 18, 2025 · 2:20 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1946032416692347272#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1945854211704693246#m",
+      "content": "难得吃瓜，今天也托着下巴看娃哈哈家族故事\n\n记得我读小学的时候，用的写字作业本全是娃哈哈生产的，当时还是我所在的杭州上城区一家校办工厂\n\n现在这个剧情真的……恳请郑晓龙导演出山，拍现代版甄嬛传吧",
+      "timestamp": "Jul 17, 2025 · 2:32 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1945854211704693246#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1945713324550922442#m",
+      "content": "I think @brian_armstrong @jessepollak should recruit someone from WeChat\n\n看了 Coinbase Wallet 的新版本，我觉得方向是对的，也标识着各家都形成的共识：All in one App\n\n在一个地方就可以交易各种资产（token、股票）, 玩各类交易（现货、期权、合约），做财富管理、支付，甚至聊天\n\n钱包的竞争对手不只是另一个钱包，新型交易所例如Robinhood, 社交应用例如 X, 才是真正重量级的竞对\n\n在这一点上，Crypto 项目应该多看看成功的 Web2 产品是怎么做的\n\n另一方面，圈内用户已经疲了，已有的东西排列组合很难再吸引人\n\n大家都想做入口，如何带来不一样的应用才是取胜关键\n\n就像 Virtuals 的 ACP, 其实本质上也是在跟 Agent Company 做竞争，包括 Manus, Claude, OpenAI, Grok…\n\nDeFAI 算是一个和 Web2 Agent 的差异化产品， @AIxVC_Axelrod  @BasisOS 算是取得了初步的 PMF，接下来还会有更多的玩家加入其中\n\nCrypto 里面还可以有哪些和 Web2 Agent 的差异化产品？",
+      "timestamp": "Jul 17, 2025 · 5:13 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1945713324550922442#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1945093032615010311#m",
+      "content": "今天录了最新一期播客，先上一个小彩蛋，下周一发布！\n\n中信出版社出版了 a16z 合伙人 Chris Dixon 的 《Read Write Own》中文版 《读，写，拥有》@cdixon\n\n由于去年和 @veratheape 深度聊过这本书，被出版社找到\n\n欢迎大家订阅 @day1globalpod \n我们在下周节目的小宇宙和 YouTube 评论区送新书📖\n\n这本书也同样适合安利周围对 crypto 感兴趣的朋友，算是低门槛了解加密的读物之一，现在有中文版更方便了",
+      "timestamp": "Jul 15, 2025 · 12:08 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1945093032615010311#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1945093462438604806#m",
+      "content": "附上去年做的这期读书播客⬇️",
+      "timestamp": "Jul 15, 2025 · 12:09 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1945093462438604806#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1944983382557123056#m",
+      "content": "Seeker 发货倒计时！请尽快确认收货地址，避免影响设备配送！ \n\n大家期待了一年的 @solanamobile Seeker 将于 2025 年 8 月 4 日正式开始全球发货!  如果你已经成功预购 Seeker，请务必在发货前完成以下操作，以确保设备能够顺利送达：\n\n1️⃣ 确认收货地址：solanamobile.com/shipping \n2️⃣ 了解清关及关税政策：不同国家可能会对进口电子产品征收关税或增值税，Solana Mobile 不承担相关费用。建议提前了解你所在地区的海关规定，避免包裹因缴税问题被延误或退件。\n\n截至目前，Seeker 预购量已超过 15 万台，系统将按照预购顺序进行分批发货。为避免延误，请尽快完成地址确认。如果你所在地区暂不在可发货国家名单内，也可以考虑使用转运服务或联系第三方物流商处理。 \n\n原生的Solana 生活方式，正在加载！ 🚀",
+      "timestamp": "Jul 15, 2025 · 4:52 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1944983382557123056#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1944752431994384871#m",
+      "content": "Strive to be timeless",
+      "timestamp": "Jul 14, 2025 · 1:34 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1944752431994384871#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1944355610067390814#m",
+      "content": "今天唯一干的和 crypto 相关的事，就是早上起来又存了点 Huma\n\n然后出门带娃逛公园、赏荷花、坐热气球去了\n\n娃放暑假，我的生产力已经降为三分之一以下\n\n干脆躺平摸草一下",
+      "timestamp": "Jul 13, 2025 · 11:17 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1944355610067390814#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1943871633602613619#m",
+      "content": "一分钟预告片👇",
+      "timestamp": "Jul 12, 2025 · 3:14 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1943871633602613619#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1943871431085011356#m",
+      "content": "如果我有这样一个录播客的酒馆就好了，简直是最近看过最棒的布置🥹\n\nStripe 联创 John 新开了一档节目 Cheeky Pint，完全把录音棚打造成爱尔兰风格的真酒吧，直接打 Guiness 黑啤给嘉宾，边畅饮🍻边聊天\n\n第一季的嘉宾已更的有前 Open AI 副总裁，Meta CFO，Indie Hacker 一人公司鼻祖 Pieter Levels\n\n每集也不长，20 多分钟我看得津津有味，油管搜 Stripe 的官号就能看",
+      "timestamp": "Jul 12, 2025 · 3:13 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1943871431085011356#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1943625483469340962#m",
+      "content": "YouTube 今天给我推了三次这个广告了\n说你们中年人赶紧学学 AI 工具，人家 teenager 都用 AI 日赚斗金……\n快来买课吧，别只会 ChatGPT 啦\n中年人真的干啥都容易被收割\n我是真的有点内疚了🤣",
+      "timestamp": "Jul 11, 2025 · 10:56 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1943625483469340962#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1943411657897840975#m",
+      "content": "虽然这么说有点奇怪，但是好像每次听 @starzqeth @rubywxt1 两位day1global播客的时候我都在做家务，扫地拖地做饭洗碗，总有一种幻觉是，我在两位主播家里做家务钟点工。听完最新一期和 @veratheape 的读书分享之后才恍然意识到自己应该是两位主播的穷天使才对。",
+      "timestamp": "Jul 10, 2025 · 8:47 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1943411657897840975#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1942786416452534388#m",
+      "content": "我的版本：\n- 在播客做真实深度的对话和主题解读\n- 在 Newsletter 分享整理后的高价值和独家信息\n- 在茶水间小群和大家说说真话\n- 在推特用列表看看新闻，见证一下 「公地悲剧」\n\n* 订阅我的播客、Newsletter 和社群链接在个人推特 bio 里",
+      "timestamp": "Jul 9, 2025 · 3:22 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1942786416452534388#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1942411053989781806#m",
+      "content": "早安，尊贵的纳斯达克交易员和天使投资人们🪽\n\n很开心这期节目和老朋友 @veratheape 借助读《Angel》这本书，聊聊早期投资这个话题\n\n所以这是 @day1globalpod 又一期读书播客！\n\nJcal 是 ALL IN 播客主播和制作人，硅谷人脉王，Uber、Robinhood 等公司的天使投资人\n\n这本书作为讲天使投资最实战的指南，在我收藏夹里很久了，碰巧 Vera 早年也是 Jcal 另一个播客 This Week in Startup 的听众。在做了 5 年天使投资人以后，对照自己的经验再二刷这本书，也有很不一样的感受\n\n欢迎大家收听，来评论区交流 🎧\nxiaoyuzhoufm.com/episodes/68…",
+      "timestamp": "Jul 8, 2025 · 2:30 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1942411053989781806#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1942532735878447512#m",
+      "content": "啊。。。如果按照这个解释，Kaito 本质应该就只是一个推特广告的分发平台和分发数据面板？只是用了第三方提供的代币来做广告竞价，在这个过程中完成了代币分发？",
+      "timestamp": "Jul 8, 2025 · 10:34 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1942532735878447512#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1942512929288724975#m",
+      "content": "不知道大家最近有没有同感\n评论区和互动已经被嘴撸 AI 机器号们攻陷\n这些 ICT 互动和做「真实」回复的号，有些头像还挺有讲究的，真假难辩\n\n你最常遇到哪一类？👇 还有些什么特征",
+      "timestamp": "Jul 8, 2025 · 9:15 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1942512929288724975#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1942386569631211562#m",
+      "content": "在Crypto参与项目，无论你是作为早期用户去撸空投、Defi挖矿、内容挖矿，还是参与社区轮比如 200k 估值投资 @virtuals_io 早期项目，本质上都是在做天使投资\n\n如何建设人脉网络、挖掘优秀项目、参与、退出与获利，掌握富人思维?\n\n这本《Angel》给出了标准答案，我们和 @veratheape 来一起为大家解析👇",
+      "timestamp": "Jul 8, 2025 · 12:53 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1942386569631211562#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1942156485699776806#m",
+      "content": "貌似 Kaito 更新了算法，刷掉了不少 AI 生成的内容和回复？\n\n周末参加女儿毕业典礼，连续 3 天没有怎么发内容，结果 5 个榜单都进了 Top100，而且排名都上升 @virtuals_io @humafinance Cypto x AI @Mira_Network @KaitoAI , 有点神奇了\n\n各位推友也可以看看自己的排名变化",
+      "timestamp": "Jul 7, 2025 · 9:39 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1942156485699776806#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1942108348884910362#m",
+      "content": "前两天和朋友聊天，感慨为什么感觉圈内创新陷入停滞？\n\n大概是人人都想 POS，以小搏大，以大搏大，钱生钱\n薅的心态 > Build 的实质\nPOW 严重不足",
+      "timestamp": "Jul 7, 2025 · 6:28 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1942108348884910362#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1942051871692030375#m",
+      "content": "再次推荐一下 day1global 的播客节目",
+      "timestamp": "Jul 7, 2025 · 2:43 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1942051871692030375#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1942037947328737416#m",
+      "content": "Airwallex 在招稳定币相关工程师职位了\nhhh",
+      "timestamp": "Jul 7, 2025 · 1:48 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1942037947328737416#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1941738115602972886#m",
+      "content": "这两天学了一个新词，叫 「稳定币社交」\n\n起因是我之前在 Web2 的好朋友们，来听了之前 @0x_Todd 在 Day1global 播客的分享，来给我反馈，目前可以轻松应对稳定币社交🥳\n\n好友一个在视频网站做运营，说听完基本是公司最懂；另一个在蚂蚁国际做支付，巴西出差回来赶紧补课，还回听了几遍做笔记\n\n真没想到啊\n原来稳定币就是新型 Labubu aka 社交潮流话题，互联网人都得跟上，逐帧学习！",
+      "timestamp": "Jul 6, 2025 · 5:56 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1941738115602972886#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1941847943633670496#m",
+      "content": "妈耶，这个线下新书见面会的推荐语，也是蹭上了 “稳定币” ，还有加密货币入门读物 😂",
+      "timestamp": "Jul 6, 2025 · 1:13 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1941847943633670496#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1941846495063376191#m",
+      "content": "没想到啊，Michael Lewis 写的 FTX 崛起和破产故事《 Going Infinite》还能出版\n\n好家伙，简中版还是浙江教育出版社，看来真的是突出一个教育意义了\n\n英文版我读过一遍，既然有了中文版，会推荐朋友们看下，并在阅读时管理好你的眼睛和下巴，以防损伤\n\n读完第一件事，相信你应该会下单硬件钱包\n\n毕竟 Not your keys not your coins，读完不需要别人再跟你念了\n\nDisclaimer: \n本条推文没有 @OneKeyCN @ohyishi 赞助",
+      "timestamp": "Jul 6, 2025 · 1:07 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1941846495063376191#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1941302357595390203#m",
+      "content": "连这条下面都能有这么多 AI 回复，绝了",
+      "timestamp": "Jul 5, 2025 · 1:05 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1941302357595390203#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1940613769526497450#m",
+      "content": "女儿的幼儿园毕业典礼\n班主任要求父母正装出席\n\n女士正装 = 穿美美哒连衣裙即可\n男生正装 = 衬衫西装\n\n当爸的考虑赶紧入职贝壳领一套\n🤣🤣🤣",
+      "timestamp": "Jul 3, 2025 · 3:29 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1940613769526497450#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1940576891582492970#m",
+      "content": "Is BTCFi Dead?\n\n这是Goat Network创始人 @kevinliub 一篇文章的标题，也是我很好奇的问题\n\n他的问答当然是No\n\n「从需求端来看，BTC持有者普遍希望资产“躺赚”，同时对安全性要求很高。Babylon这类模式的奖励是自己的token, 币价的波动会导致奖励的不稳定，从而无法满足用户需求」\n\n我觉得make sense , 比特币囤币党和 Degen 的需求的确很不一样：Degen 可以接受损失去搏百倍千倍的收益；但囤币党更看重安全和稳定的收益\n\n所以 Goat Network 的做法是，通过创新的 BitVM, 建立在原生 BTC 安全性基础之上的 L2, 然后给用户 BTC 本位的奖励，把自己打造成一条 BTC 收益链\n\n官网首页非常一目了然，基于不同的风险偏好，提供 APY 2% - 10% 的不同层级的 BTC 原生收益产品\n\n收益来源主要来自序列器 （Sequencer ）收益、链上的交易 BTC gas fees、MEV 激励等\n\n另外有趣的是，Goat Network 还考虑到了 BTC 人群和狗狗币（Dogecoin）人群的高重叠度，存狗狗币也可以有 5% 的收益，而且是以 BTC 的形式发放\n\n当然，因为 Goat Network 还没有 TGE，部分产品比如 Sequencer PoS Staking 也把空投算作 APY 的一部分，算下来 APY 超过 100%（ GOAT Network 和 Aspecta 合作，让 0.12% 的 Supply 可以提前流通，从而获得定价）\n\n下面展开介绍一下核心技术 BitVM、团队、投资和近期热门活动，感兴趣的朋友可以提前埋伏\n\n1️⃣ 核心技术 BitVM\n\n由于比特币这条链本身比较简单，不太支持复杂的经济活动，所以 Goat Network 团队从一开始就提出了BitVM: Computing Anything on Bitcoin, 让比特币支持复杂的智能合约和计算，而无需修改其核心协议\n\n然后进一步提出 BitVM2，可以通过zkRollup（而不是 MPC）大幅提升了 BTCFi,  并实现了可持续的 BTC 收益\n\n在今年的比特币大会上，团队提出了BitVM3, 进一步提升了计算和验证速度，允许构建更先进的应用程序，如 DeFi 应用、自动化交易和借贷平台，\n同时保持了比特币的安全性和去中心化特性，不会牺牲核心优势\n\nGoat Network 基于 BitVM3 的 Bitcoin zkRollup, 将比特币从共识层扩展到应用层，使得任何现成的 BTCFi 应用程序都能在 GOAT Network 上快速、安全、轻松地部署；使得 BTC 质押者可以通过多种方式（从自托管到更高级的流动性质押以及借贷选项，以及更多可能性）在 GOAT 上获得真实、可持续的 BTC 收益\n\n在团队的持续建设了，有了目前的一系列 BTC 本位收益产品\n\n2️⃣ 团队 & 投资\n\nGOAT Network 背后是一支经验丰富的创始团队，成功打造以太坊上早期的 L2 项目 Metis 并推动了百倍增长。如今，他们将这份执行力带入比特币世界，致力于构建第一个具备可持续收益的比特币 zkRollup。\n\n创始人 Kevin Liu 是 ZKM 的联合创始人兼 CEO。 此前他共同创立了 Metis 并推动了去中心化序列器在Metis的实现。 Kevin 在中国科学院大学完成了 MBA 学位，是代币经济、DAO、DeFi 和区块链治理的活跃研究者。\n\nGoat 背后的开发商 ZKM 接受了 OKX Ventures、Amber Group、Crypto com 等机构的融资\n\n3️⃣ 近期活动（建议参与）\n\nGoat Network 近期参与的方式也挺多，团队上线了 Kaito 合作和社区 campaign 【One Piece】，下面我将一一详解参与方式。\n\n1. 内容挖矿，Kaito 的活动\n\nGoat 开启为期六个月的 Kaito Yaps 激励活动，旨在通过社交传播与社区参与，进一步扩大比特币原生 ZK Rollup 的行业影响力与用户基础。\n\n项目方给出了 1% 的 $GOATED 代币激励，如果按照当前 FDV 计算，该奖励池价值约为 100 万美元。如果 FDV 增长到 5 亿美元，相当于 500 万美金了\n\n热度本身对于协议上的 BTC 收益也有正循环效应。GOAT 在 Yap 排行榜上的排名越高，就越受关注。这条链获得的关注越多，就会有越多的新用户加入、交易，从而提升用户的 BTC 收益率。\n\n2. 社区 Campaign 【One Piece Season2】活动\n\n同时，GOAT 也同步开启了为期三周的社区挑战任务，所有用户均可通过完成链上操作、绑定社交账号等方式参与，根据引入用户的链上活跃度获得未来代币奖励。\n\n截止日期是 7 月 7 日，建议抓紧，参与链接我放到评论区。有 5 类任务，完成后可以拿到不同的积分\n\n3. 在 Aspecta 上交易 GOAT 的 BuildKey\n\nGOAT 最近通过 Aspecta BuildKey 启动了首轮社区融资, Key 目前价格为 $4.4，，目前的 FDV 约为 1.1 亿美元。\n\n感兴趣的朋友也可以在上面看下，DYOR\n\n4️⃣ 总结：划重点\n\n比特币的未来不应止步于 “持有”，而应走向“激活”。更多人参与到比特币生态里，能带来更多的价值捕获。\n\n最后再简单总结下可以通过参与 Goat 生态，获取收益的 4 种方式：\n\n• 质押 BTC 或者 DOGE，获取收益\n• 内容挖矿，yap Kaito 的代币额度\n• 参与社区 【one piece season2】活动\n• 关注 Aspecta 预售市场，交易 Key",
+      "timestamp": "Jul 3, 2025 · 1:02 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1940576891582492970#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1940349046838976614#m",
+      "content": "“每个人都能以应得的价格获得比特币”\n这条视频太生动了😭",
+      "timestamp": "Jul 2, 2025 · 9:57 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1940349046838976614#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1940229359446761692#m",
+      "content": "Over 170% pledging, average 47 $virtuals, it seems like a good signal\n\n@bm_protocol $MONEY",
+      "timestamp": "Jul 2, 2025 · 2:01 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1940229359446761692#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1939922377527464217#m",
+      "content": "Byreal IDO 实测：目前 10 个 bbSOL 打满大概可以塞进去  0.3 - 0.7 个\n\n离关门时间还有 2 个小时呢，最终结果可能更低，好卷！不过胜在开盒速度快，今天马上出结果\n\n@starzqeth 做了表格预估，其实投注哪一档也真没差多少了😂\n\n币圈打个新有点港股的甲尾乙头那意思了，这也是一种融合吗？\n@byreal_io @Solana_zh",
+      "timestamp": "Jul 1, 2025 · 5:41 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1939922377527464217#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1939685598538948964#m",
+      "content": "Huma Finance 关于质押的 proposal 在收集了一轮社区反馈之后，这么快就上线了，为团队的高效沟通和执行点赞 @DrPayFi  \n\n🪶划重点：\n- 增加了单独质押 $HUMA 的奖励，10 倍羽毛（之前的质押都追溯）\n即使不是存款 LP 质押也有权益，包括之后的 Kaito 奖励，合作方权益等\n\n- 在 8 月 1 日前可选择保留之前的「随时解除质押，赚取 1 倍羽毛」或者加入「赚取 10 倍羽毛，14 天解除质押」\n\n- 对于存款 LP，质押能增加收益 Boost 倍数\n- 身份 badge 已经上线，可以看到自己的 OG LP 身份 （需要保留 100 U 以上就会一直生效，很格局）；后续的 Vanguard 身份也会在这个区域显示\n\n- 为了便于大家计算收益，收益计算器也已经上线，输入你的资金量和各种选项，这下真的一目了然👏\n\n- 其他 $HUMA utility 和详细的质押奖励见全文\nlocalhost:8080/humafinance/status/193…\n\n@humafinance @humafinance_zh @jcmeowjc",
+      "timestamp": "Jun 30, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1939685598538948964#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1939844775961845775#m",
+      "content": "写推写成 X 产品负责人 🐮",
+      "timestamp": "Jul 1, 2025 · 12:33 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1939844775961845775#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1939693347502969062#m",
+      "content": "Huma Finance 的质押方案出炉了，6.15 号之前质押 $HUMA 的用户都可以 check 下自己有没有 Vanguard 徽章\n\n同时质押拿徽章的门槛也下调了（之前全部质押对大户是有点不友好哈哈）\n- 空投 10w $HUMA 以内：需要全部质押\n- 空投 10w - 20w, 需要质押 10w\n- 空投 20w 以上，质押一半即可\n\n纯质押的奖励也提升了，8.1 号前记得去选模式，不然会下降",
+      "timestamp": "Jun 30, 2025 · 2:31 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1939693347502969062#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1939516160103559271#m",
+      "content": "一大早被 Robinhood  要和 Arbitrum 合作，可能自己做链上美股交易平台的新闻刷屏了，期待后续在 EthCC 上的官宣\n\n过去一年 Crypto 真正出圈的，除了稳定币和 ETF，就是币股的融合\n\n融合应该会是接下来的关键词\n\n随着大机构和 web2 互联网科技公司的进场，接下来的竞争格局真的会挺有趣的，比如 Robinhood vs Coinbase/Kraken，币圈的稳定币支付 vs web2 fintech （例如 Stripe），币股融合下哪条公链会吃到最大的红利……都是值得关注的主题\n\n可能对于散户来说，一部分币圈的美股配置，相较于公链和平台 token，也会是很长一段时间的安稳 Beta\n\n我就等着川普时不时演出一番，股价砸个坑再买进去了\n反正川普永远不缺戏，总会给机会的😎",
+      "timestamp": "Jun 30, 2025 · 2:47 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1939516160103559271#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1939676153104699529#m",
+      "content": "$HUMA 代币质押正式上线！代币质押本身在 promotion 期间会有10倍羽毛激励，激励从您最初质押的时间开始生效！同时上线的功能还有：\n- 代币质押对LP 收益的 boost\n- Vanguard 身份",
+      "timestamp": "Jun 30, 2025 · 1:23 PM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1939676153104699529#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1939516240118386945#m",
+      "content": "Source",
+      "timestamp": "Jun 30, 2025 · 2:48 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1939516240118386945#m",
+      "author": "rubywxt1"
+    },
+    {
+      "id": "1939492974179827731#m",
+      "content": "陆续收到了 20 几份 BP, 都想在Virtuals发射\n\n@bm_protocol $MONEY 是这里面比较独特的一个，可以为整个生态创造出正向价值。在和团队开了好几次会后，我决定支持他们\n\nWhy?\n\n以Circle上市为标志，我们进入了一个Crypto和法币流动性统一的时代\n\n$CRCL 一周涨 10 倍, 但你却不能用加密货币购买\n\n类似的标的还有 $MSTR, $COIN, $SBET……\n\nBM Finance 看到了这个痛点 ,让你可以通过抵押加密货币借出法币，利率低至 0%，轻松打通 Crypto 和法币的流动性，在加密和股票市场间套利，实现链上和链下之间的无缝价值流通\n\n（美股上链？可能还没那么快，而且种类有限）\n\n更进一步，BM Finance 计划进入 Virtuals ACP 协议中，将自己 Agent 化，方便无缝的和其他 AI Agent 协作，比如 Axelrod, BasisOS, Stock Exchange Agent, 成为 Agent 的金融基础设施。想象一下，未来某一天，你将 Crypto 资产存入 BM Finance, 设定好自己的风险偏好和利率期望，ACP 里面的 Agent 就可以帮你同时用 Crypto 和 Fiat 来赚钱\n\n终极 Simple Earn\n\nBM Finance 的优势有哪些呢?\n\nTLDR:\n\n1️⃣低费用\n2️⃣更多收益\n3️⃣价值叠加: 虚拟账户、券商 & AI Native\n4️⃣社区驱动的增长\n5️⃣经验丰富的团队\n\n1. 低费用\n\n用户目前也可以通过 Aave 等借贷平台抵押 Crypto Asset 借出 U，然后再通过合规机构出金，使用完之后再入金还款。但这个流程有 2 个问题会导致 High Cost:\n\n第一个是这些平台没有集成出入金，用户如果自己去找合规机构，基本上一来一回会被收取 2% 的手续费，磨损不小；第二是步骤长，中间还会有 4 个环节产生 gas, 增加磨损。\n\nBM Finance 一方面和合规机构合作集成了出入金，大大降低手续费（叠加质押，甚至可以低至 0）； 另一方面简化了整个流程，用户仅需一步操作就可以完成借款和还款，避免不必要的 Gas 费。\n\n2. 更多收益\n\n也有朋友来给我说，现在使用 CEX 来抵押加密资产借出 U 后再出金，手续费还好。但 CEX 如果是 C2C 出金，仍然有冻卡风险；而且你可以质押加密资产进行生息，质押 $MONEY 也可以获得利息的分成，还可以有更多可组合性玩法，让你获得更多收益。\n\n3. 价值叠加: 虚拟账户、券商 & AI Native\n\n这里是把价值做厚的地方。\n\nBM Finance 会进一步推出虚拟银行账户，法币出金后可以直接到券商，免去中间的银行卡中转，速度更快（我希望未来可以直接集成券商）。\n\n同时，BM Finance 是在 AI Native 时代打造的抵押借贷协议，通过大模型实现更好的抵押率计算（比如预测抵押物接下来的价格趋势），和清算执行，提升资产的流动性。\n\nBM Finance 协议在 Day1 的设计上就完全 Agent 化，内部由一系列 Agent 完成从风险评估到出入金等一系列流程，同时可以无缝的和其他外部 AI Agent 协作，比如 Axelrod, BasisOS, Stock Exchange Agent, 成为 Agent 的金融基础设施。你将 Crypto 资产存入 BM Finance, 设定好自己的风险偏好和利率期望，ACP 里面的 Agent 就可以帮你同时用 Crypto 和 Fiat 来赚钱，这是 DeFAI 的未来。\n\n4. 社区驱动的增长\n\n满足用户的真实痛点，产品即将发布，有清晰的收入模型，BM Finance 本来可以走传统的路径：找 VC 融资→花钱推广产品→TGE\n\n团队刚好看到了我写的 Virtuals Playbook for 项目方，找到我深入讨论了这个方式可以带来的好处。\n\n很开心团队最后选择了 Genesis Launch, 相比起花半年到 1 年来做 VC 融资, Virtuals 生态可以加速项目的发展，Day1 就把产品推向社区，通过 Tokenomics 来和社区共享收益，用户通过 Staking, Referring 来降低法币借贷的成本（甚至低至 0），获得协议的收益分成；BM Finance 获得了由社区驱动的快速增长，最后达成双边共赢。\n\n因为有清晰的收入模型，token 很容易通过 utility, buyback he burn 不断积累价值，加上社区驱动，最后形成正向循环。\n\n感谢 @BasisOS 和 @humafinance 的模版，基本上这个赛道的项目都可以参考\n\n5. 经验丰富的团队\n\nBM Finance 背后是一支同时具备丰富 Fintech 和区块链经验的小团队。\n\nCEO Andy Zhang 拥有超过 25 年的科技和金融经验，在跨国公司担任过首席架构师和 CTO，2019 年进入 Crypto，担任亚洲区块链协会的委员会成员。\n\nCTO Victor Feng 拥有超过 17 年的大规模分布式系统和支付系统的开发经验，2017 年进入 Crypto, 负责过多个银行系统、借贷系统和 DeFi 项目的开发。\n\nAndy 和 Victor 之前一起领导了亚太地区和非洲的中央银行的稳定币试点项目。这个项目也赢得过多个奖项，包括 2024 Monetary Authority of Singapore (MAS) Financial Sector Technology and Innovation Scheme (FSTI) Innovation Grant, finalist at the 2024 Singapore FinTech Festival Hackathon.\n\n结束这个项目后，团队从自身的痛点出发，发现了加密资产和法币流动性割裂的问题，创立了 BM Finance.\n\n一支有着 Fintech + Blockchain 丰富经验的团队，来解决 Crypto + Fiat 流动性的问题。要解决的问题刚好在团队的技能树上，我觉得非常匹配。\n\n我线下见过团队成员，增加了我对他们的信任度。\n\n结论 Final Thoughts\n\n在 Virtuals Genesis Launch 里，我最喜欢的产品类型是：可以解决真实的用户痛点，有稳定的收入模式，通过社区驱动增长，经验丰富的小团队。\n\nBM Finance 满足所有 4 条标准，产品和社区成为增长的催化剂，而且拥有巨大的市场空间（全球股票于债券市场 255 万亿美元 vs 3.4 万亿全球加密市场）。产品即将发布，和 AI Agent 的集成会带来更多的用例，同时也会增强 ACP 的价值。\n\n这也是我邀请 BM Finance 来Virtuals Genesis Launch, 并支持他们的重要原因：本身就是一个好的产品，同时还可以给 Virtuals 生态带来更多价值。\n\n我会把我自己的积分都投入其中，也期待有更多类似的好项目出现。\n\nDisclaimer: I'm a Virtuals partner supporting BM Finance so I might be a little biased here.\n\nThis is not a financial advise, make sure to do your own research before pledging the points or making any decision. (shout out to @DeiFi0xJeff for this the template )",
+      "timestamp": "Jun 30, 2025 · 1:15 AM UTC",
+      "url": "https://twitter.com/rubywxt1/status/1939492974179827731#m",
+      "author": "rubywxt1"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T00:01:23.139Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 12,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 31065,
+    "cursorTrail": [
+      "DAAHCgABG3vhJMB__-oLAAIAAAATMTk3NzU0OTM1NjgxNjU4NDgxMAgAAwAAAAIAAA",
+      "DAAHCgABG3vhJMB__9YLAAIAAAATMTk3NTA2NjQ2MTU0Mzc5MzA3NwgAAwAAAAIAAA",
+      "DAAHCgABG3vhJMB__8ELAAIAAAATMTk3Mjk4MjQ4NTk3OTEwMzI4MggAAwAAAAIAAA",
+      "DAAHCgABG3vhJMB__6wLAAIAAAATMTk2OTc1OTYwNjI1MjY1MDY0MwgAAwAAAAIAAA",
+      "DAAHCgABG3vhJMB__5gLAAIAAAATMTk2NTk0OTU5MzYzNzc5MDE4NAgAAwAAAAIAAA",
+      "DAAHCgABG3vhJMB__4ULAAIAAAATMTk2MjM1MzA4MDcyMjQzMjI4NggAAwAAAAIAAA",
+      "DAAHCgABG3vhJMB__3ILAAIAAAATMTk1ODAwNzI2Mjk4MDc2NzgyNwgAAwAAAAIAAA",
+      "DAAHCgABG3vhJMB__14LAAIAAAATMTk1MzAxNzE3NTE3MTg0MjEyNQgAAwAAAAIAAA",
+      "DAAHCgABG3vhJMB__0oLAAIAAAATMTk0NjkxNjcxNjA0ODY5NTcyMQgAAwAAAAIAAA",
+      "DAAHCgABG3vhJMB__zYLAAIAAAATMTk0MjQxMTA1Mzk4OTc4MTgwNggAAwAAAAIAAA",
+      "DAAHCgABG3vhJMB__yELAAIAAAATMTkzOTY3ODUxOTgyMDUwMTQyOQgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

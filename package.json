@@ -1,0 +1,60 @@
+{
+  "name": "@web3/root",
+  "version": "2.0.0",
+  "description": "Web3 Monorepo - Social Monitoring, Kronos DeFi Trading & Rust Copy Trader",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "tools/*"
+  ],
+  "scripts": {
+    "dev": "turbo dev",
+    "dev:db": "docker-compose -f docker-compose.dev.yml up -d",
+    "build": "turbo build",
+    "test": "turbo test",
+    "lint": "turbo lint",
+    "clean": "turbo clean",
+    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,md}\"",
+    "start": "docker-compose up -d",
+    "start:monitoring": "docker-compose --profile monitoring up -d",
+    "stop": "docker-compose down",
+    "stop:dev": "docker-compose -f docker-compose.dev.yml down",
+    "logs": "docker-compose logs -f",
+    "health": "turbo health",
+    "setup": "pnpm install && pnpm build"
+  },
+  "devDependencies": {
+    "@turbo/gen": "^1.10.12",
+    "concurrently": "^8.2.2",
+    "eslint": "^8.48.0",
+    "prettier": "^3.0.3",
+    "turbo": "^2.5.8",
+    "typescript": "^5.2.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=9.0.0"
+  },
+  "packageManager": "pnpm@9.15.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/web3-monorepo.git"
+  },
+  "keywords": [
+    "web3",
+    "crypto",
+    "copy-trading",
+    "defi-trading",
+    "kronos-ai",
+    "social-media-monitoring",
+    "nitter",
+    "telegram",
+    "discord",
+    "monorepo",
+    "typescript",
+    "automation"
+  ],
+  "author": "Web3 Team",
+  "license": "MIT"
+}

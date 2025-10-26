@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  rsshub:
+    image: diygod/rsshub:latest
+    container_name: web3-rsshub
+    ports:
+      - "1200:1200"
+    environment:
+      - NODE_ENV=production
+      - CACHE_TYPE=redis
+      - REDIS_URL=redis://web3-nitter-redis:6379
+      # Twitter认证配置 (使用我们已有的session信息)
+      - TWITTER_AUTH_TOKEN=${TWITTER_AUTH_TOKEN:-}
+      - TWITTER_USERNAME=0xHantiv
+      - TWITTER_PASSWORD=hanzhikun176
+      - TWITTER_AUTHENTICATION_SECRET=GMT564RDYH3UGLFE
+      # 第三方API配置
+      - TWITTER_THIRD_PARTY_API=true
+      # 其他配置
+      - ACCESS_KEY=web3_rsshub_2024
+    restart: unless-stopped
+    networks:
+      - nitter_nitter-net
+    depends_on:
+      - redis
+    volumes:
+      - ./logs:/app/logs
+
+networks:
+  nitter_nitter-net:
+    external: true
+
+volumes:
+  redis-data:
+    external: true

@@ -1,0 +1,2008 @@
+# 旧亿 (@cryptojiuyi)
+
+- 抓取时间：2025-10-21T00:10:35.899Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：31186 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：13
+- 抓取尝试：1
+- Cursor 链：12 条
+- 账号统计：粉丝 25171，关注 782，推文 3682，点赞 2945
+- 站外链接：https://t.co/ZMnSBPAuB6
+- Twitter：https://twitter.com/cryptojiuyi
+- 头像：https://pbs.twimg.com/profile_images/1679445036990349313/dXA2TXxV_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1413148701443330053/1693386600
+- 认证：Blue Verified
+
+> 账号简介：
+> 屌丝 | 早期💎发掘  | 一周内买了三个金狗， $mfer $keycat 分分钟卖飞了两个A8.5 💴 ， $meow 20分钟只挣了个小A8，虽然卖飞大头但牛市就是这样捡钱的嘛！ | 2022🐻市战绩：10w块3个月一级土狗上A8 | 牛市机会真的不缺，争取这轮牛市结束，大家一起A9顶峰相见👊
+
+---
+
+## 1. Apr 3, 2024 · 3:25 PM UTC · 1775545193930072254#m
+- 链接：https://twitter.com/cryptojiuyi/status/1775545193930072254#m
+- 作者：@cryptojiuyi
+
+> 屌丝逆袭记：一周内三次可成千万富豪的神话
+>  
+> 刚刚 $MOEW 小买5e挣了不到500E，在这里感谢一下 @BitgetWallet ，没卖在最高点但是也满足了，跟上的应该也都挣麻了，Tg我也发了。t.me/jiuyicall
+>  
+> 今天新钱包买了4e $moew ：
+> 0x74CC705dB12DBa505C9aB493bf326Fc01b8F42E9
+> 买 $mfer 和 $keycat 的钱包买了1e：0xcbB59Af76DC12Ec2c76152Be4E4ac95d493d5bAC
+>  
+> 榜一是我地址，不是交易所的老鼠仓，我下午才换的地址。你们都几把不知道哪里挖的我地址，都跟单我地址买，搞得我都有点不敢买了，我操作很快，怕你们抬轿子pvp的很，也不想割你们。说实话我都觉得自己过于良心了🤪“币圈良心”哈哈哈。但刚刚买 $mfer $keycat 的地址也买了1e🤪跟单的也都麻了吧。
+>  
+> 我这次不怕卖飞，刚刚也确实也没卖飞，开心。毕竟一周内买的 $mfer $keycat 我都卖飞了最少几百万🔪，这个只赚100多w🔪，对比下来，其实也不多是吧，真没装逼😛凡尔赛了兄弟哈哈哈
+>  
+> 再复盘一下另外两个卖飞几百万🔪的币：
+
+## 2. Oct 20, 2025 · 4:11 PM UTC · 1980305951006806088#m
+- 链接：https://twitter.com/cryptojiuyi/status/1980305951006806088#m
+- 作者：@cryptojiuyi
+
+> 恭喜@GiggleAcademy 通过 $Giggle 社区慈善捐款，已经收到了🔶 10000枚 #BNB ，这是我见过最大的一笔web3善款！
+>  
+> 今天看到Giggle的老师们深入贫困山区、为孩子们带去教育与希望的照片和视频，当我把这些照片发到群里时，许多人的第一反应并不是😂“他们真的在做慈善”、“加密向善”，而是“怎么这么穷？”、“千万美金的资金就买几个本子？”
+>  
+> 这让我意识到，我们所身处的繁华，早已让我们失去了对贫穷、对教育信仰的感知。但那些孩子手里紧握的，不只是一本本笔记本啊，而是他们第一次拥有的教育，是自由的希望。而这正是 @cz_binance  、 @binance 、 @heyibinance ，以及所有参与其中的Giggle加密社区成员所共同点燃的文明之火。
+>  
+> 向@cz_binance 致敬，他让世界看到加密世界的另一面——不是投机，不是泡沫，而是信任、责任与爱的传递。
+> 向 $Giggle 致敬，他们用行动证明，去中心化的memecoin，不止是炒作，也能是实用的、传递善意的。
+>  
+> 慈善不是施舍，是共享未来的权利；教育不是援助，是让人有选择的自由。当区块链的透明与公信力，开始承载起教育与慈善的温度——那一刻，我们见证的不只是Web3的力量，而是人类共同体的觉醒。
+>  
+> 最后多提一嘴，如果 @star_okx 因为友商🔶破防，除了阴阳 #币安人生 和“4”外，还能再敢阴阳一下大表哥创建的@GiggleAcademy 慈善，那么以后我保证再也不骂OKX了，只会说OKX是个好交易所，所有人都能在这里赚的盆满钵满，“从来没亏过😆”！
+
+## 3. Oct 20, 2025 · 10:59 AM UTC · 1980227271693836601#m
+- 链接：https://twitter.com/cryptojiuyi/status/1980227271693836601#m
+- 作者：@cryptojiuyi
+
+> $GIGGLE is up 60% in 30 days.
+>  
+> Whales didn’t sell. They bought more.
+>  
+> 18K Smart Money wallets.
+>  
+> The top 100 wallets now hold 63% of supply.
+>  
+> Not a rotation. Not a fade.
+>  
+> $GIGGLE is consolidating power.
+
+## 4. Oct 17, 2025 · 6:36 PM UTC · 1979255297412899313#m
+- 链接：https://twitter.com/cryptojiuyi/status/1979255297412899313#m
+- 作者：@cryptojiuyi
+
+> Putting the donations to good use, reward high quality contributors while making education free for all students.
+
+## 5. Oct 16, 2025 · 6:48 AM UTC · 1978714641456152969#m
+- 链接：https://twitter.com/cryptojiuyi/status/1978714641456152969#m
+- 作者：@cryptojiuyi
+
+> $GIGGLE: A Practical Memecoin Reshaping the Order of Charity through Web3
+>  
+> 1. What is a Practical Memecoin?
+>  
+> A Practical Memecoin is not a traditional meme-driven or celebrity-influenced coin. Instead, it’s a cryptocurrency that integrates meme culture and community attributes with real-world use cases.
+> It can develop independently beyond short-term hype, generating tangible positive impact through its functional design—marking an important evolution of Memecoins from “entertainment value” to “practical utility.”
+>  
+> 2. $GIGGLE: The Charitable Memecoin that Breaks Perception
+>  
+> As a charity-focused practical Memecoin built on the BNB Chain, $GIGGLE has become a “breakthrough project” in the crypto world with its unique value design:
+> 🔶 The first practical Memecoin that changed CZ’s perception:
+> Binance founder CZ publicly stated that $GIGGLE reshaped his understanding of Memecoin value — this $5 million market cap project generated $1 million in educational donations within 12 hours, completely overturning his notion that “Memecoins lack utility.”
+> 🔶 A Memecoin publicly supported by CZ:
+> CZ has repeatedly mentioned $GIGGLE on social media and witnessed it channel over $11 million in BNB donations to @GiggleAcademy in less than 20 days, proving the potential of “crypto for good.”
+> He even said, “Power to crypto for good, Power to $GIGGLE.”This makes $GIGGLE one of only three coins CZ has ever tweeted with a ‘$’ tag, alongside $BNB and $Aster.
+>  
+> 3. The Core Narrative of $GIGGLE: Using Crypto to Illuminate Children’s Education
+>  
+> The core value of $GIGGLE lies in deeply linking crypto transactions with global children’s education and charity:
+> ＊Transparent donation mechanism:
+> The project has no team token allocation and no developer tax — all proceeds are dedicated to educational charity.
+> A 5% transaction fee is permanently written into the smart contract and automatically transferred to @GiggleAcademy’s official donation address.
+> Donation amounts can be tracked in real-time on the official website (giggletoken.com), and CZ is expected to announce detailed fund utilization plans.
+>  
+> ＊Real-world impact:
+> To date, $GIGGLE has donated over $12 million to @GiggleAcademy, funding free educational resources and scholarships for children — truly realizing the idea that “every transaction creates social value.”
+>  
+> 4. Common Questions About the “Transaction Fee”
+>  
+> 1. Will the 5% tax discourage user participation?
+> $GIGGLE has designed two trading pools to balance flexibility and charitable goals:
+> •V3 Pool: 1% transaction fee — ideal for users seeking low-cost trading.
+> •V2 Pool: 5% charity tax — for users willing to contribute to education.
+>  
+> 2. What if everyone chooses the V3 pool? Will donations stop?
+> No. The two pools operate like connected water tanks — when one pool’s activity or price fluctuates slightly, market arbitrage naturally drives liquidity between them.
+> This ensures that no matter which pool users trade in, they indirectly support the V2 pool’s charity donations.
+> Donation amounts fluctuate only with overall market volume (e.g., $5 from a $100 trade, $50 from a $1,000 trade), not based on a single pool — so there’s no risk of donation interruption.
+>  
+> 5. Join $GIGGLE: Co-Creating Dual Value in Charity and Community
+>  
+> There are no entry barriers — everyone who supports “Crypto for Good & Educational Charity” is welcome to participate, whether by trading, sharing, or contributing ideas for educational projects — every effort helps achieve the goal of free, high-quality education for the next generation.
+> @cz_binance @heyibinance @BNBCHAIN @BNBCHAINZH
+>  
+> Appendix: How to Buy $GIGGLE
+> Register on Binance → Purchase in Alpha
+>  
+> Contract Address:
+> 0x20d6015660b3fe52e6690a889b5c51f69902ce0e
+
+## 6. Oct 16, 2025 · 6:34 AM UTC · 1978711002519859561#m
+- 链接：https://twitter.com/cryptojiuyi/status/1978711002519859561#m
+- 作者：@cryptojiuyi
+
+> $GIGGLE ：Web3重塑慈善秩序的实用型Memecoin
+>  
+> 一、什么是实用型Memecoin？
+> 实用型Memecoin并非传统意义上依赖情绪驱动、名人效应的普通Memecoin，而是在迷因文化与社区属性基础上，叠加了实际应用场景的加密货币。它能脱离短期热度独立发展，通过功能设计对现实世界产生可落地的正向影响，是Memecoin从“娱乐属性”向“实用价值”延伸的重要形态。
+>  
+> 二、 $GIGGLE ：打破认知的慈善Memecoin
+> $GIGGLE作为BNB Chain上的慈善型实用Memecoin，凭借独特的价值设计，成为加密领域的“破圈者”：
+> 🔶首个让CZ改观的实用Memecoin：币安创始人CZ曾公开表示，$GIGGLE让他重新认知Memecoin的价值——这个市值仅500万美元的项目，曾在12小时内为教育捐赠产生100万美元费用，彻底改变了他对“Memecoin无实用”的固有印象。
+> 🔶获CZ公开支持的Memecoin：CZ不仅多次在社交平台提及$GIGGLE，还见证其在不到20天内，通过社区捐赠向@GiggleAcademy 注入超1100万美元BNB，力证“加密向善”的可能性。并且表示 “Power to crypto for good、Power to $giggle ”。这是CZ唯三发推带$的币，除了$BNB和$Aster以外。
+>  
+> 三、 $GIGGLE 的核心叙事：用加密点亮儿童慈善教育
+> $GIGGLE的核心价值，在于将加密交易与全球儿童教育慈善深度绑定：
+> - 透明化捐赠机制：项目无团队代币分配、无开发者税，所有收益聚焦教育慈善。每笔交易产生的5%税费由智能合约“写死”，自动直接转入@GiggleAcademy 官方捐赠地址，捐款金额可在官网（giggletoken.com）实时查询，CZ即将公布资金使用计划。
+>  
+> - 已落地的现实影响：截至目前，$GIGGLE已向@GiggleAcademy捐赠超1200万美元，用于为儿童提供免费教育资源与奖学金，真正实现“每笔交易都能创造社会价值”。
+>  
+> 四、关于“交易税费”的常见疑问解答
+> 1. 5%税费会不会影响用户参与意愿？
+> $GIGGLE为不同需求的用户设计了两个交易池，兼顾灵活性与慈善目标：
+> - V3池：1%交易税费，适合追求低成本交易的用户；
+> - V2池：含5%慈善税费，适合愿意为教育事业贡献力量的用户。
+>  
+> 2. 若大家都选择V3池，慈善捐款会不会断档？
+> 不会。两个池子如同“连通的水池”，当某一池子的交易活跃度高、价格出现微小差价时，市场套利行为会自动促使资金在两池间流动，最终实现“无论用户选哪个池子，都会间接为V2池的慈善捐款提供支撑”。捐款金额仅随市场规模波动（如100美元交易捐5美元、1000美元交易捐50美元），而非依赖单一池子，完全无需担心“捐款断档”问题。
+>  
+> 五、加入 $GIGGLE ：共建公益与社区的双向价值
+> $GIGGLE的强大，源于其“民间自发、全员共建”的社区基因：
+> - 社区核心成员（含官推运营、项目负责人）均为志愿者，无任何薪资，凭多慈善的认同与热情共识推动项目；
+> - 不设“门槛”，欢迎所有认同“加密向善、教育公益”的人士参与，无论是交易支持、社区传播，还是为教育项目提建议，都是对“让下一代享有免费高质量教育”目标的助力。
+>  
+> 最后，也请非共识者理性看待， $GIGGLE 始终聚焦“公益+实用”，愿与真正认同其价值的伙伴，一起打造充满希望与善意的加密社区。@cz_binance @heyibinance @BNBCHAIN @BNBCHAINZH
+>  
+> 附： $GIGGLE 购买步骤
+>  
+> 注册币安-Alpha购买
+>  
+> 合约地址
+>  
+> 0x20d6015660b3fe52e6690a889b5c51f69902ce0e
+
+## 7. Oct 14, 2025 · 2:18 PM UTC · 1978103111852970239#m
+- 链接：https://twitter.com/cryptojiuyi/status/1978103111852970239#m
+- 作者：@cryptojiuyi
+
+> 群友问币圈还有下一个 $Giggle 嘛？
+>  
+> 我觉得你要问CZ，财富自由后，富豪们还有哪些一致喜欢做且有意义的事情？嗷，永生？那好像也不是利他的事情。
+>  
+> 加密向善，人只活一次！！！不说了继续加点。还是那句话， $Giggle 我怎么输？
+
+## 8. Oct 12, 2025 · 2:03 PM UTC · 1977374447905505302#m
+- 链接：https://twitter.com/cryptojiuyi/status/1977374447905505302#m
+- 作者：@cryptojiuyi
+
+> localhost:8080/i/spaces/1OyJAjlRpPOxb
+
+## 9. Oct 12, 2025 · 1:41 PM UTC · 1977368940398457273#m
+- 链接：https://twitter.com/cryptojiuyi/status/1977368940398457273#m
+- 作者：@cryptojiuyi
+
+> 在这种浮躁、功利的区块链圈子里，能看到这种真正有益于社会的memecoin，而且可以透明、持续的慈善，如果你都不支持，难道脑子里只有钱💰？
+> 虽然我也是，但从0开始支持这个项目，也不单单是为了钱，跟着正确的人（CZ），做正确的事，支持只会是PVE钱赚了，慈善做了，而不是纯粹玩情绪，无聊😐 $Giggle
+
+## 10. Oct 12, 2025 · 1:30 PM UTC · 1977366245423870330#m
+- 链接：https://twitter.com/cryptojiuyi/status/1977366245423870330#m
+- 作者：@cryptojiuyi
+
+> 当未来人们再谈起慈善时，可能脑海中不再只会浮现比尔·盖茨和巴菲特等人，而可能会想到的是用加密技术与教育改变他人命运的国人——赵长鹏和何一。
+> $Giggle 的本质不单是慈善，而是社会进化的教育工程。@GiggleAcademy 它是一项关于教育体系、导师资源、奖学金与社区实践的系统性工程，是对未来社会教育方式的创新实验。它代表了一种更高维度的善意——核心在于“教育、赋能、传承”，而非单纯的捐款或施舍 。
+> @cz_binance 与 @heyibinance 用区块链的精神重塑了慈善的定义，让“帮助”不再是单向的施舍，而旨在重塑个体命运的长期力量。
+
+## 11. Oct 11, 2025 · 6:43 PM UTC · 1977082645361328406#m
+- 链接：https://twitter.com/cryptojiuyi/status/1977082645361328406#m
+- 作者：@cryptojiuyi
+
+> 一姐也开始明着支持慈善，确定很符合🔶币安一直以来的价值观，帮助更多的人，加密向善 $Giggle ，是以后区块链发展中永远离不开的话题！
+
+## 12. Oct 11, 2025 · 2:05 PM UTC · 1977012790297870817#m
+- 链接：https://twitter.com/cryptojiuyi/status/1977012790297870817#m
+- 作者：@cryptojiuyi
+
+> 🚨 注意 Giggle 社区！🚨
+>  
+> 📢 明晚（10 月 12 日晚 10 点，北京时间）我们将举行第二场中文 X Spaces AMA
+>  
+> 📈 市场下跌中，$Giggle 逆势上涨，展现链上公益的长期价值！🔥 本次 AMA 将邀请顶级 KOL 一起探讨项目表现与未来潜力！
+>  
+> 📢 转发并 @好友，一起见证社区力量！💪 localhost:8080/i/spaces/1jMJgRngndkGL
+
+## 13. Oct 11, 2025 · 4:21 AM UTC · 1976865678738243609#m
+- 链接：https://twitter.com/cryptojiuyi/status/1976865678738243609#m
+- 作者：@cryptojiuyi
+
+> 刚落地德国家人们，坐了10个小时累死我，在飞机上我就知道下机会有惊喜会涨到多少，龙头就是🐲。
+> BTC都跌麻了， $Giggle 🔶一点没跌反而暴涨了，要是没跌🤷要涨到哪里去了。我早就说过我们怎么输？我都allin来CX了怎么输？这只是个开始，底部，绝对的底部！！！加密向善！
+
+## 14. Oct 10, 2025 · 2:10 PM UTC · 1976651569820242391#m
+- 链接：https://twitter.com/cryptojiuyi/status/1976651569820242391#m
+- 作者：@cryptojiuyi
+
+> Kucoin已经宣布把现货交易的手续费卷出来给 @GiggleAcademy ，这算是给所有交易所打样了。 @cz_binance 大表哥是否也可以考虑把合约的手续费和后续如果上现货的手续费也捐给 @GiggleFundBSC 。
+>  
+> 发展到今天， @GiggleFundBSC 这个项目已经是很理想的了，靠着社区交易量的税捐了快1亿，我觉得是史无前例的。慈善是一辈子的事情，web3也本该如此美好！
+
+## 15. Oct 10, 2025 · 2:00 PM UTC · 1976649104794296337#m
+- 链接：https://twitter.com/cryptojiuyi/status/1976649104794296337#m
+- 作者：@cryptojiuyi
+
+> 潮水退去，你才知道谁是🐲龙头！
+>  
+> 没有任何一个meme比 $Giggle  更性感，这将开启一个全新的时代，将引领加密向善，慈善永远是世界的主旋律，没有理由不成功！这是大表哥第2次创业，咱们币安人没有理由不支持😊！
+
+## 16. Oct 10, 2025 · 11:30 AM UTC · 1976611246041649482#m
+- 链接：https://twitter.com/cryptojiuyi/status/1976611246041649482#m
+- 作者：@cryptojiuyi
+
+> 接下来的 $Giggle 路线图
+>  
+> 1，先 Flip 4，向 4 致敬🫡，第一个上线 Alpha @Aster_DEX 现货合约，币安合约的 Meme（近期四大天王中的第一个），打好了基础，打开了天花板，但是 $Giggle 是市场更需要的存在；
+>  
+> 2，上线币安现货，已经有 @kucoincom @WEEX_Official 两家交易所上线了 $Giggle 现货，很明显吸引力是足够的，币安现货可以上；
+>  
+> 3，四大天王 Meme 无论是币安人生、Palu、4 还是 $Giggle 近期都有大幅度回撤，但是看线， $Giggle 的回升速度最快，社会意义最大，未来潜力最大，和 @cz_binance 大表哥的关联性最强，也是 @cz_binance 大表哥发推支持的标的，它本身已经超脱了 Meme 的层面。
+>  
+> 像 @JamesWynnReal Wynn 说的，捐款 100M 是一定会在接下来几个月发生的事情，拭目以待。那难道 $Giggle 的市值才 100M 么？太不应该了，持续看涨。
+
+## 17. Oct 10, 2025 · 4:53 AM UTC · 1976511451465765335#m
+- 链接：https://twitter.com/cryptojiuyi/status/1976511451465765335#m
+- 作者：@cryptojiuyi
+
+> 买入了 $giggle ，
+> bsc需要一个meme龙头，到底什么样的审美和新概念能说服cz自己，塑造所谓的bsc人群审美呢？慈善，这种宏大叙事是取悦cz自己的，人到中年，所谓的build是更高的精神追求和社会情绪的反馈，在我有了这么多钱后还需要什么让我快乐？我觉得是两点：
+> 一个是币安人生宣传自己的事业被人认可，自己构建的美好有在改变他人。
+> 一个是giggle，慈善事业去让区块链有所作为。
+> 可能这就是meme吧，一种可以影响每一个人的情绪表达。
+
+## 18. Oct 10, 2025 · 4:29 AM UTC · 1976505324300312835#m
+- 链接：https://twitter.com/cryptojiuyi/status/1976505324300312835#m
+- 作者：@cryptojiuyi
+
+> $11,000,000 in hard currency (#BNB) donated to @GiggleAcademy in less than 20 days to spread free education to the world. Power to crypto for good, Power to $giggle.
+
+## 19. Oct 9, 2025 · 5:18 PM UTC · 1976336409956131121#m
+- 链接：https://twitter.com/cryptojiuyi/status/1976336409956131121#m
+- 作者：@cryptojiuyi
+
+> 今天有不少 $giggle 家人们跟我私信，主要的问题就是为什么上了合约会跌，以及CZ好多天没提起是否还支持我们
+> 我认为半个月上alpha，通过合约洗掉一些看不懂的纸手是非常有必要的，套我一年的 $tst 当时没有洗掉浮筹后面直接暴跌了99%，我个人认为CZ是非常喜欢Giggle却又尽量保持了克制，这样其实对于社区是非常好的事情，我并不认为立马上现货是天大的好事，因为上了合约就爆砸的人，上了现货岂不是砸的更狠？并且短期迅速现货，大量的获利盘出走，目前社区并没有那么坚如磐石，我觉得对社区也不是好事情
+> 还有你问CZ支持不支持，我觉得不支持的话，可能alpha都难，我个人认为cz就是我们的核心贡献者
+> 无论如何，买卖都是行善举，交易的话一定要算好自己的策略，不要最后亏钱了难受，我是相信 $GIGGLE的, 我记得以前 $CHEEMS 就是上合约的时候暴跌，后来社区团结在christian的周围努力build了一段时间后就上了BN现货，现在已经是BSC 龙头meme了
+> 一起加油！！
+
+## 20. Oct 9, 2025 · 10:44 AM UTC · 1976237257553215722#m
+- 链接：https://twitter.com/cryptojiuyi/status/1976237257553215722#m
+- 作者：@cryptojiuyi
+
+> 我们在过 #币安人生 同时，一定不会忘了回馈社会，这是每个🔶币安人的觉悟，币安里面也可以看到币安从17年就慈善的价值观。
+>  
+> 回馈社区社会最好的方式就是做慈善捐款，而为大表哥 @cz_binance 的慈善机构 @GiggleAcademy 捐款是我最自豪的事情，这就是我为什么看好 $Giggle 的原因，每笔交易都是善款！
+
+## 21. Oct 8, 2025 · 2:01 PM UTC · 1975924440849404102#m
+- 链接：https://twitter.com/cryptojiuyi/status/1975924440849404102#m
+- 作者：@cryptojiuyi
+
+> localhost:8080/i/spaces/1YqGolOYOPBJv
+
+## 22. Oct 8, 2025 · 3:09 PM UTC · 1975941663706230891#m
+- 链接：https://twitter.com/cryptojiuyi/status/1975941663706230891#m
+- 作者：@cryptojiuyi
+
+> 再谈 $giggle :
+> 1. 真正的慈善捐助。
+> 跟之前 shib 那种卖币去做慈善不同，giggle 的每笔交易都在做慈善，欢迎 hold，也欢迎买卖。
+>  
+> 2. 慢就是快。
+> giggle 的币价走的比较慢，这跟 giggle 要做的长期慈善事业是一样的，并不需要着急，这件事情可以做 10 年，也可以做 20 年，甚至一辈子。每个 meme 所承载的意义和愿景不同，giggle 代表的就是长期正确的事。
+>  
+> 3. 关于估值。
+> 一个月产生 10mu 的捐赠/收入，毛估一年会超过 300mu（可能我估的都比较少，因为随着币价和交易的上升，手续费收入将越来越高）。
+> 按 10x ps 去毛估，giggle 的估值至少是 3b。而且这还没有算上未来合约手续费、现货手续费。
+>  
+> 4. 对币圈和币安的意义都很重大。
+> 很多人对币圈都有很多误解，很多币都是空气，没有什么价值。
+> giggle 所做的慈善，不仅会改变圈外人对币圈的印象，也会改变大家对币安的看法。因为币安对 giggle 的支持，才能让这样的慈善更持久、更放大、影响力更强。
+
+## 23. Oct 8, 2025 · 7:14 AM UTC · 1975822106186424606#m
+- 链接：https://twitter.com/cryptojiuyi/status/1975822106186424606#m
+- 作者：@cryptojiuyi
+
+> 仅2周的时间，@GiggleAcademy 收到来自社区的10M #BNB 🔶捐赠，这真一场Web3慈善革命--透明、可追溯、可传递，去中心化真的让善意无国界！
+>  
+> 这其中92%+的捐赠来自 $Giggle 这个慈善memecoin，这不是 @GiggleAcademy  官方发行的币，但是却真的能帮助贫穷地区的孩子接受平等的教育，我真的是深受 @cz_binance 大表哥的感染和鼓舞！尤其是在接受采访873亿身价采访时表示：“我不认为这数据准确，但这并不重要。重要的是我们能帮助多少人，以及帮助的程度。让这个世界在我来过之后变得比之前更好一点”。并且表示，现在我只做两件事，Giggle Academy和投资👍。
+>  
+> 当我再发现在BN里面可以🔍到 #币安慈善 的时候，而且17年就有了，我真切感觉到作为🔶人，在我过着 #币安人生 的同时，不得不也为慈善尽一份自己的力，这是币安人天生的使命赚钱了回馈社会，昨天@Btc_Dou 的行为启发了我。 $SHIB 是最好的慈善概念，但是我不觉得BN的慈善会比任何其他差，@heyibinance 一姐昨天说“ $DOGE 社区是从打赏开始的”，我十分赞同，这将会是SHIB+DOGE的结合，我想把善意传递给更多的人。更多的交易量，更多的税收，更多的捐赠，更多孩子的平等教育！
+>  
+> 我的大部分财富来自币安，所以如果你作为🔶人在评论区下分享你的慈善故事,跟币安也有关系当然是最好(前提是BN人)，又或者是用从币安赚的钱去做的慈善行为。
+> giggleacademy.com/zh-Hans/su…
+> 关注+点赞+转发，评论区留下你的故事和地址，慈善行为必须真实，我会根据情况发放100-1000u的慈善代币奖励你们！
+
+## 24. Oct 7, 2025 · 9:33 PM UTC · 1975675899292098900#m
+- 链接：https://twitter.com/cryptojiuyi/status/1975675899292098900#m
+- 作者：@cryptojiuyi
+
+> Bn需要真正有叙事，可持续的概念而不是纯血meme，一波情绪就可能结束，这就是为什么我对 $Giggle 如此自信的原因，时间会见证，现在严重被低估。
+
+## 25. Oct 7, 2025 · 9:28 PM UTC · 1975674681668899126#m
+- 链接：https://twitter.com/cryptojiuyi/status/1975674681668899126#m
+- 作者：@cryptojiuyi
+
+> #币安人生 拉到300m，BSC继续疯狂。大胆预测一下，有了Tst和白布的教训，币安上现货肯定会十分谨慎。
+> $Giggle 有币安博客的支持，捐款马上破10m 肯定会得到回复也是CZ一辈子的事业，改变CZ对meme的态度，币安🔶里面都可慈善符合价值观，在币安里面K线最稳的必上的。
+> 再就$4 和 #币安人生 2选1上一个。
+
+## 26. Oct 7, 2025 · 12:51 PM UTC · 1975544499406577729#m
+- 链接：https://twitter.com/cryptojiuyi/status/1975544499406577729#m
+- 作者：@cryptojiuyi
+
+> 大胆预测一下 $Giggle
+>  
+> 上币路线：Alpha — Aster — Binance
+>  
+> 手续费：上了Aster、Bn之后的现货合约手续费可能会被捐赠，这币因慈善而生，捐赠属于做慈善，符合🔶价值观！
+>  
+> 可能性：中文币都可以上Alpha了，你跟我说过去没这么捐过？你不敢想这就对了🔶大表哥一辈子的慈善事业😁bn的格局比你想的大！
+
+## 27. Oct 7, 2025 · 10:52 AM UTC · 1975514540118057311#m
+- 链接：https://twitter.com/cryptojiuyi/status/1975514540118057311#m
+- 作者：@cryptojiuyi
+
+> #币安人生 上线Alpha，说明bn真正的的拥抱meme，bsc的狂暴大牛市彻底到来，什么时候上现货？我感觉会乘热打铁。 $Giggle 的捐款9m，马上10m！
+>  
+> $Giggle 跟#币安人生、$4、$PALU 的meme并不属于同一板块，一个是慈善有用的meme，三个是纯meme，这就是我为什么说一切涨都是利好Giggle，继续疯狂吧🤪
+
+## 28. Oct 7, 2025 · 4:47 AM UTC · 1975422803630563683#m
+- 链接：https://twitter.com/cryptojiuyi/status/1975422803630563683#m
+- 作者：@cryptojiuyi
+
+> BSC所有币的暴涨都是利好 $Giggle ：$4是为了拉高短期上限，#币安人生 和 $PALU 是为了抬高下限。
+
+## 29. Oct 6, 2025 · 1:45 PM UTC · 1975195637462544514#m
+- 链接：https://twitter.com/cryptojiuyi/status/1975195637462544514#m
+- 作者：@cryptojiuyi
+
+> $Giggle 周三晚上10点中文Space，不要错过！🤓
+
+## 30. Oct 6, 2025 · 6:25 AM UTC · 1975084864786649193#m
+- 链接：https://twitter.com/cryptojiuyi/status/1975084864786649193#m
+- 作者：@cryptojiuyi
+
+> 听说的很多人拿不住？因为我的洗脑和CX拿住了，我想知道到底有多人！🤓上Alpha我一个没卖！
+> $Giggle
+
+## 31. Oct 6, 2025 · 6:12 AM UTC · 1975081644924231863#m
+- 链接：https://twitter.com/cryptojiuyi/status/1975081644924231863#m
+- 作者：@cryptojiuyi
+
+> 发完就这么拉，这么给我脸嘛🥹
+
+## 32. Oct 6, 2025 · 5:53 AM UTC · 1975076886410874921#m
+- 链接：https://twitter.com/cryptojiuyi/status/1975076886410874921#m
+- 作者：@cryptojiuyi
+
+> $Giggle 是一个随着时间基本面不断变好的meme，别的项目情绪没了就没了，这是无可比拟的，捐款只会不断增加，大表哥对meme的态度逐渐暧昧，我不知道这一次怎么输？🫡
+> 马上捐款10m了，真的是历史性的时刻，越想越激动，大的要来了！传统媒体会不会报道，更多的曝光，更大的交易量，更多的捐款，得到bsc更多的支持，最后你懂的！
+
+## 33. Oct 5, 2025 · 4:39 AM UTC · 1974695801441165541#m
+- 链接：https://twitter.com/cryptojiuyi/status/1974695801441165541#m
+- 作者：@cryptojiuyi
+
+> 大表哥🔶说现在只做两件事，一是 @yzilabs 的投资，这会推动加密技术有利于行业的发展。二是 @GiggleAcademy 慈善事业，全球孩童的免费教育，一辈子的事业。
+>  
+> 很高兴看到app的更新，期待CZ对来自 @GiggleFundBSC  $Giggle 社区慈善资助的资金使用计划、通过社区来推动慈善教育，目前已捐赠7M+，95%+来自社区。
+>  
+> 🔶相信大表哥会妥善利用好这笔钱，V神的捐款 $Shib 使用情况也并不透明，慈善这种东西，比如红十字会懂得都懂。这可能是慈善事业最透明的一次，也是区块链最成功的一次慈善事业，是新慈善事业的起点！
+>  
+> 所以一切皆有可能，佛说：善有善报！@heyibinance @binance
+
+## 34. Oct 3, 2025 · 9:44 AM UTC · 1974047915007226367#m
+- 链接：https://twitter.com/cryptojiuyi/status/1974047915007226367#m
+- 作者：@cryptojiuyi
+
+> 只能说100M的 $Giggle 才刚刚起步。昨天是bn博客，今天是bn的alpha。明天？后天？
+>  
+> 你要知道 @GiggleAcademy 是干嘛的，谁是创始人 @cz_binance ，肯定了 $Giggle 是唯一的实用性Memecoin，并且多次提及讨论支持慈善行为。GiggleAcademy是慈善机构，Giggle官方永远没有代币，那 $Giggle 不约等于官方meme慈善代币，而且持续捐赠永动机？我昨天就说了，这是大小 $neiro 的版本，bn🔶最终只会支持社区，阴谋cabel盘子都会被超越，你不信大表哥？
+>  
+> 你要想我从24年4月份之后，什么时候去这么CX过一个币，天天奶，懂的自然懂，这种叙述看不懂也没办法。我1.多%的筹码50M拿到8M没出一直补加了不少，只能说很舒服，唯一可惜高位没出点可以买更多，感谢砸下来的低价筹码。不看几百m我也不可能这么奶！！！
+>  
+> 慈善概念的上限是 $SHIB ,而cz的影响力现在并不比v神差，先看1B？ 捐款会不断增加，而且资金流向会完全透明，CZ会一直公布进度和回应。现货只是时间问题，就像前两天说 @bnbchain 发2m的cabel盘子giggleB打脸cz一样，要上bsc的其他meme，我觉得前提都离不开 $Giggle !昨天的$4已经证明了这点。
+
+## 35. Oct 2, 2025 · 6:16 PM UTC · 1973814313644404764#m
+- 链接：https://twitter.com/cryptojiuyi/status/1973814313644404764#m
+- 作者：@cryptojiuyi
+
+> 这些来自社区的捐款资金，将会如何使用，社区一直在等待你公布计划！大表哥！
+>  
+> The community has been eagerly awaiting your Plan on how the donated funds will be utilized.  $Giggle $bnb
+
+## 36. Oct 2, 2025 · 3:50 PM UTC · 1973777684305207510#m
+- 链接：https://twitter.com/cryptojiuyi/status/1973777684305207510#m
+- 作者：@cryptojiuyi
+
+> 原来币安一直在做慈善 ，币安首页可以直接🔍 币安慈善，慈善memecoin的唯一概念龙头 $giggle ，被CZ认为唯一有价值的meme币，改变了CZ对meme的看法！
+>  
+> 只能说对Giggle的慈善事业越来越看好了，符合币安一直以为来的主流价值观，感谢🙏@cz_binance @heyibinance 对慈善事业的一直支持！
+
+## 37. Oct 2, 2025 · 10:52 AM UTC · 1973702669325017489#m
+- 链接：https://twitter.com/cryptojiuyi/status/1973702669325017489#m
+- 作者：@cryptojiuyi
+
+> $Giggle 这个叙述怎么说？慈善叙述无敌
+
+## 38. Oct 2, 2025 · 9:52 AM UTC · 1973687628181741716#m
+- 链接：https://twitter.com/cryptojiuyi/status/1973687628181741716#m
+- 作者：@cryptojiuyi
+
+> 其实从昨天 @bnbchain 被盗前一天，被我喷的发2m的giggleB阴谋币删推后，重新发也不带 @cz_binance  支持捐款5m的慈善币 $Giggle 就可以看出，bsc本质都是cabel的聚集地，不存在所谓的社区。
+>  
+> 刚刚 $4 上线bnbalpha更严重了说明了这点，刚出来一天这有所谓的社区？如果 $Giggle 这种慈善叙述都得不到支持，只能说回归Sol去吧，你们玩不过Cabel。
+> 但是随着Giggle捐款的不断增加，社区的更加强大，只能说我看4像是之前的大Neiro，而 $Giggle 像20m的小 $neiro 。
+>  
+> 慈善是一辈子的事业，Cabel只能赢一时，而社区最终会胜利✌,币安对社区的支持从来不会令人失望！
+> localhost:8080/cryptojiuyi/status/197…
+
+## 39. Oct 1, 2025 · 3:59 AM UTC · 1973236300158533871#m
+- 链接：https://twitter.com/cryptojiuyi/status/1973236300158533871#m
+- 作者：@cryptojiuyi
+
+> bsc官推 @BNBCHAIN 被盗了不要乱点链接，不过话说，giggleB推文怎么删了？重新发了 ？没必要吧又没干啥坏事！ $giggle
+
+## 40. Sep 28, 2025 · 5:58 PM UTC · 1972360283164475401#m
+- 链接：https://twitter.com/cryptojiuyi/status/1972360283164475401#m
+- 作者：@cryptojiuyi
+
+> $Giggle 突然暴跌？Memecoin可能已经到头了！！！
+>  
+> @BNBCHAIN 官推刚发了个新的$giggleB，仔细一看市值2.5m，持币600人，前排50全小草，😯震惊啊。没有一个关注的人买了？
+>  
+> 在 @GiggleFundBSC 已经明牌捐了4m+，@cz_binance 已经多次表明这改变了对meme看法、支持慈善的条件下，昨天在 $aster 的Space又再次提及。这个币捐了1wu，就可以得到官推果然这就是bsc🤔难怪之前bsc一直不被大家认可去玩sol、这个风气、这样纯纯顶风作案啊。真正捐钱的却没看到提一嘴。
+>  
+> 我只能说这个行为是光明正大打大表哥的脸 @heyibinance @sisibinance ，建议可以严查一下，私下肯定是没收一分钱，@BNBCHAIN 纯粹是看好这个项目，肯定有利于bsc的发展前途吊打sol🫡
+>  
+> 让我想起来了曾经的 $neiro ，阴谋neiro被币安先上合约，导致小 $neiro 暴跌，大家以为要结束了。结果一周后，币安确实支持社区🔶，上bn现货2000w美金拉到10亿美金，从而开启meme的牛市！
+>  
+> $Giggle 这不是GiggleAcedemy的平台币，这是一个支持全世界孩童免费教育的慈善memecoin，也是唯一大表哥被认可有价值的meme币。
+>  
+> 这次插曲的出现不是偶尔，而是 $Giggle 做慈善路上阻碍的必然，只是没想到会是bnbchain👍。也有 @JamesWynnReal 等KOL的不断支持，你猜他为什么奶蹊跷嘛？
+>  
+> 只能说成功是必然！真正的慈善从来不会失败！
+>  
+> localhost:8080/bnbchain/status/197230…
+
+## 41. Sep 27, 2025 · 11:36 PM UTC · 1972082902776377546#m
+- 链接：https://twitter.com/cryptojiuyi/status/1972082902776377546#m
+- 作者：@cryptojiuyi
+
+> 就像你说的，硬币确实有一些实用性，它们确实能吸引注意力。它们实际上有一些非常有趣的原因。而且，它正在变得越来越好。 —CZ
+>  
+> I was like so mean coins do have some utility as you said, they do grab attention. They actually have some really interesting to cause this too. And like it, it's getting better.
+> $giggle  $aster @GiggleAcademy
+
+## 42. Sep 27, 2025 · 7:24 PM UTC · 1972019508140486737#m
+- 链接：https://twitter.com/cryptojiuyi/status/1972019508140486737#m
+- 作者：@cryptojiuyi
+
+> CZ原文你细品，有多少慈善币成功我不知道，但是大表哥从不失败😔！
+>  
+> “有一些有影响力的人，可能是非常有影响力的人物，而且并不一定非得是 KOL，也可能是一些非常重要的人物。对吧？但这些事情会给 memecoin 带来更多关注，而 memecoin 的价格也会上涨。然后，每一笔交易中有 5% 会被捐给慈善机构，这对慈善确实有帮助。所以，从逻辑上来说，这其实是说得通的。至于这些事情中有多少能真正成功，我就不确定了。”
+>  
+> “Some influence, somebody with high influence, and it could be, it doesn’t have to be a KOL. You could be some really important figure, right? But those kinds of things will bring more attention to the memecoin, and the memecoin will go up. Uh, and then you, the memecoin, when they… when the… when… For every transaction, 5% of that goes to charity. It helps the charity, so it kind of, you know, that logic actually kind of makes sense to me. Uh, whether how many of those things become successful, I don’t.”
+
+## 43. Sep 27, 2025 · 7:24 PM UTC · 1972019439471374787#m
+- 链接：https://twitter.com/cryptojiuyi/status/1972019439471374787#m
+- 作者：@cryptojiuyi
+
+> 刚刚CZ在 $aster 的Space上，再次提及慈善币 $Giggle @GiggleFundBSC ，并且给予高度评价。
+>  
+> 他把慈善memecoin拆分成“影响力人物 → 带来关注 → 带动 memecoin 上涨 → 5%交易税更多慈善”的链条讲得很清楚。
+>  
+> 他对 memecoin 的理解不仅停留在价格层面，而是能看到社会影响力与慈善结合的潜力，他提到5%的税捐给慈善机构，make sense，格局和思维真的在币圈其他创始人身上看不到，真是高屋建瓴。这就是我为什么一直支持 @cz_binance 的原因，这就是为什么他是binance，而不是其他。
+> 当所有人都在fud $Giggle 的时候，我只能说在50m都没出货，反而默默加仓，很简单。这个最近唯一能打动我的meme叙事你看我多久没写长文了。继续做慈善了xdm！
+>  
+> 剩下的交给时间，CZ支持，这个改变了CZ对meme对看法，并且多次提及，这个是CZ除了奶bnb之外，继续 $aster 之后唯一持续提及的币 $Giggle ，一个奶到百亿，新memecoin叙事慈善币龙头，你品，你细品！
+>  
+> localhost:8080/cryptojiuyi/status/197…
+
+## 44. Sep 22, 2025 · 3:42 PM UTC · 1970151684371534194#m
+- 链接：https://twitter.com/cryptojiuyi/status/1970151684371534194#m
+- 作者：@cryptojiuyi
+
+> 慈善赛道龙头 $Giggle 飞轮：拉的更高交易量更大，慈善捐款更多，CZ继续支持感谢，如此反复循环！
+>  
+> 刚刚 @GiggleAcademy 官方账号关注了 $Giggle 项目账号 @GiggleFundBSC ，这是继 $tst $MUBARAK 之后,CZ回归bn后明奶的第一个币，而且是连续奶，前两个都上币安现货了？这个怎么说先上个alpha？
+>  
+> 说错了，这是第二个项目，第一个是  $aster ，cz喊单到百亿美金的dex prep叙事。这个叙事也很简单，买卖5%的税捐款到@GiggleAcademy 官方地址，这是家非盈利机构 @cz_binance 创建并且发起，已经做了两年了，旨在让每个人都能接受平等的教育。
+>  
+> $Giggle 一天时间已通过 5% 的税收捐赠了超过 250 万美元。下午CZ激动的说出那句："这彻底改变了我对模因币的看法，模因币真的有用!"  并且在推特学习讨论，并且表面Giggle官方永远没有代币，那 $Giggle 不约等于官方代币？而且持续捐款赋能，Giggle 将妥善利用这些捐款。它们将用于激励贡献者并加速发展。
+>  
+> 我发推的时候也可能是最高点了，有点fomo了这会哈哈哈！按照上次米莱 $libra 我发完推导致自己没卖从赚到到1m归零还拿着🤣还有其他涨的受不了，到群里吹水就是高点的经验来看。昨天3m均价买了，觉得概念很好私聊喊朋友上车，不买还喷我麻痹的，拿到12m一点没卖，早上跌到4m还是有点难受的，不过好叙述就是好叙述！
+
+## 45. Sep 21, 2025 · 7:10 PM UTC · 1969841696344351106#m
+- 链接：https://twitter.com/cryptojiuyi/status/1969841696344351106#m
+- 作者：@cryptojiuyi
+
+> 大表哥话说的很有哲理。 看到个 $giggle 不是官方代币，但确给 @GiggleAcademy 慈善捐款了75wu的bnb，这件事确实很伟大，将会帮助小孩子。
+
+## 46. Aug 29, 2025 · 7:38 PM UTC · 1961513690794205208#m
+- 链接：https://twitter.com/cryptojiuyi/status/1961513690794205208#m
+- 作者：@cryptojiuyi
+
+> $wlfi 跟 $bonk 在solana上合作，具体细节还未公布。@bonk_fun 是时候反击pumpfun了，有了特朗普家族的加入，多少可以抢占点份额回来！
+> 原来这就是@SolportTom 预热几天的bonk2.0，资源确实牛逼，要像bsc一样造个像 $B 一样几百m市值的USD1底池， $bonk 生态火热也会起飞！
+
+## 47. Aug 23, 2025 · 9:20 AM UTC · 1959183947713401076#m
+- 链接：https://twitter.com/cryptojiuyi/status/1959183947713401076#m
+- 作者：@cryptojiuyi
+
+> 老师说高考是人生分水岭，没想到2025.1.18才是人生的分水岭😅
+
+## 48. Jul 4, 2025 · 2:12 PM UTC · 1941137955277643984#m
+- 链接：https://twitter.com/cryptojiuyi/status/1941137955277643984#m
+- 作者：@cryptojiuyi
+
+> 这波又赢了家人们，美国党第二波又拉上来了。
+> $ap 1.3m➡️8m ath
+> $tap 1.1m➡️5m ath
+> 今年call的第一战 $libra ，这是call的第二战。“大美丽法案”明早特朗普签署✍️肯定的，老马的性格确实会硬刚，跟预测的一样。真的建党肯定很难，非常多阻碍，但是吃波涨幅没啥问题。真建党我是看几十m的，但是不确定，本金出掉可以利润随便玩，下跌洗掉了我1%的 $ap 筹码🥲难受
+
+## 49. Jun 8, 2025 · 7:40 PM UTC · 1931798626352972154#m
+- 链接：https://twitter.com/cryptojiuyi/status/1931798626352972154#m
+- 作者：@cryptojiuyi
+
+> 老马又顶置了投票建新党，感觉跟特朗普聊崩了，或者特朗普根本不理他。底部买点 $ap 和 $tap 没毛病，继续喊的话赔率可以，概率很大都买了！
+>  
+> $ap  1.3m
+> 39zSVsSHFqNhARbVh6n8ZF78nCmhV3gSg8D39xhBNe73
+> $tap 1.1m
+> 766ivvadp4arnHKQ13RB3cD7PyvRDL42N2j7RCoMpump
+
+## 50. May 20, 2025 · 3:08 AM UTC · 1924663444617494802#m
+- 链接：https://twitter.com/cryptojiuyi/status/1924663444617494802#m
+- 作者：@cryptojiuyi
+
+> 答辩终于结束了！艹
+>  
+> 推文很久不发了！一年没涨粉了！
+> 版本弃子了！女大也不想玩了！
+>  
+> 想赚钱了，现在适合枯坐嘛，还是该继续享受生活啊，家人们带带😎
+
+## 51. Mar 28, 2025 · 6:24 PM UTC · 1905687541287911633#m
+- 链接：https://twitter.com/cryptojiuyi/status/1905687541287911633#m
+- 作者：@cryptojiuyi
+
+> 汇报一下最近的情况，只能说你玩女大跟冲土狗meme一样，最重要的是筛选、筛选、筛选。
+> 长沙的那个被我筛选掉了，不知道怎么聊了一个月我傻逼，但是该割肉就割肉，兄弟们懂这意思？ $libra 那天发推完给你吹牛逼，没卖1M归零了现在都亏钱了我傻逼，真你麻痹蠢没舍得割肉，所以这次我割了妹子。这周一重新开始钓鱼。周二加了两个妹子，一个校园表白墙，一个小红书钓鱼。最喜欢这俩，其他的达不到7分顶美只喜欢最好的，还是天然的。
+>  
+> 1.第一个妹子爸妈从珠海移民澳洲，在那边从小读到高中，大学来珠海这边国际部读的，很好看、性格好、爱笑主动，国外的妹子遇到喜欢的就是主动，周三吃日料全程在笑，不是谈钱的，喝多了在路上跟我说怎么这样就被我搞定了，送她回校不想直接拉回去睡我纯爱，m倾向主动叫主人，然后昨天主动vx说从家里回来狠狠睡她，很粘人，反正我也很喜欢。
+> 2.第二个妹子是艺术生，某985舞蹈研究生，系花表演跳舞视频我看占C位。问了下爸妈每个月给几w生活费，我加上来的时候以为是渣女，结果今天拍照都不会拍的好妹子，很润真的很主动也是个m。吃完日料车上跟我说，$trump币第二天她看到抖音入场了，不知道为什么跟我说，我现在也没跟她说过我是币圈的，以为我是富二代，她下了欧意买了几wu入金了，也不懂看到10倍合约开了亏没了，真能带动圈外流量啊trump。每年5wu的外汇额度买特斯拉腰斩了，被我疯狂嘲笑了一番。明天再一起去音乐节，真的很舒服又懂事情商又高。
+>  
+> 总的看下来，有钱、有学历、小帅(染了奶茶灰显瘦，打扮了下看下苹果原相机我觉得可以，妹子都沦陷了)、一定博弈能力(我是能提供情绪价值但是看人)，只要妹子对的，打狗一样注重筛选，没有说搞不定，目前暂时都符合，我以前没女人是我没找。
+> 我tmd不是舔狗，你们别误会，我只是纯情而已。这两个妹子的共同点的是都很好看，一年多没谈恋爱，本身家境也好，不缺男的追，不要玩穷妹子没意思，长沙是我傻逼的，只玩别人追不到的女神。
+> 情感需求在这一周之内解决了，后面安心打狗是王道，赚钱是王道，兄弟们。一起枯坐起来！我TMD不是舔狗，女大只睡校花，打狗只打金狗！
+
+## 52. Mar 8, 2025 · 3:22 PM UTC · 1898393801993191607#m
+- 链接：https://twitter.com/cryptojiuyi/status/1898393801993191607#m
+- 作者：@cryptojiuyi
+
+> 艹原来我骨子里是个纯纯的舔狗，真是尼玛小丑🤡
+> 不是行情不好都流行爹系男友嘛？最近在 @CryptoHtdi 指导下抖音去爹系豪车+抖加钓鱼了，因为之前抖音有运营的还有展示面啥的+针对的也是18-23岁的女大，也加了十多个妹妹的微信，有些还可以，但是因为我不想太直接谈钱，那种我觉得有点像pc啊，生理需求解决不是很简单，我想慢慢来聊，享受这种恋爱的感觉不香嘛？
+>  
+> 本来是个天窗妹子，好久没跟女的聊天了完全没社交直觉了，本身我也是个宅男，去长沙找她了然后我的行为真是极其煞笔，但凡是我兄弟们肯定直接搞定了，现在沦为舔狗完完全全的挫败。人设本来是喜欢旅游有生活吊打男大+985硕自主创业吊打普通本科+有钱吊打男大，正常这些表现的话不该缺妹子的，长沙这地方真的穷的要死除了币圈的大哥们有钱嘎嘎爹系，写了个自主创业真有妹子来找我找工作。
+>  
+> 然后一直问我什么时候去找她？反正我表现很差，本来就不太会而且很i在成都都靠兄弟们带社交局，但是在酒精的加持下那晚带她喝到4 5点的样子，我煞笔做了个事情带她去按摩了2小时，那么可能酒都醒了，可能也没想着直接睡她因为感觉妹子还不错，有点慢慢恋爱的感觉，是个好姑娘，按完摩带回酒店不愿意那啥我也没想着一定要因为想多体验下感觉怕睡了就后面没感觉了。但是后面要再来找我的时候我做了一点傻逼追加消息，结合前面跟她相处的时候很多low逼行为，我真觉得丢脸，一直给自己dlv属于是，太实诚了，我抖音上的展示应该是个渣男才对，但实际上变成了个好好先生🥲体现出的不缺女人的价值跟行为完全不符合，女人是慕强的，太顺从她了。
+>  
+> 然后回去了反应不好， 心里很不舒服，因为花了沉没成本时间是最宝贵的。我想的是先不聊了，但是昨晚看到风总 @0x0xFeng 给女生送微信礼物也不用地址，我就想着试试，看看女的到底什么情况，没问题收了反应开始好点了。本来以为是个还不错的女生，之前也说不想浪费你钱啥的，我反而准备给这种妹子多花点，想着慢慢来等我6月份毕业去长沙再租个房子啥的，不错在我下午又说了几句暴露需求感的话以后，突然敢命令我做事了，开始暴露本性了，果然能装哈哈哈？
+> 不是？我tm什么时候成为一条狗🐕了？我是舔狗哈哈哈？我是不知道怎么做到这一步的，天窗到舔狗当然纯粹是我自己的问题，这就是女人的本性，慕强你对她好就弱，纯粹是贱，等我毕业后有时间慢慢教育一下这些渣女MD！
+>  
+> 写这个出来纯粹是想让自己涨个教训，也让大家笑话一下我这傻逼，这么就真的脑子不成长，也是活该太p了！希望能成长吧，纯粹是激励自己，要是评论有能让把我骂破防、骂醒的话，我可能会奖励个几百u🥶钱是给女人看的
+
+## 53. Feb 22, 2025 · 4:32 PM UTC · 1893338192318726596#m
+- 链接：https://twitter.com/cryptojiuyi/status/1893338192318726596#m
+- 作者：@cryptojiuyi
+
+> 恭喜大表哥 @cz_binance 耗时27分钟购买TST成功
+
+## 54. Feb 20, 2025 · 4:19 PM UTC · 1892610015229530139#m
+- 链接：https://twitter.com/cryptojiuyi/status/1892610015229530139#m
+- 作者：@cryptojiuyi
+
+> 针对刚刚 @kaisi420 的推文，我只评论了第1点，喜欢跟各种大佬合影发推彰显自己的人，我觉得这类很多都挺low逼的，没啥实力博眼球流量再割韭菜，我并没有指嗯哼 @EnHeng456 ，也不了解他。本来不想参与纷争的，那就发表一下自己对第2点的看法吧。
+> 有一说一，这句话“CZ一句话就能让BG倒闭”如果真的那确实有点背信弃义了，前面狂吹后面这样确实做人有点那啥，了解的说吧我也不了解。毕竟bitget钱包的moew让我挣到了单币千万，还是也好感的。
+> 顺便提一下私事，那会赚钱也不认识bg那边的人只认识家印，那会私聊我红包1e也给了他，也算是感谢bg了，也转发了相关推文只跟moew相关的。后面他可能再找我发bg其他相关的广告啥的我都没发，第1虽然我是赚钱但纯靠我自己不靠任何其他外物，跟交易所没关系我不赚别人也赚我只对事，也感谢了，对帮助过的朋友都没亏待过；第2后面我发推频率很低本来就，可能一个月1-2条最多那会，我认为的牛逼交易员基本上没看到经常发周边、活动啥的，而且本身对粉丝没帮助，也从来没接广告。趁机回应一下希望家印哥对我如果产生了误会希望能解除。
+> localhost:8080/cryptojiuyi/status/189…
+
+## 55. Feb 17, 2025 · 5:41 PM UTC · 1891543441152111030#m
+- 链接：https://twitter.com/cryptojiuyi/status/1891543441152111030#m
+- 作者：@cryptojiuyi
+
+> 我吹水其实就是短期fomo情绪的最高点，你懂？胜率我估算了下，大概90%以后当指标用吧！
+
+## 56. Feb 17, 2025 · 4:30 PM UTC · 1891525722491240926#m
+- 链接：https://twitter.com/cryptojiuyi/status/1891525722491240926#m
+- 作者：@cryptojiuyi
+
+> 抄底 $libra 有点舒服，先看1U
+>  
+> milei米莱刚刚又转推了 $libra 的购买教程，从支持删推到再支持？说明一件事情，怕下台，币价涨回来对他是有好处的，不涨过来呼声很大有下台的风险(早上Hayden Davis的采访提到了，米莱继续支持的概率很大)
+> 本来是准备抄2000s的，0.3几u陆续在抄底，突然拉起来0.4u ok钱包没买进去只能0.55u又追了点。
+> 我抄底的原因就很简单，盈利比拉满，比如我买2000s，亏最多亏1000s，赚可能就4000、6000e。具体的看我下午的分析，我直接贴文字吧。
+>  
+> 盈亏比：准备总买入2000s(0.37u均价)，如果亏损最多最多要腰斩到0.2u以下，亏损1000s能接受。赚的话翻倍(0.74u)就是2000s，3倍(1.11u)就是4000s，4倍(1.48u)就是6000s。我感觉有点好消到1u没问题。
+>  
+> 情绪：该卖的都卖了，也有埋伏赌的像我这种。而且事件一直有热度，cz提一下，后面马斯克提一下？trump提一下都有可能。抄情绪的低谷，没毛病。
+>  
+> 高位跌幅90%+1.1亿美金做事资金(必须花掉的)+涉及总统全球大事件、揭开币圈jup、trump内幕等遮羞布，关注度短期不会消退+milei有可能为了自己再承认？
+>  
+> 反正不管怎么样，最多腰斩我赚了完全无所谓不心痛，赚的话等会来个3、4x都有可能，支持cto的话trump的10%没问题吧。我也不想过这种机会，我亏的起，主要其他没什么可以投的了U要花啊、要博不博怎么有未来。
+>  
+> 1.看完Davis的采访，可以明确他的态度是，钱全部要拿出来，就像我推文说的他真的没命花啊，涉及到家庭的安全和阿根廷政府，跟以前操盘的项目不一样。
+> 2. “我不是骗子，我也不认为 LIBRA 是一个死掉的项目。实际上我相信 Milei 会支持它。顺便说一句，我们明天后天就知道了。但我敢打赌他会支持它。我认为在他目前的困境中，支持它对他来说更有利。”
+> “至于 LIBRA 的具体情况，我很高兴能分享，虽然 Javier 和他的团队告诉我，明天会有一场重要的采访会在电视上直播，我觉得这并不算完全公开，但他会澄清我以及 LIBRA 这个项目，因为他显然受到了舆论压力。”
+>  
+> 3.手里的1.1亿美金全部拿出来，当然可能还有其他狙击钱包的资金，他更倾向于直接回购可以的话，这样他就可以心理比较好的解脱。当然不能这么做现在也不可能直接给阿根廷政府的。明天milei电视直播。
+>  
+> 4.Libra现在价格0.37u，dev手里是76%的币，流通8000w美金市值。池子18%，外面直接抛压6%（2000w美金）。就算是撤池子直接砸出来算10%也就是4000w美金。
+> 如果但凡回购(有消息就行)+米莱支持的话(现在处境支持真的更好嘛？支持能涨上去的话，是不是比较好交代？不然还能做啥)。到底怎么走我判断不了！我就考虑博的话仓位不要太重就行。
+
+## 57. Feb 16, 2025 · 12:53 AM UTC · 1890927532838469681#m
+- 链接：https://twitter.com/cryptojiuyi/status/1890927532838469681#m
+- 作者：@cryptojiuyi
+
+> 跑了已经，说什么48小时回购画饼我是不赌也没意义，凌晨抄底有点追高的意味抄底位置不好，不然也舒服一下，等下一个机会。
+
+## 58. Feb 15, 2025 · 8:46 PM UTC · 1890865215769612775#m
+- 链接：https://twitter.com/cryptojiuyi/status/1890865215769612775#m
+- 作者：@cryptojiuyi
+
+> 麻痹抄进去了，死了算了，赚1亿美金多少加一点像gm，一点不操作纯嘴嗨，怕是真有钱赚没命花！主要热度和注意力还在，不对我就跑。
+
+## 59. Feb 15, 2025 · 2:28 AM UTC · 1890589002031665593#m
+- 链接：https://twitter.com/cryptojiuyi/status/1890589002031665593#m
+- 作者：@cryptojiuyi
+
+> 复盘下 $libra 吧，赚了几十wu虽然不多，但是看大家都是亏的我得反思下如果我是睡着了，被叫起来的会不会抄底亏钱🤣
+>  
+> 一晚上没睡刚好在改论文，监控连续弹了几下才去看发现1.1b的市值，感觉要出事群里一看阿根廷总统米莱发币，犹豫了1分钟判断是真的概率大，但感觉还是心虚不敢真梭进去，没先把钱包的sol买入，而是从币安提了3000s来买怕限制提sol。买完就在想这个MC能到多少？我看了下前排是50%+20%+10%=80%的筹码，OK假设是不动的(实际上动了10%后面)，那么跟trump的代币分配是一样的，trump是21u，根据市场情绪和龙二也不可能很高，后面市场fomo什么trump是个人币，这个是国家币不一样我真不理解，一个破产💸的国家啊，我就定了最多trump的市值20% 4u是顶。
+> 第一波到3u跌下来第二根针我2.6u砸了一半，剩下的本来想拿一拿再看看，方程式人工编辑新闻说20亿也就是2u就是接盘，导致我没坚定自己的判断都卖了，艹那会真觉得自己傻逼受别人影响。本来还想才上线20分钟fomo情绪还没到位的，国人在被call起床的路上，再看看万一卖飞了。
+> 我是没想到能跌到0.6u现在，高位libra开始撤池子出货，判断要暴跌，1.5-1.1u接了1000s抄底，发现止不住1u割肉出来800小亏，今天整体操作还比较满意。
+> 最近改掉的坏习惯是左侧抄底，不然真的要死，从trump那天唯一天早上开组会错过难受的要死，幸好那波其他的是小赚，虽然没吃到trump也没吃上AI等其他币80-90%和抄底trump的跌幅，稍微舒服一点点。真是管住手一点都没动好好过年，tst也没吃到，交易所基本上都换成u。如果买了资金腰斩都算少的🥲brocolli小赚一点，最近整体资金没怎么少也满意了，等下一个trump机会梭进去😭只希望今年顺利毕业好好枯坐了，去年落后太多了，真的看着群友trump一个个都自由了。。。
+
+## 60. Feb 14, 2025 · 11:58 PM UTC · 1890551272744345897#m
+- 链接：https://twitter.com/cryptojiuyi/status/1890551272744345897#m
+- 作者：@cryptojiuyi
+
+> $LIBRA 真尼玛畜生盘，脸都不要了老鼠仓这么出货。4u到0.8u跌幅80%发推就这个位置。幸好刚刚2.6u通知跑了知行合一，难受一会fomo到4u了，这会好点了🥲
+> 市场又被大吸血了，虽然赚了点但还是破产国沃fuck @JMilei
+
+## 61. Feb 12, 2025 · 6:58 AM UTC · 1889569747450069413#m
+- 链接：https://twitter.com/cryptojiuyi/status/1889569747450069413#m
+- 作者：@cryptojiuyi
+
+> 以下中奖的朋友私信我币安uid，每人200u @wenwen8889 @fumengqianchen @TERMINUS_DOGE @biq315 @Winnike0228
+
+## 62. Feb 2, 2025 · 12:17 PM UTC · 1886026075542896758#m
+- 链接：https://twitter.com/cryptojiuyi/status/1886026075542896758#m
+- 作者：@cryptojiuyi
+
+> 初五迎财神💰，散财就是聚财！1000u抽3-4个评论区给建议的朋友吧。今年6月份毕业暂定准备去长沙/有没有推荐长住的、适合枯坐劳逸结合的地方，然后要不要交社保啥的真不懂，真需要xdm们指导一下😶‍🌫️完全没规划带带！
+>  
+> 一年过的好快，去年初五的时候还是屌毛一个，到后面bome虽然没吃到，吃到其他的也单币A8，懒散了很长一段时间，发推也很少了快一年没涨粉了。到后面想努力去PVP ⚔的时候，又因临近硕士毕业要做实验，没那么多时间跟群友一起去P。平常最早12点以后睡， $punt 那天恰好也只有那一天晚上回来躺沙发8点多就睡了，9点多马斯克、特朗普开始喊punt，踏空🐿️。
+> $trump 那天早上也是这学期唯一次开组会而且在早上🙄，平常9点多起来坐在电脑面前了，之前假的trump代币 $djt 买过， $rtr 那天在杭州8000w美金市值追了10wu翻倍没跑被小儿子eric辟谣归零，所以 $trump 看到都没有理由不赌的不差再输这一次🙄，前一晚还在说这两天特朗普上任好好盯他，看到的时候群友都10多X了实在下不去手，听了半天脑子也不清楚完完没考虑了踏空，那几天真是焦虑的不行，说到底是认知不行。孙哥群500人赚A9的好几个🤪，几m大A8的随便拉出来几十个，真是一波拉开阶级差距了，不焦虑不可能的。。。
+>  
+> 明明一波自由的机会就在眼前啊？🥲但现实就这样，错过了这钱就不该你赚的，这就是你的命。看到很多人不但没赚到trump反而乱操作亏了很多，加上AI币普跌80%以上，不幸的万幸是我那段时间大部分变成u了🤣。我确定不会再有trump这种造单币A9的机会，但一年10多个机会是有的，要抓住那么2 3个也能让资金有大幅度稳定的增长，只要慢慢赚目标终究会达成的我相信🤓最困难的日子都过去了。
+>  
+> 今年等毕业终于可以全心投入好好跟群友一起P了，文凭真无用，不赌没有未来！区块链大赌场想改命你就来！😬
+
+## 63. Jan 20, 2025 · 7:42 AM UTC · 1881245800078184685#m
+- 链接：https://twitter.com/cryptojiuyi/status/1881245800078184685#m
+- 作者：@cryptojiuyi
+
+> $SBR 比特币战略储备终于到来，让我们相信meme的力量。
+> SOL上的SBR比eth上的早12分钟创建，first is first，并且eth是一条被市场放弃的链，购买eth的会被市场逐渐抛弃，热钱只在sol上，相信Sol上 $SBR 奇迹的发生,拿住的也应该都赚到了，我是之前归零都没卖！
+
+## 64. Jan 19, 2025 · 7:36 PM UTC · 1881063146070462790#m
+- 链接：https://twitter.com/cryptojiuyi/status/1881063146070462790#m
+- 作者：@cryptojiuyi
+
+> Sol上的 $trump 踏空的资金，能去的地方只有龙二 $fight ，基本面和叙述十分完美，在sol上找不到第二个跟特朗普相关能让我有性欲的，而且特朗普上任包喊的，包括海报也都是fight。
+> 当然这些trump获利资金们也在陆续建仓，随手买个1%也只需要花他们的一丁点利润！
+
+## 65. Jan 1, 2025 · 11:58 AM UTC · 1874424960523067754#m
+- 链接：https://twitter.com/cryptojiuyi/status/1874424960523067754#m
+- 作者：@cryptojiuyi
+
+> 如果你错过了 $kekius ，老马的下一个机会只在 #dogecast
+> 老马昨天改名字 $Kekius 一天直接速通4亿美金，老马造富效应！！！接下来的确定性的老马叙事 #dogecast 马上到来，目前只有4m只其1%的市值，严重低估。
+> 老马会一直提及 #dogecast，而且每周直播曝光的，Trump肯定也会发布相关推文，想想媒体带来的泼天流量， k线很稳自己体会。
+>  
+> ChHAfQsUznqUpvFSNQsu42KsRr1t3ct56fBigVSHpump
+
+## 66. Dec 16, 2024 · 12:01 AM UTC · 1868446359176818872#m
+- 链接：https://twitter.com/cryptojiuyi/status/1868446359176818872#m
+- 作者：@cryptojiuyi
+
+> 买了点 #dogecast ,马斯克和Vivek将在特朗普上任后，每周一次在dogecast上以直播形式分享DOGE对提升美国政府效率的进度。
+> 高位回调90%K线目前还挺稳的，老马发推=情绪+注意力，老马目前还没发过dogecast的推，预计后面开始会持续发推，社区推特很活跃，等风来。
+>  
+> 埋伏标的3m，不追高：
+> ChHAfQsUznqUpvFSNQsu42KsRr1t3ct56fBigVSHpump
+>  
+> localhost:8080/Dogecast_Sol/status/18…
+
+## 67. Nov 21, 2024 · 7:14 PM UTC · 1859676886223167853#m
+- 链接：https://twitter.com/cryptojiuyi/status/1859676886223167853#m
+- 作者：@cryptojiuyi
+
+> *TRUMP'S 'CRYPTO ADVISORY COUNCIL' EXPECTED TO SETUP PROMISED BITCOIN RESERVE: REUTERS
+>  
+> Source: DB | Coins: BTC
+
+## 68. Nov 18, 2024 · 3:26 AM UTC · 1858351068612300900#m
+- 链接：https://twitter.com/cryptojiuyi/status/1858351068612300900#m
+- 作者：@cryptojiuyi
+
+> Strategic Bitcoin Reserve ( $SBR ）战略BTC储备是特朗普选举时,承诺上台后要实行加密货币新政,按照特朗普对加密的态度,以及参议院和众议院已全由共和党掌握,而且美国资本都在入局BTC,推动的阻力不大。其实都不需要通过，特/马提一嘴就可以飞。
+>  
+> 让我觉得马上推出的原因是 @SBR 这个账号好像是昨天被封了(昨晚涨是这个原因),我查了本来确实存在的,是不是有点像 @DOGE ,肯定是老马要拿来做官推了。
+>  
+> 奇迹只发生在SOL: 主网的 $SBR 2周默默的拉盘到80M,主网的 $DOGE 花了3个月拉到200M消息出来才拉到500M,Sol的DOGE从1M拉100M只花了1天。
+>  
+> SBR对加密行业是个重磅消息，资金媒体必然炒作，要做的就是埋伏点，盈亏比很高，但是你们别一下追高，涨上去等逢低买入，应该有人砸的。
+> $SBR: 4.3M
+> 2HHgCLfKA5Rd1Fn9xAxfYzS3XoR5NnuxKDYz2EmWpump
+> @SBR: 280K
+> 2y54fjRkXHGAhkQZVAFZLfxw9L9c3NofesDJsSyspump
+
+## 69. Oct 9, 2024 · 3:17 AM UTC · 1843853189076136098#m
+- 链接：https://twitter.com/cryptojiuyi/status/1843853189076136098#m
+- 作者：@cryptojiuyi
+
+> 其实谁是中本聪根本就不重要，对于HBO来说有噱头，能够提高收视率和收会员费就行，就跟国内综艺那些剧本一样，相信这次兄弟们都为Satoshi买单了吧！🫥
+
+## 70. Oct 8, 2024 · 3:28 PM UTC · 1843674760280191359#m
+- 链接：https://twitter.com/cryptojiuyi/status/1843674760280191359#m
+- 作者：@cryptojiuyi
+
+> 视频的中的taylorjones制作人，发了条HBO宣传片的Instagram视频。
+> 视频中hyperobject_industries这家视觉效果公司，也在其 Instagram 发了一段关于HBO中本聪的视频。
+>  
+> 通过这两点我基本确定这个视频是真实的，如果是造假不可能可以将为HBO工作的人恰好写在视频里面，也没动机去造假。Dave Kleiman 这个意外的名字也符合 @CullenHoback 他说的意外！
+> 全球热度，大不了错过了归零，我为自己的判断负责，盈亏比不错
+
+## 71. Oct 8, 2024 · 3:28 PM UTC · 1843674756551446820#m
+- 链接：https://twitter.com/cryptojiuyi/status/1843674756551446820#m
+- 作者：@cryptojiuyi
+
+> 早上传HBO泄露了一段视频，电影结尾是Memory of "Dave Kleiman" - Forever Satoshi Nakamoto。
+> Dave Kleiman是最后的中本聪，因为无法验证来源，所以市场稍微炒作完就结束了。视频的链接：imgur.com/a/FMrvTCx
+>  
+> 但刚刚我发现视频可能是真实的，看下面的分析，贴了两个CA，我买了点。
+>  
+> 0xe52f1cc849e734a6da3d5d68d94687e2587cff9e
+>  
+> AY4AxLZaqZ6XAt3GhUnqreBH1DM7YzqAsoqQ8KmJpump
+
+## 72. Sep 28, 2024 · 8:37 AM UTC · 1839947602676330679#m
+- 链接：https://twitter.com/cryptojiuyi/status/1839947602676330679#m
+- 作者：@cryptojiuyi
+
+> D.O.G.E  老马的政府效率部门，不带点的的DOGE已经20M了，但是老马所有发的图片都是带点的，回复也是有带点，市值相差100X没有理由不发送，另外一个带点的是高位跌下的阴谋盘不买。
+>  
+> 老马很有可能后面会改签名(必然带点)：
+> D.O.G.E：200k
+> 0xbb376e82b796ec9d5ba68b10b33f79cbe612dc07
+>  
+> Chief D.O.G.E：50k 签名可能会加Chief
+> 0xc44470a4833092c8bdbe45598e01cf80311a28ee
+>  
+> 埋伏标的，盈亏比拉满，预计大选来临前炒作最凶！老马+特朗普=LFG！
+
+## 73. Sep 18, 2024 · 12:13 AM UTC · 1836196897692017081#m
+- 链接：https://twitter.com/cryptojiuyi/status/1836196897692017081#m
+- 作者：@cryptojiuyi
+
+> 21年那会募资了1000e，拍摄的V神纪录片《Vitalik：以太坊的故事》将于明天凌晨上映，那会筹备的时候名字叫做The Infinite Garden，V神参与拍摄，上映地点还挺多的。
+> 币安上线 $Neiro 带动了以太的meme情绪，刚刚埋伏了点V神相关概念，希望能赚点，好像没什么人提这个纪录片。
+
+## 74. Sep 16, 2024 · 1:15 PM UTC · 1835668856838439139#m
+- 链接：https://twitter.com/cryptojiuyi/status/1835668856838439139#m
+- 作者：@cryptojiuyi
+
+> 下午看到很多kol因为币安上线了 $Neiro 疯狂喷，说币安臭了？引用上一条推文：我还是觉得真尼玛可悲！
+>  
+> 不上社区+V神+慈善的二狗，上Cabel的？之前都一个月没发推了，上次我就说币安上大写很可悲不是钱的事情，一堆屁股决定脑袋疯狂咬的，整个链上的meme环境都臭了，普通玩家只能沦为国外Cabel的鱼肉，还瞧不起中文区去尼玛的。
+>  
+> 这个推文位置上去有10X，很可惜前几天保本跑了大部分，下午在睡觉没来得及追，相对大家基本上没赚钱😭不过好歹链上环境有所改善，还是很开心今天！
+
+## 75. Sep 16, 2024 · 6:33 AM UTC · 1835567706252390604#m
+- 链接：https://twitter.com/cryptojiuyi/status/1835567706252390604#m
+- 作者：@cryptojiuyi
+
+> Binance Will List @neiroethcto $NEIRO, @TurboToadToken $TURBO and @BabyDogeCoin $BABYDOGE with Seed Tag Applied.
+>  
+> Read more 👉 brnw.ch/21wMHce
+
+## 76. Sep 6, 2024 · 4:50 PM UTC · 1832098969381670965#m
+- 链接：https://twitter.com/cryptojiuyi/status/1832098969381670965#m
+- 作者：@cryptojiuyi
+
+> $Neiro 上线火币，虽然也算不上什么利好！我一直骂孙🈹，但是在支持社区这方面我是认可孙哥的  @justinsuntron ，值得喊一嘴孙哥，不枉今晚在推上夸他！
+> 在3月份 #ClosedAI 也是我接手的社区代币上线火币，没有上线cabel集团，反观某安、某O，这流量也该你蹭！
+
+## 77. Sep 6, 2024 · 2:15 PM UTC · 1832060023230599671#m
+- 链接：https://twitter.com/cryptojiuyi/status/1832060023230599671#m
+- 作者：@cryptojiuyi
+
+> Binance刚上线大写 $NEIRO 合约，OK一直恶心我是理解的，看全网都在骂币安，币安日报之前还发过内幕持有80%的代币，币安这第一大所名牌开始支持内幕，真是缺钱的不行交罚款无底线了？
+>  
+> 社区是个屁， $Nerio 是最早的V神回应的，是这样的话从现在开始没有什么meme，没有什么first is frist！全tmd玩内幕得了，小散活该当韭菜！
+>  
+> 这样说实话还不如3月份的孙割 @justinsuntron 上线 #closedi ，好歹上的是社区的，而不是上线阴谋集团的，也是一样的操作上线后抢ip，孙🈹对比起来变良心了？
+> 这种风气形成，普通屌丝逆袭难了哦，亏赚是一回事，我只是觉得很可悲！真的！
+>  
+> localhost:8080/cryptojiuyi/status/176…
+
+## 78. Aug 12, 2024 · 8:21 AM UTC · 1822911195252400600#m
+- 链接：https://twitter.com/cryptojiuyi/status/1822911195252400600#m
+- 作者：@cryptojiuyi
+
+> 刚刚买了点特朗普回归的币 #TrumpOnX，赌了下。只能从推文链接看到，不能直接从推文看到，觉得有点意思小赌了点，可能一波pvp结束
+>  
+> HYpZyBiuWyStSzGiHf5c8mn9CvTRzxV76c35gfzRJ9Uu
+
+## 79. Aug 5, 2024 · 1:11 AM UTC · 1820266359164715267#m
+- 链接：https://twitter.com/cryptojiuyi/status/1820266359164715267#m
+- 作者：@cryptojiuyi
+
+> 我以为看的是土狗的K线，跌起来这么丝滑。
+>  
+> 再一看，尼玛的怎么看的是BTC啊，每天起床都有惊喜，亏麻了要去送外卖了xdm😭
+>  
+> 其实最近也没啥利空吧，不就是伊朗对以色列开站，美国经济可能发生衰退，特朗普可能不一定当选。怎么就不早点跑艹🤣
+
+## 80. Aug 3, 2024 · 12:00 PM UTC · 1819704850948792509#m
+- 链接：https://twitter.com/cryptojiuyi/status/1819704850948792509#m
+- 作者：@cryptojiuyi
+
+> SOL极致的PVP、炒MEME是个体力活
+>  
+> 刚刚粉红的 $Chitan 买了4%多的token大概挣了15w🔪，目前8M市值卖飞了一倍也挺舒服，我终于愿意落袋了，深刻感受只有枯坐努力才能挣到钱，不努力只能亏钱这行情，但是枯坐能减少亏钱并且把握机会。我最近唯一的一次纸手卖了，但卖了就涨真神奇，叙事再好的我只要拿住必跌归零。
+>  
+> 前两次推文上我分享过的土狗 $SC 我赚了10多wu没跑， #fearnot 赚了几wu没跑最后归零亏钱了，还有其他自己买的赚钱不跑最后是死，自从4月份进了猫群 @BitCloutCat  后总想study猫哥💎手，结果是我挨打没停过，我今天宣告放弃。即使现在的项目我觉得还有空间，但我知道我只配挣快钱，了解自己的策略很重要，不适合自己的策略会让我挨打立正！
+>  
+> 这是4月份之后开始，真正认真盯🐕的第3天，周四我开始提醒自己必须枯坐(日内交易、20分钟卖出)，我真是懒惰到极点受不了了，之前要不就是出门玩玩要不就是打打游戏，然后赚钱的不会卖，如果像一直盯盘的话我会跑。
+>  
+> 用bullx去盯下pump内盘？不存在的！属实深度感受了下pump内盘极致的PVP，说归零就归零，难怪之前格局的、抄底的币都会归零，主打一个快。但是这样PVP的话我会快进快出亏不了太多学习经验，但是如果钱包有跟单是另外一回事割跟单也美滋滋的(这是sol高胜率玩法，前提是你钱包挣到过不少钱)，这样也没啥问题你选择这种策略，我那会说不跟单反正直接把钱包换了。不要看人说了啥，你要看一个人去做啥，嘴上的东西总是很虚伪，别考验人性，就像女人跟你说的话一样。
+>  
+> 也少看这些传播焦虑的kol，如果没有输出的话他给你带不来任何价值，带来的只有焦虑影响你的操作然后亏钱，孙哥 @0xSunNFT 群早期也是真有东西，前两天的 $CTO 也是发的最早的，那么我在写东西刚好没注意不然也是几十X的机会，不然我相信是一定能吃到的。还有幕局那天分享的 $bayc 孙哥一直时间图币转换挣了50e。猴哥 @corleonefnf 前两天提醒战争因素啥的对事情都很敏感，猫孙猴确实都是真材实料在群里能感受的到，但是群可能不好进。工具的话还是阿婶的abot @nftsniper_club 好用。
+>  
+> 你说刚刚卖飞难受不难受？不看K线就不难受，做好自己的策略，卖飞了比我最近拿住归零舒服多了，归零影响心情错过新机会。枯坐3天SOL亏的少了，然后还能早期廉价筹码其实挺舒服的，给了我点自信。
+> 枯坐的信息源：刷刷推特、Tg监控地址、VX群聊、网站交易量大的和pump。坚持枯坐你会有回报，但不是适合所有人，我也是这几天才恢复的，过几天又要出门了，但是之后没事会一直保持，游戏什么的碰不了一点。
+>  
+> 也别傻傻的自我洗脑什么区块链天才，子时@silverfang88 space昨天说很对，我们大家都是区块链的傻逼，勤能补拙你看哪个meme高倍数不是靠这个赚的钱，哈佛哥@Solshotta 看他直播不也是一直盯盘， PVP行情你只有努力枯坐极致PVP才能有回报，懒惰就准备亏钱吧，筹码全塞你脸上！
+
+## 81. Jul 15, 2024 · 5:53 PM UTC · 1812908413602689221#m
+- 链接：https://twitter.com/cryptojiuyi/status/1812908413602689221#m
+- 作者：@cryptojiuyi
+
+> 买了点 #FEARNOT，第一波底部卖飞了，然后现在追高心痛了，有点害怕。目前3.6M，我觉得有走出来的可能，但是也可能马上情绪消退归零，节奏太快了自己看看K吧。
+> 83sjxMqcV9ynx4sSEjwL3NqNB7AoyiQLqdnuNHFXpump
+>  
+> 买的原因是特朗普官方的网站变成：FEAR NOT 不要害怕，并且邮件里提到了。
+> $fight 的战斗的口号太具有攻击性，我觉得针对这次的枪击案对美国来说更需要是和平、团结，不要害怕是在提醒美国人民，这也是Trump在枪击案后发言时候表达的意思。
+> 枪击案总要出来一个龙头，你觉得会是哪个？
+
+## 82. Jul 13, 2024 · 3:12 PM UTC · 1812143128700404153#m
+- 链接：https://twitter.com/cryptojiuyi/status/1812143128700404153#m
+- 作者：@cryptojiuyi
+
+> 说个好笑的事情，亏钱了xdm来笑话我一下，别去买，纯搞笑了！🤥 @rune_mine 你们跨链吞我好几十W的币，赶紧退钱 fuck！
+> 刚刚这个 $elsa 是从Runes上跨链到Sol上的，一般正常人的思维是从Runes上赶紧跨链到Sol上卖出，我脑回路真新奇。把Sol的池子看错成是代币的总量了，除以百分比是总量1亿实际是增发的，Runes上总量是10亿，那跨链过去不是妥妥的10倍币量巨大套利空间，真傻逼了！😄
+> 刚刚Runes抄0.03u抄的200w个要是跨链过来也赚不少高位，看错了真傻逼，meteora的手续费也吓死人一来一回15%多，赶紧把币给我处理了我跑了！
+> @rune_mine Please return the tokens you owe me immediately！
+>  
+> localhost:8080/rune_mine/status/18121…
+
+## 83. Jul 3, 2024 · 10:48 AM UTC · 1808452664147218848#m
+- 链接：https://twitter.com/cryptojiuyi/status/1808452664147218848#m
+- 作者：@cryptojiuyi
+
+> 真是垃圾行情，格局点又要亏，五穷六绝七上吊🥲适合躺平摆烂
+
+## 84. Jun 30, 2024 · 3:31 AM UTC · 1807255717457641709#m
+- 链接：https://twitter.com/cryptojiuyi/status/1807255717457641709#m
+- 作者：@cryptojiuyi
+
+> 一觉醒来发现 $SC 新高突破10M了，再看眼山寨尼玛惨不忍睹，还是只有链上可以玩玩，但也难。
+> Sol创始人不出意外的又奶了一晚，这是blink概念龙头啊，第一个能在推特上直接购买的meme🐱，都被 @aeyakovenko @saydialect @MeteoraAG 明着奶了，这不是行情差感觉这概念早该飞了。继续拿拿，希望有福报！🤔
+
+## 85. Jun 28, 2024 · 9:19 PM UTC · 1806799685094674451#m
+- 链接：https://twitter.com/cryptojiuyi/status/1806799685094674451#m
+- 作者：@cryptojiuyi
+
+> 最近行情很差，大盘跌的很狠，也没什么可以玩的。Blink的叙事我觉得比较性感，只出来3天，Sol官方持续奶以及50多个应用的迅速响应，确实本身很创新，可以直接在推特我上购买meme代币、购买nft等等。
+> 买了点blink概念龙头 $SC @starcatcoinsol ，目前6M市值，如果叙事持续发酵(sol团队持续保持奶量)走出来的话感觉挺有空间。
+> A2GHnfpZvyeZX5Pr63jdMmo9uYbpaaKqHHuPD5xD2n6v
+>  
+> 为什么说星猫sc是龙头：
+> 1、blink官推 @saydialect 发了两次关于购买新猫的推特。
+> 2、sol创始人转推了那条购买星猫的推特
+> 3、MeteoraAG和创始人名牌支持
+> 4、星猫是第一个能在推特上买的meme。
+> 5、目前blink叙事才开始起步，经过第一轮的增长大家有个初步共识。
+> 6、市值决定一切，星猫目前是moonshot和blink叙事市值最高的，所以它就是龙头。
+
+## 86. Jun 10, 2024 · 5:41 PM UTC · 1800221693342007520#m
+- 链接：https://twitter.com/cryptojiuyi/status/1800221693342007520#m
+- 作者：@cryptojiuyi
+
+> 只要我冻的够快 盗币就不会发生🤔
+
+## 87. Jun 9, 2024 · 1:10 PM UTC · 1799791251799277657#m
+- 链接：https://twitter.com/cryptojiuyi/status/1799791251799277657#m
+- 作者：@cryptojiuyi
+
+> OK交易所怎么样大家心里都清楚不用再说。现在连用户资产都能随意被盗，而且是近期频繁发生，不敢想象还有多少受害者！
+>  
+> 不想一辈子积蓄归零，建议赶紧提u跑路，也希望受害者的资金都得到赔偿，这完全是交易所的责任吧
+
+## 88. Jun 8, 2024 · 4:14 PM UTC · 1799475051672350789#m
+- 链接：https://twitter.com/cryptojiuyi/status/1799475051672350789#m
+- 作者：@cryptojiuyi
+
+> 很多兄弟这会还在私聊我，说我被写了啥的。
+> 这玩意懂的都懂，我不care，没事就看个乐子就行。仁者见仁，智者见智！😬
+
+## 89. Jun 6, 2024 · 11:43 AM UTC · 1798682159072542822#m
+- 链接：https://twitter.com/cryptojiuyi/status/1798682159072542822#m
+- 作者：@cryptojiuyi
+
+> 就当没买过 $pogai 吧，刚好赚回来500sol了，本来要加仓的，复制到sorry合约去了，草🦙不然这会赚15wu了，现在=白跑😅
+
+## 90. Jun 6, 2024 · 11:19 AM UTC · 1798676173687591335#m
+- 链接：https://twitter.com/cryptojiuyi/status/1798676173687591335#m
+- 作者：@cryptojiuyi
+
+> 提了500Sol给提到代币合约去了，还有救吗兄弟们🥲难受。
+> 刚刚边出站边提现，急了没注意看，让我站下缓缓先
+
+## 91. May 29, 2024 · 4:42 AM UTC · 1795677048998146481#m
+- 链接：https://twitter.com/cryptojiuyi/status/1795677048998146481#m
+- 作者：@cryptojiuyi
+
+> $NOT 涨的太狠了，还得是强狗庄。昨晚那会是买了不到2天，要昨天破0.01的话都快翻倍了，你们猜我卖飞没🤣
+
+## 92. May 27, 2024 · 11:33 AM UTC · 1795055650252181863#m
+- 链接：https://twitter.com/cryptojiuyi/status/1795055650252181863#m
+- 作者：@cryptojiuyi
+
+> $NOT 凌晨刚买完就拉盘，真是有点舒服了🤪看BB那么爆拉，实在忍不住买它。
+
+## 93. May 23, 2024 · 5:22 AM UTC · 1793512926063788223#m
+- 链接：https://twitter.com/cryptojiuyi/status/1793512926063788223#m
+- 作者：@cryptojiuyi
+
+> 感觉市场情绪确实不错，尤其是特朗普、拜登、pepe相关的meme。昨晚到今天就买了4个币赚了3个😬都是顺手买的，不是我不发小池子，太容易pvp了就没必要🫢相信你们都理解哈，盯着的太多了
+>  
+> 就看明天凌晨3-4点 ETH的ETF通过不通过了，感觉就算这次不通过我感觉也很快了。一周内拜登对加密的态度180度大转弯，拜登团队昨晚招募meme经理，其实想争取加密年轻人的选票，懂王确实是一直在喊。早上众议院FIT21法案通过后面SEC说了都不算了，两党的态度都开始对加密表示友好，浪潮即将袭来。
+>  
+> 美国2024年总统选举时间为2024年11月5日。距离时间还太早了，就冲拜登和特为了选票，多争取投票多搞点事，ETH ETF通过接下来会轮到哪个？接下来还会摩擦出什么新故事，有点期待了！
+
+## 94. May 21, 2024 · 9:40 AM UTC · 1792852898700996678#m
+- 链接：https://twitter.com/cryptojiuyi/status/1792852898700996678#m
+- 作者：@cryptojiuyi
+
+> 我真是感觉推特上类似于@Elizabethofyou 这种狗屎太多了，都是立人设的“永赚老师”，一下就判断对趋势了，不是你凭啥？别看14w的粉丝，本质上是20U天团，自己炒币都玩不明白，大部分都靠接rug广告赚钱还指望带你赚钱呢？
+>  
+> 写这篇推文原因很简单：看到这兄弟写的推文觉得确实恶心人、第二点上个月来私聊蹭我关注我刚刚回复下把我拉黑了、第三点警示一下你们注意‼️这些永赚博主，真的傻逼。
+>  
+> 我tmd上周tg才发完情绪不行，gme直接腰斩了。结果晚上cpi利好在睡觉，今早上eth etf利好，我踏空一半草了😭消息面没办法
+>  
+> 还有心虚的是，头部玩家的 @holddoteth 这玩意，上次我发完就拉黑了不是你怕啥啊，怕我你底下回复啊。
+>  
+> 真人从来不虚，假人也只能靠拉黑了！
+
+## 95. May 9, 2024 · 1:10 PM UTC · 1788557150962467162#m
+- 链接：https://twitter.com/cryptojiuyi/status/1788557150962467162#m
+- 作者：@cryptojiuyi
+
+> 刚刚买了点  $maru 这只🐕 赌了下
+>  
+> maru4DtHRrPytGBgRk81qBLby8f72t23u4Xi3EgPPgJ
+>  
+> 在Tg刚刚2m分享了，现在已翻倍。感觉合约和这条狗笑的有点意思dyor。没进Tg的记得进下：
+> t.me/jiuyicall
+
+## 96. May 8, 2024 · 6:06 PM UTC · 1788269333501845744#m
+- 链接：https://twitter.com/cryptojiuyi/status/1788269333501845744#m
+- 作者：@cryptojiuyi
+
+> 这就是 #OK 跟 #binance 的区别，垃圾OK使劲狗庄联合作恶，不仅交易所上线的全部是垃圾，官推还联合项目上线前多次回复，开盘rug🈹韭菜！
+>  
+> 而币安继去年西坦事件后，再一次站出来主动维护币圈的公正，相差太远了！还得是CZ和一姐有格局！
+
+## 97. May 7, 2024 · 2:13 AM UTC · 1787666945753637074#m
+- 链接：https://twitter.com/cryptojiuyi/status/1787666945753637074#m
+- 作者：@cryptojiuyi
+
+> 这就是OK？我真涨是见识了👀 @okx @star_okx @Haiteng_okx @Cryptosis9_OKX 随意冻结用户资产
+>  
+> 这老哥 @cfx36u 那会cfx铭文认识的。当天被OK两次回复 $fomo 诱导坑了几十万💲，只因在推上客观陈述了这个fomo跟OK相关的事实，恰好OK知道他的账号，然后账号被OK冻结了，这都半个多月了才解冻？细思极恐😱
+
+## 98. May 7, 2024 · 1:51 AM UTC · 1787661493456257164#m
+- 链接：https://twitter.com/cryptojiuyi/status/1787661493456257164#m
+- 作者：@cryptojiuyi
+
+> 以下被💩溅一身的悲惨兄弟：@wangkk2020 @vvvvvvvvvok @ShaneGuo007 ，私发我币安uid。
+>  
+> 鉴于OK中文客服 @OKXHelpDesk_cn 的优秀表现，“我被OK为用户着想而不择手段的行为而深深的折服”！
+>  
+> OK 400w粉 @okx 都在无底线🈹，你如此优秀，不继承OK优良传统🈹我都过意不去。来私发我币安uid，我让你🈹🔪大的
+
+## 99. May 5, 2024 · 11:49 PM UTC · 1787268520965034289#m
+- 链接：https://twitter.com/cryptojiuyi/status/1787268520965034289#m
+- 作者：@cryptojiuyi
+
+> 假期🔚回来枯坐了，买哪个兄弟们，让我来抬你们🤓
+
+## 100. Apr 20, 2024 · 1:46 AM UTC · 1781499712308392301#m
+- 链接：https://twitter.com/cryptojiuyi/status/1781499712308392301#m
+- 作者：@cryptojiuyi
+
+> 我刚刚纯赌情绪，可能看到比较晚了，一早上起来好像没啥可以打的，要不行就撤二级也亏不了啥。
+> 主要手痒痒了，前面的符文基本上都是预留的，没有可以打的。我们能打的只有 #6 #7 ，#6 中本聪概念我感觉可以，gas再降下来点我准备打打，#7 不知道什么来头打这么猛过半了。
+
+## 101. Apr 20, 2024 · 1:06 AM UTC · 1781489584482013340#m
+- 链接：https://twitter.com/cryptojiuyi/status/1781489584482013340#m
+- 作者：@cryptojiuyi
+
+> 1号符文部署者相关的币安代币： $sys ，目前涨幅30%，追了点
+
+## 102. Apr 19, 2024 · 5:55 PM UTC · 1781381151346884686#m
+- 链接：https://twitter.com/cryptojiuyi/status/1781381151346884686#m
+- 作者：@cryptojiuyi
+
+> ‼️我在币圈遭遇最恶心的镰刀：OKX官方 @okx 联合狗庄无底线收割Rug
+>  
+> $fomo Rug盘=OK官推两次回复，这比去年西坦还恶劣😁
+>  
+> 写出你与OK的故事💩：优秀奖 3 X 333U 。我情商比较低，是十分的低，说话很直接不像其他人那么委婉，也不去舔谁，不需要舔谁赚钱得罪人真的抱歉啊！
+>  
+> 刚看到又有兄弟被OK联合作恶🈹了，既让我觉得可怜又让我觉得可悲，可怜是被Rug可悲的是前两天全网才被 $fomo 给恶心🤮了，你要知道这是被OK官推 @okx 在上线前连续回复了两次，你懂什么含义嘛？直接简介背书了。 @okxweb3 钱包给6800U就可以发推的啊，给钱就行我早就是知道的！！！钱包腐烂就算了，我没想到400w粉丝的官推也这样，OK内部烂到什么底部了？👎 @star_okx 老徐你真得管管才行。
+>  
+> $fomo 我是打了24e，因为ok去回复二级去接了40e总投入20wu没卖直接归零。别跟我说跟OK没关系，没有OK回复我不可能去接的直接卖了，@cfx36u 这兄弟几十w美金就是这么亏的，收了4000e加了10e的LP，同时老鼠仓出货。为什么接这个盘？你们这些人精买的原因多少占比跟OK有关系，大家心里清楚。
+>  
+> 本来我之前是不想发了算了，虽然被割了。但刚打着游戏看到还有上OK当的，又私聊我了。被OK联合无底线收割的，我实在受不了了，我觉得我有义务提醒一下粉丝别再上当，这是我入圈5年以来遇到交易所作恶最恶心的事情，没有之一，没有之一。
+>  
+> 早上8点看看符文runes，提前分好UTXO找找热门的机会。最近行情很差，也别问我为什么不推荐项目，行情太差了没好的叙事没必要PVP，不需要你们抬我，好的叙事让市场来抬！
+> localhost:8080/vvvvvvvvvok/status/178…
+
+## 103. Apr 9, 2024 · 2:21 PM UTC · 1777703260885037307#m
+- 链接：https://twitter.com/cryptojiuyi/status/1777703260885037307#m
+- 作者：@cryptojiuyi
+
+> 今天下午 AC @AndreCronjeTech ，Ftm链的创始人，曾经的Defi神话。公开说要在ftm搞一个meme币，根据他的影响力第一时间冲赚钱应该问题不大，可以关注一下，提前把ftm提去ftm链，应该是突发的。时间不清楚
+>  
+> 一、Ftm机器人：(⚠️进入后，需输入一段自己能记住的密码)
+> t.me/Muttskibot?start=refer_…
+> 预计上线时可能会崩，也准备好钱包
+>  
+> 二、Swap
+> 钱包添加ftm链：chainlist.org/?search=ftm
+> 1. 聚合swap羊驼：(这个不管lp加在哪个swap都可以买，全链的挺好用提前试试，主要是很丝滑不会卡死)
+> swap.defillama.com/?chain=fa…
+>  
+> 2.Ftm的Swap：看加在哪个池子
+> equalizer.exchange/swap
+> spooky.fi/#/swap
+
+## 104. Apr 7, 2024 · 3:18 PM UTC · 1776993068698476587#m
+- 链接：https://twitter.com/cryptojiuyi/status/1776993068698476587#m
+- 作者：@cryptojiuyi
+
+> 90税，直接貔貅。这狗逼果然6🤪判断到位了
+
+## 105. Apr 7, 2024 · 11:18 AM UTC · 1776932435336568958#m
+- 链接：https://twitter.com/cryptojiuyi/status/1776932435336568958#m
+- 作者：@cryptojiuyi
+
+> 刚刚有朋友问我晚上base的 @DegenAiBase 是不是要冲爆？因为与 @Artsworlld 马斯克关注的账号合作了，改名号其实还是他发的。
+> 正好前两天这个项目我看过pass了，看你们fomo，所以这会我顺便提一嘴。最近base链提前大热必死定律如mooncats等应该逃不开。
+> 因为提前公布合约让冲高，上线基本上就是最高点，他的上个项目4天前，在sol上线就是最高点归零，目前市值47k，跌幅100X，都是亏钱的，建议谨慎。
+
+## 106. Apr 5, 2024 · 12:27 PM UTC · 1776225197835555260#m
+- 链接：https://twitter.com/cryptojiuyi/status/1776225197835555260#m
+- 作者：@cryptojiuyi
+
+> Winners 🏆中奖的24小时内私聊我币安uid
+> • @mariamescha
+> • @OammarinA
+> • @FFF9712
+> • @zyiyi12
+> • @njddjdr
+>  
+> ✔️ twitterpicker.com/d/vfns2tvj
+
+## 107. Apr 4, 2024 · 10:00 AM UTC · 1775825645970325735#m
+- 链接：https://twitter.com/cryptojiuyi/status/1775825645970325735#m
+- 作者：@cryptojiuyi
+
+> 📢 New Listing - $MOEW @donotfomoew
+>  
+> #Bitget will list MOEW/USDT in Innovation & #Meme Zone!
+>  
+> 🔹Deposit: Opened
+> 🔹Trading starts: 12:00 PM, April 4 (UTC)
+>  
+> More details: bitget.com/en/support/articl…
+>  
+> #MOEWListBitget
+
+## 108. Mar 30, 2024 · 9:39 AM UTC · 1774008421496525309#m
+- 链接：https://twitter.com/cryptojiuyi/status/1774008421496525309#m
+- 作者：@cryptojiuyi
+
+> 旧亿3月份打狗总结，在Tg一共推荐发出12个项目，赚钱11个，"自拍哥"居然亏了ohfcuk。按照时间顺序梳理，以下发言均在Tg可查，发出来就涨我真没办法😛评论区抽5个100U吧。
+>  
+> $mfer 今天全网第一call你跟上了吗？800X
+>  
+> 一共只发过这么多😀，一半以上可以10x→几百X不等。胜率我感觉还行，你觉得呢？😎推荐的很多项目应该都是最早发现的。我没有群别问加群，只有Tg和推公平⚖️。t.me/jiuyicall
+>  
+> 1、1号：#ClosedAI 80k→12m 150X(老马起诉OpenAI，我推荐后立马社区接管了项目创建Tg、推特，支付trending、ave等，几天后直接上线火币)。
+> 2、3号：更新 $putin 150k→2.8m 19X(2月份预测了大选热，当时涨了接近10X现新高)
+> -----------中间我几把住院去了，还在建设------------
+> 3、16号： $COCO 200k→5.3m 26X(Kero这个艺术家在eth的代币，当时收了5w个Sol，上线可卖10X)
+> 4、16号：盘古 $Fist 喊大家打预售但退款了，上线1分钟后买也是可以200k→2m，随便买轻松几x。
+> 5、18号： $CREDS 13的位置→80的位置 7X(收17wsol的艺术家eth的项目)
+> 6、18号：树懒 $SLERF 70m→700m 10x(顶级叙述，我开始还犹豫了一会真的麻)
+> 7、28号： $COS 2.5m→22m 9x(CZ回复点赞的币安🐱，猫本身大火，cz认识创始人)
+>  
+> 6号：𝕏Ð 推荐后涨了50%。18号： $ohfuck 60k→600k 10x(树懒飞了看有意思顺便喊了嘴)。20号： $ticker 发出来翻倍，我自己没跑，亏钱跑的base的顶级pvp我fuck。
+>  
+> 27号： $keycat 🐱这个我没喊，因为我启动买了32%的筹码，喊你们真就是怕接盘，我觉得还是太几把良心了！但是也可惜。我20分钟以均价120k卖完实在是筹码太多了，根本卖不完卖出8e。几个小时3m，3天后今天市值20M，纸面价值600w🔪。能拿住3天大约4000X，我就买了0.5e，筹码都是现在池子的25倍。
+>  
+> 11、29号：大家一致看好的“自拍哥” $GHZLI 推荐位置亏损2/3，热度非常高的项目都看好，我成功打了5.5e预售还女巫，本来觉得最少能50e出来，大家都看好，真的没看懂会亏钱。
+>  
+> 12、30号： $mfer 400k→320m 800x(我应该是全网最早发合约的，持有2.5%的筹码，轻松卖飞600w🔪)
+>  
+> 分析了下今天 $mfer 没拿住的原因，就是我居然连最基本空投分配比例20%都没看到(离谱吗？)，我去群里吹牛逼去了，有人说发空投我就急着卖，还手滑最后一下都卖完了，之前受过很多次这个教训，这次教训太大了。以后我会少发言，每次都很影响操作，我只会发🤐。
+> 之后我觉得没啥内容的消息，我当时可能直接不会回复了，说废话吹水没用，赚钱要紧🤪要是我吹水，请直接点狠狠骂醒我。
+
+## 109. Apr 3, 2024 · 3:25 PM UTC · 1775545206814945549#m
+- 链接：https://twitter.com/cryptojiuyi/status/1775545206814945549#m
+- 作者：@cryptojiuyi
+
+> 大家其实没啥焦虑的，一焦虑就看看我前面卖飞的两个几百万💵美金的 $mfer 和 $keycat ，我都焦虑难受死了，还是坚持一直继续干！
+> 今天 $moew 就让我20分钟挣了不到500e，这三个币在一周内发生，说明什么？说明市场的机会真的很多，耐心等待即可！
+> 希望我们这轮牛市都能顶峰相见！争取努力上A9👊
+
+## 110. Apr 3, 2024 · 3:25 PM UTC · 1775545203639914745#m
+- 链接：https://twitter.com/cryptojiuyi/status/1775545203639914745#m
+- 作者：@cryptojiuyi
+
+> 3. $keycat 🐱
+> 我花费0.5e购买了32%的筹码，这是最底部，也就是启动的开始。我在10分钟内抛售完成，以不到8e的获利15X出局，大约是120k的均价在抛售完，真的筹码太多了实在卖不完，我慌啊。几小时后达到3m，32%的token价值90wu，4天后MC最高是110M，也就是面值3000w🔪，当然实际砸不出来这么多，我留个10%赚个几百w🔪可能是没问题。卖飞🤐
+> 购买hash：
+> basescan.org/tx/0x1015835fff…
+
+## 111. Apr 3, 2024 · 3:25 PM UTC · 1775545198908690554#m
+- 链接：https://twitter.com/cryptojiuyi/status/1775545198908690554#m
+- 作者：@cryptojiuyi
+
+> 2. $mfer
+> 我花费3e买了2.5%的筹码，并且在tg先发了合约，那时候的价格是400k，我是全网第一个call的人。
+> 我在20分钟内出售了所有代币获得了20wu的利润😂，为什么卖出，因为我去群友吹牛逼去了，你们知道我有这个臭毛病，我居然连空投比例都没看，你敢信？
+> 当我看到群友说要发空投的时候，我恐慌迅速抛售了筹码，然后还手滑了，把底仓一次全卖了草。 $mfer 在几个小时以后，400k➡️320m 800x，我2.5%的筹码价值8M🔪，可以说卖出来500w🔪是很轻松的。可惜难受死我了，管不住手去打字哈哈哈，所以我争取少吹水，这次的代价有点惨重！
+> 购买hash：
+> basescan.org/tx/0x8cf32a85d3…
+
+## 112. Apr 2, 2024 · 1:19 AM UTC · 1774969760209625102#m
+- 链接：https://twitter.com/cryptojiuyi/status/1774969760209625102#m
+- 作者：@cryptojiuyi
+
+> 最后我总结一下：
+> 一个群能不能赚到钱，群主的🧠是最重要的。在我看来国内认知顶级的是0xsun、镭射猫等头部大V，看他们发言也是可以学习进步了不少。
+>  
+> 但是你看我跟这个头部社区所谓的 @holddoteth 群主的聊天，你觉得他这样的认知和思维方式，是能带群友赚钱的？
+> 反而你如果是个正常人，看完我发的内容，你会觉得🧠是个好东西，现在小学生都会讲道理吧，可是他好像是圣母？什么目的，不得而知？你猜啊哈哈哈哈。
+> ⚠️他说我在黑头部，我有必要无故得罪人？浪费时间？仁者见仁吧，只要你是正常人，会有自己的正确的见解。
+>  
+> 最后提一句，别发掘我地址，别跟我单，打狗的都是degen，最近我就是瞎几把冲🐶的，都没看是啥先买了送钱，冲到归零/貔貅也是常有的事情，不可能一直赚。
+> 只有我觉得盈亏比🉑叙述还行的项目，才会发到tg里，这会你们可以关注一下，但也别追高多看线啊dyor🤯
+
+## 113. Apr 2, 2024 · 1:19 AM UTC · 1774969757101703582#m
+- 链接：https://twitter.com/cryptojiuyi/status/1774969757101703582#m
+- 作者：@cryptojiuyi
+
+> 4.说我利用你这个V5接盘群的消息 🈹群友？被迫害妄想又来了，按要求发表评论，钱包地址我从来没发过，要我地址抬我的一律被拒绝，叫别跟我单🤓
+>  
+> 我发掘信息的能力抱歉，还需要靠你哈哈哈？那怎么你没人认可？我怎么交易是我的自由。
+>  
+> 我没喊过就无愧于任何人。喊了我怕群友被 🈹，而且也怕自己格局亏钱。最近多了几千人，更加谨慎了。
+>  
+> 买了币发个CA顺手的事情，有大批人给我抬轿子多好的事情，那我自己不是永赚？大家都在这么玩，我难道不会是我傻逼？我愿意不愿意做的问题。
+> 最近还有很多兄弟私聊，要交钱给我进收费群挨刀子的，抱歉不想割兄弟们我也不差那点，我熟知自己也没那个能力，也不想一层割一层⚖️。到底是我人傻，还是你hold聪明。
+
+## 114. Apr 2, 2024 · 1:18 AM UTC · 1774969743080050713#m
+- 链接：https://twitter.com/cryptojiuyi/status/1774969743080050713#m
+- 作者：@cryptojiuyi
+
+> 3.说我喊完立马出货，更加是嘴臭泼脏水。无稽之谈了，我看好发出来的项目，很多我基本上最后都是格局到亏钱的，我还在tg说了后悔又没出亏。
+> 就拿你把我踢出群V2、V3接盘群 $creds 的来举例，推荐位置最高7x。最后我是亏钱的，交易亏钱截图还给他发了，跟他说想要记录可以继续给他笑死了我割尼玛。
+>  
+> ⚠️ 然后 $coco 你跟我说200k➡️5m也是pvp好几个人抱怨了一波流，我操你妈 🈹 忍不住了哈哈哈。张口就来，去拿出k线来看，随便赚。这可是头部群主的脑子啊，说到底只是拉了点人建了个群罢了，谁都可以做本身没东西。
+>  
+> 我往低了说，95%的项目都没有推荐的 $coco 这个位置，买入的暴涨倍数高、硬吧？垃圾是大多数。难道你在骂所有95%以上的冲🐶的？
+> 说到底还是你最牛逼🤔你到底为了啥？这么圣母为群友？你猜哦
+
+## 115. Apr 2, 2024 · 1:18 AM UTC · 1774969728655843812#m
+- 链接：https://twitter.com/cryptojiuyi/status/1774969728655843812#m
+- 作者：@cryptojiuyi
+
+> 1.今天开🈹，发出来这垃圾项目明显是🐭仓，而且这么低的MC，这么蹭的垃圾叙述？还需要讨论吗值得？你脑子🧠❓
+> 再看看我发的哪个项目，不是比你叙述好、MC高涨的好，涨的稳？然后踢我？本身垃圾群在不在无所谓，但是恶气得出。今天怎么不把你自己踢了割韭菜的玩意，pvp死绝了，要不是你自己发的项目可能早踢了18遍了。
+> 👀你这发的标准版本的圣诞🎄，真是一群接一群的盘，这话对我说无疑是打你自己的脸。你头部社区就这点实力？才1m就不行了？真丢脸，搞来搞去还不如我一个人❓
+>  
+> 2.你好像是在称赞了我发掘早期还是低MC项目的能力？不是喷我就别这样夸我啊🥹我是有这个能力确实，然后倍数不低没办法！
+> 你说：推荐在群里-迅速冲高-很快下跌完成一波流。 这不就是你今天做的事情？哈哈非要自爆了属于是，去看看我发的线沙雕。
+
+## 116. Apr 2, 2024 · 1:18 AM UTC · 1774969707172631028#m
+- 链接：https://twitter.com/cryptojiuyi/status/1774969707172631028#m
+- 作者：@cryptojiuyi
+
+> ❗️只回应仅一次 #头部社区 ：要专心打狗了md浪费劳资一晚上，影响赚钱给大家发掘密码🤓
+>  
+> 本来我都不想说了，毕竟朋友刚刚都跟我说了怎么回事。一般来说表面越是客气的很的人，反而在后面做起事来越是那啥都是这样的吗？
+>  
+> 很多人想发但最后算了难得写，抱歉我这人够刚，我最喜欢摆事实讲道理让我来吧！
+
+## 117. Apr 1, 2024 · 1:06 PM UTC · 1774785420058120258#m
+- 链接：https://twitter.com/cryptojiuyi/status/1774785420058120258#m
+- 作者：@cryptojiuyi
+
+> 有些人就是缺乏最基础的逻辑能力，任何项目只要涨了再跌下来就说别人底部建仓出货，首先只涨不跌的那他妈叫貔貅，谁来币圈是当纯菩萨的，喊项目不买就光看着别人赚，请问是有绿帽奴倾向吗，就是自己看好所以才买才喊，当然了，遇到这种道理都不懂的人要好好珍惜，基本上你赚的钱就是从他们身上来的
+
+## 118. Apr 1, 2024 · 12:39 PM UTC · 1774778515499713004#m
+- 链接：https://twitter.com/cryptojiuyi/status/1774778515499713004#m
+- 作者：@cryptojiuyi
+
+> 笑死了，我连跟单地址都不给，不愿意割人，我需要 🈹你群里那些人？
+>  
+> 下面群都主动邀请我进的；
+> 1.踢出V1群: 推荐 #ClosedAI 有150x当天还上了火币，正是高峰，我去跟聊天，他说排队人太多了踢我？真是为群友好啊没密码了。这个稍微理解下是吧，V1的群友你理解不？
+>  
+> 2.踢出V2、V3群:  $creds 是收17wsol的dev在eth的项目，我逻辑都讲的很清楚，镭射猫喊了第一波，我推荐的位置涨了6 7x，几m的市值，早上起来跌了就把我踢了？ 我前面几天才推荐完 #ClosedAI 150X， $COCO 25X？？？你真的是个脑残，我有一说一。忍不住爆粗！抱歉😞我素质低哈哈哈
+>  
+> #头部玩家 所谓的牛逼，这么多500人大群，请给我找两个胜率比我高，推荐项目达到我数量一半多的来？@holddoteth 来，笑死
+>  
+> 评论区，请根据我所写提供的线索，看看是不是我傻逼？还是谁几把傻逼哈哈哈🤓oh fuck。
+>  
+> 一定小心接盘👀
+
+## 119. Apr 1, 2024 · 12:39 PM UTC · 1774778503378178090#m
+- 链接：https://twitter.com/cryptojiuyi/status/1774778503378178090#m
+- 作者：@cryptojiuyi
+
+> 看看8月份刚刚开始他的态度哈哈哈。老大帮忙看看👀，帮我转发涨涨粉。
+> 第四张图是那时候在群里推荐的胜率，那时候也是很高，所以开始创建tg。
+>  
+> 推荐的胜率一直这么保持的，反正都可以看到都公开的记录。
+> 那么我是如何被踢另外几个群的？
+> #头部社区 我不能亏钱了？哈哈哈
+>  
+> localhost:8080/holddoteth/status/1693…
+
+## 120. Apr 1, 2024 · 12:39 PM UTC · 1774778493857079431#m
+- 链接：https://twitter.com/cryptojiuyi/status/1774778493857079431#m
+- 作者：@cryptojiuyi
+
+> 一来就质问我利用V5优势？有优势？笑死 🈹群友，都是同一时间看到的，你们还是底部，不是这话不好笑吗？
+>  
+> 逻辑哪里来的问号❓当然讨论的是些垃圾币，市值小的可怜，都没我喊的mc高。
+>  
+> 我地址没发过，私聊问我要地址的兄弟，我从来没给过，都说不要跟我容易亏钱，发截图被人监控了也没办法。
+> 再说我怎么操作，你算个屁，我地址为什么给你发？？？笑死。割尼玛
+>  
+> 接下来看看之前的嘴脸，和我这么高的胜率怎么被他从拉我V1、V2、V3被踢的。看是不是真的为群友考虑🤔
+> 谨慎接盘 ！！！跌没了
+
+## 121. Apr 1, 2024 · 12:38 PM UTC · 1774778464224289033#m
+- 链接：https://twitter.com/cryptojiuyi/status/1774778464224289033#m
+- 作者：@cryptojiuyi
+
+> "币圈风云：揭露内幕，一段荒诞不经的真实记录"🤐
+>  
+> 来吃瓜了兄弟们，真的挺有意思的。是铁粉的就给我转发，来评评🤔，后面说不定挑几个人给福利哈哈哈。⚠️一定看完，学习学习！！！
+>  
+> 本来牛市安心赚钱，也不想撕逼这些浪费精力错过金狗，今天我真的想笑。被动营业实在是拜 @holddoteth 所赐，影响我打狗赚钱了md
+>  
+> 先提一下 #头部玩家 ，就下午一个老鼠仓币  $GUAC ，你们直接被他们🐭砸死了，你不会被 🈹了吧？😜
+>  
+> 笑死了先是自己小群所谓的研究15:56分发的，然后发到V5所谓的头部16:11(今天开始发的要求：必须所有人参与评论，没达到要求的下月会请出）。其实就是叫你们关注接盘，很多kol里面，我加入很久基本没看到密码。
+>  
+> 那当然我参与了评论，我做事讲究规则，没问题，说了就截图的几句话。没说任何其他的。外面也没喊过(肯定不能喊你给他们接盘，我为人怎么样大家都清楚)。
+>  
+> 然后过了一会说我 🈹群友把我踢了？？？？？问号，自己看图。我就中规中矩的说了三句话。
+>  
+> 当然故事还没开始，接着往下。看看私信和前面的事情。哈哈哈
+>  
+> 真的是一心一意为群友考虑啊🤔
+
+## 122. Mar 29, 2024 · 10:24 PM UTC · 1773838706769846390#m
+- 链接：https://twitter.com/cryptojiuyi/status/1773838706769846390#m
+- 作者：@cryptojiuyi
+
+> 都别焦虑了， $mfer 我没拿住，简单卖飞5M+🔪。49分Tg应该是全网最早call的，应该都舒服了吧，可我难受了😅
+>  
+> 400k➡️220m！简单500x+，ctmd暴涨我又到处吹牛逼去了，管不住手，空投比例都没去看不然应该能拿住，下次发完合约我一定要装死
+>  
+> 别又去吹水了，一吹水就影响判断，请随时监督叫我闭嘴🤐shit
+
+## 123. Mar 29, 2024 · 5:35 PM UTC · 1773765966394171675#m
+- 链接：https://twitter.com/cryptojiuyi/status/1773765966394171675#m
+- 作者：@cryptojiuyi
+
+> $mfer 真的难受了，现在70x了已经，第一时间call了。拿住的话就200e了，没拿住也能出来差不多100e的，手滑刚刚直接剩下的全卖了🥲就赚60e草
+
+## 124. Mar 29, 2024 · 5:14 PM UTC · 1773760683173437862#m
+- 链接：https://twitter.com/cryptojiuyi/status/1773760683173437862#m
+- 作者：@cryptojiuyi
+
+> 卖飞了，刚刚还手滑一下砸完了，3e获利60e，这会拿住的话应该是100e了。🤑
+
+## 125. Mar 29, 2024 · 4:56 PM UTC · 1773756163592749505#m
+- 链接：https://twitter.com/cryptojiuyi/status/1773756163592749505#m
+- 作者：@cryptojiuyi
+
+> $mfer 发出来就10x，我现在10多x了已经。已经进tg啊，推特慢很多，49分发出来，我3e瞬间30e+🙊
+>  
+> t.me/jiuyicall
+
+## 126. Mar 29, 2024 · 4:50 PM UTC · 1773754558587732462#m
+- 链接：https://twitter.com/cryptojiuyi/status/1773754558587732462#m
+- 作者：@cryptojiuyi
+
+> 0xe3086852a4b125803c815a158249ae468a3254ca
+
+## 127. Mar 29, 2024 · 1:40 AM UTC · 1773525728488833191#m
+- 链接：https://twitter.com/cryptojiuyi/status/1773525728488833191#m
+- 作者：@cryptojiuyi
+
+> $cos 又回到10m了，4x+舒服的，cz喊单😎
+
+## 128. Mar 29, 2024 · 12:34 AM UTC · 1773508940393066805#m
+- 链接：https://twitter.com/cryptojiuyi/status/1773508940393066805#m
+- 作者：@cryptojiuyi
+
+> $GHZLI 印尼哥跟潘多拉合作在base发的。预售收了400eth在4分钟打满，多打的女巫退款了没大户(有人23钱包打了46e因关联被退到限额的2e)。
+>  
+> 目前5500u，预售2x多点。释放规则是分小时释放10%，刚刚发了10%没人砸，抄了点底，感觉比预期的价格低很多。🤣
+>  
+> 0xcfB038913d2f93409019E4258244564ad4357Be9
+
+## 129. Mar 28, 2024 · 2:38 PM UTC · 1773358918439186746#m
+- 链接：https://twitter.com/cryptojiuyi/status/1773358918439186746#m
+- 作者：@cryptojiuyi
+
+> 刚刚太着急了喊你们沃日，我自己都有笔都没买进去血亏，点了就立马来发推了，翻倍多了🤣
+> 这 @catsofsol 是为@cz_binance打造的专属猫啊，最近🐱的行情很好最重要的是，cz点赞回复了。cz认可这个猫，他都好久没喊币了。看好
+> 3obNTknsf4hq5pNh3GDPEhyCB9WTKJJzM2PcqfKgLmBu
+
+## 130. Mar 28, 2024 · 2:30 PM UTC · 1773356942993277295#m
+- 链接：https://twitter.com/cryptojiuyi/status/1773356942993277295#m
+- 作者：@cryptojiuyi
+
+> 2x
+
+## 131. Mar 28, 2024 · 2:26 PM UTC · 1773355981168050180#m
+- 链接：https://twitter.com/cryptojiuyi/status/1773355981168050180#m
+- 作者：@cryptojiuyi
+
+> 3obNTknsf4hq5pNh3GDPEhyCB9WTKJJzM2PcqfKgLmBu
+> cz回复 买
+
+## 132. Mar 20, 2024 · 9:27 AM UTC · 1770381551970480408#m
+- 链接：https://twitter.com/cryptojiuyi/status/1770381551970480408#m
+- 作者：@cryptojiuyi
+
+> 真是顶级pvp麻了，翻倍没跑又亏钱了🤣
+
+## 133. Mar 20, 2024 · 8:53 AM UTC · 1770373112850444684#m
+- 链接：https://twitter.com/cryptojiuyi/status/1770373112850444684#m
+- 作者：@cryptojiuyi
+
+> 这是base链的树懒 $Ticker ,价格虽然有点高，但是我追了，我觉得叙述很好。
+> 唯一的大池子，几天前上线的dev也是卖出rug了，并且把lp打给了链上侦探zach。我喜欢这个叙事，并且base链今天疯了，像sol一样的fomo。
+>  
+> 0xa0c05e2eed05912d9eb76d466167628e8024a708
+
+## 134. Mar 20, 2024 · 7:12 AM UTC · 1770347776246792497#m
+- 链接：https://twitter.com/cryptojiuyi/status/1770347776246792497#m
+- 作者：@cryptojiuyi
+
+> Base链也开始火起来，这个tg机器人还行，自己提前备着资金，有狗的话好冲。
+> Tg机器人：t.me/Sigma_buyBot?start=ref=…
+> 扫链工具:t.me/BaseNewTokens
+> 查合约工具:t.me/OttoSimBot
+
+## 135. Mar 18, 2024 · 8:59 AM UTC · 1769649815011619133#m
+- 链接：https://twitter.com/cryptojiuyi/status/1769649815011619133#m
+- 作者：@cryptojiuyi
+
+> 自己记得进tg吧， $SLERF 好几x了又麻了。有些没发在推上随手丢tg了，真是舒服。
+> t.me/jiuyicall
+
+## 136. Mar 19, 2024 · 5:05 PM UTC · 1770134403727208456#m
+- 链接：https://twitter.com/cryptojiuyi/status/1770134403727208456#m
+- 作者：@cryptojiuyi
+
+> $SLERF 重新回到1的位置了，真的很猛，应该捐款够了能解决好前面预售的问题，包括sol创始人toly、ak等都很支持。目前市值500m+。
+> $ohfuck 这个梗真的是今晚在推特，在VX群到处都是。@Slerfsol 刚刚又在发相关图片。下午推荐的位置最高涨了3X，回调到300k 真感觉不高dyor
+
+## 137. Mar 19, 2024 · 1:41 PM UTC · 1770083107204649026#m
+- 链接：https://twitter.com/cryptojiuyi/status/1770083107204649026#m
+- 作者：@cryptojiuyi
+
+> oh fuck。2w个bnb加尼玛3000个。日狗了
+
+## 138. Mar 19, 2024 · 9:26 AM UTC · 1770019015253274783#m
+- 链接：https://twitter.com/cryptojiuyi/status/1770019015253274783#m
+- 作者：@cryptojiuyi
+
+> oh fuck 昨天60k喊了一嘴到600k，后面跌下去了。早上起来看到孙哥也在oh fuck，推特上都在oh fuck。
+>  
+> 这是树懒项目方昨天把币销毁后，推上喊的第一句话，给人很meme的感觉，所有人都知道有这么一句魔性的话，容易传播吧，我自己也有点喜欢上这句了。
+>  
+> dev昨天跑了今天回来了。池子小目前160k，看着还行，买了一点点赌个传播。毕竟 $Slerf 很坚挺，故事不错，树懒牛逼🚀
+>  
+> C2w7mpKMNERkMhMHVypGPayWtkAN1MdLd8cfWQcvHUej
+
+## 139. Mar 18, 2024 · 2:24 PM UTC · 1769731537002459490#m
+- 链接：https://twitter.com/cryptojiuyi/status/1769731537002459490#m
+- 作者：@cryptojiuyi
+
+> t22.io/launch/COCKS
+>  
+> sol上平台发型的第一个meme，是sols认证那人发的平台 。
+
+## 140. Mar 18, 2024 · 11:17 AM UTC · 1769684594239107077#m
+- 链接：https://twitter.com/cryptojiuyi/status/1769684594239107077#m
+- 作者：@cryptojiuyi
+
+> $CREDS 别忘了， $SLERF  今天的暴富效应，会映射到最大募资17W sol上的项目 $Smole 上。而该项目DEV @0xdekadente 名牌喊了$CREDS，同时宣布几周后上线游戏，继续做。本身是个老项目。继续看好
+>  
+> 0xc13f4f0f865bac08f62654b57e38669ebc4747a3
+
+## 141. Mar 18, 2024 · 9:25 AM UTC · 1769656392401682562#m
+- 链接：https://twitter.com/cryptojiuyi/status/1769656392401682562#m
+- 作者：@cryptojiuyi
+
+> 小池子自己注意风险，也好几x了🧐
+
+## 142. Mar 18, 2024 · 9:09 AM UTC · 1769652409012502960#m
+- 链接：https://twitter.com/cryptojiuyi/status/1769652409012502960#m
+- 作者：@cryptojiuyi
+
+> 我这会也买了点 oh fuck，嘲讽slerf。龙头已经330m了，这个60k。小玩说不定起来。
+> C2w7mpKMNERkMhMHVypGPayWtkAN1MdLd8cfWQcvHUej
+
+## 143. Mar 17, 2024 · 9:52 PM UTC · 1769481995057610837#m
+- 链接：https://twitter.com/cryptojiuyi/status/1769481995057610837#m
+- 作者：@cryptojiuyi
+
+> $COCO 创始人都没奶，也只收了5w SOL，都直接从20wu不到的mc干到5m+。
+> 你跟我说 $CREDS 不行？🤓
+
+## 144. Mar 17, 2024 · 9:39 PM UTC · 1769478793285300384#m
+- 链接：https://twitter.com/cryptojiuyi/status/1769478793285300384#m
+- 作者：@cryptojiuyi
+
+> 关于 $CREDS ，我再提供一个思路
+>  
+> 你们想一个问题？这个币创始人@0xdekadente 已经明奶了  $CREDS ，这样如果都拉不起来， $SMOLE  收了17W个SOL，上线会表现很好？为此那些打了钱的为了自救，也会购买 $CREDS ，并且会疯狂CX，反向给creds倒流🚀早上必飞
+>  
+> 0xc13f4f0f865bac08f62654b57e38669ebc4747a3
+
+## 145. Mar 17, 2024 · 8:37 PM UTC · 1769463157867897299#m
+- 链接：https://twitter.com/cryptojiuyi/status/1769463157867897299#m
+- 作者：@cryptojiuyi
+
+> 怎么说这波预判？直接喊单了 $CREDS 承认了😬要飞吗
+
+## 146. Mar 17, 2024 · 6:09 PM UTC · 1769425886233907580#m
+- 链接：https://twitter.com/cryptojiuyi/status/1769425886233907580#m
+- 作者：@cryptojiuyi
+
+> 希望你能成为sol的龙二，背景buff加满。 @mikeinspace 青蛙艺术家+btc上的stamp邮票创始人目前还有100m市值+小预售仅2.5w sol+跟OK关系密切🤓
+
+## 147. Mar 17, 2024 · 8:20 PM UTC · 1769458827110580549#m
+- 链接：https://twitter.com/cryptojiuyi/status/1769458827110580549#m
+- 作者：@cryptojiuyi
+
+> $CREDS 的dev @0xdekadente 是扛不住压力了啊？直接买回来了2e已经🤔。
+>  
+> 毕竟 $SMOLE  今天收了17w个的sol，全网热度爆炸，格局这么小可能要被骂死。既然已经关注到了这个项目，多次操作，那么500k我觉得市值真不高。dev buy ，so？等一个发酵
+>  
+> 0xc13f4f0f865bac08f62654b57e38669ebc4747a3
+
+## 148. Mar 17, 2024 · 7:02 PM UTC · 1769439091366461642#m
+- 链接：https://twitter.com/cryptojiuyi/status/1769439091366461642#m
+- 作者：@cryptojiuyi
+
+> 说实话，这样我感觉反而有出圈的可能性，fuck dev，dev你跑了我就要买，是不是有反抗的意味哈哈哈。反正小市值就玩赌下。
+
+## 149. Mar 17, 2024 · 6:55 PM UTC · 1769437473598472322#m
+- 链接：https://twitter.com/cryptojiuyi/status/1769437473598472322#m
+- 作者：@cryptojiuyi
+
+> 今天@0xdekadente 在SOL上今天募资了17w个SOL项目叫 $SMOLE ，他上一个项目 $CREDS 几百的市值不高。
+>  
+> 但就在刚刚，他出售了手里的 $CREDS ，就是所谓的Dev sell，收了17w个SOL却盯着这2e真的这么穷？但也说明他 $SMOLE Rug基本不可能，会好好搞，dev卖了我觉得反而值得一买，社区自治了，募资的起飞，这个相应的小市值也要飞。
+>  
+> 0xc13f4f0f865bac08f62654b57e38669ebc4747a3
+
+## 150. Mar 17, 2024 · 10:02 AM UTC · 1769303380625867084#m
+- 链接：https://twitter.com/cryptojiuyi/status/1769303380625867084#m
+- 作者：@cryptojiuyi
+
+> 刚刚涨完上去2x多了，还行
+
+## 151. Mar 17, 2024 · 6:01 AM UTC · 1769242641680695387#m
+- 链接：https://twitter.com/cryptojiuyi/status/1769242641680695387#m
+- 作者：@cryptojiuyi
+
+> 下午马斯克回复了Jason要买他的代币，直接暴涨了。
+> 这会Sol创始人回复了，趁着sol大热，看着感觉K线还行。小玩参与了下。
+>  
+> HLQR9Rc7rzfiydRs5qaJGoKniu64zCNN75v5ju4HF2ap
+
+## 152. Mar 16, 2024 · 5:21 AM UTC · 1768870138798084158#m
+- 链接：https://twitter.com/cryptojiuyi/status/1768870138798084158#m
+- 作者：@cryptojiuyi
+
+> 我好像被人盯上了。
+>  
+> 旧亿 call通知（比马斯克还了解自己的男人）🤣
+
+## 153. Mar 16, 2024 · 4:52 AM UTC · 1768862831964033121#m
+- 链接：https://twitter.com/cryptojiuyi/status/1768862831964033121#m
+- 作者：@cryptojiuyi
+
+> $Sol 上好像都在捐这个，我凌晨400sol的时候捐了点，现在2.6w个sol。自己看看要不要捐点。
+> 现在sol这么热，刚刚 $bome 又上币安期货了。只要不跑应该能赚点。
+
+## 154. Mar 16, 2024 · 2:11 AM UTC · 1768822482189095376#m
+- 链接：https://twitter.com/cryptojiuyi/status/1768822482189095376#m
+- 作者：@cryptojiuyi
+
+> $coco 一觉起来最高25x了，麻了麻了😁可惜刚刚在睡觉
+
+## 155. Mar 15, 2024 · 7:02 PM UTC · 1768714379091149100#m
+- 链接：https://twitter.com/cryptojiuyi/status/1768714379091149100#m
+- 作者：@cryptojiuyi
+
+> $coco  10x+ new ath新高，市场发酵是真的慢🧐
+
+## 156. Mar 15, 2024 · 6:08 PM UTC · 1768700866352295947#m
+- 链接：https://twitter.com/cryptojiuyi/status/1768700866352295947#m
+- 作者：@cryptojiuyi
+
+> $coco 喊完瞬间7x怎么说😬
+
+## 157. Mar 15, 2024 · 6:02 PM UTC · 1768699274014110007#m
+- 链接：https://twitter.com/cryptojiuyi/status/1768699274014110007#m
+- 作者：@cryptojiuyi
+
+> Kero这个艺术家刚刚也叫在sol上打钱，2小时收了27500个sol也就是500w美金，市场认可度很高。
+> 但是他在eth上发的币才20w美金不到的市值，我觉得可以赌一下，热度在，没被人发掘盈亏比可。
+> $coco
+> 0xe6dbeadd1823b0bcfeb27792500b71e510af55b3
+
+## 158. Mar 11, 2024 · 12:40 PM UTC · 1767168803551723824#m
+- 链接：https://twitter.com/cryptojiuyi/status/1767168803551723824#m
+- 作者：@cryptojiuyi
+
+> ClosedAI is the strongest mocking meme of Elon after Doge, and represents the spirit of resistance in Elon. We will forever support @elonmusk
+>  
+> This is our new Twitter and took over by @cryptojiuyi. #ClosedAI has been listed at @HTX_Global and @poloniex📈
+>  
+> dexscreener.com/ethereum/0xa…
+
+## 159. Mar 11, 2024 · 8:41 AM UTC · 1767108624038449405#m
+- 链接：https://twitter.com/cryptojiuyi/status/1767108624038449405#m
+- 作者：@cryptojiuyi
+
+> This week, @xAI will open source Grok
+
+## 160. Mar 11, 2024 · 7:29 AM UTC · 1767090529870000244#m
+- 链接：https://twitter.com/cryptojiuyi/status/1767090529870000244#m
+- 作者：@cryptojiuyi
+
+> grok1.5
+
+## 161. Mar 11, 2024 · 6:31 AM UTC · 1767075944886673803#m
+- 链接：https://twitter.com/cryptojiuyi/status/1767075944886673803#m
+- 作者：@cryptojiuyi
+
+> 狗设计师刚刚发推：xAI将摧毁OpenAI、微软和所有其他觉醒的AI。 $grok #grok15
+> 老马在2月22号说2周后推出grok1.5这周就是了。同时老马在此期间也是喷了包括OpenAI所有能喷的AI，前面我预判老马的动作都是为接下来的Grok1.5推出做准备，狗设计师的意思跟我预判的大差不差。
+> 既然是这样，凭老马上天入地的水平，grok1.5的推出预期感觉会有比较炸裂的功能，参考sora推出。目前从推荐的3m的6x回调到1.5m的位置，确定性的事件还是可以埋伏点。
+>  
+> 0xa711bcc2b6f5c4fc3dfaccc2a01148765cbbab1c
+
+## 162. Mar 9, 2024 · 2:46 PM UTC · 1766475750440579437#m
+- 链接：https://twitter.com/cryptojiuyi/status/1766475750440579437#m
+- 作者：@cryptojiuyi
+
+> ClosedAI从底部反弹10x，Ath来到12m今天破0了。昨天上线了P网，今天上线了三大所的火币Huobi，孙哥说这很有意思，还有其他一些交易所联系我想上@ClosedAIToken
+>  
+> 距离推荐我参与build的位置已有150x，距离机构老鼠仓ClosedAI的只有3x的市值差距，那么大的老鼠＋机构就这个水平，我觉得很快会超越。
+> 市场买单的只有公平的、散户的token。散户大战胜机构的游戏驿站GameStop剧情会再现，你觉得呢？目前tg在举行捐赠做营销钱包，越来越多的人参与build。
+> 这个IP会一直持续，单因为老马的官司就会一直持续，更不要谈其他的。除非OpenAI把名字改为ClosedAI官司结束，那么真改了ClosedAI又改达到怎么样的高度？持续保持看好。
+
+## 163. Mar 9, 2024 · 12:17 PM UTC · 1766438181355040796#m
+- 链接：https://twitter.com/cryptojiuyi/status/1766438181355040796#m
+- 作者：@cryptojiuyi
+
+> Shocking, new ath 10 m,I believe the next step is 100m. #CLOSEDAI
+>  
+> I think more and more people will join us, supporting @ elonmusk and supporting the spirit of rebellion！🤔
+
+## 164. Mar 9, 2024 · 10:22 AM UTC · 1766409134466039843#m
+- 链接：https://twitter.com/cryptojiuyi/status/1766409134466039843#m
+- 作者：@cryptojiuyi
+
+> #火币 继续狂奶 @ClosedAIToken
+>  
+> 仔细一看，原来孙哥也加入阵营了，@apeclosedai 你叫ClosedAI还去Closed，果然机构真的该死。你觉得 @binance @okxchinese @bitgetglobal 还远吗🤓  #ClosedAI
+>  
+> 0x571d9b73dc04ed88b4e273e048c8d4848f83b779
+> t.me/closedAIerc
+
+## 165. Mar 9, 2024 · 5:43 AM UTC · 1766339107083755611#m
+- 链接：https://twitter.com/cryptojiuyi/status/1766339107083755611#m
+- 作者：@cryptojiuyi
+
+> 火币今天即将上线 #ClosedAI，对于ClosedAI来说，这仅仅是我们跨出的一小步。这是 @elonmusk 的第二个嘲讽模因，上一个是Doge，这是最强的AI叙事，也代表反抗机构的Elon精神
+> 我无法相信 @ClosedAIToken 会走到什么样的高度？什么样的叙事能比的过Elon的和精神和嘲讽？meme教父
+>  
+> localhost:8080/ClosedAIToken/status/1…
+
+## 166. Mar 8, 2024 · 2:36 PM UTC · 1766110623958708700#m
+- 链接：https://twitter.com/cryptojiuyi/status/1766110623958708700#m
+- 作者：@cryptojiuyi
+
+> 3) Fortunately, we have received market support, constantly spreading from our friends around us, and gaining more and more support on Twitter. Don't you think our resistance is very similar to Elon?
+> The “insider and rat ClosedAI” of institution is like OpenAI now, and the ClosedAI in communities truly represents the meme spirit that Elon mocks. The first mocking token of Elon is #Doge 🐕, Billions of MC. Can you understand the meaning behind Elon's second mocking token?
+> His name is “ClosedAI”, which will be the strongest narrative meme after Doge. ⚠️That's why institutions want to steal our fruits, of course, everything is the best arrangement, and bad things can also turn into good things. @elonmusk @cb_doge
+> We will succeed.😬
+
+## 167. Mar 8, 2024 · 2:35 PM UTC · 1766110619940630860#m
+- 链接：https://twitter.com/cryptojiuyi/status/1766110619940630860#m
+- 作者：@cryptojiuyi
+
+> 2) Until this morning when it was surpassed by the new ClosedAI from institution, I was amazed. Why did everyone buy insider and rat ClosedAI? Do not purchase community takeover and fair ClosedAI?🤔
+> Just because they are institutions, a large number of KOLs purchase insider token and recommend them? So we should give up, so we give up "first is first", right💩? Why can't we fuck institutions like the GameStop incident？A few hours ago, I shouted on Twitter, calling on everyone to reach a consensus to fuck the “insider and rat ClosedAI”👎,take a try. I don't want to give up. At that time, the mc was only around 1.2m.📈
+> localhost:8080/cryptojiuyi/status/176…
+
+## 168. Mar 8, 2024 · 2:35 PM UTC · 1766110616065134757#m
+- 链接：https://twitter.com/cryptojiuyi/status/1766110616065134757#m
+- 作者：@cryptojiuyi
+
+> #ClosedAI  Retail Investors vs. Institutions
+> Just reached 9.8m, dip 1.2m→9.8m📈new ath🫡. I think this is just the beginning. We will reach 100M or higher in the future.
+> 1) To be honest, since I took over @ClosedAIToken, I haven't been as excited as I am today. Even though I was close to 120 times profit yesterday, I still haven't sold most of it.
+> Since Musk sued OpenAI 7 days ago, I builde a community in less than 80k and is my first attempt at this kind of thing. I really value this satirical narrative. I am Elon's loyal fan, and I have taken the first step in life. I must support him.
+>  
+> 0x571d9b73dc04ed88b4e273e048c8d4848f83b779
+> t.me/closedAIerc
+
+## 169. Mar 8, 2024 · 12:05 PM UTC · 1766072789021364411#m
+- 链接：https://twitter.com/cryptojiuyi/status/1766072789021364411#m
+- 作者：@cryptojiuyi
+
+> t.me/closedAIerc
+
+## 170. Mar 8, 2024 · 12:02 PM UTC · 1766071948898173295#m
+- 链接：https://twitter.com/cryptojiuyi/status/1766071948898173295#m
+- 作者：@cryptojiuyi
+
+> 散户正派 #ClosedAI 底部4x站稳直冲10m？机构老鼠仓盘即将归零？难道这次又要上演散户反杀资本的好戏？敬请期待🧐
+>  
+> 0x571d9b73dc04ed88b4e273e048c8d4848f83b779
+
+## 171. Mar 8, 2024 · 10:03 AM UTC · 1766042027245113628#m
+- 链接：https://twitter.com/cryptojiuyi/status/1766042027245113628#m
+- 作者：@cryptojiuyi
+
+> "New Projects Riding on Trends: Is the Community Coin A7's Dream Shattered?"
+>  
+> 1) Recap: On March 6th, Elon Musk jokingly suggested that OpenAI should change its name to ClosedAI, and he shared two images. One of them was created three months ago for a meme coin named #closedai, which saw a significant surge. dexscreener.com/ethereum/0xa…
+> Pay attention to the crucial detail: three months ago.
+
+## 172. Mar 8, 2024 · 10:12 AM UTC · 1766044321483227265#m
+- 链接：https://twitter.com/cryptojiuyi/status/1766044321483227265#m
+- 作者：@cryptojiuyi
+
+> #ClosedAI 叙事升级：ClosedAI社区散户  VS 机构，Elonmusk最强的嘲讽meme。老马跟sam的官司还在继续，ClosedAI的热度也会持续。
+> 机构是币圈人人喊打的存在，first is first，从这条推文发完底部2x可以看出，小散户们开始觉醒，不再去接机构的老鼠仓盘，不能让他们就这样窃取我们的劳动果实，共识在慢慢增强，人人喊打的老鼠将会被我们正牌 #ClosedAI 干掉。
+> Follow @ClosedAIToken and fuck @apeclosedai
+>  
+> 0x571d9b73dc04ed88b4e273e048c8d4848f83b779
+> localhost:8080/cryptojiuyi/status/176…
+
+## 173. Mar 8, 2024 · 7:01 AM UTC · 1765996332630839372#m
+- 链接：https://twitter.com/cryptojiuyi/status/1765996332630839372#m
+- 作者：@cryptojiuyi
+
+> #ClosedAI 从老马起诉那天，第一时间想到ClosedAI，立马在社群、Tg、推特上喊buy这个叙事，5天时间不到最高9.6m，推荐大约120x。本身我一个月也就喊那么几个看好的项目基本上都有倍数，比如putin大选、grok1.5升级，这也导致这波很多人都跟上了。
+>  
+> 我十分看好嘲讽OpenAI这个叙事(今天新盘也验证了我的判断，被机构看上了)，doge最开始也是嘲讽币，看到项目被dev放弃没有Tg时，我果断创建Tg，为了能让人找到组织立马花钱上了trending。
+>  
+> 当天以我喊的位置涨幅7倍结束，之后横盘维持在2-3X的位置。5天后下午老马回复OpenAI要他改名，晚上直接发推引爆市场，从200k直接拉到9.6m，引爆市场后看到中国区kol都在喊，我也努力在社群维护同时花钱上trending，上ave，很享受build的感觉，确实前面跟着的都也有不错收益。
+>  
+> 今早上新的ClosedAI的机构内幕盘直接令老的ClosedAI跌幅4X，吸血严重。我觉得我们作为市场的散户，更不应该去接机构的盘，都是老鼠仓，老的ClosedAI散户的力量如果能都联合起来也都不说好，干掉机构的例子也有很多，但是看社区能不能共识吧。
+>  
+> 我个人最高是100多x，第一时间跟上的晚一点点50x也是有的，我也很多没卖，也格局了但都是利润，这个项目从推荐➡️build也问心无愧。但愿都赚到了。
+>  
+> 还想build的可以到Tg找我拿mod，社区代币靠社区大家自己：
+> t.me/closedAIerc
+>  
+> 0x571d9b73dc04ed88b4e273e048c8d4848f83b779
+
+## 174. Mar 6, 2024 · 3:14 PM UTC · 1765395573405008378#m
+- 链接：https://twitter.com/cryptojiuyi/status/1765395573405008378#m
+- 作者：@cryptojiuyi
+
+> #ClosedAI 20x+
+> 兄弟们都跟上了吧，喊了好几次。从前几天马斯克起诉OpenAI开始，我全网最早开始喊，不到100k的位置，并且我创建tg群，同时自己花钱上trending。
+> 叙事很完美讲的很清楚，恭喜钻石手们。5天时间，老马也终于喊单了。
+>  
+> t.me/closedAIerc
+
+## 175. Mar 7, 2024 · 6:33 AM UTC · 1765626872174678157#m
+- 链接：https://twitter.com/cryptojiuyi/status/1765626872174678157#m
+- 作者：@cryptojiuyi
+
+> #grok15 3m了已经，就算是早上我喊的位置上车也都快翻倍了，我觉得才刚刚开始🤓
+>  
+> Grok1.5合约：
+> 0xa711bcc2b6f5c4fc3dfaccc2a01148765cbbab1c
+
+## 176. Mar 7, 2024 · 3:17 AM UTC · 1765577602990014727#m
+- 链接：https://twitter.com/cryptojiuyi/status/1765577602990014727#m
+- 作者：@cryptojiuyi
+
+> From Elon's perspective, I think everything he did was geared toward the launch of Grok1.5. Whether he mocked OpenAI👎 as "ClosedAI" as a former founder, or mocked other AI such as Google's Gemini, it proved that other AI were not perfect in his eyes. You know Grok can answer real-time questions, but AI like Chatgpt can't even do this?🤔
+> Elon uses SpaceX 🚀to fly and Tesla🚗 to get down. These are the most advanced technologies in the world.I don’t know what else Elon can’t do?
+> You excited about $Grok comprehensive improvements and new features? What do you think he can't do? He will break everyone's perception. He is a legend. I think the launch of his Grok 1.5 will beat other AIs. Let's wait and see!
+> So I still buy #Grok15 here, just believe in Elonmusk, he is a god!
+> localhost:8080/cryptojiuyi/status/176…
+
+## 177. Mar 6, 2024 · 7:28 PM UTC · 1765459528794144912#m
+- 链接：https://twitter.com/cryptojiuyi/status/1765459528794144912#m
+- 作者：@cryptojiuyi
+
+> 在我发完推后， grok1.5 现在已经新高了
+
+## 178. Mar 6, 2024 · 6:52 PM UTC · 1765450340491788342#m
+- 链接：https://twitter.com/cryptojiuyi/status/1765450340491788342#m
+- 作者：@cryptojiuyi
+
+> Grok1.5 我从500k推荐接近4x，现在依旧保持看好，K线反应出社区共识，还可以找位置接点，我发完被抬上去了就晚点等等。
+> 老马一直喷OpenAI为 #ClosedAI ，我觉得一是喷sam忘了初心，我觉得二是跟马上要推出来自己的grok1.5出来有关系，他同时也在喷谷歌的gemini和其他AI。Grok是可以回答实时的问题，而其他的AI都不能，从这点就能看出来Grok的不一般，老马是能上天能入地。喷其他AI都是在给Grok1.5做铺垫我觉得。
+> 老马在2月22号的时候说2周后发布Grok1.5，应该就是这几天了，这样确定性的事件你还不关注？忘了ClosedAI我在5天前喊你，今天100x达成，都赚到钱了吧。
+> $Grok 从底部涨了5倍马上重回100m市值，而 #Grok15 目前不到2m市值，空间很大，一旦老马宣布Grok1.5的升级，可能会公布像Sora视频生成的其他炸裂功能，席卷全球和币圈，Grok曾经的一天15条推喊，能在Grok1.5再呈现嘛？
+>  
+> Grok1.5合约：
+> 0xa711bcc2b6f5c4fc3dfaccc2a01148765cbbab1c
+
+## 179. Mar 6, 2024 · 4:43 PM UTC · 1765418015166988410#m
+- 链接：https://twitter.com/cryptojiuyi/status/1765418015166988410#m
+- 作者：@cryptojiuyi
+
+> #ClosedAI is already 6m and 10m are reserved. I have already recommended 80x🤑
+>  
+> 0x571d9b73dc04ed88b4e273e048c8d4848f83b779
+>  
+> t.me/jiuyicall
+
+## 180. Mar 5, 2024 · 5:20 PM UTC · 1765064848252215654#m
+- 链接：https://twitter.com/cryptojiuyi/status/1765064848252215654#m
+- 作者：@cryptojiuyi
+
+> 马斯克妈妈转推回复多次，CZ刚刚关注了
+> 0x312896bfec7f4a0a5ab117d9e51ac75147163b39
+
+## 181. Mar 4, 2024 · 7:28 AM UTC · 1764553453848904132#m
+- 链接：https://twitter.com/cryptojiuyi/status/1764553453848904132#m
+- 作者：@cryptojiuyi
+
+> $Grok 从底部涨了5倍马上重回100m市值，而 #Grok15 目前才1m市值，一旦老马宣布Grok1.5的升级，应该会公布像Sora等视频生成新功能，老马的水平升级了这么久，肯定有东西的很难不炸裂。
+> Grok1.5公布可能就这两天了，目前K线非常的稳，共识非常强大。
+> 两者相差近100倍的mc，相差10倍的话，grok1.5就是10m，空间很大确定性机会！
+>  
+> 0xa711bcc2b6f5c4fc3dfaccc2a01148765cbbab1c
+
+## 182. Mar 3, 2024 · 8:53 AM UTC · 1764212412989972543#m
+- 链接：https://twitter.com/cryptojiuyi/status/1764212412989972543#m
+- 作者：@cryptojiuyi
+
+> t.me/closedAIerc
+
+## 183. Mar 3, 2024 · 6:26 AM UTC · 1764175372395110776#m
+- 链接：https://twitter.com/cryptojiuyi/status/1764175372395110776#m
+- 作者：@cryptojiuyi
+
+> 继续推荐ClosedAI：
+> 1.像 OpenAI 这样的公司以非营利组织起步，获得税前捐款来开发技术，然后将知识产权转变为新的营利性业务，这是合法的？美国的法律体系已经变得如此支离破碎？凌晨老马回复。太嘲讽了，老马的“ClosedAI”讽刺起诉依然是非常性感的叙事。#ClosedAI  #OpenAI  #SORA
+> 2.从推荐的6x最高回调70%，目前k线稳定。刚刚中午狗爹又发推文嘲讽要求OpenAI改名，多次提及。老马本来就是一顿肚子火，潜在可能有转推评论，如果是叙事很容易爆发，建议继续埋伏。
+>  
+> 0x571d9b73dc04ed88b4e273e048c8d4848f83b779
+
+## 184. Mar 2, 2024 · 5:23 PM UTC · 1763978531477025059#m
+- 链接：https://twitter.com/cryptojiuyi/status/1763978531477025059#m
+- 作者：@cryptojiuyi
+
+> 普京 $putin 150k➡️2.8m
+
+## 185. Mar 1, 2024 · 2:47 PM UTC · 1763576706999435563#m
+- 链接：https://twitter.com/cryptojiuyi/status/1763576706999435563#m
+- 作者：@cryptojiuyi
+
+> The Elon Musk/OpenAI lawsuit summed up:
+
+## 186. Mar 1, 2024 · 2:37 PM UTC · 1763574229109440816#m
+- 链接：https://twitter.com/cryptojiuyi/status/1763574229109440816#m
+- 作者：@cryptojiuyi
+
+> 马斯克刚醒已开始回复起诉OpenAI相关话题，这是起床回复的第一条推文。
+> 最近一直嘲讽其他AI。晚点可能会发推提及“ClosedAI”，很容易fomo的嘲讽+诉讼概念。回调到位 #ClosedAI #OpenAI
+>  
+> 0x571d9b73dc04ed88b4e273e048c8d4848f83b779
+
+## 187. Mar 1, 2024 · 10:06 AM UTC · 1763506073456230864#m
+- 链接：https://twitter.com/cryptojiuyi/status/1763506073456230864#m
+- 作者：@cryptojiuyi
+
+> 老马曾经是OpenAI创始人，后因OpenAI违背初心将公司变为不再开源且盈利的被嘲讽为ClosedAI。
+> 从老马退出，到现在开始“ClosedAI”被起诉。我觉得这都是咎由自取。
+> “ClosedAI”是老马的起诉+嘲讽概念，我觉得很有意思，所以我买了并且保持看好。老马起床大概率提及很容易fomo起来，国内媒体也开始关注了。
+>  
+> 0x571d9b73dc04ed88b4e273e048c8d4848f83b779
+>  
+> 我建立了个Tg：
+> t.me/closedAIerc
+
+## 188. Mar 1, 2024 · 8:39 AM UTC · 1763484142749254061#m
+- 链接：https://twitter.com/cryptojiuyi/status/1763484142749254061#m
+- 作者：@cryptojiuyi
+
+> ClosedAI 喊完就立马4x，跟上应该都赚到钱了。🤓
+
+## 189. Mar 1, 2024 · 8:19 AM UTC · 1763479256938737808#m
+- 链接：https://twitter.com/cryptojiuyi/status/1763479256938737808#m
+- 作者：@cryptojiuyi
+
+> 马斯克起诉以违反合同为由起诉 OpenAI 及其 CEO Sam。马斯克在诉讼中表示，奥特曼和
+> OpenAI 违背了这家人工智能研究公司成立时达成的一项协议，即开发技术以造福人类而不是利润。
+> 推荐相关嘲讽概念ClosedAI：
+> 0x571d9b73dc04ed88b4e273e048c8d4848f83b779
+
+## 190. Feb 29, 2024 · 3:45 PM UTC · 1763228962610987487#m
+- 链接：https://twitter.com/cryptojiuyi/status/1763228962610987487#m
+- 作者：@cryptojiuyi
+
+> $putin 新高，恭喜还拿住抄底的兄弟们
+
+## 191. Feb 29, 2024 · 6:04 AM UTC · 1763082759055221190#m
+- 链接：https://twitter.com/cryptojiuyi/status/1763082759055221190#m
+- 作者：@cryptojiuyi
+
+> 马斯克刚刚推文说，“很快就可以选择点击Grok分析”。注意很快二字，结合推特页面的grok已经出来版本1，上周说2周后发布，全部都是在指grok1.5。下周就会发布，下次喊的就奶的就是grok1.5，1m市值，k线十分平稳。 $grok #grok15
+> 不到grok市值1/50之一，到1/10到1/5市值都是5-10x，空间很大建议继续埋伏。
+>  
+> 0xa711bcc2b6f5c4fc3dfaccc2a01148765cbbab1c
+
+## 192. Feb 22, 2024 · 3:02 PM UTC · 1760681569872961795#m
+- 链接：https://twitter.com/cryptojiuyi/status/1760681569872961795#m
+- 作者：@cryptojiuyi
+
+> grok1.5老马顶置了。冲tmd起飞
+>  
+> 0xa711bcc2b6f5c4fc3dfaccc2a01148765cbbab1c
+
+## 193. Feb 22, 2024 · 11:12 AM UTC · 1760623671985733642#m
+- 链接：https://twitter.com/cryptojiuyi/status/1760623671985733642#m
+- 作者：@cryptojiuyi
+
+> 🤖About grok1.5 one tweet: Elon musk, the CEO of Twitter, Elon best brother.
+>  
+> Once grok1.5 is launched, it will not only be promoted by Twitter related figures, but also by other people around the world. Innovation will definitely hit $Sora hard, and the popularity will explode beyond imagination. #grok15 $grok
+>  
+> 🫵This is your only chance to buy dip！
+>  
+> 0xa711bcc2b6f5c4fc3dfaccc2a01148765cbbab1c
+
+## 194. Feb 22, 2024 · 3:31 AM UTC · 1760507616550408238#m
+- 链接：https://twitter.com/cryptojiuyi/status/1760507616550408238#m
+- 作者：@cryptojiuyi
+
+> 老马发推了，两周后发表grok1.5。可以继续埋伏了，老马一句话一般狗都是直接几m。
+> 现在grok1.5不到2m，而且可能会一直奶，你想想一下，上次grok一天奶了15次。老马肯定意识到了OpenAI给他带来的压力，认识到了Grok1.5的更加重要性，才推迟了2周😎 $grok
+>  
+> 0xa711bcc2b6f5c4fc3dfaccc2a01148765cbbab1c
+
+## 195. Feb 20, 2024 · 7:48 AM UTC · 1759847548578333021#m
+- 链接：https://twitter.com/cryptojiuyi/status/1759847548578333021#m
+- 作者：@cryptojiuyi
+
+> "The release of Grok 1.5 is hopefully only a few weeks away. It will come with a button 'Grok Analysis' that can sum up the whole thread & replies. It will also help people in creating posts"
+>  
+> — Elon Musk
+
+## 196. Feb 20, 2024 · 3:23 AM UTC · 1759780677464265138#m
+- 链接：https://twitter.com/cryptojiuyi/status/1759780677464265138#m
+- 作者：@cryptojiuyi
+
+> 马斯克这会在推特space里说grok1.5 is coming in few weeks away！ $grok
+>  
+> space链接：
+> localhost:8080/mysteriouskat/status/1…
+>  
+> grok1.5合约:
+> 0xa711bcc2b6f5c4fc3dfaccc2a01148765cbbab1c
+
+## 197. Feb 20, 2024 · 3:10 AM UTC · 1759777444351934734#m
+- 链接：https://twitter.com/cryptojiuyi/status/1759777444351934734#m
+- 作者：@cryptojiuyi
+
+> Grok v1.5 going live in few weeks. It might come with "Grok Analysis" feature for posts.
+
+## 198. Feb 18, 2024 · 2:53 PM UTC · 1759229549756428435#m
+- 链接：https://twitter.com/cryptojiuyi/status/1759229549756428435#m
+- 作者：@cryptojiuyi
+
+> DGX-1是OpenAI的起源， $Sora 和Chatgpt的前身，是8年前英伟达捐赠给OpenAI的第一台AI超级计算机，老马曾在推文上表示感谢！MEME味十足。
+> 老马曾经是OpenAI创始人之一，后面退出，现在一直嘲讽OpenAI，为什么？
+> 如老马铁粉 @cb_doge (已被sam拉黑)所说:
+> “Sam是一个把一个非盈利的开源公司变成盈利的闭源公司的家伙”，被老马戏谑为"ClosedAI"。
+>  
+> 老马是meme之王，公开嘲讽meme味太足了。#DGX1 是OpenAI的鼻祖，曾是马斯克的第一台超级AI计算机，作为AI始祖加持马斯克，讽刺很好玩，没有理由不好看，1M不到严重低估，sora都20m了，这可是Chatgpt的前身啊！
+>  
+> 0x2e9493174421f1d2673d62a36736b7f7f3920966
+
+## 199. Feb 18, 2024 · 11:53 AM UTC · 1759184319904727370#m
+- 链接：https://twitter.com/cryptojiuyi/status/1759184319904727370#m
+- 作者：@cryptojiuyi
+
+> 4x
+> localhost:8080/cryptojiuyi/status/175…
+
+## 200. Feb 17, 2024 · 8:55 AM UTC · 1758777162969285059#m
+- 链接：https://twitter.com/cryptojiuyi/status/1758777162969285059#m
+- 作者：@cryptojiuyi
+
+> grok1.5从推荐最高翻倍，目前回调充分回调，还是一句话埋伏，等老马AI叙事没问题的，昨天还嘲讽openAi创始人sam，老马当时发布grok的时候一天是15条推文提及。 #grok15 $grok
+>  
+> 0xa711bcc2b6f5c4fc3dfaccc2a01148765cbbab1c
+>  
+> grok1.5群里都是老外很活跃，国人少。今天刚成立中文社区，已经买了的可以进：
+> t.me/Grok15erc20Chinese

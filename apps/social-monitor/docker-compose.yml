@@ -1,0 +1,139 @@
+version: '3.8'
+
+# 使用根目录统一环境变量文件
+# 请确保根目录有 .env 文件
+
+services:
+  # Twitter监控服务 (Nitter)
+  nitter:
+    image: zedeus/nitter:latest
+    container_name: social-monitor-nitter
+    ports:
+      - "${NITTER_PORT:-3001}:8080"
+    volumes:
+      - ./services/nitter/config/nitter.conf:/src/nitter.conf:ro
+      - ./services/nitter/sessions.jsonl:/src/sessions.jsonl:ro
+      - ./data/nitter:/data
+    depends_on:
+      - redis
+    restart: unless-stopped
+    env_file:
+      - ../../.env  # 使用根目录环境变量
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    environment:
+      - NITTER_CONFIG_FILE=/src/nitter.conf
+    networks:
+      - social-monitor-net
+
+  # Telegram监控服务
+  telegram-monitor:
+    build:
+      context: ./services/telegram
+      dockerfile: Dockerfile
+    container_name: social-monitor-telegram
+    env_file:
+      - ../../.env  # 使用根目录环境变量
+    environment:
+      - REDIS_URL=redis://redis:6379
+      - NODE_ENV=${NODE_ENV:-production}
+    depends_on:
+      - redis
+    restart: unless-stopped
+    volumes:
+      - ./data/telegram:/app/data
+      - ./logs:/app/logs
+    networks:
+      - social-monitor-net
+
+  # Discord监控服务
+  discord-monitor:
+    build:
+      context: ./services/discord
+      dockerfile: Dockerfile
+    container_name: social-monitor-discord
+    env_file:
+      - ../../.env  # 使用根目录环境变量
+    environment:
+      - REDIS_URL=redis://redis:6379
+      - NODE_ENV=${NODE_ENV:-production}
+    depends_on:
+      - redis
+    restart: unless-stopped
+    volumes:
+      - ./data/discord:/app/data
+      - ./logs:/app/logs
+    networks:
+      - social-monitor-net
+
+  # 数据聚合服务
+  aggregator:
+    build:
+      context: ./services/aggregator
+      dockerfile: Dockerfile
+    container_name: social-monitor-aggregator
+    ports:
+      - "${SOCIAL_MONITOR_PORT:-3002}:3002"
+    env_file:
+      - ../../.env  # 使用根目录环境变量
+    environment:
+      - REDIS_URL=redis://redis:6379
+      - NITTER_URL=http://nitter:8080
+      - NODE_ENV=${NODE_ENV:-production}
+    depends_on:
+      - redis
+      - nitter
+      - telegram-monitor
+      - discord-monitor
+    restart: unless-stopped
+    volumes:
+      - ./data/aggregator:/app/data
+      - ./logs:/app/logs
+    networks:
+      - social-monitor-net
+
+  # Redis缓存服务
+  redis:
+    image: redis:7-alpine
+    container_name: social-monitor-redis
+    command: redis-server --save 60 1 --loglevel warning --maxmemory 256mb --maxmemory-policy allkeys-lru
+    volumes:
+      - redis-data:/data
+      - ./logs/redis:/var/log/redis
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+    networks:
+      - social-monitor-net
+
+  # 监控面板 (可选)
+  monitor-dashboard:
+    build:
+      context: ./
+      dockerfile: Dockerfile.dashboard
+    container_name: social-monitor-dashboard
+    ports:
+      - "3003:3003"
+    environment:
+      - AGGREGATOR_URL=http://aggregator:3002
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - aggregator
+    restart: unless-stopped
+    networks:
+      - social-monitor-net
+
+volumes:
+  redis-data:
+    driver: local
+
+networks:
+  social-monitor-net:
+    driver: bridge

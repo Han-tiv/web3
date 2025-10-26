@@ -1,0 +1,1713 @@
+# Laolu🧙‍♂️ (@Luyaoyuan1)
+
+- 抓取时间：2025-10-20T23:21:27.853Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：28872 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：11
+- 抓取尝试：1
+- Cursor 链：10 条
+- 账号统计：粉丝 48704，关注 4811，推文 2626，点赞 8312
+- 所在地：Crypto
+- 站外链接：https://t.co/Zap1kYCZvA
+- Twitter：https://twitter.com/Luyaoyuan1
+- 头像：https://pbs.twimg.com/profile_images/1896641724249993216/DBEZZmny_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1202404680992575488/1758612248
+- 认证：Blue Verified
+
+> 账号简介：
+> No investment advice
+> OG Moni Wizard @getmoni_io
+> 想想笨蛋王会怎么做？$PALU
+
+---
+
+## 1. Oct 20, 2025 · 3:53 PM UTC · 1980301280729063494#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1980301280729063494#m
+- 作者：@Luyaoyuan1
+
+> Study $CARDS.
+
+## 2. Oct 20, 2025 · 1:30 PM UTC · 1980265394691813563#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1980265394691813563#m
+- 作者：@Luyaoyuan1
+
+> 盘前交易持仓量间接表示项目热度，可以判断是否值得接盘，目前来看，MON 和 MET 都很低，都低于 10M 持仓，盘前交易不充分，价格没有什么参考意义。
+
+## 3. Oct 20, 2025 · 10:41 AM UTC · 1980222788280672269#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1980222788280672269#m
+- 作者：@Luyaoyuan1
+
+> 有意思，前阵子把 SOON Squad NFT 重新上架 20S，今天一看都被人扫走了。
+>  
+> 12800*0.93/193=61 SOL， 相当于 3 折买走锁仓的币，他们自己去对冲套剩余的收益。
+
+## 4. Oct 20, 2025 · 10:06 AM UTC · 1980213981718708524#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1980213981718708524#m
+- 作者：@Luyaoyuan1
+
+> 更在乎谁能现货，得集齐 Alpha + Aster 的前置条件先...
+
+## 5. Oct 20, 2025 · 9:11 AM UTC · 1980200212133228943#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1980200212133228943#m
+- 作者：@Luyaoyuan1
+
+> 按 Alpha 顺序，该轮到了吧？😇
+
+## 6. Oct 19, 2025 · 5:21 AM UTC · 1979779884349292674#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1979779884349292674#m
+- 作者：@Luyaoyuan1
+
+> Brevis 好不好不清楚，上一个类似这样集邮的 ZK 项目是 Scroll，类似再创业的 “华人之光” AltLayer，买币格局不可取，二级的甜口可能只有一口。
+
+## 7. Oct 19, 2025 · 4:01 AM UTC · 1979759802722251030#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1979759802722251030#m
+- 作者：@Luyaoyuan1
+
+> 好文，能够想象以 Star 的性格， X layer 的 perp 也玩不赢 Aster 的，更别谈一堆黑钱需求的 Hype 。
+>  
+> 至于其他的 Perp 可能都只是配角，上升通道封死。
+
+## 8. Oct 19, 2025 · 1:44 AM UTC · 1979725260053500115#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1979725260053500115#m
+- 作者：@Luyaoyuan1
+
+> 上这种还真不如上 BSC 这波的 Meme 的合约，现在完全是为了完成任务而上合约。
+
+## 9. Oct 18, 2025 · 2:46 PM UTC · 1979559780336488846#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1979559780336488846#m
+- 作者：@Luyaoyuan1
+
+> 不是太担心 $Cards ，它会吸引基本面研究的玩家和机构，只是我们来早了，等哪天涨回去就都懂了。
+
+## 10. Oct 18, 2025 · 7:03 AM UTC · 1979443264228057532#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1979443264228057532#m
+- 作者：@Luyaoyuan1
+
+> 所以 $Palu 比哈基米差在哪里，买了两个，同时感受套牢和卖飞的痛苦。
+>  
+> 救！
+
+## 11. Oct 17, 2025 · 5:56 PM UTC · 1979245170366517484#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1979245170366517484#m
+- 作者：@Luyaoyuan1
+
+> 四月给你推过 Railgun，几乎是今年的底部，前阵子隐私币炒作的时候最高 4 刀，现在仍有 2.5 刀，我卖飞了但估计你们  @DujunX 拿得住。
+>  
+> 现在是十一月，再次推荐一个价格到底部但赛道很有意思的项目 $Cards ，@Collector_Crypt ，FDV 210M，MC 22M，协议年收入 47M。
+>  
+> 赛道研究都可以看他竞争对手写的，其他同类目前还没代币。
+>  
+> localhost:8080/phygitals/status/19792…
+>  
+> 买不买都没关系，也不介意别人成本比我低，未来被市场 fomo 挖掘只需要等一个契机。
+
+## 12. Oct 17, 2025 · 11:21 AM UTC · 1979145674324349004#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1979145674324349004#m
+- 作者：@Luyaoyuan1
+
+> 第一期挖了 3% 本金，还是中途进去的，第一天就进去的估计更多...
+>  
+> 必须是神矿!
+>  
+> 就是大盘和链上看好的币有点难受...
+
+## 13. Oct 17, 2025 · 4:13 AM UTC · 1979038054229660049#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1979038054229660049#m
+- 作者：@Luyaoyuan1
+
+> 不知道这个形象是谁设计的，定位是贯穿多深...
+
+## 14. Oct 17, 2025 · 2:47 AM UTC · 1979016417711395217#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1979016417711395217#m
+- 作者：@Luyaoyuan1
+
+> BPN 是 Bn 的 Plasma，单独拎出来做 Payment 链应对未来的稳定币市场和类似 Xlayer 的链？
+>  
+> OKX 上线 Aster，Aster 还未上线 Upbit / Coinbase，Robinhood 上完已经消除这两的阻碍了。
+>  
+> 本来做着 哈基米/Palu 1.1-0.9的 Limit 手动网格，社区情绪波动太大，现在完全跑出区间了，等下一次纠缠。
+>  
+> $Palu 和人生的 Alpha钱包持有量都超过 50%,说明持有者大部分都是 Alpha 钱包托管用户，其他Meme大概在 15-30% 。
+>  
+> 英文代币本来就没有什么阻碍，哪怕是合约层面，选 Palu 的行为是不是太保守了。
+
+## 15. Oct 16, 2025 · 1:42 PM UTC · 1978818923890958817#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978818923890958817#m
+- 作者：@Luyaoyuan1
+
+> Cool
+
+## 16. Oct 16, 2025 · 12:31 PM UTC · 1978801046039458027#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978801046039458027#m
+- 作者：@Luyaoyuan1
+
+> 之前逾期关闭了 NFT 释放 Token 的领取通道，11月23日前可以领取了，间接帮这部分人拿住了。
+>  
+> 挺狠的，一点没受市场影响的 $SOON ，再坚持一下!
+
+## 17. Oct 16, 2025 · 12:14 PM UTC · 1978796796307775806#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978796796307775806#m
+- 作者：@Luyaoyuan1
+
+> 可以多增加一些 Mon 的空投，估计是阳光普照，大户也没优待hhh，注意仅用于绑定签名增加空投，别用于其他用途，毕竟不是安全的钱包。
+
+## 18. Oct 16, 2025 · 5:34 AM UTC · 1978696110739964237#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978696110739964237#m
+- 作者：@Luyaoyuan1
+
+> bn 拖着不上这轮的 Meme 现货可能也真怕上次 broccoli、mubarak 那次投票上币之后一路往下的困境，既然困境无法避免但可以减弱公告出来与现货交易存在时间差，导致 fomo 短时间推高再出货影响。
+>  
+> Alpha 充币排行上币，虽然也是老套路，以充进 Alpha 钱包的比例做参考指标， 即提高了 BN Alpha 钱包使用率，又随着充币进度拉平了平均成本。只选定最近范围的决赛圈选手，不添加之后新上的 Alpha Meme。能避免人为制造的虚假数据，计算制造的数据 ，bn一拉 Alpha 数据也都清清楚楚了。
+>  
+> 没有细想，可能还能优化。
+>  
+> Palu 哈基米 加油！
+
+## 19. Oct 16, 2025 · 1:55 AM UTC · 1978641031441924438#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978641031441924438#m
+- 作者：@Luyaoyuan1
+
+> Aptos 还是那个 Aptos，换帅之后依旧难逃改 Logo 的宿命，圆角变直角。
+>  
+> LAUNCHCOIN 换币 BELIEVE，醉翁之意不在酒，总量从 1B 代币增发到 1.33B 代币，非要说增加了 25%，数学体育老师教的？明显市场不买单，增发意味着卖出。
+>  
+> Jupiter 提案销毁回购的 1.2亿代币，再次证明“回购但不销毁”的行为就是扯犊子。
+>  
+> MetaDAO 创始人发了新的提案，还是想卖一些币，甚至增发卖币，OTC 卖了的币才是团队自己的，每天最多卖 0.4M 代币，最高总额2M，市场也不买单，冷淡下跌，新的 ICO 估计也难搞，大家都在等最后几个小时。
+>  
+> Perena 应该是最愚蠢的稳定币协议之一，“稳定”“去中心化”“规模”三要素一个没占，既不稳也不去中心，规模也做不起来。
+>  
+> Neutrl 不到半小时募完 50M，不是很看好，预计收益可能30-40 APR，但风险是 100%，遇到一次 TIA 就结束了，规模做不大，也是类对冲基金包装成稳定币。
+>  
+> MegaETH 公募轮，要玩要玩，竞价拍卖没有什么意义大家都是顶格出价，除非搞个无上限大家会小心出价。
+>  
+> 哈基米与 Palu 已进入量子纠缠态，价格波函数完全重叠，上一个吧。
+>  
+> 25/10/16
+
+## 20. Oct 15, 2025 · 4:49 PM UTC · 1978503483507486808#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978503483507486808#m
+- 作者：@Luyaoyuan1
+
+> 怎么了？BNB 交了 Coinbase 的上币费了？
+
+## 21. Oct 15, 2025 · 4:18 PM UTC · 1978495696111272330#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978495696111272330#m
+- 作者：@Luyaoyuan1
+
+> 市场上怎么还没出现只有 92% 流通，8% 永久预留，用于Bn 宣布上线的发射台？
+>  
+> 92% 公平发射
+> 1% alpha 空投
+> 3% 未来活动
+> 1% 市场运营
+> 3% BNB HODLer
+>  
+> 上述只是说如果啊，什么 Meme Rush 币安独家我看一点也不独家，Alpha 也该区分一下 普通 Alpha 项目、常驻刷分项目、Alpha Meme 项目，Giggle 之后是另一个 BSC 的时代了。
+>  
+> 产品小技巧：如果排序/筛选功能只是为了完成功能，不考虑数据是否可读，还不如不做...
+>  
+> 自定义筛选最大筛选为24h，而且只有 min，选最大数据也都是空的...
+>  
+> 很多做行情数据的，涨跌幅排序按两次就知道...只有功能，但数据不可读，需要增加筛选过滤。
+
+## 22. Oct 15, 2025 · 4:00 PM UTC · 1978491211670262014#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978491211670262014#m
+- 作者：@Luyaoyuan1
+
+> 这轮一定要远离小TVL Defi、伪创新 Defi，别做小白鼠了，尤其是市场很多组织有亏空，到时候出现奇奇怪怪的协议存钱、没听说过的 IDO、LBP 什么的一定远离，不仅仅是抓大放小！是让自己更安全。
+
+## 23. Oct 15, 2025 · 1:39 PM UTC · 1978455722581950873#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978455722581950873#m
+- 作者：@Luyaoyuan1
+
+> MagaETH.
+
+## 24. Oct 15, 2025 · 10:58 AM UTC · 1978415175330926721#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978415175330926721#m
+- 作者：@Luyaoyuan1
+
+> kaito 有没有被夹在中间很难受，是我会退款，退了额度补偿用户，反其道而行上 ok cb 也不是不行。
+
+## 25. Oct 15, 2025 · 9:14 AM UTC · 1978388952471253164#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978388952471253164#m
+- 作者：@Luyaoyuan1
+
+> 重点，要考。
+
+## 26. Oct 15, 2025 · 7:14 AM UTC · 1978358897908891986#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978358897908891986#m
+- 作者：@Luyaoyuan1
+
+> 不要相信 AC
+> 不要相信 AC
+> 不要相信 AC
+>  
+> 🕵️到时候挖这条。
+
+## 27. Oct 14, 2025 · 4:03 PM UTC · 1978129653832237417#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978129653832237417#m
+- 作者：@Luyaoyuan1
+
+> 两个都有一点，不存在竞争，别刷票啊...希望都好，也希望其他高于 100m 的红花能上，押注绿叶，低于 50 m 的是我的舒适区。
+
+## 28. Oct 14, 2025 · 2:44 PM UTC · 1978109603553407251#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978109603553407251#m
+- 作者：@Luyaoyuan1
+
+> 如果⤴️？
+
+## 29. Oct 14, 2025 · 2:13 PM UTC · 1978101890299662459#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978101890299662459#m
+- 作者：@Luyaoyuan1
+
+> 免费上币 只是营销口号，延迟变现策略，别当真，现实世界里也有：
+> “免费拍照，冲印收费”
+> “充卡后首次消费免单”
+> “免费体验一节课”
+> “免费下载，道具收费”
+> “免费观看，去广告收费”
+> ...
+
+## 30. Oct 14, 2025 · 1:52 PM UTC · 1978096472106410107#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1978096472106410107#m
+- 作者：@Luyaoyuan1
+
+> 不是为 bn 说话，这创始人不太成熟，没有原则，签了 NDA 当没事人一样公开说条款。项目大概率 G 了。市场现状就是这样，你不接受 Offer 可以拒绝，去 Aero 上线，去 Coinbase 上线，看看都啥样子... Base 相关的乱上，上完就是 -90%，有啥用呢... TGE 前还在那诈交易所说很多交易所找他们聊了，交易所看过多少这种小把戏...
+>  
+> YB 不知道 bn 要这么多吗？该吃螃蟹就吃了，要不然他们自己在 Curve 做 TGE 试试，投资人都要骂死他们，哪里吹得出 1B 的泡沫，最多 40M，但真的解锁后可能低于100 M。
+>  
+> Coinbase Listing 早就没韭菜买盘了，甚至没交易量，当然 Bn 也快干净了，看最近的 新币或者老币上线之后走势。
+>  
+> Kaito Launchpad 类似的平台与 Bn 最近更新的 IEO 的定位冲突了，一些不需要募那么多的项目，质量又能上 Alpha 的项目也肯定选 Bn 那边做代币分发了，所以接下来这类平台难跑出好项目了。
+>  
+> 项目方视角和用户视角是不一样的，项目方没 bn Runway 会大幅缩短。用户哪管你是什么项目，能涨吗？交易所视角，多一个项目不多，少一个项目不少。
+
+## 31. Oct 14, 2025 · 4:27 AM UTC · 1977954429442879771#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1977954429442879771#m
+- 作者：@Luyaoyuan1
+
+> 和其他两个市值差 3-4x，一直上 Alpha 也不是个办法，大家对新上 Alpha 并不是很买单。撒币补贴活动还没落地，接下来只能补几个合约了，合约补完再缩圈看哪些吃鸡。
+>  
+> $PALU
+
+## 32. Oct 13, 2025 · 5:08 PM UTC · 1977783427417113015#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1977783427417113015#m
+- 作者：@Luyaoyuan1
+
+> 友情提示，真要上的话版权并不是阻碍，Sol 那会的 Pnut、ACT，两个创始人争取了那么久的版权问题... bn 理都不理直接换 Logo 完了。
+>  
+> 恭喜今天又有两个进入现货决赛圈，得想 Rush 里还有能不能选进决赛圈的，决赛圈里的选手思考能走多远...
+>  
+> 为了面子，自恋币可能就止步 Alpha 了，真正能够冲击现货，上了还不会被抛售的可能是哪些？
+>  
+> 我不懂山东礼仪。
+
+## 33. Oct 13, 2025 · 2:19 PM UTC · 1977740956339146995#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1977740956339146995#m
+- 作者：@Luyaoyuan1
+
+> 定向补贴，链上继续，不过先来几个现货打打样啊。
+
+## 34. Oct 13, 2025 · 1:44 PM UTC · 1977732123491811431#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1977732123491811431#m
+- 作者：@Luyaoyuan1
+
+> 高手真的都是共振，我相信车头没有任何交流可以同时建设一个Meme，事后私聊大部分看法都是相同的。
+>  
+> 昨天平完小市值之后，等的跌没等到，只能继续等。
+>  
+> CEX 空仓+只剩链上的押注，安全感满满。
+>  
+> 一个是 BSC 的 $PALU ，我可以等，熬得住，做绿叶发光发绿!
+>  
+> 另一个是 Solana 的 $Cards ，他的模式其实是禁忌的，国内必踩红线的，也不认为 FUD 可以阻碍它的发展，卡牌做资金池真挺好的，总说 USDT 潮汕什么的，TCG 卡对日本黑帮也是一样，几年前有新闻报道过类似的数据。
+>  
+> "《週刊現代》訪問一名犯罪集團前首腦，他透露組織曾經利用 Pokémon Card 作為運送贓款到海外的工具。"
+
+## 35. Oct 13, 2025 · 9:27 AM UTC · 1977667543432302929#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1977667543432302929#m
+- 作者：@Luyaoyuan1
+
+> 在币安 HODLer 空投中推出 Euler (EUL)！通过回溯的 BNB 简单赚取订阅赚取 EUL
+>  
+> 审美没问题，很明显的应用币风格，策略也没问题，就是消磨了耐心，当时 Call 的时候应该是 9，挺难拿住的。
+>  
+> 很多朋友因这次插针元气大伤，很难... 真帮不上太多忙，我也没有快速沟通通道，只能建议和客服沟通，需要时间。
+
+## 36. Oct 13, 2025 · 9:04 AM UTC · 1977661834846142560#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1977661834846142560#m
+- 作者：@Luyaoyuan1
+
+> 难得见社区抵制 OTC 成功，当年 SSV 做 OTC 谁来申请都给，太缺钱了。
+>  
+> MetaDAO 的社区很硬气，不过不锁仓的打折 OTC 确实很难给，道德锁也说不清楚。
+>  
+> 知行合一: 做了多少就知道多少，也是一种知行合一。
+>  
+> 言而有信:这是大部分人追求的信用标准，KOL /车头得做到更高级的“不言而信”，什么话都没说，别人就相信 ta ，难能可贵。
+
+## 37. Oct 13, 2025 · 8:49 AM UTC · 1977657980914205014#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1977657980914205014#m
+- 作者：@Luyaoyuan1
+
+> 有趣。
+
+## 38. Oct 12, 2025 · 6:12 PM UTC · 1977437228579356940#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1977437228579356940#m
+- 作者：@Luyaoyuan1
+
+> 四大天王里，最低调，但是爆发力最强的其实是 $PALU
+>  
+> 还记得吗？当初palu 是第二个上阿尔法的，也是四大天王里的老二。
+>  
+> 而且是市值仅仅3M，就直接上Alpha，这背后团队的实力不言而喻了。
+
+## 39. Oct 12, 2025 · 5:54 PM UTC · 1977432772936687736#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1977432772936687736#m
+- 作者：@Luyaoyuan1
+
+> 没上 Alpha 的暂时只能算猩猩兽，很强但还不是王。
+
+## 40. Oct 12, 2025 · 5:51 PM UTC · 1977431886130716979#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1977431886130716979#m
+- 作者：@Luyaoyuan1
+
+> 帮大家回忆当时的绿叶
+
+## 41. Oct 12, 2025 · 5:46 PM UTC · 1977430794361868720#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1977430794361868720#m
+- 作者：@Luyaoyuan1
+
+> BSC 四大天王里再弱的也是王啊，选了最有缘的，代币名里有 Lu 的 $PALU ，BNB 拉盘也是为了 BSC 链上这些币。
+>  
+> 时间上等忙完客诉怎么也得上线一两个了，不知道哪些是被选中的孩子，但我记得去年 Neiro 上的时候是同时上了三个，大家都不太记得另外两个，但涨幅并不低，可以成为绿叶的那个也值了啊，咱不争龙一只当绿叶。🥳
+
+## 42. Oct 12, 2025 · 3:48 PM UTC · 1977400984306655579#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1977400984306655579#m
+- 作者：@Luyaoyuan1
+
+> 逐渐减了，整体 8%，和大盘差不多...
+
+## 43. Oct 12, 2025 · 3:47 PM UTC · 1977400701375414316#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1977400701375414316#m
+- 作者：@Luyaoyuan1
+
+> 部分机会只能和值得分享的人分享...😅 其实结局谁也不知道啊...
+
+## 44. Oct 11, 2025 · 5:09 PM UTC · 1977059033271140655#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1977059033271140655#m
+- 作者：@Luyaoyuan1
+
+> Prove 很明显有点主动MM的痕迹，率先回到下跌前的位置，隐私赛道正热，新项目脑袋还灵光，整体体验还是不错的，再接再厉。
+>  
+> 下跌到现在这段时间是筛选出有主动 MM 的项目的好时机，做好记录在短期内可以选择的代币清单。
+
+## 45. Oct 11, 2025 · 4:59 PM UTC · 1977056589967507550#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1977056589967507550#m
+- 作者：@Luyaoyuan1
+
+> 已布局... 10个 10-30M 的，短期不可能被下架的 Perp。
+
+## 46. Oct 11, 2025 · 1:11 PM UTC · 1976999202644521318#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1976999202644521318#m
+- 作者：@Luyaoyuan1
+
+> 这一点还是佩服 BN 格局，赔付一定是个天文数字，但还是会让大家相对满意。
+
+## 47. Oct 11, 2025 · 8:22 AM UTC · 1976926434389303682#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1976926434389303682#m
+- 作者：@Luyaoyuan1
+
+> 不建议硬编码 USDE =1，想过很多种方式，除了某个 CEX 跑路或钱包权限泄露，其他的原因导致 Ethena 亏损的概率很小，USDE 给足够时间终究会回锚，稳定币并不需要每时每刻等于 1，USDC 也是有 0.87 的时刻的，这些都应该让市场自己消化。
+>  
+> UST 硬编码 1 的结局就在眼前，宁愿赔穿仓也不要留下巨大的机制漏洞，足以连带掏空一个交易所的漏洞。
+
+## 48. Oct 11, 2025 · 7:29 AM UTC · 1976913079964418498#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1976913079964418498#m
+- 作者：@Luyaoyuan1
+
+> 共勉!
+
+## 49. Oct 11, 2025 · 4:55 AM UTC · 1976874210892169285#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1976874210892169285#m
+- 作者：@Luyaoyuan1
+
+> 再次深刻领悟危机就是机会，知道是动物园行情没有一点大币仓位，但防守得还是不够，链上还是忍不住诱惑吃了点教训，但我相信时间和我的眼光。
+>  
+> 恐慌的凌晨做得还不够好，差点没赶上清算潮，为带带、Vida、本初等顶流交易神致谢，一场感同身受的体会，同时也为这次受影响的朋友打气，活下来会有奇迹的！🫡
+
+## 50. Oct 10, 2025 · 11:31 PM UTC · 1976792632451121260#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1976792632451121260#m
+- 作者：@Luyaoyuan1
+
+> 真正的交易员!!
+
+## 51. Oct 10, 2025 · 10:49 PM UTC · 1976782077896147379#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1976782077896147379#m
+- 作者：@Luyaoyuan1
+
+> 活着!!
+
+## 52. Oct 10, 2025 · 1:58 PM UTC · 1976648541822181446#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1976648541822181446#m
+- 作者：@Luyaoyuan1
+
+> Yield Basis 在 Legion 你们打 1.95亿美元，超募98倍，可以理解。
+>  
+> Umbra 作为 Arcium 在 Metadao上弄的子项目，也能1.5亿美金，无法理解了。
+>  
+> YB 申请分到了 2.5k 低保，可以不去 BN 卷了。
+>  
+> Umbra 就是把5年前的 @UmbraCash 的产品搬到Solana，吓得别人都澄清和这个 Umbra 无关联，其实这类公募轮项目是做什么的无所谓... 大家都当理财轮打，喝个汤吧...
+
+## 53. Oct 10, 2025 · 12:47 PM UTC · 1976630572002025956#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1976630572002025956#m
+- 作者：@Luyaoyuan1
+
+> EUL 上了 Alpha，很无奈的路径，哪怕能上现货也没什么涨幅预期，10-15%?
+> 是该放弃押注链上-> 现货的路径了，目前押注新赛道相关的协议比较多，但轮到新赛道可能需要时间。
+
+## 54. Oct 10, 2025 · 7:37 AM UTC · 1976552665556648371#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1976552665556648371#m
+- 作者：@Luyaoyuan1
+
+> Monad 更像一个紫色的 Bera，1B以下的一级可以接受，10B 的二级无能为力。
+
+## 55. Oct 10, 2025 · 6:50 AM UTC · 1976540809785995505#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1976540809785995505#m
+- 作者：@Luyaoyuan1
+
+> 请选择你的英雄。
+
+## 56. Oct 9, 2025 · 4:47 PM UTC · 1976328714121331193#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1976328714121331193#m
+- 作者：@Luyaoyuan1
+
+> 很有趣的举例，宝可梦的可验证性，了解 EigenLayer 现在正在做的事。
+>  
+> 解决现实世界中的“百变怪问题”。正如您不必担心卖家将百变怪冒充稀有宝可梦一样，EigenCloud 确保您不必盲目相信 AI 会按照其预期行事。
+
+## 57. Oct 9, 2025 · 4:41 PM UTC · 1976327045127995478#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1976327045127995478#m
+- 作者：@Luyaoyuan1
+
+> 整个 CEX 就隐私板块撑着，有点神奇，链上一年前的 Rail 又被人翻出来说 V神 的挚爱，可惜又早了太多，不妨看看新周期的新隐私相关项目。
+>  
+> Nethermind 安全形式化验证团队与 Succinct Labs 携手合作，在 Lean 证明助手中正式验证了 SP1 Hypercube RISC-V zkVM 所有核心 RV-64 芯片的正确性。
+
+## 58. Oct 9, 2025 · 2:27 PM UTC · 1976293401781039381#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1976293401781039381#m
+- 作者：@Luyaoyuan1
+
+> Plasma 绝对是 X Layer 的模板链的样子，看了 X Layer 在 Aave 上的提案内容，没有涉及到激励的部分，只是让协议迁移过去，恐怕会变成Aave 在 Aptos 上的情况，有了协议但没使用率。
+
+## 59. Oct 9, 2025 · 5:26 AM UTC · 1976157313011741152#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1976157313011741152#m
+- 作者：@Luyaoyuan1
+
+> 合并本身不容易，还给你玩拆分？想得美...
+>  
+> 那别的代币都学这套一个壳拆成三个壳，还要不要上新币了。
+
+## 60. Oct 9, 2025 · 4:21 AM UTC · 1976140840222458140#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1976140840222458140#m
+- 作者：@Luyaoyuan1
+
+> 热点轮流转，随着 ZEC 带动隐私板块，被关注者评论提醒 $Rail 一年时间最低点四倍了，个人早在 1 附近就卖飞了，确实押注的时间太长了，只剩下祝福。
+>  
+> 几个交易所没必要和 Bn 争得脸红脖子粗，0.5 的时候推荐这个项目给 bg 家印，没下文非常理解，没有listing的权限。bybit OKX gate 的研究院看不懂它？还是单纯看着 Bn 、CB 没上线就不敢上线了，永远做跟随上币策略的交易所真没理由让人去上面交易。
+>  
+> BN 做 Meme 效应制造需求让场外的机构能成倍的买走 BNB，推动市值排名，其他交易所确实没这个跟进需求。
+>  
+> 那宝卡梦 TCG RWA 相关的协议没在其他交易所视野吗？为什么不差异化上币去支持一下呢。大量圈外用户和成熟且具规模的市场，Gate 都能写出研报，也没见其他交易所敢吃螃蟹。再也不是铭文的时候了，OKX 用户可以比其他交易所用户先买到创新资产，现在既没上币效应又没创新资产，X Layer 的布局很棒但太远了，比这隐私板块发热的间隔时间还远。
+
+## 61. Oct 7, 2025 · 1:52 PM UTC · 1975559891655008769#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1975559891655008769#m
+- 作者：@Luyaoyuan1
+
+> 动物园里有什么？
+
+## 62. Oct 6, 2025 · 3:41 AM UTC · 1975043825510006932#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1975043825510006932#m
+- 作者：@Luyaoyuan1
+
+> 没关系的，很快就有 BSC 自己的 Defillama，BSC 数据天下第一。Dune 看板也是用 Defillama API， Defillama 数据之前也是官方 API 给多少显示多少，不是像其他， 纠结什么选不选的水平是不是太差...
+
+## 63. Oct 5, 2025 · 3:41 PM UTC · 1974862641295392848#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1974862641295392848#m
+- 作者：@Luyaoyuan1
+
+> 支持!
+
+## 64. Oct 5, 2025 · 3:30 PM UTC · 1974859875084878180#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1974859875084878180#m
+- 作者：@Luyaoyuan1
+
+> 🫡善良是一个很高的标准。
+
+## 65. Oct 5, 2025 · 2:11 PM UTC · 1974839866338021430#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1974839866338021430#m
+- 作者：@Luyaoyuan1
+
+> 👍😺
+
+## 66. Oct 5, 2025 · 2:04 PM UTC · 1974838085537190100#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1974838085537190100#m
+- 作者：@Luyaoyuan1
+
+> 危险危险危险，好久不见...
+>  
+> 包赔、保本、稳赚、免费、全返、零风险、回本。
+
+## 67. Oct 5, 2025 · 11:09 AM UTC · 1974793962310549909#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1974793962310549909#m
+- 作者：@Luyaoyuan1
+
+> 我主要是开心，为 BSC 开心，盗亦有道。也为 Cards 下跌开心，前面卖的终于没有波飞了，等低了再买。
+
+## 68. Oct 5, 2025 · 10:05 AM UTC · 1974778005227811259#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1974778005227811259#m
+- 作者：@Luyaoyuan1
+
+> Gate 人生，hhh
+>  
+> 链上 TCG 如何撬动下一个 20 亿美元市场：格局概览与估值展望
+>  
+> medium.com/@gate_ventures/%E…
+
+## 69. Oct 5, 2025 · 9:53 AM UTC · 1974775054522352027#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1974775054522352027#m
+- 作者：@Luyaoyuan1
+
+> 因为要确保新赛道都发生在 BSC 所以删除了。
+
+## 70. Oct 5, 2025 · 9:38 AM UTC · 1974771282723180681#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1974771282723180681#m
+- 作者：@Luyaoyuan1
+
+> 谁问你了...
+
+## 71. Oct 5, 2025 · 3:11 AM UTC · 1974673691599569109#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1974673691599569109#m
+- 作者：@Luyaoyuan1
+
+> 之前都怕 10 月解锁接不住，我也怕，只能确定砸完了才开始介入，当然也卖飞了，他这 AI 叙事转得没法直接估了，都是梦。
+>  
+> 几年前只能选 Lido  这类不赚钱不分红不拉盘的 质押系 Meme，Ethfi 出来确实也影响了 $Eigen 的预期，把再质押的资金提前吃了一遍，Eigen 出来后对 Eigen 做过大的押注，尽管结局是卖飞，但对 Eigen 印象是不错的，这个月 ETH 这么涨，能跟上汇率的 Alpha 确实不多，后面有机会还买。
+
+## 72. Oct 5, 2025 · 1:42 AM UTC · 1974651369958306044#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1974651369958306044#m
+- 作者：@Luyaoyuan1
+
+> 主打 意图 标签的项目，纯粹是没东西可聊了，一直没怎么看懂这个意图那个意图的，AI 聊了半天才明白就是隐藏技术细节，“求解器”在背后帮你把事做好， 或者说简化一个动作所需的操作步骤。
+>  
+> 这种是趋势不是叙事，所有的项目方包括交易所都在往无感知方向去做技术升级和 UI 改进，刷个短视频还炒上匹配兴趣算法了？挺无聊的赛道，最近几个要上的意图标签的项目都没什么东西，尤其是当时没人要卖不掉还主动延长CL 售卖时间的项目...
+
+## 73. Oct 4, 2025 · 6:53 AM UTC · 1974367229555990859#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1974367229555990859#m
+- 作者：@Luyaoyuan1
+
+> Gauntlet 拍脑袋提案，用了 Gauntlet 的都是冤大头，包括 Unichain。
+
+## 74. Oct 4, 2025 · 6:06 AM UTC · 1974355325521441101#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1974355325521441101#m
+- 作者：@Luyaoyuan1
+
+> 已布局 @xmaquina ，类似 BIO 去统一 DESCI 赛道的位置，希望  xmaquina 能统一 Robotics 各自为战混乱的局面，估值现在不一定是最高的项目，等 TGE 后一定是最新的。
+>  
+> Peaq = Vita，DEUS = BIO。
+>  
+> 行业里 Robotics 赛道能看入眼的项目不多，能下手的有赔率的更少，截图里一部分还都是 Meme。
+>  
+> 预计 3-6个月，静待花开。
+
+## 75. Oct 4, 2025 · 5:42 AM UTC · 1974349443077169299#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1974349443077169299#m
+- 作者：@Luyaoyuan1
+
+> 这次的🎁礼物已经全部送完啦，前阵子私信留下地址的朋友，都会收到 1 个公仔（因为数量有限，后面填写的朋友可能就没有啦）以及 两盒蛋黄酥，离得近的朋友已经陆续收到了。
+>  
+> 感谢支持!
+
+## 76. Oct 4, 2025 · 5:10 AM UTC · 1974341375513800986#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1974341375513800986#m
+- 作者：@Luyaoyuan1
+
+> 😂希望...
+
+## 77. Oct 3, 2025 · 10:11 AM UTC · 1974054815505285389#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1974054815505285389#m
+- 作者：@Luyaoyuan1
+
+> 🎴
+
+## 78. Oct 2, 2025 · 5:44 AM UTC · 1973625163242705344#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1973625163242705344#m
+- 作者：@Luyaoyuan1
+
+> ZEC 带动了隐私板块，新周期是有新的隐私项目的。
+>  
+> Succinct 受影响也底部开始反弹，有望受益。
+
+## 79. Oct 2, 2025 · 4:06 AM UTC · 1973600368400670784#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1973600368400670784#m
+- 作者：@Luyaoyuan1
+
+> 899 分也失败，可能是地区问题，无常不会消失只会转移，总有人为你承担风险。
+> 2Z 大满贯，很难下手，二级不给参与机会了。
+
+## 80. Oct 1, 2025 · 9:11 PM UTC · 1973495918709391529#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1973495918709391529#m
+- 作者：@Luyaoyuan1
+
+> We’ve seen a number of rumors circulating since the launch of XPL and want to set the record straight.
+>  
+> 1/ No team members have sold any XPL. All investor and team XPL is locked for 3 years with a 1 year cliff.
+>  
+> 2/ Of our team of ~50, three spent time at Blur or Blast. Our team members also come from Google, Facebook, Square, Temasek, Goldman Sachs, and Nuvei. To say our team is "ex-Blast" is to say it is "ex" any of these firms. We are proud of the team we've assembled at Plasma.
+>  
+> 3/ We have not engaged Wintermute as a market maker and have never contracted with Wintermute for any of their services. We have the same information as the public on Wintermute's ownership of XPL.
+>  
+> We are laser-focused on building the future of money and won’t be commenting further. We remain incredibly grateful for our community's support. Now back to work.
+>  
+> Trillions.
+
+## 81. Oct 1, 2025 · 9:20 AM UTC · 1973317055454842881#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1973317055454842881#m
+- 作者：@Luyaoyuan1
+
+> ETH 大反了，可能和 etf 会批量通过有关，对应的 eth alpha Eigen 也可能有机会沾光，Eigen 这个时候 EigenCloud 的转型是合适的，公链的安全守护没有 AI 的叙事大，找更大的经济体去做业务才给自己带来增长。
+
+## 82. Oct 1, 2025 · 6:38 AM UTC · 1973276375634346082#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1973276375634346082#m
+- 作者：@Luyaoyuan1
+
+> x.com/i/article/197327541075…
+
+## 83. Oct 1, 2025 · 6:13 AM UTC · 1973270023033725337#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1973270023033725337#m
+- 作者：@Luyaoyuan1
+
+> 近三年 英文 宝可梦卡的行情指数。
+
+## 84. Sep 30, 2025 · 9:20 AM UTC · 1972954756932136988#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1972954756932136988#m
+- 作者：@Luyaoyuan1
+
+> gMoni
+>  
+> Aster TGE 那天 @miguelrare 带着社区冲，那阵子没怎么上 DS，不然也有其他结局。
+>  
+> Alpha 报告和项目研究也做得不错了，工具都是一样的，重要的是用的人。
+>  
+> Meme 其实他们有些成员其实也在一线，还打磨了很久准备出炒 Meme 的产品，但看这链上情况估计赶不上了。
+>  
+> 虽然在那边没怎么活跃了，但团队还是会不时与交流市场情况，挺有意思。
+
+## 85. Sep 30, 2025 · 4:54 AM UTC · 1972887767165403276#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1972887767165403276#m
+- 作者：@Luyaoyuan1
+
+> 生态项目更需要细致研究，别看到相关就乱冲，风险大于收益，Aptos/Sui /Bera/的生态项目结局都没特别好的，资源是有限的，能做好本身就很厉害了。
+>  
+> 反而迁移过去的协议能获得新的增长点，而且经受过市场考验。
+
+## 86. Sep 30, 2025 · 3:30 AM UTC · 1972866625276694771#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1972866625276694771#m
+- 作者：@Luyaoyuan1
+
+> Plasma 对应的模板可能更像 Ethena，公募前一轮只有 几十M的估值(Echo 那轮一样估值)，VC 赔率好的一级项目真的不需要那么贵，300M 以上的新项目投VC轮真不如买 ETH。
+>  
+> 早期加速阶段
+> Ethena 23年12月到24年中，TVL 0-3.6b
+> Plasma 25年9月 TVL 0-7B 10月 7B-？
+>  
+> 中期成长阶段
+> 平均收益下降，竞争加剧，新增流入放缓，TVL/价格双降。
+>  
+> 成熟的拐点阶段
+> Ethena 24年12月到25年中 TVL 2.5B-6B
+>  
+> 可持续期望阶段
+> Ethena 25年中到25年底 TVL 6B-15B
+>  
+> Plasma 是链，维度可能更高，不是靠 TVL 指标增长这么单一，其他方面也能发展，个人比较看好 Payments 版图的发展，包括一些原生的生态应用，节点对外开放质押等，这些都是暂未生效的，价格也一定是有很明显的周期性的，会长期计划埋伏它对应 ENA 的 0.2 时刻。
+>  
+> 其他稳定币链会默默参与，但不会像 Plasma 这么激动了，竞争在增加预期在降低，流水的龙二铁打的龙一。
+
+## 87. Sep 30, 2025 · 2:29 AM UTC · 1972851385441153414#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1972851385441153414#m
+- 作者：@Luyaoyuan1
+
+> 更早的例子参考
+
+## 88. Sep 30, 2025 · 2:29 AM UTC · 1972851235968700638#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1972851235968700638#m
+- 作者：@Luyaoyuan1
+
+> 上个月看了一下 @flyingtulip_  的 PPT，想了想，觉得不是什么好的机会，担心的点主要在赎回和 AC 这个人身上。
+>  
+> 模式 @Wuhuoqiu  解释得差不多了，之前听说是 5亿机构、5亿散户，现在 2亿机构说明大的机构对它兴趣不大，不知道参与进去的机构打了多少也不知道他们想这个项目，也许只是投资承诺。
+>  
+> 如果抛开 AC 做这个假设，机构2亿都打过去了，公募 8亿也逐渐募到了，10亿放进金库通过安全的方式吃 5%年化收益，年收入是 50M，收入部分一些流向团队，一些流向回购代币，因为有这些回购代币会上涨，更理想的情况是有超过10亿的资金在后面存进金库，但个人觉得不可能。
+>  
+> 公募情况的几种可能
+>  
+> 正常情况，机构2亿进入金库，公募在较快时间募满8亿。
+>  
+> 较差情况，有些机构放弃打钱，公募没募满8亿只能提前开始。
+>  
+> 最差情况，边学边做，金库/协议被盗，别说利息，本金都没了。
+>  
+> 实际的情况会是什么样？
+>  
+> 赎回排队，参考10月底 @zerobasezk  的赎回潮，如果大量赎回协议的变化，协议的年化收入是不是达不到预期的 50M，达不到 50M如果撑起代币的预期？
+>  
+> 其实就是 40M 估值的项目，非要把 TVL 当融资募进去，不知道玩什么花招，怕 40M估值的项目吸引不到那么多 TVL？
+>  
+> 剩下就是对 AC 的担忧，说这个项目涉及这么多方向的协议，其实中间那一项最好都不止 10亿的估值，多而全就代表不会精美，什么都要就什么都得不到。连 Ethena 的机制都是在成熟期才先质疑再看懂的... AC 已经不是当年的AC 了。
+>  
+> Flying Tulip 的资金会去 Sonic ，Sonic 是什么地方？跨链桥坏账的受害者现在都拿不回那些资金，被公链换币抹账了。
+>  
+> "Sonic跨链桥坏账主要源于2023年7月Multichain协议被黑事件，总损失2.1亿美元，其中Sonic Labs损失约1.22亿美元。"
+>  
+> 总结下来就是盘子玩法，这带头人 AC 还不是很靠谱，其实这个玩法挪到任何有 Aave 的链上都能发起，甚至我觉得在这个玩法在 Plasma 上会更高一筹，15% 的 APR 不比 5% 香？募那么多觉得困难的话，那就弄个上限 1亿无 VC 的社区盘，10M 估值空投代币的模式，更快更好更高。
+>  
+> 以上内容仅为个人学习与研究所作的市场分析，不构成任何投资建议或项目官方立场。
+
+## 89. Sep 29, 2025 · 12:01 PM UTC · 1972632909497704949#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1972632909497704949#m
+- 作者：@Luyaoyuan1
+
+> XMAQUINA
+
+## 90. Sep 28, 2025 · 7:15 AM UTC · 1972198449518157954#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1972198449518157954#m
+- 作者：@Luyaoyuan1
+
+> 很真实，官方和我之前提醒的内容类似，并不是每个 Deal 都赚钱。
+>  
+> 风光的背后，不知道投出去多少个失败的项目，押注过多少难言的项目。
+>  
+> (未泄露任何项目信息)
+
+## 91. Sep 28, 2025 · 5:26 AM UTC · 1972170976789229809#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1972170976789229809#m
+- 作者：@Luyaoyuan1
+
+> x.com/i/article/197018063056…
+
+## 92. Sep 28, 2025 · 3:35 AM UTC · 1972143187583213788#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1972143187583213788#m
+- 作者：@Luyaoyuan1
+
+> 值得学习，别人的成功与失败都是见识。
+
+## 93. Sep 28, 2025 · 12:59 AM UTC · 1972103714262687785#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1972103714262687785#m
+- 作者：@Luyaoyuan1
+
+> 👀👀
+
+## 94. Sep 27, 2025 · 4:29 PM UTC · 1971975545727733879#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971975545727733879#m
+- 作者：@Luyaoyuan1
+
+> 保守的老韭菜还是低估了资金流入速度... 😅
+
+## 95. Sep 27, 2025 · 12:21 PM UTC · 1971912990472732792#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971912990472732792#m
+- 作者：@Luyaoyuan1
+
+> I would also never talk about other projects the same way I talk about Plasma.
+
+## 96. Sep 27, 2025 · 9:37 AM UTC · 1971871935631122573#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971871935631122573#m
+- 作者：@Luyaoyuan1
+
+> OKX 官推怎么这么狂热，最近几天发了很多条，是不是从中看到了 X layer 几年后自己的样子？
+>  
+> 新的公链真的很多，稳定币公链也见多了，但为什么是它？
+>  
+> 他们只花了 1-2 个月的时间就游说成功并部署好了 Defi 顶流协议，作为长期潜水关心 Defi 治理论坛的用户，深知很多头部公链从提案到部署快的需要大半年，慢的需要一年，并且部署完并没有产生类似的效应和热度，背后到底是什么驱动这些 Deal 迅速达成？
+>  
+> Ethena 路线图里要做的公链，也不过如此，现在 Ena 还重复去做什么公链... 和这些协议再谈一遍？
+>  
+> 其他竞品稳定币公链玩不玩？当然玩，不说超越的话，20-30% 的模仿总可以，但阻力会很大，Aave 代表 ACI 似乎不想再重复部署到类似的公链了，这些稳定币公链该找谁合作
+>  
+> 如果你是新公链的项目方，看到 Plasma 的成就和节奏，你着急吗？
+>  
+> 如果你是新稳定币公链的项目方，看到 Plasma 一步登天，你该如何与它竞争？
+>  
+> 正是因为想过这些问题，所以信念很强，就像 XX 号称以太坊杀手公链的创始人也拥有很多以太坊。
+>  
+> 看起来只等了三个月，其实在稳定币赛道的积累远超过五年。
+
+## 97. Sep 27, 2025 · 3:31 AM UTC · 1971779685190455470#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971779685190455470#m
+- 作者：@Luyaoyuan1
+
+> 新周期玩新币。UNI 的业务被 HYPE 吞噬，击败 UNI 的，不是更高效率的 Swap协议，而是更高维度的降维打击。
+>  
+> Uniswap 似乎被削弱了很多新币定价功能，不深的池子满足市场套利需求、链上预言机数据来源的功能，成交量迁徙之处，才是新的战场。
+>  
+> 舍不得分红，也没多少利润，持币者看不到希望，瘦死的骆驼比马大硬撑着，之前做了 Wallet，那 Uni 什么时候做 Perp?
+
+## 98. Sep 27, 2025 · 2:22 AM UTC · 1971762369195037058#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971762369195037058#m
+- 作者：@Luyaoyuan1
+
+> dune.com/zkayape/pokemontcgs…
+
+## 99. Sep 26, 2025 · 7:30 PM UTC · 1971658595524878802#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971658595524878802#m
+- 作者：@Luyaoyuan1
+
+> 说实话我是 Echo 投资额 Rank TOP 10 的韭菜，40多个 Group，看过无数 Deal 和 PPT，精挑细选打出去不到20 个，仍然是没发币的没发，破发的破发，该发财的没发，现在等一两个暴击回本。
+>  
+> 建议不了解跃跃欲试的朋友仔细思考其中的风险，ECHO 只是平台，不能保证赚钱，而且上面有很多一眼圈钱的项目，多擦亮眼睛。
+
+## 100. Sep 26, 2025 · 6:53 PM UTC · 1971649431889141832#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971649431889141832#m
+- 作者：@Luyaoyuan1
+
+> Pokemon TCG RWA
+>  
+> 我没有线下集换过 TCG 卡，只通过 AI 了解过这个赛道的概况，相信这是一个成熟且有规模的市场。链改版本的 TCG RWA 市场应也是有一些对应的挑战的，暂时没有去对比各家产品，无法给出各家的核心差异，只是选了目前能选到的 $Cards 。
+>  
+> 从每次 Collector Crypt 销售能力和整个赛道的数据增长来看，是值得押注的，新赛道有什么好处？交易所看不懂，等大家都看懂了他已经在 T0 CEX 了，认可大宇老师的判断，等着上币。
+>  
+> 数据上来看，很明显，Courtyard、Collector Crypt、Phygitals 的排序。
+>  
+> 脸黑，不喜欢开卡赌运气，也就不发邀请链接了。负 EV的事不想做，剩下两个协议一旦出代币都会稍微布局一点，错过了Cards 的底部一路抄底导致成本较高，类似的产品在一级市场其实也不贵 20-30M，产品可能大同小异，UX 都有优化空间，但销售数据会做到天差地别，营收数据也就分出高下了。
+>  
+> 收入可持续性较差，需要补卡，似乎没法全天候让抽卡机运行下去，要不然营收是很恐怖的，不要低估玩家的赌性。
+>  
+> 没有自己独立的 IP，可能将要上市的卡游也是这样的困境，暂时没有更多细致的想法，希望赛道能蓬勃发展，无论是这三家里的哪家。
+
+## 101. Sep 26, 2025 · 2:28 PM UTC · 1971582707961565384#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971582707961565384#m
+- 作者：@Luyaoyuan1
+
+> 目前 Plasma 上 USDT 总量高达 4.6 B，如果算上 USDE 7.7 亿，稳定币总量已经超过 5B 了。
+>  
+> 刚刚的链上 20万颗 ETH 的远古鲸鱼(疑似 bitfinex )下场冲 TVL 了，5B 真的很轻松。
+>  
+> 后面会相对减少讨论 Plasma，省得惹人烦了。🙏
+
+## 102. Sep 26, 2025 · 1:53 AM UTC · 1971392601246085288#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971392601246085288#m
+- 作者：@Luyaoyuan1
+
+> 恭喜 puffer 获得有 Peter Thiel 参与的 ETHZ 币股的 ETH 质押，虽然金额一开始不多，但这一小步是美股公司的认可！远超大部分质押协议的能力。
+>  
+> 加油！
+
+## 103. Sep 26, 2025 · 12:50 AM UTC · 1971376749490602002#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971376749490602002#m
+- 作者：@Luyaoyuan1
+
+> 如果你在挖矿请注意这个循环贷细节，很多人上一次挖矿已经是很久之前的版本了，实在不行用 AI 辅助解释一下净存入。
+
+## 104. Sep 26, 2025 · 12:47 AM UTC · 1971376038086312413#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971376038086312413#m
+- 作者：@Luyaoyuan1
+
+> 感谢，认知胆识永远在线的 Sun 哥，也是一路一如既往分享自己思路的实操玩家，向他多学习多分享！
+
+## 105. Sep 25, 2025 · 5:35 PM UTC · 1971267294379770053#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971267294379770053#m
+- 作者：@Luyaoyuan1
+
+> 这是公募后公开发的第二条深度推文，具体见转帖，输出不是为了奶谁买币，更多是为了增强自己的信念。
+
+## 106. Sep 25, 2025 · 5:31 PM UTC · 1971266441224880203#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971266441224880203#m
+- 作者：@Luyaoyuan1
+
+> 这是公募前公开发的第一条相关推文，145个点赞，在当时后续玩法确实没人提前知道。后面才知道是 Echo平台，我在 Echo 是前十的“冤大头。
+>  
+> 那会ETH 2600一直震荡，我是卖了 ETH换过去的，心里算完预期是三个月回报率 20% 就行，考虑风险较低就尽量塞了，后面 ETH 两个月涨了 70%，中间也煎熬了很久。
+
+## 107. Sep 25, 2025 · 4:12 PM UTC · 1971246560169296214#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971246560169296214#m
+- 作者：@Luyaoyuan1
+
+> Tether 每年利润大概为 77 亿美金。
+
+## 108. Sep 25, 2025 · 2:33 PM UTC · 1971221530035269914#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971221530035269914#m
+- 作者：@Luyaoyuan1
+
+> 🫡 我说得太委婉了，只说重点看，没说要大干一场。
+>  
+> 感谢，值得尊敬，互相提醒 !
+>  
+> 我会记录好每一位打赏的朋友，等这阵忙完!
+
+## 109. Sep 25, 2025 · 12:28 PM UTC · 1971190125175636199#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971190125175636199#m
+- 作者：@Luyaoyuan1
+
+> 主网刚开的前几个小时，高 APR 时间。
+>  
+> 桥
+> usdt0.to/transfer
+> stargate.finance/bridge
+>  
+> 浏览器
+> plasmascan.to/
+>  
+> AAVE
+> app.aave.com/?ampDeviceId=un…
+>  
+> 收益看板，撑不了几个小时的，资金会疯狂抹平收益，并不会产生太大压力。
+>  
+> app.merkl.xyz/?chain=9745
+
+## 110. Sep 25, 2025 · 9:10 AM UTC · 1971140271154004095#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971140271154004095#m
+- 作者：@Luyaoyuan1
+
+> 满足大家好奇心，Bn 理财也多打了几个满额号。
+
+## 111. Sep 25, 2025 · 9:04 AM UTC · 1971138700471095775#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971138700471095775#m
+- 作者：@Luyaoyuan1
+
+> 轮到我的回合了，笨蛋王也会有收获，又可以亏一阵子了。
+>  
+> 24/12 月扫到项目 Plasma，保持关注。
+> 25/5 看到推文公募机会做足分析准备，判断大机会果然下手。
+> 持续三个月不断增强信念，现在继续坚定信念！
+>  
+> 很多人讨论开盘策略，会不会卖？会卖但不是现在，我要见证 Plasma 吸收 5B 稳定币。
+>  
+> 这次我很乐意接受公开打赏，完成打赏务必联系我，我会继续保持探索动力并在未来发现类似机会时第一时间与您讨论，也欢迎与我讨论任何机会。
+>  
+> 公开地址  Laolu.eth 或 luyaoyuan.sol
+>  
+> $XPL
+
+## 112. Sep 25, 2025 · 8:47 AM UTC · 1971134540489031839#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971134540489031839#m
+- 作者：@Luyaoyuan1
+
+> CZ 一般穿自家周边T恤和拖鞋，也就眼镜有品牌，很简约低调，审美不错。
+>  
+> “We are family” 的戒指。
+
+## 113. Sep 25, 2025 · 8:44 AM UTC · 1971133709983293737#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971133709983293737#m
+- 作者：@Luyaoyuan1
+
+> Fees & Revenue
+>  
+> 收入 & 利润，一定要搞清楚这其中的区别，一些协议收入很高，但利润很低，一些协议收入不高但利润率很高，利润反而不错。
+>  
+> Lido，上月收入 90.91m，利润只有 9.09m。
+> AAVE 上月收入 98.36m，利润为 13.42m。
+> Pump 上月收入 121.35m，利润为 59.53m。
+> Hype 上月收入 $86.53m，利润为 $85.28m。
+>  
+> 你押注的协议、在刷的Perp，到底是收入数据还是利润数据？
+
+## 114. Sep 25, 2025 · 4:14 AM UTC · 1971065753412698464#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971065753412698464#m
+- 作者：@Luyaoyuan1
+
+> 这对吗？这么多倍超募。
+
+## 115. Sep 25, 2025 · 2:03 AM UTC · 1971032835961295021#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1971032835961295021#m
+- 作者：@Luyaoyuan1
+
+> UPBIT LISTING:플라즈마( $XPL ) 신규 거래지원 안내 (KRW, BTC, USDT 마켓)
+>  
+> Coinbase 是 USDC 老家，估计有点难说，上不上 Coinbase 已经不重要了，没有任何效应。
+>  
+> 大满贯是必须的，目前 USDT 流通量在所有公链排第五，仅次于 Solana，全链 TVL 排名应该在第八，这只是第一天。
+
+## 116. Sep 24, 2025 · 6:29 PM UTC · 1970918530024604145#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970918530024604145#m
+- 作者：@Luyaoyuan1
+
+> huge
+
+## 117. Sep 24, 2025 · 2:59 PM UTC · 1970865735326171489#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970865735326171489#m
+- 作者：@Luyaoyuan1
+
+> X Layer 确实得走精品应用路线，先把基础协议迁移过来，Defi 三件套，借贷、交易、稳定币。
+>  
+> OKX Wallet 如果不自己参与 Perp War，其实接入 HL 是最好的选择。
+
+## 118. Sep 24, 2025 · 2:46 PM UTC · 1970862434039857588#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970862434039857588#m
+- 作者：@Luyaoyuan1
+
+> CZ 的眼镜，瞎猜一下。
+
+## 119. Sep 24, 2025 · 1:17 PM UTC · 1970840051971207289#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970840051971207289#m
+- 作者：@Luyaoyuan1
+
+> 很多币主力在吃仓位，遇到插针之后表现得很强势，需要多捕捉筛选这些特征的品种，在后续进一步观测。
+>  
+> Eigen 算比较明显的例子，都回 21号的位置了，21号 ETH都还在 4500呢，最近 Eigen/ETH 也回弹得比较凶。
+
+## 120. Sep 24, 2025 · 11:41 AM UTC · 1970815960182653271#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970815960182653271#m
+- 作者：@Luyaoyuan1
+
+> 没想过 2025的 Perpetual 赛道会这么热闹。
+>  
+> 又添上了几笔。
+
+## 121. Sep 24, 2025 · 11:24 AM UTC · 1970811598370689442#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970811598370689442#m
+- 作者：@Luyaoyuan1
+
+> 唯我独尊!
+
+## 122. Sep 24, 2025 · 9:49 AM UTC · 1970787719963128042#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970787719963128042#m
+- 作者：@Luyaoyuan1
+
+> 指这部分。
+
+## 123. Sep 24, 2025 · 9:44 AM UTC · 1970786368818446748#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970786368818446748#m
+- 作者：@Luyaoyuan1
+
+> 公告中被忽略的细节，三个月前就指出的任督二脉被打通了，Bn 31B 的资沉充提畅通无阻，USDE 做到这个程度花了 567 天，USD1 用了82天，Plasma 第一天就打通了，这就是站在巨人的肩膀上的效果。
+>  
+> “币安也将支持 Plasma Network 上的 Tether (USDT) 存款和取款。 XPL和 USDT 充值通道将于2025年09月24日18:00（东八区时间）开放。”
+>  
+> 给 Bn 用户这么多份额的币是要给的，不知道 USDE 付出了什么代价，USD1 是间接做了 20亿的 Deal，USDC 在上市前让出了利息签了长合作推广。
+>  
+> 你进入行业第一件事就是入金的话，入的是什么？USDT
+
+## 124. Sep 24, 2025 · 9:28 AM UTC · 1970782351207944633#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970782351207944633#m
+- 作者：@Luyaoyuan1
+
+> Binance Futures Will Launch USDⓈ-Margined FLUIDUSDT Perpetual
+>  
+> 顺理成章，判断正确，但现货不出血不给币是比较难上的。
+
+## 125. Sep 24, 2025 · 8:24 AM UTC · 1970766356724490612#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970766356724490612#m
+- 作者：@Luyaoyuan1
+
+> UPBIT LISTING:플루이드(FLUID)
+>  
+> FLUID 属于一直想埋伏进去但没买下手的币，数据高速增长，价格持续低迷，FDV 还是不便宜，DEX 深度不够，囤起来有机会成本，本以为会上个 Alpha 再 Coinbase 之类，谁知道直通 BOSS Upbit 。
+>  
+> 没在合适的时候遇到 ta，只能先等待，未来大概率有 Bn 机会的，当然 Bn 上不上已经不影响 ta 了。
+>  
+> OK 早就上了现货但没什么流动性，完全没有效应，OK 想差异化竞争总不能都是上完币就不管...
+>  
+> 缺点就是这个协议牛市杠杆顺风，熊市( 今年5月时 )坏账。
+
+## 126. Sep 24, 2025 · 6:42 AM UTC · 1970740509661708440#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970740509661708440#m
+- 作者：@Luyaoyuan1
+
+> 别人坐的是专车，怎么到我是拼车了。
+
+## 127. Sep 24, 2025 · 6:19 AM UTC · 1970734933284208675#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970734933284208675#m
+- 作者：@Luyaoyuan1
+
+> 恭喜 ZEROBASE 上线 Booster 和 PreTGE，塞过一点，希望赚钱!
+>  
+> Booster 活动是不错的 bn 福利。
+
+## 128. Sep 24, 2025 · 2:42 AM UTC · 1970680101450002916#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970680101450002916#m
+- 作者：@Luyaoyuan1
+
+> 盘前定价充分率(Pre-Market Pricing Sufficiency Ratio, PPSR) = 盘前竞价总持仓金额 / 上市时的流通市值
+>  
+> 价格发现效率 (Price Discovery Efficiency  PDE) =（开盘一周均价−盘前一周均价）/盘前一周均价
+>  
+> 综合定价充分率 (Comprehensive Pricing Sufficiency, CPS)= PPSR * PDE
+>  
+> 也不知道有什么用，指标是现编的，最近这么多盘前数据能套进去就好了。😅
+
+## 129. Sep 24, 2025 · 12:58 AM UTC · 1970654039806484812#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970654039806484812#m
+- 作者：@Luyaoyuan1
+
+> Perp War 热火朝天，这是向市场掏出一个堪比 CEX 处理资产能力的故事。
+>  
+> Perp 这类应用都是靠数据说话，很乐意看到这样的应用类协议占领市场热度，哪怕错过一个可以抓到另一个类似的，而不是其他人掌权之下的虚拟偶像、电报小游戏 ...
+>  
+> 目前的 Perp 协议生在了好的时代，似乎大家都不在意是去中心化的，还是运营在中心服务器披着 DEX 皮的 CEX，这中间的黑箱地带所留下的操作空间可能只有他们自己清楚。SEC 也只是笑脸相信请随意创新，只怕日后翻起旧账有得出血咯，但与现在无关，估计 Star 是防着这一点。
+>  
+> 想要分大蛋糕就得先做大蛋糕，Hype 做到了，Aster 也做到了，甚至 Avnt 也做到了，仿佛 DYDX 20 多刀的光景似乎浮现眼前，但这么多 Perp 都能做大吗？得打个问号❓如果你不知道收益从何而来？
+>  
+> 大家干劲十足，有刷量活动有能力有资源的肯定是要刷，需要琢磨透规则的刷，安全的刷，愿各位都能收获对应的奖励。喔 我没有邀请链接给大家。
+>  
+> 积极寻找做大蛋糕、分大蛋糕的赛道与项目。
+
+## 130. Sep 24, 2025 · 12:01 AM UTC · 1970639785296552077#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970639785296552077#m
+- 作者：@Luyaoyuan1
+
+> XX to Earn、POW 永远是区块链项目的万能公式，是一个交换的过程。
+>  
+> 电与机器，算力交换代币。
+> 时间与资沉，利息（POS）交换代币。
+> 资沉与交易量，磨损交换代币。
+> 数据与注意力，信息交换代币。
+> ...
+
+## 131. Sep 23, 2025 · 8:43 PM UTC · 1970589740761260272#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970589740761260272#m
+- 作者：@Luyaoyuan1
+
+> Tether 正在寻求通过私募融资筹集高达 200 亿美元，目标是在最新一轮融资中达到 5000 亿美元的估值。
+>  
+> 不要低估稳定币领导者的意志，他们想推进的东西，正如 bn 推进 Aster 不成也得成， Aster 之于 Bn，Plasma 之于 Tether ，他们究竟想构建多宏大的稳定币格局和场景？
+>  
+> 这么多年除了 IEO 那个债券，Tether 相关的项目少之又少，Cricle 上市后的成果多多少少也刺激到了他们，怎么办得接招啊，作为美元的暗之手，本来就表示过不会上市，只能发动一系列代理“战争”。
+>  
+> BSC 不是 Bn 而是由社区开发的，OKB 不是 OKX 平台币，Plsama 与 Tether 毫无关系。
+>  
+> 想到另一个话题。
+>  
+> 交易所的核心竞争力是什么？
+>  
+> 技术？产品？服务？收入？流动性？上币量？牌照？眼光？运气？
+>  
+> 上面的原因可能都有，但资沉规模能解决上述大部分问题，这其实又绕到先有鸡还是先有蛋的问题上了，可能把它变成有一些鸡而且有一些蛋的问题更好。
+>  
+> 当资沉是对手的十倍的时候，对手还有办法竞争吗？技术产品能请到最好的，很多东西舍得下成本能提升到更好的方案，各种不好都是成本问题。
+>  
+> 币安总有一天会与 Tether 竞争的，就像 Openai 想造芯片与英伟达竞争，也能够理解孙哥守着 USDT 躺赚也居安思危想把 USDD 做起来。
+>  
+> 铸币权，哪怕是阉割版的铸币权也是会让人疯狂的东西，看这稳定币体量的增长，看美股龙头市值的增长，看世界首富资产数字的增长，我们不赚钱就会变穷。
+
+## 132. Sep 23, 2025 · 8:04 PM UTC · 1970580143161979014#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970580143161979014#m
+- 作者：@Luyaoyuan1
+
+> Trillions.
+
+## 133. Sep 23, 2025 · 10:46 AM UTC · 1970439737136812367#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970439737136812367#m
+- 作者：@Luyaoyuan1
+
+> 再住一周、再住一个月、再住三个月。
+>  
+> 流动性流动性，得留下来才行。
+>  
+> 见证 5B 资沉。
+
+## 134. Sep 22, 2025 · 4:06 PM UTC · 1970157647187120570#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970157647187120570#m
+- 作者：@Luyaoyuan1
+
+> 钱包代币确实应该这轮抓紧出来，TWT 撑着天花板，Phantom、TP 闷声发财，营收基本都靠 Swap Fee、现在还能用自身的流量接 HL 的 Perp 来捕获收入，钱包最好的周期。
+>  
+> Rainbow
+> Rabby
+> Phantom
+> Zerion
+>  
+> 其实也能拆出来代币化的
+>  
+> OK Wallet
+> Coinbase Wallet
+
+## 135. Sep 22, 2025 · 1:48 PM UTC · 1970123027791941731#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970123027791941731#m
+- 作者：@Luyaoyuan1
+
+> 云开见月明，Ticker is $MIRA 等待引爆市场。
+
+## 136. Sep 22, 2025 · 1:20 PM UTC · 1970115970443477427#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970115970443477427#m
+- 作者：@Luyaoyuan1
+
+> Plasma One 卡由 Signify Holdings, Inc. 根据 Visa 的许可发行。
+
+## 137. Sep 22, 2025 · 1:18 PM UTC · 1970115507358769593#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970115507358769593#m
+- 作者：@Luyaoyuan1
+
+> 加密做题家，喜欢看题写答案，但自由发挥的情绪题总是做不好。
+
+## 138. Sep 22, 2025 · 1:09 PM UTC · 1970113326878458204#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970113326878458204#m
+- 作者：@Luyaoyuan1
+
+> U 卡的终局 Plasma One（一种稳定币原生的新银行和卡），自己的银行。
+>  
+> localhost:8080/PlasmaFDN/status/19701…
+>  
+> 这就是 Peter Thiel 布局，也是 USDT 用户最后的场景。
+>  
+> 老韭菜别的不太会，习惯了看类似白皮书的说明去判断项目能到多少高度的路径，踩中的都是令人振奋的叙事，项目方开个头就能领会之后想干啥。
+>  
+> 2025 年 8 月 8 日 Founders Fund 和 8VC 等风险投资公司已投资 Erebor，这是一家由 Palmer Luckey 创立的专注于科技的银行。
+
+## 139. Sep 22, 2025 · 7:22 AM UTC · 1970025982527746114#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970025982527746114#m
+- 作者：@Luyaoyuan1
+
+> 自己投的项目，含着泪也要转发。🫢
+>  
+> 加油啊 韩国 Solana 项目都没上 Upbit
+
+## 140. Sep 22, 2025 · 7:17 AM UTC · 1970024704355557534#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970024704355557534#m
+- 作者：@Luyaoyuan1
+
+> The Vana App，VanaXP 感觉是类似 BIO 的 XP 然后退出子项目的路径？还是作为积分新空投？
+>  
+> CZ 作为投资的一部分加入 Vana 担任顾问
+
+## 141. Sep 22, 2025 · 7:00 AM UTC · 1970020285467537851#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1970020285467537851#m
+- 作者：@Luyaoyuan1
+
+> 🫡 体面是不容易的。
+
+## 142. Sep 21, 2025 · 11:31 AM UTC · 1969726095428841921#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1969726095428841921#m
+- 作者：@Luyaoyuan1
+
+> 其实就是在等一个拉盘的理由。
+
+## 143. Sep 21, 2025 · 5:54 AM UTC · 1969641261910147445#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1969641261910147445#m
+- 作者：@Luyaoyuan1
+
+> 暗流涌动之下，权力的转移、王朝的更替、兴衰起落无声进行。表面风平浪静，实则波涛汹涌，每一次轮换都在悄然改写秩序。
+>  
+> 如果你懂。
+
+## 144. Sep 20, 2025 · 9:25 AM UTC · 1969332069701435855#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1969332069701435855#m
+- 作者：@Luyaoyuan1
+
+> 🫡
+
+## 145. Sep 20, 2025 · 9:16 AM UTC · 1969329734220648924#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1969329734220648924#m
+- 作者：@Luyaoyuan1
+
+> Pump 在 Aster 面前还得学，我更得学，两个都做得负分。
+
+## 146. Sep 20, 2025 · 3:19 AM UTC · 1969239977977414043#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1969239977977414043#m
+- 作者：@Luyaoyuan1
+
+> 不因卖飞而悔恨，不以亏损而羞耻。
+>  
+> —心态是怎样炼成的
+
+## 147. Sep 19, 2025 · 4:51 PM UTC · 1969082010321735942#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1969082010321735942#m
+- 作者：@Luyaoyuan1
+
+> 杰西·林加德，英格兰球员。
+>  
+> Soon 请了明星，不明觉厉，有什么要宣布吗？
+>  
+> 希望去 KBW 的朋友玩得开心，我哪也不去。
+
+## 148. Sep 19, 2025 · 5:50 AM UTC · 1968915485254123931#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1968915485254123931#m
+- 作者：@Luyaoyuan1
+
+> DOLO、EUL 都有押注一些，目前相对位置都不高，买定离手了。
+
+## 149. Sep 19, 2025 · 5:25 AM UTC · 1968909313822560734#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1968909313822560734#m
+- 作者：@Luyaoyuan1
+
+> 思路分享，适用很多年了。
+>  
+> Upbit 今天接连上四个币，但不给韩元对，涨幅不明显。
+>  
+> 目前交易所竞争上币激烈，其实可以做个半年内新币的交叉筛选，老币不是不可以，概率较低。
+>  
+> 上线了 CB、Bn，唯独缺 Upbit 的：DOLO / ...
+> 上线了 CB、Upbit，唯独缺 Bn 的：EUL / SOON  ...
+>  
+> 更多的等大家发现，这个策略前阵子在 Upbit 上币频率较快的时候在筛，今天 Upbit 上的几个是有在埋伏范围内，只是利好兑现也没涨，就撤了，希望下次都是单独的上币。
+
+## 150. Sep 19, 2025 · 5:03 AM UTC · 1968903762229018740#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1968903762229018740#m
+- 作者：@Luyaoyuan1
+
+> 善用 AI ，不求人
+
+## 151. Sep 19, 2025 · 2:21 AM UTC · 1968862949088399734#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1968862949088399734#m
+- 作者：@Luyaoyuan1
+
+> 确实是 NFT 的细分，只是 OS 不是当年的OS 带不起量了，等 CEX 研报。
+
+## 152. Sep 18, 2025 · 5:54 PM UTC · 1968735348441088317#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1968735348441088317#m
+- 作者：@Luyaoyuan1
+
+> 公开的信息，也可以是好的信息，但我自己菜卖飞了。
+
+## 153. Sep 18, 2025 · 5:21 PM UTC · 1968727108395434084#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1968727108395434084#m
+- 作者：@Luyaoyuan1
+
+> Restocking
+
+## 154. Sep 18, 2025 · 4:16 PM UTC · 1968710615360487568#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1968710615360487568#m
+- 作者：@Luyaoyuan1
+
+> 看了 Aave DAO’s State of the Union by ACI，感觉 Aave 这一两年是真的蛮惨，被 Morpho 钻空子，今天和 Coinbase USDC 合作也不选你，可能别人都是蓝色系。
+>  
+> 友好分叉的失败
+>  
+> “最典型的案例是 Spark，事后证明它对 Aave 造成了巨大伤害。除了采用“创意性会计”手法导致流向 Aave DAO 的实际收入远低于预期之外，该平台始终是我们竞争对手的最强盟友和主要流动性提供方。”
+>  
+> 类似这种模式的项目很多，OP 公链挂牌加盟、Bn 以前地区性质的云交所、币核云交所，最后估计都是差不多的结局。
+>  
+> 其次被坑的就是 WLFI 的合作，被人借了势，最后与你无关，以后还是得先收币。
+>  
+> 大部分公链部署前都信誓旦旦，部署后很久也不舍得砸激励，增长不起来，浪费部署维护成本。
+>  
+> 二级来看，论协议利润比不赢新协议，涨幅又追不上 ETH，无法破局。
+
+## 155. Sep 18, 2025 · 1:01 PM UTC · 1968661539600072912#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1968661539600072912#m
+- 作者：@Luyaoyuan1
+
+> September 25
+
+## 156. Sep 18, 2025 · 5:28 AM UTC · 1968547769855226069#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1968547769855226069#m
+- 作者：@Luyaoyuan1
+
+> 沉舟侧畔千帆过，病树前头万木春。—— 古诗三百首接龙
+
+## 157. Sep 17, 2025 · 5:12 PM UTC · 1968362325855060116#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1968362325855060116#m
+- 作者：@Luyaoyuan1
+
+> 很不错的合作，谷歌 Agent 联盟能用上 Eigen ，领先的合作领先的布局。
+>  
+> 链上不少地址分拆成 32 ETH 的独立地址，可能是有一些 ETF 资金为质押 ETH 做准备，希望加油。
+
+## 158. Sep 17, 2025 · 5:04 PM UTC · 1968360323783802882#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1968360323783802882#m
+- 作者：@Luyaoyuan1
+
+> 不知道这么快就有续集
+>  
+> 换币前卖是对的吗？前几个小时来说是对的...确实跌到 0.072，开盘的集中抛压。
+>  
+> 那么现在涨更高了是什么原因，无从得知了。
+
+## 159. Sep 17, 2025 · 4:16 AM UTC · 1968167256069939309#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1968167256069939309#m
+- 作者：@Luyaoyuan1
+
+> 相对于 AVNT、SOMI、UB、MYX 这类，我现在也不觉得可惜了，因为我没有别人知道的秘密，根据公开信息和数据它可能就是不会花很多精力去关注，不属于我的机会。
+
+## 160. Sep 17, 2025 · 4:13 AM UTC · 1968166511782342761#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1968166511782342761#m
+- 作者：@Luyaoyuan1
+
+> 关于 CZ 是否返回的佐证。
+
+## 161. Sep 17, 2025 · 4:06 AM UTC · 1968164589167858055#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1968164589167858055#m
+- 作者：@Luyaoyuan1
+
+> 信息过载
+>  
+> 这个现象其实从一年前就感受很深，以 APX 举例，朋友A 好像很早就知道它无法在换币的时候上现货，于是没有参与这个交易。在ta的视角里 ta 做的是对的，不会上就没有大的空间，别等到所有人知道上不了再去亏钱了。
+>  
+> 但个人判断这是 ta 信息过载了，所以我依然参与了这笔小交易，外部市场大部分人的预期是会上，唯一担心的点是比例，在 10 号官方公开发推确定换币方式与比例之后重新进了仓位，然后做好对应卖出计划，16号之前不上就提前卖出止盈，目前形势来看确实参与交易并提前卖出是好的选择。
+>  
+> 其实 BSC 今天上涨的 Meme 也是，DOJ 解除监控引爆热度，大部分埋伏的人不会提前知道这个消息，知道二手消息的人最多会考虑买 BNB，但离得近知道更多信息的可能会判断出 CZ 不会也不可能重回 BN 管理交易所，于是什么都不操作，他之前说过哪怕没限制也不会回去，当然大家都知道回不回都潜移默化影响着 Bn 的各种战略发展。
+>  
+> “巴菲特曾说，他最大的优势是比别人更认真地读公开材料、思考得更深入，如果你必须依赖内幕消息掌握别人没有的秘密，那说明你不真正理解这个生意。”
+
+## 162. Sep 16, 2025 · 6:29 AM UTC · 1967838302695997944#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1967838302695997944#m
+- 作者：@Luyaoyuan1
+
+> Velora 是以前的 ParaSwap ，改头换面差点不认识了，最早的猎巫行动项目方，反撸第一名。
+
+## 163. Sep 16, 2025 · 3:38 AM UTC · 1967795289877778886#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1967795289877778886#m
+- 作者：@Luyaoyuan1
+
+> 毕竟大部分人内容都是倒果为因，只是做解读使其合理，并没有坚持逻辑和原则，各种前后矛盾和脑补。
+
+## 164. Sep 15, 2025 · 5:54 PM UTC · 1967648162635714766#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1967648162635714766#m
+- 作者：@Luyaoyuan1
+
+> 有趣的故事，蛋糕总想只留给自己吃。
+
+## 165. Sep 15, 2025 · 5:22 PM UTC · 1967640197698556106#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1967640197698556106#m
+- 作者：@Luyaoyuan1
+
+> 不错，搭上了 Polymarket 的顺风车... 加油
+
+## 166. Sep 15, 2025 · 4:34 PM UTC · 1967628211048874473#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1967628211048874473#m
+- 作者：@Luyaoyuan1
+
+> 链上同样一个 Ca、同一个币，有人赚钱有人亏钱，根本上是成本不一样，大家介入的时间点不一样，抛开内幕不谈为什么会这样。
+>  
+> 快盘：与车头 2 分钟的信息差距是 100 倍的鸿沟，多吃亏能缩短 30秒的差距，因为判断信息转换成买卖操作成为了直觉。
+>  
+> 慢盘：与高手判断二段是否值得上的交易信念差距也是 10倍，上了拿不住不坚定。
+>  
+> 多看多练中。
+
+## 167. Sep 15, 2025 · 3:43 PM UTC · 1967615161050833172#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1967615161050833172#m
+- 作者：@Luyaoyuan1
+
+> 以单日峰值营收估测年营收是不对的，昨天一堆人FOMO Cards，现在冷静了吧。
+
+## 168. Sep 15, 2025 · 1:58 PM UTC · 1967588864899649951#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1967588864899649951#m
+- 作者：@Luyaoyuan1
+
+> SyrupUSDT 预存款，上限 200M，应该是往 TGE 后的 TVL 而努力，类似 USDAI 都是瞄准主网之后的新的存款活动。
+>  
+> 主网上线开始就拥有至少 25 亿稳定币资沉的稳定币支付公链，5% APY 算一年 $ 125M 利息。
+
+## 169. Sep 15, 2025 · 7:36 AM UTC · 1967492634035048826#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1967492634035048826#m
+- 作者：@Luyaoyuan1
+
+> Binance Alpha将支持APX代币置换为ASTER 9-15 15:35
+
+## 170. Sep 15, 2025 · 5:34 AM UTC · 1967462026705563739#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1967462026705563739#m
+- 作者：@Luyaoyuan1
+
+> 想投研又想搞信息，双修功法走火入魔。
+
+## 171. Sep 15, 2025 · 5:18 AM UTC · 1967457939993808995#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1967457939993808995#m
+- 作者：@Luyaoyuan1
+
+> 抛开未知信息，说这个能 1B，无能为力。
+
+## 172. Sep 14, 2025 · 11:56 AM UTC · 1967195859172618572#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1967195859172618572#m
+- 作者：@Luyaoyuan1
+
+> 16号质押的部分全解锁，17号才换币，预计换币前出公告插针达到高点，需要判断公告在解锁前还是后，在前就公告时卖，在后就现在卖，不做最后一段换币，因为我们都知道换完是怎么个走法。
+
+## 173. Sep 14, 2025 · 11:50 AM UTC · 1967194119736062333#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1967194119736062333#m
+- 作者：@Luyaoyuan1
+
+> 能搞定现货的项目都不会差的，多次成功的公募经验相信 @HoloworldAI  能够想出一些有持续性的新玩法。
+>  
+> 都吃公开利润数据这套，想要吸引市场注意力都得把数据玩明白，期待。🥳
+
+## 174. Sep 14, 2025 · 8:12 AM UTC · 1967139369497903578#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1967139369497903578#m
+- 作者：@Luyaoyuan1
+
+> 玩了几天类似概念，最后平进平出，看着 Cards 来回波动，没太多信念进了一笔又匆匆退出，有被自己菜到。
+
+## 175. Sep 13, 2025 · 6:39 AM UTC · 1966753686685970531#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1966753686685970531#m
+- 作者：@Luyaoyuan1
+
+> 🫣
+
+## 176. Sep 13, 2025 · 5:09 AM UTC · 1966730967147806908#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1966730967147806908#m
+- 作者：@Luyaoyuan1
+
+> 泰达合规稳定币，第一天就该上线 @PlasmaFDN
+
+## 177. Sep 11, 2025 · 12:35 PM UTC · 1966118498603774103#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1966118498603774103#m
+- 作者：@Luyaoyuan1
+
+> 太好了，是添加流动性不是卖出。😂
+
+## 178. Sep 11, 2025 · 12:16 PM UTC · 1966113626529644926#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1966113626529644926#m
+- 作者：@Luyaoyuan1
+
+> 买回了 0.8%，不在乎有没有标，买入恐慌而已。
+
+## 179. Sep 11, 2025 · 11:57 AM UTC · 1966108894088011933#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1966108894088011933#m
+- 作者：@Luyaoyuan1
+
+> 输赢不知道，赔率还行，记得 Berry 换 Pixel 那波和 RBN 换 Aevo 的感觉，换币且大概率能现货的叙事是最好玩的。
+
+## 180. Sep 11, 2025 · 9:36 AM UTC · 1966073367683088609#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1966073367683088609#m
+- 作者：@Luyaoyuan1
+
+> 满配了
+> $HOLO listed on Upbit spot (KRW)
+
+## 181. Sep 11, 2025 · 8:00 AM UTC · 1966049074630811684#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1966049074630811684#m
+- 作者：@Luyaoyuan1
+
+> 哪里补贴往哪去。
+
+## 182. Sep 11, 2025 · 7:59 AM UTC · 1966048892488921369#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1966048892488921369#m
+- 作者：@Luyaoyuan1
+
+> 激励一停，TVL 清零。
+
+## 183. Sep 11, 2025 · 7:05 AM UTC · 1966035403351462197#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1966035403351462197#m
+- 作者：@Luyaoyuan1
+
+> 做个好台子，希望能不一样! 每轮都有每轮的 "Daomaker"
+
+## 184. Sep 11, 2025 · 6:41 AM UTC · 1966029305290567859#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1966029305290567859#m
+- 作者：@Luyaoyuan1
+
+> 大规模的稳定币跨链还是用 LayerZero 的比较多，这种关系一旦绑定很难拆开了。
+>  
+> $ZRO
+
+## 185. Sep 11, 2025 · 6:31 AM UTC · 1966026859453571274#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1966026859453571274#m
+- 作者：@Luyaoyuan1
+
+> 是政治 Meme 还是人血馒头？
+
+## 186. Sep 11, 2025 · 5:32 AM UTC · 1966012023483019619#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1966012023483019619#m
+- 作者：@Luyaoyuan1
+
+> MMSnews:Avalanche 区块链旨在为加密货币囤积公司筹集 10 亿美元，资金将用于购买数百万个 Avax。
+>  
+> 怪不得... 提前抓老鼠
+
+## 187. Sep 11, 2025 · 12:46 AM UTC · 1965939928493379799#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1965939928493379799#m
+- 作者：@Luyaoyuan1
+
+> 时隔一个月，PENGU 项目方在最近一天多里继续从代币布署地址转出了 1.716 亿枚 $PENGU ($600 万)，然后进入了 Binance 和 Bybit。
+>  
+> 他们每次的转出都是当时价值 $300 万的代币，然后分散进入多家 CEX。
+> 从 7/12 以来，他们一共已经把 26 亿枚的 $PENGU ($7286 万) 从代币布署地址转移到 CEX 里。
+>  
+> 地址：intel.arkm.com/explorer/addr…
+>  
+> 本文由 #Bitget｜@Bitget_zh 赞助
+
+## 188. Sep 10, 2025 · 7:12 PM UTC · 1965855841594257776#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1965855841594257776#m
+- 作者：@Luyaoyuan1
+
+> 😅忍到现在... 同期 Eigen 都下一个阶段了，这才准备 TGE...
+
+## 189. Sep 10, 2025 · 6:00 PM UTC · 1965837721190211770#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1965837721190211770#m
+- 作者：@Luyaoyuan1
+
+> 很棒，这些数据很重要方向也没错，AI 缺数据，Playground 交易数据，让 AI 构建者预览数据集、了解其架构、下载合成样本并测试模型。
+>  
+> 希望能产生一些收益再间接对 Token 产生影响。
+
+## 190. Sep 10, 2025 · 4:21 PM UTC · 1965812808085598448#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1965812808085598448#m
+- 作者：@Luyaoyuan1
+
+> 狗屎运来了？打着王者被喊出来卖币，不知道原因先冷静一会。😅
+>  
+> @polyfactual 不知道你还有这后手。
+
+## 191. Sep 10, 2025 · 1:08 PM UTC · 1965764418962370741#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1965764418962370741#m
+- 作者：@Luyaoyuan1
+
+> 20 年那批喊着出去的 EVM L1，都回来做 L2 了，Celo、Lsk、Cronos、Ronin..
+>  
+> 还能拿到市场关注度吗？
+
+## 192. Sep 10, 2025 · 1:00 PM UTC · 1965762303518982396#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1965762303518982396#m
+- 作者：@Luyaoyuan1
+
+> 这次是来真的吗 $AVAX 🤔
+
+## 193. Sep 10, 2025 · 6:11 AM UTC · 1965659461315690938#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1965659461315690938#m
+- 作者：@Luyaoyuan1
+
+> 比例确定了，1:1，看资源给得满不满了。
+
+## 194. Sep 10, 2025 · 6:02 AM UTC · 1965657044071190811#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1965657044071190811#m
+- 作者：@Luyaoyuan1
+
+> 这次是真的快了吗？海枯石烂了😅
+
+## 195. Sep 10, 2025 · 5:46 AM UTC · 1965653125966319792#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1965653125966319792#m
+- 作者：@Luyaoyuan1
+
+> 恭喜 Holo，希望这么久的等待是值得的，真正的挑战才刚刚开始，希望有满配🇰🇷。
+
+## 196. Sep 10, 2025 · 5:17 AM UTC · 1965645664219791376#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1965645664219791376#m
+- 作者：@Luyaoyuan1
+
+> 平台损失 41m SOL，随即退出全部ETH质押，真严重...
+
+## 197. Sep 9, 2025 · 2:39 PM UTC · 1965424927546507397#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1965424927546507397#m
+- 作者：@Luyaoyuan1
+
+> Hl 的现货处理能力一定程度上吃了 Uni 的份额。
+> Bn 接 USDE 一样削弱了 Aave 循环贷的不可替代性。
+
+## 198. Sep 9, 2025 · 3:04 AM UTC · 1965249863026966584#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1965249863026966584#m
+- 作者：@Luyaoyuan1
+
+> 热闹...
+
+## 199. Sep 8, 2025 · 4:18 PM UTC · 1965087367351722342#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1965087367351722342#m
+- 作者：@Luyaoyuan1
+
+> 新公链都要战略性搞稳定币业务，资沉也是资源得用，就像 Bn 一堆 USDC 也能分利息。
+>  
+> 稳定币公链大战越来越热闹了。
+
+## 200. Sep 8, 2025 · 4:10 PM UTC · 1965085440089960509#m
+- 链接：https://twitter.com/Luyaoyuan1/status/1965085440089960509#m
+- 作者：@Luyaoyuan1
+
+> 做过很多次 ETH Alpha 押注，成功的次数寥寥无几，尤其是前几个月能跟上 ETH 涨幅的 E 系山寨很少。
+>  
+> 最近讨论 Eigen 的频率都很多，确实不断出现更高的低点，似乎在酝酿着下一步动作。
+>  
+> 从短期视角看，它可能重新成为 ETH Alpha 的选择之一， Alpha 的上涨也是错峰的，不与主线争夺注意力，这也是最近妖币在大盘稍微有些横起来的时候疯狂表现的原因。
+>  
+> Eigen 现在重点不放在再质押、AVS 这些标签了，更多的是 可验证云 概念，寄希望于 AI 相关的可信计算，如果这一叙事能站稳，或许会打开一条与其他质押项目错位竞争的新路径。

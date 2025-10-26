@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1039449274344529920",
+    "screen_name": "Dune",
+    "name": "Dune",
+    "description": "📊 Crypto's Data Platform. Making crypto data accessible. Start here: https://t.co/Y2KEzZ78BM Dune for Devs",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1641375897658748928/tPBBdDui_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1039449274344529920/1739979701",
+    "followers_count": 211602,
+    "friends_count": 620,
+    "statuses_count": 10970,
+    "favourites_count": 9967,
+    "listed_count": 2931,
+    "location": "Dune",
+    "website": "https://t.co/rolaF3tfsM",
+    "birthdate": null,
+    "verified_type": "Business",
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2018-09-11 17:43:13 +08:00",
+    "url": "https://twitter.com/Dune",
+    "rest_id": "1039449274344529920"
+  },
+  "tweets": [
+    {
+      "id": "1975198897078505533#m",
+      "content": "We're not done yet, more speakers coming to #DuneCon25!\n\n📍 Nov 19th, Buenos Aires, meet:\n@clairekart @aztecnetwork\n@emilyxlai @hypepartners\n@HorinekPM @serotonin_hq\n@danimimm @MoonwellDeFi\n@k06a @1inch\n@AriEiberman @gnosispay\n@0xcush @odisealabs\n@fabiomendesafc @Balancer\n@facuspagnuolo @mimicfi\n@GabrielGruber @Exa_App\n@Mausefalle25 @1kxnetwork\n@0xKofi @base\n@LucaProsperi @m0\n@nlevine19 @Visa\n@pato__23 @OpenZeppelin\n@richardchen39 @VarrockVC\n@arlequin_eth @mywebacy",
+      "timestamp": "Oct 6, 2025 · 1:58 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975198897078505533#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1980304920155922457#m",
+      "content": "Despite the Amazon outage, most EVM chains processed transactions normally (as they should), except Worldchain and Base, which saw a transaction drop but now operate normally:",
+      "timestamp": "Oct 20, 2025 · 4:07 PM UTC",
+      "url": "https://twitter.com/Dune/status/1980304920155922457#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1969446472694550615#m",
+      "content": "1/ 🧵 Dune Digest #28 — this week:\n\n• Prediction markets: @Polymarket vs @Kalshi\n• @MetaMask launches its stablecoin mUSD\n• Native @USDC lands on HyperEVM\n• @base explores a token\n• The September RWA wave with @Fidelity, @centrifuge- @anemoycapital- @plumenetwork, and more",
+      "timestamp": "Sep 20, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1969446472694550615#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1980318786017452455#m",
+      "content": "Apply for your ticket at dunecon.com",
+      "timestamp": "Oct 20, 2025 · 5:02 PM UTC",
+      "url": "https://twitter.com/Dune/status/1980318786017452455#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1980318784188739700#m",
+      "content": "Data + Marketing \n\nExpect one of the best sessions on stage at #DuneCon25 with @ZoeCatherineF",
+      "timestamp": "Oct 20, 2025 · 5:02 PM UTC",
+      "url": "https://twitter.com/Dune/status/1980318784188739700#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1980272800968667141#m",
+      "content": "Dune data powers onchain analytics at scale. Now enterprises can access the same trusted data directly within their own data clouds. \n100+ blockchains. 1.5M datasets. Enterprise ready from day one. DM to get access.",
+      "timestamp": "Oct 20, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1980272800968667141#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1977744591593083098#m",
+      "content": "Building in LATAM? 😉\n\nGet featured by Dune in our upcoming LATAM spotlight series for the best projects in the region!\n\nTag your favourite teams below 👇",
+      "timestamp": "Oct 13, 2025 · 2:33 PM UTC",
+      "url": "https://twitter.com/Dune/status/1977744591593083098#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971198904118190131#m",
+      "content": "🔈 @PlasmaFDN mainnet is now live, so as its data on Dune! 📊\n\n\"We are partnering with Dune to provide clear, accessible visibility into onchain activity across Plasma.\" @pauliepunt, founder of Plasma",
+      "timestamp": "Sep 25, 2025 · 1:03 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971198904118190131#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1980264010730627199#m",
+      "content": "Apply for your ticket at dunecon.com",
+      "timestamp": "Oct 20, 2025 · 1:25 PM UTC",
+      "url": "https://twitter.com/Dune/status/1980264010730627199#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1980264009279385632#m",
+      "content": "Special annoucements on stage at #DuneCon25! \n\nTake your guess 🤫",
+      "timestamp": "Oct 20, 2025 · 1:25 PM UTC",
+      "url": "https://twitter.com/Dune/status/1980264009279385632#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1979155463536283978#m",
+      "content": "Check out @Polymarket’s new accuracy dashboard, what started as a Dune dashboard by @alexmccullaaa is now a full-fledged product feature 🎯\n\nThat’s the magic of Dune, anyone can dive into data, surface insights, and help shape products used by thousands.",
+      "timestamp": "Oct 17, 2025 · 12:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1979155463536283978#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1980243826792112563#m",
+      "content": "Meet the Dune team at #ETHBishkek!",
+      "timestamp": "Oct 20, 2025 · 12:04 PM UTC",
+      "url": "https://twitter.com/Dune/status/1980243826792112563#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1980121822978019749#m",
+      "content": "Join us on Oct 22nd at 3 pm-4 pm ET and learn about @Aptos data on Dune!",
+      "timestamp": "Oct 20, 2025 · 4:00 AM UTC",
+      "url": "https://twitter.com/Dune/status/1980121822978019749#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978853524705624138#m",
+      "content": "From our LATAM 2025 Report: exchanges became financial infrastructure, with onchain flows rising 9x from $3B (’21) to $27B (’24).\n\nWant first-hand exchange-flow insights and broader LATAM trends? Join DuneCon Buenos Aires, Nov 19.\ndune.com/dunecon",
+      "timestamp": "Oct 16, 2025 · 4:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978853524705624138#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1979570687401664905#m",
+      "content": "1/ Dune Digest #32 is live.\n\nThis week’s highlights:\n• @ethena_labs’s USDe depeg on @binance\n• @arbitrum crosses $1B in RWA with EXOD\n• @solsticefi’s USX hits $200M+ TVL on @solana\n• @stripe adds @USDC recurring billing\n• @opensea’s $5B+ comeback\n\nLet’s dive in 👇",
+      "timestamp": "Oct 18, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1979570687401664905#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1970835638368047204#m",
+      "content": "1/ 🧵 Spotted some excellent Dune data in @glxyresearch’s new State of Onchain Yield.\n\nClear look at where DeFi yield comes from, and what survives risk & operational work. Highlights 👇",
+      "timestamp": "Sep 24, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1970835638368047204#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978808226687996352#m",
+      "content": "Just one month left! 🇦🇷\n\nStay duned for the #DuneCon25 agenda 👀 Can you guess the talks that will be on DuneCon stages?\n\nDunecon.com",
+      "timestamp": "Oct 16, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978808226687996352#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1979570778615201861#m",
+      "content": "7/ That’s Dune Digest #32 — the latest data and stories shaping onchain markets.\n\nSubscribe for more 👇\ndune.com/email-signup",
+      "timestamp": "Oct 18, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1979570778615201861#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1979570766166507560#m",
+      "content": "6/ @opensea’s October surge hit $3.56B in 30D volume, $3.03B from tokens and $525M from NFTs (>85% token trading). Revenue rose 202% to $30.6M ($25.5M from tokens). The shift marks OpenSea’s evolution from “NFT marketplace” to “trade everything.” $SEA token coming Q1 2026.",
+      "timestamp": "Oct 18, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1979570766166507560#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1979570750752473224#m",
+      "content": "5/ @stripe expands @USDC payments to recurring subscriptions on @base and @0xPolygon. Stripe generated $17M in USDC volume last month, $100M+ YTD.\nWith @coinbase and @moonpay also rolling out billing tools in the same week, stablecoins are entering mainstream SaaS and commerce.",
+      "timestamp": "Oct 18, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1979570750752473224#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1979570735149670683#m",
+      "content": "4/ @solsticefi launches USX on @solana, with TVL soaring from $166M day one to $211M+.\nPermissionless, no KYC, and up to 15.4% APY via YieldVault. Backed by Galaxy Digital & Deus X Capital, USX is fast becoming @solana’s institutional-yield base layer.",
+      "timestamp": "Oct 18, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1979570735149670683#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1979570719240630556#m",
+      "content": "3/ @arbitrum breaks $1B in RWA as Exodus (NASDAQ: EXOD) tokenizes stock via @Securitize.\n$EXOD ≈$537M, over half of Arbitrum’s RWA TVL, making it the #4 RWA chain. Alongside BENJI, BUIDL, WTGXX and the DAO’s STEP program, RWA momentum keeps building.",
+      "timestamp": "Oct 18, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1979570719240630556#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1979570703235203471#m",
+      "content": "2/ @ethena_labs faced its biggest test yet.\nDuring the Oct 10 crash, USDe fell to ~$0.65 on @binance for ~90 mins, while holding near $1 on Curve and other venues. This sparked oracle debates and proved the design’s resilience, with ~$2B in redemptions processed within 24h.",
+      "timestamp": "Oct 18, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1979570703235203471#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1979295572436881903#m",
+      "content": "Meet @NoahLevine at #DuneCon25 \n\nApply for tickets 🎟️ DuneCon.com",
+      "timestamp": "Oct 17, 2025 · 9:16 PM UTC",
+      "url": "https://twitter.com/Dune/status/1979295572436881903#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1979295569299542349#m",
+      "content": "Visa <> Dune data. \n\nThe real world is coming onchain ⛓️",
+      "timestamp": "Oct 17, 2025 · 9:16 PM UTC",
+      "url": "https://twitter.com/Dune/status/1979295569299542349#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971983191415349429#m",
+      "content": "1/ 🧵 Dune Digest #29 — this week:\n\n• @Plasma mainnet lights up stablecoin flows via @LayerZero_Core\n• @BNBCHAIN perps boom with @Aster_DEX\n• @MorphoLabs powers @USDC lending on @coinbase\n• @FlareNetworks’s FXRP kickstarts XRPFi\n• @chainlink SVR turns MEV into treasury",
+      "timestamp": "Sep 27, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971983191415349429#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978128738069123471#m",
+      "content": "From our LATAM 2025 Report: stablecoins are the money layer. In Jul ’25, USDT+USDC accounted for >90% of exchange transfer volume.\n\nFor first-hand insights on stablecoin adoption and LATAM crypto trends, join #DuneCon25 Buenos Aires — Nov 19: dune.com/dunecon",
+      "timestamp": "Oct 14, 2025 · 4:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978128738069123471#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971952980711903646#m",
+      "content": "Introducing LATAM Onchain, our newest series that spotlights the people building crypto in Argentina 🇦🇷 🎥\n\nToday we chat with @juliicorti at @mimicfi, about Retail crypto adoption, DeFi education, and how onchain data powers the next wave of products.\n\npiped.kavin.rocks/pQbVAvEs-xo?feature…",
+      "timestamp": "Sep 27, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971952980711903646#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1979206204812398744#m",
+      "content": "dunecon.com",
+      "timestamp": "Oct 17, 2025 · 3:21 PM UTC",
+      "url": "https://twitter.com/Dune/status/1979206204812398744#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1979206203335995506#m",
+      "content": "#DuneCon25 is getting full! Apply for your tickets now to secure a spot 🎟️",
+      "timestamp": "Oct 17, 2025 · 3:21 PM UTC",
+      "url": "https://twitter.com/Dune/status/1979206203335995506#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976694260289487228#m",
+      "content": "The first @KeyrockTrading dashboard is live on Dune!\n\nHigh-quality, institutional feel, covering BTC in DeFi, which derivatives are dominating, and which chains they’re deployed to.\n\nBuilt by @0xbenharvey using Dune data.\n\nExcited for this and many more dashboards to come 🔥",
+      "timestamp": "Oct 10, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1976694260289487228#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1970110855632277986#m",
+      "content": ". @KaiaChain Stablecoin Summer submissions are in!\n\nHuge congrats to everyone who shipped mini-dapps and Dune dashboards.\n\nWe’ll be watching for finalists on stage in Singapore during @token2049 week, can’t wait to see the builds!",
+      "timestamp": "Sep 22, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1970110855632277986#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978068324249686364#m",
+      "content": "At Dune you get:\n\n🌍 Remote-first working\n🏡 Flexibility to blend work + life your way\n🏝️ 25 days annual leave + public holidays\n🛩️ Cost of your prefered co-working space covered\n🤝 Travel budget to meet your team IRL\n⏰ Offsites in epic locations\n💰 Competitive pay and equity + additional performance-based equity boost\n🎳 And plenty of fun along the way",
+      "timestamp": "Oct 14, 2025 · 12:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978068324249686364#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1979155475573936491#m",
+      "content": "dune.com/alexmccullough/how-…",
+      "timestamp": "Oct 17, 2025 · 12:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1979155475573936491#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1979001961081967059#m",
+      "content": "🚨 DuneCon speaker confirmed, here we go!\n\n@facuspagnuolo, Co-Founder at @mimicfi\n\nFrom Buenos Aires 🇦🇷, he’s building the invisible engine that turns onchain data into action. Automation is the new alpha.\n\nSee you on stage at #DuneCon25 in Buenos Aires on Nov 19",
+      "timestamp": "Oct 17, 2025 · 1:50 AM UTC",
+      "url": "https://twitter.com/Dune/status/1979001961081967059#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971620794888593706#m",
+      "content": "1/ 30 days since @SuccinctLabs data went live on Dune, time for a quick recap.\n\nSuccinct is the decentralized prover network behind the SP1 zkVM, making ZK proofs easy and verifiable across chains via a global network of provers.\n\n👇",
+      "timestamp": "Sep 26, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971620794888593706#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978875162247176486#m",
+      "content": "👇Watch it unfold live on @dune ☀️",
+      "timestamp": "Oct 16, 2025 · 5:26 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978875162247176486#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971590612995678636#m",
+      "content": "LATAM Onchain, our newest series that spotlights the people building crypto in Argentina 🇦🇷 🎥\n\nToday, we chat with @elpedrosolimano at @DLNewsInfo about the Argentinian crypto community, and how onchain data powers everyone.\n\npiped.kavin.rocks/UatENrVout0?feature…",
+      "timestamp": "Sep 26, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971590612995678636#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978853536831287784#m",
+      "content": "dune.com/blog/latam-crypto-2…",
+      "timestamp": "Oct 16, 2025 · 4:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978853536831287784#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978815953040224416#m",
+      "content": "LATAM communities will all be at #DuneCon25 🇦🇷\n\nGet your ticket at dunecon.com",
+      "timestamp": "Oct 16, 2025 · 1:31 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978815953040224416#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978547247336784292#m",
+      "content": "Apply for your DuneCon ticket dunecon.com",
+      "timestamp": "Oct 15, 2025 · 7:43 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978547247336784292#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978547245793358153#m",
+      "content": "Data storytelling on stage, at #DuneCon25 🇦🇷",
+      "timestamp": "Oct 15, 2025 · 7:43 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978547245793358153#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973017505976500335#m",
+      "content": "You've been asking for @SuiNetwork analytics, and now Sui is officially LIVE on Dune!\n\nQuery txs, tokens, NFTs & DeFi with decoded tables, build dashboards, and track the ecosystem end-to-end.\n\nHello Sui 👋\ndune.com/blog/sui-is-now-liv…",
+      "timestamp": "Sep 30, 2025 · 1:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973017505976500335#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978464004029677891#m",
+      "content": "Some facts about #DuneCon25: \n\n👉Limited capacity: Not everyone gets in.\n👉Full-day event: 8AM–9PM. We expect you to stay, because every session will be worth it.\n👉Zero noise: Every talk is vetted by us for quality and insight.\n👉Speaker lineup locked: The agenda’s 99% set. ( Unless you can really convince us otherwise )\n👉No sponsorships\n👉Quality crowd only: Everyone in the room is here for a reason and vetted, no random service-pitching or wanderers.\n👉Special women's session w/ SheFi: dune.com/women-meetup\n\nApply for tickets here: dune.com/dunecon",
+      "timestamp": "Oct 15, 2025 · 2:12 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978464004029677891#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978446601749434452#m",
+      "content": "Senior Data engineer @pato__23 from @OpenZeppelin will also be speaking at #DuneCon25!\n\nJoin us: dune.com/dunecon",
+      "timestamp": "Oct 15, 2025 · 1:03 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978446601749434452#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978446589955031124#m",
+      "content": "Why it matters: security is market infrastructure. @OpenZeppelin battle-tested modules (Ownable/AccessControl, Pausable, SafeERC20, UUPS) compress risk and speed time-to-market—crucial for LATAM builders shipping payments, remittances, and savings apps.",
+      "timestamp": "Oct 15, 2025 · 1:03 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978446589955031124#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978446577699299463#m",
+      "content": "Top contracts touching @OpenZeppelin code are crypto's most important rails: routers, bridges, stablecoins, LSTs, vaults, order books. Sample giants by value transferred include Aave pool contracts, Uniswap V3: Positions NFT, major bridge routers, and LST vaults.",
+      "timestamp": "Oct 15, 2025 · 1:03 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978446577699299463#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978446562419507655#m",
+      "content": "Category depth where capital lives: Lending (82% OZ share of category TVL), Liquid Staking (≈99%), Restaking (≈100%), DEXs (≈72%), Payments (≈99%), RWAs (≈66%). When the stakes are high, teams default to @OpenZeppelin contracts.",
+      "timestamp": "Oct 15, 2025 · 1:03 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978446562419507655#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978446546124599611#m",
+      "content": "Multi-chain footprint, consistent patterns: strong @OpenZeppelin presence on @ethereum, @arbitrum, @0xPolygon, @base, @avax and more. On several L2s, OZ’s share of activity (txs, active wallets and TVL) is enormous, demonstrating that security conventions scale with throughput.",
+      "timestamp": "Oct 15, 2025 · 1:03 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978446546124599611#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978446530542784725#m",
+      "content": "DeFi runs on @OpenZeppelin: $230.8B TVL (78% of total) in OZ-tagged protocols. Top names include @aave ($61.7B), @LidoFinance ($35.4B), @eigenlayer ($18.2B), @ethena_labs USDe ($12.6B), @Uniswap ($3.0B), BlackRock BUIDL ($2.6B), @maplefinance ($4.4B), @Sablier ($4.3B).",
+      "timestamp": "Oct 15, 2025 · 1:03 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978446530542784725#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978446515493621843#m",
+      "content": "@OpenZeppelin code is used everywhere. 5.17B txs (~35% of all transactions) + 368M wallets = battle-tested libraries. OZ has double-digit to majority shares of transactions and active wallets across chains (e.g. >50% on @LineaBuild @avax @arbitrum @zksync).",
+      "timestamp": "Oct 15, 2025 · 1:03 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978446515493621843#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978446499601351110#m",
+      "content": "Money moves on @OpenZeppelin: $31.08T total value transferred (ERC20 + native) across OZ-based contracts. This scale means settlement at planetary scale: stablecoins, DEX routes, staking flows, and protocol treasuries all touching OZ code.",
+      "timestamp": "Oct 15, 2025 · 1:02 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978446499601351110#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978446477669376209#m",
+      "content": "Born in Argentina, @OpenZeppelin went from LATAM roots to global security standard. Its libraries define ERC best practices and power thousands of apps, evidence that world-class infra can start in Buenos Aires and scale to secure the internet of value.\ndune.com/openzeppelin",
+      "timestamp": "Oct 15, 2025 · 1:02 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978446477669376209#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978445761491906686#m",
+      "content": "🚨 DuneCon speaker confirmed, here we go!\n\n@pato__23, Data Nerd at @OpenZeppelin\n\nFrom Argentina 🇦🇷 to the world, he’s on the frontlines of securing the code that powers DeFi.\n\nSee you on stage at #DuneCon25 in Buenos Aires on Nov 19",
+      "timestamp": "Oct 15, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978445761491906686#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978437129370755197#m",
+      "content": "DuneCon.com",
+      "timestamp": "Oct 15, 2025 · 12:25 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978437129370755197#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978437126866751987#m",
+      "content": "See you at #DuneCon25 🇦🇷",
+      "timestamp": "Oct 15, 2025 · 12:25 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978437126866751987#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978128750123593916#m",
+      "content": "Check out the full report:\ndune.com/blog/latam-crypto-2…",
+      "timestamp": "Oct 14, 2025 · 4:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978128750123593916#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978115848737816935#m",
+      "content": "🔐 We’ve regained control of @dunesim after it was compromised — thank you for your patience.\n\n@dunesim is the official account for Dune’s developer product line, Sim, where we share updates and examples of using Dune’s real-time data to power your apps.\n\nsim.dune.com",
+      "timestamp": "Oct 14, 2025 · 3:09 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978115848737816935#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978115756328935472#m",
+      "content": "🔐 We’ve regained control of @dunesim after it was compromised — thank you for your patience.\n\n@dunesim is the official account for Dune’s developer product line, Sim, where we share updates and examples of using Dune’s real-time data to power your apps.\n\nsim.dune.com",
+      "timestamp": "Oct 14, 2025 · 3:08 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978115756328935472#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978110311052755370#m",
+      "content": "Last year I was at #DuneCon Bangkok as an attendee data analyst. This year I’m back wearing the @Dune badge.\n\nIf you also want to return as a teammate, we’re hiring.\n\nGood luck and see you in Buenos Aires!",
+      "timestamp": "Oct 14, 2025 · 2:47 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978110311052755370#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978083366697345257#m",
+      "content": "We’re hiring a Product Marketing Manager.\n\nYou’ll own the story of onchain data and shape how the world understands @Dune's analytics products and datasets.\n\nHelp define how onchain data is told. Apply now 👉 dune.com/careers?ashby_jid=0…",
+      "timestamp": "Oct 14, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978083366697345257#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978068348593402025#m",
+      "content": "Dune = high trust, high ownership, high pace.\n\nIf that excites you, join us → [link to careers] dune.com/careers 🌊",
+      "timestamp": "Oct 14, 2025 · 12:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978068348593402025#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1978068336731996190#m",
+      "content": "BUT… Dune isn’t for everyone because👇\n\n🌀 Things change fast, and you’ll need to adapt\n📱 It’s not just a 9–5 job\n💻 Slack is always on and you’ll need to keep up\n🏃‍♀️ Deadlines mean something, expect to lock in and deliver as one team\n📄 Roles are fluid you’ll often go beyond your job title",
+      "timestamp": "Oct 14, 2025 · 12:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1978068336731996190#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1977810722873889199#m",
+      "content": "Meet us in DC! 🇺🇸",
+      "timestamp": "Oct 13, 2025 · 6:56 PM UTC",
+      "url": "https://twitter.com/Dune/status/1977810722873889199#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1977800697333842270#m",
+      "content": "Reflecting on 10 years on the crypto rollercoaster: check out my my talk from @token2049 in Singapore. And if you are too lazy to see the talk, here are some of the key things I've learned over the years:\n\n* Think long term and from first principles. So many narratives come and go quickly.\n\n* Understand both the bugs and the *features* of the system you are trying to disrupt.\n\n* Startups are a rollercoaster but in crypto, the amplitude is even bigger. It can be gut-wrenching, but also a lot of room for fun and fast learning. That's why one of Dune's company values is...... embrace the rollercoaster! 📷\n\nVideo link in comment 👇",
+      "timestamp": "Oct 13, 2025 · 6:16 PM UTC",
+      "url": "https://twitter.com/Dune/status/1977800697333842270#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1977744615169302979#m",
+      "content": "dune.com/dunecon",
+      "timestamp": "Oct 13, 2025 · 2:33 PM UTC",
+      "url": "https://twitter.com/Dune/status/1977744615169302979#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1977744603429388562#m",
+      "content": "Want to be featured? Submit the form and apply for your #DuneCon25 ticket now 🎟️ forms.gle/AoifT7PTkMpDGvcZ8",
+      "timestamp": "Oct 13, 2025 · 2:33 PM UTC",
+      "url": "https://twitter.com/Dune/status/1977744603429388562#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1977736442039205906#m",
+      "content": "Limited spots at #DuneCon25, apply for your tickets early! \n\n🎟️ Dunecon.com",
+      "timestamp": "Oct 13, 2025 · 2:01 PM UTC",
+      "url": "https://twitter.com/Dune/status/1977736442039205906#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1977698003088540014#m",
+      "content": "gMonday",
+      "timestamp": "Oct 13, 2025 · 11:28 AM UTC",
+      "url": "https://twitter.com/Dune/status/1977698003088540014#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1977468610168922620#m",
+      "content": "38 days until DuneCon 🇦🇷 Get your tickets now: dune.com/dunecon",
+      "timestamp": "Oct 12, 2025 · 8:17 PM UTC",
+      "url": "https://twitter.com/Dune/status/1977468610168922620#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1977056677250973855#m",
+      "content": "@MetaMask adds in-wallet perps (powered by @HyperliquidX): 150+ tokens, up to 40× leverage, self-custody. Early traction: $53M cumulative vol ($37M on Oct 9), $26.8K fees ($19K on Oct 9), ~1,800 users. Wallets keep evolving into super apps for trading, staking, even social.",
+      "timestamp": "Oct 11, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1977056677250973855#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1977056661883043991#m",
+      "content": "@plumenetwork acquires @dinero_xyz (ipxETH/pxETH/apxETH). Current stats: 8,832 ETH staked across 276 validators (0.0267% share), 12,100 pxETH, 6,950 apxETH; apxETH ~5.5% APY with 1.6× multiplier. This brings institutional ETH/BTC/SOL staking into Plume’s RWAfi stack.",
+      "timestamp": "Oct 11, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1977056661883043991#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1977056645781111038#m",
+      "content": "@Polymarket gets up to $2B from ICE (~$9B PMV). Activity is hot: >$300M weekly vol, >4M trades, >$180M OI. Meanwhile, @Kalshi raises $300M at $5B and expands to 140+ countries.\n\nPrediction markets are going mainstream.",
+      "timestamp": "Oct 11, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1977056645781111038#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1977056630153126140#m",
+      "content": "Dune Digest #31 is live!\n\nHere’s what’s inside:\n\n• ICE to invest up to $2B in @Polymarket\n• @plumenetwork acquires @dinero_xyz\n• @MetaMask adds perps with @HyperliquidX\n• @variational_io, the new P2P perps infra on @arbitrum\n• @four_meme_ on @BNBCHAIN flips @pumpdotfun",
+      "timestamp": "Oct 11, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1977056630153126140#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976739536320577757#m",
+      "content": "⚠️ @zora Data Sunset on the Dune App ⚠️\n\nEffective today, Zora data will no longer update on the Dune App.\n\nKey details:\n🟡 Existing Zora datasets remain accessible but frozen as of Oct 8th, 2025.\n🟡 Queries/dashboards will reflect historical data only.\n🟡 Zora is still available currently through Sim API/IDX\nsim.dune.com\n\nFor users:\n1️⃣ Export Zora data if needed. docs.dune.com/learning/how-t…\n2️⃣ Explore 100+ other active chains on Dune.\ndune.com/product/data-catalo…",
+      "timestamp": "Oct 10, 2025 · 8:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1976739536320577757#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976611166500831445#m",
+      "content": "🚨 DuneCon speaker confirmed, here we go!\n\n@Mausefalle25, Data Nerd at @1kxnetwork\n\nAn onchain researcher with a sharp eye for tokenomics and governance, turning complex data into strategy.\n\nSee you on stage at #DuneCon25 in Buenos Aires on Nov 19",
+      "timestamp": "Oct 10, 2025 · 11:30 AM UTC",
+      "url": "https://twitter.com/Dune/status/1976611166500831445#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976633904091275327#m",
+      "content": "Apply here: dune.com/careers",
+      "timestamp": "Oct 10, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1976633904091275327#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976633892351479985#m",
+      "content": "3️⃣ open roles at GTM:\n\n🛠️ Solutions Engineer → turn complex data into clarity for customers.\n💫 Product Marketing Manager → craft narratives that make analytics click.\n💼 Sales Development Rep → open doors, build relationships, and drive growth.",
+      "timestamp": "Oct 10, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1976633892351479985#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976633880238235808#m",
+      "content": "We’re hiring 🚀\n\nGTM at Dune = Get The Money 🏦\n\nWe're building a lean GTM team to scale Dune across multiple product lines.\n\nA team that thrives on cross-product collaboration and brings new features and products to market successfully.",
+      "timestamp": "Oct 10, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1976633880238235808#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976379727129854396#m",
+      "content": "Robinhood has tokenized over 413 stocks and ETFs that are worth over $7M on @Arbitrum.\n\nThe top 5 tokens are :\n- GOOGL: $745k\n- BMNR: $589k\n- VOO: $377k\n- PLTR: $373k\n- IREN: $363k\n\nRobinhood Dashboard in Progress: [███████████░░░] 80%",
+      "timestamp": "Oct 9, 2025 · 8:10 PM UTC",
+      "url": "https://twitter.com/Dune/status/1976379727129854396#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976288784552509810#m",
+      "content": "Join us at dunecon.com",
+      "timestamp": "Oct 9, 2025 · 2:08 PM UTC",
+      "url": "https://twitter.com/Dune/status/1976288784552509810#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976286574049689872#m",
+      "content": "A new infra layer for perp DEXs on @arbitrum, @variational_io, is gaining traction with its 0 fees and RFQ model:\n\nIt's powering its first app, Omni, which has:\n- $3.8B Cumulative Volume\n- Refunded $300k+ user PnL losses\n\nLet's dive into the stats (🔍/8)",
+      "timestamp": "Oct 9, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1976286574049689872#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976275593743433732#m",
+      "content": "dune.com/careers",
+      "timestamp": "Oct 9, 2025 · 1:16 PM UTC",
+      "url": "https://twitter.com/Dune/status/1976275593743433732#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976275581714170301#m",
+      "content": "We’re hiring 🗣️\n\nEngineering at Dune = Build the Future 🧑‍💻\n\nIf you enjoy creating scalable solutions that people actively use and that push boundaries — Dune is your place.\n👇",
+      "timestamp": "Oct 9, 2025 · 1:16 PM UTC",
+      "url": "https://twitter.com/Dune/status/1976275581714170301#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976267740139618632#m",
+      "content": "The @aave Horizon RWA market just crossed the $200M mark.\n\nWe might or might not be working on a Horizon dashboard at @EntropyAdvisors 👀",
+      "timestamp": "Oct 9, 2025 · 12:45 PM UTC",
+      "url": "https://twitter.com/Dune/status/1976267740139618632#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976254143594721643#m",
+      "content": "⏰ in 10 mins",
+      "timestamp": "Oct 9, 2025 · 11:51 AM UTC",
+      "url": "https://twitter.com/Dune/status/1976254143594721643#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976044648318878167#m",
+      "content": "Excited to support more LATAM projects with onchain data! 🌊",
+      "timestamp": "Oct 8, 2025 · 9:58 PM UTC",
+      "url": "https://twitter.com/Dune/status/1976044648318878167#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976037569633935694#m",
+      "content": "Ari’s representing us at DuneCon! @Dune make sure you don’t miss it! @AriEiberman \n\nWho’s coming? 👀\n\nWe can’t wait to meet you all in Argentina 🇦🇷",
+      "timestamp": "Oct 8, 2025 · 9:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1976037569633935694#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1976011374234145068#m",
+      "content": "Join us at DuneCon.com 🇦🇷",
+      "timestamp": "Oct 8, 2025 · 7:46 PM UTC",
+      "url": "https://twitter.com/Dune/status/1976011374234145068#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975893949224276046#m",
+      "content": "Fired up to hit the stage at @Futurist_conf on Nov 5. \n\nThe global blockchain community is coming to my backyard in Miami and it’s going to be big.\n\nJoining an all-star lineup with @RealTristan13 @IGGYAZALEA @FuturFlo @TomBilyeu @andrebeganski @OliverMaroney",
+      "timestamp": "Oct 8, 2025 · 12:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975893949224276046#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975953111576408211#m",
+      "content": "📣New Panel: Data, Defense, and Decentralization: Security for the Onchain Era\n \nPanelists:\n▪️ @eranbarak, @shieldedtech\n▪️ @Arnno39, @Dune\n▪️ @0xKimberly, @OnchainCity\n▪️ @WCrook121465, @FP_Block\n\nModerator:\n▪️ @andrebeganski, @DecryptMedia\n \nNov 5-6, 2025 | Greater Miami, FL 💫\nThe future is at Futurist Conference 💫",
+      "timestamp": "Oct 8, 2025 · 3:55 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975953111576408211#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975944725493399734#m",
+      "content": "Hiring our first SDR at @Dune\n\nMission: Sell onchain data to enterprises and builders\n\nOutbound genius. Data-driven. Crypto native. HubSpot master. Sliding into DMs is your craft. US or Europe only.\n\nApply now👇\ndune.com/careers?ashby_jid=4…",
+      "timestamp": "Oct 8, 2025 · 3:21 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975944725493399734#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973426486922354973#m",
+      "content": "The Dune team will be at @Uniswap Cup on November 16th, Buenos Aires ⚽🇦🇷",
+      "timestamp": "Oct 1, 2025 · 4:35 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973426486922354973#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975927048754311291#m",
+      "content": "Join us at DuneCon.com 🇦🇷",
+      "timestamp": "Oct 8, 2025 · 2:11 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975927048754311291#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975909130738315312#m",
+      "content": "dune.com/careers",
+      "timestamp": "Oct 8, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975909130738315312#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975909118297965013#m",
+      "content": "We’re hiring a Growth PM 🚀\n\nIf you like:\n\n⚡ Optimizing conversion across the funnel\n⚡ Running bold experiments to boost activation & engagement\n⚡ Defining and owning the growth metrics that matter\n\n… Bring your builder mindset and help reshape how the world uses crypto data 👇",
+      "timestamp": "Oct 8, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975909118297965013#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975898864118096359#m",
+      "content": "Join us tomorrow 🗣️",
+      "timestamp": "Oct 8, 2025 · 12:19 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975898864118096359#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975881602141175822#m",
+      "content": "thBILL by @Theo_Network has surpassed $100M Market Cap on Arbitrum on the back of the DRIP Incentive Campaign.\n\nOver $83M thBILL (Either in the form of PT or thBILL) has been supplied to @MorphoLabs.\n\nHuge congrats to the team!",
+      "timestamp": "Oct 8, 2025 · 11:10 AM UTC",
+      "url": "https://twitter.com/Dune/status/1975881602141175822#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975198910559011176#m",
+      "content": "#DuneCon25 is for serious builders in the industry — real businesses, real connections, real progress. You won’t find people wandering aimlessly; everyone here has a purpose.\n\nApply for your ticket now: dune.com/dunecon",
+      "timestamp": "Oct 6, 2025 · 1:58 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975198910559011176#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975622151622500677#m",
+      "content": "🚨 DuneCon speaker confirmed, here we go!\n\n@danimimm, Growth Lead at @MoonwellDeFi \n\nA Brazilian voice in DAO governance, building the bridge between AI, yield, and onchain credit 🇧🇷\n\nSee you on stage at #DuneCon25 in Buenos Aires on Nov 19",
+      "timestamp": "Oct 7, 2025 · 6:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975622151622500677#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975622185034391817#m",
+      "content": "Shoutout to @sealaunch_ dashboards powering the @aave × @ethena_labs case study\n\n• USDe → $10B in 500 days (now $14B+)\n• Looping & leverage (sUSDe / PT-sUSDe)\n• 50%+ USDe-related assets on Aave (now 42%)",
+      "timestamp": "Oct 7, 2025 · 6:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975622185034391817#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975504166232727679#m",
+      "content": "🚨 Catch us at @Dune #DuneCon25 🇦🇷\n\nOur very own @arlequin_eth will be taking the stage in Buenos Aires on Nov 19 to talk about bringing on-chain data analysis and security together for the builders, and AI can catch it before execution.\n\n🔍 Data, patterns, and defense: live at #Devconnect week!\n\n🗓️ Nov19 | Argentina",
+      "timestamp": "Oct 7, 2025 · 10:11 AM UTC",
+      "url": "https://twitter.com/Dune/status/1975504166232727679#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975592743922491680#m",
+      "content": "Apply for your #DuneCon25 ticket here: dunecon.com",
+      "timestamp": "Oct 7, 2025 · 4:03 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975592743922491680#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975546767690375313#m",
+      "content": "Somnia’s mission is to bring open, composable onchain worlds at web2 scale. Early data backs it: high throughput, low fees, growing users and contracts. With compiled EVM + MultiStream + IceDB, it’s a serious venue for mass-market apps.\ndune.com/blockchains/somnia",
+      "timestamp": "Oct 7, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975546767690375313#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975546755107414216#m",
+      "content": "On @Somnia_Network gaming: @playvariance, a free-to-play, anime-inspired roguelike platformer RPG by Realm Studios and among the first on Somnia, shows early tractionshows early traction, with 10,963 mints by 6,260 minters and 5,078 holders; 11% has more than 100 NFTs.",
+      "timestamp": "Oct 7, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975546755107414216#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975546739072639424#m",
+      "content": "On Somnex ( @Somnia_Network native DEX), first 36 days:\n\n• 813,604 swaps by 82,598 swappers\n• End of Sept saw over 100k daily swaps and ~10–20k daily swappers\n• SOMI & USDC.e dominate (~45–49% share)\n\nSomnex also has aggregator, perps, and liquidity layer live.",
+      "timestamp": "Oct 7, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975546739072639424#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975546722874237004#m",
+      "content": "@Somnia_Network by the numbers (30d):\n\n• 842M+ total tx; early Sept saw >100M tx, ~1,300 TPS\n• 300k total active addresses; 100k+ DAUs peak (now ~70k)\n• Avg tx fee ≈ 0.00015 $SOMI\n• 435k+ contracts by 5.3k deployers, number of contracts deployed on the rise in October",
+      "timestamp": "Oct 7, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975546722874237004#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975546704125698076#m",
+      "content": "30 days since @Somnia_Network data landed on Dune!\n\nSomnia is a high-performance, EVM-compatible L1 for real-time, mass-consumer apps (games, social, ...) with sub-second finality and ~1M TPS benchmarks via compiled EVM, MultiStream, IceDB & advanced compression.\n\nA quick recap👇",
+      "timestamp": "Oct 7, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975546704125698076#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975292160452010372#m",
+      "content": "Apply for #DuneCon25 ticket at DuneCon.com",
+      "timestamp": "Oct 6, 2025 · 8:08 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975292160452010372#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975286791273128399#m",
+      "content": "Excited to speak at DuneCon in November!",
+      "timestamp": "Oct 6, 2025 · 7:47 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975286791273128399#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975276138860847400#m",
+      "content": "DuneCon 2025 [ @Dune ]\n\nDate : 19 November 2025 (full-day conference)\n\nLocation : Buenos Aires, Argentina\n\nHost : Dune Analytics – the on-chain data platform",
+      "timestamp": "Oct 6, 2025 · 7:05 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975276138860847400#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975267561114845371#m",
+      "content": "Nice lookin graph",
+      "timestamp": "Oct 6, 2025 · 6:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975267561114845371#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975150897593246202#m",
+      "content": "We are hiring an analytics engineer for @Dune's data team. \n\nthe worlds data is rapidly moving onchain, we are looking for great engineers/analysts to help to turn that data into actionable insights. At Dune we are sitting at the intersection of builders, institutions and investors, we work with everyone. No week is like the last, there is always new challenges to face and new insights to discover. It's great fun and an incredibly high impact role, your work will be consumed and appreciated by thousands of analysts.\n\nthe role\n- build/maintain sql models for on-chain standardization - extend datasets with new entities/metrics + docs/tests \n- model new chains with their quirks \n- reverse-engineer contracts/protocols for interpretation\n- hands-on dbt/sqlmesh for orchestration/testing \n- partner on reliable pipelines + community contributions\n\nyou are a fit if: \n- blockchain data pro (dune power user) \n- smart contract/protocol modeling exp \n- strong sql on big data + optimized queries \n- dbt/sqlmesh exp \n- autonomous builder mindset  \n- must be in EU/ET timezone\n\nperks: \ntop salary/equity (90% discount strike, 10yr exercise), 5w pto, remote/flex, no meeting spam, health insurance, parental leave, amazing team onsites, coworking travel allowance, home office setup, great team + swag. \n\nApply here (pls:\njobs.ashbyhq.com/dune/f38466…\n\nfeel free to dm me if you have any questions",
+      "timestamp": "Oct 6, 2025 · 10:47 AM UTC",
+      "url": "https://twitter.com/Dune/status/1975150897593246202#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975259410365907341#m",
+      "content": "Is this panel title for DuneCon catchy enough?",
+      "timestamp": "Oct 6, 2025 · 5:58 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975259410365907341#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975260326527705232#m",
+      "content": "i suggested a Roast, Comedy Central style. but had to settle for a Data Gaslight 🔥 this might be the most creative and entertaining session you will see on stage this year.",
+      "timestamp": "Oct 6, 2025 · 6:02 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975260326527705232#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975234211696255060#m",
+      "content": "Honored to have @0xcush as Speaker at #DuneCon25!",
+      "timestamp": "Oct 6, 2025 · 4:18 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975234211696255060#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975237557907808388#m",
+      "content": "🌜🎤🌛 Moonwell contributor @danimimm will be representing us this year at #DuneCon25 in Buenos Aires.\n\nSee you there!",
+      "timestamp": "Oct 6, 2025 · 4:31 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975237557907808388#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975226917394751672#m",
+      "content": "We're hiring btw 😉 dune.com/careers",
+      "timestamp": "Oct 6, 2025 · 3:49 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975226917394751672#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975226904702775607#m",
+      "content": "How did your Q3 look? Q3 at Dune looked like this:\n\n🚢 Shipped 12 newly supported chains, 3 industry reports, DuneSQL Trino connector, Solana Decoding Upgrade, countless in-app updates…\n🌊 Making data accessible to over 1M users on Dune.com\n👫 Welcomed 5 new Duners 🌍\n💃 Secured approval for a late-night Barcelona afterparty… by promising lower infra costs 😅\n\nHere’s to shipping, celebrating, and creating a little magic along the way ✨",
+      "timestamp": "Oct 6, 2025 · 3:49 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975226904702775607#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975202250575470622#m",
+      "content": "Excited to be speaking at @Dune Con in Buenos Aires!\n\nWe'll be discussing the macro landscape for crypto adoption in LATAM, how geopolitics is being reshaped by cryptography, and where the region is headed next.\n\nSee you there!",
+      "timestamp": "Oct 6, 2025 · 2:11 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975202250575470622#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1975169240278958267#m",
+      "content": "Join us on October 22nd to bring all of your @Aptos data questions to life 🧟….and permanently lay them to rest 🪦 with our Aptos workshop dedicated to “Decoding Aptos Data”.\n\nLed by the electrifying Ying Wu, Aptos’ Lead Data Engineer, we will cover:\n\n⚡ Using Aptos’ data to investigate projects at the event level\n⚡ Using Aptos’ curated datasets to investigate stablecoin activity\n\nGet your shovels and set a reminder. We look forward to seeing you there!",
+      "timestamp": "Oct 6, 2025 · 12:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1975169240278958267#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1974908902954439095#m",
+      "content": "If it’s onchain, it’s on Dune.",
+      "timestamp": "Oct 5, 2025 · 6:45 PM UTC",
+      "url": "https://twitter.com/Dune/status/1974908902954439095#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1974580067549561243#m",
+      "content": "7/ That’s a wrap for Dune Digest #30.\n\nThe flywheel is spinning—quality base assets → higher-yield products → DeFi integration → broader access.\n\nIf you haven’t yet, grab the full report for the data, dashboards, and theses behind the trendlines: dune.com/rwareport2025.",
+      "timestamp": "Oct 4, 2025 · 8:59 PM UTC",
+      "url": "https://twitter.com/Dune/status/1974580067549561243#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1974580055075656039#m",
+      "content": "6/ Access keeps widening.\n\nOn @plumenetwork Nest: nTBILL & nCREDIT ~100K holders, nALPHA ~200K, nBASIS multichain via @Plasma. Beyond treasuries: GAIB TVL $72M → $115M (GPU-backed yield + USD1 vault), @Spiko_finance’s EUTBL passed 1,500 holders.\n\n@Securitize hit @SeiNetwork with Apollo’s ACRED; @Ripple XRP Ledger’s MPT advancing RWA issuance.",
+      "timestamp": "Oct 4, 2025 · 8:59 PM UTC",
+      "url": "https://twitter.com/Dune/status/1974580055075656039#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1974580037929320892#m",
+      "content": "5/ DeFi composability surges.\n\n@aave Horizon RWA market: $180M size (Superstate USCC $56M, RLUSD $54M, Anemoy JTRSY $34M). @centrifuge deRWA expanded to Stellar ($20M into deJTRSY/deJAAA; deJAAA > $1M DEX vol on Base). @Theo_Network thBILL integrated with @pendle_fi for yield trading.",
+      "timestamp": "Oct 4, 2025 · 8:59 PM UTC",
+      "url": "https://twitter.com/Dune/status/1974580037929320892#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1974580022267756930#m",
+      "content": "3/ Capital is moving up the yield curve.\n\nGrove deployed $50M into Anemoy’s ACRDX ( @plumenetwork × @centrifuge ). @maplefinance crossed $4B AUM: syrupUSDC at $2.6B AUM / $1.2B loans; syrupUSDT at $636M with its $200M @Plasma vault filled instantly.\n\n@OndoFinance Global Markets passed $300M TVL (ETFs = 61%). @galaxyhq tokenized GLXY on @solana (SEC-registered; holders tripled to 70+). @centrifuge launched SPXA, the first licensed S&P 500® index fund token, on @base ( @wormhole expansion next).",
+      "timestamp": "Oct 4, 2025 · 8:58 PM UTC",
+      "url": "https://twitter.com/Dune/status/1974580022267756930#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1974580005859659992#m",
+      "content": "2/ Treasuries remain the anchor.\n\n@FTI_US’s BENJI expanded to @BNBCHAIN, while @Theo_Network’s thBILL (tokenized T-Bills) hit $100M TVL across @ethereum + @arbitrum and became #1 USD asset in Arbitrum’s DRIP ($82M market size). @galaxyhq teased a multichain money market fund (ETH, Solana, Stellar).",
+      "timestamp": "Oct 4, 2025 · 8:58 PM UTC",
+      "url": "https://twitter.com/Dune/status/1974580005859659992#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1974579990625951778#m",
+      "content": "1/ 🧵 Dune Digest #30 — this week: RWA's special edition\n\nTreasuries: thBILL $100M+, BENJI to BNB, Galaxy multichain fund\nCredit/Equities: Grove $50M ACRDX, Maple $4B+, Ondo $300M+, SPXA S&P 500\nDeFi: Aave RWA $180M, Centrifuge Stellar/Base, thBILL × Pendle\nAdoption: Nest ~200K holders, GAIB $115M, Spiko EUTBL 1.5K+\nInfra: Securitize on Sei, XRP Ledger MPT",
+      "timestamp": "Oct 4, 2025 · 8:58 PM UTC",
+      "url": "https://twitter.com/Dune/status/1974579990625951778#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1974195123736228195#m",
+      "content": "We are hiring 🗣️\n\nYes, it's all real people working hard behind the scenes to power your favourite onchain data platform. \n\nYou can be part of that too 👇",
+      "timestamp": "Oct 3, 2025 · 7:29 PM UTC",
+      "url": "https://twitter.com/Dune/status/1974195123736228195#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1974163658302501069#m",
+      "content": "Apply for your #DuneCon25 ticket at DuneCon.com",
+      "timestamp": "Oct 3, 2025 · 5:24 PM UTC",
+      "url": "https://twitter.com/Dune/status/1974163658302501069#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1974114961627414707#m",
+      "content": "FXRP isn’t only minted, it’s also earned.\n\nProvide FLR as collateral for agents and share in the rewards.\n\nHere’s how community pool rewards are flowing👇",
+      "timestamp": "Oct 3, 2025 · 2:10 PM UTC",
+      "url": "https://twitter.com/Dune/status/1974114961627414707#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1974075246740439375#m",
+      "content": "Data is the new marketing.",
+      "timestamp": "Oct 3, 2025 · 11:33 AM UTC",
+      "url": "https://twitter.com/Dune/status/1974075246740439375#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1956333631216980463#m",
+      "content": "While Polygon dominates Latam and Asia, @Celo continues to gain traction in the African market with products such as @minipay, supported by @cLabs and @opera, and the stablecoin $cUSD.\n\nRegional stablecoins such as $cGHS and $KES on @Celo account for 90% of the total volume in Africa. \n\nthx for data: @_muhraf_",
+      "timestamp": "Aug 15, 2025 · 12:34 PM UTC",
+      "url": "https://twitter.com/Dune/status/1956333631216980463#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973882358492508580#m",
+      "content": "The best @Polymarket datasets are on Dune 👇🏻",
+      "timestamp": "Oct 2, 2025 · 10:46 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973882358492508580#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973758088629862625#m",
+      "content": "As the 4th week of @arbitrum's DRIP Incentive Program concludes, here are this week's highlights:\n\n1.  Overall Ecosystem Highlights:\n• Combined Market Cap of yield-bearing USD Eligible Assets has reached a new high of $497M MC (+$67M / +16% WoW)\n• Despite the launch of Plasma, Arbitrum's Lending DeFi TVL has grown ~5% WoW to a new high of $1.8B\n• USDC Borrows up 10% WoW to $542M across Lending Markets on Arbitrum\n• DEX Liquidity of USD Eligible Assets grew by $12M to $96M (+15% WoW)\n• Gross Protocol Fees that have grown WoW:\n- @0xFluid +22% (+84% MoM)\n- @eulerfinance: +23% (+167.5% MoM)\n- @SiloFinance: 36% (+20% MoM)\n\n2. Protocol Highlights :\n• @MorphoLabs: New Market Size ATH of $300M. Growth is primarily driven by USDC borrows\n• Euler: New Market Size ATH of $177m (+65% WoW). USDC market size (and loans) and PT-USDai supply were the main contributors to this week's growth\n• Silo: Reclaimed Market Size ATH of $100M (+8% WoW). Silo continues to show strong signs of USDC and WETH looping, across rsETH/weETH/PT-sUSDai deposits and USDC/WETH loans\n\n3. Asset Highlights:\n• thBILL now has the largest Market Size of all eligible USD assets at $82M, followed by USDai at $69M and syrupUSDC at $60M\n• Despite $250M USDai has been minted on Plasma, 67% of them has been bridged back to Arbitrum",
+      "timestamp": "Oct 2, 2025 · 2:32 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973758088629862625#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973755183965593970#m",
+      "content": "We don’t compete \n\nWe empower 🌊",
+      "timestamp": "Oct 2, 2025 · 2:21 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973755183965593970#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973755014134071789#m",
+      "content": "Download your RWA report here",
+      "timestamp": "Oct 2, 2025 · 2:20 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973755014134071789#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973755011567063191#m",
+      "content": "Everything is coming onchain!",
+      "timestamp": "Oct 2, 2025 · 2:20 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973755011567063191#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973720171916443855#m",
+      "content": "More roles coming soon 👀 \n\nPut an notification for our X account so you don’t miss🔔",
+      "timestamp": "Oct 2, 2025 · 12:02 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973720171916443855#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973719911580189127#m",
+      "content": "The memecoin analysis must flow 🌊\n\nPowered by Dune.",
+      "timestamp": "Oct 2, 2025 · 12:01 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973719911580189127#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973693278135652446#m",
+      "content": "Franklin Templeton's tokenized Money Market Fund BENJI earned ~$121k in management fees in August but paid only $28 in gas (0.02%).\n\nThe direct revenue from most RWAs can be minimal. To understand their real value to a blockchain ecosystem, we can classify them:\n\nPlatinum Tier – High Velocity\n• Assets integrated with high-transaction activities like payments or trading\n• Example: Stablecoins or tokenized stocks\n\nGold Tier – Highly Composable\n• RWAs powering high-velocity activities like stablecoins, credit, derivatives, or settlement, adding transparency vs off-chain collateral\n• Brings network effects: trust, branding, institutional adoption\n• Example: Securitize’s BUIDL as USDtb collateral\n\nSilver Tier – Distributed & Primary Market Focused\n• Onboards large user bases onchain but limited composability\n• Example: Spiko’s USTBL/EUTBL\n\nBronze Tier – Low Activity\n• Few holders, zero on-chain transactions, low primary market volume\n• Only for inflating RWA metrics for social media\n\nNot all RWAs are created equal. On-chain velocity, composability, and utility matter far more than headline AUM.",
+      "timestamp": "Oct 2, 2025 · 10:15 AM UTC",
+      "url": "https://twitter.com/Dune/status/1973693278135652446#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973160681743818927#m",
+      "content": "Hackathons are not only for engineers.\n\nIf you work in data and have experience with tools like dashboards, analysis, visualization, this track is for you.\n\n@Dune is awarding $10,000 for the best Dune Analytics Integration.\n\nRegister before October 1st👇\nlink.flow.com/ForteHacksHack…",
+      "timestamp": "Sep 30, 2025 · 10:59 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973160681743818927#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973460055275217031#m",
+      "content": "Yes @hildobby will be here at #DuneCon25 🤩\n\nApply for your ticket today DuneCon.com",
+      "timestamp": "Oct 1, 2025 · 6:48 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973460055275217031#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973364975822377038#m",
+      "content": "🚀 BTC-Fi Growth Report on Sui (Feb–Sep 2025)\nWith @Dune now integrated with @SuiNetwork, we can track the full journey of BTC-Fi adoption.\nSince launch in Feb 2025, activity scaled from experiments to billions in lifetime volume.\n\n💡 Unique opportunities now exist only on Sui to put your idle BTC to work - clear proof of BTC-Fi growth. 👇",
+      "timestamp": "Oct 1, 2025 · 12:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973364975822377038#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973448003072696741#m",
+      "content": "You’d be surprised 🤫",
+      "timestamp": "Oct 1, 2025 · 6:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973448003072696741#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973426498909720822#m",
+      "content": "Sign up to play for the Dune team here: unicup.uniswap.org/",
+      "timestamp": "Oct 1, 2025 · 4:35 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973426498909720822#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973367697808433516#m",
+      "content": "We listen\nWe care \nWe make it happen \n🫶🏻",
+      "timestamp": "Oct 1, 2025 · 12:41 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973367697808433516#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973367136900034697#m",
+      "content": "🇦🇷Apply for your #DuneCon25 ticket at DuneCon.com",
+      "timestamp": "Oct 1, 2025 · 12:39 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973367136900034697#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973357281468428410#m",
+      "content": "Dune dashboard spotted at @token2049 by @Kalshi 😉\n\n\"Prediction markets as the next wave after memecoins.\"",
+      "timestamp": "Oct 1, 2025 · 12:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973357281468428410#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973191148782133548#m",
+      "content": "At @token2049? 🇸🇬\n\nCome by the @MEXC_Official stage at 10:30 AM to hear what @hagaetc has to share about the past 10 years on the crypto rollercoaster. 🎢",
+      "timestamp": "Oct 1, 2025 · 1:00 AM UTC",
+      "url": "https://twitter.com/Dune/status/1973191148782133548#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973126664520687821#m",
+      "content": "🎟️Apply for your #DuneCon25 ticket at dunecon.com",
+      "timestamp": "Sep 30, 2025 · 8:43 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973126664520687821#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973100553275318420#m",
+      "content": "We’re live on @Dune ✨\n\nNow you can explore Walrus metrics, liquidity, and usage in real time.\n\nStart diving into decentralized data👇",
+      "timestamp": "Sep 30, 2025 · 7:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973100553275318420#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973100033181622480#m",
+      "content": "Sui has been growing fast in BTCfi, DeFi, gaming & beyond.\nNow you can track it all on @Dune - live today.",
+      "timestamp": "Sep 30, 2025 · 6:58 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973100033181622480#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973018295537463507#m",
+      "content": "Explore @WalrusProtocol dashboard on Dune: dune.com/insights4vc/walrus-…",
+      "timestamp": "Sep 30, 2025 · 1:33 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973018295537463507#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973018283428450628#m",
+      "content": ". @WalrusProtocol under the hood:\n\nRed Stuff low-overhead encoding, incentivized proofs of availability, tokenized storage markets, multi-chain access ( @SuiNetwork + others), secured by WAL via dPoS (staking, governance, recovery). Build data-heavy apps without sacrificing speed or verifiability.",
+      "timestamp": "Sep 30, 2025 · 1:33 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973018283428450628#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973018270447054868#m",
+      "content": "Usage on @WalrusProtocol:\n\n2.7M active blobs. After June 14 “Quilt” upgrade: fewer blobs/day, but bigger average size. Most registered storage passed the Walrus certification step, tracking confirmed and active storage.",
+      "timestamp": "Sep 30, 2025 · 1:33 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973018270447054868#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973018247915311127#m",
+      "content": ". @WalrusProtocol is decentralized data availability on @SuiNetwork: store/read/manage large media & data (video, images, PDFs).\n\nProgrammable storage (tokenized capacity), composable with Move smart contracts.",
+      "timestamp": "Sep 30, 2025 · 1:33 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973018247915311127#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973017604211224746#m",
+      "content": "That’s a wrap for now. @SuiNetwork is live on Dune with decoded & curated tables, queryable and dashboard-ready.\n\nBuild, fork, and share your Sui analysis; tag @dune + @SuiNetwork so we can spotlight your work.\n\nStart exploring now 👉 dune.com/blockchains/sui",
+      "timestamp": "Sep 30, 2025 · 1:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973017604211224746#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973017591334707474#m",
+      "content": ". @WalrusProtocol is @SuiNetwork DA layer:\n\n• ~2.47M active blobs\n• Post-June 14 “Quilt” upgrade: fewer blobs/day but larger avg size\n• Explore blobs/day & per-epoch, active vs cumulative storage, size buckets (<1 MB → 1 GB+), and certified storage trends.",
+      "timestamp": "Sep 30, 2025 · 1:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973017591334707474#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973017574565933245#m",
+      "content": "BTCfi on @SuiNetwork is growing fast:\n\n• ~$20M/day, $2.9B since Feb 1\n• Share of Sui overall DEX volume: before June ~2%, after 10%\n• ~3k traders & ~30k trades/day\n• Volume mostly BTC↔BTC/SUI\n• Token share: @wallet xBTC token 39%, @Lombard_Finance LBTC 33%, BTC 25%",
+      "timestamp": "Sep 30, 2025 · 1:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973017574565933245#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973017558560497849#m",
+      "content": "DEX activity on @SuiNetwork surged since 2025:\n\n• Daily average ~580k trades/day, ~65k traders, ~$300M/day\n• Top pairs: SUI–USDC $30.9B (36%), USDC–USDT 18%, DEEP–SUI 6%\n• Venues: @MMTFinance leads daily; cumulative vol: @CetusProtocol $48B, @bluefinapp $23B, @MMTFinance $13B",
+      "timestamp": "Sep 30, 2025 · 1:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973017558560497849#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973017542706045377#m",
+      "content": "Overview: @SuiNetwork\n\n• 3.55B total tx; 11.02B commands → 3.10 cmds/tx\n• ~3M tx/day & ~9M commands/day\n• ~1M daily active senders\n• Low, predictable fees by design (horizontal scaling & gas model) → avg cost ~$0.004 per tx",
+      "timestamp": "Sep 30, 2025 · 1:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973017542706045377#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973017518035161218#m",
+      "content": ". @SuiNetwork is a programmable L1 built for internet-scale:\n\n• Horizontal scaling + fast finality → low, steady gas\n• Safe, expressive Move for mainstream devs\n• Rich, object-centric assets (dynamic/composable NFTs)\n• UX boosts: zkLogin, parallel tx, Programmable Tx Blocks",
+      "timestamp": "Sep 30, 2025 · 1:30 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973017518035161218#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1973014122888655134#m",
+      "content": "Apply for your #DuneCon ticket at DuneCon.com",
+      "timestamp": "Sep 30, 2025 · 1:16 PM UTC",
+      "url": "https://twitter.com/Dune/status/1973014122888655134#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1972995185010495779#m",
+      "content": "Download the RWA onchain data report👇",
+      "timestamp": "Sep 30, 2025 · 12:01 PM UTC",
+      "url": "https://twitter.com/Dune/status/1972995185010495779#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1972995173065142687#m",
+      "content": "Sign up for the event here luma.com/unitedefi",
+      "timestamp": "Sep 30, 2025 · 12:01 PM UTC",
+      "url": "https://twitter.com/Dune/status/1972995173065142687#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1972995160737984707#m",
+      "content": "Have you read the famous RWA onchain data report by @Dune and @RWA_xyz?\n\nJoin our co-founder & CEO, @hagaetc, in Singapore on October 2nd to discuss everything RWAs irl with @SrWillWill, @BitgetWallet, @BackedFi, @laszlo__szabo, @Kiln_finance, and @TheBlock__.",
+      "timestamp": "Sep 30, 2025 · 12:01 PM UTC",
+      "url": "https://twitter.com/Dune/status/1972995160737984707#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1972983490871538131#m",
+      "content": "#DuneCon25 is not a side event ☝🏻\n\nApply for your ticket at dunecon.com",
+      "timestamp": "Sep 30, 2025 · 11:14 AM UTC",
+      "url": "https://twitter.com/Dune/status/1972983490871538131#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1972773202717016368#m",
+      "content": "Not an official Dune swag but who doesn’t like a chart on their shirt? 🤩",
+      "timestamp": "Sep 29, 2025 · 9:19 PM UTC",
+      "url": "https://twitter.com/Dune/status/1972773202717016368#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1972670681306591503#m",
+      "content": "1/ I updated cex.addresses on @dune\n📫 33.2k addresses\n🏦 355 CEXs\n⛓️ 40 chains",
+      "timestamp": "Sep 29, 2025 · 2:31 PM UTC",
+      "url": "https://twitter.com/Dune/status/1972670681306591503#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1972686080685043802#m",
+      "content": "Monday treat! \n\n@sealaunch_ whipped up a @Dune dashboard and leaderboard for the Lens $GHO rewards. 🤸‍♀️\n\ndune.com/lens/lens-token-dis…",
+      "timestamp": "Sep 29, 2025 · 3:33 PM UTC",
+      "url": "https://twitter.com/Dune/status/1972686080685043802#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1972654361613353209#m",
+      "content": "Join the Forte Hacks and split the $10,000 prize pool when you build dune dashboards!",
+      "timestamp": "Sep 29, 2025 · 1:27 PM UTC",
+      "url": "https://twitter.com/Dune/status/1972654361613353209#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1972637471646310562#m",
+      "content": "Get your #DuneCon25 ticket at DuneCon.com",
+      "timestamp": "Sep 29, 2025 · 12:19 PM UTC",
+      "url": "https://twitter.com/Dune/status/1972637471646310562#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1972619887718830586#m",
+      "content": "gm \n\nToday is Dashboard Monday, send us your favourite @dune chart 📊",
+      "timestamp": "Sep 29, 2025 · 11:10 AM UTC",
+      "url": "https://twitter.com/Dune/status/1972619887718830586#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1972087580700418226#m",
+      "content": "Join the Dune team! More openings coming 🔜",
+      "timestamp": "Sep 27, 2025 · 11:54 PM UTC",
+      "url": "https://twitter.com/Dune/status/1972087580700418226#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971983282960322771#m",
+      "content": "7/ That’s a wrap for #29.\n\nIf you’re into onchain data stories like these, subscribe to Dune Digest and never miss a beat: dune.com/email-signup",
+      "timestamp": "Sep 27, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971983282960322771#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971983270557712620#m",
+      "content": "6/ @chainlink SVR lets protocols reclaim non-toxic MEV (up to ~80% OEV) via SVR feeds. @aave led the roll-out and expanded coverage; SVR has reclaimed $1.7M to date, $500K in the last 7d ($340K from Aave liquidations).",
+      "timestamp": "Sep 27, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971983270557712620#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971983254283833621#m",
+      "content": "5/ @FlareNetworks FAssets: FXRP live on Sept 24. ~4.5M minted day one (5M cap hit); cap → 10M next week. Core Vault, mixed collateral, ~100%+ PoR. Effectively inaugurates XRPFi, XRP fully composable in DeFi across Flare.",
+      "timestamp": "Sep 27, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971983254283833621#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971983238697832726#m",
+      "content": "4/ Since Sept 18, @MorphoLabs powers @USDC lending on @coinbase (expanding Jan’s BTC-backed borrowing). Via @SteakhouseFi vaults, USDC earns in-app yield: supply ~$4.4M → ~$35M (Sept 18–25), originations ~$6M → ~$38M; total borrow originations ~$981M.",
+      "timestamp": "Sep 27, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971983238697832726#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971983223225045004#m",
+      "content": "3/ On @BNBCHAIN, @Aster_DEX is ripping: $1.44B TVL, $48B 24h volume, ~$255M OI. On 7-day averages it appears to overtake @HyperliquidX ($20.93B vs $10.41B). Some analysts flag possible wash trading.",
+      "timestamp": "Sep 27, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971983223225045004#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971983207328632973#m",
+      "content": "2/ @Plasma mainnet went live Sept 25 with @LayerZero_Core OFT + @StargateFinance. Plasma saw ~$3.5B inflows on day 1. Since Sept 23: net $5.41B inflows, ~8.6% of all LayerZero inflows. Launch stack includes @aave, @ethena_labs, @Binance, and @maplefinance syrupUSDT.",
+      "timestamp": "Sep 27, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971983207328632973#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971953004955029750#m",
+      "content": "Join us at DuneCon — Buenos Aires • Nov 19, 2025\n\nDuneCon is free to attend and application-based only. Come meet these builders IRL.\ndune.com/dunecon",
+      "timestamp": "Sep 27, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971953004955029750#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971952992867045800#m",
+      "content": "Read the {LATAM report - the Money Layer} to dive deeper into the vast ecosystem of LATAM web3 projects.",
+      "timestamp": "Sep 27, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971952992867045800#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971916410965446784#m",
+      "content": "A good weekend to catch up on RWAs🤌🏻",
+      "timestamp": "Sep 27, 2025 · 12:34 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971916410965446784#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971666089508852009#m",
+      "content": "⚠️ @blast Data Sunset on the Dune App ⚠️\n\nEffective today, BLAST data will no longer update on the Dune App.\n\nKey details:\n🟡 Existing BLAST datasets remain accessible but frozen as of Sep 26th, 2025.\n🟡 Queries/dashboards will reflect historical data only.\n🟡 BLAST is still available through the Sim API\nsim.dune.com/api\n\nFor users:\n1️⃣ Export BLAST data if needed. docs.dune.com/learning/how-t…\n2️⃣ Explore 100+ other active chains on Dune.\ndune.com/product/data-catalo…",
+      "timestamp": "Sep 26, 2025 · 8:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971666089508852009#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971639907551412359#m",
+      "content": "‼️Please be aware that the handle @dunesim, has been compromised. We are actively working to regain control and have already flagged the account with X team.\n\nPlease do not engage with, click links, or respond to any content posted from that account until we confirm from this account @dune that access has been restored.",
+      "timestamp": "Sep 26, 2025 · 6:15 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971639907551412359#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971621634009387027#m",
+      "content": "$5.4B in net deposits to @Plasma.\n\nTrillions.",
+      "timestamp": "Sep 26, 2025 · 5:03 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971621634009387027#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971620861078917596#m",
+      "content": "5/ Stay up to speed on @SuccinctLabs via live Dune dashboards—proofs, fees, staking, prover stats.\n\nBookmark them and share insights with the community as new data rolls in.",
+      "timestamp": "Sep 26, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971620861078917596#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971620847778685382#m",
+      "content": "4/ Recent Milestones\n\n• Sep 9: @AcrossProtocol v4 fully migrated ZK proving to the Succinct Prover Network, then launched USDC bridging on @HyperliquidX HyperEVM powered by SPN proofs.\n• Sep 16 (Mantle): @Mantle_Official launched OP Succinct as a ZK rollup (w/ @Eigen_DA), already $2B+ TVL.",
+      "timestamp": "Sep 26, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971620847778685382#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971620835082620973#m",
+      "content": "3/ Fees & Provers\n\n• Cumulative fees: ~$253.7k\n• Work done: ~813 tPGUs\n• Top by tPGUs: ZAN ~399, A41 ~141, Mintair ~111, InfStones ~76, Cysic ~71.",
+      "timestamp": "Sep 26, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971620835082620973#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971620817814597967#m",
+      "content": "2/ Activity\n\n• Proofs requested: 367,247\n• Proofs fulfilled: 312,711 → ~85% overall fill\n• Daily throughput: ~5–8k proofs\n\nAfter an August dip in fulfillments, fill rate rebounded—recent days are effectively ~100%.",
+      "timestamp": "Sep 26, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971620817814597967#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971393683749490941#m",
+      "content": "I'm huge fans of @apecoin network, and I was so impressed to see their weekly recap (Sep 19–25, 2025) go absolutely MASSIVE! 🚀\nTxs more than doubled (over 1.22 Million) and wallets surged nearly 5x (95.9K from the previous week) in just one week! No need to be concerned about the market… it only has scalable potential! 🤑 \n\n📊 Weekly Snapshot:\n• Txs: 1.22M (~174K/day) \n• Wallets: 95.9K (~13.7K/day) \n• Peak: Sep 20 → 289K txs, 37K wallets \n\n📈 Week-on-Week Growth:\n• Txs: +114%\n• Wallets: +465%\nIn my opinion, it looks like ApeChain is not just scaling, it is officially in hyper-adoption!🔥\n\nDive into the data on my @Dune dashboard.\nLink in the first comment 👇\n@wallchain_xyz",
+      "timestamp": "Sep 26, 2025 · 1:57 AM UTC",
+      "url": "https://twitter.com/Dune/status/1971393683749490941#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971590637389860989#m",
+      "content": "Join us at DuneCon — Buenos Aires • Nov 19, 2025\n\nDuneCon is free to attend and application-based only. Come meet these builders IRL.\ndune.com/dunecon",
+      "timestamp": "Sep 26, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971590637389860989#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971590625176048099#m",
+      "content": "Read the {LATAM report - the Money Layer} to dive deeper into the vast ecosystem of LATAM web3 projects.",
+      "timestamp": "Sep 26, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971590625176048099#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971587654098764096#m",
+      "content": "In the first 4 hours alone, 5M XRP were bridged to Flare 👇",
+      "timestamp": "Sep 26, 2025 · 2:48 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971587654098764096#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971577111401087347#m",
+      "content": "Build a killer Dune dashboard for your project and earn from the $10,000 Dune prize pool 🏆",
+      "timestamp": "Sep 26, 2025 · 2:06 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971577111401087347#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971561581822837115#m",
+      "content": "There must be some important signal in this report if everyone is reading it 🤔",
+      "timestamp": "Sep 26, 2025 · 1:04 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971561581822837115#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971547541297910080#m",
+      "content": "gm, if you spot a @dune dashboard at KBW or @token2049 \n\nTag us 😎",
+      "timestamp": "Sep 26, 2025 · 12:08 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971547541297910080#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971547114271625363#m",
+      "content": "Apply for your #DuneCon25 ticket at DuneCon.com",
+      "timestamp": "Sep 26, 2025 · 12:07 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971547114271625363#m",
+      "author": "Dune"
+    },
+    {
+      "id": "1971319982807187825#m",
+      "content": "DuneCon is going to be HUGE !\n\nWhat would you like me to talk about ?!\n\nI'm tempted to talk about how we're building for the agentic future with @crossmint",
+      "timestamp": "Sep 25, 2025 · 9:04 PM UTC",
+      "url": "https://twitter.com/Dune/status/1971319982807187825#m",
+      "author": "Dune"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-20T23:07:02.355Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 29621,
+    "cursorTrail": [
+      "DAAHCgABG3vUtca__-oLAAIAAAATMTk3OTU3MDczNTE0OTY3MDY4MwgAAwAAAAIAAA",
+      "DAAHCgABG3vUtca__9ULAAIAAAATMTk3ODg1Mzg5NzYwMDEyMzI0MwgAAwAAAAIAAA",
+      "DAAHCgABG3vUtca__8ALAAIAAAATMTk3ODQzNzEyNjg2Njc1MTk4NwgAAwAAAAIAAA",
+      "DAAHCgABG3vUtca__6sLAAIAAAATMTk3NzA1NjY2MTg4MzA0Mzk5MQgAAwAAAAIAAA",
+      "DAAHCgABG3vUtca__5YLAAIAAAATMTk3NTk2MDg0NjA4Mjk1NzQ0OQgAAwAAAAIAAA",
+      "DAAHCgABG3vUtca__4ELAAIAAAATMTk3NTI3NzAyNzAxMzEwNzczOAgAAwAAAAIAAA",
+      "DAAHCgABG3vUtca__20LAAIAAAATMTk3NDE5NTEyMzczNjIyODE5NQgAAwAAAAIAAA",
+      "DAAHCgABG3vUtca__1gLAAIAAAATMTk3MzM2NzEzNjkwMDAzNDY5NwgAAwAAAAIAAA",
+      "DAAHCgABG3vUtca__0MLAAIAAAATMTk3Mjk5NTE2MDczNzk4NDcwNwgAAwAAAAIAAA",
+      "DAAHCgABG3vUtca__y4LAAIAAAATMTk3MTY2NjA4OTUwODg1MjAwOQgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

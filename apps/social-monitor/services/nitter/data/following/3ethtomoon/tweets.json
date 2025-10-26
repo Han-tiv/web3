@@ -1,0 +1,789 @@
+{
+  "account": {
+    "id": "1482768180699439109",
+    "screen_name": "3ethtomoon",
+    "name": "0xLeaf🍃",
+    "description": "发推只是记录自己的操作 韭菜一枚",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1885921671955255296/f_cL0l6W_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1482768180699439109/1728459856",
+    "followers_count": 18504,
+    "friends_count": 563,
+    "statuses_count": 271,
+    "favourites_count": 173,
+    "listed_count": 325,
+    "location": "",
+    "website": "",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2022-01-17 01:34:18 +08:00",
+    "url": "https://twitter.com/3ethtomoon",
+    "rest_id": "1482768180699439109"
+  },
+  "tweets": [
+    {
+      "id": "1980289510756999508#m",
+      "content": "觉得我做的不对 那就跟我做对手盘",
+      "timestamp": "Oct 20, 2025 · 3:06 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1980289510756999508#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1980243915598172634#m",
+      "content": "一个新叙事的龙头应该是估值呢\n#币安人生",
+      "timestamp": "Oct 20, 2025 · 12:05 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1980243915598172634#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1980187866291753239#m",
+      "content": "#币安人生",
+      "timestamp": "Oct 20, 2025 · 8:22 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1980187866291753239#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1978708280701518119#m",
+      "content": "皇帝说话了 我们有救了吗",
+      "timestamp": "Oct 16, 2025 · 6:23 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1978708280701518119#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1978482131514056981#m",
+      "content": "我真搞不懂了 币安到底想干什么 扶持中文 一个现货合约也不上 天天上个alpha  谁来跟你玩？上位者是真不懂下位者的处境 当初sol meme季 疯狂的上现货 到自己的bsc反倒不扶持了 当时白布也是这样 给你整出投票上币这出 一下子上5个 我真不懂你们是怎么想的 又想让人过来bsc玩 又不想做事 不是搞笑吗",
+      "timestamp": "Oct 15, 2025 · 3:24 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1978482131514056981#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1977067936423850064#m",
+      "content": "黄昏见证虔诚的信徒 #币安人生",
+      "timestamp": "Oct 11, 2025 · 5:45 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1977067936423850064#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1977023921103982787#m",
+      "content": "我也找客服登记了，整个五点多钟的操作流程也详细说明了，包括从币安钱包提bnb到交易所卡了我3小时，从理财账户提币去添加保证金，也没看到币，交易所余额显示为0 平仓平不了等问题……\n希望能有个回应。\n谢谢🙏\n@heyibinance @sisibinance",
+      "timestamp": "Oct 11, 2025 · 2:50 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1977023921103982787#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1976811933610525097#m",
+      "content": "活着已经很棒了",
+      "timestamp": "Oct 11, 2025 · 12:47 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1976811933610525097#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1976704022620037607#m",
+      "content": "不知道该说什么\n不会说话咱可以不说。。。。",
+      "timestamp": "Oct 10, 2025 · 5:38 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1976704022620037607#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1976646147080159349#m",
+      "content": "莫名其妙就好了 可以了",
+      "timestamp": "Oct 10, 2025 · 1:49 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1976646147080159349#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1976639968165732683#m",
+      "content": "币安钱包这是什么情况？\n一直提示141002 网络问题看了一下好像不是我一个人的问题…\n@heyibinance @sisibinance",
+      "timestamp": "Oct 10, 2025 · 1:24 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1976639968165732683#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1976299775419953227#m",
+      "content": "哈哈 又要走白布的剧本吗\n币安到现在还是没学会😅",
+      "timestamp": "Oct 9, 2025 · 2:52 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1976299775419953227#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1975783122508914692#m",
+      "content": "恭喜好兄弟渡劫成功进入A9\n群友太牛逼了\n币安人生太牛逼了\n还可以帮人渡劫\n#币安人生 A9渡劫成功",
+      "timestamp": "Oct 8, 2025 · 4:39 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1975783122508914692#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1975780906570031519#m",
+      "content": "22岁 A9了 心魔已破🫡",
+      "timestamp": "Oct 8, 2025 · 4:30 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1975780906570031519#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1975705454870471046#m",
+      "content": "还好最后想明白了….不然真难受了",
+      "timestamp": "Oct 7, 2025 · 11:31 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1975705454870471046#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1975678435218555234#m",
+      "content": "#币安人生 $giggle 两个加起来差不多3m的仓位\n让我赢一次大的吧🥺",
+      "timestamp": "Oct 7, 2025 · 9:43 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1975678435218555234#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1975665448005030008#m",
+      "content": "wtf #币安人生",
+      "timestamp": "Oct 7, 2025 · 8:52 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1975665448005030008#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1975657149251666077#m",
+      "content": "700k",
+      "timestamp": "Oct 7, 2025 · 8:19 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1975657149251666077#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1975650985524818428#m",
+      "content": "思考了一下 币安人生买了300k防身 \n万一真上币安 我在塞进去其他的\n#币安人生",
+      "timestamp": "Oct 7, 2025 · 7:54 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1975650985524818428#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1974860136721338577#m",
+      "content": "支持带哥",
+      "timestamp": "Oct 5, 2025 · 3:32 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1974860136721338577#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1974824909563216145#m",
+      "content": "什么意思 全是老鼠仓把空投拿走了？？？",
+      "timestamp": "Oct 5, 2025 · 1:12 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1974824909563216145#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1974795083242426812#m",
+      "content": "走了 空投发的太快了…\n怪不得不拉盘了 老板先走",
+      "timestamp": "Oct 5, 2025 · 11:13 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1974795083242426812#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1974345095895003582#m",
+      "content": "冲个榜吧",
+      "timestamp": "Oct 4, 2025 · 5:25 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1974345095895003582#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1974235683821609254#m",
+      "content": "嘿嘿😁",
+      "timestamp": "Oct 3, 2025 · 10:10 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1974235683821609254#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1974179787636932662#m",
+      "content": "这轮我就爱跟@cz_binance 大表哥玩\n$aster $giggle\naster把卖的仓位全部买回来了",
+      "timestamp": "Oct 3, 2025 · 6:28 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1974179787636932662#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1974039239772799037#m",
+      "content": "lol $giggle",
+      "timestamp": "Oct 3, 2025 · 9:10 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1974039239772799037#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1973703146510938440#m",
+      "content": "$giggle",
+      "timestamp": "Oct 2, 2025 · 10:54 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1973703146510938440#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1973083662221545741#m",
+      "content": "sell all",
+      "timestamp": "Sep 30, 2025 · 5:52 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1973083662221545741#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1972252830426906630#m",
+      "content": "重生之4战…..",
+      "timestamp": "Sep 28, 2025 · 10:51 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1972252830426906630#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1972015715432780055#m",
+      "content": "这单我可以接受腰斩的亏损 只是记录一下",
+      "timestamp": "Sep 27, 2025 · 7:09 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1972015715432780055#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1972013674580922698#m",
+      "content": "追一点好吧…最近赚的钱做点慈善\n$giggle",
+      "timestamp": "Sep 27, 2025 · 7:01 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1972013674580922698#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1971839290339725804#m",
+      "content": "无奈了 $xpl 的预期价就是1.6-1.8走完 刚好a9 等其他机会了 细水长流吧 今年不知道能不能实现这个目标",
+      "timestamp": "Sep 27, 2025 · 7:28 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1971839290339725804#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1971810203181240469#m",
+      "content": "说一下 $xpl 我看的几个大哥吧\n@HaywarZhu @Luyaoyuan1 @daidaibtc 海老师 陆老师 带哥 开盘前主要是看他们推文提供的信心 不然也不会上仓位 他们很少一致看好一个项目 所以在我看来是一个挺不错的指标",
+      "timestamp": "Sep 27, 2025 · 5:32 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1971810203181240469#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1971693917881197050#m",
+      "content": "看了一下 今年最大的亏损在 $wlfi \n这个币三进三出 亏了80wu 🤡\n总体来看\n今年下半年交易做的不错\n7月\n$bonk 30wu  $pump 30wu $vine 60wu\n\n8月\n$pump 11wu $okb 8wu $wlfi 1.5m浮盈亏40w离场\n\n9月\n$tst 20wu $aster 2.7m $xpl 2m\n\n休息了 手里的牌好像打完了",
+      "timestamp": "Sep 26, 2025 · 9:50 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1971693917881197050#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1971670300996915487#m",
+      "content": "清掉所有仓位了 开始计划旅行\n应该是赚了2m左右 就这样吧",
+      "timestamp": "Sep 26, 2025 · 8:16 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1971670300996915487#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1971310346846732300#m",
+      "content": "没有慧根就学会跟🫡 $xpl",
+      "timestamp": "Sep 25, 2025 · 8:26 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1971310346846732300#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1971253949647765982#m",
+      "content": "哈哈…简单",
+      "timestamp": "Sep 25, 2025 · 4:42 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1971253949647765982#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1971220820140884053#m",
+      "content": "很少看到中文区这群顶级kol集体看好一个项目了… $xpl\n买了2m的仓位🫡",
+      "timestamp": "Sep 25, 2025 · 2:30 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1971220820140884053#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1969627992835178946#m",
+      "content": "重生之三战 $wlfi",
+      "timestamp": "Sep 21, 2025 · 5:01 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1969627992835178946#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1969526068488126800#m",
+      "content": "x.com/i/article/196951447586…",
+      "timestamp": "Sep 20, 2025 · 10:16 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1969526068488126800#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1969497799856439421#m",
+      "content": "走了 复盘明天写吧",
+      "timestamp": "Sep 20, 2025 · 8:24 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1969497799856439421#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1969454317381042457#m",
+      "content": "nice call🫡",
+      "timestamp": "Sep 20, 2025 · 5:31 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1969454317381042457#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1969322581682446655#m",
+      "content": "这单结束写个复盘🫡",
+      "timestamp": "Sep 20, 2025 · 8:47 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1969322581682446655#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1969320317949510053#m",
+      "content": "ovo",
+      "timestamp": "Sep 20, 2025 · 8:38 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1969320317949510053#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1969092972873408727#m",
+      "content": "不好意思 没走还加仓了🫡",
+      "timestamp": "Sep 19, 2025 · 5:35 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1969092972873408727#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1968693435214278840#m",
+      "content": "Nice",
+      "timestamp": "Sep 18, 2025 · 3:07 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1968693435214278840#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1968692475771437512#m",
+      "content": "这行情 玩sol真是有福了  赚点b钱全补贴进去了",
+      "timestamp": "Sep 18, 2025 · 3:03 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1968692475771437512#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1968436262412394750#m",
+      "content": "300k - 900k\n好久没感受过这种推背感了 \n是不是好平台 我能不知道吗\n$aster",
+      "timestamp": "Sep 17, 2025 · 10:05 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1968436262412394750#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1968403182322618565#m",
+      "content": "$aster 力气有点大哦老师们",
+      "timestamp": "Sep 17, 2025 · 7:54 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1968403182322618565#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1968341849447571705#m",
+      "content": "$aster 给老师们抬轿子来了",
+      "timestamp": "Sep 17, 2025 · 3:50 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1968341849447571705#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1968141175354958177#m",
+      "content": "这合理吗 $tst",
+      "timestamp": "Sep 17, 2025 · 2:33 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1968141175354958177#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1967153628109783482#m",
+      "content": "$wlfi 真的把我节奏打得稀烂 心态都要给这个币搞废了 清仓保平安了 状态不对😓",
+      "timestamp": "Sep 14, 2025 · 9:09 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1967153628109783482#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1966379544845451691#m",
+      "content": "无敌黄哥",
+      "timestamp": "Sep 12, 2025 · 5:53 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1966379544845451691#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1962906638513582562#m",
+      "content": "失败的交易 想博一波a9最后还是赌输了\n没办法 认了\n高点浮盈1.4m\n目前把预售打的20wu的20%利润亏完了  算了算了 最后还是没有渡劫成功\n我只能说 $wlfi 团队是真傻逼 没啥好说的\n伤到了这次 应该暂时不做交易了 很难过 挫败感太强了 哎\n以后不会对任何项目有高预期了",
+      "timestamp": "Sep 2, 2025 · 3:53 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1962906638513582562#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1962082110640173316#m",
+      "content": "待我入关,自有大儒为我辩经",
+      "timestamp": "Aug 31, 2025 · 9:16 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1962082110640173316#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1961109600457068793#m",
+      "content": "$wlfi 交给时间",
+      "timestamp": "Aug 28, 2025 · 4:52 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1961109600457068793#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1961102189868572888#m",
+      "content": "时间会证明我是对的",
+      "timestamp": "Aug 28, 2025 · 4:22 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1961102189868572888#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1959571828801691958#m",
+      "content": "理解不了 亏晕过去了 哎",
+      "timestamp": "Aug 24, 2025 · 11:01 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1959571828801691958#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1959369463427666360#m",
+      "content": "看准就下注，我出手了。 $wlfi 0.288",
+      "timestamp": "Aug 23, 2025 · 9:37 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1959369463427666360#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1959047941869773182#m",
+      "content": "终于来了",
+      "timestamp": "Aug 23, 2025 · 12:20 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1959047941869773182#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1958549068873072846#m",
+      "content": "link也清仓了 不玩了不玩了",
+      "timestamp": "Aug 21, 2025 · 3:17 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1958549068873072846#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1958527192788500533#m",
+      "content": "操啊 这玩鸡毛 我真破防了\n马上卖飞200w刀了 别涨了哥 \n😭😭😭😭😭😭😭😭😭😭😭😭",
+      "timestamp": "Aug 21, 2025 · 1:50 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1958527192788500533#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1958249820696752341#m",
+      "content": "$okb 没啥好说的 菜就是菜\n高位补了4000个 确实影响心态拿不住\n25附近买了1.5m的 $link 边走边看了",
+      "timestamp": "Aug 20, 2025 · 7:28 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1958249820696752341#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1955876768365338734#m",
+      "content": "安心等wlfi了",
+      "timestamp": "Aug 14, 2025 · 6:18 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1955876768365338734#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1955876234191364388#m",
+      "content": "清掉所有仓位了 太弱了 最后okb赚8w pump 11w 截图还是得跑 哎",
+      "timestamp": "Aug 14, 2025 · 6:16 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1955876234191364388#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1955655481500004466#m",
+      "content": "亏死我了 一次没当泥鳅就这样",
+      "timestamp": "Aug 13, 2025 · 3:39 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1955655481500004466#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1955566672401899751#m",
+      "content": "看了下外面的FUD集中在OK要上市，需要和OKB切割。其实我担心的只有一点就是OK手上还有没有筹码，但从刚才的销毁速度看来，应该是手上还有很多筹码的。我不担心他们出货，反而我希望他们手上的货越多越好，Star不是当年的Star，Star是确实为这个行业做了一些事的，所以我觉得Ok也不会做那些偷鸡摸狗的事。\n那就很简单了，OKB不会被放弃，那么从这个角度而言只要去思考，OK自己的公链 20亿 贵吗。情绪溢价，炒作空间，大吗？后面还有多少潜利好？\n利益相关，我持有的OKB还没有卖。",
+      "timestamp": "Aug 13, 2025 · 9:46 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1955566672401899751#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1955524556606804135#m",
+      "content": "$okb $pump 爽",
+      "timestamp": "Aug 13, 2025 · 6:59 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1955524556606804135#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1954811114367136139#m",
+      "content": "多了点 $pump 看看怎么个事",
+      "timestamp": "Aug 11, 2025 · 7:44 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1954811114367136139#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1949773707502870900#m",
+      "content": "止盈了 要去约会了😝",
+      "timestamp": "Jul 28, 2025 · 10:07 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1949773707502870900#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1949533104005325026#m",
+      "content": "$vine",
+      "timestamp": "Jul 27, 2025 · 6:11 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1949533104005325026#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1945110803327189291#m",
+      "content": "58均价出完了 赚了32w刀休息了",
+      "timestamp": "Jul 15, 2025 · 1:18 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1945110803327189291#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1944090826839064997#m",
+      "content": "打了70wu的 $pump 能发财吗",
+      "timestamp": "Jul 12, 2025 · 5:45 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1944090826839064997#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1941864934243250377#m",
+      "content": "感谢 $bonk 报销的法拉利",
+      "timestamp": "Jul 6, 2025 · 2:20 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1941864934243250377#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1934170530606973006#m",
+      "content": "能发财吗老师们 这几天这么火了 $wlfi",
+      "timestamp": "Jun 15, 2025 · 8:46 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1934170530606973006#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1920327080434413865#m",
+      "content": "我是踏空狗",
+      "timestamp": "May 8, 2025 · 3:57 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1920327080434413865#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1912636583171485735#m",
+      "content": "有点玩不懂币圈了 心力憔悴 \n我的打法已经不适合在这个行情玩了 \n太累了\n稍微觉得有角度点的盘子 进去就是高点倒我头上\n感觉链上有行情 一玩进去 全是几十m成交量 一看市值就2m\n交易所也是 各种跑路的庄币\n想等低了买点sol跟btc 结果也不跟美股跌\n讲道理我现在赚的钱按我的花法这辈子都花不完了 \n突然不明白努力的意义是什么了\n你们觉得赚多少钱才算够呢\n评论说说 抽5个人吃个猪脚饭吧",
+      "timestamp": "Apr 16, 2025 · 10:37 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1912636583171485735#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1912178491069706668#m",
+      "content": "你们玩吧 我没有钱了 \n这行情能在链上赚到大结果的是这个👍\n我P不过你们 投降了",
+      "timestamp": "Apr 15, 2025 · 4:17 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1912178491069706668#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1910866415084810546#m",
+      "content": "花落花会开 冬去春又来\n今晚新开的号 10-130\n下班睡觉 \n还是sol好玩 bsc是什么垃圾\n打狗就用 axiom.trade/@0xleaf",
+      "timestamp": "Apr 12, 2025 · 1:23 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1910866415084810546#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1909554548873855449#m",
+      "content": "下了个币coin 发现我21年的时候绑定过账号\n居然排在凉兮后面😂😂",
+      "timestamp": "Apr 8, 2025 · 10:30 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1909554548873855449#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1908162937401045406#m",
+      "content": "有谁能告诉我这波大饼为什么这么硬吗\n可以抄底了吗\n很急 在线等",
+      "timestamp": "Apr 4, 2025 · 2:21 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1908162937401045406#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1907256685812727939#m",
+      "content": "老实了嘛老师们\n还相信cz不 还相信币安不",
+      "timestamp": "Apr 2, 2025 · 2:20 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1907256685812727939#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1905504928682201447#m",
+      "content": "我觉得 $routine 被低估了\n\n这两天大家都被 ghibli 抢占了注意力，其实 routine 这个梗在推上还在进一步发酵。\n\n越来越多的游戏官推例如大家耳熟能详的战神，FF都来玩 routine梗，还有sony之类的web2巨头。\n\nroutine无论是二创还是传播都很符合meme的精神，有趣又有saratoga贵族水这样标志性符号的加持，让人一眼记得住。\n\n市场表现来看 $routine 肯定是不尽人意的，从最高20M跌到现在只有1.5M，希望后续会有老马之类的币圈比较在意的人物发布 routine 二创进一步点燃情绪。",
+      "timestamp": "Mar 28, 2025 · 6:19 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1905504928682201447#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1902353652913991932#m",
+      "content": "bsc这链以后要是能起来真是见鬼了",
+      "timestamp": "Mar 19, 2025 · 1:37 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1902353652913991932#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1902352219330249111#m",
+      "content": "你们玩吧 \nbsc我不会再碰了\n纯畜生\n回撤40w刀",
+      "timestamp": "Mar 19, 2025 · 1:31 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1902352219330249111#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1902275862172696946#m",
+      "content": "这就是nomad吗",
+      "timestamp": "Mar 19, 2025 · 8:28 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1902275862172696946#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1902176144373547369#m",
+      "content": "真高估这两口子了 今天没动作就清仓了",
+      "timestamp": "Mar 19, 2025 · 1:51 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1902176144373547369#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1901806540807635114#m",
+      "content": "换位思考 \n想想cz这波想干什么",
+      "timestamp": "Mar 18, 2025 · 1:23 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1901806540807635114#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1901600414551962026#m",
+      "content": "有点搞了币安\n这个 #Mubarak 圣诞树我不知道你这个bsc该怎么玩",
+      "timestamp": "Mar 17, 2025 · 11:44 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1901600414551962026#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1901591418487095511#m",
+      "content": "当年我一意孤行，说什么都听不进去，如今我沉默寡言什么都说不出来。",
+      "timestamp": "Mar 17, 2025 · 11:08 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1901591418487095511#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1901436619565273234#m",
+      "content": "买回我的仓位了 赌波大的 #mubarak",
+      "timestamp": "Mar 17, 2025 · 12:53 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1901436619565273234#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1901249226576966089#m",
+      "content": "简单钱了 在bsc亏的钱赚回来了",
+      "timestamp": "Mar 16, 2025 · 12:28 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1901249226576966089#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1899225184009441289#m",
+      "content": "哎\n微薄之力\n希望大家跟爱得人都好好的🥺",
+      "timestamp": "Mar 10, 2025 · 10:25 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1899225184009441289#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1898351271150829803#m",
+      "content": "好消息 第二时间看到了\n坏消息 成纸手了 卖你妈大飞\n$cocoro",
+      "timestamp": "Mar 8, 2025 · 12:33 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1898351271150829803#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1898119116768399399#m",
+      "content": "川普真是美国人民自己的太阳\n会议全是在感谢川普 感谢伟大的总统\n😢",
+      "timestamp": "Mar 7, 2025 · 9:10 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1898119116768399399#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1895787031386824879#m",
+      "content": "跑路了 太弱了 小米报销了",
+      "timestamp": "Mar 1, 2025 · 10:43 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1895787031386824879#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1895475337309655296#m",
+      "content": "阳光总在风雨后",
+      "timestamp": "Feb 28, 2025 · 2:05 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1895475337309655296#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1895359332281393395#m",
+      "content": "买点sol 能不能在我提车前把车钱报销了🙃",
+      "timestamp": "Feb 28, 2025 · 6:24 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1895359332281393395#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1895115176669765709#m",
+      "content": "我先支持一手雷军",
+      "timestamp": "Feb 27, 2025 · 2:14 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1895115176669765709#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1893889172789723505#m",
+      "content": "相信李哥 这钱就算要不回来也能还得起",
+      "timestamp": "Feb 24, 2025 · 5:02 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1893889172789723505#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1890542301652365764#m",
+      "content": "两天亏10w刀 \n你们P吧\n圈内剩的钱只剩20w了。。。",
+      "timestamp": "Feb 14, 2025 · 11:23 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1890542301652365764#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1890232715255197708#m",
+      "content": "cz的狗你们玩吧\n玩的真恶心\n认亏了",
+      "timestamp": "Feb 14, 2025 · 2:52 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1890232715255197708#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1888600004845252811#m",
+      "content": "有一说一\n$tst 这么玩有点畜生的\n交易所用户不是人。。。。",
+      "timestamp": "Feb 9, 2025 · 2:45 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1888600004845252811#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1887129552083918919#m",
+      "content": "要金吗老师",
+      "timestamp": "Feb 5, 2025 · 1:22 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1887129552083918919#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1885926068881879467#m",
+      "content": "认领一下\n2021.5.19\n我拿着在撸空投赚的10万进圈，第一次经历爆仓，那年我18岁。那是我人生第一次哭着打电话给我爸，说我亏完了。\n\n我调整了几天心态，还是认为翻身只能靠币圈。那时候币圈科学家特别少，我也有写代码的基础，就想着靠写代码赚钱好了。后面两个月的假期，我天天研究Web3的bot应该怎么写。在那期间，我认识了绿姐，通过绿姐认识了许多到现在还在联系的好朋友。\n\n我运气比较好，写代码赚了1万刀，拿着这1万刀买了RACA。在爆仓的5个月后，我赚到了人生第一个100万。第一个100万才过了一个礼拜，RACA的浮盈就达到了1000万。可惜那会儿我对钱的概念太弱了，认为一切都是数字，就一直拿着没卖，最后卖完也就落袋不到100万。之后，我就一直玩NFT，帮人打白名单，赚一点小钱，这种情况一直持续到2024年。\n\n2024年3月，我买了1万刀的BOME，这笔钱很快变成了100万刀。但是市场立马就转熊了，经过熊市一波乱七八糟的操作，亏到只剩15万刀。（中间铭文那波我也吃到了，ATOM高点时我有100万刀的仓位，加上GameFi资产能有150万刀左右，不过这部分都拿住没卖，基本都归零了。）那阵子真挺难受的，在链上赚的钱基本都补贴交易所了。我拿着这15万刀买了河马，变成25万刀。25万刀开了1倍的币本位DOGE，两天变成40万刀。ACT上币安现货，我把身上的50万刀在300M均价全部梭哈，翻倍出完，身上又变成100万刀。然后0.9U梭哈买入PNUT，变成200万刀。很魔幻，这一切都在一个礼拜内发生了。我总是在想，如果那天河马没拉盘，大狗没拉盘，币安没上现货，我现在应该是什么样子。不过这次也回撤了，Trump发币前我全部就剩100万U，我在特朗普发推的时候买入了30万刀，经过一顿操作，交易所变成600万U，可惜最后在50U把仓位买回来了，在25U全部割肉。想开了，交易所放这么多钱不适合我，决定全部套现，只留40万刀在币圈了。过几天我就22岁了，不想继续赌了。\n\n给trump进圈的新人一些忠告吧\n不要碰合约\n不要太焦虑，相信自己。\n浮盈只是数字，落袋为安才是真。",
+      "timestamp": "Feb 2, 2025 · 5:39 AM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1885926068881879467#m",
+      "author": "3ethtomoon"
+    },
+    {
+      "id": "1839732601759641960#m",
+      "content": "If you're going to watch ONE video during this Memecoin Supercycle... Watch this.\n\n2025 will be the Year where Memecoins go Parabolic.\n\nWatch this Video to Understand Why.",
+      "timestamp": "Sep 27, 2024 · 6:23 PM UTC",
+      "url": "https://twitter.com/3ethtomoon/status/1839732601759641960#m",
+      "author": "3ethtomoon"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T00:40:25.281Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 106,
+    "pagesFetched": 7,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 14970,
+    "cursorTrail": [
+      "DAAHCgABG3vqI60__-sLAAIAAAATMTk3NDg2MDEzNjcyMTMzODU3NwgAAwAAAAIAAA",
+      "DAAHCgABG3vqI60__9cLAAIAAAATMTk2OTYyNzk5MjgzNTE3ODk0NggAAwAAAAIAAA",
+      "DAAHCgABG3vqI60__8MLAAIAAAATMTk1OTM2OTQ2MzQyNzY2NjM2MAgAAwAAAAIAAA",
+      "DAAHCgABG3vqI60__7ALAAIAAAATMTkxMjE3ODQ5MTA2OTcwNjY2OAgAAwAAAAIAAA",
+      "DAAHCgABG3vqI60__5wLAAIAAAATMTg5NTM1OTMzMjI4MTM5MzM5NQgAAwAAAAIAAA",
+      "DAAHCgABG3vqI60__5QLAAIAAAATMTg0NjMwMjEwOTI0OTI5NDY2MAgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

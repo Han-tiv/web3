@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1731196273989156864",
+    "screen_name": "anshu_code",
+    "name": "anshuman Ꙫ",
+    "description": "I make things complicated..👽 | Member @Superteam",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1850443231701458944/J2zkAYzZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1731196273989156864/1729559589",
+    "followers_count": 2064,
+    "friends_count": 317,
+    "statuses_count": 693,
+    "favourites_count": 1213,
+    "listed_count": 7,
+    "location": "india",
+    "website": "",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2023-12-03 14:19:04 +08:00",
+    "url": "https://twitter.com/anshu_code",
+    "rest_id": "1731196273989156864"
+  },
+  "tweets": [
+    {
+      "id": "1910882859407061476#m",
+      "content": "Taking @Live24_Fun to the next level after our big win 🚀!",
+      "timestamp": "Apr 12, 2025 · 2:29 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1910882859407061476#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1979624828375273839#m",
+      "content": "💡just used my existing  gRPC indexer  (project extension ) 🥘\n\nRust-based real-time detector that:\n• Streams Solana gRPC data\n• Stores events in PostgreSQL with batch optimization\n• Runs migrations automatically .\n\nTell you what all of this data is storing in db at the same time >>>\n\n@solana_devs  @solana @blueshift_gg @solanaturbine @rustlang @triton_one @SuperteamIN",
+      "timestamp": "Oct 18, 2025 · 7:05 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1979624828375273839#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1979242535965896752#m",
+      "content": "Pinocchio Token Program with Transfer Hooks 🦀\n\n-> Token minting/transfers with live balance tracking\n-> Transfer hooks: auto-fees 1%, compliance logging, daily limits 1000 tokens, dynamic royalties 5%\n-> CLI with clap\n-> Manual account serialization (bytemuck) ,ZC",
+      "timestamp": "Oct 17, 2025 · 5:46 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1979242535965896752#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1977517982537654504#m",
+      "content": "github.com/anshuman008/solan…",
+      "timestamp": "Oct 12, 2025 · 11:33 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1977517982537654504#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1977517978884210857#m",
+      "content": "Just open sourced:- Solana Arbitrage  Scanner\n\nA TypeScript tool that finds live arbitrage opportunities across @solana  DEXs⚡️\n\n→ Supports solana top dexs:\n• Raydium \n• Orca Whirlpools \n• Meteora DMM\n• PumpSwap\n\n→ Real time price tracking (1s refresh) \n→ Auto detects profit spreads \n→ Console dashboard + direct trade links\n\nrepo link 👇",
+      "timestamp": "Oct 12, 2025 · 11:33 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1977517978884210857#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1977446307036790991#m",
+      "content": "Building Mini SPL Token Program with Transfer Hooks on Solana using Pinocchio\n\nProgrammable hooks execute custom logic on every transfer.\n\nFeatures\n->Minting/transfers with live balance tracking\n->Transfer hooks (auto-executed per transfer)\n->Manual account serialization (dynamic dispatching)\nSimple CLI\n\n)( Use cases\n->Auto fees\n->Compliance logging\n->Transfer limits\n->Dynamic royalties",
+      "timestamp": "Oct 12, 2025 · 6:48 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1977446307036790991#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1977112168874361331#m",
+      "content": "2 am club",
+      "timestamp": "Oct 11, 2025 · 8:40 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1977112168874361331#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1976715468460220605#m",
+      "content": "blog.colosseum.com/audit-sub…",
+      "timestamp": "Oct 10, 2025 · 6:24 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1976715468460220605#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1976715465675231643#m",
+      "content": "Feels amazing to see me and my bro @AdityaPlusp  mentioned in the latest @colosseum Codex! :)\n\nOur open source tools were featured covering 3 out of 5 projects in the Tools & Resources section for Solana builders \n\nThat’s why @solana will always be my favorite chain :)\nthey genuinely support and celebrate their builders!\n\nblog link below 👇",
+      "timestamp": "Oct 10, 2025 · 6:24 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1976715465675231643#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1976692927784259759#m",
+      "content": "Zolana 🔥🫡",
+      "timestamp": "Oct 10, 2025 · 4:54 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1976692927784259759#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1975625903242690644#m",
+      "content": "[Shipped]: @solana  escrow in pure @rustlang \n\nFeatures: \n• Initialize: buyer deposits to PDA escrow\n• Release: send to seller on completion\n• Cancel: refund before release\n• Secure: PDAs for safe storage\n\nwhy native rust/Pinocchio  over Anchor -> CU costs and latency\n\nRepo is live:👇",
+      "timestamp": "Oct 7, 2025 · 6:14 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1975625903242690644#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1974943194006593748#m",
+      "content": "Testing my @solana arbitrage bot executing up to $4.5M flash loan per tx via @kamino.\n\nScanning liquidity across:\n- Orca\n- Whirlpool\n- Pumpfun AMM\n- Raydium\n- ZeroFi\n- SolFi\n\nCurrently optimizing USDC SOL/WSOL routes for low slippage but high volume meme pairs still show the best arb spreads :)",
+      "timestamp": "Oct 5, 2025 · 9:02 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1974943194006593748#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1974534454770008126#m",
+      "content": "September summary Fully Rust oriented Projects \n\n-> 100 stars; Rust gRPC, multisig vaults.\n-> Rust gRPC indexer, filters shipped.\n-> Packet sniffer; multisig vaults; Kalshi.\n-> Native Rust programs; gRPC indexers.\n-> Rust gRPC, Kalshi fliter CLI.\n-> Got into turbine accelerated.\n-> Got a follow from OG @aeyakovenko \n\nSome of the projects are in WIP",
+      "timestamp": "Oct 4, 2025 · 5:57 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1974534454770008126#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1974185773772779645#m",
+      "content": "Tried  something in @blueshift_gg  \n\n-> Add vanity key generation with custom patterns (prefix, suffix, contains, position-based)\n\n-> Add batch processing to handle multiple patterns simultaneously",
+      "timestamp": "Oct 3, 2025 · 6:52 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1974185773772779645#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1973840695506186328#m",
+      "content": "github.com/anshuman008/pumpf…",
+      "timestamp": "Oct 2, 2025 · 8:01 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1973840695506186328#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1973840691282472963#m",
+      "content": "Just open sourced:- Pumpfun gRPC Sniper + Bundler Bot on @solana  \n\n→ Real time token detection via Yellowstone gRPC\n→ Low latency sniping with bounded concurrency\n→ Bundle buys across wallets (Jito-ready)\n→ PDA + bonding-curve math \n\nGithub 👇",
+      "timestamp": "Oct 2, 2025 · 8:01 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1973840691282472963#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1973358040117289105#m",
+      "content": "After teaching 1,500+ graduates through the School of Solana, we've compiled The Solana Programs Security Checklist.\n\nNow, we're sharing it to help devs and security researchers level up.\n\nWant it?\n\n✓ Repost\n✓ Comment: Alpenglow\n\nWe'll DM you (must be following).",
+      "timestamp": "Oct 1, 2025 · 12:03 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1973358040117289105#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1973436217707381114#m",
+      "content": "Account data serialization and deserialization using bytemuck for Efficient zero-copy operations\n\n     • How to structure account data efficiently\n     • PDA validation & security\n     • Rent-exempt account handling\n     • Versioned data structures\n\nWill be dropping Github repo soon!!",
+      "timestamp": "Oct 1, 2025 · 5:13 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1973436217707381114#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1973124899746017737#m",
+      "content": "Building an anti-sniping CPI for @RaydiumProtocol launchpad on @solana\nRust CPI update: 🛡️🦀\n\n• Atomic: token creation + purchase validation\n• Security: instruction sysvar checking  \n• Protection: MEV front-running prevention\n• Fair: guaranteed launch equality\n\n[COMPLETED]: atomic handler with Address Lookup Table, standard create/buy, CPI integration, devnet deployment\n\n[WIP]: remaining instructions\n\nProgram ID: EXZHGtUuunmGujBhM6WxhCbZEqyN9bsAnsvXTyg1rqF\nExplorer: explorer.solana.com/address/…\n\nrepo:👇",
+      "timestamp": "Sep 30, 2025 · 8:36 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1973124899746017737#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1972674508302451186#m",
+      "content": "🤘🤘🤘",
+      "timestamp": "Sep 29, 2025 · 2:47 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1972674508302451186#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1972395888497832221#m",
+      "content": "I’ve been inactive for a bit. I was out meeting and making new friends.\n\nHad one of the craziest hackathon experiences, 48 hours of nonstop building.\n\nMet my Discord friends and made some core memories.\n\nI’ll be active on Twitter again. See ya!",
+      "timestamp": "Sep 28, 2025 · 8:19 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1972395888497832221#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1972235810956251394#m",
+      "content": "The kind of people I hoped to meet in college, I ended up finding on X instead",
+      "timestamp": "Sep 28, 2025 · 9:43 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1972235810956251394#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1972112863960391830#m",
+      "content": "Gm! here we are in the last two hours of @ETHGlobal :)",
+      "timestamp": "Sep 28, 2025 · 1:35 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1972112863960391830#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1970149735425269921#m",
+      "content": "Just the beginning 🙌",
+      "timestamp": "Sep 22, 2025 · 3:34 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1970149735425269921#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1970141806915645676#m",
+      "content": "Open-sourced efficiency is great. Bulletproof security is better.\n\nDon't let your new transaction optimizer introduce a new attack vector.\n\nUse Trident's stateful fuzzing to ensure it’s secure on mainnet.\n\nKudos @anshu_code for sharing this with the world.",
+      "timestamp": "Sep 22, 2025 · 3:03 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1970141806915645676#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1969804504536351009#m",
+      "content": "A new era of prediction markets is coming to @solana with @Kalshi",
+      "timestamp": "Sep 21, 2025 · 4:42 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1969804504536351009#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1969307711301984527#m",
+      "content": "Chad dev @anuragnegi000 :)",
+      "timestamp": "Sep 20, 2025 · 7:48 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1969307711301984527#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1969184986549874773#m",
+      "content": "github.com/anshuman008/solan…",
+      "timestamp": "Sep 19, 2025 · 11:41 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1969184986549874773#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1969184983106404759#m",
+      "content": "Just open sourced @solana  Transaction Optimizer\n\nA TypeScript toolkit showing how Address Lookup Tables (ALTs) can shrink tx sizes & unlock bundle transactions on @solana  ⚡\n\nFeatures:\n\n→ Compare normal vs ALT txs\n→ Bundle buys (PumpFun ready)\n→ Detailed size + efficiency metrics\n→ On-chain benchmarks\n\ngithub repo 👇",
+      "timestamp": "Sep 19, 2025 · 11:41 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1969184983106404759#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1968770112061587721#m",
+      "content": "Thinking of building a Trading Strategy Monitoring Platform for memecoins on @solana \n\nKey Features:\n\n- 25+ advanced filters to build trading strategies\n- Auto paper trade (simulation only, no real funds)\n- Track performance of every token picked by your strategy\n- Set profit targets & stop loss levels per trade\n- View success vs failed trades & strategy accuracy\n\nAll about testing strategies safely before real money",
+      "timestamp": "Sep 18, 2025 · 8:12 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1968770112061587721#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1967630218182742135#m",
+      "content": "Solana gRPC Indexer + Custom Filters =  Blazing Fast Speed\n\n• Token Transfers: → Focuses on swaps and DeFi activity  \n• min-lamports → Filters out low-value spam or noise  \n• status: success → Only includes confirmed transactions  • min-compute-units →  meaningful activity Logs\n @aeyakovenko @rustlang",
+      "timestamp": "Sep 15, 2025 · 4:42 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1967630218182742135#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1966990319146463417#m",
+      "content": "its 4am and just added more methods in the @pumpdotfun sdk on @solana :)\n\n➕ collectFee → claim creator fee directly\n➕ CreateAndBuy → create + buy in a single tx",
+      "timestamp": "Sep 13, 2025 · 10:20 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1966990319146463417#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1966955099173122109#m",
+      "content": "I thought @pumpdotfun was just polishing the UI…\nbut they keep tweaking contract level stuff every 3–4 weeks 🙂\n\nHad to update my SDK each time just shipped a fresh release aligned with the latest changes + IDL :)\n\ngithub.com/anshuman008/pumpf…",
+      "timestamp": "Sep 13, 2025 · 8:00 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1966955099173122109#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1965851938647404853#m",
+      "content": "My DMs are flooded with questions about @rustlang 🦀 resources so here it is!\nHere’s a quick spotlight series: one post for each creator, their X handle + YouTube channel + what they’re best for.\n\nJon Gjengset\nX: @jonhoo\nYouTube: Jon Gjengset\nBest for: Deep dives into Rust internals, async, concurrency, and the legendary “Crust of Rust” series. If you want to master advanced Rust concepts, start here.\n\nRust Nation UK\nX: @RustNationUK\nYouTube: Rust Nation UK\nBest for: Full conference talks, workshops, and interviews with top Rust developers. Great for keeping up with the Rust community and latest trends.\n\nSemicolon\nX: @shivansh7201\nYouTube: Semicolon\nBest for: Beginner-friendly Rust tutorials and hands-on coding walkthroughs. Ideal for absolute beginners.\n\nRustfully\nX: @rustful\nYouTube: Rustfully\nBest for: Short, focused Rust tutorials perfect for bite-sized learning and quick tips.\n\nOrhun Parmaksız\nX: @orhunp\nYouTube: Orhun Parmaksız\nBest for: Rust shorts, CLI tools, and productivity hacks. Great for quick learning and inspiration.\n\nHarkirat Singh\nX: @kirat_tw\nYouTube: Complete Rust Bootcamp\nBest for: Full-length Rust bootcamp (6+ hours, Hindi/English mix). Perfect for new devs and anyone who wants a structured, hands-on marathon.\n\nSolandy\nX: @HeyAndyS\nYouTube: Solandy\nBest for: Solana-specific Rust tutorials, especially for DeFi and NFT use cases.\n\nRust Planet\nYouTube: Rust Planet\nBest for: Practical Rust projects and ecosystem exploration.\n\nRust Videos\nX:@rustlang\nYouTube: Rust Videos\nBest for: Official Rust community curation conference talks, meetups, and lectures from all over the world.\n\nCopenhagen Rust Community\nYouTube: Copenhagen Rust Community\nBest for: Community-driven channel with talks from Copenhagen’s Rust meetups and events.\n\nCode to the Moon\nX: @CodeToTheMoons\nYouTube: Code to the Moon\nBest for: Rust explained simply ideal for those who want to see code in action.\n\nFrancesco Ciulla\nX: @FrancescoCiull4\nYouTube: Francesco Ciulla\nBest for: Wide-ranging dev content, including Rust, with a focus on making tech accessible and fun.\n\nJeremy Chone\nX: @jeremychone \nYouTube: Jeremy Chone\nBest for: Rust, backend engineering, and system design.\n\nDario Lencina\nYouTube: Dario Lencina\nBest for: Practical Rust and systems programming; helpful for those coming from C/C++ backgrounds.\n\nTrevor Sullivan\nX:@pcgeek86\nYouTube: Trevor Sullivan\nBest for: Automation, DevOps, and using Rust for scripting and tooling.\n\nRust Programming Tutorials Playlist\nYouTube: Rust Programming Tutorials\nBest for: Step-by-step Rust tutorials for beginners.\n\nRust Nation UK Playlist\nX: @RustNationUK\nYouTube: Rust Nation UK Playlist\nBest for: Curated talks and workshops from Rust Nation UK events.\n\nThanks to all these individuals and communities for creating such valuable content and sharing their knowledge with the Rust and Solana community.\nSave/bookmark for later will keep updating as I find more gems. Tag your favorite creators if I missed anyone!",
+      "timestamp": "Sep 10, 2025 · 6:56 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1965851938647404853#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1965525288605106462#m",
+      "content": "github.com/anshuman008/pumpf…",
+      "timestamp": "Sep 9, 2025 · 9:18 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1965525288605106462#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1965525284293149147#m",
+      "content": "Just open sourced @pumpdotfun Volume Bot on @solana :)\n\n→ Automated volume injection (buy/sell)\n→ Multi-wallet support for organic activity\n→ Random % balance usage → simulates real wallets\n→ Buy + Sell in same txn → loss-proof, no frontrun\n→ Jito bundle support for MEV safety\n→ Smart slippage & fee optimization\n→ Real-time stats + monitoring\n\nGithub repo - 👇",
+      "timestamp": "Sep 9, 2025 · 9:18 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1965525284293149147#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1964752897478185430#m",
+      "content": "Revamping @coinflictdotfun SDK for @SonicSVM ⚡️\n\n→ Create tokens directly on @SonicSVM chain\n→ Buy & Sell with bonding curve mechanics\n→ Easy SDK integration for devs\n→ Full TypeScript support\n\nProbably will finish it by tomorrow :)",
+      "timestamp": "Sep 7, 2025 · 6:09 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1964752897478185430#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1964197389289333182#m",
+      "content": "🚀 The stage is set. Things are in motion.\n\nDeploying cluster : @SonicSVM \nDeploying program : @coinflictdotfun \n\nProgram Id:\n9dQKrnhnnbVyUZCnXxPRpjG9rJqW8SbXaasdE2PXpugB\n\nSignature:\n5oQZjGcLMLBnf5ouxfSiWXtmhaX4q8gg4HkXVDVfNN539deqGwuJt4SQrSVCzZK6vLbzd9hWeoynBF9BmiLRZqRq\n\nDeploy success :\nexplorer.sonic.game/address/…",
+      "timestamp": "Sep 6, 2025 · 5:22 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1964197389289333182#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1964052809696805344#m",
+      "content": "Just started working on a new stuff: Pumpfun-Advance- Bundler :)\n\n→ Creates + bundles tokens with 25 buys\n→ Runs with 20-25 unique wallets + randomized profiles\n→ Bubble map-proof & Photon SB resistant\n→ Custom LUT optimization + smart supply mgmt\n→ Advanced % based sell strategies",
+      "timestamp": "Sep 5, 2025 · 7:47 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1964052809696805344#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1963369894537564591#m",
+      "content": "Multi-signature Vault in Rust  with Streamflow-like functions built without Anchor.\n\nNext post will share the repo.",
+      "timestamp": "Sep 3, 2025 · 10:33 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1963369894537564591#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1963262175344271750#m",
+      "content": "Lfg! @encifherio is definitely gonna be the next big thing on @solana! Huge respect for founders like @rishotics who can achieve anything :)",
+      "timestamp": "Sep 3, 2025 · 3:25 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1963262175344271750#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1962995854866092183#m",
+      "content": "Building a Vault in Native Rust 🦀\n\n-> Multisignature is completed! \n-> Configurable thresholds: M-of-N\n-> Proposal-based workflow for sensitive operations \n-> Native Rust implementation (no Anchor) \n-> Event-driven monitoring with full audit trail \n-> Emergency override: Circuit breaker \n-> Governance integration with voting systems",
+      "timestamp": "Sep 2, 2025 · 9:47 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1962995854866092183#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1963078863174668383#m",
+      "content": "Lfg! @solana shippers 🚢",
+      "timestamp": "Sep 3, 2025 · 3:17 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1963078863174668383#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1962619783528227048#m",
+      "content": "Just a month ago, I began building in public and the support from the @solana  and @rustlang  communities has been unreal. My X journey went from 60 to 700+ followers, with 400k+ impressions and a few projects that went truly viral.\n\n Here’s what I’ve shipped so far:\n\n• Solana Indexer CLI (Rust) \n• Order Book ( Rust) \n• Pusher (tokio‑tungstenite) \n• Advanced Solana Vault (Rust, WIP)\n• Frontend UI  for  @coinflictdotfun \n• Animated frontend \n• Shader generator\n• Auth backend (Rust + Axum) \n• Terminal dice game (Rust)\n\nProjects with links 👇",
+      "timestamp": "Sep 1, 2025 · 8:53 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1962619783528227048#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1962317865945883103#m",
+      "content": "github.com/anshuman008",
+      "timestamp": "Sep 1, 2025 · 12:53 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1962317865945883103#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1962317858500948270#m",
+      "content": "August Build Recap Freelance & Open Source on @solana :)\n\n- Open Source\n\n→ CryptoBet (trustless betting protocol)\n→ Coinflict-kit TS client\n→ High-speed @bonk_fun bundling bot (15+ wallets + Jito)\n→ PumpFun SDK update (instant launch+buy)\n→ Solana Rust scripts toolkit\n→ ShredStream parser (100–200ms faster) (soon)\n→ CCTP Multichain USDC bridge\n→ Solana Better CLI\n→ ATA deep dive (custom ATAs)\n\n- Freelance\n\n→ BonkFun bot (<1s lifecycle + Twitter scraper)\n→ Rust arbitrage bot (DEX + flashloans)\n→ BagsApp sniper bot\n→ @pumpdotfun Rust sniper bot (gRPC + Jito bundles)\n\nCheck out all the repos here 👇",
+      "timestamp": "Sep 1, 2025 · 12:53 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1962317858500948270#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1961884907946582072#m",
+      "content": "From an idea to 26⭐️ on the Solana gRPC Indexer (Rust) in just a day - the support from @rustlang and @solana  has been incredible.\n\nPost crossed :\n\n→ 13K+ views  \n→ 200+ likes  \n→ 110+ bookmarks \n→ 25+ reposts",
+      "timestamp": "Aug 30, 2025 · 8:13 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1961884907946582072#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1961568526881181755#m",
+      "content": "Finally my boi shipped it! :)\n\nA Rust powered @solana Indexer CLI with real time event tracking, gRPC streaming (<1ms), 1000+ TPS indexing, Sqlx + IPFS storage & multi-layer caching. Huge drop 👇",
+      "timestamp": "Aug 29, 2025 · 11:15 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1961568526881181755#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1960825390110527817#m",
+      "content": "Cooking up a gRPC Ultra Fast PumpFun Sniper Bot in Rust! 🦀\n\n→ Async Rust for ultra low latency execution\n→ gRPC streams for pre slot tx data + leader tracking\n→ Jito bundles for 0 block confirmations\n→ Optimized ATA creation\n→ PumpFun buy/sell logic wired to bonding curve",
+      "timestamp": "Aug 27, 2025 · 10:02 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1960825390110527817#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1960787143409983832#m",
+      "content": "Rustaceans building Solana infra >>> 🦀⚡",
+      "timestamp": "Aug 27, 2025 · 7:30 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1960787143409983832#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1960511583861223793#m",
+      "content": "github.com/anshuman008/Custo…",
+      "timestamp": "Aug 27, 2025 · 1:16 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1960511583861223793#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1960511580296372288#m",
+      "content": "Imagine holding a private key with 15+ SOL… and still not being able to spend it! \n\nIt was a WSOL token account and I wondered how can an ATA even have a private key?\n\n- ATA = PDA (off-curve) → deterministically derived from (owner, mint) → no private key exists\n- Custom token accounts can be on-curve (keypair) → they look like wallets but are just SPL token accounts\n\n- In both cases, the owner field points to a wallet \n- Transfers require the owner wallet’s signature, not the token account keypair\n\nSo holding the token account’s private key ≠ spending control :)\n\nCode + explanation on github 👇",
+      "timestamp": "Aug 27, 2025 · 1:15 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1960511580296372288#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1960363983312974239#m",
+      "content": "Will definitely build something crazy in @ETHGlobal Delhi with the GOAT himself @axatbhardwaj :)",
+      "timestamp": "Aug 26, 2025 · 3:29 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1960363983312974239#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1960098868332298485#m",
+      "content": "Building Geyser gRPC Copy Bot! @triton_one \n\n- Streams processed slot txns via Geyser gRPC\n- Detects target wallet’s Raydium swaps in real time\n- Mirrors trade size via pool deltas (price = post SOL / post token)\n- Optional Jito tips and bundle\n- Uses WSOL (for now)",
+      "timestamp": "Aug 25, 2025 · 9:56 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1960098868332298485#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1960041402747764834#m",
+      "content": "rust + @solana infra on another level :)",
+      "timestamp": "Aug 25, 2025 · 6:07 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1960041402747764834#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1959727230864757206#m",
+      "content": "Many folks asked me if Rust is mandatory to start building on @solana  :) \n\nAnswer: No\nYou can do 80%+ of things with just TypeScript and client side solana (prefer TS over JS).\n\nJust learn:\n\n- Solana account model & PDAs\n- How transactions land on Solana\n- Basics of Solana runtime\n- Using Solana SDK (solana/web3.js)\n- A little about Jito transactions\n\nThen you can simply move into building:\n\n→ Wallet extensions (Solana SDK)\n→ Trading bots on DEX / launchpads (Anchor IDLs)\n→ Integrate with any contract\n→ Indexers (gRPC + protos)\n→ Arbitrage bots (Kamino + RPC/gRPC)\n→ Payment gateways\n→ Tokens, NFTs, collections (Metaplex / Candy Machine)\n→ DeFi projects\n\nMost Solana products expose TS SDKs + Solana’s own solana/web3.js docs are amazing!",
+      "timestamp": "Aug 24, 2025 · 9:19 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1959727230864757206#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1959716929083752476#m",
+      "content": "Big moves from @coinflictdotfun  x @TheVorld_  pushing IPs and storytelling fully on chain",
+      "timestamp": "Aug 24, 2025 · 8:38 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1959716929083752476#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1959388777492738264#m",
+      "content": "Alpenglow is rewriting @solana consensus. \n\n→ Drops PoH + Tower BFT \n→ Rotor (real-time leader rotation) \n→ Votor (off-chain BLS voting) \n\nNo more vote txns clogging the chain. \nFinality: 100–150ms (Web2 speed). \nPayments, DeFi, games = instant.\nValidators save big.",
+      "timestamp": "Aug 23, 2025 · 10:54 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1959388777492738264#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1959367241792975128#m",
+      "content": "Building a trading bot for @BagsApp as a freelance project, written in Rust 🦀:\n\n→ BagsApp bundler + sniper\n→ Rust based trading bot scaffold on @solana\n→ Integrated with Meteora DBC & DAMM v2\n→ Full CLI with wallet management, API client, market making\n→ Features: Multi-RPC failover, smart slippage, real time tracking, PnL reports",
+      "timestamp": "Aug 23, 2025 · 9:28 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1959367241792975128#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1958960568343171323#m",
+      "content": "Key Features of the new Order Book: \n\n→ Lock-free design with atomic ops \n→ Multi-threaded concurrent matching \n→ Memory-efficient data structures \n→ Sub-millisecond real-time updates \n\nStill under development  check it out & ⭐️ the repo! \nGITHUB  👇 @rustlang @solana",
+      "timestamp": "Aug 22, 2025 · 6:32 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1958960568343171323#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1958638677934174653#m",
+      "content": "arcium.com/articles/arciums-…",
+      "timestamp": "Aug 21, 2025 · 9:13 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1958638677934174653#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1958638279172948034#m",
+      "content": "Just exploring about @ArciumHQ  an encrypted supercomputer built on @solana!\n\nIt keeps data private even while computing unlocking:\n• Private DeFi trades (no front-running) \n• Encrypted dark pools & AMMs \n• Trustless prediction markets \n• Privacy-ready lending, bridging & payments\n\nUnder the hood:\n- Arx Nodes + Clusters \n- arxOS + MXEs \n- crypto stack of MPC + FHE + ZKPs \n- with Solana handling speed, ordering & incentives\n\nNow with the new Confidential SPL, even transfers & balances can stay private",
+      "timestamp": "Aug 21, 2025 · 9:12 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1958638279172948034#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1958466906714738839#m",
+      "content": "This is crazy 🫡",
+      "timestamp": "Aug 21, 2025 · 9:51 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1958466906714738839#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1958256744687337582#m",
+      "content": "A small correction after getting scammed :) @kirat_tw",
+      "timestamp": "Aug 20, 2025 · 7:56 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1958256744687337582#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1958228565532746019#m",
+      "content": "Just built SendUSD —\n- An on-chain solana program that lets you send SOL equivalent to any USD amount using live Pyth price feeds 📈💸\n- Built with Anchor & Rust.\n- Uses Pyth for real-time SOL/USD conversions.\n- Automatically converts USD → SOL at transfer time.\nRepo 👇",
+      "timestamp": "Aug 20, 2025 · 6:04 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1958228565532746019#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1958032882594721835#m",
+      "content": "Started with Helius RPC now building CLMM contracts. that’s called growth :)",
+      "timestamp": "Aug 20, 2025 · 5:06 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1958032882594721835#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1957605076991692934#m",
+      "content": "github.com/anshuman008/solan…",
+      "timestamp": "Aug 19, 2025 · 12:46 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1957605076991692934#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1957605072981926378#m",
+      "content": "Its 6:30 am now, finally going to sleep after finishing Solana Better CLI :)\n\nfull featured wallet management & trading toolkit for Solana ⚡\n\n- Manage wallets\n- Track portfolios\n- Swap tokens (via Jupiter)\n- Transfer SOL\n- Wrap/Unwrap SOL\n- Interactive CLI\n\ngithub repo 👇",
+      "timestamp": "Aug 19, 2025 · 12:46 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1957605072981926378#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1957185665466093862#m",
+      "content": "Diving into how private swaps could work on Solana :)\n\nUsing a mix of TEEs + zk-proofs to hide wallet activity while still keeping swaps verifiable on-chain.\n\nFlow looks like:\n\n- Fund → Swap → Burn → Mint\n- Contracts handle privacy + proof updates",
+      "timestamp": "Aug 17, 2025 · 9:00 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1957185665466093862#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1956868613203276090#m",
+      "content": "trying to build an arbitrage bot in Rust on @solana \n\n- parses liquidity pools from Raydium, Meteora , Orca Whirlpool , PumpSwap, & more\n- calculates optimal trade size\n- uses flashloans to execute if profitable \n- aims for max profit across DEXes",
+      "timestamp": "Aug 17, 2025 · 12:00 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1956868613203276090#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1956442874222145560#m",
+      "content": "github.com/anshuman008/CCTP-…",
+      "timestamp": "Aug 15, 2025 · 7:48 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1956442874222145560#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1956442869842989151#m",
+      "content": "Just open sourced CCTP MultiChain Bridge a full featured USDC bridge for Ethereum, Base, Arbitrum, Optimism, Polygon, Avalanche & Solana \n\n- Built with TypeScript, Wormhole SDK, & Circle CCTP\n- Supports Mainnet + Testnet\n- Handles attestations & mints automatically\n\nRepo👇",
+      "timestamp": "Aug 15, 2025 · 7:48 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1956442869842989151#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1956230683833327949#m",
+      "content": "helius.dev/blog/alpenglow",
+      "timestamp": "Aug 15, 2025 · 5:45 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1956230683833327949#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1956230681639706721#m",
+      "content": "Going to sleep after diving into Solana’s Alpenglow upgrade from a great Helius article. It’s replacing Proof of History making things way faster & cheaper by moving voting off chain. Super impressive!  \n\nBut I still wonder will moving votes off chain risk more centralization? \n\n Key points:  \n- Finality: 12s → ~150ms (near instant) \n- Off-chain voting = less congestion, faster consensus \n- Rotor = 1 hop block broadcast \n- Lower costs → more validators \n- Simple 400ms block times, no cryptographic clock wait \n\nLink 👇",
+      "timestamp": "Aug 15, 2025 · 5:45 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1956230681639706721#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1956053025794982341#m",
+      "content": "Why settle for a todo app when you can try recreating the Nix package system? Ambitious? Definitely. Wish me luck!🦀❄️",
+      "timestamp": "Aug 14, 2025 · 5:59 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1956053025794982341#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1955808705611432412#m",
+      "content": "It’s 7:30 AM and I’m finally going to sleep :) \n\nSpent the night deep diving into ShredStream insane speed boost over gRPC.\n\n- About 100ms to 200ms faster\n- Mid-slot data\n- Access before the block is even complete\n\nI thought gRPC was the fastest turns out ShredStream is way quicker.\n\nJust finished writing a Rust ShredStream listener + parser (using protos for decoding)\n\nNow I just need a premium gRPC provider that supports ShredStream for an end-to-end test.\n\nUntil then… good night :D",
+      "timestamp": "Aug 14, 2025 · 1:48 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1955808705611432412#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1955786319638286751#m",
+      "content": "Destined from day one 🥂",
+      "timestamp": "Aug 14, 2025 · 12:19 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1955786319638286751#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1955418063882555573#m",
+      "content": "TEEs vs zk-SNARKs\n\n→ TEEs: Hardware-based, super fast, relies on trusted machines.\n→ zk-SNARKs: Math-based, no hardware needed, fully verifiable.\n\nTwo paths to keep your data private on-chain - which side are you on?",
+      "timestamp": "Aug 12, 2025 · 11:56 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1955418063882555573#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1955372335508361631#m",
+      "content": "github.com/anshuman008/solan…",
+      "timestamp": "Aug 12, 2025 · 8:54 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1955372335508361631#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1955372332530405589#m",
+      "content": "just Open sourced Solana Rust Scripts dev toolkit for common @solana blockchain ops, all in Rust 🦀   \n\nIncludes scripts to:  \n\n- Generate wallets  \n- Create & mint SPL tokens  \n- Fetch Token-2022 NFT metadata \n - Fetch any token metadata from mint (PumpFun, LetsBonk, Meteora DBC, etc)  \n- Get NFT owners \n- List all NFTs owned by a wallet  \n- Subscribe to on-chain events  - Fetch on-chain Anchor IDLs\n\nrepo link -👇",
+      "timestamp": "Aug 12, 2025 · 8:54 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1955372332530405589#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1955335159856632150#m",
+      "content": "🦀❄️ Still can't believe more Rust devs aren't using Nix - declarative toolchain management hits different.",
+      "timestamp": "Aug 12, 2025 · 6:26 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1955335159856632150#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1954622629501124784#m",
+      "content": "PumpFun just rolled out contract changes and my SDK is already fully updated!\n\n• Added createAndBuy instruction for instant launch + buy in one go\n• Seamless direct contract interaction on Solana\n• Built for devs, bots, and real-time traders\n\n→ npm i latest-pumpfun-sdk",
+      "timestamp": "Aug 10, 2025 · 7:15 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1954622629501124784#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1953901918692290745#m",
+      "content": "Here’s mine Web3 → Solana → Fullstack Blockchain Developer Roadmap\n\nJavaScript / TypeScript → Async/Await → Fetch API / WebSockets\n\n→ Blockchain Basics (Wallets, Keys, Signatures, Transactions)\n→ Cryptography (ECDSA, Hashing, Ed25519)\n→ Token Standards (ERC-20 / SPL) → NFT Standards (ERC-721 / Metaplex)\n→ Choosing a Chain (Ethereum vs Solana) → Why Solana (Speed, Fees, Parallel Execution)\n→ Client-Side Dev with solana/web3.js → Wallet Adapters (Phantom, Solflare,Backpack)\n→ Reading On-Chain Data → Sending Transactions → Token Transfers\n→ SPL Token Program → Associated Token Accounts → Metadata Program\n→Use client side libraries Build simple dApps or wallet extensions for practice\n→ On-Chain Indexing (Helius, RPC/Webhooks)\n→ Try to understand others contract transactions like pumpfun and raydium on explorers\n→ Use prebuild launchpad sdks and make a simple trade bot using solana libraries solana/web3js and solana/spl-tokens\n→ Rust Fundamentals → Solana Program Architecture\n→ Anchor Framework Basics → Program Accounts → PDA & Seeds\n→ Testing Contracts (Mocha, Anchor Tests) → Local Validator & Devnet\n→ Cross-Program Invocations (CPI) → Sysvars → Rent\n→ Fullstack dApp (React / Next.js + Anchor + web3.js)\n\n→ Advanced Solana:\n   • Jito / MEV Protection\n   • Lookup Tables\n   • Transaction Bundling\n   • Parallel Execution & Priority Fees\n   • Alpenglow\n\n→ Tokenomics & Launchpads (Pumpfun, Raydium, Coinflict)\n→ NFT Mints & Candy Machine v3 → Auction House Program\n→ Deployment: Solana CLI → Mainnet\n→ Monitoring & Logging (Solana Explorer, Sig Verify, RPC Health)\n→ CI/CD for dApps & Programs\n→ Infra: Docker → Kubernetes → GPU Nodes (for AI-integrated dApps)\n→ Cloud (AWS/GCP) for RPC & Indexers",
+      "timestamp": "Aug 8, 2025 · 7:31 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1953901918692290745#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1953891541337932174#m",
+      "content": "🦀Trait Implementation Secrets: Making Your Rust Types Print-Perfect",
+      "timestamp": "Aug 8, 2025 · 6:50 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1953891541337932174#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1953820877075644612#m",
+      "content": "Driving home knowing there won’t be a second date, but at least now she knows how to write and deploy an escrow smart contract on the @solana blockchain.",
+      "timestamp": "Aug 8, 2025 · 2:09 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1953820877075644612#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1953538055903883549#m",
+      "content": "Just open-sourced my latest project a high speed @solana trading & bundling bot built for @bonk_fun .\n\n- Creates + trades tokens \n- Bundle buys/sells from 15+ wallets \n- Uses lookup tables to shrink TX size \n- Executes lightning-fast via Jito MEV\n\ngithub.com/anshuman008/letsb…",
+      "timestamp": "Aug 7, 2025 · 7:25 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1953538055903883549#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1953517556964209015#m",
+      "content": "Just revisited some of my old code from when I was learning about generic bound traits in Rust.\nUnpopular opinion: The best way to level up is to keep coding no matter what. Muscle memory beats theory every time!",
+      "timestamp": "Aug 7, 2025 · 6:04 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1953517556964209015#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1953296443977928989#m",
+      "content": "Built this global search bar for @coinflictdotfun—just a fun little design inspired by @SonicSVM. Try it out, explore, and let’s see what we build together! (WIP)",
+      "timestamp": "Aug 7, 2025 · 3:25 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1953296443977928989#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1953145249741877672#m",
+      "content": "🦀 Simple Solana Token Transfer in Rust\n\nThis page shows a basic Rust code example for sending Solana tokens. It connects to the Solana Devnet, sets up the client and accounts, and prepares everything needed for a token transfer—all using clear, straightforward Rust code",
+      "timestamp": "Aug 6, 2025 · 5:24 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1953145249741877672#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1953150415706431859#m",
+      "content": "Just saw my friend’s study map.\n\nThis is what happens when you replace your thoughts with Git repos.\n\nTopics covered:\n\n→ Rust\n→ Solana\n→ React\n→ GraphQL\n→ TailwindCSS\n→ System Design\n→ TypeScript\n→ Express.js\n→ Vim\n→ Git\n→ API Design\n→ Project Structuring\n→ Full-stack concepts\n\nMakes me rethink how I take notes and structure knowledge.",
+      "timestamp": "Aug 6, 2025 · 5:45 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1953150415706431859#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1953183210256646479#m",
+      "content": "More details about my journey -",
+      "timestamp": "Aug 6, 2025 · 7:55 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1953183210256646479#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1953179460544676126#m",
+      "content": "We ended up a total of $78K in just 7 months since starting Web3 dev.\n\nJust kept learning, building, and showing up consistently.\n\nThe @solana community has been insanely helpful throughout. Grateful for the support and opportunities\n\nNow it's your turn I'd love to hear your journey ❤️‍🔥",
+      "timestamp": "Aug 6, 2025 · 7:40 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1953179460544676126#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1953179457973612870#m",
+      "content": "Collaborated extensively with friends from the cohort. Encountered failures but took each as a valuable learning experience.\n\nMajor grant & hackathon wins:\n\n→ $10K second grant \n→ $15K Lexicon Hackathon\n→ $50K Sonic Hackathon",
+      "timestamp": "Aug 6, 2025 · 7:40 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1953179457973612870#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1953179455612174774#m",
+      "content": "January: Began building my own @solana  projects. Faced a steep learning curve, but kept shipping.\n\nGot my first grant ($3K) with the help from a super senior dev from which i learned alot  : )\n\nJoined @superteam and expanded my network.",
+      "timestamp": "Aug 6, 2025 · 7:40 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1953179455612174774#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1953179453267562594#m",
+      "content": "- Found a super supportive cohort dev community learning became fun.\n\nDeep-dived into blockchain fundamentals: \n\n→ Proof of Work (PoW) \n→ Proof of Stake (PoS) \n→ Solana’s Proof of History  fast & low-cost txns",
+      "timestamp": "Aug 6, 2025 · 7:40 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1953179453267562594#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1953179450876834208#m",
+      "content": "My Web3 Journey: From Zero to $78,000 in 7 Months \n\nJuly: Started freelancing (MERN, Flutter, React Native).\nLost money in crypto trading, but got curious about how blockchain works.\n\nSeptember: Joined @kirat_tw  Web3 cohort \n\nMy complete @solana journey @aeyakovenko ! \n👇",
+      "timestamp": "Aug 6, 2025 · 7:40 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1953179450876834208#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1952901296983285975#m",
+      "content": "Yeah bro the more you f*** around, the more you learn :)\n\nI learned the same way. I know you picked up a lot from this one too.\n\nIn the end, it was just an IDL issue :D\nKeep building!",
+      "timestamp": "Aug 6, 2025 · 1:15 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1952901296983285975#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1952857259601740222#m",
+      "content": "🦀✨ Cookin’ Up Something Wild: Real-Time Magic with tokio-tungstenite! 🛠️",
+      "timestamp": "Aug 5, 2025 · 10:20 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1952857259601740222#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1952815226736525473#m",
+      "content": "Started Web3 in Jan. Here's the journey till July:\n\n→ 1st grant: $3,000\n→ 2nd grant: $10,000\n→ Lexicon Hackathon: $15,000\n→ Sonic Hackathon: $50,000\n\nNo IIT. No MIT. No fancy job.\nJust a relentless team and consistent shipping in public.\n\nYour turn - what’s your journey? 🔥",
+      "timestamp": "Aug 5, 2025 · 7:33 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1952815226736525473#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1952521509647647224#m",
+      "content": "repo - github.com/anshuman008/Coinf…",
+      "timestamp": "Aug 5, 2025 · 12:06 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1952521509647647224#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1952521507151946016#m",
+      "content": "It's 5:40 AM and just wrapped up coinflict-kit our official TypeScript client for @coinflictdotfun!\n\nToken creation, bonding curve trading, and more – all just one import away.\n\nCurrently live on devnet! \n\n@SonicSVM  @solana",
+      "timestamp": "Aug 5, 2025 · 12:06 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1952521507151946016#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1951735600341819427#m",
+      "content": "Crafting an Interactive Project with @reactjs  + @greensock  – See it Live 👇",
+      "timestamp": "Aug 2, 2025 · 8:03 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1951735600341819427#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1951727682263355622#m",
+      "content": "github.com/anshuman008/solan…",
+      "timestamp": "Aug 2, 2025 · 7:31 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1951727682263355622#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1951727678719164643#m",
+      "content": "Just wrapped up CryptoBet – a decentralized betting protocol on Solana!\n\n- Built with Anchor, uses Pyth for price feeds, and settles everything on-chain.\n\n- Create markets, place bets, resolve, and claim  all trustless!\n\ngithub repo 👇",
+      "timestamp": "Aug 2, 2025 · 7:31 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1951727678719164643#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1951726272935342288#m",
+      "content": "present sir :)",
+      "timestamp": "Aug 2, 2025 · 7:26 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1951726272935342288#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1951381968509346115#m",
+      "content": "Just tested my @bonk_fun bot – full token lifecycle (mint, metadata, create tx, buy tx) done in <1 sec ⚡️\n\nNow adding a Twitter scraper :)\n\nSet any handle (Elon), and auto-launch a token the moment they post images, text, everything\n\nUsing premium RPC + Jito = 500ms~600ms speed",
+      "timestamp": "Aug 1, 2025 · 8:38 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1951381968509346115#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1951339566603858403#m",
+      "content": "Built with @reactjs  & @greensock ! Animating in public\nLink: project-showcase-amber.verce…",
+      "timestamp": "Aug 1, 2025 · 5:49 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1951339566603858403#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1950925972565373222#m",
+      "content": "Just shipped an AMM(Automated market makers) on Solana (devnet) \n\n- Create multiple token pairs\n- Users can spin up sub-pools under any pair\n- Swaps fully per pool liquidity\n\nBuilt with Anchor + tested in TypeScript \n\nBTW still trying to cover edge cases : )",
+      "timestamp": "Jul 31, 2025 · 2:26 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1950925972565373222#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1950265097093546150#m",
+      "content": "Cooking something wild on @solana...\nA trading bot for @bonk_fun that:\n\n- Creates + trades tokens\n- Bundle buys/sells from 15+ wallets\n- Uses lookup tables to shrink TX size\n- Executes lightning-fast via Jito MEV",
+      "timestamp": "Jul 29, 2025 · 6:40 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1950265097093546150#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1948878118212829667#m",
+      "content": "We’re revamping @Live24_Fun  → @Coin_Flict\n\nComing soon on @SonicSVM\n\n-  Launch tokens\n-  Stream live\n- Deploy AI agents to shill on X\n- Fun challenges, rewards & chaos incoming\n\nJoin the waitlist & be part of the first wave!",
+      "timestamp": "Jul 25, 2025 · 10:48 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1948878118212829667#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1948870574521848100#m",
+      "content": "congrats brother! @shubh_exists on my way for the party :)",
+      "timestamp": "Jul 25, 2025 · 10:18 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1948870574521848100#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1948535430678249557#m",
+      "content": "Fantasy on solana :)",
+      "timestamp": "Jul 25, 2025 · 12:07 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1948535430678249557#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1947714519763206181#m",
+      "content": "cargo add ratatui crossterm oauth2 spotify-rs\nWant to contribute or learn more?\nJust ping me here! Let's build something awesome together.",
+      "timestamp": "Jul 22, 2025 · 5:45 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1947714519763206181#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1947682606943965554#m",
+      "content": "Smart contract grind begins :)",
+      "timestamp": "Jul 22, 2025 · 3:38 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1947682606943965554#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1947076355398451277#m",
+      "content": "Just wrote an generic on-chain deserializer for any SPL Token or NFT on @solana :)\n\n- Fetches metadata using findProgramAddressSync\n- Parses raw buffer data into human readable format\n\n• Name\n• Symbol\n• URI\n• Mint\n• Creator\n• Update Authority",
+      "timestamp": "Jul 20, 2025 · 11:29 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1947076355398451277#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1947066284765810715#m",
+      "content": "Solana just featured my @MadLads  NFT,\nThank you @solana.",
+      "timestamp": "Jul 20, 2025 · 10:49 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1947066284765810715#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1947022678759780575#m",
+      "content": "Every time someone says, Let’s build something new,\nthis is exactly what my group looks like:\n\n→ His points are invalid\n→ When will I get to speak\n→ I am right, I know everything\n→ I should change my view\n→ I am not interested\n\nStartups and group projects in one image.",
+      "timestamp": "Jul 20, 2025 · 7:55 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1947022678759780575#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1946998284481872309#m",
+      "content": "Repo’s live! ⭐ it & jump in to contribute. Axum rules—should I try Actix next?",
+      "timestamp": "Jul 20, 2025 · 6:18 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1946998284481872309#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1946691924414398898#m",
+      "content": "Finally done with assignments.  : )",
+      "timestamp": "Jul 19, 2025 · 10:01 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1946691924414398898#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1946628746292687141#m",
+      "content": "The testing phase is still pending.\nPlanning to make it open source soon.!!\n@rustlang",
+      "timestamp": "Jul 19, 2025 · 5:50 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1946628746292687141#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1946670540481335613#m",
+      "content": "After a wild rust macro assignment in that nearly melted my brain , I went deeper and built some extra procedural macros just to suffer more :)\n\n- #[profile] – logs when your function starts... and how long it tortured the CPU\n\n-  #[derive(RedactDebug)] – hides sensitive fields in Debug output",
+      "timestamp": "Jul 19, 2025 · 8:36 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1946670540481335613#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1946664057160994941#m",
+      "content": "Preparing my arsenal for the upcoming battle.\nWriting custom patches for the Anchor repo.\n\nJust hope I don’t get hit with:\n69/69 test cases failed. 💀",
+      "timestamp": "Jul 19, 2025 · 8:10 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1946664057160994941#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1946616156686893182#m",
+      "content": "Story Time:\n\nI met a friend in the first year of college — a naturally talented coder. He had been coding since Class 11, and by the time we entered our first year, he already knew all the core programming concepts: loops, functions, data structures, OOP — everything. While the rest of us were still learning how to write a basic \"Hello World\" program, he was already solving college-level assignments with ease.\n\nIt’s been 5 years since then. With 7 years of non-stop coding experience under his belt, you’d expect him to be working in a top tech company or building innovative products, right?\n\nBut no.\n\nHe’s currently working as a college teacher, earning ₹20,000 per month — the same job he joined last year. He’s not involved in any major projects, no startups, no open-source contributions, no tech community activities. He spends his time helping students with assignments, taking classes, and that’s it.\n\nIt’s surprising. A guy with that level of coding knowledge, someone who lives in VS Code, is now stuck in a routine job with no technical growth or exploration.\n\nIt just goes to show — skill alone isn’t enough. Without direction, ambition, and real-world application, even the most talented people can end up underutilized.",
+      "timestamp": "Jul 19, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1946616156686893182#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1946285117082837269#m",
+      "content": "Thank you @AdityaPlusp, @anuragnegi000, @anshu_code  for gifting the Blue Checkmark. \n\n- 1.5$\n- 2.5$\n- 1.69$",
+      "timestamp": "Jul 18, 2025 · 7:05 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1946285117082837269#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1946265223091929329#m",
+      "content": "Building an auth backend with Rust and Axum is fun! 🚀",
+      "timestamp": "Jul 18, 2025 · 5:46 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1946265223091929329#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1945935387274424817#m",
+      "content": "You can build your own by using the latest-pumpfun-sdk and grpc I open source both repos on github :)\n\ngithub.com/anshuman008/pumpf…",
+      "timestamp": "Jul 17, 2025 · 7:55 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1945935387274424817#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1945935384510448078#m",
+      "content": "Building real-time token sniper for @solana launchpads (starting with  @pumpdotfun  ).\n\n- gRPC tracker for instant mint detection\n- Auto-buy via direct smart contract integration\n- Holds for 10s (sell logic WIP: volume/TVL/MC triggers)\n- Jito integration for max MEV edge",
+      "timestamp": "Jul 17, 2025 · 7:55 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1945935384510448078#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1945623401810596181#m",
+      "content": "🚀 Just launched: pump.fun SDK for Rust\n\nInteract directly with the Solana smart contract — no UI, just speed.\n\nSupports latest version of contract\n\nBuilt for devs, bots & real-time traders.\n🛠️ Features:\n• Instantly Create, Buy, Sell tokens\n• Pure on-chain control \n• Slippage protection\n• Type-safe Rust\n• Ideal for automation & bots\n\n📦 cargo add pumpdotfun-sdk\n🌐 docs.rs/pumpdotfun-sdk",
+      "timestamp": "Jul 16, 2025 · 11:15 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1945623401810596181#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1945473002155507753#m",
+      "content": "Just open-sourced a terminal-based dice game  crafted in Rust 🦀\nDon't forget to give it a ⭐️.",
+      "timestamp": "Jul 16, 2025 · 1:18 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1945473002155507753#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1945226387331113467#m",
+      "content": "Got some cool nfts by completed challenges from @blueshift_gg :)\n\n- Anchor Vault\n- Minted an SPL Token",
+      "timestamp": "Jul 15, 2025 · 8:58 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1945226387331113467#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1945117735723188666#m",
+      "content": "I just completed it. I used heavy GSAP, but somehow I feel like if you have SVG, you can create almost every possible thing. Any kind of animation—I will be posting a link soon of my work. I'm currently working on a mobile device. @avara  @greensock @tailwindcss",
+      "timestamp": "Jul 15, 2025 · 1:46 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1945117735723188666#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1944839990892184026#m",
+      "content": "great work @anshu_code !\nThinking of building a Rust-native crate to execute Solana @pumpdotfun instructions securely and fast.\n\nPlan:\n- Write @solana program wrappers in Rust\n- Securely sign & send txs via RPC\n- Launch as a cargo crate for devs\n- Open source + community-driven\n\nAnyone up for this?\nCan use this for reference :",
+      "timestamp": "Jul 14, 2025 · 7:22 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1944839990892184026#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1944830878049247271#m",
+      "content": "🔥 300+ downloads in just one day after launch!\n\n- npm i latest-pumpfun-sdk\n\nlets you create, buy & sell tokens blazingly fast via direct contract interaction!",
+      "timestamp": "Jul 14, 2025 · 6:46 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1944830878049247271#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1944499725098508386#m",
+      "content": "github.com/anshuman008/pumpf…",
+      "timestamp": "Jul 13, 2025 · 8:50 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1944499725098508386#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1944499721533628667#m",
+      "content": "- Just published my own PumpFun SDK from scratch on NPM!\n\n• Instantly Create, Buy, Sell tokens on\n• Solana Direct contract interaction — no UI, just speed\n• Built for devs, bots, real-time traders\n• Pure on-chain control. Zero fluff\n\n--> npm install latest-pumpfun-sdk",
+      "timestamp": "Jul 13, 2025 · 8:50 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1944499721533628667#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1944038861853597706#m",
+      "content": "Bought few PUMP in presale,\n\nSaturday shopping with @pumpdotfun @solana",
+      "timestamp": "Jul 12, 2025 · 2:19 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1944038861853597706#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1944139980491960677#m",
+      "content": "Created a real-time Solana indexer using @triton_one Yellowstone gRPC and NeonDB + Prisma. \n\nIt tracks transactions, blocks, slots, and account updates in real-time for any address or token.\n\nGithub: github.com/raunit-dev/YelloS…",
+      "timestamp": "Jul 12, 2025 · 9:01 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1944139980491960677#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1944129760105574679#m",
+      "content": "Had a great evening :)",
+      "timestamp": "Jul 12, 2025 · 8:20 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1944129760105574679#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1943839023753044014#m",
+      "content": "Wrapping up the day after a deep dive with @prince981620 and @shubh_exists into escrow architecture and Anchor programs design :)",
+      "timestamp": "Jul 12, 2025 · 1:05 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1943839023753044014#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1943090674771071182#m",
+      "content": "already joined :)",
+      "timestamp": "Jul 9, 2025 · 11:31 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1943090674771071182#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1943033756014776354#m",
+      "content": "github.com/anshuman008/solan…\n\nHow to track every new token launched on @solana\n🚀 – in real time: \n\nJust Open Sourced: Solana gRPC Realtime Launchpads Tracker with gRPC + Yellowstone + ts-node!  \n\nStep 1:  Clone the repo \nStep 2: Set your gRPC endpoint \nStep 3: Run any launchpad listener ( @pumpdotfun,\n@RaydiumProtocol, @moonshot,@MeteoraAG..)\nStep 4: Get parsed token data instantly",
+      "timestamp": "Jul 9, 2025 · 7:45 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1943033756014776354#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1943004743800177011#m",
+      "content": "congarts brother 🥂!",
+      "timestamp": "Jul 9, 2025 · 5:50 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1943004743800177011#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1942552022814789770#m",
+      "content": "After a rough week, this email made things better!\n\nGrateful to be selected for the superteam superdev Fellowship!\n\nHuge thanks to @kirat_tw and @SuperteamIN for the opportunity!",
+      "timestamp": "Jul 8, 2025 · 11:51 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1942552022814789770#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1942327409237451070#m",
+      "content": "mine favorite - Automate the boring stuff",
+      "timestamp": "Jul 7, 2025 · 8:58 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1942327409237451070#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1942327406569963796#m",
+      "content": "5 things every web3 dev should know.\n\n1. UX > everything\n2. Read the docs twice \n3.  Don’t trust, verify  \n4. Automate the boring stuff  \n5. Ship fast, iterate faster\n\n“It’s web3 — adapt or get left behind.”",
+      "timestamp": "Jul 7, 2025 · 8:58 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1942327406569963796#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1941736340078383195#m",
+      "content": "getsol.fun",
+      "timestamp": "Jul 6, 2025 · 5:49 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1941736340078383195#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1941736337276637687#m",
+      "content": "Just met a memecoin trader friend dude had $0 in his wallet! \n\n - Opened getSol\n- Clicked 1 button \n- Walked away with $22.33\n\n Moral of the story?  \n Checkout getSol or stay broke\n@solana\n\n link below 👇",
+      "timestamp": "Jul 6, 2025 · 5:49 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1941736337276637687#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1941448447317688714#m",
+      "content": "How It Works:\n\n- Connect your wallet\n- We scan for unused ATAs\n- See exactly how much SOL you can recover\n- Approve the transaction (we handle all fees)\n- Your recovered SOL appears instantly\n\nStop leaving SOL behind in abandoned accounts. Clean up your wallet and boost your balance with getSol.\n\nvisit - getsol.fun",
+      "timestamp": "Jul 5, 2025 · 10:45 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1941448447317688714#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1941448442750042410#m",
+      "content": "⚡️ Introducing getSol — Reclaim Your Lost SOL Instantly!\n\nGetSol helps you recover SOL trapped in unused Associated Token Accounts (ATAs) — effortlessly and for free.\n\nWhy getSol ?\n\n• Recover rent-exempt SOL from empty token accounts\n• No SOL in your wallet? We cover 100% of the transaction fees\n• Absolutely no service charges — you keep every bit of reclaimed SOL\n\nHow It Works: 👇",
+      "timestamp": "Jul 5, 2025 · 10:45 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1941448442750042410#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1941236270736576547#m",
+      "content": "Just open-sourced a real-time Solana blockchain monitor for @pumpdotfun using Yellowstone gRPC!\n\nIt tracks every new token mint with detailed metadata, decoded from on-chain instructions in real time.\n\nGitHub: github.com/prince981620/pump…",
+      "timestamp": "Jul 4, 2025 · 8:42 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1941236270736576547#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1939396574309970160#m",
+      "content": "cool stuf! @Fomoney2048 dropping heat with these NFTs 👀🔥",
+      "timestamp": "Jun 29, 2025 · 6:52 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1939396574309970160#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1938671677384335478#m",
+      "content": "We're not just building tools. \nWe're building an on-chain experience: \n\n→ Token launches \n→ AI agents \n→ Livestreams \n→ On @SonicSVM  && @solana \n\nJune 2025 is just the beginning.",
+      "timestamp": "Jun 27, 2025 · 6:52 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1938671677384335478#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1935443135401996296#m",
+      "content": "They told you to get a ‘secure job’\nBut no one told you that security has a ceiling :)",
+      "timestamp": "Jun 18, 2025 · 9:02 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1935443135401996296#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1934205513060806974#m",
+      "content": "Built algorithmic stable-coin project on Solana with anchor framework\n\nThe concept : \n-> use the Pyth oracle to track $SOL/USD & \n-> When price spikes, we mint more; \n-> if it dips, under‑collateralized positions get liquidated to stabilize\n\n1. Users can deposit collateral (like SOL) to mint stablecoins,\n2. redeem collateral by burning stablecoins, \n3. and it even includes liquidation for under-collateralized positions. \n\nGithub : github.com/prince981620/algo…\n\n#Solana #DeFi #Stablecoin #Crypto #Blockchain",
+      "timestamp": "Jun 15, 2025 · 11:05 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1934205513060806974#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1931027064125022602#m",
+      "content": "Og @axatbhardwaj was also there :)",
+      "timestamp": "Jun 6, 2025 · 4:35 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1931027064125022602#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1930377492423926090#m",
+      "content": "🚀 Just merged v1-improvements to the @Live24_Fun backend!\n\n✨ 11 commits of pure optimization:\n\nI realized a transaction can contain multiple instructions — like 4 buys, or a create + multiple buys bundled together.\n\nSo I built dynamic parsing to handle all instructions, not just single-level ones.\n\n - Dynamic instruction parsing\n\n  - Hybrid DB calls: sequential for token creation, concurrent for trades\n\n  - Refactored monolithic logic into clean, reusable helpers\n\nBetter performance, cleaner code, and more robust parsing :)\n\nthanks to @kirat_tw — putting their backend optimization lessons into real-world action!",
+      "timestamp": "Jun 4, 2025 · 9:33 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1930377492423926090#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1930357654796546460#m",
+      "content": "RT @Live24_Fun: ⚡ The biggest update yet from @Live24_Fun is coming soon — powered by @SonicSVM!\n\nWe’re taking things to the next level:\n\n•…",
+      "timestamp": "Jun 4, 2025 · 8:15 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1930357654796546460#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1930285314880229870#m",
+      "content": "I just completed The Solana staking smart contract Assignment!🚀\n\nWhere you can stake NFTs, native SOL, and SPL tokens—all in one program. \n\nHuge thanks to @kirat_tw for the Challenge and insightful lecture.\n\n Check it out on GitHub: github.com/prince981620/stac…\n\nNow… off to writing tests. This is going to be one hell of a night!",
+      "timestamp": "Jun 4, 2025 · 3:27 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1930285314880229870#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1929458023548006714#m",
+      "content": "🚀 Burning the midnight oil in Rust to upgrade our Bonding Curve Migration Contract! \n\nNow migrations go through the Bonding Curve PDA directly—boosting security and safeguarding user funds from attacks. \n\nMore updates coming—launching very soon. \nStay tuned! \n\n@Live24_Fun X @SonicSVM X @sega_so",
+      "timestamp": "Jun 2, 2025 · 8:40 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1929458023548006714#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1929279347770232837#m",
+      "content": "Bonding Curve on @solana\n\n@pumpdotfun\n– Custom hybrid curve \n– Rewards early buyers, moves to Pump swap\n\n@MeteoraAG\n– Dynamic bonding curve\n– Customizable liquidity and fee setup  \n\n@RaydiumProtocol\n– Supports Linear, Exponential, Logarithmic \n– Projects choose curve that fits tokenomics\n\n@boopdotfun\n– Early-stage linear setup \n– LP burned, mint disabled, community-first\n\n@launchcoin\n– Dynamic bonding curve with fee adjustments\n\n@Live24_Fun\n- Coming soon on @SonicSVM",
+      "timestamp": "Jun 1, 2025 · 8:50 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1929279347770232837#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1928892250798567708#m",
+      "content": "🌐 Listed on @Colosseum Arena\nThis month was a builder’s grind 🚀\n- Buy/Sell fully integrated\n- Client side contract integration \n- Backend deployed/scaled with real-time data flow\n\nOne step closer to making meme markets actually tradable",
+      "timestamp": "May 31, 2025 · 7:12 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1928892250798567708#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1928891018587652520#m",
+      "content": "📆 May Recap — What We Shipped at @Live24_Fun \n\n-  Smart Contract intigration of bonding curve\n- WebSocket integration on backend\n- Arithmetics logics of market cap and coin prices\n- Real-time transactions + coin changes display\n- Live transaction data synced flawlessly\n- Smart contract test of CPI for @Sega_so \n- Listed on @colosseum  Arena\n\n🔜 Coming soon to @SonicSVM",
+      "timestamp": "May 31, 2025 · 7:07 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1928891018587652520#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1928848758009143544#m",
+      "content": "LFG 🚀",
+      "timestamp": "May 31, 2025 · 4:19 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1928848758009143544#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1928387968475058235#m",
+      "content": "🌐 arena.colosseum.org/projects…\n\n💫 Our project — Live24.fun — is now LIVE on Colosseum Arena! @Live24_Fun\n\nFrom an idea in a dorm to:\n🧠 Real-time AI agent\n🎮 @Sega_so integration\n🚀 Coming soon on @SonicSVM\n\nWe’re building the ultimate meme + trading + gaming experience on Solana.\nThis is just the beginning.\n\nGo check it out",
+      "timestamp": "May 30, 2025 · 9:48 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1928387968475058235#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1928229828009881900#m",
+      "content": "Finally after the entire sleepless night.\n\nCompleted CPI to @Sega_so to create CPMM Liquidity Pool with end to end tests.",
+      "timestamp": "May 29, 2025 · 11:19 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1928229828009881900#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1928123773057655166#m",
+      "content": "🧵/ Day 194 of building  Web3 startup from my dorm.\n\nI’m a 4th-year student, full-stack dev, and I'm building something like @Live24_Fun.\n\nNo sleep. No funding. Just vision, code & chaos.\n\nHere’s what it’s really like building in public: 👇\n\nSome days I feel like a genius.\nMost days I feel like an imposter.\nBut I show up anyway.\n\n- Code,\n- test, \n- break.\n- Repeat. \n- Learn. \n- Ship.\n\nWeb2 taught me structure. \nWeb3 taught me freedom.\n\nIt’s not easy.\nIt’s not stable. \nBut it’s mine.\n\nIf you're a dev thinking about building — start now.\nYou don’t need permission. \nJust commit & deploy.\n\n@anuragnegi000 @m_jinprince @AdityaPlusp @priyant_jharwal @SonicSVM",
+      "timestamp": "May 29, 2025 · 4:18 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1928123773057655166#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1928093531517649048#m",
+      "content": "on my way to integrate @Sega_so to @Live24_Fun .",
+      "timestamp": "May 29, 2025 · 2:18 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1928093531517649048#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1926046741888999545#m",
+      "content": "From March 2025 - May 2025 As a part of  @solanaturbine cadet,\nI've learned a lot and written a few commonly used Anchor smart contracts with end-to-end tests:\n\n1. Bonding Curve (github.com/prince981620/bond…)\n- Pump Fun like Bonding Curve contract with CPI to Raydium CPMM POOL.\n- Includes multiple instructions: create token, swap tokens, withdraw, sync native SOL (convert SOL to WSOL), and migrate liquidity to Raydium after bonding completes.\n\n2. NFT Market Place (github.com/prince981620/nft-…)\n- Contract where user can list their NFT and another user can buy it\n\n3. AMM (github.com/prince981620/amm-…)\n- Automated Market Maker with Constant Product Curve Algorithm.\n- Users can deposit or withdraw token pairs to create or close liquidity pools and receive liquid staking tokens.\n- Others can swap tokens from the created pools.\n\n4. Escrow (github.com/prince981620/escr…)\n- A simple contract where a user can lock SPL tokens, and another user can swap by transferring the required amount to the creator's account.\n\n5. Vaults (github.com/prince981620/vaul…)\n- A minimal contract to create a vault PDA for locking native SOL or SPL tokens, with support for deposits and withdrawals.\n\nIf you have any Project Idea or any opportunity/ Opening in Rust, Anchor, Solana smart contract . feel free to DM 🙂",
+      "timestamp": "May 23, 2025 · 10:45 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1926046741888999545#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1925687281769173414#m",
+      "content": "Spent the whole day battling with PDA parsing — tried Borsh, Solana Codecs… nothing worked right. Finally, Anchor saved the day! :)\n\nCompleted some arithmetic logics :\n\n- Calculated how many tokens you get per native coins\n-  Native coins returns when selling at various market caps\n\n@Live24_Fun  @SonicSVM",
+      "timestamp": "May 22, 2025 · 10:56 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1925687281769173414#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1925478617360027722#m",
+      "content": "🎓 Final semester exams ✅\nJust closed a major chapter of life — on to the next!\n\n💻 Successfully tested CPMM pool creation & migration end-to-end for @Live24_Fun on @RaydiumProtocol.\n\nNow diving deep into pool creation for the @Sega_so ecosystem — excited to build for the @SonicSVM fam. Let’s go! 🚀",
+      "timestamp": "May 22, 2025 · 9:07 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1925478617360027722#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1923451139502276687#m",
+      "content": "Smart Contract Update 🚀\n\nThe full bonding curve infra behind @Live24_Fun will be live soon.\n\n- 100% on-chain\n- Modular + upgradeable\n- Gas-optimized \n- Built for creator\n- Driven launches at scale\n- Instructions for: buy, sell, lock LP, withdraw, migrate & more\n\n🧠 Shoutout to our devs grinding through 100+ test loops, late nights, and live deploys to make this a reality.\n\nWe're not chasing virality — we're engineering it.",
+      "timestamp": "May 16, 2025 · 6:51 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1923451139502276687#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1923192167637401989#m",
+      "content": "Presenting Surprise Fun as my @solanaturbine capstone, inspired from our one & only @Live24_Fun 🚀",
+      "timestamp": "May 16, 2025 · 1:41 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1923192167637401989#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1923171672607072315#m",
+      "content": "Sometimes It just takes a whole night and 100 tries to get a single successful simulation while integrating a Solana contract.\n\nWeb3 isn’t a cheat code — it’s a grind :)\n\n@Live24_Fun @SonicSVM",
+      "timestamp": "May 16, 2025 · 12:20 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1923171672607072315#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1922724685336183193#m",
+      "content": "Straightforward + Strategic Tone ⚡️\n\n- Why rely on paid shills when you can deploy an army of AI agents for less than coffee money?\n\n- @Live24_Fun is changing how meme coins launch and scale.",
+      "timestamp": "May 14, 2025 · 6:44 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1922724685336183193#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1922370218988290291#m",
+      "content": "Just updated the Buy/Sell section on @Live24_Fun  \n\nLooks way cleaner now and feels smoother to use.\n\nGo check it out and let us know what you think 💭\n\ncredits goes to @AdityaPlusp :)",
+      "timestamp": "May 13, 2025 · 7:15 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1922370218988290291#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1922368752944857468#m",
+      "content": "🚀",
+      "timestamp": "May 13, 2025 · 7:10 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1922368752944857468#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1922357387383431468#m",
+      "content": "Why we're building @Live24_fun:\n→ Too many rugpulls. We're making launches transparent.\n→ AI agents that shill, trade & tweet for you 24/7.\n→ Live-stream everything to build trust.\n→ Launch & go live for just $5\n→ Built fully on @SonicSVM",
+      "timestamp": "May 13, 2025 · 6:24 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1922357387383431468#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1922006226876907671#m",
+      "content": "Sneak peek: The new bonding curve architecture for @Live24_Fun 🚀\n\nWe’re building a fully on-chain fair token launch + AI agent to promote your meme across various social media platform.💡\n\nAll powered by @SonicSVM ⚡️@solana @m_jinprince \n#BuildInPublic #Solana #AIagents #DeFiInfra\n\n( see the diagram 👇)",
+      "timestamp": "May 12, 2025 · 7:09 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1922006226876907671#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1921933302820122681#m",
+      "content": "🚀 Just wrapped up my Capstone Project for the @solanaturbine Builders Cohort!\n\nProject: An end-to-end tested smart contract featuring a bonding curve mechanism for a truly fair token launch\n\nA huge thanks to the @solanaturbine community for the incredible mentorship & feedback.",
+      "timestamp": "May 12, 2025 · 2:19 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1921933302820122681#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1921646293543174452#m",
+      "content": "We built @Live24_Fun and it just won the $50K Grand Prize at the @SonicSVM Hackathon.\n\nWhat it does:\n\n→ Launch tokens instantly\n→ Deploy AI agents that shill, trade & tweet 24/7\n→ Live-Streaming\n→ All for just $5\n→ Built fully on Solana SVM\n\nNo VC, Just speed & vision.",
+      "timestamp": "May 11, 2025 · 7:19 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1921646293543174452#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1921203440375451905#m",
+      "content": "Travelling in metro these days feels like sitting in a live conspiracy podcast everyone’s talking about the war, and somehow, they all have exclusive insider info! :)",
+      "timestamp": "May 10, 2025 · 1:59 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1921203440375451905#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1920416904084381955#m",
+      "content": "😂😂😂",
+      "timestamp": "May 8, 2025 · 9:54 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1920416904084381955#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1920407650182795672#m",
+      "content": "they removed india from the free student plan because people here started creating fake student IDs and reselling them\n\npeople do stuff like this here and then wonder why india has a bad rep globally!",
+      "timestamp": "May 8, 2025 · 9:17 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1920407650182795672#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1920208240547164454#m",
+      "content": "Thanks @solana 🚀",
+      "timestamp": "May 7, 2025 · 8:04 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1920208240547164454#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1912205622952501547#m",
+      "content": "Finally It's official!! 🚀\n\nSuper excited to share that We won 2nd place at the @SonicSVM 's Mobius Hackathon 🏆 with our Web3-AI project!\n\nHuge thanks to @sonic_devs, @superteam, and @SuperteamEarn for this incredible opportunity.\n\nkeep building. 💥",
+      "timestamp": "Apr 15, 2025 · 6:05 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1912205622952501547#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1910635775068172745#m",
+      "content": "We won second place at the @SonicSVM  Mobius Hackathon in the AI track, sponsored by @solana securing an impressive $50K prize! 💰",
+      "timestamp": "Apr 11, 2025 · 10:07 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1910635775068172745#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1907851967084249573#m",
+      "content": "WE'RE TIRED OF WINNING MR. PRESIDENT!!!",
+      "timestamp": "Apr 3, 2025 · 5:45 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1907851967084249573#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1907141904304861540#m",
+      "content": "Big News! 🚀🚀\nOur project just made it to the next stage of the Sonic Mobius Hackathon !! @SonicSVM.\n\n@solana @sendaifun @aixbt_agent",
+      "timestamp": "Apr 1, 2025 · 6:43 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1907141904304861540#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1899539055823733101#m",
+      "content": "- Solavatar is joining the Sonic Mobius Hackathon on Solana! 🚀\n\n- Don’t miss out—support us & see what’s next for |   \n\n@SonicSVM @vvaifudotfun @Elizaos_ai_ @virtuals_io @aixbt_agent @sendaifun @solana",
+      "timestamp": "Mar 11, 2025 · 7:12 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1899539055823733101#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1896304574572667162#m",
+      "content": "crazyy 🔥!",
+      "timestamp": "Mar 2, 2025 · 9:00 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1896304574572667162#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1896150338044080459#m",
+      "content": "People who are still grinding and putting in the work when @solana is down and the whole market is down are the ones that will kill it in the coming Bull Run !!",
+      "timestamp": "Mar 2, 2025 · 10:47 AM UTC",
+      "url": "https://twitter.com/anshu_code/status/1896150338044080459#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1895579359114916135#m",
+      "content": "If this tweet gets 10 reposts, I will create a roadmap for GSoC'25 for beginners ( pretty confident, It will be different from all of the other resources )",
+      "timestamp": "Feb 28, 2025 · 8:58 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1895579359114916135#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1893034680447865162#m",
+      "content": "🚨 Bybit’s hot wallet just got hacked and the hacker withdrew 401,346 Eth valued over $1.46 Billion",
+      "timestamp": "Feb 21, 2025 · 8:26 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1893034680447865162#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1880388936666915185#m",
+      "content": "True lines!",
+      "timestamp": "Jan 17, 2025 · 10:57 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1880388936666915185#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1875218603966136424#m",
+      "content": "4 hours learning something new.\n4 hours coding at your job.\n4 hours working on actionable personal projects. \n\n6-8 weeks , 5 days a week with consistency.",
+      "timestamp": "Jan 3, 2025 · 4:32 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1875218603966136424#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1873811827135836434#m",
+      "content": "Building Percept UI: a beautiful, developer-first component library crafted for seamless workflows. Built by developer, for developers.\n@kirat_tw @100xDevs @mannupaaji @aceternitylabs \nJoin me on this exciting journey! It's open for open-source contributors.\n#PerceptUI",
+      "timestamp": "Dec 30, 2024 · 7:22 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1873811827135836434#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1869363114447393019#m",
+      "content": "Thanks to @SuperteamIN  @superteam!\nPerks of being a member got $PENGU worth $850",
+      "timestamp": "Dec 18, 2024 · 12:44 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1869363114447393019#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1866103780061651124#m",
+      "content": "A woman married to well settled AI&ML man Atul Subhash for money.\n\nAfter marriage she went to the hon'ble court to harass him for money.\n\nJudge ordered ₹40000 maintenance & gave 120 dates to the man in 2 yrs—i.e 1 date every 5th day of the week to humiliate him.\n\n@khulasafirst",
+      "timestamp": "Dec 9, 2024 · 12:53 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1866103780061651124#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1858973900182528279#m",
+      "content": "Why Every Blockchain Needs An Oracle 🌉\n\nThink blockchains have it all? Think again.  This thread explains why oracles are the missing piece of the puzzle and how they unlock the true potential of blockchain tech.  👇",
+      "timestamp": "Nov 19, 2024 · 8:41 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1858973900182528279#m",
+      "author": "anshu_code"
+    },
+    {
+      "id": "1850938071002530291#m",
+      "content": "pizza time!!",
+      "timestamp": "Oct 28, 2024 · 4:29 PM UTC",
+      "url": "https://twitter.com/anshu_code/status/1850938071002530291#m",
+      "author": "anshu_code"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T01:53:02.052Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 30099,
+    "cursorTrail": [
+      "DAAHCgABG3v6s6a__-wLAAIAAAATMTk3MzEyOTI1MTY1NTQyMjM2NwgAAwAAAAIAAA",
+      "DAAHCgABG3v6s6a__9cLAAIAAAATMTk2NDA1MjgwOTY5NjgwNTM0NAgAAwAAAAIAAA",
+      "DAAHCgABG3v6s6a__8ULAAIAAAATMTk1OTcyNzIzMDg2NDc1NzIwNggAAwAAAAIAAA",
+      "DAAHCgABG3v6s6a__7ALAAIAAAATMTk1NTgwODcwNTYxMTQzMjQxMggAAwAAAAIAAA",
+      "DAAHCgABG3v6s6a__5sLAAIAAAATMTk1MzE3OTQ1MzI2NzU2MjU5NAgAAwAAAAIAAA",
+      "DAAHCgABG3v6s6a__4cLAAIAAAATMTk0NzY4MjYwNjk0Mzk2NTU1NAgAAwAAAAIAAA",
+      "DAAHCgABG3v6s6a__3ILAAIAAAATMTk0NDQ5OTcyNTA5ODUwODM4NggAAwAAAAIAAA",
+      "DAAHCgABG3v6s6a__14LAAIAAAATMTkzNTQ0MzEzNTQwMTk5NjI5NggAAwAAAAIAAA",
+      "DAAHCgABG3v6s6a__0kLAAIAAAATMTkyMzE5MzU5NTcwOTgxMjg3NwgAAwAAAAIAAA",
+      "DAAHCgABG3v6s6a__zULAAIAAAATMTg5NjE2NTk3MTI0MjY4MDc0NQgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

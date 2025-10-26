@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1414883275386937347",
+    "screen_name": "0xblockma",
+    "name": "区块马",
+    "description": "Solidity & Python Developer; \nOnchain Scientist; \nGenZ, Investor; \nResearcher @KernelVentures; \nWelcome DM.",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1630435026965000192/sw2E5WC2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414883275386937347/1664415086",
+    "followers_count": 16265,
+    "friends_count": 1059,
+    "statuses_count": 1889,
+    "favourites_count": 2673,
+    "listed_count": 277,
+    "location": "HongKong",
+    "website": "",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2021-07-13 17:44:01 +08:00",
+    "url": "https://twitter.com/0xblockma",
+    "rest_id": "1414883275386937347"
+  },
+  "tweets": [
+    {
+      "id": "1832318351273840816#m",
+      "content": "x.com/i/article/183212770876…",
+      "timestamp": "Sep 7, 2024 · 7:21 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1832318351273840816#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1980229920556257634#m",
+      "content": "又开新一期了？节奏有点快啊，这一期 dm fun 虽然背景没有上几个强，但是能够上 Metaplex 的 Launch，应该不会差到哪里去。\n\n前面 n 期基本上都是赚钱的，这个我应该也会去打\n\n然后关于这个 Genesis Launch 对 $MPLX 本身的一些赋能会有什么？一起展望一下吧。",
+      "timestamp": "Oct 20, 2025 · 11:09 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1980229920556257634#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1978087155667701964#m",
+      "content": "是8m，怪我怪我，还是有得赚的",
+      "timestamp": "Oct 14, 2025 · 1:15 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1978087155667701964#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1978063709449703547#m",
+      "content": "简单估算一下这一期Pancake打新收益率\n\n目前超募：180x\n预计超募：300x\n相当于打 10,000 U 只有 30 U 额度\n\n在估值方面：\n项目是 ChainGPT 孵化的，但是 GPT 本身就在走下坡路，预计开盘也就 200m。\n打新估值：80m\n开盘估值：200m\n\n所以打 10,000 U 能赚45U，收益率是0.45%\n\n还要借CAKE，不建议参与。",
+      "timestamp": "Oct 14, 2025 · 11:41 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1978063709449703547#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1977912004070584397#m",
+      "content": "不是哥们 有你这样拉盘的么？\n\n@Ru7Longcrypto 又自由了\n@soon_svm 牛逼！",
+      "timestamp": "Oct 14, 2025 · 1:39 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1977912004070584397#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1977783628261421282#m",
+      "content": "5 分钟打满了 13,000SOL，觉得还行\n\nToly 和 Sol 官方都关注的项目\n\n收入也还行，卖游戏机和 NFT 收入好几个 m\n\n就是不知道啥时候发币，期待一下吧\n\nDYOR：我打了 25s，浅浅参与一下",
+      "timestamp": "Oct 13, 2025 · 5:08 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1977783628261421282#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1977688858482586013#m",
+      "content": "这波暴跌受伤最重的应该就是 Perp Dex 赛道了\n\nLighter 由于宕机时间，在 Polymarket 的预测价格（>4B）直接跌了 15 个点，Backpack 也一堆大户被清算。但是 Hyperliquid 还是王，全靠友商衬托，LLP 一天 -5%，eLP 赚 3%，HLP 一天能赚 10% 也是牛逼。\n\n市场对 Perp 的预期下降，其实蛮好的，我还没来得及加仓，刷分成本肯定会降一些。\n\n像这种极端行情，主流币短线暴跌，流动性质押资产（LST）更是成为恐慌抛售的重灾区。多家 CEX 背书的代币相继出现严重脱锚，尤其是币安系资产——BNSOL 一度脱锚超 80%，最低兑换价跌至 0.12 SOL，引发大量杠杆爆仓。也提醒下各位刷 Dex 的兄弟，稳健的流动性，才是真正护城河。\n\n我个人也在刷分对冲上面损失一堆。Backpack Lighter 亏了一堆对冲单，后面可能要换几个所对冲了。\n\n但在一片混乱之中，有一个例外显得格外亮眼：Bybit 旗下的流动性质押代币 BBSOL。BBSOL 小时级下探幅度仅 3.49%，最低价 193.21，明显优于 BNSOL 的 6.29% 下探（最低价 189.14）。\n\n再展开一下，Bybit 下面的 Byreal Dex 交易所，数据也很亮眼，后续我可能会选择用 Byreal + Lighter + Backpack 来对冲，风险应该会小很多。\n\n换句话说：在市场最脆弱的时刻，Bybit 的 BBSOL 以更优的深度、更低的波动性，展现了“双重流动性护盾”——链上 + 交易所。在 Solana 链上主要 DEX 的交易量对比中，Byreal 的 24h 交易量飙升至 13.6M，环比前一日增长 707%（此前仅 1.69M）。\n\nBinance 能带起来 Aster，Bybit 为什么带不起来 Byreal？\nCZ 能喊单？Ben Zhou 为啥不能喊单？\n已冲！敬候佳音。",
+      "timestamp": "Oct 13, 2025 · 10:52 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1977688858482586013#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1976533204489376215#m",
+      "content": "对了，如果你在玩 USD AI，不要只持有本币，直接去 1：1 铸造 PT+YT 然后持有，你的积分会多5x，好多不熟悉 Pendle 的朋友不知道，这个效率直接提升 5x，而且没任何风险，比你光持币好太多了。\n\n@USDai_Official",
+      "timestamp": "Oct 10, 2025 · 6:20 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1976533204489376215#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1975619375425265853#m",
+      "content": "$客服小何\n\n有没有感觉是中文圈 KOL 的攒的局？\n\n感觉好明显，某几位 KOL 拼了命的喊。",
+      "timestamp": "Oct 7, 2025 · 5:48 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1975619375425265853#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1973398200481439946#m",
+      "content": "安卓交易所\n安卓平台\n安卓项目\n@legiondotcc \n@yieldbasis",
+      "timestamp": "Oct 1, 2025 · 2:42 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1973398200481439946#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1973372139895136327#m",
+      "content": "大的要来了，大的要来了，大的要来了\n\n我不知道大家还有没有印象，Endless 这个项目，之前融资 1.1 亿美金的，没听错是融资金额 1.1 亿，估值直接去到 10 亿了🤣\n\n第一轮宣发空投活动已经开始，当前 Genesis Role认领活动已启动，没领的去填表，是很重要的空投凭证。\n\nEndless 应该算是个 AI + Web3 打造的全栈云平台，开发者友好型，有很多智能模块插件。我使用过基于 Endless 打造的 IM，叫 Luffa，整体体验很不错，反正比币圈 99% 的那些垃圾 IM 都好 100 倍，自己可以去下载体验一下。",
+      "timestamp": "Oct 1, 2025 · 12:59 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1973372139895136327#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1973120293007929433#m",
+      "content": "已冲，莫辜负！",
+      "timestamp": "Sep 30, 2025 · 8:18 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1973120293007929433#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1972934803264770136#m",
+      "content": "XPL：搞稳定币公链，牛逼！\nFalcon：稳定币抵押协议，牛逼！\nOpeneden：RWA（稳定币+抵押），这个会不牛逼？\n\n看看友商家 Plume 和 Ondo 吧，OpenEden 在 RWA 真的不输任何人。其所有产品，均达到机构级标准且完全合规受监管，其 TBILL 基金是首个获得国际权威评级机构穆迪授予“A”级的美国国债代币化基金，同时也获得了标准普尔全球（S&P Global）的评级。\n\n一切敬候佳音。",
+      "timestamp": "Sep 30, 2025 · 8:01 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1972934803264770136#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1972244157973602411#m",
+      "content": "878分，能打多少U，有没有懂的，这两天都没关注，今天弄了一下",
+      "timestamp": "Sep 28, 2025 · 10:17 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1972244157973602411#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1971523080397991972#m",
+      "content": "终于要来了，苦等！\n\n前阵子在Pendle搞了一堆YT，短平快的撸了一裤兜子Bills积分，大概率会小麻一下，而且还没折价，基本上都是保本跑掉的。\n\n合规 + 穆迪评级 + BNY 托管，再加上 DeFi 全面接入，真正把 TradFi 拉上链。\n\n让子弹再飞一会！$EDEN to the moon !",
+      "timestamp": "Sep 26, 2025 · 10:31 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1971523080397991972#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1971303789299892633#m",
+      "content": "夜深了，复盘一下今天我在 Plasma 的操作，主要分享下思路，思路很重要，因为在我的思路下，就算你没拿到任何空投，也有比较不错的机会可以赚钱。\n\n1. CEX-DEX 差价套利\n\nCEX-DEX 很好理解，我在链上拿到空投之后，转入了一部分到交易所，然后留了一部分在链上，然后两边都有 U，两边都有 XPL，两边高卖低买即可。\n\nDEX-DEX 这个其实也很好理解，当时跨链桥已开，可以从 BSC 跨链到 Plasma，而且交易所也支持 2 条链的充值，所以可能没有很多人关注到 DEX 之间的差价。我就在两条链分别放了一些 XPL，也是两边买卖，基本上能做到类似 1 U 在 Plasma 链买，1.02 U 在 BSC 卖，相当于单笔交易就能有2%的利差可以套。\n\n我觉得我能够发现并且快速执行，是因为我够熟悉这套逻辑，加上 Plasma 链也是 EVM，只需要获取双边价格即可，所以代码+手动这种半自动即可完成。\n_____________________________________\n\n2. 原生资产价格偏离\n\n看图，6000 U 在 DEX 只卖出了 80u，10,000U 卖出了 500u，为什么？本质上就是因为没池子，所以组池子的人赚麻了，相当于低价收到了 PlasmaUSD 这个资产，而这个资产仅仅只需要跨链一下，就可以变成真的 USDT。\n\n这个思路是我一开始就想到的，我觉得玩 MEV 的兄弟肯定很了解，但是 PlasmaUSD 这种新资产，可能市场对于其定价逻辑并没有快速感知到，所以没有 MEV 在这里套利。这就给了我们散户很多操作空间，直接去 Uni 加单边池子即可。\n\n我就加了从 0-0.85 区间，意思是只要价格低于 0.85U，如果有人卖出，我就能拿到低价筹码，撤池子就行。这个能不能吃到，就需要等“有缘人”了。\n\n还有一些较小的机会等等，就不细说了。\n_____________________________________\n\n其实一条资产极多，关注度极高的项目，新开一定是有这种机会的，比如说冒险岛 NXPC 跨所套利等等。\n\n没空投？OK，那就看看撸毛机会\n没撸毛？OK，那就看看套利机会\n没套利？OK，那就看看能不能加个池子赚傻子钱",
+      "timestamp": "Sep 25, 2025 · 8:00 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1971303789299892633#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1971201029787222188#m",
+      "content": "Thank U Plasma.",
+      "timestamp": "Sep 25, 2025 · 1:12 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1971201029787222188#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1970531535058248060#m",
+      "content": "存了 30k，肯定是不想存到最后的，看看能不能在 XPL Mainnet 上面套个差价之类的，等主网开了再说。",
+      "timestamp": "Sep 23, 2025 · 4:51 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1970531535058248060#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1970088486943547428#m",
+      "content": "Sooon to the mooon 🫡🫡🫡",
+      "timestamp": "Sep 22, 2025 · 11:31 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1970088486943547428#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1968987881222877351#m",
+      "content": "SOON @soon_svm 感觉又要作妖一下？最近好像又要有起来的势头了，买了点蚂蚁仓当理财， DYOR！",
+      "timestamp": "Sep 19, 2025 · 10:37 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1968987881222877351#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1967869016942551260#m",
+      "content": "Metaplex打新又来啦，要不要参与？\n\n复盘一下前几期数据：\n\nTuna：33%卖12370SOL，FDV折合8m，开盘40m，现价140m\n\nCards：5%卖16500SOL，FDV折合70m，开盘45m，现价375m\n\nPortals：还没上线 不知道\n\nEXO：2.5%卖1300SOL，FDV折合11m，开盘13m，横盘7小时后拉到130m，现价50m\n\n这一期Goated我大概率也会参与一下，虽然估值有点高，但是亏钱概率不大。",
+      "timestamp": "Sep 16, 2025 · 8:31 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1967869016942551260#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1966491980491554943#m",
+      "content": "馒头 ATH 了！不枉我！Bybit 雄起！ \n错过了BNB，踏空了 OKB，一起抓住 MNT！  \n\n买MNT的逻辑很简单\n1. WLFI 相关币，总统严选。\n2. 交易所开始扶持了，最近上了几十个 MNT 交易对。\n3. 换新领导了，要政绩，要搞事。",
+      "timestamp": "Sep 12, 2025 · 1:19 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1966491980491554943#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1963178337536266388#m",
+      "content": "币安最近狂上新币合约\n有时候一天都能上2个\n有没有人讲一下逻辑是什么？",
+      "timestamp": "Sep 3, 2025 · 9:52 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1963178337536266388#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1963170608575119517#m",
+      "content": "发财了 今晚会所",
+      "timestamp": "Sep 3, 2025 · 9:22 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1963170608575119517#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1961435370299822379#m",
+      "content": "本来想多打一些的，规则太不透明了，只打了几个号",
+      "timestamp": "Aug 29, 2025 · 2:26 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1961435370299822379#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1961435260824232246#m",
+      "content": "form接下来的剧本\n\n1.极度格局\n超募太多了，直接退款+白送币\n\n2.正常低开高走\n估计可能募资的FDV会在20m以内，所以募资15%=3m，超募50x应该差不多\n开盘可能冲到60-80m 3-4x\n打1wu能赚400-600u，综合应该有5%的收益率\n大资金的胜利\n\n3.高开高走\n可能募资就是以50-100m的估值卖\n这个估值也涨不了太多\n可能有个1-2x收益\n算上超募退款，可能综合收益率能有2%\n\n4.畜生\n直接1b卖币，募资额全吃\n跑得快应该也不亏\n但是这是唯一能亏大钱的方法了",
+      "timestamp": "Aug 29, 2025 · 2:26 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1961435260824232246#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1960497098182549879#m",
+      "content": "还好，单号5x，一共也就打了几个号，小赚。\n早安大家！",
+      "timestamp": "Aug 27, 2025 · 12:18 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1960497098182549879#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1960488420540866937#m",
+      "content": "不是哥们 @JoinPond 上一个拉飞之后，大家也太Fomo了。直接超募100x？我就怕出一波大事啊！",
+      "timestamp": "Aug 26, 2025 · 11:43 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1960488420540866937#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1960296062901481910#m",
+      "content": "质押了13000 BIO 12周，昨天一天给了426 XP\n好少，需要继续探索更优策略",
+      "timestamp": "Aug 26, 2025 · 10:59 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1960296062901481910#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1956933067723219096#m",
+      "content": "MNT 底部拉了也有接近 3x 了，最近对 Mantle 有点小期待。\n\nRWA 的故事挺大，能把传统资金盘子往链上拉。\n\n再加上 MNT 跟 Bybit 的整合，用来抵手续费、做 VIP tier，这个点很实用。Bybit 那么大交易量，哪怕一部分人切到 MNT，也会形成不小的刚需。很简单，你就想一下如果 UNI 被 Uniswap 强赋能，会怎么拉，那么 MNT被 Bybit 强赋能，就一样会怎么拉。\n\n没啥花里胡哨的，就是觉得这个逻辑挺顺。\n\nDYOR 本人长期看好并持有 MNT 中",
+      "timestamp": "Aug 17, 2025 · 4:16 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1956933067723219096#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1956229847719764354#m",
+      "content": "最近：\n跟着 @KaitoAI 打新Launchpad\n每个项目都打了 10k+\n\n跟着 @crypto_laodong  刷Backpack背包\n存了 50k+ 通过循环贷刷积分，估算年化 100%+\n\n跟着 @Longyu_TB1Q  在Move链玩Defi\n存了100k+ 的 U- U 稳定币对，年化 40%+，舒服\n\n跟着 @Btc_Crush  玩饼链新东西\nLabitbu 被套 Labumew 半死不活😂😂",
+      "timestamp": "Aug 15, 2025 · 5:41 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1956229847719764354#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1956208322488754634#m",
+      "content": "绷不住了，Solana 手机 Made in China\n大概率是华强北🤣",
+      "timestamp": "Aug 15, 2025 · 4:16 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1956208322488754634#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1954409516012851247#m",
+      "content": "卧槽 @soon_svm 这样子拉？\n再拉 @Ru7Longcrypto 真的要暴富了。",
+      "timestamp": "Aug 10, 2025 · 5:08 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1954409516012851247#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1953265841564467706#m",
+      "content": "每笔交易收4u，现在项目方已经净赚26万U了。\n\n地址：bc1pymv80ur5qd7yacr0a8j5lkn9uctud4sxst5x30pdgzrjpsxrsw2qjjsjf9\n\n这都有人去打？打完白送项目方几m啊？\n\n韭菜们，好好想一下吧，把这4u花在哪里不好？",
+      "timestamp": "Aug 7, 2025 · 1:24 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1953265841564467706#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1952353432972444013#m",
+      "content": "貌似看到了下一个 0xsun（比特币生态版）\n跟着科学家玩！投资人脉！",
+      "timestamp": "Aug 4, 2025 · 12:58 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1952353432972444013#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1950375881861714394#m",
+      "content": "一如既往的期待 Soon 的产品\nSoon 的产品 Simpforfun （Hyperliquid 跟单）也做到了几个亿的交易量，加油！",
+      "timestamp": "Jul 30, 2025 · 2:00 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1950375881861714394#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1945864963081543751#m",
+      "content": "开启新的三年！",
+      "timestamp": "Jul 17, 2025 · 3:15 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1945864963081543751#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1945841889632276523#m",
+      "content": "好吧 超募好像没啥用= =散了散了",
+      "timestamp": "Jul 17, 2025 · 1:43 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1945841889632276523#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1944161176063283455#m",
+      "content": "感谢老何嘴替\n我气死了一夜没睡\n草泥马的@Bybit_Official",
+      "timestamp": "Jul 12, 2025 · 10:25 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1944161176063283455#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1944160286648545345#m",
+      "content": "操你妈的\n@tina_bybit @benbybit",
+      "timestamp": "Jul 12, 2025 · 10:21 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1944160286648545345#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1944159041825255497#m",
+      "content": "一样失败，一样空单被套了…\n操你妈的周笨逼 @benbybit",
+      "timestamp": "Jul 12, 2025 · 10:16 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1944159041825255497#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1944040553420927021#m",
+      "content": "bitget那个应该也是打到了，所以总共就打到7wu差不多",
+      "timestamp": "Jul 12, 2025 · 2:26 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1944040553420927021#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1944039809695330544#m",
+      "content": "准备了差不多15wu\nGate 5wu\nbitget 3wu\nbybit 3wu\n链上 2wu\n\nGate开打直接卡死 额度显示0\nbitget扣款成功但是额度显示0\nbybit扣款成功且显示，这个成功了\n链上也成功了",
+      "timestamp": "Jul 12, 2025 · 2:23 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1944039809695330544#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1943741843998748781#m",
+      "content": "好了，现在不用抢了，保证额度来了。",
+      "timestamp": "Jul 11, 2025 · 6:39 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1943741843998748781#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1939183022361977235#m",
+      "content": "已梭哈，勿辜负 @coopsmoves \nMovement 链 Defi 目前利率还不错",
+      "timestamp": "Jun 29, 2025 · 4:43 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1939183022361977235#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1936704990527328417#m",
+      "content": "Fractal的第二春来了，铭文市值破 1000 万\n\n中文区好像还没人注意到这个冷门机会，我来给大家分析一下。\n_____________________________________\n\nMooncats 是去年 9 月 FB 刚上主网的时候的大卡车，当时打完市值在 2m 左右，随后随着 FB 一路阴跌几乎归零，但是最近这一个月翻了 5x，直接冲上 10m，其实像 Mooncats 这种完全公平发射的项目，上个 10m 并不容易，因为目前 Fractal 生态代币都是社区主导，很难有真正的拉盘资金入场，但是 Mooncats 这一波相当于打开了 FB 链铭文的天花板，也带来了巨大的流量。\n\n今天凌晨打 MoonMother 的时候，当时就把 20 多的 Gas 直接卷到 100+，随后今天中文的几个小时又维持在200+，最高差不多 260 的 Gas，MoonCats 起飞之后，FB 链上呈指数级活跃。\n\n小展开讲一下大家都在打的这个又是什么？MoonMother 总量1亿张，算是 Mooncats 的仿盘，按照 Gas 220 估算，单张价格 0.0005FB（0.00025u），打完总市值 25,000u，也是大卡车，链上活跃程度如今看起来堪比 Fractal 刚发布时的火爆，可以参与一下，成本巨低。\n_____________________________________\n\n作为一个在 30u 买 FB 的大聪明，我一直都在关注 Fractal 生态（因为被套了😂），包括 Unisat 最近又是去中心化区块浏览器、Pizzaswap、 支持烷烃协议资产等等，能看出来团队一直在干活，但是为什么当时的当红炸子鸡 Fractal 跌成这样了？\n\nFractal 曾经的辉煌可谓无人不知，追溯到它刚发布时，大家都疯狂抢购各种 CAT-20 和小图片，链上 Gas 一度 3000+。现在的情况算是 Fractal 的“第二春”？FB 能否再次勃起呢？拭目以待。\n@unisat_wallet  @fractal_bitcoin \n#fractal",
+      "timestamp": "Jun 22, 2025 · 8:37 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1936704990527328417#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1935998183626490028#m",
+      "content": "复盘一下 @uptopmeme 虽然只打到了一些，好在思路正确。\n\n1.提前一天做好了准备工作，想好了应对策略和思路\n\n2.开打当时，我一直在盯链，据说也有小伙伴盯网页，结果卡死了，盯链第一时间拿到了正确的CA和十六进制数。我在03分配置好了软件，看链上是06分打完的，勉强蹭上了末班车\n\n3.这次抢购我的成功率只有30%左右，最大错误是因为懒，懒得去搞那么多RPC，结果RPC报错一堆，成功率大幅下降。\n\n4.没发财，没打到多少",
+      "timestamp": "Jun 20, 2025 · 9:48 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1935998183626490028#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1935678727339532538#m",
+      "content": "简单估算：\nBSC 3 秒一个块，平均每个块 300 笔交易，也就是 1 秒 100 笔交易\n单笔交易打 1000 币，均价按照 0.015，就是单笔 15u\n总共 150 万 u，大概需要 1000 秒（16 分钟）能打完\n所以大概率是 Gas 战争，只要你舍得拉 Gas，都能得货",
+      "timestamp": "Jun 19, 2025 · 12:39 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1935678727339532538#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1925863480243974367#m",
+      "content": "我觉得，如果不是 OKX 区块浏览器发文，很多人都会觉得 Fractal 怎么还没死😂但人家上周交易笔数排在了 Base BNB 前面，这你怎么喷？\n\n母公司 Unisat 一直在深耕比特币赛道，包括最近好像也在逐步兼容烷烃（Alkanes）协议。大饼生态，往往不会去跟风热点圈钱，玩家们都比较纯粹。\n\n其实一个链行不行，从社区看是最好的，像是 @she_daoren 这个老哥我虽然不认识，但是经常活跃在各个 FB 生态底下的评论区，建设土豆社区。说句不好听的，FB 都跌成这样了，还在建设社区的话，那凝聚力确实没得说。\n\nFB 生态好像一直都无人问津，其实最近有好转，Unisat 也在 FB 链上部署了 Pizzaswap，有添加流动性活动；还有生态下面的一些小游戏活动等，真 · 团队在做事。\n\nMERL B2 都上了币安 Alpha，这就证明了其实饼链二层并没有那么地不受众，FB 会上吗？其实不用纠结，车到山前必有路。",
+      "timestamp": "May 23, 2025 · 10:36 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1925863480243974367#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1923040386563572012#m",
+      "content": "默默构建一年、不靠VC的Solana项目\n_____________________________________\n\n某个项目，在 SOL 链做稳定币，有 Jito，Pyth 的背书，FDV 才3m，就是：@convergent_so ，平台币 $CVGT 没靠 VC 一分钱，Pump 公平发射，自资走完产品打磨、审计、NFT 发行、生态合作，走到现在。作为一名深度参与者，尤其是对真正的 DeFi 仍然抱有信念，比如说我，聊聊为什么这个项目值得你关注。\n_____________________________________\n\n为什么是 Solana？\n\n讲个常识问题：Solana 上的稳定币几乎全是中心化的（USDC、USDT），所以 Convergent 来“革命”，Convergent 是反着来的，你拿 JitoSOL 来抵押，铸造出 USV 稳定币，可以用来参与 DeFi，还能保留 Jito 的 staking + MEV 收益。简而言之，你的钱能动，利息不收，收益归你。（大白话就是 Restaking 了 JitoSOL）\n它是100% 去中心化的，没有中心化托管，不依赖RWA、也没有重包装。协议底层完全跑在链上，合约已由 OtterSec 与 Zokyo 审计，用户资金安全可验证、可审计。\n_____________________________________\n\nUSV 稳定币怎么用？\n\nUSV 并不会躺在你的钱包，而是围绕 Solana 原生生态设计的 DeFi 积木：\n用户抵押 JitoSOL → 铸造 USV\nUSV 可存入 Nexus → 获得清算收益 + 平台币激励\n平台币 CVGT 可质押 → 获得协议分红 + 治理权\n整个流程打通了「抵押 → 稳定币 → 收益回流」的闭环，用户可以高效使用资产流动性，同时不失去原本的 staking 收益。\n_____________________________________\n\n真正代表 Solana 去中心化价值的稳定币，一定是真做事，而不是真会讲故事。Convergent 在做的，是把 LSD 逻辑搬上 Solana、结合无息借贷和原生生态整合，构建一个从底层开始的金融基建。那么这个稳定币会不会是 Convergent，拭目以待。\n\n利益相关：二级市场有 $CVGT 持仓\nDYOR",
+      "timestamp": "May 15, 2025 · 3:38 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1923040386563572012#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1922217059196534813#m",
+      "content": "x.com/i/article/192221449298…",
+      "timestamp": "May 13, 2025 · 9:07 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1922217059196534813#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1920658087209562423#m",
+      "content": "通俗地讲一下 Boop 更新了什么，以及目前的套利机会。\n\n目前的现状是，KOL 有着大量空投，于是就随便发一个币然后躺着等空投到账，用户也都知道这个道理于是也不去交易，不买账，导致 Boop 交易量急速下滑。\n\n改进之后，KOL 的空投不会全部发放给本人，而是 50% 给本人，50% 按比例给持币用户，比如说你持有了这个代币的 1%，而这个 KOL 有 20 万币的空投，那你就可以拿到 200,000 * 50% * 1% = 1000 个币的空投。\n\n聪明的朋友不难发现其中的套利机会，比如说这个 KOL 有 20 万币的空投（目前价值 45000u），其中一半（价值 22500u）是空投给代币持有者的，那么如果他发的币，市值连 22500u 都没有，是可以买入套利的。再夸张一点比如他的代币只有 5000u 市值，那就相当于是 2 折买 Boop，利润大大滴！\n\n@0x_ultra 做了一个工具来看空投价值/代币市值的比例，如果高于 1 那就可与买，刚改规则那会儿可能还有一些 3 的，目前只有一些是 1.6+ 的，但是还能买，套保党是稳赚。\n\n注意风险，怕 Boop 跌的记得去套保。",
+      "timestamp": "May 9, 2025 · 1:52 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1920658087209562423#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1917810516539629780#m",
+      "content": "最近是捅了发卡的窝吗？怎么家家发卡？\n下一期讲一下支付卡和 PayFi 这个大生意，为何人人都想来分一杯羹。",
+      "timestamp": "May 1, 2025 · 5:17 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1917810516539629780#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1917604207890423866#m",
+      "content": "又想到之前在群里发红包，次次被机器人抢，OKX Pay + X Layer 结合，打败外挂！\n我在 X Layer 上还有之前打狗存的几个 OKB，终于能派上用场了😂",
+      "timestamp": "Apr 30, 2025 · 3:37 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1917604207890423866#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1917235002171089349#m",
+      "content": "已被套",
+      "timestamp": "Apr 29, 2025 · 3:10 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1917235002171089349#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1917209134841368642#m",
+      "content": "来分析一下 Haedal 到底值多少钱？\n（利益相关：0.12 做多了 Haedal）\n_____________________________________\n\n先看看 Sui 的质押赛道：\n\nHaedal\n目前 TVL 2 亿美金左右，是 Sui 上面最大的质押协议\n有 Sui 官方的投资和扶持，当之无愧的龙头\n\nVolo\n目前 TVL 8500 万美金左右\n是 Sui 上面最大的借贷平台 Navi 的子项目\n整个网络第二大的协议\n\nAftermath\n目前 TVL 3500 万美金左右\n虽无直接投资，但 Sui 官方和创始人都关注了它\n\n三个都没发币......很难横向对比，但是从中不难发现对比其他链 TVL 都比较低，整个在质押赛道都不是 Sui 的边缘人，不是好事儿......\n_____________________________________\n\n再看看 Sui 生态的其他项目\n\nWalrus 3b\nDeepBook 2b\n\nCetus   200m\nBluefin   105m\nSuilend   70m\nNavi   60m\nScallop   36m\nTurbos   20m\n\n嫡系项目 WAL DEEP 几乎占了 80% 的总市值，Haedal 也有 Sui 的投资，也上了 Upbit，有泡菜溢价，正如 @thecryptoskanda 说的一样，估值都“默契的较低”。\n_____________________________________\n\n不废话了，我坚信泡菜 Premium！",
+      "timestamp": "Apr 29, 2025 · 1:27 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1917209134841368642#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1917137435445846177#m",
+      "content": "众所周知 OKX 的 UID 是真的长，现在终于不用输那么长一串的 UID 来转账了🤣",
+      "timestamp": "Apr 29, 2025 · 8:42 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1917137435445846177#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1915302120984895952#m",
+      "content": "谢谢 @zora",
+      "timestamp": "Apr 24, 2025 · 7:09 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1915302120984895952#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1914967794720141387#m",
+      "content": "懒得写教程了，Unichain 上了 1w 个号，卷起来吧！\n\n用 OKX 钱包的批量分发功能就行，卷！",
+      "timestamp": "Apr 23, 2025 · 9:01 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1914967794720141387#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1913091644242727055#m",
+      "content": "BinanceWallet 上的第 1305 次独家代币生成事件\n✅ 完成 KYC\n✅ 钱包活跃\n✅ 买过 Alpha\n✅ 手臂纹币安 logo\n✅ 跟 CZ 合过影\n✅ 在链上上传一段跳 CZ 主题舞的视频\n✅ 念 88 遍「币安是我信仰」",
+      "timestamp": "Apr 18, 2025 · 4:46 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1913091644242727055#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1912842507123302691#m",
+      "content": "知行合一\n\n在低位抄底 Gomble $GM 之后，发现韩国所有溢价，果断联系韩国兄弟准备好 Coinone 交易所账号，到点搬砖又赚了一些些。\n\n真是泡菜 Premium @marshallha_",
+      "timestamp": "Apr 17, 2025 · 12:16 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1912842507123302691#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1912787937089188283#m",
+      "content": "我玩二级一向很菜，不知道最近是不是错觉，我总觉得会亏回去🤣",
+      "timestamp": "Apr 17, 2025 · 8:39 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1912787937089188283#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1912787762962674157#m",
+      "content": "币安 Labs 投资的项目，估值小于 5000 万无脑买入，已经连续吃了三波\n\n最近的：\nSTO (融资2200万) 5000万→1亿 # 100% 涨幅\nFHE (融资1250万) 3000万→6000万 # 100% 涨幅\nGM (融资1000万) 2000万→3000万 # 50% 涨幅\n\n这段时间看二级超跌的 VC 币，低位横盘过一段时间且融资千万以上的，适当买入。",
+      "timestamp": "Apr 17, 2025 · 8:38 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1912787762962674157#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1908391330172330449#m",
+      "content": "《空投熊市幸存指南：散户活下来的真实路径》\n\n大家都对 Bayblon 和 Stakestone 怨声一片，质押是大户的游戏，散户不仅要承担币价下跌的风险还要忍受规则分配的失衡，且 FDV 直接是市场预期打一折，无论规则多么公平，撸毛人都会亏损。\n\n“空投熊市”中，很多工作室一波爆拉之后就哑火，核心问题就是——现金流断裂。大的被反撸，小的看不上。我们以前和 @superdope_BOBO 一起开工作室的经验也告诉我们一件事：不管你大不大，撸是一定要撸的。\n\n下面分享几个我最近在参与的“小而美”项目：_____________________________________\n\n1. Fractal 生态项目 @SatWorld_io \n\n目前已经进入第三期。\n◉ 第一期空投：10 FB + 生态代币（约 25 U）\n◉ 第二期空投：15 FB + 生态代币（约 30 U）\n\n这种项目的好处就是一点也不卷。项目方设置的门槛是前 100 名才能拿空投，但门槛不高，大概玩一小时小游戏就可以进榜，Unisat 钱包连接之后直接上。\n\n大概玩法如下👇\n现在整个 BTC 生态都处于低迷期。前几天我还在吐槽 BTCL2 要凉了，但我指的是那些“挂羊头卖狗肉”的 Rollup 项目。像 Fractal 这种真·L2，生态更纯粹。\n\nSatWorld 作为 Fractal 的生态项目，前期小游戏产出的资源未来可能会在其元宇宙游戏中复用，构建类似“无限套娃”的循环体系。\n\n所以结论是：先撸为敬！_____________________________________\n\n2. OKX 钱包活动 @wallet\n\n这个就不新鲜了，老毛新撸。\n\nOKX 钱包的活动经常有大毛，且基本都是 0 撸，最多质押几天。\n\n比如最近的 Skate BR，任务几分钟就能搞定，轻轻松松薅一笔。\n_____________________________________\n\n3. 总结\n\n整体来看，现在的空投环境虽然卷，但依然有不少良心项目默默发糖。像 SatWorld 这种“小游戏+生态联动”的模式，既好玩又有潜力，正是“空投熊市”下值得关注的方向。\n\n市场低迷期反而是筛选项目的最佳阶段。那种阵容豪华、撸点巨多的项目你根本插不进去手，真正适合散户的，是这种前期看不懂，后期补课来不及的小众项目。你不需要每个项目都ALL IN，只需要选几个你看得懂、玩得起的，稳定薅、别贪心，时间一拉长，日子就有得过了。\n\n别忘了，上一轮周期，一堆牛逼的 NFT 和小游戏起初也没人当回事，最后都成了“踩中就起飞”的代表。\n\n现在就是一个沉默者的机会窗口，玩得不多，但能薅到；撸的不卷，但能积累。",
+      "timestamp": "Apr 5, 2025 · 5:28 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1908391330172330449#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1907722449908850700#m",
+      "content": "STO/BNB 2.5m 流动性 5m交易量\nSTO/USDT 100k 流动性 800k交易量\n加 USDT 池子日化应该有大几十，而且 STO 现在 60m 的 FDV 怕啥？我准备梭哈了 老师们",
+      "timestamp": "Apr 3, 2025 · 9:10 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1907722449908850700#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1906655276465639596#m",
+      "content": "《B 死无疑？BTC 二层赛道是否已经被证伪？》\n\n前有 BEVM 的“五年空投刑期”，后有 Solv 虚报 TVL 收割大户，再有 Corn 代币锁仓形同虚设、Kaito 积分造假。BTC 生态项目普遍融资规模豪华、资本阵容惊人，但为何一个个像扶不起的阿斗，一个能跑出来的都没有？\n\n本文将从当前 BTC 二层生态代表项目的现状出发，探讨比特币二层赛道是否真的已经“被证伪”。\n_____________________________________\n\nBitlayer\n\n官推更新频率平均两天一次，但几乎全是转推内容，自产内容寥寥，项目是否已然“社死”？\n表面上看，主网日均交易量达到 20 万笔看起来欣欣向荣，但实际一查链上数据，发现大量交易都是自转自的无意义操作，明显是脚本批量刷出来的“假繁荣”。但是作假好歹也要动点脑子，正常人谁会这样一直无意义的转账？\n\nBitlayer 的问题，已经不是“发币后能不能涨”，而是“还能不能发出币”。作为 @DujunX 大力扶持、ABCDE 投资孵化的项目，听说项目方和 ABCDE 甚至共用一个办公室，现在却沦落到自己刷交易保面子，不知道杜老板看着这局面作何感想。\n_____________________________________\n\nB²（Bsquared）\n\n如果说 Bitlayer 是“装死”，那 B² 就是真 · 死链。主网上几乎没有任何用户交易，每个区块都只有一笔系统奖励交易，毫无生气。\nTVL 连续八个月无新增流入，且持续下滑。权益类 NFT“方块头”从开盘时几百 U，一路跌到只剩 160 U，且一个月都未必能成交一张。曾经高价买入的用户（我），欲哭无泪。\n_____________________________________\n\nBOB\n\nTGE 一拖再拖，按目前节奏，每月积分将新增 4320 万，积分价值不断稀释，典型的“积分 PUA”。明明是欧美巨头投资、老外圈唯一热捧的 BTC 二层项目，却还是走上了这一套。\n不过也要客观地说，BOB 主网的活跃度还算在线，用户交互是真实存在的，前期三轮积分活动也确实积累了不少用户来刷积分。从目前表现看，是整个 BTC 二层里相对最不拉胯的一个，关键就看发币节点能不能顺利兑现。\n_____________________________________\n\nBEVM（现更名 GEB）\n\n诈骗项目代表，直接改名跑路。TGE 设计出奇地“毒”，代币解锁周期长达 5 年，堪称史无前例。更离谱的是，项目方曾宣传空投占比为 3%，但链上数据揭示，其中高达 1.2% 实际落到了项目团队手里，真正发到普通用户手中的只有 1.8%。这是空投？不如叫“空手套白狼”。\n_____________________________________\n\nBedrock\n\n严格来说不属于 BTC 二层，更像是 BTC 的质押协议。不过作为老牌项目，在 Babylon 的第一期质押中，也是前几名的委托者，也值得一提。\n\nBedrock 营销做得不错，曾借助 Binance 钱包打新活动成功发币。但发币后，表现却差强人意。\nTGE 一结束，TVL 就迅速跳水。以 Arbitrum 链上的 BTC 质押为例，供应量暴跌，质押者集体跑路。\n\n且官方回应称，因底层协议的解锁机制限制，暂不支持 brBTC 的即时提款。\n\n散户的 brBTC 无法提取，被卡资金进退两难，而且也没有明确开放提款时间，不管是不是因为技术原因，都应该去DC等社区安抚一下用户情绪吧，结果却是冷处理。这不是失职，是失信。\n_____________________________________\n\n总结\n\n回顾这些 BTC 二层生态项目，不是数据造假唬用户，就是发币遥遥无期拖节奏。融资金额动辄上千万美金，背后资本阵容豪华，项目质量却一言难尽。\n\n不是死链就是空气交易，真正落地的凤毛麟角。与其说这个赛道被“证伪”，不如说它压根还没“证成”。讲概念、炒预期、搞融资，是目前这些项目的共同点；真正愿意打磨产品、构建生态的，少之又少。\n\nBTC 二层赛道并非没有价值，但目前的大部分项目，只配一个词：泡沫。",
+      "timestamp": "Mar 31, 2025 · 10:30 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1906655276465639596#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1906304546634350787#m",
+      "content": "终于收到了 @mia_okx 送的煤气罐😳",
+      "timestamp": "Mar 30, 2025 · 11:16 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1906304546634350787#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1905963617994088694#m",
+      "content": "没有 OKX Swap 太痛苦了，速度回归吧！！期待！",
+      "timestamp": "Mar 29, 2025 · 12:41 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1905963617994088694#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1905178060422619300#m",
+      "content": "Unizen：这个没人吹的老项目，真没人在看吗？\n\nOKX 暂停 Swap 后，最近试了几个聚合器，比如 1inch、Paraswap、Unizen——真心说，用下来 @unizen_io 最顺手，滑点低、反应快，整个交互感觉就很舒服。\n\n一查才发现，这项目居然 2021 年就发币了，老 OG 了，但一直不咋营销，挺冷门。现在看，可能正因为专注做产品，才有点东西。\n_____________________________________\n\n1.链路齐全\nUnizen 整合了 17 条公链，200 多个交易所，基本上市面上你能参与的链，他都支持了。\n支持链上自动最优路径交易，体验可以说是“钱包级别”顺滑。\n最近熊链、Sonic 那种冷启动快的项目它也能第一时间上线，P 小将们亏钱通道全开，不用担心找不到门。\n_____________________________________\n\n2.热点响应快\n最近 BNB Chain 火热，Unizen 也与 BNB 链的 DeXe DAO 平台展开合作，把 Unizen DAO 搬到了 BNB Chain 上。Earn 2.0 收益系统也同步上链，LP 质押就能赚收益，这一波对喜欢撸空投或撸收益的，挺友好。\n_____________________________________\n\n3.回购销毁\nUnizen 有自己的平台币 $ZCX，首先，ZCX 合约已经彻底放弃所有权了，意味着以后任何人（包括团队）都无法再改合约。\n然后在通缩方面，Unizen 在交易中产生的几乎所有收入（最多可达100%）都将用于回购并销毁 $ZCX。且这个机制是长期、持续运行的。按照目前大约 30% 的交易由 Unizen Router 处理，潜在的每日回购销毁金额为8万美元。\n_____________________________________\n\n4. ZCX 平台币\n从我看下来的几个角度来看，ZCX 这个代币不算“热点币”，但它在整个 Unizen 生态里作用很大，而且逻辑挺正的：\n◉ 每笔交易收入，定期用于回购 ZCX 然后销毁；\n◉ 销毁链上可查，Unizen 官网有透明展示；\n◉ 合约已放弃所有权限。\n\n这就形成一个闭环逻辑： \n交易量↑ → 收入↑ → 回购↑ → ZCX 销毁↑ → 币价↑\n当前 ZCX 交易所流通量不大，价格没被炒过，没有什么社交媒体带节奏，也没人搞 staking 激励拉市值。\n但在这个人人“拉空投”的时代，反而这样的币有可能因为基本面“慢热”被重新定价。特别是如果 Unizen 后面真被某些主流钱包整合，或者某个公链引入聚合路由器——ZCX 很可能就是这套系统价值捕获的核心。\n_____________________________________\n\n在这个市场上，能看到一个还活着、有产品、能用、治理靠谱、收入有逻辑的 OG 项目，而且市值还很安静——至少值得去看一眼吧。",
+      "timestamp": "Mar 27, 2025 · 8:40 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1905178060422619300#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1904902211379081309#m",
+      "content": "很多人看到很麻烦就没去买，我觉得越麻烦就越要上车！",
+      "timestamp": "Mar 26, 2025 · 2:24 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1904902211379081309#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1904901533487292540#m",
+      "content": "复盘一下，随手买了0.5b，10x了？？？\n\n首先，跨链只支持 Backpack 钱包，没有，赶紧去下载，下好了，不会导入 RPC，又去 Soon 官方找教程，结果找到了测试网的教程，导入错的 RPC 了，又折腾了3分钟，最后找 Ru7 成功教我跨链，买了 0.5b\n\n其实后来还想加仓，搜了一下是 @0xrahulk SOON 的首位 Builder 发的币，且基建特别少，连K线都没地方看，就像是当时打铭文一样，啥都没有，但是打完就是几十倍。\n\n最后小吹一下 Soon 的 SVM，太快了，买币签名之后大概 0.1 秒就完成了交易，我还以为失败了，结果币都到账了。\n\n再揣测一下，为什么 SVM 要用 BNB 当主币，是不是有上宇宙所的预期？",
+      "timestamp": "Mar 26, 2025 · 2:21 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1904901533487292540#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1904487997627637959#m",
+      "content": "急急急急急，最后四分钟，掐点搞完了。\n\nBN下次不会只开半小时吧？半小时真的来不及了🥺\n\n这次预计单号能有200u，今晚带兄弟们上三楼，我包场。",
+      "timestamp": "Mar 25, 2025 · 10:58 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1904487997627637959#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1903438310833377627#m",
+      "content": "04年的深大小伙子，看到了我当年的影子，加油啊！",
+      "timestamp": "Mar 22, 2025 · 1:27 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1903438310833377627#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1902664814000046422#m",
+      "content": "OKX 的 BNB 被借空了，利率 40%+\n\n想参加BNB这一期打新却没地方借 BNB？\n\n教你在链上借币，年化仅需 2% 还无爆仓风险\n_____________________________________\n\n1⃣Venus 协议\n\n先去Core Pool 把U存进去，然后再去借 BNB 出来，大概需要抵押 800 多 U 能借出来 1 BNB\n\n去BNB资产页面，借贷，确认交易即可。\n_____________________________________\n\n2⃣Aave 协议\n\nAave 和上面借贷的逻辑差不多，存 USDC 借 BNB 即可。\n_____________________________________\n\n◉ Venus借贷利率3%\n◉ Aave借贷利率2%\n◉ 借1-2个小时等于不要钱\n_____________________________________\n\n这一期 $BR 我看到 0.15u 左右，打新成本 0.025u，也就是 6x 左右的倍数，祝好运！",
+      "timestamp": "Mar 20, 2025 · 10:13 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1902664814000046422#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1902656853609426979#m",
+      "content": "努力开机中......\n开机就得半个小时，存钱又要花半个小时，一共2个小时时间有点赶啊。",
+      "timestamp": "Mar 20, 2025 · 9:41 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1902656853609426979#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1902311156137783542#m",
+      "content": "BNB 链是不是熄火了？仅 2% 的代币成功发射？\n\n我根据 Four meme 的链上数据，从代币创建、发射、交互数据等角度来分析。\n我爬取了从 1 月 31 日至今所有 Four meme 发射的代币数据\n◉ 一共创建了 61722 个代币\n◉ 一共发射了 1315 个代币\n◉ 发射成功率：2.13%\n其实这个成功率还是很不错的，对比前段时间 Sol 链上的可能 1% 的成功率，BNB 链的“阴谋”“垃圾”好像看起来少了很多。\n_____________________________________\n\n我又对这 1000 多个发射了的代币进行统计分析\n◉ 市值大于 10 万：88 个\n◉ 市值大于 100 万：25 个\n◉ 市值大于 1000 万：9 个\n◉ 1000 多个币的总市值：4.57亿\n其中市值大于 1000 万的 9 个币，总市值达到了 3.82 亿美元，占总市值的约 83.5%，属于流动性高度集中。所以证明BNB链上的金狗并不多，对比 Sol 链当时，他的代币市值就非常分散不会出现一两个币占了绝大部分的流动性的情况。\n再看看 BNB 链的龙头，TST Mubarak Broccoli 都是清一色 Meme 币，而且有一个特征就是基本上 CZ 和 一姐都参与其中，或是提及或是转推，相当于两个强车头效应在此。\n_____________________________________\n\n所以，BNB 链是不是熄火了？应该远没有。\n虽链上数据在回撤，但是车头永远是车头，且 BNB 链最近的一些更新都证明了其还想继续发展，比如说防 MEV、无 Gas 交互、440 万流动性计划等，都预示着BNB链还有下一春。\n永远相信 @cz_binance @heyibinance",
+      "timestamp": "Mar 19, 2025 · 10:48 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1902311156137783542#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1901585870983242119#m",
+      "content": "总统严选！\n现价抄了一些 Bybit 的 MNT，感觉超跌了。",
+      "timestamp": "Mar 17, 2025 · 10:46 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1901585870983242119#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1901212232295612850#m",
+      "content": "对了我再提一嘴，老何你被盗走的钱，被他们做多 ETH 已经亏得从 3000 万只剩 400 万了，而且 ETH 跌到 1600 就爆仓了🤣",
+      "timestamp": "Mar 16, 2025 · 10:01 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1901212232295612850#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1900462678646415598#m",
+      "content": "KOL的赚钱秘籍是什么？\n\n看见大家都在讨论KOL是如何赚钱的，赚了多少钱，我来分享一下我做 KOL 的经验。\n\n首先，我的推特是从 2024 年 6 月开始发力的，目前只做了大半年，目前接近 2 万粉，按照物总说的300万（40万U）一年的收入，我把我的 KOL 收入主要分为以下三个部分。\n\n_____________________________________\n\n广告费（收入占比 10%）\n我认为广告费一定是占收入比例最低的，真正优质的KOL不需要去接广告，甚至说不接广告。一条广告，对于我这小 KOL，几千 U 已是顶天，所以我根本没接过几条，也不愿意接低价的垃圾广告降低账号定位。\n广告还有另外一个方式比如说 OKX 的简介位、GMGN / UX 的账号附属、以及各种文章软植入，项目方往往会给一个“冠名费”，每个月只需要捎带一点项目的内容即可，属于低保范畴，这种省心省事的项目方，但是对账号的属性有要求，你一个从来不炒 meme 的博主，质量再好，GMGN 找你也没用。\nOKX 在这一块还是很大方的，想了解或者想和OKX合作，可以 DM @mia_okx 问问试试。\n\n_____________________________________\n\nKOL轮（ 收入占比 -100% ~ 1000%）\nKOL 轮的本质，就是与项目方共进退，通过低估值、高释放的规则，吸引KOL投资，既省了广告费，又有了宣发。可以发现我写了 -100% 的收益率，所以说 KOL 轮有被项目方背刺的可能性，就比如说 @kroma_network 韩国公链，当时是按照 1 亿的估值进行 KOL 轮融资，结果开盘直接浇给，我们的币还是锁仓的，更加浇给，投资 1wu 开盘可能只能卖出来几百 U。\nKOL 轮是最考验一个人的投资眼光的，目前很多项目都希望搞KOL轮，但是往往 KOL 没有机构的眼光或者经验，很容易被低估值高释放“蒙蔽双眼”，被卖了还数钱给项目方。\n其实最好的方式，还是找到好大哥/大姐，他们往往能接触到较Top级别的项目KOL轮，比如说 教授 @hellosuoha ；Dov哥 @dov_wo ；雪姐 @snow949494 ；郡主大大 @0xsexybanana，投人往往比投项目靠谱，好的人往往能一直带来的好的Deal。\n\n_____________________________________\n\nOTC轮（收入占比 -80% ~ 200%）\nOTC 轮更类似于 (3,3) 模型，比KOL轮更需要和项目方博弈，都站在 (3,3) 双赢，但是 (-3,-3) 不一定双输，可能是项目方赢你输。\n往往套路是这样的，一些老币/没量的币，项目方出货都费劲，只需要花小资金拉个 2-3x，然后按照 5 折卖币给 KOL，变相出货。\n比如说这个币，当时 OTC 给我们的时候，每人几万 U，现价已经跌了 -75% 了，属于是被白嫖了宣发又亏了钱。 OTC 轮我的个人建议是一定要投大项目，或者是可以套保的项目，可以先套个本出来，之后再格局。OTC轮最大的好处就是，收益有限，风险也有限，比投 KOL 轮的确定性高很多，但是倍数往往没那么高，OTC 轮顶多 2-3x。\n\n_____________________________________\n\n最后，KOL 哪儿有那么容易当，市面上 90% 的 KOL 我觉得都不能算是 Key Opinion Leader，只能算一个 Author，我自己都不敢承认自己是 KOL。且真正赚钱的 KOL 必不可能是靠发发广告，无脑收入，往往依靠靠谱的人脉，且更要有投资眼光，有脑子。",
+      "timestamp": "Mar 14, 2025 · 8:23 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1900462678646415598#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1899469722170904844#m",
+      "content": "已经连续被 sisi 姐干2次了，下次不敢了😅\n@sisibinance",
+      "timestamp": "Mar 11, 2025 · 2:37 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1899469722170904844#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1899420021111308774#m",
+      "content": "心酸血泪史，最后悔的就是当时没有好好打造个人IP\n\n我现在做推特，很大原因也是因为物总当时给我cx的，他说每个粉丝值500块（小人物的粉丝快去找他领钱），且一定要学会借势。\n\n比如说我认识了小人物之后，身边都是一群高质量KOL，我就可以借他们的势，用他们的经验，少走很多弯路。\n\n最后，祝所有个人玩家都能顺利通关！",
+      "timestamp": "Mar 11, 2025 · 11:19 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1899420021111308774#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1899399168914825608#m",
+      "content": "今天的收获应该会不错，劳动最光荣，再过1小时就要发福报啦！",
+      "timestamp": "Mar 11, 2025 · 9:57 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1899399168914825608#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1895421130552623191#m",
+      "content": "x.com/i/article/189541875515…",
+      "timestamp": "Feb 28, 2025 · 10:29 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1895421130552623191#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1895136573328629853#m",
+      "content": "搞了差不多 10 个号，每个号存了 600u，单号 18 分左右，赎回还要出 50U 的手续费，预计反撸啊😅\n\n先去 OKX 这边注册了，看看能不能脸白抽奖🤣",
+      "timestamp": "Feb 27, 2025 · 3:39 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1895136573328629853#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1890561975848952310#m",
+      "content": "亏了 7000u，已割，睡觉！",
+      "timestamp": "Feb 15, 2025 · 12:41 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1890561975848952310#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1890335327212171741#m",
+      "content": "也许，缅北的边界，正是这个行业真实的映射。\n\n在 DIN 即将上线前两天，创始人 Harold 逆行来到缅北。作为 Web3 的从业者，尤其是创始人，很多时候会陷入一种孤独与焦虑中。走得太远，试图去解答那些关于去中心化、信任机制等宏大问题，却发现自己好像一无是处。你会开始怀疑，Web3到底是一个充满理想和技术驱动的未来，还是一个资本和市场操控背后隐藏的游戏？\n\nHarold 在文章中提到自己像个局外人，Web3 原本是一个充满理想的领域，但当项目真正启动，进入到资本市场、技术落地时，会发现这一切理想似乎离我们越来越远。我们站在舞台的一角，眼睁睁看着那些推杯换盏的“大佬”，却始终无法参与其中。\n\n很多时候，我也会怀疑，Web3 行业是否已经偏离了它最初的轨道，大多数项目的成功，似乎并不完全依赖于技术的突破，而是“勾兑”，谁能拉来大机构给你背书，谁就能赚的盆满钵满；谁能无底线的天天发土狗，谁就能割一茬又一茬。\n\n缅北这个地方，是一个混乱的地方，就像 Web3 本身一样，充满了无数灰色地带。在缅北的逻辑，是利益至上，是另一种秩序。而 Web3 的世界，某种程度上也是这样，看似 Code is Law，链上透明无误，但真正驱动市场的，往往是资本、内幕。币圈并非仅靠代码和技术，而是由一套更隐秘、更接近缅北式的博弈规则主导。\n\n我们都在一场看不见终点的迷局中，试图触碰那个逐渐模糊的“真实”边界。\n@_kaitoai",
+      "timestamp": "Feb 14, 2025 · 9:40 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1890335327212171741#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1889994954275189229#m",
+      "content": "有一个不理解的点，Venus 链上借贷只需要 2.6% 的年化，借几个小时约等于不要钱，为什么 KOL 们还让大家去什么 OKX Bybit 里面借贷，这不是白交钱给 CEX 么。\n官推：@VenusProtocol \n链接：app.venus.io/",
+      "timestamp": "Feb 13, 2025 · 11:08 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1889994954275189229#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1889989894484971976#m",
+      "content": "IDO额度 4000w币，募资 1270BNB\n预计超募 100x，募 12w BNB\n也就是单号消耗 0.03 BNB，获得 950 币\n按照估值 5 亿来算，单币 0.5u，单号收益 475u\n\n总结：\n单号资金占用 3 BNB（2100u）\n消耗 0.03 BNB（21u）\n获得 475u\n赔率 20x\n\npcswap.org/ido/myshell\n\nbn内置钱包打开，必须MPC钱包，自己私钥导入的钱包不行\n\nlocalhost:8080/myshell_ai/status/1889…",
+      "timestamp": "Feb 13, 2025 · 10:47 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1889989894484971976#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1889972007347052990#m",
+      "content": "极限翻盘！Solayer 暴跌，我如何凭交易神操作逆袭翻倍！\n\n我从满仓扫货到险些被反撸，再到极限操作翻亏为盈，最终成功套利，下面来复盘一下我的操作。\n\nSolayer 的合理估值：为何我敢 ALL IN？\n我对 Solayer 的合理估值区间定在 10-15 亿美金（1-1.5U/币），理由如下：\n1⃣资方背景：Polychain、Binance Labs 加持，机构站台就是信仰。\n2⃣定位强势：Eigen 开盘 FDV 接近 60 亿，而那时 BTC 行情还没发力，Solayer 未来空间巨大。\n3⃣SOL 链 LSD 龙头：Solana 本轮行情走势极硬，链上LSD项目必然受益。\n4⃣币安潜在加持：若能上币安，估值预计 20 亿；即便不上，5 亿市值也是底线，回撤风险可控。\n5⃣综合考虑，回撤有限（最多-30%）、上行空间大（2-3x）、资金容量适中（5-10万U）是个好机会，于是我喊上了@crypto_laodong @MetaHunter168 @Ice_Frog666666 @hellosuoha 一起上车！\n\n市场误区\n很多人拿 Solayer 的 TVL 对比 Eigen，其实毫无意义。ETH 生态 LSD 发展已成熟，而 Solana 上的 LSD 才刚起步，参考标准完全不同。我们关注的是 Solayer 作为 SOL 链 LSD 龙头的地位，而不是单纯用 TVL 打分。\n\n从横盘到砸盘，我的加仓之路\nSolayer 上线前三天，价格稳稳横盘在 0.75 左右，我分别在 Whales、KuCoin、Gate 三大平台低吸埋伏。\n然而，变故出现了。就在币安上线前一天，Solayer 公布代币经济模型，初始流通量高达 20%，市场情绪骤变，大家怕空投砸盘，场外价格一度跌至 0.68U。但我依旧坚定看多，继续低位扫货。\n事实证明，赌对了！币安、Upbit 发布公告后，场外价格瞬间拉升至 1.2U。\n\n开盘暴跌，差点被埋\n本以为行情会继续走高，没想到一波猛烈砸盘来了。现货一路跌到 0.78U，空军狂喜，杠杆做空资金疯狂涌入，我开始慌了。OKX 上线合约，现货-合约价差高达±13%，这意味着有大量人高杠杆做空，导致费率暴涨。\n此时，我做出了一个违背祖宗的决定——开多！我在0.8U附近直接开2倍杠杆，原因有两个：\n1⃣韩国交易所 Upbit、Bithumb 尚未上线，一旦开盘，会带来新一轮 FOMO 行情。\n2⃣价格严重脱锚，空军疯狂加杠杆，随时可能爆炸反弹。\n\n收割！\n第二天早上醒来，一看行情，Solayer 直冲 1.5U！\n1⃣Upbit 拉盘更猛，彻底点燃市场情绪。\n2⃣默默平仓多单，OTC 的币陆续到账，全部卖出，完美收割！\n\n复盘：钻石手的胜利，极限操作的艺术\n回顾整场交易，最值得感谢的，还是自己——钻石手终于钻对了一次！\n在极端行情下，敢于在市场恐慌时反向出手，才是赚大钱的关键！\n\n🚨 最后提醒：本次操作纯属个人策略，不构成投资建议，模仿者请自负盈亏！ 🚨",
+      "timestamp": "Feb 13, 2025 · 9:36 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1889972007347052990#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1889892661768888748#m",
+      "content": "大家别买，我这个地址可能会发几百个币😂😂😂😂在做自动化测试",
+      "timestamp": "Feb 13, 2025 · 4:21 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1889892661768888748#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1889892485574566037#m",
+      "content": "辟谣一下，是我地址发的，我在测试我的自动买入机器人😂",
+      "timestamp": "Feb 13, 2025 · 4:20 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1889892485574566037#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1887505008423542887#m",
+      "content": "@superdope_BOBO @shizhengbing1 私信地址给我，抽奖结束！",
+      "timestamp": "Feb 6, 2025 · 2:13 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1887505008423542887#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1887058347033071819#m",
+      "content": "蛇年祝兄弟们越射越多！\n\n送 OKX 周边礼盒 x2，礼盒中有双肩包+水杯+T恤🎁\n\n参与方式： \n关注 @0xblockma @okxchinese @mia_okx \n转发&点赞本条推。",
+      "timestamp": "Feb 5, 2025 · 8:39 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1887058347033071819#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1885587926081560661#m",
+      "content": "哈哈..今天都初四啦？跨年那天老公太能折腾了 刚醒",
+      "timestamp": "Feb 1, 2025 · 7:16 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1885587926081560661#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1883489976933085423#m",
+      "content": "回家过年🧨\n@mia_okx @James_okx @Cayne_okx",
+      "timestamp": "Jan 26, 2025 · 12:19 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1883489976933085423#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1881974319330562111#m",
+      "content": "x.com/i/article/188196952699…",
+      "timestamp": "Jan 22, 2025 · 7:56 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1881974319330562111#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1881291197395952093#m",
+      "content": "THANK YOU $TRUMP",
+      "timestamp": "Jan 20, 2025 · 10:42 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1881291197395952093#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1880508868259901708#m",
+      "content": "“看到晚了”，“当时在外面”，“当时在睡觉”，“在拉屎”，“在洗澡”，“在吃饭”“在做爱”等一堆外界理由说服自己 骗自己有意思吗？ 你就是认知不够，才没赚到钱，找那么多理由就是不想否定自己",
+      "timestamp": "Jan 18, 2025 · 6:53 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1880508868259901708#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1879454829623521592#m",
+      "content": "预计超募在 1-2 亿规模吧，单号按照目前场外价格 0.8u，收益预估 200u 左右，大号海底捞！冲！\n\n@solayer_labs",
+      "timestamp": "Jan 15, 2025 · 9:05 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1879454829623521592#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1879453911444300243#m",
+      "content": "对于之前玩 Coinlist 的老鸟来说，Buidlpad这招很管用，过滤了许多 Farming 工作室，给真实用户了更多筹码。\n\n其实把硬顶取消掉是对的，能减少很多抛压，毕竟筹码能被更加稀释。\n\n我就一个号，用帕劳ID过了验证，估计超募也就是阳光普照类型，单号能不能来个大号海底捞！",
+      "timestamp": "Jan 15, 2025 · 9:01 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1879453911444300243#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1879111852854284519#m",
+      "content": "最近：\nMorph 的 Gas 水涨船高，预计反撸\nSolv OKX 活动和冰蛙同车，已经反撸\nXter买了几个小恐龙，预计反撸\nDuckchain 买了 AI NFT，预计保本\n\n谁能带我们撸毛党维权一下啊！",
+      "timestamp": "Jan 14, 2025 · 10:22 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1879111852854284519#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1877653219704205391#m",
+      "content": "大饼一小时K线走得跟貔貅盘一样。",
+      "timestamp": "Jan 10, 2025 · 9:46 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1877653219704205391#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1875492600888881664#m",
+      "content": "Sooooooon\n起飞🛫",
+      "timestamp": "Jan 4, 2025 · 10:40 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1875492600888881664#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1874545081451254068#m",
+      "content": "项目速览：\n1.图片质量不错\n2.有大佬 FLC @FLC_FlooringLab 明牌奶，且官方说Join the “flood”大概率和FLC有强相关。\n3.合约未开源，设计有缺陷，按照当前Gas卖出一次要收100多U的手续费。\n4.项目疑似之前在Ape链售卖，卖不出去了才来E链公平发射（主页的网页图有写0.1 APE）",
+      "timestamp": "Jan 1, 2025 · 7:55 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1874545081451254068#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1874066426606309667#m",
+      "content": "我开始用 OKX 的时候是 2020 年，那会儿还是蓝色 OKEX，依稀记得当时平台因为一些合规原因不让提币， U 一度跌到 5 块，当时慌得一逼，好在老徐之后解决了此事，平稳度过危机。\n\n从蓝色的 OKEX，一直用到现在的黑色 OKX，现在平台储备金已连续发布 26 份报告，储备金一直都是 100% 以上。",
+      "timestamp": "Dec 31, 2024 · 12:13 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1874066426606309667#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1873986056892387737#m",
+      "content": "论带单，还得是老马啊，这tm拉的前面的线都看不见了。",
+      "timestamp": "Dec 31, 2024 · 6:54 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1873986056892387737#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1872562019163099408#m",
+      "content": "x.com/i/article/187236695454…",
+      "timestamp": "Dec 27, 2024 · 8:35 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1872562019163099408#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1871749815023161811#m",
+      "content": "x.com/i/article/187151601209…",
+      "timestamp": "Dec 25, 2024 · 2:48 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1871749815023161811#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1870424034460271023#m",
+      "content": "如果你用小狐狸 Metamask 玩链上交互，那这辈子造的孽算是还清了。\n\n昨天重装了系统，所有浏览器都换成了 Rabby 钱包 @Rabby_io \n\n是 Debank 团队做的，全开源，有自己的 L2 可以代付 GAS，丝滑！\n\n[本条非广告，纯粹被产品感动]",
+      "timestamp": "Dec 21, 2024 · 11:00 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1870424034460271023#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1867142017001922945#m",
+      "content": "最近有传统的朋友问了我这样一个问题，新兴Meme币这么火，不想错过但是又不跟不上，有没有Meme的指数基金？直接购买一篮子新兴Meme币，好像还没有交易所推出这类产品。\n\n于是我说，帮你手动挑几个潜力蓝筹。\n\n1⃣FOXY @FoxyLinea\nFOXY我觉得是空间最大的一个，首先 @LineaBuild 之前转推过FOXY官方推文，作为小狐狸的子公司，为FOXY做了最大背书：localhost:8080/LineaBuild/status/1762…\n\n2⃣MEW @mew \n比起POPCAT估值较低，空间更大，而且社区氛围更好。\n\n3⃣PNUT @pnutsolana \n松鼠已经从一个Meme变成了政治币，其概念是川普上台的斗争。\nlocalhost:8080/elonmusk/status/185326…\n\n4⃣Babydoge @BabyDogeCoin \nBSC老牌Meme，最近CZ回归后BSC整体热点上涨。",
+      "timestamp": "Dec 12, 2024 · 9:38 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1867142017001922945#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1864128741561319778#m",
+      "content": "这两天在 @base 上冲土狗，主要还是从 @_proxystudio Clanker 上面找。\n\n感觉 Clanker 就像是早期的 FT，主要玩法还是大 V 发币，比如说小狐狸的联创等，大 V 效应太集中。\n\n然后在交易方面之前一直用 gmgn，在 Dexx 出事之后便对这种托管交易平台祛魅了，虽然 gmgn 可能确实是安全的。\n\n最近提前内测了一下 @ParticleNtwrk 第一个官方应用UniversalX ，把 EVM 链和 Solana 都进行了链抽象，不用管这条链有没有 Gas 了，用起来还是蛮舒服的。\n\n我现在的操作逻辑就是直接丢 10,000U 在 UniversalX，然后在各个链上买币。最重要的一个好处是我终于能够统一管理这些币了，之前老是买了一些币，忘记是哪个钱包了，等找到的时候发现 10 倍没跑现在都归零了。。。",
+      "timestamp": "Dec 4, 2024 · 2:05 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1864128741561319778#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1861005676241395966#m",
+      "content": "我发誓\n\nMetamask 小狐狸 是全世界最难用的钱包\n\nUniswap 独角兽 是全世界最难用的 DEX\n\n@MetaMask @Uniswap 出来挨打\n\nJ8的给我快卡死了！艹 艹 艹",
+      "timestamp": "Nov 25, 2024 · 11:15 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1861005676241395966#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1860963765153665131#m",
+      "content": "x.com/i/article/186094586636…",
+      "timestamp": "Nov 25, 2024 · 8:28 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1860963765153665131#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1859530533065339043#m",
+      "content": "天天打土狗，已经5天没有好好更新推特了。",
+      "timestamp": "Nov 21, 2024 · 9:33 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1859530533065339043#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1856614789751156959#m",
+      "content": "x.com/i/article/185660864833…",
+      "timestamp": "Nov 13, 2024 · 8:27 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1856614789751156959#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1854806707605848574#m",
+      "content": "《在深圳，阳光都是要花钱的》\n\n搬了新家，在顶楼俯瞰整个城中村。被高楼遮挡的城中村，在阳光最闹的下午，都没办法看见太阳。",
+      "timestamp": "Nov 8, 2024 · 8:42 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1854806707605848574#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1853340654325346379#m",
+      "content": "之前参与过BBQ的TG交互，这几天一看，要上Bybit了！参与用户也破200多万了，真快啊。\n\n我有5个号，几乎都是0成本交互的，空投了10%代币给用户，按照1000万开盘来估算，总价值应该值个100万U。\n\n开盘1000万市值，对散户很友好。试试能不能买点原始筹码，最近被币安这些动不动几个亿的高开搞得烦，小市值开盘有小市值的好处，赔率够高。\n@BBQ_Coin",
+      "timestamp": "Nov 4, 2024 · 7:37 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1853340654325346379#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1852250528518148289#m",
+      "content": "x.com/i/article/185211653944…",
+      "timestamp": "Nov 1, 2024 · 7:25 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1852250528518148289#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1851533886414782906#m",
+      "content": "x.com/i/article/185136086251…",
+      "timestamp": "Oct 30, 2024 · 7:57 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1851533886414782906#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1850089202245067261#m",
+      "content": "【当了一回预言家】\n今天 Essence 团队 Rug，盗走了 2000 万 U，其发型的稳定币直接爆跌 -99%，目前价值 0.01U。\n\n我在 4 天前，看到 TKN 和 Essence 币价和 TVL 双螺旋上升，就感觉到不对了，身边有朋友问过我很多次这个项目，还好提醒朋友们都下车了。真是一语成谶，不会是被我喊崩的吧？\n\nEssence 这种垃圾项目，也算是智商检测机了，这么简单的循环质押逻辑，风险巨大，表面上是 USDC 的稳定币 100% 储备，其实还有很多无价值生息资产甚至 LP，稍微注意点风险的人，我觉得都不会上车的。\n\n话说 Radiant、Essence，都是跑路几千万U的项目，大家都这么有钱吗？",
+      "timestamp": "Oct 26, 2024 · 8:16 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1850089202245067261#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1849713370708185522#m",
+      "content": "Solana 土狗交易量巨大，低位加 LP 做池子收益应该非常不错，热度较高的币基本上能做到日化 10%，年化上千。\n\n但是加池子又有很多种模式，比如 WP、AMM、DLMM、CLMM、CPMM 等，作为一个 Defi 老鸟我都分不太清。各种类型的池子该如何加，加什么区间收益最大。\n\n然而我看了下推特，除了@GCsheng 提过一下 DLMM，没有一条系统性的教程介绍如何加池子，要么我写一篇？有没有感兴趣的？",
+      "timestamp": "Oct 25, 2024 · 7:23 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1849713370708185522#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1849371910427296119#m",
+      "content": "x.com/i/article/184913927915…",
+      "timestamp": "Oct 24, 2024 · 8:46 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1849371910427296119#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1848664851880808810#m",
+      "content": "确实，Photon今天24小时利润居然达到了150万到，Pumpfun才70万到，卧槽了，卖铲子的太赚钱了啊xd！",
+      "timestamp": "Oct 22, 2024 · 9:57 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1848664851880808810#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1847581282110431356#m",
+      "content": "x.com/i/article/184757675435…",
+      "timestamp": "Oct 19, 2024 · 10:11 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1847581282110431356#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1846468015254347864#m",
+      "content": "x.com/i/article/184621530166…",
+      "timestamp": "Oct 16, 2024 · 8:27 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1846468015254347864#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1846122140476887216#m",
+      "content": "x.com/i/article/184357254430…",
+      "timestamp": "Oct 15, 2024 · 9:33 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1846122140476887216#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1843554850325573928#m",
+      "content": "x.com/i/article/184328457746…",
+      "timestamp": "Oct 8, 2024 · 7:31 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1843554850325573928#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1841404283117502737#m",
+      "content": "$Sudeng Sui上面的河马市值即将突破1亿美金\n\nShark鲨鱼被CEO关注一天也翻了7倍\n\n你还在苦等？速来Sui！",
+      "timestamp": "Oct 2, 2024 · 9:06 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1841404283117502737#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1841072653328924964#m",
+      "content": "问：国庆住哪儿？\n答：住链上，住动物园🥱\n\n问：国庆去哪儿玩？\n答：明天的飞机，SOL飞Sui🤡",
+      "timestamp": "Oct 1, 2024 · 11:08 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1841072653328924964#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1840681218821746864#m",
+      "content": "x.com/i/article/184067518487…",
+      "timestamp": "Sep 30, 2024 · 9:12 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1840681218821746864#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1840347711352050145#m",
+      "content": "领到了兄弟们，今晚点三个嫩模够消费吗？\n@eigenlayer",
+      "timestamp": "Sep 29, 2024 · 11:07 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1840347711352050145#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1839937698909565267#m",
+      "content": "x.com/i/article/183993144136…",
+      "timestamp": "Sep 28, 2024 · 7:58 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1839937698909565267#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1839242854419542102#m",
+      "content": "x.com/i/article/183924078908…",
+      "timestamp": "Sep 26, 2024 · 9:57 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1839242854419542102#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1835590191115067832#m",
+      "content": "x.com/i/article/183554651398…",
+      "timestamp": "Sep 16, 2024 · 8:02 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1835590191115067832#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1835208109494554689#m",
+      "content": "4/n\n再絮絮叨叨一段，我其实在 6-8 月，停更了 2 个月。但是途中不断有朋友和我强调推特的重要性，身边的 @Ice_Frog666666 @MetaHunter168 也一直在给我加油，于是我又拾起来。我认为目前推特的红利期依旧没有结束，做推特始终是有正 EV 的，感谢这一个月以来每一位读过我文章的朋友，不管你有没有关注我，有没有给我点赞，谢谢你愿意花时间来看我的推文！",
+      "timestamp": "Sep 15, 2024 · 6:44 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1835208109494554689#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1835208106844078497#m",
+      "content": "3/n\n点击概览右侧的受众，就可以看到对你读者的简单用户画像分析。\n\n年龄性别和地区，没有什么太大的意义，但是从活跃时间来看，与我互动的时间集中在下午 4 点-晚上 12 点，这就是一个很好的依据，我可以以此来规划我的发推时间，每天下午发帖长的粉/曝光量肯定是最好的。",
+      "timestamp": "Sep 15, 2024 · 6:44 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1835208106844078497#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1835208103190839640#m",
+      "content": "2/n\n以我自己的数据为例，来讲讲几个关键指标：展示量，参与率，新关注。\n\n参与率就是观看了你的帖子后，进行点赞/评论/转推操作的数据，我的是 5.1%，这个数据不错。\n\n转化率需要我们自己计算，用新关注÷展示量，这就是你的粉丝转化率，我的约为 0.3%，也就是千分之三。\n\n参考一下小红书官方曾经给出过参与率平均数据是 3%，公众号/抖音的粉丝转化率平均在 1-2% 之间，这么一看我只有 0.3% 是不是特别差？\n\n这个前提是要考虑流量池的大小，推特对于区块链的流量池本来就不大，再加上华语区这一限制，比如中文头部的 @hebi555 也只有 30 万粉丝，所以我觉得转化率在 \n0.1% 以上，就问题不大。",
+      "timestamp": "Sep 15, 2024 · 6:44 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1835208103190839640#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1835208099474686242#m",
+      "content": "1/n\n首先，你要有蓝V，进入Premium页面点击分析，你就可以查看到你的数据啦！",
+      "timestamp": "Sep 15, 2024 · 6:44 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1835208099474686242#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1835208096094076952#m",
+      "content": "你还不会科学地用数据来分析你的推特？那么 1000 块钱一年的蓝V会员，你等于白开了。\n\n推特蓝V会有一个很强大的功能：数据分析，推特会给你提供你账户的从浏览量、转化率、增粉量等数据，那么如何靠这些数据分析自己的账号，以及如何改进发推的技巧，本篇文章就带大家了解一下。",
+      "timestamp": "Sep 15, 2024 · 6:44 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1835208096094076952#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1834986859120017714#m",
+      "content": "笑拉了，创始人带了 20,000 个周边图案的避孕套去新加坡参加 Token2049，被机场拘留了。\n发币吧哥们，妥妥的坐牢概念，能和 FTX & TON 并列同一等级🤣",
+      "timestamp": "Sep 14, 2024 · 4:05 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1834986859120017714#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1834493770836123991#m",
+      "content": "x.com/i/article/183433242917…",
+      "timestamp": "Sep 13, 2024 · 7:26 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1834493770836123991#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1833324538622615911#m",
+      "content": "x.com/i/article/183322780652…",
+      "timestamp": "Sep 10, 2024 · 2:00 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1833324538622615911#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1833176420014800946#m",
+      "content": "Fractal主网上第一个铭文FLUX，一共21000张，半个小时铸造完了！ @inscrib3 \n单次铸造收费0.05 FB，项目方打完赚1050 FB，市场价大约2WU。项目方地址：bc1pjxqn3c2gc0dpg9gxyw0gvep9lqfeq35jjw6rk2ryw83cumjydp8swnt5xn，地址详情如下图\n\n感觉收费的做不起来，但是项目方是从符文就开始做的老项目了，跑路应该不至于，总共就2W多U。\n我担心的是Fractal不认，因为分型官方明确讲了，会在21000个块之后才开启brc20&runes交易，大概率不认这个。但是只要共识强大，做不做得起来全看社区。\n\n本文不做任何财务建议，自行分析，只是阐述自己的看法。",
+      "timestamp": "Sep 9, 2024 · 4:11 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1833176420014800946#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1832703155647414589#m",
+      "content": "x.com/i/article/183253887193…",
+      "timestamp": "Sep 8, 2024 · 8:50 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1832703155647414589#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1830880684162117933#m",
+      "content": "币圈的一级机构，你们还好吗？🤔\n\n头部机构垄断资源，中小机构资金紧张，华人团队还面临偏见，投资条件苛刻到怀疑人生，Web3 机构真心不易！中小机构在当下行情，如何破局？\n\n行业困境\n1⃣资源获取难：马太效应来了\n在当前的 Web3 生态中，资源分配的马太效应越来越明显。大项目和优质资源，几乎都被那些头部机构垄断，特别是那些拥有深厚背景和广泛人脉的北美 T0 级别的机构。中小机构往往只能在一旁干瞪眼。没有和顶级圈层接触的渠道，一手资源那是可望而不可即。比如 A16Z 和 Paradigm 这种大佬，资金实力雄厚，还能提供市场资源和合作伙伴关系，在优质项目的争夺战中，几乎是天然的赢家。相比之下，中小机构只能吃剩菜，资源稀缺导致竞争力大打折扣。\n\n2⃣资金规模小：小池塘里的大梦想💸\n中小机构的资金池一般就两三千万美金，在 Web3 领域，这个数目只能勉强支撑几个项目的初期开发和运营。想和那些动辄几亿甚至几十亿美金的头部机构拼？资金不够，想在优质项目中占据一席之地，难于上青天。\n\n3⃣华人偏见大：格局哪里找？🙄\n说到华人 Web3 机构，满腹辛酸泪。全球市场的偏见那叫一个根深蒂固。不仅要面对政府对加密货币监管的不确定性，还得背负过去一些“跑路项目”留下的骂名。国际投资者对华人团队的信任度极低，觉得我们没格局，真是躺着也中枪！\n\n4⃣项目条件差：锁仓期长到怀疑人生🤷‍♂️\n现在的项目投资条件，简直是比找对象还苛刻。锁仓期动辄六个月到三年，堪比币圈“养老金”。这么长的解锁期给机构投资者带来的不确定性太大，尤其是在 Web3 这个变化飞快的行业里，能在三年内不倒的项目，真的不多。而KOL投资者呢？他们通常享有VIP待遇，锁仓期短，TGE更早，风险和成本都低得多。对比之下，机构投资者真是像在玩“地狱模式”。他们自然不愿意接这个烫手山芋。这种不平等的条款导致了机构与项目方之间的信任危机和合作意愿的严重下滑。\n\n如何破局\n1⃣机构转型\n以我目前在的机构 @KernelVentures 为例，我们今年在一级出手的频率很少，也是因为上述几个问题。所以我们机构转型二级交易，量化交易等，往往能拿到比一级更稳定的结果，保证LP的收益。\n\n2⃣孵化器\n押注早期种子项目，再以我目前在的机构 @KernelVentures 为例，早期投资 @MetisL2 @NetworkMeson 的估值非常低，但是带来的回报往往都是几十上百倍的。中小机构早期入场的话，赔率非常高。但是押注早期项目对于投资人的眼光要求非常高，早期项目的确定性低。",
+      "timestamp": "Sep 3, 2024 · 8:09 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1830880684162117933#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1830145016020558095#m",
+      "content": "x.com/i/article/183014319664…",
+      "timestamp": "Sep 1, 2024 · 7:25 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1830145016020558095#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1829100209307299996#m",
+      "content": "忙着资助贫困女技师，结果空投忘记领了！损失上万U！心痛之余的反思与工具推荐。\n\n1⃣前几天 Orderly 发空投，我之前做了一批号的交互，空投了60,000个币给我。当时 4 点可以 claim，6 点上交易所。然而，那会儿我正忙着资助贫困女技师，完全忘了。等到第二天晚上才想起来，结果币已经上线，价格从 0.22 美元跌到了 0.16 美元。我赶紧操作，但还是直接损失了3600U的利润——心痛得连饭都不香了。\n\n2⃣痛定思痛，在和 @Mercy_okx 诉苦的时候，她推荐 Lark 的日历应用。其实类似的办公软件挺多的，但 Lark 简洁好用，界面清爽得让人心情都好起来，关键是它能帮我这个“健忘症”患者及时记住这些重要时刻。于是，我决定把我的日程管理全都迁移到 Lark 日历上，顺便也安利给大家，特别适合像我一样健忘的。\n\n3⃣于是，我先把未来一周的计划提前安排好，比如今晚 Merlin Chain 的线性释放、过几天 Teleport 的线性释放，还有 Portal 的线性释放，明天要和项目方开会等等。毕竟，以我的记忆，如果不记下来，大概率会再次错过，继续上演“错失良机”的悲剧。\n\n4⃣此外，我还把之前写的研究报告整理了一下，新建了一个协作表格，把每个项目的进度都能一目了然，方便管理，俺是时间管理大师。\n\n5⃣通过这次“血泪教训”，虽然损失了几千U，但是至少成功扶贫了技师小姐姐，嘻嘻嘻，嘻嘻，嘻嘻嘻，呜呜呜，呜呜，呜呜呜，啊啊啊，啊啊，啊啊啊。",
+      "timestamp": "Aug 29, 2024 · 10:14 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1829100209307299996#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1828683261763256423#m",
+      "content": "感谢自己，喜迎第三个黑客松冠军🥇：ETH Shenzhen\n\n继 ETH Hangzhou 和 ETH Beijing 之后，我在深圳举办的 ETH Shenzhen Hackathon 中再度夺冠。这是我的第三个黑客松冠军，非常幸运能够与好哥们一起参加并成功夺冠！这篇文章我将分享我的心路历程以及对国内黑客松比赛的一些看法。\n\n1⃣开发者社区的不成体系\n作为一个开发者，我深感国内开发者社区的关注度较少（或许是政策原因）。这间接导致了项目资助少、质量也参差不齐。反观海外的一些成体系的开发者社区，比如 @developer_dao 和 @encodeclub，他们拥有大量粉丝和极高的关注度，每次活动都有大项目方的核心成员演讲，项目扶持也是一波接一波。这与国内中小社区的情况相比，确实令人感到有些失望😿。\n\n2⃣项目落地难度大\n从我参加几次黑客松的经验来看，大部分项目在比赛结束后很少继续推进，基本上都是拿个奖就算了。这其实形成了一个恶性循环：项目不落地，项目方看不到成功案例，因此不愿意投入更多的资金支持；资金不足又导致黑客松难以顺利开展，开发者也因此兴趣不高，最终项目质量和落地效果都不理想。\n\n3⃣开发者的艰难处境\n打黑客松的初衷无非是想做创新项目并获得融资机会，但就拿这次深圳黑客松来说，现场VC的数量少得可怜。相比之下，在香港的 Ton 开发者大会上，一些不错的项目刚一结束演讲就被VC们“围攻”。归根结底，还是关注度的问题，这也陷入了上文提到的恶性循环中。如今这个时代，真是“酒香也怕巷子深”，开发者辛苦做出的项目无人问津，最终往往沦为“一波流”，拿个奖就走了。\n\n再讲讲我的心路历程\n1⃣AI真的很有用\n我们这次的项目是通过AI将自然语言转换成 Subgraph 和 SQL 语句，然后从 The Graph @graphprotocol 和 Dune @DuneAnalytics 获取实时区块链数据，并展示给用户。首先，项目本身就是借助AI实现的；其次，在写代码时，AI确实帮我们节约了大量时间，尤其是在编写一些UI和通用接口时，AI几乎是“自动化”地为我们完成了大部分工作，省时省力。\n\n2⃣主办方很给力\n这次黑客松的体验感非常好，从活动安排到 After Party 都很顺畅，特别是食物很对我胃口😹。总的来说，活动体验非常棒。\n\n开发者的路不容易走，这里给大家推荐些牛逼的国内开发者社区👏：\n@OpenBuildxyz：本次黑客松的主办方\n@BeWaterOfficial：黑客松的Aggregator\n@UpchainDAO：Tiny熊老师的文章带我入圈，强烈推荐！\n@RebaseCommunity：国内知名开发者社区\n@OurTinTinLand：专注于波卡生态，课程质量非常高\n@WTFAcademy_ 和 @0xAA_Science：初学者的福音，课程非常详细！\n@LXDAO_Official：一个有趣的社区，很有meme文化\n\n最后，特别感谢这次黑客松的队友们：@0x_EthanYe @0xLuki @qinsir_7\n\nlocalhost:8080/OpenBuildxyz/status/18…",
+      "timestamp": "Aug 28, 2024 · 6:37 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1828683261763256423#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1827952523095019738#m",
+      "content": "我的账户突然多了50万U？该怎么用！Defi老司机实操指南 🚀\n\n事情是这样，有位大哥突然找到我，说要给我500,000U，让我帮他找链上的稳定币协议来存款。作为一个从2020年就开始玩DeFi的“老司机”，今天我就带大家一起科普一下，如何找到链上高利息的协议，外加一些实用的技巧和注意事项。😎\n\n大哥的需求分析：\n1⃣要保本，无风险（大哥的资金是咱的命根子）\n2⃣收益率至少要超过OKX（大哥这是给你机会赚外快！）\n3⃣不买任何稳定币以外的货币（只认稳得跟泰山似的币）\n\n从这些需求我们得出了以下几点“神级”协议标准：\n1⃣单币U质押（USDC、USDT、DAI都OK）\n2⃣U-U的LP质押（币要稳，组合也要稳）\n3⃣抵押U借主流币，进行E-E的质押（“稳”中求进）\n\n好了，敲黑板，划重点，接下来是实操部分！💥\n\n实操步骤：\n1⃣打开Defillama @DefiLlama 的网站\ndefillama.com/yields?attribu…\n这可以说是DeFi世界里的藏宝图，打开后，左侧选择Yields，这里聚合了上千种协议，简直是“万能宝库”！\n2⃣在Attributes列表选择Stablecoin（稳定币）\n然后点击一下APY，瞬间你就能看到收益率的排名！哇塞，年化6000%？这不是发...等等！别激动，且听下文分解。\n\n3⃣ 核实收益率\n点击左侧箭头，进入协议官网，看看这收益率是不是“真金白银”。比如说，我找到一个叫Benqi的协议，存USDC.e年化48%，TVL在50万左右，协议也是老牌的。但是——老兄，我进官网一看，这池子已经停止存款了，只能赎回！😅\n\n再比如说，Interport上存USDT在ARB/Manta链上，年化45%左右，结果发现需要三个月锁仓才能释放奖励。三个月后矿还在不在，我都不好说！所以，大家一定要记得，选完后，先用小资金测试三五天，再决定是否“上车”。\n\n风险提示：大哥的保本梦，你一定要守住！🚨\n1⃣TVL过小的协议不考虑\n如果某个池子的TVL小于10万U，这就像是在沙滩上搭城堡，小心随时被海浪打翻！🌊\n2⃣协议的可靠性\n打开官网，翻翻有没有审计文档。如果没有任何审计，直接pass！咱要的可是“保本”！保本！Rug了连个汤都没得喝！🍵\n3⃣挖提卖\n很多矿币一天都能跌90%，一天一卖，绝不“屯币”，因为你可能第二天就只剩零头了！⚠️\n4⃣不碰算稳/衍生稳定币\n各种USDZ、USDX别碰！就算名字再像USD也别信！只玩USDT、USDC、DAI，稳字当头！\n\n我以往的文章可能更偏向数据分析，这是我第一次以幽默风趣的语言来写文章，如果大家喜欢，我会继续。最后，希望你看完这篇文章后，能够在DeFi世界里“如鱼得水”，找到属于你自己的“高收益且稳健”的协议。#Defi #Defillama",
+      "timestamp": "Aug 26, 2024 · 6:13 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1827952523095019738#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1828045335492768031#m",
+      "content": "Mexc割韭菜的套路，这次玩得更花哨了\n\n1⃣Mexc比其他CEX早上线DOGS 1小时，然后一通疯狂拉盘，把价格直接拉到了0.015（FDV超过80亿），紧接着在其他交易所统一开盘前的五分钟，来个神操作，开始猛砸盘，瞬间跌了75%，现在价格已经掉到0.004了，虽然还是有4倍溢价，但上头的韭菜们恐怕已上天台了。\n\n2⃣Mexc的币哪儿来的？查询到平台充币地址是EQBX63RAdgShn34EAFMV73Cut7Z15lUZd1hnVva68SEl7sxi，其持仓仅有4200万DOGS，但是却创造了4亿DOGS的交易量，敢问一下，Mexc的韭菜们都这么生猛吗？换手率直接飙到了1000%？\n\n3⃣其实明眼人都能看出来是数据砸盘，因为几个交易所都没开提币，暗箱操作空间太大了，Mexc这一波又舒服咯~\n\n4⃣DOGS现在的热度不低，很多人一时冲动可能就会在小交易所跟风买进。结果不对比差价，一不小心就可能吃个大亏。所以，大家务必擦亮眼睛，别被这些套路给坑了。\n\n5⃣Mexc我*****  @MEXC_Official\n\n#DOGS #TON #MEXC",
+      "timestamp": "Aug 26, 2024 · 12:22 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1828045335492768031#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1827348179974812150#m",
+      "content": "💰今天不写研报，写思考\n\n1⃣Web3现在没有一个产品在任何一个现有细分赛道形成了垄断。大家都是公平竞争，这种时候就是撸毛最好的时机。\n\n2⃣不管是web2还是web3，不管是2c还是2b，只要是产品都需要用户。往远了说，当年美团、饿了么大战，滴滴、Uber大战，往近了说，拼多多百亿补贴（用户侧&商家侧）抢夺淘宝的市场，都是典型的用真金白银去抢夺用户注意力。结果是：美团战胜了饿了么，Uber退出了中国市场，拼多多抢占了淘天未覆盖到低价市场。\n\n3⃣一旦细分行业的垄断形成，行业进入了成熟期，资本就不会再投入过多在用户补贴上，所以这个时候对于用户来说，能撸的“毛”就变少了。但是，目前web3行业尚处在诞生萌芽阶段，大家都是公平竞争，没有任何一个龙头非常明显的赛道，这种时候就是撸毛最好的时机。\n\n4⃣前段时间很多人在说web3就是注意力经济，为什么呢？因为这个行业叙事、技术、产品更新迭代的太快了。从21年的Defi summer到22年的NFT，再到今年的铭文、符文，每一轮伴随着新叙事的出现，旧叙事都会消亡。项目方、资本也是跟着新的叙事走，大部分币圈vc都不是耐心资本，以及vc逻辑本质上就是广撒网，今年restaking比较火赛道vc投的就特别多。\n\n5⃣有人可能会说，ETH上面DEX的龙头不是跑出来了uniswap吗？uni的地位其实也不是很稳固，虽然它现在用户量最多，交易量最大，但是蛋糕已经被瓜分很多很多了，小狐狸的内置swap，各种新链的官方DEX，比如说BSC我肯定选择pancake而不是uni，其余的产品蚕食了他太多份额了。所以这些都是机会，目前看来除了币安，没有一个龙头是能稳住的。\n\n6⃣先说这么多，感谢大家看到这里，最近想把关于1.5级的一些实践和思考系统性的整理和分享出来，下期会讲讲如何写研报，感兴趣的朋友可以关注下。",
+      "timestamp": "Aug 24, 2024 · 2:12 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1827348179974812150#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1814484854408655032#m",
+      "content": "@LostControl2850 @qingqing0720 @0xLuki 恭喜中奖，地址已提交",
+      "timestamp": "Jul 20, 2024 · 2:17 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1814484854408655032#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1813458618664292436#m",
+      "content": "📢区块马 ✖️ Cellula 幸运白单*3 抽奖\n\n我应该算是最早参与项目的一批人，从Cellula四月份在香港路演开始便参与进来了。\n\n1️⃣点赞转推本推文，并关注\n@0xblockma \n@cellulalifegame \n2️⃣评论区留下BSC链的0x地址。\n随机选取三位，一人一个幸运白单，目前白单场外500u，价值洼地兄弟们！\n\n⚠️24小时后开奖",
+      "timestamp": "Jul 17, 2024 · 6:20 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1813458618664292436#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1812106332411236810#m",
+      "content": "产出+1",
+      "timestamp": "Jul 13, 2024 · 12:46 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1812106332411236810#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1807616129059414179#m",
+      "content": "x.com/i/article/180622851512…",
+      "timestamp": "Jul 1, 2024 · 3:24 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1807616129059414179#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1803660677636301100#m",
+      "content": "x.com/i/article/180350869534…",
+      "timestamp": "Jun 20, 2024 · 5:26 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1803660677636301100#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1797570972855480330#m",
+      "content": "官推： @elixir",
+      "timestamp": "Jun 3, 2024 · 10:08 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1797570972855480330#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1797570869382070298#m",
+      "content": "Elixir 的投研报告\n\n1⃣简介：\nElixir是一种模块化的流动性网络，使任何人都可以直接向订单簿提供流动性，为长尾加密资产带来流动性。\n\n2⃣融资情况：\n种子轮：融资210万\nInception Capital、Chapter One、FalconX等\nA轮：融资750万，估值1亿\nHack VC*、NGC Ventures、WAGMi Ventures等\nB轮：融资800万，估值8亿\nSui / Mysten Labs*、Maelstrom Capital*、Amber Group、GSR、Flowdesk等\n\n3⃣参与方式：\n1.质押\n每周100万分，存E比存U多得50%的积分，一共22周，总计2200万分\n8月中结束，每日更新一次挖出的积分，最后按照积分空投比例代币。\n根据链上数据估算，存 10000U 至 8 月中可获得 351 分，每分收益如下\n得出：存2个半月，收益 1% ~ 6%，狗屎、、、\n\n2.节点\n教程：docs.elixir.xyz/running-an-e…\n搭建较为复杂，需要接入DYDX等各个交易所，技术难度大，v2全网目前13000个验证者。\n官方已经暂停了测试网v2的节点申请，正为v3的发布做准备。用户可以在v3上线后再申请运行节点。\n节点配置：4GB 内存，100Mbit 网络，磁盘30GB\n\n3.低保撸毛\n链接推特+DC，存入100U，获得一个盲盒\n盲盒8月初上主网同步发放，可以考虑多号\nelixir.xyz/refer/kertzmann45…\n\n4⃣结论\n参与质押ETH，存2个半月，收益 1% ~ 6%，狗都不上。\n\n撸毛单号成本高，博低保空投，但是盲盒性质不清，不建议参与过多。",
+      "timestamp": "Jun 3, 2024 · 10:07 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1797570869382070298#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1789581678740165002#m",
+      "content": "ETH 主网Gas跌倒冰点，为近一年内的最低值，转账一次仅需0.24U，主网土狗仅 $SIMBA 表现还可，其余均拉跨。\n\n建议操作：\n1⃣注册ENS域名\n链接：ens.domains/\n2⃣XEN批量铸造养号\n链接：cointool.app/batchMint/xen\n3⃣创建多签钱包Safe\n链接：app.safe.global/\n4⃣Aave Uniswap 刷交易\n链接：aave.com/\n链接：app.uniswap.org/swap\n5⃣最后，今天是母亲节，别撸了，陪陪妈妈吧😋上项目一上就是几千u，套个几千u出来转给妈妈，她会开心很久的。",
+      "timestamp": "May 12, 2024 · 9:01 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1789581678740165002#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1780891184950395370#m",
+      "content": "币安上线了BounceBit，但是这期活动并不是在Launchpad或者Launchpool，而是Megadrop，那么这个新玩意究竟是什么呢？\n\n1⃣Web3钱包\n众所周知在web3钱包领域，OKX稳坐头把交椅，币安目前正在努力打市场中，Megadrop便是一计。具体说就是用户可以通过在币安Web3钱包参与活动，在其去中心化钱包质押、完成任务等，获得币安新币的空投额度。\n\n2⃣锁定筹码\n参与Megadrop的BNB，必须锁定30/60/90/120天，区别于Launchpool的打新，BNB是活期的状态，这个方法必须锁定BNB（锁定的BNB仍可以参与Launch），锁定后你可以获得一个乘数，比如说我2个BNB锁30天，那就会获得2x的乘数，在我之后完成项目方的交互后，可以获得2倍积分，具体积分计算如下图。\n\n3⃣项目交互\n之前一些Launchpool的项目，往往只是存BNB去挖，然后开盘就卖了，许多人甚至连这个项目是什么都不知道，现在如果在Web3钱包中，按照项目方的规则进行交互，也可以获得积分，积分是会空投代币的，具体完成任务以及积分和乘数的计算，如下图。\n\n4⃣总结\n从大户躺赚模式，变成阳光普照模式，但是本质上还是大户赚的更多，只不过通过这套打法，我相信币安的体量，吸引更多用户去使用Web3钱包，还是很好的一套策略。\n\n#Bouncebit #Megadrop #Binance",
+      "timestamp": "Apr 18, 2024 · 9:28 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1780891184950395370#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1779882451730583895#m",
+      "content": "卖飞35wu\n#wzrd",
+      "timestamp": "Apr 15, 2024 · 2:40 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1779882451730583895#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1778731234585403571#m",
+      "content": "今天和 @hellosuoha @Ice_Frog666666 @hebi555 在讨论再质押的项目，好复杂，但是干货多多，接下来我就用小白都能听得懂的话来复盘一下。\n利益相关：我投了5个ETH。\n\n1⃣YT 是什么？YT是协议收入积分的构成以 ezETH (Zircuit) 这个池子来举例，用 ETH 买入YT相当于你花1E买了人家存入 20 E 的 Zircuit 积分和 10 E 的 Renzo & Eigenlayer 积分，就是花钱买积分，积分转让。\n\n2⃣PT 是什么？PT 是我有 ETH 但是我不想去赌这个协议能不能带来大的空投，我只需要 65% 的年化（图片右下角），所以我的积分给平台了，平台只要给我年化收益，保证我的固收就行。\n\n3⃣所以其中的逻辑是，用 PT 的钱去质押，获得的积分给 YT。用 YT 的钱补偿给 PT 池的用户，然后拿走 PT 的积分。\n\n4⃣然后再说积分空投的部分，如果你购买了 YT，你的积分是按小时计的，也就是如果你持有了 YT 一个月，但是 YT 的价格没跌，你原价卖出，相当于白嫖了一个月的 20 倍积分，舒服啊！但是小马做一个提醒，因为YT本质上还是积分，所以最终肯定是趋于归零的，不要抱有太多幻想在炒二级上面，买了 YT 就老老实实拿着。\n\n5⃣还有空投的部分，还是以这个池子为例，假如说Zircuit、Renzo、Eigenlayer 其中之一发币了，那么 YT 的价格肯定会跌的，因为赋能少了一个，但是发币的协议空投代币是直接到你 Pendle 账户的。\n\n6⃣最后，为什么选择 Zircuit 池？因为这个池子是一鱼三吃，可以获得 Zircuit、Renzo、Eigenlayer 积分。且据非公开消息得知，Zircuit 会以上十亿美金的估值进行融资，且目前TVL已经接近 40 亿美金（没看错，就是40亿！这些人怎么跟以太不要钱一样🧐）对比其他池子比如 KelpDAO，TVL 只有8亿美金，所以 Zircuit 项目潜力更大。\n\n7⃣友情链接： @pendle_fi @ZircuitL2 @eigenlayer @RenzoProtocol \n\n8⃣撰文不易，点赞转推评论区抽个人发我的帅照。\n\n#Pendle #Eignelayer #Zircuit #Renzo",
+      "timestamp": "Apr 12, 2024 · 10:25 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1778731234585403571#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1778628248525848780#m",
+      "content": "3x，小赚1wu离场，纸手先跑了，大家请继续",
+      "timestamp": "Apr 12, 2024 · 3:36 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1778628248525848780#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1778589354560225757#m",
+      "content": "$RBGO #RBGO\n打了点防身，说是OMB的",
+      "timestamp": "Apr 12, 2024 · 1:02 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1778589354560225757#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1778525311128527353#m",
+      "content": "物总好委屈啊，怎么跟告老师一样，哈哈哈\n\n其实我也被噶了，连根噶啊\n\n复盘一下Blockgame\n\n1⃣当时场外群和鲸鱼（ @WhalesMarket ）的成交均价在1.2-1.4浮动，按照7倍（币价1.05）来算，FDV在12亿美金，对标刚上币安不久的Portal（ @Portalcoin ）（FDV 16亿）来算，其实已经是一个非常高的估值了，应该止盈一部分，奈何某些朋友太FOMO，就不点名了哈（我可没说是小人物），说不到10亿美金他拉到10亿，于是我们的预期被拉满。\n\n2⃣其实预期这个事，喊单是最没用的，还是要结合项目的估值和流通数据来分析，是自己没有做好决策。\n工作室好几个朋友都是几百E上车，最后E的亏损 + GAS费一共亏损10万刀的比比皆是。\n\n3⃣还有一个重要因素是，OKX中国区没有开放买卖，很多国人甚至不知道上线了这个项目，导致国人盘没有人FOMO，但是这个点延伸一下，会不会和当时bigtime一样呢，也是国人不开盘，但是老外疯狂拉。\n\n4⃣End，失败不可怕，当时项目的确定性也非常高，做成这样谁也不想看到，收拾收拾，下一个吧！江湖再见！",
+      "timestamp": "Apr 11, 2024 · 8:47 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1778525311128527353#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1774390566165360749#m",
+      "content": "#brc20 #五字符\n\n不是吧哥们，要这么卷么，10,000多的gas",
+      "timestamp": "Mar 31, 2024 · 10:57 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1774390566165360749#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1774318418096975955#m",
+      "content": "moca有一个解释错误\n\n大号完成推特互动任务，获得225RP+4个邀请码\n\n小号刷掉4个邀请码之后，大号可以获得总计270RP+5个新邀请码\n\n这9个邀请码全部刷完之后，大号：225+101=326RP\n\n每小时可以产5个水晶\n\n一天产120水晶，正好抽奖一次（25%几率中）\n\n但是：大费周章一天只能抽一次奖，还不是保底额度，感觉赔率不大",
+      "timestamp": "Mar 31, 2024 · 6:10 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1774318418096975955#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1774090704052162894#m",
+      "content": "Mocaverse最新更新 @MocaverseNFT \n\n1⃣首先，我们能获得 2 种道具，RP和水晶，注意，这两种东西没有任何作用，下文我会讲解。\n\n2⃣RP：新号完成关注以及 2 条转推，可以获得 225 RP 和 3 个邀请码，邀请码被使用可以获得被邀请人的 5%RP 返利（也就是拉一个人 11 RP）\n\n3⃣水晶：新号完成转推可以获得18个水晶，达到 230RP 之后，送 1 个水晶（真他妈狗，完成基础任务只给 225，必须让你拉个人）。\n\n4⃣在达到 230RP 之后，完成一些生态任务（比如pixel等）达到 300、450、460、470 节点又可以获得 1 个水晶\n\n5⃣邀请码的返佣达到一定数量也可获得 1 个水晶，具体如下图👇。\n\n6⃣40 个水晶可以抽一次奖，可以获得蓝色/绿色电池，但是只有 5% 的几率，拉满 120 水晶抽一次，是 20% 概率（真 j8 低）。\n\n7⃣蓝色电池：保证额度，现在已经被铸造完了\n8⃣绿色电池：幸运额度，还剩 18,000 多个，按照目前速度预计不出 1 天就会抽完。\n\n9⃣参与策略：因为目前获取 RP 的渠道只有推特互动，也就是一个号 225RP，其余生态活动都参与满了，无法获得RP，所以策略如下。\n\n🔟大号推特互动，获得 225RP + 4 个邀请码，小号刷掉4个邀请码，大号获得总共 270RP\n大号 RP 达到 270 之后，可以再获得5个邀请码，刷掉之后总计可以获得 326RP（ 225自己的 + 101 邀请的）。\n\n1⃣1⃣刷到 326RP 之后，去领钻石，可以领：\n18 个（推特互动）\n1 个（大于 230RP）\n1 个（大于 300RP）\n3 个（邀请大于 90RP）\n总计 23 个水晶\n\n1⃣2⃣有人要问了，抽一次不是 40 水晶么，你 23 个玩个毛线？\n问得好！所以如果官方后期不开通生态活动的方式获取RP，那么就是纯白打工，如果开放了你提前准备了那么多个23水晶的号，那你就比别人快一大截。\n\n1⃣3⃣照理来说，官方应该会很快开发生态活动激励来获取 RP 的，所以有兴趣撸毛的小伙伴一定先准备好号。\n\n1⃣4⃣结论：究极 PUA 活动，卡的一笔，我脚本都写不溜，如果不是工作室，不建议大批量参与，自己玩 1-2 个号即可。",
+      "timestamp": "Mar 30, 2024 · 3:05 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1774090704052162894#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1773037551277998529#m",
+      "content": "#eths #blob 简报：\n\n每个区块6张，因为EIP-4844协议规定了每个块有内存大小限制（类似比特币每个块4M内存），所以所有带blob的交易，按照创始人发的绿色鸟嘴图，每个块最多容纳6张图的大小。\n\n这里mint👇\nblobscriptions.io/\n\n教程👇\n\n最后，新东西不确定性太多，先发推了，大家参考上。",
+      "timestamp": "Mar 27, 2024 · 5:21 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1773037551277998529#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1773020741362934012#m",
+      "content": "消费了 8E，收拾一下准备洗脚去了。",
+      "timestamp": "Mar 27, 2024 · 4:14 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1773020741362934012#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1772908539423637774#m",
+      "content": "近期跟进的项目：\n\n1⃣POI阳光普照空投 @orcmarket \norcmarket.xyz/poi\n进网站领取，之前打过铭文的账号应该都有，一笔gas 5 刀左右，目前市场 10,000 币价值 10u，如果少于 10,000 的不建议去领了。\n\n2⃣Ordzaar的平台活动 @ordzaar \nordzaar.com/rewards/s01p0#s0…\n打过BTC NFT的钱包都有资格，有点像blur第一期的盒子，可以开出传奇、稀有、普通，具体赋能不清楚。\n\n3⃣Well3的公售 @well3official \nwell3.com/publicsale\n前身 yogapetz，是animoca孵化的项目，背景实力NO.1，27号（今天）0点开放公售，一张票0.1E，前半小时3倍奖票（折合一张票0.033E）抽奖机制，不中奖退款建议上大资金博，中奖 = 发财。\n\n4⃣Blockgames公售 @GetBlockGames \nFDV 8,000万美金，白单和幸运白是6,000万、7,000万市值，差距不大，明天晚上9点截止，可以在截止之前冲，一张彩票0.05E，也是抽奖不中就退款机制。\n\n5⃣1intro Solana的LBP荷兰拍平台 @1intro \n还没发射，等待发射，第一个项目无脑冲，基本上稳赚。\n\n6⃣以后每 2-3 天更新最近冲的项目，我的风格不是说赚钱了再分享，往往是自己上了之后就发，给大家信息的渠道和机会。",
+      "timestamp": "Mar 27, 2024 · 8:48 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1772908539423637774#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1771855668548702526#m",
+      "content": "$RUFI 刚刚发布公告，下面给大家盘前分析一下\n\n7天内会发公告，公布铸造时间\n\n总共7500亿代币供公开铸造\n单笔交易铸造上限20万枚\n单个钱包最多铸造25次，也就是500万枚\n\n如果人人拉满，总共150000（15万）个钱包能打到\n\n按照目前gas（0.55Gwei）来估算，单笔铸造需要消耗0.8刀左右。\n\n打完总消耗：300万 美金\n按照保守市值 500万 美金估计，单张收益1u（我的天，才刚刚回本）\n\n所以市值如果没到500万，基本上就是破发了。\n\n最后，做了个资产快照的图发给大家，可以看市值FDV多少的情况下，快照资产能拿多少代币。",
+      "timestamp": "Mar 24, 2024 · 11:04 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1771855668548702526#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1771833944322756949#m",
+      "content": "总共查了有个5000多万分，有没有人收的",
+      "timestamp": "Mar 24, 2024 · 9:38 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1771833944322756949#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1770435747184832562#m",
+      "content": "一个izumi复刻Swap，估值就2100万美元，真的值么。。。\n\n私募轮听说5000万美元 TGE15%\n这样子对比下来的话，好像还有些机会。",
+      "timestamp": "Mar 20, 2024 · 1:02 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1770435747184832562#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1770121962242843024#m",
+      "content": "Solana土狗 感觉走到尽头了",
+      "timestamp": "Mar 19, 2024 · 4:15 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1770121962242843024#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1758753816386896258#m",
+      "content": "mark",
+      "timestamp": "Feb 17, 2024 · 7:22 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1758753816386896258#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1747866656725213288#m",
+      "content": "黄浦江边儿打铭文\n@BitWorld_AI",
+      "timestamp": "Jan 18, 2024 · 6:20 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1747866656725213288#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1737748690566361194#m",
+      "content": "马宝进化火宝\n@xiejiayinHTX @justinsuntron @XandiHTX @66HTX @HTX_Global \n\n#brc20 #sats #rats",
+      "timestamp": "Dec 21, 2023 · 8:15 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1737748690566361194#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1737396416874676252#m",
+      "content": "$PPLM\nPPLM\n这个是啥啊，咋打这么疯",
+      "timestamp": "Dec 20, 2023 · 8:55 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1737396416874676252#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1733384817407054115#m",
+      "content": "打完铭文是不是需要放松一下？",
+      "timestamp": "Dec 9, 2023 · 7:15 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1733384817407054115#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1725724692282253636#m",
+      "content": "6/n\n创始人：@solkekw\n目前场外OTC有微信群，有想要进群交流的可以DM私信我。",
+      "timestamp": "Nov 18, 2023 · 3:56 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1725724692282253636#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1725724689916735919#m",
+      "content": "5/n\n钱包确认完成交易之后，应该是这个样子的，这样子就是有效的铭文了。",
+      "timestamp": "Nov 18, 2023 · 3:56 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1725724689916735919#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1725724687441998303#m",
+      "content": "4/n\nlibreplex.io/scanner?mintId=…\n\n把上面网址中的abcd改成你上一步的铭文编号，然后访问该网站，之后看图操作，需要钱包确认一笔交易",
+      "timestamp": "Nov 18, 2023 · 3:56 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1725724687441998303#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1725724684938002895#m",
+      "content": "3/n\n在这里您可以看到你的铭文，选择你打的sols铭文，看一下具体信息，目前依据创始人的口述，正确的铭文是编号33488以内，以外的不一定有效，但是也没说肯定无效。然后size是53B，rent是0.00 SOL，所以大家核对一下。\n这一步请记录好铭文编号（最左边那个）下一步要用到。",
+      "timestamp": "Nov 18, 2023 · 3:56 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1725724684938002895#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1725724682157183136#m",
+      "content": "2/n\nlibreplex.io/inscriptions\n访问这个网站，右上角链接钱包，然后看图操作，展示你的铭文。",
+      "timestamp": "Nov 18, 2023 · 3:56 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1725724682157183136#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1725724680131317967#m",
+      "content": "1/n\nSols铭文昨天只用了4个小时就完成了21000张注册，下面我根据创始人在推特和DC的说法，详细讲解一下改入各操作才能让你打的铭文变成有效的。",
+      "timestamp": "Nov 18, 2023 · 3:56 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1725724680131317967#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1723690519233204311#m",
+      "content": "没了，别打了",
+      "timestamp": "Nov 12, 2023 · 1:13 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1723690519233204311#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1723682943410057526#m",
+      "content": "4.等待交易确认即可，然后换号打。\n提醒一下，没余额的可以直接bn提现，很快就到账，选opbnb链就行。",
+      "timestamp": "Nov 12, 2023 · 12:43 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1723682943410057526#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1723682940830531884#m",
+      "content": "3.发送交易到：0x961a98999f14e8c5e69bdd4ee0826d6e0c556a0d\n十六进制数据填写：0x1249c58b\n注意：这里显示是合约地址，不用管他，点一下理解，然后发送交易即可。",
+      "timestamp": "Nov 12, 2023 · 12:43 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1723682940830531884#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1723682938179752417#m",
+      "content": "2.小狐狸钱包设置-高级-十六进制，把这个功能打开。",
+      "timestamp": "Nov 12, 2023 · 12:43 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1723682938179752417#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1723682935633740250#m",
+      "content": "1.去添加opbnb的网络\nchainlist.org/?search=opbnb",
+      "timestamp": "Nov 12, 2023 · 12:43 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1723682935633740250#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1723682931141710089#m",
+      "content": "OPBNB链上的徽章，网站崩了，可以用合约打，单号1个。我速写一个简单教程，如下↓",
+      "timestamp": "Nov 12, 2023 · 12:43 PM UTC",
+      "url": "https://twitter.com/0xblockma/status/1723682931141710089#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1722199372400877615#m",
+      "content": "加油bulid，未来10b的独角兽~",
+      "timestamp": "Nov 8, 2023 · 10:28 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1722199372400877615#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1719601802587631655#m",
+      "content": "哇，好喜欢好喜欢",
+      "timestamp": "Nov 1, 2023 · 6:26 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1719601802587631655#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1717394374290788742#m",
+      "content": "My 21th birthday, sponsored by HTX!\nThanks @xiejiayinHuobi @justinsuntron @HTX_Global",
+      "timestamp": "Oct 26, 2023 · 4:15 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1717394374290788742#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1709417856742682835#m",
+      "content": "6/n\n@luge517 @Kiki25140290 @BiliSquare @Ice_Frog666666 @moffat2021 @evans666eth @Ray_LTC20 好兄弟们来支持下~~",
+      "timestamp": "Oct 4, 2023 · 3:59 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1709417856742682835#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1709417854486077680#m",
+      "content": "5/n\n有任何不懂得操作，或者需要我帮你归集（我赚点辛苦钱）的，可以私信我or加我微信，欢迎大家交流！\n另外再次强调，这次费率降得不容易，抓紧机会归集资产，不然你的废铭文就是垃圾。",
+      "timestamp": "Oct 4, 2023 · 3:59 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1709417854486077680#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1709417852204437776#m",
+      "content": "4/n\n上一步的费率，可以在这个网站实时去查看，我建议设置1.5-2.5左右。\n一张铭文一般是546聪的预留，然后平均按2的费率来算的话，一张能回收430聪，也就是0.14u左右，比如说我这个钱包有20000张，就是几千u。\nmempool.space/zh/",
+      "timestamp": "Oct 4, 2023 · 3:59 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1709417852204437776#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1709417849767465097#m",
+      "content": "3/n\n发起交易",
+      "timestamp": "Oct 4, 2023 · 3:59 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1709417849767465097#m",
+      "author": "0xblockma"
+    },
+    {
+      "id": "1709417847565480097#m",
+      "content": "2/n\n查询钱包的铭文。",
+      "timestamp": "Oct 4, 2023 · 3:59 AM UTC",
+      "url": "https://twitter.com/0xblockma/status/1709417847565480097#m",
+      "author": "0xblockma"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T00:11:06.678Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 26106,
+    "cursorTrail": [
+      "DAAHCgABG3vjY3W__-oLAAIAAAATMTk2Nzg2OTAxNjk0MjU1MTI2MAgAAwAAAAIAAA",
+      "DAAHCgABG3vjY3W__9QLAAIAAAATMTk0NDE1OTA0MTgyNTI1NTQ5NwgAAwAAAAIAAA",
+      "DAAHCgABG3vjY3W__78LAAIAAAATMTkxNDk2Nzc5NDcyMDE0MTM4NwgAAwAAAAIAAA",
+      "DAAHCgABG3vjY3W__6sLAAIAAAATMTkwMTIxMjIzMjI5NTYxMjg1MAgAAwAAAAIAAA",
+      "DAAHCgABG3vjY3W__5cLAAIAAAATMTg4MTI5MTE5NzM5NTk1MjA5MwgAAwAAAAIAAA",
+      "DAAHCgABG3vjY3W__4ILAAIAAAATMTg1MzM0MDY1NDMyNTM0NjM3OQgAAwAAAAIAAA",
+      "DAAHCgABG3vjY3W__28LAAIAAAATMTgzNTIwODEwOTQ5NDU1NDY4OQgAAwAAAAIAAA",
+      "DAAHCgABG3vjY3W__10LAAIAAAATMTgyNzM0ODE3OTk3NDgxMjE1MAgAAwAAAAIAAA",
+      "DAAHCgABG3vjY3W__0oLAAIAAAATMTc3MzAzNzM2NjgyNTA5MTQ4MQgAAwAAAAIAAA",
+      "DAAHCgABG3vjY3W__zcLAAIAAAATMTcyMzY5MDUxOTIzMzIwNDMxMQgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

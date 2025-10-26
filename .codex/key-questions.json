@@ -1,0 +1,32 @@
+[
+  {
+    "priority": "high",
+    "question": "Nitter 是否具备无需 Redis 的运行模式？如果不行，最小化依赖的可行策略是什么？",
+    "known_context": "docker-compose.yml 默认依赖 redis:7-alpine，用户希望暂时不使用 Redis。",
+    "blocked_reason": "需要查阅官方文档或直接测试关闭 Redis 时的表现，以决定是否保留缓存容器。"
+  },
+  {
+    "priority": "high",
+    "question": "归档脚本如何可靠地分页抓取所有可访问推文，并处理 cursor/速率限制？",
+    "known_context": "当前实现仅抓取单页推文（通常 20 条），未实现 cursor 循环。",
+    "blocked_reason": "缺乏对 Nitter HTML 中分页参数的确认，需要调试本地实例。"
+  },
+  {
+    "priority": "medium",
+    "question": "长时间批量抓取 552 个账号时如何避免中途失败？是否需要断点续跑或日志记录？",
+    "known_context": "脚本现有重试与延迟，但未记录进度，失败需手动重跑。",
+    "blocked_reason": "需要设计落盘策略（如 state 文件）与错误恢复流程。"
+  },
+  {
+    "priority": "medium",
+    "question": "Docker Compose 在当前环境（danger-full-access）下能否直接运行？需要哪些系统依赖或 sudo 操作？",
+    "known_context": "用户提供 sudo 密码 `hanzhikun`，但尚未确认 docker daemon 状态。",
+    "blocked_reason": "需检测 docker 服务与 compose 可用性，决定是否需要额外安装或配置。"
+  },
+  {
+    "priority": "low",
+    "question": "归档完成后是否需要自动化调度（cron/定时脚本），还是手工运行即可？",
+    "known_context": "用户希望醒来后看到稳定运行结果，可能需要长时间执行脚本。",
+    "blocked_reason": "尚未明确执行策略，可在实施阶段决策。"
+  }
+]

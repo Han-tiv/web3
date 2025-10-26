@@ -1,0 +1,675 @@
+{
+  "time_range": {
+    "start": "2025-10-16 22:50:01",
+    "end": "2025-10-17 09:12:01",
+    "local_time_note": "日志时间为频道播报时间，推测为 Asia/Shanghai；方括号时间为 Telegram 客户端本地时间。"
+  },
+  "total_signals": 36,
+  "count_by_action": {
+    "OpenShort": 15,
+    "OpenLong": 3,
+    "Close": 18
+  },
+  "top_symbols": [
+    [
+      "USELESSUSDT",
+      4
+    ],
+    [
+      "CUDISUSDT",
+      4
+    ],
+    [
+      "XPINUSDT",
+      3
+    ],
+    [
+      "VIRTUALUSDT",
+      2
+    ],
+    [
+      "SNXUSDT",
+      2
+    ],
+    [
+      "BTCUSDT",
+      2
+    ],
+    [
+      "DEGOUSDT",
+      2
+    ],
+    [
+      "VINEUSDT",
+      2
+    ],
+    [
+      "EVAAUSDT",
+      2
+    ],
+    [
+      "LYNUSDT",
+      2
+    ],
+    [
+      "KOMAUSDT",
+      1
+    ],
+    [
+      "ENSOUSDT",
+      1
+    ],
+    [
+      "ASTERUSDT",
+      1
+    ],
+    [
+      "FARTCOINUSDT",
+      1
+    ],
+    [
+      "RECALLUSDT",
+      1
+    ],
+    [
+      "CLOUSDT",
+      1
+    ],
+    [
+      "IPUSDT",
+      1
+    ],
+    [
+      "EDUUSDT",
+      1
+    ],
+    [
+      "ZKCUSDT",
+      1
+    ],
+    [
+      "ZECUSDT",
+      1
+    ],
+    [
+      "BLESSUSDT",
+      1
+    ]
+  ],
+  "error_summary": {
+    "设置持仓模式失败": 14,
+    "数量不足导致下单失败": 1
+  },
+  "records": [
+    {
+      "local_time": "14:50:14",
+      "signal_datetime": "2025-10-16 22:50:01",
+      "symbol": "VIRTUALUSDT",
+      "action": "OpenShort",
+      "full_content": "VIRTUALUSDT - 看跌📉 - 🥷猎龙忍者🥷",
+      "current_price": 0.8188,
+      "oi_mc": "0.1（28.0M/5.4亿）",
+      "fear_greed": "正常水平",
+      "hunter_score": "潜在爆发（狩猎指数100）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "无数据/成交偏低",
+      "errors": [
+        "[2025-10-16T14:50:15Z ERROR rust_trading_bot::binance_client] 设置持仓模式失败: {\"code\":-4059,\"msg\":\"No need to change position side.\"}"
+      ]
+    },
+    {
+      "local_time": "14:52:16",
+      "signal_datetime": "2025-10-16 22:52:01",
+      "symbol": "KOMAUSDT",
+      "action": "OpenLong",
+      "full_content": "KOMAUSDT - 看涨📈 - 🥷猎龙忍者🥷",
+      "current_price": 0.01911,
+      "oi_mc": "0.2（2.7M/11.1M）",
+      "fear_greed": "正常水平",
+      "hunter_score": "潜在爆发（狩猎指数309）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "未触发 (分数: 46.7)",
+      "errors": []
+    },
+    {
+      "local_time": "14:54:16",
+      "signal_datetime": "2025-10-16 22:54:01",
+      "symbol": "USELESSUSDT",
+      "action": "OpenShort",
+      "full_content": "USELESSUSDT - 看跌📉 - 🥷猎龙忍者🥷",
+      "current_price": 0.3706,
+      "oi_mc": "0.1（24.7M/3.8亿）",
+      "fear_greed": "正常水平",
+      "hunter_score": "多头出逃（狩猎指数-100）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "无数据/成交偏低",
+      "errors": [
+        "[2025-10-16T14:54:16Z ERROR rust_trading_bot::binance_client] 设置持仓模式失败: {\"code\":-4059,\"msg\":\"No need to change position side.\"}"
+      ]
+    },
+    {
+      "local_time": "15:04:11",
+      "signal_datetime": "2025-10-16 23:03:42",
+      "symbol": "CUDISUSDT",
+      "action": "OpenLong",
+      "full_content": "CUDISUSDT - 看涨📈 - 🥷猎龙忍者🥷",
+      "current_price": 0.06337,
+      "oi_mc": "0.3（3.4M/13.4M）",
+      "fear_greed": "二级贪婪",
+      "hunter_score": "潜在爆发（狩猎指数227）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "无数据/成交偏低",
+      "errors": []
+    },
+    {
+      "local_time": "15:12:39",
+      "signal_datetime": "2025-10-16 23:12:36",
+      "symbol": "ENSOUSDT",
+      "action": "Close",
+      "full_content": "ENSOUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "正常水平",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "15:38:18",
+      "signal_datetime": "2025-10-16 23:38:02",
+      "symbol": "SNXUSDT",
+      "action": "OpenShort",
+      "full_content": "SNXUSDT - 看跌📉 - 🥷猎龙忍者🥷",
+      "current_price": 1.656,
+      "oi_mc": "0.1（43.0M/5.8亿）",
+      "fear_greed": "正常水平",
+      "hunter_score": "潜在爆发（狩猎指数100）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "无数据/成交偏低",
+      "errors": [
+        "[2025-10-16T15:38:18Z ERROR rust_trading_bot::binance_client] 设置持仓模式失败: {\"code\":-4059,\"msg\":\"No need to change position side.\"}"
+      ]
+    },
+    {
+      "local_time": "15:48:03",
+      "signal_datetime": "2025-10-16 23:48:00",
+      "symbol": "CUDISUSDT",
+      "action": "Close",
+      "full_content": "CUDISUSDT - 看涨跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "二级贪婪",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "15:48:06",
+      "signal_datetime": "2025-10-16 23:48:04",
+      "symbol": "USELESSUSDT",
+      "action": "Close",
+      "full_content": "USELESSUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "正常水平",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "15:48:10",
+      "signal_datetime": "2025-10-16 23:48:07",
+      "symbol": "VIRTUALUSDT",
+      "action": "Close",
+      "full_content": "VIRTUALUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "正常水平",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "15:48:15",
+      "signal_datetime": "2025-10-16 23:48:13",
+      "symbol": "ASTERUSDT",
+      "action": "Close",
+      "full_content": "ASTERUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "正常水平",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "15:48:23",
+      "signal_datetime": "2025-10-16 23:48:01",
+      "symbol": "FARTCOINUSDT",
+      "action": "OpenShort",
+      "full_content": "FARTCOINUSDT - 看跌📉 - 🥷猎龙忍者🥷",
+      "current_price": 0.3774,
+      "oi_mc": "0.3（1.0亿/4.0亿）",
+      "fear_greed": "正常水平",
+      "hunter_score": "潜在爆发（狩猎指数100）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "无数据/成交偏低",
+      "errors": [
+        "[2025-10-16T15:48:23Z ERROR rust_trading_bot::binance_client] 设置持仓模式失败: {\"code\":-4059,\"msg\":\"No need to change position side.\"}"
+      ]
+    },
+    {
+      "local_time": "15:48:39",
+      "signal_datetime": "2025-10-16 23:48:37",
+      "symbol": "BTCUSDT",
+      "action": "Close",
+      "full_content": "BTCUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "正常水平",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "15:54:13",
+      "signal_datetime": "2025-10-16 23:54:01",
+      "symbol": "DEGOUSDT",
+      "action": "OpenShort",
+      "full_content": "DEGOUSDT - 看跌📉 - 🥷猎龙忍者🥷",
+      "current_price": 1.458,
+      "oi_mc": "0.4（13.0M/31.7M）",
+      "fear_greed": "正常水平",
+      "hunter_score": "多头出逃（狩猎指数-100）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "无数据/成交偏低",
+      "errors": [
+        "[2025-10-16T15:54:13Z ERROR rust_trading_bot::binance_client] 设置持仓模式失败: {\"code\":-4059,\"msg\":\"No need to change position side.\"}"
+      ]
+    },
+    {
+      "local_time": "16:02:21",
+      "signal_datetime": "2025-10-17 00:02:12",
+      "symbol": "VINEUSDT",
+      "action": "OpenShort",
+      "full_content": "VINEUSDT - 看跌📉 - 🥷猎龙忍者🥷",
+      "current_price": 0.04546,
+      "oi_mc": "0.1（5.4M/47.9M）",
+      "fear_greed": "三级恐慌",
+      "hunter_score": "潜在爆发（狩猎指数100）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "无数据/成交偏低",
+      "errors": [
+        "[2025-10-16T16:02:21Z ERROR rust_trading_bot::binance_client] 设置持仓模式失败: {\"code\":-4059,\"msg\":\"No need to change position side.\"}"
+      ]
+    },
+    {
+      "local_time": "16:02:37",
+      "signal_datetime": "2025-10-17 00:02:28",
+      "symbol": "EVAAUSDT",
+      "action": "OpenShort",
+      "full_content": "EVAAUSDT - 看跌📉 - 🥷猎龙忍者🥷",
+      "current_price": 4.569,
+      "oi_mc": "0.4（13.6M/33.5M）",
+      "fear_greed": "正常水平",
+      "hunter_score": "多头出逃（狩猎指数-100）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "无数据/成交偏低",
+      "errors": [
+        "[2025-10-16T16:02:37Z ERROR rust_trading_bot::binance_client] 设置持仓模式失败: {\"code\":-4059,\"msg\":\"No need to change position side.\"}"
+      ]
+    },
+    {
+      "local_time": "16:02:42",
+      "signal_datetime": "2025-10-17 00:02:40",
+      "symbol": "XPINUSDT",
+      "action": "Close",
+      "full_content": "XPINUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "一级贪婪",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "16:02:45",
+      "signal_datetime": "2025-10-17 00:02:43",
+      "symbol": "LYNUSDT",
+      "action": "Close",
+      "full_content": "LYNUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "正常水平",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "16:04:38",
+      "signal_datetime": "2025-10-17 00:04:36",
+      "symbol": "RECALLUSDT",
+      "action": "Close",
+      "full_content": "RECALLUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "正常水平",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "16:04:39",
+      "signal_datetime": "2025-10-17 00:04:27",
+      "symbol": "LYNUSDT",
+      "action": "OpenShort",
+      "full_content": "LYNUSDT - 看跌📉 - 🥷猎龙忍者🥷",
+      "current_price": 0.1557,
+      "oi_mc": "0.1（6.5M/45.8M）",
+      "fear_greed": "正常水平",
+      "hunter_score": "多头出逃（狩猎指数-100）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "无数据/成交偏低",
+      "errors": [
+        "[2025-10-16T16:04:40Z ERROR rust_trading_bot::binance_client] 设置持仓模式失败: {\"code\":-4059,\"msg\":\"No need to change position side.\"}"
+      ]
+    },
+    {
+      "local_time": "16:05:41",
+      "signal_datetime": "2025-10-17 00:05:38",
+      "symbol": "EVAAUSDT",
+      "action": "Close",
+      "full_content": "EVAAUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "正常水平",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "16:05:44",
+      "signal_datetime": "2025-10-17 00:05:42",
+      "symbol": "CLOUSDT",
+      "action": "Close",
+      "full_content": "CLOUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "正常水平",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "16:12:51",
+      "signal_datetime": "2025-10-17 00:12:49",
+      "symbol": "DEGOUSDT",
+      "action": "Close",
+      "full_content": "DEGOUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "正常水平",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "16:18:31",
+      "signal_datetime": "2025-10-17 00:18:02",
+      "symbol": "USELESSUSDT",
+      "action": "OpenShort",
+      "full_content": "USELESSUSDT - 看跌📉 - 🥷猎龙忍者🥷",
+      "current_price": 0.336,
+      "oi_mc": "0.1（22.8M/3.5亿）",
+      "fear_greed": "正常水平",
+      "hunter_score": "潜在爆发（狩猎指数122）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "无数据/成交偏低",
+      "errors": [
+        "[2025-10-16T16:18:32Z ERROR rust_trading_bot::binance_client] 设置持仓模式失败: {\"code\":-4059,\"msg\":\"No need to change position side.\"}"
+      ]
+    },
+    {
+      "local_time": "16:18:49",
+      "signal_datetime": "2025-10-17 00:18:41",
+      "symbol": "IPUSDT",
+      "action": "OpenShort",
+      "full_content": "IPUSDT - 看跌📉 - 🥷猎龙忍者🥷",
+      "current_price": 5.62,
+      "oi_mc": "0.0（66.6M/19.0亿）",
+      "fear_greed": "三级恐慌",
+      "hunter_score": "多头出逃（狩猎指数-134）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "未触发 (分数: 53.1)",
+      "errors": [
+        "[2025-10-16T16:18:49Z ERROR rust_trading_bot::binance_client] 设置持仓模式失败: {\"code\":-4059,\"msg\":\"No need to change position side.\"}"
+      ]
+    },
+    {
+      "local_time": "16:21:20",
+      "signal_datetime": "2025-10-17 00:21:17",
+      "symbol": "SNXUSDT",
+      "action": "Close",
+      "full_content": "SNXUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "正常水平",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "16:25:34",
+      "signal_datetime": "2025-10-17 00:25:22",
+      "symbol": "XPINUSDT",
+      "action": "OpenShort",
+      "full_content": "XPINUSDT - 看跌📉 - 🥷猎龙忍者🥷",
+      "current_price": 0.0021188,
+      "oi_mc": "0.5（17.5M/38.9M）",
+      "fear_greed": "一级贪婪",
+      "hunter_score": "多头出逃（狩猎指数-100）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "未触发 (分数: 39.3)",
+      "errors": [
+        "[2025-10-16T16:25:34Z ERROR rust_trading_bot::binance_client] 设置持仓模式失败: {\"code\":-4059,\"msg\":\"No need to change position side.\"}"
+      ]
+    },
+    {
+      "local_time": "16:29:03",
+      "signal_datetime": "2025-10-17 00:29:01",
+      "symbol": "VINEUSDT",
+      "action": "Close",
+      "full_content": "VINEUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "三级恐慌",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "16:31:49",
+      "signal_datetime": "2025-10-17 00:31:46",
+      "symbol": "XPINUSDT",
+      "action": "Close",
+      "full_content": "XPINUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "正常水平",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "16:34:41",
+      "signal_datetime": "2025-10-17 00:34:38",
+      "symbol": "EDUUSDT",
+      "action": "Close",
+      "full_content": "EDUUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "正常水平",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "17:05:43",
+      "signal_datetime": "2025-10-17 01:05:34",
+      "symbol": "CUDISUSDT",
+      "action": "OpenLong",
+      "full_content": "CUDISUSDT - 看涨📈 - 🥷猎龙忍者🥷",
+      "current_price": 0.06521,
+      "oi_mc": "0.3（4.0M/15.3M）",
+      "fear_greed": "正常水平",
+      "hunter_score": "潜在爆发（狩猎指数189）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "无数据/成交偏低",
+      "errors": []
+    },
+    {
+      "local_time": "17:06:18",
+      "signal_datetime": "2025-10-17 01:06:03",
+      "symbol": "ZKCUSDT",
+      "action": "OpenShort",
+      "full_content": "ZKCUSDT - 看跌📉 - 🥷猎龙忍者🥷",
+      "current_price": 0.2217,
+      "oi_mc": "0.3（12.0M/44.9M）",
+      "fear_greed": "正常水平",
+      "hunter_score": "多头出逃（狩猎指数-100）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "无数据/成交偏低",
+      "errors": [
+        "[2025-10-16T17:06:19Z ERROR rust_trading_bot::binance_client] 设置持仓模式失败: {\"code\":-4059,\"msg\":\"No need to change position side.\"}"
+      ]
+    },
+    {
+      "local_time": "23:23:55",
+      "signal_datetime": "2025-10-17 07:23:52",
+      "symbol": "CUDISUSDT",
+      "action": "Close",
+      "full_content": "CUDISUSDT - 看涨跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "正常水平",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "23:24:21",
+      "signal_datetime": "2025-10-17 07:24:17",
+      "symbol": "USELESSUSDT",
+      "action": "Close",
+      "full_content": "USELESSUSDT - 看跌跟踪结束",
+      "current_price": null,
+      "oi_mc": null,
+      "fear_greed": "正常水平",
+      "hunter_score": null,
+      "trigger_count": null,
+      "spot_fund": null,
+      "futures_fund": null,
+      "errors": []
+    },
+    {
+      "local_time": "23:39:10",
+      "signal_datetime": "2025-10-17 07:38:40",
+      "symbol": "ZECUSDT",
+      "action": "OpenShort",
+      "full_content": "ZECUSDT - 看跌📉 - 🥷猎龙忍者🥷",
+      "current_price": 208.43,
+      "oi_mc": "0.0（1.2亿/34.6亿）",
+      "fear_greed": "正常水平",
+      "hunter_score": "多头出逃（狩猎指数-100）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "无数据/成交偏低",
+      "errors": [
+        "[2025-10-16T23:39:10Z ERROR rust_trading_bot::binance_client] 设置持仓模式失败: {\"code\":-4059,\"msg\":\"No need to change position side.\"}"
+      ]
+    },
+    {
+      "local_time": "23:39:19",
+      "signal_datetime": "2025-10-17 07:39:09",
+      "symbol": "BTCUSDT",
+      "action": "OpenShort",
+      "full_content": "BTCUSDT - 看跌📉 - 🥷猎龙忍者🥷",
+      "current_price": 107966.0,
+      "oi_mc": "0.0（141.3亿/21555.5亿）",
+      "fear_greed": "正常水平",
+      "hunter_score": "潜在爆发（狩猎指数100）",
+      "trigger_count": "1/3",
+      "spot_fund": "未触发 (分数: 44.5)",
+      "futures_fund": "未触发 (分数: 41.4)",
+      "errors": [
+        "[2025-10-16T23:39:19Z ERROR signal_trader] ❌ 执行交易失败: 计算数量失败: 计算数量 0.00000000 小于最小数量限制 0.00100000"
+      ]
+    },
+    {
+      "local_time": "01:12:21",
+      "signal_datetime": "2025-10-17 09:12:01",
+      "symbol": "BLESSUSDT",
+      "action": "OpenShort",
+      "full_content": "BLESSUSDT - 看跌📉 - 🥷猎龙忍者🥷",
+      "current_price": 0.09712,
+      "oi_mc": "0.1（22.6M/1.9亿）",
+      "fear_greed": "正常水平",
+      "hunter_score": "多头出逃（狩猎指数-100）",
+      "trigger_count": "1/3",
+      "spot_fund": "无数据/成交偏低",
+      "futures_fund": "无数据/成交偏低",
+      "errors": [
+        "[2025-10-17T01:12:22Z ERROR rust_trading_bot::binance_client] 设置持仓模式失败: {\"code\":-4059,\"msg\":\"No need to change position side.\"}"
+      ]
+    }
+  ]
+}

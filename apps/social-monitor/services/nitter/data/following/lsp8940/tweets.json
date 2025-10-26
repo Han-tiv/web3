@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1240158860754575360",
+    "screen_name": "lsp8940",
+    "name": "Lsp",
+    "description": "UnicornX : https://t.co/e4S6PAjVkm\nThe singular trading ecosystem, more than a DEX",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1435500502180003844/SyStGjmb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240158860754575360/1737413974",
+    "followers_count": 70438,
+    "friends_count": 1524,
+    "statuses_count": 3088,
+    "favourites_count": 2656,
+    "listed_count": 519,
+    "location": "新加坡",
+    "website": "",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2020-03-18 14:11:46 +08:00",
+    "url": "https://twitter.com/lsp8940",
+    "rest_id": "1240158860754575360"
+  },
+  "tweets": [
+    {
+      "id": "1978774639766811135#m",
+      "content": "转型赌狗了， AL 牛逼，边看比赛，边赌很爽 @Polymarket ,直播互动赌盘很刺激，边赌边刷空投",
+      "timestamp": "Oct 16, 2025 · 10:46 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1978774639766811135#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1978425492064895220#m",
+      "content": "最近花了很多時間研究 10/11 大清算的成因。\n\n對做交易的人來說，控制尾部風險（tail risk） 是最重要的課題之一。只有知道風險從哪裡來，才知道怎麼避險。\n\n目前可以確定的是一些幣種在5:10~5:20之間，流動性突然變得非常差，一直到5:40之後才陸續恢復\n\n對熟悉市場微結構的人來說，這樣的同步撤流是非常不尋常的，因為造市商對盤口深度的維護是有責任的，即便是面臨風險事件，也只能調整參數，降低流動性提供或是擴大點差\n\n如果是一些只有主動造市商的小幣也就算了，一些大幣流動性也直接不見，簡直匪夷所思\n\n而且川普臨時加徵中國關稅，這算得上超大利空嗎？\n\n312, 519, LUNA崩潰、FTX倒閉還有今年2月底更混亂的關稅戰，每一個都比這個事件更極端，哪怕是那些時候，山寨的流動性也沒差到這種程度\n\n再來就是幣安極端的低價\n幣安是最大離岸交易所，正常來說幣安深度最好，造市商陣容也是最齊全的，最不應該有極端價格發生\n\n但這次完全不是這樣\n\n幣安400多個交易對中，有近60%在這次的事件中在同行間的報價是最低的\n\n其中大概有25%交易對的報價，跟第二低的交易所差距在10%以上\n\n其中還不乏一些價格偏離超多的幣：\n\n偏離50–75%:\nACT, AUDIO, COOKIE, DOT, EPIC, FIL, FIS, GHST, HEMI\n\n偏離75–100%:\nHOOK, ICX, MITO, PIXEL, POLYX, QI, REZ, TREE, ZROAXL, BERA, CYBER, DEGO, HIVE, HOME, INIT, JUP, RPL\n\n偏離100%以上:\nANIME, API3, APT, ATOM, BANANAS31, CVC, DEXE, DOGS, ENJ, ENS, ETHFI, FLM, FXS, GMT, IOST, IOTX, KAVA, KERNEL, ME, MUBARAK, ORCA, PUMP, RVN, SAND, SOLV, SUSHI, SYRUP, SYS, TUT, UMA, WIF\n\n如果你把logo遮掉只看K線\n你會以為這是什麼野雞交易所，狗都不用\n但這是幣安啊\n\n為此我還特別去查了過去極端行情的數據\n哪怕是312這種超級 macro 崩盤行情\n幣安也從來沒有這樣過\nbinance-deviation-report.git…\n(分析數據)\n\n而且這事跟 USDe 循環貸也沒關係，大崩盤的低點，早在 USDe 、BNSOL、WVB脫鉤之前就已經發生了\n\n有人說：「幣安的極端低價不影響合約清算，因為永續合約的標記價格會排除偏離太多的報價。」\n這理論沒錯，但忽略了一個關鍵現實——現貨價格發現的外溢效應。\n\n山寨幣的 USDT 現貨交易對，定價權主要在幣安，如果幣安的現貨價格出現失真，其他離岸交易所的 USDT 報價都會被拖偏。\n\n就算永續合約的標記價格並不直接採用幣安的數據，整個市場的價格鏈條早已受到影響——\n標記價只是最後的清算錨，不是價格傳導的起點。\n\n這次 USD 法幣交易對相對穩定。\n以 AAVE 來說在事件當下：\nAAVE/USDT（幣安） 的最低報價為 $79.51\nAAVE/USD（Coinbase） 的最低報價為 $128\n\n兩者價差接近 超過50%。\n這種差距在正常市場中幾乎不可能出現。\n\n而且別忘了，USD 報價其實也會受到 USDT 報價影響——只是影響是被動的，抹平價差的套利者需要時間搬磚\n否則 Coinbase 的報價也不該這麼低。\n\n以上總總\n基本上可以推論，幣安當時的交易系統應該是出大問題了\n可能是造市商以為自己有掛單，但實際上系統根本沒幫他掛上去，或是清算系統出現嚴重錯誤\n\n具體是出什麼問題，到目前為止仍然是黑盒子，根本沒人知道，幣安公告也只以「短暫的交易模組延宕」等模糊字眼帶過\n\n但幣安自己顯然知道理虧。\n否則不會在事後主動發放大筆補貼——\n不然，歷史上哪一次大爆倉幣安主動發過錢？\n這次願意出錢，本身就說明他們知道出了問題。\n\n這當然值得肯定。\n只是這次影響的不只幣安跟BSC用戶。\n整個產業，大戶也好，造市商也好，散戶也好\n全部都被影響了\n\n這件事對整個產業而言，非常、非常嚴重。\n因為幣安的地位，\n相當於傳統金融中的 LSE 或 CME——\nLSE 是全球股權市場的價格發現核心，\nCME 則主導了大宗商品的全球定價體系。\n\n而在加密世界，幣安掌握著 USDT 交易對的定價權。\n如果幣安出了這麼大的問題，而整個產業沒有人問責，甚至連一句公開質疑都沒有，那這個產業基本上也就涼了。\n\n我原本對 Hyperliquid 沒有太多看法，但現在開始覺得，鏈上可能才是唯一的解。離岸交易所的監管力度不可能太強，而至少在鏈上，如果系統出問題，大家能找到原因，不需要對著一個黑盒子猜半天。",
+      "timestamp": "Oct 15, 2025 · 11:39 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1978425492064895220#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1976818843172663353#m",
+      "content": "归零过很多次，但是每一次都很伤，但是生活还要继续，加油吧",
+      "timestamp": "Oct 11, 2025 · 1:15 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1976818843172663353#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1976662515141804049#m",
+      "content": "以为超募所以上了 1 M. 慌得要死，现在回头看都是阴谋了，几个 sol 的老大哥都出来吹了，11点就开盘 tge 了，亏一点都能接受",
+      "timestamp": "Oct 10, 2025 · 2:54 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1976662515141804049#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1976635082569105655#m",
+      "content": "看错了信息， @MetaDAOProject  的 IDO项目，⚠️ 和之前鹦鹉有点像，项目方可以把超募的钱都拿走，但是不同的是每个月有限额，目前募资超过  100 倍，以为是阳光普照所以投了很多，看清规则以后现在只希望项目方对我善良了 @UmbraPrivacy",
+      "timestamp": "Oct 10, 2025 · 1:05 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1976635082569105655#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1976135851601174969#m",
+      "content": "其实很佩服，OK 的产品确实币圈无敌，但是持币体验方面确实恶心，曾经是 OKB OKT的万币侯，基本推的生态的东西基本都没有善始善终，OKB 我也是买了一年多最后受不了割了，用 300 的 BNB 换到了50 的OKB，拿了小一年55卖了，用户对于 OKX 的预期不只是产品，可能因为合规这些原因，不能做，这个都不存在平衡，直接是没有，可能长期是对的，但是既然这么决定，这么多持币用户肯定是不舒服的，没办法，欲承其冠，必承其过，也真心感谢 OKX 对真的去中心化的贡献，如果没有 OKX,现在的链上繁荣要推迟几年",
+      "timestamp": "Oct 9, 2025 · 4:01 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1976135851601174969#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1976111175298687247#m",
+      "content": "每天起来拉香香 ，感恩昨天的食物",
+      "timestamp": "Oct 9, 2025 · 2:23 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1976111175298687247#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1976101913025446345#m",
+      "content": "刚好起来拉香香，看到 $AB 归零，想着买点，一直买不进去，买进去就涨起来了，没有60倍，正常人只是撸一点点",
+      "timestamp": "Oct 9, 2025 · 1:46 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1976101913025446345#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1975939369430327747#m",
+      "content": "大家都过上了币安人生，就我还在 bybit 监狱，不过 $MNT 表现还行，收购的银行也在努力，站内也在推手续费减免，赚不到 meme 的钱，好在手里的币也开始懂事了，正心正念，不焦虑",
+      "timestamp": "Oct 8, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1975939369430327747#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1974432983710151144#m",
+      "content": "已上车",
+      "timestamp": "Oct 4, 2025 · 11:14 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1974432983710151144#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1973993167033716808#m",
+      "content": "S15  决赛见",
+      "timestamp": "Oct 3, 2025 · 6:07 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1973993167033716808#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1973382139317010705#m",
+      "content": "火到网站都挂了，离谱 @legiondotcc \n手动打了一个号，感谢猪脚饭",
+      "timestamp": "Oct 1, 2025 · 1:39 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1973382139317010705#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1972634038205862040#m",
+      "content": "出门在外靠兄弟 @Luyaoyuan1 \n机器人赛道在 web2 比较火，什么时候烧过来 \n@xmaquina",
+      "timestamp": "Sep 29, 2025 · 12:06 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1972634038205862040#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1972466700508668337#m",
+      "content": "现在各种项目要钱存，挖矿 APR 也高，精力不够，资金也不够，容易忙活到最后钱的流动性锁死，最后钱又没赚到，建议：\n\n1️⃣超过1个月锁仓的别玩\n2️⃣没有较明确 TGE 时间别玩（流动性这么好的时间，有实力的项目不会等）\n3️⃣没有背景的别玩\n4️⃣ 创始人有黑历史的谨慎\n5️⃣ 太贪心，没限额的少碰\n\n考虑机会成本，接下来一两个月项目和机会肯定是不缺的，且撸且珍惜",
+      "timestamp": "Sep 29, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1972466700508668337#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1972185604139122689#m",
+      "content": "功成身退，不需要去证明什么，相信的人还是会相信，好兄弟还会是好兄弟，19 年链游公会到现在，还联系的真的不多了，希望大家都好",
+      "timestamp": "Sep 28, 2025 · 6:24 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1972185604139122689#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1972132822015266974#m",
+      "content": "写在 @Plasma  主网上线第三天，无关价格，不建议 fomo\n\n时至今日，$XPL 价格稳在 1.6附近，OI 1.86B , TVL 超过 7B ，历史上 TVL 增速最快的链，历史上最大范围的空投之一，也是收益最高的空投之一，最佳理财项目\n\n对于普通用户来说，@plasma 开启了 U 转账 0 手续的时代，链上支付的远景更进一步，对于项目方来说，链上的流动性充足，热度高，是目前做链上产品的最好选择之一,目前还只有 DEFI 的组件和 meme ，可能后面还有现在最火的 perp，rwa，ai 本身在生态的版图里就有，可能是目前为止，主网上线后生态最快建立的一条公链了，超越一众交易所爸爸的公链，xlayer ,bsc，tron ，在绝对的数据面前，马太效应会让强者更强\n\n生态初期，已经初具规模，目前比较期待 U 卡，10%+的 APR 已经达成，4%的消费返现，和支持更多的支付场景，这个很期待，出来的话，可能很多资金就会一直呆在这条链上的，可以赚钱，可以消费，链上流动性资产最好的银行链，只要能交付的话 ，PPT 内的愿景一个一个被实现的时候，就不是之前那些数据刷完以后就一地鸡毛的天亡项目了\n\n个人已经在 1刀 1.2刀把短期需要盈利的仓位都落袋了，剩下的仓位是和道友一起修仙的，一切奶可能都是为了出货，只有数据是真的，哪天 OI ，流通发生巨变的时候就开始反水骂他，目前无论是数据，还是节奏把控的都很好，奶是为了自己不太快卖掉，因为持有所以每天给自己洗脑，正心正念，等待结婴",
+      "timestamp": "Sep 28, 2025 · 2:54 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1972132822015266974#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1971962682229379139#m",
+      "content": "USDT0 就是 USDT ， @binance 支持了直接  @Plasma 充值 USDT0 回去，很方便了，不需要手续费, 上次 @trondao 转账一次花了7刀心疼死了，这种惠民的基础设施确实会改变一些什么东西的，时间会说明",
+      "timestamp": "Sep 27, 2025 · 3:38 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1971962682229379139#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1971774939322896606#m",
+      "content": "感谢邀请 @mia_okx \n\n每年弄的邀请函都是最好看的",
+      "timestamp": "Sep 27, 2025 · 3:12 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1971774939322896606#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1971733627584311787#m",
+      "content": "又一个拿了3年多的币，以为归零了，也是赶上好时候了",
+      "timestamp": "Sep 27, 2025 · 12:28 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1971733627584311787#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1971345031266173007#m",
+      "content": "睡醒真吓人，昨天开盘 0.7 一颗没卖，1 刀止盈部分， OI 流通占比持续增加，量价齐升，holder 的胜利，不管爹是谁， @PlasmaFDN  自己交的答卷都足够好了",
+      "timestamp": "Sep 25, 2025 · 10:44 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1971345031266173007#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1971223156691259485#m",
+      "content": "建议马上开挖，100%  APR的矿遍地都是\n@PlasmaFDN  的 TVL 应该轻松 5 B\n\napp.merkl.xyz/?chain=9745\n\n晚挖一分钟，少赚 60 s\n\n一条有生态的链，第一天遍的矿，随便挖",
+      "timestamp": "Sep 25, 2025 · 2:39 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1971223156691259485#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1971190051381051741#m",
+      "content": "稳定币的牛市，Farmer 的港湾 @PlasmaFDN",
+      "timestamp": "Sep 25, 2025 · 12:28 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1971190051381051741#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1971093993816719560#m",
+      "content": "流通 14% 左右，按目前的市值 8B ，1.12 B 流通，OI 680M，持仓占流通量比超过 60%，应该是新币中叙事最强，资源最好，上所规模最大的项目之一了 @PlasmaFDN ，互道傻逼的时刻，从开始到现在已经远超预期，祝大家发财",
+      "timestamp": "Sep 25, 2025 · 6:06 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1971093993816719560#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1970671089044029716#m",
+      "content": "屁股决定脑袋，我有仓位，坚定看好 @PlasmaFDN",
+      "timestamp": "Sep 24, 2025 · 2:06 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1970671089044029716#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1968662001741144210#m",
+      "content": "终于要来了",
+      "timestamp": "Sep 18, 2025 · 1:02 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1968662001741144210#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1967154276125532624#m",
+      "content": "一直挺看好 @DelphinusLab ，买了一直也没卖过，也不太担心短期涨跌，单纯支持，不做投资建议",
+      "timestamp": "Sep 14, 2025 · 9:11 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1967154276125532624#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1966071047616344361#m",
+      "content": "从 $ava 开始关注，母币 @HoloworldAI  上了，投了一些， @binance  + @Official_Upbit  应该会有一个好结果",
+      "timestamp": "Sep 11, 2025 · 9:27 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1966071047616344361#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1965986659700453745#m",
+      "content": "1.1 的时候是不信的，1.5的时候又开始信了，$MNT 虐我千百遍，最近 @Bybit_Official 加了很多 MNT 交易对，然后昨天又有一些稳定币方面的动作，整体来说，就是涨了，然后不争气的又开始信了",
+      "timestamp": "Sep 11, 2025 · 3:52 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1965986659700453745#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1962812314761220348#m",
+      "content": "技术的安全，比不上有钱的爹，唯一个有无限命的借贷协议，某种意义上的绝对安全，被盗了也一点不用慌，又不是没被盗过",
+      "timestamp": "Sep 2, 2025 · 9:38 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1962812314761220348#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1962810247854350748#m",
+      "content": "借贷首选\n2025年了，被盗的还是他 @VenusProtocol ，但是他还是有钱赔，一个协议，有个不缺钱要脸的爹太重要了,已经不知道多少次被盗了，币圈唯一",
+      "timestamp": "Sep 2, 2025 · 9:30 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1962810247854350748#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1961465076290142609#m",
+      "content": "格局了",
+      "timestamp": "Aug 29, 2025 · 4:24 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1961465076290142609#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1961445199529259097#m",
+      "content": "感受一下，1541 天都是这么过来的，每次相信 $MNT 做人了，都会让你感受到畜生改不了的，说点好话哄哄我，冲进去就是一发，爽了项目方 @Mantle_Official ，痛都给自己，今天七夕，提醒大家不要相信满嘴蜜饯的狗男人",
+      "timestamp": "Aug 29, 2025 · 3:05 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1961445199529259097#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1961072518720278981#m",
+      "content": "现货不怕 @PythNetwork",
+      "timestamp": "Aug 28, 2025 · 2:24 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1961072518720278981#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1960480634591437123#m",
+      "content": "早上被敲门弄醒的感觉有点吓人,  @HyperliquidX  上 $XPL 爆拉到 1.8 套宝的应该死了大部分，上线开始 HL 的价格一直比 BN 高，很奇怪，套费率的 APR 有大几百，持续了好几天，一直不知懂为什么，这就给了答案，确实有点恐怖\n\nhyperdash.info/zh-CN/trader/…",
+      "timestamp": "Aug 26, 2025 · 11:13 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1960480634591437123#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1960295088615277047#m",
+      "content": "Bn 存款性价比确实不高了，2.5亿分1%变成10亿分1% ，apr变成原来的1/4,主网上线前 @PlasmaFDN 已经有 20 亿美金的存款了，主网上线后，只要 APR 稳在 10-20% ，并且开放存款限制， @aave @pendle_fi  也官宣合作了，后面可能是一个理财的好选择之一",
+      "timestamp": "Aug 26, 2025 · 10:55 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1960295088615277047#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1959526321954197625#m",
+      "content": "关于 @PlasmaFDN ， $XPL 现价 0.57，周期 4个月\n第一波存款 500M 1万U  得 530U ，回报率 60%+\n第二波存款 500M 1万U  得 430U ，回报率 49%+\n公募阳光普照 1万U 分 6U左右，3天薅羊毛\n$XPL 现价 0.57, 持仓超过 200M，开盘流通 18%\n10% 是公募，剩下8% 是团队的，持仓/流通市值的占比一直在升高，不知道谁在一直买，也不敢套，不知道对手是谁，也不懂有没有不知道的信息，目前的结果远超预期，今年的大额理财最佳选择之一",
+      "timestamp": "Aug 24, 2025 · 8:00 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1959526321954197625#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1959061440264118572#m",
+      "content": "实打实的技术团队遇到 @unicornverse_io  @unicornxdex  伯乐，有梦想有能力的团队很多，但是这个行业纯靠梦想是走不通的，除了本身的能力以外，需要一些外力，这个外力需要有共同的价值观，才能让一个团队能继续为自己的目标走下去， @sinka2022  和  @A_unicornverse 都是我很认可的人，很高兴千里马遇见伯乐，会有什么化学反应时间会证明",
+      "timestamp": "Aug 23, 2025 · 1:13 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1959061440264118572#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1958842709969658303#m",
+      "content": "再次恭喜 @PlasmaFDN  目前上了 @binance  @Bybit_Official  @HyperliquidX  合约，价格0.5左右，参与的朋友应该本金 40%-50% 左右的收益，今年最好的理财之一\n\nwhales 上还有一些卖单，可以买了套保，具体风险和收益可以自己看看\npro.whales.market/pre/Ethere…",
+      "timestamp": "Aug 22, 2025 · 10:44 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1958842709969658303#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1958825523423191468#m",
+      "content": "相信 @unicornxdex",
+      "timestamp": "Aug 22, 2025 · 9:36 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1958825523423191468#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1958541485793792358#m",
+      "content": "2年前就推荐过大家关注 @DelphinusLab , 团队一直技术能力是数一数二的，但是缺点就是市场运营能力极差，几乎没有，但是一直在 ZK 赛道摸爬滚蛋，可能大家知道的很多天王顶级项目都有他们的技术支持，$ZKSWAM 确实很优质，团队有点过于老实，所以也主动的支持了几次，不是广告，只是这个行业确实老老实实 build 几年的人太少了，这次 @unicornxdex  call 了，项目我觉得问题不大，ZK 赛道只要还有，他们应该就会继续干下去，价格的话，长期来看都还好",
+      "timestamp": "Aug 21, 2025 · 2:47 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1958541485793792358#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1958506866364829938#m",
+      "content": "基本每次 AMA 都有财富密码，可以多关注",
+      "timestamp": "Aug 21, 2025 · 12:29 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1958506866364829938#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1958142597672898612#m",
+      "content": "单号 10万 \n限额 2500号\n锁60天\n刮分 1%\n稳赚局",
+      "timestamp": "Aug 20, 2025 · 12:22 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1958142597672898612#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1958140621123957214#m",
+      "content": "恭喜 @PlasmaFDN  \nAPP 入口：\n点击公告 ➡️ Plasma USDT 定期产品\n\n额度很少，现货确定了，感兴趣速冲",
+      "timestamp": "Aug 20, 2025 · 12:14 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1958140621123957214#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1958033550940197198#m",
+      "content": "稳定币大战，交易所大战\n会是新一轮的 DEFI 吗？\nCEX + 稳定币 的补贴战开启",
+      "timestamp": "Aug 20, 2025 · 5:09 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1958033550940197198#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1957654715065581891#m",
+      "content": "最近又有两个项目可以存钱\n@capmoney_   \n@USDai_Official \n稳定币相关，积分制，周期 6 个月左右，个人都没上，都有比较好投资背景 PUA ，稳定项目最近真的太多了\n\n@PlasmaFDN \n@stable \n@arc  \n@stripe 和 @paradigm 弄的 tempo（还没推特）\n@FalconStable \n@worldlibertyfi \n\n每个稳定币项目都需要 TVL 唬人，所以可以存钱的地方太多，想存钱的话，最好协议本身有基础的收益，积分是用来 PUA 的，这个见仁见智，一两个月内 APR 机会很多, @ethena_labs 的 $USDE 循环贷 APR 有 50-60%，稳定币的战争悄然展开，不能赚钱的稳定币不是好稳定币，平衡流动性和收益，能薅多少算多少",
+      "timestamp": "Aug 19, 2025 · 4:03 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1957654715065581891#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1957281849321136246#m",
+      "content": "随手写的，漏了 @base (交易所公链) 和 @HyperliquidX  交易功能链",
+      "timestamp": "Aug 18, 2025 · 3:22 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1957281849321136246#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1957274104798789971#m",
+      "content": "关于新链拓荒\n\n现在很少玩新的链了，在 DEFI 时期，一条新的链，只要押中了 Dex 借贷  , 大资金能很容易翻倍，或者数倍，代表是 @cronos_chain ，第一周因为 KYC 帮人手动垮了 600 BTC +的量，小群 20人 应该平均 500k 收益以上，DEFI 时期过了以后，就是 铭文和 meme了，本质其实都差不多，注意力经济，没有很多机制和玩法的创新\n\n最近新的公链少了，融资少了，上线少了，大家已经放弃了要杀死 ETH 的幻想，生态和资源大部分和传统一样，先来后到，这么多年下来，也就 SOL 和 BSC 相对成功，这里面背靠的是完整的 交易所的生态体系，一般的公链是根本做不到这个程度的，链需要造富效应，而且是长期的造富效应，生态的建设者需要有机会套现，目前套现的最好方式，还是卖币，当一条链没有顶级交易所的上币权，那么我等韭菜就看不到大的赚钱机会\n\n以前我们看 TVL ，看 tx 数，看交易量，在空投机制下，这些数据的真实性有一定的争议，但是链上的数据都是有一定的成本的，或人力或资金，所以看起来没人没钱的链一定不用玩， @SuiNetwork  是这两年唯一一条走出来的，一开始我就参与了，最早期喊了 @CetusProtocol , 当时的生态真是一言难尽，整个生态除了 cetus 好像没有正常人，后续靠 TVL 补贴，OTC 拉升币价，以及数个生态项目上线顶级交易所，所以产生了共识，但是 sui 本身有啥东西，应该很多人说不出来，除了拉盘很猛还有啥\n\n在历经无数条公链的的发展以后，大家也认识到了一点，一条贵的公链不一定有，即使有，可能也大部分在 TGE 之前，所以也很少听到杀手之类的话了，公链的性能已经只能是入场的及格分，无法作为亮点了，所谓的生态在现有的用户画像下很难做到，那么路都死了怎么走？\n\n最近的公链融资，已经在找自己的定位了，也就是能做什么，典型的就是  @PlasmaFDN  @stable  还有 @stripe 要弄的 tempo ，都瞄准支付这个方向，包括 @XLayerOfficial @Mantle_Official  也是， @trondao 是我知道唯一不靠交易所，不靠 DEFI ，活得这么好的公链，当然 @justinsuntron 孙哥是劳模，每个热点都参与了，但这明显不是 $trx 核心过得这么好的原因，链上 40% 的 gas fee 来自于稳定币的转账，所以基于这个点，大家开始想杀死 TRON 了，或者是抢占份额，战况应该会在未来一年内能看出胜负，最终还是看链上的数据， 嘴说的没用，至于其他的公链是干什么的，我感觉就算能说的出，基于自身资源也很难做得到，现在无非 RWA , AI , ZK， 如果链本身不懂自己的资源优势在哪，能做什么和要做什么，能成功的概率很低\n\n@XLayerOfficial  因为之前玩了 okc 和 okt ，这次有点 ptsd 了，上周看推特感觉错过了几个亿，今天看了下数据，感觉没玩可能是对的，很难相信 @star_okx 会花很大的精力去做生态，而不是聚焦支付和一些真正的应用上，meme 撑不起整个生态，链需要有自己的定位，并且真的有用才能活的下来，继续往下看看",
+      "timestamp": "Aug 18, 2025 · 2:51 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1957274104798789971#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1956897206356840560#m",
+      "content": "用 AI 分析了一下 $MNT ,希望 Chatgpt 不要骗我\n不知道 VIP 99 的奢享定制礼物是啥 @Bybit_Official",
+      "timestamp": "Aug 17, 2025 · 1:53 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1956897206356840560#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1956643621509214327#m",
+      "content": "发展的很踏实，市值也很稳\n@unicornxdex  小群里发过回报率最高的 ticker，感恩 $tag ，也恭喜拿住的老哥",
+      "timestamp": "Aug 16, 2025 · 9:06 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1956643621509214327#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1956323040884822283#m",
+      "content": "写在 $MNT 被套的 1527 天\n\n最近 @Mantle_Official  和  @Bybit_Official 发布 2.0，然后 AMA 了几次，最近价格从 0.6 到了 1.05左右 几乎翻倍，这个升级简单来说就是除了绝对不承认 $MNT 是平台币以外，享受可能，注意是可能是平台币名份的所有权益，有点像小三的感觉，手续费回购，理财扶持，U 卡权益，打新福利之类的，RWA 那块等做出成绩了以后再说，U 卡买了银行以后有做尝试，但是目前一般，不过平台的 U 卡很好用，推荐过很多次\n\n我是被骗怕了，4年多了都，不过这次换领导了，价格昨天大跌的时候也比较硬，不知道还能不能再信一下，承诺了不少东西，如果一个个落地的话，感觉我的在牢宝贝可以逃出生天，目前马上被套成 至尊 VIP",
+      "timestamp": "Aug 15, 2025 · 11:52 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1956323040884822283#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1956262889079366060#m",
+      "content": "虽然没买在低点，但是还是小赚了一些，恭喜参与的老哥，手上的其他的币昨天经过了一波洗礼，unicall 巍然不动",
+      "timestamp": "Aug 15, 2025 · 7:53 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1956262889079366060#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1955863290506277274#m",
+      "content": "AMA 有惊喜",
+      "timestamp": "Aug 14, 2025 · 5:25 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1955863290506277274#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1955083334893084878#m",
+      "content": "中文区讨论的比较少，目前参与公募场外 6 倍有成交\n@aave  @pendle_fi + 1B 的 @USDT0_to ，DEFI 的组件已经有了，预计 9 月 TGE ，等待一个好结果\n\npro.whales.market/pre/Ethere…",
+      "timestamp": "Aug 12, 2025 · 1:46 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1955083334893084878#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1954759033136796090#m",
+      "content": "这个没啥风险，傻瓜理财首选了",
+      "timestamp": "Aug 11, 2025 · 4:17 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1954759033136796090#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1954323795067671013#m",
+      "content": "投过 $soon 的记得去领一下解锁，昨天 @woodycryptow 提醒了一下，才想起来还有这回事，开盘加上这波就基本回本了，感谢 @soon_svm @Ru7Longcrypto  ，我以为项目方已经别墅嫩模不管了， @MYX_Finance  也很意外的做人了， @Mantle_Official  $MNT  慢慢的也开始回本了，套住你的你，拿3年真的有机会回本，感恩，只要买币不想着赚钱，每次回本的时候都格外开心",
+      "timestamp": "Aug 9, 2025 · 11:27 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1954323795067671013#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1953764456758227241#m",
+      "content": "恭喜拿住的朋友 $TAG  ATH",
+      "timestamp": "Aug 8, 2025 · 10:25 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1953764456758227241#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1953637229949338022#m",
+      "content": "最近 @Mantle_Official 高层换成了 @Bybit_Official 的管理层，一周拉了一倍，链上数据好起了，推特感觉多了一万个人奶，据说在逃太子要入主东宫，目前除了质押和收购了一个银行以外没有看到太多东西，狗庄拉的我又要开始相信了，希望这波迟到的理财这次能有个好的结果",
+      "timestamp": "Aug 8, 2025 · 1:59 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1953637229949338022#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1953467546646053161#m",
+      "content": "下注的朋友 恭喜了",
+      "timestamp": "Aug 7, 2025 · 2:45 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1953467546646053161#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1953354069130789198#m",
+      "content": "小道消息基本就在 @unicornxdex 的社群里发发， $play 运气好晚饭能加个蛋了",
+      "timestamp": "Aug 7, 2025 · 7:14 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1953354069130789198#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1952988264543207544#m",
+      "content": "感觉交易所的 KYC 越来越麻烦，刚把 OKX 的给过了，正常一次性过不了，资金证明这玩意对于我等良民真的有一定难度，最后用了银行账单和bn的结账单过的，这块的选项方面什么赠予之类的我感觉正常炒币的赌狗怎么会有，我发了一封邮件说就这么多文件了，不行我就注销了，然后就过了，希望这块体验能好点  @star_okx  @Haiteng_okx",
+      "timestamp": "Aug 6, 2025 · 7:01 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1952988264543207544#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1952936485344428426#m",
+      "content": "维权成功了算是，第三批项目方直接给 U ，应该就这一两天，赚钱就不求了，老老实实的，补偿的空投抛压没了，对于在做合约的老哥不知道是好消息还是坏消息",
+      "timestamp": "Aug 6, 2025 · 3:35 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1952936485344428426#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1952878306069786966#m",
+      "content": "在逃公主要回家了？\n$MNT 被套的第4年56天迎来了曙光",
+      "timestamp": "Aug 5, 2025 · 11:44 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1952878306069786966#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1952677049367495146#m",
+      "content": "听说大家 @MYX_Finance 发财了，我翻了一下钱包，帮你们缓解一下焦虑",
+      "timestamp": "Aug 5, 2025 · 10:24 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1952677049367495146#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1950426902411563187#m",
+      "content": "关于 @TaggerAI  ，6月初的时候第一次在小群喊人买，现在大概 3倍附近，最近动作比较多，可以保持关注一下，自己买了一些，中间有波段，现在这个价格，还是比较看好\n1️⃣ FAIRLAUNCH，POW ，WEB2 数据标记挖矿\n2️⃣ 项目方有在做事，一直在接 WEB2 的单，积极上所\n3️⃣ 持币体验不错\n4️⃣ @unicornxdex UNICALL 币种\n\n社区版 @SaharaLabsAI  这么理解比较好，预期还是比较高，更多的东西在 @unicornxdex  的小群里分享，非商单，非项目方，持币小户赚钱了感恩奶奶，不做投资建议",
+      "timestamp": "Jul 30, 2025 · 5:23 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1950426902411563187#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1950386380309443064#m",
+      "content": "时间确实麻木了伤痛， FTX 比较可惜，我用的全是别人的 KYC ，加上 大部分都是 $FTT $MATH 之类的资产，所以感觉没有希望一直没有跟进，FTX 干得确实不是人事，还有钱没有拿回来的老哥加加油， @zhetengji  will 哥一直很努力，希望最后你们钱能弄回来",
+      "timestamp": "Jul 30, 2025 · 2:42 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1950386380309443064#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1949811885496492401#m",
+      "content": "可恶的有钱人, 290 M 抢 270 K 的额度，每万 U 分 9 U，不用玩了",
+      "timestamp": "Jul 28, 2025 · 12:39 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1949811885496492401#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1949450225392975937#m",
+      "content": "最后 24 小时了 @PlasmaFDN ，总投入快 120M, 47.75 M 有效，额外的 72 M 刮分 2.25 M 左右的额度，1 万 U 刮分接近 300U 目前，感觉最后可能是 1 万 U 刮分 50 U 左右的额度，讨论的人不多，但是参与的钱很多… ，有 KYC 的可以最后一小时去理财一波",
+      "timestamp": "Jul 27, 2025 · 12:42 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1949450225392975937#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1948587649335468202#m",
+      "content": "需要 KYC 才能参与最后的阳光普照，app.echo.xyz/account/entitie…",
+      "timestamp": "Jul 25, 2025 · 3:34 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1948587649335468202#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1948583810192580960#m",
+      "content": "还剩最后 3 天左右，可能最后一天有 10% 左右的额度不被认领，这部分就是阳光普照的逻辑了\n\n参与总额 - 50M*（1 - 剩余百分比）=参与阳光普照的份额\neg：最后10%未分配，参与资金100M,\n100-50*（1-90%）= 55 M 按占比分配 5 M的额度\n\n获得份额 = 分配额度+阳光普照额度\n\n最后 24 小时可以关注 @PlasmaFDN  剩余额度，然后存钱进去走一圈，之前存钱的人额度是一万 u 存 3个月（预估）有 450 U 额度，可能最后参与的人还不止这个配额",
+      "timestamp": "Jul 25, 2025 · 3:19 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1948583810192580960#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1945842731236167934#m",
+      "content": "良心平台 ，支持",
+      "timestamp": "Jul 17, 2025 · 1:47 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1945842731236167934#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1945840574248190308#m",
+      "content": "听说很多老哥北卡 kyc 人脸了，我尝试泰国驾照和 bvi 可以过，之前过不了，突然就可以了，建议可以抓紧尝试，认购的时候有显示可以投入多少钱，然后commit 可以多次，不用太着急，祝大家 @PlasmaFDN 发财",
+      "timestamp": "Jul 17, 2025 · 1:38 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1945840574248190308#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1945654506437685507#m",
+      "content": "看大家说 $BONK 涨疯了 \n搜索一看还没回本\n加油，争取能让我收个10%的 apr",
+      "timestamp": "Jul 17, 2025 · 1:19 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1945654506437685507#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1945644388962439412#m",
+      "content": "美股港股税务问题",
+      "timestamp": "Jul 17, 2025 · 12:39 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1945644388962439412#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1945517564181852328#m",
+      "content": "A Letter from the Heart\n\nToday, I’m not writing to you as an investor from UnicornX @unicornxdex \nI’m writing simply as someone who genuinely cares—about this journey, about this community, and about you.\n\nI read the announcement from UnicornX,\nand like many of you, I was overcome with a wave of emotions: gratitude, regret, hope, and a deep sense of responsibility.\n\nThe reason we began the Unicall journey was never to chase the spotlight.\nNot to create noise. Not for fleeting attention.\nWe set out to build something lasting—\nsomething real, something trustworthy,\na space where trust matters more than traffic,\na place where people are not seen because they shout the loudest,\nbut because they believe the deepest.\n\nSo yes, the volatility of $MORE @Moonveil_Studio after the latest Unicall—\neven though it remains within an upward channel above the call price—\nstill deserves to be acknowledged.\nAnd I want you to know: in the moments of uncertainty, the anxiety, the struggle—\nyou were never alone.\nWe feel it too.\nAnd even more than that, we are actively working behind the scenes to protect those who continue to believe in Unicall.\n\nI see you.\nThose who held on.\nThose who chose to believe even when it was hard.\nThose who are holding not just tokens—but trust.\n\nI can’t promise that every Unicall will be perfect, or shine with brilliance.\nBut I can promise this:\nEveryone who chooses to believe—will not be left behind.\nUnicorn Verse @unicornverse_io  is here.\nTo walk with you with capital, to build with you in faith, to respond with action.\n\nThe reward plan UnicornX announced today is not just a form of compensation.\nIt is a reminder—\nthat anything worth building must begin with trust.\nAnd any trust worth having must be honored with care.\n\nMay today not just be a moment of reflection,\nbut a point where we pause, realign, and recommit.\nWe are growing, evolving, and learning—together.\n\nTo those quietly believing,\nplease know: your trust is seen.\nIt will not go unnoticed.\nAnd the most beautiful chapters—\nthey are still waiting to be written.",
+      "timestamp": "Jul 16, 2025 · 4:15 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1945517564181852328#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1945085909587660993#m",
+      "content": "强烈谴责",
+      "timestamp": "Jul 15, 2025 · 11:39 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1945085909587660993#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1944955219865166178#m",
+      "content": "建议 Alpha 挖矿的兄弟收手了，我感觉@binance 再瞎也能注意到狗逼项目方在利用他们的机制捞用户的钱了，@cz_binance  @heyibinance 建议整治一下，从规则逻辑上，这类项目一个是为了LP手续费，一个是为了预期上所，LP手续费是因为现在的积分逻辑，我感觉阶段性积分达到效果了，变一变会更好",
+      "timestamp": "Jul 15, 2025 · 3:00 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1944955219865166178#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1944731249416835124#m",
+      "content": "团队还有在努力 我还有 $AVA 被套着",
+      "timestamp": "Jul 14, 2025 · 12:10 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1944731249416835124#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1943684443128168917#m",
+      "content": "看了下 $BNANAS31  我也喊了，不过是踏空了，错过了，下一个更好",
+      "timestamp": "Jul 11, 2025 · 2:50 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1943684443128168917#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1943141786857439590#m",
+      "content": "众所周知，我被 @Bybit_Official ，@Mantle_Official  套了很久了，现在他们搞了新业务了，一个新的 U 卡 @URNeobank ,可以关注一下吧，合规成都应该是比较高的，特色的话应该是能看到 rmb ，目前无法直接转账到银行之类，充值的时候扣掉这个费用，消费的时候就直接不扣了",
+      "timestamp": "Jul 10, 2025 · 2:54 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1943141786857439590#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1943127656146571617#m",
+      "content": "开了分享群，偶尔交易一点阴谋\n\nunicornx.ai/app/g?id=1&t=486…",
+      "timestamp": "Jul 10, 2025 · 1:58 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1943127656146571617#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1942944908719099904#m",
+      "content": "简单说一下 Alpha 刷量狗庄赚钱的逻辑\n\n阶段1️⃣\n项目方一开始只有币，已经上了 Alpha，这个时候加入一部分 U 和 代币 做流动性，一般现在时 0.01% 的 V3 LP 池，V3 的逻辑和 V2不同，V2是需要50%/50%的币+U,但是 V3 可以是99%的币+ 1%的 U\n\n阶段2️⃣\n单流动性注入完成，项目方可进行的操作是，在最小区间内加入一笔流动性，然后在最小区间内交易一笔，继而卖掉，再撤出流动性，完成刷量，这个操作可以让成本降到最低，同时此时 LP 的 APR 会暴涨，比如大家现在常见的40亿交易量 400% apr （只有最小区间可以享受到）\n\n阶段3️⃣\n用户看到 APR 了，动了歪心思，想要分一杯蛋糕，就会去买币然后在最小区间添加流动性，这样就可以分钱了，聪明的矿工，写好的全自动程序，时刻监控 LP 的异常，最简单数据是 LP 内的 U 或 BNB 余额，如果有异常，立刻把币换成 U 跑路，其他老实人就是比反应，这就是之前提过 1 分钟内得操作完，这个其实已经算很慢的了\n\n阶段4️⃣\n基于上述，项目方怎么拉盘，撤流动性，引起恐慌，然后 外部的 LP 看到狗庄跑了，恐慌撤出，这个时候，币全是自己的，把手续费和之前出货的一些利润拿来拉盘，继续单边流动性，重复阶段1️⃣,有兴趣的可以研究一下 $BR 的拉盘前后大额的地址\n\n目前影响的外部因素还有，bn 刷量不给分了，项目上现货了，alpha的空投奖励少了，这些都会导致刷量不可持续了，因为驱动的引擎，来自于现在 alpha 积分的兑换价值，这个是最基础的原理，如果看不懂的话，真的不建议送钱了\n\n另外不要听项目方说了什么，先看看钱去哪里了，那么自然知道你想知道的，币没了，全剩 U 了，然后哭给你看",
+      "timestamp": "Jul 9, 2025 · 1:52 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1942944908719099904#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1939542020214948269#m",
+      "content": "警报解除 数据回来了",
+      "timestamp": "Jun 30, 2025 · 4:30 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1939542020214948269#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1939528027521921301#m",
+      "content": "交易量数据暴跌了，不确定是不是BUG，项目方 LP吸血数量，假设数量不给分，LP的收益会暴跌，项目方也会跑，$BR 目前 70M LP ，注意风险",
+      "timestamp": "Jun 30, 2025 · 3:34 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1939528027521921301#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1938241177968623689#m",
+      "content": "中国式买车… 这尼玛真离谱\n小米能把车卖成抢手机一样，太狠了，我感觉我没 5s 吧钱付了对不起自己一样",
+      "timestamp": "Jun 26, 2025 · 2:21 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1938241177968623689#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1938090924783046878#m",
+      "content": "关于 Alpha 挖矿\n\n收益是很高的，但是不建议没有基础的人玩，基础指的是有 LP 经验，有监控 LP，有朋友一起盯，仓位能控制好，不懒的兄弟，可以尝试，这种小额赚不到钱，大额放进去，请保证自己有 1 分钟内逃跑的执行力，对自己的钱负责，要足够理性，不然多贪一小时，可能是一辈子挖不回的本金",
+      "timestamp": "Jun 26, 2025 · 4:24 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1938090924783046878#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1937866611781955766#m",
+      "content": "冲冲冲\n $TIGR",
+      "timestamp": "Jun 25, 2025 · 1:32 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1937866611781955766#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1937694170912817382#m",
+      "content": "已卖飞，要变成 bsc 龙头 meme 了",
+      "timestamp": "Jun 25, 2025 · 2:07 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1937694170912817382#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1937138877640417713#m",
+      "content": "去年朋友介绍投了一波，之后再也没出手了，希望加油",
+      "timestamp": "Jun 23, 2025 · 1:21 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1937138877640417713#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1936055207529709785#m",
+      "content": "套了小一年，终于解套了 \n#COIN",
+      "timestamp": "Jun 20, 2025 · 1:35 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1936055207529709785#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1935540236542771426#m",
+      "content": "道心崩坏了，65的时候觉得贵，200想买了 \n#CRCL",
+      "timestamp": "Jun 19, 2025 · 3:28 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1935540236542771426#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1935357959149965435#m",
+      "content": "labubu  3.0 今天放货特别多，盒机的是不给退款的，黄牛抢了一晚上手都酸了，9.25 发货的价格快破原价了，快跌跌让我买点便宜的娃娃，制造恐慌抄底了",
+      "timestamp": "Jun 18, 2025 · 3:24 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1935357959149965435#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1935348208580051286#m",
+      "content": "完全没看到人玩 @fragmetric ，但是有人在买，虽然 100% tge ，但是估值我个人觉得很高了，也有投，也有质押，希望有个好结果，虽然预期已经放很低了",
+      "timestamp": "Jun 18, 2025 · 2:45 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1935348208580051286#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1934832535802138749#m",
+      "content": "好巧不巧，今天刚收到周边\n感谢 @0xsexybanana",
+      "timestamp": "Jun 17, 2025 · 4:36 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1934832535802138749#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1934830446820643122#m",
+      "content": "从 @0xinfini  内测的时候就在用了，第一次用的时候谷歌都登陆不上，到后面基本需要考虑隐私问题的付款都用的这个卡，币圈能搞的事情越来越少，以前也有和很多项目方聊项目，从 meme 季以后，已经越来越少 builder了，正经做开发的盈利很难，做项目真的不赚钱，也不如发 meme 赚钱，现在能做的确定性方向就是稳定币，支付之类，infini 的退出，其实提遗憾的，强如 @Christianeth  李爹，有钱有资源都要退后防守一波，不知道项目方的未来在哪里，天天喊 build 的交易所也并没有开好头，感觉上 Alpha 的项目方也没赚到钱，上所卖币也会被查，流动性不足的时候，什么都是错，这个点确实挺悲观的",
+      "timestamp": "Jun 17, 2025 · 4:28 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1934830446820643122#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1934816587955228687#m",
+      "content": "关于 $ZKJ 的事后报告",
+      "timestamp": "Jun 17, 2025 · 3:33 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1934816587955228687#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1934444791905014069#m",
+      "content": "池子已经基本没有 BNB，峰值的时候有 20-30 K $BNB 流动性的崩塌没有预警的话，在事情发生的时候基本上不可能可以手动避险",
+      "timestamp": "Jun 16, 2025 · 2:55 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1934444791905014069#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1934265941300576731#m",
+      "content": "一直有和项目方联系，认识几年了，不看其他，个人知道的信息层面来看，项目方没必要这么弄，但是也不建议抄底什么的，等事情有结论了以后再说",
+      "timestamp": "Jun 15, 2025 · 3:05 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1934265941300576731#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1934253292194021783#m",
+      "content": "之前挖的时候就有提示风险，所以也没给教程，之前也回复的不熟悉的不要轻易尝试，过去3周，平均日化 0.3%，这两天 LP 从 50M 到了 15M左右，所有没有继续挖，而且波动变大，属于异常情况，前排挖矿都陆续撤退，所以没有继续，高利率的矿一定要做好安全措施，看数据，不然容易有事故",
+      "timestamp": "Jun 15, 2025 · 2:14 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1934253292194021783#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1932638619359220143#m",
+      "content": "Bybit 对用户来说最好的产品应该是这个 卡，用了小半年了，infini 好在 KYC 审核简单， @Bybit_Official  的卡牛逼在返现无敌\nAmazon Prime\nChatgpt\nSpotify\nNetfix\nTradingview\n这些订阅是100% 返现的，订阅免费，申请的话需要海外地址，中国大陆护照可以申请\nbit.ly/44bDziD",
+      "timestamp": "Jun 11, 2025 · 3:18 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1932638619359220143#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1932337897346342922#m",
+      "content": "后面应该还会开额度，保持关注吧，市场不缺钱，但是缺相对确定性的投资方向",
+      "timestamp": "Jun 10, 2025 · 7:23 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1932337897346342922#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1930871978014941585#m",
+      "content": "救救 sol",
+      "timestamp": "Jun 6, 2025 · 6:18 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1930871978014941585#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1930126448221647212#m",
+      "content": "可以关注一下",
+      "timestamp": "Jun 4, 2025 · 4:56 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1930126448221647212#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1930125811656602004#m",
+      "content": "挖的人顺便领一下，之前熊猫王空投还行",
+      "timestamp": "Jun 4, 2025 · 4:53 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1930125811656602004#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1929826889990099071#m",
+      "content": "Alpha 挖矿\n关于 @PolyhedraZK  的 $ZKJ  上线 Alpha 以后就是目前 LP 的最佳农田，图为 中午12:00 到 - 17:00的收益\n⚠️ 挖矿有风险，想挖的自己多了解，不知道能挖多久，资金容量很高",
+      "timestamp": "Jun 3, 2025 · 9:05 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1929826889990099071#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1929133231657427062#m",
+      "content": "走心了 这宣传视频降维打击了 想到央视筷子的视频了",
+      "timestamp": "Jun 1, 2025 · 11:09 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1929133231657427062#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1928804021273313470#m",
+      "content": "关于 @MYX_Finance \n之前骂的不撤回了，现在是有收到第一笔赔偿了，算是态度挺好的呀,参与过的记得去和他们确认",
+      "timestamp": "May 31, 2025 · 1:21 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1928804021273313470#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1926161938691571907#m",
+      "content": "完事了，恭喜 \n@0xyingX @Wdahei @liangfenxiaodao @noodlesoooo @hhquan888 @cyemburu @Darkboy1420 @cijiu111 @ymshss1819452 @pineweb3 @Liz3300330 \n 100颗 $SOON 已经发到留言的地址里了，注意查收",
+      "timestamp": "May 24, 2025 · 6:22 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1926161938691571907#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1925839706098463152#m",
+      "content": "卷不动 BN 的考试，感恩没有忘记， @okx 的猪脚饭也挺香的 \n#okx #soon",
+      "timestamp": "May 23, 2025 · 9:02 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1925839706098463152#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1925839008799526925#m",
+      "content": "感谢一下  @mia_okx  @Ru7Longcrypto  给的  @soon_svm  猪脚饭，抽 1000颗  $SOON  10个人，每个人100颗，聊表谢意，关注下两个美女和项目，留个 bsc 地址就行，最好能有些关于项目的骚话，不一定是奶，明天这个时候开奖，直接发到留的地址去",
+      "timestamp": "May 23, 2025 · 8:59 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1925839008799526925#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1925810036678226182#m",
+      "content": "可以领了 @soon_svm \n$soon\ndiscover.soo.network/account\n一度以为要归零了，今天上了这么多所，失敬了",
+      "timestamp": "May 23, 2025 · 7:04 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1925810036678226182#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1924394105037312231#m",
+      "content": "买完以后当作归零了\n今天看到新闻有把这个翻出来了 @soon_svm \n看看能捡回多少，好像之前买的还有空投啥的，也不懂怎么回事，等开盘看下怎么样，看起来我一点 tge 都没有，3个月很长，感觉长到可以归零\ncomming.soo.network/",
+      "timestamp": "May 19, 2025 · 9:18 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1924394105037312231#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1923327764859404611#m",
+      "content": "上 Alpha 了，忍住没卖赚钱了，赚一倍，恭喜还在车上的",
+      "timestamp": "May 16, 2025 · 10:40 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1923327764859404611#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1923188008884302328#m",
+      "content": "参加的可以去看看了\nCA\n\n5evN2exivZXJfLaA1KhHfiJKWfwH8znqyH36w1SFz89Y\n\n目前破发，昨天太迟看到 10K 没上 今天有另外一份幸运等着我，好消息是破发程度没有 10K 高",
+      "timestamp": "May 16, 2025 · 1:25 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1923188008884302328#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1922572819637973130#m",
+      "content": "存了 2000 个 Sol 棺材本在 260的时候，据说好事将近了，关注一下，不知道还能不能存了领空投了，静待花开了\n#Solana",
+      "timestamp": "May 14, 2025 · 8:40 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1922572819637973130#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1922196556544938415#m",
+      "content": "恭喜 🎉 $ZKJ  $SKYAI",
+      "timestamp": "May 13, 2025 · 7:45 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1922196556544938415#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1921893343962730518#m",
+      "content": "亏 50% ，看看后续了",
+      "timestamp": "May 12, 2025 · 11:40 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1921893343962730518#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1920861471413510315#m",
+      "content": "我不建议打 或者更建议观望一下 \n我投的理由也写了是为了支持 没打算赚 而且觉得赔率也不高 单纯感恩一下 不做投资建议",
+      "timestamp": "May 9, 2025 · 3:20 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1920861471413510315#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1920813601897472363#m",
+      "content": "丢了 500 SOL,死了算了，看到一些朋友也上车了， $AVA 赚过钱，这个丢进去的我就当作亏了…  问了一圈，也没太确定的信息，这个 $MIRAI 没有硬顶，让我想起了鹦鹉，当作支持了\n#MIRAI",
+      "timestamp": "May 9, 2025 · 12:10 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1920813601897472363#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1920685137609584731#m",
+      "content": "holo 弄了新预售，目前没看到募集上限是多少 sol，怕打多少就被没收了，暂时观望，$AVA 还有底仓在，还有持续赋能，再继续支持吧",
+      "timestamp": "May 9, 2025 · 3:39 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1920685137609584731#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1920059912207716650#m",
+      "content": "10万颗 $MNT 锁一个月+ 5万颗锁 15天 \n大概这么多\n\n 10万U 锁一个月+ 5万U 锁15天 大概 6000颗\n 满额 17000颗左右 收益率 4% 左右",
+      "timestamp": "May 7, 2025 · 10:15 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1920059912207716650#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1920050416974459071#m",
+      "content": "153 分考试不及格，但是 bybit 质押了 100K U 等值的 $MNT 拿到了 10664/165=64 份$OBOL 空投 \nalpha 这么卷，@Bybit_Official @Mantle_Official 加油",
+      "timestamp": "May 7, 2025 · 9:37 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1920050416974459071#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1919998691425058851#m",
+      "content": "稳定币 $ZKJ 终于上 alpha 了，离那一天不远了吧，刷分新ticker，ZK 拿了ticker已经跌的惨不忍睹，@PolyhedraZK 还在一直开发，静待花开",
+      "timestamp": "May 7, 2025 · 6:12 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1919998691425058851#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1919766789010923538#m",
+      "content": "SYRUP 上币安了 没看到 $MPL 的换币时间，基本归零了，惨，老币买了得多关注一下，不然像我这样错过换币时间就得套一辈子了",
+      "timestamp": "May 6, 2025 · 2:50 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1919766789010923538#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1919366119300694272#m",
+      "content": "亏了 1.5 颗饼，和@hellosuoha 骂了几次，不是说亏不起，是忍不了这种傻逼项目方",
+      "timestamp": "May 5, 2025 · 12:18 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1919366119300694272#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1919323409286058450#m",
+      "content": "可以去领下 @okx 和 @PolyhedraZK 的猪脚饭\n$ZKJ 过了两个月还是 2 附近 ，宠辱不惊",
+      "timestamp": "May 5, 2025 · 9:28 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1919323409286058450#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1917849370961056088#m",
+      "content": "天可怜见，拿了4年的 $MNT 终于有用了\n@Mantle_Official  @Bybit_Official \n 拿了这么久 一定要回本才走",
+      "timestamp": "May 1, 2025 · 7:51 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1917849370961056088#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1916059571954847896#m",
+      "content": "猪脚饭晚点 @Fair3_community  会发给你们，结束\n@WeiLai01\n0x955efde38e7eb6def9d7c1f7380e1257bda0ea0f\n @wnwn60766032\n0x6489e7cAFcD923964eD107DfBCA5BB75Ea8F595d\n@liang1361222\n0x1eaae41b26c55e5f75d3404aacdecdfe87552a49\n @togetherxin\n0x1ad929d11e5ae0d5b6c455e578c2def6ebf62530\n @line273471\n0xa20819fdcae83346679bc97d50e9656a8dcea162\n@ArcInstituter\n0x70C496c80669591BEcD05264Dc7E492024B5C797\n@jiayu01573865\n0x80dF3456494ae3C14711356003A521e2c0174345\n@WhileQ20861\n0x08610CB6B051522161CA3838a8242AC445bc7150\n@llq1934288153\n0x35586664D07f22eAeBC85266a5652F2509B9D997\n @frank7741\n0x484Eeb69C196361e78faC86F077D47D2A00d32D0",
+      "timestamp": "Apr 26, 2025 · 9:19 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1916059571954847896#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1915674149928005865#m",
+      "content": "支持一下，JD 外卖在国内最近这个二选一事件挺火的，虽然有一定道德营销的成分，但是确实踩到我的点，已经喊家里人以后点外卖用京东了， @Fair3_community  我有持仓，社区弄活动点外卖送 $FAIR3 ，一共 10份，每份 333颗 （10 U）大概\n1）关注 @Fair3_community \n2)  点京东外卖，外卖订单备注 FAIR3 外卖活动+BSC 地址后4位\n3）评论晒一下 （注意隐藏个人信息）留BSC地址,需和订单留言一致\n4）TG加一下t.me/FAIR3_Chinese\n\n#BSC",
+      "timestamp": "Apr 25, 2025 · 7:48 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1915674149928005865#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1915030918626238837#m",
+      "content": "还有一些持仓 300M 没卖很后悔，希望 $AVA 能再辉煌一次",
+      "timestamp": "Apr 23, 2025 · 1:12 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1915030918626238837#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1912189080877851029#m",
+      "content": "都忘记上次挖 @Uniswap  是什么时候了，官方矿，年华不错,限时两周，需要在 @unichain 上放 LP\n\nGAS 用的 ETH\n跨链桥：\nunichain.org/bridge\n数据看板\napp.merkl.xyz/?chain=130\n\n奖励 6 小时一次\n\n5 m 等值的 $UNI 补贴两周\n\n#DEFI #UNICHAIN",
+      "timestamp": "Apr 15, 2025 · 4:59 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1912189080877851029#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1907458911051108370#m",
+      "content": "不管真的假的 君子不立危墙之下 这次听 @justinsuntron 先换一波钱 FDUSD TUSD 短期不能碰",
+      "timestamp": "Apr 2, 2025 · 3:43 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1907458911051108370#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1907323526857863454#m",
+      "content": "感谢 @okx @mia_okx  邀请\nOK 每次的邀请函都很好看",
+      "timestamp": "Apr 2, 2025 · 6:45 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1907323526857863454#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1907186890668941748#m",
+      "content": "有点侮辱智商 ，调查的结果能是 100万美金砸穿 2亿的盘子，闭口不提为什么托单没了，3 小时公告，2次降保证金比例，多次限制持仓，3小时公告，取消托单，准时砸盘，一气呵成，要让人相信一切都是巧合，都是散户不小心导致的，之前 trump 也有类似情况，开天眼杀鸡取卵，相信最高层可能没问题 @cz_binance  @heyibinance  ，底下的人是不和相关砸盘账户有关联，这种合约处理方式合理？VIP 借贷都能给 24 小时补仓，取消托单这么大的金额居然不通知到位，市场本身就没什么流动性，纠结的点是这个结果会让很多大户 MM 不敢在bn 玩了，我如果熬夜盯盘，睡了4 小时，醒来规则变了，托单被取消了，钱就全没了，bn 查完一切正常，上面那些环节缺一不可,避重就轻的调查报告，这如果领导层能信得很我也是服",
+      "timestamp": "Apr 1, 2025 · 9:42 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1907186890668941748#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1907037070113009696#m",
+      "content": "bn 杀鸡取卵，砍保证金，限制持仓，一把爆金币，感觉这才是真正的恶意攻击，HLP 好歹链上是看得到的，流动性都害怕的话，bn 还是 bn 吗",
+      "timestamp": "Apr 1, 2025 · 11:47 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1907037070113009696#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1906707995666309208#m",
+      "content": "还拿着的可以参加  我已经当作理财了",
+      "timestamp": "Mar 31, 2025 · 1:59 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1906707995666309208#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1906705146941518135#m",
+      "content": "有参与的可以查一下了，领个猪脚饭",
+      "timestamp": "Mar 31, 2025 · 1:48 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1906705146941518135#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1905509775175217223#m",
+      "content": "保持关注了  $FAIR3  成本 20 M  \n继 $cheems  $bananas31 后的下一个押注",
+      "timestamp": "Mar 28, 2025 · 6:38 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1905509775175217223#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1905484556213649858#m",
+      "content": "选的两个都上了， @BananaS31_bsc 还在继续 build,\n$mubarak 已经巧妙的让我亏了",
+      "timestamp": "Mar 28, 2025 · 4:58 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1905484556213649858#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1905079420031029668#m",
+      "content": "破事遇到的比较多，盈亏同源，因为信任给的钱，没借条，没合同，和我做生意，不说有口皆碑，至少我自己做到问心无愧了，别做太过分，有个合理的交待都不会被我怎么样，本身遇到不好的事情，共情一下，大家都不容易就算了，但是如果只有我共情，别人不把你当人，这就没什么好说了，当朋友的前提是双方都珍惜，我做到了我该做的，票务的事情，我一直私下处理，今天看到小丑跳出来，骂一句也就算了，会继续处理，以后还是会相信兄弟，但是如果做生意，奉劝大家留个借条，真出事了，当初的保本什么都是扯淡，讲清楚了不会影响感情，像现在这样，只能是撕逼让人看笑话了",
+      "timestamp": "Mar 27, 2025 · 2:08 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1905079420031029668#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1904547589942559076#m",
+      "content": "虽然没听过这个所，但是稳定币 $zkj 动了一下，希望能有好结果\n#zkj",
+      "timestamp": "Mar 25, 2025 · 2:55 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1904547589942559076#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1903141568741249366#m",
+      "content": "今日份的 10 BNB ,感觉强度变高了， @BesterBNB  金狗当选\n\n#BSC",
+      "timestamp": "Mar 21, 2025 · 5:48 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1903141568741249366#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1902643955642335418#m",
+      "content": "不管投什么项目，都能抽奖，格局了我蕉\n@BananaS31_bsc",
+      "timestamp": "Mar 20, 2025 · 8:50 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1902643955642335418#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1902630998627463613#m",
+      "content": "BNB 投票稳赚策略\n9 个 项目同时开空，最多上两个现货，爆 2 赚7，之前没有合约，现在条件满足了，发财不要忘记我\n\n#BNBChain",
+      "timestamp": "Mar 20, 2025 · 7:59 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1902630998627463613#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1902563376141889596#m",
+      "content": "$ZKJ 稳定币已经锁了几周了  枯等中",
+      "timestamp": "Mar 20, 2025 · 3:30 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1902563376141889596#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1902400434679275748#m",
+      "content": "投票上币启动了 9 选 2 现货\n 感觉 @BananaS31_bsc   $bananas31 \n$MUBARAK  机会大\n买定离手了\n\n#BSC",
+      "timestamp": "Mar 19, 2025 · 4:43 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1902400434679275748#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1902172096224227739#m",
+      "content": "时光荏苒，$EOS 要变成过去了，laoaa.eos  上还有一些eos ，但是已经不知道私钥在哪台 iphone 6上了\ncoindesk.com/business/2025/0…\n#EOS",
+      "timestamp": "Mar 19, 2025 · 1:35 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1902172096224227739#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1901893956268630519#m",
+      "content": "感觉大家都在 @BNBCHAIN  发财了，在学习了\n再不努力又只剩下羡慕了",
+      "timestamp": "Mar 18, 2025 · 7:10 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1901893956268630519#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1901554788916949261#m",
+      "content": "解读一下：\n\n1 bnb = 1 wbnb 限时6个月兑换\n\n不过 bsc 确实在变好，刚好 @wallet  不能用了，这泼天富贵，天时地利人和了，希望能再复荣光\n\n#BSC",
+      "timestamp": "Mar 17, 2025 · 8:42 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1901554788916949261#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1901114849780015614#m",
+      "content": "上次 @Bybit_Official  出事以后，因为处理得很不错，所以 @Mantle_Official   $MNT  一直没卖，bitdao 套我的第四年，黑客走了，川普上车了，希望在 10 年内可以把这个币解套 并且吃到利息，私募的时候就是当作理财了，死活得把每年 APR 10 左右的目标达成",
+      "timestamp": "Mar 16, 2025 · 3:34 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1901114849780015614#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1900360286500209035#m",
+      "content": "已经很久没🈺业了，之前投了一些 @Pumpbtcxyz  ,我已经忘记投了多少了，项目方还在努力，这轮因为 meme 有完整技术团队，并且还没躺平的团队真的不多了，项目快 TGE 了，希望所有还在努力的项目方加油吧，凌冬已来，春天将至",
+      "timestamp": "Mar 14, 2025 · 1:36 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1900360286500209035#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1898910186410237952#m",
+      "content": "已经吃瓜很久了，好久没交易了，别摸了，买买币救命吧",
+      "timestamp": "Mar 10, 2025 · 1:34 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1898910186410237952#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1897146741834797311#m",
+      "content": "建议所有项目方学习一下\n\n福利密码：\n\nDefi是过去。 AI是当下。 DeFAI 是未来\n\n复制这段文字，点击推特搜索即可获取",
+      "timestamp": "Mar 5, 2025 · 4:46 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1897146741834797311#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1896943515416105016#m",
+      "content": "我去了杭州好几次，只知道西湖，财神庙，才知道 in11 这种危险的地方，人缘太差，没人带我去探险，很失败",
+      "timestamp": "Mar 4, 2025 · 3:19 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1896943515416105016#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1896740946152501734#m",
+      "content": "开始后悔了🥲\n川普时代，BTC 都能一天 10 来个点的波动",
+      "timestamp": "Mar 4, 2025 · 1:54 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1896740946152501734#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1896372765118411065#m",
+      "content": "一夜牛回，刚入职的认识的骑手老哥们还没认识全，今天已经要说再见了，3天京东外卖生涯结束，把心爱的爱玛交给接班老哥，要继续回来当韭菜了",
+      "timestamp": "Mar 3, 2025 · 1:31 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1896372765118411065#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1896135400244338874#m",
+      "content": "作为一个受害者，我现在已经用了一个全新的设备，专门处理一些 DEFI 操作，电脑上除了 chrome ，杀毒软件什么都没装，黑客把币圈当成 ATM ，安全的问题一定不能完全放心，我买了 AVG ，被盗的钱购买一万年 avg 会员，没必要省的钱不要省，该麻烦的要麻烦\navg.com/",
+      "timestamp": "Mar 2, 2025 · 9:48 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1896135400244338874#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1895384398218018911#m",
+      "content": "确认过了，有五险一金\n新生活加油！\n美好的未来向我们招手🙋",
+      "timestamp": "Feb 28, 2025 · 8:03 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1895384398218018911#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1895080524030582982#m",
+      "content": "有始有终，之前参与的老哥可以再去领个红包， 需要 4.23 前去 @GOATRollup 官网领\n\n网址：\npremining.goat.network/claim",
+      "timestamp": "Feb 27, 2025 · 11:56 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1895080524030582982#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1894399287846736082#m",
+      "content": "我就是一个臭炒币的，不少聊天记录被拿出来鞭尸了，我肯定是傻逼的，认错\n\n想买币，就有买不完的币\n想抄底，就有抄不完的底\n\n是要下一个 4 年见了吗？",
+      "timestamp": "Feb 25, 2025 · 2:49 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1894399287846736082#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1893885738921415078#m",
+      "content": "声援一下，不落井下石，也不站着不腰疼说没事，李爹是少数 friendtech 和我完成33承诺的人，认识是因为一次守诺，可能很多也会因为这次的守诺认识",
+      "timestamp": "Feb 24, 2025 · 4:48 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1893885738921415078#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1893157544652349933#m",
+      "content": "虽然我骂了 $bitdao  @benbybit 这么多年了，但是客观讲下感受，出事一个小时，直播回应不会关提币，不会买 $eth ，并且10个小时左右我的棺材本全部到账，这10个小时内，客服响应速度比平时快，我是当事人，看见 @cz_binance 说建议关提币的时候，头皮发麻，不管是好意还是善意，对用户来说是受伤的，过去 12 小时，超过 1B 的资产流向了币安，短期结果上来说，最大赢家是黑客和币安，长期来看，这次事件的处理是教科书级别的，对整个 @Bybit_Official 团队表达尊重，能做到这个速度应该是大部分员工熬了一夜，我把 $mnt $apex 还是放在了bybit 没提走，会继续用 bybit 的卡，再次感谢\n\n⚠️我和 bybit 没任何合作，帖子没收钱，复盘一下，你看看这些发帖的哪些才是真的坏人，我支持 bybit，但是我也不建议段时间大额提回去，但是他们值得让人尊重，只要挺过去，他们会更好，我也会更愿意用，时间会证明，光喊不给币，我 tm 也行",
+      "timestamp": "Feb 22, 2025 · 4:35 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1893157544652349933#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1893152315080593464#m",
+      "content": "全部提现正在10点多都处理了，感恩",
+      "timestamp": "Feb 22, 2025 · 4:14 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1893152315080593464#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1893112049720574346#m",
+      "content": "早上5:30 - 6:10 分 除了 USDT意外以外的所有提现都已处理，感谢 @Bybit_Official  ，应该是通宵了，5点多盯着电脑不小心睡着了，起来看到到账还是很开心的，坏消息是 U 还没提现到，好消息是上次被盗，我的 U 差不多都被盗干净了 ，另外吐槽一下 @RNS_global 这个时候发邮件提醒说bybit 被盗和 ftx 很像是啥意思……",
+      "timestamp": "Feb 22, 2025 · 1:34 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1893112049720574346#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1892973187262013942#m",
+      "content": "半小时了，在等待，很急 @Bybit_Official",
+      "timestamp": "Feb 21, 2025 · 4:22 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1892973187262013942#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1892169750702358654#m",
+      "content": "跨时代产品 @KaitoAI  要 listing了，分数和空投都在 KOL ，如果跌了，不会是一直在 yap 的人在砸盘吧… 道德绑架一下，不许做空！让我先回血！\n#yap #KAITO",
+      "timestamp": "Feb 19, 2025 · 11:09 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1892169750702358654#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1892133235213107233#m",
+      "content": "新型遛狗，但是不确实谁是狗？\n\n#BNBChain",
+      "timestamp": "Feb 19, 2025 · 8:44 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1892133235213107233#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1891086777949225380#m",
+      "content": "从 @BNBCHAIN 一开始的时候就在玩了，挖了各种矿，地址也是 bsc 早鸟地址，最近的 bsc 有点抽象，玩完 @solana ，确实 bsc 的生态基建有差距，红利也大部分都是给到了科学家，老鼠仓，老虎仓，短时间流量剧增，关注度增加，但是舆论的方向是一边倒的，用户都是赚的也不会骂，大部分亏钱，看着内幕赚心理肯定不平衡，感觉 @cz_binance @heyibinance  开完 ama 还是没有看到最核心的问题，散户想相对公平的赚钱，就算老鼠，老虎也没问题，但是现在这个情况，让我对持币没有信息，没有持续的造富效应，一个喊一个方向，资金是跟着喊的方向走的，昨天冲的算是一夜情吗… 头都晕了",
+      "timestamp": "Feb 16, 2025 · 11:26 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1891086777949225380#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1890077525730284028#m",
+      "content": "目前 bscscan 已无法使用，oklink 才可以查看地址\n用 bn web3 钱包的话 人都 p 傻了，不过我用了 okx 钱包已经亏完了\n这波好像 ok 又赢了\n还是感谢  @mia_okx @okx @okxchinese",
+      "timestamp": "Feb 13, 2025 · 4:36 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1890077525730284028#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1889327838471618692#m",
+      "content": "最近每天都听 AMA 了",
+      "timestamp": "Feb 11, 2025 · 2:57 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1889327838471618692#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1888910524001456204#m",
+      "content": "支持一下，希望 @BNBCHAIN 别凉太快啊，我已经各种套住了，救命！",
+      "timestamp": "Feb 10, 2025 · 11:18 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1888910524001456204#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1888573434306941416#m",
+      "content": "错过了 $TST 400M买不下去\n追了点 @BananaS31_bsc ，挑了一下 alpha 里的 bsc meme，感觉香蕉还是有性价比的\n\n⚠️本文不做投资建议！ meme 生死有命，先冲先富",
+      "timestamp": "Feb 9, 2025 · 12:59 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1888573434306941416#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1888561571988910574#m",
+      "content": "人狠话不多，格局第一名\n$TST 不谈了，什么样大家都清楚， $CHEEMS 是本轮 @BNBCHAIN 当之无愧 meme 王之一了，李爹也是够拼了，感恩让我回血",
+      "timestamp": "Feb 9, 2025 · 12:12 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1888561571988910574#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1888258470736257192#m",
+      "content": "没想到有一天 快播能来救我 TORN 出狱, 30 的成本，套等救",
+      "timestamp": "Feb 8, 2025 · 4:07 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1888258470736257192#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1887489998615945633#m",
+      "content": "大表哥开始喜欢 meme了 ，老虎仓阻挡我了向前冲，four.meme 的平台币 $BNX 0.6的成本现在 0.15，老哥们 TST 赚了钱救救我",
+      "timestamp": "Feb 6, 2025 · 1:14 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1887489998615945633#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1887128237660332052#m",
+      "content": "感谢兄弟们，我随机抽了3个祝大家发财的老哥\n@xxxxJesse @worlddwm \n@chenhe34",
+      "timestamp": "Feb 5, 2025 · 1:16 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1887128237660332052#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1886725861749219741#m",
+      "content": "关于 $USDD ， @justinsuntron  一直在奶，说一些注意事项，我自己有挖了一点\n⚠️ 勤看公告， $USDD 是之前挖下来动态调整最多的矿，但是都是会给一周的缓冲期，其实这个比某些项目好太多\n⚠️ @DeFi_JUST  循环贷能增加收益，但是控制风险，不知道怎么玩的就不教怎么操作了 \n⚠️ 赎回通道 app.usdd.io/psm ，但是之前很长一段时间没有额度，1:1 这个点我比较保守\n⚠️不mint USDD 可能是最稳的方式，在官方借贷平台进行借贷 ，app.justlend.org/  ，注意风险把控，稳定币借稳定币虽然稳，但是也注意黑天鹅，稳定币可能不稳定\n⚠️ TVL 超过一亿，APR 会下降，注意实时 APR，看看是否还在你的预期内\n⚠️注意钱包安全，尽量用单独的设备进行挖矿",
+      "timestamp": "Feb 4, 2025 · 10:37 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1886725861749219741#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1886637138277753018#m",
+      "content": "一夜牛熊\n现在牛熊的切换周期就 24 小时了，节奏很快\n还是不忘初心，坚持在币圈回本，割是不会割的，回本是最好的梦\n$MNT 套我的第四个年头，最近好像 @Mantle_Official  开始做人了\n $ZKJ  像个稳定币，望子成龙， @PolyhedraZK 还在努力\n$TORN 不管团队出狱没，我是在坐牢\nE 系token 普亏 50 %\nBSC 系列和归零差不多了\n$SOL 坚定持有没卖， 一些 MEME 已经永远活在了过去\n年还没过完，经历过了一轮生死\n⚠️本文不做投资建议，希望大家发财",
+      "timestamp": "Feb 4, 2025 · 4:45 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1886637138277753018#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1886234802795458985#m",
+      "content": "很久没有看见这种涨幅榜了，有股 312 519的味道了，今天是 2月3，笑不出来了\n行情虐我千百遍，依然希望他能暮然回首，有点像希望渣女回心转意了，泪止不住了\n#BTC",
+      "timestamp": "Feb 3, 2025 · 2:06 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1886234802795458985#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1885814761562296811#m",
+      "content": "初五了，全面复工，开始继续努力赚钱，别消极，这两天和朋友聊了很多，感觉这个行业依旧比外面更有机会，机会优先给乐观者，财神爷虽迟会到，祝大家新年快乐，一定发财！\n\n顺带送一下两份 @okxchinese 的礼盒\n关注 @lsp8940 @okxchinese @mia_okx \n转发&点赞，留下一句新春祝福",
+      "timestamp": "Feb 1, 2025 · 10:17 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1885814761562296811#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1882813526311592238#m",
+      "content": "⚠️警惕新型骗局，你不同意可以点 同意，你不同意反正中心化的数据自己说了算，都能改规则把超募变成溢价，还能搞出一套投票美其名曰去中心化，在中心化的网站上说去中心化投票，是有点意思的，抢劫还要合理化…",
+      "timestamp": "Jan 24, 2025 · 3:31 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1882813526311592238#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1881981953093906648#m",
+      "content": "这次好像是真从监狱里出来了… 原本当做归零了，现在有机会回本了",
+      "timestamp": "Jan 22, 2025 · 8:27 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1881981953093906648#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1881960894437155048#m",
+      "content": "恭喜 @SweepyClub",
+      "timestamp": "Jan 22, 2025 · 7:03 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1881960894437155048#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1881693472878702817#m",
+      "content": "熊猫王的记忆卷头重来，可以关注一下，ZK + AI + Agent",
+      "timestamp": "Jan 21, 2025 · 1:20 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1881693472878702817#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1881474231495725256#m",
+      "content": "今天养成了一个习惯，先冲再研究，好了，现在不只是他全家了，保姆都能割我了，亏一半了 $CONSUELA，要是上伊万卡被割一半心里还好受点，这尼玛，我看过去还以为是亚洲奶奶朋友，英文不好真要命",
+      "timestamp": "Jan 20, 2025 · 10:49 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1881474231495725256#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1881224713051238889#m",
+      "content": "都在主流媒体看到了，人生只有一次，但是机会有10个，做好准备",
+      "timestamp": "Jan 20, 2025 · 6:18 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1881224713051238889#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1881115561461272685#m",
+      "content": "有福了，成为家人币的家人 $TRUMP  $MELANIA\n全家总动员，吸干流动性，百年难遇的机会天天有，而且没人可以管，服气",
+      "timestamp": "Jan 19, 2025 · 11:04 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1881115561461272685#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1881103196325839187#m",
+      "content": "一大早醒来因为别人的老婆 @MELANIATRUMP  亏了150 $SOL ，还没有机会给自己的老婆这么花钱，无语… 太 FOMO ，等要冷静冷静",
+      "timestamp": "Jan 19, 2025 · 10:15 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1881103196325839187#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1880859342947463260#m",
+      "content": "山寨牛在链上，现货牛在 SOLANA ，随着监管越来越严格，DEX 是新的出路，TRUMP 事变，是新纪元， @binance 的造富效应，和流动性变得不是优势，那么未来在何方，打败币安的一定不是想要做下一个币安的人，世界已经变了，所以我已经彻底放弃 ETH 了，拥抱总统的选择，拥抱世界第一不受监管的现货交易所",
+      "timestamp": "Jan 19, 2025 · 6:06 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1880859342947463260#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1880856987946422274#m",
+      "content": "错过了 @HyperliquidX  错过了 $TRUMP ，其实两个很像，两个都有可以冲的资金，都没敢上，认知差了一点，但是别因为 没赚到的钱 和 赚不到的钱去影响要赚的钱，慢慢改变，让自己可以赚更多的钱就好了, TRUMP 事变以后， @solana 成为了世界上最大的现货交易所，$SOL 是平台币，我错过了一些，但是也坚定的成为了 Soler 灵魂伴侣",
+      "timestamp": "Jan 19, 2025 · 5:57 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1880856987946422274#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1880492982559985975#m",
+      "content": "复盘一下\n最近遇到了太多事情，所以风格比较保守了， $TRUMP 开完会看到已经是 700M ，这个时候上车还有 10 来倍，但是 1.5 跌倒 900M 的时候想过抄底，也没上，不是所有人都能这样梭哈的，所以最后也只能说恭喜，还好就是经历了太多事请也不焦虑了，错过的东西太多， @0xSunNFT  只有一个，比不了也比不过，我拿住了我的 sol ，赚了 sol 上涨的钱，同时卖了一些山寨，减少了山寨的亏损，这个时间段内，还是赚到了符合自己认知的钱，所以还好，只要是赚钱的，我就能接受，不然醒着看了全部，还亏了一大堆就不舒服了，看到很多朋友 M 级别的赚，挺开心的，朋友越强，得到的帮助也约给力，不需要怕兄弟开路虎，脸皮厚点去蹭个副驾坐就好了，心态放稳，这个钱我赚不到，我释怀了，真心恭喜赚到钱的 B ,而且这个历史事件，所有人其实都会在很长一段时间内获益，想点好点，少点难受，好日子要来了",
+      "timestamp": "Jan 18, 2025 · 5:50 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1880492982559985975#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1880450066915422295#m",
+      "content": "总统告诉你要炒 meme，太魔幻了这个世界，不管真假，已经长见识了",
+      "timestamp": "Jan 18, 2025 · 3:00 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1880450066915422295#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1880229471632126463#m",
+      "content": "关于  $USDD ，20% APR补贴，不要恐惧，@justinsuntron 确实还是真给了钱的之前，当时怕的要死，风险解除以后又回去薅了一段，就3个人薅了挺长一段时间，比当时很多矿香，应该不会出现 0.87的情况",
+      "timestamp": "Jan 17, 2025 · 12:23 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1880229471632126463#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1879871098789204396#m",
+      "content": "最近身边认识的朋友，加我自己，一个月内 4 起安全事件，不是道听途说，真实的朋友，这个行业，不仅是 🎩喜欢，现在也是骗子灰产最爱了，如果你穿着大 LOGO 走路上，还可能被打劫，请一定注意安全\n\n1.我自己的案例，社工后 zoom 链接攻击，电脑私钥全被上传,建议使用硬件钱包，能避免部分\n2. tg 广告，现在tgbot 用户越来越多，如果允许，记得开哥会员，能减少事件发生概率\n3. 假tg group，经常看到 KOL 评论区有 group 链接，这个大概都是假的，今天刚教朋友怎么报警，他被盗了 10 万美金\n4.假 ca ，相似 ca ，冲狗也要保持警惕，有各种坑等着，假 ca，貔貅，这种报警都报不了\n\n⚠️我觉得这个频率，身边这么多人中招，习惯还是这个习惯，只是环境不是这个环境了，多年前，区块链的骗局很少，因为人家本来就觉得你是骗子，2025 了，行业变成 WEB3, BTC 破了 10 万，外面都觉得这个鱼塘的鱼最好钓，有时候睡眠不足之类的，真的判断力会下降，还有各种影响判断的事，但是外面就是危机四伏的，黑暗森林真的不为过，一个月 4 起，全是认识的人，外面有多少不认识的，提高筋惕，别让努力给坏逼做嫁衣！，希望大家都健康平安，不要被盗，妈祖保佑🙏",
+      "timestamp": "Jan 16, 2025 · 12:39 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1879871098789204396#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1879682247814750339#m",
+      "content": "好朋友中招，年关将至，坏人忙着搞钱过年，最近希望多提起一份小心，别辛辛苦苦给坏逼改善生活",
+      "timestamp": "Jan 16, 2025 · 12:09 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1879682247814750339#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1878656549176115705#m",
+      "content": "感觉赚钱变难了，开始亏钱和挨刀阶段了，过完年能变好吗😭",
+      "timestamp": "Jan 13, 2025 · 4:13 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1878656549176115705#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1877656483665522839#m",
+      "content": "感谢 @okx  @mia_okx 邀请\n第一次有项目方给我包机酒去国外，OKX 钱包一直在用，被盗以后也是最早给我拉群解决问题的，也把过程中遇到一些可以改进的反馈给他们了，不是为了饭，该夸得夸，钱包和钱包插件确实很好用（无广告费）",
+      "timestamp": "Jan 10, 2025 · 9:59 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1877656483665522839#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1876914869821223362#m",
+      "content": "上了一点   项目方回答问题挺积极的，还有就是让我蹭了个车，虽然不多，叫个朋友，那我必须存点钱然后再夸一下，这是江湖道义了😄",
+      "timestamp": "Jan 8, 2025 · 8:52 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1876914869821223362#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1876910199283269804#m",
+      "content": "原本想写个 @0xinfini 教程，截图完发现太简单了，就不写了，邮箱和 KYC 就好，KYC可以用帕劳，泰国驾照这些非身份证证件认证，存 U 进去消费，U 不用会有10% APR左右的利息，充话费绑定微信可用，听说后面可以 Apple pay 和 Google pay，应该是现在市面上 KYC最宽松的 U 卡之一，适用范围也挺广",
+      "timestamp": "Jan 8, 2025 · 8:33 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1876910199283269804#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1876813516268810442#m",
+      "content": "Telegram 的安全事件越来越多了，很多定向广告，早上看见小号在方程式的推送居然有广告，这一看就是骗人，刚想骂来着，看了一下大号没有，研究了一下，小号没有会员，可能是被标记为了某某用户以后，可以定向投放这些信息，之前朋友的 GMGN 广告（导致被盗）应该也是这样，这些广告感觉是没有审核的，感觉危险性很高\n\n2025了，还有开合约包赔这种话，月华50%，这要是真的，不是来当我老师的，是来当我爹的\n\n很明显的陷阱，但是1000个人里有一个人上当，1000个上当的人里有一个人有钱，就能把成本捞回来了，有大哥了解的可以科普一下投放成本，警惕一下这些信息，不要成为下一个我，引我为戒\n\n赚钱了尽量开个 tg 会员，能屏蔽这些广告，和交保护费一样\n\n⚠️不是说 Tgbot 不好，我们尽量减少冒险，没必要的险不冒了，通讯和交易尽量做隔离，被盗一次就都老实了，比如我，希望大家都没事，都发财，🙏",
+      "timestamp": "Jan 8, 2025 · 2:09 AM UTC",
+      "url": "https://twitter.com/lsp8940/status/1876813516268810442#m",
+      "author": "lsp8940"
+    },
+    {
+      "id": "1876678370072973570#m",
+      "content": "200,000/6894/0.04 =725 \n算错了\n妈祖看到这个倍数都要摇头，不为难她了",
+      "timestamp": "Jan 7, 2025 · 5:12 PM UTC",
+      "url": "https://twitter.com/lsp8940/status/1876678370072973570#m",
+      "author": "lsp8940"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-20T23:24:02.443Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 28267,
+    "cursorTrail": [
+      "DAAHCgABG3vYm1y__-sLAAIAAAATMTk3MTM0NTAzMTI2NjE3MzAwNwgAAwAAAAIAAA",
+      "DAAHCgABG3vYm1y__9cLAAIAAAATMTk1ODU0MTQ4NTc5Mzc5MjM1OAgAAwAAAAIAAA",
+      "DAAHCgABG3vYm1y__8MLAAIAAAATMTk1Mjk4ODI2NDU0MzIwNzU0NAgAAwAAAAIAAA",
+      "DAAHCgABG3vYm1y__68LAAIAAAATMTk0MzEyNzY1NjE0NjU3MTYxNwgAAwAAAAIAAA",
+      "DAAHCgABG3vYm1y__5sLAAIAAAATMTkzMjMzNzg5NzM0NjM0MjkyMggAAwAAAAIAAA",
+      "DAAHCgABG3vYm1y__4cLAAIAAAATMTkyMDA1OTkxMjIwNzcxNjY1MAgAAwAAAAIAAA",
+      "DAAHCgABG3vYm1y__3MLAAIAAAATMTkwNDU0NzU4OTk0MjU1OTA3NggAAwAAAAIAAA",
+      "DAAHCgABG3vYm1y__2ELAAIAAAATMTg5NTA4MDUyNDAzMDU4Mjk4MggAAwAAAAIAAA",
+      "DAAHCgABG3vYm1y__00LAAIAAAATMTg4NjIzNDgwMjc5NTQ1ODk4NQgAAwAAAAIAAA",
+      "DAAHCgABG3vYm1y__zkLAAIAAAATMTg3NjkxNDg2OTgyMTIyMzM2MggAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

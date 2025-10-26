@@ -1,0 +1,78 @@
+{
+  "scan_timestamp": "2025-10-20T14:59:12Z",
+  "target_domain": "apps/social-monitor/services/nitter",
+  "locations": [
+    {
+      "path": "apps/social-monitor/services/nitter/docker-compose.yml",
+      "role": "定义 Nitter 本体、Redis 缓存与 TypeScript API 的容器化部署，是本地运行 Nitter 的主要入口。"
+    },
+    {
+      "path": "apps/social-monitor/services/nitter/config/nitter.conf",
+      "role": "Nitter 官方配置文件，指定监听地址、Redis 缓存与站点偏好。"
+    },
+    {
+      "path": "apps/social-monitor/services/nitter/src/userService.ts",
+      "role": "封装 Nitter HTML 抓取逻辑（关注列表、个人资料、推文），归档脚本直接复用其抓取能力。"
+    },
+    {
+      "path": "apps/social-monitor/services/nitter/src/scripts/archiveFollowing.ts",
+      "role": "最新实现的关注账号批量归档脚本，需要扩展以支持稳定运行与本地实例。"
+    },
+    {
+      "path": "apps/social-monitor/services/nitter/docs/following-archive.md",
+      "role": "文档化现有归档方案与使用说明，后续需更新以覆盖部署需求。"
+    },
+    {
+      "path": "apps/social-monitor/services/nitter/data/following",
+      "role": "归档输出目录，目前存放示例账号的 JSON/Markdown。"
+    }
+  ],
+  "current_implementation": {
+    "deployment": "docker-compose.yml 同时启动 zedeus/nitter 与 redis:7-alpine；Nitter API 服务通过 Dockerfile 构建 Node.js 监控。",
+    "archive_pipeline": "archiveFollowing.ts 读取 Twitter 关注 JSON，调用 NitterUserService 抓取推文并写入 JSON/Markdown，目前仅抓取首屏数据。",
+    "config_defaults": "NITTER_URL 默认指向 http://localhost:8080，redis 主机名为 docker 内的 redis；脚本在缺省情况下落盘至 data/following。"
+  },
+  "tech_stack": [
+    "Docker Compose（Nitter + Redis + Node API）",
+    "Node.js 20 / TypeScript 5",
+    "axios + cheerio HTML 解析",
+    "fs/promises 写入 JSON & Markdown",
+    "npm 脚本 orchestration"
+  ],
+  "tests_and_tooling": {
+    "unit_tests": [
+      "apps/social-monitor/services/nitter/test/archiveFormat.test.js",
+      "apps/social-monitor/services/nitter/test/filters.test.js"
+    ],
+    "scripts": [
+      "npm run build",
+      "npm run docker:up / docker:down",
+      "npm run archive:following"
+    ],
+    "observed_status": "测试覆盖 Markdown 格式化与过滤规则，但未对分页抓取或 Docker 环境进行自动化验证。"
+  },
+  "similar_implementations": [
+    {
+      "path": "apps/social-monitor/services/rsshub",
+      "note": "同样使用 Docker Compose 部署第三方抓取服务，可参考其配置与启动脚本。"
+    },
+    {
+      "path": "apps/social-monitor/services/aggregator",
+      "note": "通过 Redis 收集社交数据，未来可集成归档结果。"
+    }
+  ],
+  "observation_report": {
+    "noted_anomalies": [
+      "docker-compose.yml 强依赖 Redis 缓存，需评估能否满足“暂时不需要 Redis”的需求或解释依赖性。",
+      "归档脚本仅抓取单页推文，需实现分页或游标循环以尽可能覆盖历史推文。"
+    ],
+    "info_gaps": [
+      "尚未确认 Nitter 是否允许禁用 Redis 缓存而仍可运行，需查阅官方文档或测试。",
+      "分页接口（cursor）的参数与 HTML 节点结构需要验证，确保脚本能连续抓取。"
+    ],
+    "recommended_next_steps": [
+      "测试 docker-compose 在当前环境下的可用性，记录启动命令与健康状态。",
+      "扩展归档脚本以支持分页、断点续跑与更稳健的限速策略；并更新文档说明。"
+    ]
+  }
+}

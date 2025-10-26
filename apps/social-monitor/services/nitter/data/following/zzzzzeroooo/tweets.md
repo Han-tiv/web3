@@ -1,0 +1,2648 @@
+# Zero 💎 (@zzzzzeroooo)
+
+- 抓取时间：2025-10-21T00:09:28.009Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：25941 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：11
+- 抓取尝试：1
+- Cursor 链：10 条
+- 账号统计：粉丝 26071，关注 3586，推文 7238，点赞 431
+- 所在地：cn
+- Twitter：https://twitter.com/zzzzzeroooo
+- 头像：https://pbs.twimg.com/profile_images/1904956842918469632/-TwpFLhj_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1411071430960181250/1708851263
+- 认证：Blue Verified
+
+> 账号简介：
+> 不知名链上alpha.
+>  
+> 币安钱包冲土狗：https://t.co/3SAfX5nSWk
+
+---
+
+## 1. Oct 20, 2025 · 5:22 PM UTC · 1980323786655457713#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1980323786655457713#m
+- 作者：@zzzzzeroooo
+
+> bnb第二波空投啥时候开始啊，没钱用了
+
+## 2. Oct 19, 2025 · 10:00 AM UTC · 1979850122017321376#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1979850122017321376#m
+- 作者：@zzzzzeroooo
+
+> 为什么不发ca
+
+## 3. Oct 11, 2025 · 7:17 AM UTC · 1976910062787707371#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1976910062787707371#m
+- 作者：@zzzzzeroooo
+
+> 机会一直都在
+> 别懊悔没有买到最低点，
+> 没爆仓你就已经赢了100多万人了
+> 😉
+
+## 4. Oct 11, 2025 · 7:07 AM UTC · 1976907597296157085#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1976907597296157085#m
+- 作者：@zzzzzeroooo
+
+> 说来也搞，平时都是早早休息了。
+> 夜里那个日本猫要来BSC发币，一直PUA到5点，哥们等的实在急眼了，刚准备洗澡睡觉，大盘蹦了。
+>  
+> 感谢傻逼日本猫，也感谢凌晨5点还在努力找机会的自己。
+
+## 5. Oct 10, 2025 · 1:06 PM UTC · 1976635393811648947#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1976635393811648947#m
+- 作者：@zzzzzeroooo
+
+> 服务器应该在日本，普遍日本的MS较低
+
+## 6. Oct 10, 2025 · 12:11 PM UTC · 1976621519158816875#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1976621519158816875#m
+- 作者：@zzzzzeroooo
+
+> 兄弟们 你们bn wallet 右下角延迟分别是多少？对应的哪里的VPN？
+>  
+> 80ms 香港
+
+## 7. Oct 10, 2025 · 7:12 AM UTC · 1976546280542474493#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1976546280542474493#m
+- 作者：@zzzzzeroooo
+
+> 币安独家买卖被人破解了？
+>  
+> bscscan.com/address/0x9a2f7d…
+>  
+> 按照目前独家2-3秒的显示延迟，这机器人要降维打击了呀。
+>  
+> 不确定是不是BN合作的钱包啥的在测试，有无懂哥。
+>  
+> 理论上应该不是
+> 1.买币钱包自动转出代币到其他钱包。
+> 2.列表识别出狙击bot
+>  
+> 截图代币CA仅为演示，勿冲。
+
+## 8. Oct 9, 2025 · 5:00 AM UTC · 1976150880769712344#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1976150880769712344#m
+- 作者：@zzzzzeroooo
+
+> 提前准备好币安发射台哦
+> 邀请码：D3BVXH3J
+>  
+> web3.binance.com/referral?re…
+
+## 9. Oct 5, 2025 · 4:33 AM UTC · 1974694348580401540#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1974694348580401540#m
+- 作者：@zzzzzeroooo
+
+> bsc玩法
+> 监控cz、币安、何一推文
+> 然后如下图
+
+## 10. Sep 27, 2025 · 4:46 PM UTC · 1971979698369696073#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1971979698369696073#m
+- 作者：@zzzzzeroooo
+
+> 群友想做投研 支持一波
+
+## 11. Jun 27, 2025 · 3:22 PM UTC · 1938618829921485104#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1938618829921485104#m
+- 作者：@zzzzzeroooo
+
+> 北大三人组中的一员，
+>  
+> 学无止境
+
+## 12. Mar 25, 2025 · 3:16 PM UTC · 1904552863088656604#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1904552863088656604#m
+- 作者：@zzzzzeroooo
+
+> 确定了，是盗号，
+>  
+> 签名号秒清空。
+
+## 13. Mar 25, 2025 · 3:09 PM UTC · 1904551143206002837#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1904551143206002837#m
+- 作者：@zzzzzeroooo
+
+> ai16z创始人疑似被盗，预售链接别打别签名。
+>  
+> 已经打了的 先转移资产
+
+## 14. Mar 17, 2025 · 11:20 AM UTC · 1901594540265349329#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1901594540265349329#m
+- 作者：@zzzzzeroooo
+
+> 哪有什么技巧，玩BSC 盯着这个页面就够了.
+
+## 15. Mar 14, 2025 · 10:18 AM UTC · 1900491651728240672#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1900491651728240672#m
+- 作者：@zzzzzeroooo
+
+> 推特扫了一个小时项目,越扫越抽象.
+>  
+> 粉丝多了,真的会让自己的心态发生变化.
+>  
+> 几百粉丝的时候,发东西根本不需要考虑太多,
+> 有角度有前景,直接发出去干就完了.
+>  
+> 渐渐的粉丝多了,发东西会开始卷起来,会开始较为严格的筛选项目,然后因为某一两次的失误、看走眼被喷的不再敢发项目.
+>  
+> 记忆里比较深刻的是2件事情.
+>  
+> 改变了我挺多.
+>  
+> 1,铭文时期有个KOL 拉了一个铭文扫链小组,然后把我排除在外, 究其原因是“你发东西太快了,你在里面大家没肉吃”
+>  
+> 2,有个早期项目拿白,我推上发了信息,让大家拿白,结果后面项目方作恶,开了个预售打钱,收了30多万U跑了,而我在睡觉,没有看到,粉丝被跑路,跑来狂喷我,说我开的.
+>  
+> 不要太高估推特博主的能力,但是也别低估他们的敛财能力.
+>  
+> 铭文那会,某些收费铭文找我广告,聊的都是分成模式.
+>  
+> 打完收百万u，给到我10%,虽然我从来没接过.
+>  
+> 也许是性格所致,也可能是粉丝涨的太快,让我没做好准备.
+>  
+> 我觉得我发出来的东西,大家都能赚钱就行了.
+>  
+> 早期我确实做到了,后期我真做不到,太卷了,卷的我自己有时候都打不上.
+>  
+> 有点迷茫.
+>  
+> 后面做了Z群,目前运营的还算理想,群里真的有很多一步一步做到了衣食无忧,当然,也有亏着钱的人.
+>  
+> 下一步应该怎么搞 有点迷
+>  
+> 年初的时候想,今年就是最后一年,年底退圈,回归生活.
+>  
+> 三十而立,需要找一些币圈以外的事情去奋斗了.
+>  
+> 只是发发牢骚,也谢谢大家也还一直记得我,尽管我总是发一些有的没的.
+>  
+> 文章最后,送大家一点小礼物.
+> 收集的一些推特KOL的SOL地址,查漏补缺.
+>  
+> docs.google.com/spreadsheets…
+
+## 16. Feb 26, 2025 · 2:12 PM UTC · 1894752434989449297#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1894752434989449297#m
+- 作者：@zzzzzeroooo
+
+> 这种行情还能玩PUMP的都是聪明钱，
+>  
+> 不聪明的已经没钱了
+
+## 17. Feb 3, 2025 · 12:30 PM UTC · 1886391736164921541#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1886391736164921541#m
+- 作者：@zzzzzeroooo
+
+> 来点新东西吧, 玩累了.
+>  
+> 体验不到投研的乐趣
+
+## 18. Jan 28, 2025 · 4:28 PM UTC · 1884277462231834652#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1884277462231834652#m
+- 作者：@zzzzzeroooo
+
+> 新年快乐，
+> 过去的一年精力上确实有点跟不上了。
+> 铭文那一波熬的太狠了，
+> 不过眼看着Z群建立之初
+> 一群充满斗志的小伙子们一个个的都资产 add zero。
+> 我觉得我做了正确的事情。
+>  
+> 越努力 越幸运,冲！！
+
+## 19. Jan 26, 2025 · 4:45 AM UTC · 1883375636695359502#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1883375636695359502#m
+- 作者：@zzzzzeroooo
+
+> 目前龙头4x左右
+>  
+> 其他的倍数也还行，大d的涨的挺快.😗
+
+## 20. Jan 24, 2025 · 4:57 PM UTC · 1882835125152657894#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1882835125152657894#m
+- 作者：@zzzzzeroooo
+
+> tribe.run/join/874fce
+>  
+> @thebillzh  可以研究下,类似FT?
+
+## 21. Jan 21, 2025 · 5:51 AM UTC · 1881580428571914280#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1881580428571914280#m
+- 作者：@zzzzzeroooo
+
+> 这个世界多了一个伤心的人
+>  
+> 多发正能量
+
+## 22. Jan 14, 2025 · 7:40 AM UTC · 1879071078791971134#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1879071078791971134#m
+- 作者：@zzzzzeroooo
+
+> 太他妈抽象了，
+> 老外在小红书上问中国有啥好玩的游戏，
+> 下面那回复的叼毛给老外发了个拼多多砍价链接
+
+## 23. Dec 31, 2024 · 4:21 PM UTC · 1874128752965542214#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1874128752965542214#m
+- 作者：@zzzzzeroooo
+
+> 那就祝大家新的一年，
+> 不卖飞，能拿住，
+> 卖在rug前,买在车头前。☺️
+>  
+> 2025年也要继续努力！
+
+## 24. Dec 31, 2024 · 6:29 AM UTC · 1873979827117814125#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1873979827117814125#m
+- 作者：@zzzzzeroooo
+
+> 感谢马斯克的新年红包
+
+## 25. Nov 18, 2024 · 6:19 AM UTC · 1858394549347135586#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1858394549347135586#m
+- 作者：@zzzzzeroooo
+
+> 2000 一组了，去看看~
+
+## 26. Nov 11, 2024 · 4:44 PM UTC · 1856015177591992422#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1856015177591992422#m
+- 作者：@zzzzzeroooo
+
+> 建议OKX钱包开发一个 代币保险柜
+>  
+> 用户存代币进去可以设置日期限制
+>  
+> 例如设置存进去10天，10天内天王老子来了也不给你取出来。
+>  
+> 这对纸手来说，真的很重要。
+>  
+> @okxweb3
+
+## 27. Oct 25, 2024 · 12:09 AM UTC · 1849604281940459665#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1849604281940459665#m
+- 作者：@zzzzzeroooo
+
+> 好久没打符文了，打了点这个@cyphergenesisAI
+
+## 28. Oct 23, 2024 · 1:13 AM UTC · 1848895405431656804#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1848895405431656804#m
+- 作者：@zzzzzeroooo
+
+> 想新建一个小号推特去匿名喊单土狗 🙂
+
+## 29. Oct 14, 2024 · 10:18 AM UTC · 1845771266998849580#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1845771266998849580#m
+- 作者：@zzzzzeroooo
+
+> 巨魔时间到啦！
+
+## 30. Oct 11, 2024 · 3:13 AM UTC · 1844576959713677410#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1844576959713677410#m
+- 作者：@zzzzzeroooo
+
+> 好帅啊，国内会上吗？
+>  
+> 想买！！
+
+## 31. Oct 10, 2024 · 2:41 PM UTC · 1844387736377229780#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1844387736377229780#m
+- 作者：@zzzzzeroooo
+
+> 铭文空投 @joker_Ordinals
+>  
+> 资产大于100u
+> 持有 $rats $sats $ordi $wzrd $pizza 等可以去领
+>  
+> 之前 pizza 的号我看了下可以领21个，目前单价0.6u
+>  
+> 传送门:jokerbtc.org?inviter=bc1p43d…
+>  
+> 现在只能查询，别点cleam
+>  
+> 5天后开放领取。
+
+## 32. Oct 6, 2024 · 3:00 PM UTC · 1842943071333531981#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1842943071333531981#m
+- 作者：@zzzzzeroooo
+
+> 用挖坑的钱包给自己小号地址转10亿个fomo，
+> 退还 0.33sui的gas，自己去退GAS
+
+## 33. Oct 4, 2024 · 5:46 PM UTC · 1842259896101953711#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1842259896101953711#m
+- 作者：@zzzzzeroooo
+
+> 昨天发推的时候fomo 一笔可以挖 15,190,937,500
+> 目前每一笔可以卖 2.71 sui
+>  
+> 目前减产若干次之后 一笔 29669780
+>  
+> 昨天的一笔等于现在的512笔
+>  
+> windows 可以关机，MAC继续
+
+## 34. Oct 3, 2024 · 5:24 PM UTC · 1841892061773242694#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1841892061773242694#m
+- 作者：@zzzzzeroooo
+
+> 国人项目 别挖了
+>  
+> 让我一个人亏GAS 🥺
+
+## 35. Sep 30, 2024 · 5:57 PM UTC · 1840813273685626917#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1840813273685626917#m
+- 作者：@zzzzzeroooo
+
+> 幻影钱包可以注册钱包域名了，不用GAS
+>  
+> 点击这里 👇
+
+## 36. Sep 29, 2024 · 10:08 AM UTC · 1840332854993252511#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1840332854993252511#m
+- 作者：@zzzzzeroooo
+
+> 《十一国庆假期游玩计划》
+>  
+> 1. 在SOL逛pumpfun商城
+> 2. 在ETH进行city walk
+> 3. 参加“我和群友谁亏钱最快”的邀请赛
+> 4. 参加币圈狼人杀之“谁是狗庄又割我”活动
+> 5. 逛sui bsc base链项目展览 我就看看就不买
+> 6. 逛预售商店 花钱预定一下半年不开盘的预售代币
+> 7. 参观学习区块链历史展览馆 学习一下都是怎么跌没的
+>  
+> 计划做的真棒 我已经迫不及待了 真是一个愉快的假期
+
+## 37. Sep 25, 2024 · 5:41 AM UTC · 1838815947924345088#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1838815947924345088#m
+- 作者：@zzzzzeroooo
+
+> SUI链交易体验真不错
+
+## 38. Sep 17, 2024 · 5:09 AM UTC · 1835908813402337443#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1835908813402337443#m
+- 作者：@zzzzzeroooo
+
+> FB赚钱了吗？
+
+## 39. Aug 29, 2024 · 3:38 PM UTC · 1829181728960966888#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1829181728960966888#m
+- 作者：@zzzzzeroooo
+
+> Zero 也是出息了，蹭到天使流量了
+>  
+> 跟新粉丝说一下，不用私信我 要加群
+>  
+> 有空位推特会发表格
+>  
+> 几十条私信实在回复不过来，统一回复了。
+
+## 40. Aug 28, 2024 · 11:11 AM UTC · 1828752205463368000#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1828752205463368000#m
+- 作者：@zzzzzeroooo
+
+> dbotx.com/?ref=47161796
+>  
+> 支持tron sunpump 了，最骚的是，支持跟单了。
+
+## 41. Aug 24, 2024 · 5:32 PM UTC · 1827398602282647586#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1827398602282647586#m
+- 作者：@zzzzzeroooo
+
+> 币安钱包上架了 four.meme 板块
+> 前几天的binance dog 就是出自这个平台
+>  
+> four.meme?code=9H29F42P9RXY
+>  
+> 平台有一些获取积分的任务
+>  
+> 详见图1、图2
+>  
+> 第一季活动于10月20号结算、
+>  
+> 积分的作用见图3
+>  
+> 这2天在小打小闹，没有很认真的刷这个。
+>  
+> 币安钱包上架板块 + 发推宣传
+>  
+> 基本上是要开卷了,不过老话说 bsc无大毛
+>  
+> 没有现成环境开刷也可以选择观望.
+
+## 42. Aug 17, 2024 · 7:52 AM UTC · 1824715935774806391#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1824715935774806391#m
+- 作者：@zzzzzeroooo
+
+> 项目投研 - SideKick
+>  
+> Sidekick是一个社交 & 游戏网络
+>  
+> 它为游戏和加密货币提供配套服务，发现游戏、社区参与和内容创作者货币化平台的一体化服务平台。
+>  
+> Binance Labs MVB VII 的项目之一，该计划于23年12月发布，
+> 总共入围13个项目，Sidekick是唯一专注与社交和新用户采用的产品。
+>  
+> 在加入 web3 之前该团队就已经具备了完整的开发流程，用户基础180K，
+> Sidekick 也与《英雄联盟》、《堡垒之夜》和《CS:GO》等 40 多款游戏合作。
+>  
+> 团队之前已经上线了一个基于Discord和WebApp的陪玩工具，已超过了130万的用户。
+>  
+> 但是一直没有完全公布任何的积分规则，
+>  
+> 这次是第一次发布Tap 2 earn的工具，里面明确的积分系统看来和空投有可能会有直接关联。
+>  
+> - SideFans: t.me/sidekick_fans_bot
+> - Twitter: localhost:8080/Sidekick_Labs
+> - Discord: discord.gg/sidekick
+> - WebApp: app.sidekick.fans/
+> - Telegram community: t.me/sidekick_official
+
+## 43. Aug 5, 2024 · 4:13 PM UTC · 1820493374123913243#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1820493374123913243#m
+- 作者：@zzzzzeroooo
+
+> 经群友提醒，年初打的uniworld 那个域名空投了钥匙，
+>  
+> 金钥匙目前价格0.015 BTC
+>  
+> 造型长这样.. 去翻翻钱包看看吧
+
+## 44. Aug 2, 2024 · 7:21 AM UTC · 1819272246705508443#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1819272246705508443#m
+- 作者：@zzzzzeroooo
+
+> KELPdao 跟 Efrogs 合作了，
+>  
+> 持有小青蛙NFT 重新操作一下 有 50% 质押奖励加成
+>  
+> 银河任务有抽小青蛙。
+>  
+> 快发币了，质押项目有风险，自行研究。
+
+## 45. Jul 29, 2024 · 1:12 PM UTC · 1817910997358973414#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1817910997358973414#m
+- 作者：@zzzzzeroooo
+
+> 之前抽奖的熊本熊
+>  
+> 现在可以查白单了
+>  
+> 因为熊链推迟到了，项目方那边计划8月6号在arb先MINT，后期跨到熊链。
+>  
+> 之前中奖的小伙计自查 👇👇
+> kuma.unemeta.com/whitelist
+
+## 46. Jul 27, 2024 · 10:59 PM UTC · 1817334077776900176#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1817334077776900176#m
+- 作者：@zzzzzeroooo
+
+> 什么？
+>  
+> 我居然重生到了2024年7月28日凌晨2点
+> 再过几个小时 就是比特币大会了
+> 上一世我记得 就是这个大会
+> 所有人的注意力都在特朗普
+> 但是doge币的主人在悄无声息中宣布了自己的新柴犬
+> 上一世就是因为踏空了那只柴犬
+> 才害的我上头开合约爆仓
+>  
+> 这一世 我一定要赢
+
+## 47. Jul 27, 2024 · 10:03 PM UTC · 1817319921325633925#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1817319921325633925#m
+- 作者：@zzzzzeroooo
+
+> 今日总结：
+> trump 演讲 慷慨激昂，
+> 划重点:
+> 要开除现SEC主席
+> 永远不要卖出比特币
+> 2个代币光速陨落
+>  
+> DOGE 他妈 领养了一只新的狗狗
+>  
+> 名字叫Neiro ，半小时30M，创PUMP记录。
+
+## 48. Jul 27, 2024 · 9:27 PM UTC · 1817310893065281658#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1817310893065281658#m
+- 作者：@zzzzzeroooo
+
+> Neiro 自由的风
+
+## 49. Jul 25, 2024 · 9:26 AM UTC · 1816404591568912472#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1816404591568912472#m
+- 作者：@zzzzzeroooo
+
+> 结束了，
+>  
+> 应该是类似史莱姆那种养成，
+>  
+> 目前市场几U一张，蚊子腿。
+
+## 50. Jul 25, 2024 · 8:40 AM UTC · 1816392963376779593#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1816392963376779593#m
+- 作者：@zzzzzeroooo
+
+> 搓一点防身
+> free 免GAS
+> 猫NFT + 新链 + 有空投预期
+>  
+> 需要用到邮箱，10分钟邮箱即可。
+
+## 51. Jul 21, 2024 · 12:26 PM UTC · 1815000401047085474#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1815000401047085474#m
+- 作者：@zzzzzeroooo
+
+> 中奖的小伙计私信我 bc1p 地址
+> 10点前~
+>  
+> 1. @Macro952
+> 2. @M1816647639380
+> 3. @zhongguihai9
+> 4. @D973616712Bo
+> 5. @kristins1979
+
+## 52. Jul 21, 2024 · 10:42 AM UTC · 1814974262345875866#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1814974262345875866#m
+- 作者：@zzzzzeroooo
+
+> 很久没抽奖了,卖屁股拿了点白.
+> @btcordinal  留言里抽5个.
+>  
+> 团队实力蛮强的，之前发的几个NFT表现都还行。
+>  
+> 有兴趣自己研究。
+
+## 53. Jul 18, 2024 · 5:58 PM UTC · 1813996738841309466#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1813996738841309466#m
+- 作者：@zzzzzeroooo
+
+> 输入 #MAGA    推特会自动在这个后缀加上特朗普举拳头的这个造型，似乎是第一次，不知道是不是热点。
+
+## 54. Jul 18, 2024 · 5:57 PM UTC · 1813996533400154521#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1813996533400154521#m
+- 作者：@zzzzzeroooo
+
+> #MAGA 测试
+
+## 55. Jul 17, 2024 · 10:40 AM UTC · 1813524242501447741#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1813524242501447741#m
+- 作者：@zzzzzeroooo
+
+> 左手MINT，右手出货，
+> 主打一个服务周到
+
+## 56. Jul 17, 2024 · 9:35 AM UTC · 1813507805418254422#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1813507805418254422#m
+- 作者：@zzzzzeroooo
+
+> 一起卷 总量100万
+> freemint
+>  
+> 把家打散
+
+## 57. Jul 16, 2024 · 10:45 AM UTC · 1813163049748164749#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1813163049748164749#m
+- 作者：@zzzzzeroooo
+
+> 项目投研 LayerNet
+>  
+> LayerNet 致力于建设 TON 生态中的Gaming Layer，计划搭建TON的二层网络，
+>  
+> 设计游戏所应用的SDK来使得Tg游戏 深度的融合TON区块链的特性，服务于Tg用户。
+>  
+> 旗下产品 NetCoin 是一款通过点击就可以轻松赚取收益的休闲游戏，用户通过点击即可赚取代币$NET。
+>  
+> 原生代币$Net将于7月底上线交易所，项目进展很快，周期非常短。
+>  
+> 积分只要超过 1万分 就确定有空投。
+>  
+> 推特:@layernet_ai
+> TG:@layernetofficial
+>  
+> 近期 Ton 链 小游戏空投随着 not 的上所而持续火爆，
+>  
+> 简单直接的获取用户，TG强大的用户基础，促使了 TG小游戏空投这个赛道的风靡。
+>  
+> 强如babydoge，也在昨天进军了 tg 小游戏。
+>  
+> LayerNet 目前游戏内支持了耕种 dogs，详情可参考下面推文。
+>  
+> localhost:8080/layernet_ai/status/181…
+>  
+> 目前用户数增长的很快，目前根据官方数据已经突破了100万，有小道消息称目前开发团队在跟dwf接触 （真实性未知）
+>  
+> 但需要注意的是，LayerNet 团队并不是只做这一单一的小游戏，它的方向是 开发通用 TG 小游戏 SDK，提供服务。
+>  
+> 目前还没有同赛道的概念，还是比较期待后续表现的。
+>  
+> 怎么撸它？
+>  
+> t.me/layernet_netcoin_bot/ne…
+>  
+> 目前官方在举办的0撸积分活动，类似其他 TON 小游戏
+>  
+> 点击、签到、邀请获得积分，完成社交任务即够1万分空投标准（TG进群，推特关注，discord进群）
+>  
+> 需要注意的是，目前似乎只支持在手机端。
+>  
+> 18号 代币 将在 Bybit ido，有巴比特账户的可以关注一下。
+
+## 58. Jul 15, 2024 · 5:18 PM UTC · 1812899592943595894#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1812899592943595894#m
+- 作者：@zzzzzeroooo
+
+> 舒服了
+
+## 59. Jul 15, 2024 · 3:01 PM UTC · 1812865084848533779#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1812865084848533779#m
+- 作者：@zzzzzeroooo
+
+> t.me/BabyDogePAWS_Bot?start=…   babydoge的游戏开了
+>  
+> 必须TG 手机端
+
+## 60. Jul 11, 2024 · 3:13 PM UTC · 1811418498180255770#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1811418498180255770#m
+- 作者：@zzzzzeroooo
+
+> 撸子很猛
+
+## 61. Jul 11, 2024 · 12:26 PM UTC · 1811376467345121461#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1811376467345121461#m
+- 作者：@zzzzzeroooo
+
+> 但行好事 莫问前程 😋
+
+## 62. Jul 10, 2024 · 3:50 PM UTC · 1811065375561503229#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1811065375561503229#m
+- 作者：@zzzzzeroooo
+
+> t.me/dogshouse_bot/join?star…
+>  
+> tg上的空投  可以去领一波，目前场外价格0.02u附近
+>  
+> 根据 TG 账户质量来决定空投数量。
+>  
+> 之前有做 TG 批量账户 可以去操作一波
+>  
+> 送钱局，理论上来说建议去双压出币，
+>  
+> 毕竟 tg 工作室可太狠啦，币大量集中在工作室、卖号哥手中。
+
+## 63. Jul 7, 2024 · 3:27 AM UTC · 1809791199777276007#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1809791199777276007#m
+- 作者：@zzzzzeroooo
+
+> TON 行情还不错 冲的几个涨幅都还行
+
+## 64. Jul 5, 2024 · 4:32 AM UTC · 1809082980352282975#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1809082980352282975#m
+- 作者：@zzzzzeroooo
+
+> 这行情 不知道不发病的 凉兮得赚多少钱。😖😖
+
+## 65. Jul 4, 2024 · 5:00 AM UTC · 1808727550035964030#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1808727550035964030#m
+- 作者：@zzzzzeroooo
+
+> 花了1个小时深入研究了一下 ton 生态,有点类似SOL早期.
+> 基于TG，用户量有一定的保证，小游戏类已经被工作室包场了，收入甚微。
+> 目前MEME生态还处于萌芽阶段，可以提点 TON 防身。
+>  
+> 刚好有朋友问我工具类的信息，这里发一些收集到的工具。
+>  
+> 类似pump的 TON 内盘.
+>  
+> gasPump: t.me/gasPump_bot/app?startap…
+>  
+> wonton: wonton.fun
+>  
+> ton链 机器人（相比大师可能更好用一些，且可以切中文。）
+> t.me/tontrade?start=pdzTeXRe
+>  
+> 查合约（ton链存在貔貅，冲之前最好查一下合约安全性，跟持仓，但不是100%准确，同时支持查钱包盈亏情况）
+> t.me/TonChainScannerBot
+>  
+> 监控
+> t.me/TON_Boost_bot   免费10个地址
+>  
+> t.me/tonalytics_bot/app?star…   付费，2TON/30天 不限钱包数
+>  
+> 扫链工具 （流动性添加提醒）
+>  
+> t.me/liquid_dust
+>  
+> TON钱包 （这个钱包之前打铭文的时候应该都下载过，建议TG自带的钱包 + 这个钱包）
+>  
+> tonkeeper.com
+>  
+> 如果你不想自己建立监控钱包库，可以用我朋友搞的公共库，这个群组是专门用来讨论ton 生态的，
+> 但需要注意的是，群组内一切让你付费的东西，你都要说 "NO"，我只是参与者。
+>  
+> t.me/tonwalletalerts
+>  
+> 还有其他好的工具可以在评论区放上链接嗷 😋
+
+## 66. Jul 2, 2024 · 9:19 AM UTC · 1808068005555064981#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1808068005555064981#m
+- 作者：@zzzzzeroooo
+
+> 想换这个当头像
+
+## 67. Jul 1, 2024 · 2:31 AM UTC · 1807602910295183480#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1807602910295183480#m
+- 作者：@zzzzzeroooo
+
+> 开奖了，需要艾特的人太多了，我就不一一艾特了。
+>  
+> 开奖人数修改成了25，即中奖者每人2个白。
+>  
+> 对照一下截图内中奖信息，私信发我EVM地址即可。
+
+## 68. Jun 30, 2024 · 1:54 PM UTC · 1807412518245310565#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1807412518245310565#m
+- 作者：@zzzzzeroooo
+
+> 明天白天开奖
+
+## 69. Jun 30, 2024 · 3:53 AM UTC · 1807261182665134562#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1807261182665134562#m
+- 作者：@zzzzzeroooo
+
+> 一觉睡醒铺天盖地的KAS铭文
+>  
+> 几句话分析一下 （非广告，可打可不打。）
+>  
+> 1.大概率国人
+> 2.打第一个跟总量较小的不容易亏
+> 3. 官方bot 一次扣费0.1 KAS服务费，有技术建议自写机器人
+> 4. 打完上SWAP有利润的话先出本
+>  
+> 官网：kasplex.org/home
+> ware钱包：kasware.xyz/ware
+>  
+> bot: t.me/kspr_home_bot?start=AXV…
+>  
+> 目前的几个明确开打时间的盘，我会打第一个第二个
+>  
+> $KASTOR 22:00-22:30 kastorcoin.com/
+> 总量450亿
+>  
+> $GHOAD 23:00 ghoadcoin.xyz/ 总量40亿
+>  
+> $NACHO 23:30 nachowyborski.xyz/ 总量2780亿
+>  
+> $KASPER 24:00 kaspercoin.net/ 总量287亿
+
+## 70. Jun 28, 2024 · 12:15 PM UTC · 1806662737654923521#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1806662737654923521#m
+- 作者：@zzzzzeroooo
+
+> 香港之行一切顺利，玩的很开心。               明晚回去开奖，不想打也可以抽一下。     中了填小钱包，也许白可以卖掉哦。       目前中奖率8分之1
+
+## 71. Jun 27, 2024 · 6:30 PM UTC · 1806394648388407786#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1806394648388407786#m
+- 作者：@zzzzzeroooo
+
+> 感谢borpa 大科送来的温暖                               被盗的全回来了
+
+## 72. Jun 24, 2024 · 10:53 AM UTC · 1805192428951142612#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1805192428951142612#m
+- 作者：@zzzzzeroooo
+
+> 抽奖在这里抽奖在这里抽奖在这里 🖖
+>  
+> 关注：
+> @UNE_KUMAMON_NFT
+> @UneWeb3
+> @zzzzzeroooo
+> Join Discord: discord.com/invite/YzztkC6EN…
+>  
+> 回复EVM地址 + 点赞
+>  
+> 50个 FCFS白名单回复中全抽了。😁
+
+## 73. Jun 24, 2024 · 10:50 AM UTC · 1805191717924315531#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1805191717924315531#m
+- 作者：@zzzzzeroooo
+
+> 项目投研 - UneMeta 熊本熊 NFT
+>  
+> 项目背景
+>  
+> 熊本熊是日本最知名的吉祥物之一，UneMeta × Kumamon 由 UneMeta.UneMeta 提供支持，@UNE_KUMAMON_NFT @UneWeb3
+>  
+> 是一个以 IP 为中心的社区层。UneMeta 是目前唯一一个与日本顶级动画 IP 成功合作案例众多的 Web3 平台，正扩展到全球。
+>  
+> 5月5号 UneMeta 发布了与 BeraChain 的合作公告，BeraChain转推。
+> localhost:8080/UneWeb3/status/1786901…
+>  
+> UneMeta x Kumamon 与 BeraChain 的各个赛道的大部分头部项目都建立了深度的合作.
+> 邀请了 BeraChain 各大头部项目 Founder 联合举办了规模最大的 AMA，同时在线收听人数超过1000人。
+>  
+> NFT信息
+>  
+> 总量：3000
+> 价格：100u等值的ETH
+> 公链：BeraChain
+> 时间：待定
+>  
+> 如何获取白名单？一鱼多吃！
+>  
+> 可以参与幸运转盘，获得熊本熊币，就有机会获得白名单。
+>  
+> 传送门：kuma.unemeta.com/
+>  
+> 除了通过旋转赚取金币和 uuu 以外，unemeta 还有各种联动活动。比如上个 Kumamon 与 $FOXY 的合作，
+> 玩大转盘可以得到$FOXY Token。 （很久前有让大家批量这个平台。）
+>  
+> 你需要有 UUU 积分才能旋转幸运轮。完成任务即可获得 UUU 积分！
+>  
+> UUU 积分也是 UneMeta 的每日互动积分。UUU 持有者有可能在 TGE 后收到代币空投。
+>  
+> 完成任务后，通过支付 Bera 的 gas 费领取您的 UUU 奖励。
+>  
+> 同时获得 bear chain 的互动数据。
+>  
+> 没有 Bera 也可以去 UneMeta 提供的水龙头进行领水
+>  
+> Bera 的领取需要ETH主网 有0.001ETH和 验证社交链接（社交账号必连，后面空投啥的都需要验证这个。）
+>  
+> 水龙头传送门：faucet.unemeta.com
+>  
+> ​​获得 UUU 积分 后，每旋转一次需要消耗一定数量的UUU，有最低保证奖励。
+>  
+> 积累的金币越多，获得熊本熊白名单的几率就越高。
+>  
+> 这个月还有一场与 Berachain 的合作活动，也是零成本参与，可以等待活动出来。
+>  
+> NFT特殊机制
+>  
+> Kumamon NFT 拥有独特地板价保护机制
+>  
+> 1. 80% 的mint资金将流入“赎回基金”，该基金由“80% 的mint收入 + 版税收入”组成。
+>  
+> 2. Kumamon(熊本熊) NFT 的版税为 10%，其中 20% 将用于团队，80% 将流入“赎回基金”。
+>  
+> 3. 用户可随时赎回您的资金。获得您所支付的 100% min t费用和基于现有 NFT 总数的版税收入份额。赎回后，NFT 数量将会相应减少1。
+>  
+> 在该机制下，将会有源源不断的套利者，不断铸造、赎回熊本熊 NFT 以获得其中的差价，这也意味着在其总量恒定的情况下，“赎回基金”规模将不断增加，而随着每次赎回行为的发生都意味着由 NFT 被不断销毁，版税池资金潜在分配给剩余 NFT 的比例越来越高，熊本熊 NFT 潜在价值将不断攀升。
+>  
+> 更为直观的理解，熊本熊 NFT 本身具备一个螺旋上涨的机制，即每次赎回 NFT 时，赎回价格总是 铸造价格 + 版税池的资金分配，也就是总是高于铸造价值。
+>  
+> 每当有熊本熊 NFT 被铸造、交易行为发生时，用于赎回 NFT 的“赎回基金”与版税池的资金规模都会增加，资金储备充足。虽然在赎回时会从这些池中提取部分资金，但熊本熊 NFT 本身的总量是恒定不变的，不断销毁其数量将不断减少，所以每当有熊本熊 NFT 被赎回时，就会不断地抬高熊本熊 NFT 的地板价，进而推动上升螺旋。
+> 很多人会因为有利可图，而不断进行铸造、赎回行为赚取差价，这将成为推动螺旋能够持续保持上升的驱动力，同时也能为熊本熊 NFT 保持流动性提供基础。
+>  
+> #Une #Uneweb3
+
+## 74. Jun 24, 2024 · 7:34 AM UTC · 1805142332515438637#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1805142332515438637#m
+- 作者：@zzzzzeroooo
+
+> 夺舍了？
+
+## 75. Jun 23, 2024 · 3:55 AM UTC · 1804725021694394776#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1804725021694394776#m
+- 作者：@zzzzzeroooo
+
+> 检查私信。
+>  
+> @suqing0202
+> @hunggudng193260
+
+## 76. Jun 23, 2024 · 2:08 AM UTC · 1804698070040617344#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1804698070040617344#m
+- 作者：@zzzzzeroooo
+
+> 钱不多，没啥问题，主要是恶心。
+>  
+> 确实是很低级的错误，挺懊恼的。
+>  
+> 发出来只是为了让大家引以为戒。
+>  
+> 大家当个乐子看就行了。
+> （新闻能不能删了，要脸。）
+
+## 77. Jun 22, 2024 · 4:06 PM UTC · 1804546581989151218#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1804546581989151218#m
+- 作者：@zzzzzeroooo
+
+> 钱包被盗了。🤧🤧
+>  
+> 原因是，下午在冲一个pump，下面留言有一个CTO链接。
+>  
+> 进TG频道，出来一个频道验证，正常验证是点一下，自动完成验证，进群。
+>  
+> 骗子伪造了这一步，你点击验证会出现一个二维码，让你登录，我以为是IP上的问题，没多想，扫了一下。
+>  
+> 这时候你的TG其实已经登录到了骗子的设备上。
+>  
+> 晚上吃完火锅回来，发现TG上大部分机器人余额被转走，
+> 立马操作，挽回了2万多U，大约损失4万多U。
+>  
+> 第一次被自己蠢到，不过这种骗术应该很久了，我本人是第一次遇到，TG BOT风靡，但安全性确实很差劲。
+>  
+> 也许可以加一些密码用来防盗，比如，转账，导出私钥啥的需要输入密码，不然TG一旦泄露，就跟裸女遇上老光棍一样，没有任何反抗能力。
+>  
+> 引以为戒。🥶
+
+## 78. Jun 22, 2024 · 8:31 AM UTC · 1804432063275372735#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1804432063275372735#m
+- 作者：@zzzzzeroooo
+
+> 你们翻译插件是不是也出问题了？
+
+## 79. Jun 21, 2024 · 7:56 AM UTC · 1804060736081268885#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1804060736081268885#m
+- 作者：@zzzzzeroooo
+
+> 谁在砸我的大SOL子
+>  
+> 快住手！！！
+
+## 80. Jun 20, 2024 · 2:25 PM UTC · 1803796402063216815#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1803796402063216815#m
+- 作者：@zzzzzeroooo
+
+> 各位大佬可不可以帮我选选 offer
+>  
+> 1.阿里80w，但业务比较边缘，属于核心搜索业务的外国辅助  地点杭州。
+>  
+> 2.华为消费者BG17级，号称奖金不低于24个月工资，承诺第三年配股，外派只去发达国家，同事都是 top5 高知群体。
+>  
+> 3.腾讯100w总包，干满两年送港股腾讯股票1500股，社交媒体大数据搜索和匹配岗位。
+>  
+> 4，字节跳动70w+，网络爬虫精准放投领域，据说团队都是美女。
+>  
+> 5.美团70w+30w期权，行权三年，地点北京，有宿舍，每个月2500房租高档公寓点外卖有七折优惠。
+>  
+> 以上5个岗位投了以后都有没回应，现在到拿下两offer:
+>  
+> 1.净水厂操作员，月薪2700，包吃包住
+> 2.洒水车司机，月薪2800，不包吃住
+>  
+> 大家帮看忙看选哪个，比较好，谢谢各位
+
+## 81. Jun 19, 2024 · 3:50 PM UTC · 1803455381689209271#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1803455381689209271#m
+- 作者：@zzzzzeroooo
+
+> 刚好借楼说一下，近期玩PUMP注意一些刷粉骗局号。
+>  
+> 某些KOL，在搞流水线zp，点到为止。
+
+## 82. Jun 19, 2024 · 3:49 PM UTC · 1803454959285051543#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1803454959285051543#m
+- 作者：@zzzzzeroooo
+
+> gn 😙
+
+## 83. Jun 19, 2024 · 3:47 PM UTC · 1803454478479401351#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1803454478479401351#m
+- 作者：@zzzzzeroooo
+
+> @YuZhexi25952 @sam052798
+>  
+> 提前开了吧，犯困了，中奖小伙计检查私信。
+
+## 84. Jun 19, 2024 · 1:53 PM UTC · 1803425964430598246#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1803425964430598246#m
+- 作者：@zzzzzeroooo
+
+> 项目投研 — Lista DAO
+>  
+> Lista DAO 目前空投份额已经可以领了，
+> 参与S1 S2质押，以及币安的积分质押收益都很不错。
+>  
+> 项目背景
+>  
+> @lista_dao 是一个由 LSDfi 提供支持的去中心化稳定币借贷协议。
+>  
+> 用户可以在 Lista 上进行质押和流动质押，也可以根据各种去中心化抵押品借入lisUSD。
+>  
+> ListaDAO 扩展了 MakerDAO 的模型，引入了双代币系统（ lisUSD 和 LISTA）
+>  
+> 以及支持即时转换、资产抵押、借贷和收益农业的机制。原生于 BNB Chain，并计划扩展到多条链。
+>  
+> 投资团队
+>  
+> Lista DAO 联合创始人兼COO，Terry Huang
+>  
+> 前币安地区经理、Chainnews 战略总监，淡江大学物理学硕士。
+>  
+> ListaDAO 前身是 Helio 协议，成立于2022年。
+>  
+> 2023年加入synclub——更名为Lista Dao，并改为LSDFi方向。
+>  
+> 23年 8月 获得 Binance Labs  1000万美元融资
+>  
+> 代币分配
+>  
+> Binance Megadrop：10%
+>  
+> 空投：10%
+>  
+> 投资者及顾问：19%
+>  
+> 团队：3.5%
+>  
+> 社区：40%
+>  
+> DAO 金库：8%
+>  
+> 生态：9.5%
+>  
+> 项目分析
+>  
+> 目前是BSC链最大的质押平台，且获得了币安的投资，未来可期。
+>  
+> 这一期的Lista Magadrop，单号收益都还不错。（准备再加一批低保号）
+>  
+> S2质押收益还行，月收益10%附近，S1更是麻中麻。
+>  
+> 结合第一期BB上线时的表现，感觉空投的Lista 是可以拿一拿的。
+>  
+> 20号同步上 binance, bitget, mexc, kucoin.
+>  
+> 一姐AMA时强调过看好稳定币赛道，作为币安本链的生态项目，可能会币安更多的扶持。
+
+## 85. Jun 19, 2024 · 7:03 AM UTC · 1803322763966591168#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1803322763966591168#m
+- 作者：@zzzzzeroooo
+
+> 考虑了好久，最终还是拒绝了L0的空投
+
+## 86. Jun 19, 2024 · 5:28 AM UTC · 1803298805254856715#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1803298805254856715#m
+- 作者：@zzzzzeroooo
+
+> You are not eligible. 😶
+
+## 87. Jun 18, 2024 · 1:05 AM UTC · 1802870117719785620#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1802870117719785620#m
+- 作者：@zzzzzeroooo
+
+> 畜牲啊
+
+## 88. Jun 17, 2024 · 12:33 PM UTC · 1802680970824618483#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1802680970824618483#m
+- 作者：@zzzzzeroooo
+
+> SOL 彩票小土狗
+> @solgotrizz
+
+## 89. Jun 17, 2024 · 4:42 AM UTC · 1802562338484289560#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1802562338484289560#m
+- 作者：@zzzzzeroooo
+
+> Web3 社交平台 @influpia
+>  
+> 推出了短视频赚币模式，第一部原生短剧《重生之我在币圈当大佬》，
+>  
+> 18号可以在 infvod.io 上免费观看
+>  
+> 通过观看短剧或分享内容即可赚取 $ING 代币
+>  
+> 代币21号上线。
+>  
+> 传送门：infvod.io?code=52EEA376
+>  
+> 通过银河任务 也可 0撸 $merl 和 $ing 代币
+> app.galxe.com/quest/SNCxPjva…
+
+## 90. Jun 15, 2024 · 3:17 AM UTC · 1801816313217827051#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1801816313217827051#m
+- 作者：@zzzzzeroooo
+
+> 刚刚格式有点问题，重新发下。
+>  
+> 插件参考这里
+> localhost:8080/zzzzzeroooo/status/175…
+>  
+> 币圈必备，用了都说好。
+
+## 91. Jun 15, 2024 · 3:16 AM UTC · 1801815938721058987#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1801815938721058987#m
+- 作者：@zzzzzeroooo
+
+> 分享一点小铃铛 自行通过油猴去添加备注
+>  
+> wara @wara_ex   sushi_lab 运作的项目，应该是个社交类的产品
+>  
+> alpha @alpha 疑似要发币，小铃铛，早期进应该可以赚钱
+>  
+> domo @domodata domo可能要发新东西，铃铛。
+>  
+> b3dotfun @b3dotfun base链，疑似应用，杰西关注，需要留意
+>  
+> elijahwheeel @elijahwheeel要迁移到SOL链 需要关注
+>  
+> boomandbloom @boomandbloom   gamefi 暂无太多细节
+>  
+> BASEMEOW @BaseMeow  BASE链猫NFT，7月10号FREE MINT，需要白
+>  
+> Obsidian @Obsidian_1919  ERC1919新协议 可能会发币
+
+## 92. Jun 14, 2024 · 4:41 PM UTC · 1801656232056656307#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1801656232056656307#m
+- 作者：@zzzzzeroooo
+
+> 永赚博主，快出来，刺激一下，我快对加密失去信心了。
+
+## 93. Jun 14, 2024 · 4:26 PM UTC · 1801652456897843389#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1801652456897843389#m
+- 作者：@zzzzzeroooo
+
+> 队长，前两天是我喝多了说的胡话，
+> 我现在回保安大队上班还有位置吗。
+> 自备对讲机
+
+## 94. Jun 14, 2024 · 2:05 PM UTC · 1801616873865285656#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1801616873865285656#m
+- 作者：@zzzzzeroooo
+
+> 3000万 德国赢
+
+## 95. Jun 13, 2024 · 10:35 PM UTC · 1801382807228567643#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1801382807228567643#m
+- 作者：@zzzzzeroooo
+
+> 黄推滚出 Solana.
+> 黄推滚出 Solana.
+> 黄推滚出 Solana.
+>  
+> 冲了几天，全是➗。
+
+## 96. Jun 13, 2024 · 4:49 PM UTC · 1801295925912158470#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1801295925912158470#m
+- 作者：@zzzzzeroooo
+
+> 害怕
+
+## 97. Jun 13, 2024 · 4:59 AM UTC · 1801117083322986587#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1801117083322986587#m
+- 作者：@zzzzzeroooo
+
+> 群友搞的全自动跟单
+> 匹配了N个聪明钱包，触发阈值自动购买。
+>  
+> 这是昨天到今天的战绩
+
+## 98. Jun 12, 2024 · 10:37 PM UTC · 1801020930552209672#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1801020930552209672#m
+- 作者：@zzzzzeroooo
+
+> 扫了一夜PUMP
+>  
+> 被大灯慌的眼睛疼
+
+## 99. Jun 12, 2024 · 3:44 PM UTC · 1800917198032318885#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1800917198032318885#m
+- 作者：@zzzzzeroooo
+
+> 我的新关注，只是为了拿到CA。
+>  
+> 别想歪了
+
+## 100. Jun 12, 2024 · 8:51 AM UTC · 1800813250499764253#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1800813250499764253#m
+- 作者：@zzzzzeroooo
+
+> 私信炸了  统一回复
+> 没付费群  验资群没位置
+> 有位置会在推文发推招人
+> 不需要私信 没后门
+
+## 101. Jun 12, 2024 · 7:59 AM UTC · 1800799996964700416#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1800799996964700416#m
+- 作者：@zzzzzeroooo
+
+> 舒服多了 下辈子还撸ZKS
+
+## 102. Jun 12, 2024 · 7:06 AM UTC · 1800786682557628541#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1800786682557628541#m
+- 作者：@zzzzzeroooo
+
+> 刚提的幻影，怎么样兄弟们。
+>  
+> 是不是保真
+
+## 103. Jun 12, 2024 · 6:34 AM UTC · 1800778618702037056#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1800778618702037056#m
+- 作者：@zzzzzeroooo
+
+> 感觉可以做一些号，有空投说是
+> @loginandwin
+>  
+> 邀请码我的用完了，评论区可以留言一些邀请码出来。
+>  
+> 批量不难，只需要地址跟推特。
+>  
+> 没有指纹浏览器参考下面文章
+>  
+> mirror.xyz/0xC7c2C4C69f58E5E…
+
+## 104. Jun 12, 2024 · 5:46 AM UTC · 1800766609604436045#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1800766609604436045#m
+- 作者：@zzzzzeroooo
+
+> 天道酬勤
+
+## 105. Jun 11, 2024 · 3:27 PM UTC · 1800550395095523421#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1800550395095523421#m
+- 作者：@zzzzzeroooo
+
+> 建议 黄推们 把发的 小黄图同步发到 PUMP，
+>  
+> LSP 们觉得不错会自行购买，权当打赏，
+>  
+> 省去zp的时间，直奔主题。
+
+## 106. Jun 11, 2024 · 7:47 AM UTC · 1800434612344381729#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1800434612344381729#m
+- 作者：@zzzzzeroooo
+
+> ━━━━━┒
+> ┓┏┓┏┓┃兄弟们
+> ┛┗┛┗┛┃下辈子
+> ┓┏┓┏┓┃还撸zk
+> ┛┗┛┗┛┃  ＼😭／
+> ┓┏┓┏┓┃      /
+> ┛┗┛┗┛┃  ノ)
+> ┓┏┓┏┓┃
+> ┛┗┛┗┛┃
+> ┓┏┓┏┓┃
+> ┛┗┛┗┛┃
+> ┓┏┓┏┓┃
+> ┛┗┛┗┛┃
+> ┓┏┓┏┓┃
+> ┃┃┃┃┃┃
+> ┻┻┻┻┻┻
+
+## 107. Jun 11, 2024 · 7:04 AM UTC · 1800423867762253985#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1800423867762253985#m
+- 作者：@zzzzzeroooo
+
+> 兄弟们 电瓶车扔掉
+>  
+> claim.zknation.io
+
+## 108. Jun 11, 2024 · 4:51 AM UTC · 1800390325430858037#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1800390325430858037#m
+- 作者：@zzzzzeroooo
+
+> 上岗第一天，大雾，有雨。
+
+## 109. Jun 11, 2024 · 1:58 AM UTC · 1800346877902332405#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1800346877902332405#m
+- 作者：@zzzzzeroooo
+
+> 哥，pizza 8.6 我先跑了。
+> 天下没有不散的筵席，这场盛宴已经到了最后的时刻，
+> 山珍海味早就已经吃完了，只剩下残羹冷炙，满眼狼藉。聪明的人已经吃饱了悄然离席，
+> 你后知后觉的仍不愿离场，拿着筷子把碗敲的叮当响，幻想期待下一道美味丰盛的主菜，
+> 结果最终迎来的是这场盛宴的巨额账单，盛宴总有人要买单，这次又是你买单
+
+## 110. Jun 10, 2024 · 2:27 PM UTC · 1800172835773849960#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1800172835773849960#m
+- 作者：@zzzzzeroooo
+
+> 监控群中奖的 2 个小火鸡
+> 检查你的私信，TG 链接发给你们了。
+> @amalnath248 @happy3357
+
+## 111. Jun 10, 2024 · 2:22 PM UTC · 1800171581693743428#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1800171581693743428#m
+- 作者：@zzzzzeroooo
+
+> 中奖的小火鸡私信我EVM地址
+>  
+> 1. @Jz_kuku
+> 2. @qizhougongjin
+> 3. @qiaoer666
+> 4. @ethtxy
+> 5. @xDddd_ll
+> 6. @pomeloLin3
+> 7. @qhui888
+> 8. @qjy311
+> 9. @cycle2q
+> 10. @xinwei2222
+
+## 112. Jun 10, 2024 · 3:14 AM UTC · 1800003592889524513#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1800003592889524513#m
+- 作者：@zzzzzeroooo
+
+> 很久没抽奖了，搞一波。 @UXLINKofficial
+>  
+> uxlink.io ，在b2上Mint。
+>  
+> 有些 广子 你们觉得有用就看，没有用就不看。
+>  
+> 我已经尽力筛掉看不上的项目了。
+>  
+> 10 个 free mint 白单，评论中抽，晚 7 开
+>  
+> 不需要转发。
+
+## 113. Jun 10, 2024 · 3:10 AM UTC · 1800002573359091813#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1800002573359091813#m
+- 作者：@zzzzzeroooo
+
+> 综合性 AI 驱动的 DeFi 平台 @0xgen_io
+>  
+> 投资情况:
+> DWF Labs、Principle68 Capital，Bella Protocol，Phoenix Chain，Tensor Investment Corporation，X labs
+>  
+> 目前可以参与银河撸空投，只有300多个人参与，今天最后一天，有银河多号的可以冲一下。
+> app.galxe.com/quest/0xgen/GC…
+>  
+> 代币 11 号在 FjordFoundry 进行 IDO，荷兰拍模式，随意买卖，同步上 GATE。
+>  
+> app.fjordfoundry.com/pools/0…
+>  
+> 近期 ETH 大池子代币表现还可以，有兴趣可以自己关注下荷兰拍，别无脑进，有合适的点位可以尝试买点。
+>  
+> 同步上所流动性相对会比较好，风险就是 AI、DEFI 类代币最近没风口，要玩一定要把握好点位，在持续时间内随时都是可以买卖的。
+
+## 114. Jun 10, 2024 · 2:34 AM UTC · 1799993483073372212#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1799993483073372212#m
+- 作者：@zzzzzeroooo
+
+> Metis 是一条基于以太坊链的Layer2,
+> 是首个创新使用去中心化序列池(PoS Sequencer Pool)、混合OP和ZK的 Rollup，来提高网络的安全性、可持续运营和去中心化程度。
+>  
+> 与其他 L2 一样，Metis 的工作原理是将 L2 的交易打包交易并将它们发送到 L1 网络，
+> 从而减轻以太坊区块链的压力。通过这种方法提高交易速度，解决以太坊高昂的 Gas 费用问题。
+>  
+> 而在具体实现方案上，Metis 采用了其创新性提出的 Hybrid Rollups 方案。
+>  
+> Hybrid Rollups 结合了两种主流的区块链扩容技术：Optimistic Rollup（OP Rollup）和 Zero-Knowledge Proofs Rollup （ZKPs Rollup）
+>  
+> 使得 Metis 的解决方案在处理大量交易时既高效又安全，
+> 用户的提款时间可以从 7 天大大缩短为 4 小时。此外整个系统的可扩展性不会受限，任何 EVM 兼容的 DAPP 都可以无缝接入到 Metis 上。
+>  
+> Metis 的原生代币为 METIS ，总量 1000 万枚。
+>  
+> METIS 的发行时间为 2021 年 5 月，截止目前，投资人、顾问、创始团队等份额都已解锁完毕。
+>  
+> 3月份 被币安纳入种子标签，代币目前已上线超过 20 家 CEX ，其中包括 Coinbase 、OKX、 等主流 CEX 。
+>  
+> L2 公链代币目前整体偏弱，期待后续风口吹到L2上。
+
+## 115. Jun 10, 2024 · 12:17 AM UTC · 1799958940966694991#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1799958940966694991#m
+- 作者：@zzzzzeroooo
+
+> 面向小白的 pump 教程
+>  
+> mirror.xyz/0x27Bd1387fa6Fec4…
+>  
+> 希望对你们有些帮助。
+>  
+> 另外回复里抽 2 个 推文监控群位置，今晚8点开奖。
+
+## 116. Jun 9, 2024 · 4:20 PM UTC · 1799839048829473098#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1799839048829473098#m
+- 作者：@zzzzzeroooo
+
+> 不举的男性就应该多逛逛推特，
+> cnm 找5分钟项目硬 8 回
+
+## 117. Jun 8, 2024 · 7:23 PM UTC · 1799522641445105943#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1799522641445105943#m
+- 作者：@zzzzzeroooo
+
+> 跟群友一起玩PUMP的好处是，
+> 信息贼快，什么风吹草动都能第一时间发现，塞进去。
+>  
+> 当然坏处也很多.. 比如开局人均几十 x 互相砸盘挤兑。
+
+## 118. Jun 8, 2024 · 4:01 PM UTC · 1799471902123315564#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1799471902123315564#m
+- 作者：@zzzzzeroooo
+
+> 下一个 scam 见
+
+## 119. Jun 8, 2024 · 1:25 AM UTC · 1799251471697170608#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1799251471697170608#m
+- 作者：@zzzzzeroooo
+
+> 扫链的乐趣就在于，
+>  
+> 你永远不知道迎面而来的是 金子 还是 奥利给
+
+## 120. Jun 7, 2024 · 5:41 PM UTC · 1799134631142498507#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1799134631142498507#m
+- 作者：@zzzzzeroooo
+
+> ━━━━┒
+> ┓┏┓┏┓┃下輩子還想
+> ┛┗┛┗┛┃跟你們一起炒幣
+> ┓┏┓┏┓┃＼😭／
+> ┛┗┛┗┛┃　/
+> ┓┏┓┏┓┃ノ)
+> ┛┗┛┗┛┃
+> ┓┏┓┏┓┃
+> ┛┗┛┗┛┃
+> ┓┏┓┏┓┃
+> ┛┗┛┗┛┃
+> ┃┃┃┃┃┃
+> ┻┻┻┻┻┻
+
+## 121. Jun 7, 2024 · 11:06 AM UTC · 1799035237575622792#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1799035237575622792#m
+- 作者：@zzzzzeroooo
+
+> 不要对短期利润过于敏感
+> 不要对长期收益缺乏想象
+
+## 122. Jun 7, 2024 · 10:29 AM UTC · 1799025822843678793#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1799025822843678793#m
+- 作者：@zzzzzeroooo
+
+> pizza横向对比符石, 筹码都比较分散.
+>  
+> 开盘都在 500u 一份。
+>  
+> 5字 铭文龙头,符石龙头.
+>  
+> 如果 unisat 打算把 5 字铭文生态做起来的话,
+>  
+> 那 pizza 应该还有 5x 的空间 (30u?).
+>  
+> (价格空间根据符石总量跟高点价格换算而来)
+>  
+> 如果 pizza 起飞了,其他的 5字 铭文开始动了的话，大概率会按照 pizza 的持币来进行空投.
+>  
+> 个人见解，不做为任何投资建议。
+
+## 123. Jun 7, 2024 · 1:33 AM UTC · 1798891061768835174#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1798891061768835174#m
+- 作者：@zzzzzeroooo
+
+> 随手交互 unisat 就有 4 500u $pizza 低保
+>  
+> 而你 我的朋友
+>  
+> 还在被 #zks pua
+
+## 124. Jun 6, 2024 · 11:31 PM UTC · 1798860404766220591#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1798860404766220591#m
+- 作者：@zzzzzeroooo
+
+> pizza 发货了，价格目前还不错？
+>  
+> 你有多少个？
+
+## 125. Jun 4, 2024 · 5:51 AM UTC · 1797868702542791134#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1797868702542791134#m
+- 作者：@zzzzzeroooo
+
+> 突突突
+> 感谢 okx送来的小🚗🚗
+
+## 126. Jun 3, 2024 · 7:27 AM UTC · 1797530446013841495#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1797530446013841495#m
+- 作者：@zzzzzeroooo
+
+> 细思极恐
+
+## 127. Jun 3, 2024 · 6:01 AM UTC · 1797508866571383090#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1797508866571383090#m
+- 作者：@zzzzzeroooo
+
+> Foxy 应该算 近期 okx 上线的相对优质的 meme 币了。
+> 私募赚，开盘手动也能赚。
+>  
+> 肿了
+
+## 128. Jun 1, 2024 · 11:22 AM UTC · 1796865017893302464#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1796865017893302464#m
+- 作者：@zzzzzeroooo
+
+> BG钱包打新，感觉预期还不错
+>  
+> 明天上午11点开始快照 ，只快照BGB 和 USDT
+> 6月4号在Launchpad 页面投入BGB 或USDT 认购
+> 6月6号下午4点开始派发；晚上8点正式上线Bitget 现货交易
+>  
+> 规则👉
+> bgportable.com/zh-CN/events/…
+>  
+> 1、打新不限制地域；
+> 2、BG的打新3-6个月一次，最高200倍，最低18倍
+> 3、本次打新的代币是BG钱包的平台币 $BWB Bitget 亲儿子 系列
+
+## 129. May 29, 2024 · 8:02 AM UTC · 1795727405015040305#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1795727405015040305#m
+- 作者：@zzzzzeroooo
+
+> 新闻哥删推了假装一切都没发生过，铜锣湾哥加一分
+
+## 130. May 29, 2024 · 7:24 AM UTC · 1795717746141089861#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1795717746141089861#m
+- 作者：@zzzzzeroooo
+
+> 没有付费群，
+> 验资群满人，
+> 监控群不是公开，
+> 秀战绩纯是开心一会就删，
+>  
+> 不用问付费能不能进，不能。
+>  
+> 我曾经做过免费公开群，
+> 我得到的是傻逼的谩骂，
+> 现在验资群组运行的很完美，
+> 如果有位置会开推文招人，
+>  
+> DYOR，祝好运。
+
+## 131. May 28, 2024 · 6:31 PM UTC · 1795523190300856425#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1795523190300856425#m
+- 作者：@zzzzzeroooo
+
+> 靠北喔
+> pump都出夹子了
+> 跟狗庄斗智斗勇 跟JEET斗志斗勇 现在还要被夹子夹
+
+## 132. May 28, 2024 · 12:22 PM UTC · 1795430520379363486#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1795430520379363486#m
+- 作者：@zzzzzeroooo
+
+> 自从开始玩PUMP
+> 认识了各种
+>  
+> 🐱猫
+> 🐶狗
+> 🏴‍☠️国旗
+> 👯‍♀️明星
+> 🪙主流币
+>  
+> pump大舞台 有SOL你就来
+>  
+> 既能亏钱 也能学习
+
+## 133. May 27, 2024 · 11:52 AM UTC · 1795060435193917951#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1795060435193917951#m
+- 作者：@zzzzzeroooo
+
+> 所有的准备都是为了发现冷开金狗的到来。🙂
+
+## 134. May 26, 2024 · 6:09 PM UTC · 1794793001405038906#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1794793001405038906#m
+- 作者：@zzzzzeroooo
+
+> 黑客盗了传奇交易员GCR的推特，居然不发个CA？
+>  
+> 离谱，拿到了万能🔑，不去开金库，拿去夜闯寡妇门???
+
+## 135. May 26, 2024 · 5:35 PM UTC · 1794784471574847902#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1794784471574847902#m
+- 作者：@zzzzzeroooo
+
+> 你们喜欢的天使儿回来了
+>  
+> 不过现在是 cherub
+
+## 136. May 25, 2024 · 1:38 PM UTC · 1794362305876308213#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1794362305876308213#m
+- 作者：@zzzzzeroooo
+
+> 明牌空投项目，融资550万美元。 @Lingocoins
+>  
+> 老外主导 有一定的价值预期
+>  
+> lingoislands.com/?invite=TEZ…
+>  
+> 每个岛屿任务不同，详见图片介绍。
+>  
+> 有推文积分系统，建议多号。
+>  
+> 需要指纹浏览器批量操作可以参考如下教程
+> (free 50个窗口，15天。)
+>  
+> mirror.xyz/0xC7c2C4C69f58E5E…
+
+## 137. May 23, 2024 · 4:47 PM UTC · 1793685107917938923#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1793685107917938923#m
+- 作者：@zzzzzeroooo
+
+> IPOR 是一个DEFI类的自动化协议 @IPOR_io
+>  
+> 作为一种 DeFi 协议，IPOR 是指提供基准利率并使用户能够访问以太坊区块链上的利率衍生品的一系列智能合约。这可以通过结合基础设施的三个核心部分来实现：IPOR 指数、IPOR AMM 和流动性池以及资产管理智能合约，
+>  
+> Arrington Capital、GSR、Gumi Cryptos、New Form 等创投投资，
+>  
+> 获得了ARB基金会的拨款。
+>  
+> 利率互换市场是全球第二大金融衍生品市场，运作相当成熟；
+> 而在DeFi中，这个市场仍是一片蓝海。
+>  
+> IPOR，是当前加密市场中，唯一的利率互换协议，将传统金融中市场机制引入DeFi。
+>  
+> 自开放协议以来，IPOR协议累计成交了超过44亿美元的名义利率和股息利率互换交易量
+>  
+> 可以简单将 利率互换 理解为一种风险管理策略，允许不同的人可以互换自己借贷时的利率条件，以应对未来市场利率的不确定变化。
+>  
+> 目前可通过提供流动性挖矿，或直接质押稳定币池挖矿。
+>  
+> 挖矿奖励以 IPOR 代币发放，稳定币的年利率在 40% 附近
+>  
+> IPOR代币目前报价 0.85u ，还处于价值发现阶段，DEFI类项目整体行情都比较低迷，但是 ipor 确实是近期DEFI类比较有创新的项目之一。
+>  
+> 期待后续。
+
+## 138. May 18, 2024 · 12:59 PM UTC · 1791815772932903059#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1791815772932903059#m
+- 作者：@zzzzzeroooo
+
+> 我草 bin!
+
+## 139. May 18, 2024 · 12:30 AM UTC · 1791627484578071020#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1791627484578071020#m
+- 作者：@zzzzzeroooo
+
+> 疑似密码
+
+## 140. May 16, 2024 · 9:44 PM UTC · 1791223115843833865#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1791223115843833865#m
+- 作者：@zzzzzeroooo
+
+> 批量操作的可以用MORELOGIN 指纹浏览器
+>  
+> 从文章里面连接注册，能白嫖15天
+>  
+> mirror.xyz/0xC7c2C4C69f58E5E…
+
+## 141. May 16, 2024 · 9:34 PM UTC · 1791220624855113879#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1791220624855113879#m
+- 作者：@zzzzzeroooo
+
+> NFT免GAS，网站需要签名，虽然项目看起来正规，
+> 安全第一，一定要使用空钱包小号去领。
+>  
+> NFT好像每10天更换一次，一共4种NFT
+>  
+> 收集齐了有空投资格。
+>  
+> 有签名的项目一律使用空钱包，自己研究吧。GN
+
+## 142. May 16, 2024 · 9:19 PM UTC · 1791216838300332295#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1791216838300332295#m
+- 作者：@zzzzzeroooo
+
+> cyber 主网开了 @BuildOnCyber
+>  
+> 看了一圈，
+> 发现一个可以撸的空投
+>  
+> 流程:
+>  
+> 1. cyber.socialscan.io/
+> 点开区块浏览器, 拉到最下面，左下角 Add Cyber Network
+> 把网络添加到小狐狸钱包
+>  
+> 2.ecosapiens.xyz/open-editions…
+>  
+> 在这个页面,连接你的钱包,建议使用小号.
+> 需要签名, 提交一个邮箱地址就能领一个NFT.
+>  
+> 集齐4种NFT 可以拿cyber空投
+>  
+> 补充:
+> 跨链桥 : cyber.co/bridge
+> swap暂时没找到,如果你找到了可以私信发我一下.
+
+## 143. May 15, 2024 · 9:57 AM UTC · 1790682936234385643#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1790682936234385643#m
+- 作者：@zzzzzeroooo
+
+> BAC Games是 Blast 上的首个 Web3 游戏平台，与Ultiverse 达成战略合作，Ultiverse 生态平台项目之一
+>  
+> HTML5 赛车风格游戏，近期种子轮融资 150 万美元
+>  
+> Twitter: @BAC_Web3
+> 白皮书：docs.bacgame.io
+>  
+> 先前发行过NFT，电羊活动有抽过白名单，目前地板价格在0.4E - 0.5E.
+>  
+> 这个月要开IDO，发售的BAC代币将作为BAC Games内的通用货币
+>  
+> IDO总量不到1%，看起来赔率不错，Blast目前的活跃度都在GAMEFI上，这种有背景的游戏平台感觉还是不错的。
+>  
+> 白名单获取方式
+>  
+> 1.持有BAC NFT自动成为白名单 （今晚8点快照）
+>  
+> 在此进行NFT质押：bacgame.io/nft/list
+>  
+> 常规NFT将获得1个白名单名额。
+> 带有X属性的Genesis NFT将获得2个白名单名额。
+>  
+> 2.Ultiverse 第三期编年史活动
+>  
+> 细则参考这条推文 localhost:8080/UltiverseDAO/sta…
+>  
+> 3.BAC核心贡献者活动，核心贡献者有500个代币的基本 IDO 配额
+>  
+> 细则参考这条推文 localhost:8080/BAC_Web3/status/…
+>  
+> (个人还是比较喜欢赛车类的游戏,可能是受到了小时候周董的影响，看到赛车就想起了那句台词，小伙子你什么车啊，AE86啊，怎样。当然，GAMEFI最重要的还是游戏模型，期待BAC后续发展情况)
+
+## 144. May 15, 2024 · 7:50 AM UTC · 1790650955673034804#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1790650955673034804#m
+- 作者：@zzzzzeroooo
+
+> 换了个头像 望周知 别认错人
+
+## 145. May 14, 2024 · 7:35 PM UTC · 1790465880075469075#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1790465880075469075#m
+- 作者：@zzzzzeroooo
+
+> 有问题记得这里回复一下，近2天会整理发个大保健出来。
+
+## 146. May 14, 2024 · 3:23 PM UTC · 1790402681619784068#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1790402681619784068#m
+- 作者：@zzzzzeroooo
+
+> 去官网填推特号
+>  
+> 密码是walkmon
+>  
+> @TeamSoNoisy
+
+## 147. May 14, 2024 · 11:13 AM UTC · 1790339609932738658#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1790339609932738658#m
+- 作者：@zzzzzeroooo
+
+> 币安labs孵化的社交游戏@AlphaOrBeta_FUN
+>  
+> 之前在ARB跟Mantle上表现还行
+>  
+> 玩法比较简单
+> app.alphaorbeta.com/login?re…
+>  
+> 1.  0撸
+> 单纯绑定推特，进去以后领初级SBT，博后期空投
+>  
+> 2.精品号
+>  
+> 完成下注和发起投票的任务可以可以升级SBT，
+> 投票5次，加注1次，赢一次，得银
+> 投票金额大于1bnb，
+> Alpha排行榜每周前10名或者Beta 排行榜每周前5名
+> abCHIPS 排行榜白银用户每周前5 名，
+> 3个完成1个即可升级成金色。
+>  
+> 3. 发投票活动
+> 发起投票话题，吸引人来投票
+> 投票的人相当于在提供流动性、把池子做大，
+> 发起投票的人可以收整个话题/池子的手续费从而分成。
+>  
+> 官网NFT目前没有明说有后期空投 OPENSEA挂单0.3E，但没什么成交量。
+
+## 148. May 14, 2024 · 10:18 AM UTC · 1790325749150622083#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1790325749150622083#m
+- 作者：@zzzzzeroooo
+
+> 基于BVM的AI项目
+>  
+> 可以研究一下
+>  
+> BVM项目以往开盘倍数都还不错
+>  
+> 但是最近EVM链有点颓，DYOR
+
+## 149. May 8, 2024 · 11:53 AM UTC · 1788175308384014457#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1788175308384014457#m
+- 作者：@zzzzzeroooo
+
+> 刷推找项目 找好好的来个黄推 点进去
+> 再出来已经是1小时后了 金狗已经800X了
+> 你放下了手中的针线活
+> 45°角仰望天空 眼角留下的不知是汗水 还是泪水。
+
+## 150. May 8, 2024 · 11:47 AM UTC · 1788173754293792821#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1788173754293792821#m
+- 作者：@zzzzzeroooo
+
+> 今天登了孩子推特 🌹
+> 看看娃儿平时跟谁聊天
+> 看到是你们这帮朋友
+> 我就放心了
+> 孩子这辈子算是完了 🩷
+
+## 151. May 8, 2024 · 8:30 AM UTC · 1788124320700809283#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1788124320700809283#m
+- 作者：@zzzzzeroooo
+
+> 笑脸二层 @BitlayerLabs
+> 官方NFTLucky Helmet  今晚 8 点开始mint
+> 之前发的OKX活动抽白中奖的记得去MINT一下
+> 提前跨BTC进去当GAS，约1u
+>  
+> bitlayer.org/airdrop/lucky-h…
+> 链接钱包后,査询是否获得白名单资格
+>  
+> Lucky Hemet持有者将获得Bieaver及生态项目代币空投、官方活动积分加成、社区优先治理权益等潜在权益,
+> 后续项目将给Lucxy Hemet持有者空投
+
+## 152. May 7, 2024 · 12:24 PM UTC · 1787820753062396012#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1787820753062396012#m
+- 作者：@zzzzzeroooo
+
+> 好玩 爱玩
+>  
+> 又是群麻的一天
+
+## 153. May 5, 2024 · 10:45 PM UTC · 1787252265323249958#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1787252265323249958#m
+- 作者：@zzzzzeroooo
+
+> 收集一下大伙日常冲狗遇到的问题，
+> 想要深入了解的方向
+> 以及工具向的需求
+> 回复里面留言
+>  
+> 这2天整理一下编个文章发出来
+
+## 154. May 4, 2024 · 8:16 PM UTC · 1786852496650228154#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1786852496650228154#m
+- 作者：@zzzzzeroooo
+
+> 有点意思，
+>  
+> MOFI DEV跑了，
+> 这个大V直播社区重建，
+> 网站做的挺有意思，
+> 概念是影响力者博物馆
+>  
+> kick.com/obijai
+
+## 155. May 2, 2024 · 1:12 PM UTC · 1786020874447167636#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1786020874447167636#m
+- 作者：@zzzzzeroooo
+
+> 点击这里进跨链页面
+>  
+> 复制图上区域 地址 去下面网站，填验证码领水
+> 然后在页面中跨到 粒子测试链即可。
+> alchemy.com/faucets/ethereum…
+
+## 156. May 2, 2024 · 12:20 PM UTC · 1786007837388456415#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1786007837388456415#m
+- 作者：@zzzzzeroooo
+
+> pioneer.particle.network?inv…
+>  
+> 邀请码:LGFZTQ
+>  
+> 粒子网络自己的链来了！发币在即。
+>  
+> 前几期的毛都不错，任务不难。
+>  
+> 目前测试网，没啥成本，有条件自己撸一下
+
+## 157. Apr 28, 2024 · 5:30 AM UTC · 1784455114193014944#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1784455114193014944#m
+- 作者：@zzzzzeroooo
+
+> 记得去搞这个白
+>  
+> 另外官方有积分活动 也能通过积分拿白
+>  
+> 目前白单场外价值 1000u+
+
+## 158. Apr 27, 2024 · 2:43 PM UTC · 1784231798517768272#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1784231798517768272#m
+- 作者：@zzzzzeroooo
+
+> 传奇交易员 GCR 语录(1000u干到10亿美金的男人)
+>  
+> 买在无人问津，卖在人声鼎沸。
+>  
+> 顺应趋势，在趋势刚出现时就承担风险，而不是在它已经实现 100 倍的时候。
+>  
+> 新币>旧币
+>  
+> 市场对新闻的反应 > 该新闻的有效性
+>  
+> 把交易看做一场比赛，总有赢家，输家。
+>  
+> 盈利在落袋之前就不是财富 - 分阶段锁定利润
+>  
+> 成交量 > MC = 熊市信号
+>  
+> 专注于当前流行的叙事热点，同时跟进多个热点是赚不到钱的。
+>  
+> 当你的投资组合较小时，撸空投是你的重点方向。
+>  
+> 持有 > 交易
+
+## 159. Apr 24, 2024 · 12:51 PM UTC · 1783116467095089337#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1783116467095089337#m
+- 作者：@zzzzzeroooo
+
+> 基于Entangle 孵化的memecoin游戏,@BorpaTokencom
+>  
+> 初始市值不大，应该能有点倍数。
+>  
+> 可以想办法搞白，我这给的白不多没办法抽。🙃
+
+## 160. Apr 22, 2024 · 11:09 AM UTC · 1782366162782986336#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1782366162782986336#m
+- 作者：@zzzzzeroooo
+
+> 项目投研 - Counter Fire
+>  
+> Counter Fire @playCounterFire 是一款动漫风MOBA游戏，
+>  
+> 由盛大技术总监、巨人网络的创始人之一创业做的项目。
+>  
+> 项目之前发了创世系列 NFT，地板价在2 ETH
+>  
+> 如何参与
+>  
+> 项目生态代币为 $CEC
+>  
+> 目前在举办一个为期一个月的空投活动
+>  
+> 送出10,000,000 $CEC 代币 (总量1%)
+>  
+> 传送门
+> treasure.counterfire.games/h…
+>  
+> 邀请好友可获得对方赚取积分中的10%
+>  
+> 社交任务、每日任务可以解锁探索次数
+>  
+> 每日签到、探索，可获得4种不同宝箱，宝箱开出积分。
+>  
+> 积分影响后续空投
+>  
+> 点评
+>  
+> 空投活动接近无损，OPBNB 链 GAS 极低。
+> (有技术写软件，没技术morelogin)
+>  
+> 游戏画风很不错，周期比较短，离发币应该不会很久。
+>  
+> morelogin浏览器教程可以参照这篇文章.
+>  
+> mirror.xyz/0xC7c2C4C69f58E5E…
+
+## 161. Apr 20, 2024 · 2:25 AM UTC · 1781509557535363309#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1781509557535363309#m
+- 作者：@zzzzzeroooo
+
+> 匪夷所思的事
+>  
+> 顶着高GAS 打0号符文
+>  
+> 顶着高GAS 卷地板出货
+
+## 162. Apr 20, 2024 · 1:17 AM UTC · 1781492339669975133#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1781492339669975133#m
+- 作者：@zzzzzeroooo
+
+> 6. SATOSHI•NAKAMOTO
+> 总量很大 未知项目方 打了一点
+>  
+> 7. MEME•ECONOMICS
+> 总量2.1万 未知项目 盈亏比合适 打了一些
+>  
+> 8. RSIC•GENESIS•RUNE
+> @rune_coin
+>  
+> 9. LOBO•THE•WOLF•PUP
+> @_BuoyantCapital
+
+## 163. Apr 20, 2024 · 1:01 AM UTC · 1781488383484908001#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1781488383484908001#m
+- 作者：@zzzzzeroooo
+
+> 1号: Z•Z•Z•Z•Z•FEHU•Z•Z•Z•Z•Z
+>  
+> @FehuLayer   还不知道 怎么分配 总量很大
+>  
+> 2号: DECENTRALIZED
+>  
+> @CyberKongz  空投发放
+>  
+> magisat.io/collection/promet…
+>  
+> 3号：DOG•GO•TO•THE•MOON
+>  
+> @LeonidasNFT   空投发放
+>  
+> magiceden.io/ordinals/market…
+>  
+> 4号: BVM runes
+>  
+> @BVMnetwork  空投发放
+>  
+> magiceden.io/ordinals/market…
+
+## 164. Apr 19, 2024 · 11:16 PM UTC · 1781461949299167706#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1781461949299167706#m
+- 作者：@zzzzzeroooo
+
+> Wow 😌😌
+
+## 165. Apr 19, 2024 · 4:16 PM UTC · 1781356277626765469#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1781356277626765469#m
+- 作者：@zzzzzeroooo
+
+> Runes 工具：
+>  
+> btctool.pro BRC20/Rune 热度图表
+>  
+> runesterminal.io/ rune浏览器 MINT lunchpad
+>  
+> wizz.cash/btc/send 批量分发UTXO
+>  
+> t.me/BTCBOT_NFT_BOT?start=re…
+> BRC20 Bot
+>  
+> 使用教程参考这里:
+> t.me/btcbotcn/10447
+
+## 166. Apr 19, 2024 · 2:00 PM UTC · 1781321978177298482#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1781321978177298482#m
+- 作者：@zzzzzeroooo
+
+> 我是一个刚进圈的小白，大家别笑我，
+> 真心想问一个问题，比特币是不是减半之后，
+> 价格立马翻倍变成12万u？
+
+## 167. Apr 18, 2024 · 11:59 PM UTC · 1781110382293311886#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1781110382293311886#m
+- 作者：@zzzzzeroooo
+
+> 之前打过鲸鱼 SOL 预售的
+>  
+> gm.ai/mint
+>  
+> 可以在这里铸造一个 GMID
+
+## 168. Apr 18, 2024 · 8:15 AM UTC · 1780872814167560323#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1780872814167560323#m
+- 作者：@zzzzzeroooo
+
+> Bitlayer是全网首个基于BitVM的比特币L2，
+> 刚刚官宣了500万美元Seed轮融资，
+> 由Framework、ABCDE领投，okx venture 等多家参投
+>  
+> @BitlayerLabs 主网上线后首个官方NFT Lucky Helmet, 将于5月4日开放铸造，
+>  
+> NFT总量:5,000枚
+>  
+> 通过一系列活动以白名单的形式分配给比特币和Bitlayer社区的活跃参与者。
+>  
+> NFT用途
+>  
+> 优先治理权益：持有者被认为是生态的重要角色，可以优先参与社区治理；
+> 空投权益：持有者会获得Bitlayer以及其他生态项目的代币空投；
+> 官方活动积分与加成权益：持有者可以在Bitlayer发起的活动中获得积分，并在其他生态项目发起的活动中获得积分加成；
+>  
+> NFT将在BTC主网铸造，保证NFT原生性，交易则在2层主网交易，可以随时通过跨链桥将Lucky Helmet 互跨。
+>  
+> 白名单获取方式
+>  
+> 1.Priority Passes
+>  
+> 面向最早期、活跃的Bitlayer生态参与者，总计发放4,000。
+> 其中，1,500个Lucky Helmet白名单将分配给比特币布道者，具体的发放时间为2024.04.15 - 2024.04.22 (UTC)。
+> 其余2,500个白名单将分配给Bitlayer社区的建设者和积极参与者，具体发放时间为2024.04.17 - 2024.04.28 (UTC)。
+>  
+> 1.1注册开发者激励空投活动Ready Player One，并参与Bitlayer生态构建
+> 1.2参与Bitlayer分别在Galxe推出的忠诚积分活动
+> 1.3关注Bitlayer官方参与的各类Twitter Space，并加入互动和提问
+> 1.4关注并参与Bitlayer与加密行业社区/KOL在推特合作推出的AMA和抽奖活动
+>  
+> 2.OKX 白名单抽奖
+>  
+> Bitlayer计划与加密行业领先交易平台OKX Wallet 联合发起"Bitlayer X OKX Wallet"活动，限量抽取1,000份白名单，中奖者将可以免费铸造Lucky Helmet NFT。
+> 此次与OKX Wallet合作发起的活动时间为2024.04.25 - 2024.05.01 (UTC)，获奖结果将于活动结束后24小时内揭晓。
+
+## 169. Apr 17, 2024 · 3:37 PM UTC · 1780621699937169559#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1780621699937169559#m
+- 作者：@zzzzzeroooo
+
+> 哪个小区福利好一点 马上上岗 自带对讲机
+
+## 170. Apr 17, 2024 · 2:31 PM UTC · 1780605120742625526#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1780605120742625526#m
+- 作者：@zzzzzeroooo
+
+> BVM 新一期的IDO
+>  
+> 最近行情不太好 打新风险有点大
+>  
+> 自己研究
+
+## 171. Apr 17, 2024 · 11:35 AM UTC · 1780560700781564122#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1780560700781564122#m
+- 作者：@zzzzzeroooo
+
+> 📣申购 #Binance SOL、BNB定期产品或质押ETH，即可瓜分41,200 AXL 和 0.156BTC空投奖励和10张VIP+1升级券
+>  
+> 🕗活动时间：2024年04月16日08:00至2024年05月01日07:59（东八区时间）
+>  
+> 👇🏻
+> -瓜分41,200 AXL空投奖励；
+> -瓜分0.156 BTC 空投奖励；
+> -VIP+1 升级券；
+> -申购SOL定期产品可享最高8.9%年化收益率；
+> -申购BNB定期产品可享最高3.5%年化收益率的BNB奖励和赚取新币挖矿（Launchpool）奖励；
+> -质押ETH赚取约3.6%年化收益率
+>  
+> 质押链接：binance.com/zh-CN/activity/m…
+
+## 172. Apr 17, 2024 · 6:07 AM UTC · 1780478102633951350#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1780478102633951350#m
+- 作者：@zzzzzeroooo
+
+> airdrop.merlinchain.io/   质押积分查询
+>  
+> ally 的第一期活动不知道啥时候开领币
+>  
+> 存几百U进去质押，直接转走都有几百个币。
+>  
+> rank前100,1万+的币。
+
+## 173. Apr 17, 2024 · 6:02 AM UTC · 1780477013654200687#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1780477013654200687#m
+- 作者：@zzzzzeroooo
+
+> 梅林动作是真快，
+>  
+> 要麻要麻要麻。
+
+## 174. Apr 16, 2024 · 10:30 AM UTC · 1780182062571696512#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1780182062571696512#m
+- 作者：@zzzzzeroooo
+
+> 为啥他们打仗，双方都没啥大事。
+>  
+> 反而我 钱包 被打的红彤彤一片，🩸滋啦滋啦的
+
+## 175. Apr 16, 2024 · 7:13 AM UTC · 1780132286136213560#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1780132286136213560#m
+- 作者：@zzzzzeroooo
+
+> BVM RUNES 铸造详情
+
+## 176. Apr 15, 2024 · 7:06 PM UTC · 1779949553573314936#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1779949553573314936#m
+- 作者：@zzzzzeroooo
+
+> 质押的可以去查了
+> app.parcl.co/points
+
+## 177. Apr 15, 2024 · 4:13 PM UTC · 1779905819133550907#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1779905819133550907#m
+- 作者：@zzzzzeroooo
+
+> 港府15号 批准了华夏基金、嘉实基金和博时基金在香港推出现货BTC、ETH ETF。
+> 美国通过 ETF 以来，净流入 125.3亿美金。
+>  
+> 大部分ETF由 OSL 提供托管和交易服务。
+> 美国BTC ETF 是由 Coinbase 进行主要托管与交易。
+>  
+> 以往观察市场指标只能通过coinbase 的往来转账数据，
+> 后续也可以通过OSL 来观察市场指标了。
+>  
+> 你觉得香港 Token 板块会爆发第二轮炒作吗?
+>  
+> (cfx 来回吃了好多轮了,能不能来波大的.)
+
+## 178. Apr 15, 2024 · 3:56 PM UTC · 1779901585063293234#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1779901585063293234#m
+- 作者：@zzzzzeroooo
+
+> 不认识这个高仿小号
+>  
+> 建议拉黑一波
+>  
+> 没有私人账户 有也不会跟大号一模一样
+
+## 179. Apr 15, 2024 · 12:27 PM UTC · 1779848902684160150#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1779848902684160150#m
+- 作者：@zzzzzeroooo
+
+> 埋死我了埋死我了埋死我了埋死我了埋死我了
+
+## 180. Apr 15, 2024 · 5:54 AM UTC · 1779750207229710494#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1779750207229710494#m
+- 作者：@zzzzzeroooo
+
+> HueHub 的 Fair Launch 马上要开了
+>  
+> 应该是用的btc做GAS
+>  
+> 看官方支持UNISAT，关注HUEHUB推特 + 铃铛
+>  
+> 打第一个资产，不知道要不要分号
+>  
+> 自己准备几个钱包
+
+## 181. Apr 15, 2024 · 3:18 AM UTC · 1779710955850743873#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1779710955850743873#m
+- 作者：@zzzzzeroooo
+
+> 一起搓点吧，只要一点点SUI当GAS。
+> issp 的404
+> issp.io/#/sui20/mint/S414
+
+## 182. Apr 14, 2024 · 4:24 AM UTC · 1779364971065049163#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1779364971065049163#m
+- 作者：@zzzzzeroooo
+
+> 珍惜你见到 120u sol,40u ordi 的机会.
+
+## 183. Apr 13, 2024 · 10:20 PM UTC · 1779273559212249298#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1779273559212249298#m
+- 作者：@zzzzzeroooo
+
+> 传奇加密交易员 @GCRClassic 的33条交易心得
+>  
+> 2021 年 5 月公开做空 DOGE 的顶部 2021 年 11 月公开做空 SHIB 与元宇宙代币 2022 年 LUNA 崩溃前公开做空 LUNA
+>  
+> 1/整数关口是关键点位，即要么是潜在的支撑点，要么是阻力点，特别是在没有外部涨跌理由的情况下
+>  
+> 2/便宜能够吸引散户，动辄买几十亿，百亿
+>  
+> 3/不要做空低市值项目
+>  
+> 4/强者恒强，反之亦然
+>  
+> 5/马斯克的表演秀来看，做空每一次 DOGE 拉盘
+>  
+> 6/交易和K线分析或任何复杂的策略无关，只凭直觉
+>  
+> 7/ 与旧代币相比，新代币有一个优点：充满希望，缺乏持有人
+>  
+> 8/市场对新闻的反应：偏见（看涨或看跌）与情绪的信息，这比新闻的真实性更重要
+>  
+> 9/除了赚钱，不要胡思乱想
+>  
+> 10/在山寨周期中，你应该在开始时将风险最大化 并随着时间的推移慢慢降低风险 但大多数人的做法恰恰相反
+> 11/BTC 和 ETH 均处于底部。在 FTX 崩溃后，看涨
+>  
+> 12/大多数有长期信念的人最好持有 BTC 和 ETH 而不是交易
+>  
+> 13/ETH 将达到 10000 美元
+>  
+> 14/每次因 DeFi 漏洞会造成恐慌性抛售都会恢复 因为市场实际上从来都不在乎超过几个小时的时间
+>  
+> 15/新闻的实际真实性并不重要。市场对新闻的反应，以及在多长时间内的反应，更有意义
+>  
+> 16/当 95% 的交易员预期，新闻证实后卖出，我几乎都会买入，很多因为害怕某个事件被迫离场的人，被迫重新加入
+>  
+> 17/如果 1 年价格的置信区间 > 95% 一年后价格比当前低的可能性为 95% 那就做空，并且不关注短期波动
+>  
+> 18/将 NFT 项目的市值与著名的 meme 代币进行比较：SHIBA 在巅峰期达到 600 亿市值 没有一个 NFT 有 10 亿美元的上限（BAYC 除外） 山寨币 2.0 似乎被高估了 NFT 的代币化将蚕食山寨币 2.0 交易量
+>  
+> 19/任何成功项目的最大威胁是其自身的成功 成功孕育着模仿，而这是一个唯利是图的行业 将无情地转移到原始的衍生品上，以追逐更高的收益
+>  
+> 20/DeFi Summer、Food Farms、原始铸币税（Original seigniorage）[ESD, DSD]、OHM（Olympus DAO）等无数其他热潮轮
+>  
+> 21/不要试图去抄底山寨币。你可能会巨亏 认为可以低价买入并挽回一些损失 这几乎是不可能的 你很可能会因为亏损而恐慌性抛售，或者币价归零
+>  
+> 22/掌握空投「底部」的时机实际上是这个领域需要学习的一个非常关键的艺术形式 有时链上的指标有帮助 在交易所，一旦价格开始盘整，卖家通常会筋疲力尽
+>  
+> 23/如果你不擅长交易 可以尝试全力以赴建立人际网络 每次会议，都要到场。每次聚会，都要出现 在熊市中，人类更容易接近 你不会相信我所认识的人中有多少是通过认识正确的人而成功的
+>  
+> 24/就像数字黄金在上个周期成为比特币的胜者叙事和用例一样 去中心化赌场的论点正在成为整个加密行业的共识
+>  
+> 25/去中心化赌场和 / 或去中心化庞氏骗局总是跑得最快 我一直认为人类是绝望的、贪婪的、堕落的、孤独的，赌场迎合了这些
+>  
+> 26/加密货币相对于股票表现出相对的强势或弱势 我通常会告诉他们，在得出结论之前先等等 通常情况下，我们只是在目睹一种滞后效应
+>  
+> 27/由于一些未来的催化剂 散户重仓的代币往往被炒作了几个月 随着事件范围的临近，导致了爆炸性的购买狂潮  就在散户们想象 meme 会让他们成为百万富翁的时候 做市商利用最终流动性的连锁反应来出货   疯狂的估值总会被打回原型
+>  
+> 28/新币的优点 充满希望，缺少持币人 但如果团队没有钱，没有力量去炒作
+>  
+> 29/做市商故意拉高币价，让交散户们认为他们应该加入这个叙事——然后出货，而不是以后在深熊中出货
+>  
+> 30/所有代币都要归零的说法只是逆向超级周期，注意是代币
+>  
+> 31/胜者为王，败者为寇 但人们真的会削减其赢家组合，增加输家组合 这是散户长久输的原因
+>  
+> 32/持有大量现货 BTC 与 ETH  因为我相信我们在 11 月已经触底 并且仍然对未来保持乐观 着眼于 2030 年实现 1 万美元 ETH 的目标
+>  
+> 33/不要期望太高 整个银行系统不会在一夜间崩溃 不会导致超比特币瞬间涨至 100 万美元 也不要期望太低 随着不断地印更多的钱 ETH 将在某一天达到 1 万美元.
+
+## 184. Apr 13, 2024 · 11:03 AM UTC · 1779103024591581343#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1779103024591581343#m
+- 作者：@zzzzzeroooo
+
+> @Uniport_Network 最近在搞 Bridge-to-Earn 活动：
+>  
+> 在Uniport跨链桥上将资产从比特币链转移到EVM兼容链（如Polygon、Arbitrum等），即可赚取积分，积分后续可以用于获得UP 代币的空投。
+>  
+> 传送门:uniport.network/bridge/earn
+> 邀请码:EQ5eJ
+>  
+> 此次活动是Uniport主网上线前最大的一轮空投活动，总共空投16.8亿枚$UP Tokens。
+>  
+> 组队做这个跨链任务可以获得更多积分：A 邀请B 参加Bridge To Earn 活动，将获得B 获得积分的16%的奖励；B邀请C, 将获得C 16% 的积分奖励，A 作为一级邀请人还能获得C 8% 的积分奖励，以此类推。
+
+## 185. Apr 13, 2024 · 11:02 AM UTC · 1779102950897684929#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1779102950897684929#m
+- 作者：@zzzzzeroooo
+
+> 本周日晚7点 @Uniport_Network 组织了一场 RGB++ 主题的AMA，探讨RGB++和BTC Layer2的创新。
+>  
+> UniPort.Network是一个以双链架构为特色的BTC Restaking 层；基于Cosmos ，Polygon CDK，Babylon构建的创新模块化公链。
+>  
+> RGB++是在比特币一层发行资产和管理资产流转过程的协议，由 NervosNetwork 联创 cipher 提出。
+>  
+> 参与嘉宾：
+>  
+> CELL Studio 创始人/Nervos CKB 联合创始人/RGB++ 协议作者Cipher，Bitget Wallet 品牌负责人，
+> Bitlayer 联合创始人，Particle Network 商务负责人，Nubit官方人员。
+>  
+> AMA链接：localhost:8080/i/spaces/1YqGoDa…
+>  
+> 关注 @Uniport_Network，转发引用的推文。
+>  
+> 评论区留 BSC 地址，抽 5 个幸运小子平分 100u.
+
+## 186. Apr 13, 2024 · 10:29 AM UTC · 1779094437165252680#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1779094437165252680#m
+- 作者：@zzzzzeroooo
+
+> Ultiverse 即将在月底开放 Gold Chip NFT 铸造
+>  
+> Gold Chip NFT 是他们即将推出的 NFT 藏品，可以在TGE后销毁它以获得$ULTI 代币。
+>  
+> 持有芯片 = 参与代币 presale round
+>  
+> 铸造日期：4月下旬
+> 铸造价格：待定
+> Gold Chip总供应量：6000
+> 区块链：以太坊
+>  
+> 相关推特链接：localhost:8080/UltiverseDAO/sta…
+>  
+> mint分为3个阶段,
+> 持有金芯片NFT的用户,必中. (A白)
+> 持有银芯片NFT的用户,概率中奖(B白)
+> 公开阶段存入ETH，获得抽奖资格
+> 类似天方铸造模式，中奖扣费，不中退款。
+>  
+> 目前金芯片场外价格 3000u 附近，中奖即赚。
+>  
+> 获取白名单方式：
+>  
+> 1.  Script Our Chronicles 活动：localhost:8080/UltiverseDAO/sta…。
+> 这个活动很适合ultiverse 重度参与者去做，奖品：“编年史”角色 + Gold Chip WL x150、Silver Chip WL x300
+> 大致的方向就是编写一个类似我这篇推文的文章，官方评选中奖资格。
+>  
+> 2.加入ultiverseDiscord服务器：discord.gg/ultiverse，并申领“Creator”角色，在接下来的几天中会有更多进入白名单的机会。
+>  
+> 3.持有电羊，月光NFT的早期用户，可以根据NFT等级获取银芯片(B白)。
+>  
+> 代币空投活动
+>  
+> SOUL 可转换成$ULTI 的空投积分。
+> 100 SOUL = 1 $ULTI
+> 可以通过以下方式挖掘SOUL：
+>  
+> 1.在Mission Runner上完成任务：
+>  
+> mission.ultiverse.io/
+> 官方任务平台，类似银河，有基础社交任务，游戏任务，与NFT持有者特定任务。
+>  
+> 2.在Ulti-Pilot上进行日常探索：
+>  
+> pilot.ultiverse.io/，总发放超过100亿SOUL（相当于1亿$ULTC）。
+> SOUL积分兑换代币比例为100比1，每日动动手完成一下任务，基本免GAS，最简单的获取空投方式
+> (电羊，月光NFT持有者会有对应的SOUL任务与 积分空投）
+>  
+> 3.BNB Airdrop Alliance Program
+>  
+> localhost:8080/UltiverseDAO/sta…，
+> 在这个限时活动中将分发5000万SOUL。
+>  
+> 币安前段时间的溯源空投计划，
+> BSC链的老用户可以去查询一下，有SOUL空投。
+>  
+> 总结
+>  
+> 背景什么的我就不做过多介绍了，我已经发过很多次。
+>  
+> 目前代币空投任务卷的很厉害，热度很高。
+>  
+> 有条件的可以去买 NFT 挖 SOUL，拿 B白，抽金芯片。
+>  
+> 月底的公开铸造是必参加的，暂时不知道单账号有没有投入上限，基本就是捡钱，当然这需要很多的运气成分。
+
+## 187. Apr 13, 2024 · 4:17 AM UTC · 1779000819251294347#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1779000819251294347#m
+- 作者：@zzzzzeroooo
+
+> 项目投研 - Artemis
+>  
+> 项目介绍
+>  
+> Artemis是第一个在Metis Decentralized Sequencer上的类LIDO产品 @Artemisfinance
+>  
+> 专为 Metis 去中心化测序池设计的流动质押协议，Metis 官方 LST 提供商。
+>  
+> 是Metis生态链上Stake METIS最多的协议
+>  
+> Artemis 目前在进行质押获取积分任务，积分可以兑换后期空投代币
+>  
+> 代币分配
+>  
+> ART代币是Artemis 的治理TOKEN，总供应量为1亿枚
+>  
+> 目前已经确认10%的代币会空投给早期参与者，比如早期 METIS 质押者、流动性提供者
+>  
+> 如何参与
+>  
+> artMETIS/METIS 流动性池在 Hercules 上线，
+>  
+> 通过Artemis质押获取artMETIS，然后到Hercules V3上边添加artMETIS/METIS 流动性
+>  
+> 质押传送门
+> artemisfinance.io/stake?ref=…
+>  
+> 具体收益形式看下图
+
+## 188. Apr 13, 2024 · 12:46 AM UTC · 1778947806910439478#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1778947806910439478#m
+- 作者：@zzzzzeroooo
+
+> 大盘咋的了这是
+> 睡一觉起来家没了
+
+## 189. Apr 12, 2024 · 9:30 AM UTC · 1778717319092707631#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1778717319092707631#m
+- 作者：@zzzzzeroooo
+
+> $3,860 出不出看个人吧 拿到现在的也有点水平了
+
+## 190. Apr 12, 2024 · 8:10 AM UTC · 1778697299155444201#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1778697299155444201#m
+- 作者：@zzzzzeroooo
+
+> foxy真金狗，空投赚，冲开盘赚。
+>  
+> 很久没见到那么狠的 MEME 了
+
+## 191. Apr 12, 2024 · 7:31 AM UTC · 1778687491538923960#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1778687491538923960#m
+- 作者：@zzzzzeroooo
+
+> 马上开盘，空投任务一个号5000个币，
+> 按照场外价格0.03 算下来收益还不错.
+
+## 192. Apr 11, 2024 · 9:08 PM UTC · 1778530564058091679#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1778530564058091679#m
+- 作者：@zzzzzeroooo
+
+> PUMP 这个是有狗庄冒用信息搞的
+>  
+> 别冲🙃
+
+## 193. Apr 11, 2024 · 6:19 AM UTC · 1778306788984762654#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1778306788984762654#m
+- 作者：@zzzzzeroooo
+
+> 🙃
+
+## 194. Apr 10, 2024 · 8:56 PM UTC · 1778165095211934198#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1778165095211934198#m
+- 作者：@zzzzzeroooo
+
+> 昨天早上打的CKB 资产可以查了
+>  
+> explorer.nervos.org/address/这里填你的CKB地址
+>  
+> 打成功的 User Defined Token 那里会显示 RGB++ 1000
+>  
+> BTC转账的应该还没发，我查了一下CKB MINT的基本都到了
+>  
+> BTC 哈希MINT的 还没有
+>  
+> GN~
+
+## 195. Apr 10, 2024 · 7:40 PM UTC · 1778145979692425228#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1778145979692425228#m
+- 作者：@zzzzzeroooo
+
+> 发点大家爱看的
+>  
+> 前天晚上10点左右看到了一个BASE的土狗 SKI
+> 概念是抖音上一个带着头套的狗子
+> 很逗，买了一点，然后 6E的时候有大哥进了3E.
+> 外部群也在进场 秒拉5-6X
+> 随后大哥出货， 一度归零，兄弟们一起踩踏。
+>  
+> 今天一看K，晕过去了。
+>  
+> 人均卖飞几十x，发出来给大家笑话笑话。
+>  
+> (大天使对我是很感激)
+
+## 196. Apr 10, 2024 · 4:16 PM UTC · 1778094688064709109#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1778094688064709109#m
+- 作者：@zzzzzeroooo
+
+> 直接上 OKX 的LINEA链项目  $FOXY
+>  
+> 空投小狐狸SWAP用户，
+>  
+> LINEA也开始吸这波 MEME 流量了
+>  
+> 可以关注一下，另外准备点LINEA链的ETH。
+
+## 197. Apr 10, 2024 · 4:03 AM UTC · 1777910266107428877#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1777910266107428877#m
+- 作者：@zzzzzeroooo
+
+> 目前场外200-300U 双压
+> 用我方案的应该没啥问题
+> 原因是6号的时候群友就扒到了他们测试网网站
+> 提前操作试过了。
+
+## 198. Apr 10, 2024 · 3:23 AM UTC · 1777900069041365056#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1777900069041365056#m
+- 作者：@zzzzzeroooo
+
+> 项目投研 - Sonic
+>  
+> 项目分析
+>  
+> Sonic  是 第一条基于 Solana 开发的游戏公链。
+> 提出了 Solana 上首个扩容架构 HyperGrid。 @SonicSVM
+>  
+> Sonic  公链 100% 兼容所有 EVM 智能合约，并具备原生的游戏引擎，
+> 为游戏开发者提供全面的 On-Chain 游戏开发组件。
+>  
+> 融资数百万
+>  
+> 资方包括 Galaxy Interactive，Republic Crypto，OKX Ventures，Mirana，Alchemy 等机构。
+>  
+> 参与方式
+>  
+> 1. 访问 Sonic 测试网上线前的产品:
+> worldstore.mirrorworld.fun?r…
+>  
+> 2.点击右上角 Points
+> 完成 Twitter/Discord 任务
+>  
+> 3.选择任意公链进行 Swap
+>  
+> 建议 BNB 上的 USDT - USDC 交易对
+> Swap 100 U 即可完成所有任务，成本约为 $0.5 （磨损大概在0.5%）
+>  
+> 4.完成 Zealy 和 Galxe 任务
+>  
+> Zealy : zealy.io/cw/sonic/questboard
+>  
+> Galxe : galxe.com/MirrorWorld/campai…
+>  
+> 重点
+>  
+> 目前SOL链火热，第一条基于SOL的游戏公链可能会有不错的市场反应。
+>  
+> 所有积分都会转化为 Sonic 积分，Sonic积分对应公链代币空投。
+>  
+> 单号任务磨损只有0.5U成本,即可拿到全部积分.
+>  
+> 如果资金充裕，SWAP交易量也有对应的积分奖励，类似背包那种交易量积分制度。
+>  
+> 我个人会用morelogin 做一批纯任务的积分号.
+>  
+> morelogin使用教程:
+> mirror.xyz/0x27Bd1387fa6Fec4…
+
+## 199. Apr 10, 2024 · 2:37 AM UTC · 1777888489465679998#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1777888489465679998#m
+- 作者：@zzzzzeroooo
+
+> 按照官方的来.
+
+## 200. Apr 9, 2024 · 3:59 PM UTC · 1777728101881122930#m
+- 链接：https://twitter.com/zzzzzeroooo/status/1777728101881122930#m
+- 作者：@zzzzzeroooo
+
+> 补课了,@ZetaMarkets 刚宣布了空投规则
+>  
+> 目前还没快照，补点基础号。
+>  
+> 操作类似背包，也是刷交易量。
+>  
+> dex.zeta.markets?referralCod…

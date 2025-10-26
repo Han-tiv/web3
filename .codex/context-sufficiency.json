@@ -1,0 +1,19 @@
+{
+  "interface_contract": {
+    "status": true,
+    "details": "输入：`twitter-Following-1760964620895.json` 关注列表，Nitter 本地实例 `http://localhost:8080`；处理：通过 `apps/social-monitor/services/nitter/src/scripts/archiveFollowing.ts` 分页抓取推文并写入 `data/following/<handle>/tweets.(json|md)`；输出：每个账号的归档文件与运行摘要（state 文件、控制台日志）。"
+  },
+  "technical_choice_understanding": {
+    "status": true,
+    "details": "部署将复用仓库中的 docker-compose（Nitter + Redis 缓存 + Node API）。归档脚本基于 TypeScript、axios、cheerio，需扩展以支持 cursor 循环、断点续跑与更稳健的节流机制。Redis 仅由 Nitter 使用，归档数据直接落盘。"
+  },
+  "risk_identified": {
+    "status": true,
+    "details": "主要风险：Nitter 分页抓取可能触发限速（HTTP 429）；docker 安装需 sudo 权限；归档过程耗时较长（552 个账号）可能因进程中断导致不完整。计划通过延迟配置、重试、skip-existing 与状态文件缓解。"
+  },
+  "verification_strategy": {
+    "status": true,
+    "details": "1) 启动 `docker-compose` 并使用 `curl http://localhost:8080/binance` 验证实例可用；2) 对少量账号运行归档脚本（limit=2）检查 JSON/Markdown 输出；3) 执行全量抓取并审查 state 文件与日志；4) 在 `.codex/testing.md`、`verification.md` 记录命令与结果。"
+  },
+  "decision": "sufficient"
+}

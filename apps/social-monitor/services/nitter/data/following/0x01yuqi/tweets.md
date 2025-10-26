@@ -1,0 +1,2983 @@
+# 0x01yuqi (@0x01yuqi)
+
+- 抓取时间：2025-10-20T23:56:00.554Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：27132 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：11
+- 抓取尝试：1
+- Cursor 链：10 条
+- 账号统计：粉丝 17920，关注 1274，推文 1267，点赞 756
+- Twitter：https://twitter.com/0x01yuqi
+- 头像：https://pbs.twimg.com/profile_images/1665281250473418753/y7g6MlcR_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1378722821992378369/1676518998
+- 认证：Blue Verified
+
+> 账号简介：
+> SOL聪明钱频道：https://t.co/jLGCSPT0MH
+> SOL交易量Alert：https://t.co/GH09TeWive
+> eth土狗监控Alert：https://t.co/JK6BSTkib1
+> PUMP推特Alert：https://t.co/6RuyhcEoUU
+> 商务合作私信DM
+
+---
+
+## 1. Nov 17, 2024 · 2:01 PM UTC · 1858148497826128287#m
+- 链接：https://twitter.com/0x01yuqi/status/1858148497826128287#m
+- 作者：@0x01yuqi
+
+> 给各位PUMP精神股东汇报一下目前一直在维护的SOL策略频道：
+> 1.SOL聪明钱频道：t.me/Shanxunjiankong
+> 策略思路：批量监控钱包，地址集合各大KOL，或者链上聪明钱包，大约合计三千多个，短时间内钱包集合多次买入一个代币即会推送，最多根据热度来推送3次。
+>  
+> 2.SOL趋势DEX监控：t.me/yinghedexsol
+> 策略思路：检测链上PUMP合约，如果dexscreener付费上趋势，即可快速推送提醒。
+>  
+> 3.Pump内盘Alert：t.me/YHone_PUMP
+> 策略思路：检测链上PUMP合约市值达到3万，然后根据过滤条件去查询匹配，最后符合要求策略提醒。
+>  
+> 4.Pump发射Alert：t.me/YHtwo_PUMP
+> 策略思路：检测链上PUMP合约发射即提醒，但是也有一定的过滤条件，并不是所有代币都会提醒。
+>  
+> 5.PUMP推特检索Alert：t.me/hunterpump
+> 策略思路：检测推特引擎是否有大V名人KOL发送PUMP合约，然后做了一定的黑白名单过滤提醒。
+>  
+> 6.SOL交易量策略监控：t.me/yinghesol
+> 策略思路：只检测PUMP外盘，拒绝内盘PVP，实时检测外盘5分钟K线，如果交易量异常翻倍，研究在多，不如老老实实看着5分钟k线和交易量，金狗狗庄都会提前埋伏，从交易量上反馈结果。
+>  
+> 所有策略检测都包含：查询链上token代币情况，新钱包，老鼠钱包、查询推特喊单数据、查询TG喊单数据，等，尽量节省大家的查询时间，BOT可以直观展示，后续如果有更多策略指标均可联系我维护更新。
+>  
+> 最近交易量频道策略也特别好用，大家可以看看，典型今日的: $BUCK 交易量异动 157K交易量开始异动 最高60M
+>  
+> 同时也和朋友维护了一个交流社区：t.me/Crypto_BullAlert  联系管理员审核即可进群 无门槛。最近SOL行情实在是太好了，大家加油。
+
+## 2. May 17, 2025 · 11:57 AM UTC · 1923709466559774931#m
+- 链接：https://twitter.com/0x01yuqi/status/1923709466559774931#m
+- 作者：@0x01yuqi
+
+> 场内流动性不足，开始发射台大战吗？刚刚简单看了下午开始火热的新发射台。
+>  
+> @launchonpump 推特号作者思路真聪明。利用pump搭建一个伪发射台。
+>  
+> 起了一个推特号，然后写了一个接口，自动化收到别人@的消息时，他就帮你在pump官网上自动化给你的部署一个合约代币，并且他帮你发币的同时，还捆绑了0.25sol买入，最后任随市场fomo，直接摆烂。
+>  
+> 伪平台的发币地址：gmgn.ai/sol/address/e4bi1uZO…
+>  
+> 几小时收益几万刀，收益主要来源于捆绑0.25sol 止盈卖出，其次还有一个pump官方的创建者手续费分红。
+>  
+> 通过训练了一手 @grok 漏洞bug 下午迅速出圈，跑出来了龙一、龙二，然后坐躺手续费。不得不承认，真的是天才开发者，套一层壳子，直接起飞。
+
+## 3. May 17, 2025 · 1:34 AM UTC · 1923552637729017882#m
+- 链接：https://twitter.com/0x01yuqi/status/1923552637729017882#m
+- 作者：@0x01yuqi
+
+> 玩believe平台我发现似乎很多人有一个误区，监控 @launchcoin  推特号回复别人，是非常慢的，大概有的时候别人链上都狙击打满了，他才回复别人。所以你用推特刮刀去刮这个推特号导致会包给别人接盘，太慢了。
+>  
+> 监控链上速度才是最快的，路由地址
+> dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN  使用你的节点grpc去监控路由地址的日志，然后过滤包含initialize_virtual_pool_with_spl_token信息的指令，这个指令里面就包含了我们所需要的信息，包括组建指令的config地址
+>  
+> 以这个代币为例，这个hash就是创建代币
+> solscan.io/tx/5RXLsWcCeCyAgh…
+>  
+> 在hash中可以看到name，symbol，uri，我们要找的推特信息就在uri中，解析这个hash中的信息
+> ipfs.io/ipfs/bafkreibxcow2lb…
+> 访问这个uri，就能获取到如下信息
+> {
+> "name": "dReaderapp",
+> "symbol": "BUNBUN",
+> "description": "BUN BUN may have been laid to rest… but legends never stay dead for long.\n\nWill he live on through $BUNBUN on @launchcoin localhost:8080/528_otaku/status…",
+> "image": "ipfs.io/ipfs/bafkreied5hsygj…",
+> "metadata": {
+> "mentionId": "81b0088f-1960-4203-a8bc-ab40bfbb8c73",
+> "tweetId": "1923534578834096527",
+> "twitterConversationId": "1923534224285466731",
+> "tweetCreatorUserId": "1393963626231382019",
+> "tweetReplyAuthorId": "1393963626231382019",
+> "tweetCreatorUsername": "528_otaku"
+> }
+> }
+> 其中这个metadata信息里面就包含：推特的推文id和用户名和用户id。
+>  
+> 刮刀的话就直接匹配用户名和用户id是否是自己本地库想刮的项目执行买入。
+> 扫链的话自己在去调用推特的一些接口分析，粉丝数、关注阵容等操作判断是否买入。
+>  
+> 代码方面就可以直接问AI了，有了思路，你就可以搭建一套属于自己的一个believe监控系统。这一套操作的前提是你得有一个优质的低延迟的grpc节点监控，然后就是和链上的大科拼贿赂拼gas了。小散的哈，学习学习买买彩票pvp吧。
+
+## 4. May 14, 2025 · 1:18 PM UTC · 1922642761297052149#m
+- 链接：https://twitter.com/0x01yuqi/status/1922642761297052149#m
+- 作者：@0x01yuqi
+
+> 太久没更新了 水贴活跃账号。
+
+## 5. May 14, 2025 · 1:17 PM UTC · 1922642452588216420#m
+- 链接：https://twitter.com/0x01yuqi/status/1922642452588216420#m
+- 作者：@0x01yuqi
+
+> 扫链推特舆论CA聚合频道放出来更新了。
+> t.me/hunterpump
+> 采集数据项：
+> 1.BONK数据（SOL）
+> 2.Believe数据（SOL）
+> 3.PUMP数据（SOL）
+> 4.FOUR.MEME数据（BSC）
+> 四合一  KOL ALIERT告警  大致思路
+> 扫推特相关CA，查询是否有主流KOL名人关注，匹配万人KOL名人数据库。并且实时查询，推特号出现的次数，和改名次数。
+>  
+> 出现次数和改名次数，即代表是否是长期靠发CA为生的推特号。
+>  
+> 目前这类策略，底部全是自动化BOT大战，手动党扫链，找优质指标PVP。
+>  
+> 目前这类策略无非就是分析：
+> 推特账号粉丝多少，金标蓝标，发过币没有，改过名没有，发币了多少次，有多少大V阵容关注证明一个推特号的含金量
+>  
+> 深度分析：
+> 底部机器人进去多少，是否有bot捆绑重持仓，删贴等于sell跑路。
+>  
+> 市场已经到了百团大战了，发射台更新速度，比链上开发者科学家迭代更新代码的速度都还快，追不上追不上。
+
+## 6. Mar 26, 2025 · 3:54 PM UTC · 1904924971635519967#m
+- 链接：https://twitter.com/0x01yuqi/status/1904924971635519967#m
+- 作者：@0x01yuqi
+
+> 公测BSC频道，旧频道被干了，创建的新频道  需要的重新进 bsc频道
+> 硬核颜究BSC打满监控：t.me/yhfourmemebsc
+> 硬核颜究BSC推特监控：t.me/yhtwitterbsc
+> 硬核颜究BSC土狗监控：t.me/yhtokenbsc
+
+## 7. Mar 23, 2025 · 1:21 AM UTC · 1903618151545512090#m
+- 链接：https://twitter.com/0x01yuqi/status/1903618151545512090#m
+- 作者：@0x01yuqi
+
+> 周末时间 恶补BSC生态基础建设 目前已有的基础建设策略。
+>  
+> 硬核颜究BSC打满监控：t.me/fourmemedaman
+> 基于four.meme内盘打满监控提醒 对比各家友商数据看盘，速度最快，数据最全。欢迎股东们亲测。
+>  
+> 硬核颜究BSC推特监控：t.me/yhpumpdev
+> 基于推特引擎轮询在线检索four.meme代币CA
+>  
+> 硬核颜究BSC土狗监控：t.me/bscyinghetoken
+> 基于市值预警和交易量预警
+>  
+> 目前这是第一版本的迭代，下周有时间在继续迭代了，BSC生态的发展速度还是太快了。目前能明显感觉到市场上对于BSC生态的工具和bot即策略还是太少了，将就凑合用着吧，后面在迭代更新。
+
+## 8. Mar 22, 2025 · 5:31 AM UTC · 1903318578721398980#m
+- 链接：https://twitter.com/0x01yuqi/status/1903318578721398980#m
+- 作者：@0x01yuqi
+
+> 这个评论区在扔5个 自行激活
+> VIPglf6qvcbqy090s4cwg9ud1rimt3d19xr-zengsong
+> VIPvzpct2wpe2blavwuimzxd0lqmwbkx0rt-zengsong
+> VIP8yt8ecve5gjkblu0wbnse1c9hopgxcbb-zengsong
+> VIPpz3qppw7et5egxsv2j6jt1tizymly5wy-zengsong
+> VIPti234sutp0ooa4tio9xmn6n4fh2mz06g-zengsong
+
+## 9. Mar 22, 2025 · 5:30 AM UTC · 1903318307954118699#m
+- 链接：https://twitter.com/0x01yuqi/status/1903318307954118699#m
+- 作者：@0x01yuqi
+
+> VIP6yxqghuo8yh572r47orctzkv46hlyh1q-zengsong
+> VIPc4w8k7e3zgncmpzpmmdo7tj6ygnepaji-zengsong
+> VIPjr7jixmbq67h1226wup0q4fpmo29l2bb-zengsong
+> VIPp2mj6yslcjz43d967cg9ajrxscpn72m4-zengsong
+> VIPiu1a4xxqqmqhsxi12spwhsni1cjrn2bt-zengsong
+>  
+> 评论区再送5个激活码
+
+## 10. Mar 22, 2025 · 5:25 AM UTC · 1903316991466983450#m
+- 链接：https://twitter.com/0x01yuqi/status/1903316991466983450#m
+- 作者：@0x01yuqi
+
+> 恭喜中奖的股东们，评论区所有人私聊， 均送 twbot激活码。
+> @hodl_rich888 @xiogugu340799 @ILikeCornicione @blackshixin @romain_ryuk78 @BetaTT91 @baofuaa10001 @hsbyi28214653 @anwuzhi2 @Dilemmmmmmma @GMooogo @haohaoxs777 @hao_4f31702 @baggioblue802 @TXNL_618 @chnwnqun942388 @huiya1212prince @YYY888666888 @udhoy71756263
+
+## 11. Mar 21, 2025 · 12:23 AM UTC · 1902878734006489407#m
+- 链接：https://twitter.com/0x01yuqi/status/1902878734006489407#m
+- 作者：@0x01yuqi
+
+> 昨天TWBOT 刚扩容 监控推文速度和监控关注速度均已达到了秒级别，肉眼几乎感觉不出来快慢了。
+>  
+> 昨晚一姐 就来了一个大的 @heyibinance 疯狂互动 点点关注
+>  
+> 所以你玩bsc，你难道就不需要一款推特监控bot吗？
+> 推特监控bot: @yingheTWbot
+>  
+> 助力bsc生态，助力推特监控赛道，三连评论区，晚上随机抽20位送TWBOT激活码。
+> 另外有社区的KOL 私信我，体验TWBOT好用的，也能免费送TWBOT激活码。
+>  
+> 其次产品bot本身免费，也有一定激活额度，让每个人都能监控上CZ  @cz_binance 和一姐@heyibinance
+>  
+> 推特监控bot: t.me/yingheTWbot
+
+## 12. Mar 18, 2025 · 5:41 AM UTC · 1901871476003004452#m
+- 链接：https://twitter.com/0x01yuqi/status/1901871476003004452#m
+- 作者：@0x01yuqi
+
+> 基于BSC链 meme 土狗建设第一弹 推特扫合约策略已上线了
+>  
+> 原理：基于  Four.Meme 关键词 @four_meme_ 匹配相关meme 合约
+>  
+> 策略亮点：
+> 1.匹配KOL关注列表，是否有名人加持，能否fomo
+> 2.匹配CA关联KOL人数，判断是否在行情舆论的风口上
+> 3.匹配出最具有影响力的KOL，fomo加持
+>  
+> 策略上线频道：t.me/yhpumpdev
+> t.me/hunterpump
+>  
+> 均免费体验，后期根据BSC生态实际情况 在决定频道是否和单独和SOL区分开，大家先暂时用着吧！
+>  
+> 希望 @cz_binance @heyibinance 给力一点。让更多的开发者来建设bsc生态，提供更多的PVP策略，一个生态需要dev，需要开发者建设，需要官方背书支持，昨晚看见一姐一直在点关注，一直在回复，对于bsc来说是好事。
+>  
+> 兄弟们互动互动三连三连，评论区看见精神股东们的身影，大家的支持是策略更新的动力。下一步准备分析公开一下bsc链上聪明钱的监听。
+
+## 13. Mar 17, 2025 · 3:21 PM UTC · 1901655117545562421#m
+- 链接：https://twitter.com/0x01yuqi/status/1901655117545562421#m
+- 作者：@0x01yuqi
+
+> all in bsc了吗？
+> 扫链 内盘 外盘
+> 扫推特名人
+> 扫聪明钱
+> 市场需要什么策略？明天公开频道上线一个玩玩？
+>  
+> 目前市场核心打法：推特监控bot: @yingheTWbot
+> 围绕  @cz_binance @heyibinance 监控推文 监控关注 监控个人信息异动   匹配新盘子 自动PVP
+>  
+> 偷偷告诉你们 twbot的监控速度比你的小铃铛都还要快呦！群友亲测！
+
+## 14. Mar 16, 2025 · 6:44 AM UTC · 1901162661389504902#m
+- 链接：https://twitter.com/0x01yuqi/status/1901162661389504902#m
+- 作者：@0x01yuqi
+
+> 修改头像/修改简介/修改背景图/修改昵称/置顶推文 都是角度。
+
+## 15. Mar 16, 2025 · 6:43 AM UTC · 1901162313199349943#m
+- 链接：https://twitter.com/0x01yuqi/status/1901162313199349943#m
+- 作者：@0x01yuqi
+
+> 玩好bsc 就得把cz哥 和币安一姐监控好，他们的推文和关注都是角度。
+
+## 16. Mar 5, 2025 · 9:35 AM UTC · 1897219288811102428#m
+- 链接：https://twitter.com/0x01yuqi/status/1897219288811102428#m
+- 作者：@0x01yuqi
+
+> 接口升级：根据粉丝需求添加了userid和推文是否删帖查询，一个接口，对比同行获取所有查询数据。你想做什么都可以了。
+
+## 17. Mar 3, 2025 · 9:39 AM UTC · 1896495615443648976#m
+- 链接：https://twitter.com/0x01yuqi/status/1896495615443648976#m
+- 作者：@0x01yuqi
+
+> 下一步就上谷歌插件了 冲啊 卷起来
+
+## 18. Mar 3, 2025 · 9:35 AM UTC · 1896494726528016559#m
+- 链接：https://twitter.com/0x01yuqi/status/1896494726528016559#m
+- 作者：@0x01yuqi
+
+> 接口复制更换username即可测试访问
+>  
+> http://47.253.81.110/get_xscam_data?tg_id=1234567891011&tg_name=test&token=5f615979ac21da9f99dffd790039e86b&username=lezhihuu
+
+## 19. Mar 3, 2025 · 9:34 AM UTC · 1896494367688499421#m
+- 链接：https://twitter.com/0x01yuqi/status/1896494367688499421#m
+- 作者：@0x01yuqi
+
+> 行情不好，努力做基础建设。来一些做金铲子产品的DEV合作。
+>  
+> 目前维护了一个 推特改名接口，推特发pump合约接口，名人KOL关注接口。
+>  
+> 测试接口如下：
+>  
+> http://47.253.81.110/get_xscam_data?tg_id=1234567891011&tg_name=test&token=5f615979ac21da9f99dffd790039e86b&username=lezhihuu
+>  
+> 替换username的值就是你要查询的推特用户名，即可返回这个推特号的，历史改名数据和pump发币数据。
+>  
+> 目前这个接口是测试接口，有限额。商务合作测试可以私信DM和同行接口做对比测试。
+>  
+> 目前数据库收录了：1000多万大v发币数据，1200多万大v改名数据。实时更新维护，更新速度分钟级别。响应时间超快。适合做产品做金铲子的开发者来调用。
+>  
+> 行情不好 下海做什么改名谷歌插件阿，TGBOT查询bot阿，自动化交易bot保证自己的胜率阿，都可以来申请对比测试，金铲子才是永赚啊，大家一起卷。
+>  
+> 准备这个月把数据接入twbot：t.me/yingheTWbot 供使用。
+
+## 20. Feb 11, 2025 · 3:02 AM UTC · 1889147904872550860#m
+- 链接：https://twitter.com/0x01yuqi/status/1889147904872550860#m
+- 作者：@0x01yuqi
+
+> 昨晚sol流动性似乎归还了，均是开盘几千市值推送，这种彩票，能去外盘基本上都有一个非常好不错的收益。市场每天土狗很多，但是这个频道的推送数量与质量是非常高的，目前这个策略方向，基本上是属于推送数量少，质量精。
+>  
+> 【凌晨连续俩个都是非常不错的，少而精，平均一小时一个】
+> 300k
+> 2xK7SDPUY1oCwch8G8guUPtTSGiAQCbZykR5Y4dCpump
+> DEV：gmgn.ai/sol/address/e4bi1uZO…
+> MC：5610市值推送
+> t.me/yhpumpdev/144
+>  
+> 600k
+> EjTzNMzG3nqLFbPtsKS4FjzyADYmX7E9Z9CLx3mTpump
+> DEV：gmgn.ai/sol/address/e4bi1uZO…
+> MC：5646市值推送
+> t.me/yhpumpdev/142
+>  
+> 目前市场上玩法其实归根本就3个类，一种是聪明钱，一种是监控艺术家kol名人推特，最后再到监控他们的创建钱包地址。
+>  
+> SOL聪明钱频道：t.me/Shanxunjiankong
+> 策略思路：批量监控钱包，地址集合各大KOL，或者链上聪明钱包，大约合计三千多个，短时间内钱包集合多次买入一个代币即会推送，最多根据热度来推送3次。
+>  
+> PUMP推特检索Alert：t.me/hunterpump
+> 策略思路：检测推特引擎是否有大V名人KOL发送PUMP合约，然后做了一定的黑白名单过滤提醒。
+>  
+> PUMP追踪DEV钱包：t.me/yhpumpdev
+> 策略思路：基于pump创建者地址匹配大v艺术家钱包，在根据历史发币成功次数与失败次数推送提醒
+>  
+> 自己的玩法和策略非常重要，PVP你得有自己的一定思路，工具都是辅助。再好的工具你没有思路依然是送流动性。
+
+## 21. Feb 9, 2025 · 10:26 AM UTC · 1888535003585503517#m
+- 链接：https://twitter.com/0x01yuqi/status/1888535003585503517#m
+- 作者：@0x01yuqi
+
+> 我说PUMP追踪DEV钱包频道好用，没凭没据，群友股东们说好用，那可能就是真好用。公开24小时一致受到群友好评。
+>  
+> 随机统计了一下今天下午频道推送了2个dev钱包社交圈毕竟广的，都是1万市值以下监控推送。
+>  
+> 100k
+> gmgn.ai/sol/token/e4bi1uZO_h…
+> name：FuckVitalikGF
+> symbol：FVGF
+> MC：5715
+> 🟢历史发币数量:1 成功:0 失败:0
+>  
+> 200k
+> gmgn.ai/sol/token/e4bi1uZO_H…
+> name：FULLPORTNOY
+> symbol：FP
+> MC：5738
+> 🟢历史发币数量:0 成功:0 失败:0
+>  
+> 接纳更多的更新意见，群友们的互动就是更新的动力。频道选币策略，尽量选粉丝基数大的，KOL社交圈毕竟广的，pvp买入，1万市值以下，亏只能亏50%，但是到外盘，那就是100k的彩票了。在别处你可能都是买3万市值了。
+>  
+> 进频道唯一要求： 关注 @0x01yuqi 三连 截图 并且在评论区留下你的 TG 用户名即可。频道直达链接：t.me/yhpumpdev，做任务啦。
+
+## 22. Feb 8, 2025 · 6:32 AM UTC · 1888113748508057686#m
+- 链接：https://twitter.com/0x01yuqi/status/1888113748508057686#m
+- 作者：@0x01yuqi
+
+> 继 $YE 代币之后 昨晚最高冲击8M市值 DEV凌晨连夜 再次二创 $N 代币 均第一时间监控到DEV发币合约 。
+>  
+> 大v钱包名人 二创项目也依然冲击了1M市值：
+> DEV：gmgn.ai/sol/address/e4bi1uZO…
+> 二创：
+> gmgn.ai/sol/token/e4bi1uZO_A…
+>  
+> 所以这条策略玩法思路，我可以肯定的告诉你，是正确的。跟着大V的钱包玩，跟着大V推特社交朋友圈玩。
+>  
+> PUMP追踪DEV钱包限时免费版频道：t.me/yhpumpdev
+> t.me/yhpumpdev/4
+> t.me/yhpumpdev/26
+>  
+> 直接限时公开免费互卷，比外面的频道推送速度还快，数据更加详细。
+>  
+> 进频道唯一要求： 关注 @0x01yuqi 三连 截图 并且在评论区留下你的 TG 用户名，24小时后频道关闭，根据评论区TG用户名ID 来清理保留频道人员。评论区有你的用户名，频道就可以给你留一个位置。股东们的互动就是更新的动力。
+
+## 23. Feb 7, 2025 · 12:29 PM UTC · 1887841111911350644#m
+- 链接：https://twitter.com/0x01yuqi/status/1887841111911350644#m
+- 作者：@0x01yuqi
+
+> 市场行情很差，P小将都在很努力，目前能玩的pvp，要么你跟着聪明钱监控钱包来搞，要么你就跟着推特，围绕着推特社交圈来。
+
+## 24. Feb 7, 2025 · 12:18 PM UTC · 1887838355267989971#m
+- 链接：https://twitter.com/0x01yuqi/status/1887838355267989971#m
+- 作者：@0x01yuqi
+
+> 开工大吉，听说大家最近都在监控大v钱包地址的发币记录，推文点赞满100，明天就限时免费放出来大家一起卷。
+>  
+> 🔥金狗来了!🔥 $YE
+> 💊CA：4Z6AbaXT9nk5J3uihNSjBVUoxUTSosRbDTkTfAFMpump
+> dev：2keaRYY2tc1evtoXqi2YibMyDZZm4Foo4Hxy974dMZfe
+> name： $Kanye West
+> symbol： $YE
+> MC：22738
+> 🟢历史发币数量:1 成功:0 失败:0
+>  
+> 2万市值监控到（狗庄底部捆绑30SOL），目前4M市值，全网最快的监控大v钱包地址机器人
+> DEV：gmgn.ai/sol/address/e4bi1uZO…
+> 18:43:58发币  18:43:58TG频道推送。
+> CA：gmgn.ai/sol/token/e4bi1uZO_4…
+>  
+> 监控逻辑其实也很简单，监控pump接口的发币记录，然后拿到DEV创建者地址，去匹配是否是大v，然后在精准一点的话就是匹配一下大v的关注列表，跟着大V一起PVP。
+>  
+> 部署合约--追踪DEV--追踪KOL用户--追踪社交圈--最后速通，推文发了，策略公布了，明天满100点赞就限时免费放出来给粉丝用户一起pvp了。
+
+## 25. Jan 21, 2025 · 7:54 AM UTC · 1881611221205705158#m
+- 链接：https://twitter.com/0x01yuqi/status/1881611221205705158#m
+- 作者：@0x01yuqi
+
+> 速通五千万的狗 但凡你跑慢一步都会被关门挨揍。
+
+## 26. Jan 21, 2025 · 7:43 AM UTC · 1881608596620030024#m
+- 链接：https://twitter.com/0x01yuqi/status/1881608596620030024#m
+- 作者：@0x01yuqi
+
+> ('TrumpwBarron', 1878638942028759040, '2025-01-21 15:10:17')
+> ('TrumpwBarron', 1325423004, '2025-01-21 14:12:20')
+> 俩个应该都是假的
+
+## 27. Jan 21, 2025 · 7:33 AM UTC · 1881605989646078120#m
+- 链接：https://twitter.com/0x01yuqi/status/1881605989646078120#m
+- 作者：@0x01yuqi
+
+> 狗庄捆绑出货1.1M这还只是一个号：gmgn.ai/sol/address/e4bi1uZO…
+
+## 28. Jan 21, 2025 · 7:31 AM UTC · 1881605468373823704#m
+- 链接：https://twitter.com/0x01yuqi/status/1881605468373823704#m
+- 作者：@0x01yuqi
+
+> 阴谋集团越来越牛了 偷梁换柱 含泪捆绑一裤裆 让兄弟们接盘
+> Name： $Barron Trump
+> Symbol： $Barron
+> CA：4QAu6zzyUjdMokARe8yMH7ZpgtqQw3qQx4PECyR8pump
+>  
+> 推特用户名都不可信啊 一定要注意推特ID才是唯一属性，所以这就是查询改名的重要性
+>  
+> 诈骗假推特：localhost:8080/intent/user?user_id=13…
+>  
+> 真推特：localhost:8080/intent/user?user_id=18…
+>  
+> 诈骗假推特给你们找出来了，兄弟们冲吧
+> 所以这就是我今年打算做的，维护一个实时最新的推特改名接口，时效性与快速性，预防阴谋集团
+> 接口还在维护测试：twitter.yinghetwbot.com/quer…
+
+## 29. Jan 20, 2025 · 5:07 AM UTC · 1881206976904069585#m
+- 链接：https://twitter.com/0x01yuqi/status/1881206976904069585#m
+- 作者：@0x01yuqi
+
+> twbot  24小时值班 电话提醒安排上
+
+## 30. Jan 20, 2025 · 4:56 AM UTC · 1881204061393076314#m
+- 链接：https://twitter.com/0x01yuqi/status/1881204061393076314#m
+- 作者：@0x01yuqi
+
+> 特朗普家族发币指南：聪明钱冲锋的非PUMP盘一定得注意了 MELANIA 凌晨5.13分第一波推送
+>  
+> 第一次推送
+> CA：FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P
+> Name: Melania Meme
+> Symbol: MELANIA
+> holder: 52
+> top10holder占比: 91.9%
+> DevToken: 89.0%
+> t.me/Shanxunjiankong/134884
+>  
+> 时间线：5.13特朗普老婆第一时间发送推文  5.19特朗普明盘转发推文。
+> 扫链党必备工具 twbot监控川普一家配合聪明钱扫链追寻链上热点。
+>  
+> 特朗普  @realdonaldtrump
+> 6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN
+> 特朗普 老婆  @melaniatrump
+> FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P
+> 特朗普儿子 @DonaldJTrumpJr
+> 女儿  @ivankatrump
+> 二儿子  @erictrump
+> 二女儿  @TiffanyATrump
+> 前任老婆 @itsmarlamaples
+> 特郎普女婿 @jaredkushner
+> 儿媳妇 @LaraLeaTrump
+> 前儿媳妇 @mrsvanessatrump
+> 孙女 @kaitrump
+> 建议全部监控起来 twbot：t.me/yingheTWbot 配合上一个电话 meme合约token 提醒 让twbot为您24小时在线值班，勤劳熬夜致富。
+
+## 31. Jan 18, 2025 · 4:12 AM UTC · 1880468294035214771#m
+- 链接：https://twitter.com/0x01yuqi/status/1880468294035214771#m
+- 作者：@0x01yuqi
+
+> 快过年了 昨天刚给聪明钱频道更新了一下 今天看了下的确效果还不错
+> 市场情绪拉满了  $TRUMP 🔥第一次推送 10.04分
+>  
+> 💊CA：6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN
+> 🎲Name:  OFFICIAL TRUMP
+> 💡Symbol: $TRUMP
+> 👤holder: 5
+> 👥top10holder占比: 6.9%
+> 👨🏻‍💻DevToken: 🚨dev已清仓
+>  
+> t.me/Shanxunjiankong/134183
+> 可能大家都专注于pump内盘去了，直接来就是非pump盘，打个措手不及， 但是投研能力强的聪明钱也是第一时间买入。目前市场最有效的策略还是紧跟聪明钱脚本，追随市场热点。
+>  
+> 推特有人喊的 TG有人喊的  聪明钱还在偷偷买的 看见一定得留神。
+
+## 32. Jan 16, 2025 · 8:25 AM UTC · 1879807195732443367#m
+- 链接：https://twitter.com/0x01yuqi/status/1879807195732443367#m
+- 作者：@0x01yuqi
+
+> 使用方法：接口username直接替换你想查询的用户名就可以查询到改名次数，后期考虑做成BOT或者插件。
+
+## 33. Jan 16, 2025 · 8:21 AM UTC · 1879806277431484907#m
+- 链接：https://twitter.com/0x01yuqi/status/1879806277431484907#m
+- 作者：@0x01yuqi
+
+> 花了1个月多的时间，维护了一个推特改名查询接口  目前接口做了限制频率  明年准备一直维护。 欢迎对接使用测试。
+>  
+> 主要是针对SOL链或者一些PUMP项目方 宣发人，等多次发布诈骗项目，快速识别项目方到底是否用心。
+>  
+> 比如这种@polaposhi  每天都在坚持部署pump  一个月改名22次 老油条了
+> twitter.yinghetwbot.com/quer…
+> 后期打算主要对接一些开发者 一起维护使用。接口数据欢迎对比同行，我也不知道到底数据齐全不齐全，所以开放出来给大家对比测试。
+
+## 34. Jan 13, 2025 · 3:45 AM UTC · 1878649511377256671#m
+- 链接：https://twitter.com/0x01yuqi/status/1878649511377256671#m
+- 作者：@0x01yuqi
+
+> 监控速度测试数据，这次扩容升级 速度提升了一个级别：
+> 1. 推文推送2-4s内。
+> 2. 关注推送5-8s内。
+> 3. 电话通知1-3s内。
+> TWBOT：t.me/yingheTWbot  最快的推特监控机器人。自己监控自己小号测试一下 你就知道速度的快感了
+
+## 35. Jan 12, 2025 · 12:10 PM UTC · 1878414325674905630#m
+- 链接：https://twitter.com/0x01yuqi/status/1878414325674905630#m
+- 作者：@0x01yuqi
+
+> 尊敬的用户：由于最近用户急剧增加，为保证推送速度，现对twbot进行停机扩容，于北京时间2025/1/13 08:00 停机，停机期间，如出现异常推送，请见谅，恢复会另发通知，预计不超过12小时。给您带来的不便请见谅，祝您打到百倍金狗！
+
+## 36. Jan 3, 2025 · 6:27 AM UTC · 1875066423355297797#m
+- 链接：https://twitter.com/0x01yuqi/status/1875066423355297797#m
+- 作者：@0x01yuqi
+
+> VIP9uu3eww6gk0kapfpmukkptckzrlrjc84-zengsong
+> VIP1l3ibfqr1oezlygd1c3a8vc4hhfiwjjy-zengsong
+> VIP48b0mnxz96bedz8y3agtprv0bpwuobju-zengsong
+> VIPk3x42m4ira2i252gdi36o5qsxrym4797-zengsong
+> VIP2det4wshpx91lzutyd7r7cf1k8sxei1f-zengsong
+> VIPm7x4is5489m3pmymak0da5asq8izcynr-zengsong
+> VIP7lmn30l2s6cwnr3d4ump6ah76endrlxn-zengsong
+> VIPly7q17kmmnppnay7n0oumhx21fhhfnqz-zengsong
+
+## 37. Jan 3, 2025 · 6:24 AM UTC · 1875065751184535678#m
+- 链接：https://twitter.com/0x01yuqi/status/1875065751184535678#m
+- 作者：@0x01yuqi
+
+> 盘点 Solana Ai 上的 344个项目，会玩的PVP选手已经梭哈了，这个月看似蹲着着344个项目 想亏钱都难是吧。
+>  
+> 给大家整合了 Solana Ai 黑客松上的 344个项目都整理出来了 包含Twitter GitHub、Website
+>  
+> docs.google.com/spreadsheets…
+>  
+> 第一梯队选手 已经去私聊作者了 准备来pump就业了。
+>  
+> 第二梯队选手 已经挂上了 监控刮刀追内盘。
+>  
+> 第三梯队选手 挂上了TWBOT 追打满后狙击。
+>  
+> 第四梯队选手 老实观看 等跑出来速通盘再说吧。
+>  
+> 上午 @askthehive_ai 项目似乎给了大家激情了
+> 💊CA：9DHe3pycTuymFk4H4bbPoAJ4hQrr2kaLDF6J6aAKpump
+> 🎲Name: $Hive AI
+> 💡Symbol: $BUZZ
+> 目前好像36M 塞内盘的兄弟们 麻木了。只能说下一个项目更卷。
+>  
+> 推荐大家做不了 一二 梯队的选手 还是老实 利用 TWBOT：t.me/yingheTWbot 选一些优质项目  挂上电话 CALL CA也是可以的。如果你有一定开发能力 也可以通过 telegram API 转发交易bot 也能完成快速购买。
+>  
+> 你在这轮Solana Ai 黑客松项目上 准备做第几梯队选手呢？玩好 Solana Ai 一定就得用好 TWBOT 稍后评论区三连 不定时的送送送送激活码，自己抢呦。
+
+## 38. Dec 31, 2024 · 6:25 AM UTC · 1873978811362271486#m
+- 链接：https://twitter.com/0x01yuqi/status/1873978811362271486#m
+- 作者：@0x01yuqi
+
+> 下面还有Menu 指令模块呦，其实偷偷上线了很多小功能。来不及宣传 那就偷偷用吧。
+
+## 39. Dec 31, 2024 · 6:22 AM UTC · 1873978066005090500#m
+- 链接：https://twitter.com/0x01yuqi/status/1873978066005090500#m
+- 作者：@0x01yuqi
+
+> 久违的老马修改了头像，第一时间 TWBOT meme异动消息提醒，然后阴谋集团内盘直接跑出来了，狙击成本200k左右因人而异，蹲热点，枯燥无味，但是稳。新闻交易者如果塞内盘的话就更强了。
+> TWbot：t.me/yingheTWbot
+
+## 40. Dec 24, 2024 · 4:52 AM UTC · 1871418713007907043#m
+- 链接：https://twitter.com/0x01yuqi/status/1871418713007907043#m
+- 作者：@0x01yuqi
+
+> 1.SOL聪明钱频道：t.me/Shanxunjiankong
+> 策略思路：批量监控钱包，地址集合各大KOL，或者链上聪明钱包，大约合计三千多个，短时间内钱包集合多次买入一个代币即会推送，最多根据热度来推送3次。
+>  
+> 2.SOL趋势DEX监控：t.me/yinghedexsol
+> 策略思路：检测链上PUMP合约，如果dexscreener付费上趋势，即可快速推送提醒。
+>  
+> 3.Pump内盘Alert：t.me/YHone_PUMP
+> 策略思路：检测链上PUMP合约市值达到3万，然后根据过滤条件去查询匹配，最后符合要求策略提醒。
+>  
+> 4.Pump发射Alert：t.me/YHtwo_PUMP
+> 策略思路：检测链上PUMP合约发射即提醒，但是也有一定的过滤条件，并不是所有代币都会提醒。
+>  
+> 5.PUMP推特检索Alert：t.me/hunterpump
+> 策略思路：检测推特引擎是否有大V名人KOL发送PUMP合约，然后做了一定的黑白名单过滤提醒。
+>  
+> 6.SOL交易量策略监控：t.me/yinghesol
+> 策略思路：只检测PUMP外盘，拒绝内盘PVP，实时检测外盘5分钟K线，如果交易量异常翻倍，研究在多，不如老老实实看着5分钟k线和交易量，金狗狗庄都会提前埋伏，从交易量上反馈结果。
+>  
+> 目前我还在坚持维护使用的频道，但是市场行情不如人意，可能下一个上线的频道就是热点检测了吧。大家一起蹲热点。
+
+## 41. Dec 24, 2024 · 3:33 AM UTC · 1871398688897306805#m
+- 链接：https://twitter.com/0x01yuqi/status/1871398688897306805#m
+- 作者：@0x01yuqi
+
+> 动手能力强的小伙伴已经开始交作业了：基于helius的webhooks监控 TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM 地址，然后存库，就能获得一个pump的新代币创建合约库了。
+>  
+> 新代币创建合约库的利用价值在于扫热点 捕捉热点 pvp快人一步 ，甚至你可以跟风热点 去部署一个属于你自己的pump合约。
+>  
+> 大家都知道 部署一个pump合约 twitter、telegram、name、symbol 都是可以为所欲为的，随便都可以用别人的。参考截图的俩个项目方推特，短时间内都出现了很多仿盘。
+>  
+> pump头部那些车头、或者阴谋集团，你不用怀疑他们的能力和工具。他们都会第一时间找到高价值的 项目方推特，或者大大小小热门项目。
+>  
+> 与其你每天在tg在tw在vx群找项目，不如好好蹲在链上，看看头部在部署什么仿盘合约，然后去蹲真身即可。基本上热门项目，或者什么老马热点，都会短时间内，出现极多的仿盘。
+>  
+> pump承载资金量其实很大的，你天天在蹲这个群 蹲那个群扫链冲狗pvp，狗庄天天在蹭热点，部署合约收割链上机器人bot和收割你都发财了。
+>  
+> 如果大家需要这么一个链上热点监控，评论区留言，人多的话我看看上线一个吧，市面我看也还没有。也没啥技术门槛，工具永远是辅助。
+
+## 42. Dec 22, 2024 · 1:15 PM UTC · 1870820487363969217#m
+- 链接：https://twitter.com/0x01yuqi/status/1870820487363969217#m
+- 作者：@0x01yuqi
+
+> 好久没有更新推文了 来水一篇干货推文 望股东们支持 三连。
+
+## 43. Dec 22, 2024 · 1:13 PM UTC · 1870820008135397584#m
+- 链接：https://twitter.com/0x01yuqi/status/1870820008135397584#m
+- 作者：@0x01yuqi
+
+> 【技术交流分享贴】sol链监控聪明钱地址技术门槛到底高不高？如何利用第三方服务商搭建自己的一套聪明钱系统？
+>  
+> 推荐服务商 helius.dev 重点免费  一个webhook 可以监控 10万个地址  监控速度秒级，免费这就是优势。
+> docs.helius.dev/data-streami…
+>  
+> Helius.dev 是一个专为 Solana 区块链开发者设计的数据服务平台，提供高效、低延迟的区块链数据查询和事件监听功能。它通过强大的 API 和易于使用的工具，帮助开发者轻松获取链上信息并构建去中心化应用（dApps）。
+> docs.helius.dev/data-streami…
+>  
+> 数据流服务核心功能与特点
+> WebSocket (wss/gwss)：适合高频、实时的链上数据流监听。
+> Webhook：通过 HTTP 回调监听交易事件，适合低代码用户和入门者。
+> 增强型数据解析：自动将原始链上交易信息（RAW 数据）解析为更易读的增强型数据（ENHANCED 数据）包括代币交易、地址交互、转账金额等，无需手动解码，支持查询 Solana 网络上的所有交易类型，包括燃烧代币都可以直接监控。
+>  
+> webhook非常适合小白入门级，监听SOL链接地址交易事件，而且监听到的日志事件，还能帮你解析，直接给你解析出来了，哪个地址购买，或者出售了什么代币，傻瓜式上手即可。
+>  
+> 很多其实TG频道监控聪明钱基本上用helius足够了，包括其实我自己的SOL聪明钱监控BOT：t.me/Shanxunjiankong 也是直接使用的helius直接上 webhook 监控，然后清洗数据过滤噪音推送即可。
+>  
+> 咱们直接上手教程，不懂就问chatgpt辅助带你完成代码
+>  
+> 首先使用Webhooks监控的时候，你需要搭建一个服务来接收你监听的数据，GPT告诉你直接使用 Python Flask 框架 即可配置一个 Webhook 接收端。
+>  
+> 然后通过 API 创建一个 Webhook 往里面塞地址就行了，地址产生的交易事件日志就推送到你的服务器接收端了。
+>  
+> 推荐一些监控价值比较高的地址
+> 监控PUMP新创建的合约：solscan.io/account/TSLvdd1pW…
+> 监控PUMP打满发射合约：solscan.io/account/39azUYFWP…
+>  
+> 另外如果你想去监控聪明钱，就直接收集钱包地址塞给Webhooks API就行了。
+>  
+> 总体思路：搭建接收端，接收数据，然后剩余的交给自己去动手，不懂就问GPT，Helius入门级监控。
+
+## 44. Nov 25, 2024 · 12:43 AM UTC · 1860846848455717097#m
+- 链接：https://twitter.com/0x01yuqi/status/1860846848455717097#m
+- 作者：@0x01yuqi
+
+> 没抢到的等会儿再送10个吧
+
+## 45. Nov 25, 2024 · 12:36 AM UTC · 1860844960792416451#m
+- 链接：https://twitter.com/0x01yuqi/status/1860844960792416451#m
+- 作者：@0x01yuqi
+
+> VIPuvggr5mghyxuzfbacpij54k7imscea2z-zengsong
+> VIPvw1zc0icn3uotsw6yg9xz4qyar79cn1h-zengsong
+> VIPoygyjpmbr2h9wnjbjyts7tnkcn1givvn-zengsong
+> VIPoauzau8js22404axjey6e2zauee6wl72-zengsong
+> VIPv8o1yruhmd4gfhokee249o9cvm6d4pfk-zengsong
+> VIPvkt30hil95qm0ny0ept89660maixugpb-zengsong
+> VIP1xl6v8wwczwt7ah0oyod8cjmrpkrhs6k-zengsong
+> VIP6ahfgh5bscl826m28dflg3h9m080tma0-zengsong
+> VIPczj856rn64gtllaa6dlrvsi18ihdrspp-zengsong
+> VIP3n9nw4sdzlyh5djmjov0p3sx61u8a31p-zengsong
+
+## 46. Nov 25, 2024 · 12:06 AM UTC · 1860837437100249434#m
+- 链接：https://twitter.com/0x01yuqi/status/1860837437100249434#m
+- 作者：@0x01yuqi
+
+> 不管你是pump 专业dev用户，还是全职扫链选手，你可能都需要一款好的监控推特bot，或许twbot满足你的需求。欢迎测试使用。晚一些评论区送一些激活码给大家抢抢。
+
+## 47. Nov 25, 2024 · 12:04 AM UTC · 1860836835473457178#m
+- 链接：https://twitter.com/0x01yuqi/status/1860836835473457178#m
+- 作者：@0x01yuqi
+
+> （盯老马）全网最厉害的监控机器人twbot
+> t.me/yingheTWbot
+>  
+> 在这个sol生态繁荣昌盛的行情，你不能没有推特监控bot。
+>  
+> 监控老马的一举一动，或许就是你的命运转机。用户的肯定也是我们产品更新的动力。
+>  
+> Twbot自从今年4月份上线以来，已经完美在线7个月了，希望大家还是能找到使用的方法和思路。下一个50x的说不定就是你。
+>  
+> Bot自带功能：监控推文，监控关注，电话call提醒，meme名人异动通知。
+
+## 48. Nov 19, 2024 · 4:14 PM UTC · 1858906768480575558#m
+- 链接：https://twitter.com/0x01yuqi/status/1858906768480575558#m
+- 作者：@0x01yuqi
+
+> $HELA 半小时 20M的金狗，这难道就是 $SOL 生态的牛市吗？
+> 💊CA: DRVM9vP5coW4WHsNv1kajhn55duyuua4cJ9NGkSApump
+> Name：$Science Cult Mascot
+> Symbol： $HELA
+> USD市值: 30573
+>  
+> 内盘推特挂了个大v账号  3万市值
+> t.me/YHone_PUMP/69209
+>  
+> 打满的时候只有2个聪明钱进厂，还没有tg大佬call  这时候10万市值
+> t.me/YHtwo_PUMP/36412
+>  
+> 推特有大佬喊单但是这个时候已经快封盘了，普通用户已经进不去了  也是刚打满封盘10万市值
+> t.me/hunterpump/18089
+>  
+> 聪明钱跑步入场   10万左右市值
+> t.me/Shanxunjiankong/125971
+>  
+> 消息发酵突突突，所以建议各位精神股东，找自己擅长的方向策略，如果你玩pump，蹲守这几个频道都足够了，每一个阶段都有机会，看你能不能把握住了。包括其实每一个阶段，都能实现自动化的量化交易，如果感兴趣，下一期咱们来讲，如果在pump中生存量化交易。
+
+## 49. Nov 16, 2024 · 1:16 AM UTC · 1857593522892976325#m
+- 链接：https://twitter.com/0x01yuqi/status/1857593522892976325#m
+- 作者：@0x01yuqi
+
+> 几个月 吐槽过一次 dexx的收手续费问题，其实回归问题本质，这是一个非常严重的问题，交易bot的收手续费这么重要的功能都没有好好用心设计，全网那么多交易bot，唯独只看见了dexx这么简单设计。没有用心凸显团队技术核心，所以我对dexx一直不感冒，而且也从未进行推广。
+>  
+> 其次，团队技术先不说，毕竟咱们也不太了解，但是这个功能，说实话，随便去找个web2码农人员，给他节点和服务商开发文档，都能写个这种收手续费的买卖接口出来。
+>  
+> 正真的做链上币安app感觉不应该是喊口号那么简单。
+>  
+> 另外一个这次dexx发生大规模被盗，感觉这种就是web2团队转型web3团队，技术和安全管理，团队内部制度存在严重问题导致。用户核心私钥权限在哪里人手里，毕竟这个蛋糕诱惑太大了。
+>  
+> 目前市场来看，华语bot最优好评应该属abot当之无愧，但是要退休了。最近呢？我也一直有在和gmgn研发团队朋友在沟通交流，现在gmgn属于在努力模仿  abot阶段，他们还是非常想接住abot未来的流量的。先学会模仿，然后选择自己创新，毕竟abot已经受到广大好评和任何。站在其他交易bot的角度来讲也是一样，谁把功能点模仿得最牛逼，最丝滑，那就能成功一大半了。
+>  
+> 可以提前适应一下gmgn了，害。
+> 交易bot：t.me/GMGN_sol_bot?start=i_e4…
+>  
+> 看线网页：gmgn.ai/?ref=e4bi1uZO&chain=…
+>  
+> 反正咱们的原则：不管你用哪个bot交易，千万别放大资金。安全第一位。
+
+## 50. Nov 11, 2024 · 7:26 AM UTC · 1855874614280515933#m
+- 链接：https://twitter.com/0x01yuqi/status/1855874614280515933#m
+- 作者：@0x01yuqi
+
+> 币安将上线：人工智能预言（ACT）和花生松鼠（PNUT）并应用种子标签。反应了现状：技术厉害的监控：交易所上公告，技术菜的就监控方程式新闻 @bwenews
+>  
+> 方程式官方也说了 冷知识：币安英文公告的速度更快，最早的发布时间应该以英文标题的为准。
+>  
+> 牛市你想成为一名合规的新闻交易员，必须用 TWBOT把币圈新闻账号都关注起来。
+>  
+> 方程式推文时间：13.39.35 TWBOT推送过来的时间：13.39.41 TWBOT聚合监控信息只花了6s，所以还是建议大家多多关注一些新闻号。
+> TWBOT：t.me/yingheTWbot
+>  
+> 其次今天也对pump扫链频道进行了更新
+> PUMP内盘监控：t.me/YHone_PUMP
+> PUMP外盘监控：t.me/YHtwo_PUMP
+>  
+> 新增指标项：
+> 1.展示PUMP loge 图片以便寻找角度；
+> 2.首先检测PUMP合约打满的时间，进度条以及对应消耗的时间；
+> 3.检测DEV发币者 捆绑买入多少，历史发币成功几次 失败几次；
+> 4.检测阴谋集团 新钱包买入多少 老鼠仓钱包买入多少；
+> 5.检测聪明钱 买入多少，具体给聪明钱打上小标签；
+> 6.实时分析 twitter 是否有人喊单；
+> 7.实时分析 telegram 是否有频道喊单；
+> 8.对项目方 twitter 进行深度分析 关注、粉丝、创建时间、推文流量 等！
+>  
+> 内盘或者打满，基本上能自动化查询的指标就是这些了，剩下的就看你的实力和运气了。有更好的指标，欢迎大家反馈，继续新增。
+
+## 51. Nov 9, 2024 · 2:52 AM UTC · 1855080950998483242#m
+- 链接：https://twitter.com/0x01yuqi/status/1855080950998483242#m
+- 作者：@0x01yuqi
+
+> 昨晚最佳pump 属  $TOGA 了吧 总结下 正常一个pump的发射基本上大家似乎喜欢从几个维护去寻找角度叙事：
+>  
+> 1.推特是否有名人打call
+> 2.TG是否有名人频道打call
+> 3.创建者历史发币数量，历史成功了哪些代币
+> 4.项目方推特，是否名人关注加加持
+> 5.pump的头像展示图是否触发什么热点用谷歌搜图
+> 6.底部筹码结构，新钱包买了多少，老鼠仓买了多少，聪明钱买了多少，KOL又买了多少
+>  
+> pump内盘到外盘都需要一个过程，都需要不同的人来助力喊单，咱们就拿昨晚的 TOGA 来讲案例：
+>  
+> Name： $TOGA
+> Symbol： $TOGA
+> USD市值: 80329
+> 4T54PGF4gAU75NL9j2GHvrVbR6u5zjyJE4zGuJbkpump
+>  
+> 创建者: EZX7c1hARBCiVTY62EJLEPwVsUaZWhmvKkuW3nxexidY
+> 历史发币数量:2 成功:2 失败:0
+>  
+> 第一阶段：打满发射80k（4.05）
+> t.me/YHtwo_PUMP/32087基本上属于一出来就是秒满系列,这个阶段能抓住的玩家基本上属于 BOT、扫链、或者有监控历史dev系列，对金狗dev监控二次创业监控
+>  
+> 第二阶段：市场敏捷力高的聪明钱入场 778K（4.07）
+> t.me/Shanxunjiankong/122506其实这个时候，一些喊单比较早的频道 TG频道，已经在喊 goat deployer，这时候各大聪明钱就开始陆续接力了
+>  
+> 第三阶段：推特流量开始发酵了，大家开始为自己的买单CX了 10M（4.44）
+> t.me/hunterpump/13148可以看到这个时候 TG 频道已经call了无数次了
+>  
+> 基本上土狗叙述角度属于这么一个过程，可能其他土狗相比，中间还可能多一个 dexscreener营销付款上热度过程可以参考频道：t.me/yinghedexsol
+>  
+> 其中呢？你在玩pump的过程中 还可以去加一些优质的社区，因为一个人的经历是有限的，无论是哪个阶段，哪个时间点，无论是白天还是黑夜，都需要你去枯坐值守，你才能在第一时间挖掘到这些优质代币
+>  
+> 比如Crypto Bull Alert 社区 ：t.me/Crypto_BullAlert/2487 群友在500k的时候也挖掘到叙事了 堪比聪明钱速度。
+>  
+> 现阶段的PUMP市场，对于小白用户来讲，买币都跟买彩票一样，太难了，太pvp了。
+>  
+> 建议大家，还是找志同道合的人一起玩，大家可以分工合作，一个人蹲守不同的角度，大家共享消息劳动成功，也能减轻一定的工作量和成本，每个人负责不同的阶段。
+>  
+> 从内盘图片找角度--到外盘发射看情绪--还得看聪明钱--刷推特新闻名人发币监控老马--TG频道喊单打call
+>  
+> 中间还增加和阴谋集团对抗：什么新钱包，什么老鼠钱包，什么资金来源统一钱包，链上环境，持币健康 等操作。真觉得你一个人能玩得过来的吗？
+
+## 52. Nov 6, 2024 · 6:33 AM UTC · 1854049544260247990#m
+- 链接：https://twitter.com/0x01yuqi/status/1854049544260247990#m
+- 作者：@0x01yuqi
+
+> TWbot 多多关注几个新闻号，稳了。
+>  
+> BREAKING: 🇺🇸 Donald Trump officially elected President of the United States of America.
+>  
+> 还带meme名人信息异动通知，监控置顶推文，修改头像等。
+>  
+> BOT：t.me/yingheTWbot
+
+## 53. Nov 5, 2024 · 8:30 AM UTC · 1853716519211135301#m
+- 链接：https://twitter.com/0x01yuqi/status/1853716519211135301#m
+- 作者：@0x01yuqi
+
+> 不管 $ETH 行情好坏  Meme Crypto Alert社区还在坚持CA
+
+## 54. Oct 27, 2024 · 12:27 PM UTC · 1850514599499747675#m
+- 链接：https://twitter.com/0x01yuqi/status/1850514599499747675#m
+- 作者：@0x01yuqi
+
+> PUMP推特检索Alert-猎人 的含金量还在上升,策略升级后适用于枯坐选手 现在已经15M了  巨离谱
+> CA：6MAWnfagDCzqmHQh88FVt9F1zzLqXpwGJpaL7zUTpump
+> Name：EYE Am Watching You
+> Symbol： $EYE
+> USD市值: 71521
+> Reply评论: 52
+>  
+> t.me/hunterpump/9387
+
+## 55. Oct 26, 2024 · 6:10 AM UTC · 1850057369717461225#m
+- 链接：https://twitter.com/0x01yuqi/status/1850057369717461225#m
+- 作者：@0x01yuqi
+
+> PUMP推特检索Alert - 猎人策略更新
+> BOT：t.me/hunterpump
+>  
+> CA：9PR7nCP9DpcUotnDPVLUBUZKu5WAYkwrCUx9wDnSpump
+> Name： #Comedian
+> Symbol： $Ban
+> USD市值: 18848
+> Reply评论: 4
+> t.me/hunterpump/8599
+>  
+> CA：2kaRSuDcz1V1kqq1sDmP23Wy98jutHQQgr5fGDWRpump
+> Name： #ETH
+> Symbol： $ETH
+> USD市值: 4639
+> Reply评论: 1
+> t.me/hunterpump/8931
+>  
+> 猎人最近更新放宽了推特检索策略，对喊单推送的门槛进行了调整，同时，推送延迟也有所降低，大幅提高了推送频率，让大家能够更快速获取低市值小金狗的动向。
+>  
+> 此优化特别适合枯坐选手。只要不属于持续创业型账户，所有参与pump的合约地址一旦出现在推特上，就会即时推送。准备好实时接收频繁推送，随时捕捉潜在热点吧！3万市值以下都是PVP。
+
+## 56. Oct 24, 2024 · 5:14 AM UTC · 1849318418165748039#m
+- 链接：https://twitter.com/0x01yuqi/status/1849318418165748039#m
+- 作者：@0x01yuqi
+
+> $SOL 生态之 $PUMP 狗庄篇
+> 年轻人的第一个PUMP你部署过吗？你知道PUMP的原理吗？为什么别人部署的pump有流动性，有买单，而你部署的就没人来冲了吗？
+> 知已知彼，方能百战百胜，你都不明白 pump的部署合约逻辑，做市流动性逻辑，你怎么能保证你能 $PVP 赢 阴谋集团？
+>  
+> 给大家介绍一个玩法指标趋势：dexscreener.com 趋势营销，简称：DEX付款
+> 大白话理解的话，就是你是 pump项目方 或者狗庄，你花最少300刀，也有2000刀的。老鹰官方就可以帮你投一下广告，把你的代币信息包括【头像、社交资料信息】等展示在老鹰网页上，获得短暂的流量。
+> 土狗老鸟都知道，以前BSC的时候大家争锋上AVE，去年ETH的时候大家都去dextools，今年SOL生态，这富贵来到了 dexscreener。一个土狗代币，但凡你想认真做一点的狗庄，都会花300刀，投老鹰这个流量,让老鹰也成为了印钞机。
+> 投流付款地址：marketplace.dexscreener.com/…
+>  
+> 故链上也出现了一批这种，专门扫DEX付款的代币，DEX影响趋势付款后，都能有一批多多少少的 机器人买卖单，自动化操作。所以也做了一个关于此指标的监控：DEX【SOL趋势DEX监控BOT】
+> BOT频道地址：t.me/yinghedexsol
+>  
+> 基本上金狗代币，都会走上DEX营销趋势这条路，而且那种 PUMP内盘就上 DEX的 基本上算是有备而来，排除恶意诈骗收割链上机器人bot。大家都知道，老鹰是并不会展示 pump内盘代币的，所以内盘就上dex，肯定狗庄是想着往外盘方向操作的。
+>  
+> 并且还有一种代币会去努力上DEX，那就是 CTO 社区自治代币。DEVshell了 没人了，社区去花钱 300刀更新 DEX趋势信息。努力CTO。
+> 所以外面有BOT检测CTO代币的逻辑：先检测PUMP代币的dev是否 sell，然后在检测 DEX趋势是否更新营销。
+>  
+> 目前这个BOT检测逻辑就比较简单：无脑梭哈检测DEX付款，区分 内盘/外盘 匹配推特KOL是否开启喊单，Telegram频道是否开启CALL，推送消息非常频繁，适用于枯坐全职选手。
+>  
+> SOL近期非常强势，SOL生态天天百倍币，人均都在PUMP，PUMP每日金狗总结频道：t.me/Crypto_BullAlert/2402
+
+## 57. Oct 20, 2024 · 9:58 AM UTC · 1847940340743107060#m
+- 链接：https://twitter.com/0x01yuqi/status/1847940340743107060#m
+- 作者：@0x01yuqi
+
+> $Tron 的风吹到了 $APE chain  你们说能坚持几天？名人速来带货！
+> PUMP推特检索Alert-猎人:t.me/hunterpump 已支持APE pump
+
+## 58. Oct 19, 2024 · 6:29 PM UTC · 1847706682325160252#m
+- 链接：https://twitter.com/0x01yuqi/status/1847706682325160252#m
+- 作者：@0x01yuqi
+
+> 发车直达观摩链接：t.me/Shanxunjiankong/119470
+
+## 59. Oct 19, 2024 · 6:27 PM UTC · 1847706124705026420#m
+- 链接：https://twitter.com/0x01yuqi/status/1847706124705026420#m
+- 作者：@0x01yuqi
+
+> 用户的肯定就是最大的更新动力。
+> 推送逻辑，聪明钱参与交易，触发查询，推送。
+> 🔥第一次推送
+> 💊CA：GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump
+> 🎲Name: Act I : The AI Prophecy
+> 💡Symbol:  $ACT
+> 💰FDV: 355229 USDT
+> 👤holder: 362
+> 👥top10holder占比: 40.4%
+> 👨🏻‍💻DevBalance: 7 SOL
+> 👨🏻‍💻DevToken: 12.6%
+>  
+> 然后其中2个推特账号发推，2个TG频道喊单。
+> 最早聪明钱19.34参与交易，19.37和19.40 TG大佬开始喊单，然后19.41就开始发车pvp。
+
+## 60. Oct 19, 2024 · 12:55 PM UTC · 1847622515855937935#m
+- 链接：https://twitter.com/0x01yuqi/status/1847622515855937935#m
+- 作者：@0x01yuqi
+
+> 无论你是 $ETH 还是 $SOL ，$PVP 合约来了 你是不是特别想查看TG有多少大佬喊单了，推特有多少大佬喊单了？
+>  
+> 昨天看见大佬讲的TG合约检索频道，看哪些频道打CALL喊单，今天就花了一下午的时间实现了
+> 目前所有公开 $SOL 频道全部已加上 ✈️TGCall 指标
+>  
+> SOL聪明钱监控推送：t.me/Shanxunjiankong
+> SOL推特PUMP监控：t.me/hunterpump
+> SOL内盘打满监控：t.me/YHtwo_PUMP
+> SOL交易量扫链监控：t.me/yinghesol
+> 每日金狗叙事总结：t.me/Crypto_BullAlert
+>  
+> bot都是自动化的通过策略拿到合约，然后辅助你判断分析，我的bot其实分析都比较简单，拿到合约
+> 1.分析链上持仓top里面有多少新钱包，多少内幕钱包，多少狙击钱包
+> 2.分析TW有多少人参与打call喊单
+> 3.分析TG有多少公开频道打call喊单
+>  
+> 基本上其实一个代币就是从这些维度的，bot基本上都可以实现自动化来分析了。
+>  
+> 其实关于频道打call监控，其实比较非常适用于ETH，对于SOL来说，节奏太快了，喊单打call等于接盘，$ETH在于钻石手的慢慢建设，和一些内幕频道的提前CALL，所以这个指标 $ETH 主网来说应该更胜一凑，后期也会更新至ETH频道，大家快来一起卷新东西。
+
+## 61. Oct 16, 2024 · 12:54 PM UTC · 1846535235334492196#m
+- 链接：https://twitter.com/0x01yuqi/status/1846535235334492196#m
+- 作者：@0x01yuqi
+
+> 小技巧分享帖：KOL地址库如何做？
+> 如何获取KOL，MEME名人，的ETH地址，查看监控他们的操作。
+>  
+> 首先介绍：ETH Registrar Controller 合约：
+> 0x253553366Da8546fC250F225fe3d25d0C782303b
+>  
+> 这是当前用于注册 .eth 域名的控制器合约，通过这个合约，用户可以进行域名注册和续约操作。
+> 白话文理解一点就是：买域名就是用这个地址买的，所以你可以查询一下这些地址是哪些人，参与交互的地址都是带ens的地址。
+>  
+> 我们都知道 Vitalik Buterin的公开以太坊地址是：0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045
+> 查询通过web3本身有ens方法，直接 w3.ens.name(address)就能获取ens名称w3.ens.get_text(ens_name, twitter_key)就能获取ens名称下面的推特用户名
+>  
+> address：0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045 ENS：vitalik.eth twitter: @VitalikButerin
+> 你让chatgpt都能给你写一段代码获取某个地址所绑定的推特。
+>  
+> 所以想获取KOL或者MEME名人地址，首先你就得有一个近期链上活跃的交易地址库：
+> 1.可以从注册ENS交互的地址 0x253553366Da8546fC250F225fe3d25d0C782303b 里面去导出
+> 2.可以去 dexscreener 等看线网址 把所有的土狗，金狗合约地址查询出来 然后查询 合约地址交互的买卖地址
+>  
+> 有了一个活跃的交易地址库后，你先去通过代码查询这些地址是否注册有 ENS域名，在通过域名查询是否有绑定 twitter账号，这样你就能洗出来非常多有价值的地址了，带ENS，还带社交推特。
+
+## 62. Oct 13, 2024 · 9:49 AM UTC · 1845401364316422567#m
+- 链接：https://twitter.com/0x01yuqi/status/1845401364316422567#m
+- 作者：@0x01yuqi
+
+> meme如何捕捉老马推特异动热点
+>  
+> BOT（t.me/yingheTWbot）：监控老马推特 elonmusk修改头像异动，随后马上一并修改了置顶推文。
+>  
+> 或者你直接监控 方程式新闻 BWEnews号,好像方程式新闻也添加了监控老马头像，不过速度比twbot慢一点点
+>  
+> 其次监控到了角度如何找合约：
+> 1.通过一些扫链平台看看有没有同符号的pvp合约。
+>  
+> 2.通过监控聪明钱地址，看聪明钱地址冲哪里，在买哪个，你要相信聪明钱肯定比普通用户强的，都是阴谋内幕有一定含金量的。
+>  
+> 3.老实看优质群，群友发的合约，自己不会找那还不能等喂饭吗？（t.me/Crypto_BullAlert/2315） 阿豆老师只花了2分钟就找到了角度，24小时轮班群。
+
+## 63. Oct 10, 2024 · 2:38 PM UTC · 1844387093784764821#m
+- 链接：https://twitter.com/0x01yuqi/status/1844387093784764821#m
+- 作者：@0x01yuqi
+
+> 新钱包，或者钱包地址持仓只有一个token的内幕钱包，我们都可以90%判断都是和主力军沾亲带故，查看这些钱包的动向，加减仓。
+
+## 64. Oct 10, 2024 · 2:34 PM UTC · 1844385953718407264#m
+- 链接：https://twitter.com/0x01yuqi/status/1844385953718407264#m
+- 作者：@0x01yuqi
+
+> $FWOG 经过近2天消息发酵CTO，主动推向meme市场排行榜。
+> CA：0x69fd9281a920717ee54193a1c130b689ef341933
+>  
+> 一个OG概念的青蛙元素MEME，池子锁了100年，国内国外社区团队这俩天都在奋力CTO
+> 今天早上推特提及这个合约CTO才几十次，晚上推特引擎检索此合约CTO快达到了400次
+>  
+> 在其分析top1000的持仓地址 24小时变化: holder增加: +1646，可以适当观察近期社区CTO进度变化期待新高
+
+## 65. Oct 10, 2024 · 1:38 AM UTC · 1844190775724359712#m
+- 链接：https://twitter.com/0x01yuqi/status/1844190775724359712#m
+- 作者：@0x01yuqi
+
+> 特朗普修改了一个置顶，还是有效果的。
+>  
+> 只要你t.me/yingheTWbot  开启了 /infochange 指令 应该都是会收到 meme名人信息异动的。就等你自己找角度了。
+>  
+> 目前能有效应，能有角度的meme名人 你觉得还有哪些呢？加入监控列表。
+
+## 66. Oct 8, 2024 · 5:55 AM UTC · 1843530590391575007#m
+- 链接：https://twitter.com/0x01yuqi/status/1843530590391575007#m
+- 作者：@0x01yuqi
+
+> 推荐一下meme打土狗交流群组和频道
+> Channel : t.me/Crypto_BullAlert
+> Group : t.me/+neqRrLscY6RiOTdl
+> 群组特色：
+> 1.管理员24小时轮班在线蹲守链上土狗合约
+> 2.文案组call合约正规军
+> 3.每一个管理员都是严格实盘考核评选，拒绝云玩家
+> 4.每天定时早上7点bot自动总结当天金狗合约
+> 群组频道无门槛，只为吸收一点活跃志同道合的meme玩家，500人关群，人数不在于多，只在于精。
+
+## 67. Oct 7, 2024 · 1:41 PM UTC · 1843285598649627088#m
+- 链接：https://twitter.com/0x01yuqi/status/1843285598649627088#m
+- 作者：@0x01yuqi
+
+> 最后再送10个，可能交互并发有点卡，各位大哥将就用着，但是咱们的监控推送速度绝对是杠杠的，因为咱们这种监控bot和交易bot还是有点区别，所以交互有点卡，望理解。
+> VIPrrwkjqo7glr9342xvkp5srfnrmh64j2e-zengsong
+> VIP6vovq15clnxy60ah54vbkjwlsfi9v9yp-zengsong
+> VIPlstnp3pe0t4m14r8bh2onjvinazsqqvs-zengsong
+> VIPw2993v9d1yvrhp7ymb7939ggfr01mm41-zengsong
+> VIPamw5j4ugicj94oslxzbk3nddwdv3ea0k-zengsong
+> VIPajjbqmmg8i4efmi1mp8syykk6kk6r79h-zengsong
+> VIP1vfkkxvx53owkqz4ubqoo8blr0om4hax-zengsong
+> VIP00qrny6azt8rx9xq5njmx87pi5eiw2zd-zengsong
+> VIPjnaj1l8adygac6o5p7ftzmhmw0ijl146-zengsong
+> VIPxyu9p9sj2xd8vzt0vyik90x20av0p46m-zengsong
+
+## 68. Oct 7, 2024 · 1:29 PM UTC · 1843282488589992383#m
+- 链接：https://twitter.com/0x01yuqi/status/1843282488589992383#m
+- 作者：@0x01yuqi
+
+> 10分钟后 40整分数在继续发10个继续发 评论区抢
+
+## 69. Oct 7, 2024 · 1:21 PM UTC · 1843280478570524859#m
+- 链接：https://twitter.com/0x01yuqi/status/1843280478570524859#m
+- 作者：@0x01yuqi
+
+> 再送10个卡密 自己激活，先到先得，一人限定使用一个多激活无效，抢到的火钳留名一下吧
+> VIPixtw54r68qyr0ylsi10kpe6zzf90itp9-zengsong
+> VIP66aokr23lzrt3ho17ssr5pojdp7nxtdo-zengsong
+> VIPc33rbkfz5kb8tfxfjieaswn2vzpqsemf-zengsong
+> VIPrkopxkia5zaif2tj7bikpzddr5gcgz3t-zengsong
+> VIPo8v2svcy55sihjpcb6mi5ibf1i8ygx7s-zengsong
+> VIPdcbgv1yoxvjrfw0zb9t581a8mskiaai3-zengsong
+> VIPjp16ad9o5xekq2gzavfy5fve0z2h5j10-zengsong
+> VIPk8hggo0scapzjvzob83hrdaumlnytdjj-zengsong
+> VIPn29ug0ui6k18t6fx44cqyhd86hwvp94k-zengsong
+> VIPpqi8m87hetfp52x4blkr8pmnne97h9kj-zengsong
+
+## 70. Oct 7, 2024 · 1:07 PM UTC · 1843276945968255286#m
+- 链接：https://twitter.com/0x01yuqi/status/1843276945968255286#m
+- 作者：@0x01yuqi
+
+> 推特meme名人信息异动监控（包括修改头像/修改简介/修改背景图/修改昵称/置顶推文等）通知推送更新完毕已上线bot。
+>  
+> twbot 输入指令  /infochange  即可开启通知  目前监控只监控了具有财富效应的老马 和 V神 ，秒级推送，视频为证。
+>  
+> 鉴于昨天很多粉丝朋友没有抢到激活码10分钟后评论区再送10个激活码，拼手速抢。
+
+## 71. Oct 6, 2024 · 12:44 PM UTC · 1842908683791167733#m
+- 链接：https://twitter.com/0x01yuqi/status/1842908683791167733#m
+- 作者：@0x01yuqi
+
+> 三连留言评论区 明天在抽10个  来迟了的家人们
+
+## 72. Oct 6, 2024 · 12:21 PM UTC · 1842903096919564398#m
+- 链接：https://twitter.com/0x01yuqi/status/1842903096919564398#m
+- 作者：@0x01yuqi
+
+> 免费送10个卡密 自己激活，先到先得
+> VIPlrsx6qa2byudy67y3mh0o9ahderqsvcd-zengsong
+> VIPuow8vr71vuiuzbvwxyce4ls8el4274o7-zengsong
+> VIPpnj8kxmf6j5emd9ub1sdc9z0vbs55o6p-zengsong
+> VIPmhza65uwvgkaftoui4xhfy7wihrjkowi-zengsong
+> VIPs2zw8dltwepl1kg2d2qrx2s6xyt4ix3s-zengsong
+> VIP3x7tqo268rkztdkrgj06tzzjcgw9hq0d-zengsong
+> VIPwnxovzw1pknso1oagv1tq9dpp5tf3mdo-zengsong
+> VIPyk9nvwbiloeicheyhs7qj0koy7l5qae5-zengsong
+> VIPb08mto7lywltd8ktl14vvflpvg434erk-zengsong
+> VIPdy3eqwk07iqxyfapghm5tv76wkc69s9v-zengsong
+
+## 73. Oct 6, 2024 · 12:08 PM UTC · 1842899777970905528#m
+- 链接：https://twitter.com/0x01yuqi/status/1842899777970905528#m
+- 作者：@0x01yuqi
+
+> 通知：TWbot近期升级新增 /followtop10 BOT指令，所有TG用户均可查询使用。
+>  
+> 主要用于查询24h内的热点项目，让您对市场热点有一定感知度。找项目小帮手
+>  
+> 并且还上线了，中英文俩个版本的bot，适用于海外用户。
+> 中文：t.me/yingheTWbot
+> English：t.me/yingheTWenbot
+>  
+> 推特消息订阅实时监控
+> 三个核心功能
+> 1.订阅用户的推文实时监控
+> 2.订阅用户的关注实时监控
+> 3.重点项目/用户狙击电话call实时监控
+>  
+> 近期更新计划：昨晚的 $PAC 和之前的巨魔 等等，鉴于用户需求，我们也会上线推特meme名人信息异动监控（包括修改头像/修改简介/修改背景图/修改昵称/置顶推文等）通知推送，更加完善我们的TWbot
+>  
+> ［三连关注评论，留下你的tg用户名］抽10位粉丝送 twbot vip额度激活码，10分钟后评论区，也送10个twbot vip额度激活码。同时我们也非常喜欢各路kol来体验我们的twbot产品，kol可以申请免费年永久使用。
+
+## 74. Sep 26, 2024 · 3:39 AM UTC · 1839147686441939093#m
+- 链接：https://twitter.com/0x01yuqi/status/1839147686441939093#m
+- 作者：@0x01yuqi
+
+> 最近是不是被 #DEXX 刷屏了？号称冲土狗神器 丝滑等等等 兄弟们看见焦虑了吗？
+>  
+> 公布个核心重要地址，让你对 #DEXX 的整个用户体系有一定了解，你就不会焦虑了。
+> 此文并不是fud，客观数据面分析而已。蹭一下流量。
+>  
+> etherscan.io/address/0x2e838…
+>  
+> 此钱包疑似 #DEXX ethereum 主网税收钱包。如果你是 #DEXX 忠实粉丝用户，你可以看一下自己的交易钱包，基本上你交易几次手续费达到一定的额度就会默认往这个钱包地址转账你应该付出的手续费。
+> 主网gas 大家都懂的富人链，还是希望官方优化一下这个收手续费流程，参考一下老牌交易bot 大师或者香蕉，转账一笔手续费都需要2-3u成本，有点高。
+>  
+> 因为这个土狗交易APP是默认内置创建钱包，由此钱包可以获取到所有于这个钱包交互的from地址 就是 #DEXX的活跃交易用户。 9.19号上周的时候我还特地看了一下 他们收税才 20E 产生交易手续费才 3000多条交易tx。
+> 如今，经历了一周，我看收税钱包已经有 80E了 产生交易手续费tx已过万，说明项目方经过这一周的时间各大KOL 狠狠CX 狠狠焦虑，的确用户基数及交易量都完成了一个上升趋势。官方这周的确用心CX了。
+>  
+> 目前大概参与交易产生手续费的用户大概1800不到，详细数据见谷歌表单，自己可以拿去挖一挖分析 #DEXX 上优秀的交易者，聪明钱包或笨蛋钱包。
+> docs.google.com/spreadsheets…
+>  
+> #DEXX 产品上线应该估摸60天 ETH主网税收手续费营收 20万u，也不至于哪些截图中的那么焦虑，推广每天躺赚几万u 不至于，大家的钱都不是大风刮来的，没那么好赚。
+>  
+> 土狗交易APP固然好，但是TG交易bot 也是依赖telegram优秀的生态而立足，也希望官方在打磨产品的同时注重一些生态的交易闭环，目前华语KOL都入驻了，未来是否考虑，带单入驻呢？优秀的开发者入驻？ 等等 来形成闭环。
+> 目前对于土狗meme用户，打开twitter，打开telegram。还得打开交易app，你才能在赌场中找目标。所以能把，推特监控啊，TG推送合约bot啊 等等 这些东西全部融合到一个APP上的话那必然是一个好的产品。
+>  
+> 最后给那些有技术想学习写bot交易的粉丝，推荐2个ETH主网节点服务商 alchemy、bloxroute
+> 第一个服务商是我去年一直在用的还可以免费主打白嫖，第二个我看sol生态 华语好多交易bot大家都是用的这个节点服务商。具体你们想看哪家bot，用的哪里的节点，或者哪里的服务商，就去趴他们的路由信息。
+> docs.alchemy.com/
+> bloxroute.com/
+> 你有一定开发基础，把这2个网址看明白，研究明白了，几个群友开个群，你也能开局整个交易bot 吃1% 手续费躺赚。
+>  
+> 最近的确行情好起来了，宣传一下我的土狗meme每日总结频道
+> ETH金狗日报：t.me/Basetugou/2215
+> SOL金狗日报：t.me/Basetugou/2216
+> 逻辑原理：采集硬核所有ETH和SOL频道里面推送出来的合约，包括扫链的和聪明钱地址KOL地址监控的，每天早上7点定时回测推送价格与最高价格，选出满足条件的top3金狗，友好的针对不熬夜选手，早上开机知道昨晚发生了什么叙事，寻找好的大金狗目标回调抄底波段。
+
+## 75. Sep 5, 2024 · 2:51 AM UTC · 1831525616354734429#m
+- 链接：https://twitter.com/0x01yuqi/status/1831525616354734429#m
+- 作者：@0x01yuqi
+
+> $E 1.4w市值到现在 3.6M 跟着聪明钱不会错
+> 🚀CA: 0xc0CfBe1602dD586349f60e4681bf4BADCA584eC9
+> 🎲Name: Etheism
+> 💡Symbol: E
+> 👤Holder: 131 Top10: 29%
+> 💰Price: 14.5848900919
+> 💧Liq: 8904 USDT | MC: 14585 USDT
+> 👨🏻‍💻24hVolume: 3510 | 24hChange: 170%
+
+## 76. Sep 5, 2024 · 2:46 AM UTC · 1831524171232452910#m
+- 链接：https://twitter.com/0x01yuqi/status/1831524171232452910#m
+- 作者：@0x01yuqi
+
+> $ETH 最近站起来了吗？每天都有新玩法，新姿势，新角度。
+> 前几天有 $VISTA  昨晚又跑出来一个 $FARM
+>  
+> 🚀CA: 0x6dB6FDb5182053EECeC778aFec95E0814172A474
+> 🎲Name: TaxFarm.ing
+> 💡Symbol: FARM
+> 👤Holder: 149 Top10: 36%
+> 💰Price: 0.000255728582435
+> 💧Liq: 22916 USDT | MC: 255729 USDT
+> 👨🏻‍💻24hVolume: 187920 | 24hChange: 8249%
+>  
+> 监控聪明钱的交易趋势动向才能第一时间把握热点。目前ETH链并不是很适合扫链打新，是冷是热，监控一些聪明钱和一些KOL钱包还可以玩玩。
+> 最近一直在内部测试 根据原来SOL聪明钱的策略频道 ：t.me/Shanxunjiankong
+>  
+> 在ETH上挖掘聪明钱， 完美复刻了一份ETH策略。三连评论区抽3个名额体验ETH聪明钱策略。行情不好就努力做基础建设。
+> SOL聪明钱的策略频道大家用了这么久了，大家打心底觉得这个策略怎么样？不管是ETH还是SOL对于每个token 我们是分析最齐全的了。
+
+## 77. Aug 28, 2024 · 9:56 AM UTC · 1828733452314898508#m
+- 链接：https://twitter.com/0x01yuqi/status/1828733452314898508#m
+- 作者：@0x01yuqi
+
+> sunpump 发现一个非常有意思的地址 永赚
+>  
+> TVjiFyDQsXp51jd1WYKt5NmDLeKR6m2781 此地址每天可以赚取 100-200k trx 永赚机器人
+>  
+> 众所周知不管是SOLpump 还是 sunpump 大家都知道 你去部署合约 你是DEV 会给你捆绑一笔买单 让你作为老鼠仓，稳定有底部筹码。
+>  
+> 但是TRON 大概3s一个区块，且有内存池，这些永赚机器人监控内存开始抢跑捆绑买单了，直接和你同区块一起抢老鼠仓筹码。
+>  
+> 比如此代币：
+> sunpump.meme/token/TVJccgd5c…
+> sunpump.meme/token/TAsFarif9…
+>  
+> 部署者捆绑了买单，但是同区块机器人也一起和你抢底部筹码，甚至sunpump 官方Trading History可以看见 永赚机器人的买单地址都排序在捆绑买单之前了。
+>  
+> 所以各位部署者们，当你们部署sunpump合约的时候，拉盘一定得注意此类永赚机器人了。我自己尝试了一下，目前 次区块 买入都是给这些内存永赚机器人抬轿子，要慢几笔，目前整个扫内存的bot地址还是有好几个的。 公平PVP吗？都在偷偷抢跑抽流动性。阴谋集团也没胆子赢拉盘给机器人出货啊。
+
+## 78. Aug 20, 2024 · 8:19 AM UTC · 1825809995004551279#m
+- 链接：https://twitter.com/0x01yuqi/status/1825809995004551279#m
+- 作者：@0x01yuqi
+
+> 推特引擎应群友反馈:
+> 现在支持 pump合约 和sunpump合约
+> 助力sol和trx 一起pvp
+> 目前只是简单的匹配推特大v发送的合约  后期看trx链生态情况在新增合约分析数据
+>  
+> t.me/hunterpump
+
+## 79. Aug 18, 2024 · 7:05 AM UTC · 1825066506214097373#m
+- 链接：https://twitter.com/0x01yuqi/status/1825066506214097373#m
+- 作者：@0x01yuqi
+
+> Sunump结束了吗？大家都是舔一口就跑？关注聪明钱你不会看不见市场情绪的。
+>  
+> r/snoofi非PUMP内盘
+> 7M9KJcPNC65ShLDmJmTNhVFcuY95Y1VMeYngKgt67D1t
+> t.me/Shanxunjiankong/114859
+>  
+> $phat一个会操作的dev，10分开，16上dex，慢慢磨人，慢慢埋伏老鼠仓，直到38分才打满发射，然后燃烧73%筹码起飞
+> C6zLUXumWDB1du9H6LGMQMntECYUyCZXXtywv8vMpump
+> t.me/Shanxunjiankong/114894
+>  
+> 玩sol工具推荐，具体工具bot链接自行翻历史推文查找即可。
+> 1.推特监控找项目
+> 2.pump内盘扫链寻发射机会
+> 3.pump发射识别优质项目追
+> 4.dex老鹰付款监控，代币营销的必经之路
+> 5.聪明钱观察情绪趋势
+> 6.devshell二段CTO监控持币人的自我救赎
+>  
+> 目前其实推送bot赛道大家也是非常的内卷，找到自己适合的玩法最好，现在市场新手小白是真的需要学习的东西太多了，太卷了。
+>  
+> 目前这些推送bot基本上都是不可能直接给你推荐100%的金狗，基本上都得在线扫，蹲，找角度，得有资金容错。毕竟pump每天发射的代币实在是太多了，bot帮助你过滤95%，剩余5%只能靠自己的经验去审核。
+
+## 80. Aug 8, 2024 · 3:13 PM UTC · 1821565312791388522#m
+- 链接：https://twitter.com/0x01yuqi/status/1821565312791388522#m
+- 作者：@0x01yuqi
+
+> 龙一RTR 💊CA：7G5DM7Jy7TMWKgH313tA3vF6AqHpbHP4TWZzpTVLWv9c 非pump盘
+> 链上聪明钱内幕首发出来就是4M  二次的时候就是10M 在刷新就是20M 目前已经100M。
+> t.me/Shanxunjiankong/113204
+>  
+> 紧跟其后马上来了个PUMP防盘 内盘
+> 仿盘RTR 💊CA：5GQpeFo75vHvNBe2FAMMVtFj9kbsNtcDDVozwKCgpump
+> 基本上大家看龙一市值太高，大家都带着自己的跟单小弟追仿盘去了 目前市值也有1M。
+> t.me/Shanxunjiankong/113207
+>  
+> 聪明钱不能保证胜率，不能百万之百无脑跟买某个钱包，看个情绪，能让你看见链上的流动性在PVP哪币。更新复盘二集聪明钱玩法就不发了，大家频道自己研究吧。明天在去洗一些内盘钱包。
+
+## 81. Aug 8, 2024 · 9:30 AM UTC · 1821479060381512070#m
+- 链接：https://twitter.com/0x01yuqi/status/1821479060381512070#m
+- 作者：@0x01yuqi
+
+> 💊CA：89LTFGMXoNwREBf3hzFuFzw1JqiLR14fYNvnEFfFpump
+> 🎲Name: Fuku
+> 💡Symbol: FUKU
+>  
+> 怎么我感觉全是跟单的流动性呀
+> t.me/Shanxunjiankong/113166
+> 初期聪明钱进才几万市值。
+>  
+> 大哥们一进场就是秒变1M，在刷新就快2M了。玩在这个阶段就是，谁手里没俩个私货聪明钱包，就压根PVP不动了。
+>  
+> 到底是大家谁在研究谁？可以去抓抓别人跟的聪明钱，这样你可以跑在别人的前面了。
+>  
+> 对了给大家解释一下这个标签：金狗数值越大，证明钱包胜率越高，我自己为每个钱包做的标记数值而已。
+
+## 82. Aug 7, 2024 · 1:32 PM UTC · 1821177574103613561#m
+- 链接：https://twitter.com/0x01yuqi/status/1821177574103613561#m
+- 作者：@0x01yuqi
+
+> 聪明钱监控频道策略初跑测试，大家一起卷。
+>  
+> Makenow 大家也不玩了  那就变为了 聪明钱监控BOT频道测试。
+>  
+> 目前监控收集的KOL大佬们的钱包和一些重点关注钱包。
+>  
+> 推送逻辑也非常简单，大家短时间内一起买，就推送。看看谁成为谁的流动性PVP。
+>  
+> BOT：t.me/Shanxunjiankong目前公开免费测试，共同监督质量。
+>  
+> 比如这个 CA：C9FTn7hQddPTmZQxvygBk2LVGwWriBvRGU4x2UEkpump  3个聪明钱和2个KOL博主买入 就会推送 目前1.3M成为了小金狗。 t.me/Shanxunjiankong/112883
+>  
+> 后期运营考虑，大家一起来维护监控钱包集合，就一起享用劳动成果，这个bot制作成本很低，难度系数是如何维护高质量钱包才是核心重点。
+
+## 83. Aug 2, 2024 · 9:57 AM UTC · 1819311470611779597#m
+- 链接：https://twitter.com/0x01yuqi/status/1819311470611779597#m
+- 作者：@0x01yuqi
+
+> $test 好像顺序反了没有部署合约呢,符号》描述》 @makenowmeme
+
+## 84. Aug 2, 2024 · 9:50 AM UTC · 1819309821960901003#m
+- 链接：https://twitter.com/0x01yuqi/status/1819309821960901003#m
+- 作者：@0x01yuqi
+
+> $PVP  @makenowmeme
+> 赌场又开了 监控启动上号枯坐 makenow监控BOT：t.me/Shanxunjiankong
+
+## 85. Aug 1, 2024 · 9:24 AM UTC · 1818940761859326010#m
+- 链接：https://twitter.com/0x01yuqi/status/1818940761859326010#m
+- 作者：@0x01yuqi
+
+> 还有一种玩法就是 使用 TWBOT 监控  @makenowmeme 关注项目方的动向才是王道
+> 今日TWBOT 榜单top1  看来大家都监控起来了。
+
+## 86. Aug 1, 2024 · 9:15 AM UTC · 1818938564798709923#m
+- 链接：https://twitter.com/0x01yuqi/status/1818938564798709923#m
+- 作者：@0x01yuqi
+
+> 更新 检索原推文  已经过滤低于1000粉丝以下的数据  其他的在看看吧  数据有无 有漏 可以反馈给我
+
+## 87. Aug 1, 2024 · 8:34 AM UTC · 1818928187185017021#m
+- 链接：https://twitter.com/0x01yuqi/status/1818928187185017021#m
+- 作者：@0x01yuqi
+
+> 其实核心 你们就想检测原推文 和到底是哪个推特号发的是不是  超级简单关注我 马上更新
+
+## 88. Aug 1, 2024 · 8:29 AM UTC · 1818926996921237982#m
+- 链接：https://twitter.com/0x01yuqi/status/1818926996921237982#m
+- 作者：@0x01yuqi
+
+> 真 自动发了  纯靠推文PVP 大家下单buy 之前一定要注意情绪啊  后续指标新增，检测推特用户 检测粉丝量  辨别真假  。如何在扫链和推特引擎里面二者合一
+
+## 89. Aug 1, 2024 · 8:25 AM UTC · 1818925944947790303#m
+- 链接：https://twitter.com/0x01yuqi/status/1818925944947790303#m
+- 作者：@0x01yuqi
+
+> $PVP @makenowmeme
+> 欢迎加入新的赌场，更多指标待优化更新。 已经有了一定的推送逻辑了，冲 t.me/Shanxunjiankong 冲
+
+## 90. Aug 1, 2024 · 5:06 AM UTC · 1818875920947855498#m
+- 链接：https://twitter.com/0x01yuqi/status/1818875920947855498#m
+- 作者：@0x01yuqi
+
+> 聪明钱 更新后续来了 送大家一份珍贵的数据 适用于有动手能力的粉丝，没动手能力的话，就等更新吧。
+>  
+> 最真实的头部数据，这是PUMP 6月、7月 。为期2个月部署的代币token 合约。
+>  
+> 不完全统计大概共部署了80W+合约。平均每天约1.3W+ token在PUMP部署。
+> 如果你一个买1刀彩票，你2个月消费都需要花80万刀。
+>  
+> 如果没有自己的交易策略，并严格执行。家里的矿山都应该会被你PVP输完。
+>  
+> 让大家知道一下PUMP为当前的SOL生态做出了多大的贡献。本数据仅学习和交流使用，需要数据学习的私信我提供学习。
+>  
+> 不知道大家还记得 dexlab吗？dexlab.space/
+> DEV朋友们应该都不陌生，SOL土狗初期，大家似乎都是dexlab 一键发币，那个时候大概一周差不多不到1万的发币量。当前已经下滑到了一周几百个了。已经不能成为PUMP的流量对手了。
+>  
+> 大家觉得后续会不会有新的模式，新的仿盘能超越当前的PUMP呢？
+
+## 91. Jul 30, 2024 · 6:25 AM UTC · 1818171037756088688#m
+- 链接：https://twitter.com/0x01yuqi/status/1818171037756088688#m
+- 作者：@0x01yuqi
+
+> 思路提供了  更希望一起动手的小伙伴来一起总结经验  大家一起来卷聪明钱，让聪明钱都变为笨蛋钱包
+
+## 92. Jul 30, 2024 · 6:22 AM UTC · 1818170384883368317#m
+- 链接：https://twitter.com/0x01yuqi/status/1818170384883368317#m
+- 作者：@0x01yuqi
+
+> "聪明钱" 三个字在你的 $meme 圈子里面似乎经常提及吧
+> 聪明钱真的聪明吗？如何去挖掘聪明钱呢？
+>  
+> 简单给大家讲一下挖掘思路，其余自己动手操作吧!
+> 首先呢？其实我们可以把聪明钱分为2大类
+>  
+> 一类是：短时间内能快速捕捉热点币，金狗币的，但是他们可能盈利率不会很高，但是他们基本上金狗都会有参与。
+> 一类是：能上单币盈利榜单top100的，比如现在很多看线网站都支持盈利榜单 dexscreener.com 、 gmgn.ai、 bullx.io 等。
+>  
+> 聪明钱分类完毕，其实总结就俩类：一种是信息流聪明钱（看买入时间优先参与），一种是大资金系内幕系聪明钱（看盈利率上top榜单）
+>  
+> 如果获取这俩类聪明钱钱包呢？
+> 大资金系内幕系聪明钱：直接去通过各个K线网站top榜单，爬虫解决。懂的都懂。
+> 目前自我感觉做得最好的我感觉是 bullx.io了 （目前好像是必须要有邀请码才能激活使用）
+> 【t.me/BullxBetaBot?start=acce…】
+>  
+> 此网站展示的top50盈利榜单 已经可以解析出此聪明钱用的什么swap 交易的了，非常直观省事，且能过滤非正常交易bot。
+> 其实去挖掘清洗过聪明钱包数据的朋友都应该知道，榜单里面这类钱包很多都是科学家bot钱包，监控这些钱包的意义其实不大的，因为别人都是超频交易的。
+>  
+> 信息流聪明钱：基本上这类聪明钱在 PUMP内盘里面，其次在raydium发射前100笔交易里面。
+> 所以获取此类钱包首先你得有一定链上基础知识了，SOL 一个土狗合约，比如在PUMP内盘到发射上RAY，用户去交易会和几个合约有接触 1、bonding_curve地址 2、associated_bonding_curve地址 3、raydium_pool地址 如图：$FWOG ：frontend-api.pump.fun/coins/…
+> 这3个地址都是用户交易交互地址，所以你直接通过链上去获取这3个地址交易hash，在解析出交易的地址即可
+>  
+> 最后你在统计历史金狗合约，分别拿着金狗合约按照俩类地址获取交易钱包，比如拿100个合约去获取，最后按照出现的次数，就能找到一大批聪明钱了。
+>  
+> 目前其实这周我也在正在聪明钱的清洗工作，我个人更偏向于第一种 信息流聪明钱。先把所有金狗合约的内盘交易地址全部洗出来，【能稳稳抓金狗内盘的钱包基本上都不差】，反而第二种top盈利榜单我感觉噪音会有点大，咱们普通人很难跟上的。不过还是动手操作了才知道。
+>  
+> 而且还有当你把聪明钱洗出来之后，肯定是一大堆钱包，还要考虑如何去过滤 小额高频交易的科学家钱包。根据钱包地址每天的交易笔数，平均交易额度去剔除，才能得到最后有价值的钱包。
+>  
+> 觉得思路不错可行的的兄弟们三连点赞一下，达到200点赞，等我把钱包数据洗完，下一期，给大家公布一些高质量的钱包吧。数据是一个时间活儿。
+
+## 93. Jul 27, 2024 · 4:02 PM UTC · 1817228992380051612#m
+- 链接：https://twitter.com/0x01yuqi/status/1817228992380051612#m
+- 作者：@0x01yuqi
+
+> Twbot 更新升级
+> 推文实时监控
+> 关注实时监控
+> 均做到了10s以内了，可以监控自己推特号测试。
+>  
+> 现在。和同行推特监控相比，已经做到了 遥遥领先。并上线了 邀请模式。
+>  
+> 可能之前大家都反应监控推文慢，监控关注慢，这下完全质的飞跃了。时效性大大提高。
+>  
+> 具体邀请模式想怎么玩儿 还没有想清楚，后面会根据邀请人数来兑换使用监控额和返佣模式，等等  没事就更新一点，模式慢慢完善吧
+>  
+> t.me/yingheTWbot?start=60633…
+
+## 94. Jul 20, 2024 · 1:24 AM UTC · 1814471370727928130#m
+- 链接：https://twitter.com/0x01yuqi/status/1814471370727928130#m
+- 作者：@0x01yuqi
+
+> 睡醒 放链接  拼手速进
+> DEX监控
+> t.me/+VqQIbkxQ2hpkZDU9
+> t.me/+YizqgQZHD5s3NjNl
+> t.me/+Qf-TS1lKgw8wYjJl
+> t.me/+OHfdXkAlxXtkMzRl
+> t.me/+Ov51tuaBoJc2NTE1
+> CTO监控
+> t.me/+jNbsueP-fNEwY2Y1
+> t.me/+IRijcqyy-Wk4Nzc1
+> t.me/+v_X5Jf--0IU0MmM1
+> t.me/+18w1xmm5wchiMzQ1
+> t.me/+uRo9tBQJHFc3MzNl
+
+## 95. Jul 19, 2024 · 8:01 AM UTC · 1814208909802139796#m
+- 链接：https://twitter.com/0x01yuqi/status/1814208909802139796#m
+- 作者：@0x01yuqi
+
+> 《二段Meme金狗》训练营 @0xabc007 那里能学什么？附：课表目录，去报 @0x01yuqi 粉丝名字，绝对可以打骨折价让你走出新手村。
+
+## 96. Jul 19, 2024 · 7:53 AM UTC · 1814207039238984069#m
+- 链接：https://twitter.com/0x01yuqi/status/1814207039238984069#m
+- 作者：@0x01yuqi
+
+> $PUMP 盘子，如果你是DEV，你会怎么建立自己的老鼠仓？
+> 现在兄弟们似乎都聪明了，都比较喜欢DEV sell后 $CTO 在跑步进场，但是你觉得DEV sell了 开始喊 $CTO 了 狗庄就真的不在了吗？
+> 那你还是太天真了。
+>  
+> 1、大家公认的新钱包会是老鼠仓吧？平常人不会用新钱包去单独买一个币，少之又少。
+> 2、批量做市脚本可能也是老鼠仓吧？何为批量做市钱包呢？胜率差不多，交易的土狗代币都是一样的？这我可以理解为老鼠仓吧？
+>  
+> 所以针对老鼠仓、新钱包检测，Pump发射Alert-猎人：t.me/YHtwo_PUMP 最近更新新指标了。
+> 白话文理解就是：获取土狗代币的持币人，然后判断钱包的注册使用时间，和累计交易了多少代币，和胜率，这样就能过滤出来，老鼠钱包和新钱包了。
+>  
+> 何时用这个指标方便呢？
+> 1、 $PUMP  内盘发射的时候，你可以根据 holders 持币地址 来看看狗庄还剩余多少筹码？
+> 2、 $CTO 的时候，社区大家都在一股脑的喊CTO，但是狗庄真的跑没跑，兄弟们在一边进场，DEV在一边出货？常理CTO 头部人群砸盘少才能做起来一个CTO盘子。
+> 3、 $DEX 的时候，DEX流程一般都是在CTO 喊单前，CTO团队一般找美工整2张图片 付款 上传DEX，然后就开始宣传CTO了，但是其实很多内盘CTO起步都是在PUMP的Reply评论区。
+>  
+> 其次最近我也做了，这种监控CTO监控，DEX监控，但是一直没有放出来因为，本身市场够PVP了，不想群友在一起PVP。所以今天抽5个DEX监控群名额，抽5个CTO监控群名额，合计10个名额。
+> 【三连】评论区留下你的TG用户名，【晚上10点直接评论区】放进群链接自己进群即可。
+>  
+> 最后广告宣传时间，新手想玩好 $SOL 和 $PUMP 盘 推荐 北斗学堂—《二段Meme金狗》训练营 @0xabc007 训练营从0教你入门，适合新手去过新手村。同时我的工具bot也会为新手村做支撑和保障。
+>  
+> 最近一直在更新的路上。这周 $TWBOT 监控重构，指标老鼠仓新钱包检测上线，下一步准备优化 $ETH BOT了 $ETH  $meme 真的来了 钻石手  速回。
+
+## 97. Jul 17, 2024 · 9:49 AM UTC · 1813511231824924788#m
+- 链接：https://twitter.com/0x01yuqi/status/1813511231824924788#m
+- 作者：@0x01yuqi
+
+> 监控关注这个的确慢一些，争取有时间在优化优化，监控关注的时效性需求应该只能pvp 跟单吧。
+
+## 98. Jul 17, 2024 · 9:47 AM UTC · 1813510713505349812#m
+- 链接：https://twitter.com/0x01yuqi/status/1813510713505349812#m
+- 作者：@0x01yuqi
+
+> TWbot近期维护更新了推送算法，解决了当初推送速度缓慢问题。
+> 当前测试速度效果：【推文监控速度10s】、【电话call监控速度5s】、【新增关注监控速度60s】
+>  
+> 支持监控自己twitter小号测试速度，大家共同监督维护。
+>  
+> 因为后台用户太多了，有的人 监控着没使用，所以做了一次大清理，优化了推送速度。
+
+## 99. Jul 15, 2024 · 4:30 PM UTC · 1812887530100097319#m
+- 链接：https://twitter.com/0x01yuqi/status/1812887530100097319#m
+- 作者：@0x01yuqi
+
+> 发射频道已经陆续开始出现发射货不对板的了，注意了，大粉丝体系的，第一个我们可以买单，第二个我们也可以买单，但是三个四个都来了，推文时间对不上的也来了，注意风险了。
+
+## 100. Jul 15, 2024 · 4:20 PM UTC · 1812884883435655209#m
+- 链接：https://twitter.com/0x01yuqi/status/1812884883435655209#m
+- 作者：@0x01yuqi
+
+> 热点怎么蹲，今晚大家似乎都在关注特朗普
+>  
+> 就去发射pump频道 买彩票  蹭热点第一个射出去的币就当买彩票
+>  
+> t.me/YHtwo_PUMP/10154
+>  
+> 这个时候大家对dev历史数据 似乎并不感兴趣了，蹭热点最快的，姿势最帅的。
+>  
+> 🚀MINT已打满🚀 3min
+> CA: 83sjxMqcV9ynx4sSEjwL3NqNB7AoyiQLqdnuNHFXpump
+>  
+> Name：FEAR NOT
+> Symbol：FEAR NOT
+> USD市值: 62815
+> Reply评论: 2
+> 👑1/2 Process进度耗时：1 min
+> 🚀2/2 Process进度耗时：1 min
+>  
+> 创建合约时间: 2024-07-15 23:49:09
+> holders：134 Top10: 49%
+> 详情：20.7%|4.5%|3.7%|3.7%|3.5%|3.3%|2.9%|2.6%|2.4%|2.3%
+>  
+> 创建者: A6JZiFF5Z5x4zDMkAWrkYELVrNQx8KK91N4vfaeWi7AW
+> 总持币个数：77 价值持币个数：0  价值持币详情：{}
+> 历史发币数量:10 成功:2 失败:7
+>  
+> name: Donald J. Trump Posts From His Truth Social ✔蓝标
+> USER: TrumpDailyPosts
+> 粉丝数: 648059
+> 关注数: 15389
+> 账号创建时间: 2023-08-03 08:48:07
+> 账号推文分析：时间0天内 发布推文11篇 评论推文1篇
+> 账号平均每条 浏览1508015 评论448 转推2593 点赞23353
+>  
+> 这就跟以前eth蹭老马推文一样，拿着官方的推特数据推文链接就去发币了，主打的就是一个快字   情绪来了 6万市值大家fomo都过1M了
+
+## 101. Jul 13, 2024 · 9:09 AM UTC · 1812051624480924001#m
+- 链接：https://twitter.com/0x01yuqi/status/1812051624480924001#m
+- 作者：@0x01yuqi
+
+> 想追sol NFT这波风 那你就用 $TWbot 监控关键性账号，监控推文，电话call来追风。
+> @aeyakovenko
+> @solana
+> @saydialect
+> @blinkdotfun
+> @JogoJogoGame
+>  
+> TWbot：t.me/yingheTWbot 4月份上线到现在一直在维护已经3个月了，基本上推文延迟10s左右，并且支持免费使用的。
+>  
+> 而且TWbot还支持，新增24小时热门top10账号查询，可以查阅大家都在监控哪些推特号，让你对于寻找挖掘项目更加轻松。
+>  
+> 其次现在TWbot支持私人定制服务，监控推文合约，到刮刀到买入token只需要4s左右，正常监控推文2s，发送telegram交易bot买入上链确认2s，即可完成，但是成本非常高。普通用户使用TWbot其实已经完全够用了。
+
+## 102. Jul 10, 2024 · 2:21 PM UTC · 1811043169385205808#m
+- 链接：https://twitter.com/0x01yuqi/status/1811043169385205808#m
+- 作者：@0x01yuqi
+
+> 这只是最近的市场方向  知道大家最近sol 都非常难玩 cto 相对来说市场方向 好一点
+
+## 103. Jul 10, 2024 · 2:08 PM UTC · 1811039832971563252#m
+- 链接：https://twitter.com/0x01yuqi/status/1811039832971563252#m
+- 作者：@0x01yuqi
+
+> $POPDOG 💰FDV: 293979 USDT 监控CTO
+> C5gnRtcm1a2aCBbtfAPqnDjpQ2YdD9PcfBk8VM2iguXS
+>  
+> $gidi 💰FDV: 64305 USDT 监控CTO
+> dn3ypfEqJLMH2Aqh33GChVygR6kbX3Jxewn7BQwpump
+>  
+> $gg💰FDV: 87741 USDT 监控CTO
+> CZBYBV2e1x1ZuZ2qkwU5mPNVLFKfVvjSssSNHzSepump
+>  
+> $MATT💰FDV: 800731 USDT 监控CTO
+> 0x790814Cd782983FaB4d7B92CF155187a865d9F18
+>  
+> 实践证明 最近CTO策略玩法比pump内盘玩法适用一些 买内盘就跟买彩票一样，等一手 devshell  holder人数上涨 dex付款了 开始CTO在进场。
+>  
+> 万物皆可CTO 不止 $SOL 链 可以CTO  $ETH 金狗来了也能CTO
+
+## 104. Jul 6, 2024 · 3:05 AM UTC · 1809423315322433647#m
+- 链接：https://twitter.com/0x01yuqi/status/1809423315322433647#m
+- 作者：@0x01yuqi
+
+> 这个行情非常不建议大家冲sol的开盘打新，研究一下二段，cto是非常好的策略思路。
+
+## 105. Jul 6, 2024 · 3:03 AM UTC · 1809422791302869176#m
+- 链接：https://twitter.com/0x01yuqi/status/1809422791302869176#m
+- 作者：@0x01yuqi
+
+> 非常努力的cto投研选手  $Holky 10万市值监控到cto  最高干到了8m  ，现在任然还有4m。一方面反应了cto频道的捕捉能力，一方面反应了投研选手是真的勤奋努力。
+
+## 106. Jul 4, 2024 · 3:52 PM UTC · 1808891767267471435#m
+- 链接：https://twitter.com/0x01yuqi/status/1808891767267471435#m
+- 作者：@0x01yuqi
+
+> 被套就是cto 站岗就喊cto   vc音乐一放 币价嘎嘎跌
+
+## 107. Jul 4, 2024 · 3:29 PM UTC · 1808885895694856266#m
+- 链接：https://twitter.com/0x01yuqi/status/1808885895694856266#m
+- 作者：@0x01yuqi
+
+> 最近没更新推文 但是我一直没闲着,研究的一套CTO信号捕捉策略，打新玩不动 就来玩二段。
+>  
+> $Bili 从监控4万市值 到 1.4M
+> $sam 从监控4万市值 到 1.6M
+> 都是CTO起步阶段就捕捉到了。
+>  
+> 来10个大佬帮忙测试数据，虽然最近行情很烂，打新打不动，但是你可以注意一下二段CTO 信号的捕捉。
+>  
+> 目前这套信号，已经能捕捉cto 金狗了 但是需要收集数据过滤，抵制dev，抵制诈骗。需求10人，全职在线sol冲土狗，有信息收集能力，对cto土狗有一定的理解，有自己的扫链经验，活跃分享的那种小伙伴，即可私信我。我来提供策略，大家一起学习研究完善策略。小白用户的话，等着我们策略测试稳定了。公开使用吧。
+>  
+> 今天的数据
+> 💊CA: 5eGcRk6dEXFZj3PLXUhU9nVi13RE8YdE1pQQr5tApump
+> 🎲Name: Bǐ lì 比利
+> 💡Symbol: Bili
+> 💰FDV: 40250 USDT
+>  
+> 昨天的数据
+> 💊CA: DWGCob3GUYrRf96uQ1mYWL7edo3EHkPHjGcqYi69pump
+> 🎲Name: Sam
+> 💡Symbol: SAM
+> 💰FDV: 45952 USDT
+>  
+> 截图放出来了 哈哈 大家快来卷cto这个阵营吧。懂的人 看图应该就知道怎么玩了。
+
+## 108. Jul 2, 2024 · 2:38 PM UTC · 1808148259824886209#m
+- 链接：https://twitter.com/0x01yuqi/status/1808148259824886209#m
+- 作者：@0x01yuqi
+
+> 老师们 你们老实告诉我  $Ton 链 目前土狗合计一起才 6749个土狗token  真的是新的热点吗？  $sol 行情好的时候  一俩天都能发射几千个土狗吧？？？？真的有金狗吗，又想骗我们去新的赌场。
+
+## 109. Jun 25, 2024 · 2:55 PM UTC · 1805615715191603324#m
+- 链接：https://twitter.com/0x01yuqi/status/1805615715191603324#m
+- 作者：@0x01yuqi
+
+> 今晚粉丝问我  api给别人 bot钱包里面的钱丢了，是不是被盗了。
+>  
+> 温馨提醒一下大家
+> Telegram的账号API是可以操作TG账号，或者操作交易Bot的，如果你把api给别人操作，完全是可以把你的资金给转移的，一定要注意TG API的刮刀安全。最好自己操作。
+>  
+> 所以这就是为什么我们twbot不帮用户提供刮刀服务，尽量让你自己去折腾，因为api风险太高了。
+
+## 110. Jun 19, 2024 · 4:18 PM UTC · 1803462471216406601#m
+- 链接：https://twitter.com/0x01yuqi/status/1803462471216406601#m
+- 作者：@0x01yuqi
+
+> 昨天给大家讲了 重点关注 你一定要关注
+> t.me/hunterpump/2112
+>  
+> Name： $Qanouns
+> Symbol： $Q
+> USD市值: 25292
+> Reply评论: 6
+>  
+> 2万市值就给你标记了 重点关注你一定要点开推特看看推特账户看见这种账户信息 你觉得内盘你塞不塞
+>  
+> 其实我们也考虑过把推特个人简介给放出来，但是我觉得放出来太占地方了，所以重点关注的，你一定要点进推特去看看 个人介绍看看历史推文的账户价值属性。赚钱都不是偶然的,你肯定需要蹲群，蹲消息才能第一时间关注。
+
+## 111. Jun 18, 2024 · 1:47 PM UTC · 1803062037007811039#m
+- 链接：https://twitter.com/0x01yuqi/status/1803062037007811039#m
+- 作者：@0x01yuqi
+
+> 专业标记推特大佬的，大佬CTO 从5万市值喊到1.3M
+> Name： $HENRY
+> Symbol： $HENRY
+> USD市值: 47894
+> Reply评论: 77
+>  
+> t.me/hunterpump/2016
+>  
+> 推文如果出现俩个关键性指标你一定要重视了
+> 🔥重点🔥
+> ⭐️重点关注⭐️
+>  
+> 具体指标代表什么意思，目前不能解释，不然抄袭又来了。
+> 都是自动化标记推特账户价值属性的，反正出现的时候，一定要重视这个推文即可。
+>  
+> PUMP本身就是一个需要24小时在线的内盘打法，你不在线的5分钟，盘子可能就没有了。晚2分钟，可能就是抬轿子。所以我们的bot推送尽量给大家标记重点去观察内盘。节省人力。
+
+## 112. Jun 18, 2024 · 1:45 AM UTC · 1802880313976410334#m
+- 链接：https://twitter.com/0x01yuqi/status/1802880313976410334#m
+- 作者：@0x01yuqi
+
+> 推友都是当流动性
+
+## 113. Jun 18, 2024 · 1:18 AM UTC · 1802873446625656878#m
+- 链接：https://twitter.com/0x01yuqi/status/1802873446625656878#m
+- 作者：@0x01yuqi
+
+> 你们是不是都是自动化刮刀？？？？  大家应该都亏吧？刮得越快亏得越多
+>  
+> 这是电话提醒 - 触发关键词
+> 这是电话提醒 - 触发关键词
+> 这是电话提醒 - 触发关键词
+> 这是电话提醒 - 触发关键词
+> 这是电话提醒 - 触发关键词
+>  
+> ->用户：Rizz | $RIZZ on Sol(@solgotrizz)
+> ->发布内容：
+> The moment is now, rizzlers: time for the Official Contract Address™ to #GotRizz.
+> CA: EueTYuud7eu23G2h8WcppWGtQBg9KRiVRYjGEHi6wkAH
+>  
+> a new era of rizzdom is at hand.
+> generational rizz awaits. localhost:8080/solgotrizz/statu…
+> ->推特链接：localhost:8080/solgotrizz/statu…
+
+## 114. Jun 17, 2024 · 9:48 AM UTC · 1802639476411474424#m
+- 链接：https://twitter.com/0x01yuqi/status/1802639476411474424#m
+- 作者：@0x01yuqi
+
+> $BILLY 如何从 3万市值干到了现在的18M的？？？
+>  
+> 目前猎人对外免费频道社区
+> PUMP推特Alert-猎人：t.me/hunterpump
+> PUMP内盘Alert-猎人：t.me/YHone_PUMP
+> PUMP发射Alert-猎人：t.me/YHtwo_PUMP
+>  
+> 有这3个频道  基本上链上的不管土狗，金狗，还是什么狗，在频道里面都能捕捉到
+> CA: 3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump
+> Name：BILLY
+> Symbol： $BILLY
+> USD市值: 33137
+>  
+> t.me/YHone_PUMP/17586
+> t.me/YHtwo_PUMP/4549
+>  
+> 3万市值干到了现在的18M，咱们猎人社区在PUMP肯定算得上系统化的推送频道了。链上风向标。
+>  
+> 包括其实一些比如最近比较火的玩法，监控销毁啊，监控光头地址，监控保利地址这些策略
+>  
+> 其实这些  【对内隐私策略】、【私人策略】 我们都有，但是我们最为PUMP这么大的链上猎人社区，我们没胆子放出来，截图我现在都没胆子放了，一放出来，大家的策略就失灵，然后就变成了群友PVP，主要还是狗庄太多了，我怕狗庄们都上头了。
+>  
+> 玩PUMP，你关注猎人就够用了。另外如果你有牛逼可实现的pump策略可以联系我，我们来帮你完成一起打土狗。那种可实践可落地的策略哈，别上来天马行空。
+
+## 115. Jun 17, 2024 · 4:49 AM UTC · 1802564188407218217#m
+- 链接：https://twitter.com/0x01yuqi/status/1802564188407218217#m
+- 作者：@0x01yuqi
+
+> 【刮刀代码分析】
+> 准备：
+> 1.Telegram 账号API申请
+> 2.境外服务器才能启动脚本，因为TG 发送获取消息 需要梯子
+> 3.python环境
+> 4.t.me/yingheTWbot电话监控推特用户
+>  
+> 原理：
+> TWbot电话监控推特用户（是电话提醒的用户发推）就会自动把包含电话提醒的推文发送给TG交易bot SolTradingBot ， 然后你在SolTradingBot 设置收到合约自动买入，这样只要推文里面包含各种CA合约 或者是PUMP链接 交易bot都能给你自动购买了，而且配合TWBOT电话提醒，触发了合约 还会给你打电话
+>  
+> 动手能力强的伙伴自己折腾吧 代码附上 不忘三连 遇到不懂的自己问chatgpt吧 代码很基础
+> 代码链接：oshi.at/DRiD
+
+## 116. Jun 13, 2024 · 3:14 AM UTC · 1801090753470591212#m
+- 链接：https://twitter.com/0x01yuqi/status/1801090753470591212#m
+- 作者：@0x01yuqi
+
+> "刮刀"  满300赞直接放脚本 出来一起卷
+>  
+> PUMP如何快速亏钱，那就去学刮刀自动化
+>  
+> "刮刀"一词 源于老外 的 大师 香蕉 交易bot
+>  
+> 白话文：就是监控到TG某个频道有新消息 新推送 新合约，正则匹配合约，转发给交易机器人，实现自动购买
+>  
+> 比如你想刮推文：你就用TWbot t.me/yingheTWbot  监控推文用户 ，然后刮刀监控TWbot 实现自动化买入
+>  
+> 比如你想刮TG频道：你就直接加入频道监控频道，实时去转发TG频道里面的合约到交易BOT
+>  
+> 具体刮刀学习资料参考大师：docs.maestrobots.com/maestro…
+>  
+> 这东西难吗？不难，但是如果你连TG API 你都申请不下来，那证明这东西还是很难的了。有问题问Chatgpt即可
+>  
+> TWbot马上加班更新 监控到CA合约 给你们一个模板 让你们单独刮
+
+## 117. Jun 12, 2024 · 6:20 AM UTC · 1800775073445597268#m
+- 链接：https://twitter.com/0x01yuqi/status/1800775073445597268#m
+- 作者：@0x01yuqi
+
+> $ICF 市值 5000市值监控到艺术家发推特，直接干到了1.3M
+>  
+> PUMP💊: 45QasSARsH1hYhm37ryQKoxxUUdDRAvZaehiKS34pump
+> Name：I can fly
+> Symbol： $ICF
+> USD市值: 5116
+>  
+> 猎人PUMP推送频道：t.me/hunterpump/1456
+>  
+> 珍惜在群里抓金狗的机会吧！目前推特风控升级越来越严重，推特引擎API我不知道能坚持多久，每天后台使用废物被封账户越来越多。我也不知道能坚持多久了，反正目前还能正常使用。目前还没找到有效的备用方案。搜索接口是风控重灾区
+
+## 118. Jun 8, 2024 · 3:38 PM UTC · 1799466052096798726#m
+- 链接：https://twitter.com/0x01yuqi/status/1799466052096798726#m
+- 作者：@0x01yuqi
+
+> 关于指标介绍学习 查看这篇推文    都是一体化的指标  多学习 准没错
+
+## 119. Jun 8, 2024 · 3:29 PM UTC · 1799463690854715832#m
+- 链接：https://twitter.com/0x01yuqi/status/1799463690854715832#m
+- 作者：@0x01yuqi
+
+> 欢度端午，给大家送上,核弹级指标 ,更新【猎人PUMP推送频道】
+>  
+> 经过内部团队讨论，鉴于最近推特pump行情比较难玩
+>  
+> 故 【限时】 放出推特引擎检索到的合约分析
+>  
+> 不光能第一时间检索到推特大v发的合约，而且还能第一时间自动化分析合约，解放双手，亏钱更加快速
+>  
+> 让你对推特PUMP更有信心。具体指标学习使用参考历史推文，@0x01yuqi 我对我的推送指标都有过系统化分析，大家慢慢体验。熬夜抓金狗。
+>  
+> 别人1sol 2sol月费的群 这里你免费体验：t.me/hunterpump
+>  
+> 查询分析合约信息需要时间，延迟延迟大的勿扰，延迟亲测1分钟左右。
+>  
+> 另外关于推文的监控延迟，你可以试试TWBOT：t.me/yingheTWbot监控推文延迟20s以内。
+
+## 120. Jun 7, 2024 · 3:17 AM UTC · 1798917044399919528#m
+- 链接：https://twitter.com/0x01yuqi/status/1798917044399919528#m
+- 作者：@0x01yuqi
+
+> 不得不说 007他们团队真的是专业  别人不光读书这么努力 打土狗都这么努力   好的复盘 好的学习笔记加速个人成长
+
+## 121. Jun 7, 2024 · 1:52 AM UTC · 1798895665201999908#m
+- 链接：https://twitter.com/0x01yuqi/status/1798895665201999908#m
+- 作者：@0x01yuqi
+
+> PUMP推送速度的快慢，并不能让你肯定是金狗，但是数据的验证，可以让你对你买入的合约进行有效的验证，有些推特大v发的pump是真公平，但是有些推特大v发的pump就是为了你钱包的那一点sol
+
+## 122. Jun 7, 2024 · 1:29 AM UTC · 1798890061901263339#m
+- 链接：https://twitter.com/0x01yuqi/status/1798890061901263339#m
+- 作者：@0x01yuqi
+
+> $HULK  8千市值干到了18M
+> PUMP💊: BUPKYk9hqhjEn4cA7CkjbtRRb893hNoRYc1gp5D6YaCU
+> Name：HULKAMANIA
+> Symbol： $HULK
+> USD市值: 8295
+> Reply评论: 1
+> t.me/hunterpump/866
+>  
+> 一起床看见群消息99+ 就知道昨晚坏事了。
+>  
+> 而且推送时间没人说慢吧，最近这个推送时间嘎嘎快。我所知道的有人拿这种东西开收费群1sol，2sol一个月的，不知道他们的推送速度有没有我的快。不过其实收费也理解，这东西推特api需要成本的。
+>  
+> 对于速度方面，从来没让群友pvp。我都说了pump3万市值一定是一个分水岭，3万市值有好标，拒绝抬轿子，你就嘎嘎塞吧。
+
+## 123. Jun 6, 2024 · 10:18 AM UTC · 1798660698081501624#m
+- 链接：https://twitter.com/0x01yuqi/status/1798660698081501624#m
+- 作者：@0x01yuqi
+
+> PUMP内盘包赢小知识逻辑（三连抽奖学习名额呦）：
+>  
+> 1.打满封盘发射7万左右你要记住。
+> 2.发射有情绪大概300K就是一个pump土狗的门槛，200K往上都可以考虑只盈。
+> 3.市值方面3万市值左右上PUMP榜单，所有群友PVP点位你一定要3万市值内买入，否则接盘。换算成价格大概就是内盘0.00003之前你上车，打满发射你就包赢。
+>  
+> 所以我们把PUMP内盘的分界点划分在3万市值这里，如何挖掘到市值是在3万以内，且能打满的呢？
+>  
+> 情绪面挖掘
+> 1.项目方推特金标最近能成为fomo点
+> 2.艺术家大v 推特引擎检索出来的合约
+> 3.老马关注，pump官方关注的推特发行喊单的PUMP
+>  
+> 数据面挖掘
+> 1.项目方三件套是否有：twitter、telegram、website
+> 2.DEV第一笔买单买入多少，DEV持仓多少，能否砸盘出货
+> 3.老鼠仓钱包买入多少，持仓多少，能否砸盘出货，判断老鼠仓是扫链BOT还是是DEV的 就看老鼠仓钱包的历史交易记录，是否是新钱包来判断老鼠仓和DEV的关系
+> 4.holders人数多少能否FOMO，top10占比低于50%
+> 5.历史发币成功多少次，失败了多少次，钱包里面有什么历史持仓几百sol，几千sol的那种你就无脑跟吧
+> 6.观察总体买卖次数如果笔数都只有几笔的那种，一般全是dev自己人，你就别去接盘了，那种秒满，秒发射的盘子，你就别去送了
+>  
+> 这些指标数据都是基础知识，其实我在PUMP内盘推送群，每个合约信息，我都查询了这些信息，学习形成肌肉记忆，看见就梭哈别犹豫，进得早就是群友给你抬轿子。
+>  
+> 如图1:这些都是一个打新指标学习.
+>  
+> 最后推荐一下 007 老师的 《二段Meme金狗》训练营  学习sol二段金狗知识，技多不压身，007 老师团队 是我见过一级土狗圈最传统最负责的 教学培训团队 ，非常适合新人。但是有一定的门槛。
+> 买个圈子，认识一点人脉，共同学习打土狗二段，007老师带队。
+>  
+> 有兴趣想学习的 可以填写表单，007老师他们会审核加您，一定要填表呦。
+> docs.google.com/forms/d/e/1F…
+>  
+> 同时也非常感谢 007老师 送出了10个学习名额，那我就在评论区给抽了吧，三连留下你的TG名，开奖私聊你，老师只给了10个名额，打新和二段手法这就给大家送上了吧，修行靠个人了。
+
+## 124. Jun 5, 2024 · 2:58 PM UTC · 1798368911114821881#m
+- 链接：https://twitter.com/0x01yuqi/status/1798368911114821881#m
+- 作者：@0x01yuqi
+
+> 我一度的怀疑我自己的bot 一开始没有查询出来 让我我去看了一下 日志 开盘真没金标啊，都是半路上的标吧
+
+## 125. Jun 5, 2024 · 2:57 PM UTC · 1798368524513202249#m
+- 链接：https://twitter.com/0x01yuqi/status/1798368524513202249#m
+- 作者：@0x01yuqi
+
+> 金标dev   专拿金标开盘   内盘3万市值以下 应该包赚
+
+## 126. Jun 5, 2024 · 2:53 PM UTC · 1798367632296694190#m
+- 链接：https://twitter.com/0x01yuqi/status/1798367632296694190#m
+- 作者：@0x01yuqi
+
+> 有推特金标懂哥吗？
+> CA: 5GWUcSfzSEcGkxVxJPetJAFRMDqvTzQyvEXK5GtpcV6V
+> Name：SHIB GOLD
+> Symbol： $SHIB
+> USD市值: 4831
+> Reply评论: 0
+>  
+> 为什么市值5000开盘的时候 项目方账号并不是金标，但是你们一fomo起来  5万市值了 项目方大哥就把金标给亮出来了。
+>  
+> 我看了一眼账号 标应该是买的吗？还是送的呀？插个眼看看明天金标掉吗？有钱的 项目方速速去买金标？我要监控金标CA PVP了哈。
+
+## 127. Jun 4, 2024 · 1:48 PM UTC · 1797988877065675188#m
+- 链接：https://twitter.com/0x01yuqi/status/1797988877065675188#m
+- 作者：@0x01yuqi
+
+> 给各位观众老爷汇报一下最近新增的指标功能
+> 1.内盘群，发射群，项目方推特新增【蓝标、金标】自动化识别。
+> 2.项目方推特推文分析，最近发了多少推文，平均浏览量多少。
+> 3.猎人PUMP推送频道，新增的推特【营销号判断】。
+>  
+> Pump内盘频道：t.me/YHone_PUMP
+> Pump发射频道：t.me/YHtwo_PUMP
+> 猎人PUMP推送频道：t.me/hunterpump
+>  
+> 今天晚上突然推特引擎的pump又能行了一样，跑出来一个营销号推特5k市值的起步发射的
+>  
+> PUMP💊: 5TXyAyvrpdcuSZhGjb5eSYDxKVK79DCcnxKBpqG1pump
+> Name：T
+> Symbol：$T
+> USD市值: 4925
+> Reply评论: 0
+>  
+> 对于猎人PUMP推送频道后期怎么意见，你们是想要推送数据快的呢，还是要合约数据详细准确的呢？
+> 之前一直有人反应，推送的速度不够快，但是速度快，推送一个pump链接给你，没有信息数据的支撑你有胆子买吗？包括其实内盘和发射群也是一样的，速度和数据二者只能综合一下。
+>  
+> 最后在给各位PUMP玩家留一道简单的问答题？你知道PUMP内盘发射市值多少吗？池子大概到多少sol才会打满发射吗？下一期，给大家详情讲解一下目前这3个推送频道的PUMP该如何玩，指标如何用。
+>  
+> PUMP如果你有更好用的私人指标，支持私人单独订阅定制使用。
+
+## 128. Jun 2, 2024 · 4:38 PM UTC · 1797306863794761821#m
+- 链接：https://twitter.com/0x01yuqi/status/1797306863794761821#m
+- 作者：@0x01yuqi
+
+> Dev似乎要重新发射  可以去官推看看。
+
+## 129. Jun 2, 2024 · 3:05 PM UTC · 1797283361268080881#m
+- 链接：https://twitter.com/0x01yuqi/status/1797283361268080881#m
+- 作者：@0x01yuqi
+
+> 这又是什么神仙项目？
+> $PEW
+> 9QGro8A8G1yEKZSUHxYoDQQY22Fq9uegMw5421DKQPDZ
+>  
+> t.me/YHtwo_PUMP/2048
+>  
+> 67k内盘发射  dev持仓了40%的凑码 那个时候还没有确定性的机会，只是这个ip，太多了，最近太火了。
+>  
+> 但是在2M的时候 dev 直接把所有凑码给燃烧了，直接秒拉5M 。 格局是真的大。第一时间摇人，垃圾交易bot没有干进去，就单纯不想追了。目前8m市值。
+>  
+> 最近很多小白咨询我pump该怎么玩儿，如果大家感兴趣的话，下一期挨着给介绍一下内盘群，发射群的每个指标，该如何学习。
+
+## 130. May 30, 2024 · 2:58 PM UTC · 1796194531949384010#m
+- 链接：https://twitter.com/0x01yuqi/status/1796194531949384010#m
+- 作者：@0x01yuqi
+
+> 识别典型诈骗   100万粉丝推特账号
+>  
+> 进场只为pvp 20sol开盘底仓，30sol直接出货，盈利10sol直接走人，dev一买一卖加上发帖 只花了3分钟走人。
+>  
+> pump.fun/42KKVFDDYG6bYYekU44…
+>  
+> 推特引擎PUMP上线一天了，大家应该也有所经验了，其实这样的诈骗非常的多，各种营销号发币的太多了。推文的推送并不是越快越好，推送出来给大家查阅，只是给大家一个信息流的渠道，并不能单纯靠一篇推文的快速买入你就能稳定赚钱。
+>  
+> 其实早在链上很多地址都已经在扫推特引擎pump了，但是赚钱的真的并不多，发现这些地址也不难，你自己去观察每个pump代币买单里面地址挖掘应该是能挖掘到的。
+>  
+> 重点提醒：这只是一个信息流，在于你如何去识别推特号，识别交易量，从而来打到金狗，一篇推文并不能辅助你的交易，数据才是辅助你交易的支撑，大家切勿fomo上头。
+
+## 131. May 29, 2024 · 2:10 PM UTC · 1795820029788959040#m
+- 链接：https://twitter.com/0x01yuqi/status/1795820029788959040#m
+- 作者：@0x01yuqi
+
+> 这个大哥也是PUMP生态的开发者    可以观摩观摩，咱们应该一起鼓励大家抱团取暖  共同研究策略。因为每个人思考和站的角度是不同的，包括每个频道抓的指标也是不同的，工具永远是辅助。多种工具结合，让自己的买单更有信心。
+
+## 132. May 29, 2024 · 9:24 AM UTC · 1795748142274797671#m
+- 链接：https://twitter.com/0x01yuqi/status/1795748142274797671#m
+- 作者：@0x01yuqi
+
+> 技术无罪，PUMP大家一起搞，关注：@0x01yuqi 三连 评论区 留下你的TG用户名，直接入群PVP
+>  
+> 猎人PUMP推送频道：t.me/hunterpump
+>  
+> 此频道基于推特空间引擎来寻找搜索PUMP合约，在通过黑名单集合过滤垃圾KOL。我们团队测试了三四天，基本上金狗都被我们第一时间挖掘上车
+>  
+> 今天下午看见各大小群 都在晒这个引擎，那么我们团队决定，直接放出来给大家使用。
+>  
+> PUMP基于推特的大型PVP活动拉开序幕，大家一起来。至于这套玩法思路，挖掘了多少金狗可以翻我最近历史推文。
+>  
+> 今日下午
+> JON ($$JON)
+> 2PFPoC7zhwJiVqtdPBAPx9MpoxdcoqC8AYL6cAVXsqWu15.03给了大家内盘的机会，一塞就是10x，工具放出来了，大家珍惜吧 三连关注评论区 留下你的TG用户名，直接入群PVP  能不能抓金狗你说了算。
+
+## 133. May 29, 2024 · 2:42 AM UTC · 1795646858200772947#m
+- 链接：https://twitter.com/0x01yuqi/status/1795646858200772947#m
+- 作者：@0x01yuqi
+
+> MOTHER IGGY ($MOTHER)
+> 3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN
+> Market Cap: $21.84M
+>  
+> 凌晨5点03发射的pump池子，市值才6万刀。但是那个时候并没有人在推特引擎里面推广( $MOTHER ) 的合约，所以很难吃到底部。
+>  
+> 但是TWBOT （t.me/yingheTWbot） 监控早上8点28是完全监控到且电话提醒了  @IGGYAZALEA  发送了推文 且发送了合约的 那个时候池子里面1k sol不到。只能吃点小部分利润。
+>  
+> 所以有币圈一切工具都是辅助，相辅相成，不能完全用某一个。抓这种土狗的办法还是得监控推特本人来操作。
+>  
+> 其次给大家介绍一下TWbot可以做什么？推特消息订阅实时监控
+> 三个核心功能
+> 1.订阅用户的推文实时监控
+> 2.订阅用户的关注实时监控
+> 3.重点项目/用户狙击电话call实时监控
+
+## 134. May 28, 2024 · 1:54 PM UTC · 1795453711373812200#m
+- 链接：https://twitter.com/0x01yuqi/status/1795453711373812200#m
+- 作者：@0x01yuqi
+
+> 今日下午的百倍金狗非    $Tibúrcio   莫属  推友们吃到了吗？1万市值出来提供给大家研究的机会
+> t.me/YHone_PUMP/5963
+> 8gevADWP5aNTkRXpLDMU39S791muhehYPrXddPCPLuA2
+> Name：Mestre Ensiandor
+> Symbol： $Tibúrcio
+> USD市值: 10995
+> Reply评论: 1
+>  
+> 创建合约时间: 2024-05-28 13:13:41
+> holders：27 Top10: 85%
+> 最近的确这个策略 挺猛的 得到了很多群友的认可 。
+>  
+> 我是一名个人开发者，有时间的确挺忙的，每天写代码，维护产品，还打土狗。
+>  
+> 有时候很多大哥的消息没有看见过来实在是真的抱歉。
+>  
+> 目前群里的策略都是优先推出，但是收益肯定和付出的时间和努力是成正比的。有的时候真的打土狗真比上班都还累的家人们。珍惜吧。
+>  
+> 有好的建议或者指标都可以私聊我，我们一起完善这个pump体系。
+>  
+> 包括这是我们最近统计的PUMP黑名单，大家也可以自己学习吧。在推特的整个信息流里面拉黑这些创业者吧。
+> docs.google.com/spreadsheets…
+
+## 135. May 28, 2024 · 12:47 AM UTC · 1795255523241292022#m
+- 链接：https://twitter.com/0x01yuqi/status/1795255523241292022#m
+- 作者：@0x01yuqi
+
+> TWBOT
+> t.me/yingheTWbot
+> 也是可以监控大V发币的，但是这个得手动加入监控
+
+## 136. May 28, 2024 · 12:43 AM UTC · 1795254576519778521#m
+- 链接：https://twitter.com/0x01yuqi/status/1795254576519778521#m
+- 作者：@0x01yuqi
+
+> 今日金狗，早期的鸟儿有肉吃，内盘才是机会吧。
+> PUMP: A2PVd9wmEk9Ek9MFbF6VVBm4UiGYK24TCmE5oR2WDWGH
+> Name： $RICH
+> Symbol： $RICH
+> USD市值: 45406
+> Reply评论: 1
+>  
+> 创建合约时间: 2024-05-28 06:38:36
+> t.me/YHone_PUMP/5707
+>  
+> PUMP的项目方信息警示大家可以套牌的，很多时候【货不对板】。所以大家扫内盘在时间充足的时候一定要去点开推特，或者点开TG，点开官网验证这个合约是不是本人部署的。二次验证。
+
+## 137. May 27, 2024 · 1:29 PM UTC · 1795084843866284356#m
+- 链接：https://twitter.com/0x01yuqi/status/1795084843866284356#m
+- 作者：@0x01yuqi
+
+> 后面这个群会考虑开出的大家放心
+
+## 138. May 27, 2024 · 1:15 PM UTC · 1795081313218920810#m
+- 链接：https://twitter.com/0x01yuqi/status/1795081313218920810#m
+- 作者：@0x01yuqi
+
+> 玩PUMPFUN建议大家不要第一时间就冲，还是先看看推特、官网和tg社区氛围，一般来说你还没看完这几个东西，发现已经塞满了，而不是dev跑了，行情真的来了
+>  
+> 今天频道全是金狗 都懒得抓了  闭眼打 推送即打满
+>  
+> 40M阴间时间  中午2个大金   6M  2M都给机会 市值几千都给你推荐你上车
+>  
+> 结果不知道频道链接外泄了，下午直播带群友打pump，晚上直接干成我自己都手动塞不进去了。机器人直接爆炸。
+>  
+> 目前有推特流量的频道大家可以关注一起PVP
+> 群众的口碑：工具加速了pump的pvp...
+>  
+> Pump内盘Alert-BitDog频道：t.me/YHone_PUMP
+> Pump发射Alert-BitDog频道：t.me/YHtwo_PUMP
+
+## 139. May 27, 2024 · 5:13 AM UTC · 1794960218914467907#m
+- 链接：https://twitter.com/0x01yuqi/status/1794960218914467907#m
+- 作者：@0x01yuqi
+
+> 市值从7K内盘到发射7w市值 都是机会
+
+## 140. May 27, 2024 · 4:50 AM UTC · 1794954238327701926#m
+- 链接：https://twitter.com/0x01yuqi/status/1794954238327701926#m
+- 作者：@0x01yuqi
+
+> 实打实的带群友 蹲着上车
+
+## 141. May 27, 2024 · 4:45 AM UTC · 1794953171057659914#m
+- 链接：https://twitter.com/0x01yuqi/status/1794953171057659914#m
+- 作者：@0x01yuqi
+
+> Name：Antonio Brown
+> Symbol：CTESPN
+> USD市值: 7869
+> Reply评论: 0
+>  
+> 2w54J91wGp772JsquNaqZCZDFRsT8Q8qNU6Qcdb2oLu6
+> 刚吃午饭 看见第一时间打进去内盘10x 几分钟就打满 上线就是40-50x  这就是魅力，时间太短 来不及挨着喊  ，喊了你可能来接盘。自己蹲着频道玩吧
+
+## 142. May 27, 2024 · 2:48 AM UTC · 1794923541772800295#m
+- 链接：https://twitter.com/0x01yuqi/status/1794923541772800295#m
+- 作者：@0x01yuqi
+
+> Pump内盘Alert频道：t.me/YHone_PUMP
+> Pump发射Alert频道：t.me/YHtwo_PUMP
+
+## 143. May 27, 2024 · 2:46 AM UTC · 1794923030541750381#m
+- 链接：https://twitter.com/0x01yuqi/status/1794923030541750381#m
+- 作者：@0x01yuqi
+
+> 内盘里面的这种 你就得小心了  推特账号牛逼，但是推文没有更新，无法证明是这个推特号部署的合约呀，兄弟。但凡dev 努力一下，让账号发个帖子，兄弟们就给你内盘打满了。
+
+## 144. May 27, 2024 · 1:42 AM UTC · 1794906880013406707#m
+- 链接：https://twitter.com/0x01yuqi/status/1794906880013406707#m
+- 作者：@0x01yuqi
+
+> Pump内盘Alert-BitDog频道：t.me/YHone_PUMP
+> Pump发射Alert-BitDog频道：t.me/YHtwo_PUMP
+>  
+> 目前这么针对pump有项目方推特检测的这俩个频道也实现了。
+
+## 145. May 27, 2024 · 1:01 AM UTC · 1794896622310354983#m
+- 链接：https://twitter.com/0x01yuqi/status/1794896622310354983#m
+- 作者：@0x01yuqi
+
+> 玩pump推特引擎实时检测的好处，可惜在睡觉，阴间时间出现，百万大V带货，必将第一时间检测出来。而且老马关注加持都是fomo点。
+>  
+> Name：Caitlyn Jenner
+> Symbol： $jenner
+> USD市值: 10852   最高市值22M
+>  
+> 证明这个方法论是可以的，只要你有时间来守住。基本上大v发推，都能秒推送。弊端就是得过滤，经常创业的合约，和广告宣发合约。
+
+## 146. May 24, 2024 · 7:22 AM UTC · 1793905297708454232#m
+- 链接：https://twitter.com/0x01yuqi/status/1793905297708454232#m
+- 作者：@0x01yuqi
+
+> 公开2个PUMP频道，全网数据最详细的PUMP频道
+>  
+> 这个里面的指标你可以学习个一年半载
+>  
+> 慧眼识珠，让你一眼识别金狗。
+>  
+> 整体从几大维度分析了PUMP出来的合约
+>  
+> 1.社交信息推特、历史用户名记录、历史推文流量
+> 2.部署者钱包余额
+> 3.持仓历史，是否持仓价值币、有没有做强庄的实力
+> 4.交易记录dev买了多少，老鼠仓买了多少
+> 5.持币holders Top10占比
+>  
+> PUMP扫链频道：t.me/YHone_PUMP
+> PUMP打满发射频道：t.me/YHtwo_PUMP
+>  
+> 三连关注 @0x01yuqi评论区留下你的TG用户名直接进频道学习 让大家一起卷起来。
+>  
+> 解决你拿着一个合约这里查那里查的所有疑难问题，有这2个频道 你玩PUMP你就够用了。
+
+## 147. May 23, 2024 · 3:28 AM UTC · 1793484097299652729#m
+- 链接：https://twitter.com/0x01yuqi/status/1793484097299652729#m
+- 作者：@0x01yuqi
+
+> PUMP流水盘手法
+> 1.三件套信息都是别人的 ，仔细去看推特都没有发币，甚至有的大哥秒删帖子的，等你买进就跑路 ，就为了你手中的0.1sol
+>  
+> 2.买的推特发射无数次的，历史用户名一大堆，推特账号都糊浆了，换一换吧。推特账号又不贵
+>  
+> 你的自动买入策略，狗庄会想进一切办法来忽悠你，就是为了让你买入。
+
+## 148. May 21, 2024 · 4:42 PM UTC · 1792959038516605248#m
+- 链接：https://twitter.com/0x01yuqi/status/1792959038516605248#m
+- 作者：@0x01yuqi
+
+> TW好用处一定得关注一些新闻性账号
+>  
+> 一拉盘全是利好新闻  ETH的脚步应该越来越快了，1B $USDT 资金已到位，随时冲锋
+>  
+> localhost:8080/tier10k/status/1792956…
+
+## 149. May 21, 2024 · 12:59 PM UTC · 1792903069262557482#m
+- 链接：https://twitter.com/0x01yuqi/status/1792903069262557482#m
+- 作者：@0x01yuqi
+
+> 针对推特引擎的强大搜索 最大化的利用起来 ETH SOL 土狗都是可以搞定的   牛来了 明盘大v带货 只会越来越多 。
+> 其次在 使用 TWbot
+> t.me/yingheTWbot  监控你的大v列表 让你对行情了如指掌，把传统的扫链找合约 变为扫推特扫项目方找合约来加大胜率。
+
+## 150. May 21, 2024 · 12:50 PM UTC · 1792900822910820856#m
+- 链接：https://twitter.com/0x01yuqi/status/1792900822910820856#m
+- 作者：@0x01yuqi
+
+> 牛来了 开始干活了 PUMP土狗怎么玩，从哪些维度来分析抓呢？
+>  
+> 1.推特搜索引擎KOL喊单发射
+> 2.PUMP打满发射成功
+> 3.DEV历史发币记录，多少次成功，多少失败
+> 4.DEV是否有其他价值持币
+> 5.老鼠仓买了多少，top10买了多少，dev第一笔买了多少
+> 6.holders人数 Reply评论数量
+> 7.即三件套信息，项目方推特是否是多次创业，历史用户名分析
+> 8.PUMP是否烧池子，什么时候烧
+>  
+> 你觉得哪些维度可以包赢呢？所以最近针对PUMP的土狗合约，我研究做了很多。
+> PUMP土狗一周数不胜数，甚至推特引擎里面的PUMP的土狗一晚上都有几百个，喊单的，带货的,宣发的，等。
+> 所以针对此维度数据 做了一些小bot小工作  点赞满300就放出来体验给大家测试使用，包括最近的确土狗行情不好，推特流量也停滞了，接下来开始游戏。
+>  
+> 但是回归土狗本质:基本上能跑出来的大金狗肯定跟推特引擎、推特流量、推特大v、多多少少都是沾亲带故。
+
+## 151. May 6, 2024 · 8:23 AM UTC · 1787397877196865858#m
+- 链接：https://twitter.com/0x01yuqi/status/1787397877196865858#m
+- 作者：@0x01yuqi
+
+> 好消息：五一结束 开始开工
+> 坏消息：上轮主流矿机  蚂蚁S19    节前25号已经全部关机了  老板这边是5毛每度  全省心托管  机器关机 卖废铁还能卖3000多每台 ，当初可是3w每台，小跑入场的。
+>  
+> 所以你觉得 $BTC 的底在哪里呢？ 这才刚减半，价值投资，未来可期。
+
+## 152. Apr 25, 2024 · 3:45 AM UTC · 1783341618315321374#m
+- 链接：https://twitter.com/0x01yuqi/status/1783341618315321374#m
+- 作者：@0x01yuqi
+
+> #JustinSun  又在加仓ETH 无线子弹的根本花不完
+>  
+> TWbot监控算法更新，实时监控推文延迟优化到了【15s以内】，可以监控自己的推特账户测试即可。
+>  
+> t.me/yingheTWbot消息的实效性慢慢优化解决
+
+## 153. Apr 24, 2024 · 9:35 AM UTC · 1783067309063750044#m
+- 链接：https://twitter.com/0x01yuqi/status/1783067309063750044#m
+- 作者：@0x01yuqi
+
+> 各单位注意：ETH狗情来了
+>  
+> telegram打call合约开始活跃喊土狗且都能有不错涨幅了
+>  
+> 各大KOL钱包开始buy、buy、buy
+>  
+> 聪明钱 也在开始扫链了
+>  
+> Token: 0x69420e3a3aa9e17dea102bb3a9b3b73dcddb9528
+> 符号 ELON
+> 名称：Elon
+> 当前💴💴: 0.00000009255
+> 不错的涨幅
+>  
+> t.me/TugoujianKong/29174
+>  
+> 金铲子 $ETH 似乎这两天大家都开始在看好，汇率触底、孙哥在屯 $ETH 、五月炒作 $ETF ，这个时间周期是不是该狗情来了。DEV们勤奋起来，速度发狗。
+
+## 154. Apr 23, 2024 · 3:55 AM UTC · 1782619177632809458#m
+- 链接：https://twitter.com/0x01yuqi/status/1782619177632809458#m
+- 作者：@0x01yuqi
+
+> 小白贪小便宜最近小心这种小骗局。
+> 你的gas进去了就没了。
+> 骗子野心也不大，主打一个就是骗你的gas费，流量产生量变。
+> tronscan.org/#/address/TK3NW…
+> 一个10u 100个人就是1000u 主打一个人性的贪婪
+
+## 155. Apr 18, 2024 · 8:12 AM UTC · 1780871940535935432#m
+- 链接：https://twitter.com/0x01yuqi/status/1780871940535935432#m
+- 作者：@0x01yuqi
+
+> 减半愈来愈近，距离减半剩余区块:259 目前全网算力 624 EH。
+>  
+> 现在一个区块6.25 $BTC 大概就是价值270万 RMB  减半后一个区块3.125 $BTC 按成本来计算，3.125 $BTC 价值270万才能保持现在的水平，那你算下币价应该多少钱一个。
+>  
+> 所以在减半后的大牛市 $BTC 看百万RMB 完全是有可能的,时间问题就对了。
+>  
+> 再来看看主流矿机：蚂蚁矿机S19 ，当时一台机器最贵能卖到5w RMB 目前来看基本上减半后 如果BTC还是现在这个价格 大概率都会关机了。
+>  
+> 矿场全托管电费0.5¥/度，按照95T的算力，跑满90T 关机价格 274261.60 元 / BTC 减半后价格*2 达不到 54万RMB基本上关机，如果你的电费低就另算。有的人就会说关机就关机呗这有啥，但是关机就会导致的结果就是区块网络拥堵，全网算力下降，出块就更慢了，大家还玩得动 $BTC 生态上的项目了吗？
+>  
+> 上一轮减半是 312  蚂蚁矿机s9 在减半之前提前跌到了关机价格，这轮其实真的非常坚挺了，蚂蚁S19都还没有关机。各种利好，各种etf机构加入 推动币价上涨，大牛市，狂暴大牛市，大环境已经很好了。都没怎么跌就要减半了。
+>  
+> 但是不排除减半后补跌一下。总体方向肯定是向上的，4年都套过来了，在套一两个月又何妨。时间换收益。
+
+## 156. Apr 16, 2024 · 3:35 AM UTC · 1780077549256880142#m
+- 链接：https://twitter.com/0x01yuqi/status/1780077549256880142#m
+- 作者：@0x01yuqi
+
+> 持仓 top3 才是池子
+> oklink.com/zh-hans/xlayer/ad…
+> 池子里面目前有 5800个OKB了
+
+## 157. Apr 16, 2024 · 3:00 AM UTC · 1780068679830610023#m
+- 链接：https://twitter.com/0x01yuqi/status/1780068679830610023#m
+- 作者：@0x01yuqi
+
+> GM 睡醒 大家都在玩 $OKBABY了吗？
+>  
+> 前两天我还用了一下测试网,昨晚主网就上线了。
+>  
+> $OKBABY 合约地址：0xd0034aee8e1d8d8919a401c546ed2d0f2a4c90f1
+>  
+> oklink.com/zh-hans/xlayer/tx…
+> 489WOKB
+> 150,000,000,000 OKBABY
+> 加池子添加的流动性
+>  
+> oklink.com/zh-hans/xlayer/to…
+> 最大供应量 300,000,000,000 $OKBABY
+>  
+> 相当于DEV 50%代币预留  50%代币组池子
+> 当前持有者751
+> oklink.com/zh-hans/xlayer/to…
+>  
+> 看了下主网的一些常见交易函数 swapExactETHForTokens、swapExactTokensForETH、swapExactTokensForTokens 基本上套壳和其他EVM一样都是抄袭的UNI的那一套。
+>  
+> 新链的确存在新的机会，市场情绪目前很好，曾经OKT放弃了，现在OKB再来。
+>  
+> 新链关注，大概率会有金狗的。
+
+## 158. Apr 15, 2024 · 6:17 AM UTC · 1779755885243531575#m
+- 链接：https://twitter.com/0x01yuqi/status/1779755885243531575#m
+- 作者：@0x01yuqi
+
+> 🇭🇰 Hong Kong approves spot #Bitcoin📷 & Ethereum ETF application.
+> ETH来了 能救汇率吗？
+
+## 159. Apr 8, 2024 · 8:39 AM UTC · 1777254904031248804#m
+- 链接：https://twitter.com/0x01yuqi/status/1777254904031248804#m
+- 作者：@0x01yuqi
+
+> 牛请回 $BTC Price: $88888.8
+> 想知道这波 $BTC 能涨到多少吗？可以关注学习一下
+>  
+> 朋友在youtube直播做二级分析 关注学习 带你这轮牛市逃顶？
+>  
+> piped.kavin.rocks/@Trader_81
+>  
+> 每天 youtube 坚持在线给大家分析二级 ，一定得看。
+
+## 160. Apr 8, 2024 · 7:23 AM UTC · 1777235787639369920#m
+- 链接：https://twitter.com/0x01yuqi/status/1777235787639369920#m
+- 作者：@0x01yuqi
+
+> 🔍【帮忙征集关键词】🔍
+>  
+> 大家有没有觉得，现在在使用TWbot时，经常会被一些垃圾推文的电话提醒所困扰？尤其是在项目开盘前，那种频繁打扰的感觉简直让人心烦意乱。你在专注关注项目时，却频频接到无关紧要的电话提醒，实在是太累了，不是吗？
+>  
+> 昨晚大热项目 @Panties_on_sol  2:42 AM 开始call的合约，基本的TWbot 第一时间都在给所有监控用户打call，但是我看了下 这个项目方 昨晚合计发送了10多条推文，导致其实电话通知很多，根本看不过来。
+>  
+> 为了解决这个问题，我决定在TWbot的后台进行一项关键字过滤的改进。只有当推文中包含特定的关键词时，才会触发电话提醒。这样一来，每一次接到电话提醒，你都可以确信其中都是“干货”，不会再被无关信息干扰。
+>  
+> 以下是我目前整理的10个关键词：
+>  
+> CA
+> token
+> https
+> http
+> $
+> #
+> mint
+> ATH
+> 0x开头的43位地址
+> SOL地址
+>  
+> 欢迎大家的补充，平时推文中还会出现哪些重要的关键词呢？期待你们的建议和意见！
+>  
+> 监控BOT链接：t.me/yingheTWbot
+
+## 161. Apr 6, 2024 · 3:41 PM UTC · 1776636432263921742#m
+- 链接：https://twitter.com/0x01yuqi/status/1776636432263921742#m
+- 作者：@0x01yuqi
+
+> 你们换一家店铺兄弟们， 他们家忙不赢了。
+
+## 162. Apr 6, 2024 · 1:52 PM UTC · 1776608925527478423#m
+- 链接：https://twitter.com/0x01yuqi/status/1776608925527478423#m
+- 作者：@0x01yuqi
+
+> 听说兄弟们  $ORE 都麻了。
+>  
+> 某宝商家永远是所有热门且值钱挖矿项目的第一批矿工。
+>  
+> 和淘宝商家处好关系，任何挖矿项目，第一时间 他们都懂的。去卷吧。
+
+## 163. Apr 5, 2024 · 11:08 PM UTC · 1776386335802314841#m
+- 链接：https://twitter.com/0x01yuqi/status/1776386335802314841#m
+- 作者：@0x01yuqi
+
+> 近期用户反馈需求整理
+> 1.用户列表增加名称或者备注，能一眼区分用户名
+> 2.监控推文中涉及合约地址，合约交易链接，网址链接，重点推文 标记电话提醒
+> 3.批量用户名导入监控
+> 4.批量用户名列表删除
+>  
+> 还有更多思路更多需求，都可以给我分享。毕竟咱们的 $TWBOT 上线不到7天 节后慢慢一步步迭代更新。
+>  
+> 目前新用户均是限时免费体验，让大家一起学会TWBOT监控 ：t.me/yingheTWbot
+
+## 164. Apr 3, 2024 · 4:34 PM UTC · 1775562457299517884#m
+- 链接：https://twitter.com/0x01yuqi/status/1775562457299517884#m
+- 作者：@0x01yuqi
+
+> 推文刚写完  结果就来愚人节 发Ca  真会营销
+
+## 165. Apr 3, 2024 · 4:29 PM UTC · 1775561171191668788#m
+- 链接：https://twitter.com/0x01yuqi/status/1775561171191668788#m
+- 作者：@0x01yuqi
+
+> 别人赚钱 你在干嘛  项目方明牌又要来搞事
+> $Slerf   蹲项目跟踪项目   就用TWbot监控
+>  
+> 轻度看好   给项目方推特安排功能一，只需要实时监控推文即可。
+>  
+> 重度看好  给项目方推特安排功能三，直接电话实时监控。但是大半夜你就不能嫌弃电话吵了。
+>  
+> 今晚base还有一个大热项目方  @mooncats_base   这你不安排上，有了投研 你才会有输出结果。
+
+## 166. Apr 3, 2024 · 12:53 PM UTC · 1775507036828238118#m
+- 链接：https://twitter.com/0x01yuqi/status/1775507036828238118#m
+- 作者：@0x01yuqi
+
+> 机器人推送了token代币合约地址 ，你可以简单的搜索一下推特 大概率 如果你在线 应该就能发现这种金狗吧？  合约地址有了  项目方明牌
+
+## 167. Apr 3, 2024 · 12:39 PM UTC · 1775503345597481285#m
+- 链接：https://twitter.com/0x01yuqi/status/1775503345597481285#m
+- 作者：@0x01yuqi
+
+> 出门吃个饭 错过回来 都说华语区博主们赚麻了
+> BOT：t.me/yinghebase/184
+> Token: 0x15ac90165f8b45a80534228bdcb124a011f62fee Sigma_buy
+> 符号 $MOEW
+> 名称：donotfomoew
+> 市值: 1044.1k
+> 1h交易量: 115.6k
+> 1h持币数增加: 77
+> 1h交易:116次
+> 流动性：39.74 ETH
+> 当前💴💴: 0.0001044
+>  
+> 开盘限购: ❌
+> 底部购买量ETH：最大0.50 最小0.00 平均0.09
+> 平均💴💴: $7.272297740613339e-06
+> SigmaUser🚌: 11 buy
+> UnibotUser🚌: 4 buy
+> ShurikenUser🚌: 1 buy
+> 30笔交易频率 0.4 min
+> 60笔交易频率 1.0 min
+>  
+> 开盘⏰: 2024-04-03 19:49:49
+> 机器人策略看来是没有问题的 就是得花时间蹲守+项目信息收集才能把握住吧。
+
+## 168. Apr 2, 2024 · 3:40 PM UTC · 1775186447848665242#m
+- 链接：https://twitter.com/0x01yuqi/status/1775186447848665242#m
+- 作者：@0x01yuqi
+
+> 土狗博主--@0xabc007--【粉丝数:6955】
+> 土狗博主--@xianyi01--【粉丝数:11690】
+> 土狗博主--@dusir123--【粉丝数:10275】
+> 土狗博主--@atirisvvvvv--【粉丝数:37076】
+> 土狗博主--@cryptojiuyi--【粉丝数:14515】
+> 土狗博主--@zzzzzeroooo--【粉丝数:22041】
+> 土狗博主--@leochain0--【粉丝数:42746】
+> 土狗博主--@world9987--【粉丝数:4349】
+> 土狗博主--@abyssofgambling--【粉丝数:32344】
+> 土狗博主--@jingoujiaofu--【粉丝数:7091】
+> 土狗博主--@jackgui14--【粉丝数:39728】
+> 土狗博主--@0xhooo--【粉丝数:8430】
+> 土狗博主--@zhouyongyou--【粉丝数:39211】
+> 土狗博主--@911_eth--【粉丝数:7867】
+> 土狗博主--@0xmoles--【粉丝数:22948】
+> 土狗博主--@0xbclub--【粉丝数:94268】
+> 土狗博主--@0xsunnft--【粉丝数:84184】
+> 土狗博主--@0xcarl--【粉丝数:9269】
+> 土狗博主--@huada999--【粉丝数:81056】
+> 铭文博主--@duanmei11--【粉丝数:41245】
+> 名人大V--@justinsuntron--【粉丝数:3527653】
+> 梅林生态博主--@bottle_bitcoin--【粉丝数:7186】
+> 老马热点--@spacex--【粉丝数:34076988】
+> 老马热点--@tesla--【粉丝数:21892847】
+> 老马热点--@tesla_ai--【粉丝数:134765】
+> 老马热点--@cybertruck--【粉丝数:129590】
+> 二级链上分析--@embercn--【粉丝数:79766】
+> 二级链上分析--@lookonchain--【粉丝数:370482】
+> 二级链上分析--@whale_alert--【粉丝数:2440379】
+> 二级博主--@jasmy_bnb--【粉丝数:62727】
+> 二级博主--@siyizhisheng3--【粉丝数:43508】
+> 二级博主--@diamondhandjs--【粉丝数:20033】
+> 二级博主--@luge517--【粉丝数:49758】
+> 二级博主--@shirleyusy--【粉丝数:55542】
+> 二级博主--@monkeyjiang--【粉丝数:52089】
+> 二级博主--@jeerszhu--【粉丝数:77775】
+> 二级博主--@xiaomucrypto--【粉丝数:89244】
+> 二级博主--@ai_9684xtpa--【粉丝数:30059】
+> 二级博主--@cryptodanta--【粉丝数:19211】
+> 二级博主--@0xcryptochan--【粉丝数:48850】
+
+## 169. Apr 2, 2024 · 3:40 PM UTC · 1775186444891693197#m
+- 链接：https://twitter.com/0x01yuqi/status/1775186444891693197#m
+- 作者：@0x01yuqi
+
+> 土狗博主--@miladymemecoin--【粉丝数:87746】
+> 土狗博主--@bitboy_crypto--【粉丝数:1057432】
+> 土狗博主--@udiwertheimer--【粉丝数:191437】
+> 土狗博主--@isabelfoxenduke--【粉丝数:8060】
+> 土狗博主--@madapescall--【粉丝数:41606】
+> 土狗博主--@crypto_bitlord7--【粉丝数:319095】
+> 土狗博主--@elonmusk--【粉丝数:179687379】
+> 土狗博主--@mayemusk--【粉丝数:1060466】
+> 土狗博主--@jakegagain--【粉丝数:251788】
+> 土狗博主--@rgr_park--【粉丝数:9387】
+> 土狗博主--@matt_furie--【粉丝数:178648】
+> 土狗博主--@avolalim--【粉丝数:2215】
+> 土狗博主--@beeple--【粉丝数:787653】
+> 土狗博主--@zhusu--【粉丝数:574310】
+> 土狗博主--@bitecong--【粉丝数:32474】
+> 土狗博主--@cryptomrli888--【粉丝数:12089】
+> 土狗博主--@crypto_shuiyi--【粉丝数:16996】
+> 土狗博主--@housdllo--【粉丝数:16967】
+> 土狗博主--@youmin8341--【粉丝数:12108】
+> 土狗博主--@yingzhuanmale--【粉丝数:46664】
+> 土狗博主--@0x1jf--【粉丝数:8890】
+> 土狗博主--@goldendog_1000x--【粉丝数:24501】
+> 土狗博主--@eth200000--【粉丝数:11813】
+> 土狗博主--@btc8688--【粉丝数:4190】
+> 土狗博主--@memeking_888--【粉丝数:15993】
+> 土狗博主--@edcccc777--【粉丝数:6939】
+> 土狗博主--@ust_dao--【粉丝数:65322】
+> 土狗博主--@moxigan123--【粉丝数:28917】
+> 土狗博主--@jiaqianclub--【粉丝数:5937】
+> 土狗博主--@neroclub01--【粉丝数:106677】
+
+## 170. Apr 2, 2024 · 3:40 PM UTC · 1775186442094018693#m
+- 链接：https://twitter.com/0x01yuqi/status/1775186442094018693#m
+- 作者：@0x01yuqi
+
+> K线/投研二级分析--@mimi_crypto_ta--【粉丝数:5162】
+> K线/投研二级分析--@tedtalksmacro--【粉丝数:123069】
+> K线/投研二级分析--@rektcapital--【粉丝数:440614】
+> K线/投研二级分析--@anbessa100--【粉丝数:285684】
+> K线/投研二级分析--@traderdaink--【粉丝数:84238】
+> K线/投研二级分析--@cryptonewton--【粉丝数:264343】
+> K线/投研二级分析--@holdersignals--【粉丝数:61985】
+> K线/投研二级分析--@owen1v9--【粉丝数:43409】
+> K线/投研二级分析--@daancrypto--【粉丝数:367683】
+> K线/投研二级分析--@crypto_mckenna--【粉丝数:85911】
+> K线/投研二级分析--@altstreetbet--【粉丝数:127239】
+> 土狗博主--@criptopaul--【粉丝数:137403】
+> 土狗博主--@irenezhao_--【粉丝数:202831】
+> 土狗博主--@jamiekingston--【粉丝数:58662】
+> 土狗博主--@shibinformer--【粉丝数:501260】
+> 土狗博主--@altcryptogems--【粉丝数:397553】
+> 土狗博主--@incomesharks--【粉丝数:508028】
+> 土狗博主--@dehkunle--【粉丝数:504811】
+> 土狗博主--@oxbull5--【粉丝数:116541】
+> 土狗博主--@cryptofinally--【粉丝数:197373】
+> 土狗博主--@scottleowarrior--【粉丝数:541695】
+> 土狗博主--@cryptotickers--【粉丝数:53602】
+> 土狗博主--@cryptogodjohn--【粉丝数:662217】
+> 土狗博主--@rektusd--【粉丝数:62925】
+> 土狗博主--@cousincrypt0--【粉丝数:166953】
+> 土狗博主--@andrecronjetech--【粉丝数:392534】
+> 土狗博主--@thecryptodog--【粉丝数:774336】
+> 土狗博主--@vitalikbuterin--【粉丝数:5339337】
+> 土狗博主--@cz_binance--【粉丝数:9165154】
+> 土狗博主--@beautyofhelin--【粉丝数:159404】
+
+## 171. Apr 2, 2024 · 3:40 PM UTC · 1775186439816589758#m
+- 链接：https://twitter.com/0x01yuqi/status/1775186439816589758#m
+- 作者：@0x01yuqi
+
+> 大事件新闻资讯--@goldtelegraph_--【粉丝数:312497】
+> 大事件新闻资讯--@simplykashif--【粉丝数:134189】
+> 大事件新闻资讯--@cryptooindia--【粉丝数:323985】
+> 大事件新闻资讯--@watcherguru--【粉丝数:2293949】
+> 大事件新闻资讯--@bwenews--【粉丝数:56888】
+> 大事件新闻资讯--@news_of_alpha--【粉丝数:103080】
+> 大事件新闻资讯--@zoomerfied--【粉丝数:25582】
+> 大事件新闻资讯--@tier10k--【粉丝数:360418】
+> 大事件新闻资讯--@tree_of_alpha--【粉丝数:202265】
+> K线/投研二级分析--@cryptofaibik--【粉丝数:87528】
+> K线/投研二级分析--@el_crypto_prof--【粉丝数:111696】
+> K线/投研二级分析--@crypnuevo--【粉丝数:95016】
+> K线/投研二级分析--@cryptobullet1--【粉丝数:116499】
+> K线/投研二级分析--@gertvanlagen--【粉丝数:93808】
+> K线/投研二级分析--@cryptoboss1984--【粉丝数:161152】
+> K线/投研二级分析--@i_am_jackis--【粉丝数:125351】
+> K线/投研二级分析--@888velvet--【粉丝数:85063】
+> K线/投研二级分析--@wclementeiii--【粉丝数:717391】
+> K线/投研二级分析--@zaykcharts--【粉丝数:19008】
+> K线/投研二级分析--@clifton_ideas--【粉丝数:16840】
+
+## 172. Apr 2, 2024 · 3:40 PM UTC · 1775186437039919171#m
+- 链接：https://twitter.com/0x01yuqi/status/1775186437039919171#m
+- 作者：@0x01yuqi
+
+> 打开twitter 跟谁研究项目？看谁的推文？ 非常重要。
+>  
+> twitter消息订阅实时监控BOT上线一天 后台用户达到了3000人非常意外，功能体验慢慢迭代丝滑，目前能用状态。
+>  
+> 同时很多【差生】不知道该监控谁？该如何抄作业去发挥利用这个BOT来追寻市场。
+> bot链接:t.me/yingheTWbot
+>  
+> 所以在此我推荐我关注的120位优质博主 ，大家自取。
+>  
+> 主要还是优质的博主太多了我都整理不过来 ，有更好的大家可以评论区补充作业。
+
+## 173. Apr 1, 2024 · 11:25 AM UTC · 1774759927611084904#m
+- 链接：https://twitter.com/0x01yuqi/status/1774759927611084904#m
+- 作者：@0x01yuqi
+
+> 下午评论去抽了30个铁粉兄弟 均送了永久使用体验，同样评论区其他的【用户ID】晚一些都统一加送时间体验。
+>  
+> 如果你有社区？愿意帮忙宣传一下的私信我用户ID，都送永久体验。
+>  
+> 注意：功能三：设置电话一定要设置11位中国手机号才能接到BOT电话提醒，核心就是蹲项目电话提醒送钱。
+>  
+> 目前所有用户都是【限时免费体验 无收费】 评论区互动加时间。
+
+## 174. Apr 1, 2024 · 8:46 AM UTC · 1774719988341072191#m
+- 链接：https://twitter.com/0x01yuqi/status/1774719988341072191#m
+- 作者：@0x01yuqi
+
+> 后台多了几百个用户 兄弟们 慢慢来 先收藏 保存。 晚一些在添加监控用户。  目前使用人有点多 好像有点卡顿延迟了。
+> 果然TG BOT交互一下子可以干崩  晚一些我处理一下  到时候送一些时间给大家体验 该安排永久的安排永久。
+
+## 175. Apr 1, 2024 · 8:22 AM UTC · 1774713817261605083#m
+- 链接：https://twitter.com/0x01yuqi/status/1774713817261605083#m
+- 作者：@0x01yuqi
+
+> 评论区眼熟的 提供你的id 直接送永久使用
+
+## 176. Apr 1, 2024 · 8:15 AM UTC · 1774712166287052877#m
+- 链接：https://twitter.com/0x01yuqi/status/1774712166287052877#m
+- 作者：@0x01yuqi
+
+> 【限时免费】开放体验推特监控机器人
+> 1.监控推文（实时检测延迟30s）
+> 2.监控关注
+> 3.重大项目电话提醒（实时检测延迟30s  BOT电话call无延时）
+>  
+> t.me/yingheTWbot
+>  
+> 有bug及时反馈联系我
+> 简单使用教程：mirror.xyz/0x7f3f1e283C08B2b…
+>  
+> 但凡【三连】的兄弟 关注@0x01yuqi 评论区留下了TG用户名的都限时免费体验
+> 好不好用，自己体验就知道。尤其是BOT电话提醒项目进度，一蹲一个准。下一期 有时间 选一些优质博主推荐给大家。
+
+## 177. Apr 1, 2024 · 2:48 AM UTC · 1774629775325429797#m
+- 链接：https://twitter.com/0x01yuqi/status/1774629775325429797#m
+- 作者：@0x01yuqi
+
+> 基建数据虽然不是很完整 但是基本上还是能用，数据量也不多，金狗也不会错过
+> Base今日夜间金狗总结
+> $FUNGI
+> 0x7d9CE55D54FF3FEddb611fC63fF63ec01F26D15F
+> t.me/yinghebase/80
+>  
+> $ANIME
+> 0x0e0c9756a3290cd782cf4ab73ac24d25291c9564
+> t.me/yinghebase/83
+> 目前baseBOT应该都属于早期
+> 你怕买到土狗貔貅 你可跟随一下这些 早鸟交易钱包  别人玩 你在投研玩 没人玩的你就别去送子弹了
+
+## 178. Mar 31, 2024 · 1:08 AM UTC · 1774242393392566747#m
+- 链接：https://twitter.com/0x01yuqi/status/1774242393392566747#m
+- 作者：@0x01yuqi
+
+> $CHKN
+> 0xd55210bb6898c021a19de1f58d27b71f095921ee
+> 大金格局项目方
+> 底池69e开  土狗bot 76e推送  目前池子811e
+> 昨晚就推送了这一个土狗
+> t.me/Yinghejiaoliu/50628
+>  
+> 持币地址7w  代币计划   40%空投  pepe用户  且无需gas  项目方的格局，是否可以伟大eth土狗
+
+## 179. Mar 30, 2024 · 7:39 AM UTC · 1773978441622429976#m
+- 链接：https://twitter.com/0x01yuqi/status/1773978441622429976#m
+- 作者：@0x01yuqi
+
+> BASE土狗推送1.0上线 简易版 指标待完整更新 凑合用
+>  
+> 目前三链的土狗机器人都在维护 更新  等行情稳定 回测指标 优化推送  过滤推送
+>  
+> BASE土狗推送简易版:t.me/yinghebase
+>  
+> SOL土狗推送:t.me/yinghesol
+>  
+> ETH土狗推送:t.me/TugoujianKong
+
+## 180. Mar 29, 2024 · 7:15 AM UTC · 1773610030828302395#m
+- 链接：https://twitter.com/0x01yuqi/status/1773610030828302395#m
+- 作者：@0x01yuqi
+
+> 还有一些小bug  改完大家都可以体验了  做得比较粗糙  能用就行 哈哈
+
+## 181. Mar 29, 2024 · 6:55 AM UTC · 1773604956731494851#m
+- 链接：https://twitter.com/0x01yuqi/status/1773604956731494851#m
+- 作者：@0x01yuqi
+
+> 大卡车 今晚要开盘？
+> 我一直想 如何的蹲项目方推特 守项目开盘 是不是很难？韭菜非常怕第一时间上不了车？
+>  
+> 所以我写了一个比较简单易懂的demo 机器人bot
+> 核心监控三大项：
+> 1.实时订阅用户的推文
+> 2.实时追踪订阅用户在关注什么
+> 3.重点核心项目第一时间我需要能有一个电话call通知我
+>  
+> 我感觉大家似乎都需要这些功能能追寻热点项目吧？
+>  
+> 三连关注转发 留些你的TG用户名 下周上线享受早鸟体验。
+>  
+> 其实一直都非常想搞这个东西  天天打土狗 已经无法沉下心写代码了。
+>  
+> 还有一个我非常困惑的是：这些功能点 我到底该叫什么，小白用户才能看得懂 用得懂，有好的建议吗？
+
+## 182. Mar 26, 2024 · 2:15 PM UTC · 1772628507153105251#m
+- 链接：https://twitter.com/0x01yuqi/status/1772628507153105251#m
+- 作者：@0x01yuqi
+
+> 开了  20e底池  平均狙击贿赂0.5E
+> t.me/Yinghejiaoliu/50342
+
+## 183. Mar 25, 2024 · 8:19 AM UTC · 1772176554761580805#m
+- 链接：https://twitter.com/0x01yuqi/status/1772176554761580805#m
+- 作者：@0x01yuqi
+
+> 这不是福报来了吗？
+>  
+> 没事就分号持仓VOYA，没事就把VOYA拿去组LP 等福报
+>  
+> 【组了LP的地址都有低保空投资格】
+>  
+> 项目名称：MerlinSwap（梅林swap）
+> 项目官网：merlinswap.org/
+> 空投规则:
+> MerlinSwap针对早期交易者和流动性提供者的空投快照已成功完成。这一重要里程碑标志着我们将2.8% 的代币供应分配给合格的参与者。
+>  
+> 请注意，此分配特别不包括分配给 MerlinStarter 的 0.2% 和专用于 iZUMi Finance 受益人的 1%。
+>  
+> 空投资格查询:dune.com/1999eth/merlinswap
+
+## 184. Mar 25, 2024 · 12:31 AM UTC · 1772058576946942151#m
+- 链接：https://twitter.com/0x01yuqi/status/1772058576946942151#m
+- 作者：@0x01yuqi
+
+> $RUDES Listing Announcement! 🚀
+>  
+> 🟢 Listing Time: 14:00 UTC | March 26, 2024
+> 🟢 Platform: Uniswap
+>  
+> dapp.runode.ai
+> x.com/RUNodE_ai
+> t.me/RUNodE_ai
+
+## 185. Mar 23, 2024 · 4:19 PM UTC · 1771572475286991052#m
+- 链接：https://twitter.com/0x01yuqi/status/1771572475286991052#m
+- 作者：@0x01yuqi
+
+> 如何在TON上买币，兄弟们看看要不要准备着等风来？
+>  
+> 1、在此处下载 Tonkeeper 钱包 tonkeeper.com/ 或使用原生 Telegram 钱包 @wallet
+> 2、在交易所买TON （OKX、gate、火币）然后提币到钱包里面
+> 3、用这个bot交易很方便，目前算是TON的龙头bot
+> t.me/stonks_sniper_bot?start…
+
+## 186. Mar 22, 2024 · 10:41 AM UTC · 1771125067889668342#m
+- 链接：https://twitter.com/0x01yuqi/status/1771125067889668342#m
+- 作者：@0x01yuqi
+
+> 小卡车
+> aAjwKgjmcXxE5VgQ11eAfCmHVtr6kunMBckA5t8tEJb
+>  
+> solscan.io/tx/5KdfnLC1g1tCzd…
+> 预售池子加了2155sol
+>  
+> t.me/c/1984146151/59067
+> 这个应该比米莱狄好玩儿吧？
+
+## 187. Mar 22, 2024 · 7:03 AM UTC · 1771070086025035857#m
+- 链接：https://twitter.com/0x01yuqi/status/1771070086025035857#m
+- 作者：@0x01yuqi
+
+> 池子给家人们加了25%+1sol
+> solscan.io/tx/5it1ePv7Tzibcu…
+> 还剩了75%代币
+> solscan.io/account/FSNWVWBaX…
+
+## 188. Mar 22, 2024 · 6:54 AM UTC · 1771067830576001306#m
+- 链接：https://twitter.com/0x01yuqi/status/1771067830576001306#m
+- 作者：@0x01yuqi
+
+> 啥情况 就这么玩？？？？？？
+
+## 189. Mar 21, 2024 · 3:35 AM UTC · 1770655335524802681#m
+- 链接：https://twitter.com/0x01yuqi/status/1770655335524802681#m
+- 作者：@0x01yuqi
+
+> 这种大家当个乐子看就好了  自己去查查链吧  大科不是韭菜
+>  
+> 不变合约的情况下
+> 预售代币放在此地址
+> solscan.io/account/7qoT8GASp…
+> 加池子代币和sol放在此地址
+> solscan.io/account/BL1gBdtuY…
+>  
+> 哥们正在努力干活 LP还没组起
+
+## 190. Mar 21, 2024 · 3:27 AM UTC · 1770653547346207062#m
+- 链接：https://twitter.com/0x01yuqi/status/1770653547346207062#m
+- 作者：@0x01yuqi
+
+> 一键发射合约不好吗 大家公平竞争狙击 不是一键发币平台部署的合约  真怕他在合约里面动手脚 领导先买
+
+## 191. Mar 21, 2024 · 3:24 AM UTC · 1770652609508175992#m
+- 链接：https://twitter.com/0x01yuqi/status/1770652609508175992#m
+- 作者：@0x01yuqi
+
+> bot查询链接：t.me/YhVip_bot
+> 都查询冒烟了
+> 哥 ray加池子是不是组不上lp呀？
+> 哥 你怎么没有用一键发币平台呀 做老鼠仓吗？
+> 哥 你怎么还不开呀?
+> @0xDekadente
+
+## 192. Mar 20, 2024 · 1:09 PM UTC · 1770437425627852800#m
+- 链接：https://twitter.com/0x01yuqi/status/1770437425627852800#m
+- 作者：@0x01yuqi
+
+> 群友反应 SOL推送频道 应该过滤一些没有社交信息的三无产品  今晚就过滤新增一下 降低推送率
+
+## 193. Mar 20, 2024 · 1:07 PM UTC · 1770437019250126875#m
+- 链接：https://twitter.com/0x01yuqi/status/1770437019250126875#m
+- 作者：@0x01yuqi
+
+> BOT查询链接：
+> t.me/YhVip_bot
+> 随时查询bot交易趋势 让你对合约市场信息一目了然
+>  
+> 推送频道7.42推送：
+> t.me/yinghesol
+>  
+> CA: HZ32SiTtw3kYyaHTtTfpHVF8EyXFcy7MBQXeFpnNvQ9c
+> symbol FROG
+> name：ForRealOG
+> 市值: 2207.1k
+> 1h交易量: 282.4k
+> 1h持币数增加: 391
+> 1h交易:480次
+> 流动性：5951.12 sol
+> 当前💴💴: 0.000005255
+>  
+> t.me/SolTradingBot?start=HZ3…
+> 在你们偷偷撸base的时候 SOL又出一个预售大金狗
+>  
+> 大量的买单大于卖盘 预售都不砸的吗？
+
+## 194. Mar 20, 2024 · 7:00 AM UTC · 1770344554732061102#m
+- 链接：https://twitter.com/0x01yuqi/status/1770344554732061102#m
+- 作者：@0x01yuqi
+
+> 【base链机器人参考】
+> Banana Gun
+> t.me/BananaGunSniper_bot（老牌最牛逼的机器人 用过的都懂 就是英文 自己chains切换base链）
+>  
+> Unibot
+> t.me/unibotsniper_bot?start=…（支持中文 自己在设置里面设置语言即可 下方即可切换base链）
+>  
+> Sigma
+> t.me/SigmaTrading3_bot?start…（英文 机器人top排行第8 自己慢慢适应 需要点击下方切换base链）
+>  
+> dune.com/whale_hunter/dex-tr…
+> 机器人的选择 还有用龙头机器人 小资金 不怕跑 得有风险和安全隐患意识
+
+## 195. Mar 19, 2024 · 1:19 PM UTC · 1770077725010899132#m
+- 链接：https://twitter.com/0x01yuqi/status/1770077725010899132#m
+- 作者：@0x01yuqi
+
+> 有什么bug 问题在给我反馈吧
+
+## 196. Mar 19, 2024 · 1:14 PM UTC · 1770076373996167644#m
+- 链接：https://twitter.com/0x01yuqi/status/1770076373996167644#m
+- 作者：@0x01yuqi
+
+> 【丢合约就查询】
+> 冲土狗 你不能没有一个好的sol合约查询BOTV1.0投入使用
+> bot链接：t.me/YhVip_bot
+> 可以任意【拉进自己的管理群组频道升级为管理员】即可查询，也可以自行私聊bot丢合约即可
+>  
+> 目前可以丢SOL合约直接查询频道：
+> t.me/TugoujianKong
+> t.me/+HRgbQYOEUTliMTY1
+>  
+> bot信息解读：
+> 查询合约
+> 查询部署者
+> 查询合约安全风险即可top10占比
+>  
+> 以及一个发币和锁池信息查询，烧池子查询在下个版本更新
+>  
+> 社交信息
+> bot交易趋势：最近30分钟内使用bot购买代币的用户数
+> 以及一个5分钟内的交易量和散户、鲸鱼的交易量 目前
+> 服务器资源有限将就用着 反正也没啥用户数，需要更多指标数据在研究新增。
+
+## 197. Mar 18, 2024 · 10:07 AM UTC · 1769666977747128537#m
+- 链接：https://twitter.com/0x01yuqi/status/1769666977747128537#m
+- 作者：@0x01yuqi
+
+> $BOMEPK  $SLERF
+> 3天PK 3小时
+> 今天看多少U 兄弟们
+
+## 198. Mar 18, 2024 · 8:36 AM UTC · 1769643983054205367#m
+- 链接：https://twitter.com/0x01yuqi/status/1769643983054205367#m
+- 作者：@0x01yuqi
+
+> 所有链上记录基本上都无老鼠仓 唯一就剩了 9176 SLERF 在狗庄手里 基本底部狙击发财
+> solscan.io/account/6K9dWekuH…
+> 链上途径地址涉及一个 $BOZO 代币 并没深入分析了 情绪都到这里了 狗庄没筹码 冲刺
+
+## 199. Mar 17, 2024 · 3:12 PM UTC · 1769381232364970287#m
+- 链接：https://twitter.com/0x01yuqi/status/1769381232364970287#m
+- 作者：@0x01yuqi
+
+> $SOL 土狗推送频道更新：t.me/yinghesol
+>  
+> 更新1：新增photon-sol.tinyastro.io/看线网址
+> 更新2：聚合 BonkBot、SolTradingBot、TrojanBOT、PepeBoostBOT 4个交易bot活跃地址数据 。判断他们4家bot 在最近半小时内的交易用户数
+
+## 200. Mar 17, 2024 · 6:36 AM UTC · 1769251516861542820#m
+- 链接：https://twitter.com/0x01yuqi/status/1769251516861542820#m
+- 作者：@0x01yuqi
+
+> Trojan
+> 最近杀出来的bot交易机器人 后来居上 支持中文 英文 自己在设置中设置语言，且支持5层金字塔模型返佣，最高可以吃5层返佣，非常适合做社区的顶流。
+> t.me/solana_trojanbot?start=…
+> 这个好

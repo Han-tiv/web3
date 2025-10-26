@@ -1,0 +1,18 @@
+🛡️ 启动止损监控系统
+════════════════════════════════════════
+🔑 Binance 环境: 主网
+⚠️  止损阈值: -45%
+⚡ 杠杆: 20x
+⏰ 监控频率: 每30秒
+════════════════════════════════════════
+
+✅ Binance 连接成功
+🔍 开始监控持仓亏损保护...
+
+[2025-10-12T08:00:11Z ERROR profit_monitor] ❌ 获取持仓失败: error decoding response body: invalid type: map, expected a sequence at line 1 column 0
+[2025-10-13T10:17:36Z ERROR profit_monitor] ❌ 获取持仓失败: error decoding response body: invalid type: map, expected a sequence at line 1 column 0
+[2025-10-13T10:18:56Z ERROR profit_monitor] ❌ 获取持仓失败: error decoding response body: invalid type: map, expected a sequence at line 1 column 0
+[2025-10-13T10:19:51Z ERROR profit_monitor] ❌ 获取持仓失败: error decoding response body: invalid type: map, expected a sequence at line 1 column 0
+[2025-10-13T10:20:28Z ERROR profit_monitor] ❌ 获取持仓失败: error decoding response body: invalid type: map, expected a sequence at line 1 column 0
+[2025-10-13T10:21:22Z ERROR profit_monitor] ❌ 获取持仓失败: error decoding response body: invalid type: map, expected a sequence at line 1 column 0
+[2025-10-13T10:22:06Z ERROR profit_monitor] ❌ 获取持仓失败: error decoding response body: invalid type: map, expected a sequence at line 1 column 0

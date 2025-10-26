@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🚀 Nitter 手机端快速访问</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            margin: 0; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh; color: white;
+        }
+        .container { max-width: 400px; margin: 0 auto; }
+        h1 { text-align: center; margin-bottom: 30px; font-size: 1.8em; }
+        .card { background: rgba(255,255,255,0.95); color: #333; border-radius: 15px; padding: 25px; margin: 20px 0; box-shadow: 0 8px 25px rgba(0,0,0,0.2); }
+        .success { background: rgba(39, 174, 96, 0.9); color: white; }
+        .button {
+            display: block; background: #3498db; color: white; text-decoration: none;
+            padding: 15px; border-radius: 10px; text-align: center; margin: 15px 0;
+            font-weight: bold; font-size: 16px; transition: all 0.3s ease;
+        }
+        .button:hover, .button:active { background: #2980b9; transform: translateY(-2px); }
+        .button.primary { background: #27ae60; }
+        .button.secondary { background: #e74c3c; }
+        .info { font-size: 14px; line-height: 1.6; color: #666; }
+        .server-info { background: #f8f9fa; padding: 15px; border-radius: 8px; margin: 15px 0; }
+        .status { display: inline-block; padding: 5px 10px; border-radius: 20px; font-size: 12px; font-weight: bold; }
+        .status.online { background: #d5edda; color: #155724; }
+        .quick-links { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 20px 0; }
+        .quick-links .button { margin: 0; padding: 12px; font-size: 14px; }
+        .footer { text-align: center; margin-top: 30px; font-size: 12px; opacity: 0.8; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 Nitter API 手机端</h1>
+
+        <div class="card success">
+            <h3>✅ 连接成功！</h3>
+            <p>服务器正在正常运行</p>
+            <div class="server-info">
+                <strong>服务器信息：</strong><br>
+                • IP地址: 160.238.36.239<br>
+                • 端口: 3001<br>
+                • 状态: <span class="status online">在线</span><br>
+                • 时间: <span id="timestamp">加载中...</span>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>🎯 主要功能</h3>
+            <a href="http://160.238.36.239:3001/dashboard" class="button primary">
+                📊 打开仪表板
+            </a>
+            <div class="info">
+                实时监控加密货币机会，查看Twitter红包、空投、抽奖等信息
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>🛠️ 工具箱</h3>
+            <div class="quick-links">
+                <a href="http://160.238.36.239:3001/diagnostic" class="button">🔧 诊断</a>
+                <a href="http://160.238.36.239:3001/test" class="button">🔍 测试</a>
+                <a href="http://160.238.36.239:3001/health" class="button">💚 健康</a>
+                <a href="http://160.238.36.239:3001/stats" class="button">📈 统计</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>📱 使用提示</h3>
+            <div class="info">
+                • <strong>收藏此页面</strong>：添加到主屏幕快速访问<br>
+                • <strong>网络要求</strong>：确保手机能访问此服务器<br>
+                • <strong>最佳体验</strong>：建议使用现代浏览器<br>
+                • <strong>刷新数据</strong>：下拉页面刷新最新信息
+            </div>
+
+            <button class="button secondary" onclick="testConnection()">
+                🔄 测试连接状态
+            </button>
+            <div id="test-result" style="margin-top: 15px;"></div>
+        </div>
+
+        <div class="card">
+            <h3>🎯 监控功能</h3>
+            <div class="info">
+                <strong>智能检测：</strong><br>
+                • 🧧 币安红包 (优先级: 10/10)<br>
+                • 🪂 代币空投 (优先级: 7/10)<br>
+                • 🎁 抽奖活动 (优先级: 6/10)<br>
+                • 💡 Alpha信号 (优先级: 4-5/10)<br><br>
+
+                <strong>监控账户：</strong> 30个顶级加密账户<br>
+                <strong>关键词：</strong> 19个精选关键词<br>
+                <strong>反诈骗：</strong> 9种模式保护<br>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>🔐 Web3 社交监控系统 v2.0</p>
+            <p>由 Nitter + Redis + TypeScript 驱动</p>
+        </div>
+    </div>
+
+    <script>
+        // 更新时间戳
+        function updateTimestamp() {
+            document.getElementById('timestamp').textContent = new Date().toLocaleString('zh-CN');
+        }
+
+        // 测试连接
+        async function testConnection() {
+            const resultDiv = document.getElementById('test-result');
+            resultDiv.innerHTML = '<div style="color: #f39c12;">🔄 正在测试连接...</div>';
+
+            try {
+                const response = await fetch('http://160.238.36.239:3001/health');
+                const data = await response.json();
+
+                if (response.ok) {
+                    resultDiv.innerHTML = `
+                        <div style="color: #27ae60; background: rgba(39, 174, 96, 0.1); padding: 10px; border-radius: 5px;">
+                            ✅ 连接正常！<br>
+                            • 运行时间: ${Math.round(data.uptime)}秒<br>
+                            • 服务版本: ${data.version}
+                        </div>
+                    `;
+                } else {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+            } catch (error) {
+                resultDiv.innerHTML = `
+                    <div style="color: #e74c3c; background: rgba(231, 76, 60, 0.1); padding: 10px; border-radius: 5px;">
+                        ❌ 连接失败<br>
+                        错误: ${error.message}
+                    </div>
+                `;
+            }
+        }
+
+        // 页面加载时更新时间
+        updateTimestamp();
+
+        // 每30秒更新一次时间
+        setInterval(updateTimestamp, 30000);
+
+        // 自动测试连接
+        setTimeout(testConnection, 2000);
+    </script>
+</body>
+</html>

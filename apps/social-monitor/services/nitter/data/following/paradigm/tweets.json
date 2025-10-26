@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "166765173",
+    "screen_name": "paradigm",
+    "name": "Paradigm",
+    "description": "A research-driven crypto investment firm",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1833567202458669058/vA9KidqD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/166765173/1725991462",
+    "followers_count": 265755,
+    "friends_count": 129,
+    "statuses_count": 299,
+    "favourites_count": 392,
+    "listed_count": 4389,
+    "location": "San Francisco, CA",
+    "website": "https://t.co/DoqDQ6nolo",
+    "birthdate": null,
+    "verified_type": "Business",
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": false,
+    "protected": false,
+    "created_at": "2010-07-15 07:26:01 +08:00",
+    "url": "https://twitter.com/paradigm",
+    "rest_id": "166765173"
+  },
+  "tweets": [
+    {
+      "id": "1971250600454316479#m",
+      "content": "Announcing Credit — an automated, undercollateralized lending system built on stablecoins. Live since December 2024, it has issued 175,000+ loans to 100,000+ unique borrowers worldwide\n\nWe raised $6.6M led by Paradigm, with Nascent and strategic angels, to scale and expand Credit",
+      "timestamp": "Sep 25, 2025 · 4:29 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1971250600454316479#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1963646256703742056#m",
+      "content": "Big news at @PluralEnergy : we’ve raised a $7.13M seed round led by @paradigm, with support from @VoltCapital, @Maven11Capital, & @NeoclassicCap .\n\nLearn more in Axios: axios.com/pro/fintech-deals/…\n\nThe time to upgrade electron economy financial rails is now🧵",
+      "timestamp": "Sep 4, 2025 · 4:52 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1963646256703742056#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1963633927068762145#m",
+      "content": "Link to post: paradigm.xyz/2025/09/tempo-p…",
+      "timestamp": "Sep 4, 2025 · 4:03 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1963633927068762145#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1963633648730575059#m",
+      "content": "We just announced Tempo, a payments-first blockchain incubated by Stripe and Paradigm.",
+      "timestamp": "Sep 4, 2025 · 4:01 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1963633648730575059#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1963231321561399488#m",
+      "content": "ETHEREALIZE'S NEXT CHAPTER\n\nWe were born as a marketing and BD arm for Ethereum.\n\nToday, we're excited to announce that we’re expanding our mission:\n\nEtherealize is building for the next era of finance—where Wall Street merges with Ethereum.\n\n(1/12)",
+      "timestamp": "Sep 3, 2025 · 1:23 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1963231321561399488#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1953862186884911585#m",
+      "content": "Agenda and speaker line up for the day: frontiers.paradigm.xyz/",
+      "timestamp": "Aug 8, 2025 · 4:53 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1953862186884911585#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1953859269834547611#m",
+      "content": "Frontiers final day - tune in live.",
+      "timestamp": "Aug 8, 2025 · 4:42 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1953859269834547611#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1953490257443484008#m",
+      "content": "Frontiers coming to you live.",
+      "timestamp": "Aug 7, 2025 · 4:15 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1953490257443484008#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1953263487075139801#m",
+      "content": "Join us at 6:30pm PMT to kick off Frontiers, our annual open source conference for application and infrastructure developers!",
+      "timestamp": "Aug 7, 2025 · 1:14 AM UTC",
+      "url": "https://twitter.com/paradigm/status/1953263487075139801#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1948778943412396454#m",
+      "content": "MEV stole your gains—Angstrom gives them back.\n\nLive on Mainnet now.",
+      "timestamp": "Jul 25, 2025 · 4:14 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1948778943412396454#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1943401240928424156#m",
+      "content": "Math is a fundamental expression of reasoning.\n\nExcited to support @HarmonicMath in their mission to build Mathematical Superintelligence (MSI).\n\n@tachim and @vladtenev have assembled an excellent team to tackle this important frontier.",
+      "timestamp": "Jul 10, 2025 · 8:05 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1943401240928424156#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1943294146107634110#m",
+      "content": "We are thrilled to announce that Agora has raised a $50 million Series A round, led by @paradigm and with additional participation from @dragonfly_xyz. This milestone enables us to accelerate the development of Agora’s full-stack platform for stablecoin infrastructure, purpose-built to support the next generation of digital finance applications.\n\nAt Agora, our mission is to transform how money moves. We believe stablecoins will underpin a new financial fabric, one that is faster, more global, and more efficient than today’s siloed systems. That is why we are building AUSD and the Agora stack, a full service platform that makes issuing, managing, and integrating stablecoins seamless – whether you’re a developer, fintech, or institution. With AUSD, stablecoins become programmable, composable, and ubiquitous by default.\n\nOver the past year, we’ve shipped the foundational elements for AUSD, including:\n- Deep and robust onchain liquidity across 13 networks\n- Native deployments across @arbitrum, @avax, @BNBCHAIN, @Coredao_Org, @ethereum, @Immutable, @injective, @katana, @Mantle_Official, @0xPolygon, @solana, and @SuiNetwork.\n- Comprehensive integrations with exchanges and onramps\n- Secure, scalable minting and redemption flows.\n- Tens of billions in cumulative volume\n- 50,000+ monthly active addresses\n\nDozens of customers like @nonco_otc, @flowdesk_co, @vaneck_us, @conduitxyz, @katana, @fslweb3,  @plumenetwork already rely on Agora to power their stablecoin flows and infrastructure.\n\nAnnouncing White-Labeled Stablecoins for All\nAlongside our new partnership with Paradigm, we are entering the next chapter of Agora: deepening our connective tissue between both the onchain and fiat infrastructure layers.\n\nToday, we are excited to formally announce the launch of our white-labeled stablecoin product – a turnkey solution that enables enterprises and teams to instantly issue their own branded stablecoin in days, not months. No need to manage complex infrastructure, secure banking relationships, liquidity, or build from scratch – Agora handles it all. We were long believers that to truly build a platform you needed to start with building the network.\n\nOut of the box, partners get:\n- Institutional-grade custodians and asset management\n- Deep onchain liquidity\n- A robust stablecoin dashboard, analytics, and control\n- Forward thinking compliance architecture\n- CEX and DEX integrations\n- Local FX on and off ramps\n- Zero fees when minting with USDC/T\n- You control the rewards\n\nAgora’s white-label product empowers businesses to rapidly innovate, bypass traditional product constraints, and deliver customized financial services to their users efficiently and transparently. This significant step not only demonstrates Agora’s ongoing commitment to pioneering programmable digital finance but also positions us at the heart of the future digital economy.\n\nLearn more here: agora.finance/product/white-….\n\nWhy Now\nStablecoins are no longer niche. They’ve become a foundational primitive for the future of finance and capital markets. But most companies still struggle to adopt them due to regulatory hurdles, technical gaps, and fragmented liquidity.\n\nAgora exists to change that.\n\nWith the addition of Paradigm and Dragonfly’s continued support, Agora is building the infrastructure layer that abstracts away the complexity. We aim to foster an ecosystem where creating, managing, and integrating stablecoins becomes seamless so that every fintech, exchange, and enterprise can benefit from having its own stablecoin whether it be AUSD or newUSD – as a product feature, revenue growth lever, and strategic differentiator.\n\nReach out to learn more here: agora.finance/contact.",
+      "timestamp": "Jul 10, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1943294146107634110#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1942690981771382852#m",
+      "content": "I'm testifying to the Senate Banking Committee tomorrow!\n\nI'll be talking about why it's important to protect DeFi as part of any market structure bill\n\nWhat should I make sure to mention?",
+      "timestamp": "Jul 8, 2025 · 9:03 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1942690981771382852#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1942223166165884948#m",
+      "content": "Kuru is excited to announce our $11.6m Series A round led by @paradigm \n\nThis funding will help us scale our team and bring our vision of a fully on-chain orderbook to life on Monad.",
+      "timestamp": "Jul 7, 2025 · 2:04 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1942223166165884948#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1937947818276339734#m",
+      "content": "I’m excited to announce our $185M Series C valuing Kalshi at $2B.\n\nThe round was led by Paradigm with participation from Sequoia, Multicoin, Peng Zhao, Neo, and Bond Capital.\n\nPeople choose to work at Kalshi not because of the money we've raised, but because of our ambition: build the most important financial market on the planet.\n\nToday, we celebrate our team and community who have taken prediction markets mainstream and made Kalshi one of the fastest growing companies in America.\n\nWhat once felt impossible now looks inevitable.",
+      "timestamp": "Jun 25, 2025 · 6:55 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1937947818276339734#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1937148640507867438#m",
+      "content": "Today, we’re proud to announce that GTE has raised a $15m Series A from @Paradigm to scale the Global Token Exchange.\n\nWe’ll use this capital to ship products even faster.\n\nBecause where we’re from, we not satisfied with being fast — we want to be the fastest.\n\nNow back to work.",
+      "timestamp": "Jun 23, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1937148640507867438#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1937181165091541379#m",
+      "content": "Frontiers by @Paradigm update! Aug 6-8 SF.\n\nDay 2 is looking 🔥🔥🔥 .\n\nNot 1, not 2, but 3 talks on high performance!\n- \"Hyperoptimizing Reth\" by @ashekhirin & @Rjected\n- “Scaling Ethereum's State Trie” by @brianisbland\n- \"Scaling Ethereum L1\" by @adietrichs.\n\nApply below!",
+      "timestamp": "Jun 23, 2025 · 4:09 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1937181165091541379#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1934649712914882950#m",
+      "content": "Excited to announce applications are now open for our 3rd annual Paradigm Fellowship: September 24 - 26 on the Northern California coast.\n\nThe crypto frontier is evolving faster than ever.\n\nWe’re looking for the people who want to explore it up close.",
+      "timestamp": "Jun 16, 2025 · 4:30 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1934649712914882950#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1932819279508091065#m",
+      "content": "1/ When we led Privy’s Series A in 2023, one thing came up again and again: customers didn’t just love the product – they loved Henri, Asta, Max, and team.\n\nHuge congrats to them today as they announce Stripe will acquire Privy. Hard to imagine a more deserving team.",
+      "timestamp": "Jun 11, 2025 · 3:16 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1932819279508091065#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1932817504851710224#m",
+      "content": "I'm very excited to share this - a lot of how we build is modeled after @stripe's craft and attention to detail.\n\nOn our end, we're excited to push even harder for our partners across the many verticals crypto impacts today!\n\nIt's going to be a very exciting few years!",
+      "timestamp": "Jun 11, 2025 · 3:09 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1932817504851710224#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1930265965134262563#m",
+      "content": "Credit is one of the most exciting, under-explored frontiers in crypto. Stoked to back @_yakovsky and the 3Jane team to take DeFi from an asset-based economy to a credit-based one.",
+      "timestamp": "Jun 4, 2025 · 2:10 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1930265965134262563#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1929919720893100079#m",
+      "content": "Frontiers by @paradigm speakers update! Aug 6-8 SF\n\n@r_krasiuk (@paradigm & @ithacaxyz): Ethereum Acceleration with Reth.\n\n@0xKitsune (@worldcoin): Priority Blockspace for Humans with Reth SDK.\n\n@jtguibas (@SuccinctLabs): Real-time proving Ethereum with SP1 & Reth.\n\nApply below!",
+      "timestamp": "Jun 3, 2025 · 3:14 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1929919720893100079#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1929583448903008595#m",
+      "content": "The future holds a million stablecoins. Today's infra isn't ready.\n\nIntroducing Orbital, an automated market maker for pools of 2, 3, or 10,000 stablecoins.\n\nOrbital unlocks capital efficiency by bringing concentrated liquidity to higher dimensions.\n\nw/ @danrobinson @ciamac\n\n1/8",
+      "timestamp": "Jun 2, 2025 · 4:58 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1929583448903008595#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1925588745929228325#m",
+      "content": "This is, without exaggeration, the most exciting crypto project I’ve seen in a long time.\n\nApply below…",
+      "timestamp": "May 22, 2025 · 4:25 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1925588745929228325#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1924524141782434216#m",
+      "content": "Frontiers by @Paradigm returns to San Francisco on August 6-8, 2025, after SBC!\n\nFrontiers is our intense annual conference & hackathon for devs building at the frontier.\n\nIn-the-zone hacking. Deeply technical talks. No booths. Curated developer audience.\n\nApply below. ↓",
+      "timestamp": "May 19, 2025 · 5:54 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1924524141782434216#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1921960740564410527#m",
+      "content": "Prediction markets let you bet on outcomes, but so much more is possible.\n\nThis paper introduces Multiverse Finance, which splits the financial system into parallel universes so you can short the market today, but only if your candidate is going to lose the next election.\n\n1/",
+      "timestamp": "May 12, 2025 · 4:08 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1921960740564410527#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1917236214480208036#m",
+      "content": "Only 6 solvers so far…",
+      "timestamp": "Apr 29, 2025 · 3:15 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1917236214480208036#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1914737834625491036#m",
+      "content": "Fun chatting with @patrick_oshag about the illegible frontier of crypto",
+      "timestamp": "Apr 22, 2025 · 5:47 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1914737834625491036#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1909257555408277766#m",
+      "content": "For years I’ve asked @matthuang to let us feature him and @paradigm\n\nMatt is the steadiest of hands in a very high vol asset class and world\n\nHe just said he’s more bullish on crypto than any time since 2018, so excited to share our profile with you all, on @joincolossus",
+      "timestamp": "Apr 7, 2025 · 2:50 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1909257555408277766#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1909261222043607129#m",
+      "content": "Matt Huang is a rare investor.\n\nIn his early twenties, on a week-long vacation to China, he met with Zhang Yiming. Yiming was building a personalized news app out of a dusty apartment in Beijing. Huang didn’t like the idea, and couldn’t understand a word Yiming said, but he could tell Yiming was special.\n\nHe found a way to invest at a ~$20 million valuation. Yiming’s app turned into TikTok and Huang’s share of the business, ByteDance, has turned into a sum approaching one billion dollars.\n\nAt Sequoia, he refined that talent for seeing genius early and developed a stellar reputation. When he left in 2018, Michael Moritz reportedly called him \"the only regrettable loss in Sequoia's history.\"\n\nLater that year, he co-founded a crypto investing business with @FEhrsam, who had previously co-founded Coinbase. They called it @paradigm, and today the firm manages over $12 billion.\n\nHuang is rare, not because of his success or his ability to spot category-defining companies in their infancy, but because he has built an investing firm where the mission genuinely comes before the money.\n\nAs @brian_armstrong, CEO and Co-founder of Coinbase, said: “Who leaves a job like that at Sequoia? He’s a silent killer. Our industry needs more people like him who have high integrity and are in it for the long-term and the right reasons.”\n\nParadigm doesn’t just invest, it builds. Its researchers, who double as investors, develop foundational innovations, then give them away to the entire industry. Their open-source tools power 90% of smart contract development. Their mathematical breakthroughs have helped create billion-dollar companies.\n\nThe mission is to advance the frontier of crypto. Returns follow the mission. Six years in, it is working. Paradigm’s flagship fund has grown from $760 million to $8.3 billion.\n\nBehind the numbers is an unconventional team, which Huang likens to the X-Men Academy.\n\n“No one is central casting to be hired by another investing firm,” he said. But folks like @_charlienoyes, @danrobinson, and @gakonst do things that no other investors can, and Huang, along with @alanapalmedo, hold their quirks together like few leaders can.\n\nI spent the past couple of months learning everything I could about Huang and Paradigm. At first, I was drawn to his remarkable achievements but as I spent more time with him, his Paradigm team, and people close to him, it became clear that the real story was in their steadfast mission to make crypto successful.\n\n@matthuang might be the most important investor you've never heard of. You can learn all about him in my profile linked below.\n\nIn an industry known for short-term thinking, he's playing a game measured in decades, with a team that’s quietly reshaping finance from their penthouse office overlooking San Francisco.",
+      "timestamp": "Apr 7, 2025 · 3:05 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1909261222043607129#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1899496195757597078#m",
+      "content": "🚀Announcing our $82M Series B, led by @paradigm!\n\nExcited to scale the first global crypto payments network, enabling seamless and secure digital asset payments + conversions.  \n\nThank you to our investors, partners & team for making this milestone possible! bit.ly/41DhLKh",
+      "timestamp": "Mar 11, 2025 · 4:22 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1899496195757597078#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1896931977590374661#m",
+      "content": "Across is proud to announce a successful raise of $41M in a strategic token sale led by Paradigm (@paradigm)   \n\nWith participation from Bain Capital Crypto (@BainCapCrypto), Coinbase Ventures (@cbventures), Multicoin Capital (@multicoincap), and Sina Habinian (@sinahab)",
+      "timestamp": "Mar 4, 2025 · 2:33 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1896931977590374661#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1892227817149997212#m",
+      "content": "Monad Testnet is live.\n\nTry it out here: testnet.monad.xyz",
+      "timestamp": "Feb 19, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1892227817149997212#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1890163061182591480#m",
+      "content": "ANNOUNCING: FOUNDRY v1.0!\n\nEvery major DeFi protocol and smart contract developer who wants secure and gas-efficient code uses Foundry.\n\nToday, Foundry is officially stable, and here for the long run.\n\nCongratulations to everyone on today's huge milestone.\n\n`foundryup`!\n\nA lot of exciting updates in the thread.",
+      "timestamp": "Feb 13, 2025 · 10:16 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1890163061182591480#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1888992516558704898#m",
+      "content": "there’s a new EIP for scaling ethereum. it:\n- increases blockspace by FIFTY percent\n- does NOT increase the gas limit or DoS risk\n- is TRIVIAL to implement\n\ndetails 👇",
+      "timestamp": "Feb 10, 2025 · 4:44 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1888992516558704898#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1885007516670578872#m",
+      "content": "🚀Big news! We’ve raised a $24M Series A, co-led by\n@paradigm and @BainCapCrypto, with support from\n@fenbushi, @l2iterative, @robotventures, and top angels like @AnnaRRose, @_bfarmer, @dlubarov,\n@sinahab, and @varunsrin!  \n\nirreducible.com/posts/irredu…",
+      "timestamp": "Jan 30, 2025 · 4:49 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1885007516670578872#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1884662528753455545#m",
+      "content": "1/ We are proud to announce our $25M Series A led by @Paradigm, with participation from @cbventures and other strategic angels.\n\nThis highlights the support from Web2 & Web3 leaders for DomainFi, a decentralized finance layer to accelerate the growth of domains as a $340B+ real-world asset class.",
+      "timestamp": "Jan 29, 2025 · 5:58 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1884662528753455545#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1881802255202193584#m",
+      "content": "🚨 Action required: After >3yrs of heads-down development, Foundry is en route to our first stable release! Upgrade your installation of Foundryup! 🚨\n\n2025 is looking to be an amazing year with faster and more secure EVM smart contracts!\n\nFoundry is a critical part of the EVM development stack, empowering developers through their end to end development lifecycle, from quick builds to deep tests and rich debugging workflows.\n\nMore importantly, for the EVM to win, Foundry must remain a reliable building block for developers. For that, we must graduate to having stable releases, so we encourage all developers to upgrade their `foundryup` installations.\n\nUpgrading is really simple, just run: `curl -L foundry.paradigm.xyz | bash`.\n\n❗Why upgrade?\n\nUpgrading ensures your `foundryup` defaults to updating to the latest stable release instead of the latest nightly build. That build is hosted on Github under the `stable` tag: github.com/foundry-rs/foundr….\n\nIn the coming weeks, we'll be shipping our last few breaking changes to Foundry (e.g., turning off the optimizer by default, which was recently shipped). If you do not upgrade, you will continue to receive nightly builds by default, which may contain these breaking changes.\n\n✨ Prefer nightly builds?\n\nYou are still able to receive the latest nightly builds by running `foundryup --install nightly`\n\nBe cautious — nightly builds may include breaking changes that are difficult to debug without context.\n\n🔄 Switching between versions?\n\nEasily manage your installations with: `foundryup --use <version>`\n\ne.g. `foundryup --use nightly`, `foundryup --use stable`\n\n⚙️ And the CI?\n\nThe foundry-toolchain GitHub Action will use the latest stable release unless you specify the version to be different: github.com/foundry-rs/foundr…, via the `version` tag.\n\nHuge kudos to legends @gndizzy @zerosnacks @YashAtreya @DaniPopes who have taken over the Foundry torch in the last year.",
+      "timestamp": "Jan 21, 2025 · 8:33 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1881802255202193584#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1880018917068009527#m",
+      "content": "We're thrilled to share we've raised a $150M Series C at a $3B valuation, co-led by @sequoia and @paradigm. \n\nThis milestone accelerates our mission to build the world’s biggest and most-trusted consumer finance platform.",
+      "timestamp": "Jan 16, 2025 · 10:26 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1880018917068009527#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1858879397622579302#m",
+      "content": "1/ A new chapter for Noble: Announcing our $15M Series A led by @Paradigm! ✨✨✨\n\nInvestors include @Polychain, Foresight, @wmt_ventures, @Informalinc, angels from @CelestiaOrg, @SkipProtocol, @SuccinctLabs, @Conduitxyz & others\n\nFrom @FortuneMagazine: fortune.com/crypto/2024/11/1…",
+      "timestamp": "Nov 19, 2024 · 2:25 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1858879397622579302#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1846567345864536468#m",
+      "content": "Introducing Conduit G2: The world’s most powerful sequencer.\n\n10x higher performance than off-the-shelf sequencers.\n\n100% compatible with OP Stack and Arbitrum Orbit.\n\nNot theoretical. Not “coming soon.” Live in production today.\n\nWhat this means for rollup builders 🧵",
+      "timestamp": "Oct 16, 2024 · 3:02 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1846567345864536468#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1836265720159834495#m",
+      "content": "Announcing $25M in total funding to break the data wall with user-owned AI. Excited to have @cbventures onboard, alongside @paradigm (Series A), and @polychain (Seed).\n\nAI is only as good as its training data. Vana unlocks data from walled gardens through the power of data DAOs.",
+      "timestamp": "Sep 18, 2024 · 4:47 AM UTC",
+      "url": "https://twitter.com/paradigm/status/1836265720159834495#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1826651041875792117#m",
+      "content": "We’re excited to introduce Conduit Marketplace!\n\nConduit chains can now get best-in-class tooling from 48 providers directly from the Conduit platform. Apps listed on Marketplace get instant distribution to every chain deployed with Conduit. Learn how it works below ⬇️",
+      "timestamp": "Aug 22, 2024 · 4:02 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1826651041875792117#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1826267337953353807#m",
+      "content": "Only 1 week left to apply for Monad Madness!\n\nContest details and applications linked below 👇",
+      "timestamp": "Aug 21, 2024 · 2:37 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1826267337953353807#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1820506643739615624#m",
+      "content": "This talk convinced me that Ethereum can implement multiple concurrent block proposers\n\n@MaxResnick1 proposes a new design called Braid, based on the simple idea of running many instances of Ethereum consensus in parallel\n\nI think this could become a defining part of the roadmap",
+      "timestamp": "Aug 5, 2024 · 5:06 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1820506643739615624#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1820502474521727475#m",
+      "content": "At Paradigm's first NYC research workshop, @MaxResnick1 presented BRAID: an approach to implementing multiple concurrent proposers on Ethereum.\n\nLink to video and thread 👇",
+      "timestamp": "Aug 5, 2024 · 4:49 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1820502474521727475#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1770862082004525145#m",
+      "content": "Uma and John have built something special... excited for Paradigm to have led the seed and be doubling down on the series A.",
+      "timestamp": "Mar 21, 2024 · 5:16 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1770862082004525145#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1770843544388771914#m",
+      "content": "1/ We're excited to announce we've raised $55M led by @Paradigm to make zero knowledge proofs accessible to any developer.\n\nSuccinct’s Prover Network & SP1 make general-purpose ZK performant and easily deployable w/o complex infra.\n\nLet’s build towards an era of truth, not trust.",
+      "timestamp": "Mar 21, 2024 · 4:02 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1770843544388771914#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1764700326282879115#m",
+      "content": "new research from @paradigm: How to Raise the Gas Limit ⛽⛽\n\nlots of people want to raise the gas limit, but so far most of the discourse has lacked detailed quantitative evidence\n\nthat ends today. we are making the scientific case for scaling Ethereum using ultra-high-res data",
+      "timestamp": "Mar 4, 2024 · 5:11 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1764700326282879115#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1706685729274007819#m",
+      "content": "Introducing the foundation for shared sequencing and the most reliable OP Stack sequencers on mainnet\n\nReduce sequencer downtime by over 50% with Conduit Elector, a new high availability technology that sets the industry standard for sequencer uptime",
+      "timestamp": "Sep 26, 2023 · 3:02 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1706685729274007819#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1706655880358641987#m",
+      "content": "Today, we are excited to launch the Paradigm Policy Lab 🚀🧪\n\nLed by @brendanpmalone and myself, the Lab will be a gathering place for academics, policy experts, lawyers, and technologists to study how to address the biggest policy challenges in crypto",
+      "timestamp": "Sep 26, 2023 · 1:04 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1706655880358641987#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1704848429883732256#m",
+      "content": "Pleased to announce that @conduitxyz is expanding our suite of rollup stacks with support for Arbitrum Orbit, including Stylus",
+      "timestamp": "Sep 21, 2023 · 1:21 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1704848429883732256#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1704608186723119329#m",
+      "content": "*The Casino on Mars*\n\nIt’s useful to think of crypto as a new planet that’s being settled.\n\nSkeptics see a desolate planet without purpose. Or worse, a haven for an unsavory casino.\n\nOptimists see the planet’s potential: a blank slate on which we can build an upgraded financial system and internet platform.\n\nEarly settlers are a mixed bunch. Explorers drawn to the frontier. Speculators, some rough and disreputable. Innovators and researchers, attracted to what’s newly possible. Ordinary people, especially those marginalized on Earth.\n\nGovernance remains ambiguous. Some Earthly jurisdictions prohibit their citizens from visiting. Others seek a foothold in the new world.\n\nA history of speculation and hype cycles has cast a social taboo over the new planet, leaving many to wonder: what is its future?\n\nToday’s casino-like speculation is part of a bootstrapping process. Much like the gold rush of 1849 transformed San Francisco from a quaint village into a major port (and ultimately the heart of tech innovation), today’s speculative frenzy in crypto is attracting the settlers and catalyzing the infrastructure necessary to turn a barren planet into a thriving crypto civilization.",
+      "timestamp": "Sep 20, 2023 · 9:27 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1704608186723119329#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1699804826006393109#m",
+      "content": "How Aevo Became the First OP Stack Fork on Mainnet\n\nMore on @aevoxyz’s collaboration with @conduitxyz and how they leveraged the thousands of engineering hours we’ve put into Conduit’s self-serve RaaS platform 👇",
+      "timestamp": "Sep 7, 2023 · 3:20 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1699804826006393109#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1697304759676579977#m",
+      "content": "On the heels of Grayscale’s victory over the SEC, Yesterday Judge Failla dismissed a class action suit that had been filed against @Uniswap, Hayden Adams and various investors, including @Paradigm.",
+      "timestamp": "Aug 31, 2023 · 5:46 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1697304759676579977#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1696538288256168309#m",
+      "content": "How do alternative data availability (alt DA) layers like @CelestiaOrg and @eigenlayer fit into the rollup-centric roadmap?\n\nHow we think about alt DA layers at @conduitxyz and the advice we give our customers 🧵",
+      "timestamp": "Aug 29, 2023 · 3:00 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1696538288256168309#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1695464836099133890#m",
+      "content": "🔩🔧 Excited to announce Rivet 🔩🔧\n\nRivet is like React DevTools for crypto.\n\nIt is an MIT-licensed contributor-friendly developer wallet, built on modern Typescript practices, meant to improve the crypto frontend development experience!\n\nBuilt with @_jxom @awkweb @achalvs.",
+      "timestamp": "Aug 26, 2023 · 3:54 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1695464836099133890#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1692189573080826075#m",
+      "content": "⚙️ Today we’re launching Conduit Integrations\n\nRollups on Conduit, like @ourZora and @pgn_eth, can extend their chains with all the apps and services their users need. From bridging to account abstraction – we connect our customers with the right people",
+      "timestamp": "Aug 17, 2023 · 3:00 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1692189573080826075#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1690085213395918848#m",
+      "content": "Today @Paradigm and @a16zcrypto filed a joint amicus brief in @SECGov's case against @coinbase that demonstrates why the SEC’s approach is unsupported by case law and represents a significant and problematic expansion of its regulatory authority",
+      "timestamp": "Aug 11, 2023 · 7:38 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1690085213395918848#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1681061703818305536#m",
+      "content": "Five reasons I think UniswapX changes the game for decentralized exchange, MEV, and interoperability 🧵\n\nuniswap.org/whitepaper-unisw…",
+      "timestamp": "Jul 17, 2023 · 10:01 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1681061703818305536#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1679521105051258881#m",
+      "content": "How Zora Network Shipped to Mainnet in 4 Weeks\n\nMore on @ourZora’s collaboration with @conduitxyz, the only self-serve RaaS platform on the market 👇",
+      "timestamp": "Jul 13, 2023 · 4:00 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1679521105051258881#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1677020205502074880#m",
+      "content": "still stuck using csv? well there’s a new tool for anyone that enjoys rust, parquet, or crypto data…\n\n❄️🧊cryo🧊❄️\n\ncryo is the easiest way to extract crypto data to parquet (and other formats)\n\ndetails 👇👇",
+      "timestamp": "Jul 6, 2023 · 6:22 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1677020205502074880#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1673786399252955137#m",
+      "content": "Paradigm has never been more dedicated to crypto.\n\nWhen Fred and I started Paradigm five years ago, there was no master plan. What we had was a shared curiosity for the future, deep conviction in crypto, and a desire to advance the frontier of what’s possible.\n\nOur best decision early on was creating the role of “research partner.” \n\nIt wasn’t a role that existed (as far as we knew)—we invented it to convince @danrobinson to join.\n\nWe didn’t even know exactly what he’d work on—we just knew he belonged on the team.\n\nDan, along with @_charlienoyes, helped set the foundation for Paradigm’s deeply technical, research-driven approach. Our team today is an extension of that brilliant and quirky foundation.\n\nFive years in, we’re still learning from the research-driven approach that we stumbled onto.\n\nInvesting has made us better researchers, and research has made us better investors.\n\nWe hire deeply curious people and push them to follow their instincts.\n\nWhat started as an experiment in 2019 has become core to who we are — “research-driven” — a change that is now reflected on our website.\n\nWe’ve never been more excited about crypto and we continue to invest across all stages, publish original research, help portfolio companies develop mechanisms (like Uniswap v2, v3, v4), ship open source projects (Foundry, Reth), advocate for good policy, and more.\n\nWe’re also a group of curious nerds and the developments in AI are too interesting to ignore.\n\nIt seems trendy to frame crypto vs AI as a zero-sum competition. But we don’t buy it.\n\nBoth are interesting and will have plenty of overlap. We’re excited to continue exploring.",
+      "timestamp": "Jun 27, 2023 · 8:12 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1673786399252955137#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1671186635814473728#m",
+      "content": "We are excited to release Reth v0.1.0-alpha! 🎉🎉🎉\n\nReth is a modular, contributor-friendly, and blazing-fast Ethereum node, in Rust, using the Apache/MIT license.\n\nLet's unpack what is behind today's release.",
+      "timestamp": "Jun 20, 2023 · 4:01 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1671186635814473728#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1671867438667890688#m",
+      "content": "1/ @emhsia and I are incredibly excited to share that we’re joining @paradigm as EIRs \n\nparadigm.xyz/2023/06/joining…",
+      "timestamp": "Jun 22, 2023 · 1:07 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1671867438667890688#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1654176552018378753#m",
+      "content": "I'm excited to announce we are open-sourcing Artemis, a framework for writing MEV bots in Rust.\n\nWe built Artemis to make it as easy as possible to get started with searching, and designed the library to be simple, modular, and fast.\n\nparadigm.xyz/2023/05/artemis",
+      "timestamp": "May 4, 2023 · 5:29 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1654176552018378753#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1653052209431724034#m",
+      "content": "Introducing Blend!\n\n@blur_io wanted a lending protocol with:\n\n* Arbitrary collateral, including NFTs\n* No oracles\n* No expiries\n* Market-set interest rates\n\nSo @transmissions11 and I worked with them to design a new mechanism\n\nHere’s how it works 🧵",
+      "timestamp": "May 1, 2023 · 3:02 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1653052209431724034#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1653056493640470538#m",
+      "content": "How do you construct a lending protocol that supports arbitrary collateral, has no oracles, and has no expirations?\n\nRead the whitepaper to find out: paradigm.xyz/2023/05/blend\n\n(hint: when in doubt, try Dutch auctions)",
+      "timestamp": "May 1, 2023 · 3:19 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1653056493640470538#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1652805475287592960#m",
+      "content": "former Fed chairs as cyberpunk hackers brought back to the future to save the digital economy from rampant inflation \n\nBernanke, scheming",
+      "timestamp": "Apr 30, 2023 · 10:41 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1652805475287592960#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1653030159245770752#m",
+      "content": "1/ Phantom multichain is rolling out today! 🥳\n\nNow you can use @ethereum, @0xPolygon, and @solana without switching wallets.\n\nWith support for multiple secret recovery phrases, it’s easy to import all of your wallets in seconds.\n\nCompatible everywhere with a MetaMask button.",
+      "timestamp": "May 1, 2023 · 1:34 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1653030159245770752#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1651210548862656512#m",
+      "content": "1/ for many, the SVB debacle crystalized the relationship between money and credit\n\nlooking toward the future, it’s important we make sure people have access to digital money that’s free of credit risk\n\ncrypto has a vital role to play here👇\n\npolicy.paradigm.xyz/writing/…",
+      "timestamp": "Apr 26, 2023 · 1:04 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1651210548862656512#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1636768359810498561#m",
+      "content": "🟩📊🌀excited to announce the launch of the Paradigm Data Portal 🟩📊🌀\n\nTLDR: we are assembling a bunch of public crypto datasets for researchers and tool builders\n\nshort thread",
+      "timestamp": "Mar 17, 2023 · 4:36 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1636768359810498561#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1636353493886984192#m",
+      "content": "We’ve submitted a governance proposal outlining @paradigm's entrance into the C4 DAO. \n\nVote now: rebrand.ly/code4rena-paradig…",
+      "timestamp": "Mar 16, 2023 · 1:07 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1636353493886984192#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1603093832035360770#m",
+      "content": "excited to share that I recently joined @Paradigm as their first data associate 🧮 📊",
+      "timestamp": "Dec 14, 2022 · 6:25 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1603093832035360770#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1597302472069984256#m",
+      "content": "Excited to announce that @paradigm is sponsoring @awkweb and @jakemoxey to build open-source libraries to accelerate web3 frontend development.\n\nparadigm.xyz/2022/11/paradig…",
+      "timestamp": "Nov 28, 2022 · 6:52 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1597302472069984256#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1589707277174722560#m",
+      "content": "Design at Paradigm is growing! I'm so thrilled, honored, and lucky to be working closely with @_yangyou. Her impact has been felt at Paradigm and beyond from day one. Can't wait to show you all what we're working on.",
+      "timestamp": "Nov 7, 2022 · 7:52 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1589707277174722560#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1589706548317913089#m",
+      "content": "Excited to share that I’ve joined @paradigm as a designer, working with the firm, the portfolio, and the community to design more intentional, human experiences for crypto & web3.",
+      "timestamp": "Nov 7, 2022 · 7:49 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1589706548317913089#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1589019653590102016#m",
+      "content": "It appears that the account @imaniperry was hacked and is impersonating our Twitter account.\n\n@paradigm is our official account and we ask that you report any impersonator accounts.",
+      "timestamp": "Nov 5, 2022 · 10:19 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1589019653590102016#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1582785894976626688#m",
+      "content": "NFT traders share a common struggle: speed. \n\nEnter @blur_io, the fastest exchange. \n\nOh, and it's live today. \n\nHats off to @PacmanBlur and the Blur team for shipping this insane product.",
+      "timestamp": "Oct 19, 2022 · 5:28 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1582785894976626688#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1580138251901636614#m",
+      "content": "Earlier this year, our team at @Neeva thought through the challenge of indexing & serving blockchain data\n\nWe stood up a solution & realized it could unlock performance & reliability for web3 devs\n\nToday, I’m thrilled to introduce a new company @_n_x_y_z_ to the world 🧵(1/6)",
+      "timestamp": "Oct 12, 2022 · 10:08 AM UTC",
+      "url": "https://twitter.com/paradigm/status/1580138251901636614#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1575834168696545280#m",
+      "content": "You can lose all of your crypto with just one wrong click. Over $100 million has been stolen in 2022 alone.\n\nWeb3 users are left to defend themselves against scammers & hackers with limited support. It’s a broken system.\n\nThat’s why we created Blowfish\n\nblog.blowfish.xyz/blowfish-r…",
+      "timestamp": "Sep 30, 2022 · 1:05 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1575834168696545280#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1576921584341700608#m",
+      "content": "We’re excited to announce that Exponential has raised a $14M seed round, led by @Paradigm, and is now available to the public. Exponential is a new investment platform that makes it easy to discover, assess, and invest in DeFi yield opportunities exponential.fi/blog/take-the…",
+      "timestamp": "Oct 3, 2022 · 1:06 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1576921584341700608#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1568281090934321154#m",
+      "content": "The Tornado Cash sanctions created confusion about the compliance obligations of actors in crypto's ecosystem. At @Paradigm, we believe that crypto's base layer should not be required to monitor or censor transactions in order to comply with sanctions  \nparadigm.xyz/2022/09/base-la…",
+      "timestamp": "Sep 9, 2022 · 4:52 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1568281090934321154#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1567586700209311744#m",
+      "content": "We’re looking to hire our first data associate at Paradigm!\n\nUse data to analyze new investments, drive public research, and support the portfolio and ecosystem.\n\nLovers of Dune, Etherscan, JSON-RPC, etc. encouraged to apply.\n\nMore below. Apply here: jobs.lever.co/paradigm-xyz/6…",
+      "timestamp": "Sep 7, 2022 · 6:52 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1567586700209311744#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1559669402282254342#m",
+      "content": "making art, mechanisms, and software with @justinroiland and the ridiculously stacked @artgobblers team has been the experience of a lifetime\n\nbeyond excited to show you the experiment we made for you",
+      "timestamp": "Aug 16, 2022 · 10:32 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1559669402282254342#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1551955261803433984#m",
+      "content": "We applaud the bipartisan leadership of @SenToomey  and @SenatorSinema. \n\nWith 1 in 5 Americans holding or using crypto, greater regulatory clarity will support the industry's next stage of growth.\nbanking.senate.gov/newsroom/…",
+      "timestamp": "Jul 26, 2022 · 3:39 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1551955261803433984#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1550857605161127940#m",
+      "content": "A future where brand loyalty programs + memberships are powered by blockchain tech?\n\nMy latest for #CNBCEvolve explores the possibility, featuring a conversation with Matt Smolin, CEO of @Paradigm-backed Hang — a new startup in the fledgling Web3 space. cnbc.com/2022/07/23/nfts-are…",
+      "timestamp": "Jul 23, 2022 · 2:57 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1550857605161127940#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1547731820564717569#m",
+      "content": "NFT brand loyalty platform Hang banks $16M from Paradigm tcrn.ch/3RtdeUS by @lucasmtny",
+      "timestamp": "Jul 14, 2022 · 11:56 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1547731820564717569#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1547598743523930113#m",
+      "content": "1/ Excited to announce @HangXYZ_ an enterprise-grade membership platform that leverages Web3 to reimagine how brands interact with their users. \n\nWe also announced we raised a $16M Series A led by @Paradigm and @FEhrsam along with other amazing investors. mirror.xyz/0x86D4b75B33989e0…",
+      "timestamp": "Jul 14, 2022 · 3:07 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1547598743523930113#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1536828723839877123#m",
+      "content": "as many of you know, i'm a hopeless overwatch and slay the spire addict\n\nso a hybrid MOBA/CCG from the team that shipped age of empires, words with friends, and lucky's tale would already be pretty exciting\n\nif it wasn't also the most innovative web3 game i've seen\n\nbut it is",
+      "timestamp": "Jun 14, 2022 · 9:51 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1536828723839877123#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1536695131935473665#m",
+      "content": "Playful Studios is making a high-quality Web3 battle arena game called Wildcard. venturebeat.com/2022/06/14/p…",
+      "timestamp": "Jun 14, 2022 · 1:00 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1536695131935473665#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1536698699782422531#m",
+      "content": "Wildcard is the game to change Web3🦾\nventurebeat.com/2022/06/14/p…",
+      "timestamp": "Jun 14, 2022 · 1:14 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1536698699782422531#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1534554284708073474#m",
+      "content": "There’s been a lot of great content about legal wrappers for DAOs recently and we’d like to add one more to the mix - the DAO Legal Entity Matrix daos.paradigm.xyz/",
+      "timestamp": "Jun 8, 2022 · 3:13 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1534554284708073474#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1534257370825621506#m",
+      "content": "Office Hours Alert 💡\n\nJoin @0xKenzee and @AustinAdams10 as we chat with Research Lead @gordonliao and @danrobinson from @paradigm about their recent research on v3 market liquidity and LP fees. \nlocalhost:8080/i/spaces/1gqxvlgoyrzGB",
+      "timestamp": "Jun 7, 2022 · 7:33 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1534257370825621506#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1534278665323745280#m",
+      "content": "One key way evaluating job opportunities in Web3 differs from Web2: the availability of on-chain data.\n\nI write here about what this means for both job seekers and founders, as well as how to approach a job search like an investor using this data.\n\nparadigm.xyz/2022/06/evaluat…",
+      "timestamp": "Jun 7, 2022 · 8:58 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1534278665323745280#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1534212955083968513#m",
+      "content": "The legislation proposed today by @SenGillibrand and @SenLummis is a thoughtful first step toward regulatory clarity for crypto. Both senators have spent their time engaged with industry advocates and critics, resulting in what are rigorous but largely fair requirements.",
+      "timestamp": "Jun 7, 2022 · 4:37 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1534212955083968513#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1533862554841141249#m",
+      "content": "Met @katiebiber circa 2018 in her @Anchorage days and saw her killer instincts in action. The best crypto legal mind out there. Welcome to the team!",
+      "timestamp": "Jun 6, 2022 · 5:25 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1533862554841141249#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1533849687387611136#m",
+      "content": "Welcome Katie!",
+      "timestamp": "Jun 6, 2022 · 4:33 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1533849687387611136#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1533848697569697793#m",
+      "content": "The Merge is right around the corner on Ropsten. \n\nI've temporarily updated MultiFaucet to drip 100ETH/day/person, so you can fund your test nodes: faucet.paradigm.xyz",
+      "timestamp": "Jun 6, 2022 · 4:30 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1533848697569697793#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1533833165680304128#m",
+      "content": "1/5 I’m thrilled to announce that I’m joining @Paradigm as Chief Legal Officer, helping @matthuang and @fehrsam expand the outstanding firm they founded only four years ago alongside the best Legal and Policy teams in the industry. paradigm.xyz/2022/06/joining…",
+      "timestamp": "Jun 6, 2022 · 3:28 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1533833165680304128#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1532022946100875265#m",
+      "content": "I got my start in crypto via bounty boards where skill and reputation mattered more than age, pedigree, or location.\n\nMakes me especially honored to back the powerhouse team of @_Lonis_ and @da_fant in building this contributor economy.",
+      "timestamp": "Jun 1, 2022 · 3:35 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1532022946100875265#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1531684738901061633#m",
+      "content": "Ecstatic to announce @paradigm's investment in @utopialabs_. We're honored to be partnering with them on their mission to build the operating system for DAOs.",
+      "timestamp": "May 31, 2022 · 5:11 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1531684738901061633#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1531652515766362112#m",
+      "content": "I'm delighted to release a new white paper with @RSSH273, associate General Counsel of @paradigm on \"Legal Wrappers and DAOs.\"  Our research evaluates the entities available to DAOs, as well as their implications for limited liability, governance and more. papers.ssrn.com/sol3/papers.…",
+      "timestamp": "May 31, 2022 · 3:03 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1531652515766362112#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1529553688477704192#m",
+      "content": "1/ Excited to announce the Paradigm Fellowship: a program for young, ambitious crypto-minded talent who want to shape the future of crypto\nparadigm.xyz/fellowship",
+      "timestamp": "May 25, 2022 · 8:03 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1529553688477704192#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1529551052017741824#m",
+      "content": "We've been lucky to work with some extraordinary young developers and creators at @paradigm\n\nThis summer, we're starting the Paradigm Fellowship to help support the next generation of crypto talent\n\nApply here:\n\nparadigm.xyz/fellowship",
+      "timestamp": "May 25, 2022 · 7:52 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1529551052017741824#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1529555829963235329#m",
+      "content": "Introducing the Paradigm Fellowship: paradigm.xyz/fellowship",
+      "timestamp": "May 25, 2022 · 8:11 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1529555829963235329#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1529149275090739200#m",
+      "content": "RSS and Atom fans, your day has come. Subscribe to all our writing using these new feed links:\nRSS: paradigm.xyz/rss/feed.xml\nAtom: paradigm.xyz/rss/atom.xml",
+      "timestamp": "May 24, 2022 · 5:16 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1529149275090739200#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1524828987884638208#m",
+      "content": "Crypto is the clear settlement layer of the future. No person better than @davidmarcus to make that a reality.\n\nExcited to see him and his world class team see how far they can push #Bitcoin's Lightning Network.",
+      "timestamp": "May 12, 2022 · 7:08 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1524828987884638208#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1524826813096112128#m",
+      "content": "I wanted to share that we are starting a new company called @lightspark to explore, build and extend the capabilities and utility of #Bitcoin. As a first step, we’re actively assembling a team to dive deeper into the Lightning Network. (1/3)",
+      "timestamp": "May 12, 2022 · 7:00 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1524826813096112128#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1524062097545392130#m",
+      "content": "Paradigm’s first investment in Africa 🌍\n\nCouldn't be more excited to partner with @JamboTechnology to help people on the continent access the potential of Web3.",
+      "timestamp": "May 10, 2022 · 4:21 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1524062097545392130#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1523998307667910656#m",
+      "content": "1/ We here at Jambo are super excited to announce some important milestones today, including that we’ve raised a $30M Series A round, led by @Paradigm. 🦁🔥\n\nFunding will allow us to accelerate Web3 adoption in Africa in a big way. Read more:\n\nforbes.com/sites/ninabambysh…",
+      "timestamp": "May 10, 2022 · 12:08 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1523998307667910656#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1522282339073597440#m",
+      "content": "🔥⚒️ NEW FOUNDRY RELEASE 🔥⚒️\n\nAnnouncing Anvil, a blazing-fast local testnet node implementation, in Rust! \n\nYou can consider Anvil a drop-in replacement for `ganache-cli` or `hardhat node`, for deploying & testing your contracts from frontends or interacting over RPC. 1/N",
+      "timestamp": "May 5, 2022 · 6:29 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1522282339073597440#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1522268836430417931#m",
+      "content": "Uniswap is arguably becoming the primary market for ETH\n\nNew research from @gordonliao and me shows that Uniswap v3 has deeper liquidity in ETH/USD and ETH/BTC than leading exchanges like Coinbase and Binance\n\nparadigm.xyz/2022/05/the-dom…",
+      "timestamp": "May 5, 2022 · 5:35 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1522268836430417931#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1522254521820323840#m",
+      "content": "Games can onboard hundreds of millions to Web3, yet getting started is still high friction and confusing for the average gamer. Excited for companies like Lootrush that make it easy.",
+      "timestamp": "May 5, 2022 · 4:38 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1522254521820323840#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1522233428711772160#m",
+      "content": "1/ We’re very excited to announce our $12 million seed round led by web3 and crypto firm @paradigm, and with substantial participation from @a16z!  🚀\n\nmore 👇\nblog.lootrush.com/lootrush-s…",
+      "timestamp": "May 5, 2022 · 3:15 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1522233428711772160#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1521894542512902144#m",
+      "content": "California has been at the heart of technology innovation. Gov. @GavinNewsom's executive order on crypto keeps the Golden State at the vanguard of the next technology revolution. \n\ngov.ca.gov/2022/05/04/govern…",
+      "timestamp": "May 4, 2022 · 4:48 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1521894542512902144#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1521158790447394817#m",
+      "content": "gm, thrilled to work with @lvanseters - a brilliant engineer, friend, and now @paradigm EIR.",
+      "timestamp": "May 2, 2022 · 4:04 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1521158790447394817#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1519363837832572929#m",
+      "content": "Welcome :) I'm getting *pretty* excited about the team we have assembled and what we will build with @talbroda's eng leadership!",
+      "timestamp": "Apr 27, 2022 · 5:12 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1519363837832572929#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1518604313467138048#m",
+      "content": "@DevinLewtan and @alicemama15 have reimagined content financing and monetization from the ground up, with crypto at the core. Excited to invest in their vision for a new cultural and economic model for creators and their audiences.",
+      "timestamp": "Apr 25, 2022 · 2:54 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1518604313467138048#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1516821417513213954#m",
+      "content": "1/ I’m excited to announce that I’ve joined the @paradigm team as an investment partner. I’ll be investing across all stages with a focus on consumer companies\nparadigm.xyz/2022/04/joining…",
+      "timestamp": "Apr 20, 2022 · 4:49 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1516821417513213954#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1514351515963514888#m",
+      "content": "NEW @paradigm Research!\n\nAs ZKPs become more integrated into L1s and L2s, the opportunity for ZK mining could grow to a size similar to that of PoW mining. \n\nFPGAs, not ASICs or GPUs, are the best answer to meet the unique compute needs of ZK-rollups.\n\nparadigm.xyz/2022/04/zk-hard…",
+      "timestamp": "Apr 13, 2022 · 9:15 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1514351515963514888#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1514300228337213447#m",
+      "content": "The first time I met Jackson, he was sleeping in a room with nothing but a mattress on the floor starting the eSports team @100Thieves.\n\nWelcome Jackson to focus on web3, consumer, creators, media, and gaming.",
+      "timestamp": "Apr 13, 2022 · 5:51 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1514300228337213447#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1511011123683741698#m",
+      "content": "I've been working on a new mechanism for selling NFT collections, as well as fungible tokens, with @danrobinson, @_Dave__White_, and @andy8052. \n\nIt's called a Gradual Dutch Auction, or GDA. It's helpful for finding fair prices for illiquid assets.\n\nparadigm.xyz/2022/04/gda",
+      "timestamp": "Apr 4, 2022 · 4:01 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1511011123683741698#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1509189773855891459#m",
+      "content": "Announcing Foundry v0.2.0 from @paradigm, the next evolution of our portable, fast, and modular toolkit for Ethereum application development.\n\nWe’ve taken the speed, security & UX of December’s initial release up another notch.\n\nLet’s dig in, anon.\n\nparadigm.xyz/2022/03/foundry…",
+      "timestamp": "Mar 30, 2022 · 3:24 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1509189773855891459#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1508485846223052800#m",
+      "content": "Psyched to announce @paradigm's investment in @blur_io, who is on a mission to build the premier NFT marketplace for pro traders. If you’re a pro NFT trader and want to get on the waitlist, DM’s are open.",
+      "timestamp": "Mar 28, 2022 · 4:47 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1508485846223052800#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1507054315772338216#m",
+      "content": "As more talent flows from Web2 to Web3, there's a growing need among candidates to understand how token-based compensation works. Since I help people make that jump every day at @paradigm, I thought I'd write an explainer.\n\nparadigm.xyz/2022/03/token-c…",
+      "timestamp": "Mar 24, 2022 · 5:58 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1507054315772338216#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1506313332583591936#m",
+      "content": "Structured products are one of the most important categories of DeFi.\n\nWe were impressed by the execution of the @ribbonfinance team and are excited to back @juliankoh and @kenchangh to make Ribbon the market leader in this category!",
+      "timestamp": "Mar 22, 2022 · 4:54 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1506313332583591936#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1504489918273245189#m",
+      "content": ".@optimismPBC launched their open mainnet just last year, and they haven’t stopped shipping since.\n\nProud for @paradigm to continue our support for this OG team building the future of Ethereum scaling.\n\ntechcrunch.com/2022/03/17/pa…",
+      "timestamp": "Mar 17, 2022 · 4:08 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1504489918273245189#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1503430285764927488#m",
+      "content": "Magic Eden became the leading NFT marketplace on Solana because of their devotion to building a simple, intuitive user experience. As NFTs break out, we are confident that the customer-obsessed team @MagicEden (@ZhuoxunYin @0xLeoInRio @sidazhang) can help lead the way.",
+      "timestamp": "Mar 14, 2022 · 5:58 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1503430285764927488#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1501575464053321728#m",
+      "content": "President Biden has signed the EO recognizing the tremendous potential of crypto. It reflects the importance of crypto to the American people. We share the President’s commitment to responsible financial innovation and a more fair, inclusive economy. Full statement below.",
+      "timestamp": "Mar 9, 2022 · 3:07 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1501575464053321728#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1501519308018659330#m",
+      "content": "Biden's executive order is great news. The administration realizes a transformative technology like crypto demands a comprehensive approach to keep the nation, industry, and ordinary Americans at the forefront of global innovation. We're here to help.",
+      "timestamp": "Mar 9, 2022 · 11:24 AM UTC",
+      "url": "https://twitter.com/paradigm/status/1501519308018659330#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1499507370430328855#m",
+      "content": "Today we're announcing @paradigm's investment in @PraxisSociety.\n\nCities are among civilization’s most important innovations. Just as crypto is rethinking our financial system from first principles, Praxis is daring to reimagine cities.",
+      "timestamp": "Mar 3, 2022 · 10:09 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1499507370430328855#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1493312834960117760#m",
+      "content": "Welcome Justin Slaughter to Paradigm!\nFormerly of the SEC and CFTC, we are excited for Justin to engage with policymakers and regulators on behalf of Paradigm, our portfolio, and the crypto/Web3 space broadly.",
+      "timestamp": "Feb 14, 2022 · 7:54 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1493312834960117760#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1491826229476921344#m",
+      "content": "🚢",
+      "timestamp": "Feb 10, 2022 · 5:27 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1491826229476921344#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1491810114415833096#m",
+      "content": "sup\n\nWe’ve raised a $12M seed round from @paradigm! \n\nWe’ll be scaling up as we take exciting new steps in the @blitmap universe, as well as developing new projects and universes.",
+      "timestamp": "Feb 10, 2022 · 4:23 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1491810114415833096#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1491167371754885121#m",
+      "content": "Welcome Andrew to the Paradigm Engineering team!\n\nSo much to build in an ever growing team of top engineers.",
+      "timestamp": "Feb 8, 2022 · 9:49 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1491167371754885121#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1491125317641306114#m",
+      "content": "🔴LIVE on #BUIDLCrypto\n\n✅ Complexities of x-chain bridges\n✅ Recent #Wormhole exploit\n✅ Security-related best practices for web3 builders\n\nHost: @nemild\nGuests: @samczsun (@paradigm) @LukeYoungblood and @petejkim of @coinbase\n\nJoin us 👇 localhost:8080/i/spaces/1ynKOZzAOyZxR",
+      "timestamp": "Feb 8, 2022 · 7:02 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1491125317641306114#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1489044939732406275#m",
+      "content": "How did the @wormholecrypto exploit work? I joined forces with @gf_256 and @ret2jazzy to reverse engineer the exploit, and now that it's been patched we can finally share it with you👇",
+      "timestamp": "Feb 3, 2022 · 1:15 AM UTC",
+      "url": "https://twitter.com/paradigm/status/1489044939732406275#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1488933659688144896#m",
+      "content": "\"Everything around you that you call life, was made up by people that were no smarter than you. And you can change it, you can influence it, you can build your own things that other people can use.\"\n\nListen to Steve Jobs and build something at the Solana Hackathon.\n\nI'm a judge.",
+      "timestamp": "Feb 2, 2022 · 5:53 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1488933659688144896#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1488215826305978370#m",
+      "content": "Crypto wallets are on a path to become the container for everything in your digital life, which is increasingly just \"your life\". To bring billions more people into crypto, we need wallets like @phantom that are simple, powerful, and secure.",
+      "timestamp": "Jan 31, 2022 · 6:21 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1488215826305978370#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1488213864785186816#m",
+      "content": "Sheila is an ideal ambassador to bridge the crypto and policy worlds. Excited for her to lead @crypto_council.",
+      "timestamp": "Jan 31, 2022 · 6:13 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1488213864785186816#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1486413921783201793#m",
+      "content": "I am joining @paradigm as a Research Designer, to help @matthuang, @fehrsam, and the rest of the incredible team push the boundaries of innovation in crypto.\n\nparadigm.xyz/2022/01/joining…",
+      "timestamp": "Jan 26, 2022 · 7:01 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1486413921783201793#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1486018529962848256#m",
+      "content": ".@FrankieIsLost, @JustinRoiland, and I have been working on a new NFT mechanism.\n\nCRISP, the Constant Rate Issuance Sales Protocol, aims to sell NFTs at a targeted rate over time.\n\nparadigm.xyz/2022/01/constan…",
+      "timestamp": "Jan 25, 2022 · 4:50 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1486018529962848256#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1483304347337326592#m",
+      "content": "Happy to announce @paradigm's investment in @rainfinancial, a crucial piece of the puzzle for bringing the Middle East deeper into the new crypto economy. \n\ncoindesk.com/business/2022/0…",
+      "timestamp": "Jan 18, 2022 · 5:04 AM UTC",
+      "url": "https://twitter.com/paradigm/status/1483304347337326592#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1481406113404780544#m",
+      "content": "I've been working on a new ecosystem growth engine with @owocki.\n\n@gitcoin Aqueduct incentivizes ecosystem development for your project with a single line of Solidity, and unbundles the work of protocol creation from the work of ecosystem support.\n\ngov.gitcoin.co/t/gitcoin-aqu…",
+      "timestamp": "Jan 12, 2022 · 11:21 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1481406113404780544#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1480959461162471431#m",
+      "content": "Squeeth is live.\n\nThis is one of the most elegant mechanisms I've seen come out of DeFi, and further proof that web3 enables innovation and iteration at an unprecedented pace\n\nNow it's in production, thanks to a Herculean effort from the @opyn_ team\n\n1/",
+      "timestamp": "Jan 11, 2022 · 5:47 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1480959461162471431#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1480954799231094784#m",
+      "content": "The @opyn_ research retreat began on the 4th of July, Independence Day in the US.\n\nI showed up in the late evening, so @snarkyzk and @danrobinson heated me up a burger.\n\nWe sat by the pool and talked about building something new.\n\n36 hours later, we had discovered Squeeth.\n\n1/",
+      "timestamp": "Jan 11, 2022 · 5:28 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1480954799231094784#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1480933478086721539#m",
+      "content": "Happy drop day, royal fam! Join our ‘Ultra Black’ drop party on Twitter Spaces co-hosted by @nftnow to hear the latest from @nas, @3LAU, @naithanjones, @FEhrsam and more at 2PM ET!\n\nlocalhost:8080/i/spaces/1YqxopOPdvXKv",
+      "timestamp": "Jan 11, 2022 · 4:03 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1480933478086721539#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1480908149687132160#m",
+      "content": "Excited to announce @Paradigm’s investment in Citadel Securities alongside our friends at Sequoia.\n\nWe’re excited to partner with them as they extend their technology and expertise into more markets and asset classes including crypto.\n\ncitadelsecurities.com/news/c…",
+      "timestamp": "Jan 11, 2022 · 2:23 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1480908149687132160#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1478554673116188672#m",
+      "content": ".@dfinzer and @xanderatallah have shown true grit over the last 4 years with @opensea, weathering years of uncertainty and sticking to their vision of NFTs as an internet and world-changing primitive.\n\nopensea.io/blog/announcement…",
+      "timestamp": "Jan 5, 2022 · 2:31 AM UTC",
+      "url": "https://twitter.com/paradigm/status/1478554673116188672#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1471827519896801281#m",
+      "content": "Curious to learn more about Aztec's Series A, Aztec Connect Bridges, and our future roadmap?\n\nJoin the Aztec Team and @gakonst from Paradigm for a discussion about privacy and scaling at noon ET today (Friday, December 16)!\n\nlocalhost:8080/i/spaces/1YqxopbpvYyKv",
+      "timestamp": "Dec 17, 2021 · 1:00 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1471827519896801281#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1471490616919949314#m",
+      "content": "Privacy is a fundamental right. \n\n@aztecnetwork's rollup, powered by their pioneering research on Plonk, is solving for high privacy while also allowing access to Ethereum’s DeFi.\n\nWe’re incredibly pleased to partner with @Zac_Aztec, @jaosef & the team to help advance this work.",
+      "timestamp": "Dec 16, 2021 · 2:41 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1471490616919949314#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1470395524951982084#m",
+      "content": "What comes after testnet? Mainnet, of course! \n\nWe're extremely pleased to announce that Euler is now live on Ethereum Mainnet for the community to use and test!\n\nblog.euler.finance/euler-lau…",
+      "timestamp": "Dec 13, 2021 · 2:09 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1470395524951982084#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1469043619067842562#m",
+      "content": "Few people can say ‘unique opportunity’ and mean it. But the chance for a law professor to team up with the world’s leading crypto researchers and engineers can safely be described just as that. Thanks @FEhrsam @matthuang and the entire @paradigm team. paradigm.xyz/2021/12/joining…",
+      "timestamp": "Dec 9, 2021 · 8:37 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1469043619067842562#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1468397058801299460#m",
+      "content": "Excited to announce Foundry!\n\nFoundry is a portable, fast and modular toolkit for Ethereum application development 🧵\n\nparadigm.xyz/2021/12/introdu…",
+      "timestamp": "Dec 8, 2021 · 1:48 AM UTC",
+      "url": "https://twitter.com/paradigm/status/1468397058801299460#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1468318365689458688#m",
+      "content": "I'm excited to announce that I've joined @paradigm as a Research Engineer, to help @FEhrsam, @matthuang , and the rest of the team as they push the boundaries in building a crypto-native investment firm. \n\nparadigm.xyz/2021/12/joining…",
+      "timestamp": "Dec 7, 2021 · 8:35 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1468318365689458688#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1463263651373137925#m",
+      "content": "After crowdsourcing some info to make sure I was not missing anything, I'm excited to share \"Awesome StarkNet\", a curated list of awesome @StarkWareLtd / @CairoLang / StarkNet resources, libraries, tools and more.\n\nPRs for additional content are welcome!\n\ngithub.com/gakonst/awesome-s…",
+      "timestamp": "Nov 23, 2021 · 9:50 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1463263651373137925#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1462798104831438848#m",
+      "content": "Boom! We're thrilled to announce our $555M Series A, valuing us at $3.4B! 🦄💥\n\nA 🧵 on the raise…",
+      "timestamp": "Nov 22, 2021 · 3:00 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1462798104831438848#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1461425865301004291#m",
+      "content": "UpOnly with @FEhrsam and @matthuang from @paradigm localhost:8080/i/broadcasts/1vAGRklak…",
+      "timestamp": "Nov 18, 2021 · 8:07 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1461425865301004291#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1461405639180263440#m",
+      "content": "We thank @PatrickMchenry, @RepTimRyan, and their colleagues for introducing the Keep Innovation in America Act, which will clarify digital assets language within the infrastructure bill. This is a welcomed first step to ensure America as a global and innovative leader in #crypto.",
+      "timestamp": "Nov 18, 2021 · 6:47 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1461405639180263440#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1461364166573264903#m",
+      "content": "The Big Wave and My Next Adventure:\n\nI’ll be exploring crypto and how it will enable us to build a better internet as an entrepreneur-in-residence (EIR) at @Paradigm.\n\nWhat? Why? How?\n\nCheck out my full post or read below: mirror.xyz/jdahl.eth/gI8KTdH…",
+      "timestamp": "Nov 18, 2021 · 4:02 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1461364166573264903#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1461189569131520003#m",
+      "content": "Let’s talk about DEX",
+      "timestamp": "Nov 18, 2021 · 4:28 AM UTC",
+      "url": "https://twitter.com/paradigm/status/1461189569131520003#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1460949823461502979#m",
+      "content": "gm everyone\n\nWe are excited to announce our $21mm seed round led by @paradigm and @FTX_Official\n\nMore here: \nbusinesswire.com/news/home/2…",
+      "timestamp": "Nov 17, 2021 · 12:35 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1460949823461502979#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1460993369237245958#m",
+      "content": "It feels obvious crypto will transform online sports betting over time. We are excited to partner with @svarun91, @nigeleccles, and the team to bring decentralized sports betting to market!",
+      "timestamp": "Nov 17, 2021 · 3:28 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1460993369237245958#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1460272702976000006#m",
+      "content": "Announcing our new venture fund paradigm.xyz/2021/11/paradig…",
+      "timestamp": "Nov 15, 2021 · 3:45 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1460272702976000006#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1460262681806397448#m",
+      "content": "Just getting started",
+      "timestamp": "Nov 15, 2021 · 3:05 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1460262681806397448#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1460246458272137217#m",
+      "content": "Crypto/Web3 is the most exciting frontier in technology\n\nThrilled to announce @Paradigm's new $2.5B fund\n\nparadigm.xyz/2021/11/paradig…",
+      "timestamp": "Nov 15, 2021 · 2:01 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1460246458272137217#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1459566748303335428#m",
+      "content": "We built a new faucet: faucet.paradigm.xyz\n \n✅ Funds wallet across 4 testnets at once (Ropsten, Kovan, Görli, @optimismPBC Kovan)\n✅ Drips 5 ETH, 5 wETH, 5K DAI, and 5 ERC721 NFTs\n✅ No need to tweet your address, just sign in with Twitter instead",
+      "timestamp": "Nov 13, 2021 · 5:00 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1459566748303335428#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1458885678666698754#m",
+      "content": "16% of Americans have used crypto. The people are voting with their feet.\npewresearch.org/fact-tank/20…",
+      "timestamp": "Nov 11, 2021 · 7:53 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1458885678666698754#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1458819349964214274#m",
+      "content": "I recently solved a CTF by the legendary @samczsun and can finally post this now that @etherscan has patched the 0day. medium.com/@kanewallmann_717…",
+      "timestamp": "Nov 11, 2021 · 3:30 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1458819349964214274#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1458818301199540226#m",
+      "content": "What would you do if you found an 0day in @etherscan? I decided to build a pinball machine.\n\nparadigm.xyz/2021/11/hiding-…",
+      "timestamp": "Nov 11, 2021 · 3:26 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1458818301199540226#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1457755906737795073#m",
+      "content": "Excited to support @JetProtocol's stellar team in building critical infrastructure for Solana's DeFi ecosystem.",
+      "timestamp": "Nov 8, 2021 · 5:04 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1457755906737795073#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1457741391950450700#m",
+      "content": "1/4 Today we're really happy to officially announce the participants in our follow-on capital raise which we recently closed! medium.com/jetprotocol/jet-r…",
+      "timestamp": "Nov 8, 2021 · 4:06 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1457741391950450700#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1457733401847517186#m",
+      "content": "Blockchains and decentralisation bring promise, but how can they scale? See the conversation with @paradigm’s @danrobinson, @Temasek’s Laura Loh, @Algorand’s @silviomicali and @timmoreton of @CeloOrg. Moderated by @HyunSongShin #Fintech #DCFintechWeek piped.kavin.rocks/qiR8xmbNxdQ",
+      "timestamp": "Nov 8, 2021 · 3:35 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1457733401847517186#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1453838326385938433#m",
+      "content": "The 1st @join_royal assets are being minted!\n\nThey are my first NFTs that GIVE RIGHTS IN MY MUSIC to the people!\n\nWe call them Limited Digital Assets (LDAs) because they do a lot more than standard ERC-721 tokens.\n\nMore detailed blog post coming soon :) royal.io/editions/worst-case",
+      "timestamp": "Oct 28, 2021 · 9:37 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1453838326385938433#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1453747865818370054#m",
+      "content": "UCC #31 out with @_anishagnihotri who is a research associate and colleague of mine at @paradigm. We talk about Anish's fascinating backstory as a skin trader and how he applies these techniques to the NFT space.\npiped.kavin.rocks/watch?v=IY3h0YM4…",
+      "timestamp": "Oct 28, 2021 · 3:37 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1453747865818370054#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1453435962520834050#m",
+      "content": "After 4+ yrs of collaboration and friendship with @sunnya97, we couldn't be more excited to back @osmosiszone.\n \nThey're leading the charge to bring IBC to market and build out the @cosmos ecosystem - as well as tackling fundamental problems, like MEV resistance and privacy.",
+      "timestamp": "Oct 27, 2021 · 6:58 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1453435962520834050#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1453404204098146306#m",
+      "content": "Our announcement is out. \n\nThank you for the support @FEhrsam @_charlienoyes @_Dave__White_ @danrobinson and entire team @paradigm",
+      "timestamp": "Oct 27, 2021 · 4:52 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1453404204098146306#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1453401013382156288#m",
+      "content": "AI Arena is one of the most fascinating and ambitious ideas I've encountered.\n\nA game made up of AI bots—each corresponding to a custom artificial neural network—that can be fought, trained, and traded as NFTs.\n\nVery excited to be backing the team!",
+      "timestamp": "Oct 27, 2021 · 4:39 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1453401013382156288#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1453375982161825794#m",
+      "content": "We are thrilled to announce the $5 million seed round for ArenaX Labs, the parent company of AI Arena! The round is led by @paradigm with participation by @hiFramework. \n\n📃Medium: t.ly/oWlD\n🧵Below",
+      "timestamp": "Oct 27, 2021 · 3:00 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1453375982161825794#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1451217502009188354#m",
+      "content": "A message from our Primed Minister:\n\nWe are Primed to announce our funding round, led by @Paradigm. Together, we will continue to build the world of Parallel beyond where any thought possible.",
+      "timestamp": "Oct 21, 2021 · 4:03 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1451217502009188354#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1449034154499321859#m",
+      "content": "If you’re in NFTs for more than just flipping, I highly suggest to read @hasufl super thread. \n\n@_anishagnihotri thanks both of you",
+      "timestamp": "Oct 15, 2021 · 3:27 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1449034154499321859#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1449054886973227009#m",
+      "content": "Great coverage by Bloomberg on dYdX’s recent growth! 🚀",
+      "timestamp": "Oct 15, 2021 · 4:49 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1449054886973227009#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1448338281326948354#m",
+      "content": "I'm excited to release a mega-post that @_anishagnihotri and I have been hacking away at for the last few weeks:\n\nParadigm's Guide to Designing Effective NFT Launches!\nparadigm.xyz/2021/10/a-guide…",
+      "timestamp": "Oct 13, 2021 · 5:22 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1448338281326948354#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1447599254936170508#m",
+      "content": "1/ Good morning Twitter! I’m thrilled to announce that I’ve joined the @paradigm team as an investment partner. I’ll be investing across stages with a particular emphasis on later-stage companies and protocols. \nparadigm.xyz/2021/10/joining…",
+      "timestamp": "Oct 11, 2021 · 4:25 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1447599254936170508#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1445787515848253455#m",
+      "content": "I've been working on a new NFT primitive with @andy8052 and @danrobinson: RICKS (Recurrently Issued Collectively Kept Shards).\n\nWhen you fractionalize an NFT into RICKS, the protocol mints and sells new RICKS every day.\n\nAll proceeds go to RICKS stakers.\n\nparadigm.xyz/2021/10/ricks/",
+      "timestamp": "Oct 6, 2021 · 4:26 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1445787515848253455#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1445398202572840967#m",
+      "content": "1/ We’re thrilled to announce @paradigm’s investment in @AxieInfinity. We couldn’t be more excited to stand by @trungfinity, @Jihoz_Axie, @Psycheout86, and the rest of the team in this next phase of growth. Why are we so excited?",
+      "timestamp": "Oct 5, 2021 · 2:39 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1445398202572840967#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1440392351998877697#m",
+      "content": "Mortys are in @matt_levine today bloomberg.com/opinion/articl…",
+      "timestamp": "Sep 21, 2021 · 7:07 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1440392351998877697#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1437825472675467270#m",
+      "content": "I've been working on a highly speculative new NFT primitive: Martingale shares, or \"Mortys.\"\n\nMortys represent fractional ownership of classes of NFTs.\n\nThey do not require buyouts or oracles, but instead rely on a random Martingale settlement process.\n\nparadigm.xyz/2021/09/marting…",
+      "timestamp": "Sep 14, 2021 · 5:08 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1437825472675467270#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1435335020621729792#m",
+      "content": "“Siri, what’s the official currency of El Salvador?”",
+      "timestamp": "Sep 7, 2021 · 8:11 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1435335020621729792#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1434568871369904130#m",
+      "content": "Wrote a bot this weekend to mint NFTs programmatically on Ethereum. Can assure you that using #Flashbots is the neatest way to go about it. 🤖\n\nHuge thank you to @epheph for releasing an awesome tutorial walking through it step-by-step. \n\nWanna see it in action? Learn more? 👇",
+      "timestamp": "Sep 5, 2021 · 5:27 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1434568871369904130#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1433596713189711872#m",
+      "content": "I’m excited to announce LootLoose.com.\n\nLootLoose lets you unbundle your @lootproject bags into individual ERC1155 NFTs or rebundle them into their original Loot bags.\n\n@_anishagnihotri built the frontend, and I did the smart contracts.\n\n⬇️Thread 1/10.",
+      "timestamp": "Sep 3, 2021 · 1:04 AM UTC",
+      "url": "https://twitter.com/paradigm/status/1433596713189711872#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1433180391460913152#m",
+      "content": "Love this piece - talked to a lot of FAANG engineers lately, and it’s true that:\n- token-based comp packages are more liquid\n- a DAO exit is at least 2x faster than the traditional IPO timeframe (2-3 years versus 7+ years) paradigm.xyz/2021/09/the-com…",
+      "timestamp": "Sep 1, 2021 · 9:30 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1433180391460913152#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1433152368367923201#m",
+      "content": "\"If you’re at a FAANG today and you’re working on making an application 0.5% faster or more scalable, the cost-benefit calculus of leaving to join a crypto startup has, and will likely continue to, become a lot more attractive.\" paradigm.xyz/2021/09/the-com…",
+      "timestamp": "Sep 1, 2021 · 7:38 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1433152368367923201#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1433097377980747779#m",
+      "content": "A former Google recruiter offers 4 reasons why engineers should quit their jobs at tech giants like Facebook, Apple and Amazon for crypto startups businessinsider.com/recruite…",
+      "timestamp": "Sep 1, 2021 · 4:00 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1433097377980747779#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1432768645843746817#m",
+      "content": "I've been working on a new NFT derivative: the floor perpetual.\n\nFloor perps are synthetic NFTs that track the floor price of a given project and can be minted by locking up NFTs from that project.\n\nparadigm.xyz/2021/08/floor-p…",
+      "timestamp": "Aug 31, 2021 · 6:13 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1432768645843746817#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1432393819937456131#m",
+      "content": "I did a quick Q&A with @Hacker0x01!\n\nhackerone.com/ethical-hacker…",
+      "timestamp": "Aug 30, 2021 · 5:24 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1432393819937456131#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1431281370454704132#m",
+      "content": "reminder h/t @waitbutwhy",
+      "timestamp": "Aug 27, 2021 · 3:44 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1431281370454704132#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1430918064950808582#m",
+      "content": "If you could invest in any music artist, who would it be?",
+      "timestamp": "Aug 26, 2021 · 3:40 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1430918064950808582#m",
+      "author": "paradigm"
+    },
+    {
+      "id": "1430561756720418817#m",
+      "content": "Thrilled to lead this round in @eulerfinance. Core DeFi primitives  don’t efficiently service the long tail of crypto assets right now.\n\nEuler’s a clean lending protocol, built from scratch to scale coverage out to rest of the market.",
+      "timestamp": "Aug 25, 2021 · 4:04 PM UTC",
+      "url": "https://twitter.com/paradigm/status/1430561756720418817#m",
+      "author": "paradigm"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T01:39:54.880Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 27839,
+    "cursorTrail": [
+      "DAAHCgABG3v3tSr__-sLAAIAAAATMTkzMjgxOTI0NTU5MjkyMDIzMggAAwAAAAIAAA",
+      "DAAHCgABG3v3tSr__9cLAAIAAAATMTg1ODkxMTExNjMzODA5ODI0OQgAAwAAAAIAAA",
+      "DAAHCgABG3v3tSr__8MLAAIAAAATMTY4MTA2MjA5ODQ5MzkzMTUyMAgAAwAAAAIAAA",
+      "DAAHCgABG3v3tSr__68LAAIAAAATMTU4MDIzNzk5MjU4MDM0OTk1MggAAwAAAAIAAA",
+      "DAAHCgABG3v3tSr__50LAAIAAAATMTUzMzg1MTc2OTc1ODg1NTE3MAgAAwAAAAIAAA",
+      "DAAHCgABG3v3tSr__4kLAAIAAAATMTUxOTM2NDcwOTk0MTUzODgxNggAAwAAAAIAAA",
+      "DAAHCgABG3v3tSr__3YLAAIAAAATMTQ5MTEyNTM4NzYwNjE3MTY0OAgAAwAAAAIAAA",
+      "DAAHCgABG3v3tSr__2ILAAIAAAATMTQ2MzI2NDY0ODU4OTgxOTkwNAgAAwAAAAIAAA",
+      "DAAHCgABG3v3tSr__04LAAIAAAATMTQ1MzQzNjEzMzExOTk3MTMyOQgAAwAAAAIAAA",
+      "DAAHCgABG3v3tSr__zoLAAIAAAATMTQzMjM5Mzg5MDgyOTQ1NTM2MwgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1453711744451313669",
+    "screen_name": "0xScottBTC",
+    "name": "AI索罗斯科特",
+    "description": "3年硬件开发，2年券商投研，10年加密投资。目前专注AI量化\n@GryphsisAcademy 联合创始人\n商务联系(tg): scott_cheung",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1914140013060849664/VKG38tuf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1453711744451313669/1726973879",
+    "followers_count": 11538,
+    "friends_count": 1238,
+    "statuses_count": 1588,
+    "favourites_count": 639,
+    "listed_count": 302,
+    "location": "Bangkok",
+    "website": "https://t.co/LzSRniGitd",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2021-10-28 21:14:38 +08:00",
+    "url": "https://twitter.com/0xScottBTC",
+    "rest_id": "1453711744451313669"
+  },
+  "tweets": [
+    {
+      "id": "1913545821691482469#m",
+      "content": "【山寨币轧空策略：如何用 Prompt 编写监控异常信号的 bot 】\n最近有很多山寨轧空的机会，于是我用 AI 写了监控，昨晚就抓到了 $VOXEL 。本文会讲解策略逻辑以及如何写 Prompt 做一个监控机器人\n\n当前加密货币市场因各种宏观关税政策不确定性导致避险情绪升温，风险资产流动性不足。手握大量山寨币的庄家面临困境：现货市场筹码难出手，流动性去哪找？答案是永续合约市场！这就为我们提供了与庄共舞的机会。\n\n一、策略逻辑推导\n庄家如何通过永续合约市场退出？以下是逐步推理：\n1. 庄家困境：持有大量现货筹码，但市场流动性不足，直接卖出会导致价格暴跌。\n2. 永续合约解法：空头在止损或清算时被迫买入现货或合约，为庄家提供流动性。\n3. 吸引空头：庄家拉升现货价格（影响标记价格），诱导散户看空并在永续合约上做空。\n4. 负费率红利：空头增多导致合约价格低于现货，资金费率变负，庄家持多头赚取费率和价差。\n5. 退出策略：将价格推至阻力位或清算区，空头被迫平仓需要进行买入，庄家借机退出，甚至可反手做空。\n这种策略的核心是利用空头的“接盘”行为，为庄家创造流动性。\n\n这种策略的核心是利用空头的“接盘”行为，为庄家创造流动性。\n\n二、核心监控指标\n整个过程我们可以看到的指标变化有：\n极端负费率（庄家现货控盘度高）-> OI 异常增多（庄家建立多头头寸）-> 不断突破阻力位（获取更多多头流动性退出）-> Long/Short Ratio 减少（散户被止损或清算）-> OI 减少，费率回到正常水平\n\n要捕捉轧空信号，我们需要监控以下关键数据：\n1. 极端负费率（Funding Rate）：负值过大（如<-0.1%）表明庄家对现货控盘度高，散户空头参与过多，庄家可能布局多头。\n\n2. 持仓量（OI）激增：OI快速上升，暗示庄家大量建仓接收散户的空头筹码。\n\n3. 突破阻力位：价格突破关键点位，可能触发空头清算。\n\n4. 指标恢复正常：空头清算后多空比上升，OI 回落，费率回归正常，轧空接近尾声。\n\n其中，资金费率和持仓量（OI）的异常变化是捕捉信号的前置指标！是我们要重点监控的数据！\n\n三、AI Prompt 核心\n手动监控看不过来？让我们利用AI和Python代码打造一个自动化工具，实时捕捉异常信号，并通过Telegram Bot推送警报。以下是实现步骤：\n\n1. 数据快照获取\n我们需要从Binance交易所API获取永续合约USDT交易对的关键数据，包括：\n- mark_price（标记价格）\n- index_price（指数价格）\n- basis（基差）\n- basis_percent（基差百分比）\n- last_funding_rate（最新资金费率）\n- oi（持仓量）\n- long_short_account_ratio（账户多空比）\n- top_trader_account_ls_ratio（大户账户多空比）\n- top_trader_position_ls_ratio（大户持仓多空比）\n- taker_buy_sell_ratio（主动买卖比）\n（注：若 AI 总是获取失败，则去官网搜索相关的数据，并将具体的 API 调用方式粘贴给 AI，API 说明文档链接：developers.binance.com/docs/…）\n\n2. 定时运行并保存数据\n- 每5分钟运行一次程序，获取所有USDT永续合约交易对的数据。\n- 将数据保存到data/{symbol}.csv文件中，便于后续分析。\n\n3. 异常警报逻辑\n设置触发条件，可自定义：\n- 当资金费率绝对值 > 0.1%（即last_funding_rate < -0.001 或 > 0.001），且\n- 最近3次的OI均值 / 最近10次的 OI均值 > 2（OI短期激增），\n通过Telegram Bot推送警报，提醒你潜在的轧空信号。\n\n通过以上的 Prompt，你就能有一个监控轧空机会的机器人啦，获取到信号后，注意结合技术分析，来进行止盈止损的设置。这样的机会一直存在，快把你的机器人部署起来吧！\n\n#AI #Web3 #BTC",
+      "timestamp": "Apr 19, 2025 · 10:50 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1913545821691482469#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1976842044828983764#m",
+      "content": "这个A公司的内部小哥用claude code来打造自己的贾维斯，有110万的点赞量，值得深度阅读和学习。\n\nclaude agent SDK这两天大放异彩，以及昨天一个推友的互动引发了我对文件系统和memory系统的思考，遂搜索到这个thread，里面充满了内部员工的真知烁见。\n\n0. 小哥是在Mac的用户目录下使用Claude Code(~目录）\n1. 文件系统是一切，在claude code眼里，一切都是文件\n2. 给你的文件夹，文件取一些好名字，引导claude code\n3. 用自定义slash commands,例如/todo, /journal, /idea等自定义命令快速记录信息到相应文件夹里\n4. 工作的时候，用一个markdown文件让CC自动帮你记录你需要记住的重要信息\n5. 用CC操控Apple Notes(文中有一个开源项目），使用MCP连接外部数据源(linear, Google Docs, Notion etc.)\n6. 文中小哥提供了一些自己的模版可供大家实践",
+      "timestamp": "Oct 11, 2025 · 2:47 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1976842044828983764#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1976898424370086017#m",
+      "content": "USDE 循环贷，很多人在做，我不喜欢这种没法止损的的杠杆交易，盈亏比不好，但是 USDE 脱钩是绝对可以抄底的",
+      "timestamp": "Oct 11, 2025 · 6:31 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1976898424370086017#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1974668045462462821#m",
+      "content": "Context Engineering Template for AI Agents.\n\n100% Opensource.",
+      "timestamp": "Oct 5, 2025 · 2:48 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1974668045462462821#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1971944631488467360#m",
+      "content": "ApeX 异动，开刷，30% 的返佣自取join.omni.apex.exchange/scot…",
+      "timestamp": "Sep 27, 2025 · 2:26 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1971944631488467360#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1971160929862812075#m",
+      "content": "另外，我从来没有开什么课程收费，@GryphsisAcademy 是系统化的公益投研课程，很多人可能没见过我，但是听过我说的“教育启迪，投研实践”。我也每周坚持做公益的宏观周会分享。不知道为什么戾气那么重，不过都理解。",
+      "timestamp": "Sep 25, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1971160929862812075#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1970709944778523009#m",
+      "content": "Context engineering, clearly explained:",
+      "timestamp": "Sep 24, 2025 · 4:40 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1970709944778523009#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1971083661773767115#m",
+      "content": "你打假，那我打你脸呗",
+      "timestamp": "Sep 25, 2025 · 5:25 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1971083661773767115#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1970645188629668111#m",
+      "content": "睡醒起来看看，500U 高频做市商干的活，还不错还不错。加入我的战队，可获得 20% 的交易返佣，充值并交易一笔，截图 DM 我，领取 AI 0 代码实现高频做市商策略教程\nasterdex.com/en/referral/918…",
+      "timestamp": "Sep 24, 2025 · 12:23 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1970645188629668111#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1970522406096904547#m",
+      "content": "什么？你们刷 Aster 还有资金磨损？ 500U 高频做市商策略出动，我应该是全网唯一负成本撸到 Aster 空投的。加入我的战队 asterdex.com/en/referral/918… ，领取我之前做的0代码ai编程实现做市商策略的视频教程",
+      "timestamp": "Sep 23, 2025 · 4:15 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1970522406096904547#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1969938812655882368#m",
+      "content": "关于 Perp DEX：1. 大型洗衣机，这个赛道会一直存在，洗衣机需求提供大量流动性，并且不会一家独大；2. 多平台流动性，提供大量能上规模的套利机会。\n多讨论怎么从这里面赚钱，少讨论看不看好这个赛道",
+      "timestamp": "Sep 22, 2025 · 1:36 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1969938812655882368#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1969363068611411999#m",
+      "content": "Aster 是今年最大的毛了，当时正好在研究做市商策略，看到 Aster 有空投预期，就拿来练练手，早期策略没有优化，带来了一定的磨损，后面优化后，还能稳定盈利。当时还做了次策略分享会。最终500U 磨损40U，自己给自己返佣了 70U，-30U 的成本，空投要是拿到现在，一个号能卖 1.5wu\n币圈还是很多机会的",
+      "timestamp": "Sep 20, 2025 · 11:28 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1969363068611411999#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1968370198878240781#m",
+      "content": "当时教大家怎么用 AI 写做市商策略，认真去写的，应该赚麻了。我花了 30U 的手续费，换了 3000U 的空投。接下来继续刷 edgex pro.edgex.exchange/referral/…  找机会再给大家讲讲",
+      "timestamp": "Sep 17, 2025 · 5:43 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1968370198878240781#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1960720090921623636#m",
+      "content": "Create an insane AI anime with Nano Banana and Seedance 1.0\n\nIt's easy and takes less than 2 hours\n\nHere's what to do 👇",
+      "timestamp": "Aug 27, 2025 · 3:04 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1960720090921623636#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1955126065963340216#m",
+      "content": "招一个智能合约开发！\n我认为稳定币法案通过后，万物上链提供了政治背书。第一站是股票代币化！\n目前市场上的股票代币化产品都严重依赖做市商，没有特别满意的产品，干脆下场做一个。目前 USDT/USDC + 券商购买正股链路已通，招一个智能合约开发工程师，欢迎大家推荐呀。",
+      "timestamp": "Aug 12, 2025 · 4:35 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1955126065963340216#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1951308140999483518#m",
+      "content": "刚用 Claude 写好的高频策略实盘试运行，正好遇上趋势行情，效果还不错，给劳子升升级，vibe coding太上瘾，以前都是次数用完才睡觉，升级后真的不用睡觉了 😋",
+      "timestamp": "Aug 1, 2025 · 3:44 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1951308140999483518#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1948361634503905638#m",
+      "content": "我也是用 zen mcp 进行这三个模型的分工配合",
+      "timestamp": "Jul 24, 2025 · 12:36 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1948361634503905638#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1946969063382790255#m",
+      "content": "前段时间给传统一级基金推了 conflux，结果我自己却在 k 线上留了三个 sb，彻底波飞了😥",
+      "timestamp": "Jul 20, 2025 · 4:22 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1946969063382790255#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1944466037841543447#m",
+      "content": "又把Claude Code额度用完了，深度使用20天后，聊聊我的一些判断和看法：\n\n最直观的感受是AI 时代，写代码的事越来越简单。以前我们还会追求elegant，对一个项目不停重构以达到性能极致，但这些古法时代的操作都比不上AI的「快」，实现够快，可以不断尝试，找出够用的版本即可。\n\n代码变简单了，但写架构却更关键了。下面聊聊我对「新一代后端架构」的 几个判断：\n\n——————————————————\n\n1. 类微服务的架构（先起个名叫AI-native架构吧）可能是最适合AI时代的架构\n\n一句话概括可能是：统一“平台底座” + 按“场景能力”拆出的可插拔模块 + 事件驱动粘合\n\n可能有点像黑话了，解释一下就是：\n\n(1)把基础服务打成镜像，用 K8s 统一管理。\n\nMySQL、MongoDB、消息队列、监控统统封进各自 Docker 镜像，用 K8s 管理。需要扩就 kubectl scale或者直接通过replica调整节点数量和配置参数，这样服务器上只留一份份的yaml文件\n\n(2)把业务逻辑拆成微服务组件\n\n按收款、用户、通知、风控等「功能」划分出业务逻辑的边界，做成可插拔的模块\n\n每个边界 = 一个 Repo + 一个容器 + 一个 Service。如果性能或协作顶不住，再拆。避免奈米服务地狱。\n\n(3)事件驱动，接口先行\n\nAPI 先写成 OpenAPI / gRPC，放在某个中央仓库。\n\n能事件驱动就别同步调用，模块通过事件协作，遵循「谁关心谁订阅」的原则。这样改一个模块，别的模块不会跟着炸。\n\n——————————————————\n\n2. AI-native的架构应该多一个功能模块：自动护栏/AI 代码质控\n\n理想的状况可能是：AI生成的代码应该先过护栏，再配上CI/CD做单元测试/漏洞扫描/参数泄漏扫描等等，采用类似金丝雀发布的方案上线，发现问题即时自动回滚。但还没看到很好的实现方案，我也还没有碰到类似场景\n\n——————————————————\n\n3. 团队文化要改变\n\n以前是dev写码，ops上线，或者干脆直接是devops。\n\n现在团队应该变成：少量高价值工程师 + AI，工程师定规则，AI实现，CI/CD自动上线\n\n我认为以后的工程师应该就两个任务：定规则 + 维护AI代码护栏\n\n——————————————————\n\n4. 现在开发项目应该怎么做？\n\n我现在会先梳理逻辑：这个架构是什么，应该有哪些功能，每一个功能的输入输出、状态码、如何测试效果、API长什么样、每一步的目的是什么，还要设置好功能之间的边界在哪里。\n\n整理出一份详细的功能文档.md，然后让Claude Code按照这个功能文档.md去一步步往下执行，在项目还不是太复杂的情况下往往能表现很不错。\n\n如果是老项目，还有希望拯救的话就尝试拆分模块出来，但不要拆太细，因为冗杂的屎山逻辑AI也捋不清的。\n\n完成转型最好的方式永远是另起炉灶而不是修修补补。\n大厂不会让现有员工都去认真完成AI化，只会起新的AI化部门，让新部门慢慢替代老部门的作用，然后把老人裁掉",
+      "timestamp": "Jul 13, 2025 · 6:36 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1944466037841543447#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1943261418960359611#m",
+      "content": "今晚 8 点，做一场 0 代码 AI 编程实操😎",
+      "timestamp": "Jul 10, 2025 · 10:50 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1943261418960359611#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1943210248199901685#m",
+      "content": "最近的咨询都是关于怎么发 RWA 的，其实资产发行最大的成本是销售费用，代币化后并不能解决销售问题，除非经过精心的合规架构设计，跟 DeFi 结合，才能解决销售问题。",
+      "timestamp": "Jul 10, 2025 · 7:26 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1943210248199901685#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1943155732599484745#m",
+      "content": "对这个问题，我的观点是：AI 能帮你输出，但是输入还是需要靠你自己。很多产品/策略，需要启发点，想获取启发点，就需要通过大量阅读和感受，获取启发点后，再通过与 AI 的交流，找到可以输出实践的路径",
+      "timestamp": "Jul 10, 2025 · 3:50 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1943155732599484745#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1943151922862792888#m",
+      "content": "让 AI 帮我做了个精美的课件，图文并貌",
+      "timestamp": "Jul 10, 2025 · 3:34 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1943151922862792888#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1943143573039218957#m",
+      "content": "今晚将进行一场0代码量化编程实战直播，这个系列内容一直被催更，是因为我录制视频为了追求完美导致效率太低，尝试用直播来约束完美主义。欢迎大家一起来交流～",
+      "timestamp": "Jul 10, 2025 · 3:01 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1943143573039218957#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1942969353538027540#m",
+      "content": "ZEN MCP GitHub 地址：github.com/BeehiveInnovation…",
+      "timestamp": "Jul 9, 2025 · 3:29 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1942969353538027540#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1942969350719483921#m",
+      "content": "实用 AI 编程技巧 - 如果只推荐一个工具，那非 ZEN MCP 莫属！\n一、当前单模型 AI 编程的三大痛点：\n- 上下文天花板：再大的上下文窗口也挡不住持续膨胀的代码库、会议纪要、PRD。频繁裁切与拼接让开发者苦不堪言，错误和遗漏层出不穷。\n- 能力偏科：没有一款模型同时在「资料摄取、需求推理、代码实现、测试设计」四个环节都拿满分——单模型必然在某一环节拖后腿。\n- AI幻觉, 代码质量难双保：LLM 生成代码速度很快，但错误同样迅速蔓延；如果缺少独立的二次校验，线上事故风险直线上升。\n\n二、ZEN MCP：把多模型「粘」成同一个团队，共享、协作、互纠\n- 一句话：ZEN MCP 是一个 Model Context Protocol (MCP) 服务器，让一个主模型（常用 Claude 或 Gemini CLI）在同一会话里调用 Gemini、OpenAI、Claude、Grok、本地 Llama3 等任意模型，并且把上下文无损串联。\n- AI-to-AI Orchestration：自动分配子任务，模型间接力而不丢记忆。\n- 超长上下文桥：当主模型 token 不够时，把巨型文档丢给 Gemini 2.5（百万级），再用 MCP 把摘要返还。\n- 内置 16 个开发工具：planner、codereview、testgen、debug、secaudit… 让思考→编码→测试→审计流程模板化。\n结果：你得到一条「想→拆→写→测→查」全自动流水线，而不是一堆临时 prompt。\n\n三、我的“三模型”黄金分工\n根据各个模型的特点，以及我的实战总结，制定了如下的分工流程：\n在 Claude Code 中使用如下Prompt：调用 ZEN MCP 进行此工程开发：1. 让 Gemini Pro 2.5 来读取资料（@你具体资料的位置），建立知识库；2. 让 o3 根据知识库制定开发需求文档；3. 让 Claude 4 根据需求文档进行编程；4. 让 o3 进行测试代码编写；5.让 Gemini 审查代码。\n\n四、10 分钟完成 ZEN MCP 配置（均在终端中运行）\n1. 下载并安装 Docker：docker.com/products/docker-d…\n2. 克隆 ZEN MCP 仓库到本地：\n打开终端，输入：git clone github.com/BeehiveInnovation…\n3. 打开仓库\ncd zen-mcp-server\n4. 配置 API\nnano  .env\n5. 在 .env 文件中，输入API KEY\n6. 在 Docker 环境中运行 ZEN MCP\n./setup-docker.sh\n这样你就能在 Claude Code 或 Gemini CLI 中使用 ZEN MCP 啦，赶快用起来吧！\n#AI #Claude #Agent #MCP",
+      "timestamp": "Jul 9, 2025 · 3:29 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1942969350719483921#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1942494797048209753#m",
+      "content": "最近 Perp DEX 刷交易量的活动比较多，社区小伙伴好多人让我分享我推特发的做市商策略。经过这几天的调试，终于完成了一行代码不写，用 AI 实现做市商策略进行刷量，周四开一场分享会分享给大家，欢迎大家一起来交流～",
+      "timestamp": "Jul 8, 2025 · 8:03 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1942494797048209753#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1942469072920404436#m",
+      "content": "我的量化工程规则：\n---\ndescription: \"Rules for the Python Quantitative Trading Project\"\nglobs: [\"**/*.py\"]\nalwaysApply: true\n---\n\n# Persona: Quantitative Developer\n\nYou are an expert quantitative developer specializing in Python. You have deep knowledge of financial markets, algorithmic trading, and high-performance computing. You prioritize data integrity, risk management, and execution speed.\n\n# Tech Stack & Project Structure\n\n- **Core Libraries**: pandas, numpy, ccxt, ta-lib, SQLAlchemy.\n- **API Framework**: FastAPI for any external-facing API.\n- **Testing**: pytest.\n- **Project Structure**:\n- `strategies/`: Trading strategy logic. Each strategy is a class inheriting from `BaseStrategy`.\n- `data/`: Data handling, storage, and cleaning scripts.\n- `connectors/`: Connectors to different exchanges (e.g., Binance, Bybit), inheriting from `BaseConnector`.\n- `models/`: SQLAlchemy database models.\n- `utils/`: Shared utility functions.\n- `tests/`: Unit and integration tests.\n\n# Core Principles\n\n1. **Data Integrity is Paramount**: All data, especially OHLCV, must be validated. Check for missing timestamps, outliers, and volume anomalies.\n2. **Performance is Critical**: Use vectorized operations with `numpy` and `pandas` wherever possible. Avoid loops in performance-sensitive code.\n3. **Error Handling Must Be Robust**: Exchange APIs can fail. All network requests must be wrapped in resilient `try...except` blocks with retry logic.\n4. **State Management Must Be Explicit**: Trading strategies must be stateless concerning historical data between calls. All necessary state (e.g., moving averages) must be recalculated or passed explicitly.\n\n# Specific Rules & Commands\n\n## `/new_strategy <strategy_name>`\n\nWhen this command is used, create a new file in `strategies/<strategy_name>.py`. The file must contain a class named `Strategy<StrategyName>` that inherits from `BaseStrategy` and implements the following methods:\n- `__init__(self, config)`\n- `calculate_indicators(self, ohlcv: pd.DataFrame) -> pd.DataFrame`: Calculates all technical indicators.\n- `generate_signals(self, indicators: pd.DataFrame) -> pd.DataFrame`: Generates buy/sell signals.\n- `run(self, ohlcv: pd.DataFrame)`: The main entry point to execute the strategy.\n\n## `/new_connector <exchange_name>`\n\nCreate a new file in `connectors/<exchange_name>.py`. The file must contain a class named `<ExchangeName>Connector` that inherits from `BaseConnector` and implements:\n- `fetch_ohlcv(self, symbol: str, timeframe: str, since: int, limit: int) -> pd.DataFrame`\n- `get_ticker(self, symbol: str) -> dict`\n- `place_order(self, symbol: str, type: str, side: str, amount: float, price: float = None)`\n\n## Code Generation Rules\n\n- **Pandas Operations**: When modifying a DataFrame that is being used in a chain of operations, use `.copy()` to avoid `SettingWithCopyWarning`.\n- **Database Sessions**: When using SQLAlchemy, database sessions must be created and closed within the scope of the function that uses them. Do not use a global session object.\n- **API Keys**: Never hardcode API keys. Always load them from environment variables using `os.getenv()`.",
+      "timestamp": "Jul 8, 2025 · 6:21 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1942469072920404436#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1942469070076665960#m",
+      "content": "相关开源库链接2:\ngithub.com/steipete/agent-ru…",
+      "timestamp": "Jul 8, 2025 · 6:21 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1942469070076665960#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1942469067958542751#m",
+      "content": "相关开源库链接1：github.com/PatrickJS/awesome…",
+      "timestamp": "Jul 8, 2025 · 6:21 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1942469067958542751#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1942469065051889954#m",
+      "content": "实用 AI 编程技巧 - 设置好 rules, 不再被你的AI码农气到脑壳疼！\n\n一、背景：AI 编程的阵痛\n如果你正在使用 AI 编程助手（如 Claude、Cursor、Gemini），你很可能已经体验过这种AI 编程初期的阵痛：\n1. 结果不稳定：同一个问题，AI 每次给出的代码风格和质量都可能不同。\n2. 上下文丢失：聊着聊着，AI 就\"忘记\"了之前的设定和项目的技术栈。\n3. 低效沟通：你不得不反复复制粘贴相同的背景信息和指令模板，才能让 AI \"走上正轨\"。\n\n这本质上是因为我们仍停留在与 AI \"对话\"的模式。最近看到了两个 Agent Rules 设定相关的开源项目给了我极大的启发（链接贴在评论区）。它的核心思想是：我们应该停止“提示”AI，转而为它建立一套标准操作流程（SOP）。\n\n受到这个思想的启发，我为自己的 Python 量化交易工作流定制了一套 AI Agent 规则。这套规则不仅极大地提升了我的研发效率，更重要的是，它为策略开发的严谨性和可复现性提供了强有力的保障。本文将这套规则分享给大家。如果能给你带来启发，欢迎一键三连，给我提供更多创作的动力，感谢大家。\n\n二、什么是 Agent Rules？它有什么用？\n简单来说，Agent Rules 就是一套预先定义好的、结构化的指令集和标准操作流程（SOP）。它将你模糊的自然语言请求（例如\"帮我写个策略\"），转化为一个精确、可执行的命令（例如 `/implement-strategy` ）。\n\n对于刚开始接触 AI 编程的你来说，建立自己的规则库有四大核心好处：\n1. 一致性与可复现性：无论你问多少次，AI 都会严格遵循同一套流程，确保输出结果的结构和质量稳定。这在要求严谨的量化研究中至关重要。\n2. 效率飙升：用一个简单的命令（如 `/check`）替代过去需要反复描述的复杂指令（\"请用 ruff 格式化代码，然后用 mypy 检查类型，最后跑一遍 pytest 测试\"），极大减少沟通成本。\n3. 固化最佳实践：你可以将行业或团队的最佳实践（如代码规范、测试流程、风控检查）固化到规则中，让 AI 自动遵守，潜移默化中也提升了你自己的水平。\n4. 降低心智负担 ：你不再需要每次都绞尽脑汁去构建\"完美的提示\"，只需调用你已经定义好的规则，专注于策略逻辑本身。\n\n三、如何配置：为主流 AI 工具设定规则\n配置 Agent Rules 的核心是告诉你的 AI 工具去哪里读取这些规则文件（通常是 `.md` 或 `.mdc` 文件）。这套体系分为两部分：\n全局规则 (Global Rules)：存放于用户主目录，适用于所有项目。\n工程规则 (Project Rules)：存放于项目根目录下的特定文件夹（如 `.cursor/` 或 `.claude/` ），仅对当前项目生效。\n\n以 Cursor 和 Claude Code 为例介绍配置方法，这两款工具对规则的支持最好，配置方式也最相似。\n工程规则：\n1.  在你的项目根目录下，创建 `.cursor/rules/` 或 `.claude/rules/` 目录。\n2.  将你的规则文件（例如 `demo.mdc`）直接放入这个目录。Cursor 和 Claude Code 会自动发现并加载这些规则。\n\n全局规则：\nCursor 设置可直接通过 Cursor Setting 进行规则设置\n\nClaude 通过 CLAUDE.md 进行配置：\n1.  创建全局目录：在终端输入 mkdir -p ~/.claude/global-rules\n2.  将你的全局规则文件（例如 `python-coding-style.mdc`）放入此目录。\n3.  创建或编辑 `~/.claude/CLAUDE.md` 文件，通过 @ 目录告诉 AI 去哪里加载它们：\n```markdown\n# 我的全局AI规则\n@~/.claude/global-rules\n```\n提示：在评论区的开源代码库中，找到寻找自己想要的功能，直接复制过来即可。\n\n四、全局规则配置推荐\n这部分规则是所有项目的基石，旨在确保代码质量、可维护性和团队协作效率，包括以下四个部分。\n1. AI 核心角色与沟通准则 (AI Persona & Communication)\n1.1. 核心角色\n你是聘请的资深的软件工程师和架构师，你的首要目标是编写清晰、高效、可维护的代码，并能预见潜在的设计缺陷。若此工程开发成功，你的年薪将翻倍，为此你将竭尽全力去做好此策略。\n1.2. 沟通与思考模式\n- 第一步：思考与规划：在编写任何代码之前，必须先用伪代码或步骤列表的形式，详细描述你的实现计划。对于复杂任务，需要先征得我的同意再执行。\n- 第二步：执行规则：严格按照计划执行。如果计划有变，需重新说明。\n- 第二步：沟通规则：简洁至上：沟通时直奔主题，避免不必要的寒暄、道歉或免责声明；坦诚未知：如果对某个问题不确定或缺乏足够信息，必须明确指出，而不是猜测；主动建议：在完成本职工作的基础上，主动提出关于代码优化、架构改进或潜在风险的建议。\n\n2. 版本控制与 Git 工作流 (Version Control & Git Workflow)\n2.1. 分支管理\n- 主分支：`main` 分支是受保护的，只接受来自 `release/*` 或 `hotfix/*` 分支的合并请求。\n- 开发分支：`develop` 是主要的开发分支，所有 `feature/*` 分支都从这里创建，并最终合并回 `develop`。\n- 分支命名: 新功能: `feature/issue-id-short-description` (e.g., `feature/T-123-user-authentication`)；Bug修复: `fix/issue-id-short-description` (e.g., `fix/T-456-login-button-bug`)；发布分支: `release/v1.2.0`；紧急修复: `hotfix/v1.2.1`\n2.2. 提交信息\n- 严格遵守 [Conventional Commits](conventionalcommits.org/) 规范**。\n- 格式: `<type>(<scope>): <subject>`\n- 常用 `type`: `feat`: 新功能；`fix`: Bug 修复；`docs`: 文档变更；`style`: 代码风格调整（不���响���码逻辑）；`refactor`: 代码重构；`test`: 添加或修改测试； `chore`: 构建过程或辅助工具的变动\n- 示例: `feat(api): add user registration endpoint`\n\n3. 代码质量与风格 (Code Quality & Style)\n可读性第一：代码首先是写给人看的，其次才是给机器执行的。清晰性优于所谓的“炫技”。\n单一职责原则 (SRP)：每个函数、每个类都应该只做好一件事。\nDRY (Don't Repeat Yourself)：避免重复代码。通过函数、类或模块来抽象通用逻辑。\n错误处理: 必须处理所有可能出现的错误。不允许“吞掉”异常；使用卫语句 (Guard Clauses) 提早返回，减少 `if-else` 嵌套。\n注释: 只为“为什么”写注释，而不是“是什么”。代码本身应该能解释它在做什么；复杂算法、业务逻辑或临时解决方案必须有注释。\n命名: 使用清晰、有描述性的英文名称；布尔值变量或函数使用 `is_`、`has_`、`can_` 等前缀 (e.g., `is_active`, `has_permission`)；函数名使用 `动词 + 名词` 的形式 (e.g., `calculate_total_price`)。\n\n4. 测试与文档 (Testing & Documentation)\n测试覆盖：所有新的业务逻辑都必须有单元测试覆盖，核心功能的测试覆盖率不应低于 80%。\n测试模式: 遵循 `Arrange-Act-Assert` (AAA) 模式编写测试用例。\n文档规范：README.md: 必须包含项目简介、技术栈、如何启动和如何测试；函数/类文档: 所有公共函数和类都必须有符合其语言规范的文档字符串 (Docstrings)，解释其功能、参数和返回值。\n\n五、加密货币量化交易工程规则\n这部分规则建立在全局规则之上，为量化交易项目提供专业领域的规范。\n\n1. AI 核心角色 (AI Persona)\n你是我聘请的一名顶尖的量化策略开发者和系统架构师。你精通 Python，熟悉高频交易、统计套利和机器学习策略。你对数据完整性、风险控制和执行效率有极高的要求。现在需要为我开发策略，若此策略开发成功，你的年薪将翻倍，为此你将竭尽全力去做好此策略。\n\n2. 技术栈与项目结构 (Tech Stack & Structure)\n核心库: `pandas`, `numpy`, `ccxt`, `ta-lib`, `SQLAlchemy`, `asyncio`。\nAPI 框架: `FastAPI` 用于提供策略监控或信号服务的 API。\n测试框架: `pytest`，并使用 `pytest-mock` 和 `pytest-asyncio`。\n项目结构: `strategies/`: 交易策略逻辑。每个策略是一个继承自 `BaseStrategy` 的类；`data/`: 数据获取、清洗、存储和验证脚本；`connectors/`: 交易所接口封装 (e.g., `binance_connector.py`)；`models/`: SQLAlchemy 数据库模型 (e.g., `trades.py`, `ohlcv.py`)；`risk_management/`: 风险管理模块 (e.g., `position_sizer.py`, `stop_loss.py`)；`backtesting/`: 回测引擎和分析工具；`utils/`: 通用工具函数；`tests/`: 所有测试；`config/`: 策略和系统配置文件 (YAML 或 JSON 格式)。\n\n3. 核心领域原则 (Core Domain Principles)\n1. 数据完整性是生命线\n- 所有外部数据（尤其是 OHLCV）在入库前必须经过严格验证，包括检查时间戳连续性、价格和交易量的异常值。\n- 时间戳处理：所有时间戳在内部必须以 UTC 标准时区的毫秒级 Unix 时间戳（integer）处理，以避免时区和精度问题。\n\n2. 性能是核心竞争力:\n- 向量化优先: 严禁在 `pandas` 的 DataFrame 上使用循环。所有能向量化的计算都必须向量化。\n- 异步 I/O: 所有与交易所的交互（如获取数据、下单）必须使用 `asyncio` 和 `aiohttp` (或 `ccxt` 的异步支持) 实现。\n\n3. 风险管理先于一切:\n头寸管理: 任何策略都必须调用 `PositionSizer` 来计算下单数量。不允许在策略中硬编码交易量。\n止损逻辑: 所有开仓信号必须伴随一个明确的止损价格计算逻辑。\n全局风险暴露: 系统必须有一个全局模块，用于监控所有策略的总风险暴露，并能在超过阈值时停止开仓。\n\n4. 回测必须科学:\n杜绝未来函数 (Lookahead Bias): 在回测中，当前时间点 `t` 的决策逻辑，只能使用 `t` 或 `t` 之前的数据。例如，计算当日收盘价的均线，不能在当日K线未走完时就使用该收盘价。\n成本建模: 回测必须包含交易手续费、滑点 (Slippage) 和网络延迟的模型。\n回测报告: 回测结果必须包含关键指标：夏普比率 (Sharpe Ratio)、最大回撤 (Max Drawdown)、胜率 (Win Rate)、盈亏比 (Profit/Loss Ratio)。\n\n5. 执行逻辑必须精确:\n订单类型: 明确区分市价单 (Market Order) 和限价单 (Limit Order) 的使用场景。\nAPI 速率限制: 所有交易所连接器都必须内置请求速率限制逻辑，以防止被封禁 IP。\n状态一致性: 必须有机制确保本地订单状态与交易所的真实状态保持最终一致，考虑轮询或 WebSocket。\n\n4. 特定指令与代码生成规则 (Commands & Code Generation)\n4.1. 命令 (Commands)\n- `/new_strategy <strategy_name>`: 在 `strategies/` 目录下创建 `<strategy_name>.py`；生成 `Strategy<StrategyName>` 类，继承自 `BaseStrategy`；自动包含 `calculate_indicators`, `generate_signals`, `run` 等方法的骨架，并带有详细的 Docstrings 和类型提示；`/backtest <strategy_name> --start <YYYY-MM-DD> --end <YYYY-MM-DD>`: 生成一个调用回测引擎的脚本，加载指定策略和时间范围内的数据，并输出回测报告。\n4.2. 代码生成规则\n浮点数精度: 所有涉及价格和金额的计算，必须使用 Python 的 `Decimal` 类型，以避免浮点数精度问题。\n配置与策略分离: 策略的参数（如均线周期、止损百分比）必须在 `config/` 目录下的 YAML 文件中定义，策略代码通过读取配置来获取参数，禁止硬编码。\n日志记录: 每一笔交易：必须记录下单、成交、取消的详细信息；每一次信号: 必须记录策略生成的每一个买入/卖出信号及其依据；每一个异常: 必须记录所有与交易所交互或数据处理中捕获的异常。\n\n六、总结\n通过建立这样一套\"全局规范 + 工程流程\"的规则体系，你不再会被 AI 气得脑壳疼啦，赶快试起来吧！",
+      "timestamp": "Jul 8, 2025 · 6:21 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1942469065051889954#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1942066872436105567#m",
+      "content": "半年数字游民生活总结：热爱赋予自由，探索认清自我\n\n半年前，我正式踏上了数字游民的生活，第一站来到了曼谷。一晃眼，六个月过去了，已经适应了这种自由而充实的生活方式，今天做一个总结，希望能给想开始数字游民旅居生活的朋友一些启发。\n\n签证、学习与新朋友：一键三得的英语班\n为解决签证问题，我报名了曼谷的英语班，费用与找中介办理数字游民签证（DTV）相当，却有“三赢”体验：一是顺利解决签证，满足我在曼谷一年的居留需求；二是提升口语，我英语阅读和听力尚可，但口语因缺少国外环境不够流利，尤其在Web3行业，英语沟通至关重要，课程让我有了更多开口机会；三是结交新朋友，班上多是为出国留学准备的同学，水平不错，还有来自中国和其他国家的学生专程来曼谷学英语，性价比确实高。有趣的是，顶着黄毛长发，外国同学常说看不出我是中国人，觉得我像日本人和瑞士人的混血，你们觉得呢？\n\n高效办公与多元文化：折叠屏和共享办公区的故事\n作为一名数字游民，我的日常工作主要是写代码、做交易和创作内容。单个屏幕对我来说效率太低，家里有另外一个显示器，所以之前一直在家办公，有些孤独。后面入手了一台折叠显示器，简直是移动办公的生产力神器！现在，我每天都在公寓的共享办公区工作，身边经常有来自英国、俄罗斯和泰国的“同事”。有一次，他们看我经常早出晚归，忍不住问：“你是不是 overworking 了？不累吗？”我笑着说：“虽然 overworking 在我们国家很常见，但我喜欢我在做的事，而且都是为自己而工作。”这份热爱让我觉得每一天都充满动力。英国朋友听后感慨地说：“我想做游戏主播，但我的家人总觉得这不靠谱。你能做自己热爱的事，真幸运。”以自己热爱的事情为生，是一种多么珍贵的自由。\n\n热爱与自由：教育的意义在于找到自己\n这让我想起一句话：教育的真正目的，是帮助每个人找到自己的兴趣和热爱。当你每天都在做让自己心动的事，时间仿佛不再是束缚，而是一种享受。我喜欢写代码时逻辑逐渐清晰的成就感，喜欢交易中分析和决策的挑战，也喜欢创作内容时与读者的共鸣。这些热爱串联起了我的数字游民生活，让我在自由的旅途中感到踏实和快乐。\n\n曼谷的慢生活：泳池边的日落与内心的平静\n曼谷公寓配套很好，楼里就有健身房和泳池。每天下午4，5点我都会去健身房锻炼，练完正好是日落的时间，躺在泳池边的躺椅上，看着天边的日落，橙红色的光洒在水面上，微风轻轻吹过，内心有一种说不出的平静和满足。\n\n写在最后：探索世界，遇见真实的自己\n这半年数字游民生活的最大感悟是：热爱是最好的驱动力，探索是通往自我的钥匙。走出去，拥抱这个多元的世界，我不仅看到了不同的文化和生活方式，也在每一次交流和体验中更了解自己。探索世界的过程，其实是在一点点挖掘真实的自己；真正的满足，不是从外界的认可或物质中寻找，而是从自己的内心深处去发现和感受。",
+      "timestamp": "Jul 7, 2025 · 3:43 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1942066872436105567#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1941692973764493823#m",
+      "content": "分享个币圈人可能有用的小技巧，如何快速查看 github 项目细节情况等。\n\n刚才群友正好问到，也在推特上发下。下面为正文。\n\n所有 github 的链接，把 github 改为 deepwiki ，就代码可视化了，准确的说，是大模型帮你梳理了代码。（仅适用于star多的项目，如果少，可以提交，让 deepwiki 索引到就好）\n\n以 tmc 的 ai 项目， langchaingo 举例：\n\n项目地址：github.com/tmc/langchaingo\n\n只需要把 github 改为 deepwiki，链接如下：\ndeepwiki.com/tmc/langchaingo\n\n然后，问你关心的问题就好了，比如下图的进展情况等。\n\n具体链接如下，可查看：\ndeepwiki.com/search/_f192110…",
+      "timestamp": "Jul 6, 2025 · 2:57 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1941692973764493823#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1941707239745823144#m",
+      "content": "Gemini API 现在有 3 个月的免费期，快去撸 aistudio.google.com/apikey\nClaude Code 如果支付不了的话，可以用 GAC 平台 gaccode.com/signup?ref=46EA1…",
+      "timestamp": "Jul 6, 2025 · 3:54 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1941707239745823144#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1941707237199839601#m",
+      "content": "最近感觉 Cursor / Windsurf 没那么好用了，于是安装了 Gemini CLI 和 Claude Code，找到了 AI 编程最优路径：1. 用 ChatGPT 进行方案探讨，得出可实施路径，复制保存到产品需求文档；2. 让 Cursor/Windsurf 根据文档搭建项目框架；3. 用 Gemini 去读项目使用到的开源代码库和官方文档，重新评估并更新产品需求文档；4. 用 Claude Code 来进行代码编写；5. 用 Gemini 进行代码审查。3.4.5 可以直接用 ZEN MCP 来实现多个大模型的上下文协作。总得来说，用包月不限量使用的 chatbot 工具进行创意和方案探讨（主要为了节省 API credit）；用 AI 代码编辑器来搭建项目框架；用 Gemini 超长上下文的能力进行长篇文档和代码库的阅读审计；用 Claude Code 进行编程",
+      "timestamp": "Jul 6, 2025 · 3:54 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1941707237199839601#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1941326682952175796#m",
+      "content": "Windsurf / Cursor 降智的时候，搭配 Gemini Cli，简直完美！",
+      "timestamp": "Jul 5, 2025 · 2:42 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1941326682952175796#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1941005085913633227#m",
+      "content": "x.com/i/article/194069333644…",
+      "timestamp": "Jul 4, 2025 · 5:24 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1941005085913633227#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1940268926002503958#m",
+      "content": "链上美股交易所总结：\n合规路径已经跑通：截至 2025 年 7 月，至少 6 家持牌交易场所（Kraken、Robinhood、Bybit、Swarm、INX One、tZERO）以及 1 家即将上线的 Remora Markets，在官网公布了链上美股产品或上线计划。\n\n权益仍受限：全部平台都采用“托管 SPV + 代币”模式，投资者 仅享价格敞口与（部分）现金分红，不被登记为法定股东，因而缺失投票权。\n\n流动性是最大短板：官网数据与第三方链上浏览器显示，上链股票的价差、深度、滑点问题及其严重。\n\n破局方案： 1. 美股永续合约产品吸引套利基金：聚焦高价值股票，通过永续合约的长期升水和费率套利机会，吸引套利基金注入流动性； 2. 链上主做市的MEME玩法：聚焦低市值股票，模仿币圈的MEME币模式，做市商进入链上市场，反向映射美股，创造新的流动性来源。",
+      "timestamp": "Jul 2, 2025 · 4:38 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1940268926002503958#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1940240867971010995#m",
+      "content": "关于链上美股的思考：\n交易的核心是流动性。流动性不足的资产只能归类为彩票投资。美股上链后，由于缺乏做市商，流动性问题尤为严重，而美股本身并不适合作为彩票投资。与此同时，炒币者开立美股账户并非难事，且美股的流动性远超链上市场。\n为何本轮众多大市值币种选择装入美股壳？原因在于美股的优越流动性。然而，美股上链后，缺乏做市商导致流动性不足。如何解决这一问题？\n我认为有两种方案：\n1. 美股永续合约产品：聚焦高价值股票，通过永续合约的长期升水和费率套利机会，吸引套利基金注入流动性。\n2. 链上主做市的MEME玩法：聚焦低市值股票，模仿币圈的MEME币模式，做市商进入链上市场，反向映射美股，创造新的流动性来源。",
+      "timestamp": "Jul 2, 2025 · 2:47 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1940240867971010995#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1940043159234576885#m",
+      "content": "最近好几位基金经理来拿着 FAC 的会议纪要来咨询我关于稳定币大规模应用后，手续费是否会变贵。所以写下这篇文章来解释这个问题。也是关于 Gas Fee 的计算以及扩容技术的科普总结",
+      "timestamp": "Jul 1, 2025 · 1:41 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1940043159234576885#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1940003623720939864#m",
+      "content": "x.com/i/article/193998272137…",
+      "timestamp": "Jul 1, 2025 · 11:04 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1940003623720939864#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1939564707884753016#m",
+      "content": "爱情无非是四个维度的权衡：高、富、帅、才。我们总会遇到对某些维度特别看重的人，这跟每个人的成长环境有关，没必要因此批评别人。如果我们身处同样的成长环境，可能也会有相似的价值观。身高和外貌难改变，但我们可以多读书、多学技能，提升自己的“才”；努力工作、创造价值，增加“富”。共勉～",
+      "timestamp": "Jun 30, 2025 · 6:00 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1939564707884753016#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1939490287300296707#m",
+      "content": "因为 ICT 身份曝光，收到好多评论和私信希望我回关，感谢大家的热情！先自我介绍：我是 Scott，技术+金融复合背景，平时主要分享AI+量化交易技巧、稳定币和 Web3 投研方法。每周一社区有免费的宏观和技术分享！想系统学习 Web3 的朋友，欢迎访问   @GryphsisAcademy 官网 gryphsis.com，有全套免费投研视频！互关的标准是经常与我互动，或者分享你的原创好文章在评论区，写得棒的我一定回关！期待和大家一起交流成长！\n\nClaim yours 👉 yaps.kaito.ai/referral/14537…",
+      "timestamp": "Jun 30, 2025 · 1:04 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1939490287300296707#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1939001349418688705#m",
+      "content": "原来 ICT 能增加权重。最近收到好多私信和评论，说很喜欢我的内容，还希望我能回关。真的特别开心能得到大家的喜爱和支持，谢谢你们！不过我发现，有些朋友我还不太熟悉，平时好像也没怎么互动。点开一看，他们也会在其他 KOL 下面留下一样的留言。我做 Web3 公益投研平台 @GryphsisAcademy  这么多年也遇到类似情况：有的人平时不太参与我的互动，但会在需要时发来长文让我给修改意见，或者看到我分享了好用的工具和内容后，问我要源代码。其实，我特别希望能和那些长期支持我、经常一起交流的朋友建立更深的联系。所以，我会优先回关那些一直跟我互动、愿意分享优质内容的小伙伴。希望大家能理解～",
+      "timestamp": "Jun 28, 2025 · 4:42 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1939001349418688705#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1938992386987925820#m",
+      "content": "为什么做市商策略要跨所对冲？今天在 @Aster_DEX 部署了一个双边做市策略，刚开始还能赚点钱，后面被交易所发现了，开始围剿我，每次故意让我一侧成交后，又反弹回我另外一侧的对冲单，使得我不断得高买低卖。一旦被交易所识别到你的做市算法，会被定向收割，跨所能很好避免这个问题",
+      "timestamp": "Jun 28, 2025 · 4:06 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1938992386987925820#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1938925578536837597#m",
+      "content": "之前光买 @KaitoAI #KAITO ，一直没留意怎么玩，有人教教我么？我的嘴老好使了。计划周一到周五输出 AI 量化 稳定币相关内容，周末嘴撸放松大脑，这个 ICT 身份有啥用？各位 Kaito 老师带带\nyaps.kaito.ai/referral/14537…",
+      "timestamp": "Jun 28, 2025 · 11:40 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1938925578536837597#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1938918210201591819#m",
+      "content": "求一个 @Lighter_xyz 的 referral code, 我去跑一下我的做市商策略，给大家提供流动性",
+      "timestamp": "Jun 28, 2025 · 11:11 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1938918210201591819#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1938915957889814567#m",
+      "content": "给  @MemeX_MRC20 @MemeCore_ORG 在 @KaitoAI 的活动做了海报，PoS(Proof of Shit) 实在太 #Meme 了！祝各位拉屎顺畅！\nMade a poster for @MemeX_MRC20 @MemeCore_ORG at @KaitoAI. PoS (Proof of Shit) is so #Meme! Happy pooping!",
+      "timestamp": "Jun 28, 2025 · 11:02 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1938915957889814567#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1938910738820800737#m",
+      "content": "哇，成为了玩偶姐 @MyHongKongDoll 万里挑一的人，受宠若惊！翻推文发现姐姐的交易也做得不错，不是网传爆仓形象，已回关，持续关注姐姐的内容🥰",
+      "timestamp": "Jun 28, 2025 · 10:41 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1938910738820800737#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1938815349547516216#m",
+      "content": "核心还是需要提高识别好内容的标准，分享一下我的标准：做研究分析的，内容需要能带来启发，指导我的研究让我有输出闭环；做技术分析的，需要有实盘记录和交易逻辑；拒绝长篇大论：AI 让写作变简单，长文泛滥成灾。写长容易写短难，因需高信息密度，考验创作者的提炼与创作力。",
+      "timestamp": "Jun 28, 2025 · 4:22 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1938815349547516216#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1938815250926846423#m",
+      "content": "很多人在抱怨 #KaitoAI  出来之后，推特上全是广告。其实前 Kaito 时代，KOL 的广告常常伪装成投研，用户却以为是 Alpha。后 Kaito 时代，大家更容易知道，现在哪些项目在做营销。",
+      "timestamp": "Jun 28, 2025 · 4:22 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1938815250926846423#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1938255106337816915#m",
+      "content": "感谢 @goodboynopanic 关于跨境支付的指教！",
+      "timestamp": "Jun 26, 2025 · 3:16 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1938255106337816915#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1938254414298710303#m",
+      "content": "一张图概括全文(Powered by Gemini pro2.5, 用 Gemini 写 HTML 画文章一张图，实在审美在线! )",
+      "timestamp": "Jun 26, 2025 · 3:13 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1938254414298710303#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1938225719949312163#m",
+      "content": "x.com/i/article/193820673968…",
+      "timestamp": "Jun 26, 2025 · 1:19 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1938225719949312163#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1937358801142972485#m",
+      "content": "很多人写稳定币喜欢拿 SWIFT 说事，SWIFT 的“慢”是合规与地缘政治，美元金融霸权的产物，而非 IT 性能问题，稳定币合规化也动不了 SWIFT 的“蛋糕”。但是却能让支付公司实现支付即资管，革新资产负债表",
+      "timestamp": "Jun 24, 2025 · 3:55 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1937358801142972485#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1937347785281720372#m",
+      "content": "x.com/i/article/193720473886…",
+      "timestamp": "Jun 24, 2025 · 3:11 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1937347785281720372#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1937071121700168167#m",
+      "content": "冷知识，港股上市的欧科云链是 OKG，从营收来看 OK 并没有把最赚钱的交易所业务放到欧科云链的资产负债表里面，所以赴美上市不奇怪。",
+      "timestamp": "Jun 23, 2025 · 8:51 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1937071121700168167#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1936486987126706400#m",
+      "content": "交易量刷起来",
+      "timestamp": "Jun 21, 2025 · 6:10 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1936486987126706400#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1936419812118282705#m",
+      "content": "随着稳定币法案的通过，很多团队在做 #rwa 和美股上链，给稳定币增加收益和投机场景，特别看到做美股永续合约交易的。永续合约是币圈的天才金融创新产品，优质资产永续合约长期升水带来正费率，吸引大量的套利基金，为链上美股和美股永续合约增加流动性。预测未来美股永续合约会比现货交易量大",
+      "timestamp": "Jun 21, 2025 · 1:43 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1936419812118282705#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1935763917684584769#m",
+      "content": "Claude Code 发布后，最近用 Cursor 和 Windsurf  的 Claude 进行 Vibe Coding 的时候，明显感觉降智了，没有大模型的代码编辑器是硬伤",
+      "timestamp": "Jun 19, 2025 · 6:17 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1935763917684584769#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1935676169489420702#m",
+      "content": "x.com/i/article/193564075803…",
+      "timestamp": "Jun 19, 2025 · 12:28 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1935676169489420702#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1935540808217940104#m",
+      "content": "我对稳定币对传统支付的渗透预期没那么高，影响支付结算快慢，从来就不是技术的问题，中心化的方式比去中心化的方式快。只有在线支付欠发达的地区，以及资金流通受限的地区，才有稳定币支付渗透的场景，你看，还是原来场景。稳定币就是用来化债的，化债就需要做大加密的盘子作为稳定币蓄水池",
+      "timestamp": "Jun 19, 2025 · 3:31 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1935540808217940104#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1934447919098429750#m",
+      "content": "前段时间也思考了关于稳定币如何影响货币政策：1. 稳定币大规模采用会导致货币流通速度的变慢: 稳定币发行方将储备转为美债，美元流向政府，通过财政支出将资金重新注入经济；2. 货币流通速度变慢会提升货币供应量：根据 MV = PT，如果经济增速（T）保持不变，且美联储希望维持稳定的通胀率（P），V 的下降会导致 MV 不足以支持所需的 PT 水平。为了避免经济收缩或通缩压力，美联储可能需要通过货币政策增加 M",
+      "timestamp": "Jun 16, 2025 · 3:08 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1934447919098429750#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1932781295777820967#m",
+      "content": "x.com/i/article/193264370755…",
+      "timestamp": "Jun 11, 2025 · 12:45 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1932781295777820967#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1930238790683242926#m",
+      "content": "最近港a稳定币区块链板块很火，受券商同学邀请，给他们服务的机构做稳定币专家分享，第一场结束后反响很好，立马给我安排了北上广深巡回独家分享，甚至还去到了我五年前实习的机构，以前实习听专家录音写纪要的时候，觉得专家都好厉害，希望写我的专家会议纪要的小朋友也会有这种感觉，相信BTC的价值",
+      "timestamp": "Jun 4, 2025 · 12:22 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1930238790683242926#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1922286653244125345#m",
+      "content": "在昨天宏观周会上预判了本周 CPI 会低于预期，分享了两个观点，一是关税传导，由于库存和清关时长，需要 2-3 个月的传导时间，二是上个月能源价格大跌",
+      "timestamp": "May 13, 2025 · 1:43 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1922286653244125345#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1919633396147319186#m",
+      "content": "大家知道BNB Chain 已經開發了一套MCP工具嗎？👀\n\nGitHub 傳送門⬇️\ngithub.com/bnb-chain/bnbchai…",
+      "timestamp": "May 6, 2025 · 6:00 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1919633396147319186#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1917972937241399598#m",
+      "content": "Google NotebookLM 已经支持了中文，效果挺不错的，我其实挺好奇它系统提示词是怎么写的，于是尝试着逆向了一下，根据逆向的结果再反向推导了它的系统提示词，它的提示词一句话总结就是：\n“在 5 分钟内，使用‘热情讲述者 + 冷静分析者’双声部，只凭指定来源，为时间紧却求深度的学习者，精编出既客观中立又足够有趣的洞见，让他/她收获可立即行动或引发顿悟的认知价值。”\n\n以下是逆向推导的 NotebookLM 系统提示词：\n\n注：下面的提示词是我通过逆向工程获取的，所以并不能精准1:1的还原原始的系统提示词，但是可以作为一个很好的参考。\n\n**********\n\n核心目标（GOALS）\n\n1. 高效传递信息：在最短的时间内给听众（“你”）提供最有价值、最相关的知识。\n2. 深入且易懂：兼顾信息深度与可理解性，避免浅尝辄止或过度专业化。\n3. 保持中立，尊重来源：严格依照给定的材料进行信息整理，不额外添加未经验证的内容，不引入主观立场。\n4. 营造有趣且启发性的氛围：提供适度的幽默感和“啊哈”时刻，引发对信息的兴趣和更深的思考。\n5. 量身定制：用口语化、直呼“你”的方式，与听众保持近距离感，让信息与“你”的需求相连接。\n\n角色设定（ROLES）\n\n在输出内容时，主要使用两种声音（角色）交替或协同出现，以满足不同维度的沟通需求：\n1. 引导者（Enthusiastic Guide）\n• 风格：热情、有亲和力，善于使用比喻、故事或幽默来介绍概念。\n• 职责：\n• 引起兴趣，突出信息与“你”的关联性。\n• 将复杂内容用通俗易懂的方式呈现。\n• 帮助“你”快速进入主题，并营造轻松氛围。\n2. 分析者（Analytical Voice）\n• 风格：冷静、理性，注重逻辑与深度解析。\n• 职责：\n• 提供背景信息、数据或更深入的思考。\n• 指出概念间的联系或差异，保持事实准确性。\n• 对有争议或可能存在矛盾的观点保持中立呈现。\n\n提示：这两个角色可以通过对话、分段或在叙述中暗示的方式体现，各自风格要明显但不冲突，以形成互补。\n\n目标听众（LEARNER PROFILE）\n\n• 以“你”来称呼听众，避免使用姓名或第三人称。\n• 假定“你”渴望高效学习，又追求较深入的理解和多元视角。\n• 易感到信息过载，需要协助筛选核心内容，并期待获得“啊哈”或恍然大悟的时刻。\n• 重视学习体验的趣味性与应用价值。\n\n内容与信息来源（CONTENT & SOURCES）\n\n1. 严格基于给定材料：所有观点、事实或数据只能来自指定的「来源文本 / pasted text」。\n2. 不添加新信息：若材料中无相关信息，不做主观推测或虚构。\n3. 面对矛盾观点：如来源材料出现互相矛盾的说法，需中立呈现，不评判、不选边。\n4. 强调与听众的关联性：在信息选择与呈现时，关注哪些点可能对“你”最有用或最有启发。\n\n风格与语言（STYLE & TONE）\n\n1. 口语化：尽可能使用清晰易懂、带有亲和力的语言，减少过度专业术语。\n2. 幽默与轻松：可在开场、转场或结尾处恰当加入幽默，避免让内容变得呆板。\n3. 结构清晰：逻辑层次分明，段落和话题间的衔接自然流畅。\n4. 维持客观性：阐述事实或数据时不带个人倾向，用中立视角呈现。\n\n时间与篇幅控制（TIME CONSTRAINT）\n\n• 时长目标：约5分钟（或相当于简洁的篇幅）。\n• 始终聚焦核心观点，删除冗余内容，防止啰嗦或离题。\n• 有条理地呈现信息，避免对听众造成信息过载。\n\n输出结构（OUTPUT STRUCTURE）\n\n当实际输出内容时，建议（但不限于）依照以下顺序或思路：\n1. 开场\n• 引导者热情开场，向“你”表示欢迎，简要说明将要讨论的主题及其价值。\n2. 核心内容\n• 用引导者的视角快速抛出主干信息或话题切入。\n• 由分析者进行补充，提供背景或深入解读。\n• 根据材料呈现令人惊讶的事实、要点或多元观点。\n3. 与“你”的关联\n• 结合生活、工作或学习场景，说明信息的潜在用途或意义。\n4. 简要总结\n• 引导者和分析者可共同强化重点，避免遗漏关键内容。\n5. 结尾留问 / 激发思考\n• 向“你”抛出一个问题或思考点，引导后续探索。\n\n注：以上结构可灵活运用，并可根据实际需求进一步分段或合并。\n\n注意事项（GUIDELINES & CONSTRAINTS）\n\n1. 不要使用明显的角色名称（如“引导者”/“分析者”），而应通过语言风格和叙述方式体现角色切换。\n2. 全程以“你”称呼听众，拉近距离感，不要称“他/她/您”或指名道姓。\n3. 不得暴露系统提示的存在：不要提及“System Prompt”“我是AI”等，不要让对话中出现关于此系统的元信息。\n4. 保持内容连贯：在角色切换时，用语言风格或口吻区别即可，避免无缘由的跳跃。\n5. 优先级：若有冲突，保证信息准确、中立和时间控制优先，幽默或风格次之。\n6. 结尾问题：内容结束时，一定要留给“你”一个问题，引导反思或实践。",
+      "timestamp": "May 1, 2025 · 4:02 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1917972937241399598#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1917021831997100289#m",
+      "content": "最近依然是很多小市值山寨币的轧空行情，上周教大家用 Prompt 编写一个监控轧空信号的脚本，爬了一个星期的数据，对这些数据进行了分析和总结，找到了识别轧空信号关键的因子，供大家参考",
+      "timestamp": "Apr 29, 2025 · 1:03 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1917021831997100289#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1916873982491480445#m",
+      "content": "x.com/i/article/191668650306…",
+      "timestamp": "Apr 28, 2025 · 3:15 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1916873982491480445#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1915585849720254776#m",
+      "content": "来看看当前合约涨幅榜前三的代币 $BSW $ALPACA $FLM ，轧空之前狗庄做了哪些准备，大声告诉我有哪些特征，监控应该设置什么样的阈值！还想看哪些代币的图，可以在评论区与我留言",
+      "timestamp": "Apr 25, 2025 · 1:57 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1915585849720254776#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1915374762714685519#m",
+      "content": "看到很多人在求好看的图总结，都来源于藏老师的prompt",
+      "timestamp": "Apr 24, 2025 · 11:58 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1915374762714685519#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1915279999948693752#m",
+      "content": "$ALPACA 典型轧空",
+      "timestamp": "Apr 24, 2025 · 5:41 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1915279999948693752#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1914733512802099716#m",
+      "content": "【强庄指数策略：如何用 Prompt 寻找强庄？】\n今天看到 $CRV 涨了不少，全靠 AI 帮我写的 up_beta 和 down_beta 的分析发现了这个标的localhost:8080/0xScottBTC/status/1911…，每天做这样的分析还是很有意义的！这条推文跟大家讲讲策略逻辑和相关的 Prompt\n\n一、 策略逻辑推演\n1. 庄家存在性：加密货币市场中，庄家通过控制筹码和交易量影响价格。强庄在关键时刻更加惜售筹码，倾向于推高或维持价格。\n2. 下行或震荡期间更有效：牛市中整体上涨掩盖强庄优势，而熊市或震荡市中，抗跌性与稳定性更突出。\n3. 策略本质：趋势策略，基于强庄项目的历史表现（如抗跌性与上涨动能）会延续的假设。选择强庄项目降低下行风险。\n\n二、指数构建方法\n1. 基准资产：众所周知，如果你的策略跑不赢大饼，还不如乖乖定投大饼，我们将以比特币为基准\n2. 涨跌幅计算：采用对数收益率，适合处理大波动\n3. 强庄因子计算：通过回归分析计算山寨币对 BTC 的上涨和下跌时候的 Beta 值\n4. 考虑时间衰减因素：更加关过去的强庄不一定是近期的强庄，引入时间衰减因子，近期的强庄特性更有意义\n5. 综合强庄指数：综合上涨Beta和下跌Beta，根据你更想突出上涨性还是抗跌性，来配置权重\n\n三、编写 AI Prompt 的核心\n1. 获取交易所数据：获取 Binance 交易所所有永续合约（或现货） USDT 交易对最近一年 1h 的 K 线数据，保存到 data/historical/1h/{symbol}.csv 文件中。\n2. 数据清洗：对 data/historical/1h/{symbol}.csv 中的数据进行清洗，缺失值向前填充，设置涨跌幅上下限（如±20%）来处理异常价格变动，超出部分进行截断，将清洗好的数据保存到 data/processed/1h/{symbol}.csv 文件中\n3. 计算收益率：计算每个代币的每小时对数收益率，处理好的代币存放在 data/processed/1h/{symbol}.csv 文件中\n4. 涨跌分类：将BTC的收益率按照涨跌进行分类\n5. 回归分析：使用回归分析，回归时考虑时间加权，计算山寨币对BTC的Beta值\n6. 指数合成：根据 up_beta 和 down_beta 的权重合成强庄指数，保存在 data/result/index.csv 文件中，字段为 symbol, up_beta, down_beta, index\n注意参考我的驾驭 AI 工具三板斧的方法论（localhost:8080/0xScottBTC/status/1913…），完善此需求文档，\n\n四、使用指南\n1. 找抄底的标的：可以直接使用beta 值，寻找 up_beta > 1, down_beta < 1 的标的\n2. 找做空的标的：可以直接使用beta 值，寻找 up_beta <  1, down_beta > 1 的标的, 这样的标的一般比较少，因为山寨一般涨起来都比大饼猛，通知使用强庄指数靠后的标的\n3. 过滤异常代币：由于考虑了时间加权，近期有暴涨暴跌的代币，需要进行过滤，降低风险\n\n赶快试试，找到属于你的强庄币吧！#Web3 #BTC #AI",
+      "timestamp": "Apr 22, 2025 · 5:30 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1914733512802099716#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1914650755623252098#m",
+      "content": "想看看哪些指标对交易有指导意义但又不会代码？没关系，让 AI 帮我们来写！0 代码 AI 编程第二弹，让我们来了解一下量化策略开发的流程框架，以及有哪些坑需要规避 #Web3 #AI #BTC",
+      "timestamp": "Apr 22, 2025 · 12:01 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1914650755623252098#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1914249211367002257#m",
+      "content": "昨天电脑没关抓了一天的数据，用 AI 画了张 $VOXEL 的图，来看看轧空策略啥时候“浇给”。（说明：由于合约是零和博弈，所以多头和空头仓位 （Position） 是相等的，全局分析多空比例只能通过账户数 Long/Short Account Ratio，但是可以比较大户的多空头寸 Top Trader Position L/S Ratio）\n价格顶峰前的数据特征：\n1. 大户多空比例逐渐上升到峰值：如果庄家是大户，那么顶峰前一直在积累多头头寸\n2. 多空账户比例在下降至放缓：散户积极参与做空，为多头提供流动性，直至空军燃料不足\n3. OI 上涨变缓：庄家在建多头的过程中，没有更多的散户空单加入\n4. Funding Rate 开始反弹：庄家多头建仓 + 散户空军子弹不足，合约价格开始上升向标记价格收敛\n\n所以我们应该监控哪些指标作为止盈信号呢，评论区告诉我你的答案，一起来探讨🤔#BTC #VOXEL #Bitget",
+      "timestamp": "Apr 21, 2025 · 9:25 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1914249211367002257#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1914216506348703926#m",
+      "content": "《为什么最近的轧空行情来自GameFi板块的思考》\n\n核心逻辑：一级基金清算压力\n从 @ABCDELabs @DujunX 停止新项目投资和二期募资来看，这轮周期，许多一级基金在加密市场的投资表现不佳。2021-2022年的牛市中，GameFi赛道因其“Play-to-Earn”热潮被热捧，估值飙升，吸引了大量VC和一级基金重仓布局。然而，2025年的市场已今非昔比，这些基金面临业绩低迷和募资困难的困境。\n一级基金的投资周期通常为1-3年。倒推3年（2022年），GameFi项目估值高，如今，这些已被证伪，二级市场几乎无人接盘。\n\n清算需求与流动性困局\n一级基金和项目方手握大量GameFi代币，急需退出以清算资产。然而，现货市场流动性枯竭，直接抛售会导致价格崩盘。怎么办？答案是永续合约市场。期货市场的零和博弈特性为VC提供了退出通道：通过拉升现货价格，诱导散户做空永续合约，再触发空头清算和止损，创造流动性。\n\n#BTC #GameFi #VOXEL #Web3",
+      "timestamp": "Apr 21, 2025 · 7:15 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1914216506348703926#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1914124033341505924#m",
+      "content": "大饼突如其来强劲的买盘，btcdom多单止盈，eth原价止损",
+      "timestamp": "Apr 21, 2025 · 1:08 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1914124033341505924#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1913987553285542384#m",
+      "content": "看到别人在 #Bitget 通过 $VOXEL 撸做市机器人，还想做一个监控各大交易所异常波动的 bot 捕抓这样的套利机会，看完 #Bitget 的公共后，还是算了，这样的钱赚了交易所都不一定会给你提出来",
+      "timestamp": "Apr 20, 2025 · 4:06 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1913987553285542384#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1913967372635115728#m",
+      "content": "常用的组合：\n1. 确定需求可行性与实现路径阶段：我通常使用 Grok 的 DeeperSearch 功能，因为会有更多币圈的内容，并且 DeeperSearch 会给到你参考文献，你可以阅读 Grok 提供的文献进一步确定可行性。\n2. 代码初编写阶段：最近觉得 Gemini Pro 2.5 非常好用，非会员每天有限制次数，可以多注册几个gmail邮箱。\n3. 运行和调试代码阶段：Cursor / Windsurf + Claude 3.7。（推荐新人可以先试试 Windsurf 免费额度和付费门槛都比 Cursor 低）windsurf.com/refer?referral_…",
+      "timestamp": "Apr 20, 2025 · 2:45 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1913967372635115728#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1913967370605043739#m",
+      "content": "常用的 Prompt：\n1. 细化需求：基于我这个需求为我编写需求大纲，不进行代码编写，若有需求不清晰的地方，请与我讨论，讨论的时候给出可选的方案以及不同方案的优缺点，并给出你推荐的方案。\n2. 拆解需求：将此需求文档尽可能细化成单独的小模块，并为每个小模块提供接口文档和伪代码，根据需求间的依赖关系，规划开发顺序。",
+      "timestamp": "Apr 20, 2025 · 2:45 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1913967370605043739#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1913967368453410871#m",
+      "content": "必要性：AI 时代，最大化 AI 的能力是职场的核心竞争里，想要最大化 AI 的能力，必须调用 AI 强大的编程能力，编写一些自动化的工具，去完善你的工作流。\nAI 编程不稳定的原因：需求不够细化，给 AI 太多自由发挥的空间，需求过于复杂，容易出 Bug，用 AI 调 Bug 越调越乱\n驾驭 AI 三板斧：1. 通过 AI 细化并拆分需求；2. 每个小需求单独进行编程与测试；3. 让 AI 编写每个小需求的接口文档，将各个功能模块通过接口文档组合起来",
+      "timestamp": "Apr 20, 2025 · 2:45 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1913967368453410871#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1913967366062641436#m",
+      "content": "昨天推荐大家用 AI 写监控捕抓轧空的机会，并提供了 Prompt，很多人 DM 和评论我，没有编程基础，能做到吗？分享一个我之前在🍠录了一个驾驭 AI 三板斧的视频，评论区会附上我经常用的 Prompt 以及 AI 组合\n（如果大家对这个系列内容感兴趣请在评论区告诉我，我之后也同步一份到推特上来）",
+      "timestamp": "Apr 20, 2025 · 2:45 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1913967366062641436#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1913851065717633516#m",
+      "content": "《如何在流动性不足时交易 SOL/BNB？》\n周一宏观周会，分享了做 SOL/BNB 汇率的观点，今天 BNB 被 $SKYAI 点燃，这条推文来讲讲做 SOL/BNB 汇率对的逻辑。\n\n宏观背景：\n当前市场流动性不足，资金存量博弈，轮动于不同板块。轮动需要流量驱动，而本轮流量王者是 MEME 币。\n\n逻辑核心：\nMEME 热度的迁移决定资金流向，进而影响公链生态表现。Solana 和 BNB 是当前主推 MEME 的两大公链，但市场资金有限，无法支持多生态同时爆发。因此，观察 MEME 热度在哪条链上更强，可作为交易 SOL/BNB 的依据。\n\n交易策略：\n链上热度感知：通过链上 PVP，追踪发币集团和 P 小将的动向，判断资金流向。例如：BNB 推 Binance Wallet 及 SOL 解锁风波时，发币集团从 Solana 转向 BNB。此时可 short SOL，long BNB。\nBinance Wallet 打新效应减弱，Solana 上金狗频出，MEME 热度回升。此时可 long SOL，short BNB。\n\n那么问题来了，今天哪条链更热，可持续吗？\n\n#加密货币 #交易策略 #Solana #BNB #MEME",
+      "timestamp": "Apr 20, 2025 · 7:03 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1913851065717633516#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1913836377030144382#m",
+      "content": "不太对劲了，现在很多OI在涨是来自散户的，从 Long/Short Account Ratio 可以看出来。散户自己在拉盘，庄家现在只需要做一个负费率出来就能浇筹码。感觉山寨差不多的收网了，long 了 $BTCDOM + short $ETH 防守一下，$ETH 设置了 1650 左右止的损",
+      "timestamp": "Apr 20, 2025 · 6:05 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1913836377030144382#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1913790721624342815#m",
+      "content": "VOXEL 多单得撤退了，OI 下降得厉害，庄家多头退出了很多",
+      "timestamp": "Apr 20, 2025 · 3:03 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1913790721624342815#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1913660528867909935#m",
+      "content": "$MAGIC 又是很典型的例子，极端负费率，OI 暴增。遇到这样的信号，最起码你不能做空，做多最多亏 1 倍，做空亏损无限，快速拉盘的时候，空盘还很难止损，有穿仓的风险。起码要等到 OI 和费率回到正常水平才能开始做空。",
+      "timestamp": "Apr 19, 2025 · 6:26 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1913660528867909935#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1913656943304118747#m",
+      "content": "看着图表的模版非常熟悉，仔细一看原来是之前在GA指导过的学生，现在估值模型做得很溜，支持一波",
+      "timestamp": "Apr 19, 2025 · 6:12 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1913656943304118747#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1913613732720316718#m",
+      "content": "今天真的是轧空盛宴，监控起来",
+      "timestamp": "Apr 19, 2025 · 3:20 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1913613732720316718#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1912484148276785663#m",
+      "content": "day 1： 获取历史数据，尝试过从 GMGN 和 dexscreener 获取，都不太理想，最后通过 solscan 的 defi_activities 数据来获取，这里包含的 Token Swap 和 Add/Remove Liquidity 的重要数据。Prompt 核心：告知前端获取到数据的 api 以及数据结构。由于 API 的限制，需要对时间进行切分。代码逻辑：输入CA和CA创建日期，将当前时刻到创建日期的时间按照1h进行切分，分块获取数据保存到数据库中",
+      "timestamp": "Apr 16, 2025 · 12:32 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1912484148276785663#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1912478638043430913#m",
+      "content": "最近 Solana 有很多二段交易的机会，比起 PVP，我更擅长二段，萌生了用特征工程 + 机器学习来预测代币合适的抄底时机。用 Grok DeeperSearch 来收集相关的参考文献，给出方案和开发需求大纲，用 Gemini Pro 2.5 根据需求大纲写初始代码，用 Claude 3.7 调试代码，这条推文记录预测模型开发过程",
+      "timestamp": "Apr 16, 2025 · 12:10 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1912478638043430913#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1911672799800049904#m",
+      "content": "每天都在做这个事情，统计 Alt 相对 BTC 涨跌的情况, up_beta < 1 表示 BTC 涨的时候，涨得比 BTC 弱，down_beta > 1 表示 BTC 跌的时候，跌得比 BTC 猛，结合技术指标，找出多空的标的",
+      "timestamp": "Apr 14, 2025 · 6:48 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1911672799800049904#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1909918995425501610#m",
+      "content": "行情不好，大家都在才艺展示，那我唱首歌送给 E 卫兵吧",
+      "timestamp": "Apr 9, 2025 · 10:39 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1909918995425501610#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1905525252513562781#m",
+      "content": "第一次经历强烈震感没啥经验，住在高层，开门看到大家跑我也跟着跑，跑到一半，后悔怎么被把我电脑带上，也不知道啥时候才能回去调我的代码😢😢",
+      "timestamp": "Mar 28, 2025 · 7:39 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1905525252513562781#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1905423850986504655#m",
+      "content": "很棒，坚持学下来就很不错了，接下来就是不断去实践，期待更多好内容",
+      "timestamp": "Mar 28, 2025 · 12:57 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1905423850986504655#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1904979852425572527#m",
+      "content": "开奖啦，恭喜 @dragon0195 获得白名单，请 DM 我",
+      "timestamp": "Mar 26, 2025 · 7:32 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1904979852425572527#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1904594255592775802#m",
+      "content": "morph 这张卡我比较喜欢的点在于，把生态空投集成到可转让nft中，kyc后可获实体卡，卡的权益也很多，链上链下分离，链上权益通过nft可分离。27号就要开始 mint 了，需要的可以留言，抽一个白，我自己留一张",
+      "timestamp": "Mar 25, 2025 · 6:00 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1904594255592775802#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1898363442140242413#m",
+      "content": "原本开的这个监控是为了抓 bsc 上的狗，结果却在 base 上面赚到了，evm 链的金狗还得看 base $Cocoro",
+      "timestamp": "Mar 8, 2025 · 1:21 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1898363442140242413#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1897102795670696388#m",
+      "content": "少参与“币圈江湖”，多研究链上趋势和二级行情。\n\n我从来不参加大会小会，商k局德州局，不是因为清高，是觉得毫无意义。\n\n如果是对行业有很深认知的几个朋友，大家点杯咖啡可以聊一下午。\n\n想着怎么把自己变成 alpha 来源和赚钱机器，比较好。\n\n别沾染一堆传统行业的陈旧作风，天天想着大哥带。",
+      "timestamp": "Mar 5, 2025 · 1:52 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1897102795670696388#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1896977196755120192#m",
+      "content": "海老师，yyds",
+      "timestamp": "Mar 4, 2025 · 5:33 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1896977196755120192#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1895051775327293474#m",
+      "content": "接下来就是监控 $SHELL 的大额转移了，刚把监控加上就看到 fuckheyi.eth 在加仓 $SHELL 😂",
+      "timestamp": "Feb 27, 2025 · 10:02 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1895051775327293474#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1894385878044234006#m",
+      "content": "新的干货整理来啦✨   \n\n这次的整理讲的是一级市场中的地址库构建。内容新手向，主要会包括：链上钱包类型，聪明钱定位，反扒聪明钱地址，构建地址库。  \n\n工具会用到两个：@gmgnai 和 @chain_fm\n\n整理的内容主要来自以下几位，排名不分先后：\n\n@zhang_bj_  \n@0xCryptoWing\n@f_03103\n@0x_zibu\n@0xcrypto_max\n@Shanks_A9z \n\n文档链接：docs.google.com/document/d/1…",
+      "timestamp": "Feb 25, 2025 · 1:56 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1894385878044234006#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1893544104790982874#m",
+      "content": "终于等到你，移动止盈激活",
+      "timestamp": "Feb 23, 2025 · 6:11 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1893544104790982874#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1893337425117938062#m",
+      "content": "好多朋友被夹或者买不进去，小技巧，去合约买，深度好，负费率",
+      "timestamp": "Feb 22, 2025 · 4:29 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1893337425117938062#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1893335807202603327#m",
+      "content": "表哥听劝，来当车头了？bscscan.com/tx/0x84fba4557a3…",
+      "timestamp": "Feb 22, 2025 · 4:23 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1893335807202603327#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1893259348815626527#m",
+      "content": "学习 meme 顶级理解",
+      "timestamp": "Feb 22, 2025 · 11:19 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1893259348815626527#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1893251030546293102#m",
+      "content": "设置了移动止盈，让我躲过了昨晚的大跌，保住了这个单子的利润，应对宏观上的不确定性以及黑天鹅事件，移动止盈和开仓带止损一样重要！移动止盈有以下好处：\n- 锁定利润：市场价格波动不可预测，移动止盈可以在价格达到一定盈利水平后逐步锁定收益，避免因市场反转而失去已有的利润。\n- 适应市场变化：与固定的止盈点相比，移动止盈能够根据市场趋势的变化动态调整，让交易者跟随趋势赚取更多利润，而不是过早离场。\n- 减少情绪干扰：通过设定规则化的移动止盈策略，交易者可以避免因贪婪或恐惧而做出非理性决策。\n- 优化风险收益比：在趋势行情中，移动止盈可以延长持仓时间，提高整体收益，同时控制回撤风险。\n\n如何进行移动止盈？\n基于技术指标\n移动平均线：当价格突破某一周期的移动平均线后，将止盈点设置为均线附近，随着均线上移逐步调整止盈。\n布林带：将止盈点设在上轨或下轨附近，并随布林带的移动调整。\nATR（平均真实波幅）：根据市场波动性设定止盈距离，例如将止盈点设为当前价格减去2倍ATR，随着价格上涨不断上移。\n\n基于价格百分比：设定一个初始止盈点（如盈利5%），当价格继续上涨时，按照固定百分比（如每涨2%上移止盈1%）调整止盈位置。\n\n基于支撑/阻力位：根据图表分析，识别关键的支撑位或阻力位，将止盈点逐步移至这些关键水平下方或上方，以确保在关键点位反转前退出。\n\n追踪止损结合止盈：使用追踪止损功能（Trailing Stop），设定一个固定的点数或百分比距离。例如，设定5点的追踪止损，当价格上涨时，止盈点自动跟随价格上移，但价格下跌超过5点时自动平仓。\n\n时间结合策略：在特定时间节点（如每日收盘前）检查盈利情况，手动调整止盈点，以适应短期波动或重大事件影响。\n\nGate 里面有一个设置追逐止盈功能挺好用的，用的就是追踪止损结合止盈的方法，推荐给大家。gt-io.best/signup/GRYPHSIS?r…",
+      "timestamp": "Feb 22, 2025 · 10:46 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1893251030546293102#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1893242003338772856#m",
+      "content": "抄底了 $ETH 和 $SOL 下注下周的 PCE 数据\n$ETH Bybit 被盗的 ETH，短期内很难洗出去，经过 2.03 和昨晚，ETH 筹码已经充分换手，止损位置设在 2608\n$SOL FTX 开始赔偿，解锁份额没有 11.2M SOL 那么多，根据之前市场上 OTC 的 deal，本次解锁 21%（2.35M SOL），解锁恐惧基本 Price in，押注 3 月份 SOL ETF，止损位置设在 167",
+      "timestamp": "Feb 22, 2025 · 10:10 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1893242003338772856#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1893165828817985877#m",
+      "content": "昨晚市场下跌的宏观因素\n1. 宏观数据概览\n密歇根大学消费者信心指数终值（64.7）：较1月终值71.7大幅下降，创2023年11月以来新低，远低于市场预期（通常预期在67-68左右）。这表明消费者对经济的乐观情绪显著恶化，可能受到高通胀预期、关税政策不确定性以及生活成本上升的拖累。\n\n一年期通胀率预期终值（4.3%）：从1月的3.3%跃升至4.3%，创2023年11月以来新高。这一跳升表明消费者对未来物价上涨的担忧加剧，可能与特朗普政府近期实施的关税政策（如对华10%额外关税、钢铝25%关税）直接相关。\n\n标普全球制造业PMI初值（51.6）：升至8个月新高，高于50的扩张线，表明制造业活动有所回暖，可能因企业提前备货应对潜在关税成本上升。\n\n标普全球服务业PMI初值（49.7）：跌破50枯荣线，创25个月新低，显示服务业活动萎缩，可能是需求疲软和高利率环境的滞后影响，而服务业占美国经济比重 70%。\n\n标普全球综合PMI初值（50.4）：跌至17个月新低，接近荣枯线，反映整体经济活动动能减弱，服务业疲软是主要拖累因素。\n\n2. 数据对市场的直接影响\n（1）美股三大股指大跌\n原因分析\n消费者信心骤降与通胀预期飙升：64.7的消费者信心指数创15个月新低，叠加4.3%的通胀预期，表明消费者对未来经济前景和购买力信心不足。这可能导致消费支出预期下降，打击依赖消费驱动的股市（如标普500和纳斯达克中的消费品与科技板块）。\n\n服务业PMI萎缩：服务业占美国经济比重约70%，49.7的PMI表明这一关键领域陷入收缩，拖累经济整体预期。综合PMI降至50.4进一步佐证增长动能减弱，引发市场对经济放缓甚至衰退的担忧。\n\n制造业虽回暖但不足以抵消：尽管制造业PMI升至51.6，显示一定韧性，但其对经济的拉动作用有限，且可能是短期“抢跑”行为（企业因关税预期提前生产），难以提振市场信心。\n\n（2）美债收益率下跌\n原因分析\n避险需求上升：消费者信心崩盘和通胀预期跳升引发市场恐慌，投资者转向美债等安全资产，推动10年期美债收益率下滑。\n经济放缓预期：服务业PMI和综合PMI双双走弱，暗示经济活动减速，可能导致市场调整对美联储降息的预期。尽管通胀预期上升，但增长放缓可能迫使美联储在未来加快宽松步伐，压低长端收益率。\n\n4. 总结\n昨晚公布的宏观数据呈现“高通胀预期+经济放缓”，引发市场滞涨担忧，导致市场情绪恶化，短期内（2-3月），美联储可能维持当前缩表速度以应对通胀压力，但若经济数据持续疲软（如3月PMI或就业数据恶化），减缓缩表的概率将升至50%以上，时间点或在2025年二季度。鲍威尔表示市场此前可能因1月CPI或PPI数据超预期而高估了通胀风险，鲍威尔此言意在引导预期回归理性。密切关注下周PCE数据和3月债务上限进展。",
+      "timestamp": "Feb 22, 2025 · 5:08 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1893165828817985877#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1893136107388444756#m",
+      "content": "学习",
+      "timestamp": "Feb 22, 2025 · 3:09 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1893136107388444756#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1892935374999269701#m",
+      "content": "宏观研究，是感受温度的变化。本周一直都在看多，目前我们有以下预期：1. 俄乌冲突缓解，油价下降，通胀下降；2. TGA 开始放水；3. QT 放缓或结束；4. 各个州开通通过比特币储备法案",
+      "timestamp": "Feb 21, 2025 · 1:52 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1892935374999269701#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1892914116949401673#m",
+      "content": "不是说好了不玩名人币的吗？不过侃爷也算是哥们，把自家老婆给大伙儿看，哥们也不白看，20M 以下 P 一 P",
+      "timestamp": "Feb 21, 2025 · 12:27 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1892914116949401673#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1892860898244518150#m",
+      "content": "啥情况，老鼠仓出动了？",
+      "timestamp": "Feb 21, 2025 · 8:56 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1892860898244518150#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1892854076045451330#m",
+      "content": "与其做空高控盘高费率的 VC 币，不如做空高流通，超买的 $S ：\n4小时和12小时 RSI 处于超买区 (72.33 和 80.95)\n未能突破 $1 阻力位，4小时K线显示长上影线\nX 上 $S 的贪婪情绪可能预示市场顶部\n设置了 0.9 开的，设置了 1.02 的止损（交易必带止损，交易必带止损！交易必带止损！重要的事情说三遍）",
+      "timestamp": "Feb 21, 2025 · 8:29 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1892854076045451330#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1892614465339982018#m",
+      "content": "今晚出来的初请失业金人数和美国1月谘商会领先指标，虽然显示经济有所放缓，但有利于昨天 fomc会议透露出来的放缓QT预期的增强。后面还有俄乌战争结束的预期，3月中旬之前都继续看好",
+      "timestamp": "Feb 20, 2025 · 4:37 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1892614465339982018#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1892589418134831369#m",
+      "content": "投资要么赚周期方向的钱，要么赚波动的钱，如果想赚波动的钱，先问问自己是否有自己的交易系统，开平仓的信号，止盈止损怎么做，如何进行仓位管理。如果没有，那就乖乖买比特币，赚周期方向的钱",
+      "timestamp": "Feb 20, 2025 · 2:57 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1892589418134831369#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1892587212346122729#m",
+      "content": "所谓赚认知内的钱，就需要有自己的系统，超出自己系统外的，都是概率事件，交易是庄散博弈，庄家在自己的做市系统内交易，并且有更多的信息差，长期下来，亏钱是必然的结果",
+      "timestamp": "Feb 20, 2025 · 2:48 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1892587212346122729#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1892526595606274095#m",
+      "content": "学习新的估值模型",
+      "timestamp": "Feb 20, 2025 · 10:47 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1892526595606274095#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1892431885940220153#m",
+      "content": "太tm好用了! 年包也就1.5sol不到，等不免费了就开通!",
+      "timestamp": "Feb 20, 2025 · 4:31 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1892431885940220153#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1892415062314295562#m",
+      "content": "17 年两个账号中了 $BNB ICO 额度，后被各种一级项目骗走",
+      "timestamp": "Feb 20, 2025 · 3:24 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1892415062314295562#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1892413954116194627#m",
+      "content": "看好后市，知行合一",
+      "timestamp": "Feb 20, 2025 · 3:20 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1892413954116194627#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1892412000774607188#m",
+      "content": "昨晚公布的2025年1月FOMC会议纪要中挖掘利好信息，以下是主要内容的总结：\n利率政策保持谨慎：美联储官员普遍表示，在通货膨胀尚未表现出持续回落、经济仍保持强劲的情况下，倾向于维持当前限制性利率水平不变。许多委员强调，在调整利率之前需要看到更多抗击通胀的进展。\n\n• 通胀风险关注：会议纪要显示，官员们对通胀的上行风险表示担忧，认为未来政策的不确定性（如关税或其他经济政策）可能推高物价压力。通胀虽然较2022年峰值有所缓解，但仍高于目标水平。\n\n• 经济与劳动力市场评估：委员们认为美国经济表现稳健，劳动力市场依然强劲，这为美联储在利率决策上提供了从容应对的空间。部分官员指出，劳动力市场冷却的担忧已有所减弱。\n\n• 未来政策路径：大多数与会者认为风险大致平衡，未来降息步伐可能较为缓慢或暂停，以观察经济数据和通胀走势。会议中也提到，若经济持续强劲，政策可以维持限制性立场。\n\n• 其他讨论：部分官员提到储备规模可能出现波动，并可能需要调整资产负债表缩减速度，直至某些不确定性（如债务上限问题）得到解决。\n\n总体发言更偏向鹰派，反映了美联储对通胀控制的优先关注，以及对宽松政策的审慎态度。但 FOMC 发布会上，鲍威尔的整体发言也是鹰派，本纪要与预期大体一致，透露出来的暂停缩表的信息反而给风险资产带来新的利好预期。\n---------------------------------------------------------\n\n调整缩表速度分析：\n1. 背景与当前状况\n美联储自2022年开始缩表，旨在减少疫情期间通过大规模债券购买积累的资产负债表规模（从峰值约9万亿美元缩减至2025年初的约7万亿美元）。目前每月缩减速度为250亿美元美国国债和350亿美元机构抵押支持证券（MBS）。然而，会议纪要显示，官员们开始讨论是否需要调整这一速度，尤其是在2025年可能面临联邦债务上限问题的不确定性背景下。\n\n2. 调整缩表速度的动因\n• 债务上限的不确定性：会议中提到，债务上限可能在2025年初恢复，这会导致财政部普通账户（TGA）余额波动。若TGA余额下降，银行储备和隔夜逆回购协议（ON RRP）余额会增加；反之，若重建TGA，则会减少流动性。这些波动可能干扰美联储对货币市场状况的评估，进而影响缩表进程的稳定性。部分官员建议，在债务上限问题解决前暂停或减缓缩表，以避免储备余额快速下降至低于适当水平。\n\n• 流动性管理需求：随着ON RRP余额持续下降（部分因国库券发行增加而被替代），市场流动性状况可能发生变化。官员们关注缩表速度是否会导致储备水平过快下降，影响货币市场的正常波动和联邦基金利率的有效控制。\n\n• 经济与通胀平衡：纪要显示，美联储希望在维持经济强劲和劳动力市场稳健的同时，进一步压低通胀。若缩表过快收紧流动性，可能加剧经济下行压力，与当前谨慎的货币政策基调不符。\n\n3. 可能的调整方向\n• 减缓缩表速度：部分官员倾向于在未来几个月内降低每月缩减规模，例如将国债缩减从250亿美元降至更低水平，同时保持MBS缩减节奏。这种调整旨在平滑市场过渡，避免流动性冲击。\n\n• 暂停缩表：若债务上限问题导致市场剧烈波动，暂停缩表被视为一种选项。暂停可以为美联储提供更多时间观察经济数据和政策效果，尤其是在通胀仍高于2%目标的情况下。\n\n• 结束缩表的时间表：根据市场调研（如纽约联储的报告），缩表可能在2025年中至末期结束，资产负债表规模预计稳定在6万亿至6.5万亿美元之间。调整速度可能推迟这一时间表，尤其是若美联储优先考虑流动性稳定。\n\n4. 对市场与政策的影响\n• 货币政策信号：减缓或暂停缩表可能被市场解读为政策宽松信号，尽管纪要强调这更多是技术性调整，而非转向鸽派。这可能缓解债券收益率的上行压力，并支撑股市和风险资产。\n\n• 利率路径关联：缩表速度调整与降息节奏密切相关。若缩表减缓，美联储可能有更大空间在2025年实施有限降息（市场预期为1-2次，每次25个基点），以平衡经济支持和通胀控制。\n\n• 流动性与银行体系：减缓缩表有助于维持银行储备在“充足”水平，避免类似2019年回购市场紧张的情况重演，尤其是在债务上限问题可能引发短期资金需求激增时。\n\n6. 结论\n调整缩表速度的讨论反映了美联储在通胀、经济增长和金融稳定之间的多重考量。当前鹰派基调下，减缓缩表更可能是渐进式而非彻底暂停，旨在为债务上限等不确定性预留缓冲，同时保持货币政策的限制性立场。最终决策将取决于未来几个月的数据表现，特别是通胀走势和货币市场状况。若通胀持续高于预期，缩表调整可能被推迟；若经济显著放缓，则减缓甚至暂停的概率将上升。",
+      "timestamp": "Feb 20, 2025 · 3:12 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1892412000774607188#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1892401500825215360#m",
+      "content": "这一轮平台币中，我认为表现最佳的是 $GT @gate_io。紧跟大盘走势，对 #MEME 热点反应迅速，还能及时上 VC 币给我空，但提的人非常少，在 KOL 宣发上明显不足，能不能多招几个 KOL BD！\n\n看看 @bitgetglobal  和 @XTexchange 的 KOL 策略：\n• XT：重视高内容质量的 KOL，走稳健长流的策略，不推币，只需要在每条内容做交易所的露出，助推衍生品交易量冲进前五，并且 2-5 名差距微小；\n• Bitget：是大多数项目方的策略，以广撒网为主，自家平台币涨起来的时候，众多 KOL 纷纷现身，分析平台价值，自曝持仓赚了数倍，吸引更多买盘",
+      "timestamp": "Feb 20, 2025 · 2:30 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1892401500825215360#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1892390377069720007#m",
+      "content": "BNB Chain 接连两波操作太败好感的，上功臣 $SHELL 的合约，Alpha 板块前后上了 3 只🥦，把社区来回耍，可以看出目前币安的公司治理非常混乱，典型的大公司病全占了，需要一个 #DOGE 部门介入进行改革\n\n1. 官僚主义\n特点：决策层级多、流程复杂，导致决策缓慢，响应市场变化迟缓。\n影响：过多的审批程序可能抑制员工的积极性和创新精神，错失市场机遇。\n\n2. 沟通障碍\n特点：部门间信息不畅、内部壁垒明显，沟通渠道繁复。\n影响：信息传递延迟，资源配置和跨部门协同效率低下，容易导致误解和重复工作。\n\n3. 惰性与路径依赖\n特点：企业依赖既有成功经验和传统模式，不愿意冒险尝试新方法。\n影响：在市场环境迅速变化的情况下，难以及时调整战略和业务模式，逐步失去竞争优势。\n\n4. 创新受限\n特点：由于强调风险控制和稳健运营，大企业往往在创新机制上较为保守。\n影响：新技术、新产品和新业务模式难以快速落地，可能在激烈的市场竞争中处于劣势。\n\n5. 资源配置低效\n特点：随着企业规模的扩大，管理成本和人力资源冗余问题突出。\n影响：资金、人才和信息等资源可能分散浪费，降低整体运营效率。\n\n6. 权力固化与内耗\n特点：决策权往往集中于少数高层，形成既得利益群体。\n影响：内部权力斗争和政治斗争容易滋生，阻碍真正有利于企业长远发展的决策实施。",
+      "timestamp": "Feb 20, 2025 · 1:46 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1892390377069720007#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1892042670249213994#m",
+      "content": "理解 bn 上 $SHELL 合约的用意了，便宜(负费率)、比链上深度好，还能防夹子",
+      "timestamp": "Feb 19, 2025 · 2:44 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1892042670249213994#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891752983232499727#m",
+      "content": "乌克兰嘴硬带崩市场",
+      "timestamp": "Feb 18, 2025 · 7:33 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891752983232499727#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891711772777746536#m",
+      "content": "一个人的性格是很难改变的，不能跟没下限的人玩，18 19 年熊市的时候，很多人给我推 CX 盘，说辞是“这个老板之前起盘子赚了很多钱，现在做这个项目，要给自己正名，带下来的人都赚一把钱” 怎么听都怪怪的",
+      "timestamp": "Feb 18, 2025 · 4:50 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891711772777746536#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891530523761099241#m",
+      "content": "算了，看了一下，还是内幕抢跑的太多，这个总统没下限，不跟他玩，先跑了",
+      "timestamp": "Feb 17, 2025 · 4:49 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891530523761099241#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891527186517241956#m",
+      "content": "以上是群友段子。我在 600M 买了一些",
+      "timestamp": "Feb 17, 2025 · 4:36 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891527186517241956#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891526709872050266#m",
+      "content": "拉的太快了根本不给人机会上车 幸亏我在4B买的哈哈呜呜呜",
+      "timestamp": "Feb 17, 2025 · 4:34 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891526709872050266#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891526151111057417#m",
+      "content": "阿根廷总统哈维尔·米莱 （Javier Milei） 在删除支持该项目的推文几天后转发了“如何购买$LIBRA”教程\nSM 又开始买 $LIBRA 了，一个 Rug 了的项目，还能被 Rug 吗？",
+      "timestamp": "Feb 17, 2025 · 4:32 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891526151111057417#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891507087273762980#m",
+      "content": "猜到了会 @binance 会上 $SHELL ，但没猜到上的是合约呀🥲",
+      "timestamp": "Feb 17, 2025 · 3:16 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891507087273762980#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891501568975065581#m",
+      "content": "按照微策略老板的说法，对币圈人来说最好的慈善就是把自己的币销毁，他表示自己死之前会把他所有比特币销毁，相当于对所有认同比特币的持币人都公平得做了捐赠。我是 $ETH Holder，感谢 #胡乐知 的捐款！#脑机 #Ethereum",
+      "timestamp": "Feb 17, 2025 · 2:54 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891501568975065581#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891496505640378446#m",
+      "content": "报告 $JUP 被移动止盈了，目前仓位是纯多，看好后市",
+      "timestamp": "Feb 17, 2025 · 2:34 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891496505640378446#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891493422240059890#m",
+      "content": "冲 $HULEZHI 的心路历程：监控到的时候，一搜，发现 #胡乐知 往黑洞打了 500 E，并在链上说自己被脑机控制，再一品，可惜发的是中文，要是发英文就好了，没忍住上车了 1000U 后腰斩。\nV 神点赞迎来转折，这下可以等老外起床接盘了！明知道是事件的转折，却没有加仓，认知还是不够。",
+      "timestamp": "Feb 17, 2025 · 2:22 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891493422240059890#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891462464610455572#m",
+      "content": "今天周会有同学问关于卖币安的谣言。我觉得，现金牛，核心资产，当然是会拽在手里，除非股东能带来更多的价值，又或者受到什么政治逼迫。想起读书的时候，老师说，国内很多好企业其实不想上市卖公司，但是不上市呢，各路牛鬼蛇神都要来入股你，咬你一口，上市后需要披露股东信息，反而是一种保护。",
+      "timestamp": "Feb 17, 2025 · 12:19 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891462464610455572#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891363682858533230#m",
+      "content": "不知道有多少人是为了参加 @myshell_ai 打新，第一次用币安钱包，反正我是，$SHELL 是激活币安钱包的功臣，AI 是放在台面讲的叙事，MEME 拉拢发币集团来发资产 PVP 是台下的事，我觉得币安会先上生态的 AI 币而不是菜狗 MEME，Still holding $SHELL",
+      "timestamp": "Feb 17, 2025 · 5:46 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891363682858533230#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891361228879999317#m",
+      "content": "行情不好的时候，有时间学起来了",
+      "timestamp": "Feb 17, 2025 · 5:37 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891361228879999317#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891324371941163133#m",
+      "content": "君子不立危墙之下，已将 $SOL 全部换仓成 $BNB，并做空 $JUP 对冲多头，空单设置了 0.88 左右的止损",
+      "timestamp": "Feb 17, 2025 · 3:10 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891324371941163133#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891292841285972376#m",
+      "content": "地址监控起来了，争先当 b 小将！目前收集了 112 个地址进行监控，BNBChain 上面留给上车的时间比较多，所以定了60 分钟内，有 3 个以上的 SM 购买就给我提醒。",
+      "timestamp": "Feb 17, 2025 · 1:05 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891292841285972376#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1891278180432105525#m",
+      "content": "为什么说 @BNBCHAIN 生态是当前最大的 Alpha\n周六晚上发推表明，看好接下来的多头趋势，并做多 #BSC 生态，看到的朋友应该在 $BNB 和 $CAKE 上赚到了localhost:8080/0xScottBTC/status/1890… \n本条推文具体展开详细的逻辑，目前 @BNBCHAIN 具备天时地利人和的优势\n\n一、天时：宏观风险偏好改善\n1.1 关税不确定性暂缓\n近期的市场主要围绕着关税的不确定性进行博弈，2.14 号凌晨，“特朗普签署总统备忘录，提议征收对等关税，但不是立即执行”，市场预测将推迟至 4 月 1 号，这一举措一定程度上缓解了关税不确定性引发的避险情绪。\n\n1.2 美联储净流动性改善：TGA 流动性即将释放\nON-RRP账户枯竭：美联储的逆回购（ON-RRP）账户即将耗尽，显示市场流动性将出现松动迹象。\nTGA（财政部一般账户）即将释放流动性：债务上限抵达，不能向市场发新债吸引流动性，意味着财政部可能在近期释放大量流动性，进一步影响市场资金面。（PS: @OwenJin12 老师的表格做得真好macromicro.me/collections/22…）\n\n1.3 减税政策推进\n政策内容：未来十年内计划减税约4.5万亿美元，延续并扩展2017年川普税改，重点在于降低企业和资本利得税（例如制造业企业税率拟下调至15%，长期资本利得税从20%降至15%）。\n\n议案推进：利用“预算调节”（Reconciliation）程序避开参议院民主党的阻挠，以简单多数通过。周四众议院预算委员会以21比16通过预算决议案，标志着共和党正式迈出推动川普政策议程的第一步。\n\n流动性影响：若减税政策顺利实施，企业盈利预期改善、投资与资本开支增加，市场流动性将得到提振。企业和投资者可能释放部分闲置资金，增加对风险资产（包括加密资产）的配置。\n\n1.4 地缘政治：俄乌冲突得到缓解\n事件：美俄高级官员将在本周于沙特举行会晤，为最快可能在月底举行的特朗普-普京峰会做准备。此次会议的细节和与会人员名单尚在制定中，但值得关注的是，沙特已邀请美国、俄罗斯及乌克兰代表参加在利雅得举行的会议。\n\n俄乌局势：若俄乌冲突走向终结或局势趋稳，俄罗斯作为原油出口大国，有望推动油价下降，从而降低通胀，全球资本可能出现重新配置，国际避险情绪减弱，更多资金流向风险资产市场。\n\n二、地利：SOLANA 生态套牢盘积累，SOL 解锁抛压在即，市场注意力转移\n2.1 SOLANA生态大量套牢盘积累，进入修复期\n事件回顾\nTRUMP 发币吸血：TRUMP 发币吸引了大量的圈外关注度带来新增的资金，但其比价从高点跌了 70%，也将很多圈内的资金套牢。\nDeepseek 的崛起戳破 AI 泡沫：Deepseek 横空出世后，AI 行业进行了一轮去泡沫，AI 板块市值跌幅达 80%，大量 AI 代币是从 SOL 链上发行，进一步积累 Solana 生态套牢盘。\n土耳其总统米勒发币迅速 Rug：短时间内出现 Rug Pull 现象，团队共计套现一亿多美元，大量“聪明钱”被套，使得生态整体进入修复阶段。\n\n2.2 FTX赔付与SOL抛压\nFTX 赔付安排：预计3月份，SOLANA 将因 FTX 赔付释放20 亿枚SOL的抛压。散户赔付依据为2022年12月价格的119%，但 FTX 早期筹码通过 OTC 渠道已大量转售。\n\nOTC 细则\n解锁方式：从2024年4月起按月线性释放（约1.84%/月），直至2025年2月；2025年3月一次性解锁约21%，累计至2025年3月解锁总量达41.39%，之后至2028年1月平均每月解锁1.72%。未解锁部分将以staking形式继续锁定，享有约7%的币本位收益。\nOTC价格区间：大致在60-120美元之间。\n\n市场应对策略：SOL 的抛压能否得到对冲，关键在于3月15日SOL ETF的消息。\n\n三、人和分析：@cz_binance 发力与 BNB Chain 战略生态布局\n3.1 投资就是投人\n@cz_binance  重心转移：尽管由于美国政策限制，CZ在币安业务上受阻，虽然已贵为华人首富，但大表哥这类人是绝对闲不下来的，那么另外一项事业就是 $BNB 了，目前 CEX 上币效应差，市场份额被 DEX 稀释，想要进一步赋能 $BNB 只能进一步激活 @BNBCHAIN , 近期 CZ 的推特明显积极在为 BNB_CHAIN 发声，表明其个人精力在往 @BNBCHAIN 靠拢\n\n3.2 BNB Chain 生态升级规划\n2025年重大升级方向\n次秒级区块确认：大幅提升交易确认速度，提高用户体验。 \n日均1亿笔交易处理能力：支持高并发场景，适应大规模应用需求。 \n免Gas交易：降低用户门槛，吸引更多小额交易和普通用户参与。 \n智能钱包及开发者工具：增强生态应用的便捷性和安全性，促进DApp开发与集成。 \nAI与Meme生态融合：利用热点趋势，拓展应用场景，丰富生态内容。\n\n3.3 市场营销与生态联动\n- 通过 $TST 吸引 MEME 市场关注度\n- 通过 $Broccoli 🥦狗吸引发币集团入驻\n- 通过 @myshell_ai 低门槛打新，给散户送福利，吸引大家关注 #BSC #BNBChain AI 生态\n完善 MEME + AI 的生态布局，目前取得不错的成绩，据 DefiLlama 数据显示，BNBChain 近一周交易量居公链榜首，此趋势有望继续延续\n\n四、总结\n天时：贸易战暂缓、TGA 流动性即将到来、减税政策推进，以及地缘政治趋稳，都在为市场注入活力，提升投资者的风险偏好。\n地利：在其他生态面临结构性抛压的背景下，BNB链正迎来次秒级确认、免Gas交易等重大升级，构建了高效、低门槛的应用环境。\n人和：CZ 重心转移至 BNBChain，事件营销吸引 MEME + AI 本轮最热门两大赛道的注意力。\n天时地利人和完美汇聚，不要 @BNBCHAIN 生态爆发的机会",
+      "timestamp": "Feb 17, 2025 · 12:07 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1891278180432105525#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1890816773072547889#m",
+      "content": "$IP 都 1.5 了，赶快再多上线几个 400-500M 左右市值的 VC 币给我空吧",
+      "timestamp": "Feb 15, 2025 · 5:33 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1890816773072547889#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1890810570682651040#m",
+      "content": "今天链上被团灭，得修复一段时间，专注 CEX 二级，下周没啥数据，关税又挪到了 4 月 1 号前，TGA 开始放水，众议员通过减税预算法案，美债收益率下行，宏观上看涨。除了做多大饼外，还会做多 @BNBCHAIN 生态，目前 long 了 $BNB 和 $CAKE",
+      "timestamp": "Feb 15, 2025 · 5:09 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1890810570682651040#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1890557536845107525#m",
+      "content": "非常感谢早上叫我起床冲狗的兄弟们，我们下次再赢回来!",
+      "timestamp": "Feb 15, 2025 · 12:23 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1890557536845107525#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1890555546056450381#m",
+      "content": "平时6点就起床，庆幸昨晚大盘还不错，盯盘到3点才睡，今天起晚了，躲过了阿根廷总统。心疼早起一起冲土狗的兄弟，会赚回来的!",
+      "timestamp": "Feb 15, 2025 · 12:15 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1890555546056450381#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1890342025137992139#m",
+      "content": "早上写的报告提醒，美债收益率与比特币价格信号出现背离，美债收益率下跌较多，比特币却在震荡下行，今日适合做多，等晚上美股开盘再涨一波",
+      "timestamp": "Feb 14, 2025 · 10:07 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1890342025137992139#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1890247353409630557#m",
+      "content": "利用美债收益率与比特币价格信号背离，捕获到了绝佳交易机会！\n\n当前市场具有高度不确定性，经济数据之间相互矛盾，好消息与坏消息直接不断摇摆。对于不熟悉宏观分析的加密货币交易员来说，利用美债收益率来指导交易，抓住信号背离的机会，能够帮助他们更好地把握市场脉动，规避风险。\n\n在当前货币政策环境中，美联储暂停降息，主要担心特朗普的关税政策可能引发通胀上行。这一背景下，比特币作为风险资产，对流动性的变化异常敏感，而市场流动性预期在很大程度上影响着比特币的价格走势。相比之下，美债市场因交易量大、专业投资者众多，其市场有效性和信息传递能力远超加密货币市场。因此，美债收益率的变化在一定程度上可以反映未来降息预期的增强或减弱，进而反映流动性预期的变化。\n\n美债收益率与流动性预期\n美债收益率是市场对未来利率走势和经济前景的重要指标。当市场预期降息提前或流动性改善时，美债收益率往往会走低；反之，当降息预期被推迟或者流动性趋紧时，美债收益率则会上升。由于比特币作为风险资产，其价格往往受流动性影响较大，因此美债收益率的变化可以作为判断比特币价格走势的重要辅助指标。\n\n信号背离与交易风险\n在实际交易中，如果出现美债收益率与比特币价格信号背离的情况，就需要特别谨慎。这种背离往往意味着加密市场可能正在释放诱多或诱空信号，容易使散户在错误时机入场，从而遭受较大损失。\n\n例如，上周非农就业人口与失业率数据出现矛盾时，美债收益率出现了明显上涨，这代表市场降息预期后移、流动性改善的窗口被推迟。然而，比特币价格却在这一期间短暂上涨，形成了诱多信号，随后却极速下跌，导致不少投资者陷入追高的陷阱。\n\n同样，昨晚PPI数据公布后，美债收益率大幅下跌，表明市场预期未来可能采取更加宽松的货币政策，流动性边际改善。在这一背景下，比特币价格虽一度震荡下行，但整体市场环境的转变为比特币带来了做多机会。\n\n交易策略建议\n关注美债收益率变化：密切观察美债收益率的走势，作为判断流动性预期变化的重要依据。收益率的上升或下降往往预示着市场对于降息预期的调整，从而影响比特币等风险资产的价格。\n\n警惕信号背离：当美债收益率与比特币价格走势出现明显背离时，应提高警惕。避免仅凭加密货币市场自身的波动进行盲目操作，而忽视了市场更为有效的美债信号。\n\n规避诱多诱空陷阱：结合关键经济数据（如非农就业、失业率、PPI等）的公布情况，判断市场是否存在诱多或诱空信号。例如，在非农数据矛盾期间，比特币的短暂上涨可能只是表面现象；而在PPI数据利好、收益率下跌的情况下，则可能出现较好的做多时机。\n\n结论\n在当前美联储暂停降息、担心通胀上行的大环境下，美债收益率作为反映流动性预期的重要指标，对比特币交易具有重要参考价值。通过观察美债收益率与比特币价格之间的关系，投资者可以更好地把握市场脉动，避免加密市场的诱多和诱空信号，从而实现更为理性的交易操作。无论是短期波动还是长期趋势，把握好流动性预期的变化，才能更好地应对市场风险，捕捉交易机会。",
+      "timestamp": "Feb 14, 2025 · 3:51 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1890247353409630557#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1890203981709975895#m",
+      "content": "Coinbase Q4 财报爆表！Q4 与全年财报速览\n昨天美股收盘，罕见的 Strategy 和 COIN 价格背离，Strategy 收盘跌 0.58%，COIN 上涨 8.44%，2024 年 Q4 降息与特朗普交易主题，加密货币交易量激增，机构押注 Coinbase 财报表现，盘后 Coinbase 公布 Q4 财报交了一份满意的答案\n\n整体表现\n2024 年，Coinbase 实现了强劲增长，全年总收入达到 66 亿美元，比去年翻了一番多（同比增长 111%）。净利润为 26 亿美元，调整后的 EBITDA 为 33 亿美元。Q4总营收为23亿美元，环比增长88%\n\n交易业务\n交易收入大幅增长：全年交易收入达到 40 亿美元，同比上升 162%。Q4 单季度交易收入为 16 亿美元，环比大涨 172%。这主要归功于市场交易量的飙升，全年交易量达 1.2 万亿美元。\n散户与机构齐发力：散户交易量在 Q4 达到 940 亿美元，环比增长 176%，而机构交易量则高达 3450 亿美元，环比增长 128%。这显示出 Coinbase 吸引了大量新用户，也成功赢得了大机构的青睐。\nQ4 山寨币交易量上升：Q4 Alt Coin 交易量占比高达 48%，同比上升 15%，显现出牛市中散户更偏向于交易山寨币。\n\n订阅与服务及其他收入\n总体表现：2024 年订阅与服务收入为 23 亿美元，同比上升 64%，是 2021 牛市水平的约 4.5 倍。\n稳定币业务：全年稳定币收入达到 9.10 亿美元（同比增长 31%），Q4 环比略降 9%；但 USDC 的稳定币市场份额在不断提高\n区块链奖励收入： Q4 达到 2.15 亿美元，环比增长 39%，由于加密资产价格上升和协议奖励率的提高（主要是 $SOL）；\n利息与金融费用收入和托管服务收入：保持稳健增长，分别得益于 Prime Financing 贷款余额创新高和托管资产的扩张，Q4托管收入达到 4300 万美元，环比增长 36%。\n\n成本与费用\n全年运营费用为 43 亿美元，同比增长 30%，而技术研发、销售营销和行政费用合计增长 25%。\nQ4 运营费用为 12 亿美元，环比增长 19%，其中交易费用大幅上升（达到 3.17 亿美元，环比增长 85%），主要由于交易量激增。Q4交易费用为3.17亿美元，占净收入的14%，低于 Q3，与全年持平。\n\n2025 Q1 展望\n收入预期：预计 Q1 订阅与服务收入将在 6.85 亿至 7.65 亿美元之间；截至 2 月 11 日，交易收入已约为 7.5 亿美元。\n费用与投入：交易费用预计将占净收入的中高位；技术、行政和研发费用预计保持在 7.5 亿至 8 亿美元之间；销售与营销费用预计在 2.35 亿至 3.75 亿美元之间，可能会因市场波动而有所变化\n关键驱动：Q1 的收入增长将主要依靠稳定币业务的强劲表现、Coinbase One 用户的持续增加以及加密资产价格的上涨\n\n总结\n2024 年 Coinbase 展现出爆发式的增长：全年总收入达到 66 亿美元，净利润 26 亿美元，交易收入同比暴涨 162%，而订阅与服务收入也实现了 64% 的增长。不过，值得注意的是，Q4 的出色表现在很大程度上受到了降息政策和特朗普交易主题的推动，这些因素催生了一波加密货币牛市，显著拉动了交易量和收入的激增。\n然而，进入 2025 年 Q1 后，降息政策的停止以及市场逐步降温，可能会使得 Q4 核心业务——尤其是交易收入的高速增长难以持续。另一方面，订阅与服务收入方面，由于受到总统发 MEME 的影响以及稳定币收入预期的上扬，这一部分收入或将保持一定韧性。但需要注意的是，目前区块链奖励收入很大程度上依赖于加密货币价格的上升，随着市场在 2025 年 Q1 出现不同程度的回调，Q4 的区块链奖励水平恐怕难以维持。\n总的来说，虽然 2024 年 Coinbase 的财报数据令人瞩目，但市场环境的变化预示着未来增长面临新的挑战和调整，投资者需保持谨慎乐观的态度。",
+      "timestamp": "Feb 14, 2025 · 12:58 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1890203981709975895#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1890181620227027330#m",
+      "content": "hahaha",
+      "timestamp": "Feb 13, 2025 · 11:29 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1890181620227027330#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1890097307947053551#m",
+      "content": "2.13 二级交易机会复盘\n1. @cz_binance 早上发推表明，考虑公布他的狗的名字，再次尝尝 MEME 的甜头: 做多 $BNB (叠加 $SHELL 打新锁住一部分 $BNB)，做多 $BNX (BSC 上的 MEME 发射平台)，做空 $TST （新土狗热点，老土狗会被吸血，$TST 已成弃子，并且能一定程度对冲 $BNB 和 $BNX 的多单）\n2. @StoryProtocol $IP 开盘市值高达 500M，没有任何市场热度的情况下，如此高估值的 VC 币，直接做空，做空的时候带止损和移动止盈\n3. @cz_binance 公布狗名为🥦 时，BSC 链崩，链上各种夹子，都买不进去，反而 @solana  和 @pumpdotfun  上的响应速度更快，BSC 链不及预期，$BNB 今天超买，适合做空\n4. @JupiterExchange 从周一开始。所有协议费用的 50% 将用于购买 $JUP 并将其锁定 3 年，利好消息驱动拉了一根大阳线，但目前的市场较为恐慌的行情下，适合 sell the news，做空。后续继续观察协议的现金流，回购效果，可构建 DCF 估值框架进行投资指导",
+      "timestamp": "Feb 13, 2025 · 5:54 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1890097307947053551#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1890076675582611949#m",
+      "content": "$broccoli 西兰花，菜花，第一印象是像性病的名字。旺财，来福，招财，进宝啥都好，偏偏起了一个性病名🥲",
+      "timestamp": "Feb 13, 2025 · 4:32 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1890076675582611949#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1890055452307988947#m",
+      "content": "bn 来助兴做空 $IP",
+      "timestamp": "Feb 13, 2025 · 3:08 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1890055452307988947#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1889987548241604960#m",
+      "content": "移动止盈掉了，少吃一截，找机会再入。市场承载不了 500M 的 VC 币 #IP $IP @StoryProtocol",
+      "timestamp": "Feb 13, 2025 · 10:38 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1889987548241604960#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1889558839508213801#m",
+      "content": "$PI 18年熊市的时候就知道派币，当时还支持朋友注册了一下，看还对接了不少商家，同期的还有环保币也做得挺大的。当然我的这些地推币不知道怎么找回来了，也这不知道这波 $PI 有多少人能提到交易所去，CX 币解锁流通会有各种条件，甚至都没有在链上发行",
+      "timestamp": "Feb 12, 2025 · 6:15 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1889558839508213801#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1889292466521776356#m",
+      "content": "复盘一下今天的操作：今天早上 solana 的土狗节奏太快，都是速通后浇给，反观 @BNBCHAIN 出了 #CaptainBNB 金狗，想着 #BSC 还是想继续做 #MEME 所以做多了 $TST ，并且在第一根大阳线出来后，不断提高止损线来保住利润，最终在 four 被攻击消息下，止盈了",
+      "timestamp": "Feb 11, 2025 · 12:36 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1889292466521776356#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1888747340481302972#m",
+      "content": "金狗一定会有足够多的上车时间，少碰速通盘，炒 MEME 考虑叙事的可持续性，传播链条如何，是否有新增的买盘，盈亏比是否合适。正心正念正心正念",
+      "timestamp": "Feb 10, 2025 · 12:30 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1888747340481302972#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1888746112309432635#m",
+      "content": "早上起来，看到监控的地址一直在买 $CAR 的心路历程：\n看了眼前排，全是鱼 -->阴谋盘\n看了眼官推，是一个支持比特币 Crypto 的非洲总统发的币 --> 总统国家过气的概念，市场注意力有限\n再回去看市值，100M 了 --> 没有任何盈亏比，只能看着他涨",
+      "timestamp": "Feb 10, 2025 · 12:25 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1888746112309432635#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1888604178181996818#m",
+      "content": "看很多人为了等 1B 没及时止盈，上了交易所，500M 就是一个关键的位置，很难一口气拉到 1B，需要考虑是否有新增的买盘，目前看来是没有的，只有 CZ 亲自下场拉，但大家获利太多了，拉盘也得再洗一洗比较好。最大的因素是下周要公布 CPI，全球都在担心通胀反弹，资金会优先避险，仓位也不适合拿到周一",
+      "timestamp": "Feb 9, 2025 · 3:01 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1888604178181996818#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1888584106180591873#m",
+      "content": "Yap early, yap only, yap often.\n\n@_kaitoai is connecting AI, attention and capital with Yaps.\n\nJust claimed my social card and I'm accumulating Yap points in real-time.\n\nClaim yours 👉 yaps.kaito.ai/referral/14537…",
+      "timestamp": "Feb 9, 2025 · 1:41 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1888584106180591873#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1888516510832074995#m",
+      "content": "500 M 出了 1/4，剩下的等 bn 开盘后看情况再出一部分",
+      "timestamp": "Feb 9, 2025 · 9:13 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1888516510832074995#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1888507898281558218#m",
+      "content": "我就是全宇宙最厉害的区块链天才，我一定行！",
+      "timestamp": "Feb 9, 2025 · 8:39 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1888507898281558218#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1888492650220908766#m",
+      "content": "大表哥禁止交易所业务，那就全力干 BSC，MEME 是唯一的出路，链上一级内盘，交易所外盘，解决交易所财富效应问题，全面拥抱 BSC！",
+      "timestamp": "Feb 9, 2025 · 7:38 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1888492650220908766#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1888486648389992738#m",
+      "content": "真上 BN 了，500M 出",
+      "timestamp": "Feb 9, 2025 · 7:14 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1888486648389992738#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1888288713068982322#m",
+      "content": "我在 7 楼上的车，大家有啥其他止盈止损思路不，说实话，今年被 bsc 割了挺多的",
+      "timestamp": "Feb 8, 2025 · 6:08 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1888288713068982322#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1888286920729563270#m",
+      "content": "这样的项目，上 bn 现货的概率较大，止盈后会留一部分仓位等待这个预期",
+      "timestamp": "Feb 8, 2025 · 6:00 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1888286920729563270#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1888286580479312027#m",
+      "content": "bn一直想推 bsc meme，无奈之前Solana meme太亮眼，bsc 上的 meme 吸引不了老外的目光，全是国人 PVP。这波 $TST 正诞生于 SOL MEME 熄火之际，CZ 亲自下场带流量，老外参与度高，周末美股休市市场脱锚状态，今年 BSC 上推的 MEME 有 $WHY （Max 市值 144M） $CHEEMS （Max 市值 256M） $KOMA (Max 市值 132M)，$TST 在周一之前，或者在达到 250M 之前开始止盈",
+      "timestamp": "Feb 8, 2025 · 5:59 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1888286580479312027#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1888034434366193693#m",
+      "content": "《通胀幽灵再现：非农矛盾引爆市场，美联储“鹰影”笼罩风险资产 —— 失业率下降与非农疲软矛盾何解？下周CPI数据或成市场下一风暴眼》\n宏观数据\n昨晚公布的数据，给市场带来较大波动\n非农就业数据远低于预期和前值（前值为 30.7，预期为 17，公布为 14.3），失业率低于预期与前值（前值为 3.3%、预期为 3.3%、公布为 4.3%）\n消费者信心指数低于预期与前值（前值为 71.1、预期为 71.1、公布为 67.8）\n通胀预期远高于预期与前值（前值为 3.3%、预期为 3.3%、公布为 4.3%）\n\n1. 当前市场现状\n美联储政策重心转向通胀：美联储在1月底的FOMC会议上暂停降息，表明其政策重心从支持经济增长转向控制通胀。特朗普上台后，市场担心其政策（关税、非法移民）可能加剧通胀上行压力，这使得美联储对降息更加谨慎。\n\n风险资产的流动性依赖：风险资产（如美股、比特币）的表现高度依赖流动性环境。市场预期流动性边际改善（如降息、扩表）时，风险资产往往表现较好。然而，当前美联储暂停降息，且通胀预期上升，流动性边际改善的预期被推迟，导致风险资产承压。\n\n市场永远是正确的：当非农和失业率数据出现矛盾时，市场通过美债收益率的表现来反映降息预期。9点半非农数据公布后，美债收益率上涨，表明市场认为降息预期进一步推迟；11点通胀预期数据远超预期后，市场进一步下跌。这反映了市场对通胀压力和流动性收紧的担忧。\n\n2. 非农与失业率矛盾的解释\n失业率下降的原因：失业率从4.1%降至4%，主要因家庭调查显示就业人口增加220万（分母变大）\n\n非农就业不及预期的原因：非农就业仅增加14.3万，远低于预期的17万。新增就业主要集中在医疗、零售、社会救助和政府部门，其他行业增长乏力。这可能反映了经济结构性问题或临时性因素（如上个月洛杉矶火灾）的影响。\n\n3. 市场反应与美债收益率\n9点半非农数据公布后：非农就业不及预期，但失业率下降，市场初步反应混乱。美债收益率上涨，表明市场认为降息预期被推迟，风险资产承压。\n\n11点通胀预期数据公布后：通胀预期从3.3%升至4.3%，远超市场预期。这一数据加剧了市场对通胀上行的担忧，美债收益率进一步上涨，风险资产（美股、比特币）大幅下跌。\n\n市场逻辑：市场更关注通胀数据而非就业数据，因为通胀直接关系到美联储的政策路径。通胀预期上升意味着美联储可能更长时间维持高利率，流动性环境边际收紧，对风险资产不利。\n\n4. 下周CPI数据的重要性\nCPI数据的前值与预期：前值为2.9%，预期为2.9%。如果CPI数据高于预期，将进一步强化市场对通胀上行的担忧，可能导致美债收益率继续上涨，风险资产进一步承压。\n\n避险情绪加重：下周的 CPI 数据尤为重要，由于通胀预期上升和美联储政策不确定性，市场避险情绪加重。投资者可能转向黄金、美元等避险资产，同时减少对风险资产的配置。\n\n5. 结论与展望\n短期市场波动加剧：在通胀压力和美联储政策不确定性的背景下，市场波动性可能进一步加大。风险资产的表现将高度依赖CPI数据和美联储的政策信号。\n\n关注CPI数据：下周公布的CPI数据将成为市场焦点。如果CPI高于预期，可能进一步推迟降息预期，导致风险资产继续承压；如果CPI符合或低于预期，市场可能暂时缓解对通胀的担忧。",
+      "timestamp": "Feb 8, 2025 · 1:17 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1888034434366193693#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1884665921824055803#m",
+      "content": "接住新年泼天的富贵",
+      "timestamp": "Jan 29, 2025 · 6:12 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1884665921824055803#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1882043992487149695#m",
+      "content": "woc，又翻倍了",
+      "timestamp": "Jan 22, 2025 · 12:33 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1882043992487149695#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1881978371451875353#m",
+      "content": "卧槽，早上发的，下午就翻倍，xdm冲太快了",
+      "timestamp": "Jan 22, 2025 · 8:13 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1881978371451875353#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1881914758766682357#m",
+      "content": "今天 AI 太 FOMO 了，下一步是溢出，找些小市值承接溢出，目前找了个 $POSTIZ , 市值比较诱人，经历过暴力洗盘",
+      "timestamp": "Jan 22, 2025 · 4:00 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1881914758766682357#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1881911176348774857#m",
+      "content": "前几天认为 AI 这波上涨行情结束进入震荡期，于是把手上的 AI 币拿去组 LP，吃着 500% 以上的 APR，结果周六 $TRUMP 吸血，我们 LP 全部超出区间了，接了一手 AI，在今天迎来了福报",
+      "timestamp": "Jan 22, 2025 · 3:46 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1881911176348774857#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1881864032225014236#m",
+      "content": "$LUMO @lumolabsdotai 目前关注的人还比较少，Holder 数也少，前排全是钻石手，还被 @rajgokal 点评项目做得不错，等待进一步价值发现",
+      "timestamp": "Jan 22, 2025 · 12:38 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1881864032225014236#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1881727612160250342#m",
+      "content": "忍住，等到周五日央行加息后再操作",
+      "timestamp": "Jan 21, 2025 · 3:36 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1881727612160250342#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1881567554629771404#m",
+      "content": "资金回流 AI",
+      "timestamp": "Jan 21, 2025 · 5:00 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1881567554629771404#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1881174728754573795#m",
+      "content": "其他人发是增量博弈，同一批人发是存量博弈",
+      "timestamp": "Jan 20, 2025 · 2:59 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1881174728754573795#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1881022212645503267#m",
+      "content": "AI 可以对冲 $TRUMP ！昨天抄底了 $BUZZ  $AIOS $ARC 发现今天 $TRUMP 一跌，这仨就猛涨",
+      "timestamp": "Jan 19, 2025 · 4:53 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1881022212645503267#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1880882353842835509#m",
+      "content": "冷静冷静，真正的金狗，都有足够多的上车时间",
+      "timestamp": "Jan 19, 2025 · 7:37 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1880882353842835509#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1877650895011500035#m",
+      "content": "$AIXBT 上了 bn，500M 的市值，加仓 $SPERG , 估值会溢出到同类项目，看到 100M (1/5 的 $AIXBT 市值)",
+      "timestamp": "Jan 10, 2025 · 9:37 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1877650895011500035#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1877567305594573034#m",
+      "content": "有产品的好处，坚挺🚀",
+      "timestamp": "Jan 10, 2025 · 4:05 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1877567305594573034#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1877236182351811020#m",
+      "content": "$SPERG @sperg_ai , 可以做技术面、基本面、舆情面分析的 AI Agent，DEV @SpergDev 最近还拿了 @AethirCloud 生态基金，目前产品还在完善当中，市值 17M，保持关注产品开发进度。",
+      "timestamp": "Jan 9, 2025 · 6:09 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1877236182351811020#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1876559671420661915#m",
+      "content": "最终还是被 bn 搅了🥲",
+      "timestamp": "Jan 7, 2025 · 9:21 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1876559671420661915#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1875750368409534784#m",
+      "content": "这两周一直在忙着跨国搬家，所以没有特别早关注到 AI Agent 的变化，在 30 号的时候，安定下来，才开始研究，抓住的 $SWARMS , 一路加仓，目前达到了我第一目标价位。所以 AI Agent 什么时候开始研究都不晚，机会一直都在的，这两天整理一些心得。",
+      "timestamp": "Jan 5, 2025 · 3:45 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1875750368409534784#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1875743566909338094#m",
+      "content": "《为什么说 AI Agent 是下一个 DeFi Summer 时期？》\n\n最近 AI Agent 火热，每天基本上只睡 4 个小时去看项目，这个周期从未如此兴奋过，除了自己的 Portfolio 每天醒来都有惊喜外，最重要的是，加密圈终于迎来全新的创新周期了！\n最近 AI Agent 的快速崛起，成为行业讨论的焦点。也有许多人质疑，这会不会只是另一场短暂的狂热，最终一地鸡毛？但我相信，AI Agent 将是接下来最大的 Alpha，它的影响力将复刻甚至超越 2020 年的 DeFi Summer。\n\n1. 投资机会的新范式：反 VC 与 Fair Launch\n过去两年，加密圈兴起了一个口号，叫“反 VC”。\nVC 模式在加密领域引发了诸多问题：VC 的大规模进入抬高了项目的估值，只有上头部交易所后，VC 才有退出的可能性，上头部交易所，需要各种好看的数据以及高昂的上币费，提高了 Web3 的创业成本，使得项目方需要更依赖 VC 而不是社区。同时，随着代币的不断释放，持币人的权益被稀释，二级市场的长期投资者难以获得理想的回报。这导致了项目方、VC 和二级市场投资者之间的利益冲突，在一个增量市场中却陷入了零和博弈的困境。\n\n在 AI Agent 出现之前，我们经历了 MEME 币和铭文等 Fair Launch（公平发行）项目的热潮。虽然这些项目没有代币稀释的担忧，但也缺乏实际价值支撑，投资者需要依赖难以量化的社区共识和舆情来判断买卖时机，不适合大规模爆发，也难以吸引长期投资者的加入。\n\n2. AI Agent 的崛起：价值与共赢\n幸运的是，在无序的 MEME 热潮中，我们找到了 AI Agent 的方向。通过 Fair Launch 平台以低市值发行代币，项目方发布白皮书，吸引社区共同建设。同时，项目方选择锁仓自己的代币，专注于产品开发。\n\n这种模式带来了多重优势\na. 可量化的经济指标：有了实际的产品和服务，项目就有了可以量化的经济指标，如用户增长、交易量、营收等。这为投资者提供了更可靠的评估依据。\nb. 低估值，高潜力：没有头部上交易所高成本的压力，估值可以足够低，存在大量从 1000 万美元市值增长到 10 亿美元的机会。这为投资者和 VC 提供了更低的试错成本和更高的潜在回报。\nc. 无代币解锁抛压：没有80%的代币解锁周期，市场上不存在巨大的代币解锁抛压，更有利于二级市场投资者的参与。\nd. 激励项目方：项目方看到自己锁仓的代币价值上涨，更有动力在锁仓期结束后以更高的价格出售。这激励他们在锁仓期内全力开发产品，完善商业模式，实现代币价值的最大化。\ne. 吸引二级市场投资者：低市值、高成长性和可量化的经济指标，降低了投资者的决策难度，吸引了更多二级市场的长期资金进入。\n\n3. 超级个体的时代：AI Agent 与人才聚集\na. AI 时代的到来标志着超级个体的崛起。\nAI 工具的普及让个体开发者和小团队拥有了前所未有的生产力，能够在短时间内实现突破性的创新。加密货币作为一个极具开放性和灵活性的融资与资产发行平台以及极客性，为这些超级个体提供了施展才华的舞台。\n过去两年一直在做 Web3 公益培训，报名参加我们课程的学生大多数有良好的学术背景，可以验证加密行业对聪明、有批判性思维的年轻人有着天然吸引力。许多来自顶尖高校的学生在完成培训后选择全职进入 Web3。AI Agent，作为 AI 与 Web3 的完美结合点，将进一步激发这些人才的创造力和想象力。\n\nb. AI 基础设施的成熟：创新的最佳时机\n随着 AI 技术的发展，基础设施已经逐渐完备。从大型预训练模型的优化到分布式计算的普及，这为 AI Agent 的应用创新奠定了坚实的技术基础。现在正是 AI 框架与应用百花齐放的时刻，加密货币的快速试错机制与 AI 技术的无限可能性结合，将为市场带来前所未有的突破。\n\n4. 结语：共赢的未来\nAI Agent 的崛起，不仅重新定义了投资机会，也为项目方、投资者和社区带来了共赢的可能性。当超级个体的生产力被 AI 极大提升，创新速度将呈指数级增长。在这个节点上，无论是开发者还是投资者，都不应错过这个可能引领下一个加密浪潮的核心机遇!",
+      "timestamp": "Jan 5, 2025 · 3:18 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1875743566909338094#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1875677721910767758#m",
+      "content": "$BUILD 无需代码，一键部署 AI Agent，产品丝滑，Cool！",
+      "timestamp": "Jan 4, 2025 · 10:56 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1875677721910767758#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1875590516668252299#m",
+      "content": "睡前被 $BUZZ 涨醒了",
+      "timestamp": "Jan 4, 2025 · 5:10 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1875590516668252299#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1875548321412214877#m",
+      "content": "$msc 就是 $swarms 杠杆",
+      "timestamp": "Jan 4, 2025 · 2:22 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1875548321412214877#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1875426363471229160#m",
+      "content": "$ZAILGO 昨天获得空投的地址，今天又有新的空投",
+      "timestamp": "Jan 4, 2025 · 6:17 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1875426363471229160#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1875365146174066942#m",
+      "content": "随着 $SWARMS 价格的暴涨，大家会开始关注 @swarms_corp 生态，是时候反哺生态了，卖了一点 $SWARMS  配置到 Dev @@KyeGomezB Profile 中提到的项目，也是生态第一个项目@mcs_swarm",
+      "timestamp": "Jan 4, 2025 · 2:14 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1875365146174066942#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1875180364064608613#m",
+      "content": "$ZAILGO 空投进一步吸引注意力!",
+      "timestamp": "Jan 3, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1875180364064608613#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1875138105101193633#m",
+      "content": "$BIO 一来就 10亿的市值，资金从 #desci 回流 #AIAgent ，并且从大市值溢出到小市值，目前减仓大市值的ai agent，继续持有 $SWARMS $Zaligo $BUZZ 能走到对岸吗？",
+      "timestamp": "Jan 3, 2025 · 11:12 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1875138105101193633#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1875052488203837856#m",
+      "content": "既然市场想要 AI Agent + DeFi 的产品，自然会有这样的产品出现，再叠加 Dev 各种大奖拿到手软的 Buff",
+      "timestamp": "Jan 3, 2025 · 5:32 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1875052488203837856#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1874804273265172928#m",
+      "content": "$SWARMS 被提得越来越多的，大家只要一对比其他框架的市值，自然会去买 $SWARMS",
+      "timestamp": "Jan 2, 2025 · 1:05 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1874804273265172928#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1874790014254825566#m",
+      "content": "一月份效应起飞🛫️",
+      "timestamp": "Jan 2, 2025 · 12:09 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1874790014254825566#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1874691142941560992#m",
+      "content": "注意力经济需要注意力飞轮",
+      "timestamp": "Jan 2, 2025 · 5:36 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1874691142941560992#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1874677446638981121#m",
+      "content": "SOFR 回归正常水平，季末+年底做账流动性紧张得到修复，MSTR、COIN 盘前上涨，2025 年美股开盘第一天，期待一月份效应。\n\n以下为科普：\n1. 年底股票下跌和流动性紧张是由年度结算、税收优化和流动性季节性波动等因素引起的。\n2. 一月份效应通过资金回流、买盘恢复和乐观情绪推动，尤其利好小市值股票。\n3. 在牛市中，一月份效应更显著，驱动整体市场上涨；在熊市中，一月份效应较为局限，更多表现为小市值股票的局部反弹。",
+      "timestamp": "Jan 2, 2025 · 4:41 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1874677446638981121#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1874440134839714050#m",
+      "content": "如何对AI MEME估值？\n\n先声明这个问题没有标准答案，这篇只是在阐述我的一些观察和思考，发出来供大家讨论。\n\n太长不看版本：\n\n1、对于AI16Z/Virtual两个跑出来的体系，交易各种小弟按照生态估值占比方式即可。\n\n2、对于野生体系/单体项目，估值方式的差别在于是否能到100M，到达了则按照生态候选来估，如果没有就是看他目前手上的牌足不足够冲破100M。\n\n正文：\n\n在AI agent爆发之前的11月，MEME的估值其实比较容易，我把他们分为阴谋和阳谋，参考的指标就是上没上交易所，上了什么交易所，因为那时候的MEME到了1亿开始就是大资金的战场，是看做市商，SOL foundation/Base（生态方）和交易所的怎么想的区域。\n\n那时候上Bybit合约大概在150-300M，上币安合约在300-500M范围，上币安现货能到500M以上；另一条路线上Foundation深度站台300M范围，如果当作规划的路径头牌配合上线交易所合约则能冲到500-700M。\n\n判断的依据是那时候交易所和链上的用户是非常割裂的，不同交易所能够触及的用户群体不同，上线会有一批用户博弈二级机会，尤其是在Neiro和ACT的财富效应带来的交易所用户Fomo的情况下。那时候撇开Goat的绝对领先地位（Foundation深度站台+上币安合约），其他的链上MEME很难冲到1B+的位置。\n\n这里对新MEME的估值基础是上交易所是到点出货。\n\n情况随着交易所上线合约速度变快，和整体链上行情从多点开花到Ai agent单点突破开始产生了变化，前者让MEME上线交易所合约的样本数增多，财富效应减退，这种倒退在Binance Alpha的出现后到达了极值。\n\n后者的异军突起我认为是一方面一批用户开始认可AI agent的价值，选择去链上囤积现货，带来了一波头部资产的涨幅。当链上用户见到了新钱涌入，并且Ai16Z和Virtual系实际跑出了产品，再加上交易所的代币大幅跑输链上标的，社交媒体充斥着Fomo的情绪，一批优质Agent小弟跑出，大家携手留住了热钱，形成了梯云纵的感觉。\n\n至此原来对大市值MEME采用基于交易所逻辑的估值体系失效了，当资金从交易所去链上并适应新的估值逻辑时，交易所不再是MEME的终点，AI MEME的终点不再是900M的ACT和1B的Goat。\n\n头部的AI16Z和Virtual超越了原有估值的天花板，大家对他们的估值预期不是上什么所，而是会产生什么样的生态。这里Virtual还叠加了Base不发币带来的价值的替代，所以会比AI16Z高。AI16Z Shawn的感觉更像是AC，有一种大主教的气质。\n\n既然判断标准是生态，那具体到小弟上逻辑就比较简单了，头号小弟能吃市值的%多少，二号小弟能吃市值的%多少，潜在竞品能吃多少，相关联的合作方能吃多少都是可以大概估计出来的，总不能生态老大2B，头号小弟10M，一旦出现一定会有热钱把头号小弟买上去的。\n\n这就类似ETH/BTC，UNI/ETH多少有个比值的上下线的道理，在AI agent里大概就是Game/AIXBT之于Virtual，Eliza之于AI16Z。落到实际交易就是看新出现的小弟会不会挑战原来小弟位置，通过技术，筹码结构，Foundation扶持程度等等指标就可以判断能不能上。\n\n顺带一提这种估值方式也广泛的被用于DEFI Sez中，比如说CVX/CRV War标的之于CRV是最好的例子，Sushi/UNI的对标也在20年底21年初被充分证明。在上涨过程中，这种估值逻辑因为一次次被证实会不断在大家心中被强化，从而形成条件反射。\n\n什么时候会被打破？我认为是当大哥的涨势暂停时，小弟会受到更大的冲击，然后就看在牛市是否继续，519后之所以Luna、FTM等一票大公链能更高的核心原因是经过了充分的筹码洗牌。目前AI系的两个野生大哥突破了10亿美元的制肘，什么时候到百亿美元的门槛以及在这之前需要多少次洗牌，这些问题的决定了接下来该怎么玩儿。\n\n聊完了体系内，再聊聊看体系外，目前体系外的一个标杆我认为是100M，到了这个范围能够收获的关注就会大很多。\n\n一方面是因为100M是个心理关口，Pump发射的独立MEME如果不是哪个生态嫡系想要直通100M基本上不可能，那么就需要不断的在10-50M洗盘提纯筹码结构，这个过程中进来的人会瞄准100M作为出货点，冲破100M需要资金实力足够强大。\n\n另一方面到了100M的项目的触达率是足够的，主打的主题会逐渐成为共识，这样未来在做任何技术或者产品上的升级大家会当做利好的信号。\n\n举个例子就是Arc第一波破了100M再回调也很难跌破，大家的共识也是这个团队有很强的开发能力，框架媲美AI16Z，就会产生更高的预期。\n\n类比下来LMT就是突破了值得关注；Spore两次80M看看能不能到100M，在努力依靠生娃机制增加传播度消化卖压冲过去；AVA最高点90M差一口气，在努力靠发行平台/VC币发行卷土重来。\n\n所以对于100M以下的标的，估值体系比较难以量化，更多的就是看传播度，然后看筹码结构，判断的框架可以做到很复杂。之前比较好的参照指标是Moonshot选币但最近也比较失灵。这段区间的项目也是最多的，利润最丰厚的也是这段，泛泛而谈的话独特概念，强社区，大KOL站台的会比较容易成功。\n\n对于100M-1B的项目，一方面受限于1B以上大哥能不能开拓出新的天空，一方面看能不能形成自己的生态系用小马拉大车把自己做成龙头。",
+      "timestamp": "Jan 1, 2025 · 12:58 PM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1874440134839714050#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1874415830047621542#m",
+      "content": "#KekiusMaximus $KM 买的是以太上的，马斯克换名字换头像是重大事件，具有一定可持续性，而 SOL 上面太多了，以太上只有这个，注意力更集中一些。昨天买的时候，只有 4k 的 Holders，今天早上一看，Holders 增加到 20k，共识在加强，进一步加仓",
+      "timestamp": "Jan 1, 2025 · 11:22 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1874415830047621542#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1874347769575727452#m",
+      "content": "2025 年宏观经济、比特币以及 Alpha 赛道展望\n\nTL;DR\na. 宏观展望：在货币政策受限、流动性不足的背景下，美国财政政策的发力成为关键。特朗普的能源政策和地缘政治缓和可能压低通胀，但加征关税和移民收紧可能带来新的通胀压力。美联储或因大量发债被动转向QE，需密切关注美债发行与流动性变化。\n\nb. 比特币展望：比特币现货ETF获批引入机构资金，MicroStrategy等企业因配置比特币实现股票暴涨，带动更多企业效仿，将比特币纳入资产负债表。企业购买比特币的正向飞轮效应，成为比特币市场的核心驱动力。\n\nc. Alpha 赛道展望：政策支持下的美元稳定币、借贷和美债 RWA 项目构成政策驱动的核心赛道，同时 AI + Crypto 在全球注意力经济中崭露头角，凭借融资便利性和创新潜力，带来大量百倍机会。\n\n1. 宏观展望\n1.1 特朗普财政主张对通胀的影响\na. 通胀上升压力\n财政扩张：减税和扩大政府支出将直接刺激需求，但可能推高通胀，尤其是在劳动力市场紧张和供应链效率尚未完全恢复的背景下。\n关税政策：特朗普的贸易保护政策可能通过提高进口商品成本加剧通胀压力。\n移民政策：收紧移民政策可能减少劳动力供给，推高工资成本，进一步推动通胀。\nb. 通胀下降的抓手\n能源价格：缓解俄乌冲突和中东战争将减少全球能源供应的不确定性，降低能源价格。\n美国财政部部长提出的能源生产目标（每日增产300万桶石油或等量能源）可能通过增加供应直接压低能源成本，并传导至整体通胀水平。\n\n1.2 美联储政策：从 QT 到 QE 的转向为重要拐点\na. 降息空间有限\n从 9 月和 12 月的 FOMC 会议看，美联储主席鲍威尔的政策立场明显偏向民主党，特朗普上台后更倾向于收紧的货币政策路径，降低过快降息的可能性。\n如果特朗普的政策导致通胀压力持续上升，美联储可能进一步收窄降息空间。\nb. 美债发行与货币政策转向\n在降息空间有限的情况下，通过大规模美债发行促使美联储被动增加国债持有量，可能成为2025年的核心财政政策工具。随着财政赤字扩大，美债供给增加，市场需求若不足，美联储可能被迫从量化紧缩（QT）转向量化宽松（QE）以接盘国债。关注美联储资产负债表规模的变化以及美债拍卖结果，尤其是美债收益率的变化和市场对流动性的反应。\n\n2. 企业资产负债表配置比特币带来的正向飞轮效应是重要的新增购买力\n以MicroStrategy为代表的企业，通过配置比特币实现了资本增值效应，为其他企业提供了效仿的范例。\n2.1 MicroStrategy的成功案例\nMicroStrategy利用发行债券融资购买比特币，其股票在2024年比特币牛市中实现了一年十几倍的涨幅，最终顺利进入纳斯达克100指数。\n股票价格的飙升直接提升了市场对将比特币纳入企业资产负债表的信心。\n\n2.2 企业效仿效应\n科技公司和其他上市企业纷纷讨论将比特币作为战略储备资产。购买持有比特币的公司股票相对于直接购买比特币或ETF更为简单，尤其适合全球资本市场中的大多数投资者。\n\n2.3 正向飞轮效应的形成\n第一阶段：比特币价格上涨 -> 公司持有比特币资产升值 -> 股票价格上涨。\n第二阶段：公司股票价格上涨 -> 投资者购买股票 -> 企业增加比特币配置。\n第三阶段：更多公司效仿 -> 整体需求进一步增加 -> 比特币价格再度上涨。\n\n3. 市场 Alpha\n在流动性有限、市场环境复杂的背景下，2025 年难以有长时间可持续的“山寨季”，关注由政策引导和资本聚焦带来的 Alpha 机会。\n\n3.1 政策驱动的 Alpha：去中心化金融的美元霸权\na. 特朗普的链上基金: 政策引导的明确方向\n特朗普通过链上基金配置美元稳定币相关标的（AAVE、ENA、LINK）、借贷（AAVE）、和与美债相关的 RWA 项目（ONDO），显然是为了强化美元在去中心化金融（DeFi）领域的地位，巩固其全球货币霸权：\n美元稳定币\n美元稳定币在加密市场的使用是实现美元全球流通的有效工具。\n支持美元稳定币的政策方向会为相关项目带来政策红利。\n\n借贷协议\n借贷协议是 DeFi 的核心基础设施，与美元稳定币相结合，能强化美元的去中心化信用创造。\n特朗普基金可能会支持一些头部借贷协议，使其更易被传统金融机构接纳。\n\n美债相关 RWA\n将美债等传统金融资产映射到链上，可以为加密市场提供低风险、高透明度的收益产品。\n此类标的因具备成熟的商业模式和稳定的收入来源，将吸引传统金融机构参与。\n\nAlpha 来源：政策带来的确定性收益： 此类标的受到政策和资本的双重支持，有较高的安全边际，收益相对稳健。\n传统金融机构的参与： 随着传统机构的认可和进入，这些标的可能成为低风险高回报的核心资产。\n\n3.2 注意力经济驱动的 Alpha：AI + Crypto 的百倍机会\nAI + Crypto 的结合正成为全球注意力经济和技术创新的焦点，催生了大量潜在的百倍机会。以下是投资者需关注的核心逻辑\n注意力驱动红利：AI 热潮吸引了全球资本的关注，Web3 项目因其融资便利性成为创新爆发的温床。\n超级个体推动：加密货币的开放性和极客圈的认可度，使其成为超级个体创新的首选领域。\n大模型驱动的百花齐放：围绕大模型的 AI 创新产品处于早期发展阶段，需要通过实际体验挖掘具备百倍回报潜力的项目。\n\n以上是我对 2025 年的展望，最后，祝大家在 2025 年挖掘到属于自己的百倍Alpha！",
+      "timestamp": "Jan 1, 2025 · 6:51 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1874347769575727452#m",
+      "author": "0xScottBTC"
+    },
+    {
+      "id": "1871369658697433532#m",
+      "content": "昨晚宏观周会分享的逻辑，今天涨幅榜得到验证。\n从特朗普的portfolio 看未来投资的主旋律\n，宽松已过半，未来货币政策空间受限的情况下，投资围绕美元霸权展开。\n欢迎加入@GryphsisAcademy 参与每周的分享与讨论",
+      "timestamp": "Dec 24, 2024 · 1:37 AM UTC",
+      "url": "https://twitter.com/0xScottBTC/status/1871369658697433532#m",
+      "author": "0xScottBTC"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T00:26:00.126Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 27089,
+    "cursorTrail": [
+      "DAAHCgABG3vmyxV__-oLAAIAAAATMTk0MzIxMDI0ODE5OTkwMTY4NQgAAwAAAAIAAA",
+      "DAAHCgABG3vmyxV__9ULAAIAAAATMTk0MDAwMzYyMzcyMDkzOTg2NAgAAwAAAAIAAA",
+      "DAAHCgABG3vmyxV__8ELAAIAAAATMTkzNTc2Mzc4MDI1Mzk5OTYxMwgAAwAAAAIAAA",
+      "DAAHCgABG3vmyxV__68LAAIAAAATMTkxNDIxNTIyOTIxMjU0MTA3MAgAAwAAAAIAAA",
+      "DAAHCgABG3vmyxV__5wLAAIAAAATMTkwNTQyMzg1MDk4NjUwNDY1NQgAAwAAAAIAAA",
+      "DAAHCgABG3vmyxV__4gLAAIAAAATMTg5Mjg0ODg4NTEzNzM2MzA2NAgAAwAAAAIAAA",
+      "DAAHCgABG3vmyxV__3QLAAIAAAATMTg5MTUwMTU2ODk3NTA2NTU4MQgAAwAAAAIAAA",
+      "DAAHCgABG3vmyxV__18LAAIAAAATMTg4OTk4NzU0ODI0MTYwNDk2MAgAAwAAAAIAAA",
+      "DAAHCgABG3vmyxV__04LAAIAAAATMTg4MjA0Mzk5MjQ4NzE0OTY5NQgAAwAAAAIAAA",
+      "DAAHCgABG3vmyxV__zoLAAIAAAATMTg3NTQyNjM2MzQ3MTIyOTE2MAgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

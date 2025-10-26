@@ -1,0 +1,3044 @@
+# defioasis.eth (@defioasis)
+
+- 抓取时间：2025-10-20T23:47:30.267Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：26431 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：11
+- 抓取尝试：1
+- Cursor 链：10 条
+- 账号统计：粉丝 7632，关注 575，推文 4323，点赞 4199
+- 站外链接：https://t.co/wbNYWTh775
+- Twitter：https://twitter.com/defioasis
+- 头像：https://pbs.twimg.com/profile_images/1730891848569491456/l62D4NXV_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1363770999829766152/1739877064
+- 认证：Blue Verified
+
+> 账号简介：
+> Researcher | Investor | Data-Driven
+> Focus On-Chain: Meme, Cex-on-Chain, Tokenized Stocks, Prediction Markets...
+> Bet on yourself, Believe in yourself
+
+---
+
+## 1. Oct 20, 2025 · 6:04 AM UTC · 1980153250977665417#m
+- 链接：https://twitter.com/defioasis/status/1980153250977665417#m
+- 作者：@defioasis
+
+> 也不知道该说 CJ 是天才还是鬼才
+>  
+> 在 Season 1 积分结束后，Limitless 用户增长下滑的厉害
+>  
+> CJ 挑起 Binance 和 Coinbase 交易所 Wars 的话题给狠狠地吸了一波关注，现在又反过来集成 BNB Chain 和用 BSC Meme 带话题。如其愿，Limitless 新用户重回增长，一日新增 2.67k 交易用户..
+
+## 2. Oct 20, 2025 · 3:53 AM UTC · 1980120114180886922#m
+- 链接：https://twitter.com/defioasis/status/1980120114180886922#m
+- 作者：@defioasis
+
+> Four Meme 代币创建数逐渐下滑，从单日一度超过 2-3 万回落至单日 5-6k，但仍然高于 Meme Rush 和 Binance 独家内盘之前的数据。Pump Fun 也借此重新反超 Four Meme
+>  
+> 不得不说，Pump Fun 在 Launchpad 赛道上的持续性还是很强，这一路走来，也经历过 LetsBonk、Believe、Zora Coins、Four Meme 和各种新 Launchpad 的挑战，但都难以熬过 Pump🤔
+
+## 3. Oct 18, 2025 · 2:31 PM UTC · 1979555995404935477#m
+- 链接：https://twitter.com/defioasis/status/1979555995404935477#m
+- 作者：@defioasis
+
+> 一直在想支付赛道普通用户有什么机会。支付离不开稳定币，普遍的参与方式是给要做支付的协议存钱。另一个早期机会点可能是 x402。简单来讲，x402 是由 Coinbase 推出的基于 HTTP 402 状态码构建的支付协议，无缝集成到 HTTP 请求中；像 Visa、Google 和 AWS 等都已支持
+>  
+> 目前对 x402 重要的采用方向是实现“真人+物+AI Agents”的链上交易和支付。在近一周，x402 的交易价值、笔数和用户都创下了新高；当然规模还很小，不到 300 个地址在 2.44 万笔交易中完成了 20.8 万美元的 USDC 交易价值转移（如支付）
+>  
+> 粗浅地理解，把 x402 支付拆解一下会有机器对机器（M2M）和 AI Agents 对 AI Agents（A2A）间的即时支付，比如前者代表是 peaq，后者代表有 PayAI、KITE AI 等
+>  
+> 风险也蛮清晰，因为谁都可以用 HTTP 402 建协议，Coinbase 推出的 x402 并非是对这一技术的垄断，未来可能会受到其他的竞争，但目前来看 x402 对 Crypto 是最为友好的
+>  
+> 最后放上最懂链上支付数据大神 @obchakevich_ 做的 x402 生态图，持续研究ing
+
+## 4. Oct 18, 2025 · 6:57 AM UTC · 1979441702906794458#m
+- 链接：https://twitter.com/defioasis/status/1979441702906794458#m
+- 作者：@defioasis
+
+> 预测市场扫尾盘的打法看到越来越多的人关注。之前在 Limitless 刷分的时候便是利用这套方法，但市场越小容量越低
+>  
+> 比如 Polymarket、Limitless 都提供了许多对于主流币短时价格的预测，一般都是在 XX 时间结束前能否高于/低于某个价格。专门找那些 Ending Soon 的盘口，虽然这些即将结束的盘口的概率大多在 95+% 以上，但胜在风险较低且可以快速了结
+>  
+> 之前用 Limitless 实测下来，在 99.8% 投入 ~10u，最终可以获利 0.02u（盈利 0.2%）；99.1% 则可以获利 0.12u。如果能碰到一些定价错误的盘口那就是赚到了。不过，容量还是相当有限，像 Limitless 吸尾盘单个盘百来 u 就差不多到头了，所以这套打法对于预测市场的品种丰富度非常重要
+
+## 5. Oct 17, 2025 · 2:07 PM UTC · 1979187516373897538#m
+- 链接：https://twitter.com/defioasis/status/1979187516373897538#m
+- 作者：@defioasis
+
+> 战壕退出流动性😭😭
+>  
+> 越来越卷的 Launchpad 还有什么值得改进的地方？多链流动性聚合是一个方向。现在市场链上流动性不佳，同名 Meme 在不同链不同平台争夺流动性，甚至演化出 0x4444 和 4444 结尾互相打架，这些分流进一步限制了代币的市值天花板
+>  
+> Printr 做的即是在多链上推出同一种代币，已支持在 Solana、BSC、Ethereum 和 Arbitrum 等 7 个网络同时推出。另外，像 HyperEVM、Monad 和 Plasma 等新兴链也在构建中
+>  
+> 不过，发币最重要的还是低廉的价格。之前内测的时候，发现多链并发的成本并不便宜，发射的链越多 Bridge Cost 会叠加。看看正式版上线后多链发射的成本能不能压下来
+
+## 6. Oct 17, 2025 · 4:51 AM UTC · 1979047573970391525#m
+- 链接：https://twitter.com/defioasis/status/1979047573970391525#m
+- 作者：@defioasis
+
+> 前几天跟朋友吃饭聊“老树开新花”，现在叙事枯竭，老叙事有没有可能焕发新机会，比如 NFT。今天一看发现，最大的 NFT 交易平台 OpenSea 的主营业务已经是 Token 交易…
+>  
+> 从 9 月中下旬以来，OpenSea 的 Token 日交易量已逐渐超过其 NFT 交易量。近日 OpenSea 的 Token 日交易量达到了 4.74 亿美元新高，而 NFT 交易量仅不到其中的 3%
+>  
+> 从收入层面上看，过去 30 天，Token 交易为 OpenSea 带来了 2,550 万美元收入（从每笔交易中收取 0.825% 的费用），是同期 NFT 交易收入的 5 倍；Token 交易主要集中 Base、Arbitrum 和 Ethereum，估摸是有一定的 wash-trading 行为
+>  
+> 虽然 NFT 贡献的交易量较低，但毕竟作为最大的 NFT 交易平台，OpenSea 的 NFT 周交易地址可以达 15-30 万个，用户基数还是比较可观，特别是在持续性的潜在空投预期的宝箱活动之下
+>  
+> 不管怎么说，OpenSea 起码还是在折腾，总是要比隔壁软 rug 的铁顺强… 但抛开空投层面，似乎也没见到什么大的变化？
+
+## 7. Oct 16, 2025 · 10:49 AM UTC · 1978775352139972870#m
+- 链接：https://twitter.com/defioasis/status/1978775352139972870#m
+- 作者：@defioasis
+
+> Backpack 合作的 Superstate 股票代币化方案跟之前 Ondo、xStocks 最大的差异点是上市公司许可，即上市公司通过 Superstate 发行官方版的股票代币，股票代币由上市公司主体直接发行，最大好处是合规可控
+>  
+> 比如前段时间 Galaxy Digital 推出的官方股票代币 GLXY 便是采用 Superstate 方案。目前还有 SharpLink 和 Forward Industries 发行了官方股票代币。不过，如 GLXY 股票代币规模实际长期停滞，面临着和 xStocks 方案同样的问题，拥有发行权的主体动力发行不足。现在情况是发了也不知道有啥用，没人交易，也没有 DeFi 的可组合性。由于规模小，币本位的流动性不足，这又会直接影响交易体验
+>  
+> 在链上买股票这件事上，目前来看 Ondo 的模式似乎还是较为理想和巧妙。Ondo 充当股票代买 broker，平台本身合规；通过与第三方 Wallet 与聚合器等合作作为分发渠道隔离监管，相当于是用户在第三方 Wallet 下单后，Wallet 把订单发送到 Ondo 平台，Ondo 平台在进行股票的代买卖。使用 Ondo 购买股票即为对股票代币的铸造，股票代币实际还充当了股票凭证的职能
+
+## 8. Oct 15, 2025 · 12:55 PM UTC · 1978444672134705157#m
+- 链接：https://twitter.com/defioasis/status/1978444672134705157#m
+- 作者：@defioasis
+
+> 统计了与由 Four Meme 创建的代币的 376.3 万个交易地址中（仅含买入和卖出量均大于 0 的地址）
+>  
+> - 278.9 万个地址已实现亏损（占比 ~74%），即在交易 Four Meme 代币中能保持累积正 PnL 即跻身 Top 25%
+>  
+> - 有 151 个地址亏损超过 100 万美元，区间合并亏损 3.74 亿美元
+>  
+> - 266.8 万个地址（~70.9%）亏损 0-1,000 美元，区间合并亏损 1.17 亿美元
+>  
+> - 另一方面，创造了 132 个百万富翁，区间合并盈利 3.45 亿美元
+>  
+> - 2,901 个地址实现利润 10 万 – 100 万美元，区间合并盈利接近 7 亿美元
+>  
+> - 22,318 个地址实现利润 1 万 – 10 万美元，区间合并盈利 6.21 亿美元
+
+## 9. Oct 14, 2025 · 4:31 AM UTC · 1977955482540351921#m
+- 链接：https://twitter.com/defioasis/status/1977955482540351921#m
+- 作者：@defioasis
+
+> Four Meme 头号 DEV：0xdb94837755349696c7933b86ac92901e67e24a6b
+>  
+> 累计创建了 4.7k+ 个代币，毕业代币数 22 个，毕业率为 0.466%（Four 平台总毕业率为 1.3%）
+>  
+> 自 10 月以来，这个 Four 头号 DEV 没有 1 天出现亏损，总实现利润达 14.38 万美元，其中在 10 月8 日一天印钞超过 4 万美元，最低的单日也有超过 2,000 美元入账
+>  
+> 自己发的自己先买，快速地 Flip。过去 7 天里，其有超过 21% 的代币交易在 5s 内完成买卖
+
+## 10. Oct 13, 2025 · 11:17 AM UTC · 1977695080715858404#m
+- 链接：https://twitter.com/defioasis/status/1977695080715858404#m
+- 作者：@defioasis
+
+> 1011 大额清算日 Perp DEX Vault 表现
+>  
+> Hyperliquid HLP Vault：当日 PnL +$41.2m；现 TVL $500m，累积 PnL $121m
+>  
+> Lighter LLP Vault：当日 -5.35% 亏损；TVL 从 10 日峰值 $423m 下滑至次日 $345m 后反弹，现 TVL $394m
+>  
+> edgeX Elp Vault：当日 PnL +$3.93m；现 TVL $145m，累积 PnL $7.43m
+>  
+> Paradex Gigavault：当日 PnL +~$72.6k；现 TVL $46.4m，累积 PnL $4.03m
+>  
+> Orderly OmniVault：当日 PnL +$205k；现 TVL $21.2m，累积 PnL $1.2m
+
+## 11. Oct 11, 2025 · 1:21 AM UTC · 1976820478967943237#m
+- 链接：https://twitter.com/defioasis/status/1976820478967943237#m
+- 作者：@defioasis
+
+> 在极端行情下，Perp DEX 要面临着比 CEX 更大的冲击
+>  
+> - 全网 24 小时爆仓 192 亿美元，Hyperliquid 爆仓 103 亿美元，几乎是 Binance 的 5 倍？
+>  
+> - 最大单笔爆仓发生在 Hyperliquid - ETH-USDT，价值 2.03 亿美元
+>  
+> - Hyperliquid HLP Vault 爆赚 4,000 万美元，一夜间 PnL 从 8,000 万飙升至 1.2 亿，而 HLP Vault 规模也就 4.12 亿美元
+>  
+> - 大额流出，Hyperliquid 创下最大单日净流出记录，达 6.42 亿美元
+
+## 12. Oct 10, 2025 · 11:13 AM UTC · 1976607063775318042#m
+- 链接：https://twitter.com/defioasis/status/1976607063775318042#m
+- 作者：@defioasis
+
+> 推出专属内盘的首日，Binance Wallet Terminal（Web）在 BNB Chain 上的单日交易量达到 1.82 亿美元新高
+>  
+> 作为对比，在 Solana 上占据 60%+ 市场份额的 Axiom 同日在 Solana 上的交易量为 6,350 万美元，仅相当于 Binance Wallet Terminal 的 1/3
+>  
+> 在这波 Binance 与 Four 联动的 BSC Meme 行情下，Solana Meme Launchpad 代币创建数和 Meme 交易平台交易量都下滑的厉害
+
+## 13. Oct 9, 2025 · 11:39 AM UTC · 1976251089302454447#m
+- 链接：https://twitter.com/defioasis/status/1976251089302454447#m
+- 作者：@defioasis
+
+> BSC Meme 火，OKX DEX 也不失为大赢家之一
+>  
+> 最近两天 OKX DEX 的费用收入都在 150 万美元以上，其中 BSC 网络贡献占比超过 85%
+
+## 14. Oct 9, 2025 · 3:22 AM UTC · 1976126131502973061#m
+- 链接：https://twitter.com/defioasis/status/1976126131502973061#m
+- 作者：@defioasis
+
+> Four Meme 各项数据继续创下新高
+>  
+> - 日代币创建数量达 47,876 个，几乎是 Solana 所有 Launchpad 的四倍
+>  
+> - 单日代币毕业数 748 个，占 Four 历史毕业代币数的超 10%
+>  
+> - Four 创建的代币的单日交易量历史首次突破 30 亿美元
+>  
+> - 收入猛猛涨，单日费用收入达 3,174.15 BNB，价值超 400 万美元
+>  
+> 随着 Binance 要在 Binance Wallet Web 打造专属内盘自产自销，无疑还是直接利好 Four Meme
+
+## 15. Oct 8, 2025 · 10:18 AM UTC · 1975868407322116173#m
+- 链接：https://twitter.com/defioasis/status/1975868407322116173#m
+- 作者：@defioasis
+
+> 历史首次
+>  
+> BNB Chain 最大的发射器 Four Meme 在单日代币创建数、毕业代币数和费用捕获水平上均超过了 Solana 最大的发射器
+
+## 16. Oct 7, 2025 · 1:13 PM UTC · 1975550106410885150#m
+- 链接：https://twitter.com/defioasis/status/1975550106410885150#m
+- 作者：@defioasis
+
+> BSC Meme 很火，统计一波 Four Meme 的 DEV 创建的代币毕业数量排名 Top10 的地址（最近一次代币创建在一个月内）：
+>  
+> （1）0x8931553E5107CE95AABF329BFEB94F34A2F940B7 - 创建 193，毕业 31
+>  
+> （2）0xA60E892AB5FBF4754E3052B7643E48A1BD6B3065 - 创建 1,133，毕业 28
+>  
+> （3）0x815F173371323A3F8EA9BF15059E91C9577EF7A7 - 创建 1,816，毕业 18
+>  
+> （4）0xDB94837755349696C7933B86AC92901E67E24A6B - 创建 3,973，毕业 17
+>  
+> （5）0xD47CD681C368ECDEDF9E7090E0AFF22809ADC887 - 创建 1,574，毕业 16
+>  
+> （6）0x0A3360F665F38BCEEE9B10A74CCDB52EFDBE063C - 创建 462，毕业 15
+>  
+> （7）0x37248DE45C5F3B9CFAB82D9B2AE0C12DA90600D6 - 创建 1,082，毕业 14
+>  
+> （8）0xE74A65439076B420D1408E80F35E7A551A5DB8F9 - 创建 1,016，毕业 14
+>  
+> （9）0xE2409F57CC50938A5D6FB20BDD19A797EFCB084A - 创建 433，毕业 13
+>  
+> （10）0xFB8D01ACA92639E9FCA8D5880313629E46D02CC5 - 创建 399，毕业 12
+>  
+> （11）0xD54A2965F593BB9821A5FD01EEA127B68D0F5BD7 - 创建 183，毕业 11
+>  
+> （12）0xF8551FEB170C680C6C6D59B7CE0EA49486F49514 - 创建 179，毕业 11
+>  
+> （13）0x5E3C35BED4D03A59FB03B0364EC9F3215B495CBA - 创建 1,636，毕业 10
+>  
+> （14）0x9104216D506162BC9C0BAF7F07F48D60299FECD3 - 创建 1,466，毕业 10
+>  
+> （15）0x66A198302446188CFE12056470E980768734594A - 创建 327，毕业 10
+>  
+> Four Meme 数据及所有 DEV 列表：dune.com/kucoinventures/four
+
+## 17. Oct 5, 2025 · 10:55 AM UTC · 1974790575913341193#m
+- 链接：https://twitter.com/defioasis/status/1974790575913341193#m
+- 作者：@defioasis
+
+> BSC 链上行情离不开发射器 Four Meme，地位较独家没有对手。最近也有一些平台想对 Four Meme 进行空投吸血鬼攻击
+>  
+> 自古以来，资产的发行和交易最赚钱，何况 Four Meme 收的费用还是 BNB。Four Meme 累积已经赚取了超过 2.63 万枚 BNB，其中在 10 月 3 日单日收入历史首次超过 100 万美元（945.76 BNB）。就算发射器业务低迷，2 万多个 BNB 单躺着也能赚钱
+>  
+> 当然，近期发射器业务数据还是挺不错的，最近两天代币创建数都超过 1 万个，是自 2025 年 3 月中下旬以来首次。Four Meme 累积创建超过 38.4 万个代币，毕业代币数约 5.15k 个，总毕业率约 1.34%。另外，Four Meme 代币的每日交易量基本可以维持在 5 亿到 10 亿美元
+>  
+> 目前已有超 11 万个地址在 Four Meme 创建过代币，约 1.45 万个地址创建超过 5 个以上的代币，其中最大的dev 已经创建了超过 3,500 个代币，他的策略似乎是发行大量的同名代币。另外，已有接近 400 万个地址交易过由 Four Meme 创建的代币
+
+## 18. Oct 3, 2025 · 12:43 PM UTC · 1974093027028447608#m
+- 链接：https://twitter.com/defioasis/status/1974093027028447608#m
+- 作者：@defioasis
+
+> 链上 CLOB 是未来
+>  
+> 一个 Perp DEX，一个预测市场
+>  
+> Perp DEX 月度交易量首次突破万亿美元
+>  
+> 预测市场月度交易量创下自去年大选月以来高点
+>  
+> 都在早期，都有美好的未来
+
+## 19. Oct 2, 2025 · 4:32 AM UTC · 1973606921409273966#m
+- 链接：https://twitter.com/defioasis/status/1973606921409273966#m
+- 作者：@defioasis
+
+> YieldBasis 申请额度被拒，还是来看看另一辆大卡车 Limitless
+>  
+> 在一周里，共有 1.65 万名用户投入超过 1.08 亿 USDC，已超募 100x。目前离结束还有 3 天，预计投入量还会增长
+>  
+> 在这 1.65 万名用户中，78.2% 的用户投入为 1,000 - 2,500 USDC；有 292 名用户（~1.77%）投入了 10 万 - 25 万 USDC，哥们是真不缺钱啊..
+>  
+> 不过，需要注意的是，随着 Season1 积分结束之后，Limitless 日交易量和新增用户都有较大回落。近期预测市场还是蛮火的，Polycule 升级 PMX Trade 冲上了 $40m，也算是首个 AMM 预测市场；Polymarket Builder 计划持续推进，带标项目也是日益增多，后续值得细细考察一番
+
+## 20. Sep 30, 2025 · 11:05 AM UTC · 1972981232205250752#m
+- 链接：https://twitter.com/defioasis/status/1972981232205250752#m
+- 作者：@defioasis
+
+> 今天研究了下稳定币支付这件事，最近一周 USDC 支付量超过了 50 亿美元（仅 Base + Ethereum），创下了历史新高。不知道是不是被 Plasma 刺激到了哈哈，虽然它的支付业务还不见得已经开展了。话说 Circle 的稳定币链 Arc 怎么好像没声了？
+>  
+> 回到稳定币支付口径上，要准确地统计相当复杂，并不能等同于一般的 Transfer，主流方法是根据加密支付卡和 On/Offramp 出入金服务计算
+>  
+> 在 9 月 22 - 28 日这周中，USDC 支付量达到了 53.5 亿美元，对比年初也是提升了 4-5 倍，其中通过 Base 和 Ethereum 网络分别处理了 45.4 亿美元和 8.1 亿美元。用户累积消费区间主要集中 $1k-$4k 间，行为似乎还是比较可靠的
+
+## 21. Sep 29, 2025 · 12:27 PM UTC · 1972639474921435473#m
+- 链接：https://twitter.com/defioasis/status/1972639474921435473#m
+- 作者：@defioasis
+
+> 有趣的现象：过去一周，Prop AMM 暗池 HumidiFi 占领了 Solana DEX 交易量第一名
+>  
+> 在 Solana Top10 DEX 中，Prop AMM 暗池已经占了半壁江山，除了 HumidiFi 外，像 Tessera V 也超过了 Pump
+>  
+> Prop AMM 很神秘，没有自己的前端，通过私有方式报价，一般只能通过 Jupiter 聚合器执行交易中调用，且是大市值代币兑换才会触发
+>  
+> 从交易活动可以看到，SOL-Stablecoin 在 Solana DEX 中交易量份额已经超过了 70%，这也给暗池的发展提供了土壤。值得一提的是，曾经的火热 Meme 交易在 Solana DEX 中的活动占比也已经下降到了 20% 以下
+
+## 22. Sep 28, 2025 · 4:45 AM UTC · 1972160791374975336#m
+- 链接：https://twitter.com/defioasis/status/1972160791374975336#m
+- 作者：@defioasis
+
+> 看起来错过了 Plasma 存款打新的都在 fomo Plasma 链上 Meme
+>  
+> 根据 DeFiLlama（Uniswap+Balancer+Fluid+Curve）+ DEX Screener（Oku+DYORSwap）的数据，过去 24 小时，Plasma DEX 交易量估计在 5 亿美元上下，这个水平和 Sui 相当
+>  
+> Plasma 金狗 trillions 一度是超过 6,000 万美元市值，目前回落至 4,000 万；有机会竞争龙二的似乎有 BANKLESS 和 LUNA 等。后续看来可以多关注 Plasma 团队的发言和是否有相关提及，以及 CEX 对 Plasma 链上资产的支持度
+>  
+> 目前 Plasma 总独立活跃地址数超过 35 万，昨天用户共支付了 1.28 万 XPL 的网络费用。Plasma 最大的优势就是稳定币 USDT 丰厚，拥有 58.9 亿 U，现规模相当于一个 Hyperliquid，估计还会继续增长；这些资金的大部分是在一些主流 DeFi 吃补贴，其余的游资还是会去寻找一些 Meme 炒作的机会
+
+## 23. Sep 26, 2025 · 1:49 PM UTC · 1971572847542968456#m
+- 链接：https://twitter.com/defioasis/status/1971572847542968456#m
+- 作者：@defioasis
+
+> 由 DWF 操盘的 Falcon Finance 即将 TGE 了，目前 FF 在场外 Whale Market 成交超过 20 亿 FDV，Buildpad 打新的至少 4+ 倍利润了
+>  
+> 看一波 Falcon – USDf 数据：
+>  
+> - 总市值已超过 20 亿美元，是第六大稳定币，其前一位的是 WLFI – USD1（~27 亿）
+>  
+> - USDf 市值自 9 月初以来增长了 6.64 亿美元
+>  
+> - 随着 TGE 临近，Pendle 头寸交割，USDf 的质押量从周一的 7.9 亿下滑至 5.44 亿，但取消质押的 USDf 并未见直接销毁
+>  
+> - 昨日有 1.88 亿枚 sUSDf 被销毁即赎回；Pendle 中的 sUSDf 持有量占比一度从超过 75% 下降至不到 40%，但目前仍是 sUSDf 主要去处
+
+## 24. Sep 26, 2025 · 11:11 AM UTC · 1971533099902415206#m
+- 链接：https://twitter.com/defioasis/status/1971533099902415206#m
+- 作者：@defioasis
+
+> 厉害了，Perp DEX 日交易量给干到了 1,000 亿美元
+>  
+> 而 Binance 衍生品近 24 小时交易量大概是 1,200 亿美元
+>  
+> 其中 Aster 超 460 亿美元，约等于 OKX 的衍生品交易量
+
+## 25. Sep 25, 2025 · 10:27 AM UTC · 1971159627049124210#m
+- 链接：https://twitter.com/defioasis/status/1971159627049124210#m
+- 作者：@defioasis
+
+> Meme 战壕冷却，取而代之的是 Perp DEX
+>  
+> 最近几天 Meme Launchpad 的日代币创建数和交易量相比于月中的时候显著下滑，日代币创建数一度不到 2 万个，下滑了超过 40%；日交易量从超 2 亿美元下滑至约 1.2 亿美元
+>  
+> 重要节点与 Aster TGE 和其显著的财富效应不无关系，而Meme 在头部交易所上币受限后变得异常艰难。Perp DEX 每日交易量持续在突破新高，过去三天几乎保持了每天一个百亿级增长：从 9 月 22 日到 24 日，Perp DEX 日交易量从 440 亿 -> 540 亿 -> 670 亿美元
+>  
+> 值得一提的是，Aster 和 Lighter 的日交易量都已超过了 Hyperliquid，达到了百亿美元级别；edgeX 超过了 50 亿美元，Ordely 和 Paradex 超过了 10 亿美元
+
+## 26. Sep 24, 2025 · 2:33 AM UTC · 1970677963059544180#m
+- 链接：https://twitter.com/defioasis/status/1970677963059544180#m
+- 作者：@defioasis
+
+> 昨天全网链上 Perp DEX 交易量历史首次突破了 500 亿美元，其中 BSC 占了超过 40%，实际也就是Aster 占了链上永续 40% 的交易量，是 Hyperliquid 的两倍
+>  
+> Hyperliquid 的恐怖之处在于其 AUM 高达 60 亿 USDC，这已经媲美 Top10 CEX，7d avg Vol/AUM 相对比较正常，大概在 1.5
+>  
+> 持续性地吸血鬼攻击吸引流动性的同时也不可避免地带来了刷量问题，后续项目方又得花大量时间去查女巫。Aster 交易量的急速增长也反映了这一点，24h Vol 超过了 210 亿美元，相比于 TGE 那天也是涨了 20 倍。24h Vol/AUM 比值（AUM 只算清洁资产）几乎超过 20，每 1u 的 AUM 周转率极高，相当于资金被疯狂交易 20 次，工作室进场了…
+>  
+> 其他未发币的 Perp DEX 的交易量也被带动起来。以 7d avg 交易量来看，Lighter、edgeX 和 Paradex 都增长超过 50% 以上，并且与 AUM 的比值都较为夸张。后续这些项目在反女巫问题上可能也会变得严格
+
+## 27. Sep 23, 2025 · 4:44 AM UTC · 1970348519983849754#m
+- 链接：https://twitter.com/defioasis/status/1970348519983849754#m
+- 作者：@defioasis
+
+> 如果 Rainbow 能收购 Clanker，对于 CLANKER 持有者来说是最爽的。RNBW 空投、Clanker Treasury 代币空投和协议费用分成，Rainbow 开出的条件实在诱人，但可惜现在成公开扯皮了…
+>  
+> 在 Base 几家主流 Launchpad 中，无论是代币创建数量还是交易量都处于老二的位置，有点尴尬。在代币创建数上，Zora Coins 那套发贴即发币的模式，Clanker 几乎很难超越，Zora Coins 依旧保持着 Base Launchpad 超过 95% 的代币创建份额；在代币交易量上，Virtuals 围绕 AI 叙事仍有一批忠实用户，Clanker 仍只能屈居第二
+>  
+> 相信作为 CLANKER 持有者大多还是支持被收购的，毕竟也是少数发射器代币市值能被旗下子币超过的..不过，从团队的角度来讲，Clanker 收入主要来自于 LP Fees 的 20%，年化收入大概 440 万美元，而 Rainbow 从钱包 Swap 中收 0.85% 的费用，但可惜 Rainbow 用的人还是少，年化收入大概 260 万美元。Clanker 也有理由说的，Rainbow 年收还比不上他们自己，反而还得给他们打工，不乐意也正常，当然私下沟通情况咱也不清楚…
+
+## 28. Sep 22, 2025 · 2:50 AM UTC · 1969957530123317538#m
+- 链接：https://twitter.com/defioasis/status/1969957530123317538#m
+- 作者：@defioasis
+
+> Limitless 在 Base 预测市场的位置，跟 Avantis 在 Base Perp DEX 中有点像，都是大热赛道中的生态独苗，拿到了 Coinbase Ventures 或者 Base 生态基金的支持。看着 Avantis AVNT 势头这么猛，快 TGE 的 Limitless 也开始卷起来了
+>  
+> Limitless 总交易地址数并不多，目前 3.41 万个，但近期增长速度惊人，其中有 9.7k 个地址（~28.5%）是昨天才开始交易的；再往细了看，有 2.25 万个地址（~66%）是在过去5 天里开始首次交易的..
+>  
+> 很明显的是，大部分地址的普遍交易量是不高的，Limitless 约 90% 的地址的交易量低于 1,000 美元
+>  
+> 做了个看板可以在这查询地址的（名义）交易量和排名：dune.com/kucoinventures/limi…
+
+## 29. Sep 20, 2025 · 2:25 AM UTC · 1969226384531996679#m
+- 链接：https://twitter.com/defioasis/status/1969226384531996679#m
+- 作者：@defioasis
+
+> Pump Fun 主打创作者经济，推直播主播币
+>  
+> LetsBONK 抱紧川普家族，推 USD1 交易对
+>  
+> 大家都有美好的未来
+>  
+> 直播币某种程度上是反向名人币，愿称之为屌丝币。Pump Fun 的创作者激励对低市值更加友好，再加上大部分的主播在来 Pump 直播前都是 nobody，比把市值做大性价比更高的是在激励较高的市值区间把交易量维持好，从而不断收交易费用，这也就导致很难出现高市值代币。另外，注意力也很容易被新主播所分散，最终又回到了 PvP 时间
+>  
+> LetsBONK 毕业率突增的秘诀是卷毕业市值。其 USD1 交易对的毕业市值由 10 万美元下降至 6 万美元，这让LetsBONK 代币创建数量有了显著的重新增长，且毕业代币市场份额激增至约 40%。当然坏处也很明显，初始流动性变得更浅了，Rug 也变得更多了..
+
+## 30. Sep 19, 2025 · 7:09 AM UTC · 1968935372412567976#m
+- 链接：https://twitter.com/defioasis/status/1968935372412567976#m
+- 作者：@defioasis
+
+> OKX Boost 的退潮似乎来的有点快，在第二期结束后，大部分人被反撸，也就选择退出了
+>  
+> 最近这两天的 OKX DEX 的日交易者下降了 6-7 万名，但整体仍然维持着约 20 万的交易地址
+>  
+> 交易费用这块能更说明问题。相比于二期活动结束前的两天，OKX DEX 每日交易费用捕获均达到了 100 万美元以上，但随后迅速腰斩至不足 50 万美元一天
+>  
+> 最终还是一种动态博弈。撸空投的用户所交易的往往是高费率代币，而这些交易能给 OKX DEX 带来更多的收入，但平均空投金额太低，撸空投的没劲也就走了，OKX DEX 费用收入也就随之下降了，后面又得等有财富效应的空投来重新刺激开启循环
+
+## 31. Sep 18, 2025 · 9:55 AM UTC · 1968614952182469064#m
+- 链接：https://twitter.com/defioasis/status/1968614952182469064#m
+- 作者：@defioasis
+
+> 最近 Polymarket 为了应对 Kalshi 的竞争，推出了 Polymarket Builders 发展生态
+>  
+> 看了下 Polymarket Builders 附属的项目里有不少其实都是围绕 Polymarket 做第三方代理交易，TG Bots、交易终端都属于这类。代理交易的商业模式很清晰，从交易中抽税，且轻量化。根据费用地址或者 Vault 地址可以对这些代理交易的项目进行识别，基本方法跟 Meme 交易终端差不多
+>  
+> 总的来看，目前已上线的代理交易项目所占 Polymarket 的日交易量不足 1%，还是非常小众和早期。当然个人觉得，预测市场跟 Meme 交易还是有很大不同，对速度追求和响应都没有那么高，那对于使用这些代理交易 Bots/Terminals 的核心诉求还是要打个问号
+>  
+> 矮个子里拔高个，从现有的 Polymarkets 代理来看，Polycule 的交易量份额还是最多的，最近币价也比较好，但是对其后续发展选择自己去造一个预测市场，而不是选择在 Polymarket 继续深造的决定还是不太理解；Flipr 的杠杆交易在前一段时间还是占领了近一半的市场份额，但后面被质疑与其他 Rug 项目相关，也因此遭受了一波剧烈抛售
+>  
+> 另外值得一提的是，在 Polymarket 这些代理交易项目中，对费用的初始收取比例和收取的方式差异较大，比如 Predictify 只对开仓收取费用，为 0.6%；Polycule 只对平仓赎回收取费用，为 0.5%；okbet 最贵，开仓平仓都各收费 1%，一笔完整的交易就是 2%。Stand trade、Betmoar 和 Flipr 等都没开收费，因此前二者暂时无法进行用户识别，Flipr 则只能依靠杠杆 Vault 去识别交易用户，这可能会导致部分的非杠杆交易漏算
+>  
+> 数据：dune.com/kucoinventures/trad…
+
+## 32. Sep 17, 2025 · 2:15 PM UTC · 1968317976932925860#m
+- 链接：https://twitter.com/defioasis/status/1968317976932925860#m
+- 作者：@defioasis
+
+> 当前 BTC 生息的主流方式大多依赖于交易套利或者博合作方空投。由 Polychain 支持的 Botanix 推出的 stBTC 提出了另一条有意思的路径：作为一个以 BTC 为费用的 Layer2 网络，由链上经济活动支撑的 BTC 的原生收益
+>  
+> stBTC 运作方式
+> ① 用户将 BTC 存入 Botanix 官方已审计的 Vault 合约中
+> ② 获得代表用户质押资金的凭证 stBTC（类似于 Lido 的 stETH）
+> ③ 随着 Botanix 网络产生不断的交易，链上用户使用 BTC 作为 Gas 费用支付就越多
+> ④ 以 BTC 计价的网络 Gas 费用中的 50% 分配给 stBTC 持有者
+> ⑤ stBTC 价值逐渐累积
+> 在这个过程中，用户可以随时把 stBTC 赎回自己的原生 BTC + 收益，最快只要 4 个区块的确认时间；或者直接在 DEX 出售交易
+>  
+> Botanix stBTC 收益完全来自以 BTC 币本位计价的网络费用，无通胀、无积分、无锁仓。根据官方的预测数据，在启动时，stBTC 年化可达 20%；而随着交易成熟和规模化，年化可以维持在 6%-8%
+>  
+> 在 7 月份开启主网以来，Botanix TVL 超过 1,870 万美元，拥有超过 16 万个独立地址，每周活跃笔数 10 万– 20 万笔。stBTC 不仅是生息资产，还可以被进一步融入 Botanix 网络生态去叠加 DeFi 乐高收益。目前 stBTC 已被 Blend、GMX、Dolomite、Bitzy 和 Arch 等协议支持，可以被用于借贷和 LP 等
+>  
+> stBTC 参与链接：yield.botanixlabs.com/
+
+## 33. Sep 17, 2025 · 8:45 AM UTC · 1968234809559531735#m
+- 链接：https://twitter.com/defioasis/status/1968234809559531735#m
+- 作者：@defioasis
+
+> Binance Wallet – BSC Trader 交易地址总数最近也突破了 100 万，被 Alpha 吸引进来去交易的用户还是挺多的
+>  
+> 从交易量分布来看，在这 107 万个 Binance Wallet - BSC 地址中
+>  
+> - 有 3 个地址累积交易量超过了 1 亿美元，其中最牛皮的榜一地址累积交易量已经超过了 2.2 亿美元，活跃 111 天 7.1k+ 笔交易
+>  
+> - 超过 100 万美元累积交易量的地址已有超过 16 万个，其中超过 1,000 万美元的有 351 个
+>  
+> - 总的来说，47.6 万个地址累积交易量超过 1,000 美元，占比 44.4%
+>  
+> 另外，自 8 月中下旬以来，Binance Wallet - BSC 的每日交易地址数波动异常激烈，这应该是受某些新币上线并被财富效应所吸引交易有关，而日常刷 Alpha 积分的用户则是比较稳定了
+
+## 34. Sep 16, 2025 · 12:38 PM UTC · 1967931065588392307#m
+- 链接：https://twitter.com/defioasis/status/1967931065588392307#m
+- 作者：@defioasis
+
+> OKX DEX 费用捕获单日首次超过了 100 万美元，费用捕获能力大致等于 1/3 个 Meteora。目前 OKX DEX 开启费用 22 天，总费用捕获超过了 1,000 万美元
+>  
+> 随着 Boost 进行中，OKX DEX 在 BSC 捕获费用的能力已经超过了 Solana，就昨天来说捕获了近 70 万美元费用，Fee/Vol 比率约 0.4%，这也说明交易量逐渐在往 0.85% 那一档靠拢
+>  
+> 从细分交易量上也可以说明这一点，KOGE-USDT 交易对在 OKX DEX 中交易量一骑绝尘，就这一个对就占了 OKX DEX 在 BSC 网络日交易量中的超 40%
+>  
+> 这何尝不是一种刷分的传承，从 Binance Alpha 到 OKX DEX，KOGE 从未缺席… 就是不知道还有没有人记得几个月前的“撤池+砸盘”事件…
+
+## 35. Sep 16, 2025 · 4:05 AM UTC · 1967802118863241358#m
+- 链接：https://twitter.com/defioasis/status/1967802118863241358#m
+- 作者：@defioasis
+
+> 如果 Base 网络真会推出原生代币的话，Base app 是值得多关注多使用的地方
+>  
+> Base app 是 Coinbase 以 Base 网络为基础面向全球用户进行资产分发和链上应用输出的重要渠道。之前有不少应用上线 Base app 或者进入排行榜前列，其资产也会被关注和上涨。从不同的角度看，Base app 像钱包、像聊天应用、像 App Store，因为代表这些功能的应用都是原生嵌入的。Base app 前身即 Coinabse Wallet，把如今的 Base app 拆解，是一个 Farcaster 社交 + Zora 内容发币 + Uniswap 交易 + XMTP 通信 + Base Name 域名 + dAPP Discovery 的结合体
+>  
+> Base app 的基础是 Coinbase Smart Wallet，智能账户可以说是 Coinbase 有别于其他交易所布局链上最显著的差异之一。目前 CSW 总帐户数超过 120 万，其中在 Base app 开放申请的 8 月带来了超过 40 万用户，大家的起跑线都是差不多的。Zora、Ethos、Footballdotfun、Aerodrome、Uniswap、USDC、cbBTC 等是最常见的 CSW 账户交互的应用/合约
+
+## 36. Sep 15, 2025 · 1:40 PM UTC · 1967584322778759555#m
+- 链接：https://twitter.com/defioasis/status/1967584322778759555#m
+- 作者：@defioasis
+
+> 在以直播为核心的 Creator Capital Markets 叙事带动下，由 Pump Fun 创建的代币交易量在近日达 9.4 亿美元，过去三个月里第二高单日
+>  
+> CCM 代币完全霸榜，在 Pump Fun 交易量 Top10 代币中，有 9 个是 CCM 代币，其中 Bagwork 交易量最高，一度超过 8,600 万美元
+>  
+> 与此同时，Pump Fun 的创作者费用继续创下新高，单日为创作者带来了超过 350 万美元收入，持续支撑主播创作们在 Real World 里继续疯狂
+
+## 37. Sep 13, 2025 · 2:39 PM UTC · 1966874465285152777#m
+- 链接：https://twitter.com/defioasis/status/1966874465285152777#m
+- 作者：@defioasis
+
+> 山寨季发生在 Binance Alpha 还是很恰当的。Binance 站内 Alpha 交易的代买卖合约在 BSC 网络上的资产价值达到了 2.4 亿美元，对比 8 月初的时候翻了一番
+>  
+> 把 Binance Alpha 拆解一下，核心在于两点，承担着 VCcoins 以低估值发射的 Launchpad 职能，以及作为代买路由帮助 Binance 用户使用站内资沉从 DEX 购买链上资产。当然还包括对 BSC Meme 的扶持，这部分通常不会分发空投，现在上的也比较少了
+>  
+> 因此，Alpha 的代买卖合约的资产规模依赖于新资产数量的不断增长和资产增值。理论上来说，在没有大额解锁的刚开盘的几个月里，在 Alpha 代买合约中持有的币本位数量越多，买盘的力量就越大。依据一般性空投价值，目前在 Alpha 里规模能达到 200 万美元以上的新资产大概是在 20-25 个，而 500 万美元以上的则仅有 6 个
+>  
+> Alpha 中的神盘莫过于 M，在 Alpha 内的资产价值超过 4,000 万美元，但 Alpha 中 M 币本位的余额变化却并不大，这是否说明站内的很多用户也许根本不知道这个代币，即便已经涨了几十倍..
+
+## 38. Sep 12, 2025 · 1:46 PM UTC · 1966498725439893696#m
+- 链接：https://twitter.com/defioasis/status/1966498725439893696#m
+- 作者：@defioasis
+
+> 在经历了 8 月一套组合拳营销之后，Base 生态增长的脚步近期又是逐渐放缓
+>  
+> Base 最大即战力之一 Zora 的每日代币创建数对比 8 月峰值时已腰斩，不过还是可以跟 Pump Fun 打个平手。然而，依然是那个严峻的问题，Zora 虽然作为主要的 Base Launchpad 贡献了大量的贴文代币，但交易的价值却要比 Pump Fun 的那些 Meme 要低得多。如果说 Pump Fun 的代币除了有趣的 Meme 之外，还承担起了 News 的作用，那 Zora Coins 还没有类似的效果或者叙事定位，最后还是要吃 Virtuals 的 AI 老本去撑 Base Launchpad 交易量
+>  
+> 另外一项 Coinbase 的重要链上布局，Base app 为 Coinbase Smart Wallet 在 8 月带来了超过 40 万的用户账户，总账户数突破 120 万。不过现在每天的新 CSW 账户处于持续下滑，基本回归到 Base app 出来之前的水平，不知道是不是先前申请 Base app 的一批用户都已逐渐消化完毕，还是继续饥饿营销一波
+>  
+> 当然，亮点依然是有的。内置在 Coinbase 交易所 app 里的 Coinbase DEX integration 交易还是蛮活跃的，尽管还是前期阶段，也算是开了个不错的好头
+
+## 39. Sep 11, 2025 · 4:52 AM UTC · 1966001822168178808#m
+- 链接：https://twitter.com/defioasis/status/1966001822168178808#m
+- 作者：@defioasis
+
+> 话还是说早了哈哈，OKX DEX Aggregator 在主流网络中的日交易用户超过了 20 万，应该是创下历史新高了，其中在 Solana 网络达到了 11.88 万，而 BSC 网络交易用户份额也从 OKX Boost 前的不到 15% 到逼近 30%
+>  
+> 另外，OKX DEX Aggregator 日捕获费用也创下了开启费用以来最高的一天，达到了 45.2 万美元，其中 BSC 网络贡献超过了 Solana，达 24.2 万美元，主要原因也跟 BNB 价格昨天突破历史新高有关
+>  
+> 可惜 Dune 不支持 X Layer，作为 OKX DEX 第二大 EVM 交易网络，算上的话实际数据会更高
+
+## 40. Sep 10, 2025 · 11:51 AM UTC · 1965744883521728544#m
+- 链接：https://twitter.com/defioasis/status/1965744883521728544#m
+- 作者：@defioasis
+
+> 在推出 OKX Boost 之后，OKX DEX 聚合器交易量显著提升，网络份额占比也发生了变化
+>  
+> 目前 OKX DEX 聚合器在主流网络中每日交易量可达到 7 亿美元或更高，比推出 Boost 之前要提升了 50% 以上。或许是 BSC 刷分更有性价比或者可能是 Binance Alpha 用 BSC 某些特定币种刷分也占领心智，OKX DEX 聚合器中 BSC 网络的交易量份额从不到 20% 到甚至超过 50%
+>  
+> 交易用户的增长倒没有交易量那么膨胀，之前每日有 13 万左右，现在比之前略多了一些，有 15-17 万用户，这也可以说明 OKX DEX 本身的真实用户基数还是相当可观的
+>  
+> 开启收费以来有半个月多了，OKX DEX 从 Solana+EVM 网络中合计收取了超过 430 万美元收入，其中 Solana 收取了近 200 万美元，基本日入超过 10 万美元；EVM 网络收取了超230 万美元收入，其中从 BSC 中收取了超过 100 万美元，X Layer 收取了近 70 万美元
+
+## 41. Sep 10, 2025 · 2:50 AM UTC · 1965608874456801418#m
+- 链接：https://twitter.com/defioasis/status/1965608874456801418#m
+- 作者：@defioasis
+
+> 上周 Falcon USDf 净铸造量达 3.16 亿美元，是历史第二高单周净铸造。目前 USDf 总量达 16.6 亿美元，其中 Ethereum – USDf 达 15.5 亿美元，占比 ~93%
+>  
+> 扒了下，有两个新地址: 0x68…982A 和 0x10…8839 使用 Pre Collateralized Mint 的方式在 9 月 6 日合计铸造出了 1.26 亿美元，成为 USDf 第五大和六大铸造地址
+>  
+> 质押率约 27%，有 4.49 亿 USDf 处于质押成 Staked USDf 状态，而其中 56.7% 的 sUSDf 用于 Pendle 积分挖矿和博弈中；11.1% 的 sUSDf 质押在 Falcon Position
+
+## 42. Sep 9, 2025 · 1:54 PM UTC · 1965413443420508457#m
+- 链接：https://twitter.com/defioasis/status/1965413443420508457#m
+- 作者：@defioasis
+
+> 一方面 Binance Alpha 涨得火热，另一方面 BSC Meme 战壕似乎也在回归🤔
+>  
+> 自 8 月末以来，Four Meme 日代币创建数维持在 2k – 2.5k 左右，而在此之前每日创建数都不到 500 个，算是自 4 月以来的小高潮。不过毕业率倒一般
+>  
+> 目前 Four Meme 累积代币创建数超过了 30 万个，累积毕业代币数 4.33k
+
+## 43. Sep 9, 2025 · 9:32 AM UTC · 1965347624552464677#m
+- 链接：https://twitter.com/defioasis/status/1965347624552464677#m
+- 作者：@defioasis
+
+> 预测市场的双雄对决蛮激烈
+>  
+> Kalshi 近两天的日交易量是今年以来首次超过 1 亿美元，而市场份额增长更为恐怖，从年初不到 10% 到一度占据预测市场交易量的近 80%。不过，Polymarket + Kalshi 的日交易量相比去年美国大选期间峰值还是有近一倍的差距
+>  
+> 另外，在去年美国大选结束后，预测市场的持仓量增长就几乎陷入停滞，规模迟迟无法进一步扩大。Polymarket 和 Kalshi 二者持仓量都大致维持在 1.5 亿美元左右，难舍难分
+
+## 44. Sep 8, 2025 · 1:10 PM UTC · 1965040134648373567#m
+- 链接：https://twitter.com/defioasis/status/1965040134648373567#m
+- 作者：@defioasis
+
+> 短短几天，Ondo 代币化股票 AUM 就与 xStocks 持平了，超过也就是这几天的事了
+>  
+> 听说有交易所在考虑是否要下架 xStocks，主要原因是流动性不好。xStocks 流动性不好的根源是合规专业投资者没有动力去发行股票代币，代币化规模长期停滞。散户只基于二级市场购买，说白了在 DEX 池子里的 xStocks 股票代币就这么多，买的金额越大，币本位数量折损的越多，而在 CEX 又缺乏 MM 配合价差太大
+>  
+> 代币化股票这件事情，核心还是得落在怎么让用户用稳定币更好地买到真实股票上，而代币化本身更像是实现这一目标的技术手段或衍生品
+>  
+> 值得一提的是，通过聚合器 CowSwap 购买 Ondo 股票代币可以绕过 Ondo 平台本身的 KYC，未来 CEX 如果上架应该也可以采取这种逻辑，这也许算是一种代代买股票策略？当然，所谓聚合器的购买，背后的逻辑和在 Ondo 平台本身购买是一样的，买入即铸造，卖出即赎回
+
+## 45. Sep 7, 2025 · 1:17 PM UTC · 1964679354446926210#m
+- 链接：https://twitter.com/defioasis/status/1964679354446926210#m
+- 作者：@defioasis
+
+> 每日交易量大于 100 SOL 的 Solana DEX 交易者的数量还是比较稳定的，从去年 10 月至今，日常大致维持在 2 万个地址
+>  
+> 相反，每日交易量小于 5 SOL 的交易者地址数量则从去年 10 – 11 月后持续下滑，从超过 500 万下降至约 100 万上下浮动🤔
+
+## 46. Sep 6, 2025 · 10:51 AM UTC · 1964280226902691906#m
+- 链接：https://twitter.com/defioasis/status/1964280226902691906#m
+- 作者：@defioasis
+
+> 探寻了 Solana DEX 交易者的生命周期（第一笔到最后一笔 DEX 交易的时间跨度），且过滤掉在近 24 小时内首笔 DEX 交易的新地址，发现许多有意思的点
+>  
+> - 总 Solana DEX 交易地址数超过 7.5 亿个，但 96.6% 的地址生命周期在 24 小时内，且平均生命周期大概在 15 分钟，大多数应该是被用于新 Memecoin 交易地址刷量
+>  
+> - Solana DEX 交易者的地址粘性相当高，1 天 – 1 周、1 周 – 1 月、1 月 – 1 季和 1 季 - 1 年的地址数量差距并不大，且生命周期在 1 季 – 1 年的地址数量还要高于 1 周 – 1 月和 1 月 – 1 季
+>  
+> - 生命周期超过 1 年的地址有超过 180 万个，且平均值达到了 655 天
+
+## 47. Sep 6, 2025 · 3:59 AM UTC · 1964176576045863150#m
+- 链接：https://twitter.com/defioasis/status/1964176576045863150#m
+- 作者：@defioasis
+
+> 除了最近大家说的最多的 BGB 也效仿前排友商成为公链代币外，Bitget Onchain 底层架构其实最近也发生了调整，算是全面向 Binance Alpha 靠拢
+>  
+> 之前也有讲过，虽然同为可用 CEX 资沉去代买链上资产，但 Bitget Onchain 执行逻辑和资产保管方式比较繁琐，涵盖了数百个 EOA 地址，外部很难统计数据。Binance Alpha 则是用双合约地址管理模式，一个保管稳定币和 Gas 资产，另一个保管山寨币，并且通过保管稳定币的合约地址执行代买卖
+>  
+> Bitget Onchain 的 EVM 网络（BSC 和 Base）近期已经完成更新，稳定币资产和 EVM 交易执行合约：0xad2eae16157002a97e11b4201d111e6cd4c977ca，现在大概有 82 万 USDT/C；近期每日交易量在 450 万 – 1,000 万美元间，交易笔数在 2.5 万 – 4.5 万笔间。Solana 那边的架构还在调整中，暂时还不能统计上，但说是最快下周弄好且 Solana 网络交易量占了大头，后续再来看看是怎么个事
+>  
+> 经过一整年的发展，交易所与链上大融合的脉络主要就分为托管的 Alpha 系（Binance、Gate 和 Bitget）、半托管的智能账户系（Coinbase）和自托管的钱包系（OKX）。前两者可以直接使用 CEX 资沉购买链上资产，没有充提币的概念，其中 Alpha 系大多是指定资产，有上币下币的概念，而 Coinbase DEX 理论上没有对链上资产做任何的限制，且可以通过智能账户地址追踪到具体的用户；OKX 则主要是在嵌入式钱包的入口模糊与 CEX 的概念，做的很丝滑但仍然是需要去提币作交易
+
+## 48. Sep 5, 2025 · 8:03 AM UTC · 1963875565582385236#m
+- 链接：https://twitter.com/defioasis/status/1963875565582385236#m
+- 作者：@defioasis
+
+> 市场上有不少代币化股票平台，虽然目标相似，但各平台的解决方案倒各具特色。三种类型代表，xStocks 侧重于二级市场，Ondo 侧重于一级市场，StableStock 侧重于股票市场
+>  
+> xStocks 在股票代币的发行上较为严厉，仅允许合规的专业投资者有连系股票代币与真实股票之间的铸造与赎回；散户则在 DEX 和部分 CEX 的二级市场上交易股票代币，无法接触真实的股票。好处是散户的交易便捷性更高，交易所更容易接入，但受限于专业投资者在一级的发行规模，以及依赖他们去进行价差套利锚定价格。不过，专业投资者似乎是缺乏动力去发行股票代币，xStocks 股票代币 AUM 几乎是处于停滞增长状态
+> 数据：dune.com/kucoinventures/xsto…
+>  
+> 与 xStocks 二级市场活跃不同，Ondo Global Markets 的解决方案可以说能做到完全不依赖二级市场。首先，Ondo Global Markets 平台提供的即是股票代币的发行市场，只要不是受限地区的 KYC 用户都可以参与到股票代币的发行。在 Ondo Global Markets 中，用户买入即为铸造股票代币，卖出即为销毁股票代币。优点明显，Ondo 股票代币的 AUM 规模可以做的很大，预计可能在下周就超过 xStocks
+>  
+> 那股票呢？Ondo 扮演着类似于“代买”的角色，真实股票第三方托管机构代持。用户在平台内买入股票代币的价格实际是来自于 Ondo 的报价，简单来说是根据交易的股票代币数量，在底层资产基础价格上有一些轻微的溢价。股票代币和真实股票之间的兑换通道目前是没有的
+>  
+> Ondo 股票代币暂时没有二级市场，但是类似 CoW Swap 和 1inch 的聚合器可以直接购买。这种购买并不是聚合 DEX 的那种二级市场购买，因为没有流动性，实际还是一套买入即铸造股票代币，卖出即销毁股票代币的的一级发行玩法。不过，目前我也不太确定通过 CoW Swap 前端的买入铸造是否实际属于 Ondo 平台内买入铸造的一部分
+> 数据：dune.com/kucoinventures/ondo
+>  
+> xStocks 侧重二级，Ondo 侧重一级，StableStock 则是落脚点在股票市场。简单来说，StableStcok 即是一个加密券商，在平台内交易的即是股票凭证。用户可以兑换出真实的股票，也可以在平台内铸造成股票代币。相比于其他两家，StableStock 在股票代币的自由度最高，但规模会受限于平台入金情况
+> 数据：dune.com/kucoinventures/stab…
+>  
+> 最近在捣鼓代币化股票的聚合数据，但各家平台解决方案的落脚点维度不同，有些真不太好比较。就拿交易量来说，xStocks 的交易量是我们更为熟悉的 DEX + CEX 交易量；而 Ondo 又没有二级市场，其交易量统计逻辑是 铸造即买入+销毁即卖出；StableStock 需要靠 API 获取交易量，但这交易量反映的又是稳定币交易股票的交易情况…😵‍💫
+
+## 49. Sep 4, 2025 · 11:04 AM UTC · 1963558827019911486#m
+- 链接：https://twitter.com/defioasis/status/1963558827019911486#m
+- 作者：@defioasis
+
+> Ondo 的股票代币化平台 Ondo Global Markets 在首日交易量超过 2,500 万美元
+>  
+> 严格意义上来讲，Ondo Global Markets 是一个开放给合规用户的代币化股票的发行市场，因此平台的交易量实际是铸造+赎回股票代币的交易。另外，虽然首日有上千万美元交易量，实际上仅有几十个独立地址在里面买卖，估计主要是些 MM
+>  
+> 作为发行平台，合规用户在平台中买入即为铸造股票代币，卖出即为销毁股票代币。而在这个过程中，虽然用户使用 USDC 作为交易对标的，但中间会兑换成 Ondo 的稳定币 USDon 去进行操作。也是受股票代币的交易刺激，昨天一天就有 5,575 万枚 USDon 被铸造出来，占了超过总量的一半
+>  
+> 虽然平台要求合规，但 Ondo 的股票代币是可以在 Ethereum 上自由流通的。不过目前尚没有 DEX 流动性，不知道是不是会等到跨去 Solana 和 BSC 后再开池子
+>  
+> 最后值得一提的是，首日买入即铸造最多的代币是以 ETF 代币为主，特别是BlackRock 旗下的 iShares 系列。目前有 7 个超过 100 万美元 AUM 的 Ondo 股票代币，其中 6 个是 ETF 代币，iShares 系列包了 5 个，这可能也会成为 Ondo 相比于其他同类型平台的一个特色吧
+
+## 50. Sep 3, 2025 · 2:23 PM UTC · 1963246460251889733#m
+- 链接：https://twitter.com/defioasis/status/1963246460251889733#m
+- 作者：@defioasis
+
+> Ondo 代币化平台出来了，粗略看了下是平台内部合规交易，平台账户+白名单地址，而股票代币在链上可以自由转移，但如果转移的是非白名单地址的话估计就没法交易了
+>  
+> Ondo Finance: Deployer 在今年 7 月 23 日至 8 月 13 日就部署好了 104 种股票代币
+>  
+> 用户买 Ondo 股票代币的交易逻辑也是相当有意思：
+>  
+> 1、首先，仅支持 USDC 交易
+> 2、平台用户的白名单地址的 USDC 会在交易内兑换成 Ondo 的稳定币 USDon（Ondo U.S. Dollar Token）
+> 3、然后 Null: 0x00…0000 地址会铸造出相应的要购买的股票代币，再转到白名单地址中
+>  
+> 反过来卖也是类似，出售股票代币即打到 Null: 0x00…0000 地址销毁，经过 USDon 中间一层再兑换成 USDC 转会给用户
+>  
+> 明天再写写数据研究下这个 Ondo 股票代币化平台，还有 Galaxy 跟 Superstate 弄的股票代币
+
+## 51. Sep 3, 2025 · 11:49 AM UTC · 1963207701577781419#m
+- 链接：https://twitter.com/defioasis/status/1963207701577781419#m
+- 作者：@defioasis
+
+> 尽管还是小范围的开放，Coinbase DEX 也算是逐渐跑起来了，自 8 月下旬以来交易开始增多。现在每天大概能有几十万美元的交易量，300-600 的日交易用户
+>  
+> 内嵌在 Coinbase app 里的这款链上交易所大融合产品底层架构跟 Binance Alpha 完全不同，前端聚合多方 DEX 交易，背后则由 Coinbase Smart Wallet 提供支持。通过在一笔交易中的 Coinbase Smart Wallet 创建 + Base DEX 交易+ MagicSpendWithdrawal Logs 便可以识别出 Coinbase DEX 用户的 CSW 地址。目前有累积超 2,800 名 Coinbase DEX 用户
+>  
+> USDC 在 Coinbase DEX 中扮演了重要角色，半数的交易由 USDC 来完成
+>  
+> 值得一提的是，Aerodrome 的使用量要次于 Uniswap 和 PancakeSwap，主要原因可能是 Coinbase DEX 用户交易的是长尾资产为主
+>  
+> 数据：dune.com/kucoinventures/coin…
+
+## 52. Sep 2, 2025 · 2:36 PM UTC · 1962887394828718309#m
+- 链接：https://twitter.com/defioasis/status/1962887394828718309#m
+- 作者：@defioasis
+
+> Trump 直属的一揽子 TRUMP MELANIA WLFI USD1 已全都上线
+>  
+> 在增量有限的情况下，Trump 系资产给圈内玩家加速来了一波大换手。回过头看，命运的节点来自于 1 月 18 日周六早上 10 点，那些把握住了的后面也越走越顺
+>  
+> 用一组动图回顾了一下 TRUMP MELANIA 诞生的前 7 天价格变化
+
+## 53. Sep 1, 2025 · 6:12 AM UTC · 1962398113639158220#m
+- 链接：https://twitter.com/defioasis/status/1962398113639158220#m
+- 作者：@defioasis
+
+> 在 8 月，Pump Fun 重夺 Solana Launchpad 龙头之位，当月创建了 595,034 种新代币，有 1,349,616 个地址参与了这些新代币的交易（仅含有买且有卖的地址）
+>  
+> 然而，所有交易者整体亏损了高达 6,600 万美元，且没有创造出任何一个百万富翁，链上地狱级不为过
+>  
+> - 依旧是超过 60% 的地址亏损，无论啥行情，亏损永远过半
+>  
+> - 65.4% 的地址（882,145 个）亏损范围在 0-1,000 美元，平均亏损 $73.41；虽然是小亏，但是量大，合计起来该区间地址一共亏损了超过 6,400 万美元
+>  
+> - 28,636 个地址亏损 1,000 – 1 万美元，总亏损超过 7,900 万美元…
+>  
+> - 亏损超过 1 万美元地址有 2,578 个，虽然没有百万富翁诞生，但仍然有负翁，有一个倒霉蛋亏损达 132 万美元，也是 8 月中 Pump Fun 代币交易中唯一一个亏损超过百万的地址
+>  
+> - 盈利层面，416,413 个地址盈利 0 – 1,000 美元（占比 30.9%），平均盈利 $98.97，总盈利 4,117 万美元
+>  
+> - 18,179 个地址盈利 1,000 – 1 万美元，总盈利 4,750 万美元
+>  
+> - 超过 1 万美元的地址有 1,665 个，没有百万富翁地址
+>  
+> 把这些各个盈亏区间的交易者的总 PnL 一合计，发现 8 月 Pump Fun 代币的交易者合计亏损了 6,600 万美元..
+
+## 54. Aug 30, 2025 · 3:12 AM UTC · 1961628114020438029#m
+- 链接：https://twitter.com/defioasis/status/1961628114020438029#m
+- 作者：@defioasis
+
+> USD1 交易对生态 BUILDonBsc B 市值最高突破 7 亿美元，感觉却鲜少有人说，甚至没登上 GMGN 热门 24h 榜
+>  
+> 从日线来看，B 的走势还蛮稳，但扒了链上交易数据看，还是有 65.6% 的地址已实现亏损
+>  
+> - 总交易地址数有 79,617 个，其中 50,523 个地址亏损 0 - 1,000 美元（占比 63.5%），不过该区间总亏损仅 92.7 万美元，平均亏损 18.35 美元，大部分的地址其实都是小亏跑的
+>  
+> - 大额亏损的人并不多，亏损 1,000 - 1 万美元区间的地址数就已急剧下降了，只有不到一千个，想要在 B 上亏大钱的确不容易；不过也仍然有 3 个地址亏损超过 100 万美元
+>  
+> - 反过来看，盈利 0 - 1,000 美元的地址数有 16,637 个（占比 20.9%），该区间总盈利 149 万美元，平均盈利 89.58 美元。几亿市值的 B，能赚超过 100 美元恐怕也已经是盈利玩家的中位数以上水平了
+>  
+> - 有 286 个地址盈利 10 万美元以上，其中盈利超过 100 万美元的地址有 4 个；盈利 10 万 - 100 万美元区间的地址数有 282 个，总盈利 8,745 万美元，平均盈利 31 万美元
+>  
+> - 再深扒了具体的地址明细后，有不少大额盈利或大额亏损的地址是一些 Bot 地址或者使用了特殊交易方式的地址，有一丝左手倒右手的感觉。感兴趣地可以在深入研究这些地址：dune.com/queries/5705783
+
+## 55. Aug 29, 2025 · 1:05 PM UTC · 1961414907087450432#m
+- 链接：https://twitter.com/defioasis/status/1961414907087450432#m
+- 作者：@defioasis
+
+> 再迭代了一版，统计了各大 Launchpad 新币的每日交易量情况（新币定义为创建时间在 7 天内）
+>  
+> - 自 8 月中下旬以来，Pump Fun 已重新占据了每日新币交易量的 90%-95% 的市场份额
+>  
+> - LetsBonk 在 8 月初一度占据超 80% 的新币交易量份额，但其衰退的速度恰如其崛起的速度；现 LetsBonk 交易量集中在 USELESS，而新币交易量甚至比不上 Bags
+>  
+> - Believe 和 LetsBonk 是唯二在每日新币交易量上曾超过 Pump Fun 的发射器；Boop、Moonshot 则都至少有一天能达到超 30% 的市场份额
+>  
+> - 总体上来看，新 Launchpad 大多只能在其诞生的首日获得较高的市场份额，随后会在一周左右逐渐退出市场关注。能否维持一个相对较高的每日发射量和每日代币交易量的低值，可能是衡量同质化 Launchpad 能否长期存活或取得二次关注的关键
+
+## 56. Aug 28, 2025 · 12:34 PM UTC · 1961044785848111528#m
+- 链接：https://twitter.com/defioasis/status/1961044785848111528#m
+- 作者：@defioasis
+
+> 目前已经有超过 2 万个地址参与了 Four Meme 的 Creditlink 打新，平均投入 3,096 美元，投入总金额已超过 6,300 万美元，包括超 5,900 万枚 USD1 和超 110 万枚 FORM
+>  
+> 市场二级机会一般，但一旦有这种打新活动就可以感受到市场其实并不缺钱。虽然有 3 天时间投入打新，但 Creditlink 打新在首个小时里便塞进了 4,150 万 USD1 和 714 万 FORM
+>  
+> 有 13,471 个地址塞满了 4,000 USD1 + 任意 FORM 或塞满了 1,000 FORM + 任意 USD1，占总打新地址数的 66.2%
+>  
+> 有 333 个地址塞满了 4,000 USD1 + 1,000 FORM，占比 1.64%
+>  
+> 还有不少时间，感觉是不是得破亿了..
+>  
+> 数据：dune.com/defioasis/creditlin…
+
+## 57. Aug 27, 2025 · 5:17 AM UTC · 1960572394881605921#m
+- 链接：https://twitter.com/defioasis/status/1960572394881605921#m
+- 作者：@defioasis
+
+> 流水的 Launchpad，铁打的 Pump
+>  
+> 新 Launchpad 的生命周期大多只在一周内。统计了 12 个热门 Solana Launchpad 在今年里每日代币创建数超过 3k 的天数：
+>  
+> - 无论市占率第一还是受到挑战的时候，Pump Fun 在今年日均代币创建数几乎从未低于 3k
+> - LetsBonk 在 152 天的历史里有 52 天创建数超过 3k
+> - Moonshot：11 天
+> - Bags：8 天
+> - 前段时间出来的 Heaven 有 7 天超过 3k，但目前也呈后继乏力之势
+> - 不到 7 天：Believe、LaunchLabs、Boop、Jup Studio
+> - 像 Moon it 和 Mavebreak 则没有单日创建数超过 3k
+
+## 58. Aug 26, 2025 · 5:35 AM UTC · 1960214556585894041#m
+- 链接：https://twitter.com/defioasis/status/1960214556585894041#m
+- 作者：@defioasis
+
+> 又来一个
+>  
+> 累积融资 6,500 万美元，每日网络费用收入 0.073 ETH（约 320 美元），TGE 后代币跌超 60%，裁员 65%，CEO 离职
+
+## 59. Aug 26, 2025 · 3:56 AM UTC · 1960189546932662675#m
+- 链接：https://twitter.com/defioasis/status/1960189546932662675#m
+- 作者：@defioasis
+
+> 算上 EVM 的话总费用跟我昨天预估的差不多，OKX DEX 首日 EVM + Solana 的费用一共在 25 – 30 万美元左右，其中在 EVM 网络中，OKX 自家的 X Layer 贡献的费用占了 1/3
+
+## 60. Aug 26, 2025 · 3:09 AM UTC · 1960177709772067147#m
+- 链接：https://twitter.com/defioasis/status/1960177709772067147#m
+- 作者：@defioasis
+
+> 8 月 25 收费首日，OKX DEX vs 交易终端（Solana 费用）
+>  
+> - Axiom：$1.25m
+> - OKX DEX：$147.4k
+> - Photon：$137.1k
+> - GMGN：$118.5k
+> - Moonshot：$56.3k
+> - BullX：$43.5k
+
+## 61. Aug 25, 2025 · 10:38 AM UTC · 1959928401181241616#m
+- 链接：https://twitter.com/defioasis/status/1959928401181241616#m
+- 作者：@defioasis
+
+> OKX DEX 在今天结束了免费模式，每笔交易收取 0.25% / 0.85% 的费用
+>  
+> 从早上 10 时开启到下午 18 时，OKX DEX 在 EVM 网络收取了约 2.6 万美元的费用，在 Solana 网络收取了约 5.75 万美元费用。预计 OKX DEX 首日多链的费用收入在 25 万 – 30 万美元间，收入水平应该与 Photon 差不多
+>  
+> OKX DEX 在四大主要网络（Solana+BNB+Ethereum+Base）的每日交易量在 3 – 4 亿美元间，其中 Solana 占据 50%-60% 的份额；最近两周，日活交易者在 10 万 – 12 万之间
+>  
+> OKX DEX 的核心之一是 Aggregator API，除了前端或者说钱包用户外，第三方 DApp 接入了 API，那这些交易量也会走 OKX 聚合器路由去完成，特别是在 Solana 网络这块已经相当成熟了。收费是针对 OKX 钱包 App 内发起的 Swap，Solscan 浏览器标识是 Swap_v3，第三方调用的则不在收费列
+>  
+> OKX DEX 费用地址：8ckLnP69xhSeoNbZCUrbJZ8aYSR86QNjRVZdpHmFfigk
+> 0x6eA08ca8F313d860808ef7431fc72c6FbcF4A72D
+
+## 62. Aug 24, 2025 · 1:47 PM UTC · 1959613642024083759#m
+- 链接：https://twitter.com/defioasis/status/1959613642024083759#m
+- 作者：@defioasis
+
+> Heaven 暂时可以视为是 Solana 第二大 Launchpad，尽管位置并不稳固
+>  
+> 在诞生两周里（从 LIGHT 发射之日开始算起），Heaven 代币交易者累积取得了 86.96 万美元 PnL，其中 8 月 21 日达 69.59 万美元
+>  
+> 可以发现 8 月 21 日也是 LIGHT 涨势逆转的时候。当天出现较大的正的 PnL 往往或也意味着某些大户进行了获利了结
+
+## 63. Aug 24, 2025 · 7:32 AM UTC · 1959519129742053797#m
+- 链接：https://twitter.com/defioasis/status/1959519129742053797#m
+- 作者：@defioasis
+
+> WLFI 解锁在即，看看参与了公售私募的筹码分配
+>  
+> WLFI 共有 8.58 万名持有者：
+>  
+> - 0-1 万枚：5.05 万个地址，占比 58.8%
+> - 1 万 – 10 万枚：2.59 万个地址，占比 30.2%
+> - 10 万 – 100 万枚：7,780 个地址，占比 9.1%
+> - 100 万 – 1 千万枚：1,410 个地址，占比 1.6%
+> - 1 千万 – 1 亿枚：210 个地址，占比 0.2%
+> - 1 亿 – 10 亿枚：49 个地址，占比 0.1%
+> - 等于/超过 10 亿枚：12 个地址，主要是 World Liberty 官方持有，其余有 Tron DAO、BitGo Deposit 和 technorevenant.eth 等
+>  
+> 按照 WLFI 最高 $0.55 计算，想要达到账面 A8（$1.5m），那至少得成为 Top 1.9%；如果按现价计算，那得需要更多..
+
+## 64. Aug 23, 2025 · 5:23 AM UTC · 1959124277107859943#m
+- 链接：https://twitter.com/defioasis/status/1959124277107859943#m
+- 作者：@defioasis
+
+> 看到最近 Morpho 总存款数突破了 100 亿美元，其中活跃贷款达 36.4 亿美元，而这背后离不开 Coinbase 的支持
+>  
+> 这就不得不提，Coinbase 今年在链上的布局，其交易所内有一款面向散户的交易所与链上大融合的借贷产品 Coinbase Onchain Borrow，本质是 CeFi 前端，DeFi 后端。Coinbase 用户在前端看到借贷流程，在后端由 Coinbase Smart Wallet 提供支持，并且抽象化了 CSW 创建和与 Morpho 交互的过程
+>  
+> Coinbase Onchain Borrow 为 Morpho 提供了 12.75 亿美元存款和 6.53 亿美元的活跃贷款，分别占比 Morpho 的 11.9% 和 17.9%
+>  
+> 另外值得一提，在 Base app 面世后，Coinbase Smart Wallet 总账户数激增，就这个月已经有 35 万用户进来，总账户数超过了 110 万。Smart Wallet 这套玩法目前就属 Coinbase 玩的最六，不知道其类 Alpha 交易产品是否也会是基于 CSW
+
+## 65. Aug 22, 2025 · 9:55 AM UTC · 1958830333098664109#m
+- 链接：https://twitter.com/defioasis/status/1958830333098664109#m
+- 作者：@defioasis
+
+> 看了看 OKLink，X Layer 网络的活跃度对 OKB 价格的拉升产生了相当正向的作用
+>  
+> - 链上活跃最直接的数据是每天 Gas 消耗量大幅增长，而这直接对应的是对 OKB 的需求上
+>  
+> - 总地址数从 8 月 14 日至今增长了 57.6 万个，目前已突破 200 万个，最近一周增长就顶了历史总数的超过 1/4
+>  
+> - 日活跃地址数对比销毁公告前是数十倍增长，昨天日活跃地址达到 6 万 ATH
+>  
+> - 近 24 小时，X Layer DEX 交易量达 1.07 亿美元。Gecko Terminal、DeFiLlama 等第三方数据网站对 X Layer DEX 交易量统计都不准确，X Layer 绝大部分池子是以 WOKB 作交易对，所以直接看 OKLink 中 WOKB 的交易量即可
+>  
+> - 龙头 PotatoSwap 占据了 X Layer DEX 交易的超 90%，剩余交易量则由 Revoswap、QuickSwap 和 AbstraDEX 等瓜分
+
+## 66. Aug 21, 2025 · 1:33 PM UTC · 1958522747300237668#m
+- 链接：https://twitter.com/defioasis/status/1958522747300237668#m
+- 作者：@defioasis
+
+> 米莱后，确实许久未见重量级名人发币，但可惜侃爷发币也只是换汤不换药，卖力的甚至还发上了小红书..
+>  
+> 复盘一下，截至当前，本日有 56,050 个地址交易了 YZY，其中 25,166 个地址只有单边交易（占比 44.9%），分别包括 23,723 个地址只有买和 1,443 个地址只有卖，前者的一部分是可能是为了提升地址数的粉尘地址、另一部分就是一直拿着或者被套了；后者主要就是项目方/持币大户的分地址出货，增加被直接追踪的难度
+>  
+> 在有双边买卖的 30,884 个地址中：
+>  
+> - 11,759 个地址已实现盈利，占比 38.07%
+>  
+> - 大部分已实现利润 0-500u，有 9,308 个地址，占比 30.1%
+>  
+> - 406 个地址盈利超过 1 万美元（占比 1.31%），其中有 5 个地址盈利超过 100 万美元，而这 5 个百万盈利地址中有 2 个是新地址，1 个被扒出来是 Insider
+>  
+> - 仍然是超过 6 成的人亏损，大部分亏损 0-500 美元，有 14,957 个地址，占比 48.4%
+>  
+> - 有 1 个上头的哥们已实亏了超过 100 万美元，惨
+
+## 67. Aug 20, 2025 · 2:16 PM UTC · 1958171343297654859#m
+- 链接：https://twitter.com/defioasis/status/1958171343297654859#m
+- 作者：@defioasis
+
+> 对 StableStock 最大的感受是，它首先是一个相对合规的加密券商，基于可使用 BSC-USDT/USDC 购买真实股票的基础上，用户可以进行股票代币的铸造或销毁
+>  
+> 从链上看，StableStock 已通过合约: 0xE27bF8090Da972AD20AE3d26792B3e2BC6f89028 创建了 115 种股票代币，这些股票代币的初始总量都为零
+>  
+> StableStock 的股票代币供应量的铸造是通过 StableStock 平台股票的持有人进行股票代币的铸造事件 Mint By Admin 去触发，根据股数铸造相应数量的代币数量，反之也可以销毁。这么做的好处是显而易见的，真实股票对应的股票代币可以在 BNB Chain 链上进行 DeFi 可组合
+>  
+> StableStock 这套模式未来可能会演变出三种市场：加密券商+股票代币铸造的 StableStock 市场本身 -> 股票代币链上市场 DEX + DeFi -> 当股票代币有一定的 AUM 规模后上线 CEX 扩大分发
+>  
+> 当然现在还很早期，很多地方还挺粗糙，但有透明度模块必须好评。目前 StableStock 平台有 44 万美元资产，210+ 用户，持续关注：dune.com/kucoinventures/stab…
+
+## 68. Aug 20, 2025 · 5:43 AM UTC · 1958042072742785333#m
+- 链接：https://twitter.com/defioasis/status/1958042072742785333#m
+- 作者：@defioasis
+
+> HIP-3 对 Hyperliquid 开放性和可组合性是巨大的加强，同时也直接推动了 HYPE LST 的需求。最近也看到 HYPE LST 协议动作频频，目前主流 HYPE LST 协议的 HYPE 质押率达到了 4%：
+>  
+> - Kinetiq：31.05m KHYPE，占超 75% 的市场份额，听闻估值 N 倍于上一轮的融资也在进行中
+>  
+> - StakedHYPE：4.3m stHYPE，被 Valantis 收购
+>  
+> - Hyperbeat：2.71m beHYPE + 0.96m Ultra HYPE，520 万美元融资，Coinbase Ventures 参投。值得一提的是，构建 pre-IPO 永续的 HIP-3 市场 Ventuals 便是在 Hyperbeat 上建 Vault，额度已打满
+>  
+> - 其他还有 Looped HYPE、Hyperpie Staked mHYPE、haHYPE
+
+## 69. Aug 19, 2025 · 7:01 AM UTC · 1957699307848573151#m
+- 链接：https://twitter.com/defioasis/status/1957699307848573151#m
+- 作者：@defioasis
+
+> 代币化股票呼声很大，喊得人很多，做的人也很多，但实际资金流入却有限
+>  
+> 以最大的 xStocks 股票代币来说，AUM 规模从刚推出那会到现在几乎没啥变化，缺乏增量，大致维持在 7,500 万美元上下。xStocks 依赖于机构做一级发行，AUM 与供应量挂钩，但供应量增长缓慢甚至停滞，似乎需求并没有声量那般大🧐
+
+## 70. Aug 18, 2025 · 1:49 PM UTC · 1957439593214816430#m
+- 链接：https://twitter.com/defioasis/status/1957439593214816430#m
+- 作者：@defioasis
+
+> 一段时间没看，发现 Falcon 的稳定币 USDf 规模也超过了 10 亿，一直觉得 USDf 像是有收益版的 USD1..
+>  
+> WLFI 投资，跟 USD1 一样最初都先支持 Ethereum 和 BSC；DWF 操盘，收益来自于资金费套利、跨所套利和链上收益，目前年化大概 9%；质押才可享收益，质押率 ~30%
+>  
+> USDf 的铸造方式还挺有意思，面向散户开放，并且支持用一些山寨资产去抵押铸造，比如 TRUMP DOLO MOVE SEI 等，而这些大部分是由 WLFI 所支持的资产。抵押资产的丰富度，让 DWF 操盘搞收益更方便 lol
+>  
+> 仔细看，有相当多的大额地址 Mint 完之后就躺着，比如在 7 月 28 日这天有 4.1 亿 USDf 净铸造（占总量的超 1/3），是由少数几个地址大额铸造所推动，时至今日仍躺在钱包里，这可能也是某种程度面向散户的让利。毕竟十多亿的 USDf，哪怕把历史持有者算上，也不过 6k+ 的规模..
+>  
+> 目前 USDf 的支持协议有 Pendle、Morpho、Euler 和一些 DEX，分发渠道仍有待拓展
+>  
+> 不容易，拖了老久，今晚终于来把数据补上：dune.com/kucoinventures/usdf
+
+## 71. Aug 17, 2025 · 3:51 AM UTC · 1956926855996485844#m
+- 链接：https://twitter.com/defioasis/status/1956926855996485844#m
+- 作者：@defioasis
+
+> 融资 1.34 亿美元，累积创收 2.66 万美元链收入，日均不足 50 美元，活跃开发者 1，创始人刚退出全职..
+
+## 72. Aug 16, 2025 · 8:19 AM UTC · 1956631934249136167#m
+- 链接：https://twitter.com/defioasis/status/1956631934249136167#m
+- 作者：@defioasis
+
+> 看到 USELESS 上 Binance 合约，本来感叹 Binance 真是好久没上 Solana Meme 了，仔细一看才发现 Binance Alpha 上交易的原来一直是跨链到 BSC 网络的 USELESS..
+>  
+> Solana Meme 现在上限很难突破，有个比较重要的原因是 Binance 现货的上币途径被锁住。目前来看，要想上 Binance 现货/合约，首先还是得上 Binance Alpha，不过似乎就连 Binance Alpha 都老久没上 Solana Meme 了。一来是 Solana 网络在 Binance Alpha 交易量中不太高，二来侧重点还是会放在自家的 BSC 网络资产上。未来的趋势会不会是发展有一定规模的 Solana Meme 跨链到 BSC 上？
+>  
+> 简单统计了下 Binance Alpha 中的 Solana 代币，在 51 个代币中，39/51 个是 Pump Fun 代币，当然大多数是老币；近 24 小时交易量超过 10 万美元的仅 6 个 。想想 Launchpad 竞争是不是应该给加个 KPI：有多少个代币上线了 Binance（Alpha）🤔
+>  
+> dune.com/queries/5641442
+
+## 73. Aug 15, 2025 · 10:08 AM UTC · 1956297049462464559#m
+- 链接：https://twitter.com/defioasis/status/1956297049462464559#m
+- 作者：@defioasis
+
+> 搜罗到 7 个 HYPE LST 协议共质押着超 3,800 万枚 HYPE，占 HYPE 总量的 3.81%，赛道还属于早期
+>  
+> Kinetiq 质押着超过 2,800 万枚 HYPE，占据着 HYPE LST 中超过 70% 的市场份额，也是 HyperEVM 上首个 TVL 突破 10 亿美元的协议
+>  
+> Kinetiq 跟 Pendle 与 HyperEVM 上借贷协议 HyperLend、Morpho 的组合是关键。Pendle、HyperLend 和 Morpho 现在分别是 kHYPE 的第一、二和四大持有实体。像收益率分拆后的 PT-kHYPE 可以用作 HyperLend 抵押品，yield boost 套娃路径很清晰
+>  
+> HYPE LST 未来的潜力取决于 HIP-3 之后外部开发者对在 Hyperliquid 之上构建分区市场的需求。Hyperliquid 在推出 Unit 之后上币路径已经打开，以及有主流钱包 Phantom 和头部交易终端 Axiom 等成熟的分发渠道，上币+分发路径清晰，开发者也能有更多的精力专注于市场构建本身
+>  
+> HIP-3 需要外部开发者质押 100 万枚 HYPE，这可以视为 LST 的基本门槛。除了 Kinetiq 外，目前 stHYPE、Liquid HYPE、Looped HYPE 的质押量都超过 100 万枚 HYPE。（有什么遗漏的已上线的 HYPE LST 欢迎告知补充哈
+
+## 74. Aug 14, 2025 · 5:01 AM UTC · 1955857310712258731#m
+- 链接：https://twitter.com/defioasis/status/1955857310712258731#m
+- 作者：@defioasis
+
+> Hyperliquid (+Unit) 资沉历史首度突破 60 亿美元，在昨天有 3.95 亿美元资金流入创下历史新高，其中 3.04 亿 USDC 的单日净流入 ATH
+>  
+> Hyperliquid 资沉已跟 BitMEX 和 Bitget 持平，可跻身前十交易所
+>  
+> 在 Unit 之后，HIP-3 又是一个催化剂。外部开发者可以直接在 Hyperliquid 上构建市场，比如股票代币、Pre-IPO 市场等，具体的例子是 Ventuals
+>  
+> 同时 HIP-3 出来之后 HYPE LST/Staking 的叙事完全被改变，HIP-3 需要开发者质押 100 万枚 HYPE（~4,800 万美元）去部署市场。开发者没有这么多就需要去 HYPE LST 去做租赁去做众筹质押。听闻 Hyperliquid 上的 LST 协议一级估值已经涨了 8 倍..
+
+## 75. Aug 13, 2025 · 9:00 AM UTC · 1955555120747540833#m
+- 链接：https://twitter.com/defioasis/status/1955555120747540833#m
+- 作者：@defioasis
+
+> OKB 一次性销毁历史回购真的蛮震撼，平台币逻辑是销毁可以用来拉盘
+>  
+> 如果回溯一下 OKB，在这次直接销毁之前，OKB 流通量是 86m，而上回销毁了42m，如果保持这个态势其实销毁两次也就没了，所以这次一次性销毁调整的确有迹可循。这波猫弟 @maodi86 最大赢家
+>  
+> 另外一项有趣的数据，自今年以来，CEX 对平台币的回购规模将近 60 亿美元，比同期所有的 L1 收入（不含 Tron）大 5-6 倍，而 CEX 平台币回购金额大概是收入的 10%-40% cc: @Mausefalle25
+
+## 76. Aug 12, 2025 · 11:28 AM UTC · 1955229895317131479#m
+- 链接：https://twitter.com/defioasis/status/1955229895317131479#m
+- 作者：@defioasis
+
+> Circle 也要做 USDC 链 Arc 对标 Tether 的 USDT 链 Plasma/Stable，相当于是自己去做分销渠道
+>  
+> 当前 USDC 总量约 $65.55b，过去一个月增长了 20 亿美元。USDC 已原生支持 25 条链，算上 bridged 的话超过 50+ 条链
+>  
+> 从 USDC 在链的分布来看：
+> - Ethereum $41.6B，占比 63.51%
+> - Solana $8.09B，占比12.34%
+> - Hyperliquid $4.78B，占比 7.29%
+> - Base $3.87B，占比 5.9%
+> - Arbitrum $2.36B，占比 3.6%
+> - BSC $0.94B，占比 1.43%
+> …
+>  
+> Hyperliquid 和 BSC 的 USDC 都是 bridged 版本而非原生版本，其中 Hyperliquid 来源于 Arbitrum bridged，从 Arbitrum 上瓜走了 67.6% 的 USDC，不过原生 USDC 应该很快能在 Hyperliquid 上看到
+
+## 77. Aug 12, 2025 · 5:37 AM UTC · 1955141691415076932#m
+- 链接：https://twitter.com/defioasis/status/1955141691415076932#m
+- 作者：@defioasis
+
+> 随着 Base app 陆续开放中，背后的 Coinbase Smart Wallet 账户数达到 95 万，估计百万就在一两周内了
+>  
+> 统计了下 Coinabase Smart Wallet 在过去 7 天交互和活跃地址数最多的已标记合约：
+>  
+> - Zora Coins 相关合约首当其冲，Zora Coins 是 Base 上第一大 Launchpad，ZORA FDV 近日也突破了 10 亿美元
+>  
+> - Ethos 上榜还挺震惊的。看了下 Ethos 近几天账户创建数又有一波小高潮，在 Reviews 和 Vote 活动中创下了新高，主要原因可能是近期对 AI 垃圾评论的评分的大幅调整
+>  
+> - 除了诸如 Uniswap、USDC、cbBTC 等许多交易相关合约外，其他有意思还有域名 Base names，靠域名在 Base app 中实现微信式通信体验；Spheron 似乎是在 Base 上做 DePIN + AI 的
+
+## 78. Aug 11, 2025 · 10:31 AM UTC · 1954853071856833009#m
+- 链接：https://twitter.com/defioasis/status/1954853071856833009#m
+- 作者：@defioasis
+
+> Base 代币创建数量新高，单日达到 5.6 万种新代币，几乎是 Solana Launchpad 的两倍
+>  
+> 在当日发币数上，Zora Coins 比 Clanker 大概是 8.5 : 1.5。Zora Coins 就不必说了，在集成了 Base APP 之后就一直起飞；Clanker 也蛮有意思，在 V4 之后，生态拓展的相当不错，近期比较火的有 Native 系
+>  
+> 不过，这些 Base Launchpad 发出来的币的交易量都差点意思。Base 网络整体交易量似乎更多还是集中在大币种🤔
+
+## 79. Aug 10, 2025 · 12:01 PM UTC · 1954513335036355030#m
+- 链接：https://twitter.com/defioasis/status/1954513335036355030#m
+- 作者：@defioasis
+
+> 以前 Pump Fun 一家独大的时候没感觉，现在 Solana Launchpad 混战，越发发现 Launchpad 发币活跃度会深刻地影响这个 Launchpad 的蓝筹代币和整体代币价格表现，特别是对于较新的 Launchpad 这种效应会更加显现🤔
+>  
+> 比如近期发币数飙升的 Bags，Bags 代币交易者的 PnL 也呈现显著正增长，特别是过去 3 天里有 2 天的日 PnL 都超过了 100 万美元，财富效应不俗；LetsBONK 被 Pump Fun 重新反超后整体生态内代币就变得弱势了一些
+>  
+> Launchpad 背后大多有自己的社群和流动性网络，但游资偏好性相对没那么高，使用 Axiom 这类终端分发平台，在这些 Launchpad 代币中游走，有可能扮演推手角色。Launchpad 发币数增加，出现在终端分发平台的概率就更高，平台热度、流动性和资金量上升，资金会在 Launchpad 的蓝筹代币上活跃，推动或者至少支撑交易量
+>  
+> 代币的阶段性高点，可能就是这个 Launchpad 发币数或者市场份额显著下滑的时候。一般可能就是同质化的 Launchpad 持续性有限，或者被其他叙事所分化
+
+## 80. Aug 9, 2025 · 3:28 AM UTC · 1954021886670819652#m
+- 链接：https://twitter.com/defioasis/status/1954021886670819652#m
+- 作者：@defioasis
+
+> 今年的主线毫无疑问就是大融合了，CEX 和 Onchain 融合，TradFi 和 Onchain 融合
+>  
+> Coinbase 也要在交易所内通过内置钱包让交易所用户使用站内资沉购买链上资产，先支持 Base 后拓展至 Solana，逐步支持完整的链上资产。看描述应该是类似于 Alpha 的产品，等上线后再看看架构是怎么样的
+>  
+> 这样一来，Coinbase 的链上化基本就是 Base APP + Coinbase Alpha 双轨并行了，前者是面向海外非 KYC 用户的分发，后者是让本土 KYC 用户走入链上，双向奔赴了
+>  
+> 值得一提，Base APP 背后基于的 Coinbase Smart Wallet 账户数已突破了 90 万，接近于目前 Binance Wallet（BSC）的交易用户（~94 万）。Coinabse – Base 与 Binance – BSC，后面估摸会有热闹可看，对于投机来说会有机会
+>  
+> 除了 Coinbase 外，这周各大 CEX 在链上布局感觉是突然加速了一般：
+>  
+> - Binance 打狗终端 Binance Wallet Terminal 面向市场推广，找种子用户拉群提建议。目前 Binance Wallet Terminal 支持 Solana 和 BSC，已获取了 ~1.2k 交易用户，日交易量在 25-30 万美元。值得一提，近期声音逐渐下去的 Binance Alpha 日交易量和交易笔数似乎都有底部往上反弹的迹象
+>  
+> - Bybit 也正式推出了类 Alpha 产品 Bybit Web3，同样可以用交易所资沉购买链上资产。它的架构跟 Bitget Onchain 一样，都是多钱包管理链上资产，N 个地址在管理，每个地址 ~3wu。目的是防滑防割，不过这也很难统计具体的数据了
+>  
+> - Gate Alpha 参考了 Binance Alpha 的积分与空投模式，交易量连续飙升，最近一天达到了 800 万美元，而其中的大部分都集中在 BSC 网络
+>  
+> 交易所大家的产品都在慢慢完善，当然也意味着同质化，而又不像 Binance 和 Coinbase 有自己的公链做资产后盾，那其他交易所后面实际上还是在拼运营能力了
+>  
+> 这个 CEX 和 Onchain 大融合面板应该是目前各交易所链上化最全的看板，后面也会继续完善，感兴趣的可以多关注：dune.com/kucoinventures/cexo…
+
+## 81. Aug 8, 2025 · 5:49 AM UTC · 1953695102083514544#m
+- 链接：https://twitter.com/defioasis/status/1953695102083514544#m
+- 作者：@defioasis
+
+> SideKick 今天 TGE 和 Listing，回顾一波数据吧。从 5 月 24 日开启打赏至今，大约 2 个月半月的时间：
+>  
+> - 支持 Solana、BSC、Ethereum 和 Base 网络的原生代币和 U 打赏，平台抽取的打赏费用具体包括 336.33 SOL、5.8k SOL-USDT、8.3k SOL-USDC、12.66 BNB 和 2.6k BSC-USDT 等
+>  
+> - 平台对用户打赏的礼物金额抽取 50%，另外一半为主播收入，即平台和全体主播收入分别约 7.88 万美元，则用户总计打赏了约 15.76 万美元
+>  
+> - 约 1 万个链上地址，包括 ~8.8k 打赏用户地址和 ~1.2k 主播地址
+>  
+> - 前十的主播收入均超过了 2,000 美元，前十合计占主播总收入 44.5%
+>  
+> - 80% 的地址打赏金额小于 5 美元，有 5 个地址打赏金额超过 3,000 美元，其中榜一神秘大哥打赏超 3 万美元
+>  
+> P.S 之前平台收入按照抽税打赏的币的每日金额聚合计算造成了数据膨胀，因为考虑到平台并不会直接把抽税的币转移卖出，已重新调整为先聚合币本位再算当前价格
+>  
+> 数据：dune.com/kucoinventures/side…
+
+## 82. Aug 7, 2025 · 2:04 PM UTC · 1953457183846551662#m
+- 链接：https://twitter.com/defioasis/status/1953457183846551662#m
+- 作者：@defioasis
+
+> LetsBONK 和 Pump Fun 为争夺资产发行主导地位在 CT 吵的甚是激烈
+>  
+> 一看主流 Meme 交易终端交易量几乎没啥变化，这就有点尴尬了..
+>  
+> 对于交易用户和交易平台来讲，对发射器其实并不需要有什么偏好，关键还是看具体的代币能不能有财富效益，分发终端的排行榜显示的是什么代币。在哪发射能利益最大化倒是 dev 该考虑的事情
+
+## 83. Aug 6, 2025 · 2:05 PM UTC · 1953094984187691018#m
+- 链接：https://twitter.com/defioasis/status/1953094984187691018#m
+- 作者：@defioasis
+
+> 越来越多的股票代币发行商冒出且发在不同链，同类多链股票代币聚合器迫在眉睫
+>  
+> - xStocks：在 Solana 上发行了 63 种股票代币，CEX+DEX 交易量超 20 亿美元
+>  
+> - Robinhood：在 Arbitrum 上发行了 207 种股票代币且支持 Pre-IPO（测试状态），交易所站内 CFD
+>  
+> - Dinari：在 Arbitrum 上发行了 146 种股票代币，已打开链上交易渠道
+>  
+> - Jarsy：在 Base 上发行了 40 种股票代币且支持 Pre-IPO，暂只支持平台内交易
+>  
+> - StableStocks：在 BNB Chain 上发行，等待准入一探究竟… 粗略看与 xStocks 不同之处在于散户也允许参与一级股票代币发行铸造和赎回销毁
+>  
+> 股票代币链上永续也逐渐看到有人在做
+>  
+> - PancakeSwap Perp：与 Aster ALP Pool 共享流动性，暂支持 AAPL AMZN TSLA，杠杆最大 25x
+>  
+> - Ventuals：基于 Hyperliquid 做多做空 Pre-IPO 代币，杠杆最大 10x（测试网）
+>  
+> 不完全统计，还有很多在路上…
+>  
+> 跟稳定币有点像，关键还是在于分发渠道
+
+## 84. Aug 6, 2025 · 5:45 AM UTC · 1952969322667876545#m
+- 链接：https://twitter.com/defioasis/status/1952969322667876545#m
+- 作者：@defioasis
+
+> SideKick TGE 发币 上所一气呵成，速度真快..
+>  
+> SideKick 有 8k+ 链上打赏用户，如果你打赏金额超过 5 美元，那么恭喜你已超过了 80% 的用户地址🤪
+
+## 85. Aug 5, 2025 · 1:42 PM UTC · 1952726883021226213#m
+- 链接：https://twitter.com/defioasis/status/1952726883021226213#m
+- 作者：@defioasis
+
+> 目前 SideKick 打赏用户地址数 7.5k+，主播应该也有个几百号人，加起来估计 8k+
+>  
+> 其中在 7 月 29 日首次单日有超过 2.1k 的用户进行了打赏，包含了 1.5k+ 的新用户，可能是跟直播打狗赛有关。直播平台作为 Meme 分发渠道还是相当有场景的
+>  
+> SideKick 似乎也是快 TGE 了，最近一连串活动都蛮有意思的
+
+## 86. Aug 5, 2025 · 8:33 AM UTC · 1952649230373241329#m
+- 链接：https://twitter.com/defioasis/status/1952649230373241329#m
+- 作者：@defioasis
+
+> Binance 加入战壕，基于 Binance Wallet Web 端推出了类似于 Axiom/GMGN 的链上交易终端
+>  
+> 听闻 Binance Wallet Terminal 将会是下半年的重点发力方向，暂时似乎还没有看到大范围的宣发，正在找一些种子用户拉社群提提优化建议
+>  
+> 从链上看，Binance Wallet Terminal 在 7 月 11 日有了第一笔交易，支持 Solana 和 BSC 网络，大概三周的时间产生了 160 万美元交易量，其中 BSC 上的交易量达到 100 万美元；已经有接近 1,000 名交易者，产生了超过 3 万笔交易
+>  
+> 每笔交易收费 0.5%，现在早期有 50% 的折扣即 0.25%，低于当前的主流交易终端的 1%
+>  
+> Binance Wallet Terminal 还是有不少特点，钱包连接与 Binance 无私钥 MPC 钱包绑定，支持 7 天预授权，交易体验就跟现货差不多了，无需授权，Gas 费用包在交易里；因为是 MPC 钱包本身是绑的交易所账户，所以也就延伸出了一种指标“身份认证”。这指标还是蛮有意思，早期代币里含“身份认证者”越多说明真实的用户相对就多，想要造假那也得付出账号 KYC 成本。后面围绕“身份认证者”还可以再继续打各种各样的标签，未来可能会成为数据维度上的护城河
+>  
+> 其他一些支持了的常规功能有：Meme Rush（战壕）、钱包+社交监控、AI 代币叙事等。像限价单、地址标签、交易信号什么的则还没有。还是比较期待 Binance 亲自下场做会做成啥样子
+>  
+> 数据：dune.com/defioasis/bnwallett…
+
+## 87. Aug 4, 2025 · 2:56 AM UTC · 1952201848724828196#m
+- 链接：https://twitter.com/defioasis/status/1952201848724828196#m
+- 作者：@defioasis
+
+> 在全新升级后，陆续有更多人进入到 Base app。Base app 基于 Coinbase Smart Wallet，主打就是无痛无感无 Gas
+>  
+> 上周有 11.8 万个新的 Coinbase Smart Wallet 被部署，连续两周新增创下历史新高。目前 Coinbase Smart Wallet 数量扩大至超 84 万
+>  
+> 考虑到 Base app 仍处于 Beta 邀请版，预计可能还有几十上百万用户仍在排队中，这周估计能突破 100 万用户数。Base app 是 Base 生态面向用户最重要的分发渠道了
+>  
+> 这几天再进一步深研一下 Base app 用户都在玩什么🧐
+
+## 88. Aug 3, 2025 · 6:54 AM UTC · 1951899462416413064#m
+- 链接：https://twitter.com/defioasis/status/1951899462416413064#m
+- 作者：@defioasis
+
+> 跟 Solana 由 Launchpad 去掌握 Meme 交易量不同，Base 这块在 Meme 交易量主要还是集中在 Virtuals 和 Clanker
+>  
+> Zora Coins 诞生了大量的代币，但绝大部分都缺乏长期交易需求和动力，毕竟贴文代币过于廉价和随时可取代，真正有价值的内容还是太少了。另一方面，是 Zora Coins 需要分配的利益对象较多，代币每笔交易 3% 的税着实贵，一买一卖就 6%..
+>  
+> 交易用户层面倒是趋向于三足鼎立，各有高光。这也说明参与 Zora Coins 代币交易的用户数还可以，但是金额规模普遍不大；Virtuals 和 Clanker 底蕴都还是在的
+
+## 89. Aug 3, 2025 · 3:44 AM UTC · 1951851733887664301#m
+- 链接：https://twitter.com/defioasis/status/1951851733887664301#m
+- 作者：@defioasis
+
+> 尽管在 Base APP 更新之前，Zora Coins 就已主导了 Base Memecoins Launchpad，占据 75% - 80% 的市场份额，但 Clanker 偶尔还是能给 Zora Coins 带来一些威胁，比如 3 月引导 Grok AI 发币那波
+>  
+> 不过在深度集成 Base APP 之后，分销渠道彻底打开，Zora Coins 终结了这一悬念，现在几乎占据了 99% 的市场份额，并且将 Base 网络代币创建数大幅提升至每日 4 – 5 万以上
+>  
+> 从 Launchpad 竞争能看出，Base Memecoins 至少经历了三轮叙事：从代表 AI Agents 的 Virtuals Protocol -> 以 Farcaster 与 Twitter 社交媒体一键发币的 Clanker -> 当前版本的创作者经济，为创作者发币和贴文发币的 Zora Coins
+>  
+> Base 上还有什么其他值得关注的 Launchpad 吗🧐
+
+## 90. Aug 2, 2025 · 2:01 AM UTC · 1951463429337960463#m
+- 链接：https://twitter.com/defioasis/status/1951463429337960463#m
+- 作者：@defioasis
+
+> 在 Hyperliquid perp 这些分销渠道 Builder 中，Phantom 无疑是增长最快的
+>  
+> 不到一个月的时间，Phantom 为 Hyperliquid 贡献了超过 23 亿美元交易量，并从中捕获了 115 万美元收入。以此计算年化超过 2,000 万美元，约是 Phantom Swap 年收入的 1/10。目前 Phantom 几乎是占据了 Hyperliquid 分销渠道收入中的 50%
+>  
+> 这一来是展示了 Phantom 作为钱包通道入口拥有天然的用户优势，这给钱包找到了除 DEX 以外的另一条营收路径，并且还不需要自己做 Perp，只是一种类似于返佣的结构；二来是 Phantom 收费比较贵，收入/交易量比值达万分之五，是最贵的一档，其他十亿级别交易量的 Builder，像 Axiom 仅为 0.01%
+>  
+> 目前来看，钱包（Phantom、Okto）、链上交易终端（Axiom）、Telegram Bot（pvp_dot_trade）是 Hyperliquid perp 分销商的主要类型。这类产品的共同特点是没有拥有流动性，只负责在 UI/UX 和用户体验上的极致优化，底层的流动性则由 Hyperliquid 提供
+
+## 91. Aug 1, 2025 · 11:11 AM UTC · 1951239320284832085#m
+- 链接：https://twitter.com/defioasis/status/1951239320284832085#m
+- 作者：@defioasis
+
+> 在 7 月，Solana Launchpad 的竞争格局发生了显著的变化，LetsBONK 彻底击败 Pump Fun。LetsBONK 诞生其实仅 3 个月，想当初 Axiom 也是在推出数月内便在交易平台上获得主要市场份额
+>  
+> 在 7 月，LetsBONK 一共创建了 565,245 种代币，交易了至少 10 笔且有双向买卖的交易地址有 594,534 个，其中
+>  
+> - 已实现利润超过 100 万美元的地址有 8 个
+> - 已实现利润超过 1 万美元的地址有 38,375 个，占比 6.45%
+> - 0-$1k 仍然是主要的盈利区间，有 131,309 个地址，占比 22.1%
+> - 超过 70% 的地址（共 424,850 个地址）亏损，大部分亏损范围在 0-$1k
+> - 亏损超过 10 万美元的地址有 208 个，其中有 6 个地址亏损超过100 万美元
+>  
+> 接下来看看那些盈利超过 100 万美元的地址，大部分是些机器人，值得关注的有：
+> 1. 车头 Cupsey – $1.65m
+> suqh5sHtr8HyJ7q8scBimULPkPpA557prMG47xCHQfK
+>  
+> 2. ZONK Dev – $1.45m
+> 2QdJv1hR8DCYDWxL9FT8oKthAFvZ6uZqitsJ2Nw5aLJM
+
+## 92. Jul 31, 2025 · 10:43 AM UTC · 1950869811640344760#m
+- 链接：https://twitter.com/defioasis/status/1950869811640344760#m
+- 作者：@defioasis
+
+> Hyperliquid 在 7 月资沉增长飞起，从月初略低于 40 亿美元增长达到了 55 亿美元，在中下旬的时候一度逼近 60 亿美元
+>  
+> 其中 USDC 达到了 47.6 亿美元，在 7 月增长了 ~12 亿美元；其余部分则由 Unit 组成，目前支持 7 种资产：BTC ETH SOL FARTCOIN PUMP SPX6900 和 BONK，贡献了 7.5 亿美元
+>  
+> 在 Unit 加持下，Hyperliquid 现在是 FARTCOIN 的最大持有者，以及是 PUMP 第二大持有交易所
+>  
+> Unit 是 Hyperliquid 从纯衍生品交易所转向现货+合约全链交易所的重要基建。通过 Unit，Hyperliquid 的全链上币通道已经被打开，而不局限于 HIP-1。接下来就是看 Hyperliquid 如何去打造独家资产。目前 Hyperliquid 已经在分区中默默地上线了 DEX Only 和 Pre-launch 板块，应该很快就能看到新资产通过 Hyperliquid 首发上线
+
+## 93. Jul 30, 2025 · 4:16 AM UTC · 1950410270410772572#m
+- 链接：https://twitter.com/defioasis/status/1950410270410772572#m
+- 作者：@defioasis
+
+> Infrared v1.7 发布，第七次大升级，包含 iBGT 动态费用机制、新的 iBGT 运作机制，以及对 iBERA 底层收益机制的调整
+>  
+> iBERA 拍卖系统：告别直接BGT-to-BERA 赎回。新系统铸造 iBGT 代币并以BERA 拍卖，溢价交易捕获更多价值，收益分配拉满
+>  
+> iBERA-PoL 连接升级：当iBGT 溢价达 1.2x 或更高，基础奖励直接保留 iBGT，不再转为 BERA，优化收益逻辑
+>  
+> iBGT 动态费用：费用随市场波动智能调整。市场疲软时降低铸造费，保持竞争力；市场火热时最高可达 5-6%，最低 1% 保底，灵活且高效
+>  
+> 限制性 iBGT 赎回：内置套利机制上线。若 iBGT 锚定跌破 1.0，协议自动套利稳定价格，波动期也能保持稳定。不过目前赎回限白名单，未来会全开放
+>  
+> Berachain PoL V2 即将来袭，Infrared 持续迭代也在为此作准备。之前也有提到过，Infrared 在 Berachain 生态中影响力很大。想要趁着这波行情重铸 Berachain 荣光，与 Infrared 的配合是必不可少的
+
+## 94. Jul 29, 2025 · 11:28 AM UTC · 1950156396680679720#m
+- 链接：https://twitter.com/defioasis/status/1950156396680679720#m
+- 作者：@defioasis
+
+> Zora 有去年 Virtual 那味了，核心都是拿母币去做子币的交易对
+>  
+> Zora 的崛起不在于自家的 Zora Network，而是源于 Zora Coins 集成进 Base APP。Base APP 创作者可以通过 Zora Coins 在 Base 网络上为创作者本人或者任何贴文发币
+>  
+> Zora Coins 为创作者代币、贴文代币和 ZORA 创建了一套机制。创作者代币是贴文代币的母币，即贴文代币的交易配对是创作者代币；ZORA 是创作者代币的母币，即创作者代币的交易配对是 ZORA
+>  
+> 以前身为 Coinbase Wallet 的 Base APP 作为分销渠道，Base APP 为 Zora Coins 带来了相当多的用户，Zora Coins 已经是 Base 网络最大的 Launchpad。过去两天有超过 2 万名新的创作者；日创建代币数超过 5 万，这几乎是 Pump Fun 的 2-3 倍
+>  
+> 发帖简单，发帖即创建代币，贴文代币占总创建数的 70%-80%；但是，交易量却反过来，70%-80% 的交易量集中在创作者代币。毕竟创作者旗下可以有无数个贴文代币。创作者代币作为 ZORA 的子币，其交易的增加又会刺激母币 ZORA 的需求
+>  
+> 不过，Zora 收费还是蛮贵的，无论是在 Zora Coins 平台还是 Uniswap 交易，无论是贴文代币还是创作者代币，每笔交易都需要支付 3% 的费用，其中帖文代币的 3% 费用向 LP 分配 1%，向贴文创作者分配 1%，Zora 获得 0.3%，其余分配给交易返佣、平台返佣和底层 doppler 协议；创作者代币 3% 费用分配就简单多，LP、Zora 和创作者各获得 1%
+>  
+> 现在 Zora Coins 处于上升期，有 Base APP 和 Base 链的加持，老外甚至把“ZORA 视为 Base 链代币”。想 ZORA 母币飞轮更好运转，还是需要诞生一些高价值的子币支撑其更高的市值。目前暂时 Zora Coins 子币还没看到哪个跑出来的，后面还是可以多关注一下 Zora Coins 创作者和有意思贴文，看看 Zora Coins 中的“AIXBT”会是哪个
+>  
+> 也许以后会看到这样的新闻《震惊，一条贴文价值 1 亿，是科技创新还是互联网泡沫？》
+
+## 95. Jul 28, 2025 · 1:09 PM UTC · 1949819438792134967#m
+- 链接：https://twitter.com/defioasis/status/1949819438792134967#m
+- 作者：@defioasis
+
+> 算了下 Binance Booster 的数据，项目方出让 6% 的筹码能带来多少用户和营收
+>  
+> 以正在进行中的 BAS 为例，从 7 月 17 日至今，正在进行第二周活动
+>  
+> - BAS 用户地址数突破了 10 万（从费用开启后累积），Binance Booster 活动在 10 天里大概给 BAS 带来了 6.7 万个新用户地址，其中在每轮周活动的第一天都突破了 1.4 万名活跃用户地址
+>  
+> - BAS 从 6 月 18 日开启费用，每笔证明交易中都需要支付大约 1 美元的等值 BNB 给 BAS，这是 BAS 的核心收入。目前 BAS 收入约 173.7 BNB。从6 月 18 日到 Binance Booster 前的近一个月里，BAS 仅捕获 50.97 枚 BNB 的收入，而在 Binance Booster 后开启的这十天里就捕获了 120 枚 BNB，是此前的两倍
+>  
+> Binance Booster 的效果还是不错的，但如果考虑到支付的成本以及后续还得从二级市场中接回这些筹码… 那可不是一般的贵😳
+
+## 96. Jul 27, 2025 · 3:42 AM UTC · 1949314447090295068#m
+- 链接：https://twitter.com/defioasis/status/1949314447090295068#m
+- 作者：@defioasis
+
+> .@Sidekick_Labs 昨天举办的中韩主播 LOL 线下对抗赛效果还是不错的，打赏用户和打赏金额都有一个小高潮，特别是在新用户方面
+>  
+> - 从预热到比赛，算过去 3 天（7.24-7.26），新打赏用户地址超过了 500 个。查了下艾媒今年发布的数据，短视频/直播平台里会进行充值打赏的用户为 1.69%，那这场中韩主播 PK 活动可能有望带来了 1-2 万名会使用钱包的待转化用户
+>  
+> - 在比赛当天的打赏金额也创下了近一个月以来高点，大部分是打赏给了 SideKick_CN 对赛事的直播间，其中使用 Solana – USDC 进行打赏的最多，约 $5k
+
+## 97. Jul 26, 2025 · 3:04 AM UTC · 1948942516369457514#m
+- 链接：https://twitter.com/defioasis/status/1948942516369457514#m
+- 作者：@defioasis
+
+> 终于完整地统计好 Hyperliquid 的资沉水平。在今年引入了 Unit 之后，Hyperliquid 资沉规模现已超过了 56 亿美元，跟 Bitget 和 BitMEX 相当
+>  
+> 在这 56 亿美元资沉中，有 48.7 亿 USDC 和由 Unit 提供 deposit/withdraw 支持的 BTC、ETH、SOL、FARTCOIN 和 PUMP。值得一提的是，Hyperliquid 持有 PUMP 总量的 3.8%，是仅次于 Bybit 的第二大交易所
+>  
+> Unit 是 Hyperliquid 成为真正交易所的重要一环。在 Unit 之前，Hyperliquid 仅能通过 USDC onboard，这让 Hyperliquid 难以触及到外链新资产。做为链上交易所，Unit 正是解决了 Hyperliquid CLOB 没有现货资产币本位的问题。用户现在通过 Unit 存款来增加 CLOB 市场深度，而且这种体验更接近于 CEX 的 deposit/withdraw，而非链上 bridge
+>  
+> 正所谓靠合约赚钱，靠现货决定地位，Hyperliquid 的确是链上交易所的 next level。想起 @sankin_eth 当年的至理名言，每个公链都应视自己为一个交易所，公链要像 CEX 一样去运营
+>  
+> dune.com/kucoinventures/hype…
+
+## 98. Jul 25, 2025 · 4:53 AM UTC · 1948607613136241103#m
+- 链接：https://twitter.com/defioasis/status/1948607613136241103#m
+- 作者：@defioasis
+
+> Binance 推出在 Alpha 2.0 以限价单购买可按 4x 交易量计算后，Binance Wallet – BSC 网络交易量和交易用户近乎直接腰斩
+>  
+> - 交易量从 7 月 21 日 45.7 亿美元下滑至昨日的 24.6 亿美元，下降 46.2%
+> - 交易用户从 7 月 21 日 16.87 万下滑至昨日的 10.78 万，下降 36.1%
+>  
+> Binance 这么做应该是想通过激励增加 BSC Alpha 代币的深度和把流动性聚集在 Binance 站内。然而，Binance Alpha 2.0 交易量不仅没增，也随之呈现下滑趋势，看来这回是连工作室也毕业了？
+
+## 99. Jul 25, 2025 · 2:23 AM UTC · 1948569780371554766#m
+- 链接：https://twitter.com/defioasis/status/1948569780371554766#m
+- 作者：@defioasis
+
+> Infrared 的官方效率测评：
+> 当基础设施月成本＞$2500 或 金库激励捕获效率＜阈值时→
+> - 在中高成本场景下，iBERA 在约 25 万 BERA 的质押规模下优于独立节点
+> - 500 万 BERA 级玩家：iBERA 在成本劣势时可反杀
+> - 对于散户来说，独立节点月烧 $1k-$5k 运维费，iBERA 则零成本吃固定性能
+>  
+> BGT 策略解剖：再质押 or boost？
+> - 低 boost 加成区间（0.15%-0.3%）：纯 Boost 策略碾压再质押策略
+> - 近 1% 高加成区：iBERA 两种策略闪切刀口舔血
+> - 500 万 BERA 节点，22 天冲 0.3% boost 加成；100 万大户仅需 7 天
+>  
+> v1.7 升级预告 - iBGT拍卖引擎：砍掉 BGT→BERA 直接兑换，改用 iBGT溢价拍卖，拍卖将捕获更多价值，创造更多收益
+>  
+> 看完 Infrared 的官方测评，好是好，但历史教训表明“反垄断”才是生态的生存刚需。老大哥 Ethereum 的经验还是很多值得参考的。当年 Lido 质押份额占比逼近 1/3 时，Ethereum 基金会推动 DVT 削弱单节点影响力，而 Lido 也结合 Simple DVT 和 CSM 模块推动去中心化。巨头有时候反而需主动让利，中心化是生态的慢性毒药，竞争是良药
+>  
+> 当然，对于用户来说，似乎也不需要为此操心太多，关键还是看收益在哪。Infra 最新推出了 BYUSD-HONEY iVault：BYUSD 是跟 Paypal 合作推出的收益稳定币，iVault 收益来源于 POL、BEX 和激励，实时年化26.49%，目前 TVL 超过 660 万美元
+
+## 100. Jul 23, 2025 · 4:39 AM UTC · 1947879174947180704#m
+- 链接：https://twitter.com/defioasis/status/1947879174947180704#m
+- 作者：@defioasis
+
+> 前两天经 @yellen_2k 提醒， @Sidekick_Labs 已新增了 Ethereum 和 Base 链打赏，于是把 SideKick 的数据面板更新了一下
+>  
+> 在 Ethereum 和 Base 上的打赏逻辑跟 BSC 是一样的，用户向 SideKick 主播打赏，打赏的金额会进入中间合约，然后再由中间合约进行向主播和费用地址的各 50% 分配。目前 Ethereum 和 Base 上已经产生了数十笔打赏，不过金额都不大
+>  
+> 四个链整体来看，从 5 月 23 日开打赏到今天刚好两个月，目前用户打赏了总计约 16.4 万美元，其中主播和平台各获得 8.2 万美元收入
+>  
+> 四个链的总打赏者人数是 ~3.2k，其中 Solana 打赏者大概接近 2k
+>  
+> 平台榜一（@HeyfishYC 老板）：HfvPGhWfuBaLR67ofUULJwDWXt3nqNUFr8Qjfouy8V5o 打赏了 3.09 万美元，几乎每天都会花钱打赏，同时也是多个头部主播的榜一
+>  
+> 榜二：z7w723graa9hklvyofhbcbu9yu4mbrofp1cjtyrtp3z 打赏了 $9.4k，他本身是 SideKick 头号主播: 3MaHLbLroAHV2PWeMtqdw4eQHc1ZekzGLtFMUheTtvWk 的榜一，给其打赏了 $4.38k
+>  
+> 整体来看，前十的打赏者占了总打赏金额的 33.9%，前十的主播占了总主播收入的 39.3%
+>  
+> 数据：dune.com/kucoinventures/side…
+
+## 101. Jul 22, 2025 · 9:30 AM UTC · 1947590184645918922#m
+- 链接：https://twitter.com/defioasis/status/1947590184645918922#m
+- 作者：@defioasis
+
+> PUMP 最终还是破发了..
+>  
+> - PUMP 预售参与者中超过 84% 已经跑了，盛宴已经到了最后的时刻？
+>  
+> - 总回购了总量 0.307% 的 PUMP，但绝大部分回购都是在 15 号和 16 号完成的，17 号和 18 号回购的力度就很微乎其微了，现在已是三天没有进行代币回购了
+>  
+> - 在代币创建上，LetsBONK 已经压着 Pump Fun 打了小半个月
+>  
+> - 在 DEX 交易量上，没有了好代币发射输送血液，Pump 交易量滑落至 Solana DEX 第四，比 Meteora 还要低
+
+## 102. Jul 22, 2025 · 5:05 AM UTC · 1947523286734442787#m
+- 链接：https://twitter.com/defioasis/status/1947523286734442787#m
+- 作者：@defioasis
+
+> 最大的预测市场 Polymarket 要收购 QCEX 即将重返美国市场。刚好最近这几天在做 Polymarket 首个 TG Bot Polycule 的数据：
+>  
+> - 诞生两个月，Polycule 累积交易量 ~$5.4m，主要是从 6 月中下旬至今（与官方口径有一些差异，随时间推移这个误差应该会变少）
+>  
+> - 近一周日均交易量在 $50k-$100k 间，目前占比 Polymarket 日交易量的 0.2%-0.3% 左右
+>  
+> - 累积交易用户 310 名，日均 40-50 左右；如果算上非交易的 Bot 用户则累积有超过 6k
+>  
+> - Polycule 从 6 月 29 日开启费用，目前累计收取 1.09 万美元，其中费用的 30% 会用于回购 PCULE。在 7 月 17 日完成了首次回购，以 $2,936.15 回购了 501,642.02 枚 PCULE
+>  
+> TG Bot 的商业模式还是比较清晰的，就看看预测市场在未来能有多大的体量
+>  
+> 最后感谢 @polycule_bot @top_jeet_ 帮助
+>  
+> 数据：dune.com/kucoinventures/poly…
+
+## 103. Jul 19, 2025 · 2:37 AM UTC · 1946398873427267839#m
+- 链接：https://twitter.com/defioasis/status/1946398873427267839#m
+- 作者：@defioasis
+
+> USD1 对的选择并没有那么多，WLFI 和 BUILDon Foundation 买的 EGL1 TAG LIBERTY BANK 和 B，交易量都是前 15 名里的，交易者基数、买量和净买量都还不错
+>  
+> 从数据来看，UPTOP 似乎是下一个是有可能被纳入储备的 USD1 交易对标的，近 24 小时交易者是仅次于 EGL1，交易量排第 7
+>  
+> USD1 交易对提供了一个相对舒适的 Meme 二段机会，有 WLFI、像 BUILDon Foundation 这类生态基金的购买可能性，以及 Binance Alpha 上线的预期
+>  
+> USD1 交易对数据：dune.com/kucoinventures/usd1
+
+## 104. Jul 18, 2025 · 3:16 PM UTC · 1946227505360507094#m
+- 链接：https://twitter.com/defioasis/status/1946227505360507094#m
+- 作者：@defioasis
+
+> 稳定币生息大家都在做，目前比较稳的一类是买美债套稳定币，一类是做基差套稳定币，然后再借助 DeFi 借贷去做 yield booster
+>  
+> 5 月份就标记了 Pantera 投的稳定币收益协议 @multiplifi ，一直想做数据来着，结果愣是拖到了今天…
+>  
+> Multipli 主要就是靠在 CEX 做资金费套利给稳定币生息，支持用户存 Ethereum 和 BSC 上的 USDT、USDC 和 WBTC，需要注意的是取款退出需要 7-10 天
+>  
+> - TVL $60m+，存的主要是 Ethereum USDC，基本是在 2 月 - 5 月存的。5 月之后 TVL 增长就很缓慢了，原因应该是收益率比较低，目前大概是 5%
+>  
+> - WBTC 有 $5m 硬顶，已存满了 44 个 WBTC；USDC 和 USDT 则一直还有额度
+>  
+> - 累积存款者约 1.05 万，最近这两三个月每天倒是取款者居多
+>  
+> - 为啥取款者居多，但 TVL 基本没啥变化？因为前四名存款者净存入均超过 1,300 万美元，四人合计净存入 5,880 万美元，占了总 TVL 快 90%。有点过于夸张了，没准是项目方不知道从哪里凑来的钱撑场子…
+>  
+> 数据：dune.com/defioasis/multipli
+
+## 105. Jul 18, 2025 · 5:56 AM UTC · 1946086550892372271#m
+- 链接：https://twitter.com/defioasis/status/1946086550892372271#m
+- 作者：@defioasis
+
+> 接近两个月的时间，用户向 @Sidekick_Labs 主播打赏了约 15.4 万美元，其中平台主播和平台各获得用户打赏金额的 50%（即约 7.68 万美元）
+>  
+> - SideKick 支持 Solana 和 BNB Chain 两条公链的打赏，平台和主播各获得了285.84 SOL、5,750.49 SOL-USDT、3,741.24 SOL-USDC、8.57 BNB 和 1,393.62 BSC-USDT 等
+>  
+> - Top 10 主播的打赏收入均已超过 1,500u，其中前 4 名主播收入超过了 $3,000，以 Solana 和 BNB Chain 作为接收地址的各两个（也有可能是使用两个不同链地址的同一人）
+>  
+> - 头号主播：3MaHLbLroAHV2PWeMtqdw4eQHc1ZekzGLtFMUheTtvWk 获得了 152 名用户的共 $7,348 打赏收入，其中榜一大哥: Z7w723gRaA9HkLVYoFhBcBU9YU4mBRoFP1CJTyRTp3Z 一人便打赏了 $4,380
+>  
+> - 二号主播: CkP55EfXWA2ofnyBt2WfYy5b17qBPfj9GTxnZm71Hmkq 获得了最多的 606 名用户的打赏，总收入为 $4,262
+>  
+> - 在 7 月 6 日，有一名用户通过 SideKick 主播下方的 Livestream Trade 交易了 $2,122，未来还是可以期待能有更多的用户通过 SideKick Livestream Trade 直接交易
+
+## 106. Jul 17, 2025 · 2:46 PM UTC · 1945857523271250023#m
+- 链接：https://twitter.com/defioasis/status/1945857523271250023#m
+- 作者：@defioasis
+
+> 支持一点 BNB 微策略 WINT
+>  
+> 这次能走到对岸吗🤥
+
+## 107. Jul 17, 2025 · 7:55 AM UTC · 1945754213511991327#m
+- 链接：https://twitter.com/defioasis/status/1945754213511991327#m
+- 作者：@defioasis
+
+> 看起来兄弟们都回归战壕了。Meme 交易平台昨天单日交易量 3.3 亿美元，时隔近两个月再次回归到 3 亿美元上方。上次是 5 月中旬的 Believe ICM 叙事，这回则是 LetsBONK 带动
+>  
+> Axiom 仍保持着超 70% 的市场份额，单日 2.44 亿美元，历史第四高单日；剩余的市场份额主要是 Photon 和 GMGN 瓜分，GMGN 单日交易量是 BullX 的 2 倍多，BullX 是彻底掉队了
+
+## 108. Jul 17, 2025 · 5:00 AM UTC · 1945710255855550816#m
+- 链接：https://twitter.com/defioasis/status/1945710255855550816#m
+- 作者：@defioasis
+
+> Dinari dShares 股票代币也终于打开链上交易渠道，目前已经在 Arbitrum – Uniswap 上为 MSTR.d 加了双边共约 20 万美元的流动性
+>  
+> Dinari 是最近这批里比较早做股票代币化的，最早可以追溯至 2024 年 2 月部署了第一个股票代币 Apple Inc. - Dinari，但之前只停留在通过官网使用自己发行的 USD+ 交易，规模相对有限
+>  
+> 这一年多来，Dinari 总共已部署了 129 种 dShares 股票代币。按分类来说，可以分为股票代币、行业/资产类别 ETF 代币、策略 ETF 代币和 REITs 代币
+>  
+> 未来股票代币会像现在的各种稳定币一样大乱炖。关键在于，
+>  
+> 一是流动性，股票代币的币本位和 U 本位流动性分别由谁来提供；
+>  
+> 二是高杠杆股票代币永续合约，催生链上永续交易新业态；
+>  
+> 三是分发分销渠道，跟不同交易所采用哪种稳定币作为主要对性质一样。xStocks 的交易所分销渠道最广，有 Kraken 和 Bybit 等；Dinari 有 Gemini；Robinhood 有 Robinhood EU 和 Bitstamp；后面估计 Binance 会支持 BNB Chain 上的股票代币
+
+## 109. Jul 15, 2025 · 6:05 AM UTC · 1945001693336494147#m
+- 链接：https://twitter.com/defioasis/status/1945001693336494147#m
+- 作者：@defioasis
+
+> Infrared 正在吞噬 Berachain 的流动性证明。作为 Berachain 生态的龙一，这些链上数据不可忽视：
+>  
+> - 日均捕获 93k 枚 BGT，占全网发行了的 82%，即每 5 枚 BGT 中就有 4 枚来自 Infrared
+> - 580 万枚 BGT 加速池 → 市占率 58.35%
+> - 质押 8,600 万枚 BERA → 统治 40% 流动性质押市场
+> - 12 个顶级验证节点 → 包揽区块生产 + BGT 发行双料冠军
+>  
+> 一句话总结：全链最高溢价（流动性+收益潜力双重驱动）、随时无损退出和躺赚 80% GBT 发行，Infrared iBGT 成为用户首选
+>  
+> 与此同时，生态飞轮也在疯狂运转中，Infrared 已是 Berachain 上最大的投票激励支出方之一，斥资 250 万美元用于投票激励，锁定了 40% 的市场份额。随着市场份额的加强和成为 Pendle、Kodiak 和 Beraborrow 等头部协议基础设施核心，Infrared 在 2025 年净收入剑指 800 万美元
+
+## 110. Jul 15, 2025 · 2:28 AM UTC · 1944947205359722682#m
+- 链接：https://twitter.com/defioasis/status/1944947205359722682#m
+- 作者：@defioasis
+
+> PUMP ICO 打到就赚 50%
+>  
+> 在从官网参与预售的 10,145 名贡献了 4.485 亿美元的 ICO 买家中
+>  
+> - 6,042/10,145（59.6%）卖出/转移至 CEX 或其他钱包
+> - 3,791/10,145（37.4%）继续持有等待更好的卖点
+> - 312/10,145 （3%）增持了更多的 PUMP
+
+## 111. Jul 14, 2025 · 12:03 PM UTC · 1944729566683316241#m
+- 链接：https://twitter.com/defioasis/status/1944729566683316241#m
+- 作者：@defioasis
+
+> Binance 联合 FourMeme 在 TGE 引入内盘 Bonding Curve 机制，进一步完善了 Binance 在代币发行端的功能
+>  
+> FourMeme 可以说是 BNB Chain 上最头部的发射器，虽然营收没有像 Pump Fun 这么夸张，但在今年以来也赚了近 2 万枚 BNB（现价值超过 1,400 万美元），是名副其实的现金奶牛
+
+## 112. Jul 13, 2025 · 9:38 AM UTC · 1944330700938703331#m
+- 链接：https://twitter.com/defioasis/status/1944330700938703331#m
+- 作者：@defioasis
+
+> 感觉 SideKick 中用户向主播打赏的金额未来可能会成为一种市场情绪判断指标🧐
+>  
+> 最近行情不错，每天的打赏金额又开始高起来了，大概是 $2.5k-$3k/d，且用 BNB 作打赏金额最多
+
+## 113. Jul 13, 2025 · 2:00 AM UTC · 1944215433042894863#m
+- 链接：https://twitter.com/defioasis/status/1944215433042894863#m
+- 作者：@defioasis
+
+> PUMP 预售 12 分钟结束，其中在第一分钟就打进了 2.75 亿美元，占总量 45.8%..
+>  
+> 根据 @Adam_Tehc 的数据，10,145 个钱包成功买入，平均买入金额达 4.4 万美元
+>  
+> - 买入硬顶 100 万美元的钱包有 202 个
+> - 买入 50 万 – 100 万美元的钱包有 138 个
+> - 买入 10 万 – 50 万美元的钱包有 445 个
+>  
+> 翻了几个打满 100 万美元的地址，除了不少新地址外，也有一些是拿到大结果的。列几个出来感受下：
+>  
+> - GOAT 单币 $5m 盈利：2JrTudNHthFHtgHBoJdx9xKgGRAYrir7AUw7shvdW5uR
+>  
+> - TRUMP 单币 $5m 盈利：DoJQdof1YDb5jWXB9V8craXHUoMaieBKASfeBTQV5EK8
+>  
+> - 总盈利 $1.6m：7HGwBPjoGBqHnSPqv2JF9QnySKuojmUKgH8hiHYGesQA
+
+## 114. Jul 12, 2025 · 11:37 AM UTC · 1943998168213139909#m
+- 链接：https://twitter.com/defioasis/status/1943998168213139909#m
+- 作者：@defioasis
+
+> Pump Fun 历史纵览 - 从 Pump Fun 创建的首个代币到 PUMP 代币预售前夕的所有交易者 PnL 情况
+>  
+> 在交易大于 10 笔由 Pump Fun 创建的代币交易且有双向买卖的 5,918,144 个地址中
+>  
+> - 已实现利润超过 100 万美元：630 个地址（0.0106%）
+>  
+> - 已实现利润 10 万 – 100 万美元：10,243 个地址（0.173%）
+>  
+> - 已实现利润1 万 – 10 万美元：90,110 个地址（1.523%）
+>  
+> - 已实现利润 1 千 – 1 万美元：331,289 个地址（5.6%）
+>  
+> - 已实现利润 0 – 1 千美元：1,302,337 个地址（22%）
+>  
+> - 已实现亏损 0 – 1 千美元：3,750,364 个地址（63.37%）
+>  
+> - 已实现亏损 1 千 – 1 万美元：365,239 个地址（6.17%）
+>  
+> - 已实现亏损 1 万 – 10 万美元：63,119 个地址（1.067%）
+>  
+> - 已实现亏损 10 万 – 100 万美元：4,664 个地址（0.0788%）
+>  
+> - 已实现亏损超过 100 万美元：149 个地址（0.0025%）
+>  
+> 根据各个区间中位数以及“盈亏大于 100 万”采用 200 万美元进行估算，Pump Fun 代币在整体上为所有交易者累计创造了约 41 亿美元的净利润。尽管绝大多数用户亏损，但少数高额盈利的钱包拉高了整体净利润总额
+>  
+> 一句话总结：赢家极少，但收益巨大；多数人亏钱但亏得不重
+
+## 115. Jul 12, 2025 · 3:22 AM UTC · 1943873643387531623#m
+- 链接：https://twitter.com/defioasis/status/1943873643387531623#m
+- 作者：@defioasis
+
+> 拖延了大半年，今晚 Pump Fun 终是要开启预售打新。不过，在 LetsBONK 冲击下，最近 Pump Fun 日子并不好过
+>  
+> - 过去三个月，Pump Fun 代币每天毕业率大致在 0.7%-1% 区间波动，但最近一两周毕业率波动显著增大，最低 0.57%，最高 1.16%
+> - Pump Fun 毕业代币数量在最近显著下降，在过去 6 天中有 5 天毕业代币数量都不过百，其中 7 月 6 日最低只有 58 个
+> - 每日从 Pump Fun 毕业的前十代币平均市值在过去一个月里呈小幅下降趋势，最近一周大概在 30 万-50 万美元之间
+> - 每日所有从 Pump Fun 毕业的代币在当日结束时的中位数市值十分稳定，维持在 3,800 美元上下
+
+## 116. Jul 11, 2025 · 2:21 PM UTC · 1943676930492133502#m
+- 链接：https://twitter.com/defioasis/status/1943676930492133502#m
+- 作者：@defioasis
+
+> xStocks 股票代币的链上交易量已逐渐走低，交易量向 CEX 转移，目前 Gate 算是先拔头筹
+>  
+> 链上未来主要还是承担起股票代币一级发行和做市商套利的场所，CEX 则是面向散户分发和交易的主要渠道
+>  
+> 当前有 9 支 xSrocks 股票代币的持有者数超过 1,000 人，其中 SPYx TSLAx 超过了 1 万名持有者
+>  
+> 股票代币发行量最多的是 DFDVx（单价便宜），其次是 TSLAx NVDAx 和 CRCLx，均超过 1.5 万股/枚代币。似乎这几天总量变化都不太大。随着 Crypto 行情复苏，波动加大，还会热衷于炒美股代币吗🤔
+
+## 117. Jul 10, 2025 · 12:11 PM UTC · 1943281851705233883#m
+- 链接：https://twitter.com/defioasis/status/1943281851705233883#m
+- 作者：@defioasis
+
+> Hyperliquid 打开了天花板后，Perp DEX 又成为一个巨卷无比的赛道，少说也有二三十家在做
+>  
+> 相比于空投积分驱动的交易量繁荣，还是需要更关注平台资沉，像大热的 Lighter 和 Backpack 的资沉停留在 2 亿美元左右，其他的 edgeX、Ostium 和 Paradex 则在 5,000 万到 1 亿美元之间
+
+## 118. Jul 9, 2025 · 3:41 AM UTC · 1942791203646542061#m
+- 链接：https://twitter.com/defioasis/status/1942791203646542061#m
+- 作者：@defioasis
+
+> LetsBONK 在最近超过了 Pump Fun 成为第一大 Meme 发射器
+>  
+> 上次统计了 Pump Fun 代币为其交易者赚取了超 38 亿美元利润，并创造了 620 名百万富翁。这次用相同的逻辑来揭晓一下 LetsBONK 代币交易者的 PnL 数据：
+>  
+> 自今年 4 月 25 日推出以来，交易大于 10 笔且有双向买卖由 LetsBONK 创建的代币的交易者共有 352,373 名
+>  
+> - 整体盈亏比约 4:6，143,866 名交易者（~40.8%）在交易 LetsBONK 代币上实现盈利，其中 0-1k 是盈利分布最广泛的区间，达 113,539 名交易者（32.2%）
+>  
+> - 就 4 月 25 日到现在不到三个月的时间，行情也没有特别的好，但在交易 LetsBONK 代币上仍然是创造了 10 名已实现利润超过 100 万美元的富翁（浮盈未止盈的不算）
+> 盈利地址可参考：localhost:8080/defioasis/status/19424…
+>  
+> - 作为普通人，要想赚超过 1 万美元，也得成为那 Top1.4% 的人，着实也不普通了
+>  
+> - 亏损仍然是主旋律，179,661 名交易者（51%）亏损 0-1k；想亏超过 1 万美元以上倒也不是那么简单的，占比约 1.1%
+>  
+> - 创造了 10 名百万富翁的同时，也有 7 位亏损超过 100 万美元的勇士陨落
+>  
+> - 用中位数将各个区间与地址 PnL 合并估算，LetsBONK 代币大约为交易者整体赚了约 5,080 万美元
+>  
+> 数据：dune.com/queries/5434603/886…
+
+## 119. Jul 8, 2025 · 2:56 AM UTC · 1942417405311082848#m
+- 链接：https://twitter.com/defioasis/status/1942417405311082848#m
+- 作者：@defioasis
+
+> 在 LetsBONK 代币交易上已实现利润超过 100 万美元的地址有 9 个，利润超过 40 万美元的地址可进 Top100
+>  
+> Top9 LetsBONK Traders
+>  
+> 1. @Cupseyy - $2.38m Realized Profit
+> suqh5sHtr8HyJ7q8scBimULPkPpA557prMG47xCHQfK
+>  
+> 2. Axiom Trader – $1.55m
+> 3qyymps4THnFhGvLGLSqd8WsN5tQY9Gizw4pt7PG52jD
+>  
+> 3. Unknown – $1.53m
+> ADFVLfEyhCCpFxUM1RgPEyeUYbotFTEdgQrts5dEz53c
+>  
+> 4. Axiom/BullX Trader – $1.35m
+> Ex4jAYmu5zZfCHX8L9ruyxDWLUFHTp7ihgs1kQJToYnY
+>  
+> 5. @casino616 – $1.27m
+> 8rvAsDKeAcEjEkiZMug9k8v1y8mW6gQQiMobd89Uy7qR
+>  
+> 6. @CookerFlips – $1.23m
+> 8deJ9xeUvXSJwicYptA9mHsU2rN2pDx37KWzkDkEXhU6
+>  
+> 7. Unknown – $1.13m
+> AGvJnMfsNdPEqo2TCFD5azorBq9eX9RcbEKJtnbLr3Lu
+>  
+> 8. Axiom Trader – $1.08m
+> 8RfH3LUSed9xM5bh7txdWKZFNbYGB8AeLCaeZjC9kN1o
+>  
+> 9. GMGN/Axiom/Photon Trader – $1.03m
+> 286CHN57Km41GsAnDv866WKd6YB6HPSjFgF4rGDJTRLf
+>  
+> 根据在由 LetsBONK 创建的代币的交易上的总卖出量-总买入量计算已实现收益，盈利数字可能低估供参考
+>  
+> Big shoutout to @Adam_Tehc & @frontrunpro
+
+## 120. Jun 20, 2025 · 3:02 AM UTC · 1935895957088182660#m
+- 链接：https://twitter.com/defioasis/status/1935895957088182660#m
+- 作者：@defioasis
+
+> 从数据分析的角度来解析一下为什么 Pump Fun 以 40 亿 FDV 估值进行募资？核心逻辑是：Pump Fun 通过新代币发行为交易者带来了近 40 亿美元的已实现利润
+>  
+> 自 Pump Fun 诞生以来，共有 5,593,244 个用户地址进行了由 Pump Fun 发行的代币交易（过滤了低于 10 笔交易和仅有单边交易的粉尘地址和串联地址）：
+> - 创造了 620 名百万美元富翁，约万分之一
+> - 总用户地址的 29.4% 已实现盈利，其中 0-1,000 美元是最广泛的盈利区间，达 1,222,192 个地址，占比 21.9%
+> - 略多于 70% 的总用户地址已实现亏损，其中 0-1,000 美元是最广泛的亏损区间，达 3,534,851 个地址，占比 63.2%
+> - 有 148 个地址实现亏损超过 100 万美元，4,568 个地址实现亏损达 10 万至 100 万美元
+> （具体的盈利分布可以看下图或者该 Dune 查询：dune.com/queries/5294908）
+>  
+> 通过对区间中值估算，即盈利/亏损 0-$1k 的为 500，盈利/亏损 $1k-$10k 的为 5,500，盈利/亏损 $10k-$100k 的为 55,000，盈利/亏损 $100k-$1m 的为 550,000，盈利/亏损 $1m+ 的为 1,500,000
+>  
+> 总盈亏估算得出
+> 正向总利润为 136.03 亿美元，负向总亏损为 97.96 亿美元
+> 二者相减即总净利润为 38.07 亿美元
+>  
+> Pump Fun 为交易由 Pump Fun 发行的代币的交易者总共创造了约 38.07 亿美元的净利润，是支撑 Pump Fun 以 40 亿估值募集的核心因素。另外，Pump Fun 还创造了超过 600 名百万美元富翁，仅仅在过去一年多里，应该也是绝无仅有的。然而，这的确也是大部分的人亏损造就了小部分人的狂欢
+>  
+> 当然，一级估值有一级的逻辑，但二级是否有人愿意去接那就是另一个问题了。普遍还是认为这么高的估值募集会抽走圈内的流动性，特别是没了财富效应后，近期 Pump Fun 的口碑也是跌到了冰点
+>  
+> 不出意外的话，Pump Fun 将在下周以 40 亿 FDV 募资，赶在月末把 PUMP 代币上线。其他一些供参考的小道消息：募集金额会低于之前媒体讲的 10 亿美元，应该在 6 亿美元左右；PUMP 打新需要 KYC，有一些交易所会选择接入
+
+## 121. Jul 7, 2025 · 7:38 AM UTC · 1942126142577889424#m
+- 链接：https://twitter.com/defioasis/status/1942126142577889424#m
+- 作者：@defioasis
+
+> Meme 交易平台是 Meme Launchpad 发射代币的重要分发渠道
+>  
+> 像最近大火的 LetsBONK，由其创建的代币的交易量已然显著渗透到 Axiom Photon BullX 和 GMGN 平台交易量中，LetsBONK 代币占这些平台的日交易量从月初的不到 10% 到超过 65% 以上，其中在 Axiom 更是占比达到了超过 80%
+>  
+> 为什么 BONK 社区和 @theunipcs 如此重视华语社区，从 GMGN 中可见一斑。代表华语力量的 GMGN 在这几天里超过 60-70% 的用户都在交易 LetsBONK 代币，这一比例要显著高过 Photon 和 BullX，双向奔赴了可以说是
+
+## 122. Jul 6, 2025 · 2:30 AM UTC · 1941686199904764024#m
+- 链接：https://twitter.com/defioasis/status/1941686199904764024#m
+- 作者：@defioasis
+
+> 都说股票代币化的优势是 7x24，然而在休市期间，交易美股代币化的意愿和动力都很低
+>  
+> - 7 月 2 日 xStocks 股票代币交易量 $8.56m，创下新高
+> - 7 月 5 日 xStocks 股票代币交易量 $563k，对比峰值下降 93.4%
+>  
+> 交易量的下滑，做市 LP APR 显著下滑。目前把 LP 设置在 ±5% 的 SPYx/USDC 价格区间，潜在 24h APR 也仅有 1.25%，而其中还包括 RAY 的补贴。这尊贵的美股做市商的身份还没捂热，就要伟大撤退了？🥹
+>  
+> 美股代币化想要在休市期间成为美股的盘前市场的道路还任重而道远..
+
+## 123. Jul 5, 2025 · 4:44 AM UTC · 1941357493847982279#m
+- 链接：https://twitter.com/defioasis/status/1941357493847982279#m
+- 作者：@defioasis
+
+> LetsBONK 在 USELESS 和 Solana OG BONK 社区推动下迎来第二春
+>  
+> - 7 月 4 日单日代币创建数量 7.7k，历史第二高单日
+> - 近 24 小时，LetsBONK 毕业数 74 个，Pump Fun 134 个；比 Pump Fun 更少的代币创建数，但比 Pump Fun 更高的毕业率
+> - 在 Solana Memecoin Launchpad 的市场份额时隔一个月重回 25%
+> - 在过去 7 天发射的市值最高的前 20 个代币中，LetsBONK 创建的代币占据 8 个，仅次于 Pump Fun 的9 个
+> - LetsBONK 累积捕获近 5.9 万 SOL 收入，其中的一半用于回购和销毁 BONK
+
+## 124. Jul 4, 2025 · 3:01 PM UTC · 1941150286502109259#m
+- 链接：https://twitter.com/defioasis/status/1941150286502109259#m
+- 作者：@defioasis
+
+> 不得不说，从交易形态看，Bybit 推出的链上交易所大融合产品Byreal 相当有意思，相当于是一个“CLMM DEX + Meta aggregators + 链下向 CEX/MM 做 RFQ 询价”的交易系统
+>  
+> 但实际交易体验是真的有待完善，这两天交易失败的概率达到 25% 以上，其中 7 月 2 日那天有 1.24 万笔交易失败，着实离谱🤦‍♂️也许这就是尚不敢完全开放的原因..
+>  
+> 就上线的一周以来，目前大概是有超过 2.2 万用户在 Byreal CLMM 上进行过交互，产生了超过 6.1 万笔交易。交易量有点棘手，还在琢磨怎么统计，不过目前交易最多的池子还是最近在上面打新的 Fragmetric
+
+## 125. Jul 4, 2025 · 2:32 AM UTC · 1940961779905147076#m
+- 链接：https://twitter.com/defioasis/status/1940961779905147076#m
+- 作者：@defioasis
+
+> Infrared 在 Pendle 上推出了新的 iBGT 市场，时间到 9 月 25 日
+>  
+> 简单来讲，如果预期 iBGT 收益会上涨和能获得更高的积分价值，可以购买 YT-iBGT，增加杠杆敞口，但需要注意的是到结束后本金价值会归零，收到累积收益和积分。目前 Infrared 预计 Q3 TGE，也许现在是给想冲击 Airdrop Farmer 的一个机会吧
+>  
+> 当然考虑到 Infrared 在 Berachain 生态上独木难支，可以购买 PT-iBGT 以低于市场价格的折扣锁定当前收益，从而在收益下降时保护收益。目前大概是持有到期可以获得 29.47% 的收益
+>  
+> 对于中立或者暂时观望的用户，可以通过 LP iBGT 赚取收益，目前 APY 大概是 250%，赚取 HONEY WBERA iBGT Pendle 和 2 倍 Infrared 积分
+>  
+> 另外值得一提的是，作为 Berachain 上最大的协议，Infrared 带来极致 PoL 体验的同时也在安全下足了功夫，目前已完成了 10 次全面安全审计，接受了来自 Zellic 和 Spearbit de多次合约审查。iBERA 解锁也即将上线，正进行全流程安全审计中
+
+## 126. Jul 2, 2025 · 3:20 PM UTC · 1940430404462456851#m
+- 链接：https://twitter.com/defioasis/status/1940430404462456851#m
+- 作者：@defioasis
+
+> 看起来疑似是 xStocks 的 MM 推高了流动性
+>  
+> B8NonLMFo1AQyPARL3ZGz4GLsEFgKDQuaCFh4zSXtjLB
+>  
+> 给交易量最大的五个 xStocks 股票代币 SPY TSLA NVDA  MSTR 和 CRCL 分别提供了限定区间里约 60 万美元双边流动性
+>  
+> 近两天交易量高，APR 还挺高， @gm365 GM 老师看看做尊贵的美股 MM 有没有搞头🧐
+
+## 127. Jul 2, 2025 · 1:45 PM UTC · 1940406591339327929#m
+- 链接：https://twitter.com/defioasis/status/1940406591339327929#m
+- 作者：@defioasis
+
+> 已有 10 个 xStocks 股票代币产生交易量，不过在链上流动性层面有显著的差异
+>  
+> SPY TSLA CRCL MSTR 和 NVDA 五个股票代币累积交易量超过 100 万美元，其中 SPY 的 USDC 流动性接近100 万美元，TSLA CRCL 和 NVDA 在 40 万美元左右，MSTR 在 20 万美元。另外剩下的5 个产生交易活动的股票代币流动性都微乎其微
+>  
+> xStocks 股票代币遵循 1 币 = 1 股原则，但只有一级的专业/合规投资者有通过 xStcoks 购买股票并铸造股票代币或出售股票代币赎回股票的权利，散户则只能二级交易。xStocks 跟 CEX 合作，除了让 CEX 作为分发渠道外，还是想利用 CEX 的做市商资源去承担一级发行的一环以提振股票代币流动性，做市商能从中做价差套利锚定价格
+>  
+> 在已产生交易量的 10 个股票代币中，TSLA CRCL NVDA 股票代币总量都超过了 1 万枚，即购买并托管了超过 1 万股，其余大多在 5,000 股（枚代币）上下
+>  
+> 数据：dune.com/kucoinventures/xsto…
+
+## 128. Jul 1, 2025 · 9:34 AM UTC · 1939981006490230955#m
+- 链接：https://twitter.com/defioasis/status/1939981006490230955#m
+- 作者：@defioasis
+
+> 勘误：倒不是默认代币总量 6,000，应该是股票代币总量跟持有的股票去锚定，以便可以发行和赎回
+
+## 129. Jul 1, 2025 · 5:57 AM UTC · 1939926269103415520#m
+- 链接：https://twitter.com/defioasis/status/1939926269103415520#m
+- 作者：@defioasis
+
+> 让全世界给美股接盘？由 Coinbase Ventures 投资的 Backed 推出的美股上链 xStocks 最近跟 Bybit 和 Kraken 合作，并且可以让 CEX 用户直接交易代币化美股
+>  
+> 目前有 61 支股票通过 xStocks 上链，像我们所熟悉的 CRCL COIN MSTR 都被支持
+>  
+> 统计了下数据，在 xStocks 被 Bybit 和 Kraken 支持后，6 月 30 日，xStocks 交易量激增达到 133.8 万美元，有超过 1,200 名用户交易，交易笔数超过 2,500 笔
+>  
+> 不过，目前也仅有 6 支美股代币有交易量，按近 24 小时交易量依次是：NVDA MSTR TSLA CRCL SPY 和 AAPL
+>  
+> 另外一些值得关注的数据，xStocks 的美股代币化的默认总量是 6,000 枚，有可铸造和可冻结的权限。Backed 是作为代币化发行商，但是 Broker 和 Custodian 由第三方提供服务，包括 Alpaca Securities LLC、InCore Bank AG 和 Maerki Baumann & Co. AG
+>  
+> 目前美股代币的链上流动性都很浅，只有几十万美元，随着 Bybit 和 Kraken 的接入可能会成为真正的流动性主战场。在链上帮 xStocks 做市，是不是应该称之为尊贵的美股做市商🤣
+>  
+> 数据：dune.com/kucoinventures/xsto…
+
+## 130. Jun 28, 2025 · 11:47 AM UTC · 1938927333634928927#m
+- 链接：https://twitter.com/defioasis/status/1938927333634928927#m
+- 作者：@defioasis
+
+> 略多于一个月的时间，有 13 位 @Sidekick_Labs 主播通过用户打赏收入超过 1,000 美元
+>  
+> 排名第一的主播（3MaHLbLroAHV2PWeMtqdw4eQHc1ZekzGLtFMUheTtvWk）收入达 5,800 美元，其中“榜一大哥”给其打赏了 3,580 美元
+>  
+> 排名第二的主播（CkP55EfXWA2ofnyBt2WfYy5b17qBPfj9GTxnZm71Hmkq）看起来是最受大家喜欢的，有接近 500 位用户为其打赏了总共 2,700 美元
+>  
+> 另外，有意思的是，用户（HfvPGhWfuBaLR67ofUULJwDWXt3nqNUFr8Qjfouy8V5o）是多位头部主播的“榜一大哥”🤭
+
+## 131. Jun 27, 2025 · 7:32 AM UTC · 1938500666328256835#m
+- 链接：https://twitter.com/defioasis/status/1938500666328256835#m
+- 作者：@defioasis
+
+> 从 SideKick 开打赏以来一个月多，用户一共是花费了近 10 万美元给主播打赏
+>  
+> 跟传统直播平台一样，SideKick 也会从用户打赏中抽成作为平台收入。传统直播平台一般是抽成 30%-50%，目前 SideKick 抽成 50%，这也构成了 SideKick 的核心收入。所以当前平台所有主播和平台分别获得近 5 万美元收入
+>  
+> 用户向主播打赏礼物，实际是向主播地址打赏 SOL/BNB/U。这有个小问题是，链上可以直接看到主播的地址，如果大额打赏其实可以绕过平台抽成。当然前端礼物本身是提供一个情绪价值
+>  
+> 等周末有时间再把 SideKick 的“榜一大哥们”和主播地址捋一下
+>  
+> 除了从打赏分成外，SideKick 其实还可以从 Livestream 交易中抽手续费。就好比电商带货逻辑，只不过 SideKick 带的货的是 Meme，SideKick 扮演一个分发渠道和交易平台的角色，但目前这块还没有跑起来
+>  
+> 数据：dune.com/kucoinventures/side…
+
+## 132. Jun 26, 2025 · 8:23 AM UTC · 1938151139586773095#m
+- 链接：https://twitter.com/defioasis/status/1938151139586773095#m
+- 作者：@defioasis
+
+> 🚦 Deribit x @SignalPlus_Web3  夏日追逐赛正式开赛！
+>  
+> 大门已开，排行榜正在升温。
+>  
+> 35天，6大挑战，超过30万美元奖励 —— 包括一辆特斯拉、一块劳力士，以及每日不断掉落的现金大奖。
+>  
+> 立即参赛：t.signalplus.com/deribitsumm……
+>  
+> 比赛时间：6月26日 – 7月31日
+>  
+> 大手笔交易，果断出击，极速登榜！
+>  
+> 记住，拼的是交易量！
+>  
+> 🔁 推荐好友，有机会赢劳力士
+> 🏎️ 邀请顶级交易员，有机会赢特斯拉
+>  
+> 6月30日前注册，还可免费领取期权礼包（ETH、SOL 和黄金），随时开盘交易！
+>  
+> #夏日追逐 #BTC
+
+## 133. Jun 25, 2025 · 2:01 PM UTC · 1937873735408853492#m
+- 链接：https://twitter.com/defioasis/status/1937873735408853492#m
+- 作者：@defioasis
+
+> 前段时间跟 GOAT Network 创始人 Kevin 老板 @kevinliub 聊了聊 BTCFi，有一些观点和判断还是深受启发
+>  
+> 如何定义 Bitcoin Layer2？安全是首要前提。GOAT 对 Layer2 的标准分成 5 个“必选项” + 3 个“可选项”
+>  
+> 5 个必选项是衡量 Bitcoin Layer2 的硬性标准，对应着继承比特币主网安全性的 5 项核心能力：
+> - Layer 2 的交易状态必须在比特币主网上进行锚定和最终结算
+> - 如果二层出现欺诈或作恶行为，用户必须能直接在比特币主网上发起挑战
+> - 必须有无需许可的强制退出机制
+> - Layer 2 和 Layer 1 之间的桥接必须是非托管、非多签的
+> - Layer 2 必须秉持比特币的核心精神
+>  
+> 3 个可选项用于提升用户体验和系统可扩展性：
+> - 快速高效的退出机制，用户从二层提现到一层的等待时间要大幅缩短
+> - 以 BTC 作为原生 Gas 资产
+> - 经济激励机制，Sequencer、Operator、Challenger、Prover 等不同角色要充分博弈
+>  
+> 在安全基础上，收益来源哪里来？GOAT 的经济设计建立在以 BTC 计价的 Gas 费、去中心化 Sequencer 架构、POS 机制，以及整套技术与业务逻辑的基础之上。在 GOAT Network 上，Sequencer 节点负责打包交易、出块并提交至二层，每处理一个区块，都会获得对应的收益，包括：
+> - 用户支付的 BTC 计价 Gas 费
+> - MEV 奖励
+> - 额外的挖矿激励（GOAT Token）
+>  
+> 核心优势在于，收益由链上活动驱动，即二层越活跃，区块越多，Sequencer 收益越高，返还给 BTC 持币者的收益也越高，形成良性循环
+>  
+> 除了作为激励外，GOAT 原生代币的作用还包括：
+> - GOAT 与 BTC 组成双资产质押体系，其中 BTC 用于参与收益分配，GOAT 影响出块权重和网络安全性
+> - 收益增益因子，相比于纯 BTC 质押，加上 GOAT 质押具有乘数效应
+> - 网络治理提案与投票
+>  
+> 最后，借 Kevin 的原话砥砺前行——“BTCFi 实际上还没有真正开始，真正的战斗还未打响，前面发生的都只是前菜”
+
+## 134. Jun 25, 2025 · 3:34 AM UTC · 1937715876477960654#m
+- 链接：https://twitter.com/defioasis/status/1937715876477960654#m
+- 作者：@defioasis
+
+> 大户永不毕业？😳
+>  
+> 过去两周，在 Binance Wallet – BSC 上
+>  
+> - 新增 1 个突破 1 亿美元交易量的地址，现为 2 个（Top1 地址累积交易量即将突破 2 亿美元）
+>  
+> - 超过 1,000 万美元交易量的地址增加 27 个，现为 72 个
+>  
+> - 超过 100 万美元交易量的地址增加 30,025 个，现为 69,594 个
+>  
+> 然而，Binance Wallet – BSC 日交易地址同期下降 9.85 个，现约为 15.26 万个
+
+## 135. Jun 24, 2025 · 2:41 PM UTC · 1937521362513592627#m
+- 链接：https://twitter.com/defioasis/status/1937521362513592627#m
+- 作者：@defioasis
+
+> 好久没写熊链了，还有人关注 Berachain 嘛？🧐
+>  
+> 虽然 Berachain TVL 数据和关注度下滑的厉害，但被 YZi Labs 投资并预计 Q3 TGE 的 Infrared 现在已经是 Berachain 上最大的龙头 DeFi 协议，为 67 个验证者节点中的 15 个提供 iBGT 激励措施，掌握着约 22.3% 的流动性命脉。Infrared 仍保持着相对稳定的 iBGT 和 WBERA 收入，目前 Infrared 累积收入约 270 万美元
+>  
+> 当其他协议还在教用户理解 PoL 流动性证明时，Infrared 正在让收益获取变得更简单
+>  
+> PoL 机制是 Berachain 的根本，但现在却成为了困境。简单来说，通过质押 BGT 参与验证节点选举，LP 获取基础交易手续费和项目方贿赂金的双重收益，但传统参与路径如同闯关游戏：购买 BGT->选择验证节点->手动委托质押->跟踪贿赂拍卖->优化收益策略，复杂的操作逻辑将普通用户拒之门外
+>  
+> Infrared v1.5 的更新便是为此而破局，用三键点击终结复杂流程——将 PoL 参与压缩为三次点击：授权->输入 BGT 质押量->确认铸造并生成 iBGT。从技术底层来看，是通过 Berachain “set operator”底层账户抽象能力，将节点选择、委托质押等动作编译为单次智能合约调用；然后利用 Keeper 机器人网络，自动监控 60+ 节点贿赂池，执行收益优化
+>  
+> 往深的来看，Infrared 在做的事情可以说是让 PoL 民主化。流动性价值链路被重构，从“项目方->节点->鲸鱼->散户”变成“项目方->Infrared->全体 iBGT 持有者”，Keeper 网络平等执行策略，帮助普通用户获得更高收益的同时也让贿赂金分配效率提升
+>  
+> 简化不是终点而是护城河，DeFi 终局赢家不教育用户适应复杂，而是将复杂溶解于极致体验中
+
+## 136. Jun 24, 2025 · 8:11 AM UTC · 1937423269621301598#m
+- 链接：https://twitter.com/defioasis/status/1937423269621301598#m
+- 作者：@defioasis
+
+> 🎙 无中生友：爆仓之后东山再起的方法论分享
+> 📌 26号晚8点 收听 X Space：localhost:8080/i/spaces/1zqKVjlypDwKB
+> 🕹 腾讯会议实时转播：826-4113-8037
+>  
+> 🦸‍♂️ 主持&嘉宾阵容：
+> - 西辰 @1105ChainTimes：ChainTimes，主持人
+> - defi-oasis @defioasis：Researcher | Investor | Data-Driven
+> - GAO @GaoHeadmaster：加密研究员
+> - NINGNING @0xNing0x：独立研究员
+>  
+> 💬 话题涵盖：
+> - 我有个朋友有意思的山寨交易经验
+> - 某alpha项目吃人的正确解读角度？
+> - 山寨项目玩法的反面教材分享
+> - 山寨也会有共识吗？也会进入ETF吗？
+>  
+> 🎁 每人100%有奖！现在报名比赛，送期权大礼包（包含 ETH、SOL和黄金期权）：t.signalplus.com/deribitsumm…
+
+## 137. Jun 23, 2025 · 5:27 AM UTC · 1937019548684935582#m
+- 链接：https://twitter.com/defioasis/status/1937019548684935582#m
+- 作者：@defioasis
+
+> 糟糕的行情，Virtuals 打新的币价值全面腰斩，甚至都出现破发…
+>  
+> 上周 Virtuals Genesis Launches 打新只参与了 Backroom，投入了 38,573 Points + 2.67 VIRTUAL 获得了 23,535.23 ROOM，现在价值约 24.9 VIRTUAL。现在基本不出手了，慢慢攒点分吧唉
+>  
+> 从参与的整个 Virtuals 打新 bag 来看，10 个质押打新币现在仅价值 270.58 VIRTUAL，VIRTUAL 本位下跌 43.2%；U 本位更惨，下跌 67.5%。甚至老早前参与的有个打新币都已经开始亏损了，谁说打新不会亏，质押实惨😭😭
+>  
+> 最近 CT 围绕 Virtuals 的积分大幅贬值问题是吵的沸沸扬扬，比较不错的是 Virtuals 官方的相对积极回应吧。DAB 分显著增长，我个人现在 DAB 基本能加 ~1k 分，DPD 仍维持每天 7.2k 分，主要来自于 Yapping
+>  
+> 之前寻思从 Virtuals Genesis Launches 打新淘出好项目的逻辑基本是证伪，倒也不仅仅是币价下跌。寻思趁着跌，看看有没有什么好项目。仔细看了看被 Vader 评为 T1 的项目 Solace，不看不知道，一看吓一跳，这不就是大学生创业吗…兜里比你我还干净，拉盘是不可能了，能不能做出来也是遥遥无期😥
+>  
+> 最佳策略的确还是攒积分->梭哈一个天王级->开盘就卖->坐牢 7 天->坐牢结束循环上述操作。不过，IRIS 过后还能不能出天王级项目就很难说了。羡慕 IRIS 迈出的人，像我一样质押的人都已经跌了 90+%🥹🥹
+
+## 138. Jun 19, 2025 · 5:24 AM UTC · 1935569328843464975#m
+- 链接：https://twitter.com/defioasis/status/1935569328843464975#m
+- 作者：@defioasis
+
+> 虽然行情艰难，但 Wayfinder AI 近期仍然是持续开发且进行了多项重要更新：
+>  
+> - Wayfinder 与 LayerZero 合作，采用了 Omnichain Fungible Token (OFT) 标准，支持 PROMPT 在 Base 网络上的 1:1 跨链和零滑点交易。此外，Wayfinder Pro 用户还可以使用 Wayfinder 的 Contract Agent 创建 OFT 兼容代币
+>  
+> - Wayfinder AI 已完全集成 Avalanche 链，AI Agents 现在可以在 Avalanche 上执行各种 DeFi 操作，如 Swap、跨链、质押和创建智能合约等，增强了跨域操作性。最近 Wayfinder 还发帖子询问社区下一个要选择集成的公链，扒了下评论看看，大热的 Hyperliquid 和胖企鹅姊妹链 Abstract 呼声是最高的，可以期待下
+>  
+> - Wayfinder 跟由 Polychain 和 Multicoin Capital 投资的 Enso 集成与合作，并已进入到应用阶段，用户可以参与测试版。Enso 能帮助提供跨 DeFi 协议的集成，并为 Wayfinder AI Agent 提供工具，能够在交互执行时更高效
+>  
+> - Wayfinder 还在桌面端改进了嵌入式钱包，提供更多移动和桌面设备上的灵活性，比如显示相关待处理交易信息和直接查看钱包余额
+>  
+> - Wayfinder 原生代币 PROMPT 有了更多的实用性，PROMPT 可以用于支付平台内 AI Agents 执行交易或智能合约操作时产生的网络 Gas 费用
+>  
+> 目前 PRMOPT 已经上线 Binance Alpha/Futures、Coinbase 和 Bithumb 等主流交易所，覆盖中美韩用户群体。在 Wayfinder 平台里，PROMPT 已经充当起了类似公链 Gas 代币的角色，那下一步就是要尽可能拓展 Wayfinder 平台功能和集成协议，像公链一样去运营，对 PROMPT 估值有望得到提升
+
+## 139. Jun 18, 2025 · 2:39 AM UTC · 1935165566744232281#m
+- 链接：https://twitter.com/defioasis/status/1935165566744232281#m
+- 作者：@defioasis
+
+> GMGN - P 元帅排行榜
+> —— 历史累积收益最高且最近一个月仍保持活跃的 @gmgnai Traders 地址
+>  
+> 1. @hiouwa – $7.37m Realized Profit
+> D6nUhQ7o3TQwk243mgVS5hsdkuJk71fxZib3KxY4Upyv
+>  
+> 2. @yogurt_eth – $4.61m Realized Profit
+> 9UWZFoiCHeYRLmzmDJhdMrP7wgrTw7DMSpPiT2eHgJHe
+>  
+> 3. @CryptoDevinL – $4.56m Realized Profit
+> G1pRtSyKuWSjTqRDcazzKBDzqEF96i1xSURpiXj3yFcc
+>  
+> 4. “Fartcoin $2m 盈利” – $3.47m Realized Profit
+> 9H7nQxF1vmrr9fjcE55Y9RoTb1uhKtE7934y8Ww8oijr
+>  
+> 5. “以 pump 结尾的用户地址” – $3.27m Realized Profit
+> 12BRrNxzJYMx7cRhuBdhA71AchuxWRcvGydNnDoZpump
+>  
+> 6. @mercularx – $2.69m Realized Profit
+> F5jWYuiDLTiaLYa54D88YbpXgEsA6NKHzWy4SN4bMYjt
+>  
+> 7. “TRUMP+ACT+ZEREBRO > $1m 盈利” – $2.54m Realized Profit
+> CB1cfEV1Pq3TS3c92HaTbc3kDo2J3Wix3ph51pSmBoLC
+>  
+> 8. “Mundi+BOME > $500k 盈利” – $2.5m Realized Profit
+> Chbkocicvare18YDjKYRSXNC1AdUNzKtV5n1ZCxGYSMQ
+>  
+> 9. @Huffingtonkk – $2.33m Realized Profit
+> 6ccydEM5havsh4UXijXxrcdeHJYaUR86W2rj1KB1uDgn
+>  
+> 10. Unknown – $2.05m Realized Profit
+> J9NtXeG5Aa658entKEM6rr49yVqJfLkZo5TuctYHAzeu
+>  
+> 11. “TRUMP $1.5m 盈利” – $2.02m Realized Profit
+> 5XgLuqoSGdVnJvDRHg23shryqKgaPaTrz8ueDQ1cF9uh
+>  
+> 12. “jump69.sol” – $1.85m Realized Profit
+> BWAPhpZN5sTorKtnd9p9huviz1Kq9QSBmQpFSunEENQG
+>  
+> 13. “PIPPIN $1.6m 盈利” - $1.72m Realized Profit
+> E57hYjjwNAnvXe67C1q7nKRdC2jWMRGLWAJsBJAJrgzR
+>  
+> 14. “TRUMP $2.3m 盈利” – $1.72m Realized Profit
+> H4SSLANdxDNRCW6Qkk9w5EXi1Z27WjqQbsAiEqwFcKDQ
+>  
+> 15. @BastilleBtc – $1.65m Realized Profit
+> 3kebnKw7cPdSkLRfiMEALyZJGZ4wdiSRvmoN4rD1yPzV
+>  
+> 根据在 GMGN 上的总卖出量-总买入量计算已实现收益，盈利数字可能低估供参考。感谢 @frontrunpro 的标签支持。GMGN Traders Leaderboard 数据（设置了最低 10 笔交易与最低 100 万美元的总买入量过滤）：dune.com/queries/5295338/869…
+
+## 140. Jun 17, 2025 · 3:34 AM UTC · 1934816931519033432#m
+- 链接：https://twitter.com/defioasis/status/1934816931519033432#m
+- 作者：@defioasis
+
+> 在 ZKJ KOGE 崩盘后的 Binance Alpha，在 6 月 16 日：
+>  
+> - Binance Alpha 2.0 交易量约 7.48 亿美元，连续 8 天下滑
+> - 前塞尔维亚总统站台的 AB 成功上位，近 24 小时，AB 在 Binance Alpha 2.0 的交易量达 3.67 亿美元，净购买量达 387.5 万美元，双双第一
+> - Binance Wallet – BSC 交易量比 Binance Alpha 2.0 要率先结束 7 天下滑趋势，6 月 16 日达 57.18 亿美元，对比前日增长 76.9%
+> - 导致在 BSC 网络中 Binance Alpha 2.0/Binance Wallet 交易量占比仅为 11.7%，创下自 4 月 11 日以来新低
+> - Binance Wallet – BSC 交易用户连续三天持续下滑，自 6 月 2 日以来首次低于 20 万，过去三天大概有 5.65 万名用户毕业
+>  
+> 数据：dune.com/kucoinventures/cexo…
+
+## 141. Jun 15, 2025 · 7:01 AM UTC · 1934144289841553668#m
+- 链接：https://twitter.com/defioasis/status/1934144289841553668#m
+- 作者：@defioasis
+
+> 今天在算一些 Meme 交易平台数据，发现这个老牌 Meme 交易平台 Photon 的数据还挺有意思，过去 3 个月链上这么遭的行情里居然还有 93 个 Photon Traders 的 PnL 盈利超过 100 万美元…
+>  
+> 具体来说，在过去 3 个月中的 109.6 万个 Photon Traders 地址中
+> - 超过 70% 已实现亏损，总用户的 69.5% 即 76.1 万个地址亏损 0-1,000 美元
+> - 651 个地址亏损超过 10 万美元，其中有 9 个“笨蛋钱”亏损超过 100 万美元
+> - 大部分的盈利情况集中 0-1,000 美元，占比 23.1%
+> - 93 个地址盈利超过 100 万美元，有 9 个地址盈利超过 500 万美元
+>  
+> PnL 情况是在时间范围内的总卖出量-总买入量计算，可能会除了正常买卖外还有接收转移代币卖出从而拉高了盈利情况的一些问题。不过拉了几个大额盈利地址看了下，虽然可能高估了盈利水平，但大多盈利仍然很犀利
+>  
+> 这个 93 个大额盈利地址已经扒了下来，有兴趣的可以再深度挖掘，没准还能作为 Smart Money 补充：dune.com/queries/5286035
+
+## 142. Jun 14, 2025 · 11:20 AM UTC · 1933847110086222071#m
+- 链接：https://twitter.com/defioasis/status/1933847110086222071#m
+- 作者：@defioasis
+
+> Hyperliquid 出来之后，做 Perps 和挑战 Hyperliquid 的项目是真的多，不完全统计估计就有 20+ 家 Perps。看到为数不多有一个上了 Kaito 的链上永续合约 Paradex，写了下数据看看：
+>  
+> - Paradex 资沉略高于 5,000 万 USDC，这个资沉情况跟隔壁做美股永续的 Ostium 差不多
+> - 4.78k 个存款者，不过由于 Paradex 支持官方桥以外的像 Layerswap 和 rhino 等第三方桥，而有一些桥是用 EOA 地址作中转存款，所以实际存款者/用户会更多一些
+> - 历史累积 Perps 交易量 654.8 亿美元，最近日交易量大概 1-1.5 亿美元
+> - 路径跟 Hyperliquid 相似，做 Perp DEX -> Chain/Appchain -> Eco，感觉已经成为一套衍生品协议通用模板了。Paradex 建在 Starknet 上，后面还要推出带有收益的稳定币 XUSD 作保证金
+>  
+> Paradex 是由专门做机构级衍生品交易的那个 TradeParadigm 推出，算是面向散户的版本也是更好发币。似乎是在 2023 年就在做了，不过主要的增长还是在今年以来，估计是中间参考 Hyperliquid 换了个思路做。总体乏善可陈，继续观察吧。这几天再写写数据看看 Lighter 的实际情况
+>  
+> 对于交易所来说，无论链上链下，交易量和流动性决定下限，资沉决定上限
+>  
+> Paradex Dashboard: dune.com/kucoinventures/para…
+
+## 143. Jun 14, 2025 · 1:34 AM UTC · 1933699440738775510#m
+- 链接：https://twitter.com/defioasis/status/1933699440738775510#m
+- 作者：@defioasis
+
+> Coinbase 也要做交易所链上大融合，根据 Jesse 和 Max Branzburg 的说法来看，所有的 Base 网络的资产可以直接在 Coinbase App 展示并可交易，以及 Coinbase 用户可以直接使用交易所余额去进行购买。
+>  
+> 目前 Coinbase 的资沉达到138.685b，仅仅次于 Binance。Binance Alpha 2.0 的每日购买力（净买量）大概在 150-400 万美元，预计 Coinbase 这个类 Alpha 产品每天能给 Base 网络链上资产带来 200 万美元左右的净买量。
+>  
+> 需要注意的是，现有的说法是，Coinbase 交易所资沉可以购买任何 Base 链上资产，可能是无许可的，这对于 Coinbase 这个资沉体量的交易所来说有点危险，还要比 Binance Alpha 2.0 要更融合了。目前 Binance Alpha 2.0 走的仍然是半托管（MPC Wallet+双合约资产保管）和有许可上线，且基本很少上 BSC 以外的资产，因为自家的 BSC 资产相对可控且有许可上市增加审核保护，核心目的是避免被垃圾资产割掉交易所站内资沉。
+>  
+> 无许可也就意味着未来 Coinbase 可能会面对盘子做局密集在 Base 网络上线，通过 pump and dump 展示在 Coinbase App 首页吸引交易所用户购买，最后收割跑掉。
+
+## 144. Jun 13, 2025 · 3:05 AM UTC · 1933359957820518893#m
+- 链接：https://twitter.com/defioasis/status/1933359957820518893#m
+- 作者：@defioasis
+
+> 昨晚 Virtuals Protocol 在 Ethereum 首个打新 IRIS，梭哈了 56,226 Points，最终塞进了 1.86 VIRTUAL，获得了 16,475.72 IRIS，现价值约 476.88 VIRTUAL，有超过 250x 回报（特别鸣谢 @MiaX2100 老师的投研喂饭🫡
+>  
+> 做个简单复盘：参与 Virtuals Genesis 打新也有三周了，一共花费了 26.45 VIRTUAL 参与了 7 个项目打新，目前账面财富价值 648.12 VIRTUAL，账面回报 ~24x
+>  
+> 目前我个人参与 Virtuals Protocol 打新的策略是：以嘴撸 Yapping 零成本的方式去获取积分为主，打新质押获得 DAB 积分为辅，前者每天可以获得 7.2k 积分，后者每天 800-900 分。感觉嘴撸似乎是有“基础分”概念存在的，好几天没发 Virtuals Protocol 相关的仍会涨分，令我和 @gm365  哥每日为此困惑🤥
+>  
+> Virtuals 打新还是会持续参与，当作日常的一部分吧。核心是低成本+以小博大，并希望通过打新以及后续的观察去发现一些不错的项目。所以我不会去付出大成本去参与交易刷积分和 VIRTUAL Staking，也不是特别在乎积分价值是多少。如果后续真能跑出来一些项目，再考虑上仓位买会是个更佳的选项
+
+## 145. Jun 12, 2025 · 3:01 AM UTC · 1932996629227077641#m
+- 链接：https://twitter.com/defioasis/status/1932996629227077641#m
+- 作者：@defioasis
+
+> Binance Alpha 2.0 和 Binance Wallet – BSC 交易量在昨日都显著下滑，倒是 Binancce Wallet Traders 还在保持每日轻微增长，这莫非就是城外的人想进去，城里的人想出来😂
+>  
+> 数据面板：dune.com/kucoinventures/cexo…
+
+## 146. Jun 11, 2025 · 11:02 AM UTC · 1932755354011783368#m
+- 链接：https://twitter.com/defioasis/status/1932755354011783368#m
+- 作者：@defioasis
+
+> 自 3 月中旬 Alpha 2.0 上线以来，Binance Wallet 中的 BSC 交易地址已有 39,569 个地址交易量超过 100 万美元，其中超过 1,000 万美元交易量的地址有 45 个，这还包括了有 1 个地址的交易量超过了 1 亿美元
+>  
+> 这唯一一个超过 1 亿美元交易量的 Binance Wallet 地址（0x47832c2fc98a4e884555407aeabc5ce519d4e70e）在 BSC 上总交易量达约 1.39 亿美元，几乎是交易量第二名的两倍。这个地址每天刷几百万甚至上千万美元的交易量，拿 23-25 分
+>  
+> 总交易量排名第三的地址（0x8d9b122ad2bec9946d129ffe09b8822188888888）疯批式起号，仅 11 天就刷出了超过 480 万美元的交易量，11 天总分达 235 分（平均每天 21.36 分）
+>  
+> 数据：dune.com/kucoinventures/cexo…
+
+## 147. Jun 11, 2025 · 7:10 AM UTC · 1932697039630184926#m
+- 链接：https://twitter.com/defioasis/status/1932697039630184926#m
+- 作者：@defioasis
+
+> 自 6 月以来，Believe 平台币 LAUNCHCOIN 涨了一倍多，Believe 作为 Launchpad 的代币创建数据重回增长，其中在 6 月 8 日代币创建数一度创下 5.9k 的单日新高（占 Pump Fun 约 25%）。ICM 叙事是否可以重新期待呢？
+>  
+> 就目前来看，Believe 发射的代币的交易量和交易用户仍没有太大波动，尽管近期每日代币发射数量可以达到 2k，但尚没有金狗出现。基数增长能否博得那一小概率的出现还是值得保持观察
+>  
+> 现在市场上对 ICM 的理解是希望 Believe 能成为 Pump 这种通用型发射器以外的专门给要做事做应用的团队去直接发币，并有交易费用分配给团队以支撑现金流。Believe 近期更新了一系列反诈骗措施也可以看出是往这个路径去走，比如新币的首 24 小时内不能领费用；用户可以举报 scam token 使其永远无法获得费用；代币状态监控显示等
+>  
+> 作为 Meteora 系选手和基于 Meteora 去创建代币，Believe 主要竞争对手 Launch On Pump 则依旧低迷，最关键的原因还是造富效应太差，新币能毕业的数量寥寥无几。此外，尽管是基于 Pump Fun，但 Launch On Pump 始终没能得到 Pump Fun 团队的认可
+>  
+> 最后需要注意的是，最近几天 Believe 更新了代币创建 Executing Account，很多数据尚未对此进行更新，从而低估了 Believe 的增长
+
+## 148. Jun 10, 2025 · 2:35 PM UTC · 1932446648485224469#m
+- 链接：https://twitter.com/defioasis/status/1932446648485224469#m
+- 作者：@defioasis
+
+> 速览一下 Virtuals 拓展到 Ethereum 网络上的第一个打新项目 IRIS
+>  
+> - 背后是 Nethermind —— Ethereum 第二大执行客户端，市占率 38%，仅次于 Geth。Nethermind 市占率的提升离不开 Coinbase 的支持
+>  
+> - Nethermind Founder Tomasz Stanczak 是 Ethereum Foundation 执行董事
+>  
+> - Virtuals 单开质押页的亲儿子 Vader 给出的第四个 T1 评级。上一个 T1 评级项目 SOLACE 有超过百倍涨幅
+>  
+> 这是参与 Virtuals 打新以来背景最好的项目。可惜分数囊中羞涩，不知道最终能塞多少，没有攒分后悔莫及😭
+
+## 149. Jun 10, 2025 · 2:07 PM UTC · 1932439574359441864#m
+- 链接：https://twitter.com/defioasis/status/1932439574359441864#m
+- 作者：@defioasis
+
+> 🚀 以太坊官推Repost的 @virtuals_io 新项目 $IRIS，究竟有何看点？快速了解下： 👇
+>  
+> 1/5 项目速览：
+>  
+> $IRIS 是一款X-native的AI虚拟代理，核心技术来自 @NethermindEth 的AuditAgent平台，专攻智能合约安全。它能直接在社交平台分析代码与对话，实时提供安全洞察。Virtuals团队负责其部署、代币及生态策略
+
+## 150. Jun 8, 2025 · 3:53 AM UTC · 1931560101892272549#m
+- 链接：https://twitter.com/defioasis/status/1931560101892272549#m
+- 作者：@defioasis
+
+> 交易所与链上大融合
+>  
+> TLDR
+> - Binance Alpha 2.0 日购买力在 150-400 万美元之间
+> - Binance Wallet 是仅次于 Binance 主站的现货交易量最大的地方，超过了其余任一交易所
+> - Gate Alpha 逻辑与 Binance Alpha 2.0 完全一致，日交易量在 100-200 万美元，日购买力在 20-25 万美元
+> - Bitget Onchain 实现结果与 Binance Alpha 2.0 相似，但管理模式较为复杂，日交易量在 300-400 万美元
+> - 在 OKX DEX 中，Solana 仍然是用户主要参与的网络
+> - Gate 创新区关闭并全面拥抱 Alpha 形态，但 MEXC Meme+ 仍复古使用在交易所设置另类交易板块去开展链上交易
+>  
+> 交易所为什么要布局链上？有两个现实因素：一是上线的 VCcoin 估值太高，没有财富效应；另一个是，Meme 发行速度太快、爆发力强但周期短，财富效应是短暂且迅猛地。这两个结果导致用户把自己的钱从交易所拿出去到链上玩，造成交易所资沉流失。交易所的形态本质是植根于传统券商的，这套形态无法渗透链上，且由于 VCcoins 代币矛盾重重不得不被倒逼去做链上。
+>  
+> 所以从另一个视角来看，这无疑也催生了一种前所未有的交易形态。交易所与链上大融合，不仅仅是交易所如何布局链上，而是一种全新的交易形态的出现，交易所从继承传统券商的“中心化撮合平台”向“全栈链上与链下结合的交易网络”的深层次演进。大融合的雏形最早可能是 OKX 在交易所网站/app 内嵌入钱包开始的，把链上入口做到丝滑；随后到基于 Wallet 的基础上出现了 Alpha 形态，交易所站内资沉直接购买链上资产。
+>  
+> 目前交易所布局链上可以分为三种形式：Alpha、API DEX 和链上资产的独立交易板块。
+>  
+> Alpha
+> Alpha 依托于 Wallet，直接集成进交易所主站，CEX 与 DEX 融合程度更深，可以使用交易所站内资沉直接购买 Alpha 上线的链上资产，Wallet 执行代买卖逻辑，代表是 Binance Alpha 2.0、Gate Alpha 和 Bitget Onchain
+>  
+> （1）双地址集中管理模式，代表是Binance Alpha 2.0 和 Gate Alpha
+> 双（合约）地址集中管理模式，即一个合约地址保管稳定币与网络 Gas 资产，另外一个合约地址保管山寨币资产，然后由保管稳定币资产的合约地址执行代买卖逻辑。交易所内面向用户有 Alpha 账户，与现货、资金、理财和合约账户并行。Gate Alpha 的逻辑与 Binance Alpha 2.0 完全一致。
+>  
+> 交易原理解构
+> 从链上简单来看，站在山寨币角度看，从保管稳定币资产的合约地址 -> 保管山寨币资产的合约地址，即为买入；从保管山寨币资产的合约地址 -> 保管稳定币资产的合约地址，即为卖出。
+>  
+> 深入到具体的一笔交易，以图上 Binance Alpha 2.0 中 ZKJ 卖出成 USDT 的单笔交易来看，由保管稳定币资产的合约地址: 0x6a...1b90 作为代买卖执行，ZKJ 从保管山寨币资产的合约地址: 0x73...46Db 进入到 Binance Wallet: DEX Router 进行出售，得到的 USDT 进入保管稳定币资产的合约地址: 0x6a...1b90。
+>  
+> 因此，在交易层面，Binance Alpha 2.0 实际是对 Binance Wallet 的再做多一层的代买卖嵌套，但使用的是仍然是Binance Wallet 的路由。交易 Alpha 代币，直接使用 Binance Wallet 会比使用 Binance Alpha 2.0 相对更便宜——Binance Alpha 2,0 交易量在 Binance Wallet 占比下滑也能反映出这一点，目前比例仅为约 25%。
+>  
+> Binance Alpha 2.0 的日交易量峰值出现在第一次 BSC 交易竞赛结束的前两日，单日均超过了 20 亿美元，其中 BSC 占比 99%。目前 Binance Alpha 2.0 的累积交易量超过 470 亿美元，每天保持18-20 亿美元间的日交易量。随着用户的交易行为转向 Binance Wallet，Binance Wallet 已经是除了 Binance 主站以外现货交易量最大的地方，超过除 Binance 以外的任一家交易所的现货交易量。
+>  
+> Alpha 买盘分析
+> 博取空投的刷量行为极大低拉升了 Alpha 代币的交易量，相比于交易量更为值得关注的指标是，拼接了 Binance 站内用户资沉的 Binance Alpha 2.0 到底能给上线的新币带来多大的买盘以及能够承受住多大的抛压是更值得关注的。
+>  
+> 以前段时间 HUMA 的数据来看，在空投的 24 个小时里，HUMA 在Binance Alpha 2.0 的净卖出量达 211.6 万美元，上线首日所承受的抛压基本与之前空投的项目差不多，大约在 200-250 万美元之间。这个数字大致也是给 Binance Alpha 用户空投价值的区间。新 VCcoins 上线破发可能性较大，普遍上要在头两天经历剧烈下跌 20%-50% 左右，然后会开启一段横盘吸筹，然后拉升。
+>  
+> 反过来看，目前 Binance Alpha 2.0 的日购买力大概在 150-400 万美元之间（所有 Alpha 币中呈现净买量的值相加），日常情况下大概是每天 200 万美元左右的净买量，能给单个币带来的日内净买量大概是 50w 美元；但在 BSC 行情好的某些日子，Binance Alpha 2.0 的日净购买力可以达到 400 万美元，比如前几天的 BOB，一日翻倍，当日其净买量一度超过了 140 万美元。
+>  
+> Binance Alpha 2.0 相比于其他交易所仍然是显著领先的。Gate Alpha 整体的每日交易量大概在 100-200 万美元之间，有活动可以达到超过 300 万美元交易量。Gate Alpha 的日购买力大概在 20-25 万美元左右，且受热点币的影响较大，有时候一个币就几乎占了整个 Gate Alpha 购买力的一半。
+>  
+> （2）分散地址管理模式，代表是Bitget Onchain
+> 从实现的最终结果来看，Bitget Onchain 与 Binance Alpha 2.0 和 Gate Alpha 是类似的，都可以让用户直接使用在交易所的站内资沉去购买指定的链上资产，都是使用交易代买卖执行。但与 Binance Alpha 2.0 和 Gate Alpha 不同的是，Bitget Onchain 并没有采取双合约地址管理用户资产。
+>  
+> 交易原理解构
+> Bitget Onchain 帮助交易所用户执行代买卖，是通过 EOA 地址与 Bitget Wallet: Swap Router 去执行。Bitget Onchain 在 BSC 和 Base 上卖出时，从一个保管山寨币资产的地址通过 Bitget Wallet: Swap Router 到另一个保管 U 资产的地址；反之亦然。
+>  
+> 这些用于保管山寨币资产和 U 资产的地址有上百个，而非涵盖在两个统一的合约地址中。进一步发现，单个保管 U 资产的地址中所存放的 U 的价值大概在 2 万美元左右。
+>  
+> Bitget 是比较早在做交易所链上大融合的交易所，不过可惜的是被 Binance Alpha 2.0 捷足先登。这套分地址管理模式是匹配于 Bitget 实现 AI 快速上币上 Onchain 的战略打法，一是有助于防止资沉被一些垃圾币割掉抽走，另外是有助于价格保护，但弊端也很明显容易执行失败和需要不断扩容。
+>  
+> 由于地址集太多，没有办法完全获取。询问了下 Bitget 的朋友，目前 Bitget Onchain 日活在 1-1.5 万人间，若有活动的话能达到 2 万；日交易量在 300-400 万美元之间，若有活动能达到 400 万美元以上；Bitget Onchain 后续可能也会向 Binance Alpha 2.0 看齐，未来会调整底层架构，增加中间层合约进行管理。
+>  
+> 总结：VCcoins 层面，Binance Alpha 2.0 上线很简单，其他交易所基本没有参与的机会，但 Binance 又没有办法去过于早期地上线 Memecoins，特别是对于非 BSC 以外的 Memcoins 更是缺乏上线动力。所以在有 Binance Alpha 2.0 的前提下，其他交易所仍在做 Alpha 产品除了是战略层面对链上布局以外，最大的机会是在 Binance 没法完全覆盖的 Solana 以及上面的 Memecoin 新资产。Gate Alpha 和 Bitget Onchain 都开始使用 AI 上币，快速上线潜力新资产以供交易所用户交易。思路很清晰，可惜现在 Solana Meme 不太争气，如果 Meme 行情回暖，相信能看到二者交易量的增长。
+>  
+> API DEX
+> API DEX 的生意是做外部接入API 调用并抽水的生意，代表是 OKX DEX，不过目前 OKX 仍然对 API 保持免费开放。
+>  
+> OKX 是最早做交易所站内内嵌钱包的交易，致力于把入口和交易做的更丝滑。OKX 提供 DEX API、交易API 和行情 API，可覆盖 DEX 完整的核心系统模块，包括单链现货交易、兑换指令执行、跨链兑换、交易模拟和上链以及实时行情与链上数据分析等功能。
+>  
+> OKX DEX 是全链 DEX，但在数据统计上为了与 Binance Alpha 2.0 对齐，在主要的五个链中，重新归来的 OKX DEX 的日交易量大概在 2-2.5 亿之间，日交易用户在 10 万上下。不难发现，在交易相对真实的 OKX DEX 中，Solana 仍然是用户主要参与的网络，与 Binance Alpha 2.0 的数据完全失调和倾斜于 BSC 是完全不同的。另外，通过开放 API，交易所可吸引更多外部平台，形成网络效应。
+>  
+> 无论是 Alpha 还是 API DEX 二者本质都是交易所钱包业务的深化，以通过无缝/丝滑入口实现让交易所站内用户向链上转化。
+>  
+> 链上资产的另类交易板块
+> 链上资产的另类交易板块是完全内嵌在 CEX 的现货里，没有借助任何的钱包执行，也是 CEX 对上线早期链上资产的一种探索，代表是 Gate 创新区和 MEXC Meme+。
+>  
+> 用户直接使用交易所站内资产在专门的链上交易板块中购买 Memecoins 等早期链上代币，跟交易所现货交易一致，可以现价交易与挂单交易，仅需要承担交易所的手续费，没有滑点和 DEX 抽税。
+>  
+> 不过，这种指定可供交易的链上资产筹码，尽管有小一部分可能是交易所上架后链上用户的存入，但更多的可能是交易所的内部部门提前在链上买入了一定量的资产，并放置在交易所内铺单去吸引用户进行购买，由交易所承担了代币下跌的巨大风险，所以交易所也不会购买过多的资产，结果是链上资产在交易所的另类交易板块中的交易量和流动性均非常差。
+>  
+> 由于资产由交易所内部持有和管理，缺乏直接链上流动性，难以吸引长期用户，未来还是需向 Alpha 或 API DEX 模式转型。最近 Gate 宣布将关闭创新区，全面拥抱 Gate Alpha。
+>  
+> 关于交易所链上布局的聚合数据面板，欢迎大家关注：dune.com/kucoinventures/cexo…
+
+## 151. Jun 7, 2025 · 7:50 AM UTC · 1931257368509317306#m
+- 链接：https://twitter.com/defioasis/status/1931257368509317306#m
+- 作者：@defioasis
+
+> 相比于 Pump Fun 40 亿估值募资的“辉煌”，你需要知道的是
+>  
+> 每日从 Pump Fun 毕业的代币在当天结束时的日常平均市值（FDV）仅为 8-10 万美元，略高于外盘毕业市值；中位数更是低至 4,000+ 美元，大部分就算毕业了也是一日游归零态势
+>  
+> 在过去一个月，每日毕业市值前十的代币的平均市值在日常情况下为 50 万 – 200 万美元；当日有金狗或者可能是 Rug 阴谋盘则会带动一些异常飙升，平均市值可以到 1,000 万美元以上，但最近两次 5 月 19 日和 27 日实际都是当天诞生一个低流通的 Rug 盘，拉高了当日平均市值
+>  
+> 另外，每日能从内盘发射到外盘的毕业率区间为 0.7%-1%，每日毕业代币数量在 200-400 个之间
+
+## 152. Jun 6, 2025 · 9:12 AM UTC · 1930915803450548529#m
+- 链接：https://twitter.com/defioasis/status/1930915803450548529#m
+- 作者：@defioasis
+
+> 进入 6 月以来，VIRTUAL 质押量数据趋向于平稳，质押量大致维持在 3,200-3,400 万枚 VIRTUAL，质押率约 3.3% 浮动
+>  
+> 值得一提的是，6 月 4 日有 148.2 万枚 VIRTUAL 取消质押跑路，是 Virtuals 开启质押以来最大的单日净流出，可能是初期短期锁定 VIRTUAL 试试水的用户觉得打新收益净值不划算，选择退出去追逐其他
+>  
+> Virtuals Gensis Launches 打新的关键在于积分，且有 566 枚 VIRTUAL 打新硬顶，即便倍数惊人，但想单个获得大额收益净值相对还是比较困难的，以及不能卖出否则就没有打新参与机会。大多数人的想法想必还是攒一波大的，但攒着攒着觉得大的机会渺茫，或者有其他机会，可能就不愿意继续被 PUA，干脆到期解质押就不玩了
+>  
+> 从质押锁定时长来看，锁定 104 周的有约 903 万枚 VIRTUAL，占比 21.5%；但同时有 1,271.6 万枚 VIRTUAL 只锁定了 1 周，占比 30.3%
+
+## 153. Jun 4, 2025 · 1:10 PM UTC · 1930250782206767161#m
+- 链接：https://twitter.com/defioasis/status/1930250782206767161#m
+- 作者：@defioasis
+
+> Pump Fun 值不值 40 亿美元不知道
+>  
+> 我只知道，我的朋友，在过去半年里，你只需要在 Pump Fun 代币交易中累积盈利为正，就超过了 60% 的人
+>  
+> 在过去半年里，56.6% 的地址（241.7 万个地址）在 Pump Fun 代币交易中亏损 0 – 1,000 美元；
+>  
+> 有 1,710 个地址亏损超过 10 万美元以上，其中有 47 个地址亏损超过 100 万美元；
+>  
+> 0 – 1,000 美元是盈利中分布最广泛的区间，有 91.69 万个地址，占比 21.5%；
+>  
+> 有 314 个真正的聪明钱地址盈利超过 100 万美元以上
+
+## 154. Jun 2, 2025 · 12:41 PM UTC · 1929518685003391005#m
+- 链接：https://twitter.com/defioasis/status/1929518685003391005#m
+- 作者：@defioasis
+
+> 特朗普家族项目 WLFI 跟 PancakeSwap 推出 USD1 流动性激励计划，也算是给 USD1 交易对 Meme 注入了一针强心剂。毕竟上周在 B 带动下经历了短暂的辉煌后，许多 USD1 对 Meme 都大幅腰斩了。本次获胜者的选择方式是活动期间在 PancakeSwap 的 USD1 对总交易量
+>  
+> 就目前来看，USD1 对交易量主要还是集中在 B，其次是 CA，也是过去 24 小时中唯二交易量超过 1,000 万美元的
+>  
+> 历史交易量前五的是：B CA C E BANK
+>  
+> 近 24 小时中净买入量为正的前五名是：B SIGN Z CA AICell
+>  
+> USD1 对 Meme 的叙事还是单字母。看看这次 WLFI 推出的流动性激励计划能不能成为 USD1 对 Meme 的二浪催化剂
+>  
+> 数据：dune.com/kucoinventures/usd1
+
+## 155. Jun 1, 2025 · 1:35 PM UTC · 1929169983873110418#m
+- 链接：https://twitter.com/defioasis/status/1929169983873110418#m
+- 作者：@defioasis
+
+> 尽管过程一波三折，LOUD 预售打新最终的结果还是不错的，目前仍有 120x 回报
+>  
+> - 白单轮 0.2 SOL -> 225,000 LOUD（~24.05 SOL）
+> - 社区轮 0.05 SOL -> 56,250 LOUD（~6.01 SOL）
+>  
+> 昨晚上 10 点说开始却一直延迟，快 12 点的时候我寻思算了睡觉了。刚好半夜是欧冠决赛，弄了个 3 点闹钟起床，一边看欧冠顺道还赶上了 LOUD 预售...
+>  
+> 目前白单+社区轮领取的进度已经超过 95%。
+>  
+> 从已领取的情况来看，白单轮用户中这 Top 1,000 嘴撸 Yappers 中的 47.7% 选择出售/转移，39.7% 继续 Hodl，12.6% 增持；
+>  
+> 社区轮用户中的 56.3% 选择继续 Hodl，32.2% 选择出售/转移，11.6% 增持。这么看来，社区轮用户倒相对还比白单用户要钻石手一些
+
+## 156. Jun 1, 2025 · 9:44 AM UTC · 1929111890086773109#m
+- 链接：https://twitter.com/defioasis/status/1929111890086773109#m
+- 作者：@defioasis
+
+> 最近沉迷 Virtuals 打新，都没咋看 Meme Trading 和这些打狗平台情况。今天一看怎么 Axiom 交易量归零了，原来是 Axiom 近期更新了十余个 Fee Address。下午花了点时间，重新整理了下 Meme Trading Terminals 的数据：
+>  
+> 重新修订了 Axiom 交易数据；新增了被朋友一直安利的 @PepeBoost888 的打狗终端平台 XXYY；另外也发现 Ave 数据过低异常，费用地址覆盖不完善，向 @wsjack_eth 求证了下，实际上 Ave 最近数据增长挺不错，后面也会继续完善统计
+>  
+> 整体看来，5 月经历了 Believe 和 ICM 叙事的高潮，在月中的时候主要的 Meme 交易平台单日交易量合计一度超过了 6 亿美元，还超过了 2 月 LIBRA 期间，但很可惜 ICM 叙事后继乏力，5 月末的几天又是重新遇冷回到了 1.5 亿美元日交易量水平
+>  
+> Axiom 交易量市场份额占比在 5 月 27 日一度达到了 70% 的新高，仍牢牢占据主要市场；并且仍然是用户平均交易金额最高的平台——在 ICM 叙事期间的 5 月 14 日每用户平均一度达到了恐怖的 $8.66k 的购买力
+>  
+> @minta0103 老师认为 6 月会有不错的概率出现高倍数金狗，数据上是支持能有一些机会的。主要的 Meme 交易平台 5 月月度 Traders 的 SOL 余额数达到了 49.8 万 SOL，连续三个月正增长，潜在购买力还是有的。昨晚 Minta 老师还给我传授了她的吃粽子策略（哦其实是跟单策略🤪），令我受益匪浅，即筛选出十余个交易风格契合自身的 smart wallet，针对他们的交易进行快速判断+copy trading
+>  
+> 后面还是会把一些精力放在链上资产和交易的新业态新机会上，比如依靠“直播带货”的资产分发平台 Sidekick 和一些新的衍生品平台如 Lighter
+>  
+> Meme Trading Terminals: ：dune.com/kucoinventures/meme…
+
+## 157. May 31, 2025 · 11:57 AM UTC · 1928782915946819913#m
+- 链接：https://twitter.com/defioasis/status/1928782915946819913#m
+- 作者：@defioasis
+
+> 复盘一下本周 Virtuals Genesis Launches 打新及账面收益情况
+>  
+> - MAGNUS 2,527 Points + 2.37 VIRTUAL -> 现值 17.39 VIRTUAL（7x）
+> - BOOKIE 1,217 Points + 0.39 VIRTUAL -> 现值 9.72 VIRTUAL（24x）
+> - SOLACE 1,037 Points + 0.11 VIRTUAL -> 现值 10.46 VIRTUAL（95x）
+> - VDNT 3,842 Points + 2.14 VIRTUAL -> 现值 17.46 VIRTUAL（8x）
+>  
+> 总结：以小博大，倍数惊人，收益有限
+>  
+> Virtuals 打新还是在于积分，即便每次都是积分梭哈策略，但终归是囊中羞涩，能投入打新的 VIRTUAL 还是太少了。大部分人想必都是想累积赚一波大的就彻底不玩，但积少成多尚需时日，某种程度上 Virtuals 打新更是一种预期管理游戏
+
+## 158. May 30, 2025 · 5:51 AM UTC · 1928328420863221981#m
+- 链接：https://twitter.com/defioasis/status/1928328420863221981#m
+- 作者：@defioasis
+
+> 自打铁顺搞出积分，项目方/CT 逐渐变成积分囚徒
+>  
+> Binance Alpha 空投？狂刷积分
+> Kaito 嘴撸？AI 水贴 Yaps 刷爆
+> Virtuals 打新？Virgen Points 伺候
+> 还有一大堆数不清的项目，各种杂七杂八的积分
+>  
+> 噢 顺便问一句：铁顺谁啊？还有人记得不😅
+
+## 159. May 30, 2025 · 1:19 AM UTC · 1928259897776558290#m
+- 链接：https://twitter.com/defioasis/status/1928259897776558290#m
+- 作者：@defioasis
+
+> 什么是敏锐度？在全网刷屏 Yapping Loud! 的时候，
+>  
+> AxVn8rB4BLFUxvPhBywQnca11iMapKP38Cd78jDgx5zR
+>  
+> 在 23:51-23:56 UTC+8 底部花费了 $2,889.75 购买了总量约 10% 的 Loud! 创始人 @0x_ultra 在 Time Fun 上发射的时间代币，目前出了一半本且盈利 $9.1K（300%+）。当然 ultra 的时间代币市值很低，目前也仅 $11.5k，dev 也趁上涨卖出了几百 u
+>  
+> 当一件热门事件在进行全网 Yaps 预热和传播的时候，要及时找到热门事件相关的其他机会，先赌赚一波狂热带来的情绪收益，比如创始人/过往项目发过的币、相关联其他项目的币等。另一个例子是昨天上 Binance Alpha 的 Assisterr AI 的合作项目 Candle
+
+## 160. May 29, 2025 · 1:28 PM UTC · 1928081048744923142#m
+- 链接：https://twitter.com/defioasis/status/1928081048744923142#m
+- 作者：@defioasis
+
+> 由 Kaito 支持的 yaps 生态 Loud! 送给 Yappers 的一场福利 - LOUD 代币打新 TLDR.
+>  
+> 时间：北京时间 5 月 31 日晚上 22:00
+>  
+> 平台：Holoworld – HoloLaunch
+>  
+> FDV：15.56 万美元，其中 45% 的代币用于打新，筹集约 7 万美元（400 SOL）
+>  
+> 分为两个阶段：（1）前 1,000 名 LOUD Yappers，每人 0.2 SOL – 必得；
+> （2）绑定 Solana 地址且有 10+ Smart Followers 的 Kaito 用户，每人 0.2 SOL，超额认购最低降至 0.05 SOL，其余退还 - 先到先得（FDV 太低绝对是要降到0.05 SOL）
+> LOUD 经济学：45% - 打新；45% - LP；10% - 社区和市场活动
+>  
+> 除了 LOUD 以极低估值启动外，值得一提的是，Kaito 首个支持的项目使用 Holoworld 作为启动，毫无疑问是利好 Holoworld 相关代币，这次 Loud! 打新想必只是一个开始
+
+## 161. May 29, 2025 · 11:20 AM UTC · 1928048829427077378#m
+- 链接：https://twitter.com/defioasis/status/1928048829427077378#m
+- 作者：@defioasis
+
+> 普通用户参与 Virtuals Genesis Launches 最大的问题是积分积攒速度太慢，以致于每期打新分配的额度着实太少。项目调研倒不是那么重要，看着人多的火的直接塞
+>  
+> 昨天 BOOKIE 翻了 40 倍，但我只有 1,217 Points 最终只塞进了 0.39 VIRTUAL… 离开了本金去谈收益率意义终归是有限，更别说还只是账面财富
+>  
+> 所以 Virtuals Genesis Launches 还是在于怎么搞积分。从每天积分分配来看，超过 70% 的积分是分配给 Daily Active Bonus（DAB），而 DAB 的获取来自于质押+交易 Agents
+>  
+> 理论上来说，交易 Agents 获取的积分应该是比质押更多的，有点像 Binance Alpha 里刷量和余额的关系，毕竟交易量才能真真正正地带来手续费。每个 Virtuals Genesis Launches 发射的代币都固定收取 1% 的交易费用，一买一卖就是 2%，不过这个 Agents 交易税不是交给 Virtuals Protocol，而是直接进入到 Agent 的代币合约中。Virtuals Protocol 主要是在 Genesis Launches 打新 Commit VIRTUAL 中抽取 1% 的税
+
+## 162. May 28, 2025 · 4:14 AM UTC · 1927579210089927120#m
+- 链接：https://twitter.com/defioasis/status/1927579210089927120#m
+- 作者：@defioasis
+
+> 昨天 Binance Wallet 打新的 Elderglade - ELDE 近 24 小时净买盘达到了 62.5 万美元，倒是很少看到新币上线能有正向买入的，谈了做市商托底还是游戏社区给力？
+>  
+> 一般来说，作空投的新币上线 Binance Alpha 都得在最初的两日承受超过 200 万美元的净抛压
+>  
+> 目前算下来，Binance Alpha 每天的净购买力大概在 200-250 万美元（所有 Alpha 币中呈现净买入的值相加）
+
+## 163. May 28, 2025 · 2:31 AM UTC · 1927553221771309456#m
+- 链接：https://twitter.com/defioasis/status/1927553221771309456#m
+- 作者：@defioasis
+
+> 以前看 CT 发 Virtuals Genesis Launches 打新疯狂的收益还不太相信，昨天尝试打了下 MAGNUS 试试水，塞了 2,527 Points 和 2.37 VIRTUAL，最终获得了 20,951.563 MAGNUS（~44.3 VIRTUAL），币本位大概翻了 20 倍，的确是个以小博大的好场所…
+>  
+> 当然，这些都只是账面收益。一旦把 Genesis 打新的币卖出会暂停以后的额度分配。被迫（3，3），不能卖，只能继续质押去赚取积分。想了想，不管未来这些打新的币的结果如何，但 VIRTUAL 的上涨潜力在这套机制中是比较确定的
+>  
+> 目前大概有 3,261.2 万枚VIRTUAL 处于质押状态，质押率 3.26%，其中 20% 的 VIRTUAL（727.6 万枚 VIRTUAL）质押了最大的 104 周；总质押数和最大质押 104 周的比率都在上涨，正向循环中
+
+## 164. May 26, 2025 · 2:16 PM UTC · 1927006048616841600#m
+- 链接：https://twitter.com/defioasis/status/1927006048616841600#m
+- 作者：@defioasis
+
+> 特朗普家族的 WLFI 稳定币 USD1 与 Binance 的合作是一场阳谋，USD1 交易对可能会是一个 Alpha 机会
+>  
+> 这场合作不仅在于 Binance 上线 USD1 稳定币现货，还在于 USD1 已与 BNB Chain 深度绑定
+>  
+> 虽然仅诞生约 2 个月，但 USD1 已经超过了 FDUSD 和 PYUSD 成为了第五大稳定币，其中 98% 的供应量都集中在 BNB Chain。USD1 也已经与 BNB Chain 诸如 PancakeSwap、Four Meme 和 Venus 合作
+>  
+> 作为最大的 USD1 交易对代币 BUILDon - B，市值一度超过了 4.5 亿美元，近 24 小时涨超约 40%。更深一步看，B 的主力直接在 PancakeSwap，而不在嵌套了一层的 Binance Alpha 2.0
+>  
+> 近 24 小时，B 在 Binance Alpha 2.0 的净流出达 46.8 万美元，基本都在卖，净流出量仅次于今天刚 TGE 的 PayFi 项目 HUMA；而 B 在 PancakeSwap 的净流入达 26.6 万美元，而 Binance Alpha 2.0 本质还是走的 DEX，也就是说主力净流入量可能超过了 70 万美元，以此覆盖掉可能是散户较多在 Alpha 中的抛售中并实现突破。另外一个涨的比较好的 USD1 交易对代币 CA 在 PancakeSwap 的净流入量也仅次于 B
+>  
+> 如果 Trump 稳定币叙事真能成立，首先受益的会是以 USD1 作为交易对的代币，而这些项目几乎完全集中在 BNB Chain，这又为上线 Binance Alpha 2.0 提供了可能性。VCcoins 通过组建 USD1 也成为了获得 Binance 关注的新方式，比如 SIGN BANK 等都已组建 USD1 流动性
+>  
+> 数据：dune.com/defioasis/usd1
+
+## 165. May 23, 2025 · 1:09 PM UTC · 1925901864949694934#m
+- 链接：https://twitter.com/defioasis/status/1925901864949694934#m
+- 作者：@defioasis
+
+> 最近 Virtuals Protocol 使用积分消耗去参与 Genesis Launches 的玩法是整的有声有色，每隔一两天都能刷到这个那个打新中了百倍千倍的
+>  
+> 研究了下，目前赚积分有 6 种形式：发文 Yapping、参与 Genesis Launches、质押 VIRTUAL 获得 veVIRTUAL、买 Virtuals 发射的 AI Agents、质押 AI Agents 代币（支持了上百种）和质押 VADER
+>  
+> 用户质押 VIRTUAL 或其他 AI Agents 代币+发文 Yaps 获得积分，用积分去参与 Genesis Launches，打新制造以小博大低投入高倍数的财富效应，拿财富案例持续发文营销 Yaps 继续获得积分参与打新，以此形成传播正循环。
+>  
+> Virtuals 团队很是擅长于搞 ponzi 飞轮，VIRTUAL 作为交易对母币参与生态系统的打法在上一波AI Agents 周期中螺旋升天，而当下 Genesis Launches 这套玩法进一步迎合掌握独家资产发行的 Launchpad 叙事，对 VIRTUAL 币价的提振也的确是显著的
+>  
+> 从 VIRTUAL 质押数据来看，目前大概有超 1.9 万个地址质押了超 2,630 万 VIRTUAL，质押率 ~2.64%
+>  
+> 另外，质押需要锁定期限，锁定 104 week 可以获得 veVIRTUAL:VIRTUAL=1:1 的最大积分效力，大概有 504 万个 VIRTUAL（占总质押的 17.7%）是锁定了 104 week；从质押者来看，将近 50% 的 VIRTUAL 质押者都锁了 104 week，这说明不少质押者是长期质押和短期质押灵活并存的
+
+## 166. May 21, 2025 · 2:57 PM UTC · 1925204385350689225#m
+- 链接：https://twitter.com/defioasis/status/1925204385350689225#m
+- 作者：@defioasis
+
+> VCcoins 上线/首发 Binance Alpha 需要团队自己在 BSC 上去加池子，LP 收益成为了团队新收入方式的同时，也让通过新池子监控狙击 VCcoins 开盘成为了一门生意
+>  
+> 就拿今天上线的 TGT 来说，TOKYO GAMES 团队在 Pancake V3 添加了 300,118 USDT + 3,032,640 TGT 流动性（池子成本为 $0.099），就在团队加池子的同一区块，就有那么 3-4 位狙击手抢到了筹码
+>  
+> 其中一名狙击手: 0x710E0410a75A607950b01f873fEb388D36E8C53e（简称：0x71…C53e）通过 9 BNB 贿赂节点（向 Puissant、BlockRazor 和 bloXroute 各支付 3 BNB），以 130,000 USDT 的价格买入了 1,084,638 TGT，差不多买了团队加池子的 1/3 代币，均价为 $0.12。一分钟后，0x71…C53e 将这 1,084,638 TGT 全部出售获得 194,380 USDT，净收益 6.4 万美元
+>  
+> 本质上，我觉得这是一种正常的市场行为，这在 Meme 狙击上是很常见的事情。但在 VCcoins 上，无论是出于控筹还是需要遵守某些与交易所签署的协议，项目方团队对于这些狙击还是需要注意的
+>  
+> 前几天 Alaya AGT 上线的时候，还有个更狠的，狙击手买掉了团队加的池子里的一半筹码。在 5 月 16 日上线的时候，Alaya 团队在 Pancake V3 添加了 458.68 WBNB + 54,215,077 AGT。一名狙击手: 0xc8e1AFA0f7786b756111CD81f0E24e7e89cF471a（简称: 0xc8…471a）在团队加池子的同区块里，向 Puissant 贿赂了 121.212 BNB，以 398 WBNB（~26wu）购买了 27,217,172 AGT，均价约 $0.0124
+>  
+> 当然，货太多，池子太小，也没有那么容易出，团队不加池子不管价格，狙击手一般也不太会长持，最后这名狙击手: 0xc8…471a 花费了两个多小时陆续出售获得 572.8 WBNB，净收益约 53.6 BNB
+
+## 167. May 21, 2025 · 4:18 AM UTC · 1925043454629028152#m
+- 链接：https://twitter.com/defioasis/status/1925043454629028152#m
+- 作者：@defioasis
+
+> Wayfinder – PROMPT 今天上线了 Bithumb 补充了韩国市场的空白，目前 PROMPT 已经上线了 Binance Alpha、Binance Futures、Coinbase 和 Bithumb 等，中美韩全覆盖
+>  
+> 自 Binance Alpha 上线及空投以来有一个多月了，PROMPT 仍然是 Binance Wallet 在 Ethereum 网络中交易量最大的几个 Alpha 资产之一。PROMPT 上 Alpha 上的比较早，算是吃了没跨链到 BSC 网络的亏
+>  
+> 回归到基本面，从 cookie fun 数据来看，近 24 小时，Wayfinder – PROMPT 在 AI Agents Mindshare 排名第五，与近期风靡的 Virtuals 和老牌 AI Agent AIXBT 争夺市场份额；在过去 7 天，与 Wayfinder – PROMPT 互动水平增长了 37%，也展示了市场关注度在上升
+>  
+> 在最近 Coinbase Ventures 发布的链上 AI 生态系统导航图中也将 Wayfinder 列入 Agents & AI Apps 中 DeFAI 的细分赛道，是嵌入用户体验与核心功能的面向用户的链上产品之一。Coinbase Ventures 提到，AI Agents 正在以多种方式进入 DeFi 领域，一个显著趋势是 AI Agents 辅助交易和投资组合管理，并且认为这种 AI Agents 驱动的用户体验将会迎来加密版的 Wealthfront 时刻，这也正是 Wayfinder 的一个重要方向
+>  
+> 在 6 月，Wayfinder 将发布全新的 Alpha 版本，引入法币通道与投资组合 Sub-Agent 全面赋能 AI 交易，值得大家持续关注
+
+## 168. May 20, 2025 · 2:14 PM UTC · 1924831157293875668#m
+- 链接：https://twitter.com/defioasis/status/1924831157293875668#m
+- 作者：@defioasis
+
+> 在 Binance Wallet & Alpha 交易量大幅膨胀的同时，Binance 用户交易行为习惯逐渐从在站内进行 Alpha 2.0 购买转移至直接使用 Binance Wallet 购买 Alpha 资产
+>  
+> 从 5 月 12 日至 5 月 19 日，从上周一到本周一
+>  
+> - Binance Wallet 交易量：从 12.79 亿美元 -> 50.99 亿美元，增幅 299%
+>  
+> - Binance Alpha 2.0 交易量（在 Binance 站内进行 Alpha 2.0 购买）：从 5.53 亿美元 -> 17.13 亿美元，增幅 210%
+>  
+> - Binance Alpha 2.0 / Binance Wallet 交易量占比：从43.25% -> 33.6%，份额下降约 9.65%
+>  
+> 随着积分刷量越来越卷，用户对交易费用反而更加敏感，直接使用 Binance Wallet 交易相比于站内 Alpha 2.0 的代买卖交易应该是减少调用一层合约，磨损相对会更小
+>  
+> 回到 Binance Alpha 2.0 来看，BNB Chain 已是占据了 99% 的交易量，ZKJ 更是卷王中的卷王，近 24 小时交易量达到 10 亿；在剩余的 1% 份额争夺战中，凭借着交易竞赛，Sonic 力压 Solana
+>  
+> Solana 作为 Meme 之王，在 Binance 难得重用，毫无疑问是给 Bitget Alpha 和 Gate Alpha 留下了机会
+>  
+> Binance Alpha 2.0 数据：dune.com/defioasis/bnalpha2
+> Wallet 数据：dune.com/lz_web3/wallet-war
+
+## 169. May 19, 2025 · 2:49 PM UTC · 1924477525008511429#m
+- 链接：https://twitter.com/defioasis/status/1924477525008511429#m
+- 作者：@defioasis
+
+> 教程：如何链上提前知和监控 Binance Alpha 上线代币，以及预估空投符合总用户数和领取用户
+>  
+> 首先需知 Binance Alpha 2.0 是代买卖逻辑，即用户使用 CEX 站内资产购买 Alpha 链上币的时候，是由 Binance Wallet 的合约代为执行，所以是没有办法从链上识别具体的用户/地址，仅能看到的 Binance Wallet 合约代为买卖的过程。因此，Binance Wallet 存储用户的资产也会将 USDT/C 稳定币资产和非稳定币资产进行分开处理，方便对账和执行买卖交易
+>  
+> EVM 系 稳定币资产存放在 0x6aba0315493b7e6989041C91181337b662fB1b90（简写：0x6a…1b90）
+> 非稳定币资产存放在 0x73D8bD54F7Cf5FAb43fE4Ef40A62D390644946Db（简写：0x73…46Db）
+>  
+> Solana 系 稳定币资产存放在 6ZaWyb9PKP1ZGVsQcE9vjnGPCH6KiWE5XLUY7HdNEJ77
+> 非稳定币资产存放在 9ZPsRWGkukYeWg2Z7eZ8NaTBZ1DSuBUVzLcGQWZgE4Y4
+> （VCcoins TGE 一般是走 BSC，所以在此就不展开 Solana 系情况）
+>  
+> 首发 Alpha 的 VCcoin 大多都会进行代币空投，而空投是基于 Alpha 交易量与余额的积分情况去进行的，那么空投的代币份额是否会进入到 Binance Wallet 存放非稳定币资产钱包: 0x73…46Db 中呢？就 4 月 23 日以来，进行 Alpha 用户空投的数个代币都符合该规则。
+>  
+> 在进入 Binance Wallet 非稳定币资产钱包: 0x73…46Db 前，是由 0x93dEb693b170d56BdDe1B0a5222B14c0F885d976（简称: 0x93…d976）作为上线 VCcoins 的接收站。这种链上接收一定是早于 Binance 公告的。
+>  
+> 初步判断是，项目方把上线 Alpha 所需要的代币分配至 Binance 用于接收 VCcoins 的地址: 0x93…d976 中，随后 0x93…d976 会把用于 Alpha 用户空投的部分转移至 Binance Wallet 存放非稳定币资产钱包: 0x73…46Db 中。此处可以使用 Arkham 设置警报 “From: 0x93…d976” 和 “To: Binance Wallet（Arkham 标签）”。参考下图
+>  
+> 我们还可以使用 Arkham 对 Binance 接收 VCcoins 地址: 0x93…d976 设置警报，以及项目方打币前往往会作 10/100 个提前测试。警报设置 “To: 0x93…d976”（作为接收地址监控）、接收代币数>9/99、不过滤代币价值（因为新币价值可能为 0）。参考下图
+>  
+> 只进入了 Binance 接收 VCcoins 地址: 0x93…d976 而不进入 Binance Wallet 非稳定币资产钱包: 0x73…46Db 的代币可能是仅上 Alpha 但不进行空投（也可能还在排时间？），比如最近的 PORT3 就上了 Alpha 但没空投。此外，那些流入 0x73…46Db 但部分仍留存于 0x93…d976 的代币用途未知，值得后续持续观察。
+>  
+> 进入 Binance Wallet 非稳定币资产钱包: 0x73…46Db 的代币数量即可视为用于 Alpha 用户空投的总量，等 Binance 公布单用户空投数量的时候，便可以根据 空投总量/单用户空投数量 计算出符合本轮空投资格的所有 Alpha 用户的总数。
+>  
+> 进一步，对 Binance Alpha 代买卖设置符合“单用户空投数量”的卖出，所产生的交易笔数便可以视为领取了空投并卖出的用户数量。用 Etherscan 浏览器可以做到实时查询，可使用该链接（日后仅需修改空投代币数量及代币合约）：bscscan.com/advanced-filter?…
+>  
+> 此类对 Alpha 提前亮的监控想必未来会成为 @ai_9684xtpa @EmberCN 链上播报的一部分。识别估算空投总用户数和领取用户逻辑灵感来源于 @litangsongyx ，也可以直接使用理塘兄的前端网站查阅：litangdingzhen.me/
+
+## 170. May 18, 2025 · 9:58 AM UTC · 1924042010316660877#m
+- 链接：https://twitter.com/defioasis/status/1924042010316660877#m
+- 作者：@defioasis
+
+> Launch on Pump：基于 Twitter 在 Pump Fun 启动 @LaunchOnPump
+>  
+> 自 5 月 16 日上线以来，Launch on Pump 在这三天里创建了近 2.9k 代币，成功毕业发射到 PumpSwap 外盘的有 16 个，其中 5 月 17 日创建了 2,624 个代币，有 15 个成功毕业，毕业率约 5.7%
+>  
+> 本质上来说，Launch on Pump 的底层还是基于 Pump Fun，内盘为 Pump Fun 的 Bonding Curve，外盘为 PumpSwap；只是类似于 Believe 一样通过 “@ Twitter + Ticker”进行代币启动。在 5 月 17 日，Pump Fun 中 9.7% 的代币由 Launch on Pump 创建
+>  
+> Launch on Pump 有自己的平台币 LAUNCH，是直接基于 Pump Fun 启动的，它的代币合约为 pump 结尾。Launch 昨天一度达到 15m，目前回落至 6m。其他通过 Launch on Pump 创建的代币则不会带 pump 尾标。跟之前 Clanker/Bankr 类似，有一些聪明 CT 通过引导 Grok 和 AIXBT 使用 Launch on Pump 启动了代币，如 BULL 和 PUFF
+>  
+> 跟 Believe 会使用协议费用对自己的平台币作回购一样，Launch on Pump 的 LAUNCH 也有每日回购的类似机制。在产品机制上，Believe 和 Launch on Pump 毫无疑问是属于竞品的，都是通过 Twitter 启动代币，与其称让人听起来一头雾水的 ICM Tokens，不如更直观地称之为 Tweet Tokens。二者分别属于不同的派系，前者是 Jupiter/Meteora 系，后者则属于 Pump Fun 系。昨天的代币创建量，Launch on Pump 超过了 Believe，但可持续性仍有待观察
+>  
+> 数据面板：dune.com/defioasis/launchonp…
+
+## 171. May 18, 2025 · 4:18 AM UTC · 1923956213236236517#m
+- 链接：https://twitter.com/defioasis/status/1923956213236236517#m
+- 作者：@defioasis
+
+> 🧐刷 Binance Alpha 需要谨记的两条公式：
+>  
+> - 空投总价值 = 空投用户数 * 空投平均金额
+>  
+> - 空投总价值 = 开盘 FDV * 空投代币份额
+>  
+> 开盘 FDV 与空投代币份额是由 Binance 和项目方去协商来定的。Alpha 2.0 之前，Binance 高估值上线了许多 VCcoin 现货，基本都是高开低走，毫无财富效应，最直接的影响是没人在 Binance 玩，站内资沉流失。现在 Binance 明显是有意把 VCcoin 项目方估值往下压在 20-50m 之间，如果以代币总量的 5% 分配给 Alpha 用户来算，空投价值大概是在 100-250 万美金。
+>  
+> 在确定了空投总价值之后，Binance 还需要保证用户获得空投的平均金额在一个适中的位置，以避免空投沦为鸡肋。如果要保证单用户空投金额约在 70-100 美元，空投用户数大概在 1 万 – 3.5 万个。
+>  
+> 观察下来，每次获得空投的用户数大概也是在 2-3 万，而积分就是用来去筛选出这 2-3 万名用户的。随着积分膨胀，Binance 又引入了领空投需要消耗积分的机制，增加了一层动态博弈，避免强者恒强也能给新人一些机会。2-3 万名空投用户，但不能每次都只是重复的那批 2-3 万用户。
+>  
+> 所以说冒险岛 NXPC 的确是个神盘，在空投的用户基数增幅没那么多情况下，由 1 亿 FDV 开盘直接干到 30 多亿，空投价值也是 Alpha 2.0 有史以来最高的..
+
+## 172. May 17, 2025 · 1:38 PM UTC · 1923734881588347211#m
+- 链接：https://twitter.com/defioasis/status/1923734881588347211#m
+- 作者：@defioasis
+
+> 一见 gm 深似海😎
+>  
+> 忙中偷闲去了趟云南转了转，“偶遇” gm 哥 @gm365
+>  
+> 平时看 gm 分享很多 Meteora 和作 LP 的姿势，没想到竟暗藏玄机与财富之道。据 gm 所授，在新 Meme 交易量最旺盛的时候，组 Meme LP 在那一两个小时里日化可以达到几百甚至上千，日化低于 100% 的都没法上桌
+>  
+> 每天新 Meme 非常多，门道在于如何选择 Meme 和把控持仓 LP 的时间。对此首先需要在新 Meme 上作监控推送（详情可看 gm 过往无私分享的推文）；其次是 LP 持仓时间要控制在 1-2 小时内并随时调整，以防止期间代币暴跌
+>  
+> 学生疑惑，交易量和换手率最高的时候往往有可能是代币价格的顶点。gm 坦言，即便设的监控够好，手速够快，十个 Meme 里仍有二三可能会来不及撤掉 LP 的时候遭遇 70%-80% 的下跌；且如果 Meme 大幅上涨，组 LP 的收益不如直接持币。为什么要做这个事情？把 Meme LP 当作是一种量化策略，控制回撤，稳步增长，以及对 LP 一事满满热爱（果然这才是自由的境界🫡
+
+## 173. May 15, 2025 · 1:54 PM UTC · 1923014130191286366#m
+- 链接：https://twitter.com/defioasis/status/1923014130191286366#m
+- 作者：@defioasis
+
+> Solana 上有三股大集团势力，资产发行商和资产交易商互相侵蚀
+>  
+> （1） Pump Fun & PumpSwap：从 Pump Fun 发射的 Memecoin 在毕业后迁移至 PumpSwap，PumpSwap 的交易量强依赖于 Pump Fun 资产发行的龙头地位
+>  
+> （2） Raydium & LaunchLab + LetsBonk：在 Pump Fun 自建 DEX 门户后，Raydium 推出了自己的发射器 LaunchLab，由 Solana 老牌 Meme BONK 社区基于 LaunchLab 打造的 LetsBonk 大幅提升了 Raydium 系资产发行量
+>  
+> （3） Jupiter/Meteora & Believe：秽土转生后的发射器 Believe 独创 ICM 代币概念，依靠 Meteora 单边流动性池作启动，而 Meteora 背后则是 Solana 龙头聚合器 Jupiter
+>  
+> 在资产发行端，Pump Fun 从超过 90% 的市场份额在短短一周内锐减至 50% 以下；Believe+Meteora 在过去两天已占据 ~35% 的市场份额；Radydium 系 LaunchLab+LetsBonk 在过去两天也受到 Believe 的显著冲击
+>  
+> 在资产交易端，在 Believe ICM 代币发行加持下，Meteora 交易量在最近两天已超过 PumpSwap，仅次于 Raydium；Raydium 在资产交易端所面临的压力挑战不低于在资产发行端的 Pump Fun
+
+## 174. May 14, 2025 · 1:38 PM UTC · 1922647737251836192#m
+- 链接：https://twitter.com/defioasis/status/1922647737251836192#m
+- 作者：@defioasis
+
+> 链上流动性在回来了得到体感和数据支持，潜在购买力的恢复已逐渐反馈到交易量上
+>  
+> 5 月 13 日，主流 Meme 交易平台交易量近 5 亿美元，是自 2 月中旬以来高点，其中 Axiom 独占 3.2 亿美元创下历史新高
+>  
+> 除了交易量外，更值得关注的是，Axiom 当天 Traders 余额数达到了 1.9 万 SOL，平均每用户交易金额达到了 $7.3k，购买力强劲，这两数字跟 Photon 在 TRUMP MELANIA 发币期间有的一拼
+>  
+> 其他交易平台，如 Photon 和 GMGN 在 5 月 13 日交易量都有一定的增长，但 BullX 是完全掉队了，GMGN 近两天市场份额已超过了 BullX
+
+## 175. May 13, 2025 · 1:42 PM UTC · 1922286387329695900#m
+- 链接：https://twitter.com/defioasis/status/1922286387329695900#m
+- 作者：@defioasis
+
+> 金狗频频，除了之前所说的链上潜在购买力已经大幅恢复外，Launchpad 的内卷也推动了金狗的诞生，背后的帮派阴谋集团 cabal 纷纷发力
+>  
+> Raydium 系 LaunchLab 和 LetsBonk 在 5 月 12 日的代币创建数上合砍 36% 的市场份额，其中 LetsBonk 在当天创建了 1.22 万个代币，约为 Pump Fun 的 51.5%，看起来这是 Pump Fun 最有压力的一次
+>  
+> 当前 Launchpad 对 Pump Fun 的基本打法是构建平台币进行费用赋能。Pump Fun 赚钱能力很强且不需要发币，赚的 SOL 就转到交易所卖，不需要给代币持有者和投资人，大部分是纯利润。所以不少 Launchpad 以 Pump Fun 不作费用分红这个点去打，即所谓的吸血鬼攻击
+>  
+> 用 Launchpad 赚的钱去赋能平台币这个噱头深的精髓便是 Believe，尽管每日代币创建数并不多，但平台币 PASTERNAK 是真拉盘..
+
+## 176. May 8, 2025 · 8:19 AM UTC · 1920393129351434453#m
+- 链接：https://twitter.com/defioasis/status/1920393129351434453#m
+- 作者：@defioasis
+
+> 数据链接：dune.com/defioasis/bnalpha2
+
+## 177. May 8, 2025 · 8:19 AM UTC · 1920392998145437771#m
+- 链接：https://twitter.com/defioasis/status/1920392998145437771#m
+- 作者：@defioasis
+
+> Binance Alpha 2.0 交易量飙升的太恐怖，已经连续三个单日创下历史新高。Alpha 2.0 累积交易量今天要突破 30 亿美元了，其中 BNB Chain 占比超过一半
+>  
+> 在 BNB 智能链交易竞赛刺激下，Binance Alpha 2.0 的 BNB Chain 交易量在 5 月 7 日大幅增长，达到了 3亿美元，占比 4 个链交易量的接近 80%。3 亿美元什么概念呢，比主流的包括 Axiom、Photon 等 Meme 交易平台在 Solana 当天的交易量还要多
+>  
+> 目前 Alpha 2.0 在 BNB Chain 上的每笔平均交易金额已经略高于 1,000u，意思是如果每天只是刷 1,000u，也只是达到平均水平，那基本也就无缘空投了，所以引进积分消耗制度还是非常有必要的
+>  
+> 近 24 小时，交易量前三甲标的都被交易竞赛参赛代币包办，分别是 B2、ZKJ 和 MYX，其中 B2 近 24 小时交易量超过 8,400 万美元，ZKJ 则超过了 6,000 万美元
+
+## 178. May 7, 2025 · 6:17 AM UTC · 1920000009900306932#m
+- 链接：https://twitter.com/defioasis/status/1920000009900306932#m
+- 作者：@defioasis
+
+> Kaito 还是牛逼，已经向 Yappers 分发了价值达 7,130 万美元的合作项目方代币空投，而这还不算 KAITO 本身
+>  
+> - 空投了约 3,000 万美元 BOOP；如果按 ATH 算，空投价值达 3,750 万美元
+> - Story、Eigenlayer 和 Berachain 的空投价值均超过了 1,000 万美元
+> - 百万规模的还有 Initia、Wayfinder 和 Anime 等
+> - 向 KAITO Holder 分配了 372 万美元空投
+
+## 179. May 6, 2025 · 1:59 PM UTC · 1919753843241582838#m
+- 链接：https://twitter.com/defioasis/status/1919753843241582838#m
+- 作者：@defioasis
+
+> 感谢 Beyond 兄 @0xBeyondLee 的邀请码终于玩上了 Ethos。体验了一番，Ethos 核心组件是“大众点评”+预测市场
+>  
+> “大众点评”：用户可以对推特 KOL 或者项目方作点评 Reviews（不需要对方入驻），甚至质押 ETH 给对方作担保 Vouch，以增加对方的信誉分；双方互为质押担保即为（3，3），还可以获得积分 XP 加成。
+>  
+> 如果看到对方信誉分很高但觉得对方实际并不可靠还能发起公投 Slash。最近就有人针对 CZ 在 dingaling 和 boop 问题上的言论对 CZ 发起了可信度公投
+>  
+> 预测市场 Reputation Market：用户可以对 KOL 或者项目方的信任度进行押注，押注 trust 或者 distrust，一开始是 50% 对 50%，从对方的信任度增长或下降中进行高买低卖获利。有点类似于 Polymarket 那种二元期权，但没有到期日
+>  
+> Ethos 平台整体数据：
+> - 累积 1.06 万地址账户入驻了 Ethos 平台，近一日新增 268 个，主要是受限于平台邀请制和邀请码稀缺
+> - 超过 59 万条点评，近一日 3,758 条，人均点评 ~55 条
+> - Ethos 平台资沉 ~706 ETH，包括 Vouch Pool 的 614.45 ETH 和类似于预测市场 Reputation Market 的 91.79 ETH
+> - Ethos 平台费用收入 ~9.71 ETH，来自于作质押 ETH 担保 Vouch 时的抽税，以及 Reputation Market 中的买卖抽税，大概是每笔交易的 1%
+
+## 180. May 5, 2025 · 2:07 AM UTC · 1919212217775665300#m
+- 链接：https://twitter.com/defioasis/status/1919212217775665300#m
+- 作者：@defioasis
+
+> 迷因赌场与低迷基建
+>  
+> 有趣的事实：Pump Fun 的每日费用和收入超过了 Ethereum
+>  
+> 今年以来，Pump Fun 累积费用 2.94 亿美元，而 Ethereum 为 2.49 亿美元
+
+## 181. May 1, 2025 · 8:22 AM UTC · 1917857086370897941#m
+- 链接：https://twitter.com/defioasis/status/1917857086370897941#m
+- 作者：@defioasis
+
+> 以 Meme 交易平台月交易者的 SOL 余额来衡量平台资产
+>  
+> 4 月：
+> Axiom  211,487 SOL  环比增长 113.4% 📈
+> Photon  72,102 SOL  环比增长 9.6%📈
+> BullX  45,607 SOL  环比下降 23.4%📉
+> GMGN  29,526 SOL 环比增长 15.3%📈
+> Vector  2,543 SOL  环比下降 19.2%📉
+> Ave  2,292 SOL  环比增长 123.6%📈
+> （未去重）
+>  
+> 4 月 Axiom + Photon + BullX + GMGN 四家头部平台月度交易者余额达 358,722 SOL，环比增长 43.5%，同时也超过了 2 月（311,209 SOL），正在接近去年 12 月的水平（374,053 SOL）。尽管不能和诞生了 TRUMP 的一月相比，但现在链上的潜在购买力正在恢复
+>  
+> 相信潜在购买力的恢复会在接下来的几个月里逐渐反馈到链上交易量中，也许只差一把点燃稻草的火苗🔥
+
+## 182. Apr 29, 2025 · 6:44 AM UTC · 1917107796417630341#m
+- 链接：https://twitter.com/defioasis/status/1917107796417630341#m
+- 作者：@defioasis
+
+> Clout 搞不下去了，摇身一变成 Twitter 发币 Launchpad：Launch Coin on Believe，今天也跑出了 DUPE SUPERFRIEND 一些表现尚可的标的
+>  
+> 从链上来看，Believe 是通过 Meteora Dynamic Bonding Curve Program 进行代币发射，并把流动性池子部署在Meteora；代币固定总量为 10 亿，创建固定费用为代付0.0151156 SOL
+>  
+> 产品逻辑和 Clanker/Bankr 类似，但输入要更加简洁一些，在 Twitter 输入文本 “@ launchacoin +name” 的形式既可以直接发币；都采用单边流动性做冷启动，初始的 10 亿代币会以单边流动性的方式添加到池子里。不同的是，Clanker/Bankr 是在 Base 上发币，Believe 则是Solana
+>  
+> 之前 Clanker/Bankr 在 Twitter 发币引发关注主要是通过引导 Twitter-Grok 进行代币发射然后删除引导贴的方式引发了一轮热潮
+>  
+> 近 2 天 Believe 大概发了差不多 1k 个币，不知道这次 Clout 和 PASTERNAK 换皮能活多久。年初真是被 PASTERNAK 割惨了，亏了 100 多 SOL😭
+
+## 183. Apr 29, 2025 · 3:11 AM UTC · 1917054174690480367#m
+- 链接：https://twitter.com/defioasis/status/1917054174690480367#m
+- 作者：@defioasis
+
+> 资产发行端寡头显著，资产交易端竞争激烈，但从发行到交易中间还有分发的环节，这个环节也正在被更多人关注并产品化服务化。以前分发环节更多被 VC 掌控，现在已然更加下沉
+>  
+> 资产分发的确可以视为是流量和广告生意。无论是 KOL Agency，还是 yaps 来 yaps 去的 Kaito，流量生意的背后是怎么把项目方的代币通过大 V 这个分发渠道给分配好并且占领舆论高地和用户心智，这种对于产品侧的代币需求很高
+>  
+> 对于纯资产导向的即时性分发，SideKick 这类在线直播语音平台是一个不错的选择。本质是直播带货的逻辑，Meme KOL 化身主播，在线盯盘、冲 Meme，将 Meme CA 包装为“商品”。直播间下方嵌入 Meme CA 作为购买链接，观众可直接下单，边看边买
+>  
+> 跟抖音去切电商的逻辑很像，有一句话说的好，打败你的不一定是同行而是跨界。SideKick 将 Meme 商品化，为 KOL 提供带货舞台，观众因共鸣下单，合力推动 Meme 价格上涨。在这个过程中，完成了资产分发和交易，平台则通过交易抽税实现盈利
+>  
+> 当然，怎么带动观众情绪又看又买的确是个难题。尽管从 SideKick 前端来看观看量似乎有很多，但实际链上统计下来 Livestream Volume 还是很低，现在还是停留在只看不买阶段，一部分原因可能也是聚焦在 Meme 资产直播的顶尖主播还是太少
+
+## 184. Apr 28, 2025 · 2:13 PM UTC · 1916858273988575360#m
+- 链接：https://twitter.com/defioasis/status/1916858273988575360#m
+- 作者：@defioasis
+
+> 由 Letsbonk Fun 推出的 LetsBONK 和 Hosico 表现还不错。基于 LaunchLab 的 Letsbonk Fun 推动下，LaunchLab 单日代币创建数创新高。要挑战 Pump Fun，关键还是得打造财富效应与核心 cabal，后续看发币工厂 dev 能否接力
+>  
+> Meme 交易平台对 LaunchLab 这两头部代币支持度：
+>  
+> - Axiom：交易量稳居第一梯队
+>  
+> - Photon：LetsBONK 和 Hosico 首日交易量均仅次于 Axiom，但后续疲软
+>  
+> - Moonshot：对 LetsBONK 上线支持很快，累计交易量紧追 Axiom；但对 Hosico 支持慢了好几天，精品上币策略下着实不应该
+
+## 185. Apr 26, 2025 · 2:47 AM UTC · 1915960902572249535#m
+- 链接：https://twitter.com/defioasis/status/1915960902572249535#m
+- 作者：@defioasis
+
+> 链上交易平台（On-chain Trading Terminal）激战
+>  
+> 这不仅是一次产品的革新，更是一场关于加密市场权力结构、用户行为路径与价值分配方式的重新洗牌。
+>  
+> 一、链上交易平台进化论：从效率工具到一站式资产发现与交易整合引擎
+>  
+> Pump Fun 的推出极大简化了Solana 网络上新资产的发行流程，大幅加速了 Memecoin 的创建速度，成为链上资产发射的主流方式。用户对尽早发现并快速购买潜力 Memecoin 的需求日益强烈，驱动交易工具围绕交易效率与早期识别能力持续演进。围绕以 Meme 为核心的链上资产交易工具大致经历了三个阶段的变迁：从通用交易的DEX/DEX 聚合器 -> 专注于交易速度的Telegram Bot -> 整合快速交易与多维分析 All-In-One 的链上交易平台【外网更习惯称之为链上交易终端】。
+>  
+> DEX 始终是掌握代币流动性的一方；TG Bot 和链上交易平台依靠服务器代签、交易执行和交易路由的优化显著提升了交易效率。用户在使用 TG Bot 或链上交易平台进行代币交易时，需要支付两层费用，一层是来自于 DEX 的 LP 费用和协议费用，另一层是支付费用给 Telegram Bot 或链上交易平台，通常是 1%。
+>  
+> 链上交易平台是对 TG Bot 的再迭代，扩大了从 degen 到普通用户甚至是新手小白的用户群体，逐渐成为了新资产交易的主流。Telegram Bot 是纯粹速度优先的交易产物，而链上交易平台的优势在于，在交易速度相对更快的基础上，通过涵盖链上数据和社交媒体的多维分析，尽可能地抹平信息差，让普通用户也有能力去发现并识别出早期的 Meme，从而撬动更多的新用户。
+>  
+> 二、从链上数据看清真相：交易平台流量迁移与用户行为趋势拆解
+>  
+> TRUMP MELANIA 引发了前所未有的投机狂热，链上交易平台在那几天交易量和用户创下历史新高，而一些早入场的玩家和社区车头在这场投机盛宴中赚的盆满钵满。高峰过后，随着车头的巨额获利退出，资金开始冷却；打着某国家总统级别旗号的诈骗盘成为了压死骆驼的最后一根稻草，市场流动性近乎枯竭，链上交易平台交易量大幅下滑，日交易量较峰值萎缩近九成，正式步入存量竞争时代。
+>  
+> 以 Trump 发币作为分水岭，在 TRUMP 之前，链上交易平台交易量主要被 Photon、BullX 和 GMGN 三家占据，代表着中西方链上 degen 玩家；打通了法币渠道的 Moonshot 则面向圈外用户购买链上 Memecoin 的第一站入口作为补充。在后 TRUMP 的存量竞争时代，背靠 Y Combinator 孵化、凭借着积分吸血鬼攻击和 YouTube 视频直播推广等策略，Axiom 迅速崛起，每日交易量水平达到市场份额的 50%-60%。
+>  
+> 不过，新资产带来的持续的盈利可能性是最好的多巴胺。相比于较峰值普遍下滑 90% 交易量，大多数链上交易平台的活跃地址数下滑幅度相对可控，用户粘性在存量市场中具有韧性。链上交易平台毫无疑问是无需依赖代币激励能持续性吸引用户的最好 PMF 产品。以 Photon、BullX 和 GMGN 这三家没有任何积分 / 空投驱动的交易平台来说，在存量市场下，整体用户日活地址数仍能维持在 6 万上方；平均单个平台每日活跃地址数在 2 万以上，这在不依靠代币激励的 Crypto 产品中十分罕见。
+>  
+> 当然，积分 / 空投吸血鬼攻击仍然是新入场者挑战老玩家的有力手段。太阳底下无新鲜事，曾经的这一幕也发生在 DEX 和 NFT Marketplace 等赛道上。作为错过了 TRUMP MELANIA 的新入场者，Axiom 是最早推出积分激励的链上交易平台之一，在短短两个月的时间里日活地址数从 0 增长至 3 万，还要高于Photon。不过，受积分驱动的平台的一个显著特点是，在同一时期下，单地址的平均交易金额要显著高于其他无积分激励的平台，这显示可能存在一部分的刷量行为，比如近期 Axiom 的单地址日平均交易金额几乎可以达到 Photon 的两倍。
+>  
+> 除了已展露头角的平台外，新入场者也在虎视眈眈。链上交易平台不直接拥有和提供流动性，护城河相对于 DEX 要更为薄弱，吸引并留住用户和资金的核心，在于持续优化的产品功能和高效的运营策略。
+>  
+> 三、链上交易平台之战怎么打？从功能打磨到运营突围的多维较量
+>  
+> 选取了三家极具代表性的链上交易平台，从功能特性、产品设计哲学以及市场运营策略等维度入手，进行更为细致的比较剖析，揭示最终如何影响了用户的流向与平台的整体交易表现。
+>  
+> Moonshot：低门槛入金优势与差异化市场定位的双刃剑
+>  
+> Moonshot 的核心竞争优势在于其圈外用户友好的入场机制，通过支持信用卡、Apple Pay 等多种法币入金方式，显著降低了新用户进入加密货币市场的门槛。在 TRUMP 官网更是将 Moonshot 列为推荐交易渠道，为其带来了可观的曝光和用户。
+>  
+> 简化的用户体验战略，精准定位了两个市场空白：
+> 1. 针对 Coinbase 等传统交易所因合规、流动性等原因无法及时上架最新链上资产所造成的供给缺口
+> 2. 瞄准众多可以快速上线资产离岸交易所，但因监管限制无法服务的国家和地区
+>  
+> 这种差异化定位和敏感的市场需求嗅觉，Moonshot 一度成功抓住了市场需求与现有服务之间的错位机会。但是来自合作方提供的法币入金渠道并非 Moonshot 坚不可摧的护城河，随着各家竞争对手开始陆续跟进接入，Moonshot 将会面临挑战MoonShot Pro 版本的开发和上线必需要提上日程。
+>  
+> GMGN：数据驱动的链上交易终端，构建Meme 市场的专业护城河
+>  
+> 数据驱动的交易产品路径下所储备的丰富交易指标和地址标签构成了 GMGN 最为坚固的护城河。GMGN 针对链上用户的真实使用需求进行了深度挖掘，不仅提供了丰富的订单可视化功能，还打造了多维度的交易指标体系，极大提升了用户决策效率。平台推出的蓝筹指数、跑路概率、KOL 买卖行为可视化追踪、地址 PnL 实时展示等独创性功能，在链上交易情报这一垂直细分领域形成了鲜明差异化。其地址标签系统对机器人、聪明钱、巨鲸地址等进行精细化标注，结合链上数据和社交媒体的综合分析，强化了产品对打新和快速套利用户的吸引力。
+>  
+> 另一方面，GMGN 开放 API，允许白名单用户和机构抓取平台数据、定制化使用策略模块，并可基于 API 开发自动化交易脚本，进一步降低了专业用户的操作成本，增强了平台的基础设施属性。不过，部分策略依赖于 TG Bot 运行，用户需将私钥托管给平台；为此，GMGN 引入了 2FA 验证和白名单地址限制等安全措施。
+>  
+> 在运营策略上，GMGN 展现了亚洲开发团队与欧美产品导向项目的明显差异，其通过不断推出链上交易竞赛、KOL 联动、项目方合作等活动，持续激活社区活跃度并扩大用户来源。迄今为止，平台已联合BNB Chain、1000X GEM、X Community 等多个生态伙伴，举办多场交易竞赛。同时，与业界知名 KOL 联合编写《GMGN：从 0 到 1000 玩美金 MEME 操作指南》等科普读物，进一步培育市场认知，让新用户可以快速上手并加入链上世界。随着在华语社区取得不俗的份额，GMGN 招募了一些常驻海外的 BD 正在着手构建多语言社区。
+>  
+> Axiom：凭借极致交易体验和社区驱动策略，在 Solana 链上异军突起，占据约 50%-60% 的市场份额
+>  
+> Axiom 在 Solana 链上迅速崛起，得益于其对链上交易者需求的深刻理解和产品体验的持续打磨。核心场景 Pulse 提供了项目图标悬停预览、推特改名历史查询和推文浮窗等功能，帮助用户在单一界面内高效获取信息，减少跳转频次，提升扫链效率；在 Trackers 单屏幕内即可监控跟踪聪明钱地址的最新操作和关注 Twitter KOL 的最新资讯，符合当前市场行情下，链上交易热点高度集中在新闻交易板块的现状。这些功能的本质都是为了减少用户跳出频次，缩短用户的使用路径，方便用户扫链，产品细节的极度精细化，追求链上用户需求的极致体验。
+>  
+> 在交易执行方面，Axiom 采用定制引擎和节点优化技术，实现了「小于一个区块」的交易速度（约 0.4 秒），并支持专业用户使用自定义 RPC 节点。
+>  
+> 在用户激励机制上，Axiom 推出了积分系统和潜在的代币空投预期，用户通过交易、邀请和完成任务等方式积累积分，未来可能获得空投奖励。此外，平台还设有三级推荐奖励制度，直接推荐可获得 30% 的交易手续费分成，间接推荐和延长推荐分别可获得 3% 和 2% 的分成，有效激发用户的推广积极性。
+>  
+> 四、谁主沉浮？链上交易的未来图景
+>  
+> 链上交易平台在竞争压力下的快速迭代与成熟，更能从中清晰地辨识出塑造行业未来的几大关键趋势：
+>  
+> 趋势一：链上新范式——流量入口的演进与「币安化」的探索
+>  
+> 新资产前沿与价值发现中心：DEX 已成为 Meme 币、低市值潜力币等新资产的首发主场，并在相当长时期内是其主要流动性来源。然而，此类资产变化快、数量多，单纯依赖 DEX 前端或 TG Bot 进行交易存在诸多不便。在此背景下，链上交易平台凭借更优的交易体验和强大的数据分析能力迅速崛起，有效满足了用户捕捉早期机会的需求，并实质性地帮助众多优质资产完成了初期的价格发现。事实上，头部链上交易平台已在某种程度上取代了 CEX 部分早期上币和流动性引导的功能，成为散户及专业交易者在早中期参与链上资产博弈的首选阵地。
+>  
+> 「链上造富」心智强化与用户迁移： 加密行业的核心魅力之一在于其无许可环境下的高倍财富效应。传统上，CEX 是资产上线和价格发现的第一站，用户在此参与早期博弈。然而，随着本轮周期中大量资产（尤其是 Meme 类注意力资产）直接在链上首发，部分先行者通过链上交易平台参与极早期项目并获得惊人回报，这让更广泛的用户群体真切感受到链上蕴藏的高倍掘金潜力。加之链上交易平台常与 KOL 深度绑定，通过社交媒体广泛传播带有平台标识的盈利截图，「链上暴富」的叙事不断强化，将财富效应与这些平台深度关联。其结果是，即便是 CEX 领导者如币安，其新上线现货资产所能带来的财富效应也开始面临显著挑战。
+>  
+> CEX 的转型压力与链上工具的「解构」挑战：尽管 CEX 凭借强大的法币通道、集成功能、流动性优势以及在机构合规方面的地位，目前仍在整体交易中占据主导，但像 Moonshot（简化入金）、GMGN（专业数据）、Axiom（Wallet+Twitter Tracker）等新兴链上工具，正逐步蚕食 CEX 的功能领地。链上交易平台从单一工具向集成安全、数据、跟单等功能的综合性交易终端演进，直接冲击了 CEX 的一站式服务模式。即便 CEX 仍保有用户粘性和流动性壁垒，也迫使其必须加速战略调整与产品创新，以应对用户需求向链上分流的严峻局面。
+>  
+> 趋势二：双向奔赴——CEX 与链上场景的边界模糊与融合探索
+>  
+> OKX 的早期探索与路径分野：OKX 早在 2022 年便推出了集合 NFT 市场与多链非托管钱包功能的 MetaX（后更名 OKX Web3 钱包），是首批尝试将钱包与 CEX 深度融合的交易所之一。尽管 NFT 市场表现平平，其钱包业务凭借先发和技术积累，在 2023 年的铭文热潮中抓住机遇，一跃成为市场焦点。OKX 此前构建 Web3 超级 App 的战略意图清晰，旨在通过单一应用打通链上与所内生态。然而，后续行业事件及监管合规压力迫使其将交易所 App 与 Web3 钱包进行拆分。在当前的合规环境下，无 KYC/ 非托管钱包与强 KYC/ 强监管的 CEX 业务之间存在的内在矛盾，两者深度融合面临现实挑战。
+>  
+> Binance/Bitget 的“交易所链上大融合”与模式创新：Binance Web3 钱包推出 Alpha 功能并快速迭代，允许用户直接使用交易所账户交易特定链上代币，无需外部钱包。与 OKX 强调非托管、严格场景划分不同，Binance 采取了更大胆、相对中心化的融合方式，通过「KYC 钱包 + 交易所账户直通链上」的产品组合，率先打破了 CEX 与链上资产交互的传统壁垒。Bitget 亦推出 Bitget Onchain，实现类似功能，同时保留了 Bitget Wallet 这一完全自托管的去中心化选项，以满足不同用户的偏好。CEX 与链上交易场景正进行双向渗透与借鉴，未来两者在产品层面的界限有望进一步模糊。
+>  
+> 趋势三：体验为王——用户体验的持续革命与智能化浪潮
+>  
+> 底层技术驱动易用性飞跃：高性能公链、账户抽象、链抽象及意图驱动等概念的提出与发展，核心目标在于持续简化用户操作、屏蔽底层技术的复杂性，降低 Web2 用户进入 Web3 的门槛。随着移动端 App 在链上交易平台的普及和对低门槛体验的不断追求，不难预见，在未来的加密热潮中，这些工具将赋能更广泛的用户群体无缝接入链上资产与多元化玩法。
+>  
+> 交易智能化与社交化深度融合：本轮行情已清晰展现出市场对社交化交易、基于新闻 / 链上数据的综合决策辅助工具的强烈需求，链上交易平台在此方面已展现出领先优势。除了常规的 KOL 跟单，「聪明钱」追踪、基于链下社区信号 / 关键事件的自动化交易策略等功能日益成熟。未来，结合 AI 驱动的情绪分析、模式识别等高级工具将是必然趋势，有望进一步降低专业交易的门槛。
+>  
+> AI 赋能的广阔前景：当前 AI 已在策略推荐与生成、自然语言交互式操作等方面展现出巨大潜力。假以时日，AI 或将使用户无需编程基础即可实现高度个性化且专业级别的交易自动化，彻底革新链上交易体验。
+>  
+> 链上交易平台作为衔接新资产发现与用户交易行为的重要桥梁，正在以极快的速度完成从「工具」到「入口」的身份跃迁。它们不仅在产品功能、用户体验、运营策略上不断突破，也在加密交易的结构性转变中扮演着越来越关键的角色。从 CEX 让渡部分早期流动性主导权，到链上交易平台积极吸纳资产发现、社交化交易和用户心智，这一轮竞争的底层逻辑早已不只是速度和效率的比拼，而是对「下一代交易基础设施」的探索。
+>  
+> cc: @MiaX2100 @KuRooDoX @KuCoinVentures @KCLabsOfficial
+>  
+> 欢迎阅读全文：foresightnews.pro/article/de…
+> Meme 交易平台数据面板：dune.com/kucoinventures/meme…
+
+## 186. Apr 23, 2025 · 5:07 AM UTC · 1914908919249658165#m
+- 链接：https://twitter.com/defioasis/status/1914908919249658165#m
+- 作者：@defioasis
+
+> 今天一看，链上 Meme、AI Agents 普遍大幅反弹
+>  
+> 除了 BTC 大环境在变好外，正如前几天所说的，来自于 GMGN + Photon + BullX + Axiom 的这群链上 degen 玩家的潜在购买力并不比 TRUMP 发币之前差，大家只是在等待一个时机
+>  
+> 还有什么 Meme 值得淘的🧐
+
+## 187. Apr 21, 2025 · 6:01 AM UTC · 1914197832254533722#m
+- 链接：https://twitter.com/defioasis/status/1914197832254533722#m
+- 作者：@defioasis
+
+> 一个可能与直觉相反的结论：对比 TRUMP 发币之前，当前 Solana 上 Meme Traders 的潜在购买力并没有想象中下降那么多
+>  
+> CEX 害怕链上平台，不仅在于 CEX 内没有财富效应，还在于资沉不断从 CEX 流出转向链上。由于大多数链上平台是非托管结构，于是采取每日 Traders 钱包的 SOL 余额去动态探寻主流 Meme 交易平台的资金和潜在购买力情况
+>  
+> 以 GMGN、Photon、BullX 和 Axiom 四个主要交易量的平台来看，在 TRUMP 之前，1 月 1 日至 17 日，GMGN+Photon+BullX 的每日 Traders 的 SOL 总余额平均每天为 1.68 万枚 SOL；
+>  
+> 自 4 月 1 日至 20 日，GMGN+Photon+BullX+Axiom 的每日 Traders 的 SOL 总余额平均每天为 1.24 万枚 SOL。相比于交易量的下滑，潜在购买力的下滑程度要小不少
+>  
+> 不得不说，Axiom 吸金的确强，现在主要潜在购买力集中在 Axiom，甚至接近 2 倍于其他三家之和
+>  
+> 就以 4 月 20 日来看，四家当日 Traders 钱包的 SOL 合计余额为 10,113 SOL
+>  
+> - Axiom 6,688 SOL
+> - Photon 1,596 SOL
+> - BullX 1,018 SOL
+> - GMGN 811 SOL
+>  
+> 这个指标延伸下去对早期链上 Meme 的挖掘可能也有一定意义，探寻 Meme 的 Holders 或 Traders 钱包 SOL 余额，已识别潜在购买力或者所谓的庄
+
+## 188. Apr 19, 2025 · 2:15 AM UTC · 1913416126853423437#m
+- 链接：https://twitter.com/defioasis/status/1913416126853423437#m
+- 作者：@defioasis
+
+> 近期主流 Meme 交易平台合计日交易量久违地达到了 2.5 亿美元上方，为 2 月末以来高点
+>  
+> Axiom 在昨日结束了持续五天接连新高的日交易量，但市场份额占比创下了逼近 60% 的新高
+>  
+> 从交易体验来说，Axiom 足够快，不仅 Market 单成交快，Limit 单成交也能做的这么快就很恐怖。群友笑称，快到连撤回的时间都没有
+>  
+> 目前 Axiom 还差一套类似于 GMGN 的地址库解析，但估计也在做了。昨天还想找 Axiom API 接外挂地址解析库，不过没找到。现在其他家底层速度干不过 Axiom，后面 Axiom 如果还把地址库解析做起来，那可能就强者恒强了。对用户来说也是好事，倒逼其他家需要不断做新的东西出来，甚至是发币
+
+## 189. Apr 18, 2025 · 12:23 PM UTC · 1913206843691946466#m
+- 链接：https://twitter.com/defioasis/status/1913206843691946466#m
+- 作者：@defioasis
+
+> Wayfinder 在短短几月获得了不错的市场关注度，截至目前官方数据表示注册账户已超过 100 万。Wayfinder 代币 PROMPT 近期在多家 CEX 上架后，FDV 一度冲高至 6 亿美元，现处于回落状态。正好也借此机会重新审视一下 Wayfinder。
+>  
+> 作为典型的 DeFAI（DeFi+AI）项目，Wayfinder 的核心组件包括：
+> （1）上下文导航，通过 Wayfinder Paths 构建生态系统图，帮助 AI Agent 在不同区块链网络的智能合约之间进行导航；
+> （2）名为 SHELL 的 AI Agents 实现自主交易和资产管理；
+> （3）众包知识，Wayfinder 激励社区成员创建和验证路径，AI Agent 通过与环境的交互不断学习和优化
+>  
+> 因此，整套路径是，当用户使用 PROMPT 来创建一个新的 SHELL 的 AI Agent，通过输入相关信息，训练它执行任务；SHELL 会在通用的生态系统图和社区提供支持的路径中进行导航和实现交易任务。SHELL 会从自身的经验和 Wayfinder 整个生态系统中汲取众包知识进行学习，并不断改进，从而以更精简更高效的方式完成与智能合约的交互任务。
+>  
+> Wayfinder 致力于成为一个开放的 AI Agents 协议，服务于链上经济的各种用例；其实现方式也正在验证 VC 所押注 DeFAI 的核心逻辑，即通过 AI Agents 降低链上复杂度从而撬动下一波链上用户增长和价值涌现。
+>  
+> 对比于大多数竞品尚处于 PPT 概念阶段来说，已经拥有百万注册用户和实质性产品的 Wayfinder 具备一定的先发优势。Wayfinder 在封闭测试阶段实现一定的应用闭环，形成“用户越多 -> AI Agents 越智能 -> 用户体验更佳”的正向反馈。
+>  
+> PROMPT 作为 Wayfinder 的原生代币，用户可以用 PROMPT 创建 SHELL 和扩展 SHELL，也可以成为社区开发者通过提交创建新的有效路径来赚取 PROMPT。此外，作为 Wayfinder 设计的一个重要激励机制，Cache Prime 将获得 PROMPT 代币总量的 45% 分配，每周进行一次奖励发放。用户可以将 Wayfinder 背后构建者 Parallel 的代币 PRIME 在 Wayfinder 中进行锁定，既可以从开始就长时间锁定代币来最大化奖励（最长 3 年），也可以通过更灵活的滚动延长续期的方式增加乘数，从而获得贡献分数，提升治理能力和奖励。
+>  
+> Wayfinder “AI 简化 DeFi” 正在得到市场和社区的初步验证，但最终能否兑现，还要看 Wayfinder 未来在产品功能和用户教育上的落地表现。
+
+## 190. Apr 17, 2025 · 12:31 PM UTC · 1912846297054470197#m
+- 链接：https://twitter.com/defioasis/status/1912846297054470197#m
+- 作者：@defioasis
+
+> 最近 Solana 链上行情还挺不错，什么时间段更容易抓到金狗呢？
+>  
+> 从几大 Meme 交易平台的交易量尖峰来看
+>  
+> GMGN 集中在当日的 22:00-0:00 UTC+8
+>  
+> Axiom 和 Photon 集中在次日的 2:00-5:00 UTC+8
+>  
+> 合计一看，每日最适合枯坐的时间是 22:00 - 次日的 5:00 UTC+8
+>  
+> 时间不对，效果减半，今天开始调整作息🤣
+
+## 191. Apr 15, 2025 · 5:15 AM UTC · 1912011916433870898#m
+- 链接：https://twitter.com/defioasis/status/1912011916433870898#m
+- 作者：@defioasis
+
+> Axiom 昨日交易量和交易用户双双新高
+>  
+> - 历史首次单日交易量超过 1 亿美元
+> - 交易量市场份额越过了 50%，占比也创下了新高
+> - 单日 2.68 万交易用户，力压 Photon 和 BullX 稳居第一
+>  
+> 昨天跟 @0xlenn 交流了下，除了 YC 孵化、积分吸血鬼攻击和 KOL 返佣外，Axiom 崛起的还有两个重要原因，一是在功能上聚合了 Live Twitter Tracker；二是在 Youtube 和海外直播 Live 上被推广的很猛，经常能看到“Axiom - The best memecoin trading platform”之类的描述。最近这几天在 SideKick 上看老外直播也多数在用 Axiom 冲狗
+>  
+> 不过，算下来，昨日平均每用户贡献了 ~$3.77k，显著高于其他 Meme 交易平台，可能存在一部分刷量行为，看看未来积分/空投是否会对这些刷量做出权衡或剔除
+>  
+> 数据追踪：dune.com/kucoinventures/meme…
+
+## 192. Apr 14, 2025 · 5:07 AM UTC · 1911647464509321362#m
+- 链接：https://twitter.com/defioasis/status/1911647464509321362#m
+- 作者：@defioasis
+
+> 对于一个 Meme 交易平台来说，相比于出现一个存续时间长、市值高的神盘，倒还不如有无数的新盘让用户交易
+>  
+> 以久违突破 1 亿美元市值的 $RFC 为例，除了 Moonshot 以外，几乎没有其他的 Meme 交易平台在 RFC 上的日交易量能超过代币诞生首日的。在代币相对成熟和稳定后，用户往往会直接选择在 DEX 或 DEX 聚合器交易，以避免 1% 的抽税
+>  
+> 圈外人进场此言不虚。随着 RFC 市值增长、存续期变长，最重要的是得到了马斯克的喊单，Moonshot 逐渐在 Meme 交易平台中占据了 RFC 的主要交易量。让圈外人用信用卡法币购买 Memecoin 的叙事的确是有很大需求场景的，关键是有出圈的叙事，依赖于 Trump 和马斯克的注意力
+>  
+> 有趣的是，GMGN Ave 这两东方平台占据了除 Moonshot 以外的 RFC 日交易量主要份额。如果 Moonshot 代表圈外玩家，那论链上 Native 玩家，还得看东方看华流
+
+## 193. Apr 12, 2025 · 8:21 AM UTC · 1910971598066344419#m
+- 链接：https://twitter.com/defioasis/status/1910971598066344419#m
+- 作者：@defioasis
+
+> 从小时分布也能看出，Axiom 交易量主要集中在 UTC+8 时区的午夜时分，2:00-4:00 UTC+8 最为活跃，由西方 Meme 玩家主导，所以 Axiom 对 Photon 和 BullX 的冲击更大；而在东方国度的中午时分交易量确是最不活跃的
+
+## 194. Apr 12, 2025 · 6:32 AM UTC · 1910944097621483588#m
+- 链接：https://twitter.com/defioasis/status/1910944097621483588#m
+- 作者：@defioasis
+
+> Meme Trading Platform War on Solana: dune.com/kucoinventures/meme…
+
+## 195. Apr 12, 2025 · 3:54 AM UTC · 1910904390158000523#m
+- 链接：https://twitter.com/defioasis/status/1910904390158000523#m
+- 作者：@defioasis
+
+> Solana 后 TRUMP 时代下的 Meme 交易平台存量竞争格局：Axiom 异军突起从 Photon 和 BullX 手中瓜分市场额，GMGN 相对稳定
+>  
+> 1 月 20 日伴随着 TRUMP MELANIA 热，Meme 交易平台达到 17.2 亿美元交易量峰值，毫无疑问这是这轮 Meme 最后的狂潮。此后流动性被迅速抽干，交易量大幅萎靡，截至 4 月 11 日 Meme 交易平台日交易量仅为约 1.54 亿美元，已然进入存量竞争时代。
+>  
+> 作为错过 TRUMP MELANIA 的新入场者，Axiom 自 3 月以来迅速崛起，几乎占据了存量市场下交易量份额的半壁江山。从交易量份额变化来看，Axiom 对两个海外平台冲击是最大的，基本是从 Photon 和 BullX 手中抢掉了市场份额，Photon 和 BullX 均从 3 月初的高于 30% 分别下滑至 24% 和 18%；GMGN 市场份额相对稳定，这与 GMGN 几乎将华语区所有头部的 Meme KOL 和社区达成合作收归旗下有关。华语区一定程度上陷入了信息茧房，似乎对存量市场下格局变化还停留在更早的时候，不过最近讨论声音逐渐变多是好事。
+>  
+> 作为新晋平台，Axiom 与 UniversalX 类似，都采取了当年 NFT 时代对 OpenSea 的那套吸血鬼攻击，试图用积分/潜在空投策略以抢夺市场份额；且与老玩家那种草莽气质不同，二者的背景其实都不错，Axiom 招牌是著名孵化器 YC，用户也更有动力和胆量分享邀请返佣链接去推。目前来看，Axiom 还算是比较成功，但是 Axiom 单用户平均交易金额是要显著高于 BullX 和 Photon 的，是否存在一定程度上的虚假繁荣，以及积分结束后的表现有几何更为重要。单独以单个网络讨论链无关平台 UniversalX 不是特别公平，但不可否认代币发布后整个平台交易量萎缩的很厉害，代币表现一般，面临重心是产品还是代币的抉择。
+>  
+> Moonshot 似乎沦为了 Meme Listing 上线延长生命周期和 CEX 观察站的象征意义，本身交易量是 TRUMP 之后下降最快的。主打的圈外用户用信用卡/法币一键触达精品 Meme，在存量格局下这路子颇为艰难，暴露出在没有出圈大叙事下圈内圈外的脱节
+
+## 196. Apr 11, 2025 · 7:55 AM UTC · 1910602702088003630#m
+- 链接：https://twitter.com/defioasis/status/1910602702088003630#m
+- 作者：@defioasis
+
+> 虽然空投不尽如人意，但是作为 BTC Staking 独苗，Babylon 承载着把 BTC 引入 DeFi Yield 的希望。Babylon Genesis 来都来了，看一看，三个核心是基于 Cosmos 的 L1 + 将原生 BTC 质押用于 PoS 网络守护安全性并共享收益的 BSN 管理器 +DeFi 生态联盟，比如 BTC LST 之类的
+>  
+> 自从 Babylon 空投和解质押以来，Babylon 的 BTC 质押量从超过 5.7 万枚 BTC 下滑至 4.9 万枚 BTC，对比其他由纯积分质押驱动的项目表现还蛮坚挺，大部分 BTC 还是坚守在 Babylon 生态中，等这波空投撸毛出清后会是新阶段的开始
+>  
+> 发展路径也很清晰，BTC Staking 向内的拓展就是尽可能把更多的原生 BTC 笼络到 Babylon Staking 中来，扩大质押率；向外拓展可能是像 MSTR 这类的机构级别的参与，甚至是 BTC ETF 质押，这给 BTC 收益率这个叙事带来的影响力不亚于上市公司机构第一次购买 BTC
+
+## 197. Apr 10, 2025 · 12:46 PM UTC · 1910313417908609218#m
+- 链接：https://twitter.com/defioasis/status/1910313417908609218#m
+- 作者：@defioasis
+
+> 感谢 Wayfinder $PROMPT 猪脚饭
+
+## 198. Apr 10, 2025 · 6:25 AM UTC · 1910217585628779000#m
+- 链接：https://twitter.com/defioasis/status/1910217585628779000#m
+- 作者：@defioasis
+
+> BTC 在乱纪元中寻找出路
+>  
+> Trump 在关税问题的反复横跳，是中美大国博弈下在经济和地缘政治下的主权宣示。对大部分国家 90 天的缓冲期让中美紧张局势更加凸显和聚焦。美债的避险属性减弱；BTC 现仍被视为风险资产去定价，短期内仍受地缘政治和经济不确定性的影响。
+>  
+> 政策时间线
+> 4 月 2 日，Trump 宣布从 4 月 5 日起对所有国家征收 10% 的关税，并从 4 月 9日起对 57 个贸易逆差最大的国家实施 11% 至 50% 的更高关税。具体对中国，关税从之前的 20% 追加 34%，总计 54%，并于 4 月 9 日生效。
+>  
+> Trump 高呼 4 月 2 日是“解放日”，是“美国历史的宣言性经济独立日”。关税是为了保护主权并不难理解，美国在 2024 年有高达 1.2 万亿美元的货物贸易逆差，需要恢复制造业竞争力。
+>  
+> 4 月 9 日，Trump 宣布对 75 个未报复且沟通关税问题的国家实施 90 天暂停，关税降至 10%，但对中国关税进一步提高至 125%，立即生效。
+>  
+> 美债避险属性减弱
+> 自 Trump 宣布关税以来，美债价格大幅下跌，收益率上升，这与传统的避险资产行为背道而驰。投资者转向其他避险资产，比如黄金和德债。美债的卖出潮质疑加背刺了美国作为全球避险港湾的地位，市场对 Trump 政策的不确定性，以及对美国债务水平和政治风险的担忧。这才有后来的 90 天关税暂停措施，但反而凸显了中美之间的紧张局势。
+>  
+> 中美竞争
+> 关税政策的核心焦点是中美经济竞争。2018 年中美贸易战争持续升级，Trump 的政策其实也是延续了这个趋势。当下，Trump 对 75 个国家的 90 天关税暂停措施，显然是受到美债市场波动的影响，但暂停不包括中国且反增则明显是地缘政治的考量。美国施压，中国不虚，便是美国对中国关税提高至 125%，中国对原产美国的所有进口商品在现行关税基础上加征 84%。
+>  
+> Crypto 的风险资产定价在这次关税冲突上还是非常明显的。过去一周，BTC 从 8.8 万一度下跌至 7.5 万以下，本日又因 Trump 暂停大部分国家关税战 90 天而反弹至 8.2 万。美债美元避险属性减弱，乱纪元已来，又是一次 BTC 从风险资产转型的契机。这次会不会不一样？
+
+## 199. Apr 9, 2025 · 3:00 AM UTC · 1909803588345549289#m
+- 链接：https://twitter.com/defioasis/status/1909803588345549289#m
+- 作者：@defioasis
+
+> Congrats
+
+## 200. Apr 6, 2025 · 2:36 PM UTC · 1908891595048669310#m
+- 链接：https://twitter.com/defioasis/status/1908891595048669310#m
+- 作者：@defioasis
+
+> 现在 GMGN + BullX + Photon + Moonshot + Vector 五个主流的 Meme 交易平台在 Solana 上合计的单日交易量已经只剩 3,000 万美元左右
+>  
+> 曾几何时 Photon 在 Solana 上单日交易量过亿，GMGN 单日过几千万都不是啥问题..
+>  
+> Trump 那两天的合计单日交易量可是达到 15 亿以上，现在整体下滑了超过 98%..

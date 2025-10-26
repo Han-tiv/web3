@@ -1,0 +1,30 @@
+{
+  "task_id": "twitter_following_archive",
+  "timestamp": "2025-10-20T14:15:09Z",
+  "requester": "user",
+  "executor": "Codex",
+  "summary": "Analyse the existing Nitter-related subprojects and implement a feature that stores tweets for each followed account listed in twitter-Following-1760964620895.json into per-account folders as JSON and Markdown, enabling downstream LLM analysis.",
+  "objectives": [
+    "Map out the current Nitter service architecture, dependencies, and available utilities that can be reused.",
+    "Design and implement an automated ingestion pipeline that ingests tweets for each followed account listed in twitter-Following-1760964620895.json.",
+    "Persist collected tweets to per-account directories, storing both raw JSON and rendered Markdown to support later knowledge processing."
+  ],
+  "inputs": [
+    "twitter-Following-1760964620895.json"
+  ],
+  "expected_outputs": [
+    "Updated code and scripts that read the following list, fetch tweets via reusable Nitter components, and emit structured archives.",
+    "Documentation describing usage, assumptions, and how archived data is organised."
+  ],
+  "constraints": [
+    "Prefer reuse of existing Nitter service components and shared tooling; avoid introducing bespoke frameworks.",
+    "Remove or avoid adding any security-specific logic per AGENTS.md requirements.",
+    "All new code comments and docs must be in Chinese.",
+    "Testing and validation must be performed locally without CI integration."
+  ],
+  "open_questions": [
+    "What is the optimal entry point for a batch archival job within the current monorepo structure?",
+    "Which existing abstractions (e.g., service classes, filters) can be reused without refactoring?",
+    "How should rate limiting and retries be handled to balance completeness and runtime?"
+  ]
+}

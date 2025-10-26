@@ -1,0 +1,3011 @@
+{
+  "startedAt": "2025-10-20T23:04:55.191Z",
+  "options": {
+    "tweetLimit": 200,
+    "delayMs": 4000,
+    "pageDelayMs": 1200,
+    "retries": 2,
+    "maxPages": 120,
+    "handlesPlanned": 552
+  },
+  "results": [
+    {
+      "handle": "mirrorzk",
+      "tweetsFetched": 0,
+      "pagesFetched": 0,
+      "durationMs": 0,
+      "attempts": 0,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/mirrorzk",
+      "skipped": true
+    },
+    {
+      "handle": "cryptocishanjia",
+      "tweetsFetched": 0,
+      "pagesFetched": 0,
+      "durationMs": 0,
+      "attempts": 0,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cryptocishanjia",
+      "skipped": true
+    },
+    {
+      "handle": "Ice_Frog666666",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27269,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/ice_frog666666",
+      "skipped": false
+    },
+    {
+      "handle": "kolscan",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26798,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/kolscan",
+      "skipped": false
+    },
+    {
+      "handle": "0xVeraLing",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28965,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xveraling",
+      "skipped": false
+    },
+    {
+      "handle": "Dune",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 29621,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/dune",
+      "skipped": false
+    },
+    {
+      "handle": "shoucccc",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27161,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/shoucccc",
+      "skipped": false
+    },
+    {
+      "handle": "Cented7",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 24523,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cented7",
+      "skipped": false
+    },
+    {
+      "handle": "timotimo007",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26646,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/timotimo007",
+      "skipped": false
+    },
+    {
+      "handle": "CryptoPainter_X",
+      "tweetsFetched": 200,
+      "pagesFetched": 10,
+      "durationMs": 26628,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cryptopainter_x",
+      "skipped": false
+    },
+    {
+      "handle": "Kalshi",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26655,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/kalshi",
+      "skipped": false
+    },
+    {
+      "handle": "QuantVela",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27102,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/quantvela",
+      "skipped": false
+    },
+    {
+      "handle": "KeyNewsCN",
+      "tweetsFetched": 200,
+      "pagesFetched": 10,
+      "durationMs": 23064,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/keynewscn",
+      "skipped": false
+    },
+    {
+      "handle": "SBF_FTX",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25099,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/sbf_ftx",
+      "skipped": false
+    },
+    {
+      "handle": "0xerosone",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25942,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xerosone",
+      "skipped": false
+    },
+    {
+      "handle": "0xLuckytree",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28668,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xluckytree",
+      "skipped": false
+    },
+    {
+      "handle": "404flipped",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25854,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/404flipped",
+      "skipped": false
+    },
+    {
+      "handle": "wangeguo",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27555,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/wangeguo",
+      "skipped": false
+    },
+    {
+      "handle": "wquguru",
+      "tweetsFetched": 200,
+      "pagesFetched": 13,
+      "durationMs": 30790,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/wquguru",
+      "skipped": false
+    },
+    {
+      "handle": "LeePima",
+      "tweetsFetched": 200,
+      "pagesFetched": 10,
+      "durationMs": 24423,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/leepima",
+      "skipped": false
+    },
+    {
+      "handle": "tmel0211",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28133,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/tmel0211",
+      "skipped": false
+    },
+    {
+      "handle": "1inch",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 20792,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/1inch",
+      "skipped": false
+    },
+    {
+      "handle": "0xSunNFT",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27569,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xsunnft",
+      "skipped": false
+    },
+    {
+      "handle": "hoidya_",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 29439,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/hoidya_",
+      "skipped": false
+    },
+    {
+      "handle": "changyou17",
+      "tweetsFetched": 27,
+      "pagesFetched": 3,
+      "durationMs": 6038,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/changyou17",
+      "skipped": false
+    },
+    {
+      "handle": "Cupseyy",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25627,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cupseyy",
+      "skipped": false
+    },
+    {
+      "handle": "_43A6",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27623,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/_43a6",
+      "skipped": false
+    },
+    {
+      "handle": "InkyWang",
+      "tweetsFetched": 74,
+      "pagesFetched": 5,
+      "durationMs": 11005,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/inkywang",
+      "skipped": false
+    },
+    {
+      "handle": "0xNing0x",
+      "tweetsFetched": 200,
+      "pagesFetched": 15,
+      "durationMs": 36643,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xning0x",
+      "skipped": false
+    },
+    {
+      "handle": "0xAzu666",
+      "tweetsFetched": 96,
+      "pagesFetched": 7,
+      "durationMs": 15573,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xazu666",
+      "skipped": false
+    },
+    {
+      "handle": "CookerFlips",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26654,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cookerflips",
+      "skipped": false
+    },
+    {
+      "handle": "sukie234",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27101,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/sukie234",
+      "skipped": false
+    },
+    {
+      "handle": "0xcryptowizard",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25203,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xcryptowizard",
+      "skipped": false
+    },
+    {
+      "handle": "mayangdarana",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26671,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/mayangdarana",
+      "skipped": false
+    },
+    {
+      "handle": "Luyaoyuan1",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28872,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/luyaoyuan1",
+      "skipped": false
+    },
+    {
+      "handle": "auora1808",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25585,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/auora1808",
+      "skipped": false
+    },
+    {
+      "handle": "Leoninweb3",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27877,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/leoninweb3",
+      "skipped": false
+    },
+    {
+      "handle": "OKxiaohai",
+      "tweetsFetched": 200,
+      "pagesFetched": 10,
+      "durationMs": 24144,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/okxiaohai",
+      "skipped": false
+    },
+    {
+      "handle": "hexiecs",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25020,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/hexiecs",
+      "skipped": false
+    },
+    {
+      "handle": "lsp8940",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28267,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/lsp8940",
+      "skipped": false
+    },
+    {
+      "handle": "NJXD001",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25381,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/njxd001",
+      "skipped": false
+    },
+    {
+      "handle": "0xphiloA",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25823,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xphiloa",
+      "skipped": false
+    },
+    {
+      "handle": "Insider_Venture",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27051,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/insider_venture",
+      "skipped": false
+    },
+    {
+      "handle": "Polymarket",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28443,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/polymarket",
+      "skipped": false
+    },
+    {
+      "handle": "0xAikoDai",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27662,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xaikodai",
+      "skipped": false
+    },
+    {
+      "handle": "Chris_Defi",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27522,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/chris_defi",
+      "skipped": false
+    },
+    {
+      "handle": "JeffLia12309881",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25053,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/jefflia12309881",
+      "skipped": false
+    },
+    {
+      "handle": "DrProfitCrypto",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 27788,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/drprofitcrypto",
+      "skipped": false
+    },
+    {
+      "handle": "web3musnow",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26126,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/web3musnow",
+      "skipped": false
+    },
+    {
+      "handle": "DekuKing1",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 24592,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/dekuking1",
+      "skipped": false
+    },
+    {
+      "handle": "Tsunami60943979",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 27991,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/tsunami60943979",
+      "skipped": false
+    },
+    {
+      "handle": "roger73005305",
+      "tweetsFetched": 200,
+      "pagesFetched": 10,
+      "durationMs": 24912,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/roger73005305",
+      "skipped": false
+    },
+    {
+      "handle": "nine_DeFi",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26540,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/nine_defi",
+      "skipped": false
+    },
+    {
+      "handle": "sleepy0x13",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27061,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/sleepy0x13",
+      "skipped": false
+    },
+    {
+      "handle": "48ClubIan",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26498,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/48clubian",
+      "skipped": false
+    },
+    {
+      "handle": "tittyrespecter",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 29028,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/tittyrespecter",
+      "skipped": false
+    },
+    {
+      "handle": "MayYouBeRich",
+      "tweetsFetched": 137,
+      "pagesFetched": 9,
+      "durationMs": 21234,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/mayyouberich",
+      "skipped": false
+    },
+    {
+      "handle": "darkforesttri",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27900,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/darkforesttri",
+      "skipped": false
+    },
+    {
+      "handle": "0xCryptoWing",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26626,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xcryptowing",
+      "skipped": false
+    },
+    {
+      "handle": "AutismCapital",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26109,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/autismcapital",
+      "skipped": false
+    },
+    {
+      "handle": "thecryptoskanda",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27788,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/thecryptoskanda",
+      "skipped": false
+    },
+    {
+      "handle": "DeFiTeddy2020",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27381,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/defiteddy2020",
+      "skipped": false
+    },
+    {
+      "handle": "xuxubaobao0819",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27313,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/xuxubaobao0819",
+      "skipped": false
+    },
+    {
+      "handle": "0xjacobzhao",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26653,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xjacobzhao",
+      "skipped": false
+    },
+    {
+      "handle": "0xmagnolia",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 29879,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xmagnolia",
+      "skipped": false
+    },
+    {
+      "handle": "traderpow",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26930,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/traderpow",
+      "skipped": false
+    },
+    {
+      "handle": "bluefinapp",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26725,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/bluefinapp",
+      "skipped": false
+    },
+    {
+      "handle": "0xKevin00",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27574,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xkevin00",
+      "skipped": false
+    },
+    {
+      "handle": "0xBeyondLee",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28169,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xbeyondlee",
+      "skipped": false
+    },
+    {
+      "handle": "zhamomo666",
+      "tweetsFetched": 137,
+      "pagesFetched": 8,
+      "durationMs": 18239,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/zhamomo666",
+      "skipped": false
+    },
+    {
+      "handle": "brc20niubi",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25139,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/brc20niubi",
+      "skipped": false
+    },
+    {
+      "handle": "sky_gpt",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25727,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/sky_gpt",
+      "skipped": false
+    },
+    {
+      "handle": "jibobao1",
+      "tweetsFetched": 50,
+      "pagesFetched": 4,
+      "durationMs": 7971,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/jibobao1",
+      "skipped": false
+    },
+    {
+      "handle": "facai988",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26209,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/facai988",
+      "skipped": false
+    },
+    {
+      "handle": "BlockSecTeam",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27653,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/blocksecteam",
+      "skipped": false
+    },
+    {
+      "handle": "leechan1688",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25663,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/leechan1688",
+      "skipped": false
+    },
+    {
+      "handle": "xixi_kawayi",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 24458,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/xixi_kawayi",
+      "skipped": false
+    },
+    {
+      "handle": "Samvioo",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25782,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/samvioo",
+      "skipped": false
+    },
+    {
+      "handle": "GCsheng",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27323,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/gcsheng",
+      "skipped": false
+    },
+    {
+      "handle": "minglaugodel",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27314,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/minglaugodel",
+      "skipped": false
+    },
+    {
+      "handle": "bigbottle44",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25552,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/bigbottle44",
+      "skipped": false
+    },
+    {
+      "handle": "lin_btc",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25831,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/lin_btc",
+      "skipped": false
+    },
+    {
+      "handle": "Ed_x0101",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25857,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/ed_x0101",
+      "skipped": false
+    },
+    {
+      "handle": "tD_0101",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25034,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/td_0101",
+      "skipped": false
+    },
+    {
+      "handle": "BroLeonAus",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26231,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/broleonaus",
+      "skipped": false
+    },
+    {
+      "handle": "defioasis",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26431,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/defioasis",
+      "skipped": false
+    },
+    {
+      "handle": "elaineyang73",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27200,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/elaineyang73",
+      "skipped": false
+    },
+    {
+      "handle": "wenxue600",
+      "tweetsFetched": 200,
+      "pagesFetched": 10,
+      "durationMs": 26110,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/wenxue600",
+      "skipped": false
+    },
+    {
+      "handle": "litangsongyx",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27028,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/litangsongyx",
+      "skipped": false
+    },
+    {
+      "handle": "Axb168279",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 24414,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/axb168279",
+      "skipped": false
+    },
+    {
+      "handle": "ImpossibleSir",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26809,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/impossiblesir",
+      "skipped": false
+    },
+    {
+      "handle": "CryptoDevinL",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 30593,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cryptodevinl",
+      "skipped": false
+    },
+    {
+      "handle": "traderwanwan",
+      "tweetsFetched": 200,
+      "pagesFetched": 10,
+      "durationMs": 24265,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/traderwanwan",
+      "skipped": false
+    },
+    {
+      "handle": "AntCaveClub",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 31702,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/antcaveclub",
+      "skipped": false
+    },
+    {
+      "handle": "MetaHunter168",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26987,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/metahunter168",
+      "skipped": false
+    },
+    {
+      "handle": "KuiGas",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27707,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/kuigas",
+      "skipped": false
+    },
+    {
+      "handle": "connectfarm1",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25515,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/connectfarm1",
+      "skipped": false
+    },
+    {
+      "handle": "godrealmx",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27556,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/godrealmx",
+      "skipped": false
+    },
+    {
+      "handle": "BitCloutCat",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28499,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/bitcloutcat",
+      "skipped": false
+    },
+    {
+      "handle": "pendle_fi",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28692,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/pendle_fi",
+      "skipped": false
+    },
+    {
+      "handle": "Super4DeFi",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25781,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/super4defi",
+      "skipped": false
+    },
+    {
+      "handle": "0x01yuqi",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27132,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0x01yuqi",
+      "skipped": false
+    },
+    {
+      "handle": "superdope_BOBO",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26413,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/superdope_bobo",
+      "skipped": false
+    },
+    {
+      "handle": "talkchain_today",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25890,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/talkchain_today",
+      "skipped": false
+    },
+    {
+      "handle": "defi_Boo",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27565,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/defi_boo",
+      "skipped": false
+    },
+    {
+      "handle": "xunle111",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26850,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/xunle111",
+      "skipped": false
+    },
+    {
+      "handle": "0xleng1",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 28959,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xleng1",
+      "skipped": false
+    },
+    {
+      "handle": "maiff20",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25943,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/maiff20",
+      "skipped": false
+    },
+    {
+      "handle": "MyHongKongDoll",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26852,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/myhongkongdoll",
+      "skipped": false
+    },
+    {
+      "handle": "webktsr",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27751,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/webktsr",
+      "skipped": false
+    },
+    {
+      "handle": "Web3Feng",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27453,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/web3feng",
+      "skipped": false
+    },
+    {
+      "handle": "rubywxt1",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 31065,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/rubywxt1",
+      "skipped": false
+    },
+    {
+      "handle": "sanyi_eth_",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26299,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/sanyi_eth_",
+      "skipped": false
+    },
+    {
+      "handle": "MengLayer",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26566,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/menglayer",
+      "skipped": false
+    },
+    {
+      "handle": "yueya_eth",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27458,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/yueya_eth",
+      "skipped": false
+    },
+    {
+      "handle": "hdchuanzhang1",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25145,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/hdchuanzhang1",
+      "skipped": false
+    },
+    {
+      "handle": "ouyoung11",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27815,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/ouyoung11",
+      "skipped": false
+    },
+    {
+      "handle": "0xzhaozhao",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 30228,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xzhaozhao",
+      "skipped": false
+    },
+    {
+      "handle": "trylimitless",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27143,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/trylimitless",
+      "skipped": false
+    },
+    {
+      "handle": "DtDt666",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28964,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/dtdt666",
+      "skipped": false
+    },
+    {
+      "handle": "LuBtc888",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 30152,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/lubtc888",
+      "skipped": false
+    },
+    {
+      "handle": "RaccoonHKG",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26385,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/raccoonhkg",
+      "skipped": false
+    },
+    {
+      "handle": "BTCdayu",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25385,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/btcdayu",
+      "skipped": false
+    },
+    {
+      "handle": "wangy112375",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28160,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/wangy112375",
+      "skipped": false
+    },
+    {
+      "handle": "lubi366",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26734,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/lubi366",
+      "skipped": false
+    },
+    {
+      "handle": "Coins03",
+      "tweetsFetched": 200,
+      "pagesFetched": 14,
+      "durationMs": 32534,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/coins03",
+      "skipped": false
+    },
+    {
+      "handle": "zzzzzeroooo",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25941,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/zzzzzeroooo",
+      "skipped": false
+    },
+    {
+      "handle": "cutepandaweb3",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27662,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cutepandaweb3",
+      "skipped": false
+    },
+    {
+      "handle": "cryptojiuyi",
+      "tweetsFetched": 200,
+      "pagesFetched": 13,
+      "durationMs": 31186,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cryptojiuyi",
+      "skipped": false
+    },
+    {
+      "handle": "0xblockma",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26106,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xblockma",
+      "skipped": false
+    },
+    {
+      "handle": "zhupi_eth",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 28466,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/zhupi_eth",
+      "skipped": false
+    },
+    {
+      "handle": "crypto_biubiu",
+      "tweetsFetched": 200,
+      "pagesFetched": 13,
+      "durationMs": 31520,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/crypto_biubiu",
+      "skipped": false
+    },
+    {
+      "handle": "SoloJayQ",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27763,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/solojayq",
+      "skipped": false
+    },
+    {
+      "handle": "wallet",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 24676,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/wallet",
+      "skipped": false
+    },
+    {
+      "handle": "y_cryptoanalyst",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26107,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/y_cryptoanalyst",
+      "skipped": false
+    },
+    {
+      "handle": "notthreadguy",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27234,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/notthreadguy",
+      "skipped": false
+    },
+    {
+      "handle": "wublockchain12",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 24641,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/wublockchain12",
+      "skipped": false
+    },
+    {
+      "handle": "haloowhite",
+      "tweetsFetched": 87,
+      "pagesFetched": 6,
+      "durationMs": 12942,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/haloowhite",
+      "skipped": false
+    },
+    {
+      "handle": "Trezor",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26801,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/trezor",
+      "skipped": false
+    },
+    {
+      "handle": "jiujinshan2022",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 29338,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/jiujinshan2022",
+      "skipped": false
+    },
+    {
+      "handle": "LongLongLongBTC",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27931,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/longlonglongbtc",
+      "skipped": false
+    },
+    {
+      "handle": "wang_xiaolou",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27315,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/wang_xiaolou",
+      "skipped": false
+    },
+    {
+      "handle": "silverfang88",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 29982,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/silverfang88",
+      "skipped": false
+    },
+    {
+      "handle": "reya_xyz",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28927,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/reya_xyz",
+      "skipped": false
+    },
+    {
+      "handle": "nihaovand",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28466,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/nihaovand",
+      "skipped": false
+    },
+    {
+      "handle": "Kawasakitesu",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 31197,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/kawasakitesu",
+      "skipped": false
+    },
+    {
+      "handle": "BTC_Alert_",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28260,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/btc_alert_",
+      "skipped": false
+    },
+    {
+      "handle": "cryptonerdcn",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27487,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cryptonerdcn",
+      "skipped": false
+    },
+    {
+      "handle": "JupiterExchange",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27724,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/jupiterexchange",
+      "skipped": false
+    },
+    {
+      "handle": "BiteyeCN",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26351,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/biteyecn",
+      "skipped": false
+    },
+    {
+      "handle": "dotyyds1234",
+      "tweetsFetched": 200,
+      "pagesFetched": 10,
+      "durationMs": 22325,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/dotyyds1234",
+      "skipped": false
+    },
+    {
+      "handle": "Neon2089",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26564,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/neon2089",
+      "skipped": false
+    },
+    {
+      "handle": "ahao363",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26026,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/ahao363",
+      "skipped": false
+    },
+    {
+      "handle": "Mirro7777",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 31378,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/mirro7777",
+      "skipped": false
+    },
+    {
+      "handle": "binancezh",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25402,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/binancezh",
+      "skipped": false
+    },
+    {
+      "handle": "seaify1",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25913,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/seaify1",
+      "skipped": false
+    },
+    {
+      "handle": "ybspro_official",
+      "tweetsFetched": 26,
+      "pagesFetched": 3,
+      "durationMs": 5343,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/ybspro_official",
+      "skipped": false
+    },
+    {
+      "handle": "laofeiyyds",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26519,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/laofeiyyds",
+      "skipped": false
+    },
+    {
+      "handle": "0xScottBTC",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27089,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xscottbtc",
+      "skipped": false
+    },
+    {
+      "handle": "WinForKakei",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25603,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/winforkakei",
+      "skipped": false
+    },
+    {
+      "handle": "Wilsonchen1101",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26659,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/wilsonchen1101",
+      "skipped": false
+    },
+    {
+      "handle": "0xAA_Science",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27397,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xaa_science",
+      "skipped": false
+    },
+    {
+      "handle": "CryptoNyaRu",
+      "tweetsFetched": 185,
+      "pagesFetched": 12,
+      "durationMs": 27790,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cryptonyaru",
+      "skipped": false
+    },
+    {
+      "handle": "0xKISS",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25879,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xkiss",
+      "skipped": false
+    },
+    {
+      "handle": "19ys_GGboy",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28186,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/19ys_ggboy",
+      "skipped": false
+    },
+    {
+      "handle": "0xSleepinRain",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27352,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xsleepinrain",
+      "skipped": false
+    },
+    {
+      "handle": "0x0_zero",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25889,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0x0_zero",
+      "skipped": false
+    },
+    {
+      "handle": "0xyukaz",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25603,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xyukaz",
+      "skipped": false
+    },
+    {
+      "handle": "Vida_BWE",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26478,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/vida_bwe",
+      "skipped": false
+    },
+    {
+      "handle": "CryptoDanta",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 24735,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cryptodanta",
+      "skipped": false
+    },
+    {
+      "handle": "22333D",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27342,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/22333d",
+      "skipped": false
+    },
+    {
+      "handle": "I_Wont_Bow",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 28581,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/i_wont_bow",
+      "skipped": false
+    },
+    {
+      "handle": "zedding90",
+      "tweetsFetched": 81,
+      "pagesFetched": 6,
+      "durationMs": 13315,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/zedding90",
+      "skipped": false
+    },
+    {
+      "handle": "diamondhandjs",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 27160,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/diamondhandjs",
+      "skipped": false
+    },
+    {
+      "handle": "gch_enbsbxbs",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26799,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/gch_enbsbxbs",
+      "skipped": false
+    },
+    {
+      "handle": "0xlong_life",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27080,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xlong_life",
+      "skipped": false
+    },
+    {
+      "handle": "Aspirin_2022",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25445,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/aspirin_2022",
+      "skipped": false
+    },
+    {
+      "handle": "OTCxiaoxiao",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 24825,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/otcxiaoxiao",
+      "skipped": false
+    },
+    {
+      "handle": "a1lon9",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27560,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/a1lon9",
+      "skipped": false
+    },
+    {
+      "handle": "0xJaleel_eth",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26757,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xjaleel_eth",
+      "skipped": false
+    },
+    {
+      "handle": "0x_KevinZ",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27925,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0x_kevinz",
+      "skipped": false
+    },
+    {
+      "handle": "JiamigouCn",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 29841,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/jiamigoucn",
+      "skipped": false
+    },
+    {
+      "handle": "FlippingProfits",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 29339,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/flippingprofits",
+      "skipped": false
+    },
+    {
+      "handle": "HarveyMackinto2",
+      "tweetsFetched": 14,
+      "pagesFetched": 2,
+      "durationMs": 3031,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/harveymackinto2",
+      "skipped": false
+    },
+    {
+      "handle": "0xmr33",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27163,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xmr33",
+      "skipped": false
+    },
+    {
+      "handle": "MeiRiDaZuoZhan",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 27124,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/meiridazuozhan",
+      "skipped": false
+    },
+    {
+      "handle": "LabSpeculation",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26056,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/labspeculation",
+      "skipped": false
+    },
+    {
+      "handle": "3ethtomoon",
+      "tweetsFetched": 106,
+      "pagesFetched": 7,
+      "durationMs": 14970,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/3ethtomoon",
+      "skipped": false
+    },
+    {
+      "handle": "bwenews",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25738,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/bwenews",
+      "skipped": false
+    },
+    {
+      "handle": "gm365",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 29448,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/gm365",
+      "skipped": false
+    },
+    {
+      "handle": "UpchainDAO",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26942,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/upchaindao",
+      "skipped": false
+    },
+    {
+      "handle": "33357xyz",
+      "tweetsFetched": 200,
+      "pagesFetched": 13,
+      "durationMs": 30673,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/33357xyz",
+      "skipped": false
+    },
+    {
+      "handle": "justlovejk3",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27449,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/justlovejk3",
+      "skipped": false
+    },
+    {
+      "handle": "KillzzSol",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 26964,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/killzzsol",
+      "skipped": false
+    },
+    {
+      "handle": "yuyue_chris",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26557,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/yuyue_chris",
+      "skipped": false
+    },
+    {
+      "handle": "zhiweieth",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26706,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/zhiweieth",
+      "skipped": false
+    },
+    {
+      "handle": "solvenant",
+      "tweetsFetched": 168,
+      "pagesFetched": 10,
+      "durationMs": 22882,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/solvenant",
+      "skipped": false
+    },
+    {
+      "handle": "0xWendy99",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26833,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xwendy99",
+      "skipped": false
+    },
+    {
+      "handle": "Morty_happy",
+      "tweetsFetched": 200,
+      "pagesFetched": 13,
+      "durationMs": 32257,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/morty_happy",
+      "skipped": false
+    },
+    {
+      "handle": "c_ckoko",
+      "tweetsFetched": 137,
+      "pagesFetched": 9,
+      "durationMs": 20690,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/c_ckoko",
+      "skipped": false
+    },
+    {
+      "handle": "AliceBCeiona",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 27815,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/alicebceiona",
+      "skipped": false
+    },
+    {
+      "handle": "SKARKS3",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28396,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/skarks3",
+      "skipped": false
+    },
+    {
+      "handle": "Benjieming1Q84",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25308,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/benjieming1q84",
+      "skipped": false
+    },
+    {
+      "handle": "ai_9684xtpa",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28086,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/ai_9684xtpa",
+      "skipped": false
+    },
+    {
+      "handle": "0xTykoo",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26384,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xtykoo",
+      "skipped": false
+    },
+    {
+      "handle": "cr0ath",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26047,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cr0ath",
+      "skipped": false
+    },
+    {
+      "handle": "jason_chen998",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 30354,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/jason_chen998",
+      "skipped": false
+    },
+    {
+      "handle": "0xTyche",
+      "tweetsFetched": 180,
+      "pagesFetched": 11,
+      "durationMs": 24806,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xtyche",
+      "skipped": false
+    },
+    {
+      "handle": "practice_y11",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27622,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/practice_y11",
+      "skipped": false
+    },
+    {
+      "handle": "BitHappyX",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28176,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/bithappyx",
+      "skipped": false
+    },
+    {
+      "handle": "EnHeng456",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27591,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/enheng456",
+      "skipped": false
+    },
+    {
+      "handle": "CyberPhilos",
+      "tweetsFetched": 76,
+      "pagesFetched": 5,
+      "durationMs": 11263,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cyberphilos",
+      "skipped": false
+    },
+    {
+      "handle": "SlerfTools",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26167,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/slerftools",
+      "skipped": false
+    },
+    {
+      "handle": "Tintinx2021",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 28347,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/tintinx2021",
+      "skipped": false
+    },
+    {
+      "handle": "Wolfy_XBT",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27434,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/wolfy_xbt",
+      "skipped": false
+    },
+    {
+      "handle": "Greta0086",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27766,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/greta0086",
+      "skipped": false
+    },
+    {
+      "handle": "dov_wo",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27200,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/dov_wo",
+      "skipped": false
+    },
+    {
+      "handle": "Ru7Longcrypto",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27901,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/ru7longcrypto",
+      "skipped": false
+    },
+    {
+      "handle": "quant_sheep",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 30514,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/quant_sheep",
+      "skipped": false
+    },
+    {
+      "handle": "gigiz_eth",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28811,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/gigiz_eth",
+      "skipped": false
+    },
+    {
+      "handle": "lofy22479013",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 24484,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/lofy22479013",
+      "skipped": false
+    },
+    {
+      "handle": "Michael_Liu93",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26237,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/michael_liu93",
+      "skipped": false
+    },
+    {
+      "handle": "topon1ccc",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 30915,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/topon1ccc",
+      "skipped": false
+    },
+    {
+      "handle": "HyperliquidX",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25489,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/hyperliquidx",
+      "skipped": false
+    },
+    {
+      "handle": "kiki520_eth",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27209,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/kiki520_eth",
+      "skipped": false
+    },
+    {
+      "handle": "realScamSniffer",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26829,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/realscamsniffer",
+      "skipped": false
+    },
+    {
+      "handle": "OwenJin12",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 29345,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/owenjin12",
+      "skipped": false
+    },
+    {
+      "handle": "zunzunv",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26221,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/zunzunv",
+      "skipped": false
+    },
+    {
+      "handle": "Doge_798",
+      "tweetsFetched": 200,
+      "pagesFetched": 19,
+      "durationMs": 46438,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/doge_798",
+      "skipped": false
+    },
+    {
+      "handle": "web3_mario",
+      "tweetsFetched": 191,
+      "pagesFetched": 11,
+      "durationMs": 25597,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/web3_mario",
+      "skipped": false
+    },
+    {
+      "handle": "mars_bnb",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27170,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/mars_bnb",
+      "skipped": false
+    },
+    {
+      "handle": "Crypto_Suy",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27847,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/crypto_suy",
+      "skipped": false
+    },
+    {
+      "handle": "Crypto_Yulia",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 29868,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/crypto_yulia",
+      "skipped": false
+    },
+    {
+      "handle": "BertHicks13",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25079,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/berthicks13",
+      "skipped": false
+    },
+    {
+      "handle": "OneKeyCN",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26730,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/onekeycn",
+      "skipped": false
+    },
+    {
+      "handle": "0xRuuubyreborn",
+      "tweetsFetched": 152,
+      "pagesFetched": 10,
+      "durationMs": 23309,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xruuubyreborn",
+      "skipped": false
+    },
+    {
+      "handle": "S7iter_",
+      "tweetsFetched": 144,
+      "pagesFetched": 9,
+      "durationMs": 21161,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/s7iter_",
+      "skipped": false
+    },
+    {
+      "handle": "block_dam",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26829,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/block_dam",
+      "skipped": false
+    },
+    {
+      "handle": "Mou_zaisi",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25685,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/mou_zaisi",
+      "skipped": false
+    },
+    {
+      "handle": "BitgetWalletCN",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26260,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/bitgetwalletcn",
+      "skipped": false
+    },
+    {
+      "handle": "GuillermoGuilo1",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26756,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/guillermoguilo1",
+      "skipped": false
+    },
+    {
+      "handle": "Yukirabbit_brc",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27615,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/yukirabbit_brc",
+      "skipped": false
+    },
+    {
+      "handle": "WY_mask",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 29077,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/wy_mask",
+      "skipped": false
+    },
+    {
+      "handle": "Chaineye_tools",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27064,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/chaineye_tools",
+      "skipped": false
+    },
+    {
+      "handle": "0xcryptoHowe",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27989,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xcryptohowe",
+      "skipped": false
+    },
+    {
+      "handle": "Yennii56",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 24802,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/yennii56",
+      "skipped": false
+    },
+    {
+      "handle": "wsjack22",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27225,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/wsjack22",
+      "skipped": false
+    },
+    {
+      "handle": "WTFAcademy_",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28158,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/wtfacademy_",
+      "skipped": false
+    },
+    {
+      "handle": "kaikaibtc",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27579,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/kaikaibtc",
+      "skipped": false
+    },
+    {
+      "handle": "yuexiaoyu111",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 30065,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/yuexiaoyu111",
+      "skipped": false
+    },
+    {
+      "handle": "logearn_cn",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26139,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/logearn_cn",
+      "skipped": false
+    },
+    {
+      "handle": "Normanrockon",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27850,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/normanrockon",
+      "skipped": false
+    },
+    {
+      "handle": "0xN10N",
+      "tweetsFetched": 170,
+      "pagesFetched": 10,
+      "durationMs": 22777,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xn10n",
+      "skipped": false
+    },
+    {
+      "handle": "EleveResearch",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25956,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/eleveresearch",
+      "skipped": false
+    },
+    {
+      "handle": "Y_babyshow",
+      "tweetsFetched": 200,
+      "pagesFetched": 10,
+      "durationMs": 23500,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/y_babyshow",
+      "skipped": false
+    },
+    {
+      "handle": "0xskycapital",
+      "tweetsFetched": 26,
+      "pagesFetched": 3,
+      "durationMs": 5541,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xskycapital",
+      "skipped": false
+    },
+    {
+      "handle": "0xXQ1",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25926,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xxq1",
+      "skipped": false
+    },
+    {
+      "handle": "LeotheHorseman",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27227,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/leothehorseman",
+      "skipped": false
+    },
+    {
+      "handle": "ACai_sec",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26514,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/acai_sec",
+      "skipped": false
+    },
+    {
+      "handle": "Cgo_d188",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27311,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cgo_d188",
+      "skipped": false
+    },
+    {
+      "handle": "metaplex",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26751,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/metaplex",
+      "skipped": false
+    },
+    {
+      "handle": "CMhOeNnExY",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25872,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cmhoennexy",
+      "skipped": false
+    },
+    {
+      "handle": "Mantle_Official",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27231,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/mantle_official",
+      "skipped": false
+    },
+    {
+      "handle": "Bitget_zh",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27204,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/bitget_zh",
+      "skipped": false
+    },
+    {
+      "handle": "rnmumu3",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 28235,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/rnmumu3",
+      "skipped": false
+    },
+    {
+      "handle": "wong_ssh",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25449,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/wong_ssh",
+      "skipped": false
+    },
+    {
+      "handle": "daidaibtc",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25986,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/daidaibtc",
+      "skipped": false
+    },
+    {
+      "handle": "DeFiGuyLuke",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26955,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/defiguyluke",
+      "skipped": false
+    },
+    {
+      "handle": "0xKaKa03",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25853,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xkaka03",
+      "skipped": false
+    },
+    {
+      "handle": "decertme",
+      "tweetsFetched": 168,
+      "pagesFetched": 10,
+      "durationMs": 24062,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/decertme",
+      "skipped": false
+    },
+    {
+      "handle": "Airdrop_Guard",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26326,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/airdrop_guard",
+      "skipped": false
+    },
+    {
+      "handle": "Cody_DeFi",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 29970,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cody_defi",
+      "skipped": false
+    },
+    {
+      "handle": "yunknkn2",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26650,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/yunknkn2",
+      "skipped": false
+    },
+    {
+      "handle": "ViNc2453",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 29647,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/vinc2453",
+      "skipped": false
+    },
+    {
+      "handle": "Mimoo1201",
+      "tweetsFetched": 200,
+      "pagesFetched": 10,
+      "durationMs": 24061,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/mimoo1201",
+      "skipped": false
+    },
+    {
+      "handle": "beefnoode",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28031,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/beefnoode",
+      "skipped": false
+    },
+    {
+      "handle": "pumpdotfun",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25856,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/pumpdotfun",
+      "skipped": false
+    },
+    {
+      "handle": "ByteRamble",
+      "tweetsFetched": 40,
+      "pagesFetched": 4,
+      "durationMs": 7531,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/byteramble",
+      "skipped": false
+    },
+    {
+      "handle": "HelloLydia13",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27113,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/hellolydia13",
+      "skipped": false
+    },
+    {
+      "handle": "GoldenPepeCabal",
+      "tweetsFetched": 179,
+      "pagesFetched": 10,
+      "durationMs": 22889,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/goldenpepecabal",
+      "skipped": false
+    },
+    {
+      "handle": "X9zzw",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25520,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/x9zzw",
+      "skipped": false
+    },
+    {
+      "handle": "Crypto_Cat888",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 28797,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/crypto_cat888",
+      "skipped": false
+    },
+    {
+      "handle": "AdityaPlusp",
+      "tweetsFetched": 198,
+      "pagesFetched": 12,
+      "durationMs": 31392,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/adityaplusp",
+      "skipped": false
+    },
+    {
+      "handle": "memeking_888",
+      "tweetsFetched": 200,
+      "pagesFetched": 13,
+      "durationMs": 33350,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/memeking_888",
+      "skipped": false
+    },
+    {
+      "handle": "MasonCanoe",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26906,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/masoncanoe",
+      "skipped": false
+    },
+    {
+      "handle": "ottabag",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 25531,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/ottabag",
+      "skipped": false
+    },
+    {
+      "handle": "follow_clues",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 28544,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/follow_clues",
+      "skipped": false
+    },
+    {
+      "handle": "Payment_Talk",
+      "tweetsFetched": 200,
+      "pagesFetched": 15,
+      "durationMs": 36216,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/payment_talk",
+      "skipped": false
+    },
+    {
+      "handle": "Zenith_shade789",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26943,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/zenith_shade789",
+      "skipped": false
+    },
+    {
+      "handle": "kunlunstar",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26625,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/kunlunstar",
+      "skipped": false
+    },
+    {
+      "handle": "btcly17",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26470,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/btcly17",
+      "skipped": false
+    },
+    {
+      "handle": "0xPickleCati",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28139,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xpicklecati",
+      "skipped": false
+    },
+    {
+      "handle": "thcaroline2233",
+      "tweetsFetched": 102,
+      "pagesFetched": 7,
+      "durationMs": 15934,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/thcaroline2233",
+      "skipped": false
+    },
+    {
+      "handle": "CryptoCharming1",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 29681,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cryptocharming1",
+      "skipped": false
+    },
+    {
+      "handle": "laowu3677",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26144,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/laowu3677",
+      "skipped": false
+    },
+    {
+      "handle": "bazingahappy",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28529,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/bazingahappy",
+      "skipped": false
+    },
+    {
+      "handle": "Loong998",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27634,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/loong998",
+      "skipped": false
+    },
+    {
+      "handle": "BTC2Ai",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27550,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/btc2ai",
+      "skipped": false
+    },
+    {
+      "handle": "0xYuCry",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26805,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xyucry",
+      "skipped": false
+    },
+    {
+      "handle": "PadreApp",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 28929,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/padreapp",
+      "skipped": false
+    },
+    {
+      "handle": "toupaiwang",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26864,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/toupaiwang",
+      "skipped": false
+    },
+    {
+      "handle": "paradigm",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27839,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/paradigm",
+      "skipped": false
+    },
+    {
+      "handle": "xhunt_ai",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26788,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/xhunt_ai",
+      "skipped": false
+    },
+    {
+      "handle": "tstar_frr1",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27067,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/tstar_frr1",
+      "skipped": false
+    },
+    {
+      "handle": "Sidekick_Labs",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28826,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/sidekick_labs",
+      "skipped": false
+    },
+    {
+      "handle": "druzbtc",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28550,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/druzbtc",
+      "skipped": false
+    },
+    {
+      "handle": "cichen1314",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27366,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cichen1314",
+      "skipped": false
+    },
+    {
+      "handle": "surf_protocol",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26993,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/surf_protocol",
+      "skipped": false
+    },
+    {
+      "handle": "0x_Northland",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27489,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0x_northland",
+      "skipped": false
+    },
+    {
+      "handle": "infinex",
+      "tweetsFetched": 200,
+      "pagesFetched": 13,
+      "durationMs": 30838,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/infinex",
+      "skipped": false
+    },
+    {
+      "handle": "Luann2420743141",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28501,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/luann2420743141",
+      "skipped": false
+    },
+    {
+      "handle": "Hovz0217",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27955,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/hovz0217",
+      "skipped": false
+    },
+    {
+      "handle": "chickenBrother_",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28357,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/chickenbrother_",
+      "skipped": false
+    },
+    {
+      "handle": "hourbagegi42209",
+      "tweetsFetched": 200,
+      "pagesFetched": 10,
+      "durationMs": 23892,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/hourbagegi42209",
+      "skipped": false
+    },
+    {
+      "handle": "btc_798",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28337,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/btc_798",
+      "skipped": false
+    },
+    {
+      "handle": "xiaoqiu0321",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 28684,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/xiaoqiu0321",
+      "skipped": false
+    },
+    {
+      "handle": "0xRay518",
+      "tweetsFetched": 148,
+      "pagesFetched": 11,
+      "durationMs": 26009,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xray518",
+      "skipped": false
+    },
+    {
+      "handle": "CryptoSpill",
+      "tweetsFetched": 66,
+      "pagesFetched": 6,
+      "durationMs": 13320,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/cryptospill",
+      "skipped": false
+    },
+    {
+      "handle": "0xcrypto_max",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26770,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xcrypto_max",
+      "skipped": false
+    },
+    {
+      "handle": "0xNaiXi",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26751,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xnaixi",
+      "skipped": false
+    },
+    {
+      "handle": "aristotlewitt",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27013,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/aristotlewitt",
+      "skipped": false
+    },
+    {
+      "handle": "MonkeyJcck",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26363,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/monkeyjcck",
+      "skipped": false
+    },
+    {
+      "handle": "0xtrading888",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27832,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xtrading888",
+      "skipped": false
+    },
+    {
+      "handle": "zrli_108",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27493,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/zrli_108",
+      "skipped": false
+    },
+    {
+      "handle": "oooooyoung11",
+      "tweetsFetched": 200,
+      "pagesFetched": 10,
+      "durationMs": 24520,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/oooooyoung11",
+      "skipped": false
+    },
+    {
+      "handle": "sadd_asd77675",
+      "tweetsFetched": 200,
+      "pagesFetched": 12,
+      "durationMs": 29652,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/sadd_asd77675",
+      "skipped": false
+    },
+    {
+      "handle": "anshu_code",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 30099,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/anshu_code",
+      "skipped": false
+    },
+    {
+      "handle": "memeqinb",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26293,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/memeqinb",
+      "skipped": false
+    },
+    {
+      "handle": "Real0xLiam",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26598,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/real0xliam",
+      "skipped": false
+    },
+    {
+      "handle": "0xTalkingWeb3",
+      "tweetsFetched": 200,
+      "pagesFetched": 13,
+      "durationMs": 32548,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xtalkingweb3",
+      "skipped": false
+    },
+    {
+      "handle": "0xNoNo_1",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 27140,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xnono_1",
+      "skipped": false
+    },
+    {
+      "handle": "DexterOnchain",
+      "tweetsFetched": 200,
+      "pagesFetched": 11,
+      "durationMs": 26854,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/dexteronchain",
+      "skipped": false
+    },
+    {
+      "handle": "0xkaka1379",
+      "tweetsFetched": 153,
+      "pagesFetched": 9,
+      "durationMs": 21268,
+      "attempts": 1,
+      "outputDir": "/home/hanins/code/apps/social-monitor/services/nitter/data/following/0xkaka1379",
+      "skipped": false
+    }
+  ],
+  "finishedAt": "2025-10-21T01:56:10.361Z"
+}

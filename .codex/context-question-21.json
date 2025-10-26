@@ -1,0 +1,29 @@
+{
+  "question": "Nitter 是否可以在无 Redis 条件下运行？",
+  "analysis_timestamp": "2025-10-20T15:00:12Z",
+  "commands": [
+    "cat apps/social-monitor/services/nitter/docker-compose.yml",
+    "curl -s https://raw.githubusercontent.com/zedeus/nitter/master/nitter.example.conf"
+  ],
+  "evidence": [
+    {
+      "path": "apps/social-monitor/services/nitter/docker-compose.yml",
+      "snippet": "services:\n  nitter:\n    image: zedeus/nitter:latest\n    ...\n    depends_on:\n      - redis",
+      "insight": "官方 compose 定义中 nitter 服务依赖 redis，且配置挂载中默认使用 redis 缓存。"
+    },
+    {
+      "path": "apps/social-monitor/services/nitter/config/nitter.conf:9",
+      "snippet": "[Cache]\nredisHost = \"redis\"\nredisPort = 6379",
+      "insight": "配置文件硬编码 Redis 连接信息，无直接禁用选项。"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/zedeus/nitter/master/nitter.example.conf",
+      "insight": "官方样例同样要求设置 redisHost，文档未提及可跳过缓存，说明 Redis 为内建依赖。"
+    }
+  ],
+  "preliminary_conclusion": "标准 Nitter 部署需要 Redis 缓存才能工作。为满足用户需求，可将 Redis 视作内部依赖，仅用于 Nitter 缓存，不影响数据归档；若强行禁用需修改上游源代码，难度较高。",
+  "follow_up_actions": [
+    "在文档中明确说明 Redis 仅作为 Nitter 缓存使用，并自动通过 docker-compose 启动。",
+    "验证 docker-compose 启动流程，确保 Redis 与 Nitter 在本地正常运行。"
+  ]
+}

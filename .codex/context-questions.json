@@ -1,0 +1,18 @@
+[
+  {
+    "priority": "high",
+    "question": "当前仓库的 target/release/profit_monitor 是否已按最新源码成功编译？若缺失需要先执行 cargo build --release。"
+  },
+  {
+    "priority": "high",
+    "question": "在 start_both.sh 外层使用 timeout 120s 是否会导致脚本被强制终止但子进程继续后台运行，是否符合用户期望？"
+  },
+  {
+    "priority": "medium",
+    "question": "根目录 .env 是否完备，并包含 start_both.sh 验证的所有必需环境变量？"
+  },
+  {
+    "priority": "low",
+    "question": "profit_monitor.log 与 signal_trader.log 的现有内容能否用于验证启动成功并诊断潜在错误？"
+  }
+]

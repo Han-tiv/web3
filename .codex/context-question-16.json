@@ -1,0 +1,12 @@
+{
+  "question": "Why does happy-coder's integrated ripgrep hang when Codex executes `rg -n nitter` on Linux?",
+  "hypothesis": [
+    "The packaged ripgrep binaries might be macOS builds so Linux cannot execute them.",
+    "The postinstall unpack script could be skipping re-extraction because it only checks for file existence.",
+    "Codex might retry the command after ripgrep fails to start, appearing as if it is stuck."
+  ],
+  "status": "resolved",
+  "created_at": "2025-10-20T21:53:30+08:00",
+  "resolved_at": "2025-10-20T21:54:12+08:00",
+  "answer": "happy-coder ships macOS arm64 ripgrep binaries inside tools/unpacked. The postinstall script checks only for file existence, so on Linux it skips re-unpacking the correct archive and keeps the macOS Mach-O files. When Codex runs `rg -n nitter`, the bundled launcher loads ripgrep.node, which fails with `invalid ELF header`. The CLI keeps waiting/retrying, so the command appears to hang."
+}

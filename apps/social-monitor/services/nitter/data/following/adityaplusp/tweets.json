@@ -1,0 +1,1438 @@
+{
+  "account": {
+    "id": "1632963508273831936",
+    "screen_name": "AdityaPlusp",
+    "name": "Aditya S2",
+    "description": "Polymath | @solana | @rustlang",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1935283829343686656/sqwyuo3d_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1632963508273831936/1752928275",
+    "followers_count": 1254,
+    "friends_count": 126,
+    "statuses_count": 479,
+    "favourites_count": 1024,
+    "listed_count": 6,
+    "location": "Dehradun , India",
+    "website": "",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2023-03-07 12:37:14 +08:00",
+    "url": "https://twitter.com/AdityaPlusp",
+    "rest_id": "1632963508273831936"
+  },
+  "tweets": [
+    {
+      "id": "1972000688444985756#m",
+      "content": "Building a native @solana  CLMM  no Anchor , bare‑metal Solana. Rust AMM update: 🦀❄️\n\n• Math: fixed-point, ticks, price impact \n• Routing: multi-hop swaps \n• Liquidity: concentrated ranges \n• Fees: tiers 0.01%–1.00% \n\n[WIP] : instruction handlers, add/remove liquidity, fee collection, pool init, CPI swap, PDAs \n\nrepo:👇",
+      "timestamp": "Sep 27, 2025 · 6:09 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1972000688444985756#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1980274155976114485#m",
+      "content": "Good news - Advanced Hands on Rust went into print a few days ago. eBook is available, print should follow shortly.\n\nThanks for the shout-out!",
+      "timestamp": "Oct 20, 2025 · 2:05 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1980274155976114485#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1979966723416629406#m",
+      "content": "These books look crazy am I missing something?",
+      "timestamp": "Oct 19, 2025 · 5:43 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1979966723416629406#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1979624828375273839#m",
+      "content": "💡just used my existing  gRPC indexer  (project extension ) 🥘\n\nRust-based real-time detector that:\n• Streams Solana gRPC data\n• Stores events in PostgreSQL with batch optimization\n• Runs migrations automatically .\n\nTell you what all of this data is storing in db at the same time >>>\n\n@solana_devs  @solana @blueshift_gg @solanaturbine @rustlang @triton_one @SuperteamIN",
+      "timestamp": "Oct 18, 2025 · 7:05 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1979624828375273839#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1979242535965896752#m",
+      "content": "Pinocchio Token Program with Transfer Hooks 🦀\n\n-> Token minting/transfers with live balance tracking\n-> Transfer hooks: auto-fees 1%, compliance logging, daily limits 1000 tokens, dynamic royalties 5%\n-> CLI with clap\n-> Manual account serialization (bytemuck) ,ZC",
+      "timestamp": "Oct 17, 2025 · 5:46 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1979242535965896752#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1977802071576559633#m",
+      "content": "Pro Tip:⚡️\n -> use Makefile in your project (must ) 🦀\n -> clean your Rust project (cargo clean && cargo build)\n -> check your deps in Cargo.toml and lock exact versions\n->  run cargo fmt and cargo clippy to keep code clean",
+      "timestamp": "Oct 13, 2025 · 6:22 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1977802071576559633#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1977517978884210857#m",
+      "content": "Just open sourced:- Solana Arbitrage  Scanner\n\nA TypeScript tool that finds live arbitrage opportunities across @solana  DEXs⚡️\n\n→ Supports solana top dexs:\n• Raydium \n• Orca Whirlpools \n• Meteora DMM\n• PumpSwap\n\n→ Real time price tracking (1s refresh) \n→ Auto detects profit spreads \n→ Console dashboard + direct trade links\n\nrepo link 👇",
+      "timestamp": "Oct 12, 2025 · 11:33 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1977517978884210857#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1977446307036790991#m",
+      "content": "Building Mini SPL Token Program with Transfer Hooks on Solana using Pinocchio\n\nProgrammable hooks execute custom logic on every transfer.\n\nFeatures\n->Minting/transfers with live balance tracking\n->Transfer hooks (auto-executed per transfer)\n->Manual account serialization (dynamic dispatching)\nSimple CLI\n\n)( Use cases\n->Auto fees\n->Compliance logging\n->Transfer limits\n->Dynamic royalties",
+      "timestamp": "Oct 12, 2025 · 6:48 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1977446307036790991#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1976716989264445517#m",
+      "content": "It’s SOLwinter time!  @aeyakovenko \n@colosseum Keep building amazing things on Solana & Rust!",
+      "timestamp": "Oct 10, 2025 · 6:30 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1976716989264445517#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1976339188539851065#m",
+      "content": "Learn these 4 programming languages:\n\n1. Rust 🦀 (ownership, fearless concurrency)\n2. Haskell λ (purity, types as proofs)\n3. JavaScript ⚡ (ubiquity, async in the wild)\n4. Prolog ∴ (logic, search, constraints)\n\nMaster these and every other PL feels like syntax tourism.",
+      "timestamp": "Oct 9, 2025 · 5:29 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1976339188539851065#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1975625906640302416#m",
+      "content": "github.com/senzenn/escrow-na…",
+      "timestamp": "Oct 7, 2025 · 6:14 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1975625906640302416#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1975625903242690644#m",
+      "content": "[Shipped]: @solana  escrow in pure @rustlang \n\nFeatures: \n• Initialize: buyer deposits to PDA escrow\n• Release: send to seller on completion\n• Cancel: refund before release\n• Secure: PDAs for safe storage\n\nwhy native rust/Pinocchio  over Anchor -> CU costs and latency\n\nRepo is live:👇",
+      "timestamp": "Oct 7, 2025 · 6:14 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1975625903242690644#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1974943737865548173#m",
+      "content": "shipper!🛳️",
+      "timestamp": "Oct 5, 2025 · 9:04 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1974943737865548173#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1974895684752163274#m",
+      "content": "Creating Solana Escrow in pure Rust (no Anchor). Repo public till midnight.\n\nFeatures:\n\n • PDA vault with milestone-based releases .\n• Ops: SendSol, Cancel, CloseVault • Lottery-based IDs per escrow.\n• Built on SOL/SPL with size-optimized Rust builds.",
+      "timestamp": "Oct 5, 2025 · 5:53 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1974895684752163274#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1974534454770008126#m",
+      "content": "September summary Fully Rust oriented Projects \n\n-> 100 stars; Rust gRPC, multisig vaults.\n-> Rust gRPC indexer, filters shipped.\n-> Packet sniffer; multisig vaults; Kalshi.\n-> Native Rust programs; gRPC indexers.\n-> Rust gRPC, Kalshi fliter CLI.\n-> Got into turbine accelerated.\n-> Got a follow from OG @aeyakovenko \n\nSome of the projects are in WIP",
+      "timestamp": "Oct 4, 2025 · 5:57 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1974534454770008126#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1974185773772779645#m",
+      "content": "Tried  something in @blueshift_gg  \n\n-> Add vanity key generation with custom patterns (prefix, suffix, contains, position-based)\n\n-> Add batch processing to handle multiple patterns simultaneously",
+      "timestamp": "Oct 3, 2025 · 6:52 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1974185773772779645#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1973840691282472963#m",
+      "content": "Just open sourced:- Pumpfun gRPC Sniper + Bundler Bot on @solana  \n\n→ Real time token detection via Yellowstone gRPC\n→ Low latency sniping with bounded concurrency\n→ Bundle buys across wallets (Jito-ready)\n→ PDA + bonding-curve math \n\nGithub 👇",
+      "timestamp": "Oct 2, 2025 · 8:01 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1973840691282472963#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1973811087821918499#m",
+      "content": "github.com/senzenn/Instructi…\ngithub.com/senzenn/manual-pa…",
+      "timestamp": "Oct 2, 2025 · 6:03 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1973811087821918499#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1973811084755681437#m",
+      "content": "Native Rust program that implements a counter with Solana instruction dispatching and custom error handling.\n\n-> Instruction enum with 6+ operations\n-> Dispatcher pattern using match statements\n-> Custom error types with proper mapping to           ProgramError\n-> Clear logging with msg! macros",
+      "timestamp": "Oct 2, 2025 · 6:03 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1973811084755681437#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1973436217707381114#m",
+      "content": "Account data serialization and deserialization using bytemuck for Efficient zero-copy operations\n\n     • How to structure account data efficiently\n     • PDA validation & security\n     • Rent-exempt account handling\n     • Versioned data structures\n\nWill be dropping Github repo soon!!",
+      "timestamp": "Oct 1, 2025 · 5:13 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1973436217707381114#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1972692967589634236#m",
+      "content": "This absolutely made my day!❤️",
+      "timestamp": "Sep 29, 2025 · 4:00 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1972692967589634236#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1972000692589260862#m",
+      "content": "github.com/senzenn/clmm-rust",
+      "timestamp": "Sep 27, 2025 · 6:09 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1972000692589260862#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1971628121234592245#m",
+      "content": "Tried a @Kalshi  filter CLI in @rustlang  didn’t work out, but learned more than expected. Onward!",
+      "timestamp": "Sep 26, 2025 · 5:29 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1971628121234592245#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1970920873499775107#m",
+      "content": "Building a Secure Multi-Sig on Solana with @SquadsProtocol 🦀\n\n• Configurable multi-sig\n• Timelocked proposals\n• Flexible execution\n• DAO-grade security\n• Rust , Anchor , Solana",
+      "timestamp": "Sep 24, 2025 · 6:38 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1970920873499775107#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1970462895524979169#m",
+      "content": "Literally me!! 😭when @anuragnegi000  introduced rust to me!",
+      "timestamp": "Sep 23, 2025 · 12:18 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1970462895524979169#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1969184983106404759#m",
+      "content": "Just open sourced @solana  Transaction Optimizer\n\nA TypeScript toolkit showing how Address Lookup Tables (ALTs) can shrink tx sizes & unlock bundle transactions on @solana  ⚡\n\nFeatures:\n\n→ Compare normal vs ALT txs\n→ Bundle buys (PumpFun ready)\n→ Detailed size + efficiency metrics\n→ On-chain benchmarks\n\ngithub repo 👇",
+      "timestamp": "Sep 19, 2025 · 11:41 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1969184983106404759#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1969802220658106800#m",
+      "content": "Creating a Rust SDK for Kalshi ⚡️\n\n→ Type-safe interface for prediction market trading \n→ Supports market data retrieval \n→ Portfolio + order management \n→ Async ready with Tokio and Tungstenite\n→ Easy to plug in with just an API key  \n-> moving kalshi towards solana ecosystem \n\n Rust🦀 + Kalshi 📈 = Powerfull/superfast prediction trading @j0hnwang",
+      "timestamp": "Sep 21, 2025 · 4:33 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1969802220658106800#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1969464071113040230#m",
+      "content": "Packet sniffer In Rust  \n\n-> Multi-OS support (Linux/macOS/Windows)\n-> Real-time network traffic capture\n-> Device auto-discovery & promiscuous mode\n-> CLI interface with flexible options\n-> Built-in packet analysis\n-> Open source & ready for your feedback.",
+      "timestamp": "Sep 20, 2025 · 6:10 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1969464071113040230#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1969250906265829409#m",
+      "content": "🧠🧠🧠",
+      "timestamp": "Sep 20, 2025 · 4:02 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1969250906265829409#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1969083979274879122#m",
+      "content": "To all @rustlang developers",
+      "timestamp": "Sep 19, 2025 · 4:59 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1969083979274879122#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1968045571169771670#m",
+      "content": "Started as a late-night experiment, now it’s a blazing-fast indexer with custom filters. Built in Rust 🦀\n\nFeatures:\n• Token transfer detection\n• DEX monitoring\n• Status filtering\n\nWIP:\n• Bridge activity\n• Large transfer alerts\n\n@solana_devs @aeyakovenko  @rustlang  @solana",
+      "timestamp": "Sep 16, 2025 · 8:13 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1968045571169771670#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1967630218182742135#m",
+      "content": "Solana gRPC Indexer + Custom Filters =  Blazing Fast Speed\n\n• Token Transfers: → Focuses on swaps and DeFi activity  \n• min-lamports → Filters out low-value spam or noise  \n• status: success → Only includes confirmed transactions  • min-compute-units →  meaningful activity Logs\n @aeyakovenko @rustlang",
+      "timestamp": "Sep 15, 2025 · 4:42 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1967630218182742135#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1966955099173122109#m",
+      "content": "I thought @pumpdotfun was just polishing the UI…\nbut they keep tweaking contract level stuff every 3–4 weeks 🙂\n\nHad to update my SDK each time just shipped a fresh release aligned with the latest changes + IDL :)\n\ngithub.com/anshuman008/pumpf…",
+      "timestamp": "Sep 13, 2025 · 8:00 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1966955099173122109#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1966356643744256476#m",
+      "content": "What's stopping you from building on @solana",
+      "timestamp": "Sep 12, 2025 · 4:22 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1966356643744256476#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1965851938647404853#m",
+      "content": "My DMs are flooded with questions about @rustlang 🦀 resources so here it is!\nHere’s a quick spotlight series: one post for each creator, their X handle + YouTube channel + what they’re best for.\n\nJon Gjengset\nX: @jonhoo\nYouTube: Jon Gjengset\nBest for: Deep dives into Rust internals, async, concurrency, and the legendary “Crust of Rust” series. If you want to master advanced Rust concepts, start here.\n\nRust Nation UK\nX: @RustNationUK\nYouTube: Rust Nation UK\nBest for: Full conference talks, workshops, and interviews with top Rust developers. Great for keeping up with the Rust community and latest trends.\n\nSemicolon\nX: @shivansh7201\nYouTube: Semicolon\nBest for: Beginner-friendly Rust tutorials and hands-on coding walkthroughs. Ideal for absolute beginners.\n\nRustfully\nX: @rustful\nYouTube: Rustfully\nBest for: Short, focused Rust tutorials perfect for bite-sized learning and quick tips.\n\nOrhun Parmaksız\nX: @orhunp\nYouTube: Orhun Parmaksız\nBest for: Rust shorts, CLI tools, and productivity hacks. Great for quick learning and inspiration.\n\nHarkirat Singh\nX: @kirat_tw\nYouTube: Complete Rust Bootcamp\nBest for: Full-length Rust bootcamp (6+ hours, Hindi/English mix). Perfect for new devs and anyone who wants a structured, hands-on marathon.\n\nSolandy\nX: @HeyAndyS\nYouTube: Solandy\nBest for: Solana-specific Rust tutorials, especially for DeFi and NFT use cases.\n\nRust Planet\nYouTube: Rust Planet\nBest for: Practical Rust projects and ecosystem exploration.\n\nRust Videos\nX:@rustlang\nYouTube: Rust Videos\nBest for: Official Rust community curation conference talks, meetups, and lectures from all over the world.\n\nCopenhagen Rust Community\nYouTube: Copenhagen Rust Community\nBest for: Community-driven channel with talks from Copenhagen’s Rust meetups and events.\n\nCode to the Moon\nX: @CodeToTheMoons\nYouTube: Code to the Moon\nBest for: Rust explained simply ideal for those who want to see code in action.\n\nFrancesco Ciulla\nX: @FrancescoCiull4\nYouTube: Francesco Ciulla\nBest for: Wide-ranging dev content, including Rust, with a focus on making tech accessible and fun.\n\nJeremy Chone\nX: @jeremychone \nYouTube: Jeremy Chone\nBest for: Rust, backend engineering, and system design.\n\nDario Lencina\nYouTube: Dario Lencina\nBest for: Practical Rust and systems programming; helpful for those coming from C/C++ backgrounds.\n\nTrevor Sullivan\nX:@pcgeek86\nYouTube: Trevor Sullivan\nBest for: Automation, DevOps, and using Rust for scripting and tooling.\n\nRust Programming Tutorials Playlist\nYouTube: Rust Programming Tutorials\nBest for: Step-by-step Rust tutorials for beginners.\n\nRust Nation UK Playlist\nX: @RustNationUK\nYouTube: Rust Nation UK Playlist\nBest for: Curated talks and workshops from Rust Nation UK events.\n\nThanks to all these individuals and communities for creating such valuable content and sharing their knowledge with the Rust and Solana community.\nSave/bookmark for later will keep updating as I find more gems. Tag your favorite creators if I missed anyone!",
+      "timestamp": "Sep 10, 2025 · 6:56 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1965851938647404853#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1965584339615580216#m",
+      "content": "Keep building 🔥🔥",
+      "timestamp": "Sep 10, 2025 · 1:13 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1965584339615580216#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1965155412921253926#m",
+      "content": "I am 23 years old\n\n- No social life\n- Won $75K+  in grants\n- undefined love for rust\n- CLI guy since 2020\n- GUI hater since 2021\n- completely into Web3 and solana\n- used to be a frontend developer ( which i hate )\n- follows primegen's principles (vim , linux by birth)",
+      "timestamp": "Sep 8, 2025 · 8:48 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1965155412921253926#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1964752897478185430#m",
+      "content": "Revamping @coinflictdotfun SDK for @SonicSVM ⚡️\n\n→ Create tokens directly on @SonicSVM chain\n→ Buy & Sell with bonding curve mechanics\n→ Easy SDK integration for devs\n→ Full TypeScript support\n\nProbably will finish it by tomorrow :)",
+      "timestamp": "Sep 7, 2025 · 6:09 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1964752897478185430#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1964813526117364063#m",
+      "content": "🔗: github.com/senzenn/MultiSig-…",
+      "timestamp": "Sep 7, 2025 · 10:10 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1964813526117364063#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1964813522455408726#m",
+      "content": "Just shipped my first Solana  MultiSig Vault to Devnet!\n(Built in Native Rust) 🦀\n\n>  Multi-signature security\n> Time-locked withdrawals\n> Multi-token support\n> Yield farming integration\n> Decentralized governance\n> Emergency controls\n> Configurable fees\n> Event logging\n\ngithub: 👇",
+      "timestamp": "Sep 7, 2025 · 10:10 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1964813522455408726#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1964052809696805344#m",
+      "content": "Just started working on a new stuff: Pumpfun-Advance- Bundler :)\n\n→ Creates + bundles tokens with 25 buys\n→ Runs with 20-25 unique wallets + randomized profiles\n→ Bubble map-proof & Photon SB resistant\n→ Custom LUT optimization + smart supply mgmt\n→ Advanced % based sell strategies",
+      "timestamp": "Sep 5, 2025 · 7:47 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1964052809696805344#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1963369894537564591#m",
+      "content": "Multi-signature Vault in Rust  with Streamflow-like functions built without Anchor.\n\nNext post will share the repo.",
+      "timestamp": "Sep 3, 2025 · 10:33 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1963369894537564591#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1963074787280027778#m",
+      "content": "Much needed resource for Solana Devs ❄️",
+      "timestamp": "Sep 3, 2025 · 3:01 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1963074787280027778#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1962995854866092183#m",
+      "content": "Building a Vault in Native Rust 🦀\n\n-> Multisignature is completed! \n-> Configurable thresholds: M-of-N\n-> Proposal-based workflow for sensitive operations \n-> Native Rust implementation (no Anchor) \n-> Event-driven monitoring with full audit trail \n-> Emergency override: Circuit breaker \n-> Governance integration with voting systems",
+      "timestamp": "Sep 2, 2025 · 9:47 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1962995854866092183#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1962619787596701861#m",
+      "content": "1. Solana protocol gRPC Indexer (Pure Rust)\ngithub.com/senzenn/Solana-gR…\n\n2. Order Book (Rust)\ngithub.com/senzenn/rust-orde…\n\n3. Axum-based Pusher\ngithub.com/senzenn/axum-serv…\n\n4. Rust Dice Game\ngithub.com/senzenn/rust-dice\n\n5. Rust-based Backend\ngithub.com/senzenn/Axum-simp…\n\n6. Animated Loader (GSAP + Next.js)\nproject-showcase-amber.verce…\n\n7. Shader Generator Website\nartisan-shader-nextjs.vercel…\n\n8. GSAP-based Animated Intro Page\nelite-fun-main.vercel.app/",
+      "timestamp": "Sep 1, 2025 · 8:53 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1962619787596701861#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1962619783528227048#m",
+      "content": "Just a month ago, I began building in public and the support from the @solana  and @rustlang  communities has been unreal. My X journey went from 60 to 700+ followers, with 400k+ impressions and a few projects that went truly viral.\n\n Here’s what I’ve shipped so far:\n\n• Solana Indexer CLI (Rust) \n• Order Book ( Rust) \n• Pusher (tokio‑tungstenite) \n• Advanced Solana Vault (Rust, WIP)\n• Frontend UI  for  @coinflictdotfun \n• Animated frontend \n• Shader generator\n• Auth backend (Rust + Axum) \n• Terminal dice game (Rust)\n\nProjects with links 👇",
+      "timestamp": "Sep 1, 2025 · 8:53 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1962619783528227048#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1962429288726323226#m",
+      "content": ":)",
+      "timestamp": "Sep 1, 2025 · 8:16 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1962429288726323226#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1962229019577114992#m",
+      "content": "After wrapping up the Solana CLI Indexer (and the wild support ❤️)\nI’m diving into my next build: Advanced Solana Vault (Rust)\n\n→ On-chain multi-sig system (proposal execution, sig validation) \n→ Time-locks: cliff, linear vesting, beneficiary mgmt \n→ Circuit breaker + emergency authorities (pause + recovery) \n→ Multi-token registry with per-token balance tracking \n→ Integrated yield strategies (auto-compound across Orca/Raydium/Saber) \n→ Governance hooks: voting, proposal lifecycle",
+      "timestamp": "Aug 31, 2025 · 7:00 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1962229019577114992#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1961884907946582072#m",
+      "content": "From an idea to 26⭐️ on the Solana gRPC Indexer (Rust) in just a day - the support from @rustlang and @solana  has been incredible.\n\nPost crossed :\n\n→ 13K+ views  \n→ 200+ likes  \n→ 110+ bookmarks \n→ 25+ reposts",
+      "timestamp": "Aug 30, 2025 · 8:13 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1961884907946582072#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1961566088640303259#m",
+      "content": "github.com/senzenn/Solana-gR…",
+      "timestamp": "Aug 29, 2025 · 11:06 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1961566088640303259#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1961566085607776649#m",
+      "content": "Created Solana Indexer CLI (@rustlang -powered) A blazing-fast tool for real-time @solana monitoring, indexing & data streaming. \n\n→ Real-time event tracking (slots, txns, accounts, blocks) → gRPC streaming API with sub-ms response times \n→ 1000+ TPS indexing with multi-layer LRU caching \n→ Sqlx + IPFS for persistent storage\n→ Multi-layer caching (sub-ms)\n→ Add multiple wallets to Add/Remove to monitor\n\nMake sure to ⭐️the github👇repo\n\n@solana  @aeyakovenko @superteam  @shek_dev",
+      "timestamp": "Aug 29, 2025 · 11:06 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1961566085607776649#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1960825390110527817#m",
+      "content": "Cooking up a gRPC Ultra Fast PumpFun Sniper Bot in Rust! 🦀\n\n→ Async Rust for ultra low latency execution\n→ gRPC streams for pre slot tx data + leader tracking\n→ Jito bundles for 0 block confirmations\n→ Optimized ATA creation\n→ PumpFun buy/sell logic wired to bonding curve",
+      "timestamp": "Aug 27, 2025 · 10:02 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1960825390110527817#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1960813149063667942#m",
+      "content": "Final video before the public launch of my @solana  indexer (@rustlang  + gRPC)  \n\n→ Real-time event streaming (txns, accounts, blocks, slots)\n→ Custom dashboard with filters + live stats\n→ Auto-scroll + card/terminal view modes\n→ Sub-ms gRPC response times\n→ 1000+ TPS indexing with LRU caching\n\n@aeyakovenko  @solana_devs @QuickNode",
+      "timestamp": "Aug 27, 2025 · 9:14 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1960813149063667942#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1960363983312974239#m",
+      "content": "Will definitely build something crazy in @ETHGlobal Delhi with the GOAT himself @axatbhardwaj :)",
+      "timestamp": "Aug 26, 2025 · 3:29 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1960363983312974239#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1960784975843709019#m",
+      "content": "Bro went all in! The obsession with @solana  and @rustlang  is next-level.",
+      "timestamp": "Aug 27, 2025 · 7:22 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1960784975843709019#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1960777185888710740#m",
+      "content": "🦀 Rust-powered @solana  indexer with concurrent gRPC\n\n• Tonic gRPC server  with Protobuf APIs\n• gRPC: GetSlot, GetTransactions, GetAccount\n• Sub-millisecond gRPC response times\n• In-memory storage with LRU caching\n• Real-time Solana slot tracking\n\nRepo goes public tomorrow—stay tuned!",
+      "timestamp": "Aug 27, 2025 · 6:51 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1960777185888710740#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1960513918486421828#m",
+      "content": "Cool stuff about @solana here is a private key\n\nQk6xwRF4Pbcx8gsFTLqVdntS3pVaeuSDRVxjgqCuTY6RvZt2Dign7rnpkt8V3qZ2Xm1c2uikP3NSZFvVGRjGRhC",
+      "timestamp": "Aug 27, 2025 · 1:25 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1960513918486421828#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1960098868332298485#m",
+      "content": "Building Geyser gRPC Copy Bot! @triton_one \n\n- Streams processed slot txns via Geyser gRPC\n- Detects target wallet’s Raydium swaps in real time\n- Mirrors trade size via pool deltas (price = post SOL / post token)\n- Optional Jito tips and bundle\n- Uses WSOL (for now)",
+      "timestamp": "Aug 25, 2025 · 9:56 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1960098868332298485#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1960037335224988139#m",
+      "content": "Cooking in Rust: a blazing-fast Solana indexer!\n\n→ Real-time QuickNode webhooks (no polling)\n→ gRPC +  streaming \n→ IPFS storage \n→ Smart caching (TTL + LRU) \n→ 1000+ TPS, <1ms queries Perfect for DeFi, analytics  \n     &real-time apps",
+      "timestamp": "Aug 25, 2025 · 5:51 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1960037335224988139#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1959727657781973484#m",
+      "content": "Rust isn’t required for Solana; most things can be built with TypeScript and Solana’s SDKs.",
+      "timestamp": "Aug 24, 2025 · 9:20 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1959727657781973484#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1959716709365153945#m",
+      "content": "Building the future of communities.!",
+      "timestamp": "Aug 24, 2025 · 8:37 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1959716709365153945#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1959702290828312840#m",
+      "content": "LSR – Lightweight Simple Rent (aka Less Stupid Rent)lol\n\nThis is a straightforward idea that keeps things fully composable.\n\nInstead of requiring users to prepay rent or worry about account cleanup, rent is just paid incrementally when accounts are accessed by the fee payer using the account. Simple.\n\nSo if an account is used once per epoch, it stays active and uncompressed without needing any extra maintenance. The rent is covered by whoever uses it.\n\nFor example, take a standard 168-byte token account that would normally require 0.02 SOL in rent. Under LSR, the expected per-epoch cost would be just 0.000005714 SOL, assuming rent prices stay constant.\n\nAnd here's the cool part: as more accounts are compressed and the total state size drops, rent will actually get even cheaper over time.",
+      "timestamp": "Aug 24, 2025 · 7:40 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1959702290828312840#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1959687234287960190#m",
+      "content": "Here’s a sneak peek at my Rust toolbox who can guess what I’m building just from these dependencies?",
+      "timestamp": "Aug 24, 2025 · 6:40 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1959687234287960190#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1959388777492738264#m",
+      "content": "Alpenglow is rewriting @solana consensus. \n\n→ Drops PoH + Tower BFT \n→ Rotor (real-time leader rotation) \n→ Votor (off-chain BLS voting) \n\nNo more vote txns clogging the chain. \nFinality: 100–150ms (Web2 speed). \nPayments, DeFi, games = instant.\nValidators save big.",
+      "timestamp": "Aug 23, 2025 · 10:54 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1959388777492738264#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1959381305617211564#m",
+      "content": "0.1% learning daily → 44% better you in a year. \n\nCompounding works on knowledge, too \n\nAbout 693 days → 100% better you in a year",
+      "timestamp": "Aug 23, 2025 · 10:24 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1959381305617211564#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1959367241792975128#m",
+      "content": "Building a trading bot for @BagsApp as a freelance project, written in Rust 🦀:\n\n→ BagsApp bundler + sniper\n→ Rust based trading bot scaffold on @solana\n→ Integrated with Meteora DBC & DAMM v2\n→ Full CLI with wallet management, API client, market making\n→ Features: Multi-RPC failover, smart slippage, real time tracking, PnL reports",
+      "timestamp": "Aug 23, 2025 · 9:28 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1959367241792975128#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1959337848836145397#m",
+      "content": "The best tech stack for low-latency apps (Rust edition)\n1. Rust \n2. SQLite + rusqlite\n3. Tokio + async/await\n4. Linux API",
+      "timestamp": "Aug 23, 2025 · 7:32 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1959337848836145397#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1959061757101842609#m",
+      "content": "If you can you are unstoppable.",
+      "timestamp": "Aug 23, 2025 · 1:14 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1959061757101842609#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1958960571107196967#m",
+      "content": "github.com/senzenn/rust-orde…",
+      "timestamp": "Aug 22, 2025 · 6:32 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1958960571107196967#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1958960568343171323#m",
+      "content": "Key Features of the new Order Book: \n\n→ Lock-free design with atomic ops \n→ Multi-threaded concurrent matching \n→ Memory-efficient data structures \n→ Sub-millisecond real-time updates \n\nStill under development  check it out & ⭐️ the repo! \nGITHUB  👇 @rustlang @solana",
+      "timestamp": "Aug 22, 2025 · 6:32 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1958960568343171323#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1958640238747685331#m",
+      "content": "Surly Bro is whipping up something exciting.!",
+      "timestamp": "Aug 21, 2025 · 9:19 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1958640238747685331#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1958256744687337582#m",
+      "content": "A small correction after getting scammed :) @kirat_tw",
+      "timestamp": "Aug 20, 2025 · 7:56 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1958256744687337582#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1958362100406899070#m",
+      "content": "Developing a Rust CLI order book.\n\nRust CLI order book features:\n\n- Instant data refresh\n- Secure WSS via Tungstenite\n- Smooth terminal navigation\n- Dynamic real-time chart\n\n@rustlang @solana",
+      "timestamp": "Aug 21, 2025 · 2:54 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1958362100406899070#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1957981457118556436#m",
+      "content": "🦀 My Essential Rust Dev Toolkit:\n\n ripgrep – fast code search\n fd – smarter file find\n bat – syntax-highlighted preview\n zoxide – jump dirs fast\n delta – beautiful git diffs\n kondo – clean project cruft\n bacon – auto-watch builds\n\nMust have @rustlang tools",
+      "timestamp": "Aug 20, 2025 · 1:42 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1957981457118556436#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1957976139760029736#m",
+      "content": "ship it fast......!",
+      "timestamp": "Aug 20, 2025 · 1:21 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1957976139760029736#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1957881234505216188#m",
+      "content": "RefCell  isn't thread-safe, so wrapping it in Arc defeats the purpose. You lose  thread safety AND add atomic overhead for nothing.",
+      "timestamp": "Aug 19, 2025 · 7:03 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1957881234505216188#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1957621084158824500#m",
+      "content": "Thanks to Clap, the dev grind just got smarter. Unveiling a rapid-fire AI Solana trading bot interactive, adaptive, and ready to shake up on-chain trading.",
+      "timestamp": "Aug 19, 2025 · 1:50 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1957621084158824500#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1957605072981926378#m",
+      "content": "Its 6:30 am now, finally going to sleep after finishing Solana Better CLI :)\n\nfull featured wallet management & trading toolkit for Solana ⚡\n\n- Manage wallets\n- Track portfolios\n- Swap tokens (via Jupiter)\n- Transfer SOL\n- Wrap/Unwrap SOL\n- Interactive CLI\n\ngithub repo 👇",
+      "timestamp": "Aug 19, 2025 · 12:46 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1957605072981926378#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1957508298225119279#m",
+      "content": "Whenever someone in the Rust crowd gets too exclusive, a single screenshot from rust-lang.org says more than words ever could.",
+      "timestamp": "Aug 18, 2025 · 6:22 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1957508298225119279#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1957188532247712239#m",
+      "content": "keep it up  @anshu_code",
+      "timestamp": "Aug 17, 2025 · 9:11 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1957188532247712239#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1957123213164454378#m",
+      "content": "Here’s a sneak peek at my Rust-based trading CLI bot for Solana 🦀\n➔ Manage wallets, tokens, and NFTs\n➔ Bundle transactions\n➔ Interact with programs\n➔ WebSocket subscriptions\nAll in one simple, efficient tool!",
+      "timestamp": "Aug 17, 2025 · 4:51 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1957123213164454378#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1956868613203276090#m",
+      "content": "trying to build an arbitrage bot in Rust on @solana \n\n- parses liquidity pools from Raydium, Meteora , Orca Whirlpool , PumpSwap, & more\n- calculates optimal trade size\n- uses flashloans to execute if profitable \n- aims for max profit across DEXes",
+      "timestamp": "Aug 17, 2025 · 12:00 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1956868613203276090#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1956773824470335522#m",
+      "content": "If you’re a Rust developer, you should know about these tools.\nfd - File finder\nripgrep - Text search\nbat - Enhanced cat\neza - Better ls\nzoxide - Smart cd\nstarship - Shell prompt\ndelta - Git diff\nbottom - System monitor\ngitui - Git interface\nhyperfine - Command benchmarking",
+      "timestamp": "Aug 16, 2025 · 5:43 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1956773824470335522#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1956442869842989151#m",
+      "content": "Just open sourced CCTP MultiChain Bridge a full featured USDC bridge for Ethereum, Base, Arbitrum, Optimism, Polygon, Avalanche & Solana \n\n- Built with TypeScript, Wormhole SDK, & Circle CCTP\n- Supports Mainnet + Testnet\n- Handles attestations & mints automatically\n\nRepo👇",
+      "timestamp": "Aug 15, 2025 · 7:48 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1956442869842989151#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1956440848075538642#m",
+      "content": "Read the code and guess the project i am building !!",
+      "timestamp": "Aug 15, 2025 · 7:40 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1956440848075538642#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1956230681639706721#m",
+      "content": "Going to sleep after diving into Solana’s Alpenglow upgrade from a great Helius article. It’s replacing Proof of History making things way faster & cheaper by moving voting off chain. Super impressive!  \n\nBut I still wonder will moving votes off chain risk more centralization? \n\n Key points:  \n- Finality: 12s → ~150ms (near instant) \n- Off-chain voting = less congestion, faster consensus \n- Rotor = 1 hop block broadcast \n- Lower costs → more validators \n- Simple 400ms block times, no cryptographic clock wait \n\nLink 👇",
+      "timestamp": "Aug 15, 2025 · 5:45 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1956230681639706721#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1956053025794982341#m",
+      "content": "Why settle for a todo app when you can try recreating the Nix package system? Ambitious? Definitely. Wish me luck!🦀❄️",
+      "timestamp": "Aug 14, 2025 · 5:59 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1956053025794982341#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1955808705611432412#m",
+      "content": "It’s 7:30 AM and I’m finally going to sleep :) \n\nSpent the night deep diving into ShredStream insane speed boost over gRPC.\n\n- About 100ms to 200ms faster\n- Mid-slot data\n- Access before the block is even complete\n\nI thought gRPC was the fastest turns out ShredStream is way quicker.\n\nJust finished writing a Rust ShredStream listener + parser (using protos for decoding)\n\nNow I just need a premium gRPC provider that supports ShredStream for an end-to-end test.\n\nUntil then… good night :D",
+      "timestamp": "Aug 14, 2025 · 1:48 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1955808705611432412#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1955858528108994576#m",
+      "content": "🔥🔥",
+      "timestamp": "Aug 14, 2025 · 5:06 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1955858528108994576#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1955693823755014640#m",
+      "content": "👀 Finished tinkering with tungstenite-rs and wow, it’s both insane and elegant. What should I build next in Rust? Hit me with your best project ideas.! make it more engazing.",
+      "timestamp": "Aug 13, 2025 · 6:11 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1955693823755014640#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1955418063882555573#m",
+      "content": "TEEs vs zk-SNARKs\n\n→ TEEs: Hardware-based, super fast, relies on trusted machines.\n→ zk-SNARKs: Math-based, no hardware needed, fully verifiable.\n\nTwo paths to keep your data private on-chain - which side are you on?",
+      "timestamp": "Aug 12, 2025 · 11:56 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1955418063882555573#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1955372332530405589#m",
+      "content": "just Open sourced Solana Rust Scripts dev toolkit for common @solana blockchain ops, all in Rust 🦀   \n\nIncludes scripts to:  \n\n- Generate wallets  \n- Create & mint SPL tokens  \n- Fetch Token-2022 NFT metadata \n - Fetch any token metadata from mint (PumpFun, LetsBonk, Meteora DBC, etc)  \n- Get NFT owners \n- List all NFTs owned by a wallet  \n- Subscribe to on-chain events  - Fetch on-chain Anchor IDLs\n\nrepo link -👇",
+      "timestamp": "Aug 12, 2025 · 8:54 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1955372332530405589#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1955335159856632150#m",
+      "content": "🦀❄️ Still can't believe more Rust devs aren't using Nix - declarative toolchain management hits different.",
+      "timestamp": "Aug 12, 2025 · 6:26 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1955335159856632150#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1954946552100691977#m",
+      "content": "Just built my own Batsay CLI, inspired by Cowsay! What message should I make the bat say first?",
+      "timestamp": "Aug 11, 2025 · 4:42 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1954946552100691977#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1954622629501124784#m",
+      "content": "PumpFun just rolled out contract changes and my SDK is already fully updated!\n\n• Added createAndBuy instruction for instant launch + buy in one go\n• Seamless direct contract interaction on Solana\n• Built for devs, bots, and real-time traders\n\n→ npm i latest-pumpfun-sdk",
+      "timestamp": "Aug 10, 2025 · 7:15 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1954622629501124784#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1954597873678479439#m",
+      "content": "WASM has revolutionized programming! WASM-Based Routing perfectly  showcases how this technology brings near-native performance directly  to browsers and it's genuinely one of the most exciting innovations in web  development",
+      "timestamp": "Aug 10, 2025 · 5:37 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1954597873678479439#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1953901918692290745#m",
+      "content": "Here’s mine Web3 → Solana → Fullstack Blockchain Developer Roadmap\n\nJavaScript / TypeScript → Async/Await → Fetch API / WebSockets\n\n→ Blockchain Basics (Wallets, Keys, Signatures, Transactions)\n→ Cryptography (ECDSA, Hashing, Ed25519)\n→ Token Standards (ERC-20 / SPL) → NFT Standards (ERC-721 / Metaplex)\n→ Choosing a Chain (Ethereum vs Solana) → Why Solana (Speed, Fees, Parallel Execution)\n→ Client-Side Dev with solana/web3.js → Wallet Adapters (Phantom, Solflare,Backpack)\n→ Reading On-Chain Data → Sending Transactions → Token Transfers\n→ SPL Token Program → Associated Token Accounts → Metadata Program\n→Use client side libraries Build simple dApps or wallet extensions for practice\n→ On-Chain Indexing (Helius, RPC/Webhooks)\n→ Try to understand others contract transactions like pumpfun and raydium on explorers\n→ Use prebuild launchpad sdks and make a simple trade bot using solana libraries solana/web3js and solana/spl-tokens\n→ Rust Fundamentals → Solana Program Architecture\n→ Anchor Framework Basics → Program Accounts → PDA & Seeds\n→ Testing Contracts (Mocha, Anchor Tests) → Local Validator & Devnet\n→ Cross-Program Invocations (CPI) → Sysvars → Rent\n→ Fullstack dApp (React / Next.js + Anchor + web3.js)\n\n→ Advanced Solana:\n   • Jito / MEV Protection\n   • Lookup Tables\n   • Transaction Bundling\n   • Parallel Execution & Priority Fees\n   • Alpenglow\n\n→ Tokenomics & Launchpads (Pumpfun, Raydium, Coinflict)\n→ NFT Mints & Candy Machine v3 → Auction House Program\n→ Deployment: Solana CLI → Mainnet\n→ Monitoring & Logging (Solana Explorer, Sig Verify, RPC Health)\n→ CI/CD for dApps & Programs\n→ Infra: Docker → Kubernetes → GPU Nodes (for AI-integrated dApps)\n→ Cloud (AWS/GCP) for RPC & Indexers",
+      "timestamp": "Aug 8, 2025 · 7:31 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1953901918692290745#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1953891541337932174#m",
+      "content": "🦀Trait Implementation Secrets: Making Your Rust Types Print-Perfect",
+      "timestamp": "Aug 8, 2025 · 6:50 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1953891541337932174#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1953480048918327633#m",
+      "content": "Jetking Infotrain Ltd, the Indian $MSTR\nStarted stacking BTC, ETH & USDT on the books since Nov '24.\n\nThe stock is up 409% in one year.\n\nRevenue: ₹21 Cr\nProfit: ₹3 Cr\nMarket cap: ₹188 Cr\n\nWe might not have a real @MicroStrategy.\nBut this desi version is giving Gujju MicroStrategy vibes.",
+      "timestamp": "Aug 7, 2025 · 3:35 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1953480048918327633#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1953538055903883549#m",
+      "content": "Just open-sourced my latest project a high speed @solana trading & bundling bot built for @bonk_fun .\n\n- Creates + trades tokens \n- Bundle buys/sells from 15+ wallets \n- Uses lookup tables to shrink TX size \n- Executes lightning-fast via Jito MEV\n\ngithub.com/anshuman008/letsb…",
+      "timestamp": "Aug 7, 2025 · 7:25 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1953538055903883549#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1953517556964209015#m",
+      "content": "Just revisited some of my old code from when I was learning about generic bound traits in Rust.\nUnpopular opinion: The best way to level up is to keep coding no matter what. Muscle memory beats theory every time!",
+      "timestamp": "Aug 7, 2025 · 6:04 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1953517556964209015#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1953296443977928989#m",
+      "content": "Built this global search bar for @coinflictdotfun—just a fun little design inspired by @SonicSVM. Try it out, explore, and let’s see what we build together! (WIP)",
+      "timestamp": "Aug 7, 2025 · 3:25 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1953296443977928989#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1953179450876834208#m",
+      "content": "My Web3 Journey: From Zero to $78,000 in 7 Months \n\nJuly: Started freelancing (MERN, Flutter, React Native).\nLost money in crypto trading, but got curious about how blockchain works.\n\nSeptember: Joined @kirat_tw  Web3 cohort \n\nMy complete @solana journey @aeyakovenko ! \n👇",
+      "timestamp": "Aug 6, 2025 · 7:40 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1953179450876834208#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1953150415706431859#m",
+      "content": "Just saw my friend’s study map.\n\nThis is what happens when you replace your thoughts with Git repos.\n\nTopics covered:\n\n→ Rust\n→ Solana\n→ React\n→ GraphQL\n→ TailwindCSS\n→ System Design\n→ TypeScript\n→ Express.js\n→ Vim\n→ Git\n→ API Design\n→ Project Structuring\n→ Full-stack concepts\n\nMakes me rethink how I take notes and structure knowledge.",
+      "timestamp": "Aug 6, 2025 · 5:45 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1953150415706431859#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1953145249741877672#m",
+      "content": "🦀 Simple Solana Token Transfer in Rust\n\nThis page shows a basic Rust code example for sending Solana tokens. It connects to the Solana Devnet, sets up the client and accounts, and prepares everything needed for a token transfer—all using clear, straightforward Rust code",
+      "timestamp": "Aug 6, 2025 · 5:24 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1953145249741877672#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1952815226736525473#m",
+      "content": "Started Web3 in Jan. Here's the journey till July:\n\n→ 1st grant: $3,000\n→ 2nd grant: $10,000\n→ Lexicon Hackathon: $15,000\n→ Sonic Hackathon: $50,000\n\nNo IIT. No MIT. No fancy job.\nJust a relentless team and consistent shipping in public.\n\nYour turn - what’s your journey? 🔥",
+      "timestamp": "Aug 5, 2025 · 7:33 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1952815226736525473#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1952912779708428555#m",
+      "content": "Been waiting forever to finish this—finally, I can add graffiti on payment! 😉",
+      "timestamp": "Aug 6, 2025 · 2:01 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1952912779708428555#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1952857259601740222#m",
+      "content": "🦀✨ Cookin’ Up Something Wild: Real-Time Magic with tokio-tungstenite! 🛠️",
+      "timestamp": "Aug 5, 2025 · 10:20 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1952857259601740222#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1952807408188764242#m",
+      "content": "So much is coming! I’ll be dropping some sneak peeks as well.",
+      "timestamp": "Aug 5, 2025 · 7:02 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1952807408188764242#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1952521507151946016#m",
+      "content": "It's 5:40 AM and just wrapped up coinflict-kit our official TypeScript client for @coinflictdotfun!\n\nToken creation, bonding curve trading, and more – all just one import away.\n\nCurrently live on devnet! \n\n@SonicSVM  @solana",
+      "timestamp": "Aug 5, 2025 · 12:06 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1952521507151946016#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1951735602963214762#m",
+      "content": "Live : project-showcase-amber.verce…",
+      "timestamp": "Aug 2, 2025 · 8:03 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1951735602963214762#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1951735600341819427#m",
+      "content": "Crafting an Interactive Project with @reactjs  + @greensock  – See it Live 👇",
+      "timestamp": "Aug 2, 2025 · 8:03 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1951735600341819427#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1951727678719164643#m",
+      "content": "Just wrapped up CryptoBet – a decentralized betting protocol on Solana!\n\n- Built with Anchor, uses Pyth for price feeds, and settles everything on-chain.\n\n- Create markets, place bets, resolve, and claim  all trustless!\n\ngithub repo 👇",
+      "timestamp": "Aug 2, 2025 · 7:31 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1951727678719164643#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1951422230857937333#m",
+      "content": "Markets are red today.\nBTC, ETH, SOL, MSTR all down.\n\nTotal crypto market: -2.76%\nIs this just a dip?\n\n#Crypto #BTC #ETH #SOL",
+      "timestamp": "Aug 1, 2025 · 11:18 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1951422230857937333#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1951381968509346115#m",
+      "content": "Just tested my @bonk_fun bot – full token lifecycle (mint, metadata, create tx, buy tx) done in <1 sec ⚡️\n\nNow adding a Twitter scraper :)\n\nSet any handle (Elon), and auto-launch a token the moment they post images, text, everything\n\nUsing premium RPC + Jito = 500ms~600ms speed",
+      "timestamp": "Aug 1, 2025 · 8:38 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1951381968509346115#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1951348723914776904#m",
+      "content": "Smooth, snappy, and minimal — love how this loader feels 👏\n\nBuilt with @reactjs + @greensock — inspiring work by @AdityaPlusp!",
+      "timestamp": "Aug 1, 2025 · 6:26 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1951348723914776904#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1951339566603858403#m",
+      "content": "Built with @reactjs  & @greensock ! Animating in public\nLink: project-showcase-amber.verce…",
+      "timestamp": "Aug 1, 2025 · 5:49 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1951339566603858403#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1950925972565373222#m",
+      "content": "Just shipped an AMM(Automated market makers) on Solana (devnet) \n\n- Create multiple token pairs\n- Users can spin up sub-pools under any pair\n- Swaps fully per pool liquidity\n\nBuilt with Anchor + tested in TypeScript \n\nBTW still trying to cover edge cases : )",
+      "timestamp": "Jul 31, 2025 · 2:26 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1950925972565373222#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1950829059530744017#m",
+      "content": "Revamping a project isn’t just about tweaking a few lines of code—it’s a deep dive into the entire codebase: fixing mistakes, untangling messy logic, and organizing everything for clarity. The goal? Simplicity, not complication. Combine that with strong CI/CD skills and clear, end-to-end communication across the team, and you’ve got the recipe for project success. 💡🚀",
+      "timestamp": "Jul 31, 2025 · 8:01 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1950829059530744017#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1950619959119561080#m",
+      "content": "WASM can be a headache 😅… my outputs are just the opposite of what I want! But I'm determined to figure it out. After all, Rust is such a beautiful language—it’s worth it.!!",
+      "timestamp": "Jul 30, 2025 · 6:10 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1950619959119561080#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1950289250517471539#m",
+      "content": "🚀 Hey Rustaceans!\nStumbled upon an absolute gem—every Rust developer should explore this underrated repo overflowing with incredible tools, libraries, and learning resources! Don’t miss out:\ngithub.com/rust-unofficial/a…\nWhat are your favorite hidden Rust resources? Share below! 🦀🔥",
+      "timestamp": "Jul 29, 2025 · 8:16 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1950289250517471539#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1950265097093546150#m",
+      "content": "Cooking something wild on @solana...\nA trading bot for @bonk_fun that:\n\n- Creates + trades tokens\n- Bundle buys/sells from 15+ wallets\n- Uses lookup tables to shrink TX size\n- Executes lightning-fast via Jito MEV",
+      "timestamp": "Jul 29, 2025 · 6:40 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1950265097093546150#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1949897301016621186#m",
+      "content": "Wondering why? Rust WASM lets browsers handle heavy tasks way faster than JavaScript, keeping your UI and animations ultra-smooth—especially with Next.js. That’s how you get snappier, more responsive web apps.",
+      "timestamp": "Jul 28, 2025 · 6:18 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1949897301016621186#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1949550179042160682#m",
+      "content": "Every time someone asks me about my degree🫥",
+      "timestamp": "Jul 27, 2025 · 7:19 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1949550179042160682#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1949529800059859419#m",
+      "content": "Website :- artisan-shader-nextjs.vercel…",
+      "timestamp": "Jul 27, 2025 · 5:58 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1949529800059859419#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1949529796339466452#m",
+      "content": "🦀 Building a real-time shader app in Rust!\nShaders added statically + users generate custom, optimized shaders\nExport options: TSX, JS, Figma\n\nUsing Rust macros for codegen keeps things fast and type-safe. Any other crate or approach suggestions?",
+      "timestamp": "Jul 27, 2025 · 5:58 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1949529796339466452#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1949181027051565448#m",
+      "content": "Github link: github.com/senzenn/axum-serv…",
+      "timestamp": "Jul 26, 2025 · 6:52 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1949181027051565448#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1949181022966620364#m",
+      "content": "Built an Axum-based client and server in Rust just to grasp the basics.",
+      "timestamp": "Jul 26, 2025 · 6:52 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1949181022966620364#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1948873693980921955#m",
+      "content": "Launch. Stream. Promote. Succeed. All automated..!",
+      "timestamp": "Jul 25, 2025 · 10:31 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1948873693980921955#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1948079792143708227#m",
+      "content": "⚡️ Performance question for #RustLang devs:  Best crate for WebP → ASCII conversion? Need maximum speed 🏃‍♂️  Currently evaluating options\nWhat's your go-to? 📦",
+      "timestamp": "Jul 23, 2025 · 5:56 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1948079792143708227#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1947748734923591933#m",
+      "content": "Hey @grok, can you please tell me about this person's achievements, courses, earnings, reputation, career, and aura in Web3, @solana, and IT student circles? \n\nHis x handle @kirat_tw",
+      "timestamp": "Jul 22, 2025 · 8:01 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1947748734923591933#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1947714519763206181#m",
+      "content": "cargo add ratatui crossterm oauth2 spotify-rs\nWant to contribute or learn more?\nJust ping me here! Let's build something awesome together.",
+      "timestamp": "Jul 22, 2025 · 5:45 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1947714519763206181#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1947709434320523610#m",
+      "content": "keep it up bud!",
+      "timestamp": "Jul 22, 2025 · 5:24 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1947709434320523610#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1947076355398451277#m",
+      "content": "Just wrote an generic on-chain deserializer for any SPL Token or NFT on @solana :)\n\n- Fetches metadata using findProgramAddressSync\n- Parses raw buffer data into human readable format\n\n• Name\n• Symbol\n• URI\n• Mint\n• Creator\n• Update Authority",
+      "timestamp": "Jul 20, 2025 · 11:29 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1947076355398451277#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1947022678759780575#m",
+      "content": "Every time someone says, Let’s build something new,\nthis is exactly what my group looks like:\n\n→ His points are invalid\n→ When will I get to speak\n→ I am right, I know everything\n→ I should change my view\n→ I am not interested\n\nStartups and group projects in one image.",
+      "timestamp": "Jul 20, 2025 · 7:55 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1947022678759780575#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1946998287963136505#m",
+      "content": "Repo Link - github.com/senzenn/rust-rest…",
+      "timestamp": "Jul 20, 2025 · 6:18 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1946998287963136505#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1946998284481872309#m",
+      "content": "Repo’s live! ⭐ it & jump in to contribute. Axum rules—should I try Actix next?",
+      "timestamp": "Jul 20, 2025 · 6:18 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1946998284481872309#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1946691924414398898#m",
+      "content": "Finally done with assignments.  : )",
+      "timestamp": "Jul 19, 2025 · 10:01 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1946691924414398898#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1946670540481335613#m",
+      "content": "After a wild rust macro assignment in that nearly melted my brain , I went deeper and built some extra procedural macros just to suffer more :)\n\n- #[profile] – logs when your function starts... and how long it tortured the CPU\n\n-  #[derive(RedactDebug)] – hides sensitive fields in Debug output",
+      "timestamp": "Jul 19, 2025 · 8:36 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1946670540481335613#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1946628746292687141#m",
+      "content": "The testing phase is still pending.\nPlanning to make it open source soon.!!\n@rustlang",
+      "timestamp": "Jul 19, 2025 · 5:50 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1946628746292687141#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1946616156686893182#m",
+      "content": "Story Time:\n\nI met a friend in the first year of college — a naturally talented coder. He had been coding since Class 11, and by the time we entered our first year, he already knew all the core programming concepts: loops, functions, data structures, OOP — everything. While the rest of us were still learning how to write a basic \"Hello World\" program, he was already solving college-level assignments with ease.\n\nIt’s been 5 years since then. With 7 years of non-stop coding experience under his belt, you’d expect him to be working in a top tech company or building innovative products, right?\n\nBut no.\n\nHe’s currently working as a college teacher, earning ₹20,000 per month — the same job he joined last year. He’s not involved in any major projects, no startups, no open-source contributions, no tech community activities. He spends his time helping students with assignments, taking classes, and that’s it.\n\nIt’s surprising. A guy with that level of coding knowledge, someone who lives in VS Code, is now stuck in a routine job with no technical growth or exploration.\n\nIt just goes to show — skill alone isn’t enough. Without direction, ambition, and real-world application, even the most talented people can end up underutilized.",
+      "timestamp": "Jul 19, 2025 · 5:00 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1946616156686893182#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1946391436255178897#m",
+      "content": "How I lost more than xx0 $SOL trading memecoins — and mistakes you should not repeat \n\n- Overtrading is a trap. sitting out is also a position.\n\n- Don’t suffer alone — talk to frens when you lose. helps more than you think.\n\n- Never selling - is a myth. take profits. it's not diamond hands, it's delusion.\n\n- 1 out of 100 memecoins actually runs. the rest? rugs or slow bleeds.\n\nalways check:\n - bubblemap\n - top 10% holders\n - funding wallets\n - snipers\n - utility (if any lol)\n - if the team is actually building or just vibing\n\nRed flags are red flags. don’t convince yourself otherwise.\n\nMake sure you don’t pay the same tuition fee. @solana @pumpdotfun @bonk_inu",
+      "timestamp": "Jul 19, 2025 · 2:07 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1946391436255178897#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1946285117082837269#m",
+      "content": "Thank you @AdityaPlusp, @anuragnegi000, @anshu_code  for gifting the Blue Checkmark. \n\n- 1.5$\n- 2.5$\n- 1.69$",
+      "timestamp": "Jul 18, 2025 · 7:05 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1946285117082837269#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1946265223091929329#m",
+      "content": "Building an auth backend with Rust and Axum is fun! 🚀",
+      "timestamp": "Jul 18, 2025 · 5:46 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1946265223091929329#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1945892563535151440#m",
+      "content": "Repo Link: github.com/BalliAsghar/Mails…",
+      "timestamp": "Jul 17, 2025 · 5:05 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1945892563535151440#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1945892560028782942#m",
+      "content": "⚡ Stop using your real email for testing - Mailsy creates temp cli based emails in seconds",
+      "timestamp": "Jul 17, 2025 · 5:05 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1945892560028782942#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1945557603712434207#m",
+      "content": "This is what i cooked in last 6 months (other than development)\n\nW or L?",
+      "timestamp": "Jul 16, 2025 · 6:54 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1945557603712434207#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1945537224717537540#m",
+      "content": "Me fr :-",
+      "timestamp": "Jul 16, 2025 · 5:33 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1945537224717537540#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1945473002155507753#m",
+      "content": "Just open-sourced a terminal-based dice game  crafted in Rust 🦀\nDon't forget to give it a ⭐️.",
+      "timestamp": "Jul 16, 2025 · 1:18 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1945473002155507753#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1945473006219727157#m",
+      "content": "Repo link:- github.com/senzenn/rust-dice",
+      "timestamp": "Jul 16, 2025 · 1:18 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1945473006219727157#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1945222272974758222#m",
+      "content": "That Era",
+      "timestamp": "Jul 15, 2025 · 8:41 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1945222272974758222#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1945226387331113467#m",
+      "content": "Got some cool nfts by completed challenges from @blueshift_gg :)\n\n- Anchor Vault\n- Minted an SPL Token",
+      "timestamp": "Jul 15, 2025 · 8:58 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1945226387331113467#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1945216483950248009#m",
+      "content": "🦀 Simple CLI-Based Dice Game in Rust",
+      "timestamp": "Jul 15, 2025 · 8:18 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1945216483950248009#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1945117735723188666#m",
+      "content": "I just completed it. I used heavy GSAP, but somehow I feel like if you have SVG, you can create almost every possible thing. Any kind of animation—I will be posting a link soon of my work. I'm currently working on a mobile device. @avara  @greensock @tailwindcss",
+      "timestamp": "Jul 15, 2025 · 1:46 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1945117735723188666#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1944038861853597706#m",
+      "content": "Bought few PUMP in presale,\n\nSaturday shopping with @pumpdotfun @solana",
+      "timestamp": "Jul 12, 2025 · 2:19 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1944038861853597706#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1943267489116491864#m",
+      "content": "Tired of ls, cd, and muscle memory battles?\n\nYazi is the final boss of terminal file managers.\n\n--Vim nav\n⚙️ Fuzzy search\n##  Fast AF\nFile ops never looked this good inside a shell.\nLINK github.com/sxyazi/yazi\n\n#Yazi #TUIlife #DevFlow #CLIbliss",
+      "timestamp": "Jul 10, 2025 · 11:14 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1943267489116491864#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1943008518971494715#m",
+      "content": "If you're a terminal-heavy dev, you'll relate:\n\nStill typing out long cd commands like it's 1999? 😩\nTry zoxide — it's like teleportation for your shell.\n\nYour pinky will thank you.\n🔗 github.com/ajeetdsouza/zoxid…",
+      "timestamp": "Jul 9, 2025 · 6:05 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1943008518971494715#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1942541715732148358#m",
+      "content": "Gave CSS Battle a shot for the first time — not too bad, right? @css_battle",
+      "timestamp": "Jul 8, 2025 · 11:10 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1942541715732148358#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1936849668849152089#m",
+      "content": "exactly...!",
+      "timestamp": "Jun 22, 2025 · 6:12 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1936849668849152089#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1936496359143588042#m",
+      "content": "here we goo again...!",
+      "timestamp": "Jun 21, 2025 · 6:48 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1936496359143588042#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1935767333223444768#m",
+      "content": "Here we go again ...!!!",
+      "timestamp": "Jun 19, 2025 · 6:31 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1935767333223444768#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1935611053880029232#m",
+      "content": "Gentle reminder…!",
+      "timestamp": "Jun 19, 2025 · 8:10 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1935611053880029232#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1931035308398711004#m",
+      "content": "✨",
+      "timestamp": "Jun 6, 2025 · 5:07 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1931035308398711004#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1928387968475058235#m",
+      "content": "🌐 arena.colosseum.org/projects…\n\n💫 Our project — Live24.fun — is now LIVE on Colosseum Arena! @Live24_Fun\n\nFrom an idea in a dorm to:\n🧠 Real-time AI agent\n🎮 @Sega_so integration\n🚀 Coming soon on @SonicSVM\n\nWe’re building the ultimate meme + trading + gaming experience on Solana.\nThis is just the beginning.\n\nGo check it out",
+      "timestamp": "May 30, 2025 · 9:48 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1928387968475058235#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1925687281769173414#m",
+      "content": "Spent the whole day battling with PDA parsing — tried Borsh, Solana Codecs… nothing worked right. Finally, Anchor saved the day! :)\n\nCompleted some arithmetic logics :\n\n- Calculated how many tokens you get per native coins\n-  Native coins returns when selling at various market caps\n\n@Live24_Fun  @SonicSVM",
+      "timestamp": "May 22, 2025 · 10:56 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1925687281769173414#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1923109721487057156#m",
+      "content": "🚀 Dev Update –  @Live24_Fun just got faster & cheaper\n\n→ Agent deploy time: -40% faster\n→ Token launch gas: cut by 30%\n→ UI load speed: 2x improvement\n\nWe’re optimizing hard so your meme coin can go viral even faster.\n\nBuilt on @SonicSVM ⚡️",
+      "timestamp": "May 15, 2025 · 8:14 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1923109721487057156#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1923171672607072315#m",
+      "content": "Sometimes It just takes a whole night and 100 tries to get a single successful simulation while integrating a Solana contract.\n\nWeb3 isn’t a cheat code — it’s a grind :)\n\n@Live24_Fun @SonicSVM",
+      "timestamp": "May 16, 2025 · 12:20 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1923171672607072315#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1922724685336183193#m",
+      "content": "Straightforward + Strategic Tone ⚡️\n\n- Why rely on paid shills when you can deploy an army of AI agents for less than coffee money?\n\n- @Live24_Fun is changing how meme coins launch and scale.",
+      "timestamp": "May 14, 2025 · 6:44 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1922724685336183193#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1856700519722422424#m",
+      "content": "I've been working on this for a while, and now received a grant of $10,000—this is the best day of 2024!\nthanks @kirat_tw @SuperteamIN @superteam",
+      "timestamp": "Nov 13, 2024 · 2:07 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1856700519722422424#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1857701361204207754#m",
+      "content": "That's a repost from the co-founder of CoinDCX himself—what a milestone for us!\n@smtgpt",
+      "timestamp": "Nov 16, 2024 · 8:24 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1857701361204207754#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1854319657425211848#m",
+      "content": "Github 🫡❤️",
+      "timestamp": "Nov 7, 2024 · 12:27 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1854319657425211848#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1853377901283921922#m",
+      "content": "🚀 New video alert! I just published a detailed guide on using the free version of meshTransitionMaterial on my YouTube channel! 🎥 This effect works on any object—not just cars.\n\n📺 Watch here: piped.kavin.rocks/watch?v=CTih5iva…\n\n#threejs #creativecoding #r3f",
+      "timestamp": "Nov 4, 2024 · 10:05 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1853377901283921922#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1852734721974780080#m",
+      "content": "A big W to @jacques_web3 , we got the pizza party before grant. Hoping for the best :)",
+      "timestamp": "Nov 2, 2024 · 3:29 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1852734721974780080#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1850813028431745453#m",
+      "content": "The beta access is for first 250 folks. Go and get early benefits.",
+      "timestamp": "Oct 28, 2024 · 8:13 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1850813028431745453#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1847961386728440137#m",
+      "content": "Now days 🪼",
+      "timestamp": "Oct 20, 2024 · 11:21 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1847961386728440137#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1847782505791050041#m",
+      "content": "NixOs being nixOs 🪼🥳",
+      "timestamp": "Oct 19, 2024 · 11:30 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1847782505791050041#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1847326651526357038#m",
+      "content": "Aren’t no way I gonna steal random dot files instead would love to configure it. On my own🫡\n@anuragnegi000  \n@nixos_org  @LinuxHandbook  @linuxtoday #nixos",
+      "timestamp": "Oct 18, 2024 · 5:19 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1847326651526357038#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1846942134672196085#m",
+      "content": "Windows->PopOS->ArchLinux->EndeavourOS->Ubuntu\n\nIn a single fuckin day :( \nAudio drivers suckksssss!!!\n\nWith OG’s @tuxdotrs @AdityaPlusp",
+      "timestamp": "Oct 17, 2024 · 3:51 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1846942134672196085#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1843197383498457558#m",
+      "content": "🚀 Sneak peek! HDR is coming to #Threejs in the next release (r170)\n\nFor the first time, enjoy threejs examples in HDR (WebGPU + HDR-capable monitor required)\n\nCheck out the difference:\n\nSDR:\nthreejs.org/examples/webgpu_…\n\nHDR:\nraw.githack.com/renaudrohlin…\n--\nPR:\ngithub.com/mrdoob/three.js/p…",
+      "timestamp": "Oct 7, 2024 · 7:51 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1843197383498457558#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1841370963914457469#m",
+      "content": "#GitHub  #GitHubStudentPack",
+      "timestamp": "Oct 2, 2024 · 6:53 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1841370963914457469#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1841147472606859516#m",
+      "content": "Hey @GitHubEducation, I’ve been trying to apply for the GitHub Student Developer Pack using my valid college ID and email, but I keep getting a prompt asking why I'm not on campus. I've been rejected three times due to this error. Can you help me fix this? Thanks",
+      "timestamp": "Oct 1, 2024 · 4:05 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1841147472606859516#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1838589480485138444#m",
+      "content": "Weekly students highlights update!\n👉 threejs-journey.com/highligh…\n\nWith @AndrewChenE @th_ebenezer @IE3JP @shaderboi @SerMedvid @SkrLeen @vordty @tama20013 @altimcode @marcomessa @AdityaPlusp @NINGN418\n\nUse #threejsJourney",
+      "timestamp": "Sep 24, 2024 · 2:41 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1838589480485138444#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1832559826586505299#m",
+      "content": "\"Really enjoyed working with Three.js and react-three/fiber!, especially lighting, and it was totally worth it!\" 🫡❤️\n\n#ThreeJS\n#ReactThreeFiber\n#WebGL\n#3DDevelopment\n#JavaScript\n#WebDevelopment\n#CreativeCoding\n#3DRendering\n#FrontendDev\n#ThreejsJourney\n#LightingIn3D",
+      "timestamp": "Sep 7, 2024 · 11:21 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1832559826586505299#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1831659481622516155#m",
+      "content": "indeed!",
+      "timestamp": "Sep 5, 2024 · 11:43 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1831659481622516155#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1831012991925657793#m",
+      "content": "good developers only use a terminal",
+      "timestamp": "Sep 3, 2024 · 4:54 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1831012991925657793#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1828270486071189891#m",
+      "content": "Thanks Neovim",
+      "timestamp": "Aug 27, 2024 · 3:17 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1828270486071189891#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1820514284788482145#m",
+      "content": "Just fixed a random ShadcnUI issue that I had been facing for two days Thanks to a little help from Discord and GitHub discussions, I finally resolved it.  Big thanks to everyone who contributed to the discussion. 🙌#Shadcn #UI #React #NextJS #DeveloperCommunity #WebDevelopment",
+      "timestamp": "Aug 5, 2024 · 5:36 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1820514284788482145#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1815520162361278782#m",
+      "content": "#1.1 Till mutations \n\n#Rust",
+      "timestamp": "Jul 22, 2024 · 10:51 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1815520162361278782#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1794465486391955652#m",
+      "content": "Sleep already..!",
+      "timestamp": "May 25, 2024 · 8:28 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1794465486391955652#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1792271281909379164#m",
+      "content": "Building my custom neovim config ⚠️ because  vs code theme is are not  responsive  and hell it's built on electron\n\nmkdir -p ~/.config/nvim\ntouch ~/.config/nvim/init.lua\n\nnvim ~/.config/nvim/init.lua \n🪶💀",
+      "timestamp": "May 19, 2024 · 7:09 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1792271281909379164#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1755300607261606101#m",
+      "content": "Just dived into learning React, but faced some high-end tasks! 🚀 Mastered Recoil for state management, but Hooks were a bit tricky. Saying bye-bye to minor topics for now and diving into real projects! 💻 Excited to see what I can build! #React #Recoil #CodingJourney",
+      "timestamp": "Feb 7, 2024 · 6:40 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1755300607261606101#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1752650683592151367#m",
+      "content": "If you know javascript then you’re a junior engineer doesn’t matter if you’re a beginner or an intermediate in it \nIs this true?\n#connect #Connect #javascript #BudgetSession #MAFS #TECH4ALL #100DaysOfCode #javascript #mern",
+      "timestamp": "Jan 31, 2024 · 11:11 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1752650683592151367#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1752437929752821800#m",
+      "content": "Do you Promises  are in Js ?\n\n#React #JavaScript",
+      "timestamp": "Jan 30, 2024 · 9:05 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1752437929752821800#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1752155595984236840#m",
+      "content": "I'm Looking To Connect With People\nFrontend Developer\nBackend Developer\nFullstack Developer\nAndroid Developer\nSoftware Developer\nComputer Science Students\nLet's connect and build Community\nRetweet are appreciated to #connect #developer",
+      "timestamp": "Jan 30, 2024 · 2:23 AM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1752155595984236840#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1733935363633430535#m",
+      "content": "🐝  i am in love with  Recursion ☠️ or i am yet to face the real face of Recursion🥲 \n\n#softwareengineerlife #techielife #techlife #codewars #codingchallenge #askmeanything #whatilearned #codingquestions #codetogether #buildsomethingtogether #learntocodenow",
+      "timestamp": "Dec 10, 2023 · 7:43 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1733935363633430535#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1733873533015695721#m",
+      "content": "Again!!!  Your FAVOURITE IDE NAME .  \n\n#vim #neovim #IDE  #VSCode  #code",
+      "timestamp": "Dec 10, 2023 · 3:37 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1733873533015695721#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1733869935364046975#m",
+      "content": "Inspire \nInspire\nInspire \nInspire\nInspire",
+      "timestamp": "Dec 10, 2023 · 3:23 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1733869935364046975#m",
+      "author": "AdityaPlusp"
+    },
+    {
+      "id": "1733158158355558404#m",
+      "content": "Real pain ?? Your thoughts 😂. \n\n#programming #anime",
+      "timestamp": "Dec 8, 2023 · 4:14 PM UTC",
+      "url": "https://twitter.com/AdityaPlusp/status/1733158158355558404#m",
+      "author": "AdityaPlusp"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T01:29:41.903Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 198,
+    "pagesFetched": 12,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 31392,
+    "cursorTrail": [
+      "DAAHCgABG3v1WuX__-sLAAIAAAATMTk3MzQzNjIxNzcwNzM4MTExNAgAAwAAAAIAAA",
+      "DAAHCgABG3v1WuX__9cLAAIAAAATMTk2NDgxMzUyNjExNzM2NDA2MwgAAwAAAAIAAA",
+      "DAAHCgABG3v1WuX__8ILAAIAAAATMTk2MDA5OTgwOTAxNDIzMTM2MQgAAwAAAAIAAA",
+      "DAAHCgABG3v1WuX__60LAAIAAAATMTk1Nzk3NjEzOTc2MDAyOTczNggAAwAAAAIAAA",
+      "DAAHCgABG3v1WuX__5gLAAIAAAATMTk1NDczMDA3NDY4ODU4OTkzMwgAAwAAAAIAAA",
+      "DAAHCgABG3v1WuX__4MLAAIAAAATMTk1MTM4NDgxODM5NjA3ODU2NQgAAwAAAAIAAA",
+      "DAAHCgABG3v1WuX__28LAAIAAAATMTk0NzQwMzY5ODIyNjgzMTM3MAgAAwAAAAIAAA",
+      "DAAHCgABG3v1WuX__1oLAAIAAAATMTk0NTIxNjQ4Mzk1MDI0ODAwOQgAAwAAAAIAAA",
+      "DAAHCgABG3v1WuX__0cLAAIAAAATMTg1Nzk5MTc0MDEzNDczMjI1NQgAAwAAAAIAAA",
+      "DAAHCgABG3v1WuX__zILAAIAAAATMTc5MjI3MTI4MTkwOTM3OTE2NAgAAwAAAAIAAA",
+      "DAAHCgABG3v1WuX__ykLAAIAAAATMTczMzE1ODE1ODM1NTU1ODQwNAgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

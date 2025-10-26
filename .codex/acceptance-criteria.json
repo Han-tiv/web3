@@ -1,0 +1,27 @@
+{
+  "interface_spec": {
+    "inputs": [
+      ".env 中的交易与 Telegram 配置",
+      "release 可执行文件 ./target/release/profit_monitor 与 signal_trader"
+    ],
+    "behaviour": "执行命令后 120 秒内 start_both.sh 完成环境验证并启动两个进程，随后脚本因 timeout 自动退出但后台进程保持运行。",
+    "outputs": [
+      "profit_monitor 与 signal_trader 后台进程 PID",
+      "日志文件 profit_monitor.log、signal_trader.log 更新"
+    ]
+  },
+  "edge_cases": [
+    "timeout 提前终止脚本时子进程存活情况",
+    ".env 缺失或变量为空时脚本直接退出",
+    "重复运行时旧进程被停止并重新启动"
+  ],
+  "performance": {
+    "expectation": "start_both.sh 在 120 秒内完成初始化",
+    "notes": "timeout 仅用于防止脚本卡住，长期运行由子进程继续承担"
+  },
+  "testing_strategy": [
+    "运行命令后使用 ps 或 pgrep 检查两个进程 PID",
+    "查看 profit_monitor.log 最新时间戳确认写入",
+    "确认命令返回的后台 PID 为 start_both.sh 的 nohup 进程 ID"
+  ]
+}

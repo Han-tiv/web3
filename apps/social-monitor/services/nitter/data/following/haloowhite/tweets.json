@@ -1,0 +1,655 @@
+{
+  "account": {
+    "id": "1430231339752509442",
+    "screen_name": "haloowhite",
+    "name": "White 🌊",
+    "description": "24｜ENTJ｜Totally obsessed with crypto, can't get enough of it!｜Web scraping at @KaitoAI ｜With no limitation｜Tweets only represent personal views",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1946725421409607680/TY8jb3TF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1430231339752509442/1758801765",
+    "followers_count": 763,
+    "friends_count": 181,
+    "statuses_count": 374,
+    "favourites_count": 3027,
+    "listed_count": 9,
+    "location": "",
+    "website": "https://t.co/kyL16BIrqD",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2021-08-25 02:11:47 +08:00",
+    "url": "https://twitter.com/haloowhite",
+    "rest_id": "1430231339752509442"
+  },
+  "tweets": [
+    {
+      "id": "1971882235549847766#m",
+      "content": "｜ Halo\n\n这是一则自我介绍\n\n我是谁，不重要，我是做什么的，也不重要，重要的是我能提供给你什么价值？但正因为我是谁、做过什么的才决定了我能为你提供什么，所以容我娓娓道来（如果赶时间可以直接跳到最后）\n\n24岁、曾任计算机会长、手撕Akamai、经手过上亿的数据、亲手敲过的代码上十万，几乎爬过你耳熟能详的各大海内外厂商…....我还可以继续堆叠一堆label，但这都不是最真实的我，撑死只是其中的微小一部分。正如你所经历的才构成了现在的你，而人是一直在经历的，所以人也是一直动态的\n\n｜The pleasure of finding things out\n\n对于技术我始终是痴迷和热爱的，特别是自动化和爬虫相关的（当然，远不止如此）。大学的时候，我就写过很多脚本，其中有用于在期末抢课的脚本，还有自动监控课程余量并在有空位时自动抢课，当时整个实验室还有身边很多不认识的同学，都在用我写的脚本用于抢课。当看到身边同学用我的脚本抢到课时，那种纯粹的快乐，是真的会让人无比上头。当然还有很多类似的，无需对方账号帮朋友查竞争对手的考试成绩、监控学校新闻公告、二课活动等\n\n虽然现在我的技术早已超过当年那个毛头小子了，但哪怕我逆出攻破再多再厉害成熟的商业产品，也无法和当时分泌的多巴胺比拟。因为这不仅仅是是我的来时路，更是启蒙我探索接下来的一切\n\n正是那些时刻让我一次又一次体验到费曼所说的 The pleasure of finding things out（发现事物的乐趣 ）。对他而言，乐趣在于理解宇宙的底层规律；对我而言，那种乐趣在于用代码作为杠杆，撬动现实世界的一点点小改变，让它变得更方便，或者，仅仅是更有趣一点\n\n｜ What I cannot create I do not understand\n\n这也是我一直秉持的费曼的一个观点 What I cannot create I do not understand（凡我不能创造的，我便不能理解）。由于我的个人经历，我热衷于创造并分享一些实用的工具，比如开源过grass的挂机脚本（当时开源最早的）、Noss的mint脚本（就是那个电脑挖冒烟都挖不出来的那个项目）。还有一些未公开的，比如各种tg游戏的签到脚本，还有一套完整的撸毛系统（包含且不限于，尽可能低磨损无地址关联的钱包余额初始化、低成本保持链上高质量活跃度、基于IP的浏览器指纹生成、基于IP时区的自动化完成任务且自动规划下次任务时间、最大化收益且防女巫的账号树算法策略，这些可以以后慢慢分享）等等，以及数不清的各大中小网站的数据采集监控脚本\n\n｜ Explain every idea so a child gets it\n\n但乐趣如果不能分享，就会减半。而要分享，首先得能把事情讲清楚。所以之后我会在这尽可能分享一些实用的脚本或策略思路，我会尽可能讲得通俗易懂，而不是故意假大高深以显示自己有多么精英厉害\n\n当然，一个人的精力是有限的。为了让分享更专注、更有价值，我将会在我的个人博客网站（见bio）中分享更加专业硬核的技术文章（一大批干货正在路上），而在这里（X/Twitter）将会分享一些比较轻松有趣、实用具体的话题或工具，可以是感悟、也可以是一些实用的自己开发的工具分享。当然！更多的是一些我的专业能力和web3结合的有意思的产物～\n\n｜ One more thing\n\n最后，我始终相信无论是真实世界还是Web3都应该是有趣的，而不是被少数人定义、充满行话和壁垒的呆板象牙塔",
+      "timestamp": "Sep 27, 2025 · 10:18 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1971882235549847766#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1980288546155241881#m",
+      "content": "通过对 @openmind_agi  API请求（移动端）的逆向，简单分析下OpenMind APP 相关的运作机制\n\n（剧透一下，有防沉迷机制，一天积分上限11.60799999999987）\n\n- 身份认证机制\n使用JWT token结合Clerk认证服务进行用户身份管理。token有效期仅60秒，防止被盗用后长期滥用（但其实刷新 token 接口长时间有效，且无签名校验）\n\n- 位置证明系统\n传输数据重点是GPS坐标信息，包含纬度经度和海拔数据。采用双时间戳设计机制：提交时间戳和GPS定位时间戳，两者时间差可以验证数据实时性，用于防止提交历史数据作弊\n\n- 蓝牙射频数据采集\n关键数据rf_data数组，包含捕获周围蓝牙设备的信号。相关数据包含MAC地址、RSSI信号强度、制造商数据和原始数据包（制造商ID可以识别设备类型，比如苹果设备使用“034c”）\n\n- 技术实现原理\n结合GPS位置定期提交数据。服务器通过多维度验证真实性\n1. 位置唯一性：GPS坐标确保用户在不同地理位置\n2. 时间连续性：时间戳防止重放攻击\n3. 环境真实性：蓝牙设备指纹验证用户确实在该物理空间，很难伪造周围真实设备的RSSI和MAC地址\n4. 运动状态：speed字段判断用户行为模式\n\n- 防作弊设计\n（但前提需要大量地理位置交叉用户）\n反作弊的核心不只在于GPS，因为单纯伪造GPS容易，但同时伪造周围环境的蓝牙设备信号特征就很困难。可以通过交叉验证多个用户在同一位置相对时间内扫描到的设备是否一致来识别作弊。短实效的身份认证Token和时间戳也可以防止重放攻击\n\n打个总结，其实 @openmind_agi 是在通过基于位置证明下的DePIN挖矿，构建一个真实世界的数据，用于后续给机器人提供现实物理层面的训练，btw,  @Tesla  不也一直在做类似的事情么\n（众所周知，给强化学习搭建真实现实物理环境的成本是巨高昂的）",
+      "timestamp": "Oct 20, 2025 · 3:02 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1980288546155241881#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1979566474437243266#m",
+      "content": "推荐中文名：跑路\n\n（APRO -> 跑路专家 -> Always Predict Right Oracle）\n\n“跑路” 在中文里代表以下含义\n\n跑 = 率先获取链下真实数据，快人一步\n路 = 构建区块链与现实世界的数据通路\n\n中文Slogan都帮你们想好了👇️\n\nAPRO：让跑路成为一门预言的艺术",
+      "timestamp": "Oct 18, 2025 · 3:13 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1979566474437243266#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1979379822855098879#m",
+      "content": "分享个我常用的社交技巧：第一次和人聊天时，可以问“你最近在看什么书呀”\n\n这样就能快速了解对方的兴趣点，顺着这个话题延伸就行。如果发现对方有点迟疑，可以先分享自己在看的书，场面也不会尴尬\n\n人都有分享欲，让对方多说反而体验更好",
+      "timestamp": "Oct 18, 2025 · 2:51 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1979379822855098879#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1978994952014078301#m",
+      "content": "Alpha高材生在吗？有道题想请教：\n\n这是第几代Alpha稳定币",
+      "timestamp": "Oct 17, 2025 · 1:22 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1978994952014078301#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1978666027082019302#m",
+      "content": "这是一些关于风控的点，相关的技术人员他们肯定都懂\n\n1、逆向难度\n        - 增加调试，Native层加固（OLLVM混淆）\n- 反调试（检测Frida/Xposed，真好）\n- 完整性校验：App签名+DEX/SO文件哈希校验+关键代码段CRC\n\n2、设备指纹（详见下方风控详情\n\n3、请求签名\n- 每次请求的时候都计算请求签名，避免重房攻击\n- 动态下发签名算法参数，定期轮换\n\n4、风控\n- 设备指纹（陀螺仪、加速度计、磁力计等传感器，云手机检测、模拟器检测、插件检测、root/Xposed/LSP手机环境检测，基础信息是否自相矛盾）\n- 网络环境，Wi-Fi名称、web-rtc局域网IP、Wi-Fi BSSID、局域网设备信息数量、周边Wi-Fi/AP列表（云手机哪怕开启Wi-Fi、蓝牙，周围的Wi-Fi列表也是0）、运营商/ASN检测\n- 请求客户端TLS指纹检验（发送请求是否来自真实设备，ja3/ja4、Akamai TLS Hash指纹）\n- 请求链路/行为序列，正常用户领取路径为 首页->alpha页面->空投->尝试领取，如果用户直接请求领取空投关键接口，没有触发旁路的其他接口，可以直接将用户划入严重可疑范围，再结合其他风控指标进行判别\n- 用户行为，关键接口收集用户的行为数据，滑动、点击、触摸压力、陀螺仪等作为辅助判断（哪怕工作室使用自动化，但用户行为也是极其单一的）",
+      "timestamp": "Oct 16, 2025 · 3:35 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1978666027082019302#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1978441610305384850#m",
+      "content": "关于币安公告监控，构造请求时主要需要关注的几个点：\n\n1、设备指纹构造：包括但不限于基础设备系统信息、时区、客户端时间、canvas指纹、audio指纹（全程保持一致，后续需注册并调用）\n\n2、「风控重点」fvideo-id、fvideo-token 参数\n- 构造指纹请求接口注册设备指纹，POST请求 /fvideo/dt/sign/web 接口，POST的data构造流程如下：\n           浏览器指纹JSON → UTF-8编码 → 字节转整数数组 → XXTEA加密 → 整数转字节 → Base64编码 → XOR校验 → 最终签名\n  - resp中的dfp为fvideo-id\n  - 将resp中的dt字段按如下流程构造即为fvideo-token：\n        拼接dt内容|时间戳 → XXTEA加密（生成6位随机密钥） → Base64编码 → 计算XOR校验位 → 拼接得到最终token\n\n3、bnc-uuid、x_trace_id -> 魔改uuid4，最后一位强制改成b，每次请求都需重新生成（本质是后端记录请求链路）\n\n4、csrftoken -> d41d8cd98f00b204e9800998ecf8427e （固定值，其实就是将空字符串''md5的结果）\n\n5、device-info -> 标准base64编码，解码就能看到明文\n\n6、Cookie中的bnc-uuid字段与headers中的bnc-uuid保持一致，BNC_FV_KEY与fvideo-id一致\n\n7、其他headers字段与构造的设备指纹对齐即可\n\n币安展示还没上TLS/JA3校验（但随时可在AWS waf中开启），目前不用构造浏览器JA3也是能正常返回数据\n\n稍微有点干，祝用餐愉快",
+      "timestamp": "Oct 15, 2025 · 12:43 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1978441610305384850#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1978427336644079934#m",
+      "content": "Another！",
+      "timestamp": "Oct 15, 2025 · 11:46 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1978427336644079934#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1978420339940934143#m",
+      "content": "你有什么资历？我19年的时候一周速通Python，然后就开始折腾爬虫，从Fiddler抓包分析到IDA Pro逆so、Frida hook内存。自研AST引擎还原OB混淆和动态加密，手撕Cloudflare 5秒盾的Challenge算法，逆cf_clearance生成机制。后来深入JSVMP虚拟指令集，把opcode映射、栈操作、执行逻辑完整逆向还原\n\n结果到了crypto，你们现在还在用Selenium/Playwright，换代理就以为能过检测，连CDP协议泄露、navigator污染、WebDriver特征都不处理，我只是替你们惋惜",
+      "timestamp": "Oct 15, 2025 · 11:19 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1978420339940934143#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1978126205506224152#m",
+      "content": "全自动币安alpha，这波什么水平\n\n（走的移动端端接口",
+      "timestamp": "Oct 14, 2025 · 3:50 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1978126205506224152#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1977028730779582734#m",
+      "content": "刚搭的币安广场公告监控，这个延迟什么水平🐶\n\n（尽管还没实现比发布时间快1s）",
+      "timestamp": "Oct 11, 2025 · 3:09 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1977028730779582734#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1976629837281501273#m",
+      "content": "你有没有发现一个很诡异的现象：\n\n刷抖音10分钟感觉被掏空，但在电影院看完两小时电影反而精神抖擞？\n\n其实这背后藏着一个脑科学的真相👇\n\n关键在于认知负荷的类型不同\n刷短视频时，你的大脑每5-15秒就要：\n切换新场景、理解新剧情、调动新情绪、重置注意力\n\n这叫认知碎片化。神经科学研究发现，大脑的前额叶皮层在频繁切换任务时会产生切换成本。每次切换都要消耗葡萄糖和神经递质，导致认知资源急速枯竭\n\n而看完整部电影呢？\n虽然时间更长，但你的注意力是持续聚焦的。大脑进入心流状态后，前额叶和默认模式网络协同工作，神经通路越用越顺畅，看完还会有种满足感、忍不住回味\n\n这叫深度工作，累的是肌肉，但爽的是精神。所以真正的休息，并不是刷视频刷推，而是：\n去跑步（切换到身体模式）、发呆冥想（让大脑真空机）、或者只专注手上一件事（比如收拾房间，做饭）\n\n记住：休息的本质是切换认知模式，而不是降低认知强度\n\n碎片化娱乐不等于放松，那只是在自我消耗。下次累了别再刷手机了，去楼下散散步，你会发现效果好很多",
+      "timestamp": "Oct 10, 2025 · 12:44 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1976629837281501273#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1976127800404054412#m",
+      "content": "让我们说中文",
+      "timestamp": "Oct 9, 2025 · 3:29 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1976127800404054412#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1975107780152533259#m",
+      "content": "方程式抓取推送的bn公告比币安官网的发布时间还快一秒！\n\n在绝对的实力面前，竞争对手只能吃尾气",
+      "timestamp": "Oct 6, 2025 · 7:56 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1975107780152533259#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1973672622820106593#m",
+      "content": "我读《悉达多》，读到的是什么\n\n悉达多从万事万物上都能学到很多，从婆罗门、沙门、佛陀、船夫中学习，悉达多逐渐意识到真正应该学习的是自己，心中的声音才是他最该追求的\n\n便独自踏上了征程，直面自己的欲望。\n\n他听到了自己内心的声音，于是名妓和商人成了他的老师。悉达多确实学得很快，也有所成。他征服了名妓，学会了穿戴华美，也拥有了自己的宅邸花园。渐渐得，悉达多活成了世人，赌徒、酒鬼是他的老师\n\n一天悉达多从性和酒的麻醉中醒来，他心中的自己还是个沙门，于是他又只身走进丛林中，途中渡他过河的船夫和河流成了他的老师\n\n船夫从河水中学到了很多，悉达多也是。\n\n犹如驻足溪流中，明明河水从脚趾间流过，却什么也没有带来也没留下。时间是河水，生活也是，而当执着于指间流过的河水时，你必然会痛苦，因为它已逝去不可改变。你所追求的东西，你以为是名是利，其实都是幻想，钱就是钱，石头就是石头，水就是水，一切本就是原本的模样。真正的意义不在于流过的水，而是那个始终驻足溪中的人——你自己\n\n无尽的水从趾间流过，带来的是形形色色的人、数不尽的物、无数的回忆，而这些都会随水而逝。但流逝之后，沉淀下来的，是你从这一切中觉察到的自己，是你在经历中逐渐清晰的内心声音，是那个始终未曾改变的本我\n\n悉达多和船夫都从水中悟出：时间并不存在。因为无论时间如何流逝，你始终是你。那个在溪中驻足的人，那个感受着水流却不被水流带走的人，那个心中原本的自己，才是最真实、最永恒的存在",
+      "timestamp": "Oct 2, 2025 · 8:53 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1973672622820106593#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1973280219881676831#m",
+      "content": "没有老鼠仓的不一定是好项目，但有的一定差不到哪去\n\n共勉",
+      "timestamp": "Oct 1, 2025 · 6:54 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1973280219881676831#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1973040339528417533#m",
+      "content": "请认准这个链接！\n\ntweet.haloowhite.com/\n\n强烈建议使用电脑端打开，体验更佳！",
+      "timestamp": "Sep 30, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1973040339528417533#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1973040336726630865#m",
+      "content": "我做了个用于预览推文的工具\n\n大家肯定都有过这样的经历：辛辛苦苦写了一篇推文，结果一发布就被折叠到只剩半句话。于是，这个工具应运而生，它的显示效果和推特官方完全一致，精确到每一个字符和标点！\n\n如果你发现哪怕有一点点不一致，我直接....开玩笑的，我直接求求你给我反馈一下\n\n重点功能如下：\n\n- 实时展示推特的折叠预览，随改随看\n- 所有逻辑都在浏览器本地运行，不上传任何内容\n- 清晰呈现加权规则，方便你优先摆放关键信息\n\n如果你发现任何差异，拜托第一时间告诉我 🙏\n\n(链接放评论区了)",
+      "timestamp": "Sep 30, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1973040336726630865#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1970825347085332914#m",
+      "content": "区块链疯了\n\n- 以太坊，其实是个套壳的智能合约平台\n\n- 智能合约，其实是个套壳的字节码\n\n- 字节码，其实是个套壳的 EVM（虚拟机）\n\n- EVM，其实是个套壳的底层编译器\n\n- 编译器，其实是个套壳的汇编\n\n- 汇编，其实是个套壳的 0 和 1\n\n- 0 和 1，其实是个套壳的电流",
+      "timestamp": "Sep 24, 2025 · 12:19 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1970825347085332914#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1970650071017644177#m",
+      "content": "do what you want to do",
+      "timestamp": "Sep 24, 2025 · 12:42 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1970650071017644177#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1969826339407724618#m",
+      "content": "So this was the whole point.",
+      "timestamp": "Sep 21, 2025 · 6:09 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1969826339407724618#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1968999855990231062#m",
+      "content": "iOS26防晕车的小原点也是Liquid Glass！",
+      "timestamp": "Sep 19, 2025 · 11:25 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1968999855990231062#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1968899849987805399#m",
+      "content": "如何判断一个创始人有没有亲自下场做东西，看他脸上有没有痘和黑眼圈就行了",
+      "timestamp": "Sep 19, 2025 · 4:47 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1968899849987805399#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1968674650512064615#m",
+      "content": "说眼睫毛没有保护作用我是第一个反对的。每次滴眼药水，脸都洗了一遍了，眼睛还是干的",
+      "timestamp": "Sep 18, 2025 · 1:53 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1968674650512064615#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1968497449682477417#m",
+      "content": "冥冥之中，我总觉得世界上一定有我的分片，对了，还不止一片",
+      "timestamp": "Sep 18, 2025 · 2:08 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1968497449682477417#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1968479742178292022#m",
+      "content": "im ready!",
+      "timestamp": "Sep 18, 2025 · 12:58 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1968479742178292022#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1968139467598000510#m",
+      "content": "身体永远会选择最低能量的形态\n\n所以，当你不想起床的时候就别起继续赖床，累了就立马停下手上的工作刷会儿小红书，不想运动就别动躺着刷回儿短视频，想吃零食夜宵就点点烧烤小啤酒，到点不想睡觉就继续刷会手机直到睁不开眼\n\n总结，该睡睡该吃吃，不然，身体怎么知道你是废物",
+      "timestamp": "Sep 17, 2025 · 2:26 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1968139467598000510#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1967198141611901314#m",
+      "content": "If you want a new skill to stick:\n\n1. Blocked retrieval practice initially, refining consecutive attempts until you can consistently execute correctly.\n\n2. Interleaved spaced retrieval practice afterwards, ideally obtained by layering more advanced skills on top.",
+      "timestamp": "Sep 14, 2025 · 12:06 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1967198141611901314#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1967240603810615398#m",
+      "content": "You can change the source code of this world.",
+      "timestamp": "Sep 14, 2025 · 2:54 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1967240603810615398#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1967169114935578988#m",
+      "content": "reality is the greatest design and product",
+      "timestamp": "Sep 14, 2025 · 10:10 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1967169114935578988#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1966932390598553807#m",
+      "content": "Don’t chase intensity early, chase repetition. Neural circuits strengthen through frequency, not force. Show up daily, even at 20% capacity, and the loop solidifies. Momentum is the compound interest of consistency; small deposits over prolonged procrastination.",
+      "timestamp": "Sep 13, 2025 · 6:30 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1966932390598553807#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1967109710362145029#m",
+      "content": "微信读书的传闻是真的！终于我也遇到了神秘的送书人",
+      "timestamp": "Sep 14, 2025 · 6:14 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1967109710362145029#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1966744982011666869#m",
+      "content": "If you want to change your behavior, change where you get your dopamine.",
+      "timestamp": "Sep 13, 2025 · 6:05 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1966744982011666869#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1966798971738984498#m",
+      "content": "发现推上喜欢iPhone Air的很多都是设计师诶",
+      "timestamp": "Sep 13, 2025 · 9:39 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1966798971738984498#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1966159137143927105#m",
+      "content": "可能很多人都觉得iPhone17 pro max升级2TB没太大的意义，但在中国iPhone PM 1TB和茅台是送礼的硬通货，当然现在是2TB了。可怜国内的老板们又要多出几千块钱了，虽然对他们来说无关紧要…\n\nbtw，air我是真喜欢，真喜欢！尽管很多人也觉得air也没太大意义…",
+      "timestamp": "Sep 11, 2025 · 3:17 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1966159137143927105#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1965577525566087199#m",
+      "content": "苹果的品味还是那么一如既往，每次看短片都会让我有一种热爱生活、奋发图强的兴快感\n\n但一回到现实，诶不对啊，吗的好像和我的生活不太一样啊！",
+      "timestamp": "Sep 10, 2025 · 12:46 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1965577525566087199#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1965246955229249583#m",
+      "content": "象与骑象人，搞清楚自己是象还是人",
+      "timestamp": "Sep 9, 2025 · 2:52 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1965246955229249583#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1964700415192383549#m",
+      "content": "王小波是真喜欢罗素啊！通篇都是罗素的语录，不过也完全合理",
+      "timestamp": "Sep 7, 2025 · 2:40 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1964700415192383549#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1964642972366258199#m",
+      "content": "如果说Transformer是集大成者的话，那么CloudFlare也是",
+      "timestamp": "Sep 7, 2025 · 10:52 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1964642972366258199#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1963471631252124033#m",
+      "content": "每一步都是对的，结果却是错的\n那么请问，哪一步是错的呢...",
+      "timestamp": "Sep 4, 2025 · 5:18 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1963471631252124033#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1962843268900921553#m",
+      "content": "好消息：终于靠复杂流程+AST把Cloudflare的第一次请求的加密参数终于搞定了\n坏消息：js有效期到了，参数无效，{\"err\":100040}🤯\n\n道阻且长。。。",
+      "timestamp": "Sep 2, 2025 · 11:41 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1962843268900921553#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1962494583839011056#m",
+      "content": "Thank u, GPT 5 😊",
+      "timestamp": "Sep 1, 2025 · 12:35 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1962494583839011056#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1962336108995633351#m",
+      "content": "初级工程师：能够复制粘贴\n中级工程师：快速复制粘贴\n高级工程师：让别人复制粘贴",
+      "timestamp": "Sep 1, 2025 · 2:06 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1962336108995633351#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1960150407130575305#m",
+      "content": "还有一个比较有意思的是关于windows和macOS，我很早就发现这两个系统的图像界面设计完全就是反着来的 \n\nmac的鼠标边框颜色是白色填充颜色是黑色，而win刚好相反——边框黑色填充白色；mac窗口控制按钮在左上角，win在右上角；mac的系统栏在顶部，而win在底部；mac的系统菜单（苹果logo）在左上角，而win在左下角 \n\n你会发现这两个系统就是完全的相反面，一个追求开放授权给其他电脑厂商，另一个追求硬件和软件的结合，坚决不授权给第三方电脑厂商\n\n当然，背后的创始人也是哈哈哈",
+      "timestamp": "Aug 26, 2025 · 1:20 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1960150407130575305#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1960149721017970969#m",
+      "content": "历时一个月看完了乔布斯传，感触太深了\n\n这本书真的每一章节都让人忘返，光是看书你都能感受到乔布斯的「现实扭曲力」\n\n很多人可能都听说过：乔布斯被自己亲手创办的苹果赶走，然后重回苹果带领苹果走回巅峰。但其实里面有很多细节，乔布斯因为性格问题被董事会赶走，然后创办了NeXT，投资并重塑了皮克斯。这些并不是简单的经历，而是进一步影响了他后来的产品理念。当然也包括先前的经历：父亲的工匠精神、印度灵修之旅（乔布斯很早就说他开悟了）、禅宗哲学、包豪斯艺术等\n\n尽管很多时候他的做法太过于极端，但正是这种极端的追求才让他创造了这些改变世界的产品\n\n其中有几个片段让我印象极其深刻：\n\n+ 顶级人才喜欢和顶级人才一起工作\n乔布斯重回苹果后，开了很多人，把他认为的B级甚至C级人全开了。乔布斯原话「如果想建立一个由A级选手组成的团队，就必须拥有铁石心肠。在团队发展壮大的过程中，难免会出现几个B级选手，而B级选手会吸引更多的B级选手，甚至还会带来C级选手。我在管理Mac团队的过程中学会的是，A级选手只喜欢跟A级选手共事，这就意味着你不能纵容B级选手的出现」\n\n+ 聪明人关注成长，而不是自尊\n乔布斯对员工只在乎事情做得好不好，从不纠结情绪。他偏爱那种不在乎自尊、只关注成长的人。乔布斯原话「我特别喜欢和聪明人一起工作，因为不用考虑他们的尊严」\n\n+ 关于圆角矩形\n当时团队还在开发图形界面，有个工程师很兴奋地向大家分享他设计了个算法，可以快速在屏幕画出圆形和椭圆，所有人都觉得很牛逼，只有乔布斯说「能画圆形和椭圆确实不错，但是能不能画出圆角矩形来？」工程师解释说不可能做到\n\n然后乔布斯立马站起来说「圆角矩形随处可见」，他举了房间里很多圆角矩形的例子，还拉着他走了3个街区，就发现了17个例子，最后工程师被完全信服了第二天工程师带着笑容回到了大厦，他的算法可以飞快地画出矩形圆角了\n\n这个片段让我印象很深刻，一是乔布斯的追求极致，还有一个是图像界面才刚出来就已经奠定了我们现代UI中的圆角矩形，我真的大为震撼！\n\n+ 关于市场调研\n在Mac发布那天记者问他做了什么样的市场调研，乔布斯回答说「贝尔发明电话前，做过市场调研吗？」这也跟乔布斯认为用户根本不知道自己想要什么有点同理\n\n+ 关于习惯\n「生命的前30年，人塑造习惯；生命的后30年，习惯塑造人」\n\n+ 优秀的艺术家模仿创意，伟大的艺术家窃取灵感\n这个无须多言\n\n关于类似的还有很多很多...\n\n最后，「只有疯狂到认为自己可以改变世界的人，才能真正改变世界」",
+      "timestamp": "Aug 26, 2025 · 1:18 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1960149721017970969#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1959942524153516229#m",
+      "content": "好消息：拿下Akamai ～",
+      "timestamp": "Aug 25, 2025 · 11:34 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1959942524153516229#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1959215700779946465#m",
+      "content": "千万要小心，回复里的很多bot已经学会说woc和牛逼了…",
+      "timestamp": "Aug 23, 2025 · 11:26 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1959215700779946465#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1959152214502412574#m",
+      "content": "因为 GPU 擅长并行计算与图像渲染\n\n所以 GPU 一副（去壳留芯，5090最佳），研磨成粉，三碗水熬成一碗水，每日服用可提高想象力并实现过目不忘",
+      "timestamp": "Aug 23, 2025 · 7:14 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1959152214502412574#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1958693836009742404#m",
+      "content": "AI 时代依然需要大量阅读和学习，AI的基座能力决定下限，你的认知与品味决定上限\n\n就像编程，只有深入理解底层逻辑，才能判断代码的合理性，在复杂场景下进行调试和优化；设计也是，只有掌握背后的逻辑与取舍，而不是停留表面的好看，才能保证整体的协调和理念\n\n因此你必须精进提升专业能力，直到脱颖而出。编程是，设计是，认知与品味更是",
+      "timestamp": "Aug 22, 2025 · 12:52 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1958693836009742404#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1958498007412081131#m",
+      "content": "mint合约地址：0x0Ffcdc334dC5c9B8a6B50F66441b51C790A8D35f\n合约反编译源码：web3.okx.com/zh-hans/explore…\n\nstake合约地址：0x1B4EE0d5D663FBc265AD0b2D4e352453CceB7A41\n合约反编译源码：web3.okx.com/zh-hans/explore…",
+      "timestamp": "Aug 21, 2025 · 11:54 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1958498007412081131#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1958493242686627875#m",
+      "content": "解决方案来了！秒导出，再也不用担心崩溃和速度慢了🤫\n\nhaloowhite.com/2025/08/05/vm…",
+      "timestamp": "Aug 21, 2025 · 11:35 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1958493242686627875#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1958355230606921948#m",
+      "content": "你可以严肃、幽默、稳重，可以讨人喜欢、也可以令人讨厌，什么样都行\n\n人类进化数百万年，你想成为什么样，完全取决于你自己\n\n不知道也没关系，做真实的自己就是阻力最小的路，自然就会变成你想要的样子",
+      "timestamp": "Aug 21, 2025 · 2:27 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1958355230606921948#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1957782262919078346#m",
+      "content": "更了一篇抖音的a_bogus参数构造\n\nhaloowhite.com/2025/08/18/dy…",
+      "timestamp": "Aug 19, 2025 · 12:30 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1957782262919078346#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1957611056702058967#m",
+      "content": "4年前，机缘巧合接触到一个政府舆情采集的需求\n\n详细了解后，这是个政府项目，需要各大社媒新闻平台做情感分析关键词等，用于舆情分析控制\n\n于是我自告奋勇找负责人『推销』自己，但我明白光是口头说有多厉害是远远不够的\n\n我当时给他发了张截图，项目目录截图，IDE左侧是满满当当的各种项目\n\n然后简单介绍下自己市面上的平台基本都做过，大大小小的爬虫项目上百个，经验这块没问题\n\n这不是吹牛，我是真的从大一开始就各种折腾，看过无数教程、文章并实操，一点点积累起来的\n\n项目需要十个技术人员，我成了负责人。我们开始写竞标书，算开发周期和预算\n\n虽然最后没中标（对方报价400多万，我们200多万）\n\n那一年，我大二，19岁\n\n切身体会到：这个世界是个巨大的『草台班子』\n\n自信是入场券，但真正撑住自信的，是持续的学习与可验证的积累",
+      "timestamp": "Aug 19, 2025 · 1:10 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1957611056702058967#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1957366108882891228#m",
+      "content": "好消息：Akamai的加密参数sensor_data已解决，并且校验返回{\"success\": true}\n\n坏消息：接口返回的_abck cookie根本没法用，返回的response消息是假的🤯\n\n道阻且长。。。",
+      "timestamp": "Aug 18, 2025 · 8:57 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1957366108882891228#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1955273223475773676#m",
+      "content": "18-year-olds are expected to know exactly what they want to do with their life when the only thing they've learned is how to imitate their parents and teachers. The greatest thing young people can do is admit they don't know what they want, begin self-education, and take as many risks as possible while they have their youth.",
+      "timestamp": "Aug 12, 2025 · 2:20 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1955273223475773676#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1957260517653074136#m",
+      "content": "能够轻易建立信任的，都不叫信任，叫利益所驱\n\n『轻易获得的信任，本质都是利益交换』",
+      "timestamp": "Aug 18, 2025 · 1:57 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1957260517653074136#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1956933600386928984#m",
+      "content": "挖到宝藏了！\n\n秋田老师的内容质量极高\n\n而且很少有人会如此坦诚地分享",
+      "timestamp": "Aug 17, 2025 · 4:18 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1956933600386928984#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1956563118341156989#m",
+      "content": "你一定要找到自己感兴趣的事，一定要！\n\n哪怕花费再多时间、走再多弯路\n\n每段看似无聊的时间里，只有热爱和兴趣才能驱使你主动向前并坚持下去。成就从来不是一蹴而就的，它需要你日复一日地打磨自己、持续进步\n\n试想一下，如果人生的大半时间都沉浸在日复一日的枯燥中，而不是在追求一个又一个有趣的、实际的突破，该多悲哀",
+      "timestamp": "Aug 16, 2025 · 3:46 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1956563118341156989#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1956562849851154506#m",
+      "content": "woc，我也一直有这样的想法。这样厂商根本无法防，也完全防不住\n\n更宏大一点，甚至可以实现去中心化分布式地采集信息并以某种方式「公开」给需要的买家，实现对用户进行奖励。并且参与的人足够多，采集的数据量足够大之后，还可以逆向平台的推荐算法，以及实际的内容分发是怎么样的\n\n但可能难就难在合规还有隐私。。。。",
+      "timestamp": "Aug 16, 2025 · 3:45 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1956562849851154506#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1954829578804830214#m",
+      "content": "If it makes you happy it doesn't have to make sense to others.",
+      "timestamp": "Aug 11, 2025 · 8:57 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1954829578804830214#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1954510207398371484#m",
+      "content": "说实话，我并不是很能理解「宇宙飞船」最近会搞出一个大新闻出来。\n我自己从来不使用任何太空科技（whether NASA or SpaceX），因为我自己的想象力就完全足够飞到外太空了。\n为什么不直接闭眼好好幻想呢？",
+      "timestamp": "Aug 10, 2025 · 11:48 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1954510207398371484#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1953642126081966550#m",
+      "content": "还我4o、4.5、o3、o4-mini 😭\n\n这不是明摆着更容易到limit上限嘛",
+      "timestamp": "Aug 8, 2025 · 2:19 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1953642126081966550#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1953058319092072748#m",
+      "content": "谁会爬虫？\n\n我我我🙋",
+      "timestamp": "Aug 6, 2025 · 11:39 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1953058319092072748#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1952203106395230309#m",
+      "content": "hello",
+      "timestamp": "Aug 4, 2025 · 3:01 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1952203106395230309#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1952183450838204634#m",
+      "content": "刚来 Web3 那会儿，各种名词和概念接触都是零碎的。真正对 Web3 有比较系统的了解其实是在看完以太坊的开发文档之后\n\n毕竟一个生态要发展，最主要还得靠开发者，而文档好坏是否健全将直接影响开发者的学习和上手效率，从而影响整个生态的发展。并且，当你了解底层机制后，自然就能更清晰地感知到技术的边界在哪，就不会再想当然觉得可以这样或那样了\n\n突然想到了去年风靡一时的『打钱-fi』，，当时的 Solana 文档确实一言难尽，网上能找到的资料也就那么几条，更多的是也有相同困惑的提问者。最让我印象深刻的还是有团队收了钱，但由于技术问题发不了token、组不了池子，最后只好全额退还给用户（团队还专门发推告知正在研究批量转账）。那个时候还没有pump fun，有的只有篇幅不多且仅有的Solana官方文档\n\n之后，每当我开始了解一个新项目或者方向，都会习惯性得看他们官方文档。也能侧面体现团队有没有花心思，花时间和成本在建设上（有的文档是常看常新的，因为他们是真有在维护和更新）\n\n好的项目光是文档就会让你心跳加速！",
+      "timestamp": "Aug 4, 2025 · 1:42 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1952183450838204634#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1951620810843787767#m",
+      "content": "试想一下，推特上的绝大部分内容都是文字，当然剩余的图片和视频，也可以转化为文字形式表达。\n\n我们将自己具体或抽象的想法降维成文字，但同时，我们又能够将这一维度的文字升维到高维的词向量空间中。每个人所发布的一篇篇推文，实际上涵盖了他们最近所感兴趣、所专注的领域或事件。一个个一维有序的token构成了一篇文章，而一篇篇文章又形成了不同的token簇。接着，我们将这些token簇映射并聚类到更高维的空间中，便能够对不同主题进行分类。通过这种方式，我们能够明确地发现每个人感兴趣的内容，无论这些内容是看似遥远的哲学，还是严谨的算法演绎。\n\n将每个人经过升维后的思想进行交叉与重合，我们便可以找到与自己极为相似、能够产生共鸣的人。算法能够据此推荐与你兴趣、想法更加接近的人给你，同时，也会将你思想中的一部分推荐给其他拥有相似思想片段的人。\n\n叽里咕噜讲了这么多，其实我想表达的很简单——只要做你自己，自然就会遇到志同道合的人。",
+      "timestamp": "Aug 2, 2025 · 12:27 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1951620810843787767#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1951592254205735382#m",
+      "content": "当机器比人更像人，被女巫的只可能是真人",
+      "timestamp": "Aug 2, 2025 · 10:33 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1951592254205735382#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1950013439008460834#m",
+      "content": "而那时候，拥有算力只是入场券\n\n导致的结果就是拥有大算力资源的主体，有实力拥有更多的数据，而更丰富的数据喝算力将能直接提升自身核心能力，以获得更大的利润和想象力空间，而利润中的绝大部分会将用来升级算力效率和规模\n\n这一套完整闭环的结果就是绝对性的窒息式垄断",
+      "timestamp": "Jul 29, 2025 · 2:00 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1950013439008460834#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1950009003247128898#m",
+      "content": "日后的爬虫对抗趋势一定是升级为算力对抗。\n\n技术是稀缺资源的一部分，技术撬动的算力才是稀缺资源本身。\n\n多模态llm具备空间推理事迟早的事，而这背后驱动的还是算力。所以之后的网站根本不会再弹验证码，而且调用机器算力完成指定任务（很有可能这也是网站业务的一部分），以抑制分布式大并发爬虫。",
+      "timestamp": "Jul 29, 2025 · 1:42 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1950009003247128898#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1949853509849059782#m",
+      "content": "Grok4！",
+      "timestamp": "Jul 28, 2025 · 3:24 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1949853509849059782#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1948964137977217261#m",
+      "content": "woc，我也觉得遗产是最合理的。不然都拿了这么久了也没必要一口气全部出完…\n\n然而，我更好奇的是出完的这笔钱放在什么地方以及如何处置，毕竟这个量级可真不好处理…",
+      "timestamp": "Jul 26, 2025 · 4:30 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1948964137977217261#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1947948386570948788#m",
+      "content": "这篇推文浏览量12亿+！！\n\n好奇老马会发多少奖金，engagement数据之恐怖…",
+      "timestamp": "Jul 23, 2025 · 9:14 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1947948386570948788#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1947829237270122749#m",
+      "content": "很好奇大家在搞VMP时是怎么处理日志导出的\n\nconsole几万行日志，无论是搜索还是导出，稍不注意页面就崩溃了，然后又要重新插桩，断点…",
+      "timestamp": "Jul 23, 2025 · 1:20 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1947829237270122749#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1946930901252034785#m",
+      "content": "我是一个ENTJ\n\n我最大的计划就是没有计划\n\n我最功利的事就是活在当下",
+      "timestamp": "Jul 20, 2025 · 1:51 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1946930901252034785#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1946575908204405119#m",
+      "content": "无论是个人还是公司，所属的高光时刻占绝对时长的部分很少很少\n\n但这很少部分的高光时间，却需要很长很长段时间去打磨才能够换来。在那些无聊、寂寞的时间里不断重复。这也是为什么巴菲特推崇要坚持重要但正确的小习惯，里尔克说要在寂寞中坚持对的事情，也是Doe Kone所提到的，培养无聊的好的习惯，长期坚持就能超越绝大部分的人。\n\n听起来好像是那么枯燥无聊，确实也不怎么有趣。但正是这些无聊、寂寞时间，你的基本功就此夯实起来，积累到某个时刻，刚好有那么个机会，聚光灯可能也刚好扫到你的身上。那么你的高光时刻也就来了，然后是无尽的黑暗，然后又扫到了你身上...",
+      "timestamp": "Jul 19, 2025 · 2:20 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1946575908204405119#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1945662308589670803#m",
+      "content": "所有复杂背后的底层原理都极简单\n\n只是引入了一个又一个新的变量/因子，才会一上来让你觉得很复杂。如果你觉得某个东西很复杂，一定是你遗漏了相关的变量。\n\n但引入的新变量也是用来服务底层原理的。",
+      "timestamp": "Jul 17, 2025 · 1:50 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1945662308589670803#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1944293430504698159#m",
+      "content": "光是排版和行文逻辑就够有的学了\n\n简直就是在做眼保健操，越看越舒适 ♨️",
+      "timestamp": "Jul 13, 2025 · 7:10 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1944293430504698159#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1943869373699305760#m",
+      "content": "心情就像是坐过山车\n\n这和电诈有什么区别😭\n\n@mia_okx 老师有人冒充你！",
+      "timestamp": "Jul 12, 2025 · 3:05 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1943869373699305760#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1939019921083519057#m",
+      "content": "THIS:",
+      "timestamp": "Jun 28, 2025 · 5:55 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1939019921083519057#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1936071672454692952#m",
+      "content": "Code is cheap, show me the talk.",
+      "timestamp": "Jun 20, 2025 · 2:40 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1936071672454692952#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1895421794187923470#m",
+      "content": "时间是最大的杠杆\n\nTime is the greatest leverage.",
+      "timestamp": "Feb 28, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1895421794187923470#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1892531585947423060#m",
+      "content": "$KAITO milestone unlocked!\n\nBeen in the trenches making this happen.\n\nMore cooking... 👨‍💻",
+      "timestamp": "Feb 20, 2025 · 11:07 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1892531585947423060#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1871481726956155002#m",
+      "content": "only possible on @_kaitoai",
+      "timestamp": "Dec 24, 2024 · 9:03 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1871481726956155002#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1867076954966593942#m",
+      "content": "going go @_kaitoai 💪",
+      "timestamp": "Dec 12, 2024 · 5:20 AM UTC",
+      "url": "https://twitter.com/haloowhite/status/1867076954966593942#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1809274870976368897#m",
+      "content": "“I prefer to work.”\n\n— Elon Musk",
+      "timestamp": "Jul 5, 2024 · 5:15 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1809274870976368897#m",
+      "author": "haloowhite"
+    },
+    {
+      "id": "1792608164661309538#m",
+      "content": "Goggins ! ! !",
+      "timestamp": "May 20, 2024 · 5:27 PM UTC",
+      "url": "https://twitter.com/haloowhite/status/1792608164661309538#m",
+      "author": "haloowhite"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T00:15:07.400Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 87,
+    "pagesFetched": 6,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 12942,
+    "cursorTrail": [
+      "DAAHCgABG3vkW01__-sLAAIAAAATMTk3MDY1MDA3MTAxNzY0NDE3NwgAAwAAAAIAAA",
+      "DAAHCgABG3vkW01__9YLAAIAAAATMTk2MzQ3MTYzMTI1MjEyNDAzMwgAAwAAAAIAAA",
+      "DAAHCgABG3vkW01__8ELAAIAAAATMTk1NjU2Mjg0OTg1MTE1NDUwNggAAwAAAAIAAA",
+      "DAAHCgABG3vkW01__6wLAAIAAAATMTk0Mzg2OTM3MzY5OTMwNTc2MAgAAwAAAAIAAA",
+      "DAAHCgABG3vkW01__6ILAAIAAAATMTczOTkxMjUwODcwODg5Mjc1MwgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

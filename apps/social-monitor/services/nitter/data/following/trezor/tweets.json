@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1431204614",
+    "screen_name": "Trezor",
+    "name": "Trezor",
+    "description": "Take Control.",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1876994745022529536/5FD_cxXO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1431204614/1760364941",
+    "followers_count": 229498,
+    "friends_count": 825,
+    "statuses_count": 39344,
+    "favourites_count": 39746,
+    "listed_count": 2147,
+    "location": "",
+    "website": "https://t.co/sG77GoSFdO",
+    "birthdate": null,
+    "verified_type": "Business",
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2013-05-16 02:23:53 +08:00",
+    "url": "https://twitter.com/Trezor",
+    "rest_id": "1431204614"
+  },
+  "tweets": [
+    {
+      "id": "1977736192532615392#m",
+      "content": "A new standard in crypto security.   \n\nThis October 21st, we’re writing history.  \n\nExperience with us the reveal of the next generation of Trezor.  \n\nLivestream: 21st of October at 08:00 AM UTC.   \n\nSign up to be the first to know: content.trezor.io/trezor-rev…",
+      "timestamp": "Oct 13, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1977736192532615392#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1980218066740125751#m",
+      "content": "Lets goooooo @Trezor",
+      "timestamp": "Oct 20, 2025 · 10:22 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1980218066740125751#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1980242756313198669#m",
+      "content": "Tomorrow unlocks a new era of crypto security. \n\nWe’re thrilled to finally reveal what we’ve been building. \n\nGet ready to experience what radical transparency truly means.\n\ncontent.trezor.io/trezor-rev…",
+      "timestamp": "Oct 20, 2025 · 12:00 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1980242756313198669#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1979974561681592514#m",
+      "content": "I don’t leave South America very often but I couldn’t miss what’s happening in 24 hours! 🤐🤫\n\n🇨🇿Watch what @Trezor is about to drop.👀",
+      "timestamp": "Oct 19, 2025 · 6:14 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1979974561681592514#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1980171779495821523#m",
+      "content": "Gm & See you soon in Trezor TBD Prague 🇨🇿",
+      "timestamp": "Oct 20, 2025 · 7:18 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1980171779495821523#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1979910844650574025#m",
+      "content": "We’re getting ready! 🎉🎉🎉\n\nOnly 2 days remaining.\n\nWant to join the celebration? Watch the reveal live on October 21 at 08:00 AM UTC on YouTube. \n\nLive stream details 👇\ncontent.trezor.io/trezor-rev…",
+      "timestamp": "Oct 19, 2025 · 2:01 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1979910844650574025#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1979548057441062943#m",
+      "content": "Built for transparency and resilience, this launch isn’t just an update; it’s a redefinition of how personal sovereignty and digital asset protection coexist.\n\nThis is for those who believe in freedom, self-custody, and trustless systems.\n\nDon’t miss what’s next.",
+      "timestamp": "Oct 18, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1979548057441062943#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1979195889672462710#m",
+      "content": "Got the livestream link? Drop an emoji below! \n\nDon’t have it yet? Grab it here 👇\n\ncontent.trezor.io/trezor-rev…",
+      "timestamp": "Oct 17, 2025 · 2:40 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1979195889672462710#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1979181376436928687#m",
+      "content": "Be the first to know: \n\ncontent.trezor.io/trezor-rev…",
+      "timestamp": "Oct 17, 2025 · 1:43 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1979181376436928687#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1978844452639682930#m",
+      "content": "Get exclusive updates 👇 content.trezor.io/trezor-rev…",
+      "timestamp": "Oct 16, 2025 · 3:24 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1978844452639682930#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1978844450416705621#m",
+      "content": "Did you know we were the first to…?\n\n➡️ Launch a hardware wallet (Trezor Model One started it all)\n➡️ Be fully open-source (transparency from day one)\n➡️ Introduce wallet recovery with 12-24 word backups (BIP39? That’s us)\n➡️ Add passphrase protection on the device itself\n➡️ Support Multi-share Backup (SLIP39)\n\nFor us, it's about moving the entire crypto industry forward, making self-custody more secure and accessible.\n\nAnd now, we’re about to do it again.\n\nTwo more “firsts” are coming next week!",
+      "timestamp": "Oct 16, 2025 · 3:24 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1978844450416705621#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1978722700064436710#m",
+      "content": "👀",
+      "timestamp": "Oct 16, 2025 · 7:20 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1978722700064436710#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1978489834114048174#m",
+      "content": "6 D A Y S  \n\nGet exclusive updates 👇 \ncontent.trezor.io/trezor-rev…",
+      "timestamp": "Oct 15, 2025 · 3:55 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1978489834114048174#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1978469177188135386#m",
+      "content": "Drop your guess below 👇",
+      "timestamp": "Oct 15, 2025 · 2:33 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1978469177188135386#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1978453490234978814#m",
+      "content": "Get Trezor Suite Mobile:\n\n🤖 play.google.com/store/apps/d……\n\n🍏 apps.apple.com/us/app/trezor…",
+      "timestamp": "Oct 15, 2025 · 1:30 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1978453490234978814#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1978453488448201186#m",
+      "content": "We've rolled out the version 25.10.1. of Trezor Suite Mobile! 📣\n\n✅ CEX Swap is now available on Android, allowing users to swap assets directly from their mobile device.\n\n✅ Faster app startup and smoother performance with optimized asset list and graph rendering. \n\n✅ Improved fee rate accuracy with updated “High” and “Economy” settings.",
+      "timestamp": "Oct 15, 2025 · 1:30 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1978453488448201186#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1978103832602124445#m",
+      "content": "An industry-defining shift is on the horizon.  \n\n10+ Years in the making!  \n\nJoin our insider list and stay ahead of the reveal. \n\ncontent.trezor.io/trezor-rev…",
+      "timestamp": "Oct 14, 2025 · 2:21 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1978103832602124445#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1977408536000057843#m",
+      "content": "Stop procrastinating on setting up your Trezor hardware wallet.\n\nHere's how to take control:\n\n✅ Book a session with a Trezor Expert\n✅ Join the online session (bring your wallet!)\n✅ Follow the personalized guidance\n\nDone in just 60 minutes! 👏\ntrezor.io/trezor-expert-sess…",
+      "timestamp": "Oct 12, 2025 · 4:18 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1977408536000057843#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1977032776668135888#m",
+      "content": "Buy crypto straight into your Trezor.\n\nWhen you buy crypto in Trezor Suite, it’s delivered directly to your hardware wallet—no holding accounts, no delays.\n\nYou’re in full control from the moment the trade is complete.\n\nTry it now: trezor.io/trade-features",
+      "timestamp": "Oct 11, 2025 · 3:25 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1977032776668135888#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1976322344189850053#m",
+      "content": "Get a Trezor:\ntrezor.io/trezor-safe-5",
+      "timestamp": "Oct 9, 2025 · 4:22 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1976322344189850053#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1976322341551685733#m",
+      "content": "Not your keys, not your coins.\nNot your keys, not your coins.\nNot your keys, not your coins.\nNot your keys, not your coins.\nNot your keys, not your coins.\nNot your keys, not your coins.\nNot your keys, not your coins.",
+      "timestamp": "Oct 9, 2025 · 4:22 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1976322341551685733#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1975943211114701200#m",
+      "content": "🚨 CRYPTO CUSTODY: EXCHANGES OR SELF-CUSTODY?\n\nCointelegraph Research + @Trezor want your view. 👇",
+      "timestamp": "Oct 8, 2025 · 3:15 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1975943211114701200#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1975944000021442900#m",
+      "content": "What does true freedom feel like? 💚",
+      "timestamp": "Oct 8, 2025 · 3:18 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1975944000021442900#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1975571009467023686#m",
+      "content": "Simplified access to dApps.\n\nNo more:\n\n❌ Multiple third-party wallets\n❌ Managing numerous wallet backups\n❌ Transferring funds to less secure third-party wallets\n\nNow you can connect to thousands of dApps with your Trezor through @WalletConnect.",
+      "timestamp": "Oct 7, 2025 · 2:36 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1975571009467023686#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1975222742019666061#m",
+      "content": "5⃣ Use passphrase wallets for extra security.",
+      "timestamp": "Oct 6, 2025 · 3:32 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1975222742019666061#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1975222739872157757#m",
+      "content": "4⃣ Always configure a PIN on your device (at least 4 digits, up to 50) to prevent unauthorized access if the device is physically stolen.",
+      "timestamp": "Oct 6, 2025 · 3:32 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1975222739872157757#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1975222737502400727#m",
+      "content": "3⃣ Never share your wallet backup with anyone. \n\n⚠️ Remember, Trezor will never request this information.",
+      "timestamp": "Oct 6, 2025 · 3:32 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1975222737502400727#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1975222735405302184#m",
+      "content": "1⃣ Create new receiving addresses in Trezor Suite for every Bitcoin transaction to prevent tracking.\n\n2⃣ Enable Discreet Mode in Trezor Suite to hide your coin totals and sensitive account information.",
+      "timestamp": "Oct 6, 2025 · 3:32 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1975222735405302184#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1975222733194875086#m",
+      "content": "5 Security tips for your Trezor👇\n\n(bookmark this for later)",
+      "timestamp": "Oct 6, 2025 · 3:32 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1975222733194875086#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1974803942581158095#m",
+      "content": "Get your wallet: trezor.io/trezor-safe-5",
+      "timestamp": "Oct 5, 2025 · 11:48 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1974803942581158095#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1974803940878279128#m",
+      "content": "Sunday reminder to self-custody your Bitcoin\n\n(with a Trezor)",
+      "timestamp": "Oct 5, 2025 · 11:48 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1974803940878279128#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1974146123012190419#m",
+      "content": "Complete the survey: app.useberry.com/t/cBa0UIDEI…",
+      "timestamp": "Oct 3, 2025 · 4:14 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1974146123012190419#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1974146120952742001#m",
+      "content": "Help us improve the insights dashboard in Trezor Suite! 🙌\n\nWe’re exploring new ways to make your portfolio insights more useful and intuitive — and we’d love your input.\n\n🎁 We will select 5 respondents who complete the survey thoroughly, and reward them with a Trezor Safe 5!👇",
+      "timestamp": "Oct 3, 2025 · 4:14 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1974146120952742001#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1973395734029279426#m",
+      "content": "Trezor’s Head of IT Security on Why He Trusts PhishFort 💙\n\nWhen money and trust are on the line, there’s no room for hesitation.\n\n@Trezor´s Head of IT Security, Jiri Petrik, reveals how working with PhishFort helps his team protect users from phishing scams and safeguard the customer experience.\n\n“Without hesitation” — that’s how Jiri describes his recommendation of PhishFort, after saving both time and resources with our expert protection. 🛡️\n\n▶️ Watch the full conversation on our YouTube channel: piped.kavin.rocks/rL7wlcEV63g?si=GZvb…",
+      "timestamp": "Oct 1, 2025 · 2:33 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1973395734029279426#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1973799782201372793#m",
+      "content": "Bitcoin Quiz! \n\nIn which year did Bitcoin first reach a value of $1 on a public exchange?",
+      "timestamp": "Oct 2, 2025 · 5:18 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1973799782201372793#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1973042323752964535#m",
+      "content": "Join us next week at the 3rd Bitcoin Forum in Ingolstadt, Germany! 🇩🇪\n\nDon't have a ticket yet? Use the code TREZOR for 10% off: bitcoinforum.bayern/\n\nSee you there!",
+      "timestamp": "Sep 30, 2025 · 3:08 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1973042323752964535#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1972702983554031812#m",
+      "content": "What to do if you spot an unauthorized crypto transaction in your Trezor.\n\nHere’s a guide on how to protect your funds. 👇\n\npiped.kavin.rocks/watch?v=4YOKe-8k…",
+      "timestamp": "Sep 29, 2025 · 4:40 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1972702983554031812#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1972627369098633297#m",
+      "content": "🎉 Two of you can WIN spots at the Bitcoin Educators Academy this year in Malta, Malaga (Spain) or Goa (India) 🎉\n\nGet better at communicating Bitcoin 💪 amityage.com/bea\n\n👉 Proof of Work: create a meme/image\n👉 Scarcity: only 2 free seats\n👉 Reward: Academy ticket (390 000 sats) + Trezor Safe 5 (~185 000 sats)🛡️\n⸻\n🔹 Your task:\nCreate a meme that explains to your friend the difference between holding bitcoin on an exchange vs. on a Trezor. Be creative and educational.\n\n💡 You can use AI tools to make it quick & easy — try Canva (free) or Imgflip Meme Generator imgflip.com/memegenerator\n\n🔹 How to join:\nCreate your meme (one or more)\nPost it under this post as a comment\n\n📅 Deadline: Oct 1, 2025 (5:00 PM CET)\n🏆 Winners announced: Oct 2, 2025 (2:00 PM CET)\n\nBig thanks to our hardware partner @Trezor for supporting the Bitcoin Educators Academy 2025 and donating free spots for this giveaway 🙏.",
+      "timestamp": "Sep 29, 2025 · 11:39 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1972627369098633297#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1972331849268773065#m",
+      "content": "The first rule of self-custody is…\n\nWhat's your guess? 👇",
+      "timestamp": "Sep 28, 2025 · 4:05 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1972331849268773065#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1971599688416768025#m",
+      "content": "Scratches? Not on this screen. 🤩\n\nTrezor Safe 5 comes with scratch-resistant Gorilla Glass — sleek, strong, and built to last.\n\nGet yours now 👇\ntrezor.io/trezor-safe-5",
+      "timestamp": "Sep 26, 2025 · 3:36 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1971599688416768025#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1971232727577002264#m",
+      "content": "Do you love our products? ❤️\n\nRefer Trezor to your friends and get rewarded!\n\nYour friends get 10% off.\nYou earn $20 in Trezor credit.\n\nGet your referral link now:\ntrezor.io/refer-a-friend",
+      "timestamp": "Sep 25, 2025 · 3:18 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1971232727577002264#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1970860579209556012#m",
+      "content": "Start now: content.trezor.io/trade-feat…",
+      "timestamp": "Sep 24, 2025 · 2:39 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1970860579209556012#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1970860575828918567#m",
+      "content": "Take back control with Trezor Suite MEV Protection — your transactions, shielded from bots and manipulation.\n\n✅ Safer transactions\n✅ Lower slippage\n✅ Fewer failed transactions\n✅ Extra privacy\n✅ Reliable infrastructure\n\nYour assets, your control.",
+      "timestamp": "Sep 24, 2025 · 2:39 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1970860575828918567#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1970512669342859422#m",
+      "content": "What was the best advice you received when starting with self-custody? 👇",
+      "timestamp": "Sep 23, 2025 · 3:36 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1970512669342859422#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1970125960948195391#m",
+      "content": "SAVE THE DATE: October 21st — Trustless by Design\n\nAn industry-defining shift is on the horizon… Join our LIVE stream and witness firsthand how we’re redefining security.\n\nMark your calendars, streaming details to follow.",
+      "timestamp": "Sep 22, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1970125960948195391#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1969785214839726400#m",
+      "content": "Get your Trezor 👇\ntrezor.io/store#hardware-wal…",
+      "timestamp": "Sep 21, 2025 · 3:26 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1969785214839726400#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1969785212084052253#m",
+      "content": "Key features to look for in a hardware wallet 👇",
+      "timestamp": "Sep 21, 2025 · 3:26 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1969785212084052253#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1969035187280314605#m",
+      "content": "What features make a self-custody wallet easy to use? 👇",
+      "timestamp": "Sep 19, 2025 · 1:45 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1969035187280314605#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1968240019023524065#m",
+      "content": "Cardano Message signing for @Trezor is live!\nHolding Cardano in your Trezor?\nDon’t miss your chance for free tokens!\nThe @MidnightNtwrk Glacier airdrop is live until Oct 4.\nClaim what’s already yours in seconds, directly in Nufi Wallet.",
+      "timestamp": "Sep 17, 2025 · 9:06 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1968240019023524065#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1968315292985045176#m",
+      "content": "We've rolled out a new version of Trezor Suite desktop app! Version 25.9.2 🎉\n\nNew features:\n\n✅  Biometric authentication is now supported—unlock Trezor Suite with Touch ID, Face ID, or Windows Hello for quick access and stronger protection.\n\n✅ MEV protection is active by default on Ethereum, Base, and BNB Smart Chain, and can be changed in Settings.\n\n✅ A new dashboard overview displays all staked assets in one place for clearer portfolio management.\n\n✅ Users can now claim the Cardano Midnight airdrop directly through Trezor Suite.\n\nFor more improvements & bug fixes,\n\ntrezor.io/other/product-upda…\n\nRolling out gradually—watch for the update!",
+      "timestamp": "Sep 17, 2025 · 2:05 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1968315292985045176#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1968292326595547201#m",
+      "content": "See you there in less than 30 minutes!",
+      "timestamp": "Sep 17, 2025 · 12:33 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1968292326595547201#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1967989707402514539#m",
+      "content": "What matters most to you when storing Bitcoin for 20+ years?",
+      "timestamp": "Sep 16, 2025 · 4:31 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1967989707402514539#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1967619901264437249#m",
+      "content": "Join our 𝕏 Space on September 17 at 1 PM UTC with @Trezor.\n\nWe’ll explore how Bitcoin adoption is spreading globally, the role of education in local communities, and why hardware wallets remain a key tool for financial freedom.\n\nSet your reminder ⤵️\n\n localhost:8080/i/spaces/1djGXWzwwwoKZ",
+      "timestamp": "Sep 15, 2025 · 4:01 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1967619901264437249#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1967568665441886216#m",
+      "content": "Cardano holders: you can now claim the Midnight ($NIGHT) airdrop using your Trezor 🎉\n\nWe’ve published a simple step-by-step guide 👇\ntrezor.io/support/troublesho…",
+      "timestamp": "Sep 15, 2025 · 12:38 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1967568665441886216#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1967224010502238316#m",
+      "content": "If you need more info and assistance on how to use the Trezor Keep Metal, check out our YouTube channel for more videos.\n\nGet your Trezor Keep Metal: trezor.io/trezor-keep-metal-…",
+      "timestamp": "Sep 14, 2025 · 1:48 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1967224010502238316#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1967224007541035127#m",
+      "content": "4. Use the punching tool to punch the pre-marked letters.\n\n5. Add the tamper-evidence sticker to secure your backup for storage.",
+      "timestamp": "Sep 14, 2025 · 1:48 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1967224007541035127#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1967224005452259369#m",
+      "content": "1. Grab your Trezor Keep Metal, twist it, and open it.\n\n2. Pop the Trezor Keep Metal capsule chamber into the box for a secure grip.\n\n3. Grab the included pre-marking pen and mark the first four letters of each word of your wallet backup to prevent mistakes.",
+      "timestamp": "Sep 14, 2025 · 1:48 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1967224005452259369#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1967224003489362134#m",
+      "content": "How to protect your wallet backup with Trezor Keep Metal.\n\nA step-by-step guide 👇\n\n(Bookmark this post for later)",
+      "timestamp": "Sep 14, 2025 · 1:48 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1967224003489362134#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1966904605838635399#m",
+      "content": "Get yours now:\ntrezor.io/trezor-safe-5-bitc…",
+      "timestamp": "Sep 13, 2025 · 4:39 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1966904605838635399#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1966904602235990073#m",
+      "content": "Secure your Bitcoin with Trezor Safe 5 🤩\n\n✅ Vibrant color touchscreen\n✅ Haptic feedback\n✅ Scratch-free screen with Gorilla Glass\n✅ Secure Element, PIN, passphrase protected",
+      "timestamp": "Sep 13, 2025 · 4:39 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1966904602235990073#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1966537734580822350#m",
+      "content": "Describe self-custody with one GIF 👇",
+      "timestamp": "Sep 12, 2025 · 4:21 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1966537734580822350#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1965838958568550847#m",
+      "content": "BREAKING NEWS: Exciting updates ahead for WalletConnectors 👀🏛️\n\nJoin the next Townhall on September 16 at 4PM CET for all the alpha.\n\nJoined by: @nansen_ai, @Gemini, @Trezor, @layer3xyz, @TalentProtocol\n\nStreaming LIVE on X and YouTube 🎥",
+      "timestamp": "Sep 10, 2025 · 6:05 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1965838958568550847#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1963920044012028187#m",
+      "content": "🚨 GIVEAWAY TIME 🚨\n\nWe’ve teamed up with @Trezor to give away:\n- 1x Trezor Safe 5\n- 1x Trezor Model T\n- Merch\n\nHow to enter: \n✅ Follow @Trezor & @BTCTN \n✅ Like + RT \n✅ Tag a friend\n\nEnds Sept 12 — winners on Sept 12!\n\n🔁 Don’t miss your shot at a free hardware wallet!",
+      "timestamp": "Sep 5, 2025 · 11:00 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1963920044012028187#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1965741705375940635#m",
+      "content": "IYKYK",
+      "timestamp": "Sep 10, 2025 · 11:38 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1965741705375940635#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1965709942612185316#m",
+      "content": "The wait is over. Own your Bitcoin🔒",
+      "timestamp": "Sep 10, 2025 · 9:32 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1965709942612185316#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1965332340898763043#m",
+      "content": "We confirm that the Trezor Suite app is not affected either.",
+      "timestamp": "Sep 9, 2025 · 8:31 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1965332340898763043#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1965327685988597875#m",
+      "content": "IMPORTANT: Trezor firmware and hardware wallets are not affected by the Nx/NPM supply-chain attack. The attack involved malicious JavaScript packages from the public npm registry. This technology is not being used in Trezor firmware at all.\n\nAs always, remember:\n✅ Hardware wallets keep your keys secure—even if software is compromised\n✅ Always verify the address on your Trezor screen\n\nStay safe🔒",
+      "timestamp": "Sep 9, 2025 · 8:13 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1965327685988597875#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1965068509844795874#m",
+      "content": "Don’t have a Trezor yet? Discover our hardware wallets here 👇\ntrezor.io/store#hardware-wal…",
+      "timestamp": "Sep 8, 2025 · 3:03 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1965068509844795874#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1965068507638559038#m",
+      "content": "What was your first Trezor hardware wallet?",
+      "timestamp": "Sep 8, 2025 · 3:03 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1965068507638559038#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1964391511958671662#m",
+      "content": "Want to learn more about passphrases? Start here: \npiped.kavin.rocks/watch?v=DMBxNAw3…",
+      "timestamp": "Sep 6, 2025 · 6:13 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1964391511958671662#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1964391510436102456#m",
+      "content": "Passphrase: \n\n✅ Used to create hidden wallets for extra security. \n✅ Ideal for protecting your most valuable coins.\n\nWhy is the passphrase important? \n\nEven if someone gains access to your wallet backup, they can’t access the funds stored in your passphrase-protected wallets.",
+      "timestamp": "Sep 6, 2025 · 6:13 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1964391510436102456#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1964391508993274314#m",
+      "content": "PIN:\n\n✅ Needed every time you connect your Trezor. \n✅ Works like the PIN on your phone or card.\n\nWhy is the PIN important?\n\nThe PIN protects your Trezor from unauthorized access.",
+      "timestamp": "Sep 6, 2025 · 6:13 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1964391508993274314#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1964391507495960924#m",
+      "content": "PIN vs. Passphrase: What’s the Difference? 🧵",
+      "timestamp": "Sep 6, 2025 · 6:13 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1964391507495960924#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1963674449296728137#m",
+      "content": "Crypto scams don’t break into wallets - they trick people into opening the door.\n\nFrom fake support agents to address poisoning and rug pulls, scams cost investors billions in 2024 - and the risks are only rising in 2025.\n\nIn this guide, we break down the most common threats and share 4 clear principles to keep your coins safe 🛡️\n\n👉 Read more",
+      "timestamp": "Sep 4, 2025 · 6:44 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1963674449296728137#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1963851728719368618#m",
+      "content": "An insightful conversation with @matej_zak , @Trezor CEO, at @WebX_Asia  ! \n\nWe covered:\n🔸Why the Japanese and broader Asian markets are a key focus for Trezor's expansion.\n🔸The importance of localization to better serve the local crypto community.\n🔸His belief that the biggest opportunity for the industry is bringing more people into self-custody.\n🔸A hint about a new hardware product launching later this year!\n\nA huge thanks to @matej_zak  for the valuable insights.\n\n#Trezor #HardwareWallet #WebX #Crypto #Security #SelfCustody #WebX2025",
+      "timestamp": "Sep 5, 2025 · 6:28 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1963851728719368618#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1963603428317245829#m",
+      "content": "Hardware wallets aren’t just for HODLing.\n\nConnect your Trezor to dApps, DeFi, NFTs & DAOs via @WalletConnect.\n\nManage all sessions from one dashboard in Trezor Suite for full control and a clear overview of your dApp interactions.",
+      "timestamp": "Sep 4, 2025 · 2:01 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1963603428317245829#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1963240595712835875#m",
+      "content": "Take control with Trezor. \n\nGrab your favorite hardware wallet: \ntrezor.io/store#hardware-wal…",
+      "timestamp": "Sep 3, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1963240595712835875#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1963152286613463287#m",
+      "content": "August was a major month for bitcoin education across Africa! Here's where Trezor Academy meetups happened:\n\n1/DRC🇨🇩 with @bridgesats",
+      "timestamp": "Sep 3, 2025 · 8:09 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1963152286613463287#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1962910900702101542#m",
+      "content": "Do you see crypto as part of your long-term (retirement) savings?",
+      "timestamp": "Sep 2, 2025 · 4:10 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1962910900702101542#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1962547129555071022#m",
+      "content": "CryptoTips 250k Subscriber Giveaway + HUGE Announcement! 🎉\n\nTHREE winners will receive fantastic prizes from @Trezor, @CRYPTO_TAG, @BingXPortuguese, and @cryptotipsreal!\n\nRules for entry below!\n\npiped.kavin.rocks/TTal7Ft8dak",
+      "timestamp": "Sep 1, 2025 · 4:04 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1962547129555071022#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1962536012103430256#m",
+      "content": "✅ Seamless control with Trezor Suite on desktop or mobile.\n\n✅ MicroSD PIN encryption.\n\n👉 Ready? Get your Trezor Safe 5 now: trezor.io/trezor-safe-5",
+      "timestamp": "Sep 1, 2025 · 3:20 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1962536012103430256#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1962536010253844801#m",
+      "content": "✅ Advanced protection with Secure Element chip.\n\n✅ Bitcoin-only device available if you prefer to keep it simple.\n\n✅ Thousands of supported coins and tokens for managing diverse portfolios.",
+      "timestamp": "Sep 1, 2025 · 3:20 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1962536010253844801#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1962536008521597370#m",
+      "content": "✅ Easy navigation on a color touchscreen.\n\n✅ Feel every confirmation with haptic feedback.\n\n✅ Scratch-resistant Gorilla Glass keeps your screen protected.",
+      "timestamp": "Sep 1, 2025 · 3:20 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1962536008521597370#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1962536005149319242#m",
+      "content": "8 reasons to upgrade to the Trezor Safe 5 🧵",
+      "timestamp": "Sep 1, 2025 · 3:20 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1962536005149319242#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1961454456345698690#m",
+      "content": "🎧 Listen now on:\n\nYouTube: piped.kavin.rocks/watch?v=N_qo_-QR…\nSpotify: open.spotify.com/episode/2NW…\nApple Podcasts: podcasts.apple.com/au/podcas…",
+      "timestamp": "Aug 29, 2025 · 3:42 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1961454456345698690#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1961454454504313088#m",
+      "content": "Are Bitcoin’s 4-year cycles ending?\n\n👉 To hear Bitcoin podcaster @stephanlivera’s perspective, check out our latest Trezor Talks episode (link in the thread).",
+      "timestamp": "Aug 29, 2025 · 3:42 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1961454454504313088#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1961089017916592540#m",
+      "content": "We need beta testers! 🚨\n\nBe part of our journey and help us build a better product for you.\n\n✅ Provide feedback that makes a difference\n✅ Gain early access to new features\n✅ Support the Trezor community\n\nWant to join? Learn more: content-trezor-002025.webflo…",
+      "timestamp": "Aug 28, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1961089017916592540#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1960777816921800882#m",
+      "content": "Thanks to @Martha__E__ we have a summary video of the @TrezorAcademy  student journey & highlights from the first session to the last especially the community tour.\n\n@manlikekweks on the beat as usual.\n\nWatch how we complete the circle from What is money to students spending #Bitcoin for Juice & rolex\n\n#SPEDN",
+      "timestamp": "Aug 27, 2025 · 6:53 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1960777816921800882#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1960689067227505058#m",
+      "content": "x.com/i/article/196068852197…",
+      "timestamp": "Aug 27, 2025 · 1:01 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1960689067227505058#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1960723442853957969#m",
+      "content": "Comment with your favorite episode and send this list to a family member or friend to help them keep their crypto safe. 👇",
+      "timestamp": "Aug 27, 2025 · 3:17 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1960723442853957969#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1960723440387649848#m",
+      "content": "5/ An epic episode?\n\nThe conversation between Tomáš Sušánka, Trezor’s CTO, and Charles Guillemet, @Ledger's CTO. How are both companies preparing for quantum computing? What are the biggest crypto security challenges in 2025? Find out here:\n\npiped.kavin.rocks/watch?v=tGOhpQuu…",
+      "timestamp": "Aug 27, 2025 · 3:17 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1960723440387649848#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1960723437904695715#m",
+      "content": "4/ Still have your Bitcoin on exchanges?\n\nThat’s about to change. Lea Petrášová, CEO of @vexl, explains why privacy is the future of Bitcoin, how centralized exchanges are failing you by leaking your data, and what trading Bitcoin for a horse looks like.\n\npiped.kavin.rocks/watch?v=_4HHLW-V…",
+      "timestamp": "Aug 27, 2025 · 3:17 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1960723437904695715#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1960723435346161733#m",
+      "content": "3/ What’s the process of creating a product like the Trezor Safe 5?\n\nWe brought Adam Budínský, Trezor’s Head of Product (Hardware), to reveal how the world’s most iconic crypto hardware wallets are made.\n\npiped.kavin.rocks/watch?v=EPMhhNA5…",
+      "timestamp": "Aug 27, 2025 · 3:17 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1960723435346161733#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1960723432401715407#m",
+      "content": "2/ Worrying about crypto scams?\n\nBitcoin Analyst Lucien Bourdon shares incredible advice on how to spot phishing and scams in the crypto space, and explains some common scams, like \"address poisoning\" that fool even experienced users.\n\npiped.kavin.rocks/watch?v=IpyA8sKx…",
+      "timestamp": "Aug 27, 2025 · 3:17 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1960723432401715407#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1960723429860237421#m",
+      "content": "1/ The interview with our CEO, Matěj Žák.\n\nYou learn more about Trezor's work culture, Matěj's background, weighing expectations and concerns in decision-making, and what it means to run an open-source company. \n\npiped.kavin.rocks/watch?v=gHJaKiML…",
+      "timestamp": "Aug 27, 2025 · 3:17 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1960723429860237421#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1960723426596831691#m",
+      "content": "5 Trezor Talks episodes that will change how you think about crypto\n\n(the last one might surprise you)\n🧵",
+      "timestamp": "Aug 27, 2025 · 3:17 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1960723426596831691#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1960367954526105740#m",
+      "content": "Trade smarter in Trezor Suite.   \n\nConnect your hardware wallet and let our Smart Trading Engine find the best value for your needs—quick, easy, and secure.  \n\ncontent.trezor.io/trade-feat…",
+      "timestamp": "Aug 26, 2025 · 3:45 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1960367954526105740#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1960003377984659793#m",
+      "content": "mediamarkt.pl/pl/search.html…\n\nmediaexpert.pl/search?query[…\n\neuro.com.pl/search2.bhtml?ke…",
+      "timestamp": "Aug 25, 2025 · 3:36 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1960003377984659793#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1960003375086620701#m",
+      "content": "Trezor hardware wallets are now available online at MediaMarkt, MediaExpert, and RTV EURO AGD in Poland. 🙌\n\nGet yours today and take control of your crypto security!",
+      "timestamp": "Aug 25, 2025 · 3:36 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1960003375086620701#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1959946305045921991#m",
+      "content": "The rules of crypto PR are changing fast in 2025.\nIn this insightful op-ed, Maryna Iliukhina of @Trezor explores how trust, transparency, and genuine media partnerships define success in today’s industry - making them the real currency of crypto PR in 2025.\n\nRead the full story: news.bitcoin.com/crypto-pr-i…",
+      "timestamp": "Aug 25, 2025 · 11:49 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1959946305045921991#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1959662882632691814#m",
+      "content": "Keep YOUR Bitcoin secure with YOUR Trezor.",
+      "timestamp": "Aug 24, 2025 · 5:03 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1959662882632691814#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1958908843901014420#m",
+      "content": "The Trezor team is heading to Tokyo for @WebX_Asia next week (Aug 25-26)! 🙌\n\nWe're excited to meet partners passionate about advancing self-custody education and awareness. If you're attending, drop a comment!",
+      "timestamp": "Aug 22, 2025 · 3:07 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1958908843901014420#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1958563467121635646#m",
+      "content": "We've rolled out a new version of Trezor Suite desktop app! Version 25.8.2 🎉\n\nNew features:\n\n✅ Bitcoin can now be set as the primary currency unit.\n✅ View-only wallets are now enabled by default.\n✅ WalletConnect is officially supported.\n\nAvailable in experimental features:\n\n✅ Trezor Connect – connect your Trezor to supported apps through a secure Trezor Suite interface (availability depends on third-party wallet updates).\n✅ Biometric authentication with auto-lock.\n\nFor more improvements & bug fixes,\ntrezor.io/other/product-upda…",
+      "timestamp": "Aug 21, 2025 · 4:14 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1958563467121635646#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1958529976015188078#m",
+      "content": "Learn more here:   \nwalletconnect.network/blog/w…",
+      "timestamp": "Aug 21, 2025 · 2:01 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1958529976015188078#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1958529607130316990#m",
+      "content": "Connect your Trezor to a world of dApps across multiple blockchains. 🤩\n\nExplore DeFi, NFTs, DAOs & more—securely.\n\nWith @WalletConnect in Trezor Suite, your private keys stay safe while you interact directly with dApps through your existing setup and a familiar interface.",
+      "timestamp": "Aug 21, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1958529607130316990#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1958178845086962068#m",
+      "content": "Get your Trezor: \n\ntrezor.io/trezor-safe-5",
+      "timestamp": "Aug 20, 2025 · 2:46 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1958178845086962068#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1957739276512219507#m",
+      "content": "Keep your wallet backup secure and offline. Stay vigilant, and take control of your crypto.\n\nThank you for choosing Trezor! 💪\n\n⚠️ END OF THREAD ⚠️ 12/12",
+      "timestamp": "Aug 19, 2025 · 9:39 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1957739276512219507#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1957739274792513699#m",
+      "content": "👉 Adding phishing alerts to Trezor Suite and trezor.io\n\nStay safe.\n\nWe want to reassure you that there has been no recent breach of the email database. The phishing attempts we’ve seen are widespread across the crypto industry.\n\n11/12",
+      "timestamp": "Aug 19, 2025 · 9:39 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1957739274792513699#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1957739273039315002#m",
+      "content": "What we are doing.\n\nWe’re fighting back these scams by:\n\n👉 Partnering with @PhishFort to take down phishing sites (~48.79 hours per takedown)\n👉 Reporting scam domains and fake listings\n👉 Submitting phishing ads for removal\n\n10/12",
+      "timestamp": "Aug 19, 2025 · 9:39 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1957739273039315002#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1957739270917025875#m",
+      "content": "Trezor Suite downloads.\n\nYou’ll rarely need to download Trezor Suite—usually just once during setup or for a new computer. Always download from trezor.io, nowhere else.\n\n👉 trezor.io/trezor-suite\n\n9/12",
+      "timestamp": "Aug 19, 2025 · 9:39 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1957739270917025875#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1957739269427974452#m",
+      "content": "⚠️ We will never ask for your wallet backup. Be cautious, even if domains look legit.\n\n8/12",
+      "timestamp": "Aug 19, 2025 · 9:39 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1957739269427974452#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1957739267897073804#m",
+      "content": "How to spot a scam.\n\nAlways verify senders and links:\n\n✅ Official Trezor emails: noreply@trezor.io\n✅ Official site: trezor.io/\n\nScammers often use similar-sounding domain names, but it's easier to filter if you verify the address. \n\n7/12",
+      "timestamp": "Aug 19, 2025 · 9:39 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1957739267897073804#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1957739266206745076#m",
+      "content": "Feeling pressured? Pause.\n\nScammers use fear and urgency to trick you. If you get a message demanding fast action:\n\n📞 Hang up calls\n💬 Ignore DMs\n📧 Close email tabs\n\nTake a breath. Verify on your terms. If your wallet backup is offline and secure, your crypto is safe.\n\n6/12",
+      "timestamp": "Aug 19, 2025 · 9:39 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1957739266206745076#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1957739264478687682#m",
+      "content": "Red flags.\n\nScammers may ask for:\n\n🚩“Recovery key,” “backup code,” or “passphrase”\n🚩Passwords or 2FA codes\n🚩Personal info disguised as a “bug fix” or “security check”\n\nIf anyone asks for these, it’s a scam. Never share sensitive info.\n\n5/12",
+      "timestamp": "Aug 19, 2025 · 9:39 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1957739264478687682#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1957739262826127537#m",
+      "content": "⚠️ NEVER share your wallet backup, aka recovery seed (12/20/24 words). \n\nIt’s only entered on your Trezor device during wallet recovery, which is rare.\n\n4/12",
+      "timestamp": "Aug 19, 2025 · 9:39 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1957739262826127537#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1957739260921909731#m",
+      "content": "👉 Phishing ads and fake apps/websites\n👉 Bogus social media profiles impersonating our team\n\nThe common trick.\n\nPhishing emails often come from legitimate email platforms using trusted-sounding domains. They look real but aren’t.\n\n3/12",
+      "timestamp": "Aug 19, 2025 · 9:39 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1957739260921909731#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1957739259202306077#m",
+      "content": "What’s happening?\n\nScammers are impersonating exchanges, Trezor Support, other wallet brands, and even our team. \n\nThey’re using:\n\n👉 Fake emails (“AI Wallet Update,” “Security Incident”)\n👉 Scam calls pretending to be support\n👉 Counterfeit Trezor devices on retail sites\n\n2/12",
+      "timestamp": "Aug 19, 2025 · 9:39 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1957739259202306077#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1957739257688129682#m",
+      "content": "🔖 Bookmark this. It's important.\n\nPhishing attempts are on the rise…\n\nRecent weeks have seen a sharp rise in phishing scams targeting Trezor users. \n\nStay informed to keep your crypto secure. Here’s what you need to know: 🧵👇",
+      "timestamp": "Aug 19, 2025 · 9:39 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1957739257688129682#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1957461216156156129#m",
+      "content": "Coins Vs. tokens: What's the difference?",
+      "timestamp": "Aug 18, 2025 · 3:14 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1957461216156156129#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1957122873056801059#m",
+      "content": "Start staking with just 0.01 $SOL.\n\nYour keys. Your Coins. Your Rewards.\n\nDirectly in Trezor Suite.\n\ncontent.trezor.io/solana-sta…",
+      "timestamp": "Aug 17, 2025 · 4:50 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1957122873056801059#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1956365131677405261#m",
+      "content": "Bitcoin quiz time!\n\nWhat was the first real-world purchase made with Bitcoin?",
+      "timestamp": "Aug 15, 2025 · 2:39 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1956365131677405261#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1955976529214624023#m",
+      "content": "Not your keys, not your coins.",
+      "timestamp": "Aug 14, 2025 · 12:55 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1955976529214624023#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1954993400664453530#m",
+      "content": "Just weeks after Ethereum launched, @myetherwallet went live.\n\nWhat began as a Reddit post in 2015 evolved into MEW Universe including MEW mobile, @ethVM, and @enkrypt!\n\nWe could not have done it without the amazing Ethereum community of devs and users - cheers to 10 years! 🍻✨",
+      "timestamp": "Aug 11, 2025 · 7:48 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1954993400664453530#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1955631130927112251#m",
+      "content": "Listen on your favorite platforms!\n\nSpotify: open.spotify.com/episode/77P…\nApple Podcasts: podcasts.apple.com/au/podcas…\nYouTube: piped.kavin.rocks/tGOhpQuuCMg?si=YnYX…",
+      "timestamp": "Aug 13, 2025 · 2:02 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1955631130927112251#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1955630951402225765#m",
+      "content": "What happens when @Trezor & @Ledger’s CTOs sit down together? 🤝\n\n@tsusanka & @P3b7_ join @Danntoshi for an unfiltered dive into the future of crypto security & self-custody.\n\nA rare moment in crypto history.\n\nWatch now: piped.kavin.rocks/tGOhpQuuCMg?si=YnYX…",
+      "timestamp": "Aug 13, 2025 · 2:02 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1955630951402225765#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1953622191712743793#m",
+      "content": "Meet Matej Zak CEO at Trezor, at #WebX2025 on August 25–26, 2025.\n\nMatej Zak leads the vision and strategic direction at Trezor, the company behind one of the world’s most trusted hardware wallets. He joined Trezor in 2018 as the company’s first Product Manager and was appointed CEO in early 2023.\n\nDriven by a mission to make Bitcoin more accessible while maintaining best-in-class security and privacy, Matěj continues to shape Trezor’s role as a foundational pillar of self-custody in the crypto ecosystem.\n\nFor more details, visit 2025.webx-asia.com/ja/",
+      "timestamp": "Aug 8, 2025 · 1:00 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1953622191712743793#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1955272369779474731#m",
+      "content": "Book a one-on-one onboarding session with one of our Trezor Experts:\n\ntrezor.io/trezor-expert-sess…",
+      "timestamp": "Aug 12, 2025 · 2:17 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1955272369779474731#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1955272367891984681#m",
+      "content": "❤️",
+      "timestamp": "Aug 12, 2025 · 2:17 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1955272367891984681#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1954906041449353621#m",
+      "content": "Trezor Talks is available on all your favorite platforms:\nopen.spotify.com/show/4PsdDl…\npodcasts.apple.com/au/podcas…\npiped.kavin.rocks/playlist?list=PL…",
+      "timestamp": "Aug 11, 2025 · 2:01 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1954906041449353621#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1954905885337174126#m",
+      "content": "📅 Releasing August 13th.\n(Mark your calendars)\n\nWhat does it take to secure the future of crypto?\n\nTomáš (CTO @Trezor) & Charles (CTO @Ledger) join Danny Sanders in a wide-ranging chat.\n\nThink:\n✅ Self-custody\n✅ Quantum threats\n✅ Privacy\n✅ The future of hardware wallets",
+      "timestamp": "Aug 11, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1954905885337174126#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1954205873917596000#m",
+      "content": "Trezor Suite allows you to swap crypto directly from your wallet—no browser tabs, no extra tools.\n\nEach action is confirmed on your Trezor, keeping your trades simple and secure. ✅\n\nStart now: content.trezor.io/trade-feat…",
+      "timestamp": "Aug 9, 2025 · 3:39 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1954205873917596000#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1953819014100038096#m",
+      "content": "Congrats @0xapacx on getting the correct answer to our previous tweet!",
+      "timestamp": "Aug 8, 2025 · 2:02 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1953819014100038096#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1953818822487527846#m",
+      "content": "Trezor Talks is available on all your favorite platforms:\nopen.spotify.com/show/4PsdDl…\npodcasts.apple.com/au/podcas…\npiped.kavin.rocks/playlist?list=PL…",
+      "timestamp": "Aug 8, 2025 · 2:01 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1953818822487527846#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1953818484128841798#m",
+      "content": "Two companies. One mission: securing your crypto.\n\nFor the first time ever, Tomáš Susanka (CTO @Trezor) and Charles Guillemet (CTO @Ledger) sat down for a conversation about self-custody.\n\n🎙️ Podcast episode coming soon.",
+      "timestamp": "Aug 8, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1953818484128841798#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1953738088607625444#m",
+      "content": "Nearly 200k ETH is staked via Trezor Suite🤝",
+      "timestamp": "Aug 8, 2025 · 8:40 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1953738088607625444#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1953479587402273229#m",
+      "content": "\"Bitcoin: Kutenganisha Pesa Na Serikali\"—the Swahili version of \"Bitcoin: Separation of Money and State\" by @JosefTetek —is now distributed for free across East Africa via @TrezorAcademy  programs 🇰🇪🇹🇿🇲🇿🇧🇮🇨🇩",
+      "timestamp": "Aug 7, 2025 · 3:33 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1953479587402273229#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1953479585598775576#m",
+      "content": "‘If you speak to a man in a language he understands, that goes to his head. If you speak to him in his own language, that goes to his heart.’ \n\n150M+ Swahili speakers can now learn Bitcoin in their language. 🧵",
+      "timestamp": "Aug 7, 2025 · 3:33 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1953479585598775576#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1953116358058586333#m",
+      "content": "Can you predict the price of Bitcoin by the end of this year? \n\nDrop your guess in the comments!",
+      "timestamp": "Aug 6, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1953116358058586333#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1953087258602442930#m",
+      "content": "Get your Trezor only from our official website or an authorized reseller:\ntrezor.io/",
+      "timestamp": "Aug 6, 2025 · 1:34 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1953087258602442930#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1953087257016946990#m",
+      "content": "In Germany, the Czech Republic, and Slovakia, you can now order your Trezor to a Packeta pick-up point.\n\nKeep your home address private and benefit from cheaper delivery costs.\n\nA secure and convenient way to get your device.",
+      "timestamp": "Aug 6, 2025 · 1:34 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1953087257016946990#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1952699126585376773#m",
+      "content": "Trezor Talks is available on all your favorite platforms:\n\nopen.spotify.com/show/4PsdDl…\npodcasts.apple.com/au/podcas…\npiped.kavin.rocks/watch?v=_4HHLW-V…",
+      "timestamp": "Aug 5, 2025 · 11:52 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1952699126585376773#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1952699125117374572#m",
+      "content": "We made the impossible possible. Guess who the next guest on our podcast Trezor Talks is. 👀\n\n(First correct answer wins a Trezor Model One)",
+      "timestamp": "Aug 5, 2025 · 11:52 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1952699125117374572#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1952388933691556078#m",
+      "content": "We believe you should be the one in control of your money—not a bank, not an exchange. That's why we create easy, secure tools to protect your crypto & your future.\n\n✅ 100% independent\n✅ Open-source\n✅ Built by a passionate team\n\nThank you for being part of our journey!",
+      "timestamp": "Aug 4, 2025 · 3:19 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1952388933691556078#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1952388931879907499#m",
+      "content": "From there, we kept evolving.\n\n2018: The Trezor Model T, with its touchscreen innovation.\n\n2023: The Trezor Safe 3, with Secure Element for extra protection.\n\n2024: The Trezor Safe 5, featuring a vibrant color touchscreen and haptic feedback.",
+      "timestamp": "Aug 4, 2025 · 3:19 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1952388931879907499#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1952388929111429595#m",
+      "content": "11 years ago, Bitcoin was booming—but so were the hacks.\n\nAnd back then, self-custody wasn’t an option.\n\nSo, in 2014, we built what didn’t exist: the world’s first hardware wallet, the Trezor Model One. 🧵\n\n#SelfCustodyWeek",
+      "timestamp": "Aug 4, 2025 · 3:19 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1952388929111429595#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1952006640858779940#m",
+      "content": "Who’s really holding your crypto?\n\nThere’s a big difference between custodial and non-custodial wallets. 👇\n\n#SelfCustodyWeek",
+      "timestamp": "Aug 3, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1952006640858779940#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1951659392190886052#m",
+      "content": "Do you know these 6 crypto related words? \n\n#selfcustodyweek",
+      "timestamp": "Aug 2, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1951659392190886052#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1951631405961592997#m",
+      "content": "Ready to self-custody your crypto, but don’t know where you can safely buy a Trezor?\n\nPurchase your Trezor ONLY from our official website (trezor.io) or an authorized reseller.\n\nList of our authorized resellers: trezor.io/resellers\n\n#selfcustodyweek",
+      "timestamp": "Aug 2, 2025 · 1:09 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1951631405961592997#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1951316303358066883#m",
+      "content": "Remember: Not your keys, not your coins.   \n\nIf you're new to self-custody, start  here: blog.trezor.io/how-hardware-…   \n\nA quick guide on how hardware wallets keep your crypto safe.",
+      "timestamp": "Aug 1, 2025 · 4:17 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1951316303358066883#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1951316300682158216#m",
+      "content": "Self-Custody Challenge!\n\nOne of these emojis appears only once…\n\nCan you find it? 🔍",
+      "timestamp": "Aug 1, 2025 · 4:17 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1951316300682158216#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1951292624339337479#m",
+      "content": "Bitcoin Independence Day, celebrated on August 1st, honors the day in 2017 when the community stood strong and proved that Bitcoin belongs to its users. \n\nIt’s a powerful reminder that Bitcoin is run by the people — open, decentralized, and free.",
+      "timestamp": "Aug 1, 2025 · 2:43 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1951292624339337479#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1951292434513637588#m",
+      "content": "Happy Bitcoin Independence Day! \n\nTake Control.",
+      "timestamp": "Aug 1, 2025 · 2:42 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1951292434513637588#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1951204248638652780#m",
+      "content": "We’re proud to support our client @Trezor as they deepen their presence in the Brazilian market! 🇧🇷\n\nTo mark the occasion, Trezor users in Brazil can now buy and sell crypto with 0% PIX payment fees — available directly on the Trezor Suite by choosing Paybis as provider.\n\nThis launch campaign is available for a limited time and supports local access through Brazil’s most popular payment method.\n\n✅ 0% PIX fees\n✅ For Brazilian users\n✅ Live now on Trezor, powered by Paybis\n\n🔗 content.trezor.io/trade-feat…",
+      "timestamp": "Aug 1, 2025 · 8:51 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1951204248638652780#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950934917904282087#m",
+      "content": "1/10 Solana’s H1 2025 was a milestone in scale, speed, and ecosystem growth. With 6M daily active addresses, 600M+ weekly non-vote transactions, and a REV peak of $200M+ in early February, network activity reached all-time highs.\n\nOur just-released report covers it all — Alpenglow, governance milestones, Accelerate 2025, Confidential Transfers, and more.\n\nWondering what made this half-year so defining for @solana? Let’s break it down.",
+      "timestamp": "Jul 31, 2025 · 3:01 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950934917904282087#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950968211207327894#m",
+      "content": "GUYS. Apparently, I got promoted to \"done working at Trezor\". Rip. Must’ve done really well on the X account! Welp, it’s been real. Peace out.",
+      "timestamp": "Jul 31, 2025 · 5:14 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950968211207327894#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950954620257190080#m",
+      "content": "If you have any features or coins you want added to Trezor, then comment below. \n\nAs the intern, I will do everything in my power to make it happen (I will forward your comments to someone on Slack).",
+      "timestamp": "Jul 31, 2025 · 4:20 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950954620257190080#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950946703223246908#m",
+      "content": "I just got a tap on the shoulder, and apparently, for my first point, ‘wallet backup’ is now a vibe.\n\nCheck out the Trezor blog post for more info: medium.com/trezor-security-b…",
+      "timestamp": "Jul 31, 2025 · 3:48 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950946703223246908#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950946529390317932#m",
+      "content": "My takes on crypto (as an intern who knows very little about crypto):\n\n1. Wallet backup. Recovery seed. Seed phrase. Pick one.\n2. Can’t believe people sleep without a metal backup.\n3. Newcoiners should not be told to use passphrases.\n4. Way too many coins claiming to be the ‘fastest’.\n5. Satoshi is from the future (or an alien).",
+      "timestamp": "Jul 31, 2025 · 3:47 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950946529390317932#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950918499049615545#m",
+      "content": "AMA with THE (wonderful, talented, charismatic, amazing) Trezor Intern.\n\nComment with a question. 👇",
+      "timestamp": "Jul 31, 2025 · 1:56 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950918499049615545#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950900353823654231#m",
+      "content": "And I followed Trezor on all social media platforms. Did you know that Trezor has TikTok? 🤩\n\ntiktok.com/@trezor.io_offici…",
+      "timestamp": "Jul 31, 2025 · 12:44 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950900353823654231#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950900351982276808#m",
+      "content": "I subscribed to the YouTube channel:\npiped.kavin.rocks/watch?v=4YOKe-8k…\n\nI added the Trezor Talks podcast to my Spotify playlist:\nopen.spotify.com/show/4PsdDl…",
+      "timestamp": "Jul 31, 2025 · 12:44 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950900351982276808#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950900350300393840#m",
+      "content": "I bookmarked these links right away (I got all my knowledge from there):\n\ntrezor.io/learn\nblog.trezor.io/",
+      "timestamp": "Jul 31, 2025 · 12:44 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950900350300393840#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950900348807152115#m",
+      "content": "What I did as an intern as soon as I started working at Trezor 👇",
+      "timestamp": "Jul 31, 2025 · 12:44 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950900348807152115#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950849225387872404#m",
+      "content": "Newbie protip: if you say you don't own bitcoin people will just start sending you free sats. Even people who are obsessed with owning more bitcoin because there are only 21M. That’s actually cool, not like fiat or gold, where there is no limit.",
+      "timestamp": "Jul 31, 2025 · 9:21 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1950849225387872404#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950849223231987899#m",
+      "content": "My first day in the office, when people found out I didn't own any bitcoin:",
+      "timestamp": "Jul 31, 2025 · 9:21 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1950849223231987899#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950831081227243638#m",
+      "content": "Hi, I’m Rachel, Trezor’s intern!\n\n2 months ago, I had no idea what Bitcoin was. Today, I’m taking over Trezor’s X for a day to share what I’ve learned about crypto & self-custody.\n\nPls like this tweet so I can show my managers this was a good idea. 🙏",
+      "timestamp": "Jul 31, 2025 · 8:09 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1950831081227243638#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950597511904645453#m",
+      "content": "What’s a hardware wallet? Why does it matter?\n\nIn just 6 minutes, you’ll understand the basics and why taking control of your crypto is non-negotiable.\n\nWatch now: piped.kavin.rocks/watch?v=e94Thv32…\n\n#selfcustodyweek",
+      "timestamp": "Jul 30, 2025 · 4:41 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950597511904645453#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950588806995808310#m",
+      "content": "Here's the article by Lucien:\n\nblog.trezor.io/which-one-las…",
+      "timestamp": "Jul 30, 2025 · 4:06 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950588806995808310#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950588804785451319#m",
+      "content": "When writing down your wallet backup (aka recovery seed), what's better? 🤔\n\n(@lucien21m has an answer. Check the link in the comments)",
+      "timestamp": "Jul 30, 2025 · 4:06 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950588804785451319#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950570407981199599#m",
+      "content": "Get your Trezor:\ntrezor.io/trezor-safe-5?utm_…",
+      "timestamp": "Jul 30, 2025 · 2:53 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950570407981199599#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950570366000095288#m",
+      "content": "Still keeping your crypto on exchanges? 🤔\n\nHere are 7 reasons to take control and move to self-custody.\n\n#selfcustodyweek",
+      "timestamp": "Jul 30, 2025 · 2:53 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950570366000095288#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950224976960803113#m",
+      "content": "Giveaway! 🎁\n\nTo kick off #selfcustodyweek, we’re gifting 3 Trezor Model One — the hardware wallet that started it all in 2014!\n\nTo enter:\n\n1️⃣ Follow us\n2️⃣ Like & RT\n3️⃣ Tag a friend \n\nWinner announcement Aug 6.",
+      "timestamp": "Jul 29, 2025 · 4:00 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950224976960803113#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950205978793611399#m",
+      "content": "Today, we celebrate the 11th anniversary of launching our first product, the Trezor Model One. 🎉\n\nTo honor this, we’re dedicating this week to the core principle that started it all: self-custody.\n\nWhat does self-custody mean to YOU?\n\n#selfcustodyweek",
+      "timestamp": "Jul 29, 2025 · 2:45 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950205978793611399#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1950164583701791161#m",
+      "content": "🇧🇷 To celebrate shipping to Brazil, for the next month: \n\n🎉 Enjoy 0% fees on buy & sell transactions when you pay with PIX in Trezor Suite.\n\nStart trading now: content.trezor.io/trade-feat…",
+      "timestamp": "Jul 29, 2025 · 12:00 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1950164583701791161#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1949804138000155075#m",
+      "content": "Olá, Brasil! We’ve got big news! 🇧🇷\n\nDirect sales and shipping to Brazil are now available through our official website!\n\nOrder your Trezor today & take control. \n\ntrezor.io",
+      "timestamp": "Jul 28, 2025 · 12:08 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1949804138000155075#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1949470526214144432#m",
+      "content": "All you need for true peace of mind. 🤩 \n\nA Trezor hardware wallet & a Trezor Keep Metal backup—secure, reliable, yours.\n\nDiscover our Bundles: trezor.io/store#bundles",
+      "timestamp": "Jul 27, 2025 · 2:02 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1949470526214144432#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1947203518944694317#m",
+      "content": "Important\n\nOver the past few weeks, we've noted an increase in phishing attempts targeting users to steal their wallet backup (aka recovery seed). Please stay alert.\n\nOur advice remains the same. Always:\n\n✅Verify website URLs and sender email addresses\n\n✅ Avoid clicking on suspicious links\n\n✅ Never enter your wallet backup online – under any circumstances\n\nWe will NEVER ask for your wallet backup in any form of communication. Any message that does is a scam.\n\nYour vigilance is your strongest defense. Stay safe.",
+      "timestamp": "Jul 21, 2025 · 7:54 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1947203518944694317#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1948758353057817049#m",
+      "content": "Crypto security sounds complicated? It doesn’t have to be. 🤩 \n\nWith Trezor Expert Consultation, you get clear answers to your most challenging questions.\n\nPassphrase? Multi-share backup? PINs? Staking?\n\nBook your consultation:\ntrezor.io/trezor-expert-cons…",
+      "timestamp": "Jul 25, 2025 · 2:52 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1948758353057817049#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1948064066942951547#m",
+      "content": "Über Self-Custody. \n\nDiese Woche gibt es in Deutschland @Trezor-Wallets ab 20€ 👀\n\n🇩🇪👇",
+      "timestamp": "Jul 23, 2025 · 4:54 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1948064066942951547#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1948636494626722288#m",
+      "content": "We've got answers to that in our latest support video: \n\npiped.kavin.rocks/4YOKe-8khJQ",
+      "timestamp": "Jul 25, 2025 · 6:48 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1948636494626722288#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1948636492961906998#m",
+      "content": "What to do if you notice a transaction you didn't authorize in your Trezor? 👀",
+      "timestamp": "Jul 25, 2025 · 6:48 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1948636492961906998#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1948387887394795832#m",
+      "content": "For more information: trezor.io/learn/supported-as…",
+      "timestamp": "Jul 24, 2025 · 2:20 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1948387887394795832#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1948387884043567537#m",
+      "content": "Trezor Suite now supports Stellar $XLM! 🎉\n\n✅ Full self-custody with your Trezor wallet\n✅ Secure transactions\n✅ No need for third-party apps or exchanges\n\n@StellarOrg\ncontent.trezor.io/trade-feat…",
+      "timestamp": "Jul 24, 2025 · 2:20 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1948387884043567537#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1948378952696770838#m",
+      "content": "Bitcoin in 2025: 5 Costly Mistakes to Watch Out For @Trezor\n\nnews.bitcoin.com/bitcoin-in-…",
+      "timestamp": "Jul 24, 2025 · 1:45 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1948378952696770838#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1948041784522690727#m",
+      "content": "Get Trezor Suite Lite for mobile:\n\n🤖 play.google.com/store/apps/d……\n\n🍏 apps.apple.com/us/app/trezor…",
+      "timestamp": "Jul 23, 2025 · 3:25 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1948041784522690727#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1948041748896170103#m",
+      "content": "We've rolled out version 25.7.2 of Trezor Suite Lite! 📣\n\n✅ Improved Settings UI for easier navigation.\n✅ Factory reset and device renaming functions now available.\n✅ Regular bitcoin fee updates, Coin Control added.\n✅ Stellar (XLM) is now supported.",
+      "timestamp": "Jul 23, 2025 · 3:25 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1948041748896170103#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1948036461527281830#m",
+      "content": "For more on what a wallet backup is and how to use it, check this out: trezor.io/guides/backups-rec…",
+      "timestamp": "Jul 23, 2025 · 3:04 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1948036461527281830#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1947950980852580680#m",
+      "content": "SATS IN THE TREZOR\n906,777\n@Trezor @TrezorAcademy @vexl",
+      "timestamp": "Jul 23, 2025 · 9:24 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1947950980852580680#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1947930634006978918#m",
+      "content": "More on our knowledge base: trezor.io/guides/backups-rec…",
+      "timestamp": "Jul 23, 2025 · 8:03 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1947930634006978918#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1947930632031768783#m",
+      "content": "How well do you understand Multi-share Backup?",
+      "timestamp": "Jul 23, 2025 · 8:03 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1947930632031768783#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1947680895009206546#m",
+      "content": "The winner has been selected and contacted via DM.",
+      "timestamp": "Jul 22, 2025 · 3:31 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1947680895009206546#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1947099207963234401#m",
+      "content": "Trezor Safe 5 / Safe 3 ハードウェアウォレットの取り扱いを開始しました⚡️\n\nLightning Base は日本ではじめて Trezor 社より公認された国内正規販売代理店となり、最新シリーズ「Trezor Safe 5」および「Trezor Safe 3」の取り扱いを開始しました🙌\n\nlightningbase.jp/blog-trezor…",
+      "timestamp": "Jul 21, 2025 · 1:00 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1947099207963234401#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1947325846454255915#m",
+      "content": "You don’t know fear until you’ve done this\n\n👇🇩🇪",
+      "timestamp": "Jul 21, 2025 · 4:00 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1947325846454255915#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1947251969199947911#m",
+      "content": "Stell dir vor: Jemand erstellt ein KI-Video und zeigt deinen Ausweis vor - und zack, deine Bitcoin sind weg.\n\nEs ist nur eine Frage der Zeit, bis sowas passiert.\n\n👉 Nimm deine Bitcoin von der Börse. Jetzt.",
+      "timestamp": "Jul 21, 2025 · 11:07 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1947251969199947911#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1946208490189459629#m",
+      "content": "Giveaway! 🎁\n\nSolve this riddle to win a Trezor Model T! \n\n'You hold me in hand, I never go online. \nBut your crypto sleeps safely, every single time.'\n\nTo enter:\n1️⃣ Follow us\n2️⃣ Like & RT\n3️⃣ Reply with your answer 👀 \n\nWinner announcement July 22.",
+      "timestamp": "Jul 18, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1946208490189459629#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1947298673135624391#m",
+      "content": "Is talking about owning Bitcoin a good idea?",
+      "timestamp": "Jul 21, 2025 · 2:12 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1947298673135624391#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1947270436091273313#m",
+      "content": "Adoption of SLIP39 grows 🚀\n\nNow supported by @nufiwallet",
+      "timestamp": "Jul 21, 2025 · 12:20 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1947270436091273313#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1946974722215891034#m",
+      "content": "Not👏Your👏Keys👏Not👏Your👏Coins",
+      "timestamp": "Jul 20, 2025 · 4:45 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1946974722215891034#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1946102812422602768#m",
+      "content": "Keep it quiet when it comes to your crypto",
+      "timestamp": "Jul 18, 2025 · 7:00 AM UTC",
+      "url": "https://twitter.com/Trezor/status/1946102812422602768#m",
+      "author": "Trezor"
+    },
+    {
+      "id": "1945866087389704552#m",
+      "content": "Catch the full episode here: piped.kavin.rocks/watch?v=_4HHLW-V…\n\nListen to it on Spotify: open.spotify.com/episode/2B9…",
+      "timestamp": "Jul 17, 2025 · 3:20 PM UTC",
+      "url": "https://twitter.com/Trezor/status/1945866087389704552#m",
+      "author": "Trezor"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T00:15:38.877Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 26801,
+    "cursorTrail": [
+      "DAAHCgABG3vkbJm__-wLAAIAAAATMTk3NzQwODUzNjAwMDA1Nzg0MwgAAwAAAAIAAA",
+      "DAAHCgABG3vkbJm__9cLAAIAAAATMTk3MjcwMjk4MzU1NDAzMTgxMggAAwAAAAIAAA",
+      "DAAHCgABG3vkbJm__8ILAAIAAAATMTk2NzIyNDAwNzU0MTAzNTEyNwgAAwAAAAIAAA",
+      "DAAHCgABG3vkbJm__60LAAIAAAATMTk2MzYwMzQyODMxNzI0NTgyOQgAAwAAAAIAAA",
+      "DAAHCgABG3vkbJm__5gLAAIAAAATMTk2MDcyMzQyNjU5NjgzMTY5MQgAAwAAAAIAAA",
+      "DAAHCgABG3vkbJm__4MLAAIAAAATMTk1NzczOTI2MjgyNjEyNzUzNwgAAwAAAAIAAA",
+      "DAAHCgABG3vkbJm__24LAAIAAAATMTk1MzczODA4ODYwNzYyNTQ0NAgAAwAAAAIAAA",
+      "DAAHCgABG3vkbJm__1kLAAIAAAATMTk1MTE2NzAzMjg2NDQ1Mjc2OAgAAwAAAAIAAA",
+      "DAAHCgABG3vkbJm__0QLAAIAAAATMTk1MDIyNDk3Njk2MDgwMzExMwgAAwAAAAIAAA",
+      "DAAHCgABG3vkbJm__zALAAIAAAATMTk0NzkzMDYzMjAzMTc2ODc4MwgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

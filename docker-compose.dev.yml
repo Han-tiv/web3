@@ -1,0 +1,75 @@
+# Web3 Monorepo - Development Docker Compose
+version: '3.8'
+
+services:
+  # 🗄️ PostgreSQL Database (Development)
+  postgres-dev:
+    image: postgres:15-alpine
+    container_name: web3-postgres-dev
+    restart: unless-stopped
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: crypto_bot
+      POSTGRES_USER: cryptouser
+      POSTGRES_PASSWORD: cryptopass123
+    volumes:
+      - postgres_dev_data:/var/lib/postgresql/data
+    networks:
+      - web3-dev-network
+
+  # 🔴 Redis Cache (Development)
+  redis-dev:
+    image: redis:7-alpine
+    container_name: web3-redis-dev
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    command: redis-server --appendonly yes
+    volumes:
+      - redis_dev_data:/data
+    networks:
+      - web3-dev-network
+
+  # 📊 Redis Commander (Redis GUI)
+  redis-commander:
+    image: rediscommander/redis-commander:latest
+    container_name: web3-redis-commander
+    restart: unless-stopped
+    ports:
+      - "8081:8081"
+    environment:
+      - REDIS_HOSTS=local:redis-dev:6379
+    depends_on:
+      - redis-dev
+    networks:
+      - web3-dev-network
+
+  # 🗄️ pgAdmin (PostgreSQL GUI)
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: web3-pgadmin
+    restart: unless-stopped
+    ports:
+      - "8082:80"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@web3.local
+      PGADMIN_DEFAULT_PASSWORD: admin123
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+    depends_on:
+      - postgres-dev
+    networks:
+      - web3-dev-network
+
+volumes:
+  postgres_dev_data:
+    driver: local
+  redis_dev_data:
+    driver: local
+  pgadmin_data:
+    driver: local
+
+networks:
+  web3-dev-network:
+    driver: bridge

@@ -1,0 +1,56 @@
+{
+  "name": "@web3/nitter",
+  "version": "1.0.0",
+  "description": "Privacy-focused Twitter monitoring service using Nitter",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/api.js",
+    "dev": "tsc --watch & node dist/api.js",
+    "api": "node dist/api.js",
+    "nitter-only": "node dist/index.js",
+    "docker:up": "docker-compose up -d",
+    "docker:down": "docker-compose down",
+    "docker:build": "docker-compose build",
+    "docker:restart": "npm run docker:down && npm run docker:up",
+    "docker:logs": "docker-compose logs -f nitter-api",
+    "logs:redis": "docker-compose logs -f redis",
+    "status": "docker-compose ps",
+    "clean": "docker-compose down -v && docker system prune -f",
+    "backup": "node scripts/backup.js",
+    "monitor": "node scripts/monitor.js",
+    "archive:following": "npm run build && node dist/scripts/archiveFollowing.js",
+    "health": "curl -f http://localhost:3001/health || exit 1",
+    "test": "npm run build && node test/filters.test.js && node test/archiveFormat.test.js"
+  },
+  "keywords": [
+    "twitter",
+    "nitter",
+    "monitoring",
+    "privacy",
+    "social-media"
+  ],
+  "devDependencies": {
+    "@types/cheerio": "^0.22.31",
+    "@types/cors": "^2.8.14",
+    "@types/express": "^4.17.18",
+    "@types/node": "^20.8.0",
+    "@types/node-cron": "^3.0.11",
+    "@types/xml2js": "^0.4.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-cron": "^3.0.2",
+    "redis": "^4.6.10",
+    "winston": "^3.10.0",
+    "xml2js": "^0.6.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "docker": ">=20.0.0"
+  }
+}

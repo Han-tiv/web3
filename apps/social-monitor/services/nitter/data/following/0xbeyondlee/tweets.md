@@ -1,0 +1,5381 @@
+# 解构师Beyond Ⓜ️Ⓜ️T (@0xBeyondLee)
+
+- 抓取时间：2025-10-20T23:39:16.226Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：28169 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：11
+- 抓取尝试：1
+- Cursor 链：10 条
+- 账号统计：粉丝 29962，关注 1756，推文 20955，点赞 45263
+- 所在地：合作TG: beyondlee16
+- Twitter：https://twitter.com/0xBeyondLee
+- 头像：https://pbs.twimg.com/profile_images/1930527417329983488/RQePWyBC_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1328686769508732929/1745321853
+- 认证：Blue Verified
+
+> 账号简介：
+> Elite KOL Agency | 信息可视化博主 | Kaito CN Top40 | xHunt CN Top80 | #Binance Square Creator | #OKX Maxi
+
+---
+
+## 1. Oct 4, 2025 · 9:19 AM UTC · 1974404024372691446#m
+- 链接：https://twitter.com/0xBeyondLee/status/1974404024372691446#m
+- 作者：@0xBeyondLee
+
+> 高学历就做不了 KOL……吗？
+>  
+> 这是庞教主的观点，但我认为完全错误，甚至是迎合民粹流量的说法
+>  
+> 首先要明确：我所谓的 KOL 是能靠自己内容和能力赚钱，能带粉丝赚钱，信息量十足的 key opinion leader；而不是花几十块买粉、AI 写文给 AI 看，或者靠擦边骗小交易所周边的博主
+>  
+> 在这个标准下，高学历 KOL 随处可见，光是港三新二我就能举出几十位，身边 985、211 甚至海外名校背景的朋友更是不胜枚举
+>  
+> 图中从各学校挑一到两个比较有代表，且和我差不多大且比较熟的例子，须知这只是冰山一角
+>  
+> 我自己是 985 金融本科出身，刚入圈时觉得这是优势，后来才发现币圈卧虎藏龙，高学历 KOL 多得是，真正的原因是，他们不把学历挂嘴边，因为成绩才是最硬的名片
+>  
+> 币圈尤其是 KOL 行业的实际情况是：
+>  
+> 根本没人 care 你是啥学校毕业的，自然没有学历歧视或学历门槛
+>  
+> 所以拜托，不行就不行，nerd 就 nerd，请别再说当不了 kol 是因为学历高了，这样的秀优越只会让人觉得小孩子气
+>  
+> 况且 kol 几乎没有门槛，kol 都做不好，别的就更别提了
+>  
+> （顺便一提，我不认可庞教主的观点，不代表不认可庞教主这个人，他作为洞悉流量和人性的杰出 kol，自然是懂得这个道理的，所以这段话是写给某些读者）
+>  
+> 图中 KOL 指路（抱歉打扰，可点击「隐藏此对话」）
+> @0x_KevinZ @tyw1984 @EudemoniaCC @Tintinx2021 @EvanCrypto17 @bamboo_susu @0xBeyondLee
+>  
+> @0xSunNFT @0xAA_Science @Christianeth @yuyue_chris @vanisaxxm @Rav_Hedda @softlipa1018
+>  
+> @anymose96 @0xJuliechen @0xEvieYang @CyberPhilos @Anna_nanachan @Wolfy_XBT @yuxin_pig
+
+## 2. Oct 20, 2025 · 2:59 PM UTC · 1980287648997818387#m
+- 链接：https://twitter.com/0xBeyondLee/status/1980287648997818387#m
+- 作者：@0xBeyondLee
+
+> 简单解释今天 XHunt 排名暴跌的原因
+>  
+> 此前关注他人数量破万的博主，并不会被记录在「全球/Top100/中文区KOL」内，比如 CL 等英文区创作者
+>  
+> 但新算法修改了这一规则，一视同仁
+>  
+> 本次算法升级后，全球排名将变得更加客观公允
+>  
+> 我的个人经验是，该排名的高低与各平台的嘴撸权重都基本成正相关关系
+
+## 3. Oct 20, 2025 · 11:50 AM UTC · 1980240316910412114#m
+- 链接：https://twitter.com/0xBeyondLee/status/1980240316910412114#m
+- 作者：@0xBeyondLee
+
+> 分享一些能获得现金流的 Kaito 项目
+>  
+> ⏹︎ Orderly 月榜 Top50 瓜分 33k-55k 美金
+> ⏹︎ Falcon 月榜 Top50 瓜分 50k 美金
+> ⏹︎ Aptos 月榜 Top100 瓜分 100k 美金
+> ⏹︎ Polygon 月榜 Top50 瓜分 30k 美金
+> ⏹︎ MetaWin 月榜 Top100 瓜分 100k 美金
+> ⏹︎ River
+>  
+> 兄弟记住，不能变现的资源都是负担
+
+## 4. Oct 20, 2025 · 9:47 AM UTC · 1980209247356178466#m
+- 链接：https://twitter.com/0xBeyondLee/status/1980209247356178466#m
+- 作者：@0xBeyondLee
+
+> 大名「洞纳」
+> 小名「肚哪疼」和 Solana「屎拉哪」遥相呼应
+
+## 5. Oct 20, 2025 · 9:42 AM UTC · 1980207987492114748#m
+- 链接：https://twitter.com/0xBeyondLee/status/1980207987492114748#m
+- 作者：@0xBeyondLee
+
+> 换个马甲我就认不出来了吗？
+>  
+> 有些项目第一眼看着眼熟，第二眼就确定必然有大发展 @DonutBrowser 就是一个例子
+>  
+> - 首席执行官  @Chrizhuu  是 Sonic SVM 的创始人兼 CEO
+> - 创始成员  @Ru7Longcrypto  是前 Soon 的首席营销官
+> - COO  @DarcyAsks  是 Sonic SVM 的合作伙伴关系负责人
+>  
+> 巧合的是 Sonic SVM 和 Soon 都上线了 Binance Perp、OKX Perp、Upbit 等交易所
+>  
+> 猜猜已经手握结果的他们可以代领 Donut 走到哪一步，Binance Perp？Binance Spot？
+>  
+> 有趣的是 Donut 最近在搞中文名起名大赛 5000U 奖金，可以参与一下
+>  
+> 我的答案是「洞纳」
+>  
+> 洞纳浏览器，洞悉世界，纳尽万象
+>  
+> #Donut中文名
+
+## 6. Oct 19, 2025 · 6:07 PM UTC · 1979972669069201742#m
+- 链接：https://twitter.com/0xBeyondLee/status/1979972669069201742#m
+- 作者：@0xBeyondLee
+
+> 我每天都在过 Base 人生。
+
+## 7. Oct 19, 2025 · 11:00 AM UTC · 1979865266545893460#m
+- 链接：https://twitter.com/0xBeyondLee/status/1979865266545893460#m
+- 作者：@0xBeyondLee
+
+> There’s a reason why I’m a green cat that looks like a d*ck.
+>  
+> This is your daily reminder that people-pleasing makes you sick.
+>  
+> So stop it and be a green d*ck.
+
+## 8. Oct 19, 2025 · 6:50 AM UTC · 1979802324433326189#m
+- 链接：https://twitter.com/0xBeyondLee/status/1979802324433326189#m
+- 作者：@0xBeyondLee
+
+> 所有机构，交易员，做市商正在逐步入场预测市场
+>  
+> 什么预测市场？预测市场怎么赚钱？
+>  
+> 如果你还没有开始研究预测市场， Now is the time!
+>  
+> 今晚9点，华语区最大学生组织0xU将会与你探讨预测市场是什么，怎么参与预测市场，以及有哪些认知差是你必须知道的。
+>  
+> 直播时间十月19号香港时间晚上9点
+>  
+> 直播间位置：0xU官方推特
+>  
+> 这次的嘉宾！
+>  
+> @0x_KevinZ，佛系少年，0xU创始成员，全能少年，0xU第一世代OG
+>  
+> @issue_wong，你在JHU的平易近人好学长，预测市场产品 @Betix_Labs Dev，0xU的创世神之一
+>  
+> @0xBeyondLee，超级无敌Web3解构师，中文区前80 KOL，永远第一时间为你解构信息的肝帝。0xU最早的支持者，照亮00后Web3人的光
+>  
+> @MrRyanChi，运营，做项目和整活的终极猴王，你的增长黑客型嘉豪，正在做 @Polyinsiders 预测市场小玩具。真实身份是0xU 三代目联合会长！
+>  
+> 主持人！
+>  
+> @bc1qDave，超级犀利的交易员，市场的分析师，庄家们的终结者 —— 在Dave Daddy的眼里，所有庄家都不过是萝莉罢了！真实身份是0xU 三代目联合会长！
+>  
+> 我们会探讨什么？
+>  
+> - 什么是预测市场？它到底怎么工作？
+> - 预测市场的意义是什么？带来了哪些变化？
+> - 如何以正确的姿势参与预测市场？
+> - 下一步是什么？预测市场的未来如何？
+>  
+> 今晚九点，一起打开预测市场的大门！！！
+
+## 9. Oct 18, 2025 · 3:59 AM UTC · 1979396942334697586#m
+- 链接：https://twitter.com/0xBeyondLee/status/1979396942334697586#m
+- 作者：@0xBeyondLee
+
+> 不让大家白看文章，点赞、转发、评论本文，关注  @pieverse_io  抽十人瓜分 100 USDT
+>  
+> 在很多人眼里，Web3 支付的形象始终摆脱不了灰产二字
+>  
+> 最典型的例子就是 汇旺，一个在柬埔寨迅速崛起的支付网络，因涉嫌洗钱、诈骗和地下资金结算被多国调查
+>  
+> 它一度被称为币圈灰色清算中心，也让外界对加密支付的印象彻底滑向负面
+>  
+> 但这件事也提醒我们：支付系统只有进入监管框架、具备凭证与可追溯性，才可能获得主流社会的信任
+>  
+> 想要真正实现 Mass Adoption，Web3 支付就必须可以被验证、被记录、被监管
+>  
+> /
+>  
+> #Binance Booster Program 第三期项目 @pieverse_io  提出了一个或改变 Web3 支付格局的解法：
+>  
+> 「让每一笔稳定币支付都具备发票、凭证与合规语义」
+>  
+> 至少在目前看来，这可能是 Web3 支付最有希望实现 Mass Adoption 的路径
+>  
+> 在 Pieverse 的体系中，稳定币支付会自动生成发票、收据和链上时间戳
+>  
+> 每一笔交易都带有身份信息、法律依据与信任凭证，可用于会计入账、税务申报或企业审计
+>  
+> 对于自由职业者、DAO 团队和跨境公司来说，这种设计让支付变得专业、透明，也更容易被监管与金融系统接纳
+>  
+> 在 Web2 世界里，有三套系统分别承担了这一过程：
+>  
+> - 支付宝（Alipay）：完成即时支付和结算
+> - QuickBooks：管理账务与发票记录
+> - Stripe：提供开发者接口与支付基础设施
+>  
+> Pieverse 把这三种能力统一在一套体系里，它让稳定币结算具备专业结构和合规属性，以及进入主流经济的条件
+>  
+> /
+>  
+> Pieverse 正参与  #Binance  Booster Program 第三期，重点推广其全新的 Payment feature
+>  
+> 这一功能让稳定币支付具备发票、收据与时间戳，可在链上完成身份验证与合规记录
+>  
+> 在合作层面，Pieverse 已与 Chainlink、Fourmeme 等项目达成合作，覆盖薪资结算、DAO 支付与企业级发票等使用场景，让加密支付具备可审计、可税务申报的能力
+>  
+> 补充一点，团队成员来自 Google、LinkedIn、Polkadot、哈佛大学、卡内基梅隆大学，兼具工程、金融与合规背景，这也许是其能快速拓展业务的原因之一
+>  
+> /
+>  
+> 支付宝的出现，让中国人第一次在网络上建立了支付信任，现在，Pieverse 正在 Web3 的世界里做着同样的事情
+>  
+> #Payment #BNB
+
+## 10. Oct 17, 2025 · 6:54 PM UTC · 1979259857560838632#m
+- 链接：https://twitter.com/0xBeyondLee/status/1979259857560838632#m
+- 作者：@0xBeyondLee
+
+> 进入 "财富保全模式"，
+>  
+> 上周，我卖掉了所有股票, 以及大部分加密资产
+> 几周前是第一次降息，月底预计第二次，还有两次 rate cut 在路上
+> 历史告诉我们, 真正的下跌，往往从第二、第三次降息后开始
+>  
+> 投资人总把第一次降息当成利好，
+> 但那其实是经济开始转弱的信号
+>  
+> 真正的底部，往往出现在第二、第三次降息之后
+> 在历史周期中，这个规律几乎没有改变
+> 无论是 1990 年的经济衰退，2001 年的互联网泡沫，
+> 还是 2007–08 年的全球金融危机，
+> 这些时期都有连续三次以上的降息
+> 在这些周期里，市场通常在第二次降息后开始走弱，
+> 这种疲软会从第二次降息一路拖到第三次降息之后
+>  
+> 今年 2 月，我凭直觉判断那是市场顶点，于是全仓转现金
+> 几周后，市场暴跌，我在 4 月抄到了底。
+> 虽然我没抓对周期顶点（BTC 后来创新高），
+> 但那一刻"全现金"的我，抓住了命运给的底部筹码，从美股的低点又翻了一倍
+>  
+> 现在，我的直觉又在提醒我
+> 10 月或 11 月，可能又是一个顶
+> 当然，谁知道呢？
+> 但我宁愿信自己的直觉，也不信任何算命大师
+>  
+> 目前几乎全仓现金与稳定币，
+> 唯一持有的是 Sui，用来做 DeFi 抵押挖矿，
+> 既能赚收益，又保留一点链上敞口
+> 我不知道市场会怎么走
+> 正如那句老话说的：
+> The market can remain irrational longer than you can remain solvent.
+> 所以，永远不要和市场硬刚
+>  
+> 我的策略很简单
+> 在下次降息前，也许还有一波反弹
+> 但第二次降息之后，我不会再押注任何风险资产
+> 我会继续观察，但减少参与
+>  
+> 毕竟, 一个 24 岁的小伙子，对市场又能懂多少呢？
+
+## 11. Oct 17, 2025 · 3:26 PM UTC · 1979207387174035754#m
+- 链接：https://twitter.com/0xBeyondLee/status/1979207387174035754#m
+- 作者：@0xBeyondLee
+
+> 我的 MMT 战队邀请码，随缘取用
+>  
+> Na2VVIJRwc    TIXcAkkh4w    4QjIG1WUfB
+> Fqt8sPFtMv    BGdkE6W26K    alF4LIfVS3
+> Xe35aa0GGJ    0DoHWwEHtA    5xnE2PqIug
+
+## 12. Oct 17, 2025 · 2:43 PM UTC · 1979196568600481857#m
+- 链接：https://twitter.com/0xBeyondLee/status/1979196568600481857#m
+- 作者：@0xBeyondLee
+
+> 地震来临前夕，往往有所预兆，鸡飞犬跳，虫鸟狂鸣，异象都能觉察，但个人命运却天差地别
+>  
+> 币圈同理，1011 史上最大单日清算事件前，也曾出现非常明确的预警信号，有的人在喧嚣中默默撤退，有的人却在睡梦中被猛烈爆仓...
+>  
+> @TingHu888  老师提出的「三星连珠」指标非常值得收藏学习，须知历史不会只发生一次，总结规律，血泪才不会白流
+
+## 13. Oct 17, 2025 · 1:27 PM UTC · 1979177394826285387#m
+- 链接：https://twitter.com/0xBeyondLee/status/1979177394826285387#m
+- 作者：@0xBeyondLee
+
+> 好吧我承认，之前是我太装了
+>  
+> 账号盈利并不是坏事，「嘴撸」是其中的关键一环，长期以来我都忽视这部分收益，现在行情转冷，必须再提上日程
+>  
+> 但究竟嘴撸什么项目，又成了难点，规则繁琐不说，碰上出生项目方，几个月努力又白费了
+>  
+> 因此我统计了部分聪明人的行为，调研困难，不如慧根
+>  
+> 我理解的「嘴撸聪明人」大概由这么几部分组成：
+>  
+> - Yaps 分数比较高的，说明洞悉并能加以利用 AI 规则
+> - 能通过嘴撸获得持续受益的，个人排行如同朝鲜将军
+>  
+> 直接说结果，Momentum 是出现频率最高的项目，甚至很多单条广告报价 5ku 以上的 KOL 都为其专门更换昵称，以下是相关信息和极简教程：
+>  
+> - Move 系公链（Aptos/Sui）上的 DeFi 平台
+>  
+> - 即将在明星发射台 BuidlPad 上 TGE
+>  
+> - 需要先在 BuidlPad 注册账号，邀请别人加入自己队伍（想加我的队评论区留言）并加入别人的队伍
+> buidlpad.com/projects/moment…
+>  
+> - 推特名字里带上「Ⓜ️Ⓜ️T」
+>  
+> - 在 22 日 17 点前，提交文章，文章里要提及 @MMTFinance @buidlpad 和 $MMT
+>  
+> - 25 日 10 点前完成 KYC 才能获得低价打新额度
+>  
+> - 此外可以在这检查 SBT Title Deeds 的资格，如果自己有资格就可以提名三个其他人
+> deed.mmt.finance/check-eligi…
+>  
+> 除了 MMT 以外，这些项目出现频率也不低：
+>  
+> - Falcon，主活动已经结束，目前每月向前 50 位的创作者分配 5 万美元
+> - Polygon，每月向前 50 位创作者分配 3 万美元
+>  
+> #Kaito
+
+## 14. Oct 16, 2025 · 3:55 PM UTC · 1978852388636434550#m
+- 链接：https://twitter.com/0xBeyondLee/status/1978852388636434550#m
+- 作者：@0xBeyondLee
+
+> 链上金融是非常大的市场，未来的 Mass Adoption 一定来自这个领域，当然竞争也很激烈
+>  
+> 用最简单的语言解释「Web3 新银行」即打通数字货币和传统金融消费、投资、交易的通道
+>  
+> 这个赛道一定会出超级巨头，我个人会押宝 @useTria 纯血老外项目，天生具有华人项目难以企及的合规优势
+>  
+> 他们最近又进行了总额为 1200 万美金的 Pre 种子轮融资
+>  
+> - 包括 P2 Ventures (Polygon)、Aptos，以及 Polygon、以太坊基金会、Wintermute、Sentient、0G、Concrete、Eigen 等机构高管都有参与，是绝对的明星阵容
+>  
+> 解构一下叙事逻辑
+>  
+> - 往小了说，是币圈人最需要的 U 卡，一来一回佣金收入和储备资金生息就很可观
+>  
+> - 往大了说，就是传统银行的对手，因为本质上业务逻辑是相通的，因此估值上限和想象空间非常大，是 AI x DeFi x RWA 的多重交集
+>  
+> 目前参与角度不多，我建议要办一张 U 卡，价格便宜、平时能用，如果有空投也绝对会回本
+> app.tria.so/?accessCode=NRBX…
+>  
+> #AI #DeFi #RWA
+
+## 15. Oct 16, 2025 · 9:55 AM UTC · 1978761785818984486#m
+- 链接：https://twitter.com/0xBeyondLee/status/1978761785818984486#m
+- 作者：@0xBeyondLee
+
+> 几年前，火腿登月、自拉、DogKing 时期，AVE 就是非常强大的看线工具，几乎人手必备
+>  
+> 但现在已经是 5202 年，不会还有人不知道 AVE 不仅能看盘，还是非常丝滑的打狗神器吧
+>  
+> 实测下来相较于其他 Bot 优势非常多
+>  
+> - 久经考验的看盘神器，无敌快
+> - 无缝衔接币安内盘
+> - 信号广场聪明钱包共振好用，比微信群准很多，可以傻瓜式打狗
+> - Pro 版本手机端 App 超级丝滑
+> - 跟单交易、策略交易功能强大
+>  
+> 还有就是目前 #Ave秋季BSC专区A9交易PK大赛 真心建议参加，总共准备了 18 万 U 的奖品，作为打狗的意外惊喜，还是很可观的
+>  
+> - 活动时间：10.10 22:00 – 10.24 24:00（UTC+8）
+> - 参赛条件：在  ave.ai  交易任意 BSC 代币
+> - 直通链接： bnbcarnival.ave.ai/?lang=cn
+>  
+> - 阳光普照：50,000 USDT
+> - 冲刺排名：130,000 USDT
+>  
+> 总之想在打狗路上精进些，必须得有趁手的工具，光是基础的钱包是绝对不够的，Ave 又快又稳还能赚钱非常推荐
+>  
+> @aveai_info @wsjack22 @Amberoo7
+
+## 16. Oct 16, 2025 · 6:47 AM UTC · 1978714428162900268#m
+- 链接：https://twitter.com/0xBeyondLee/status/1978714428162900268#m
+- 作者：@0xBeyondLee
+
+> 见顶信号出现了
+>  
+> 这几天小红书出现非常多「裸辞 All IN Web3」的帖子
+>  
+> 其中不乏一些名校大厂高薪背景的人
+>  
+> 根据历史周期规律来看，除非最 fomo 的阶段，否则不稳定的 Web3 是很难值得裸辞的
+>  
+> 一个月？两个月？也许我们离熊市比想象中更接近
+
+## 17. Oct 15, 2025 · 4:03 PM UTC · 1978491993006481717#m
+- 链接：https://twitter.com/0xBeyondLee/status/1978491993006481717#m
+- 作者：@0xBeyondLee
+
+> 复盘一下 $Lab 如果满分 10 分只能给自己打 8 分吧
+>  
+> 几个月前通过投研分析，知道一定是大毛，自己也付诸实践去参与，从交互到 Legion，最后拿到的结果也是满意的
+>  
+> TGE 当日对于价格的判断也很准确，先砸后拉，非常有机会突破 0.1，事实也的确如此
+>  
+> 可是最后的卖出获利部分出现了严重错误，没想到 Lab 这么猛，一路拉到 0.17 左右，Legion 的成本只有 0.05 开盘当日就是 3 倍以上的大肉，实在是格局拉满
+>  
+> 卖飞几千 U 还是很可惜的，不过综合来看未来 Lab 还有进一步上所预期 Binance Perp 有机会实现
+>  
+> 继续观察，逢低介入 @LABtrade_
+
+## 18. Oct 15, 2025 · 1:41 PM UTC · 1978456208580477220#m
+- 链接：https://twitter.com/0xBeyondLee/status/1978456208580477220#m
+- 作者：@0xBeyondLee
+
+> BNB Chain 最牛逼的一点就是财富效应顶级
+>  
+> 今晚七点 Trust Wallet 和 PancakeSwap 的官方合作CAKE.PAD 首发项目 @AiWhitebridge 结束了公募
+>  
+> 打新总量为 2% 代币 $WBAI 单价 0.008，超募 1000 倍，结合 TGE 后市值来看，预期收益在 10 倍左右
+>  
+> 这还是在初始流通 19%，包含 IDO+空投+Alpha 8% 的情况下，说所有人都在赚钱并不过分
+>  
+> 项目本身是做 AI Agent 网络的，是 BNB Chain MVB10 加速项目，和 BNB Chain、Trust Wallet、PancakeSwap、Cointelegraph 均有合作，是根正苗红的币安系项目
+>  
+> 目前同步上线 Binance Alpha、Gate、MEXC、KuCoin 也是比较标准的 TGE 路径了，后期还有 Bitget Bybit 预期
+>  
+> 开盘三小时，价格走势很亮眼，短暂触及 60m 后一路上攻，目前在 80m 附近，对于这样背景的项目而言并不算高，在趋势内逢低介入或有不小盈利空间
+>  
+> 参与角度除了二级交易，还有最近的「Trust Wallet × WhiteBridge 空投活动」可以看看
+>  
+> - 奖励池：$100,000
+> - 名额：10,000
+> - 条件：完成任务 + 连接 Trust Wallet
+> - 活动时间：即日起到 10 月 27 日
+>  
+> @cz_binance @BNBCHAIN @BNBCHAINZH
+> @BinanceWallet @TrustWallet
+
+## 19. Oct 14, 2025 · 3:01 PM UTC · 1978113855499751571#m
+- 链接：https://twitter.com/0xBeyondLee/status/1978113855499751571#m
+- 作者：@0xBeyondLee
+
+> 欧洲在 Web3 的大规模应用上又又又快我们一大步
+>  
+> 法国银行三巨头之一的法兴银行旗下子公司 SG-FORGE，发行的欧元稳定币 EURCV，首次被 Bitpanda 引入 DeFi 钱包
+>  
+> 相当于把银行的合规资产直接接入到链上世界，链上动辄 10% 起的年化，势必会对法币产生虹吸效应
+>  
+> 放到国内简直不敢想，道阻且长啊
+
+## 20. Oct 14, 2025 · 11:38 AM UTC · 1978062824065614112#m
+- 链接：https://twitter.com/0xBeyondLee/status/1978062824065614112#m
+- 作者：@0xBeyondLee
+
+> 还有半小时，一直跟进的 @LABtrade_ 就要同步上线各大交易所了
+>  
+> 总量 10 亿，流通 5% 其中
+> - 币安 2%
+> - 社区 1%
+> - OKX Boost 1%
+>  
+> 作为 Amber Animoca GSR 投资的交易工具，应该更多通过代币收回成本，而不是佣金本身
+>  
+> 估计先砸再拉，$0.1 以上有机会，期待 TGE 后的表现
+
+## 21. Oct 14, 2025 · 5:33 AM UTC · 1977971015574864301#m
+- 链接：https://twitter.com/0xBeyondLee/status/1977971015574864301#m
+- 作者：@0xBeyondLee
+
+> 很多币圈人离得太近以至于看不清，事实上，在国际范围，比特币早就不是小众的另类投机资产了
+>  
+> 上个月在台湾参会，和当地从业者聊起最近大火的叙事，了解到越来越多的传统行业也在通过 DAT 向加密靠拢
+>  
+> DAT，全称 Digital Asset Treasury，即数字资产储备
+>  
+> 简单说，就是企业把加密货币纳入自己的资产负债表，不再把它当投机品，而是视为一种长期资产配置方式
+>  
+> 让我感到意外的是，很多八杆子打不着的行业居然也在大规模渗透，也许这就是本周期比特币上涨的原动力之一
+>  
+> Nocera（纳斯达克NCRA）是台湾非常典型的案例，原本是一家做水产养殖设备的企业，主业是循环水养殖系统
+>  
+> 但今年七月，宣布将正式进军加密货币市场，计划将部分资产配置为数字资产储备
+>  
+> 换句话说，一家卖鱼的公司，正在变成一家持币的公司，他们股票的投资者也相当于间接持有比特币
+>  
+> 类似的例子还有很多
+>  
+> - 比如熟知的苹果汽车 Tesla 特斯拉，2021 年它买入 15 亿美元的比特币，用来做通胀对冲和现金管理，后面陆续卖出 9 亿，目前账面价值还剩 12 亿
+>  
+> - 比如散户大战华尔街的主角游戏零售商 GameStop，在今年 3 月，宣布配置加密资产，股价当日上涨 18%
+>  
+> 每一轮牛市都有自己的「价值承载体」人话讲就是靠什么叙事来支撑比特币万亿市值的进一步增长
+>  
+> 上个周期通过 DeFi 吸引全世界个人或小机构投资者的流动性，这个周期则大概率通过 DAT 激活传统企业的购买需求
+>  
+> $BTC
+
+## 22. Oct 13, 2025 · 8:23 AM UTC · 1977651274314285535#m
+- 链接：https://twitter.com/0xBeyondLee/status/1977651274314285535#m
+- 作者：@0xBeyondLee
+
+> Monad 的 TGE 临近，几乎可以预想到又是一场秒掉世界的开盘狂潮，有人问我最关注哪个生态项目，我的答案是 YZi Labs 在 Monad 生态中的唯一投资项目 @aPriori
+>  
+> 这是一支高智商团队，两人都来自高频交易背景，对 MEV 的理解极深
+>  
+> - 创始人 Ray  @sing_me_a  曾在 Jump Trading、Jump Crypto、Flow Traders 工作，并是 Pyth Network 的早期贡献者
+>  
+> - 另一位创始人 Olivia Z  @0xolivia_  曾任 Coinbase 高级软件工程师，毕业于达特茅斯学院计算机科学与经济学双学位
+>  
+> aPriori 的定位，是 Monad 上的 Jupiter 与 Jito 结合体
+>  
+> 通过自驱动流动性引擎和高性能 DEX，将私有订单流与验证节点的 MEV 收益重新分配给质押者，在保证安全的同时，把年化收益提升到 30% 以上
+>  
+> 测试网数据已经证明了一切，416 万活跃质押用户，1820 万 MON 质押量，TVL 达到 500 万美元，稳居 Monad LSD 生态的第一梯队
+>  
+> 融资阵容也极为豪华，总融资超 3000 万，Pantera、YZi Labs、ConsenSys、Hashkey 均为核心投资方，再次强调 YZi Labs 在 Monad 生态中只投了这一个项目
+>  
+> 他们最近还上线了一个 campaign
+>  
+> -如果已经持有 Monad 的 role，可以前往 aPriori 的 Discord 领取新 role 并完成任务，获得专属徽章和奖励，这是进入项目核心社区的最佳时机
+>  
+> 从团队和融资结构的组合来看，aPriori 完全有资格定义「机构级 MEV 基础设施」标准
+>  
+> 参与角度方面，可以看最近发布的 Monad Test Meme，值得关注一下
+> testnet.monadexplorer.com/to…
+>  
+> #Monad @monad @BoxMrChen @lulu70191243
+
+## 23. Oct 13, 2025 · 6:21 AM UTC · 1977620737113612724#m
+- 链接：https://twitter.com/0xBeyondLee/status/1977620737113612724#m
+- 作者：@0xBeyondLee
+
+> 如果重新回到 Solana 3U 的时候，你会买吗？
+>  
+> 答案显而易见，但这种假设没有意义，唯一有价值的问题是，现在什么相当于 3U 的 Solana
+>  
+> 从数据和基本面来看，现在的  $OKB  就是，用数据说话
+>  
+> - XLayer(OKB) FDV 30 亿美元，TVL 却不足 2,500 万
+> - Solana FDV 1,120 亿美元，TVL 113 亿美元
+>  
+> XLayer 足够年轻也足够充满机会，一方面是生态处于极其早期状态，这对于一个背靠 T1 交易所的公链而言是非常低估的
+>  
+> 另一方面是 Star 和 OKX 上上下下都拿出了必胜决心来做好 XLayer，这点凡是参加过 TOKEN2049 的都能感受到
+>  
+> 至于参与角度，Star 的推文已经说的非常清楚了
+>  
+> 「Uniswap、Balancer 和 AAVE 都在部署中，未来也会扶持更多原生的 Swap 和 DeFi 协议」
+>  
+> 扶持原生 DeFi，是每一个有野心的公链都在做的事
+>  
+> - BNBChain 有 PancakeSwap
+> - Base 有 Aerodrome
+> - Solana 有 Raydium 和 Meteora
+> - Sui 有 Cetus
+>  
+> 而目前来看，在 X Layer，这个位置只属于 @PotatoSwap_Fi
+>  
+> 目前 X Layer 上 55% 的 TVL、77% 的交易量都来自 PotatoSwap，OKX Wallet 的路由也是 Potato 提供
+>  
+> 更重要的是 PotatoSwap 还没 TGE，是真正和 XLayer 一荣俱荣的存在，因此如果能踏上这趟高速增长的列车，分一杯羹不是难事
+>  
+> 目前参与角度不多，但他们的「To C 交易竞赛」非常值得关注，除了本身的激励外，更有潜在 TGE 空投激励
+>  
+> - 活动时间为 10 月 10 日至 10 月 25 日（UTC+8）
+>  
+> - 需在 PotatoSwap 上交易 X Layer 主流 Memecoin，即可根据交易量排名瓜分奖励池
+>  
+> - 奖励来源为活动期间协议收入的 50%，以 OKB 形式发放，前 3 名交易对获得 60% 奖池，其余币种共享 40%，无交易量门槛，买卖均计入有效交易额
+>  
+> - 参与方式简单，关注官方账号 加入 Discord 与 Telegram 社群，并填写报名表单即可完成报名
+>  
+> - 原文链接放在这里，说得很清楚
+> localhost:8080/PotatoSwap_Fi/status/1…
+>  
+> 这是 PotatoSwap 继面向项目方的「To B 活动」之后，首次推出的面向普通用户的生态活动，也是目前唯一能直接参与 PotatoSwap 生态建设并获得奖励的机会
+>  
+> 相信 Star 的实力，目前 XLayer 很小也很早，是真正为数不多的确定性机会
+>  
+> #OKX @star_okx @felix_okx @SpudKelvin
+
+## 24. Oct 13, 2025 · 4:08 AM UTC · 1977587179900854490#m
+- 链接：https://twitter.com/0xBeyondLee/status/1977587179900854490#m
+- 作者：@0xBeyondLee
+
+> PepeBoost 一直是业内公认的最快 Bot
+>  
+> 狙击防夹都是最高水准，很多专业链上交易员朋友也在用
+>  
+> 现在返佣升级为 35% 对高强度 PvP 的选手来说更合适
+>  
+> @PepeBoost888 @useXXYYio
+
+## 25. Oct 12, 2025 · 1:07 PM UTC · 1977360485050622424#m
+- 链接：https://twitter.com/0xBeyondLee/status/1977360485050622424#m
+- 作者：@0xBeyondLee
+
+> 之前一直在跟进的 VC 攒局 Bot @LABtrade_ 要 TGE 了
+>  
+> 可以在这里检查战利品盒子
+> - lab.pro/loyalty
+>  
+> 预计 10 月 14 日可以领取，并且自动转换为 $LAB
+>  
+> 这个项目是 VC 版本的打狗 Bot，重点是发币，所以手续费全网最低，只有 0.5%，老外比较喜欢，平常用也合适
+> - t.me/LAB_Trading_bot?start=B…
+
+## 26. Oct 11, 2025 · 5:12 PM UTC · 1977059861927284830#m
+- 链接：https://twitter.com/0xBeyondLee/status/1977059861927284830#m
+- 作者：@0xBeyondLee
+
+> x.com/i/article/197705177347…
+
+## 27. Oct 11, 2025 · 6:38 PM UTC · 1977081290508976292#m
+- 链接：https://twitter.com/0xBeyondLee/status/1977081290508976292#m
+- 作者：@0xBeyondLee
+
+> 恭喜 $LAB 即将 TGE
+>  
+> 作为手续费最低仅 0.5% 的明星 VC Bot
+>  
+> 期待有一个好结果
+
+## 28. Oct 11, 2025 · 12:12 PM UTC · 1976984346092257636#m
+- 链接：https://twitter.com/0xBeyondLee/status/1976984346092257636#m
+- 作者：@0xBeyondLee
+
+> 关于人造黑天鹅的两点思考
+>  
+> 1/ Hyperliquid 的成功是不可阻挡的
+>  
+> Hyperliquid 最大的价值在于给「权力寻租」提供了合法的市场化平台
+>  
+> 换句话说，Hyperliquid 赋予了那些人，既当裁判员又当球员，且不留痕迹的权利
+>  
+> polymarket 同理
+>  
+> 2/ 如何看待 Trump
+>  
+> 他的身份有很多，但首先是「商人」，其次才是「总统」
+>  
+> 理解这一点，是理解一切政策博弈的前提
+
+## 29. Oct 11, 2025 · 5:57 AM UTC · 1976889994871816242#m
+- 链接：https://twitter.com/0xBeyondLee/status/1976889994871816242#m
+- 作者：@0xBeyondLee
+
+> 今天发生 192 亿美金历史第一爆仓事件，回头看大饼只跌了 15%，MA120 甚至都没有确认跌破
+>  
+> 如果继续二探、三探或者直接转熊，山寨会跌成什么样子简直不敢想
+>  
+> 扫了一眼广场，简直是尸山血海，不管是所谓的顶尖交易员，还是大 KOL，这些爆仓巨大的人都有一个共性：
+>  
+> 高倍杠杆 + 不设止损
+>  
+> 太阳会重新升起，币价会再次回归，前提是能活到那一天
+>  
+> 珍惜本金，敬畏市场，及时止损，远离合约🙏
+>  
+> $BTC
+
+## 30. Oct 10, 2025 · 11:05 AM UTC · 1976604876928102726#m
+- 链接：https://twitter.com/0xBeyondLee/status/1976604876928102726#m
+- 作者：@0xBeyondLee
+
+> 一条推文 88 万人民币，真正意义上的一字千金，很难不羡慕剑哥啊 @jason_chen998
+>  
+> 有人整理了 #币安人生 的时间线，没想到是从 KOL 学历问题开始的
+>  
+> 我和庞教主 @kiki520_eth 的争论居然是话题的开始，哈哈哈第一次体会到蝴蝶效应的力量
+>  
+> 看来以后要多给币安提建议，你敢提是他真敢给啊🤣
+>  
+> @cz_binance @heyibinance @sisibinance @yayabinance @pearbinance
+
+## 31. Oct 10, 2025 · 10:08 AM UTC · 1976590661953679792#m
+- 链接：https://twitter.com/0xBeyondLee/status/1976590661953679792#m
+- 作者：@0xBeyondLee
+
+> 更正：Paradigm 的孵化方为 @tradeparadigm 而不是同名 VC，笔误🙏
+
+## 32. Oct 10, 2025 · 9:27 AM UTC · 1976580316664897575#m
+- 链接：https://twitter.com/0xBeyondLee/status/1976580316664897575#m
+- 作者：@0xBeyondLee
+
+> Perp DEX 毫无疑问是这一轮的核心战场，是兵家必争之地，也是最容易诞生新巨头的赛道
+>  
+> 过去一年，我们看到各大 VC 几乎都在扶持或孵化一个自己的 Perp DEX
+>  
+> a16z 对标 CEX 的 Lighter，YZI Labs 同时押了 Aster 与 StandX，Pantera 押 Avantis，Jump 押 Backpack，而在这场混战里，Paradigm 选择了 Paradex @tradeparadex
+>  
+> Paradex 的特殊之处在于，它不是被投出来的，而是被孵化出来的
+>  
+> 它的母公司是全球最大的期权流动性网络 @paradigm 一家年交易额超 8,000 亿美元、掌控 Deribit 三分之一交易量的机构平台
+>  
+> 也就是说，Paradex 是 Paradigm 把自己搬上链的「续作」代表的是一整套机构流动性体系的去中心化版本
+>  
+> 随着 Aster 的发币正式点燃了 Perp DEX 撸毛的逻辑，这个赛道的想象力被彻底打开
+>  
+> 从目前已发币的 Hyperliquid $HYPE 、Aster $ASTER 以及 Avantis $AVNT 来看，头部项目 FDV 均在十亿美金量级，市场上限极高
+>  
+> 越来越多的人开始押注这个方向，Paradex 也在被疯狂 fomo
+>  
+> Paradex 的核心优势可以归纳为三点：
+>  
+> 1/ 零费用永续合约（Zero Fee Perps）
+>  
+> - 所有零售交易者在网页和移动端上交易 100+ 永续期货时，挂单与吃单费用均为 0
+>  
+> - 牛逼的点在于，不搞限时活动，直接永久政策，仅剩价差和资金费率作为交易摩擦
+>  
+> - 公告原文
+> localhost:8080/tradeparadex/status/19…
+>  
+> 2/ 代币绑定的联盟模式（TAP）
+>  
+> - Paradex 的 Token-Aligned Affiliate Program 激励直接来自代币池，而不是用户手续费，让 KOL 与平台的成长长期绑定
+>  
+> - Tap 计划申请表
+> tinyurl.com/ez5kffax
+>  
+> 3/ 机构级背景与流动性基因
+>  
+> - 背靠 Paradigm 的机构流动性网络，继承其风控系统与做市资源
+>  
+> - 结合 ZK-Rollup 技术架构，实现真正接近 CeFi 体验的链上衍生品交易，当然这点对于大户来说更容易觉察到
+>  
+> 最近通过观察日成交量和 TVL 变化，不难发现都在做最后冲刺，建议在最后窗口期做一些交互，也许有意外惊喜
+> app.paradex.trade/r/Beyond
+>  
+> #DEX
+
+## 33. Oct 10, 2025 · 8:04 AM UTC · 1976559553002209730#m
+- 链接：https://twitter.com/0xBeyondLee/status/1976559553002209730#m
+- 作者：@0xBeyondLee
+
+> 最近，中英文区关注重点发生了明显的割裂，中文都在聊 Meme 各种人生，老外则比较综合，关注 RWA 的不在少数
+>  
+> 今天搬运一个超天王项目，老外声量很足，中文区九成以上的人绝对都没听过的项目 @CantonNetwork
+>  
+> Canton 是由 Digital Asset 孵化的项目，背后有高盛、摩根等传统金融机构的深度参与，后续又得到了 Circle  和 YZi Labs 的投资
+>  
+> 最炸裂的是，总融资 3.9 亿美金，大约相当于两个超级天王项目 Monad
+>  
+> 所以它的定位，我认为不能看作公链，而是让传统金融资产能在链上流通的「金融操作系统」类似于 SWIFT
+>  
+> 目前项目的实际进展也非常吓人：
+>  
+> 1/ 华尔街采用：高盛、汇丰、法国巴黎银行、DTCC 等已在使用 Canton 进行真实金融交易
+>  
+> 2/ 规模化落地：链上资产规模超过 6 万亿美元，月均处理约 4 万亿美元交易
+>  
+> 3/ 国债链上互换：实现美债与稳定币的 7x24 小时链上融资，让传统资产具备持续流动性
+>  
+> 鉴于此，我其实不是很能理解为什么 Canton 在中文区的热度如此之低，理性讨论，面对这样的庞然大物，即使没有份额在 TGE 之时，也很难不被吸血
+>  
+> #RWA
+
+## 34. Oct 9, 2025 · 7:09 AM UTC · 1976183226872782976#m
+- 链接：https://twitter.com/0xBeyondLee/status/1976183226872782976#m
+- 作者：@0xBeyondLee
+
+> 终于来了！小狐狸官宣入局，开卷 Perp DEX！
+>  
+> 9 月 29 号在新加坡，受邀参加了 MetaMask Alpha Circuit 从下午到夜晚，充满惊喜
+>  
+> 感谢 @Cipher_Dance 邀请，也感谢在现场遇到的每一位朋友，会上遇到非常多的前辈大牛，比如我最喜欢的顶级 IP 区块先生 @mrblocktw
+>  
+> 活动上，我们提前了解了 @MetaMask 的永续合约产品 Alpha PERP，等了半个月，如今终于正式上线
+>  
+> 根据最新公告，MetaMask 的动作主要可以分为几部分：
+>  
+> 1/ 上线永续合约交易
+>  
+> - 支持用户在钱包内直接交易永续合约，无需放弃自持资产
+>  
+> - 与 Hyperliquid 合作上线，仅在部分地区开放
+>  
+> 2/ 推出奖励计划 MetaMask Rewards
+>  
+> - 用户可通过交易、推荐等方式获得积分
+>  
+> - 奖励包括手续费减免、LINEA 代币分配、优先支持等，计划于 10 月底启动
+>  
+> 3/ 确认将发行代币
+>  
+> - 官方首次明确将推出自有代币，细节待公布
+>  
+> 4/ 引入预测市场集成
+>  
+> - 将与 Polymarket 合作，在钱包中直接参与预测市场
+>  
+> 对于一个拥有 3000 万月活用户的 Web3 入口而言，这一步至关重要
+>  
+> 作为一个融合了「钱包」「Perp DEX」和「预测市场」的移动端 APP，成为一款现象级应用也不是不可能
+>  
+> #Perp #DEX
+
+## 35. Oct 8, 2025 · 4:46 PM UTC · 1975965980133294170#m
+- 链接：https://twitter.com/0xBeyondLee/status/1975965980133294170#m
+- 作者：@0xBeyondLee
+
+> Beyond 2025 年可以赚到 A8！
+
+## 36. Oct 8, 2025 · 2:49 PM UTC · 1975936685566562316#m
+- 链接：https://twitter.com/0xBeyondLee/status/1975936685566562316#m
+- 作者：@0xBeyondLee
+
+> 在币圈推广一个 IP 最好的方法是什么？
+>  
+> KOL 宣发？优惠活动？限时激励？
+>  
+> 币安这波直接给出了满分答案：拉一个 Meme，在用户做出决策的地方，用他们听得懂的方式（财富效应）讲故事
+>  
+> #币安人生 #Binance
+
+## 37. Oct 8, 2025 · 10:50 AM UTC · 1975876377913200747#m
+- 链接：https://twitter.com/0xBeyondLee/status/1975876377913200747#m
+- 作者：@0xBeyondLee
+
+> 草了，就是轮勾也该轮到我了吧？？？
+
+## 38. Oct 7, 2025 · 7:44 PM UTC · 1975648570452877402#m
+- 链接：https://twitter.com/0xBeyondLee/status/1975648570452877402#m
+- 作者：@0xBeyondLee
+
+> 欢迎  @blknoiz06  等外国 degen 们加入中文社区，让我们一起说中文！
+> Welcome Ansem and all foreign degens to the Chinese crypto community. Let’s speak Chinese together!
+>  
+> 这里整理了一些中文社区在打狗时最常用、最地道的表达，希望能帮你更好地听懂我们在说什么。
+> Here’s a list of the most authentic Chinese expressions you’ll hear when we go hunting for meme coins. Hope this helps you catch the vibe.
+>  
+> 📊  交易操作类 / Trading Moves
+>  
+> 梭哈 (Suō Hā) – All in 💰
+> Put everything into one coin. The ultimate degen move, no stop-loss, no fear.
+>  
+> 冲 / 冲土狗 (Chōng / Chōng Tǔ Gǒu) – Ape in 🐶
+> Rush to buy a freshly launched meme coin before others even finish reading the whitepaper.
+>  
+> 打狗 / 打土狗 (Dǎ Gǒu / Dǎ Tǔ Gǒu) – Hunt meme coins 🎯
+> Go hunting for small-cap or meme coins. High risk, high reward, pure adrenaline.
+>  
+> 埋伏 (Mái Fú) – Lay low and wait ⏳
+> Buy early before the hype, then quietly wait for the pump.
+>  
+> 上车 (Shàng Chē) – Get in 🚗
+> Buy into a token, join the wave.
+>  
+> 下车 (Xià Chē) – Get off 🚉
+> Sell your position, take profits, leave before it crashes.
+>  
+> 抄底 (Chāo Dǐ) – Buy the dip 🩳
+> Pick up coins when the price hits bottom (or what you hope is the bottom).
+>  
+> 逃顶 (Táo Dǐng) – Sell the top ⛅️
+> Exit perfectly at the peak... at least that’s the dream.
+>  
+> ⚖️  风险管理类 / Risk Management
+>  
+> 割肉 (Gē Ròu) – Cut the loss 🔪
+> Sell at a loss to stop bleeding. Hurts, but sometimes necessary.
+>  
+> 接盘 (Jiē Pán) – Bag-hold 🧤
+> Buy at the top and get trapped. Usually happens right before a dump.
+>  
+> 套牢 (Tào Láo) – Trapped 🔒
+> Bought too high, now you’re stuck watching it go lower every day.
+>  
+> 解套 (Jiě Tào) – Break even 🕊️
+> When the price finally climbs back and you can breathe again.
+>  
+> 📉  市场操作类 / Market Moves
+>  
+> 夹子 / 三明治 (Jiá Zi / Sān Míng Zhì) – Sandwich bot 🥪
+> An MEV bot that “sandwiches” your trade to profit. Sometimes used for any unfair trade manipulation.
+>  
+> 拉盘 (Lā Pán) – Pump 📈
+> Price shoots up fast. Could be whales, insiders, or hype doing the work.
+>  
+> 砸盘 (Zá Pán) – Dump 📉
+> Price crashes suddenly. Usually when the big guys exit.
+>  
+> 洗盘 (Xǐ Pán) – Shakeout 🌪️
+> Market makers swing the price violently to scare out retail before a pump.
+>  
+> 插针 (Chā Zhēn) – Wick spike 📍
+> A sudden, sharp drop and recovery on the chart — a “needle candle.”
+>  
+> 👥  角色身份类 / Player Types
+>  
+> 庄家 / 狗庄 (Zhuāng Jiā / Gǒu Zhuāng) – Whale / Market maker 🐋
+> The big player controlling the market. Often called “the dog boss.”
+>  
+> 韭菜 (Jiǔ Cài) – Retail newbie 🧄
+> New investors who get “harvested” over and over. A tragic cycle.
+>  
+> 老鼠仓 (Lǎo Shǔ Cāng) – Insider 🐀
+> Someone trading with insider info before news goes public.
+>  
+> 撸毛党 (Lū Máo Dǎng) – Airdrop hunter 🪂
+> People farming every possible airdrop. No token left behind.
+>  
+> 💩  项目相关类 / Project Types
+>  
+> 土狗 (Tǔ Gǒu) – Shitcoin 🐶
+> Low-quality meme or scammy altcoin. Usually ends in tears.
+>  
+> 金狗 (Jīn Gǒu) – Golden meme coin 🏆
+> The lucky one among thousands of dogs. Rare, profitable, and loved by all.
+>  
+> 貔貅盘 (Pí Xiū Pán) – Honeypot 🪤
+> A scam coin you can buy but can’t sell. Pure trap.
+>  
+> CX盘 (CX Pán) – MLM project 🕸️
+> A “pyramid-style” Ponzi coin. Promises huge returns, ends in disaster.
+>  
+> /
+>  
+> Next time, bro, when you find a project truly worth aping into, just say:
+>  
+> 卧槽兄弟，是金狗，梭哈了！
+> (Wò cáo xiōngdì, shì jīn gǒu, suōhā le!)
+>  
+> Damn bro, it’s a golden dog, I’m going all in! 🐶💰
+>  
+> $4 $Giggle $币安人生 $Palu #Binance
+
+## 39. Oct 7, 2025 · 8:42 AM UTC · 1975481817538175262#m
+- 链接：https://twitter.com/0xBeyondLee/status/1975481817538175262#m
+- 作者：@0xBeyondLee
+
+> 月入 2-3 万美金，对一个成功的商业化 KOL 来说很正常的
+>  
+> 我身边靠账号本身广告或嘴撸做到这个水平的，不下几十位
+>  
+> 路径各有不同，但失败者的「误区」往往一致，本文聊的就是这些共性
+>  
+> 1/ 战略的懒惰
+>  
+> 战略的懒惰不同于战术的懒惰，他们表面很勤奋，拼命砍树，却懒得磨刀
+>  
+> 账号权重低，不研究算法，只知道死写内容，妥妥的黑奴
+>  
+> 解决思路其实很简单，就是先把账号做起来，不管是舔也好，骗也罢（虽然我讨厌），先努力提高互动者的质量
+>  
+> 2/ 主次的盲目
+>  
+> 真正能高效变现的账号，商单内容只占极少部分，更多是维持热度的 shitposting 和有价值的投研
+>  
+> 这能保持账号权重，让一篇顶别人十篇，要明白：变现只是优质内容的副产物
+>  
+> 越急着赚钱，越赚不到钱，一个全是嘴撸和廉价广告的时间线，大概率被算法和真人同时放弃，只剩僵尸刷量粉自嗨
+>  
+> 3/ 目标的不明确
+>  
+> 提升账号品质的关键是「被谁关注」这点几乎决定了账号价值
+>  
+> 可借助两类 InfoFi 工具，首先是 @KaitoAI 的高 Yap 博主榜，衡量的是「动态」影响力，是 PoW 的角度，但 Yap 的缺陷是发帖少的潜水大佬容易被忽略
+>  
+> 因此推荐用 @xhunt_ai 作为补充，通过「静态」优质关注数加权，是一种 PoS 的视角，能更准确评估账号权重
+>  
+> 4/ 数据崇拜
+>  
+> 内容创作者最常犯的错之一，就是被数据绑架，每天盯着点赞、转发、评论、浏览量，却忘了这些只是最浅显的结果，而不代表含金量
+>  
+> 况且所有数据都有成熟的造假链条， AI 辨识早已火眼金睛，数据好看并不代表变现能力增强
+>  
+> 更糟糕的是，这会让账号不可避免的滑向哗众取宠的深渊，擦边色图、复制剽窃只会让账号彻底被降权
+>  
+> 与其追求数据上的爆款，不如努力让自己的文章在更重要的人时间线上出现
+>  
+> #InfoFi @DeFiTeddy2020
+
+## 40. Oct 7, 2025 · 7:17 AM UTC · 1975460486302032335#m
+- 链接：https://twitter.com/0xBeyondLee/status/1975460486302032335#m
+- 作者：@0xBeyondLee
+
+> 群里有小伙伴空投了近百万枚 $LINEA 有点拿不住了，我帮忙分析一下目前价格是否合理
+>  
+> Linea 当前 FDV 约 $2.0B，TVL $1.6B，倍数仅 1.63x
+>  
+> zkSync FDV/TVL = 2.15x，Arbitrum = 1.11x
+>  
+> 如果市场给  $LINEA  一个合理区间（1.8–2.0x），对应 FDV 在 $2.9–3.2B，价格应落在 $0.040–0.045，比现价有约 +70% 上行空间
+>  
+> 从估值模型推演来看：
+>  
+> - 保守估值（FDV/TVL=1.5x）：$0.033
+> - 中性估值（1.8x）：$0.050
+> - 乐观估值（2.2x）：$0.076
+>  
+> 换句话说，只要 Linea 在 Q4 稍有增长、SWIFT 合作或 MetaMask 激活奖励计划落地，估值空间就有机会打开
+>  
+> 在 Layer2 的竞赛中，Base 拿用户，Arbitrum 拿生态，Linea 拿机构，Linea 的强机构背景不一定会为他赢下比赛，但至少现在并不高估
+>  
+> 当然话说回来，比起二级博弈，更好的选择是坚定持有交易所核心资产，等着空投一本万利就好了，毕竟 Linea 也是 $BNB Holder 的空投福利之一
+>  
+> - 更多  $BNB  Holder 福利
+> binance.com/zh-CN/bnb
+>  
+> - 宇宙所  #Binance  手续费八折注册accounts.binance.com/zh-CN/r…
+>  
+> #Layer2
+
+## 41. Oct 6, 2025 · 7:32 PM UTC · 1975283136771813635#m
+- 链接：https://twitter.com/0xBeyondLee/status/1975283136771813635#m
+- 作者：@0xBeyondLee
+
+> They say it’s #Binance season. My friend told me this pic might blow up. I’m going to bed, let’s see what it looks like in the morning.
+>  
+> @heyibinance @cz_binance
+
+## 42. Oct 6, 2025 · 5:48 AM UTC · 1975075710881747010#m
+- 链接：https://twitter.com/0xBeyondLee/status/1975075710881747010#m
+- 作者：@0xBeyondLee
+
+> 之前文章里提到人民日报从比特币八百块开始一路唱衰，直到几万美元都没改口
+>  
+> 你真觉得他们不懂吗？显然不是，那是中国最聪明的一群经济学家
+>  
+> 只是因为政治与金融稳定的需要，他们必须在一个预设的框架里发声
+>  
+> 态度必须鲜明，立场必须正确
+>  
+> 类似的还有 2023 年中金公司的年度经济预测，年底一看，全错
+>  
+> 他们真不懂吗？当然不是，作为最大的金融集团，他们的报告必须是正向的、积极的，所以，全错也成了一种能力
+>  
+> 这种写法的好处就是，让傻逼的人听得过瘾，让牛逼的人听的明白
+>  
+> 兰小欢在《置身事内》里写过一句话：
+>  
+> 「不能脱离政府来谈经济，是理解中国经济的基本出发点」
+>  
+> 所以想懂经济，得先懂政治
+>  
+> $BTC
+
+## 43. Oct 5, 2025 · 10:40 AM UTC · 1974786866517066062#m
+- 链接：https://twitter.com/0xBeyondLee/status/1974786866517066062#m
+- 作者：@0xBeyondLee
+
+> 新加坡会后开工第 1 天，我靠 3 篇文章获得 300 Yaps，斩获全球排行榜第 1 名！
+>  
+> 我的目标是，天下第一图文作者！
+> My goal is to become the number one content creator in the world!
+> 私の目標は、世界一のコンテンツクリエイターになることです！
+> 제 목표는 세계 최고의 콘텐츠 제작자가 되는 것입니다!
+> Mon objectif est de devenir le créateur de contenu numéro un au monde !
+>  
+> @KaitoAI @Punk9277
+
+## 44. Oct 5, 2025 · 5:29 AM UTC · 1974708584626979065#m
+- 链接：https://twitter.com/0xBeyondLee/status/1974708584626979065#m
+- 作者：@0xBeyondLee
+
+> 2045 年，你毕业即失业的儿子，在家里一边啃老一边抱怨
+>  
+> 真羡慕你们这些 00 后老登，又是 AI 又是加密货币，时代红利都让你们吃尽了
+>  
+> 你联想到自己每月二十万法币，却只够果腹的月薪，又一次后悔怎么没早点买几枚比特币......
+>  
+> $BTC #比特币新高
+
+## 45. Oct 5, 2025 · 4:54 AM UTC · 1974699753553514589#m
+- 链接：https://twitter.com/0xBeyondLee/status/1974699753553514589#m
+- 作者：@0xBeyondLee
+
+> 更正：
+>  
+> - 参会 OKX 工作人员还有好兄弟 @IslandCraftor （handle太难记忘写了😂）我们交流了非常久关于返佣的设计
+>  
+> - @0xcryptodean 是参会嘉宾
+
+## 46. Oct 5, 2025 · 4:50 AM UTC · 1974698584902697393#m
+- 链接：https://twitter.com/0xBeyondLee/status/1974698584902697393#m
+- 作者：@0xBeyondLee
+
+> 2049 发现的一个鲜有人知的细节，似乎蕴藏巨大密码
+>  
+> 10月2日的 X Layer 晚宴上，众所周知的是 Star 万众瞩目被轮番合影，而很多人不知道的是
+>  
+> @PotatoSwap_Fi 竟然是是唯一一个被允许在现场摆放海报、发周边的非官方项目
+>  
+> 不过想想也合理，X Layer 是 OKX 今年最重的战略级发展目标
+>  
+> 而 PotatoSwap 作为生态里 TVL 与交易量双料第一的 DEX，是目前生态的流动性支柱
+>  
+> 现场我和团队创始人聊了会，非常年轻，也非常有想法
+>  
+> 那种青年创业者式的热血与理性并存的感觉，很打动人，很类似 Aster 的 Leonard
+>  
+> 从数据上看，PotatoSwap 已经拿下：
+> - 占 X Layer 56% 的 TVL（$14.66M）
+> - 90–95% 的 DEX 市场份额
+> - 单日交易量 $17.8M / 18万+ 笔
+> - 与 OKX Wallet 深度整合，用户可直接在钱包内交易
+>  
+> 创始人解释下一个重点是十月的 CLMM 升级，提升资金效率，构建稳定币与 RWA 枢纽，并计划打通 CEX 与 DEX 的流动性桥
+>  
+> 这么来看 PotatoSwap 已经不一般的生态项目，而是 X Layer 的牵一发而动全身的流动性底座
+>  
+> 用脚趾头想想也知道，X Layer 必然会扶持自己的 DEX 而不是把这么重要的资源让给 Uni 之类的多链 DEX
+>  
+> 类似 Pancake 和 BNB Chain 的关系，这其中的机会不言而喻
+>  
+> 所以说如果 X Layer 真能起飞，Potato Swap 大概率也会是最先受益的那个
+>  
+> $OKB #xLayer @star_okx @Mercy_okx @mia_okx @Cayne_okx @felix_okx
+
+## 47. Oct 4, 2025 · 2:39 PM UTC · 1974484548139495440#m
+- 链接：https://twitter.com/0xBeyondLee/status/1974484548139495440#m
+- 作者：@0xBeyondLee
+
+> 花钱找「骂」这事在 #OKX 真的发生了
+>  
+> 10 月 2 日，新加坡 OKX 产品反馈午宴，邀请了土澳大狮兄、AB、加密韋馱等头部 KOL 出席
+>  
+> 大家毫不留情，从用户、项目方、KOL 各个角度直戳痛点
+>  
+> 对用户最关心的 xlayer 发展战略、boost 改进、wallet 设计都给出了建议
+>  
+> OKX 负责人全程没有推诿，态度很虚心，每条建议都认真记录下来
+>  
+> 能感受到，他们是真的把产品放在第一位，把用户体验当成头等大事
+>  
+> 说实话，午饭没吃饱，因为大部分时间都用来交流，但内心却很满足
+>  
+> 一方面是感受到作为 KOL 沟通交易所和用户的价值；一方面是看到自己最爱的老牌交易所仍然充满干劲，朝气蓬勃
+>  
+> 参会嘉宾
+> @BroLeonAus @_FORAB @thecryptoskanda @0xzhaozhao @LoyalOkx @tychozzz @lizmoneyprinter @agintender @Rubylulu0621 @wangbuai @choc07_ @0xBeyondLee
+>  
+> OKX 相关人员（筹划 + 参会）
+> @star_okx @Haiteng_okx @Mercy_okx @mia_okx @Cayne_okx @Chicky_Crypto @cherria_okx @jiena_okx @0xcryptodean @okxchinese
+
+## 48. Oct 4, 2025 · 4:42 AM UTC · 1974334276763332813#m
+- 链接：https://twitter.com/0xBeyondLee/status/1974334276763332813#m
+- 作者：@0xBeyondLee
+
+> 朋友圈已经被彻底刷屏
+>  
+> 就在昨天，国内头部创投与科技媒体 36氪 专门刊发了一篇深度报道，聚焦 OKX 在新周期下的战略布局
+>  
+> 文章借 OKX 创始人 @star_okx 在 TOKEN2049 的演讲，展示了 OKX 对新周期的判断：
+>  
+> 金融未来属于链上世界，用户掌握资产，合规是底线，OKX 要成为推动「万物上链」和加密支付落地的关键力量
+>  
+> 伴随着市场情绪的快速升温与外部关注度的集中释放， $OKB 应声而涨，单日最高一度拉升超 20%
+>  
+> 身边的优秀投资者都在看多 OKX，这股力量，正势不可挡
+>  
+> @okxchinese  @Mercy_okx @mia_okx @Cayne_okx @felix_okx
+
+## 49. Oct 3, 2025 · 4:03 AM UTC · 1973962090324111652#m
+- 链接：https://twitter.com/0xBeyondLee/status/1973962090324111652#m
+- 作者：@0xBeyondLee
+
+> BNBChain：徙木立信的智慧
+>  
+> 在我看来 BNB Chain 成功背后，最重要的不外乎一点，对忠诚者的持续奖励
+>  
+> $TST $Mubarak $B $EGL1 甚至 $Aster 以及一天市值接近 2 亿的 $4
+>  
+> 就连 $BNB 本身也是如此，无论何时买入都是赚钱的
+>  
+> 具体操作大概有几点：
+>  
+> - 官方配合
+> - 从 CZ 的发言和 Lsiting 团队的行为就可见一斑，别管 Meme 什么出身，只要社区牛逼，是真的敢下场肯下场，去喊去上币
+>  
+> - 优秀的预期管理
+> - 低举高打，能把在怀疑者看来莫名其妙的 Meme 拉飞，5m 以前没听说过，20m 引起注意了，40m 觉得到顶了，80m 上 Alpha 开始后悔了，200m 开始抓心挠肝 fomo 一拍大腿梭哈了
+>  
+> - 实力强劲的 MM
+> - 官方不方便做的事情，白手套来做，无限子弹不要命的拉盘
+>  
+> - 正确的 KOL 矩阵宣传
+> - 不用考虑什么宣发费用，入关后自有大儒辩经，一个币拉 20 倍所有最强大脑都会来找补理由
+>  
+> - 树立财富效应
+> - 信就能赚钱，一个嗯哼赚到一千万，可以带动一千个嗯哼每人拿一百万冲回来，把钱存在群众手里，远远胜过存在 DeFi 里
+>  
+> - 掌握核心设施
+> - DeFi 三件套都是自己的嫡系，大力扶持拥趸，绝不沦为其他 DeFi App 的附庸，Aster StandX Pancake Four 都是如此
+>  
+> - 持续性把控注意力
+> - 每每市场遇冷，就绝对会出现一个东西来吸引注意，总之不管是交易所玩家还是链上玩家，只要提到赚钱第一念头就得是 BNB Chain
+>  
+> - 分清大小王
+> - 区块链就是市场营销，至于技术之类虽然也重要，但一定是排在市场后面，没技术可以砸钱来做，但没人心就真完了
+>  
+> 写这么多，本质上还是在警醒自己，不要再错过下一个机会了 Loyalty and Prosperity.
+>  
+> #BNB
+
+## 50. Oct 2, 2025 · 11:29 AM UTC · 1973711844956344693#m
+- 链接：https://twitter.com/0xBeyondLee/status/1973711844956344693#m
+- 作者：@0xBeyondLee
+
+> 洋相还得养人出 🤣
+>  
+> 羡慕跑会的可以看下这图，很搞也很真实
+>  
+> 花销是全部自费的，酒店是几千块一晚的，活动是晚了进不去的，人是翻来覆去同一波的
+>  
+> 排队几小时和老板合张影还要被骂 🤣
+>  
+> 不过建议每位币圈人都来跑跑，跑一次就祛魅了
+>  
+> #TOKEN2049
+
+## 51. Oct 2, 2025 · 6:54 AM UTC · 1973642624549425632#m
+- 链接：https://twitter.com/0xBeyondLee/status/1973642624549425632#m
+- 作者：@0xBeyondLee
+
+> 刚刚改了一下bio。
+>  
+> 思考了一下，我是中国人，没有必要写着中文，整一个英文的bio
+>  
+> I mean，英文文章写过几篇，流量死活上不去 (╯°Д°)╯︵┻━┻
+>  
+> 既然爆款都是中文，那就没必要给潜在的关注者增加门槛。
+>  
+> 还有就是重新解构了解构师BYD的KOL养成指南 @0xBeyondLee
+>  
+> 新Bio如下：
+> 西格玛艺术家，两个很牛逼的社团的参与者（ @0xUClub & @PennbBockchain ），长黑客，雇佣兵，落榜美术生，以及创始人，以及一点点传统金融的背景。
+>  
+> 简单给关注我的老公老婆们看看我的新bio，熟悉一下我的新人设，方便之后互动。
+>  
+> 我爱你们，么么哒。
+>  
+> 首先是 0 - 空杯
+>  
+> 学习，学习一切，仅此而已。
+>  
+> 1 - 西格玛艺术家：入圈以来遇到很多恩师。认知形成，交易策略，人脉资源，等等等等。
+>  
+> 我以万物为师 - 可以是 @bc1qDave 这样相爱相杀的同辈，可以是 @wsjack_eth100 这样有点侠气的前辈，也有一些更早的，交流过的老前辈 - 有带我踏入第一步的，给我介绍资源的，带我看世界的，已经自由退圈的，转行了的，甚至坑过我的，我亦视作师父。
+>  
+> 但是说到人格形成上，我自认师承 @gokunocool。
+>  
+> 狗哥说过：
+> a）不要在乎他人的看法。
+>  
+> 走别人没有走过的路 - 到今天为止，我不知道多少次辗转反侧，思考着要不要继续走这样的，没人会走的创始人之路。去放弃一些可以享受的时间，空间，甚至是健康，去追寻一个不确定的幸福。
+>  
+> 我对TradFi的看法始终是复杂的。我相信着生命只有一次，因此绝对不想走一条与他人一样的，没有“自我”的道路。但同时 - 以我目前就读的“神科”的水准，一毕业就有6-7万一个月基本是锁定的。这虽然不多，但是这条路不用经历无数次崩溃，压力，以及焦虑，不用每天在窒息和兴奋两者间反复横跳 - 因此，这或许也是一种“幸福”的体现。
+>  
+> 所以，我大一的时候，对那些全身心走TradFi路线的人，既嫉妒，有轻藐。
+>  
+> 知道过去一年，随着收入的稳定与认知的增加，这种复杂的心情才逐渐被放下。没有必要看着他人 - 既然下定决心，就用力去实践，去抓住每一个赚钱的机会，去不断学习自己认为必要的知识，在关键时刻拒绝那些不妥当的诱惑，坚持做自己认可的，喜欢的事情。
+>  
+> 西格玛男人的第一课，就是把握好自己的节奏。
+>  
+> 我相信我距离这一件事，已经很近很近了。
+>  
+> b）年轻人，就要用心认真创业。
+>  
+> 过去几年，我参与孵化了一些项目，也作为早期创始成员，在几个融资大几百万的项目里面从底层干到了C字头/核心成员。
+>  
+> 今天有幸参加了 @ramahluwalia 的zoom课，有一句话我记了笔记 - “if you want to be an entrepreneur, stay with entrepreneurs”。（这个课的干货会在下一期信息差里面提）
+>  
+> 狗哥对我说过，一个西格玛男人，要有一个绑定一生的项目，一个能够全力去干好，去证明自己的项目，就好像狗哥的 @chipchipgame 一样。
+>  
+> 我一直是一个孵化者，一个参与者，但是我一直瞻仰着身边的创始人们的光辉。 我看着身边一个个创始人 - 离得近的 @gokunocool， @jerome_wong99，等等，还有远远看着的 @justinsuntron ， @star_okx ， @cz_binance 等人，每个人都有着自己绑定的公司/项目，而我暂且还没有找到那一颗宝石。
+>  
+> 现在的我仍然是孵化者，但我仍然朝着一个西格玛，一个创始人的路再走。
+>  
+> 和 @gokunocool 聊过很久的天 - 狗哥告诉我 “你会成为创始人的。”
+>  
+> 因为 - 我生而如此 - 生而为BUIDLER。
+>  
+> 总有一天，我会花数十年的光阴，做出我心底里面理想的项目。这便是我旅途的目的。
+>  
+> 而艺术家这个点，我相信和我共事过的朋友应该比较清楚。
+>  
+> 创始人风格上 - 我是一个艺术家。
+>  
+> 从白皮书到活动管理，从文案到设计，从产品使用流程到用户触达 - 我一直都会去扣细节 - 任何的细节 - 知道它感觉上 “正确” 了为止。
+>  
+> 我不是完美主义者，但我希望我的用户有着完美的使用体验。
+>  
+> 规划，扣细节，落实 - 不眠不休的，反复去做这些事情。这是最重要的。
+>  
+> 2 - ex-三代目会长 @0xUClub
+>  
+> 我的Web3旅途有两个转折点。
+>  
+> 第一个转折点是入行 - 一个搞电商 + 17年ICO的前辈带我入坑，在上一轮认识并向 @xuemanzi8848 等等大佬学习。这是我的入行期。
+>  
+> 第二个转折点就是 @0xUClub - 认识的不仅是那些“老板”，而是志向相同的同伴，以及一个个不断来的机会。可靠的前辈，志同道合，相互学习的朋友，一直提高的认知。
+>  
+> 认识0xU才不过两年，但我感觉已经过了一个世纪，和这帮伙伴经历了太多，也因此才下定了All-In的决心。
+>  
+> 谢谢你， @0xUClub
+>  
+> 谢谢你，我的伙伴们。
+>  
+> 3 - @franklin_dao 成员
+>  
+> 这是我在美国踏出的第一步 - 学习，从零开始，在大洋彼岸继续我的旅途。
+>  
+> 在 @elonmusk 和 @realDonaldTrump 的母校学习的同时，不断精进，不断推动自己的极限。
+>  
+> 接下来的三个月，至关重要。
+>  
+> 尽情期待接下来三期的中外信息差系列，以及不定时更新的番外篇。
+>  
+> 4 - 21岁，增长黑客，雇佣兵，落榜美术生，以及创始人
+>  
+> 一些片面，但是组合在一起，能够大致为未来的关注者介绍我的话。
+>  
+> 21岁：
+> 众所周知，在2025年的Web3，21岁算老登。只是我还不是老登，因为我没有钱，我没有A8（咬牙切齿）。换言之 - 老登失格。
+>  
+> 增长黑客：
+> 是的，我会做增长，增长是我的老本行。品牌营销，PR文案，美工设计，分发渠道，AB测试，KOL勾兑，项目BD - 只有你想不到，没有我做不到。反正，靠谱就对了。
+>  
+> 雇佣兵：
+> 是的，虽然我还没有创业，但是我还是姑且建立了一个技术团队，一个营销团队，拿来协助我的日常项目工作。所以我这边有大量的空闲劳动力 - 只要你有需求，我就能给你办。
+>  
+> 落榜美术生：
+> 冷知识1 - 博主中学上贵族学校是拿的美术奖学金，五年加起来差不多小A7。油画，素描，丙烯，数字艺术，剪辑，PS，二次元上手desu。
+> 冷知识2 - 根据国际文凭评分，我的美术水准大概在全球前2%左右。
+> 冷知识3 - 大部分我参与的项目，美工在初期都是我出的，后期都是我监督审批的。
+> 不要不把这个当回事 - 现在99%的项目方在我看来是没有审美能力的。你可以AI生成，但你几把不能没有审美。
+> 然后审美 - 我入行这么久没见过几个审美比我高的。
+>  
+> 创始人：
+> 不是创始人，自称创始人，会成为创始人。
+> 不是创始人，但是是创始成员，而且一直沐浴在创始人们的光彩下茁壮成长中 - 总有一天会成为创始人。
+>  
+> 5 - 港中文TradFi“神科”的反叛者
+> 上文说过，我曾经对TraFi的感情是复杂的。
+>  
+> 其中一点就是作为“神科”学生的期望。
+>  
+> 熟悉我的朋友可能都知道我是金融系学生，但是不一定都知道我是 “神科”的学生。
+>  
+> 简单来说 - 我目前的科目GBS，整个香港，三所学校加起来，每年只录取100人。我所在的港中文，只有15个人可以进入这个科目。
+>  
+> 本质上 - 就是大摩，高盛这些IBD，或者麦肯锡这些顾问公司的直通车。
+>  
+> 神科的成员，就有传统金融的期望 - 周遭大家的路径极度同质化，学校安排的活动也是如此。所以，自然就有peer pressure。
+>  
+> 所以 - 这也是我之前的一个矛盾点。
+> 我拒绝TradFi，但是又有被别的商科生仰视的自傲。
+> 在此之上，因为学历在Web3连个几把都不是，所以我又不屑于说这个事。
+>  
+> 后面重新思考：
+> 1 - 任何经验都是经验，都是知识
+> 2 - Web3和传统金融的合并，是下一步的大趋势
+> 3 - 我会拥抱自己的这一层身份，并在此之上，成为独一无二的反抗者。
+>  
+> 结语：
+> 说到最后，为什么大半夜凌晨写这个文章。
+>  
+> 第一就是tmd给自己来个开学新人设。经过一年的试错，我得把人设固定好了。
+>  
+> 第二就是大半夜emo了，复习考试复习到神智不清不想几把复习了。想来干活，但是也没什么可以干的。
+>  
+> 第三就是预热。
+>  
+> 接下来五天会更新两篇长文。
+> - 第一篇想从 @trylimitless 讲讲最近对预测市场策略的一些反思
+> - 第二篇就是大家期待的中外信息差第二期 - 这次有很多我在中文圈一次也没有见过的insight。而且，信息密度很大。
+>  
+> 不管怎样，希望大家点上小铃铛。
+>  
+> 谢谢大家，谢谢喵。
+
+## 52. Oct 2, 2025 · 4:23 AM UTC · 1973604669210366068#m
+- 链接：https://twitter.com/0xBeyondLee/status/1973604669210366068#m
+- 作者：@0xBeyondLee
+
+> 韩林博士 @Han_Gate 是主流交易所创始人中最低调的一位，公开露面很少
+>  
+> 昨天 Gate 在金沙 The Meadow 举办音乐会，邀请了韩国歌手泫雅
+>  
+> 用 AI 估算整体花费至少在百万美金级别，看得出在品牌营销方面毫不吝啬
+>  
+> 去年度 Gate 市场份额大概在 7-9% 左右，平台币 $GT 市值却只有不足 20 亿
+>  
+> 之前未曾持有，但现在看来似乎值得关注
+>  
+> 谢谢小鱼 @vvxiaoyu8888 邀请
+
+## 53. Oct 1, 2025 · 11:43 AM UTC · 1973353081988612455#m
+- 链接：https://twitter.com/0xBeyondLee/status/1973353081988612455#m
+- 作者：@0xBeyondLee
+
+> 下午受邀参加 Base Side Event 还给了一个采访 Jesse @jessepollak 的名额
+>  
+> 提前俩小时，写稿一小时，排队三十分，最后马上到我截止了😢
+>  
+> 现场人声鼎沸，延续 Base 一贯的 fomo 节奏，Jesse 情绪价值也给的巨到位，不管是采访还是喊口号都竭尽所能配合
+>  
+> 日交易量 1185 万笔，101 万 DAU，TVL $50.3 亿，月增长 5.96%
+>  
+> Base 从各维度来看都是 L2 赛道的绝对霸主，也难怪有这么宗教感十足的 Builder 社区
+>  
+> 可惜刚背会问题，却没机会提问，在这里问一下，期待 Jesse 回复：
+>  
+> When you once reposted our tweets, you wrote in Chinese: “Base belongs to all of us.”
+>  
+> That line really resonated in the Chinese community.
+>  
+> What role do you think the Chinese community has played in Base’s growth, and is there anything you’d like to say directly to its members?
+>  
+> 感谢 @juliezize 邀请💙💚
+
+## 54. Sep 30, 2025 · 4:04 PM UTC · 1973056491159711921#m
+- 链接：https://twitter.com/0xBeyondLee/status/1973056491159711921#m
+- 作者：@0xBeyondLee
+
+> 还记得 ordi 刚出现时，绝大多数人都不屑一顾，觉得有智能合约用 BTC 发币就是在高速公路上用牛拉车
+>  
+> 后面的万倍涨幅证明了一切，事实上我还是主张每一个新的资产发行渠道都要积极探索
+>  
+> 看到 XRP 上的 DEX，第一反应也是不理解，长久的忽视让人忘记 XPR 不仅是市值巨高的代币，本身也是一条公链
+>  
+> @dexrp_io 作为 XRP 上首个且最大的原生 DEX，最近有一点启势的感觉
+>  
+> 1/ XRPL 上的首个原生混合型 DEX
+>  
+> XRP Ledger（简称 XRPL） 是 Ripple 在 2012 推出的公链，原生代币就是我们耳熟能详的 $XRP
+>  
+> 对比 XRPL 现有零售为主的 DEX，DeXRP 兼顾 AMM + 订单簿两种模型，因此可以同时兼顾散户便利成交，与机构高频且深度交易
+>  
+> 2/ 生态与市场时机合适
+>  
+> XRP 年内涨幅 385%+，XRPL DeFi TVL 已破 1 亿美元，正处于极其早期的起量拐点
+>  
+> Forbes 等国际媒体报道，团队做事意愿强烈
+>  
+> 3/ 代币经济学与长期规划
+>  
+> 截至目前，DeXRP 预售已累计完成 650 万美元+ 融资，参与投资者超过 10,000 人，预售完成度达到 85%
+>  
+> 从 8 月启动到 9 月底，DeXRP 的预售一路走高：
+>  
+> - 初始融资突破 163.5 万美元
+>  
+> - 9 月下旬突破 640 万美元，成为 XRPL 上迄今最成功的代币销售之一
+>  
+> - 投资者规模从 7,500 人快速增长至 10,000+
+>  
+> 代币总供应量的 25% 用于预售，合计 5 亿枚 $DXP
+>  
+> 解锁机制为：TGE 时释放 10%，剩余部分采取月度线性解锁，设计目的在于平滑流动性，减少价格冲击
+>  
+> 当然，机会之外也要明确风险：
+>  
+> - 上线进度：如果 Q4 交付延期，可能错过最佳市场窗口
+>  
+> - 价格波动：预期挂牌价 $0.35 并不等于现实结果，解锁和流动性安排将直接影响价格表现
+>  
+> - 生态体量：XRPL DeFi 仍处于早期，整体 TVL 占比很小，能否持续扩张尚待验证
+>  
+> - 安全合规：尽管有审计和合作伙伴背书，但智能合约与市场风险始终存在
+>  
+> 机会肯定是有的，就看介入时机和市场后续发展，作为市值无敌高的公链，这么低的 TVL 明显不正常，存在巨大的潜在套利机会
+>  
+> dexrp.org/9deqgfxOI9u
+> 链接放在这里，想玩的自行研究一下，我个人感觉现在进入盈亏比不错，并且打了一些
+>  
+> #XRP #DEX
+
+## 55. Sep 30, 2025 · 1:09 PM UTC · 1973012271229247617#m
+- 链接：https://twitter.com/0xBeyondLee/status/1973012271229247617#m
+- 作者：@0xBeyondLee
+
+> 反直觉的是 Binance Alpha 在最近几周上线了数个 ZK 系代币，尽管概念并非热点，但成交量等维度都很亮眼
+>  
+> 简单看了下今天的新币 @ZKVProtocol $VFY 列出一些关键数据和信息，供以参考
+>  
+> ZK 系项目的一个共性就是看不懂干嘛的，涉及的概念都过于晦涩，zkVerify 算是一个异类
+>  
+> 一句话可以概括清楚：zkVerify 就是一条专门帮别人验算作业的区块链，任何人有验算工作都可以丢过来
+>  
+> 开盘流通 30% 在 ZK 系不算特别少，但团队和投资者筹码都在锁着，短期炒作可以逢低介入
+>  
+> 简单讲就是社区占比高、通胀率低（2.5%/年）情绪盘的典型类型
+>  
+> 关于价格区间，大概估计了一下短期走势：
+>  
+> - 低估区间：0.08 – 0.15 美金
+> - 合理区间：0.15 – 0.35 美金
+> - 高估区间：0.35 – 1 美金+
+>  
+> 但需要声明的事，这并不能被看作是投资建议，赚钱了大概也没人感谢我，因此亏钱了也别干我，只能说我是这样想的，兼听则明
+>  
+> #ZK
+
+## 56. Sep 30, 2025 · 8:47 AM UTC · 1972946367556505986#m
+- 链接：https://twitter.com/0xBeyondLee/status/1972946367556505986#m
+- 作者：@0xBeyondLee
+
+> 有幸坐在第二排，听完了整场会议，非常多重大更新王牌在此次会议上一股脑推出
+>  
+> 聊两个印象非常深刻的产品：
+>  
+> 首先是「交易所内置DEX」打通了所内所外的流动性
+>  
+> 其次是「X Card」是Web3 世界和 Web2 世界的支付桥梁
+>  
+> 此外还有很多令人印象深刻的更新，具体细节接下来官推应该会发布，期待拉满了！
+>  
+> @star_okx @okxchinese
+
+## 57. Sep 30, 2025 · 7:12 AM UTC · 1972922431225639102#m
+- 链接：https://twitter.com/0xBeyondLee/status/1972922431225639102#m
+- 作者：@0xBeyondLee
+
+> 到达 OKX Alphas Summit 会场，终于见到老板 @star_okx 本人了！
+>  
+> 千人会场，座无虚席，期待接下来新产品的发布！
+>  
+> Go Beyond with #OKX
+>  
+> @okx @okxalphas
+
+## 58. Sep 29, 2025 · 6:29 AM UTC · 1972549149389434923#m
+- 链接：https://twitter.com/0xBeyondLee/status/1972549149389434923#m
+- 作者：@0xBeyondLee
+
+> 感谢 Star 老板引用！
+>  
+> 已经落地新加坡 🇸🇬
+>  
+> 太期待了，有什么小局叫上我！🤩
+
+## 59. Sep 28, 2025 · 1:52 AM UTC · 1972117079278211452#m
+- 链接：https://twitter.com/0xBeyondLee/status/1972117079278211452#m
+- 作者：@0xBeyondLee
+
+> 这篇文章太牛逼太伟大了，必须狠狠收藏
+>  
+> 记录了 0xSun 孙哥一步步身价过亿，成为链上皇的重要心路历程和总结反思
+>  
+> 这特么就是 Web3 的永赚大典，看懂记熟了，赚不了 A9 也能印一个 A8
+
+## 60. Sep 27, 2025 · 6:14 AM UTC · 1971820627024805946#m
+- 链接：https://twitter.com/0xBeyondLee/status/1971820627024805946#m
+- 作者：@0xBeyondLee
+
+> 最近发表过逆天言论的网红封的封删的删，只有峰哥没事
+>  
+> 我看峰哥就是当代董仲舒
+>  
+> 这波叫 罢黜百家，独尊性术
+
+## 61. Sep 27, 2025 · 5:24 AM UTC · 1971808248849444877#m
+- 链接：https://twitter.com/0xBeyondLee/status/1971808248849444877#m
+- 作者：@0xBeyondLee
+
+> OKX 新加坡🇸🇬 活动的邀请函，延续了一贯的精致风格，内含满满、细节十足
+>  
+> 短短十几秒的视频，涵盖了 金沙酒店、樟宜机场、滨海湾花园、F1 大奖赛 等重要地标或事件
+>  
+> 其次还着重强调了活动主题 Alphas Aummit 与 X Layer，重视程度可见一斑
+>  
+> 听说这次 @star_okx  Star 老板也会出席，很难不期待！
+>  
+> 最后，感谢 @okxchinese @Mercy_okx 的邀请，新加坡再见 O 小将冲啊！
+>  
+> #TOKEN2049
+
+## 62. Sep 26, 2025 · 3:19 AM UTC · 1971414250473259076#m
+- 链接：https://twitter.com/0xBeyondLee/status/1971414250473259076#m
+- 作者：@0xBeyondLee
+
+> 怎么搞的！三天赚了十几万？！
+>  
+> - $0G 空投做多
+> - $ASTER 做多
+> - $XPL 空投做多
+> - $RIVER 空投做多
+> - 大盘 做空套保
+>  
+> 最离谱的是，截至目前，在首尔交易和判断的正确率是 100%
+>  
+> 韩国🇰🇷 真的太旺了🙏
+
+## 63. Sep 25, 2025 · 12:08 PM UTC · 1971185144917786936#m
+- 链接：https://twitter.com/0xBeyondLee/status/1971185144917786936#m
+- 作者：@0xBeyondLee
+
+> 我一直讲，赚到钱就要做慈善，不仅是尽到社会义务，也是给自己积累福德
+>  
+> 这不，好运就来了
+>  
+> 直到现在，大约九个小时后，我还是想不明白，自己为什么会出现在这里 🤣
+>  
+> 但可以确信的是，我验证了一件事
+>  
+> 币安家人的颜值真的天下无敌
+>  
+> 感谢邀请 🫡 @yayabinance
+>  
+> #Binance
+
+## 64. Sep 25, 2025 · 5:22 AM UTC · 1971082912624935250#m
+- 链接：https://twitter.com/0xBeyondLee/status/1971082912624935250#m
+- 作者：@0xBeyondLee
+
+> 最近三大社会学理论，终于实现了大一统
+>  
+> - 性压抑学说
+> - 安卓苹果相对论
+> - 力工梭哈定律（理工男脉冲送钱定律）
+>  
+> 别的圈子不清楚，币圈绝对是重灾区 🤣
+
+## 65. Sep 25, 2025 · 3:15 AM UTC · 1971050941320446261#m
+- 链接：https://twitter.com/0xBeyondLee/status/1971050941320446261#m
+- 作者：@0xBeyondLee
+
+> #TBW 回忆前序文章
+>  
+> localhost:8080/0xBeyondLee/status/196…
+> localhost:8080/0xBeyondLee/status/196…
+> localhost:8080/0xBeyondLee/status/196…
+
+## 66. Sep 25, 2025 · 3:15 AM UTC · 1971050924396417182#m
+- 链接：https://twitter.com/0xBeyondLee/status/1971050924396417182#m
+- 作者：@0xBeyondLee
+
+> 今天是 #TBW2025 台北区块链周 结束的第 14 天，为何我要在两周后才写这篇回忆，主要基于三点：
+>  
+> - 需要时间抽离并沉淀，现在还记得的必然印象深刻
+>  
+> - 太多朋友问我怎么去的台北，一并讲一下
+>  
+> - 需要一篇文章来致谢对我参会帮助最多的 周周 JenJen Tiffany 三位朋友，谢谢你们
+>  
+> 当被 Jenjen 问及对台北的印象，我第一反应是神秘，相信这也是很多人的一致看法
+>  
+> 两岸虽语言相同、文化相通，只有一湾海峡相隔，却因证件问题无法自由旅行，因此第一个问题聊聊赴台方式
+>  
+> ❚ 关于怎么去的台北
+>  
+> 理论上需要两个证件
+>  
+> - 大陆签发的 大陆居民往来台湾通行证（俗称大通证）
+> - 台湾签发的 台湾地区入出境许可（俗称入台证）
+>  
+> 大通证 的办理往往以月来计，且需要合理事由，因此在实操过程中很多人选择从非大陆地区的第三地中转赴台，这样便无需持有大通证
+>  
+> 入台证 的办理渠道同样在收紧，本次我们所办理的是 TBW 的参会签，TBW 作为全台规模最大、影响最广的区块链盛会，每年定期举办，因此希望明年参加的朋友可以提前关注起来 @TaipeiWeek
+>  
+> 我此次赴台，也是在 TBW 周周 JenJen 的帮助下才得以实现，全程时限严格，且有移民署的工作人员定时在会场抽查到会情况
+>  
+> ❚ 对 TBW 的回忆
+>  
+> 1/ 主会场
+>  
+> 主会场位于松山文创园的四间大厂房内，距离地标 Taipei 101 只有几百米，目测是台北市城建最新、人流密度最大的文化中心
+>  
+> 时间上刚好衔接了香港跑会，坦白讲 TBW 规模没有那么盛大，但人和人的链接却更加紧密，是氛围最好的盛会，没有之一
+>  
+> 从会场布景、人员调度来看，TBW 团队绝对倾注了大量心思，从门口停着三辆 McLAREN Artura 就可见一斑，亲力亲为和辗转外包的差别，一眼便能看出
+>  
+> 场馆内部涵盖了交易所、项目方等各产业链条的展位，跑车体验、交互礼品，各家都诚意十足
+>  
+> 受邀 KOL 无需购买门票，但倘若换位路人体感而言，几十美金的花费也绝对物超所值，会场为所有人供应不限量午餐和饮品，虽然没能品尝，但据同行朋友讲绝对是远胜各大会议主会场的
+>  
+> 2/ FreeStyle Classic
+>  
+> 作为同样是由 周周 邀请我参与的 side event，FreeStyle 同样玩的很尽兴
+>  
+> 主办方邀请了来自不同地区知名从业者参会，除了两岸还有来自日本、泰国、马来西亚、印度尼西亚 的知名 KOL
+>  
+> 还有一以小见大的点是，活动后发通稿阶段，周周 作为主办方为每一张参会照片做了严格的审核，需要打码的嘉宾都进行了处理，即使在照片最角落
+>  
+> 这也是我对 TBW 的最大印象，专注细节，真正把工作当作事业来做，倾注热爱，对比下，我还有很多路要走
+>  
+> 3/ APAC Influencer Hype Tour
+>  
+> 这是一次对部分参会者发起的定向邀请，是主办方准备的一次短途游，包含 Taipei101 大稻埕 等景点
+>  
+> Taipei101 是全台最高建筑，两千年初，也一度是世界最高建筑，登高可一览台北全景，地形山河相间，高楼鳞次栉比
+>  
+> 在我留影的同时，周周帮我拍摄了几张背影，这也是我对此尤为印象深刻的原因
+>  
+> 严格讲，周周 Jenjen 并非 TBW 职员，仅仅作为志愿者来对来自世界的参会嘉宾提供帮助，被问及原因，周周回答治愈，治愈大家抱团取暖，度过牛熊
+>  
+> 这也是台湾区块链社区氛围的一个缩影，规模不大但很团结，精诚合作的目标是挖掘 Alpha 而非群内财富转移
+>  
+> 4/ KOL SHISHA NIGHT
+>  
+> 最后也是最嗨的一场，地点在 周周 的酒馆，在酒精作用下把 TBW 氛围推向高潮
+>  
+> 平时没谈成的事情谈成了，没聊开的话题聊开了
+>  
+> 和 Tiffany 一队，虽遗憾没能赢得比赛，却见证了来自不同地区的朋友通力合作
+>  
+> 不得不说，这样的安排真的花费了非常多心思，当然收获的成效也是绝伦的，是 TBW 体验最重要的组成之一
+>  
+> ❚ 关于台北的印象
+>  
+> 七天时间，需要兼顾跑会和工作，并没有太多时间来游览，只去了几个地标景点，捡重点回忆
+>  
+> 大陆有清华台湾也有清华，大陆有故宫台湾也有故宫，一种历史的牵绊将两岸连结
+>  
+> 台北故宫 302 展厅绝对不容错过，美玉雕琢的红烧肉与白菜绝对称得瑰宝一词，值得参观
+>  
+> 听说台湾求财很灵验，我去到了艋舺的龙山寺，确实最近顺风顺水诸事顺遂
+>  
+> 还有 烘爐地南山福德宮 也非常灵验，可惜我因行程安排没去成，听说嗯哼去了转手就开始印钞，实在夸张
+>  
+> 台北夜市夜市商业繁华，美食可口，是体验风土人情和特色口味的最佳地方
+>  
+> 西门町也值得一转，是置办特产的绝佳场所
+>  
+> /
+>  
+> 此间一行，聊聊数日，终身难忘
+>  
+> 可爱的城市可爱的人，期待下次重逢
+>  
+> #TBW2025 @chochou33 @blockjengirl @tiffanylai_
+
+## 67. Sep 24, 2025 · 4:00 PM UTC · 1970881080472613346#m
+- 链接：https://twitter.com/0xBeyondLee/status/1970881080472613346#m
+- 作者：@0xBeyondLee
+
+> 据路边社消息报道，APRO 和某管理 1.X 万亿美元资产的全球投资巨头勾兑上了
+>  
+> 当然受限于保密条款，现在不能讲，讲了就要被公关
+>  
+> 作为 RedStone SwitchBoard 等预言机 TGE 后的真空时代唯一 YZi 系标的，APRO 我个人非常看好
+>  
+> 另一角度讲，宝可梦、Pre-IPO、预测市场都有个强共同属性，即非标准资产
+>  
+> 这部分还是 Chainlink 力不能及，APRO 却完美 cover 的
+>  
+> 因此对于 APRO 的市场前景也毫不怀疑，就是 GTM 策略和 TGE 时期这两个把控点了，如果做好又是黄金万两
+>  
+> @APRO_Oracle @Sawyer_APRO
+
+## 68. Sep 24, 2025 · 7:04 AM UTC · 1970746134823137365#m
+- 链接：https://twitter.com/0xBeyondLee/status/1970746134823137365#m
+- 作者：@0xBeyondLee
+
+> 感谢 OKX 又又又请客！
+>  
+> 能在 韩国首尔 🇰🇷 见到大家真的太开心啦！
+>  
+> 见到了在各战壕里战斗的老师们！
+>  
+> 中文区头部 KOL、T1 Agency、知名项目方、一级二级交易大作手，以及最爱的 OKX 各业务负责人！
+>  
+> 吃得很饱，玩的很好，期待下次再见！👋
+>  
+> #OKX @Mercy_okx @OKX_Yuki @Haiteng_okx @sova_okx
+
+## 69. Sep 24, 2025 · 5:22 AM UTC · 1970720458061525034#m
+- 链接：https://twitter.com/0xBeyondLee/status/1970720458061525034#m
+- 作者：@0xBeyondLee
+
+> 诶呀呀呀，感谢我 OKX 对小 B 的支持！
+>  
+> OKX 全阵容关注，太性情了！
+>  
+> 小 B 终于可以用 OKX 手机，开 OKX 汽车，住 OKX 小区，享 OKX 人生了！
+
+## 70. Sep 23, 2025 · 9:05 AM UTC · 1970414196916728076#m
+- 链接：https://twitter.com/0xBeyondLee/status/1970414196916728076#m
+- 作者：@0xBeyondLee
+
+> 昨天下午，一群友说：卧槽 B 哥，麻了，0G 拿了两万个币
+>  
+> 昨天晚上，还是他：卧槽 B 哥，完了，1x 套保的都爆了
+>  
+> 说实话，0G 很独特，也很典型
+>  
+> 独特在，让一批信仰者赚得四肢发麻，让一批套保人爆得爹妈不认
+>  
+> 典型在，这正是最近所有低流通高控盘项目的真实写照、标准模板
+>  
+> 换句话说，读懂 0G 就等于读懂当前版本
+>  
+> 作为 0G 的早期投资者、忠实社区成员，我通过 0G 赚到了过万美金，分享一些看法
+>  
+> ❚ 神乎其技的控盘
+>  
+> 0G 控盘有多牛逼，有目共睹，这里只说三个细节，以小见大
+>  
+> 1/ 币安现货上币
+>  
+> - 9/21 这天 6:00 合约价格破位，呈现下跌趋势
+>  
+> - 16:04 宣布通过 BNB Holder 空投方式 TGE，即币安现货上币，随即市场加速下杀，营造出典型的无法承压走势
+>  
+> - 16:07 暴力反抽，15 分钟内上涨 20%，随后趋势反转
+>  
+> - 后来复盘不难发现，没有释放利好前，市场预期普遍悲观；认为 $3 即 30b 估值存在严重泡沫，合理价格应在 $1.5 的论调甚嚣尘上
+>  
+> - 对于绝大多数撸毛党来说，空投开放领取意味市场承压，在此之前套保是稳妥且常规的操作
+>  
+> - 但 0G 只给 BNB Holder 2m 代币份额，市场抛压可以忽略不计，就导致空投申领前市场高度控盘，短期预期陡然上攻
+>  
+> - 这也就解释了，为何公告发布 2 分钟后价格才爆拉，当然这 2 分钟恰恰是无数人的注意力聚焦点，套住了无数人
+>  
+> 2/ 盘前利好释放
+>  
+> - 通常而言项目的操盘方式都是，开放空投申领 - 交易所开放现货 - 下跌吸筹 - 发布利好 - 拉盘派发，韩所上币一般都当作巨大利好择时发布
+>  
+> - 0G 却反其道而行之，在任何一家交易所都没上币前，陆续把 DAT、韩所上币等巨大利好释放，将市场预期疯狂拉高
+>  
+> - 举个例子，打牌直接甩炸弹，换谁都觉得你一定还憋了个更大的
+>  
+> 3/ 现货稀缺和期货升水
+>  
+> - 宇宙所 Binance、韩国所 Upbit、海妖 Kraken 同时现货开盘，紧接着开放空投申领，以及交易所充值
+>  
+> - 但却没有开放交易所提币，强行锁死链上供给，最大化利用多平台上币的优势，虽然同时开盘，但流动性仍然隔离
+>  
+> - 韩所不用说，全民炒币，疯了一样抬升直接突破两位数；Kraken 深度浅好拉盘，同样价格飞天，反哺币安
+>  
+> - 所以就造就了一种，先卖赚钱，后卖暴富，有币屯币，没币开多的奇观，期货价格疯狂升水
+>  
+> - 这样的案例在去年的 Movement 上也同时出现过，当时靠韩所搬砖，很多人爆赚一笔
+>  
+> ❚ 超一流的基本面
+>  
+> 这部分嘴撸的人已经写了几百遍了，感兴趣的早就看过，不感兴趣的这辈子也不会看，因此就聊些主观感受
+>  
+> 1/ 精简干练的行政团队
+>  
+> - 作为早期投资者，我和团队核心成员 Michael 有过多次对话，有问必答有求必应，秒杀一众自以为很屌的草台班子
+>  
+> - 中文区团队成员 JT 哥，我也认识很久，关系很好，给我的感觉就是靠谱，这也是 0G 团队一贯的底色，线下团队、线上布局都是亲力亲为，慷慨大方，社区氛围非常好
+>  
+> - 其他团队成员比如 Vanessa 和自己人 Griny 也都是极其真诚踏实值得信赖的人
+>  
+> 2/ 真实可靠的融资
+>  
+> - 关于 0G 的融资，KOL 主流说法是 1.5 亿美金，这其实仅仅是机构部分，是不全面的
+>  
+> - 0G 的总融资资金在 3.25 亿美金以上，包含来自个人、机构等多轮次，且是实打实的有钱，不是包装的草台班子可以比拟的
+>  
+> 3/ 学术成就和硬核科技
+>  
+> - 包括但不限于 推出 iNFT 标准（ERC 7857）、分布式 100B+ 参数模型（全球首个）
+>  
+> - 多篇论文发表于顶级会议（FSE、ICCV、CIKM）
+>  
+> - 与 AI16Z、Virtuals 等框架合作，探索 Agent-to-Agent 交互等，且在 TGE 后仍持续 Buidl 长期主义
+>  
+> /
+>  
+> 每个周期都有标准答案，0G 显然正在扮演这一角色
+>  
+> 如同其他一切造富的项目一样，虔诚造就财富，瞎几把分析造就爆仓
+>  
+> 作为 0G 的忠实信众，我选择伴随团队长期建设下去
+>  
+> @0G_labs #AI
+
+## 71. Sep 22, 2025 · 1:23 AM UTC · 1969935579333923090#m
+- 链接：https://twitter.com/0xBeyondLee/status/1969935579333923090#m
+- 作者：@0xBeyondLee
+
+> 这件事情就透着邪门
+>  
+> 昨天一圈外朋友拿着九手包浆，叠满抖音小红书水印的插图来找我分享
+>  
+> 定睛一看，这图不是我做的吗 😂
+>  
+> X、YouTube 等已经在 Web3 信息层级上大幅领先其他平台
+>  
+> 靠搬运信息为生的返佣掮客、收费群主正在凭此赚得盆满钵满
+
+## 72. Sep 21, 2025 · 2:20 PM UTC · 1969768821415457150#m
+- 链接：https://twitter.com/0xBeyondLee/status/1969768821415457150#m
+- 作者：@0xBeyondLee
+
+> 我好像发现了什么不得了的东西，又是一个热度冷门，但数据飞速飙升的项目
+>  
+> Takara Lend 是 SEI 链上的一个去中心化借贷，过去一个月间 SEI 前十大项目 TVL 几乎都有所下降，Takra 却逆势上涨 57%，几乎占据了 SEI 总 TVL 的 25%
+>  
+> 数据真的强无敌，绝对有所隐情，本文将尝试解构数据飙升背后的逻辑，大概可以分为两部分
+>  
+> ❚ 差异化定位
+>  
+> Takara 白皮书说的很清楚，在定位上并非一个穿透 DeFi 般的资金池，而是一个「可编程信用层」为后续支付场景打下基础
+>  
+> 官方宣称要做加密世界的 Visa，不管是不是画饼，市场对其的反响非常积极
+>  
+> 数据表现相当亮眼，仅 5 个月就做到 1.4 亿美元 TVL、93 万美元收入，同时保持 0% 借款费，平台整体 TMV 最近也已经触达 2 亿美元大关
+>  
+> 在稳定币市场上更是突出，USDT 年化 14-19%、USDC 年化 12-15%，放眼整个 DeFi 都属于第一梯队
+>  
+> 主观猜测，高于市场的收益应当来自团队收入分成，说白了就是团队让利，但这样的让利不会持续太久，近期 Sei 生态 TGE 很多窗口期应该很短
+>  
+> ❚ 激励机制
+>  
+> 推动 TVL 飙升的核心原因，是一套简单直接的收益策略
+>  
+> 1/ 最常见的是稳定币循环
+>  
+> - 供给 USDT → 借出 USDC → 再回供，通过不断叠加，可以轻松做到 25-30% 年化，这也是资金持续涌入的关键
+>  
+> - 更重要的是，循环中涉及的大量供给操作，还能同时 Boost Karats 积分的积累速度
+>  
+> 2/ 另一个热门玩法是 LST 策略
+>  
+> - 供给 USDT/USDC，借出 SEI 去 Splashing 质押，得到 spSEI 再回供 Takara，最终效果是把持仓 SEI 转化为 15–20% 年化的稳健收益
+>  
+> 3/ 对更进阶的玩家，还能选择 LP 策略
+>  
+> - 借出 SEI/spSEI，进入 Yaka Finance 池子，叠加流动性挖矿，把收益再往上推一层
+>  
+> - 除了利率本身，Takara 还在激励机制上下了功夫，用户可以通过链上交互与社区贡献积累 Karats 积分
+>  
+> /
+>  
+> 鉴于代币 $TAK 尚未发行，现在入局一边获得高息收益，一边赚取积分，或许是非常划算的买卖
+>  
+> 我把邀请码放在这边，使用链接可以额外获得 10% 积分加成，如果愿意入局 Sei 生态，Takara 是一个很好的切入点
+>  
+> app.takaralend.com/leaderboa…
+>  
+> #DeFi #SEI $SEI @TakaraLend
+
+## 73. Sep 21, 2025 · 11:30 AM UTC · 1969725860816257029#m
+- 链接：https://twitter.com/0xBeyondLee/status/1969725860816257029#m
+- 作者：@0xBeyondLee
+
+> 老坟出问题了？
+>  
+> 怎么几十亿的项目就盯着我发公告啊😭
+
+## 74. Sep 21, 2025 · 8:27 AM UTC · 1969679968348356918#m
+- 链接：https://twitter.com/0xBeyondLee/status/1969679968348356918#m
+- 作者：@0xBeyondLee
+
+> 昨天聊完 $ZKC 顺手打了底仓，刚看了下涨幅 20%
+>  
+> 虽然不如 perp dex 热点情绪币赚的多，但确实是认知内可以赚到、必须赚到的钱
+>  
+> 基本面不提了，反正都看不懂，着重说一下代币经济学：
+>  
+> - ZKC 初始流通只有 20% 这也是为何市值这么低
+>  
+> - 后续采用永续通胀机制，从第一年 7% 到第八年 3%，通胀压力不大
+>  
+> - 团队/投资者/生态基金均为 1 年锁定期，外加 24 个月线性释放，预计 2026 年 Q4 才开始大量解锁
+>  
+> 这也是为什么现在敢追涨，走势上看还是很不错的，底部形态清晰，可能要走一个杯柄，或者阻力位回踩再继续上攻
+>  
+> ZKC 在九月初经由币安 HODLer 空投上线，对 BNB 持有者而言也是个福利
+>  
+> 到现在还不懂得玩 BNB Chain 的人，吃饭坐小孩桌
+>  
+> 更多 BNB 赋能：
+> binance.com/zh-CN/bnb
+>  
+> 币安八折手续费注册：
+> accounts.binance.com/zh-CN/r…
+
+## 75. Sep 21, 2025 · 3:15 AM UTC · 1969601389736444035#m
+- 链接：https://twitter.com/0xBeyondLee/status/1969601389736444035#m
+- 作者：@0xBeyondLee
+
+> 人总是被命运推着前进，多年后回看某个遥远而平淡的午后，才发现自己的一生竟被改写
+>  
+> 1/ 命定之路
+>  
+> 21 年 4 月 18 日，狗狗币暴涨的消息占据热搜，大一数学课的间隙，好奇心驱使下我注册了币安
+>  
+> 白驹过隙，几年经历看似巧合却又必然，我曾经不可一世单币 A7，也曾被黑客窃取一无所有
+>  
+> 币圈带给了我什么？财富，自由，焦虑还是欲望，我想都有，但更重要的是，面对这一切我拥有了接受的勇气
+>  
+> 无论发生什么，做就是了，快乐就快乐的做，痛苦就痛苦的做，命运自会给出答案
+>  
+> 2/ 终有回响
+>  
+> 在币圈，我最敬佩的人是一姐，不是恭维也不是攀附
+>  
+> 我看过一姐早些年参加综艺的视频，尽管当时稚气未脱，却有种淡然自若，不会因为对方身份，就轻视或巴结
+>  
+> 后来看懂了，这是一种发自内心的自信，是一种与生俱来的气质，我没有，但我努力尝试有
+>  
+> 愿力指引，终于在某个时刻我获得了一姐的关注，在当时绝对是中文区第一批
+>  
+> 这给彼时还是小账号的我莫大的鼓励，正是这意料之外的被认同感，带领我赚取人生第一个一百万、二百万、三百万，一次次向别人口中的不可能发起挑战
+>  
+> 3/ 创造历史
+>  
+> 在我看来，币安不仅是一家交易所，一个品牌，更是一种符号，一段历史
+>  
+> 17 年 12 月，仅诞生五个月的币安便成为行业第一，难以置信却又合情合理，这就是币安，执拗、勇敢、不服输
+>  
+> 如今的币安，就如同工业周期里的通用电气/IBM，或金融周期里的摩根大通/高盛，是带领整个行业的旗帜与标杆
+>  
+> 很高兴也很荣幸，能作为币安的忠实用户与好友，亲眼见证加密力量颠覆并重塑世界
+>  
+> #HumansOfBinance #币安人物志 @heyibinance @binancezh
+
+## 76. Sep 20, 2025 · 12:38 PM UTC · 1969380618778919357#m
+- 链接：https://twitter.com/0xBeyondLee/status/1969380618778919357#m
+- 作者：@0xBeyondLee
+
+> 群里有人提到 $ZKC 感觉快突破了
+>  
+> 从心态上来看，确实是这样，16 号上线币安现货以来一路阴跌，后面进入箱体盘整后正在冲击压力区
+>  
+> 不管这次是否真的突破，ZKC 都值得关注
+>  
+> 估值不算高，对比同类型项目，流通市值很低
+>  
+> - Boundless(ZKC) / 市值 $1.54亿 / FDV $7.69亿
+> - Mina / 市值 $6.14亿 / FDV $8.76亿
+>  
+> 叙事上作为 ZK 赛道基础设施，是整个智能合约生态的基石项目，虽说现在热度不如上一周期，但仍留有想象空间
+>  
+> @boundless_xyz
+
+## 77. Sep 20, 2025 · 11:05 AM UTC · 1969357172770554033#m
+- 链接：https://twitter.com/0xBeyondLee/status/1969357172770554033#m
+- 作者：@0xBeyondLee
+
+> 现在打开 Aspecta 的 $River Key 页面，就会看到一排针状 K 线，以 0.009 为上线，齐刷刷扎在 5m 图表上
+>  
+> 原因是盘前交易上限被系统设在 45m，但对项目来说这个估值太低，简单说就是「涨停了」
+>  
+> 对比 MEXC 300m 的盘前估值，现在能买到 Key 就是血赚，总有人会忍不住卖出，感兴趣的可以盯一下
+>  
+> trade.aspecta.ai/projects/Ri…
+>  
+> 整体来看，这次币安 BuildKey TGE 相当成功，2 小时超额认购 993 倍，1 亿美元 BNB 存入
+>  
+> 第一波入场的人已经赚了 8 倍以上，等正式开盘还有成倍涨幅，做工作室多号的人又麻了...
+
+## 78. Sep 20, 2025 · 1:38 AM UTC · 1969214609719517565#m
+- 链接：https://twitter.com/0xBeyondLee/status/1969214609719517565#m
+- 作者：@0xBeyondLee
+
+> 字节跳动深夜突发公告，意味深长
+>  
+> 这是什么意思，TikTok 美国版单独拆分了卖了？
+>  
+> 币圈也有为了合规拆分的应用，比如 Binance US
+
+## 79. Sep 20, 2025 · 1:21 AM UTC · 1969210306174791761#m
+- 链接：https://twitter.com/0xBeyondLee/status/1969210306174791761#m
+- 作者：@0xBeyondLee
+
+> 林皇走起来了，居然能见到 Beyond 🤣
+>  
+> 🇰🇷 9/22 - 9/28 首尔 KBW 见
+>  
+> 感谢 @soon_svm 和御妻老师邀请 @Ru7Longcrypto
+>  
+> 近半年亲眼见证御用妻老师疯狂印钞，把握主线的能力堪称一流，真心佩服
+>  
+> #SOON #KBW2025
+
+## 80. Sep 19, 2025 · 3:00 PM UTC · 1969053937354637564#m
+- 链接：https://twitter.com/0xBeyondLee/status/1969053937354637564#m
+- 作者：@0xBeyondLee
+
+> 67.1 倍！过去三个月 X Layer 龙头 Swap  @PotatoSwap_Fi  的 TVL 增加了 67.1 倍！
+>  
+> 尽管我知道 X Layer 在 $OKB 销毁升级后焕然一新，但当真实看到三个月 67 倍的数据后，还是被震惊到了
+>  
+> 很显然，绝大多数人都没有意识到 X Layer 的「基础设施」也是极具潜力的，土狗让很多人赚麻，但土狗乱飞的结局就是让基础设施营收爆表
+>  
+> 这点在 BNBChain 的 Pancake，Solana 的 Jupiter 上已经充分得到了验证，因此没理由不关注 PotatoSwap
+>  
+> 下面列举一些 AI 整理的 PotatoSwap 相关数据：
+>  
+> - 6/19 - 9/29 TVL 增长 67.1x
+> - 市场份额占据公链 57%
+> - 是 OKX Wallet 默认识别路由
+>  
+> 根据官方推文 PotatoSwap 将在十月进行 CLMM 升级，交易或 LP 的资金效率将至少提升 10 倍，参考 Uniswap V3
+>  
+> 总之，从一条康巴什链，到一条生态繁荣数据优异的活人链，基础设施起飞是必经之路，能够分一杯羹就赚麻
+>  
+> @star_okx @Mercy_okx @mia_okx @Cayne_okx @felix_okx
+
+## 81. Sep 19, 2025 · 11:46 AM UTC · 1969005245473644941#m
+- 链接：https://twitter.com/0xBeyondLee/status/1969005245473644941#m
+- 作者：@0xBeyondLee
+
+> 现在大概是内容创作者最好的时代
+>  
+> 在 InfoFi 出现之前，推特就是大型公地悲剧现场，KOL 疯狂刷粉刷量，不造点假就很难起号，更别提商业化
+>  
+> InfoFi 出现后，每个人都突然拥有了透视眼，硅胶填充、兽药增肌，一下子都原形毕露
+>  
+> 靠文章质量立足，而不是粉丝数量，这在历史上还是头一次
+
+## 82. Sep 18, 2025 · 1:33 PM UTC · 1968669778371080658#m
+- 链接：https://twitter.com/0xBeyondLee/status/1968669778371080658#m
+- 作者：@0xBeyondLee
+
+> 我会毫不吝惜对 Moss 的赞美，他们研发的「免费插件」真的太牛逼了，只能说用过就离不开，并且很可能会成为压垮文字博主的最后一根稻草
+>  
+> 建议 KOL 尤其是把推特作为生产力工具，或者信息获取来源的人一定要来试试
+>  
+> 当然我相信十个人看到帖子，只有一两个人可能实操，所以丝毫不担心被卷到
+>  
+> ❚ 手把手教学教程
+>  
+> 1/ 下载插件
+>  
+> chromewebstore.google.com/de…
+>  
+> 2/ 固定在工具栏并绑定推特
+>  
+> 3/ 输入邀请码并获取积分 + 钻石
+>  
+> 0G83N95W
+>  
+> - 位置在插件的右下角设置上面，作为早期用户输入邀请码可以获得 100 钻石积分，与未来空投相关
+>  
+> 4/ 领取早鸟徽章
+>  
+> - 位置在插件右下角，第二个按钮，目前限时开放领取，尚不确定可以持续多久
+>  
+> ❚ 具体讲有哪些功能
+>  
+> 1/ Clean X 清爽版推特
+>  
+> - 可以 AI 「去除广告和重复推文」对于嘴撸文章一键屏蔽，目前应该没有类似的产品
+>  
+> - 实测效果优于推特关键词屏蔽，因为关键词有时候会误伤正常文章，确实可以肉眼可见的提高信息流质量
+>  
+> - 此外还有「重要事件」和「Alpha 上币」推送，相当于监控 Bot 且不需要付费
+>  
+> - 我最喜欢的还是「关注推主信息」这个功能，记得在某些同类产品上月费不菲，还有较高延迟
+>  
+> 2/ 身份标识与关注监控
+>  
+> - 身份标识，指的是显示对方身份，比如 xx 项目方创始人等等，以及现实有多少重要 KOL 关注了对方，结合了 AI 身份定位和手动信息校准
+>  
+> - 这在同类竞品插件中也是收费的，Moss 现有所有功能都是免费
+>  
+> - 关注监控，指的是自己关注列表最近有什么集体关注事件，对于监控新 Alpha 非常有用
+>  
+> 3/ 重要信息 AI 推送提醒
+>  
+> - 定时接收链上叙事、项目和趋势报告
+>  
+> - 应该是从「推特」和「链上」两个监控渠道综合获取信息，再通过 AI 整合后发送邮件提醒
+>  
+> - 相较于一般的推送 Bot 优点在于结合了推特信息，所以在丰富度上有很大的提升，实测包含融资日报、宏观新闻等多个板块
+>  
+> 4/ AI 撰文（真他妈牛逼）
+>  
+> - 目前免费使用，且很方便就在发推按钮旁边，目前可以仿照国内外著名 KOL 的语气，无比强大吊炸天，举例说明
+>  
+> - 提示词：
+>  
+> 「开高杠杆容易爆仓」
+>  
+> - 凉兮：
+>  
+> 「这些傻逼交易所天天教你们开高杠杆，他妈的就是想让你们爆仓，我做了五年交易我告诉你们，真的不是杠杆让你爆仓，是你的仓位管理有问题，你们这些新韭菜一上来就100倍杠杆满仓梭哈，市场随便波动2%你们就直接归零了，我现在最多开3倍杠杆，实际杠杆控制在1倍以内，因为我知道这个市场就是吃人不吐骨头的，交易所就是想割你们的钱，你们还傻逼一样的配合他们，真的是无语了」
+>  
+> - 巫师 0xWizard ：
+>  
+> 「其实爆仓的本质，不是杠杆本身，而是你的仓位管理。
+>  
+> 高杠杆确实放大了风险，50倍杠杆下，2%的波动就能让你出局。而加密市场，2%波动几乎是常态。
+>  
+> 真正的问题是，大部分人用高杠杆时，都没留足够的保证金缓冲。一点点不利价格，就触发强平。
+>  
+> 不懂仓位管理，什么杠杆都危险。懂仓位管理，适度杠杆也能控制风险。关键是，你有没有给自己留退路。」
+>  
+> - Paulwei：
+>  
+> 「其实很多人对高杠杆有误解，认为杠杆本身会让你爆仓。
+>  
+> 真正让你爆仓的不是杠杆倍数，而是你的仓位大小。
+>  
+> 比如我有1万U，开100倍杠杆买100U的币，和开10倍杠杆买1000U的币，哪个更容易爆仓？答案是后者。
+>  
+> 100倍杠杆只用了1%仓位，10倍杠杆却用了10%仓位。
+>  
+> 高杠杆其实是工具，关键是你怎么用。就像开车，速度表能到200码不代表你要开200码，重点是控制实际速度。
+>  
+> 所以正确的说法应该是：不要开大仓位，大仓位容易爆仓。」
+>  
+> 5/ AI 问答
+>  
+> - 类似于 Surf 之类的币圈大语言模型
+>  
+> - 功能调教的成熟，我最看重的是对推文的筛选提取，反正比推特自己的 Grok 要靠谱很多
+>  
+> /
+>  
+> 简言之，对于这个免费插件，我只能说俩字，牛而逼之，谁用谁知道
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> #AI #Agent @MossAI_Official
+
+## 83. Sep 18, 2025 · 11:31 AM UTC · 1968638924655608028#m
+- 链接：https://twitter.com/0xBeyondLee/status/1968638924655608028#m
+- 作者：@0xBeyondLee
+
+> 做投研最怕的一定是 Infra 项目，专业术语解释专业术语，会计账目嵌套会计账目，看的人一个头两个大
+>  
+> 但我又深知，不可因看不懂就鸵鸟政策，这类融资超高业务成熟的项目，拉起盘来非常猛，最后都是被阳线涨懂的
+>  
+> KGeN 就是如此，项目营收的是真他妈的多，但又真的看不懂是干啥的，研究好久才搞清楚，今天人话解构一下
+>  
+> ❚ KGeN 是干什么的，凭什么一年营收三千万
+>  
+> @KGeN_IO 作为全球首个验证分发协议，它基于 POGE 身份与声誉框架，已经聚合了 3890 万真实用户和 8.76 亿+ 用户属性，并服务过 200+ AI、DeFi 与游戏项目
+>  
+> KGeN 将自身定位为 VeriFi（Verified Distribution Protocol）所谓 Verified 是通过参与度、技能、社交、交易四个维度来验证用户真实身份
+>  
+> 在融资层面，KGeN 已经完成 3000 万美金融资，投资方包括 Accel、Prosus、Aptos、Animoca、Immutable、Polygon 等
+>  
+> 概念很硬核，可惜我看不太懂，而 KGeN 最让我看懂的实际上是营收能力
+>  
+> KGeN 当前的年化收入 4830 万美金，连续 24 个月实现 MRR 增长，对比融资 3000 万美金，是相当成功的项目
+>  
+> （类比解释下「年化收入 ARR」你每月打飞机 30 次，则年化打飞机就是 360 次，因为 30*12=360）
+>  
+> 深入调查可以发现，收入来源非常清晰：
+>  
+> - AI 训练数据服务（如 Sapien、Sentient 等），为模型训练提供真实交互数据
+> - Loyalty Protocol，帮助 Web2 品牌进入 Web3，建立会员、积分与奖励体系
+> - 用户增长 / 分发服务，通过 API/SDK 接入，助力 DeFi、游戏获得真实用户
+> - 数据与声誉变现（POGE），应用方付费调用用户的身份与声誉数据
+>  
+> 换句话说，KGeN 模式有实实在在的市场，依靠身份与声誉做资源变现，形成长期现金流，这也是能做到年化营收 > 融资规模的核心原因
+>  
+> 在代币设计上，KGeN 目前发放的是 rKGEN，不可转让，只能通过任务、活动获取
+>  
+> 后续 rKGEN 将 1:1 兑换为 $KGEN 并在 TGE 后开放流通
+>  
+> ❚ 参与角度
+>  
+> 这类 Infra 项目往往撸毛角度不多，这里分享一个目前可以交互基础活动
+>  
+> 具体流程：邮箱注册登录 → Mint 头像 → 完成社交任务 → 完成交互任务 → 获得积分，未来可以兑换  $KGEN
+>  
+> 活动入口：engage.kgen.io
+>  
+> 社群入口：t.me/KGeNChina
+>  
+> /
+>  
+> Infra 项目的特点就是晦涩难懂、交互角度不多，当然的确不少高融资项目外强中干，到最后落得一个返撸下场
+>  
+> 但 KGeN 作为年化营收就可以覆盖融资的 Infra 项目，无疑是实力足够，值得期待的
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> #AI #Aptos #Infra
+
+## 84. Sep 18, 2025 · 8:47 AM UTC · 1968597795016679682#m
+- 链接：https://twitter.com/0xBeyondLee/status/1968597795016679682#m
+- 作者：@0xBeyondLee
+
+> 必须认清的一个残酷事实是，绝大多数 90 后 00 后，穷极一生所积攒的财富，都大概率没有一枚比特币值钱
+>  
+> 通往财富自由，听着很难但说来也简单，只要摒弃噪音，坚定持有核心资产，用收入复投，时间自会给出答案
+>  
+> $BTC $ETH $BNB $OKB $SOL $HYPE
+
+## 85. Sep 17, 2025 · 2:18 PM UTC · 1968318549799346388#m
+- 链接：https://twitter.com/0xBeyondLee/status/1968318549799346388#m
+- 作者：@0xBeyondLee
+
+> 如果还不了解 xStocks 是干什么的，说明已经严重脱离了币圈主线叙事，跟不上时代发展了
+>  
+> 叫做 Tokenized Stocks 也好，代币化股票也罢，亦或常见表达币股，已经确定是这周期主线叙事的重要组成之一
+>  
+> 而 xStocks 就是代币化股票最最最重要的发行平台，是多家头部交易所的渠道供应商，非常有必要出一期解构
+>  
+> ❚ xStocks 的定位与机制
+>  
+> @xStocksFi 的定位只有一个，即把现实世界的股票和 ETF 搬到链上，并且已经做到了这个领域的绝对龙头
+>  
+> 进一步深挖 xStocks 是作为旗舰产品，背靠合规链上资本市场的重要基建 @BackedFi
+>  
+> xStocks 的主要运作逻辑可以解构成这三点
+>  
+> - 足额抵押：每一份 xStocks 背后都有 1:1 的真实股票或 ETF 对应
+>  
+> - 合规托管：资产存放在受监管的托管机构和经纪商账户中
+>  
+> - 破产隔离：哪怕发行方出事，用户依然能优先兑回底层资产价值
+>  
+> 不仅是市场占有率，在安全性上，做到了行业顶配：
+>  
+> - 完全中立：无平台币、无隐形收费
+>  
+> - Chainlink PoR 实时验证：每一份代币都能追溯到真实资产
+>  
+> - 开放接入：不绑定任何链，不绑定任何交易所
+>  
+> 所以把 xStocks 看作是横亘在 Web2 股票和 Web3 数字货币中间的「流动性通道」来链接两个世界的流动性
+>  
+> ❚ 行业地位与数据
+>  
+> 不知道用「垄断」来表述准不准确，但这确实就是我所看到的，首先是作为渠道商的江湖地位：
+>  
+> - 已经成为多家头部 CEX 的代币化股票供应商 Kraken、Bybit、Gate、Kucoin、Bitget、LBank 等均已接入
+>  
+> - 已于 9 月 2 日扩展至 ETH 主网，且可在 Solana、Tron 和 BNB Chain 上使用
+>  
+> 其次是融资与资本支持：
+>  
+> - xStocks 发行方 Backed Finance 已于 2024 年 4 月完成 950 万美元融资
+>  
+> - 投资方包括北美著名资本 Gnosis VC、CyberFund、Blockchain Founders Fund、Stake Capital、Nonce Classic 等
+>  
+> 最后看核心数据：
+>  
+> - 7.5 亿美元链上交易量、3 万链上持有人、7400 万美元 AUM、2 亿美元 DEX 成交量、40 亿美元 CEX 成交量、62 种代币化资产
+>  
+> （其中 AUM 指的是管理资产规模，意味着 xStocks 背后真实抵押的股票和 ETF 资产总额达到了 7400 万美元）
+>  
+> /
+>  
+> 整体来看也不难发现 xStocks 除去龙头渠道商，还是行业标准的主要制定者，几乎决定了代币化证券的落地方案和未来走向
+>  
+> 因此如果看多 RWA 看多代币化证券，却又不知道如何入局，不如就紧跟着行业龙头的最新动向，一定没错
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> #RWA
+
+## 86. Sep 17, 2025 · 12:31 PM UTC · 1968291611156332863#m
+- 链接：https://twitter.com/0xBeyondLee/status/1968291611156332863#m
+- 作者：@0xBeyondLee
+
+> 发一个高清图
+
+## 87. Sep 17, 2025 · 12:24 PM UTC · 1968290012367294700#m
+- 链接：https://twitter.com/0xBeyondLee/status/1968290012367294700#m
+- 作者：@0xBeyondLee
+
+> 币恩币衬皇三子 $ASP 人品贵重，深肖朕躬，必能克承大统，著继朕登基，即皇帝位
+>  
+> 似乎在暗示一个超级大 Alpha？
+>  
+> 这件事必须得单独发推聊一下
+>  
+> /
+>  
+> 币安钱包联合 Aspecta 推出 BuildKey 模式的 TGE
+>  
+> 简单讲流程分为三个阶段：
+>  
+> - 存入 BNB 获取 BuildKey（按比例分配，可能超额认购）
+>  
+> - BuildKey 在 TGE 前可交易，价格随供需变化
+>  
+> - TGE 后 BuildKey 可兑换成项目代币或卖回池子
+>  
+> 首个采用该模式的项目将于 2025 年 9 月 18 日公布
+>  
+> /
+>  
+> 对比 FourMeme 的模式，多了盘前 Key 交易这一步，是币安有意吞并 PreTGE 市场？
+>  
+> 结合表哥 CZ 修改简介，这波废太子不由得让人想入非非
+>  
+> 这么一想这几天 $FORM 疯狂暴跌似乎也在说明这件事早有印证
+>  
+> 对比来看 $ASP 在市值和 FDV 以及上所方向似乎都留有空间
+>  
+> @cz_binance @heyibinance
+
+## 88. Sep 16, 2025 · 1:40 PM UTC · 1967946787886666096#m
+- 链接：https://twitter.com/0xBeyondLee/status/1967946787886666096#m
+- 作者：@0xBeyondLee
+
+> 前几天 @RiverdotInc 开放存钱，承诺年化 40.8%，币圈又一次上演「嘴上 FUD 但身体诚实」的戏码
+>  
+> 尽管推上一片风险提示与团队起底，1000 万美元额度仍在 12 小时内迅速售罄
+>  
+> 那几天太忙，没顾上写文，但我还是抽空存了近 1 万 USDT，既然自己也有仓位，下面从几个角度聊聊：
+>  
+> 1/ 风险如何
+>  
+> 所有 DeFi 都有风险，从不存在高息且绝对安全，至少可以确定的是，River 目前尚未发币
+>  
+> 从人性与激励出发，在团队完全退出前，他们对安全性的要求往往高于散户，且团队主要成员均来自台湾，并非此前传闻的某 BTCFi 项目换壳
+>  
+> 本期 40.8% 的收益构成 = 16.8% 固定收益（与 satUSD 相关）+ River Points 奖励（点数未来按何估值兑换代币取决于 TGE 机制）
+>  
+> 属于收益拆分 + 积分预期的组合，风险结构上完全可理解
+>  
+> 2/ 是否存在数据造假
+>  
+> 当前「数据美化」多见于 RWA、BTC 赛道，通过地址静态锁仓等手段，叠加保本或保息协议，容易形成超高 TVL
+>  
+> 严格说不一定是造假，但与其他公链的 TVL 不具可比性
+>  
+> 而 River 的 TVL 基本来自 EVM 生态，截至 9 月 16 日，总锁仓约 5.252 亿美元，主要分布在 Hemi、BSC、ETH 等公链
+>  
+> 因此散户与大户的资金在链上存储路径基本一致
+>  
+> 3/ 发币预期
+>  
+> 社区讨论热烈、说法不一，但基本可以确定的是 River 将在两个月内发币
+>  
+> 根据路边社消息，最后一批次的机构轮融资也在紧密磋商中，可以确定的是融资估值和解锁周期都不如存钱散户实惠
+>  
+> 白皮书显示，生态激励占 40%，空投占 5%（另计），预计覆盖存款生息与既往任务奖励等多部分
+>  
+> 结合存钱速度来看，这一轮 10M 可以理解为是 TGE 前约定俗成的让利，最终收益来自团队对自身未来收益的折现分润
+>  
+> 总之，盈亏很快见分晓，后续持续跟进
+>  
+> #DeFi
+
+## 89. Sep 16, 2025 · 10:41 AM UTC · 1967901666122076328#m
+- 链接：https://twitter.com/0xBeyondLee/status/1967901666122076328#m
+- 作者：@0xBeyondLee
+
+> 炒币如识人，要找到三观相符，八字相合的才能下重注
+>  
+> 我回顾过自己的交易记录，亏得最惨的币都有共同点：项目方或社区里，总有人一开始就令我反感，但我却选择了忽视这种直觉
+>  
+> 骗子的手法其实都差不多，变的只是包装，第一次被骗，可能是经验不足，第二次第三次还被同样的套路骗，那就是自己活该了
+>  
+> 有些项目，有些人，一旦露出马脚，就应该永远拉黑，不给第二次机会，这不是冷血，这是理性，是对自己的负责
+>  
+> 巧言令色，或是卑微谄媚，又或是旁敲侧击释放利好，终究看中的是你的钱
+>  
+> 谈钱的时候谈感情，代价太大，该狠心的时候，一定要狠心
+
+## 90. Sep 14, 2025 · 10:59 AM UTC · 1967181325439570171#m
+- 链接：https://twitter.com/0xBeyondLee/status/1967181325439570171#m
+- 作者：@0xBeyondLee
+
+> 天下英雄如过江之鲫，币圈会搞钱的年轻人比比皆是，我的朋友中，就不乏 Trump 掏出千万，或白手起家打狗狂砍八位数的神人
+>  
+> 但在「零零后」后群体中，真正称得上是「超级巨鲸」的，大概也只有这两位
+>  
+> ❚ 套利之神 Vida  @Vida_BWE
+>  
+> - 2000 年生于江苏，「方程式新闻」创始人，常用笔名「零零后富一代」
+>  
+> - 官方账号 @bwenews 是绝大多数币圈中文媒体的快讯来源，上币信息的推送速度和准确度业内第一
+>  
+> - 代表战绩：2024 年 11 月币安 ACT 上币，利用英文公告提前 7 秒布局，2 秒斩获 2400 万人民币
+>  
+> - 资产规模：约 1 亿美金
+>  
+> ❚ 交易之神 PickleCat  @0xPickleCati
+>  
+> - 2001 年出生的外籍华人，2013 年入行，币安合约交易累计收益额排行榜第一名
+>  
+> - 代表战绩：累计实盘收益额超过 400 BTC
+>  
+> - 资产规模：约 1 亿美金
+>  
+> 坦率说，对绝大多数人包括我自己而言，一生都难以望其项背
+>  
+> 但若能从他们的经验中汲取一二，便足以让我们在竞争中领先大多数对手
+>  
+> 共勉！
+
+## 91. Sep 14, 2025 · 7:42 AM UTC · 1967131732731375911#m
+- 链接：https://twitter.com/0xBeyondLee/status/1967131732731375911#m
+- 作者：@0xBeyondLee
+
+> 先别看字，先看图！
+>  
+> Web3 项目尤其是 Web3 AI 项目经常因为不能落地，而广受诟病，不少项目高融资好背景却没有任何实际营收
+>  
+> 我持仓不少的 MyShell 绝对是其中的异类，产品本身相当能打，Agent 部署能力绝对是行业一流
+>  
+> 作为 Web3 和 AI 的关注者、套利者，非常有必要单独发推着重强调一下 MyShell 最近的更新
+>  
+> ❚ Banana 接入与产品力提升
+>  
+> 如果你对 AI 保持关注，就一定听说过 Nano Banana，即 Google 团队研发的图像生成与编辑模型，一经发布就引爆全网，经常能看到的手办照片大概率就是来此于此
+>  
+> 但只要试过就知道，使用 Banana 想复现官方效果并不容易，普通用户往往需要大量调参，还持续依赖开盲盒
+>  
+> MyShell 的差异化优势在于：
+>  
+> - 创作者持续微调风格模型（如吉卜力、Aarcane），让终端用户可以用更简洁的 prompt，就能以更高概率生成高质量的风格化图片
+>  
+> - 稳定性与一致性更强，相比单一模型，MyShell 的多图一致性超过 80%，尤其适合漫画和品牌视觉场景
+>  
+> 换句话说，MyShell 并非套了个 Banana 的壳子，而是通过结构封装和预先部署 prompt 将其门槛降低到谁都会用
+>  
+> 右下角两张图就是使用表哥的肖像来参考生成的，简直是无比帅气，当然我相信曾高喊「bnb chAIn」的 CZ 对自家公链的龙头 AI 也肯定是全力支持的 lol
+>  
+> ❚ 商业化进展
+>  
+> 我敢讲八成以上的 Web3 AI 项目停留在「发币-炒作-派发」的循环里，本质上是发币赚钱而不是产品盈利
+>  
+> 我 dca MyShell 的另一个因素也是因为它在商业化程度上进展斐然
+>  
+> - 最新正式上线订阅制（$4.99-499/月），逐步关闭普通用户的免费通道，仅保留 NFT 用户的权限，因为有顶级好用的产品作保证，我对其营收前景很看好
+>  
+> - 事实也是如此，根据官方披露 MyShell 上线首周就取得了初步且持续增加的营收
+>  
+> - 总体来看，订阅价格、使用效果和产品定位，已经对标 OpenAI、Midjourney 这些头部 AI 厂商
+>  
+> 一句话总结， MyShell 是通过发币融资的顶级 AI Agent 平台，而并非常包装出货的壳项目，最新更新让我对其前景更加看好
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> @myshell_ai #AI $SHELL
+
+## 92. Sep 13, 2025 · 6:41 AM UTC · 1966754086629617951#m
+- 链接：https://twitter.com/0xBeyondLee/status/1966754086629617951#m
+- 作者：@0xBeyondLee
+
+> 我猜你这几天一定急坏了，推特上都在高喊山寨季，你一兜子山寨币还在套牢浮亏🤣
+>  
+> 事实上，这并非因为你操作太菜，而是整体行情就是如此
+>  
+> 我把自 Trump 1 月 20 日上任至今，市值前 100 的大部分公链代币表现进行了整理统计（如图）发现了几个令人不安的事实：
+>  
+> - 同期  $BTC  (+14%)  $ETH  (+47%) 这样的中规中矩的表现，其实已经胜过大多数公链币
+>  
+> - 整体来看越大市值的币走势越稳健，小币反而更难跑赢；新币普遍车较轻拉盘痛快，老币则多半走势颓靡
+>  
+> - 能跑赢 BTC 的山寨币，几乎都靠重大利好，以及高社区热度带来的强买盘
+>  
+> - 很多人把 Trump 就职当作最后一次上车机会，但事实上却是一次漫长洗盘的起点
+>  
+> 最后分享一些结论性的操作建议：
+>  
+> - 币圈只有两种币，比特币和山寨币
+>  
+> - 买大不买小，买新不买旧，买涨不买跌
+>  
+> - 真正的优质筹码永远出现在无人问津时，而不是那些看起来再不上就来不及的时刻
+>  
+> #AltcoinSeason
+
+## 93. Sep 12, 2025 · 2:41 PM UTC · 1966512382781628661#m
+- 链接：https://twitter.com/0xBeyondLee/status/1966512382781628661#m
+- 作者：@0xBeyondLee
+
+> Tabi 的 ICON 太出圈，带着愤怒图形💢 总给人种娇嗔的感觉，因此特别统计了一下中文区参与宣发的 KOL
+>  
+> 人数乍一看不算多，但绝对是中文区中部以上 KOL 参与最多的单一项目，看作社区力量雄厚也恰如其分
+>  
+> 虽然 Tabi 不算新项目，但最近在「地区推广」和「产品迭代」角度的更新强度绝对名列前茅
+>  
+> - 菲律宾：与 Frensh Delivery 合作，40 万+ 用户可用加密支付
+> - 越南：与 Viral Works、Yeah1 Network 搭建创作者打赏系统，头部博主直接收款
+> - 韩国：团队已到位，9 月将有本地活动
+>  
+> - Genesis Deposit：上线 1 小时内 TVL 达 4700 万美元
+> - 与 Binance 钱包打通，支持链内外资产流转
+> - 推出 TikTok 金融插件
+> - 尝试 KFC 链上点餐等生活化场景
+>  
+> 听说最近快 TGE 了，这么多人参与宣发肯定有所回报，机灵点跟着内圈 KOL 抄是最明智入局方法
+>  
+> @Tabichain @TabichainCN
+
+## 94. Sep 12, 2025 · 11:47 AM UTC · 1966468773843746858#m
+- 链接：https://twitter.com/0xBeyondLee/status/1966468773843746858#m
+- 作者：@0xBeyondLee
+
+> 恭喜以下十位中奖，多互动可以提高未来抽奖中奖率
+>  
+> 内幕（提醒我开奖）：@n_n_u_UU
+>  
+> 机器抽奖：
+> @JackChen8090 @Rexicorndawg @Alexjjang7 @bai_wo35124 @Able87666 @susukeju12 @tuituiWEB3 @imjaychou @Hazimi919
+>  
+> 开奖记录：
+> easy3.app/cn/picker2/CDA3FF
+
+## 95. Sep 12, 2025 · 10:11 AM UTC · 1966444607153357040#m
+- 链接：https://twitter.com/0xBeyondLee/status/1966444607153357040#m
+- 作者：@0xBeyondLee
+
+> 纵观人类历史，就是一部泡沫史，从郁金香泡沫到互联网泡沫，几乎每一次巨量财富转移都伴随着投机狂潮
+>  
+> 而作为一名合格的投机者，没有什么比找到时代的泡沫主线更重要
+>  
+> 在 2013 年买比特币，在 2022 年买英伟达，本周期币圈 RWA 无疑是最核心的叙事，因此值得打起十二分精神关注
+>  
+> ❚ 背景与市场定位
+>  
+> 过去大家谈 RWA，更多是国债、信贷这类传统金融资产，机构玩的嗨，但普通人参与度有限
+>  
+> 而 @LiveArtX 只切入艺术品、名表、豪车、佳酿这些「文化类 RWA」通过代币化，并结合 DeFi 和 AI，把原本超高净值人群才能触碰的 10 万亿美元市场，开放给所有投资者
+>  
+> 大哥喜欢戴劳，不仅因为很贵很装逼，更重要的是能当硬通货保值，有了 LiveArt 小散即使买不起整的，也能投资代币尝尝鲜
+>  
+> 在 LiveArt 的叙事逻辑里，一切资产都能流动，一切都能产生收益
+>  
+> ❚ 项目数据
+>  
+> 提出概念并非难事，市场数据才是更值得关注的信息，LiveArt 在以赛道头部的速度占据市场
+>  
+> - 资产管道：已录入超 2 亿美元蓝筹资产，未来 12 个月还将新增 6000 万美元
+>  
+> - 生态覆盖：部署在 17 条公链，合作伙伴超过 50 个
+>  
+> - 用户规模：社区体量庞大，X 粉丝 47.5 万、Discord 20 万、Telegram 10 万，累计活跃钱包超 1200 万
+>  
+> 跑通 RWA 到 DeFi 是所有类似项目的梦想，LiveArt 用数据证明了领先地位
+>  
+> ❚ 融资和项目代币
+>  
+> 在资本和代币层面，LiveArt 同样具备足够的支撑
+>  
+> 融资背景：完成 900 万美金种子轮融资，获得 Binance Labs（YZi Labs）、Animoca、HashKey、Samsung Ventures 等顶级机构背书支持
+> （RootData 部分信息更新不全）
+>  
+> 平台代币 $ART 已于 9 月 9 日 TGE，并同步上线 OKX Wallet（空投活动）、Bybit、Bitget、KuCoin 等交易所，流动性有一定保障
+>  
+> 从 TGE 结果来看是妥妥的低开，价格维持在 $0.022 左右，计算来看 FDV 仅 2200 万美金，市值大约只有 300 万美金，不到种子轮融资的 1/3 是典型的价值低洼标的
+>  
+> /
+>  
+> 一句话总结：LiveArt 从融资、数据等各数据讨论都是艺术品 RWA 的龙头项目，因此代币  $ART  对同类赛道有着价值锚定的重要作用
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> @LiveArtX @bpevzner
+
+## 96. Sep 10, 2025 · 11:14 AM UTC · 1965735532761342029#m
+- 链接：https://twitter.com/0xBeyondLee/status/1965735532761342029#m
+- 作者：@0xBeyondLee
+
+> CZ 出生于 1977，我出生于 2001，巧合的是我们的生日都在 9 月 10 日这一天
+>  
+> 如同冥冥中的指引，两个出生在教师节的人都热衷于教育事业，虽不及大表哥亿分之一，我也愿意贡献微薄之力
+>  
+> 谨以此文，致敬、回顾并展望 CZ 为加密行业所做的一切
+>  
+> ❚ 1977 - 2004｜早年与职业起步
+>  
+> - 1977-09-10：CZ 生于中国江苏连云港，少年时期移民加拿大温哥华
+> - 学业：就读于麦吉尔大学（McGill University）计算机系
+> - 兼职：高中或大学阶段曾在麦当劳、加油站打工
+> - 职场起点：在东京为东证相关承包商做撮合系统，随后加入 Bloomberg Tradebook，做期货交易系统开发约 4 年
+>  
+> ❚ 2005 - 2016｜金融科技与加密前夜
+>  
+> - 2005：回上海创立 Fusion Systems，为券商对冲基金提供高频交易系统
+> - 2013：加入 Blockchaininfo
+> - 2014：出任 OKCoin CTO，同年卖掉上海公寓 All-in BTC
+>  
+> ❚ 2017 - 2024｜Binance 的崛起、扩张与合规进程
+>  
+> - 2017-07：与何一共同创办 Binance 并发行 BNB
+> - 2018：收购 Trust Wallet
+> - 2019：上线 Binance Chain 与去中心化交易所（DEX）
+> - 2020：并购 CoinMarketCap
+> - 2020：Binance Smart Chain（BSC）主网发布
+> - 2022：BSC 整合更名为 BNB Chain
+> - 2022：FTX 风波
+> - 2023-11：与美国司法部达成和解；CZ 卸任 CEO，同日由 Richard Teng 接任
+> - 2024-04：美国联邦法院判处 4 个月监禁；2024-09 期满释放
+>  
+> ❚ 2024 - 至今｜公益与教育
+>  
+> - 2024-03-19：正式对外推出 Giggle Academy
+>  
+> - 目标：打造一个非营利、免费的线上教育平台，为全球儿童提供从小学到高中（1-12 年级）全覆盖的基础教育，同时融入财经、情商、法律、谈判、AI、区块链等现代前沿知识
+>  
+> - 平台采用游戏化、适应性学习的方式，利用徽章、积分、排名等激励机制使学习变得「上瘾而有趣」
+>  
+> 过去 15 年，大表哥 CZ 见证并深度参与了加密货币从萌芽到蓬勃发展的每个重要环节
+>  
+> 未来，他将致力于让全球儿童都能接受免费而优质的教育
+>  
+> CZ 诞生于 1977 年教师节，也许教育便是上帝赋予 CZ 最终极也最神圣的使命！
+>  
+> 生日快乐，亲爱的 CZ！
+>  
+> @cz_binance @heyibinance @binance @GiggleAcademy
+
+## 97. Sep 10, 2025 · 3:44 AM UTC · 1965622275912482874#m
+- 链接：https://twitter.com/0xBeyondLee/status/1965622275912482874#m
+- 作者：@0xBeyondLee
+
+> 坊间一直流传一句话「没有 HashKey，就没有以太坊」很多 Web3 新人没听过，今天就来借机聊聊
+>  
+> 2015 年，以太坊主网上线元年，在区块链研究者沈波的引荐下，Vitalik 在上海机场与肖风博士短暂会面，几分钟的交流，为区块链世界的走向埋下伏笔
+>  
+> 几个月后，以太坊资金几近枯竭，项目濒临停摆，肖风代表万向区块链实验室向以太坊团队提供了关键的 50 万美金投资，扶大厦之将倾
+>  
+> 不久之后，肖风与 Vitalik、沈波共同创立分布式资本，成为亚太最早专注区块链的投资机构之一，并持续推动 EVM 生态发展
+>  
+> 如果说 2015 年的那次投资，是肖风和以太坊之间的缘分起点；那 2018 年成立的 HashKey Group，便是这段故事的延续与升华
+>  
+> HashKey 是万向区块链的国际化延伸，定位为「合规的数字资产金融集团」
+>  
+> 它的业务覆盖：
+>  
+> - HashKey Capital：投资机构，早期布局 ETH、Polkadot、Cosmos 等
+> - HashKey Exchange：香港最大的持牌交易所
+> - HashKey OTC：合规出入金及交易执行服务
+> - HashKey Cloud & Chain：节点和基础设施
+>  
+> 截止 2025 年，HashKey 托管资产首次突破 200 亿美元大关，这意味着其已成长为亚洲最具影响力的 Web3 金融机构之一
+>  
+> 此外更值得一提的是，随着 DAT 叙事走强（Digital Asset Treasury，数字资产财库）HashKey 也官宣入局
+>  
+> 就在今日，HashKey 推出亚洲最大规模的多币种数字资产国库基金，目标规模超 5 亿美元，初期将重点布局 ETH、BTC 生态，并以制度化、合规化的方式，为行业建立长期资本池
+>  
+> 十年前的一次会面改变了以太坊，也改变了区块链的历史走向，现如今 HashKey 这一「合规交易所 + 资本 + 基础设施」三位一体的全栈集团再次出手，很大概率引领 DAT 的未来发展
+>  
+> #Ethereum @HashKeyGroup @VitalikButerin
+
+## 98. Sep 9, 2025 · 8:59 AM UTC · 1965339161063555150#m
+- 链接：https://twitter.com/0xBeyondLee/status/1965339161063555150#m
+- 作者：@0xBeyondLee
+
+> 时隔半年，一直非常看好的预言机 Switchboard 终于 TGE 了，虽然久了点，但结果很不错，上所阵容相当豪华
+>  
+> $SWTCH
+> - CEX: Binance alpha, Bitget, KuCoin, Gate, HTX
+> - DEX: Backpack, Raydium, Orca
+>  
+> 看好的原因非常简单 Switchboard 是完全断档领先的最快预言机
+>  
+> 具体而言 Surge 通过 TEE（可信执行环境） 实现毫秒级延迟，还支持每分钟 500+ 次更新，就是高性能 DeFi 的命脉
+>  
+> 更低滑点、更好成交价格、更精准清算，更低坏账风险、更高资本效率、更深流动性都靠高速更新来实现
+>  
+> 随着 Oracle AMM 模式快速崛起（已占 Solana 链上交易量 50%+，30 日交易额达 870 亿美金），Switchboard 已成为唯一能够满足其速度与规模需求的基础设施
+>  
+> 应用方面，为 Jito、Drift、Kamino、Marginfi 等 50+ 顶级应用提供数据支持，保障资产规模超过 50 亿美元
+>  
+> 融资方面，获得 Tribe Capital、RockawayX 等顶级 VC 投资 1100 万美金，以及 Solana、Aptos、Sui、Starkware 核心生态支持
+>  
+> 简单讲 $SWTCH 是必须关注且存在巨大套利潜力的标的
+>  
+> #Oracle @switchboardxyz
+
+## 99. Sep 8, 2025 · 3:52 PM UTC · 1965080724329128027#m
+- 链接：https://twitter.com/0xBeyondLee/status/1965080724329128027#m
+- 作者：@0xBeyondLee
+
+> 🥳我的 #TBW2025 圆满结束lo~台北还是把我养得太好了🥹
+>  
+> 非常感谢周周@chochou33 😚~忙前忙后处理流程、还带我们一起逛了101，组织过活动的才知道领人有多累，辛苦周周~！！！
+>  
+> 还有幽默的倪大@Phyrex_Ni ，整个人活脱脱一本行走的百科全书，知识覆盖面广又灵魂有趣🥺太全能...连挑盐酥鸡都这么全面！！
+>  
+> 还见到了米球宝@minimisue2022 和Burger哥@notburger_ (我磕)🤩第一眼见到他们穿着超有生机的橙色(是自己的品牌！🧡)而且看了他们正在做的线下社交dapp @WorldinShadow 🌏，从使用到后续计划推出的功能很闭环！期待住了！
+>  
+> 还有Beyond哥@0xBeyondLee 💚线下会面能感觉哥是非常细心细腻踏实的一个人！图文扎实这块还得多学习哥🫡
+>  
+> 非常爱我hedda宝宝@Rav_Hedda ，接我下飞机送我返程等等超照顾我们🥹一起拍视频很欢乐~大家多多关注我们0xmedia @0xmediaco ！
+>  
+> Yoaka宝宝@yoaka__ 好可爱~！像只超精致的小手办😆一起拍了好多照片🩵
+>  
+> 还有超nice的@KevinSusanto @Goldchau_eth ，还有在sk就认识的zeno @Live_2_Earn ~😆
+>  
+> 时间还是太短了🥺有很多来不及谈论更多或者拍合照的uu，期待我们的下次再见😚照片太多有漏请多多包涵！！
+>  
+> 感谢台北，和大家交流真的非常开心！！学到了特别特别多！！感恩！！
+
+## 100. Sep 8, 2025 · 10:16 AM UTC · 1964996288317100418#m
+- 链接：https://twitter.com/0xBeyondLee/status/1964996288317100418#m
+- 作者：@0xBeyondLee
+
+> 感谢 OKX 再次组局请客，让我有机会见到许多长期在线互动，但始终未曾线下谋面的朋友
+>  
+> 颜值与才华担当 Joey、既是学姐也是前辈的 OKX 吉吉、将品牌穿在身上的米球和 Burger，台湾交易大师 Stan 和高中就入圈的年轻弟弟
+>  
+> 最让我印象深刻的是终于见到了倪大，在圈子里，他是独一无二的存在，幽默风趣，笔耕不辍，又极具人格魅力
+>  
+> 币圈常见的，不是故作深沉，就是声嘶力竭地渲染自己什么都懂的人
+>  
+> 倪大却完全不同，不自视甚高，不矫揉造作，总能用对方听得懂的方式传递知识，所谓大音希声大象无形也许就是这个道理
+>  
+> 短短两个小时的交流，从 Web2 商战到异性交往潜规则，既听得痛快，也聊得尽兴，须在内心大喊一句
+>  
+> 「卧槽，真特么牛逼 😂 」
+>  
+> 当然也必须感谢 Mercy 和 Mia 邀请，希望可以在 KBW 或 Token2049 再见！
+>  
+> #TBW2025
+
+## 101. Sep 7, 2025 · 6:06 AM UTC · 1964570843864060111#m
+- 链接：https://twitter.com/0xBeyondLee/status/1964570843864060111#m
+- 作者：@0xBeyondLee
+
+> 很多人炒币只看前面，却不懂的看后面，殊不知看后面是为了更好的看前面，今天就从「高胜率喊单复盘」聊起
+>  
+> 换句话说，如果不懂币就要懂人，懂谁的 Call 胜率高涨幅大真的能跟，两个例子 @Ru7Longcrypto @xxk_hl
+>  
+> 他们分别在 8 月 26 日下午四点明牌喊单 @overtake_world  $Take 彼时价格只有 $0.06 左右
+>  
+> 后面的发展也印证了他们的判断：
+> - Binance 官宣上线永续合约
+> - 交易大赛开启，创造激励飞轮
+> - 币价一路上涨，最高触及 $0.22 从喊单算起 3 倍有余
+>  
+> 进一步剖析，对一个币种的看多应当来自对项目的深度调研，以及对代币经济系统的精准把握，继续以 $Take 为例
+>  
+> 首先项目本身的综合面信息是过硬的：
+>  
+> - OVERTAKE 是 Circle (USDC) 合作伙伴
+> - 正式市场在 9 月上线
+> - 游戏资产交易市场的宏观增长预期（118 亿美金规模）
+>  
+> 目前正在进行的「交易大赛」是本轮上涨的重要诱因：
+>  
+> - 通过质押 Take 并根据 Take 交易量激励创造真实的代币需求场景
+> staking.overtake.market
+> - 每周根据交易量给交易量前 100 百的地址空投代币，共同瓜分 100,000 枚 Take（约合 16,000 USDT）
+>  
+> 还是那句话，没有慧根就要会跟，跟单一定要找到那些经得起时间考验和币价检验的专业交易员，而不是用自己 3 年的积蓄验证垃圾 KOL 3  秒钟的得出判断
+>  
+> #SUI #BNBChain
+
+## 102. Sep 6, 2025 · 2:46 PM UTC · 1964339311450714247#m
+- 链接：https://twitter.com/0xBeyondLee/status/1964339311450714247#m
+- 作者：@0xBeyondLee
+
+> 做过 Marketing 才知道「花钱」其实很难，怎么花、花多少，才能让预算发挥最大价值
+>  
+> 好酒也怕巷子深，对一个优秀的 AI Agent 而言，找到能精准触达目标用户的「节点」至关重要
+>  
+> Minara 与 0xMedia 举办的 Side Event 是我在 TBW 期间见到最用心的，从定向邀请到卡牌设计，都能感受到团队真的「把工作当成事业」在做，产品也无疑值得信赖
+>  
+> 感谢  @Rav_Hedda @Alex_Cryp70  的邀请，通过晚宴很高兴见到了台湾顶级加密社群的朋友们，期待下次再会💚
+>  
+> #TBW2025
+
+## 103. Sep 5, 2025 · 10:45 AM UTC · 1963916342752616557#m
+- 链接：https://twitter.com/0xBeyondLee/status/1963916342752616557#m
+- 作者：@0xBeyondLee
+
+> 不是我生日，他瞎说的🤣忘改模版了
+
+## 104. Sep 5, 2025 · 9:55 AM UTC · 1963903738789421144#m
+- 链接：https://twitter.com/0xBeyondLee/status/1963903738789421144#m
+- 作者：@0xBeyondLee
+
+> 花两千块钱买这个
+>  
+> 我是不是傻逼？
+
+## 105. Sep 5, 2025 · 7:05 AM UTC · 1963860973791432924#m
+- 链接：https://twitter.com/0xBeyondLee/status/1963860973791432924#m
+- 作者：@0xBeyondLee
+
+> 免责声明：本文仅用于信息分享，不构成任何投资建议或资产推荐；请读者自行判断与决策，风险自担
+>  
+> 本推文由 @OndoFinance 赞助
+
+## 106. Sep 5, 2025 · 7:05 AM UTC · 1963860968913686592#m
+- 链接：https://twitter.com/0xBeyondLee/status/1963860968913686592#m
+- 作者：@0xBeyondLee
+
+> 这绝对是 RWA 赛道地震级别的新闻，甚至直接牵动着未来整个板块的走势
+>  
+> 就在前天 Ondo Finance 正式发布 Wall Street 2.0 中文直译即华尔街 2.0，不同于其他股票代币化平台，这是首个直接接入传统交易所流动性的产品
+>  
+> ❚ 为何偏偏是 Ondo
+>  
+> 回顾现阶段如火如荼的币股赛道，试问谁最有可能实现再创一个华尔街的伟大构想 Ondo Finance 无疑是最有潜力的竞争者，没有之一
+>  
+> 我将用数个数据来佐证这一观点：
+>  
+> - Ondo TVL 已突破 13 亿美元，在过去数年内一直位居同类 RWA 平台之首（近期被短暂超越），占据 RWA 美债领域约 24% 市场份额
+>  
+> - 年化费用（Fees）和营收（Revenue）都在 5,400 万美元左右，累计收入已超 1,080 万美元
+>  
+> - 在市场份额和 TVL 持有人数量上，Ondo 占据着绝对的主导地位，总持有人数占比超过 80%
+>  
+> 此外在政策与监管合作上，Ondo 与美国资本市场也贴合紧密：
+>  
+> - 今年 4 月，SEC 的加密任务小组曾与 Ondo 团队会面，讨论美股 token 化的注册合规与监管沙箱等话题；这显示监管层对 Ondo 的系统结构和合规探索给予高度关注
+>  
+> - 《白宫 2025 数字资产市场报告》也特别提到 Ondo Finance 是该领域的领先者，进一步确认其在美国政策讨论中的关键地位
+>  
+> 作为现实中可以左右世界资本市场格局的人，特朗普的一言一行在 RWA 赛道同样举足轻重，而 Ondo 与 Trump 同样颇有渊源：
+>  
+> - Ondo 与由特朗普家族支持的 World Liberty Financial Inc.（也就是大家熟知的 WLFI）达成了战略合作，推动 USDY 和 OUSG 等 token 化资产在 WLFI 网络中作为储备资产使用
+>  
+> 简言之「Ondo 在 RWA token 化领域的 TVL、合规能力、政策认可度与机构合作上都处于不可置疑的领先地位」
+>  
+> ❚ Wall Street 2.0 又会给市场带来什么变化
+>  
+> 首先，其或将解决币股赛道的核心问题，即流动性问题，这也是我认为 Ondo Wall Street 2.0 和别的币股平台最大的不同
+>  
+> - 过去的股票代币化产品，流动性往往依赖小规模、分散的二级市场撮合，因此很容易深度不足、交易滑点大、无法承接大额资金，因此总被诟病是币圈人自娱自乐的东西
+>  
+> - Wall Street 2.0 直接接入传统交易所的真实流动性，让链上交易的深度与速度接近华尔街本体，不知道是如何实现的，但这点真的是核武器级别的优势
+>  
+> 其次，它让全球投资者获得了全天候的跨市场套利与配置能力
+>  
+> - 例如美股闭市的时候，亚洲盘、欧洲盘、链上盘依然照常运作，投资者可以在 24*7*365 的时间轴上随时切换头寸，甚至实现链上资产与现实证券的无缝对冲
+>  
+> 第三，它可能成为 RWA 市场定价的新锚
+>  
+> - 通过将链上价格与传统交易所的流动性直接绑定，减少链上价差现象
+>  
+> 最后也是最直接的，它会加速传统资金入场
+>  
+> - 机构投资者只关心三件事：合规性，流动性和机构可信度
+>  
+> - Wall Street 2.0 同时满足三者，这意味着它可能是 RWA 领域首批真正意义上的「机构级入口」
+>  
+> 总结来看，本次 Wall Street 2.0 发布绝对是可以长远改变整条赛道的里程碑事件，因此相关投资者必将给予其足够的关注度，这点也将在市场异动中展现
+>  
+> 通过此文希望可以向你传达：
+>  
+> ▰ Ondo 在 RWA 领域实力领先，合规与机构关系稳固
+> ▰ Wall Street 2.0 直连传统交易所，将解决币股流动性问题
+> ▰ Wall Street 2.0 将进一步吸引机构资金入场
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> #RWA @OndoFinance
+
+## 107. Sep 5, 2025 · 4:37 AM UTC · 1963823683988074641#m
+- 链接：https://twitter.com/0xBeyondLee/status/1963823683988074641#m
+- 作者：@0xBeyondLee
+
+> 观察到一个现象，台湾同胞大多都有着虔诚的信仰
+>  
+> 有好几位朋友都立誓「不吃牛肉」并且现身说法聊到一些奇幻色彩的个人经历
+>  
+> 以及早有耳闻的「乖乖文化」也是第一次目睹，小到街边门店，大到连锁超商，都会在重要节日，把写有超级平安字样的零食乖乖摆放供奉
+>  
+> 最后感谢 Mara 招待，从 Kaito 得到的直接空投不算多，但周边福利真不少，这不又吃上好的了haha
+>  
+> #TBW2025
+
+## 108. Sep 4, 2025 · 3:49 PM UTC · 1963630471683703211#m
+- 链接：https://twitter.com/0xBeyondLee/status/1963630471683703211#m
+- 作者：@0xBeyondLee
+
+> 恭喜这个 B
+>  
+> 终于进入华语 Top100 了！
+
+## 109. Sep 4, 2025 · 5:01 AM UTC · 1963467554531446987#m
+- 链接：https://twitter.com/0xBeyondLee/status/1963467554531446987#m
+- 作者：@0xBeyondLee
+
+> 落地台北第一天，简单聊聊感受
+>  
+> 台湾的城建风格介于大陆和日本之间，汽车左舵行驶，相较于香港和日本，我个人更能「适应」一些
+>  
+> 打车遇到一位祖籍是湖南的第三代，和我也能算是半个老乡，他说今年有空一定要回大陆去「寻根」
+>  
+> 路边一家铁板烧吃饭，口音暴露了大陆游客的身份，突然间所有人都「盯着我看」有些不适应
+>  
+> 语言方面，相较于香港不会粤语就优先说英语，台湾讲汉语可以「无缝交流」只是少数词汇有区别，比如：
+> - 捷運 = 地铁，上海机场似乎是唯一在大陆标识捷运的地方
+> - 軟體 = 软件
+> - 飯店 = 酒店，酒店 = 商K，下意识说住在酒店大家会很诧异
+> - 不會 = 不客气，第一次听有些懵逼
+>  
+> 服务业态度非常好，大多数人「友好且健谈」每句话以谢谢结尾，但又不像日本那么拘束
+>  
+> 交通很便利，uber 打车、悠游卡搭乘捷运换乘高铁，可以去到岛内任何地方，摩托车很多但是非常「有序」
+>  
+> 支付渠道很「方便」银联或者 Visa 都通用，和日本一样便利店里可以直接取现金
+>  
+> 最后感谢 Alvin 哥邀请，感谢 Grenade 和 Crypto Wesearch 晚宴，台北的米其林三星很好吃，结识很多高能量的从业者，感恩 🙏
+>  
+> #TBW2025
+
+## 110. Sep 3, 2025 · 2:42 PM UTC · 1963251270808121363#m
+- 链接：https://twitter.com/0xBeyondLee/status/1963251270808121363#m
+- 作者：@0xBeyondLee
+
+> 脑机台子完全沦为我的提款机了，没有系统性的统计过，但保守估计至少掏出来 10000u 不止
+>  
+> 好台子永远就这么一条标准，猛拉盘能赚钱，脑机台子 @neirylab  完全符合，前三个项目一顶一的提款机：
+>  
+> - 龙一 脑机老鼠 $PYTHIA 5m 拉到 120m 超级大卡车
+>  
+> - 龙二 脑机猩猩 $ELVIS 开盘大约 5x 回报
+>  
+> - 龙三 脑机鸽子 $PJN 掏出来 4000 多 u（引用推文）
+>  
+> 现在第四个子项目脑机灵芝 @sporez 射了 $SPRZ 按照惯例财富效应不会太差，我塞了一点
+>  
+> 再多说一点，这个台子的 Alpha 每次我第一时间发推，历史胜率 100%，但没人能保证自己次次都赚，所以 DYOR
+>  
+> #Biotech #Launchpad
+
+## 111. Sep 3, 2025 · 8:26 AM UTC · 1963156538291523782#m
+- 链接：https://twitter.com/0xBeyondLee/status/1963156538291523782#m
+- 作者：@0xBeyondLee
+
+> BitcoinAsia 香港大会，氛围正在悄然转变
+>  
+> 老派的币圈 OG 越来越少，取而代之的是西装革履、满嘴 RWA 与 DAT 的 Web2 移民
+>  
+> 这些新来者有一个共同点，他们对「合规」的敏感度，远远高于对「Web3 Native」的理解
+>  
+> 和他们聊 Pumpfun、Bonk 可能一头雾水，但提起 HashKey、稳定币，却往往滔滔不绝
+>  
+> 这恰恰映射了本周期的一个缩影：合规叙事正逐渐成为香港 Web3 的舞台中心
+>  
+> 正巧近期香港最大的持牌虚拟资产交易所  @HashKeyExchange 披露了一系列最新年度数据，我来解构一下其中的关键信息
+>  
+> ❚ HashKey 年度增长情况
+>  
+> 过去一年，HashKey 在「合规」叙事的舞台上交出了一份亮眼答卷
+>  
+> 首先是体量上的跃升：
+>  
+> - 客户托管资产突破 190 亿港元，同比增长超过 500%
+>  
+> - 累计交易量超过 1.2 万亿港元，进一步确立了香港最大持牌交易所的地位
+>  
+> - Omnibus 经纪业务被本地 90% 的持牌券商采用，累计交易额达到 600 亿港元，同比增长近 70 倍
+>  
+> - OTC 大宗交易额日均稳定在 1 亿美元以上，并在 Q1、Q2 连续实现数百至千分之级的增长
+>  
+> 其次是产品和服务的拓展：
+>  
+> - HashKey Pro 与 ZA Bank、Phillip Securities 等机构合作，累计交易量接近 1,000 亿港元
+>  
+> - 财富管理平台的认购规模接近 5 亿港元，显示出合规财富管理需求的快速释放
+>  
+> - 同时上线 Instant Swap、FX 转换、以太坊质押、跨境法币通道等功能，覆盖 32 个国家/地区，并在西九龙开设了唯一的持牌零售门店
+>  
+> - 在交易品类上，也率先为散户开放 SOL 零售订单簿交易，累计提供 29 个交易对，位列香港持牌平台之最
+>  
+> 最后是行业背书：
+>  
+> - HashKey 与德意志银行、B2C2、IoTeX、香港科技大学等机构建立合作关系，并在 Bloomberg、Forbes、PANews、Asian Private Banker 等多个奖项评选中获评「最佳交易所」「最值得信赖平台」等头衔
+>  
+> 整体来看，HashKey 已经在资产规模、交易量、机构合作、合规扩张等维度全面领先，逐步成为香港乃至亚洲合规虚拟资产市场的核心枢纽
+>  
+> ❚ 竞品企业核心指标对比
+>  
+> 在香港合规赛道上，OSL 是 HashKey 最直接的竞争对手
+>  
+> 作为较早拿到牌照的老牌平台，OSL 在收入和新业务扩展上有一定特点，但从体量来看与 HashKey 仍存在明显差距
+>  
+> - 交易量：HashKey 累计交易额已超过 1.2 万亿港元，而 OSL 为 682 亿港元
+>  
+> - 托管资产：HashKey 托管客户资产超过 190 亿港元，OSL 为 56.94 亿港元
+>  
+> - 收入披露：HashKey 未公布具体营收，OSL 在 2025 年上半年收入 1.95 亿港元，其中新业务 OSL Pay 占近三成
+>  
+> - 特色业务：HashKey 依靠 OTC 日均超 1 亿美元、90% 券商采用的 Omnibus 经纪业务扩张，而 OSL 更强调收入结构透明与支付业务
+>  
+> 整体来看，HashKey 在交易量与资产规模上显著领先，稳坐香港合规交易所头把交椅
+>  
+> /
+>  
+> 整体而言，HashKey 已经凭借交易量、托管资产、机构合作与合规扩张，牢牢确立了香港合规交易所的龙头地位
+>  
+> 正因如此，读懂 HashKey，不只是看一家交易所的成长，更是看懂香港合规 Web3 的当下与未来
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> @HashKeyGroup @HashKeyExchange
+
+## 112. Sep 2, 2025 · 4:00 PM UTC · 1962908436615803205#m
+- 链接：https://twitter.com/0xBeyondLee/status/1962908436615803205#m
+- 作者：@0xBeyondLee
+
+> 降息就一定等于立刻大放水大暴涨吗？
+>  
+> 历史已经给出过答案：未必
+>  
+> 现在的时间点，其实和 2019 年非常相似，当时市场同样提前消化了预期内的降息
+>  
+> 2019 年，美联储共降息三次：
+>  
+> - 7 月 31 日：降息 25 个基点，这是 2008 年危机后首次降息
+> - 9 月 18 日：再降息 25 个基点
+> - 10 月 30 日：第三次降息 25 个基点
+>  
+> 如同老话，利好出尽是利空，三次降息后，两次 BTC 都是短期下跌
+>  
+> 现在又到了类似的时间点，随着 BTC 苟在了牛熊分界的日线 MA120 上，此刻更应提高警惕，降低风险敞口，而不是一味盲目乐观
+
+## 113. Sep 1, 2025 · 2:19 PM UTC · 1962520795282092384#m
+- 链接：https://twitter.com/0xBeyondLee/status/1962520795282092384#m
+- 作者：@0xBeyondLee
+
+> 你的事业蒸蒸日上，小有成就，常年奔命使你积劳成疾，不得以要找一个能干的秘书来减轻负担
+>  
+> 秘书专业细致，行程规划、沟通代理都做的井井有条，可有一点让你很头疼，只要涉及「钱」的问题，她都需要你的首肯
+>  
+> 这也不怪人家，你一路拼杀至此，被刺与出卖让你养成了谨慎的肌肉记忆，始终找不到足够信任的人托管资金
+>  
+> 小到日常交通，大到订单批复，都要她转述给你，你批复后才得以进行，日子久了，一来二去，不仅没剩下精力反而更累人了
+>  
+> /
+>  
+> 这就是当前 AI Agent 最大困扰，查资料写文章牛逼好用，但涉及交易、支付或协调就歇菜了，人类不信任也不允许 AI 托管资金，原因是缺乏可信可用的基础设施
+>  
+> 痛点切实存在，谁能解决，谁就是下一个现象级应用，谁的币就能涨到天上，就这么简单
+>  
+> 为此我看了很多研报或者文章，今天来解构下著名研究员 Teng Yan @0xPrismatic 和 Ace @0xHiken 的相关研报
+>  
+> 「Kite AI：让代理从能问走向能为」
+> chainofthought.xyz/p/kite-ai…
+>  
+> 文章着眼于 AI Agent 大多数仍处于 sandbox 模式的现状，专业且全面，深度解析了 @GoKiteAI 所提出的解法，建议从业者或感兴趣者直接阅读原文
+>  
+> ❚ Agent Passport，给 AI 发护照
+>  
+> 用最直白的话说，Kite 的解法是先给 AI 一张「护照」
+>  
+> 这张护照里写清楚三件事，它是谁、能做什么、最多能花多少，并且可验证、可撤回、可限额
+>  
+> - 它是谁：由谁创建、归谁管，出现问题能追责
+> - 能做什么：只允许访问白名单服务，如订票/报销/下单，越权自动拦截
+> - 能花多少：设置日/周/月预算、单笔上限、币种与支付渠道，超限即冻结并通知
+>  
+> 把 AI 关到笼子里，对其有节制授限，避免出现 AI 出 bug 或者被攻击导致资金大规模受损的情况，也能提高效率
+>  
+> 需要补充的是 Kite 作为一条 AI Infra 公链，所做的一切相当于给其他 AI 提供了一个平台，而不是着眼于某个 AI 或者某项任务，因此想象空间非常广阔
+>  
+> ❚ 托管与仲裁，给 AI 设置担保交易
+>  
+> 为什么马云牛逼，我想是因为马云的支付宝和阿里巴巴网购体系从系统层面消解了中国互联网的「支付不信任」
+>  
+> 复盘回看，马云具体是怎么做的呢
+>  
+> - 你先把钱付到支付宝
+> - 卖家发货 → 你确认收货后 → 钱才打给卖家
+> - 如果中途出问题，淘宝仲裁，钱要么退给买家，要么补偿卖家
+>  
+> 在我还小的时候，以淘宝为代表的网购平台第一次开始普及，记得很清楚，当时绝大多数实体产业者都嗤之以鼻
+>  
+> 想来也合理，在那个互联网都没完全普及的时代，没人相信把钱打给陌生人就能拿到商品，更不可能想到这个东西未来会革掉大多数实体商店的命
+>  
+> 现如今 AI 也走到了这样的奇点， Kite 的解法就是把支付宝式的担保交易搬进 AI 世界，通过设置「托管账户」来确保每笔交易与消费不会经受 rug 或 scam
+>  
+> 这背后的意义和当年的支付宝一模一样：
+>  
+> 不是让你更相信某个卖家，而是让你相信整个系统
+>  
+> /
+>  
+> 我的解读只是原文的冰山一角，更是 KiteAI 所擘划的链上可信 AI 世界的冰山一角
+>  
+> 非常建议阅读原文，来深度了解一个发展最前沿的 AI Infra 是做什么怎么做的，以便对时代和市场发展有清晰的把控
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> @GoKiteAI @KiteAIChinese
+
+## 114. Sep 1, 2025 · 12:30 PM UTC · 1962493197768352220#m
+- 链接：https://twitter.com/0xBeyondLee/status/1962493197768352220#m
+- 作者：@0xBeyondLee
+
+> 不是总有人问 KOL 能赚多少吗 @zachxbt 的这份报告，详细披露了一部分国外 KOL 的推广报价
+>  
+> 和我想象中差不多还算合理，刷粉造假同样严重，但整体的吸金能力比中文 KOL 还是要高出不少的，头部尤甚
+>  
+> 不同等级都随机列出一些，方便自行对照：
+> - @Atitty_ 60000u/条
+> - @sibeleth 10000u/条
+> - @bryanrosswins 1800u/条
+> - @cryptobullying 1500u/条
+> - @OdiCrypt 750u/条
+> - @spond 250u/条
+>  
+> 据我所知，中文 CT KOL 年广告收入过百万并不罕见，但单条能高于 1 万美金且长期采用的基本没有
+>  
+> 所以说还是要学好英文，才能拥抱更大的市场...
+
+## 115. Sep 1, 2025 · 10:08 AM UTC · 1962457481248153996#m
+- 链接：https://twitter.com/0xBeyondLee/status/1962457481248153996#m
+- 作者：@0xBeyondLee
+
+> 中文CT三万粉以下，这项指标没人比我高
+>  
+> 求打脸🕶️
+
+## 116. Sep 1, 2025 · 6:32 AM UTC · 1962403177820832163#m
+- 链接：https://twitter.com/0xBeyondLee/status/1962403177820832163#m
+- 作者：@0xBeyondLee
+
+> 💥 币安钱包返佣计划也来了！
+>  
+> 1/ 网页端绑定
+> - 输入邀请码 M1OZ62RA
+> - 或直接进入网页 web3.binance.com/referral?re…
+>  
+> 2/ tg 联系
+> - 联系我的 tg: beyondlee16
+> - 立享首月七折手续费优惠，次月起永久九折手续费优惠
+>  
+> 手续费看了一下很低，但是能省则省
+>  
+> - 主流币：0
+> - 币安 Alpha 代币： 0.01%
+> - 其他代币：0.5%
+>  
+> 有问题随时交流💚
+
+## 117. Aug 30, 2025 · 2:44 PM UTC · 1961802177674121520#m
+- 链接：https://twitter.com/0xBeyondLee/status/1961802177674121520#m
+- 作者：@0xBeyondLee
+
+> 正如之前所说的，同样是 Pre-IPO，投资传统投资要等 IPO 才能退出，Jarsy 可用 NYOP 挂单提前变现
+
+## 118. Aug 30, 2025 · 1:21 PM UTC · 1961781244133548117#m
+- 链接：https://twitter.com/0xBeyondLee/status/1961781244133548117#m
+- 作者：@0xBeyondLee
+
+> 1/
+> 这次跑会采访对我来说，不只是听路演，更像是在一条时代走廊里抓住几张面孔，不同的国籍、岁数、职业，像一串时间戳，提醒我：对于加密而言现在是一个怎样的时代
+>  
+> 2/
+> 先遇到一个睫毛长长的法国小哥，19 岁，memecoin dev，一个人背着双肩包来参会，他说，meme赚的钱全部会换成 BTC；
+>  
+> 3/
+> 半小时后，小哥兴奋地拉我去见他的 mentor。结果一聊，是个“全家出动”的法国家庭：爸爸用 OKX 钱包冲狗，10 岁的女儿已经会自己“上车”😂
+>  
+> 我一边感叹好的工具的确能带来mass adoption，一边也在想边界：当加密从“专业游戏”变成“家庭活动”，教育与监管的缺口怎么补？或许更需要做好关于风险与安全的保障。
+>  
+> 4/
+> 人声鼎沸的演讲前，遇到在剑桥读书的Beyond弟弟，他已经成立了区块链协会，想把他做成全英最大的Crypto社群；
+>  
+> 5/
+> 这届参会的“传统金融”面孔多了。一位外企私行的客户经理说，来跑会是因为越来越多客户开始问：有没有加密资产的配置方案？
+>  
+> 最后，遇到了一群通透又可爱的女孩子们，问到为什么不过七夕？答案通通是“七夕哪有「搞钱」重要！”🤣
+>  
+> 世界啊真的很丰富，当下的确就是最好的时代，也是最好的我们。
+
+## 119. Aug 30, 2025 · 10:23 AM UTC · 1961736456474632367#m
+- 链接：https://twitter.com/0xBeyondLee/status/1961736456474632367#m
+- 作者：@0xBeyondLee
+
+> 非常认同魏神的评价，借此机会也聊一下 Surf
+>  
+> Surf 是我第一个充值年费会员的 Crypto AI Agent ，在信息整合领域简直无敌，超过 GPT5/SuperGrok 非常多
+>  
+> 在信息完整度和幻觉消除方面基本做到了顶级，总之给我的感受就是可靠，没必要再花费心思去核验准确度
+>  
+> 搭配常规 LLM Agent 使用，搜索、研究效率事半功倍，显然有成为投研 KOL 必备 Agent 的趋势
+>  
+> 目前 @Surf_Copilot 的邀请码还是比较难获得的，非常建议找周围朋友要一个体验下
+
+## 120. Aug 30, 2025 · 2:58 AM UTC · 1961624574736699418#m
+- 链接：https://twitter.com/0xBeyondLee/status/1961624574736699418#m
+- 作者：@0xBeyondLee
+
+> 我是真他妈难受，又被上了一课
+>  
+> 这圈子烂透了，为了钱这帮人能撕毁任何承诺，完全没有半点道德困扰，随时背刺
+>  
+> 给每一个新人的忠告，时刻对任何人保持警惕，在钱面前不是所有人都能压制动物性的
+
+## 121. Aug 29, 2025 · 8:25 AM UTC · 1961344494214987811#m
+- 链接：https://twitter.com/0xBeyondLee/status/1961344494214987811#m
+- 作者：@0xBeyondLee
+
+> 见过@EricTrump 版的Beyond将再次加强
+
+## 122. Aug 28, 2025 · 2:10 PM UTC · 1961068842924523699#m
+- 链接：https://twitter.com/0xBeyondLee/status/1961068842924523699#m
+- 作者：@0xBeyondLee
+
+> 这可能是中文区关于 Lombard 最全的一篇信息解构，专为参与了公募和想要进行二级交易的朋友准备
+>  
+> 包含了从融资信息、团队背景到项目技术梳理，以及最重要的 BuidlPad 打新攻略等关于 Lombard 的一切信息
+>  
+> ❚ 项目背景梳理
+>  
+> @Lombard_Finance  简单讲就是通过 LBTC + Vault 把巨鲸闲置的比特币资本引入链上生息的全栈基础设施平台
+>  
+> 上线 90 天突破 10 亿美元 TVL，占据 57% 市场份额，覆盖 12 条链，26 万地址，是唯一被 AAVE 接纳的 BTC 协议
+>  
+> 可以说 Lombard 就是 BTCFi 赛道的老大哥，也因此可以成为第三个登上 BuidlPad 的天王项目
+>  
+> 融资阵容十分豪华 Polychain 领投 1600 万美元种子轮，还包括：
+>  
+> - 交易所：币安、OKX、Bybit、Bitget
+> - 做市商：Galaxy、DCG、Wintermute
+> - 矿池：Antpool、F2pool
+> - 传统金融 Franklin Templeton
+>  
+> 团队同样顶配，创始人出自 Polychain，顾问是 WLFI 的 Luke Pearson，工程总监来自 Coinbase，COO 曾任 Scroll COO 和 OKX 副法务总监，BD/市场背景涵盖 Ripple、Maple、Meta、TikTok 等
+>  
+> 可以说 Lombard 具有来自传统金融、加密的三重基因
+>  
+> ❚ 项目原理解构
+>  
+> 在基础设施层面，Lombard 搭建了一个名为 Lombard Ledger 的联盟链，相当于比特币的 L2
+>  
+> 由 OKX、Galaxy、DCG、Wintermute、Antpool、F2pool 等头部机构共同运行，负责 LBTC 的铸造、赎回和治理，多签保障安全与透明
+>  
+> 在流动性层面，Lombard 把比特币资本推向最有效率的场景：
+>  
+> - DeFi 端：Vaults 集成 Aave、EtherFi、Maple、Maker 等头部协议，已完成超 20 亿美元比特币的链上引入，并转化为可使用的 LBTC
+>  
+> - CEX 端：Bybit Earn、OKX App 已经集成，BTC 可以在 CeFi 与 DeFi 之间无缝流转
+>  
+> ❚ BuidlPad 打新最全攻略（重要）
+>  
+> 1/ 代币销售基本信息
+>  
+> - 项目估值：4.5 亿美元 FDV lombard
+> - 募资规模：675 万美元，占总供应量 1.5%
+> - 代币解锁：TGE 当天 100% 解锁，无锁定期
+>  
+> 2/ 详细时间轴（北京时间）
+>  
+> - KYC 注册和订阅 8/26 20:00 - 8/29 19:59
+> - 指定转账 9/1 8:00 - 9/2 19:59
+> - 结算和超额部分退款截止 9/4 22:00
+>  
+> 3/ 支持资产与额度
+>  
+> - 基础用户：投资额度 $50–$5,000
+> - LBTC 持有人：投资额度 >$5,000，享优先分配
+> - Lombard Lux 持有人：投资额度 >$5,000，享优先分配
+> - Emerald Card 持卡人：按标准额度，自动进入白名单
+>  
+> 4/ 订阅流程（两阶段）
+>  
+> - 第一阶段：KYC 通过后，在面板勾选 Subscribe 表示参与意向，此阶段不锁定资金
+> - 第二阶段：在 9 月 1-2 日向指定筹资地址提交资金，采用按比例分配机制
+>  
+> 5/ BuidlPad 往期项目信息
+>  
+> - 首个项目 Solayer 最高回报 9.77x
+> - 第二个项目 Sahara AI 最高回报 2.68x
+>  
+> /
+>  
+> 额外提醒一句，KYC 将在 29 日晚截止，有资格的一定别忘了
+>  
+> 还是那句话，可以不玩，可以不打，但不能不懂不关注，很多大机会都是在众人眼皮下溜走的
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> #BTC #Infra
+
+## 123. Aug 28, 2025 · 11:10 AM UTC · 1961023693184004505#m
+- 链接：https://twitter.com/0xBeyondLee/status/1961023693184004505#m
+- 作者：@0xBeyondLee
+
+> 和 Mia 的感受一样，今年 BitcoinAsia 最大的收获之一，就是认识并结交了一批超高学历的 05 后
+>  
+> 随着时代发展，币圈正逐渐成为越来越多年轻的超级大脑就业与创业的首选，而不再是过去需要巨大勇气才能开垦的荒原
+>  
+> 图中几位 05 后名校新星，从左到右依次是：
+>  
+> - Henry｜剑桥大学 Mathematics
+> - James｜剑桥大学 Mathematics  @JamesZhu20167
+> - Chen｜LSE Math & Data Science  @Cryptocald
+> - Zian｜LSE Economics  @Moya_2025
+> - 社区帐号  @LSESUBlockchain
+>  
+> 期待这一代新人陆续接棒，推动行业走向更加规范与长远的发展
+>  
+> @BitcoinConfAsia
+
+## 124. Aug 27, 2025 · 3:30 PM UTC · 1960726654160134537#m
+- 链接：https://twitter.com/0xBeyondLee/status/1960726654160134537#m
+- 作者：@0xBeyondLee
+
+> 上次 Cooking City BDC 90 分钟爆拉 2200 倍，群友提 YU7 前也是类似的征兆，熟悉的感觉又回来了
+>  
+> SugarMoney 大概率在近期会出现一个超高倍数 Cabal CA 理由有三：
+>  
+> - 极利于 Dev 的规则，pSOL 和 SOL 1:1 兑换机制，往大了讲就是每年五亿美金的市场，叙事炒作空间足够
+>  
+> - 无龙头代币情况下，7D 推特热度一路上涨，超越一众老台子，非常明显是给高倍 CA 出圈后推特搜索做铺垫
+>  
+> - SOL 台子市占率暗涨，没有出圈 Meme 但每天毕业代币数量显著增加，非常类似 Bonk 拉升前的感觉
+>  
+> 具体原理可以自己看白皮书，不值得在这里展开，本推只聊结论性的东西
+>  
+> 无疑现在 SugarMoney 通过低调布局猛砸钱已布局好了市场，只需要一个超高倍 Cabal CA 来引爆，因此接下来几天内  @sugardotmoney  要高度关注，此推为证
+
+## 125. Aug 27, 2025 · 6:10 AM UTC · 1960585576866046152#m
+- 链接：https://twitter.com/0xBeyondLee/status/1960585576866046152#m
+- 作者：@0xBeyondLee
+
+> 看懂这四张图
+>  
+> 才算真正融入香港Web3🤣
+
+## 126. Aug 26, 2025 · 11:19 AM UTC · 1960301186428592586#m
+- 链接：https://twitter.com/0xBeyondLee/status/1960301186428592586#m
+- 作者：@0xBeyondLee
+
+> 入圈时我就认为：CEX 的终极形态一定是一切标准化资产的流动性枢纽，不仅局限于 Crypto，还包括股票、期货等
+>  
+> 现在这一判断正在被不断验证，越来越多的交易所出现各类代币化证券交易对
+>  
+> 但真正的突破，不只是「渠道扩展」，更在于「衍生品工具的丰富」
+>  
+> Bitget RWA 指数永续期货，就是这条路上的关键第一步，首期 TSLA/NVDA/CRCL 交易对上线一周，我深度测试后的观察如下：
+>  
+> - 5×24 小时交易，不受美股开闭市限制
+> - 最高 10 倍杠杆，是其他工具所不能比拟的
+> - 但交易量和深度偏低，流动性发展仍需时间
+>  
+> 总体来看，虽然是一小步，却意义重大，标志着「币圈开始主动攫取美股流动性，而非只是依附于传统市场」
+>  
+> 假如若干年后，CEX 代币化证券及其衍生品交易量 flip 传统交易所交易量，这一步将会显得更具有里程碑式的意义
+
+## 127. Aug 26, 2025 · 7:20 AM UTC · 1960240959595422152#m
+- 链接：https://twitter.com/0xBeyondLee/status/1960240959595422152#m
+- 作者：@0xBeyondLee
+
+> 看到一则新闻，四川长宁县一对夫妻去领自己 29 年前结婚时交纳的养老保险，被告知只能退回本金 200 元
+>  
+> 不禁联想到作为一个合格的币圈人，一定要定期囤点比特币作为自己的养老金，不放交易所不质押不理财，只放冷钱包私钥自己掌握
+>  
+> 李笑来说，比特币是人类历史上第一次，用技术手段实现了私有财产神圣不可侵犯
+>  
+> 确实如此，只要私钥不丢，就是坚船利炮来了都不能拿走分毫，这也是我们为什么要信仰 $BTC 的原因
+
+## 128. Aug 25, 2025 · 2:38 PM UTC · 1959988661325594778#m
+- 链接：https://twitter.com/0xBeyondLee/status/1959988661325594778#m
+- 作者：@0xBeyondLee
+
+> 华语先锋，GOAT启航： GOAT Vanguard 大使首次AMA 共筑BTCFi最强音！2025年8月25日周一 晚上10点30（GMT+8） @GOATRollup @wanghebbf @0xBeyondLee @anymose96 @Lexieweb3 localhost:8080/i/broadcasts/1djxXWBZO…
+
+## 129. Aug 25, 2025 · 12:11 PM UTC · 1959951652473176462#m
+- 链接：https://twitter.com/0xBeyondLee/status/1959951652473176462#m
+- 作者：@0xBeyondLee
+
+> 有些大使可以名利双收
+>  
+> 有些则纯粹是黑奴
+>  
+> 今晚十点半，我们三个先来聊聊
+>  
+> @GOATRollup
+
+## 130. Aug 25, 2025 · 5:41 AM UTC · 1959853729815126516#m
+- 链接：https://twitter.com/0xBeyondLee/status/1959853729815126516#m
+- 作者：@0xBeyondLee
+
+> 绝对是改变链上格局的一次重要商业行为！
+>  
+> 🎁 评论 OKX UID 一键三连此贴，随机抽 10 人瓜分 200U！
+>  
+> 作为全宇宙最好用的 OKX DEX 正式收取手续费：
+> - 主流币 0.25%，MEME币 0.85%
+> - 相较于 GMGN 等 DEX 通用的 1% 属实不高
+>  
+> 很荣幸我获得了公测邀请的资格，按照教程即可获得「永久 20% 自动返佣金」
+>  
+> 1/ 更新到新版 OKX 点击左上角设置
+> 2/ 点击邀请计划
+> 3/ 输入代码「BEYOND」即可完成
+> 4/ 或进入网页版，按照指引完成返佣绑定
+> web3.okx.com/ul/joindex?ref=…
+>  
+> 目前只有少数玩家可以获得邀请返佣资格，早绑早省钱！
+>  
+> @star_okx @Mercy_okx @mia_okx @wallet
+
+## 131. Aug 25, 2025 · 12:15 AM UTC · 1959771455471911395#m
+- 链接：https://twitter.com/0xBeyondLee/status/1959771455471911395#m
+- 作者：@0xBeyondLee
+
+> 现在还看基本面的，都图样图森破
+>  
+> 国产芯片股「寒武纪」上周爆拉封板，市值突破 5200 亿人民币，一季度营收仅 11 亿
+>  
+> 对比美股「英特尔」市值 1085 亿美元，二季度营收 128 亿
+>  
+> 换句话说，寒武纪不到英特尔千分之一的营收，却换来 70% 的市值，再拉俩涨停就能反超
+>  
+> 超 4100 倍的市盈率，等于 4000 年利润才能值回股价，这已经远不是价值投资所能解释的了
+>  
+> 回到币圈也一样，天天有人从基本面看空 Meme 看空山寨，我都不知道是在干啥，行为艺术吗？
+
+## 132. Aug 24, 2025 · 7:45 AM UTC · 1959522336778211702#m
+- 链接：https://twitter.com/0xBeyondLee/status/1959522336778211702#m
+- 作者：@0xBeyondLee
+
+> 过去一个月，孙哥问鼎「微信影响力指数」，超过了马化腾、张一鸣、李彦宏等一众中国顶级企业家
+>  
+> 仅一个月内，接连完成三件大事：
+>  
+> - 7 月 25 日，带领 Tron 登陆 Nasdaq
+>  
+> - 8 月 3 日，成为最年轻的华人商业宇航员，也是历史上第 712 位进入太空的宇航员
+>  
+> - 8 月 16 日，会见世界级球星 C 罗
+>  
+> 多少年过去了，孙哥还是那个顶流孙哥...
+>  
+> @justinsuntron @trondao @HuobiGlobal
+
+## 133. Aug 23, 2025 · 11:24 AM UTC · 1959215173367202150#m
+- 链接：https://twitter.com/0xBeyondLee/status/1959215173367202150#m
+- 作者：@0xBeyondLee
+
+> Beyond老师对JE Labs的形容中，关于“学院派和正规化”这一点，我还挺有感触的。
+>  
+> 为什么这么形容？  一是跟我最最开始的管理咨询经验有关，我总是希望能够从一个个具体的case中抽离出来，去探索背后的逻辑，试图总结出一套可复用的经验。
+>  
+> 所以我们团队会通过数据、调研，以及经手的几十个case中，去总结复盘，从而不断优化我们的方案和交付。
+>  
+> 二是也跟我去年刚做JE Labs的市场阶段有关，那会儿不论是KOL投放还是各类营销活动，都还是粗旷式发展的阶段。
+>  
+> 包括一些交易所团队，合作了一大波KOL，但后面发现其实都只是虚假的繁荣。所以那时，我想Web3的市场运营确实是需要更加精细化的。
+>  
+> 到现在，从实践中总结这一点，JE Labs一直在践行，但同时我们也在团队内不断强调“倾注真心”。
+>  
+> 我们希望提供的，不是流水线化的服务，而是把每一个合作的项目，都“视若己出”，站在项目方的角度去思考，到底怎么去做会更好。时刻关注项目的发展，即使地给到我们的反馈和支持。
+>  
+> 唯有真正地看好项目、信任项目、发自内心地支持项目，才能更好地达到1+1大于2的效果。
+>  
+> 基于此，我们并不是把项目方当成对手盘，一味地找项目要高预算，做稳赚不赔的生意。
+>  
+> 而是和很多项目合作时，我们也会真金白银地参与投资，愿意为项目持有敞口、跟项目站在一起，因为我们相信，在我们的共同建设下，必然会有不一样的效果。
+>  
+> 一切都是，真心对真心。
+
+## 134. Aug 23, 2025 · 10:01 AM UTC · 1959194308487348385#m
+- 链接：https://twitter.com/0xBeyondLee/status/1959194308487348385#m
+- 作者：@0xBeyondLee
+
+> 不管买不买，提前准备一个号备着，大机会来了才不至于又又又干瞪眼
+> app.jarsy.com/?invite_code=0…
+
+## 135. Aug 23, 2025 · 9:33 AM UTC · 1959187222323986940#m
+- 链接：https://twitter.com/0xBeyondLee/status/1959187222323986940#m
+- 作者：@0xBeyondLee
+
+> 为什么美国总统的 $WLFI 你不买，阿猫阿狗的垃圾盘子抢着塞？
+>  
+> 说到底还是没有辨清时代发展主线的能力
+>  
+> 反思一下 Web2 同理，马斯克的 SpaceX，奥特曼的 OpenAI，只要有渠道投资也一定要上，且必然盆满钵满
+>  
+> 但不同于币圈项目，这类改变世界进程、推动人类发展的企业，往往与普通人之间隔着一道天堑：在 IPO 之前，只有动辄百万美金起的高净值人群才有机会参与
+>  
+> 而最近爆火的  @JarsyInc  正是为解决这一困境而生，让普通人也能以 $10U 的门槛参与 Pre-IPO 企业投资
+>  
+> ❚ 一分钟看懂 Jarsy
+>  
+> Jarsy 是一个把顶级企业 Pre-IPO 股权代币化 的平台，让普通人也能 $10 起投，参与 SpaceX、OpenAI、Stripe 等独角兽企业的上市前机会
+>  
+> - 代币化经济权益：持有真实股权，用户通过代币享受分红、拆股等收益权，而不是直接股份
+>  
+> - 流动性机制：支持 NYOP（自定价格挂单），即便在 IPO 前也能提前退出
+>  
+> - 融资背景：2024 年 7 月完成 500 万美元 Pre-Seed 融资，投资方包括 Breyer Capital、Karman Ventures 以及 Sui 联合创始人 Evan Cheng @EvanWeb3 、Huma 创始人 @DrPayFi Richard Liu 等知名人物
+>  
+> 当然说再多不如自己试一下，资金指数级增长往往会伴随着投资渠道的拓宽
+> app.jarsy.com/?invite_code=0…
+>  
+> ❚ 最新亮点活动
+>  
+> 1/ Kraken Pre-IPO 上线
+>  
+> - Kraken 最新一轮融资估值 150 亿美元（约 $50/股），目前在 Jarsy 认购价仅 $49.5/token，先到先得
+>  
+> 2/ 公开股票代币化产品
+>  
+> - 除了 Pre-IPO，用户还可以通过 Jarsy 投资 特斯拉、英伟达 等已上市企业的股票代币，依然是 $10 起投，流动性更高
+>  
+> 3/ 阶梯手续费新机制
+>  
+> - Jarsy 推出“认购越高 → 全员手续费越低”的模式：
+> - $0 – $100k：5%
+> - $100k – $200k：4%
+> - $200k+：3% 或更低
+> - 意味着即便你是小额参与者，也能享受随大盘走低的手续费优惠
+>  
+> ❚ Jarsy 与传统券商的不同
+>  
+> - 投资门槛：传统 Pre-IPO 往往 $10,000 起，Jarsy 只需 $10
+>  
+> - 流动性：传统投资要等 IPO 才能退出，Jarsy 可用 NYOP 挂单提前变现
+>  
+> - 操作体验：传统流程繁琐，Jarsy 直接用 Web3 钱包一键投资
+>  
+> - 透明度：传统信息有限，Jarsy 提供 链上储备证明，数据公开可查
+>  
+> /
+>  
+> 如果你真正看懂了全文很容易就能想明白，Jarsy 收益最大的并非动辄出手百万的金融大鳄
+>  
+> 而是需要聚沙成塔集腋成裘的中小散户，需要每一个 $10 投资都能听到回响的中小散户...
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> @JarsyInc @JarsyMandarin @CShen1992 @hqinjarsy
+
+## 136. Aug 23, 2025 · 8:53 AM UTC · 1959177279675961617#m
+- 链接：https://twitter.com/0xBeyondLee/status/1959177279675961617#m
+- 作者：@0xBeyondLee
+
+> 一流 Agency 植入观念 布道概念
+> 二流 Agency 营销市场 聚焦项目
+> 三流 Agency 派发广告 兜售代币
+>  
+> 很幸运，完整见证了一流 Agency @JELabs2024 从零到一的每一步！
+>  
+> 一年来 JE Labs 帮助 72 个项目以润物无声的姿态轻松拿下市场注意，其中 25 个顶级项目更是一举登陆币安！
+>  
+> 溢美之词不说太多，毕竟有目共睹，说说特点
+>  
+> JE 和其他 Agency 最大的差异是非常「学院派和正规化」无论从团队背景或者从行事风格上讲都是如此
+>  
+> - 前有 KOL 研判，一定选择和项目调性最相符的
+> - 中有内容审核，不拘泥于花了钱就非得往死里写多写长，效果永远最重要
+> - 后有回顾整理，形成一套完整的市场营销方法论体系
+>  
+> 一周年快乐，感恩相遇💚🎂
+>  
+> 创始人 @0xEvieYang
+> 官方账号 @JELabs2024 @Doctor_JE_
+
+## 137. Aug 23, 2025 · 6:12 AM UTC · 1959136658579742780#m
+- 链接：https://twitter.com/0xBeyondLee/status/1959136658579742780#m
+- 作者：@0xBeyondLee
+
+> 最近三天两头就有朋友说在小红书看到我
+>  
+> 看了一圈才知道，现在 P 盈利截图装逼的起号方法已经落后时代一百条街
+>  
+> 小红书里不管是返佣矩阵还是个人 IP，都流行从推特搬运，邪门回复、高赞推文搬一个爆一个
+>  
+> 推特本就靠近行业信息源，现在嘴撸又卷，能脱颖而出的推文到了别的平台基本乱杀 lol
+
+## 138. Aug 21, 2025 · 4:37 PM UTC · 1958569121819643908#m
+- 链接：https://twitter.com/0xBeyondLee/status/1958569121819643908#m
+- 作者：@0xBeyondLee
+
+> 最喜欢短平快不 PUA 的交易类空投了，今天分享一个老外非常 fomo 但是国人有着明显信息差的项目 LAB @LABtrade_
+>  
+> 说实话 Lab 全具备交易工具大毛的一切要素：
+>  
+> - 投资阵容豪华：Lemniscap（领投）、Animoca、OKX Ventures、Mirana、Kucoin Ventures、Gate Ventures、GSR、Amber、Presto
+>  
+> - 发币顺畅：明牌 9 月 TGE
+>  
+> - 手续费低：只有 0.5% 绝对是各 Bot 里最低的了，再说直白点团队赚钱主要渠道是 TGE 代币上所，而非工具返佣
+>  
+> 总之我是一定会刷，并且认为大概率会取得结果的，说多了显得 CX，但又不能不说，以便未来回顾装逼，欢迎使用我的链接
+>  
+> t.me/LAB_Trading_bot?start=B…
+>  
+> #Trade
+
+## 139. Aug 21, 2025 · 12:58 PM UTC · 1958514158548484423#m
+- 链接：https://twitter.com/0xBeyondLee/status/1958514158548484423#m
+- 作者：@0xBeyondLee
+
+> 「出金被冻卡」绝对是币圈人最怕遇到的问题，短期不能使用还是小事情，需要破财消灾才是最难受的事情
+>  
+> 看到很多人在写 Binance 最近上线的严选，仔细研究了一下确实认可这是一个不错的解法
+>  
+> 「最通俗的解释，通过支付手续费给出的金买个保险」
+>  
+> 0.2% 不算多，如果出金三十天内被冻可以获得至高 50% 20,000 USDT 的赔付，算是花小钱获得大保障的选项
+>  
+> 国内主流涉及 C2C 的交易所部分也有类似功能，都帮大家整理出来了，各有优势，但币安严选确实给安全出金多增加了一条靠谱渠道
+>  
+> 最近一段时间还有尝鲜活动，不妨去试试
+>  
+> ❚ BNB 返现活动（7/21 – 8/22）
+>  
+> - 新用户首次通过 C2C 买币，累计 ≥ 50 USDT，可享 15%  $BNB  返现（上限 10 价值 USDT）
+>  
+> ❚ 严选专属活动（8/18 – 8/31）
+>  
+> - 首笔交易免手续费
+> - 累计交易 ≥ 30,000 USDT，且订单号含 ≥ 3个3，有机会赢取币安周边 / iPhone 17
+>  
+> @cz_binance @heyibinance
+
+## 140. Aug 18, 2025 · 11:06 AM UTC · 1957398773325508768#m
+- 链接：https://twitter.com/0xBeyondLee/status/1957398773325508768#m
+- 作者：@0xBeyondLee
+
+> 🔥 Biteye & @xhunt_ai 联办AMA：InfoFi 正确掘金指南
+>  
+> 新周期下，内容创作者也可通过写作获得财富 💰
+>  
+> - 哪些优质平台可以参与InfoFi？
+> - 如何打造自身影响力，正确参与内容挖矿？
+> - InfoFi是短期叙事，还是长期赛道？
+>  
+> 8月20日，本周三晚上八点，我们邀请六位重磅嘉宾一起来聊聊如何在 InfoFi 掘金 👏
+>  
+> Alvin, @Alvin0617, 每日幣研创始人
+> Crypto Painter, @CryptoPainter_X，数据分析师
+> DeFi Teddy, @DeFiTeddy2020, Biteye & XHunt 创始人
+> 风无向 @0x0xFeng，优质内容创作者
+> 解构师Beyond， @0xBeyondLee，信息可视化博主
+> Kevin, @kevinliub, Goat Network创始人
+>  
+> Biteye/XHunt创始人Teddy 将会在AMA中分享XHunt如何帮助大家提升影响力，实现内容变现 🤩
+
+## 141. Aug 20, 2025 · 10:00 AM UTC · 1958106949243032015#m
+- 链接：https://twitter.com/0xBeyondLee/status/1958106949243032015#m
+- 作者：@0xBeyondLee
+
+> 我发自内心得认为，所有二级项目做市都应该向币安 Alpha 新币  $BAS  看齐，看看什么叫教科书式操盘
+>  
+> BAS 团队真的太懂市场了，我很少会给二级项目这么高的评价，上一个非常认可的还是爽吃翻倍的 XNY
+>  
+> 今天下午 3:49 CT 顶流 @0xcryptowizard 巫师喊单 BAS，二级市场闻声而动，20 分钟内上涨 72%
+>  
+> 诚然巫师本身的带货能力毋庸置疑，但我看到的更是背后一个高度协调、紧密配合的 mm 团队
+>  
+> 什么叫做顶级 mm，我认为这就是：
+> - KOL 面子给足，散户利润拉满
+> - 把整个赛道的天花板抬高，知名度打响
+> - 何愁团队本身不能从赛道 Beta 增长中得利
+>  
+> 就在发稿期间，BAS 又在进一步冲击新高，虽然现在的位置不如早先，但面对一个格局拉满的团队、情绪高涨的市场，所谓的恐高恐广怕接盘是非常 IQ100 的行为
+
+## 142. Aug 20, 2025 · 7:29 AM UTC · 1958068929487876267#m
+- 链接：https://twitter.com/0xBeyondLee/status/1958068929487876267#m
+- 作者：@0xBeyondLee
+
+> 据测算 Hyperliquid 以每位员工年均收入 1.024 亿美元，一跃成为全球人均收入最高的公司
+>  
+> 碾压 Tether、Onlyfans、英伟达、苹果等一众知名企业或科技巨头
+>  
+> 在我看来 Hyperliquid 无疑是本周期行业最大的创新之一
+> - 仅 11 人的极简团队
+> - 拒绝一切 VC 投资，不联系 CEX 上币
+> - 占据 PERP 市场 75% 份额
+> - 独特的拍卖上币模式
+>  
+> 当前 $HYPE 市值 170 亿美元，位列第 12 位，有没有可能在本轮周期看到其继续挺进，进一步蚕食 CEX 份额？
+
+## 143. Aug 19, 2025 · 4:15 PM UTC · 1957838751402520880#m
+- 链接：https://twitter.com/0xBeyondLee/status/1957838751402520880#m
+- 作者：@0xBeyondLee
+
+> 🏆恭喜中奖
+>  
+> 1. @zhang60667
+> 2. @SuperZhi
+> 3. @flyiiawei
+>  
+> 时间有点紧急，还有一小时四十分钟结束，请收到信息立刻DM我！🙏
+>  
+> #Easy3 easy3.app/cn/picker2/IEZLGS
+
+## 144. Aug 19, 2025 · 12:48 PM UTC · 1957786789504249881#m
+- 链接：https://twitter.com/0xBeyondLee/status/1957786789504249881#m
+- 作者：@0xBeyondLee
+
+> 本科学校里有座国家超算中心，依山而建，蔚为壮观，很多往来游客都乐意在门前打卡，算是地标建筑
+>  
+> 根据报道了解到，超算中心搭载的超级计算机峰值可达 200 PFLOPS（FP64），机组峰值功耗 < 8MW
+>  
+> 如果用 NVIDIA H100 来堆 FP64 算力，大约需要 5,900 张 H100 同时满载
+>  
+> 如果用人类计算能力对比，超算一秒钟大约相当于一人连续 317 亿年的等价算力，这是我对超算中心的最初印象
+>  
+> 因为自己持仓 $ATH 最近在调研 @AethirCloud 时又突然想起这件事，兴趣使然，大概估计了下超算中心和 Aethir 的算力对比
+>  
+> - 根据官方公告，已知 Aethir 网络当前已拥有 43 万+ GPU 容器、覆盖 94 国、利用率 >95%
+> - 便于理解，把每个容器粗略当作一张主流数据中心 GPU，按 A100 保守估计
+> - A100 的 FP16 Tensor ≈ 0.312 PFLOPS/卡
+> - 43 万 × 0.312 = 134,000 PFLOPS = 134 EFlops（FP16）
+> - 对比超算中心 1 EFlops（低精度场景），约 134×
+>  
+> 非常夸张，没想到遍布全球的 Aethir 网络可以提供百余倍超算中心的算力支持，这样一思考 $ATH 360m 的市值看起来并不高估
+>  
+> 最近 Aethir 网络又迎来一次非常重要的大事「网络成立以来 K-Value 的首次调整」本文将详解构此事件
+>  
+> ❚ K 值到底是什么
+>  
+> 官方定义：K 值是评估某个 GPU 规格在网络里价值的核心参数；它影响奖励分配和对应机型的质押门槛
+>  
+> 人话版本翻译一下：
+>  
+> - K 值=每种 GPU 型号在 Aethir 网络里的身价/权重
+> - 它直接决定两件事：需要质押多少、能分到多少奖励
+>  
+> 如果把 K 值当成车型系数，豪华车（高端 GPU）权重更高、押金（质押）也可能更高；小型车（一般 GPU）权重相对低，因此平台会按供需和性能持续调系数
+>  
+> ❚ 为什么此时要调整
+>  
+> 这是上线以来第一次系统级校准，目的是把质押与奖励重新对齐市场 GPU 价格和真实需求，避免老参数跟不上行情
+>  
+> 根据官方描述，这次优化降低了新加入 Cloud Host 的质押门槛，现有节点质押不变、奖励会按新权重自动重算，所以对于用户而言，无需手动操作
+>  
+> 通过此次调整，可以把奖励与客户满意度/需求强度挂钩，来维持极高的网络利用率（>95%）
+>  
+> ❚ 调整带来什么影响
+>  
+> 对 GPU 供给方，也就是 Cloud Host：
+>  
+> - 新人更容易上车：质押门槛下调，更多 GPU 能接入，释放沉睡产能
+>  
+> - 现有主机更稳：原有质押不变，奖励会随 K 值自动重算，不中断
+>  
+> 对客户，比如 AI/游戏/渲染方等：
+>  
+> - 供给更充足、排队更短、价格更可预期
+>  
+> - Aethir 强调通过资源池化提高利用率，因此能给出更有竞争力的 GPU 价格与覆盖
+>  
+> 对网络整体：
+>  
+> - 把更多权重和奖励倾斜给高性能并且高利用率的机型/节点，保证供给结构更健康、规模继续扩张
+>  
+> /
+>  
+> 当我站在学校的国家超算中心面前时，觉得这就是世界上最强大的计算机器，只存在于钢铁森林之间
+>  
+> 深度了解 Aethir 等 Web3 项目后，才知道原来通过协议把世界各地 GPU 算力化零为整，再通过 K 值配平，也是人类攀登算力高峰的另一条行之有效的路
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> #AI #Infra #DePIN @AethirMandarin
+
+## 145. Aug 19, 2025 · 12:12 PM UTC · 1957777726246662479#m
+- 链接：https://twitter.com/0xBeyondLee/status/1957777726246662479#m
+- 作者：@0xBeyondLee
+
+> Flywheel Premium 第一波征文比赛正式启动！🚀
+>  
+> Flywheel Premium 是一个完全独立、不收硬广费用的加密投研精选账号，目标是树立 Crypto 投研赛道标准，打造最中立、最权威、最可信的项目研究平台。
+>  
+> 我们将用多重人工筛查以及同行评议的方式，筛选出优秀的项目分析文章，用高质量投研输出，回应“嘴撸”横行、信息失真的行业现状，以期在把优质创作者推到更大的舞台的同时，让读者看到来自多个专业视角的、全面且有深度的研究。
+>  
+> 📌 本次活动入选项目名单
+>  
+> Marinade（官方账号localhost:8080/MarinadeFinance）
+> Camp   (官方账号：localhost:8080/campnetworkxyz)
+> Irys （官方账号：localhost:8080/irys_xyz）
+>  
+> 📝 参赛规则与须知（划重点！）
+>  
+> 投稿前请仔细阅读Flywheel Premium投稿指南，确保稿件和相关材料符合要求。文章需包含题目，作者信息，摘要，关键词，正文，利益申报等必要章节。文章格式不符合要求的将被退稿处理。
+>  
+> 文章所分析内容必须围绕Flywheel Premium所选项目展开。在文章写作前，作者应主动进行项目相关信息了解，并客观地对该项目进行分析评价。如您本人在此项目中任职或有利益冲突，请主动申报，审稿委员会将进行相关审查。
+>  
+> 文章写作不得使用生成式AI产生观点，论述与形成文章核心部分的内容。用于语言润色时请遵照投稿指南中伦理与政策中一栏进行申报。
+>  
+> 参赛人数：可单人参赛，或以联合撰稿形式参赛（最多 5 人）。联合撰稿时请标注文章的通讯作者（默认以报名表格中的联系方式为准），并在正文后添付一章写明每位成员对文章的具体贡献和贡献比例，以便奖励发放。
+>  
+> 📅：截稿日期： 8 月 23 日 北京时间 10:00（UTC+8）
+>  
+> 如稿件被认定为潜在的高质量文章，将送由Flywheel Premium编委会审理，按照投稿指南中的规则进行审理并选出接受文章。此后将由Flywheel Premium代为发表与推广。在稿件被接收后（金银奖的获得者），需将文章著作权中相关财产权利将移交给Flywheel Premium官方方可获得本次活动奖励，内容不得再次在他处发表，包括作者本人的社交媒体账号。
+>  
+> 投稿指南：docs.google.com/document/d/1…
+>  
+> 如果您希望成为审稿委员会中的一员，请准备一篇代表作品并填写下方报名表格：Flywheel Premium 招募forms.gle/pT1RjgGo6xMoQcjz8 。
+> 在之前的招募活动中已参加过报名的无需重复报名。
+>  
+> 📖 投稿与评选流程
+>  
+> 请使用Google Docs进行投稿，在截稿日期前填写报名表格，并将文章链接添付与表格中。提交报名表格后不得再对文章进行修改。Flywheel Premium将审查文档最后一次修改的时间。
+> 投稿链接：forms.gle/efTX4gHkZQud64qWA
+>  
+> 稿件经过初步筛选后交由编委会评审。
+>  
+> 发布评审结果，公布录用文章与获奖名单。对录用稿件在版权转让后统一校稿、排版后适时发布。
+>  
+> 🏆 激励机制
+> 本次活动有特别奖励规定！
+>  
+> 由于本次活动为Flywheel Premium第一次征稿活动，Flywheel DAO及赞助商将重点支持本次活动，本次活动的参与者将有机会获得最高价值8888人民币的USDC！
+>  
+> Flywheel Premium衷心感谢本次活动赞助商的大力支持，同时，本次活动也由Flywheel DAO顾问ray @RayAC1397 个人特别出资增加奖池金额，特此感谢！
+>  
+> 下面是具体参赛规则：
+>  
+> 1. 金奖 & 银奖
+> 本次活动会根据评审结果，将所有文章按照审稿人评分进行排名，每个项目单独进行排名。
+>  
+> 每个项目中的前 2 名：
+>  
+> 第 1 名：获得 8888 RMB 等值 USDC（FP 金奖）
+>  
+> 第 2 名：获得 3888 RMB 等值 USDC（FP 银奖）
+> 注意：在著作权及相关财产权转移给 Flywheel Premium 后，才能领取奖励
+>  
+> 2. 项目特别奖
+> 本期活动将在三个入选项目中，评出 最受欢迎项目奖项。
+>  
+> 统计方式：我们会统计所有 B档及以上文章 中每个项目被分析的次数，被分析最多的项目获得该奖项。
+>  
+> 3. 铜奖 & 主编关注奖
+> 对于获得 项目特别奖 的项目：
+>  
+> 该项目第 3 名：在著作权及相关财产权转移给 Flywheel Premium 后，获得 2888 RMB 等值 USDC（FP 铜奖）
+>  
+> 在其他项目中：
+>  
+> 第 3 名：获得 FP 主编关注奖 + 150 USDC
+>  
+> 4. 优秀奖
+> 在每个项目中：
+> 第 4 名：100 USDC（FP 优秀奖）
+> 第 5 名：50 USDC（FP 优秀奖）
+> 对于获得 项目特别奖 的项目：
+> 第 4 名额外 +50 USDC
+> 第 5 名额外 +25 USDC
+>  
+> 5. 特别说明
+> 被编委会认定为 优质作者 的选手，将有机会获得 Flywheel DAO 的资源倾斜，包括各类资源对接、加入 Flywheel 高质班与核心群等。
+>  
+> 获金奖的文章 将由 @Flywheel_DAO 官方账号转发。
+>  
+> 所有文章的小分和评语，除了获得金奖和银奖的项目外，将 全部对外公布。
+>  
+> 💬 如果你已经准备好用实力发声，那么现在就开始报名吧！
+> 让我们一起把 Flywheel Premium 打造成行业认可的投研标杆！
+
+## 146. Aug 19, 2025 · 11:35 AM UTC · 1957768258591027476#m
+- 链接：https://twitter.com/0xBeyondLee/status/1957768258591027476#m
+- 作者：@0xBeyondLee
+
+> 瓜分完啦，未来需要更多福利的 Web3 从业者可以加我微信，要内幕更快
+
+## 147. Aug 19, 2025 · 11:00 AM UTC · 1957759473164120384#m
+- 链接：https://twitter.com/0xBeyondLee/status/1957759473164120384#m
+- 作者：@0xBeyondLee
+
+> 感谢 BitcoinAsia赠送的价值 2999 美元的 Whale PASS
+>  
+> 8 月 28 到 29 日欢迎和我在香港面基 🇭🇰
+>  
+> 又帮粉丝争取到了十张GA PASS!
+>  
+> 需要的朋友请关注 @BitcoinConfAsia 转赞本帖并在评论区留言!
+>  
+> 想自己购买 Pro PASS / Whale PASS 享受更多权益的老板，可以使用我的粉丝链接，享受 10% 折扣 ⬇️
+> tickets.b.tc/event/bitcoin-a…
+
+## 148. Aug 19, 2025 · 7:32 AM UTC · 1957707302091530440#m
+- 链接：https://twitter.com/0xBeyondLee/status/1957707302091530440#m
+- 作者：@0xBeyondLee
+
+> 要了 5 个 Helix Prime Code，我自己留俩，剩下三个，一键三连作为粉丝福利抽了，预期收益 2x 吧
+>  
+> 今晚 22:00 Genome @genome_protocol  将开启 $NOME 私募销售
+>  
+> - 估值：$25M
+> - 募集金额：25 万美元
+> - 价格：$0.025/NOME（占总供应量 1%）
+> - 解锁规则：TGE 解锁 50%，剩余 50% 在 1 个月内线性释放
+> - 白名单机制：Helix / Helix Prime
+> - Helix Prime 配额 $300（我们是这个），Helix 配额 $50
+> - TGE 预计 8 月上线
+> - 参与入口： nome.genomeprotocol.com/
+>  
+> #抽奖
+
+## 149. Aug 18, 2025 · 11:58 AM UTC · 1957411778079625368#m
+- 链接：https://twitter.com/0xBeyondLee/status/1957411778079625368#m
+- 作者：@0xBeyondLee
+
+> 世界主要国家股市全在猛涨，就连上证指数都突破了十年新高
+>  
+> 还是那句话
+>  
+> 财富的指数级增长，只能依靠资金从高流动性资产到低流动性资产的溢出
+>  
+> 接下来几个月也许就是 90 后 00 后这批人仅有的「时代红利」，务必得把握住！
+
+## 150. Aug 18, 2025 · 5:43 AM UTC · 1957317523168502168#m
+- 链接：https://twitter.com/0xBeyondLee/status/1957317523168502168#m
+- 作者：@0xBeyondLee
+
+> 当我明确喊单买入二级新币 $XNY 时跟单 1000U 那么 48H 后便可翻倍到 2000U
+>  
+> 币圈呆久了真的会相信玄学，一个能让我和粉丝赚钱的标的必然是风水相合的，挖下去一定还能赚钱
+>  
+> 果然在深度调研后，挖掘出了这一更大的 AI 商业版图与潜在的巨大 Alpha
+>  
+> ❚ 从 Codatta 说起
+>  
+> @codatta_io 即 $XNY 作为一个人工智能知识层项目，上线币安 Alpha 之处便吸引我的注意，极其标准的支撑位测试和利好频发，让我果断公开喊单介入
+>  
+> 发推后 48H 内便暴涨 120%，这在二级市场并不多见
+>  
+> 果然在深挖后发现 Codatta 是 Kite AI 的首个孵化项目，类似 Sahara 但更强调链上确权与可组合性的特点可能是得到 Kite 青睐的根本原因
+>  
+> ❚ Kite AI：AI 经济的底层交易层
+>  
+> 相较于 Codatta 相比之下 @GoKiteAI 拥有更广泛的知名度，其本身是一条「兼容 EVM 的新型公链，致力于为 AI Agents 经济提供底层基础设施」
+>  
+> 说人话就是一条让 AI Agents 可以在安全、可验证的环境中自由协作的底层公链
+>  
+> 获得了来自 HashKey（香港）、Hashed（韩国）、Samsung Next（韩国）、General Catalyst（美国） 的投资背书
+>  
+> 尽管具体金额尚未披露，但从投资方阵容来看，无疑已经获得了国际资本的高度认可
+>  
+> 在同一赛道目前能打的没几个，除了已经 TGE 的 Bittensor(TAO) 和热度很高的 0G 外基本就是 Kite 了
+>  
+> ❚ 潜在 Alpha： Avalanche $15M 资助计划
+>  
+> 此外发现 Codatta 除了是 Kite 首个孵化项目外，还入选了 Avalanche infraBUIDL(AI) 资助计划，且该计划 Kite 与其还有重要联系：
+>  
+> - KITE AI 是 Avalanche 官方合作的 AI 基础设施项目之一
+>  
+> - KITE AI CEO Chi Zhang 博士  @ChiZhangData  是官方评审委员会成员之一，代表 Kite AI 参与项目筛选、评估与方向制定
+>  
+> 很自然而然的联想到，未来会有更多项目在 Kite AI 部署，并有机会拿到 Avalanche 资助 ，Codatta 只是开端，其中的财富密码不言而喻
+>  
+> 因此结论性的表述是，在  $XNY  的行情背后，其实是整个 Kite AI 生态正在开启的 Alpha，时刻留意下一个短期价格翻倍的潜在标的
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> #AI #Infra
+
+## 151. Aug 16, 2025 · 10:31 AM UTC · 1956665178654928913#m
+- 链接：https://twitter.com/0xBeyondLee/status/1956665178654928913#m
+- 作者：@0xBeyondLee
+
+> Camp 最近的限时激励活动非常多，不少都很适合小账号去参与，我系统性的整理了一个表格，方便自行取用
+>  
+> ❚ Camp Bullpost
+>  
+> - 合作对象：Rova  @rovadotxyz
+> - 奖金总额：5000 美金
+> - 奖励分配：社区得分前五、最受欢迎帖子前五、最佳帖子前五、五十名随机参与者，各瓜分 1250 美金奖池
+> - 官方推文：
+> localhost:8080/campnetworkxyz/status/…
+> - 起止时间：8/12 - 8/18
+>  
+> ❚ Scribble Grant
+>  
+> - 合作对象：Scribble DAO  @scribble_dao
+> - 奖金总额：4000 美金
+> - 官方推文：
+> localhost:8080/campnetworkxyz/status/…
+> - 起止时间：8/14 - 8/29
+>  
+> ❚ Korean Voices Leaderboard
+>  
+> - 合作对象：SpreadX AI  @spreadxai
+> - 奖金总额：10000 美金/周
+> - 奖励分配：每周分配 2.5K 美金给 Top10 韩国 yapper
+> - 官方推文： localhost:8080/campnetworkxyz/status/…
+> - 起止时间：8月开始，持续30天
+>  
+> ❚ 官方发推激励活动
+>  
+> - 合作对象：Kaito AI  @KaitoAI
+> - 奖金总额：0.25%  $CAMP  + 40000 美金/月
+> - 奖励分配：每月40k USDC（每周 10k 分给 Top20）
+> - 官方推文： localhost:8080/campnetworkxyz/status/…
+> - 起止时间：持续进行
+>  
+> ❚ 官方白名单活动
+>  
+> - 合作对象：Kaito AI  @KaitoAI
+> - 奖金总额：30 个  @CampTrailHeads  NFT 白名单
+> - 奖励分配：Top 20 yapper 获得白名单，额外 10个 随机给Top 100
+> - 官方推文： localhost:8080/campnetworkxyz/status/…
+> - 起止时间：即日起至 8/27
+>  
+> ❚ Incentivized Summit Series Phase Three
+>  
+> - 奖金总额：$CAMP 空投
+> - 官方推文： localhost:8080/campnetworkxyz/status/…
+> - 起止时间：8/4 开始，持续进行
+>  
+> ❚ ARCOIN x Camp Network Campaign
+>  
+> - 合作对象：ARCOIN  @arcoin_official
+> - 奖金总额：$CAMP 空投 + NFT 白名单
+> - 奖励分配：完成猎杀任务的 10 名玩家获得  @CampTrailHeads  NFT 白名单
+> - 官方推文： localhost:8080/campnetworkxyz/status/…
+> - 起止时间：8月开始
+>  
+> 很高兴这周再一次获得了空投激励，期待 Camp 的后续动作！
+>  
+> btw 真的觉得引用推文里的首尔塔看起来很像岳麓山 lol
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> #Camp @niravmurthy @jameskchi @camp_cn
+
+## 152. Aug 15, 2025 · 12:54 PM UTC · 1956338666122654060#m
+- 链接：https://twitter.com/0xBeyondLee/status/1956338666122654060#m
+- 作者：@0xBeyondLee
+
+> 今天的文章从一个绝大多数人都忽视的事实开始讲起：
+>  
+> 「币圈是一个高融资成本的流动性圈层」
+>  
+> 这么说你可能没听懂，那么换种说法，这两种情况你会选哪个：
+>  
+> - 某人要向你借 70 万人民币，承诺给你年化利率 5%
+> - 某人要向你借 10 万 USDC，承诺给你年化利率 5%
+>  
+> 假设资金绝对安全，资金规模相同，我相信大多数人都会毫不犹豫选择第一种，内心活动如下：
+>  
+> - 70 万人民币存银行只有 0.95% 年利率，借出去可以吃到 5%，这波稳赚
+> - 10 万 USDC 年化 5% 很亏啊，放币安里都能给到 11%，算了不借了
+>  
+> 换句话说 Web2/Web3 世界的无风险利率是不同的，如果你拿着 10 wU 一年只吃 5% 就已经血亏了，这很好理解
+>  
+> 因此对于想要吃到低风险超额收益的人而言，DeFi 就是必须接触的话题，而 @Infinit_Labs 就为此而生
+>  
+> ❚ 产品基本信息
+>  
+> INFINIT 是一个由 AI 驱动的 DeFi 智能协议，旨在为用户量身定制并一键执行个性化链上策略，同时为 KOL 和 DeFi 专家提供策略变现的基础设施，当然不是专家也能用
+>  
+> 由 Electric Capital、Mirana Ventures、Nomad Capital、Hashed、Robot Ventures 等 VC 共融资 600 万美金
+>  
+> 代币 $IN 市值 20m，FDV 89m，中规中矩，已经上线了 Binance Alpha、Bitget、Gate 等交易所
+>  
+> ❚ 主要功能和相关数据
+>  
+> 很简单，像用 ChatGPT 一样，用自然语言对 INFINIT 说出生息需求与风险偏好，它就能生成个性化的 DeFi 策略
+>  
+> - 告诉我 Arb 上收益最高的矿池
+> - 我有 10wU 想分散风险，年化不低于 11% 应该如何分配
+>  
+> 上面两条都是非常简单且我真实尝试的用例，很好用，建议自己试一试，不过最近网络似乎一般得多刷新几次
+>  
+> - 链接：app.infinit.tech
+>  
+> - 用户数：169,000+
+> - 链上交易笔数：453,000+
+> - 社区成员：253,000+（覆盖全平台）
+> - 上线 2 天登顶 Kaito Yapper 榜单第 1 位，2 周后仍保持前五
+>  
+> 综合来看数据也不错，作为一个 AI 项目，产品永远是排在第一位的，总之玩 DeFi 的至少要用一次
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> #AI #Alpha @tascha_panpan
+
+## 153. Aug 15, 2025 · 6:58 AM UTC · 1956249154059227620#m
+- 链接：https://twitter.com/0xBeyondLee/status/1956249154059227620#m
+- 作者：@0xBeyondLee
+
+> 币圈剧本炒作，没见过一万也见过八千
+>  
+> 乖宝宝别傻了，都是演给你看的
+>  
+> 一星期过后还有几个人记得这些裤裆里的烂事
+>  
+> 搞返佣的盆满钵满，接广告的流量丰收，只有你，我的傻孩子，错过了四年中仅有的几周改变命运的机会
+>  
+> 专注自己，专心搞钱 🧘
+
+## 154. Aug 15, 2025 · 6:16 AM UTC · 1956238593946738818#m
+- 链接：https://twitter.com/0xBeyondLee/status/1956238593946738818#m
+- 作者：@0xBeyondLee
+
+> 更正： $OKB 的市值应该是 20 亿，回购销毁已经结束，我引的 sosovalue 的数据他们还没更新，此外其他数据都是正确的
+>  
+> sosovalue.com/zh/sectors/cef…
+
+## 155. Aug 15, 2025 · 3:56 AM UTC · 1956203383905509617#m
+- 链接：https://twitter.com/0xBeyondLee/status/1956203383905509617#m
+- 作者：@0xBeyondLee
+
+> 多家第三方机构所统计的交易所市占率：
+>  
+> BINANCE > OKX > BITGET > BYBIT > GATE
+>  
+> 巧合但合理的是平台币市值也遵循这一排序规律
+>  
+> 让我联想到某资深市值管理团队成员曾说过的话：
+>  
+> 「币圈获得财富的唯一本质：把握资金由高流动性资产向低流动性资产的溢出」
+>  
+> 近期随着 $BNB $OKB 先后突破新高，年初暴涨八倍、年中回调盘整数月的 $BGB 或是该赛道下一新高标的？
+>  
+> #CEX
+
+## 156. Aug 14, 2025 · 6:10 PM UTC · 1956055917163934061#m
+- 链接：https://twitter.com/0xBeyondLee/status/1956055917163934061#m
+- 作者：@0xBeyondLee
+
+> IQ150：B哥说的有道理，买点，卧槽六小时赚了60%
+>  
+> IQ100：FDV、筹码分布、代币解锁周期、流动性深度、项目方背景、机构持仓比例、赛道热度、宏观经济、监管动态、技术路线、竞品分析、社区活跃度￥%@#￥…&*%¥#@
+>  
+> IQ50：B哥说的有道理，买点，卧槽六小时赚了60%
+>  
+> #赚钱有那么难吗
+
+## 157. Aug 14, 2025 · 10:04 AM UTC · 1955933546264322529#m
+- 链接：https://twitter.com/0xBeyondLee/status/1955933546264322529#m
+- 作者：@0xBeyondLee
+
+> 买了点 Binance Alpha 新币 Codatta $XNY 理由很简单
+>  
+> ❚ 此刻 K 线形态良好
+>  
+> - 经历了良好的回调，走到了非常硬的重要支撑位
+>  
+> - 如果这里跌下去，短时间内盘面会很难看，加上大盘走势良好，项目方没理由在这里不护盘
+>  
+> ❚ 基本面刚宣布利好
+>  
+> - 基本面良好，作为多链 AI 协议，除去之前官宣的和 Web2 阿里云达成合作外
+>  
+> - 还刚官宣和 Web3 AI 蓝筹项目  @GoKiteAI  达成合作
+>  
+> - 利好发布必须配合盘面异动，不然就是空响炮
+>  
+> 因此设好止损，这里就是很好的介入点
+>  
+> @codatta_io #AI
+
+## 158. Aug 14, 2025 · 6:45 AM UTC · 1955883336133734747#m
+- 链接：https://twitter.com/0xBeyondLee/status/1955883336133734747#m
+- 作者：@0xBeyondLee
+
+> 上周末我在群里发红包装逼
+>  
+> 「感谢 Aptos 大猪脚，一个月三篇文章两千刀，舒服了」
+>  
+> 有人私信我
+>  
+> 「B 哥你说的是啥意思啊，我看 Kaito 好像没写 Aptos」
+>  
+> 我真绷不住了，又一次直观感受到信息差的存在，如果没激励，这些人天天写 @Aptos $APT 难道都在做慈善吗🤣
+>  
+> 今天手把手教一下怎么搞，还是那句话，你写也卷不到我，况且大多数人只是收藏一下根本不写🤣
+>  
+> ❚ Aptos 嘴撸激励详解（Kaito 没写）
+>  
+> - 月度奖金：10 万美元等值的  $APT
+> - 领取资格：当月 Kaito Aptos 30D 榜单前 150 名
+> - 重要时间：当月 21 号快照，下月 1 号登记地址，8 号左右自动空投
+> - 地址登记网站： aptos-claim.magna.so
+>  
+> 没了，就这么简单，但注意如果每个月 1 号，你没登记地址，那么自动作废
+>  
+> 因为 Aptos 属于 Move 系而非 EVM/Sol，所以登记网站都是单独于 Kaito 的，这也是为什么很多人根本不知道
+>  
+> ❚ 关于 Aptos 可以写点啥
+>  
+> 盘点了近两个月关于 @Aptos 的大事，极简版
+>  
+> 1/ 灰度在今年第三季度的资产考虑清单（AUC）中，将  $APT  列入了智能合约平台分类
+>  
+> 2/ Aptos 基金会确认拨款 $200M 用于激励、流动性和协议部署
+>  
+> 3/ 原生 USDT 供应量突破 $10 亿，稳定币总市值达 $1.2 B (+85.9% YTD)
+>  
+> 4/ Stani 确认 Aave 将部署 Aptos，首个非 EVM 部署
+>  
+> 5/ WBTC-OFT 通过 LayerZero 部署，链上已有 $430M BTC 资产，预计很快突破 $500M
+>  
+> 6/ Decibel 交易引擎在测试网上线，目标处理 1M 订单/秒，<20ms 区块时间，获 Aptos Labs 官方支持
+>  
+> 7/ DeFi TVL 在 7 个月内从 $100M 暴涨至超 $1B，Aries Markets ($212.1M) 成为最大协议
+>  
+> 8/ Thala DEX 日交易量年内增长 900% 至约 $200M，BTCfi TVL 仅 Echelon 就超 $100M
+>  
+> 9/ Amnis Finance 完成 $2M 种子轮融资，成为 #1 流动性质押协议，TVL $177.94M，提供 10.43% APR
+>  
+> 10/ 8月12日将解锁 11.31M APT（约2.4%流通供应），价值约 $52M，需关注短期抛压
+>  
+> 11/ 机构叙事升温：BlackRock、Franklin Templeton 在 Aptos 构建产品，Grayscale 已将 APT 列入观察清单
+>  
+> 12/ Hyperion 混合订单簿 AMM 获 pre-seed 融资，采用双代币模型（RION+xRION）
+>  
+> 13/ RWA 赛道定位明确：怀俄明州支持的稳定币试点，被社区视为与 Solana 竞争的监管资产发行中心
+>  
+> 14/ Merkle Trade 游戏化永续 DEX 4个月吸引 115K+ 交易者，交易量达 $70 亿，获多家知名机构投资
+>  
+> ❚ Aptos 团队主要负责人有谁（搞好关系）
+>  
+> - 联合创始人兼 CEO、CTO Avery Ching  @AveryChing
+>  
+> - DeFi 增长主管 Jay Lin  @Jay__0x
+>  
+> - 增长和市场推广主管 Ash  @ASHAWONN
+>  
+> - 亚太区生态负责人 Jerome Ong  @0xrome_
+>  
+> 就说这么多，都是干货，再长就没意义了，祝大家都能拿到空投
+>  
+> BTW $APT 近期非常适合介入或者短期 DCA 盘面异动也许就在最近
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> #Aptos #Move
+
+## 159. Aug 13, 2025 · 1:44 PM UTC · 1955626503246578036#m
+- 链接：https://twitter.com/0xBeyondLee/status/1955626503246578036#m
+- 作者：@0xBeyondLee
+
+> 2025 年 8 月 5 日，OKX 正式完成 X Layer PP 升级，标志着其区块链基础设施进入高吞吐 + 超低成本的新纪元。
+>  
+> 伴随 $OKB 天量回购销毁与赋能，X Layer 正加速构建覆盖支付、RWA 和 DeFi 的链上商业版图。
+>  
+> 历史问题成功解决，OKX 轻装上阵，剑指 Nasdaq？
+>  
+> @star_okx @okxchinese
+
+## 160. Aug 12, 2025 · 1:18 PM UTC · 1955257482965893519#m
+- 链接：https://twitter.com/0xBeyondLee/status/1955257482965893519#m
+- 作者：@0xBeyondLee
+
+> 零撸我从不藏着掖着，一是跟的人多也不会增加我赚钱难度，二是带大家赚钱能提升我的账号价值
+>  
+> 这次让工作室小伙伴全力冲 River NFT 活动，15 号截止目标 300 个不难
+>  
+> 社群很多小伙伴在问我怎么搞，相较于同项目的嘴撸 NFT 活动中文区聊的不多，因此发个文章来介绍
+>  
+> ❚ 保姆级逐帧教程
+>  
+> 1/ 进入 River
+>  
+> app.river.inc/fun?ref=0xBeyo…
+>  
+> 2/ 具体铸造过程（视频）
+>  
+> 0:00 用 wBNB 兑换 satUSD
+> 0:48 领取 NFT
+> 1:09 取出先前质押的 wBNB
+>  
+> 3/ 其他链教程
+>  
+> - Arb 链大同小异，只不过把 wBNB 换成了 wETH
+> - BOB 链和 B2 链会用到跨链桥
+> 跨链桥：meson.fi
+> BOB 链 Swap：oku.trade
+> B2 链 Swap：app.glowswap.io/swap
+>  
+> 4/ 一些注意事项
+>  
+> - 单次操作建议 20 U 左右
+>  
+> - 每次赎回质押物的时候 satUSD 都会不够，需要在 OKX 内置 Swap 多换一点
+>  
+> - 单号领取四个链的 NFT 实测资金占用量 30 U，成本小于 1.3 U
+>  
+> ❚ 重要事件节点
+>  
+> 1/ 阶段一  8.1 – 8.15
+>  
+> - BNB Chain / Arbitrum / BOB / B2
+>  
+> 2/ 阶段二  8.8 – 8.22
+>  
+> - BASE / Sonice / Hemi
+>  
+> 3/ 阶段三  8.15 – 8.29
+>  
+> - Mystery NFT 开放铸造
+>  
+> - 集齐 4 条链的 NFT 并在任一链上持有 10 satUSD，即可解锁铸造资格
+>  
+> - 换句话说因为要至少四条链的 NFT 因此 8.15 就是能获 Mystery NFT 资格的最后期限
+>  
+> @RiverdotInc 的 TVL 已经干上了 1.7 美元，明牌空投 $River 的 NFT 活动仅不到 6500 地址参加，还有三天时间结束，绝对是大毛无疑
+>  
+> 视频是官方的，如果看不明白，可以参考其他老师的图文教程：
+> localhost:8080/xiaoyubtc/status/19548…
+> localhost:8080/Crypto_He/status/19551…
+
+## 161. Aug 12, 2025 · 3:01 AM UTC · 1955102296259563869#m
+- 链接：https://twitter.com/0xBeyondLee/status/1955102296259563869#m
+- 作者：@0xBeyondLee
+
+> 21-22 年底曾数次力劝身边亲朋好友抛售所有非住宅房产，尤其是非一线城市
+>  
+> 并且一定要定投抄底比特币
+>  
+> 事实证明在自己拿到结果前终究人微言轻，没几人真的听从我的建议
+>  
+> 几年过去，有亲戚在海南云南等地的闲置别墅跌了个对折再对折都卖不出去，而同期比特币上涨六倍有余
+>  
+> 时代在抛弃人之前是从来不会打招呼的，一定要对新鲜事物保持敏锐和敬畏🙏
+
+## 162. Aug 11, 2025 · 3:16 PM UTC · 1954924847596970343#m
+- 链接：https://twitter.com/0xBeyondLee/status/1954924847596970343#m
+- 作者：@0xBeyondLee
+
+> 2025.8.15将是一个值得记住的夜晚！
+>  
+> Flywheel DAO 首次SPACE 来了！
+> 我们将用一场对话，点燃这个夏天最真实的思考——
+>  
+> 💬 嘴撸时代的信任缺口：高质量输出将何去何从？
+>  
+> 💬 关于Flywheel DAO的未来：什么是DAO的终极形态？
+>  
+> 💬 新项目Launch：@FlywheelPremium 横空出世
+>  
+> 📅 时间2025.8.15（本周五） 21:30
+>  
+> 大家不见不散👇
+> 🎙️参与链接：localhost:8080/i/spaces/1DXxyqW…
+>  
+> 这不仅是一场 Space，
+> 更是 Flywheel DAO 对全社区的首次公开宣言。
+>  
+> 无论你是老朋友，还是第一次听到我们的名字，
+> 这一次，我们都邀请你一起来见证我们的开始。
+>  
+> 嘉宾： @yueya_eth @OKxiaohai @off_thetarget  @RayAC1397  @zijingNFT @longore122 @one_snowball @Xuegaogx  @Jtsong2 @0x_xifeng  @xingxingjun8888 @BuTongRen6 @anymose96 @Guomin184935 @Supers6061 @syk233 @0xBeyondLee @metaio102 @xiaoyubtc @MikeJin12 @softlipa1018
+>  
+> 「我们会在space当天抽出一位幸运的参与成员，赠送由 @campnetworkxyz 赞助的二期NFT白名单一份」
+>  
+> #FlywheelDAO #Web3 #Crypto
+
+## 163. Aug 11, 2025 · 1:43 PM UTC · 1954901438704001415#m
+- 链接：https://twitter.com/0xBeyondLee/status/1954901438704001415#m
+- 作者：@0xBeyondLee
+
+> 半年写的屠龙九式的含金量还在持续提升
+>  
+> 如果你是一个想发财而不是想发情的人，就不要相信任何只靠高颜值好身材来博人眼球的 KOL
+>  
+> 在这个圈子作息失调、蓬头垢面、脑满肠肥才是大基数的常态
+>  
+> 精致和美丽是要靠持续烧钱才能实现的
+>  
+> 极少数身材良好保持自律的博主，也是基于财富自由这一大前提，比如 @coolish @DekuKing1 等
+>  
+> 对于更多人来说，要么很帅/美但不屑于以此为引，要么牺牲打理自我的时间忙于在战壕拼杀，这都是很普遍的
+>  
+> 沉迷于一个又帅/美的不可方物，又毫无内核的博主，只能说钩直饵咸，周瑜打黄盖
+>  
+> 再引申一点，良莠不齐鱼目混珠的 KOL 市场简直就是 @campnetworkxyz Camp 这类 IP 确权项目得以大展拳脚的舞台
+>  
+> 以后请再也不要相信没有链上确认的帅哥/美女，毕竟赛博美图可解决不了现实压抑
+
+## 164. Aug 10, 2025 · 10:43 AM UTC · 1954493777294533058#m
+- 链接：https://twitter.com/0xBeyondLee/status/1954493777294533058#m
+- 作者：@0xBeyondLee
+
+> 属实是开了眼了，第一次见到把二级玩家当狗耍的项目方
+>  
+> 坦白讲，之前我是很看好 @Superp_xyz 这个项目的，无论是从单号零撸 95-980 U 的嘴撸奖励，还是从闪电上币 Binance Alpha 来看都是合格的
+>  
+> 但是现在居然在 2% 的空投还没消化完的情况下，一次性继续解锁 3%，相当于短期内共投放 5% 的筹码
+>  
+> 朝令夕改的筹码派发、不作为的二级市场，把原本优秀的社群基础砸的稀烂，二级接盘侠沦为纯小丑
+>  
+> 尽管项目方在前期嘴撸激励和筹码控盘上做的还算到位，但综合来看，短期内二级币价是很难回弹了，除非项目方自掏腰包，用 U 来承接凭空印释放的 3% $Sup
+>  
+> 真是让人好感败尽的草台操作......
+
+## 165. Aug 10, 2025 · 5:53 AM UTC · 1954420870451274080#m
+- 链接：https://twitter.com/0xBeyondLee/status/1954420870451274080#m
+- 作者：@0xBeyondLee
+
+> YES STOP YOUR FOMO.
+> Nice sentiment analysis by @0xBeyondLee
+>  
+> But don’t let 2 green days make you forget last week’s Aug 1st liquidation massacre.
+>  
+> Your goal is to SURVIVE till Sep/Oct for the mega pump.
+>  
+> Alts usually bleed 28–40% in August, then rip 140%+ from Sept–Q4. It’s a pattern.
+>  
+> Fear & Greed Index today = 59.
+> ⚠️Reminder: Extreme Greed starts at 80+.
+> Last November we hit 80+ and the market went vertical. We’re not even close.
+>  
+> Also, ETH/BTC ratio dipped from 0.037 → 0.0357 today.
+>  
+> But 0.05 by year-end?
+> And a $6000 $ETH ?
+> Totally possible…
+>  
+> But you gotta still be here by then. 🫡
+
+## 166. Aug 9, 2025 · 12:58 PM UTC · 1954165463442935886#m
+- 链接：https://twitter.com/0xBeyondLee/status/1954165463442935886#m
+- 作者：@0xBeyondLee
+
+> 语言通胀已切实影响到每个人
+>  
+> 过去，夸文章写得好，只需「写得不错」
+>  
+> 如今，一般程度的赞赏已被「牛逼，这波稳了」或「老师研究得太透彻了」之类的表达所打压并剥夺走原有的语义空间
+>  
+> 只有长篇大论、引经据典，才能充分传达强烈的情绪
+>  
+> 被迫且持续的情绪升格正在慢行荼毒语言空间
+
+## 167. Aug 8, 2025 · 1:58 PM UTC · 1953818104972374174#m
+- 链接：https://twitter.com/0xBeyondLee/status/1953818104972374174#m
+- 作者：@0xBeyondLee
+
+> PickleCat 这篇推文围绕 FOMC、美联储政策等宏观信号，以及加密市场的技术结构，对后市走向进行了逻辑清晰、自洽性极高的分析
+>  
+> 作为 Binance 合约收益榜常年排名第一、累计利润超 300 BTC 的顶级交易员，PickleCat 在文中展现了其深厚的交易认知，强烈推荐阅读
+>  
+> 其中关于市场情绪（Sentiment）的分析部分也引起了我的共鸣，我结合自己的视角进行了进一步探讨，欢迎交流
+>  
+> ❚ 基本情绪指标解析
+>  
+> 1/ 贪婪恐慌指数
+>  
+> - 通过 BTC 的波动率、交易量与动能、社交媒体热度等多个维度的指标，标准化加权计算得出
+> - 主要反映圈内投资者的情绪波动，属于狭义层面的市场情绪指标
+> coinglass.com/zh/pro/i/FearG…
+>  
+> 2/ 谷歌搜索指数
+>  
+> - 某个关键词在谷歌搜索中的相对热度变化，用 0 到 100 的数值表示
+> - 更能反映圈外用户的关注度变化，是广义层面的市场情绪体现
+> trends.google.com/trends/exp…
+>  
+> 3/ 山寨指数
+>  
+> - 衡量当前是不是山寨币表现强于比特币的阶段
+> - 用于判断主流山寨币是否具备相对BTC的超额收益潜力，反映风险偏好切换与资金流向
+> blockchaincenter.net/en/altc…
+>  
+> ❚ 相关推论
+>  
+> 通过观察这些关于 Sentiment 的指数在历史上的表现，我们可以看到一些显著的效应
+>  
+> 1/ 情绪的钝化效应（蓝框）
+>  
+> - 圈外情绪（如谷歌搜索热度）在比特币主升浪前通常会先行放大
+> - 但随着行情进入中后段，尤其是山寨币阶段，比特币搜索热度与情绪反而下滑，表明主流山寨上涨阶段的关注度边际递减
+> - 这意味着遵循情绪规律的多数群体可能会错过短暂的、真正赚钱的山寨行情
+>  
+> 2/ 比特币高位横盘会导致山寨币边际流动性枯竭（黄框）
+>  
+> - 当比特币横盘震荡、价格动能耗散，情绪与关注度动能同步减弱，贪婪恐慌指数和谷歌搜索热度持续回落
+> - 动能消退导致风险偏好下降，边际流动性枯竭，山寨币对动能变化更敏感，往往率先出现高 Beta 式回调
+>  
+> 通过此文希望可以向你传达：
+>  
+> ▰ 圈内外情绪指标反映不同层面的市场关注度
+> ▰ 主升浪后情绪钝化，易错过山寨短暂高收益期
+> ▰ 比特币横盘会导致山寨流动性枯竭并回调
+> ▰ 情绪变化驱动资金在 BTC 与山寨间切换
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> #Bitcoin #Altcoins
+
+## 168. Aug 7, 2025 · 2:23 PM UTC · 1953461976052727857#m
+- 链接：https://twitter.com/0xBeyondLee/status/1953461976052727857#m
+- 作者：@0xBeyondLee
+
+> 恭喜刚毕业的好兄弟通过 @Sidekick_Labs 赚到10万U！
+>  
+> 没想到自己半年前无心的一篇文章，一次简短的对话，竟然可以带来这么积极的影响！
+>  
+> 区块链就是这么神奇，不管年龄几何，起点各异
+>  
+> 只要保持开放包容的心态，边学边干边干边学，就一定可以收获大结果！
+
+## 169. Aug 6, 2025 · 12:32 PM UTC · 1953071757231047053#m
+- 链接：https://twitter.com/0xBeyondLee/status/1953071757231047053#m
+- 作者：@0xBeyondLee
+
+> Solar x @Bybit_Official 新一期收音台：币股融合、资产上链、Project Crypto等热点正推动更多的传统金融公司布局加密市场，购入主流Token作为公司储备资产。明晚邀请了一些在TradFi和Crypto都有丰富经验的嘉宾，一起聊聊互联网资本市场大趋势
+>  
+> ⏰8月7日周四 9pm HKT
+> 🎙️主持人@0xBeyondLee-@Flywheel_DAO Co-founder
+> 嘉宾@maxxu27-@Bybit_ZH 衍生品运营负责人
+> @Zhaochencrypto-复星财富控股数字资产业务执行董事
+> @Zixi41620514-@StableStock CEO
+> @madaochris-@UnitasLabs Co-founder
+> @siyahashkey-@HashKeyGroup Head of Marketing
+
+## 170. Aug 7, 2025 · 8:28 AM UTC · 1953372586756428205#m
+- 链接：https://twitter.com/0xBeyondLee/status/1953372586756428205#m
+- 作者：@0xBeyondLee
+
+> xhunt 全新 KOL 数据库上线！
+>  
+> 我居然进入了全球 Top 2000，华语 Top 120！
+>  
+> 感谢 @xhunt_ai @BiteyeCN 期待后续的灵魂指数上线！
+>  
+> 快来看看自己的排名有什么变化，下载链接：
+> chromewebstore.google.com/de…
+
+## 171. Aug 6, 2025 · 10:44 AM UTC · 1953044574131372187#m
+- 链接：https://twitter.com/0xBeyondLee/status/1953044574131372187#m
+- 作者：@0xBeyondLee
+
+> 周二开始的 OG Meme 找到一个看着还不错的相关题材， 500k 买了 1ku
+>  
+> 几分钟前刚上了 CMC 看起来短期时间是死不掉了，我也敢分享出来
+>  
+> 长猫 $NOBIKO 目前 DEX Screener ETH 板块里排第三，是唯一一个上榜新标的
+>  
+> 叙事本身也是比较 meme 的，最早可以追溯到 04 年左右，对后面的 4chan 猫文化也有一定影响，比如 Longcat is looooong 口号等
+>  
+> CA：
+> 0xccccc74ac972e08a0f4c62e9369576a6f6722002
+
+## 172. Aug 6, 2025 · 8:23 AM UTC · 1953009096644542647#m
+- 链接：https://twitter.com/0xBeyondLee/status/1953009096644542647#m
+- 作者：@0xBeyondLee
+
+> 上条推文提到的项目零撸了 2000 多刀，把游历胡志明市、岘港、河内的花费都报销了还剩点
+>  
+> 最近会选择花更多时间回归现实世界，同时以冷眼看待 CT 泛滥成灾的灌水现状，不参与也不批判
+>  
+> 因为嘴撸发展到这个阶段，已经正式转型成为「劳动密集型产业」，翻身改命的机会不会出现在这里，将重心回归投研本身才或有 Sliver Lining
+>  
+> 今天分享的项目就身处喧嚣泡沫的另一面，兼顾较高融资、较高技术含金量的同时，又足够冷门，关键还有非常低门槛的切入口，具齐了零撸大毛的要素
+>  
+> ❚ 项目基本信息
+>  
+> @ChainOpera_AI 是一个种子轮融资超 1800 万美金的去中心化 AI 平台，获得了 IDG、ABCDE、AmberGroup 等老牌资本的背书
+>  
+> 相较于其他 AI 赛道产品 ChainOpera 的定位更有拓展性，兼顾了其他多种同赛道项目的功能，简单讲：
+>  
+> 1/ 可直接使用各类 AI Agent，类似于 Myshell、ChatGPT，具体到写作、交易、调研等
+>  
+> 2/ 可通过调用 MPC 创建自己的 Agent，支持知识库和插件接入，我个人实测绝不逊于 Dify、Azure AI
+>  
+> 3/ 这点最厉害，可以集合多 Agent 来协同工作，类似于把众多 AI 拉进 Whatsup、微信这样的群聊，但在流程分工上又更加细化，可以理解为「管理岗位的 AI 」
+>  
+> 另一个让我笃信会是大机遇的因素是，项目核心团队由做出过结果的科学家团队构成：
+>  
+> - 联创 Salman Avestimehr 是 USC 美国南加大的院长教授，曾获得奥巴马总统亲自颁发的 PECASE 奖，同时还是 Amazon 可信 AI 中心的主任
+>  
+> - 联创 Aiden He 同样来头不小，先后在 Amazon、Meta、Google 等科技巨头任职
+>  
+> - 关键在于他们二人之前的合作创业就取得了大结果，项目TensorOpera 一度得以为三星、高通等超级巨头企业提供 AI Agent 和 GenAI 模型服务
+>  
+> ❚ 我们怎么参与（文章重点）
+>  
+> 1/ 使用 AI Agent
+>  
+> - 适合对象：一切用户
+>  
+> - 根据官方声明现在签到、邀请、完成任务，有明确的空投预期
+> chat.chainopera.ai/invite?co…
+>  
+> 2/ 构建自己的 AI Agent
+>  
+> - 适合对象：AI 程序员或有相关经验的开发者
+>  
+> - 同样通过使用积累积分，有明确的空投预期
+> agent.chainopera.ai
+>  
+> 必须特别强调的是交互 ChainOpera 不能当作单一项目来看，更应当看作「公链级别 Infra」或者「生态」
+>  
+> 因为在其上会有至少两位数的子 Agent 有发币预期，从而形成完整的一主币多子币的经济体系，对于撸毛交互用户来说，是类似于当年的 ARB、OP 公链般的机会
+>  
+> 通过此文希望可以向你传达：
+>  
+> ▰ 传统嘴撸已经进入高度泡沫阶段，不再存在暴富的机会
+> ▰ ChainOpera 是足够冷门但又高融资高技术含量的项目
+> ▰ 应当视 ChainOpera 为生态而非单一项目来看，并且现在可以零撸，有名牌空投，产品本身也很好用
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> #AI #Agent #DePIN
+
+## 173. Aug 5, 2025 · 12:17 PM UTC · 1952705405626261546#m
+- 链接：https://twitter.com/0xBeyondLee/status/1952705405626261546#m
+- 作者：@0xBeyondLee
+
+> 四天不到单号 100U 纯零撸
+>  
+> 群友几十粉推特矩阵小号拿到万刀大结果
+>  
+> 信息都是公开的
+>  
+> 我从来不藏着掖着
+>  
+> 如果总把「懒」美化成「判断失误」
+>  
+> 下次还会接着错过
+>  
+> 共勉💚
+
+## 174. Aug 4, 2025 · 8:31 AM UTC · 1952286218546299007#m
+- 链接：https://twitter.com/0xBeyondLee/status/1952286218546299007#m
+- 作者：@0xBeyondLee
+
+> 很认同你拆解收益本质的思路，太多人容易被短期价格波动牵着走，却忽略了“确定性现金流+时间复利＂的底层逻辑。
+>  
+> 你举的A/B股例子很经典。十年前选B股的人很大可能中途就因为波动下车了，而A股的分红复购机制，其实是用规则帮投资者对抗人性中的浮躁。这和我一直强调的长期主义不谋而合。
+>  
+> 你统计的LaunchPool收益数据也很扎实。26.4%的年化收益本质上是平台通过生态分润机制与用户共享价值，尤其是在行情震荡期，这种收益恰恰是普通投资者构建安全垫的关键。就像你说的，这个收益率可以成为衡量自己投资组合的基准线，这一点戳中了很多人容易忽视的机会成本问题。
+>  
+> 最后想补充一点：高金融素养的核心，其实是建立自己的收益模型。有人擅长捕捉价格波动，有人适合深耕稳定现金流，没有绝对对错，但认清自己的风险偏好，把确定性收益作为底盘，再去叠加风险收益，确实是更可持续的路径。
+>  
+> 顺带一提，我都有在看大家写的内容，默默收藏的比较多，回覆的比较少（毕竟一天只有24小时🥲），但这不代表我没在看哦，谢谢你。
+
+## 175. Aug 4, 2025 · 6:25 AM UTC · 1952254609122341075#m
+- 链接：https://twitter.com/0xBeyondLee/status/1952254609122341075#m
+- 作者：@0xBeyondLee
+
+> 参观西贡地标 Landmark81 时碰到五个三哥
+>  
+> 其中一个黑黑胖胖身穿拖鞋的领头三哥，对工作人员率先发难，踮起脚尖，伸手越过柜台，要抢越南员工没开封的矿泉水喝
+>  
+> 越南小哥一脸诧异，客气礼貌小声回应：
+>  
+> Sir, this is mine. If you’d like it, please go buy it downstairs.
+>  
+> 黑胖三哥闻言变本加厉，一把抢过水来递给同伴：
+>  
+> Why? You're so mean.
+>  
+> 我和同伴都惊呆了，很诧异这样「因为我渴你就必须给我水」的强盗逻辑居然出自一个样貌二十多岁的成年人
+>  
+> 后面项目排队，我们又被三哥插队，但出于多一事不如少一事的原则，给越南小哥塞了点小费就匆匆离开了
+>  
+> /
+>  
+> 本不想提及此事，但没想到最近我也备受这种「强盗逻辑」困扰
+>  
+> 前段时间，我得知自己是 ICT 评论可以帮破 0 后，出于帮忙的角度，发帖鼓励大家互动我会尽数回 D
+>  
+> 初衷是好的，反响也不错，大约有四五十位新人朋友特意发推感谢我的帮助
+>  
+> 其中极少数经常与我互动的朋友，在我可以感受到他除了嘴撸也有自己的思考后，即使只有几百粉，也会回关
+>  
+> 但现在有人跳出来大骂我是伪君子，说我的关注是镶了金边，说我让多互动（我会回）是 PUA
+>  
+> 我从没发过 Anoma、Theoriq、MemeX、Newton，不发任何泛滥的嘴撸，从来零刷分零 AI，我要对粉丝负责
+>  
+> 而他的时间线又是什么样呢？通篇廉价嘴撸 AI 水文，我实在想不明白我有什么理由要回关
+>  
+> 这种「因为你是 ICT 我需要你关注，你就必须关注我」的强盗逻辑，让人不厌其烦
+>  
+> /
+>  
+> 再次声明，我把关注看的很重，我只会关注那些输出有营养，或能让我感受到真人气息的账号
+>  
+> 我也不在乎嘴撸，如果让我在保持账号高质量的调性，和 AI 水文嘴撸赚钱之间作出选择，我会毫不犹豫
+>  
+> 在本周期彻底结束前我只会做这几件事：
+>  
+> ▰ 聚焦自己的擅长点，用一二级等不割韭菜的方式赚钱
+> ▰ 账号专注独特且有价值输出
+> ▰ 留后手，做好随时返回校园的准备
+> ▰ 看世界，争取在读研前去感受过至少二十个不同国家的人文风情
+> ▰ 做慈善，尽可能帮助有需要的人并影响更多人（子路受牛）
+>  
+> 忽略噪音，专注自己
+
+## 176. Aug 3, 2025 · 8:39 AM UTC · 1951925756428456057#m
+- 链接：https://twitter.com/0xBeyondLee/status/1951925756428456057#m
+- 作者：@0xBeyondLee
+
+> 皮下男早就不是个例了
+>  
+> 我所知道皮下男大V两只手都数不过来
+>  
+> 从本质上讲，这就是币圈作为「无政府资本主义」的必然产物
+>  
+> 以交易所为代表的整个系统，需要且默许这些人把低认知的色魔转化成赌狗
+>  
+> 一如美国西进运动中鼓吹淘金致富的掮客
+>  
+> 无奈，可悲，无解
+
+## 177. Aug 2, 2025 · 2:50 AM UTC · 1951475541560730038#m
+- 链接：https://twitter.com/0xBeyondLee/status/1951475541560730038#m
+- 作者：@0xBeyondLee
+
+> 我随机了采访了生活中七位没有投资经验的朋友，无一例外都得到了错误的答案
+>  
+> 假设有两支不同的股票，选哪个好：
+>  
+> - A 股十年间价格几乎没动，但每年稳定分红 20%，且自动用于复购
+> - B 股十年间价格翻了 5 倍，但从未分红
+>  
+> 大多数人下意识都会选择后者，因为翻倍听起来显然更诱人，但对于有过投资经验的人来说，这并不难判断，稍加计算就可得知 A 股的收益远超 B 股票
+>  
+> 原因在于，价格上涨只是收益的一部分，目光只局限在这一部分，是缺乏金融素养的典型表现
+>  
+> 事实上，在长周期里「股价上涨幅度」仅反映市场变化，而「总收益」才是真正衡量长期回报的方式
+>  
+> 例如，可口可乐过去 40 年名义股价的上涨不到 10 倍，但如果将分红全部再投资，总回报曾达到 30‑40 倍（约 3,000‑3,500%）更高估值来源分红复利而非单纯涨价
+>  
+> 在加密世界也是如此
+>  
+> 上次文章发布，不少人抱怨 $BGB 横盘好几个月了，虽然没亏钱，但也没涨，看少数二级币翻倍很是 fomo
+>  
+> 但如果套用「分红思维」换个角度思考问题，答案又会大不同 Bitget LaunchPool 的挖矿返利机制，就是这种分红的币圈版本
+>  
+> 为此我统计了 LaunchPool 7 月持有 $BGB 的质押挖矿收益，从图中很清晰可以看到，同期持有年化收益有惊人的 26.4%
+>  
+> 这意味着即使是代币价格永远横盘，一年的收益也是相当可观且不能忽略的（事实上不可能永远横盘，拉高派发周期是一定存在的，只是盘整吸筹的长短罢了）
+>  
+> 从另一个角度来看 $BGB 作为 Bitget 的官方平台币种，直接锚定的是平台的整体实力，而上币能力是最直观的体现
+>  
+> 我统计了 Bitget  7 月上币表现（扒数据很辛苦）非常直观的可以发现所有 17 个币种的 ATH 都显著高于开盘后 15 分钟价格，其中 $M 更是有 13 倍之多的，平均收益也有接近 3 倍
+>  
+> 这意味着平台本身的上币能力是优秀的，并没有给上所就疯狂出货的项目方以机会，对用户是极大的负责
+>  
+> 当然写着写并不是 CX 大家梭哈 $BGB 也不是为了让大家无脑买新币，只是为了提供一个崭新的视角来思考问题
+>  
+> 如果你认真阅读此文，你应当已经懂得了：
+>  
+> ▰ 真正的收益来自总回报，不只是价格上涨
+> ▰ 稳定现金流常常胜过短期翻倍
+> ▰ 高金融素养的人关注复利，和时间做朋友，而不是盯着涨幅，和对手盘掰手腕
+>  
+> 作者：解构师Beyond｜零灌水零AI的可视化博主
+>  
+> @GracyBitget @xiejiayinBitget @Bitget_zh
+
+## 178. Aug 1, 2025 · 7:07 AM UTC · 1951177870447169766#m
+- 链接：https://twitter.com/0xBeyondLee/status/1951177870447169766#m
+- 作者：@0xBeyondLee
+
+> 太巧了，昨天刚分享今天就上线 Binance Alpha，希望我的粉丝都可以因此获利🙏
+
+## 179. Aug 1, 2025 · 12:31 AM UTC · 1951078173371932696#m
+- 链接：https://twitter.com/0xBeyondLee/status/1951078173371932696#m
+- 作者：@0xBeyondLee
+
+> 看到很多人在发 Superp 我研读了官网每一处细节，坦白讲，这个项目的想象空间真的太大了
+>  
+> 简明扼要讲下 @Superp_xyz 作为 Perp DEX 的鲜明不同点：
+>  
+> 1/ 可以做空 Meme
+>  
+> - 虽然暂时没查明是和交易所对赌还是其他形式，但市场需求无疑特别巨大，是做空链上热点或套保 Alpha 新币的重要途径
+>  
+> - 往大了讲，Superp 可能会成为链上对冲的重要储备工具
+>  
+> 2/ NoLiquid Perp 固定成本交易
+>  
+> - 一次性开仓后，不需要补缴保证金，且期间不会爆仓
+>  
+> -  结构与「美式期权」和「 固定投入结构化产品」相似，都是通过一次性支出获取资产方向性收益
+>  
+> - 再直白点，这一机制就像买一张彩票，这张彩票能吃下某个币在一段时间内的全部涨跌幅，不存在爆仓或敲出，亏就亏本金，赚的话则无上限（理论情况）
+>  
+> 3/ 超高杠杆
+>  
+> - 官方声称可通过小本金至高获得 10,000 倍收益
+>  
+> 再一次声明，真的是非常有想象力的产品
+>  
+> 此外背书也非常顶级，获得了 UOB Venture、Brooker Group、ABCDE Capital、Paper Ventures 清一色新家坡资本
+>  
+> 作为入选 BNB Chain MVB 第八期，获得 CoinMarketCap 孵化支持的项目，正统性也增添了几分
+>  
+> 因此无论从何种角度上讲都是值得关注的，现在该项目正在进行 TGE 前最后一轮撸毛活动，且距离截止只剩不到 12 小时
+>  
+> 官方明牌空投，只要链接推特和钱包参与交易大赛即可，具体规则我标注在了图里，无疑是非常短平快的撸毛
+>  
+> 活动入口：
+> noliquidation.superp.xyz/en/…
+>  
+> 空投只和「综合排名」和「推特」影响力有关
+>  
+> 不过我尝试了几个号，有一些却是存在不能链接的情况，不知道是推特 API 还是其他什么原因，希望官方看到可以尽快优化
+>  
+> 最后补充一个理论存在的取巧方式，就是用 2^n 个账号对冲开单，因此必然有一个可以指数级盈利，只要自己的账号矩阵有一个冲上排行榜即为成功
+
+## 180. Jul 31, 2025 · 3:03 PM UTC · 1950935362676908363#m
+- 链接：https://twitter.com/0xBeyondLee/status/1950935362676908363#m
+- 作者：@0xBeyondLee
+
+> 前段时间，美股币股概念已经疯狂 fomo 凡是沾边的标的基本都经历过了轮番炒作
+>  
+> 看下来 Amber Group 作为币圈顶级做市商，目前只有两个对应标的可以参与炒作
+>  
+> 一个是子公司的美股股票 AMBR，一个是基于 Base 链的 AI Agent MIA  @mwa_ia $MIA
+>  
+> 作为五月份的 AI 大金狗 $MIA 曾在创下一周 20 倍涨幅后，在 70M FDV 附近回调盘整数月有余，我知道有不少人也在陆续低吸囤货准备二段
+>  
+> 今天 MIA 官方发布了一个质押激励活动，综上原因，我觉得非常有必要分享
+>  
+> 简单讲就是「传统质押」+「社交裂变」玩法：
+> - 质押每 1 万/天，可以获得 1 普通积分
+> - 每 10 万积分可以获得 1 掌纹
+> - 消耗掌纹，邀请朋友，可以获得进阶积分
+> - 积分分为普通积分和进阶积分两种，下次解锁可以兑换代币
+> - 质押的 MIA 可以随时赎回，但会影响积分发放
+>  
+> 因此如果持有标的，最好参与活动以实现币本位增值
+>  
+> 质押入口
+> ai.ac/MIA/earn/points
+
+## 181. Jul 30, 2025 · 5:25 AM UTC · 1950427463651328293#m
+- 链接：https://twitter.com/0xBeyondLee/status/1950427463651328293#m
+- 作者：@0xBeyondLee
+
+> 北京时间 7 点 24 分，俄罗斯堪察加远海发生 8.8 级特大地震，震源深度仅 10 公里
+>  
+> 引发的海啸将在接下来十几小时内波及整个太平洋地区
+>  
+> 我国浙江、上海等沿海地区或将受到 30 至 100 厘米海浪影响
+>  
+> 里氏震级每增加一级，能量增加 32 倍，8.8 级已经远超我的认知范围了
+>  
+> 万幸的是此次震中不在人口稠密地区，如果发生在环太平洋地震带上的城市附近，有多恐怖想都不敢想…
+
+## 182. Jul 29, 2025 · 1:50 AM UTC · 1950010890302222750#m
+- 链接：https://twitter.com/0xBeyondLee/status/1950010890302222750#m
+- 作者：@0xBeyondLee
+
+> 愈发觉得，加密给人带来的最大影响，也许不是财富的变化，而是三观的重塑
+>  
+> 最近一则登上日推热榜的事件引发讨论：一位新娘发现租来的婚纱曾被三上悠亚穿过用于公开活动，情绪崩溃直言「早知道租给 AV 女优，我绝不会签约」
+>  
+> 评论区迅速分化：一派强调婚纱的纯洁象征不容玷污，另一派则反对职业歧视，态度截然
+>  
+> 这让我想起，币圈在这方面的态度则迥然不同：邀请 AV 女优为活动造势早已习以为常，舆论对其称呼也多是「女神/偶像」且从来没有任何人发表过异议
+>  
+> 而这种一边倒的舆论，本身就是统计学上极度不寻常的偏态分布，再直白些，任何非相关职业的社会群体都不该如此一致
+>  
+> 回到开头的问题：
+> - 是加密改变了我们的三观，让我们更「开放」？
+> - 还是说，这本就是幸存者偏差，即拥有这种三观的人，才更容易被加密选中？
+
+## 183. Jul 26, 2025 · 2:11 AM UTC · 1948929132357976371#m
+- 链接：https://twitter.com/0xBeyondLee/status/1948929132357976371#m
+- 作者：@0xBeyondLee
+
+> 🔥 数字资产新纪元，谁在定义未来格局？
+> 🎁 参与转发AMA，抽取5位瓜分100USDT
+>  
+> ⏰ 时间：7.28  19:00 （UTC+8）
+> 🔗链接：localhost:8080/i/spaces/1eaKbWgzRMdGX
+> 👥主办方：@Matrixport_CN, @Bybit_Official , @BlockBeatsAsia
+>  
+> 🎙️ 特邀嘉宾: @CactusCustody  , @Bybit_ZH    , @ElphaPex , @forgivenever  , @0x35_kaori   @paynethecong , @0xBeyondLee  @Fwcaptial
+
+## 184. Jul 28, 2025 · 7:58 AM UTC · 1949741177118593468#m
+- 链接：https://twitter.com/0xBeyondLee/status/1949741177118593468#m
+- 作者：@0xBeyondLee
+
+> 之前在溯源 pepe 的时候认真研究过 4chan 文化，昨天扫链突然发现一个类似标的，感觉很有意思
+>  
+> 全名叫做 Spurdo Spärde 诞生于 2008 年左右的芬兰匿名图片板 Kuvalauta
+>  
+> 通过使用低质量的重复内容，创作了这个故意画得粗糙的角色
+>  
+> Spurdo 的形象是对 Pedobear 的粗糙模仿，搭配刻意拼写错误的英文文本，通常全大写，模仿芬兰人学习英语时可能出现的发音错误（例如将 p 替换为 b，k 替换为 g）
+>  
+> 这种文化起源，改变了后面的 meme 画风思源：也就是大家后面见过的 APU BOBO BONK 等都是类似画风
+>  
+> 目前项目上了 CMC、BINANCE 的 DEX 对这个项目的 LOGO 也换了
+>  
+> 如果对标同派系 meme
+> $PEPE - $5.3B mcap
+> $APU - $127M mcap
+> $SPURDO
+>  
+> 推特是这个，好消息是目前只有老外互动，没有国人 @eth_spurdo
+>  
+> 1m上了底仓，如果后续能持续突破再回调加仓，虽然叙事很有趣，也很切合老外的文化，但是毕竟是早期标的需要进一步观察
+>  
+> 0x42069e779838929495ED0152ffc27145CE5C7f98
+
+## 185. Jul 26, 2025 · 11:30 AM UTC · 1949069797737767067#m
+- 链接：https://twitter.com/0xBeyondLee/status/1949069797737767067#m
+- 作者：@0xBeyondLee
+
+> 高情商：重回Web3，家人們起飛
+>  
+> 低情商：把你们当厕所，感谢接盘侠
+
+## 186. Jul 25, 2025 · 1:33 PM UTC · 1948738437697470621#m
+- 链接：https://twitter.com/0xBeyondLee/status/1948738437697470621#m
+- 作者：@0xBeyondLee
+
+> 「
+>  
+> 恭喜这个 B
+>  
+> 进入华语 TOP300 俱乐部
+>  
+> 等到了喜欢的数字
+>  
+> 平凡又普通
+>  
+> 」
+
+## 187. Jul 24, 2025 · 4:43 AM UTC · 1948242607945179623#m
+- 链接：https://twitter.com/0xBeyondLee/status/1948242607945179623#m
+- 作者：@0xBeyondLee
+
+> 我给每一位币圈新人的建议都必然包含这点：
+>  
+> 相较于那些看似能让你赚大钱的高风险机会，更值得关注的反而是那些能让你持续稳定赚小钱的确定性机会。
+>  
+> 具体来讲，不同于高风险的链上 DeFi，交易所的质押挖矿则更多是一种用于招揽用户的让利行为，对于普通用户来说，这就是获得稳定现金流的重要机会。
+>  
+> 以 Bitget 在 7 月的表现为例，如果月初购入 10,000U  $BGB  并不间断参与 LaunchPool 月末总收益为 1460U：
+>  
+> - 其中 BGB 自身涨幅带来的方向性收益为 1220U
+> - 套保参与 LaunchPool 质押挖矿带来的对冲收益为 240U
+>  
+> 换句话讲，这 240U 可以通过套保取得的无风险收益，可以看作同期的市场基准收益，如果在本月你的投资组合跑不赢这 28% APR，就是失败的。
+>  
+> 此外通过统计 LaunchPool 历史收益数据不难发现，随着行情转暖，质押挖矿收益 APR 显著且持续提升，在需求侧的刺激下 BGB 或将进一步上涨。
+>  
+> 回到开头的话题，如果你属于风险偏好稳健的绝大多数用户，先学会用这类确定性收益获得稳定现金流，再去考虑那些高风险、高波动的机会，才是更合理的投资路径。
+>  
+> @GracyBitget @xiejiayinBitget  @Bitget_zh
+
+## 188. Jul 23, 2025 · 5:00 PM UTC · 1948065620664434860#m
+- 链接：https://twitter.com/0xBeyondLee/status/1948065620664434860#m
+- 作者：@0xBeyondLee
+
+> $BNB LFG!
+
+## 189. Jul 23, 2025 · 3:49 PM UTC · 1948047910136164621#m
+- 链接：https://twitter.com/0xBeyondLee/status/1948047910136164621#m
+- 作者：@0xBeyondLee
+
+> A historic moment!
+>  
+> $BNB has entered the global top 200 assets for the first time, surpassing Starbucks with a market cap of $109.3B, ranking 197th!
+>  
+> 历史性的一刻！
+>  
+> $BNB 首次跻身全球资产市值前 200，以 1093 亿美元超越星巴克，位列第 197 位！
+>  
+> @cz_binance @heyibinance
+
+## 190. Jul 23, 2025 · 2:27 PM UTC · 1948027307345748090#m
+- 链接：https://twitter.com/0xBeyondLee/status/1948027307345748090#m
+- 作者：@0xBeyondLee
+
+> 熟悉我的人都知道，什么大便蚂蚁、红衣峡谷小兵、打坐袋鼠之类的我从来没发过，不是说不想赚钱，而是看明白了根本拿不到奖励
+>  
+> 说句扎心的话，嘴撸和大部分普通人早就无关了，奖励只有「账号权重高」且「社交活跃」的人或机器人能拿到
+>  
+> 今天聊一个普通人可以考虑的同类型交互项目 Tabi，优势在于官方会「人工审核」因此会筛掉 AI 矩阵号
+>  
+> 1/官网注册
+> tabichain.com
+>  
+> 2/加入群组
+> x.com/i/communities/18946083…
+>  
+> 3/设置头像与昵称
+> tabichain.com/angry-maker
+>  
+> 4/使用标签并与团队成员互动
+>  
+> - 因为审核的都是真人，所以建议发挥社交技巧去聊去互动，而不是仅仅发推提及一下
+> #TABI #Tabizen @Tabichain @Tabizens @Lfuckjpg @Momoxu7 @LinkeysB @Momoa_crypto @charis_em
+>  
+> 5/申请 SBT
+>  
+> - 给新人朋友多科普一点，SBT 是灵魂绑定代币，可以理解为不能转移的 NFT
+>  
+> 说白了上面这一切都是为了白嫖这个 SBT 与空投奖励，因此目标足够明确，步骤足够清晰，过程足够简单，且无机器人竞争，非常适合新手
+
+## 191. Jul 22, 2025 · 2:08 PM UTC · 1947660089050972169#m
+- 链接：https://twitter.com/0xBeyondLee/status/1947660089050972169#m
+- 作者：@0xBeyondLee
+
+> 有点巧，凉兮提到的 $CVGT 在我重点关注的 list，之前还是看到倪大和画师洋洋洒洒的千字研究才第一次了解的
+>  
+> 简单讲 $CVGT @convergent_so 是 Solana 原生去中心化稳定币 USV
+>  
+> 基本的机制也不复杂，但是和 Solana 生态深度契合：
+> - 用户抵押 SOL
+> → 质押为 JitoSOL（通过JTO）
+> → 铸造 USV（0利率借贷）
+> → 用于 DeFi（如交易、LP）并实现复利（质押收益 + MVE收益 + 额外收益）
+>  
+> 属于非常 Solana Native 的稳定币叙事，也切实解决了Solana 的一些现存问题：
+> - 绑定 JTO（SOL最大LST，价值32亿），借势获取流动性
+> - 支持 PYTH 预言机，确保 DeFi 稳定运行
+> - 解决 SOL 持有者无风险收益问题
+>  
+> 再加上一众大 V 站台，应该会有不错表现，当然我已经打好了底仓，为自己的 Bag 发声天经地义
+>  
+> $CVGT
+> B7zNKphr8fjczB71oi9uF9pCd5XSNJvBn78TVF7kpump
+>  
+> #StableCoin
+
+## 192. Jul 22, 2025 · 11:48 AM UTC · 1947624765331804281#m
+- 链接：https://twitter.com/0xBeyondLee/status/1947624765331804281#m
+- 作者：@0xBeyondLee
+
+> Binance Alpha 已经变成了较为稳定的套利方式，对散户来说每天交互一下，把一年的饭钱报销了是绰绰有余
+>  
+> 但同时 Alpha 也变成了充满高度信息差的玩法，很多人的姿势根本不对，不注意一些细节，收益大打折扣
+>  
+> 以目前 BNB Chain 交易榜前三的币种为例，分别是
+> - $BR 成交额 17.95 亿
+> - $BOGE 成交额 15.68 亿
+> - $OIK 成交额 5.23 亿
+>  
+> 但因为 $BR 存在收网黑历史的问题，君子不立危墙，因此不再考虑
+>  
+> 其中 $OIK 也就是链游 @SpaceNationOL 的代币，又是唯一一个没有官方提示交易风险的，很多人倾向于交易这个，我也较为推荐
+>  
+> 具体到细节，善用这些规则会得到更大收益：
+>  
+> 1/ 项目方补贴，用币安钱包在 DEX 交易  $OIK  按照交易量返还手续费，最多 15%
+> localhost:8080/SpaceNationOL/status/1…
+>  
+> 2/ 币安官方活动，用限价单交易算四倍交易量
+> localhost:8080/binance/status/1947269…
+>  
+> 3/ 稍微深挖可以发现，项目已经开发了5年，投入了4000万美金，游戏月收入超过 600K 因此会更倾向于做长期运营，而不会收网代币砸了招牌
+>  
+> #BNBChain
+
+## 193. Jul 21, 2025 · 12:50 PM UTC · 1947278031648891105#m
+- 链接：https://twitter.com/0xBeyondLee/status/1947278031648891105#m
+- 作者：@0xBeyondLee
+
+> 7 月 20 日起，我国豪车税门槛从 130 万元下调至 90 万元。
+>  
+> 这意味着，像 S 级、GLS、迈巴赫 S480、宝马 X7、路虎揽胜、保时捷卡宴、911 普卡、尊界 S800 等开票价在 101.7 万至 146.9 万区间的车型都将被纳入征税范围。
+>  
+> 不少车企已经迅速响应，推出限时补贴政策，包括捷豹路虎、奔驰、特斯拉等，但补贴周期都较短。
+>  
+> 我说怎么币圈赚到钱的老板，最近都在偷偷订车呢hhh
+
+## 194. Jul 21, 2025 · 10:19 AM UTC · 1947240006151496163#m
+- 链接：https://twitter.com/0xBeyondLee/status/1947240006151496163#m
+- 作者：@0xBeyondLee
+
+> 人生有很多大结果都是源于「试一试」的心态
+>  
+> 试了不一定有，但不试一定没有，财神爷想帮你也没办法
+>  
+> 现在币安八周年抽奖还剩 14 个小时就要结束了
+>  
+> 价值超 100 万人民币的超级锦鲤独享头等奖还没被抽出
+>  
+> 每人白给 3 次机会，不去试试真的太可惜了
+>  
+> 财富自由链接 👉 binance.com/zh-CN/activity/c…
+
+## 195. Jul 18, 2025 · 4:28 PM UTC · 1946245672044482752#m
+- 链接：https://twitter.com/0xBeyondLee/status/1946245672044482752#m
+- 作者：@0xBeyondLee
+
+> 小羊晚安🕯️
+>  
+> 小羊是我在抖音上刷到的罹患骨肉瘤的陌生女孩
+>  
+> 四个月前我在推特上发起了一场对其的募捐，总募集善款 11538 元人民币，其中包括
+>  
+> JT @Jtsong2 善款 1000 元人民币
+> pandaskiing @pandaskiing 善款 500 元人民币
+> 大赌哥 @y95277777 善款 500 元人民币
+> Dandan @dandanyx1122 善款 500 元人民币
+> 一千万是只猫 @RXu107 善款 88 元人民币
+> Griny @0xGriny 善款 50 元人民币
+> 裤子 @0xyukaz 善款 1000 元人民币
+> 辰景 @chenjing_A8 善款 300 元人民币
+> 路遥 @LuYao_Trader 善款 600 元人民币
+> Beyond @0xBeyondLee 善款 7000 元人民币
+>  
+> 很遗憾，小羊已于 2025 年 7 月 18 日下午 3:06 因病离世，年仅 22 岁
+>  
+> 感谢这几位捐款的朋友，感谢每一位在此前扩散信息传递爱心的朋友
+>  
+> 逝者已逝，生者如斯
+>  
+> 愿小羊在另一个世界不再承受病痛🙏
+>  
+> 愿每一位读者都珍惜健康、珍惜当下，平安喜乐、顺遂无虞🙏
+
+## 196. Jul 18, 2025 · 12:44 PM UTC · 1946189294416318533#m
+- 链接：https://twitter.com/0xBeyondLee/status/1946189294416318533#m
+- 作者：@0xBeyondLee
+
+> 昨晚凌晨4点跟 @0xBeyondLee 打电话讨论新台子 @trendsdotfun 。真佩服年轻人，精力这么旺盛😂主要论点总结如下，希望对各位玩家有参考意义：
+>  
+> 1️⃣ 这个新台子的最大创新在于 “one tweet one coin” 一推一币。开过盘子发过币的老板们都知道，一般发币的时候都会要求你提供社交媒体的信息。一般是twitter account、tg group等，也有的是提供一篇推文link。这就造成：社媒信息是自主提供的，会有给错信息和多币对一条信息的问题。一推一币很好的解决了这个问题，仅有这条推对应的币的才是正统的。
+>  
+> 2️⃣ 要怎么赚钱呢？主要是三种逻辑：
+>  
+> 1. 抢注发币。做好推特监控，尤其关注马斯克、特朗普、赵长鹏、vitalik 这些人的账号，在他们发推的0.1s内获得到推特link到trends上面发币，最好直接走后端。first is first，只要你抢注够快，这个盘子就是你的了，大概率能赚钱。而且这个台子有个特点，会把手续费的一部分返还给发币人，只要有人交易，即使没买筹码，也是有利润的。
+>  
+> 2. 机器人抢低位筹码。这个我在很久以前的pump的文章中就讲过，他们现在是有非常多的机器人在扫新币的，能做到在和发币人同一个区块一起买进去，如果算上发币人的手续费，机器人的成本可能比发币人还低。我昨天看了一下，已经是有机器人了。可见meteora的dbc 系统还是有不少人接入的。
+>  
+> 3. 埋伏。这个trends 他有一点还不错，就是可以追溯到历史任意一条推文。以推特的数据量，几十亿条推文肯定有，从理论上来说，对于币圈就是无限拆分盘。那么p小将、“角度分析师们”能分析出无数角度，这可比时事热点的范围大太多了：比如说 @jack 发的历史第一条推文、关于btc的第一条推文running bitcoin、马斯克的第一条推文…… 我和beyond埋伏了一点，等待庄家翻牌子😂
+>  
+> 3️⃣ 这个台子有啥风险？
+>  
+> 1. 最大的风险是没人玩，没人炒作。那么他所标榜的“一推一币” 的正统性就得不到认可。我最害怕看到的就是这个情形，而且这个风险并不小。从昨天发的第一个币 @Mable_Jiang  trend is good，创始人和一堆大佬背书的第一条推，结果是剧烈pvp，没有任何市值管理，最低只有十几万市值。这个是很不应该的，要知道我昨天指出的之前类似的平台，在op链上的 菩提，最高也有3m市值，而平台的作者仅为一个没有背景的个人开发者。对比起这次极端豪华的阵容，实在有点尴尬了。
+>  
+> 2. 庄家不愿进来炒新盘。很反直觉的是，这个产品的名字叫做 trends，但新闻交易很有可能不会在这里发生。结合我分析的点，抢注发币一定会马上被开发出来，那么庄家就有很大可能完全吃不到肉，“早期筹码全被你们这些科学家吃掉了，我干什么”？而且有唯一的“正统”的币，那开盘集团就没办法同时开10个盘子，然后选择对自己有利的盘子操盘了。既然这样，在发射台比dev还多的当下，为啥要选择你这个台子呢？
+>  
+> 反而，一些老推文的币，庄家可以比较轻松的找到角度并且完成低位筹码的建仓，有更大的炒作空间。xxx的第一条推文、有历史纪念意义的推文等，这些反而很有可能被翻出来炒一遍。
+>  
+> 3. pvp过于严重，导致后续难以持续。纯散户、纯热点、没庄家、机器人，可能造成的就是严重内盘pvp。我觉得可能比pump的强度还大，因为每天的热点推文一定比热点事件多，比老马和老特的量大，自动抢注机器人每天开的盘，可能比pump+bonk的盘还多。没有几个拉出市值天花板的、稳定运营的项目，这个台子肯定因为过于pvp而被淘汰。
+>  
+> 4️⃣ 那么，在哪里可以买到呢？
+> @aveai_info   已经支持meteora dbc的内盘解析与交易，欢迎来新版的 ave pro 给我买的第一个币 trend is good 抬轿子🤣
+>  
+> pro.ave.ai/token/6sPxcz9cGBi…
+
+## 197. Jul 18, 2025 · 7:56 AM UTC · 1946116877971009926#m
+- 链接：https://twitter.com/0xBeyondLee/status/1946116877971009926#m
+- 作者：@0xBeyondLee
+
+> 大饼破 10 万那会，有个武汉理工计算机毕业的同学跑来问我，是不是币圈的都很赚钱，想入行写代码应该怎么做
+>  
+> 对于第一个问题，我想答案大概是肯定的，拿智能合约工程师来说，月入 5000u 比较轻松，至少是圈外同等水平能拿到的 3 倍左右了
+>  
+> 对于如何写代码入行，我会建议他学 Solidity 或 Rust，这两种语言是绝大多数链上开发的绕不开的必备技能
+>  
+> 但最近在梳理币安投资项目时，发现的 Delphinus Lab 通过  zkWASM 让我看到另一个切入口
+>  
+> 它允许 Web2 开发者直接用自己熟悉的语言比如 C++ 来写程序，然后编译成 WASM 部署到链上，即实现不用重新学习一门新语言，也能写 Web3 合约
+>  
+> 这一生态我还是第一次听说，又是币安投资，估计马上 TGE 因而把分析结果解构呈现
+>  
+> ❚ 项目基本信息
+>  
+> @DelphinusLab 是全球首个支持 WebAssembly（WASM）智能合约的 zk Rollup，听起来非常 Infra，但其实做的事情非常简单，就是致力于为 Web2 开发者提供低门槛的 Web3 开发环境
+>  
+> 项目获得 BinanceLabs OKX HashKey SevenX 等顶级机构投资，这是少数 Binance 早期押注的 zkInfra 赛道项目
+>  
+> 当然其不负众望，平台本身的数据也很亮眼：
+>  
+> - 日活超 60,000
+> - 注册地址超 100 万
+> - Snapshot 活动生成 74 万次 proof
+>  
+> 举一个可能不太恰当的例子，DelphinusLab 就类似于 4399，是一个提供技术支持和生态环境的开发者平台
+>  
+> 总的来看 Binance Alpha 开局毫无压力，作为赛道龙头登陆 Perp 也有一定可能
+>  
+> ❚ 核心技术解构
+>  
+> 我不是技术开发人员，所面向读者大概率也不从事专业技术工作，因而这部分内容就尽量写的大众向一点
+>  
+> 核心产品大概可以概括成三个方面：
+>  
+> - zkWASMHub：底层基础设施，运行与验证 zkWASM 应用
+> - Prover Network：分布式算力网络，为 proof 生成提供资源
+> - zkWASM Launchpad：应用孵化与加速平台，连接用户、流量与激励
+>  
+> 比较有趣的是第三点，本质上还是 Delphinus 面向 zk 原生应用的孵化与加速平台，帮助开发者快速部署 dApp，并接入算力网络、用户流量和平台激励
+>  
+> 定位类似于「App Store + Proof Engine」既提供应用的分发入口，也为项目运行提供 zk 证明和基础设施支持
+>  
+> 目前已孵化的代表项目包括 BladeGames（链游） MemeDisco（社交+memecoin） Automata SpaceNugget 等，并带来了超过 60,000+ 日活和百万级注册地址
+>  
+> ❚ 代币和激励机制
+>  
+> 根据官方相关推文显示，主网即将上线，TGE 也将同步进行
+>  
+> 当前 Snapshot 活动已结束，完成了 70 万+任务，生成 74 万次 proof
+>  
+> 项目对于真实用户的空投非常慷慨，3% TGE Token 直接分发给节点运营者和早期参与者
+>  
+> 无锁仓、无预埋、按链上 proof 分配，以确保真人拿到奖励
+>  
+> 与传统撸毛的交互或者社交媒体交互相比，链上 proof 驱动的激励给更多真实用户流出了空间，也方便生态后续给用户提供激励，形成收益效应
+>  
+> 整体来看，Delphinus Lab 作为 Binance 在 zkWASM 赛道的唯一布局，兼顾了生态发展和真实用户增长，但因为叙事较为 Infra 散户接触较少，随着主网上线和 TGE，或存在潜在的非公允定价套利机会
+>  
+> #zk #Infra #Binance
+
+## 198. Jul 17, 2025 · 4:47 PM UTC · 1945888201497014683#m
+- 链接：https://twitter.com/0xBeyondLee/status/1945888201497014683#m
+- 作者：@0xBeyondLee
+
+> 我的天，我想明白了，头皮发麻！
+>  
+> @trendsdotfun 将改变历史
+
+## 199. Jul 17, 2025 · 1:36 PM UTC · 1945840030330884155#m
+- 链接：https://twitter.com/0xBeyondLee/status/1945840030330884155#m
+- 作者：@0xBeyondLee
+
+> 复盘：我是怎么在  $PJN  上掏出来 4000 多 u 的
+>  
+> 打狗能拿到结果的次数很多，但大多靠运气和会跟，赚的稀里糊涂，但能在 $PJN 掏出来4000多基本全靠调研和埋伏，正好这个项目对于推文也有激励借此复盘一下
+>  
+> ❚ 7月11日
+>  
+> 第一次关注到这个台子就觉得很有意思，二段强劲+高控盘，龙一  $PYTHIA  二段从 2m 拉回 50m
+>  
+> 其次是官方有意做长期计划，搞了写文激励计划，因此会有更多 kol 热衷于发文，传播的发酵链路很清晰
+>  
+> 回看文章内的回报估计也基本准确，凡是发文的差不多都获得了 500-1000u 的奖励
+>  
+> 有意思的点是，文中对于龙一 30x 龙二 5x 的表述，是我看线估计的，后来这一估算被中文区大规模采用😂
+>  
+> ❚ 7月12日
+>  
+> 第一次注意到 @druzbtc 后面挂的标既然是 Neiry 的，互关后顺便被邀请进社区
+>  
+> tg 社区内部以老外成员占绝对主导，且互相 cx 氛围浓厚
+>  
+> ❚ 7月17日
+>  
+> 时间来到今天，早上 0 点项目方在 dc 宣布激励活动结束，通常来说这样 launchpad + 嘴撸激励，与发币开盘之间不会相隔很久
+>  
+> 类似 $LOUD 因为市场注意力是很容易溃散的，嘴撸一停就立刻发币，热度才能续上
+>  
+> 上午 2 点，台子官推 @neirylab 也发文印证了这一点
+>  
+> 快照时，我仅靠一篇文章零条回复占到了排行榜 33 位，允许在 10 万市值打入 0.15 sol
+>  
+> 中文区前排的 @zijingNFT @Guomin184935 额度更高，可能大约 10 万市值 0.5 sol 左右，也就是说他们仅靠七天左右的嘴撸就获得了最高三四千u的奖励
+>  
+> 下午 3:30，群里提示项目方 @pjonfly 极有可能今天发币，要点铃铛盯着
+>  
+> 5 点后的剧情基本就都知道了，dnf 带头一种车头齐拉盘，官推发 ca 隐藏了pump 结尾，杜绝了刮刀且让大部分人都不清楚是什么叙事
+>  
+> 我做了充分调研，如同引用推文里写的，对于项目的一段预估市值有充分的认知，因此在大多数人犹豫的时候，我在 1m 出头上了 1000 多 u
+>  
+> 一路从 15k 拉到最高 4.5m，尽管我因为吃饭耽误了几分钟，但从官推消息面的切入仍然比链上信号清晰且准确
+>  
+> ❚ 盈利组成
+>  
+> 打狗利润 3800u + 1文0回复 嘴撸激励 700u
+>  
+> 总的来看，这个台子的还是非常值得关注的
+>  
+> 一方面是龙一共识极强，后续的新币发射都将围绕龙一
+>  
+> 另一方面是新币叙事足够且不差钱，对于激励的财富效应显著，期待后续表现
+>  
+> #Biotech
+
+## 200. Jul 17, 2025 · 10:50 AM UTC · 1945798153984463008#m
+- 链接：https://twitter.com/0xBeyondLee/status/1945798153984463008#m
+- 作者：@0xBeyondLee
+
+> 近期传奇交易员老黑 Arthur 鸽子 Eugene 以及木头姐 Cathie Wood 一致唱多以太坊，包括以太在内的一众二级山寨币迎来巨大涨幅行情
+>  
+> 说实话，这个时候还没明显反弹的币，就不要在其浪费时间了，除了涨势反弹的主流代币 SUI SEI 等，今天解构一个月内暴力反弹 80% 以上的币种  $VELO
+>  
+> 在未来，我会解构更多项目/代币，力求让大家通过一篇文章加一张图片看懂一个项目
+>  
+> ❚ 项目基本信息
+>  
+> 简单讲 @veloprotocol Velo 是一个主要面向亚洲的 Web3 流动性基础设施，涉及代币发行、交易、RWA 等方面
+>  
+> 是「金融科技 FinTech」「区块链」「跨境支付」三大叙事的交集
+>  
+> 其代币  $VELO  于六月中旬登陆  #Binance  Alpha 目前可以在 OKX Bitget Bybit 进行现货交易，市值在同赛道产品中不算高，只有 137m
+>  
+> 值得一题的是从 6 月 16 最低点算起  $VELO  暴力拉盘 80% ，市场多头极其强势，一连突破多个重要阻力位，这也是我解构其的主要动力
+>  
+> ❚ 底层价值支撑逻辑
+>  
+> 我研究了 Velo 的项目核心业务和技术架构，简单拆分来看可以包括三个部分：
+>  
+> - 数字信用凭证：以 VELO 抵押发行与法币挂钩的稳定资产  $USDV
+> - Federated Credit Exchange（FCX）：企业间的数字信用交换与结算网络
+> - Universe Hybrid Perp DEX：首个支持链上外汇永续合约的混合式 DEX
+>  
+> 其中第三项 DEX 业务支持 EURUSDV、GBPUSDV、AUDUSDV 的合约交易，并已正式突破 10 亿美元的交易量，这点非常厉害，应该是首创模式，没有看到类似竞品
+>  
+> 此外前面提到 Velo 专注于亚洲发展，因此其战略合作我也顺势研究了一下，主要包括如下机构：
+>  
+> - Visa：全球最大的信用卡与支付网络公司
+> - Lightnet：专注东南亚跨境支付的区块链金融网络
+> - CP Group（正大集团）：世界五百强、泰国最大综合企业集团
+> - UOB Venture：大华银行旗下创投机构，新加坡三大银行之一背景
+> - Uni-President（统一企业）：亚洲知名食品与零售集团、世界五百强
+> - DWF Labs：加密市场顶级做市商与投资机构
+>  
+> 总的来看，作为一个运行了五年以上的 Infra 类项目，核心业务本身带来的正向反馈是其近期暴涨的重要因素
+>  
+> 随着山寨流动性大幅回暖，后续 $VELO 还仍有 Binance Perp 以及韩所上所预期，是本轮我重要关注的标的之一
+>  
+> #Fintech #Infra #RWA

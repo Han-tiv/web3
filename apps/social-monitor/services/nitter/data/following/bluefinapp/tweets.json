@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1326250012423172096",
+    "screen_name": "bluefinapp",
+    "name": "Bluefin",
+    "description": "Trading, Simplified. Backed by @Polychain, Brevan Howard Digital, and SIG.\n\nDiscord: https://t.co/nSI5aNWUUh",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1866061298498146304/3BU1nLdK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1326250012423172096/1715020119",
+    "followers_count": 183459,
+    "friends_count": 0,
+    "statuses_count": 921,
+    "favourites_count": 1960,
+    "listed_count": 618,
+    "location": "",
+    "website": "https://t.co/d3YwFl1tW6",
+    "birthdate": null,
+    "verified_type": "Business",
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2020-11-11 03:47:55 +08:00",
+    "url": "https://twitter.com/bluefinapp",
+    "rest_id": "1326250012423172096"
+  },
+  "tweets": [
+    {
+      "id": "1948699759297925147#m",
+      "content": "We are excited to announce the launch of Bluefin Pro, powered by @SuiNetwork!\n\nBluefin first launched perpetuals on Sui in Q4 2023. Since then, the beta platform has processed over $50B in trading volume. With Bluefin Pro, we're going 10x bigger.\n\nTrade now: trade.bluefin.io/pro",
+      "timestamp": "Jul 25, 2025 · 11:00 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1948699759297925147#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1979164114371990007#m",
+      "content": "Do more with your WAL on @EmberProtocol_!",
+      "timestamp": "Oct 17, 2025 · 12:34 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1979164114371990007#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1978233160912494671#m",
+      "content": "WalletConnect Townhall - Oct 16, 4PM CET\n\nSpeakers: @thisisarculus @bluefinapp @TalentProtocol @MultiversX \n\nGet the latest on:\n\n🔹 Boosted staking rewards\n🔹 @SuiNetwork support via @FireblocksHQ\n🔹 WalletConnect Pay x @dtc_pay \n🔹 Total network volume\n🔹 @base builders rewards\n🔹 What’s coming next 👀",
+      "timestamp": "Oct 14, 2025 · 10:55 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1978233160912494671#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1978193315335119019#m",
+      "content": "Institutions just got access to Sui via @FireblocksHQ + @WalletConnect.\n\n@bluefinapp is the first live - more coming soon.",
+      "timestamp": "Oct 14, 2025 · 8:16 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1978193315335119019#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1978156449365897437#m",
+      "content": "We are excited to see that @WalletConnect now supports @SuiNetwork, bringing institutional access to the ecosystem! Bluefin is the first Sui application available to institutional clients through WalletConnect and @FireblocksHQ.\n\nLearn more about the integration and how it opens the door for institutions to bring billions in capital to Sui: walletconnect.com/blog/sui-s…",
+      "timestamp": "Oct 14, 2025 · 5:50 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1978156449365897437#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1977773657855266988#m",
+      "content": "BLUE Treasury Purchase Update: From October 1–11, a total of 1,047,102.87 BLUE was purchased using $105,109.75, accounting for 0.317% of the circulating supply.",
+      "timestamp": "Oct 13, 2025 · 4:29 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1977773657855266988#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1977732937865957403#m",
+      "content": "The daily trading challenge on Bluefin Pro is live on @Galxe! \n\nComplete the quests to earn your share of the $10,000 prize pool: app.galxe.com/quest/bluefin/…",
+      "timestamp": "Oct 13, 2025 · 1:47 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1977732937865957403#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1976795877328273923#m",
+      "content": "Brief update: All Bluefin systems are stable and fully operational across Spot, Perps, and Lending.\n\nThe entire team is on call, monitoring every product line. If you need support, we’re all hands on deck and here to help.\n\nWe keep building together 💙",
+      "timestamp": "Oct 10, 2025 · 11:43 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1976795877328273923#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1976626274912100820#m",
+      "content": "The migration of Legacy Vaults to Ember Protocol Vaults has begun!\n\nWith the launch of the eBLUE Vault on @EmberProtocol_, the Legacy Vaults will be sunset over the next two weeks. All users must withdraw funds before October 23, 1:00 pm UTC. Final claims will be processed on October 24, and the legacy vaults page will be removed on October 25.\n\nHow to migrate your staked BLUE to eBLUE: learn.bluefin.io/bluefin/blu…\n\nWe thank you for your long-standing support of Bluefin and its legacy products, and we are excited for you to continue trading and earning on Bluefin!",
+      "timestamp": "Oct 10, 2025 · 12:30 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1976626274912100820#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1976283587730415772#m",
+      "content": "$XMN is LIVE on @bluefinapp 💪",
+      "timestamp": "Oct 9, 2025 · 1:48 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1976283587730415772#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1976272127562219543#m",
+      "content": "XMN, the native token of @xMoney_com, is now listed on Bluefin Spot!\n\nTrade: trade.bluefin.io/swap/USDC-X…",
+      "timestamp": "Oct 9, 2025 · 1:02 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1976272127562219543#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1975955477545861458#m",
+      "content": "HYPE-PERP (@HyperliquidX) is now live on Bluefin Pro! Go long or short with up to 20x leverage.\n\nTrade Now: trade.bluefin.io/pro/HYPE-PE…",
+      "timestamp": "Oct 8, 2025 · 4:04 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1975955477545861458#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1975914121423176083#m",
+      "content": "Next stop: on-chain.\n\n$XMN will be listed on @Bluefinapp tomorrow.\n\nGet ready for more liquidity, more access, and a global stage for XMN on @SuiNetwork.",
+      "timestamp": "Oct 8, 2025 · 1:20 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1975914121423176083#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1975909737079435540#m",
+      "content": "XMN, the native token of @xMoney_com, will be listed on Bluefin Spot and Lend on October 9, 1:00 PM UTC.",
+      "timestamp": "Oct 8, 2025 · 1:02 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1975909737079435540#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1975595439270621491#m",
+      "content": "x.com/i/article/197501908366…",
+      "timestamp": "Oct 7, 2025 · 4:13 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1975595439270621491#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1975108798911328764#m",
+      "content": "Disclaimer: All BLUE token buybacks are governed by BGP-5: the BLUE Buyback Framework Governance Proposal. Any information presented on the dashboard regarding buybacks is for informational purposes only and reflects past or completed activity. While future buybacks may occur pursuant to BGP-5 or subsequent governance proposals, this should not be interpreted as a guarantee, commitment, or promise of any such activity by Bluefin, its affiliates, or any related entities.\n\nToken holders and market participants should not rely on historical or governance-approved buybacks as an indication of future activity.\n\nNothing on the dashboard constitutes financial advice or a solicitation to buy or sell BLUE tokens.",
+      "timestamp": "Oct 6, 2025 · 8:00 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1975108798911328764#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1975108796197347499#m",
+      "content": "Introducing the BLUE token buyback program and dashboard!\n\nOver the years, Bluefin has evolved into a multi-product ecosystem powering trading and liquidity across Sui. Today, it stands as the number one revenue-generating protocol on the network.\n\nAt the center of this growth is BLUE, which coordinates products, partners, and community governance. The buyback program serves as a mechanism to strengthen the DAO treasury and reinforce alignment between protocol adoption and governance.\n\nFrom day one, our mission has been to build Bluefin into the most powerful onchain trading venue and ensure that protocol growth supports the long-term sustainability of the ecosystem.\n\nBLUE Token Dashboard: tinyurl.com/Bluefin-Token-Da…\nBGP-5: common.xyz/bluefin/discussio…",
+      "timestamp": "Oct 6, 2025 · 8:00 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1975108796197347499#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1974405402864591072#m",
+      "content": "Bluefin community, we hear you! Prepare for many more listings on Bluefin Pro.",
+      "timestamp": "Oct 4, 2025 · 9:25 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1974405402864591072#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1973748733021127026#m",
+      "content": "Thank you to everyone who stopped by the Bluefin booth today at SuiFest! It was great meeting so many of you 💙",
+      "timestamp": "Oct 2, 2025 · 1:55 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1973748733021127026#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1973358084765688319#m",
+      "content": "$TRUTH, the native token of @GetSwarmed, is now listed on Bluefin Spot! \n\nTrade: trade.bluefin.io/swap/USDC-T…",
+      "timestamp": "Oct 1, 2025 · 12:03 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1973358084765688319#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1973334652082684072#m",
+      "content": "Sending Bluefin love to our friend and partner @0xProfessorJo 💙",
+      "timestamp": "Oct 1, 2025 · 10:30 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1973334652082684072#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1973182258329821505#m",
+      "content": "The BLUE Trading Event is live on @BithumbOfficial!\n\nTrade BLUE to earn from a 750,000 BLUE reward pool. Please see here for more information: m-feed.bithumb.com/notice/16…",
+      "timestamp": "Oct 1, 2025 · 12:24 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1973182258329821505#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1972647629063676262#m",
+      "content": "The Sui ecosystem is scaling fast.\nMore builders. More apps. More users.\nWith that momentum comes a responsibility: keep everyone safe.\n\nThat's why the Sui Foundation is funding enterprise-grade defenses and making them accessible to teams building on Sui with a $10M fund.",
+      "timestamp": "Sep 29, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1972647629063676262#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1972036286019211360#m",
+      "content": "Deposit your BLUE to earn yield: trade.bluefin.io/ember/eBLUE\n\neBLUE will soon become the new governance token, allowing you to stake and participate in Bluefin governance.",
+      "timestamp": "Sep 27, 2025 · 8:31 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1972036286019211360#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1971855388221100227#m",
+      "content": "Bluefin is the Decentralized Everything Exchange, powered by @SuiNetwork.\n\nPerps. Spot. Lend. Vaults. All in one place.",
+      "timestamp": "Sep 27, 2025 · 8:32 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1971855388221100227#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1971128248815022479#m",
+      "content": "Perp dex era. @bluefinapp is the leading perps platform on sui. Buybacks start in october.",
+      "timestamp": "Sep 25, 2025 · 8:22 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1971128248815022479#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1970481560106459338#m",
+      "content": "Do more with your SUI on @EmberProtocol_!\n\nDeposit: ember.so/earn/eSUI",
+      "timestamp": "Sep 23, 2025 · 1:33 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1970481560106459338#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1970065619921064045#m",
+      "content": "Get over 3.1M USD worth of rewards when you supply xBTC, borrow USDC or provide liquidity on Navi, Suilend, Momentum & Bluefin on @SuiNetwork!\n\n📅 Ends on Oct 22\n\nStart now: web3.okx.com/earn/activity/x…",
+      "timestamp": "Sep 22, 2025 · 10:00 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1970065619921064045#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1969296724570358141#m",
+      "content": "@0xundefined_ x @INF_CryptoLab will co-host the Korea RWA & Stablecoin Summit 2025.\n\nspotlighting RWA fundamentals and stablecoins’ role in Web3 amid rising regulation.\n\nJoin 20+ global financial institutions and Web3 leaders to share insights and spark collaboration.",
+      "timestamp": "Sep 20, 2025 · 7:05 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1969296724570358141#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1969014971934625900#m",
+      "content": "See you all in Seoul! 🇰🇷\n\nRSVP: luma.com/BuilderHouseAPAC",
+      "timestamp": "Sep 19, 2025 · 12:25 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1969014971934625900#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1968697147563409626#m",
+      "content": "Join us with @august_digital, @MEVCapital, and @Mysten_Labs to discuss the trends shaping this next era of onchain finance.\n\nThe X space is hosted today at 6 pm UTC.",
+      "timestamp": "Sep 18, 2025 · 3:22 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1968697147563409626#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1968622239667933207#m",
+      "content": "Bluefin has surpassed $78 billion in all-time trading volume! Alongside this milestone, we are excited to share that total deposits now exceed $220 million, and the number of unique wallets interacting with Bluefin has grown to over 2.2 million!\n\nPowered by @SuiNetwork.",
+      "timestamp": "Sep 18, 2025 · 10:24 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1968622239667933207#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1967995654460019135#m",
+      "content": "The first Everything Vaults are now live on @SuiNetwork with Ember Protocol!\n\nDeposit via @SlushWallet to join the campaign and win $500.",
+      "timestamp": "Sep 16, 2025 · 4:55 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1967995654460019135#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1967983446292304248#m",
+      "content": "Bluefin is excited to join the Proof of Liquidity event, hosted by @Yield_Network at TOKEN2049, as a co-host alongside @MEVCapital, @Upshift_fi, and @TheTNetwork.\n\nWhen: Tuesday, Oct 1 from 3–8 PM SGT. RSVP: lu.ma/5t1pyozf",
+      "timestamp": "Sep 16, 2025 · 4:06 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1967983446292304248#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1966503358820479171#m",
+      "content": "x.com/i/article/196647954199…",
+      "timestamp": "Sep 12, 2025 · 2:05 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1966503358820479171#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1966181606315667678#m",
+      "content": "The Sui Thesis - Building an Unforkable Network Stack.\n\nBrought to you by @FourPillarsFP and @Steve_4P.",
+      "timestamp": "Sep 11, 2025 · 4:46 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1966181606315667678#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1966156596893069529#m",
+      "content": "eBTC (Ember BTC) is now live on Bluefin Spot and Lend!\n\nLearn more about how you can earn with eBTC below 👇",
+      "timestamp": "Sep 11, 2025 · 3:07 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1966156596893069529#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1965799540977439218#m",
+      "content": "Ember Protocol is live on @SuiNetwork!\n\n@EmberProtocol_ is a decentralized vault and liquidity protocol that unifies cross-chain yield strategies, structured products, and tokenized assets into one platform, making liquidity accessible, transparent, and trustless.\n\nThis launch marks the beginning of Everything Vaults. Everything Liquidity.",
+      "timestamp": "Sep 10, 2025 · 3:28 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1965799540977439218#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1965525375376908644#m",
+      "content": "During moments of extreme volatility, AlphaLend’s risk engine proved itself: zero bad debt, and depositors protected.\n\nMore details below 👇",
+      "timestamp": "Sep 9, 2025 · 9:19 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1965525375376908644#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1965156882445971541#m",
+      "content": "Bluefin users are safe and our products are unaffected by the ongoing supply chain attack.\n\nWe have confirmed that none of the vulnerable npm package versions are used on Bluefin.\n\nStay safe,\nBluefin team",
+      "timestamp": "Sep 8, 2025 · 8:54 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1965156882445971541#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1964977517384826988#m",
+      "content": ". @bluefinapp is making trading seamless on @SuiNetwork 🌊\n\nWith Axelar powering crosschain connections, users can trade where they want, when they want.\n\nSimple UX 🤝 Secure connectivity",
+      "timestamp": "Sep 8, 2025 · 9:02 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1964977517384826988#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1965070876426305959#m",
+      "content": "Supply xBTC and borrow USDC on Bluefin via OKX @wallet to earn rewards!\n\nLearn more: web3.okx.com/earn/activity/x…",
+      "timestamp": "Sep 8, 2025 · 3:13 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1965070876426305959#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1964099725797527611#m",
+      "content": "Just took @bluefinapp 2.0 for a spin! You should too. Better than CEX. #SUI",
+      "timestamp": "Sep 5, 2025 · 10:54 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1964099725797527611#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1963602946983137370#m",
+      "content": "✅ [New bug bounty] Earn up to $15,000 with @bluefinapp\n\nYou will be rewarded based on these tiers:\n- Critical: $10,000 - $15,000\n- High: up to $5,000\n\nStart the #bugbounty hunt right now!",
+      "timestamp": "Sep 4, 2025 · 1:59 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1963602946983137370#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1963692618258567377#m",
+      "content": "Who's Building w/ @sunnymaanz and @marccolcer [@SuiNetwork IRL edition]\n\nBrought to you by the best exchange in the biz ->\n@cubexch 🧊                            \n\nToday's guest -> @ajenroute and @zabimx of @bluefinapp \n\nTLDR: Bluefin is a decentralized trading platform built on $SUI, aiming to bring the speed and ease of traditional exchanges to DeFi\n\nWe talk about...      \n00:11 - Intro to @ajenroute \n00:42 - Why they chose $SUI for Bluefin\n03:09 - How did @ajenroute and @zabimx meet\n05:05 - Why crypto made sense\n06:40 - @zabimx's background\n08:40 - The impact of @LucaNetz \n10:44 - TLDR of @bluefinapp \n11:50 - The benefits of SuiRL",
+      "timestamp": "Sep 4, 2025 · 7:56 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1963692618258567377#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1963637637266211209#m",
+      "content": "We're live with Episode 26 of Multichain Nation featuring @bluefinapp CTO @ajenroute 🐟\n\nWatch the full episode to learn how Bluefin is simplifying trading for users on @SuiNetwork 👇",
+      "timestamp": "Sep 4, 2025 · 4:17 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1963637637266211209#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1963230935798702347#m",
+      "content": "Trade smarter with @nexaxyz.\n\nCongratulations to our friends at Nexa on the launch of their points program! \n\nLearn more below 👇",
+      "timestamp": "Sep 3, 2025 · 1:21 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1963230935798702347#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1962808624545222946#m",
+      "content": "Happy Suitember!",
+      "timestamp": "Sep 2, 2025 · 9:23 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1962808624545222946#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1962562548416356806#m",
+      "content": "It has been one month since we introduced Bluefin Pro! We’re grateful for the incredible support from our users and partners.\n\nWhat features would you like to see next on Bluefin Pro? Share your suggestions below 👇",
+      "timestamp": "Sep 1, 2025 · 5:05 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1962562548416356806#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1961092780173988156#m",
+      "content": "Bluefin has crossed $200 million in TVL! Thank you to our community and partners for helping us reach this milestone 💙",
+      "timestamp": "Aug 28, 2025 · 3:45 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1961092780173988156#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1961051418208690203#m",
+      "content": "BTCFi Builder Roundtable localhost:8080/i/broadcasts/1BRKjgbmY…",
+      "timestamp": "Aug 28, 2025 · 1:01 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1961051418208690203#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1960767066950263126#m",
+      "content": "Sui ecosystem merch looking good!",
+      "timestamp": "Aug 27, 2025 · 6:11 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1960767066950263126#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1960227273178845624#m",
+      "content": "Bluefin is powering over $30M of xBTC liquidity, and we are thrilled to continue our collaboration with OKX @wallet to grow Bitcoin liquidity and adoption on Sui!\n\nProvide liquidity and earn rewards: web3.okx.com/earn/activity/x…",
+      "timestamp": "Aug 26, 2025 · 6:26 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1960227273178845624#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1959253051149046151#m",
+      "content": "Bluefin Pro now offers increased leverage on the following trading pairs:\n\nSUI-PERP: up to 25x leverage\nWAL-PERP: up to 20x leverage\n\nTrade Now: trade.bluefin.io/pro",
+      "timestamp": "Aug 23, 2025 · 1:55 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1959253051149046151#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1958925434059686127#m",
+      "content": "DEEP-PERP is now live on Bluefin Pro! Go long or short with up to 20x leverage.\n\nTrade Now: trade.bluefin.io/pro/DEEP-PE…",
+      "timestamp": "Aug 22, 2025 · 4:13 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1958925434059686127#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1958838040400466146#m",
+      "content": "Bluefin is coming to Seoul! 🇰🇷\n\nWe're excited to be a sponsor of the Sui Builder House event and look forward to seeing you there. \n\nPlease register here: lu.ma/BuilderHouseAPAC",
+      "timestamp": "Aug 22, 2025 · 10:25 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1958838040400466146#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1957921350409982236#m",
+      "content": "Lending and borrowing for ALKIMI by @AlkimiExchange is live on Bluefin.\n\nSupply now: trade.bluefin.io/lend",
+      "timestamp": "Aug 19, 2025 · 9:43 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1957921350409982236#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1957714197908975979#m",
+      "content": "7K LP Pro: Public Access is Live!\n\nAfter weeks of exclusive early access, 7k.ag/lp is officially open to all users on @SuiNetwork.\n\nEnjoy:\n💧 Cross-DEX Yield Discovery from @CetusProtocol, @bluefinapp, @MMTFinance & more\n💧 All-in-one Dashboard for Portfolio Management\n💧 One-click Rebalance, Zap In & Zap Out\n💧 Real-time Analytics\n💧 Position History\n\nBut there's more in store for you. 👇",
+      "timestamp": "Aug 19, 2025 · 8:00 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1957714197908975979#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1957760257905606688#m",
+      "content": "ALKIMI, the native token of @AlkimiExchange, is now listed on Bluefin Spot!\n\nTrade: trade.bluefin.io/swap/SUI-0x…",
+      "timestamp": "Aug 19, 2025 · 11:03 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1957760257905606688#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1957515720839078189#m",
+      "content": "Builders building for the community. \n\nStrap your helmets, it’s go time! 🪖",
+      "timestamp": "Aug 18, 2025 · 6:51 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1957515720839078189#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1957513868814565849#m",
+      "content": "Bluefin stands on the front lines with @blastdotfun 🪖\n\nAll tokens graduating from blast.fun will be listed and tradable on Bluefin Spot.",
+      "timestamp": "Aug 18, 2025 · 6:44 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1957513868814565849#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1957490656508801492#m",
+      "content": "ALKIMI, the native token of @AlkimiExchange, will be listed on Bluefin Spot and Lend on August 19, 11:00 AM UTC.",
+      "timestamp": "Aug 18, 2025 · 5:11 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1957490656508801492#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1955936119121428669#m",
+      "content": "Bluefin is now the most liquid venue for trading WAL (@walrusprotocol).\n\nPerps: trade.bluefin.io/pro/WAL-PER…\nSpot: trade.bluefin.io/swap/USDC-W…",
+      "timestamp": "Aug 14, 2025 · 10:14 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1955936119121428669#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1955645853630161258#m",
+      "content": "We are excited to see @nexaxyz go live with perpetual trading, built directly on top of Bluefin Pro’s infrastructure and liquidity.\n\nBluefin Pro serves as the permissionless derivatives trading infrastructure that can power frontends, structured products, and entirely new products on top.\n\nNexa has taken that foundation and delivered a terminal-style trading experience tailored specifically for its users.",
+      "timestamp": "Aug 13, 2025 · 3:01 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1955645853630161258#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1955285435095073172#m",
+      "content": "Bluefin has integrated @privy_io to make onboarding even faster and simpler.\n\nSign in with an email, and instantly start trading on Bluefin while maintaining full ownership of your assets.\n\nAt Bluefin, our north star is to become the most powerful on-chain trading venue. This integration is a key step toward making that future accessible to everyone.",
+      "timestamp": "Aug 12, 2025 · 3:09 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1955285435095073172#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1953821742255784246#m",
+      "content": "It’s $SLAY season for BLUE holders. The top 500 BLUE vault depositors will receive a $SLAY allocation on claim day.\n\nEligible users must register before August 9, 2025, at 9 PM UTC+8 to be part of the SlayDrop. Register now to secure your spot: slaydrop.satlayer.foundation…\n\nThank you, @satlayer, for including the Bluefin community!",
+      "timestamp": "Aug 8, 2025 · 2:12 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1953821742255784246#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1953424813244244157#m",
+      "content": "1/4 New opportunity:  The tBTC/ xBTC pool is now live on OKX @wallet, with boosted APRs currently at 117% as part of a broader ecosystem incentive campaign. Available until September 6, 2025.\n\nMore details on this thread👇",
+      "timestamp": "Aug 7, 2025 · 11:55 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1953424813244244157#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1953221725266591821#m",
+      "content": "What’s your favourite colour?",
+      "timestamp": "Aug 6, 2025 · 10:28 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1953221725266591821#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1953096421810241829#m",
+      "content": "Bluefin’s Affiliate Program lets you choose how to split your referral earnings. Keep it all, or share the love with your referrals. @SalsaTekila chose to share it all.\n\nNote: This is not a paid promotion. SalsaTekila joined the affiliate program to support and grow a product he likes.\n\nApply to the Bluefin Affiliate Program here: bluefinfoundation.typeform.c…",
+      "timestamp": "Aug 6, 2025 · 2:10 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1953096421810241829#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1953055130284089551#m",
+      "content": "It's simple. Trade perps on Bluefin Pro: trade.bluefin.io/pro\n\nAnd share your PnL cards with us!",
+      "timestamp": "Aug 6, 2025 · 11:26 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1953055130284089551#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1952757616091766797#m",
+      "content": "Bluefin leads perpetual trading on Sui with over $51.5 billion in volume and a 97% market share.\n\nWith Bluefin Pro, we have introduced a dual-margining engine that supports both cross and isolated margin, optimized for capital efficiency and performance.\n\nTrade on Bluefin Pro: trade.bluefin.io/pro",
+      "timestamp": "Aug 5, 2025 · 3:44 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1952757616091766797#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1951650238478917674#m",
+      "content": "Bluefin is now powering $20M in BTC liquidity!\n\nThank you to our community and partners for trusting Bluefin as a leading BTCFi hub on @SuiNetwork.\n\nDo more with your Bitcoin on Bluefin: trade.bluefin.io/liquidity-p…",
+      "timestamp": "Aug 2, 2025 · 2:24 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1951650238478917674#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1951267072350253112#m",
+      "content": "Bluefin offering exclusive trading rewards for the Kaito community!\n\n- 10% cashback on perp trading fees\n- 5% bonus on spot LP earnings\n\nAnd even more benefits if you sign on as an affiliate.\n\nJust use the code: KaitoAI - to get the benefits! 👇",
+      "timestamp": "Aug 1, 2025 · 1:01 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1951267072350253112#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1950868863421227335#m",
+      "content": "worked closely with the @bluefinapp team almost 4 years ago - some of the most grounded folks I know in the space\n\nso glad to see them going live on Kaito\n\nlife really does come full circle",
+      "timestamp": "Jul 31, 2025 · 10:39 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1950868863421227335#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1950856811596206109#m",
+      "content": "Welcoming @KaitoAI as a Bluefin Affiliate Partner! Use code \"KaitoAI\" when signing up on Bluefin to receive:\n\n🔹 10% cashback on Bluefin Perp trading fees\n🔹 5% bonus on Bluefin Spot LP earnings\n\nSign up here: trade.bluefin.io/affiliate/K…\n\nKaito Yappers can also apply to become a Bluefin–Kaito Affiliate Partner here: bluefinfoundation.typeform.c…. Please ensure that you enter code “KaitoAI” in the form.",
+      "timestamp": "Jul 31, 2025 · 9:51 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1950856811596206109#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1950855651934027890#m",
+      "content": "The Bluefin Yapper Leaderboard is now live on @KaitoAI!\n\nIt’s all about shining a spotlight on the creators pushing Bluefin’s mission forward.\n\nLet the yapping begin: yaps.kaito.ai/bluefin",
+      "timestamp": "Jul 31, 2025 · 9:46 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1950855651934027890#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1950212682000245139#m",
+      "content": "With One-Click Trading (1CT), a single approval unlocks a seamless trading experience.\n\nTry it on Bluefin Pro: trade.bluefin.io/pro/BTC-PER…",
+      "timestamp": "Jul 29, 2025 · 3:11 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1950212682000245139#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1950190295464755302#m",
+      "content": "Lending and borrowing for IKA by @ikadotxyz is now live on Bluefin.\n\nSupply now: trade.bluefin.io/lend",
+      "timestamp": "Jul 29, 2025 · 1:42 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1950190295464755302#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1950134990202634446#m",
+      "content": "IKA, the native token of @ikadotxyz, is now listed on Bluefin Spot!\n\nTrade: trade.bluefin.io/swap/USDC-I…",
+      "timestamp": "Jul 29, 2025 · 10:03 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1950134990202634446#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1949893871820738671#m",
+      "content": "We are excited to launch the Bluefin Pro campaign on @Galxe!\n\nComplete quests to earn your share of the $5,000 prize pool: app.galxe.com/quest/bluefin/…",
+      "timestamp": "Jul 28, 2025 · 6:05 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1949893871820738671#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1949748244835090802#m",
+      "content": "It’s hot squid summer! IKA, the native token of @ikadotxyz, will be listed on Bluefin Spot on July 29.",
+      "timestamp": "Jul 28, 2025 · 8:26 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1949748244835090802#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1949163036981232014#m",
+      "content": "Share your Bluefin Pro PnL cards below 👇\n\nWe will reward the top 3 highest PnL percentages with 10 SUI each! Submit by July 28, 12:00 AM UTC.\n\nTrade: trade.bluefin.io/pro",
+      "timestamp": "Jul 26, 2025 · 5:40 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1949163036981232014#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1948857869220413450#m",
+      "content": "Traders, go pro with @bluefinapp 👇",
+      "timestamp": "Jul 25, 2025 · 9:28 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1948857869220413450#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1948784696562790539#m",
+      "content": "Ico is using Bluefin Pro \n\nYou should too: trade.bluefin.io/pro",
+      "timestamp": "Jul 25, 2025 · 4:37 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1948784696562790539#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1948767347323384120#m",
+      "content": "The @bluefinapp team is cooking something big with the launch of Bluefin Pro 👀",
+      "timestamp": "Jul 25, 2025 · 3:28 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1948767347323384120#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1948509406800285931#m",
+      "content": "I can’t sleep. I’m too excited for tomorrow…",
+      "timestamp": "Jul 24, 2025 · 10:23 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1948509406800285931#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1948422338959016016#m",
+      "content": "Building the Price Layer with Pyth feed by feed.\n\nPowered by @PythNetwork.",
+      "timestamp": "Jul 24, 2025 · 4:37 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1948422338959016016#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1948405075015069734#m",
+      "content": "We are proud to be working with @AsymptoticTech on what matters most: security.",
+      "timestamp": "Jul 24, 2025 · 3:29 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1948405075015069734#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1948308190669795463#m",
+      "content": "We've added an additional 43K $SUI to our reward pool when you deposit xBTC on @SuiNetwork!\n\n💧 Participate in xBTC pools across NAVI Protocol, Momentum, and Bluefin to get your share of more than 3.1M+ USD worth of rewards.\n\nStart now: web3.okx.com/earn/activity/x…",
+      "timestamp": "Jul 24, 2025 · 9:04 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1948308190669795463#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1948301809266622552#m",
+      "content": "Be like Wale, and start your morning with some quests ☕️ \n\nCampaign details: web3.okx.com/cryptopedia/eve…",
+      "timestamp": "Jul 24, 2025 · 8:38 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1948301809266622552#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1947967365930766741#m",
+      "content": "Supply → Borrow → LP → Earn\n\nIt’s as simple as that.\n\nBTCFi on Sui powered by @navi_protocol and Bluefin.",
+      "timestamp": "Jul 23, 2025 · 10:29 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1947967365930766741#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1947753878021456252#m",
+      "content": "The Yeti is calling! Provide liquidity to the LOFI-SUI pool on Bluefin and win rewards. \n\n100 winners will be selected at random and rewarded from a prize pool of $2,500 USDC.\n\nHere’s how to enter: \n• Follow @bluefinapp & @lofitheyeti\n• Tag 2 friends in the comments\n• Add liquidity to the $LOFI / $SUI pool. To qualify, you must add a minimum of $50 of LP in a 1:1 ratio. For example: $25 in $LOFI and $25 in $SUI\n\nDeposit Now: trade.bluefin.io/deposit/0xa…",
+      "timestamp": "Jul 22, 2025 · 8:21 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1947753878021456252#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1947303811904635121#m",
+      "content": "Join the OKX @wallet Cryptopedia campaign featuring Bluefin and complete tasks to earn your share of over $600,000 in rewards.\n\nCampaign details: web3.okx.com/cryptopedia/eve…",
+      "timestamp": "Jul 21, 2025 · 2:33 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1947303811904635121#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1946308150749016485#m",
+      "content": "Now tracking @bluefinapp Pro on @SuiNetwork \n\nBluefin Pro is the upgraded, high-performance version of the Bluefin decentralized derivatives exchange, built on the Sui blockchain",
+      "timestamp": "Jul 18, 2025 · 8:36 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1946308150749016485#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1946309996771205519#m",
+      "content": "Bluefin Pro is now open to all early access sign-ups!\n\nPlease share your experience and feedback here: bluefinfoundation.typeform.c…\n\nTrade now: trade.bluefin.io/pro",
+      "timestamp": "Jul 18, 2025 · 8:43 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1946309996771205519#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1945945149894439186#m",
+      "content": "Congratulations to the @kai_finance_sui team on their latest product upgrade!\n\nTheir platform now allows you to:\n\n• LP with leverage across USDC, SUI, WAL, LBTC & wBTC\n• Track APR & PnL in real time\n• Enjoy a fast, clean UI with powerful analytics\n\nIt’s awesome to see Sui builders constantly raising the bar on product quality! Take a look at the thread below for more details and how they are powering multiple pools on Bluefin.",
+      "timestamp": "Jul 17, 2025 · 8:34 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1945945149894439186#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1945845823067369917#m",
+      "content": "localhost:8080/i/spaces/1LyxBWogjvyKN",
+      "timestamp": "Jul 17, 2025 · 1:59 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1945845823067369917#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1945836039597126108#m",
+      "content": "5/ A special thank you to our community and partners for supporting us on this journey. Since 2020, we’ve been building toward a vision of the most powerful on-chain trading venue. With the launch of Bluefin Pro, we’re closer than ever to that goal and proud to help power the new financial stack on Sui.\n\nWe are excited to see you try Bluefin Pro and look forward to hearing your feedback!",
+      "timestamp": "Jul 17, 2025 · 1:20 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1945836039597126108#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1945836037323849771#m",
+      "content": "4/ Bluefin Perps Beta will continue to operate during the migration period, as outlined in the previous announcement.",
+      "timestamp": "Jul 17, 2025 · 1:20 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1945836037323849771#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1945836035658936730#m",
+      "content": "3/ Access to Bluefin Pro is rolling out in three phases:\n\n• Early Access Round 1 - July 17 at 1:00 PM UTC: Bluefin Ambassadors, partner communities, Bluefin Leagues (Sapphire and Black league holders), BLUE Vault top 50 depositors, and 1,000 early access signups selected at random.\n• Early Access Round 2 - July 18 at 1:00 PM UTC: Remaining early access participants.\n• Public Launch of Bluefin Pro: Week of July 21!\n\nAs part of this launch, early access participants will benefit from reduced trading fees: 0% maker and 0.02% taker fees. These will revert to standard rates at public launch.",
+      "timestamp": "Jul 17, 2025 · 1:20 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1945836035658936730#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1945836033750278647#m",
+      "content": "2/ At its core, Bluefin Pro combines Sui’s high-performance infrastructure with a new margining engine focused on capital efficiency. It supports both cross and isolated margin modes, allowing traders to manage capital and risk in ways that suit their strategies.\n\nBluefin Pro also introduces native USDC support, advanced trading tools, and a completely redesigned user interface.\n\nLearn more about how Bluefin Pro works here: localhost:8080/bluefinapp/status/1917…",
+      "timestamp": "Jul 17, 2025 · 1:20 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1945836033750278647#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1945836031384674766#m",
+      "content": "1/ Bluefin Pro is now live in early access!\n\nBluefin first launched perpetuals on @SuiNetwork in Q4 2023. Since then, the beta platform has processed over $55 billion in trading volume. Bluefin Pro is a complete reimagination of that platform, built from the ground up to deliver blazing-fast speed, trustless execution, on-chain transparency, and full self-custody.\n\nTrade now: trade.bluefin.io/pro",
+      "timestamp": "Jul 17, 2025 · 1:20 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1945836031384674766#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1945814565016461440#m",
+      "content": "Today is the day.",
+      "timestamp": "Jul 17, 2025 · 11:55 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1945814565016461440#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1945508123927523696#m",
+      "content": "Do more with your BTC on Bluefin and Sui via @satlayer!",
+      "timestamp": "Jul 16, 2025 · 3:37 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1945508123927523696#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1945488937968865382#m",
+      "content": "DeFi on Sui hits different.\n\n@bluefinapp has $605K in rewards up for grabs.\n\nEnds Sept 6.",
+      "timestamp": "Jul 16, 2025 · 2:21 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1945488937968865382#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1945137550844104847#m",
+      "content": "Bluefin Pro Early Access: Thursday, July 17 at 1:00 PM UTC.",
+      "timestamp": "Jul 15, 2025 · 3:05 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1945137550844104847#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1945111393398624668#m",
+      "content": "Bluefin has teamed up with OKX @wallet to bring you some of the highest APRs across multiple xBTC pools!\n\nProvide liquidity and earn rewards: web3.okx.com/earn/activity/x…",
+      "timestamp": "Jul 15, 2025 · 1:21 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1945111393398624668#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1944766601401684299#m",
+      "content": "Introducing the Bluefin Affiliate Program! Join us on our mission to build the most powerful on-chain trading venue.\n\nAs an affiliate partner, you will earn a share of trading fees, unlock exclusive perks, and help grow the Bluefin ecosystem across perps, spot, and lending.\n\nThis is an application-based program for creators, traders, and community members ready to grow with us.\n\nApply now: bluefinfoundation.typeform.c…",
+      "timestamp": "Jul 14, 2025 · 2:31 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1944766601401684299#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1943671752376062386#m",
+      "content": "We are thrilled to announce that @satlayer is now live on Bluefin!\n\nProvide liquidity to the following pools to earn extra rewards:\n\n• xBTC-satxBTC: trade.bluefin.io/deposit/0xc…\n• LBTC-satLBTC: trade.bluefin.io/deposit/0x2…\n\nFor more information, please see the thread below 👇",
+      "timestamp": "Jul 11, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1943671752376062386#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1943642257988444476#m",
+      "content": "Lending on Bluefin has a new look! Powered by AlphaLend.\n\nLend now: trade.bluefin.io/lend",
+      "timestamp": "Jul 11, 2025 · 12:03 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1943642257988444476#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1943597905996034069#m",
+      "content": "We've got 605K USD worth of tokens up for grabs on Cryptopedia S38 - \nBluefin @bluefinapp when you complete simple tasks!\n\n📅 Ends on Sep 6, 7 AM UTC\n\nJoin now: web3.okx.com/ul/5YSQfl",
+      "timestamp": "Jul 11, 2025 · 9:07 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1943597905996034069#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1943180525138592075#m",
+      "content": "You can now manage your BLUE and other Sui tokens directly in @Ledger Live!",
+      "timestamp": "Jul 10, 2025 · 5:28 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1943180525138592075#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1942985668742820165#m",
+      "content": "We are excited to launch the tBTC (@tBTC_project) campaign on @Galxe!\n\nOur goal with this campaign is to support the growth of BTCFi and scale the tBTC ecosystem on Bluefin and @SuiNetwork.\n\nComplete the quests to earn your share of the $5,000 prize pool: app.galxe.com/quest/bluefin/…",
+      "timestamp": "Jul 9, 2025 · 4:34 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1942985668742820165#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1942895524203614479#m",
+      "content": "5/ Chart UI improvements include: \n\n• Improved font sizes and clearer labels on candlestick chart headers\n• Added header for custom and full ranges on the LP chart\n• Increased LP chart height for better visibility\n• Smoothed candlestick chart background for a cleaner feel",
+      "timestamp": "Jul 9, 2025 · 10:36 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1942895524203614479#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1942895522311758281#m",
+      "content": "4/ Token & rewards breakdowns: Hover over each position to instantly see your token allocations and rewards breakdown.",
+      "timestamp": "Jul 9, 2025 · 10:36 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1942895522311758281#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1942895518704685137#m",
+      "content": "3/ Mobile UI revamp: We’ve redesigned the mobile interface, making it easier to access open positions and manage liquidity on the go.",
+      "timestamp": "Jul 9, 2025 · 10:36 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1942895518704685137#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1942895514246099346#m",
+      "content": "2/ Improved LP position management: You can now view all your open positions directly on the LP page, quickly remove liquidity with the new quick close button, and claim rewards individually on each position.",
+      "timestamp": "Jul 9, 2025 · 10:36 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1942895514246099346#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1942895510605500692#m",
+      "content": "1/ We have rolled out a series of UI/UX upgrades to make Bluefin Spot smoother, easier, and faster to use. Let's take a closer look 👇",
+      "timestamp": "Jul 9, 2025 · 10:36 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1942895510605500692#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1942598640167768100#m",
+      "content": "1/4 Almost 24 hours after the @SuiNetwork launch, tBTC (@tBTC_project) is seeing great numbers with our partners from @bluefinapp and @AlphaLendSui, here's the full detail 👇",
+      "timestamp": "Jul 8, 2025 · 2:56 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1942598640167768100#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1942332526372303009#m",
+      "content": "Newmoney x @bluefinapp is official!\nThe #TGE lands where real volume moves.\n\nBluefin’s hybrid orderbook and concentrated liquidity power next‑level trading on #SUI. Fast fills, low slippage, deep reward pools. \n\nThat’s where $NEW goes live.",
+      "timestamp": "Jul 7, 2025 · 9:18 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1942332526372303009#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1942613596577620403#m",
+      "content": "Congratulations to @TheTNetwork on the launch of tBTC on Sui! We are proud to be a launch partner and are excited to work together to grow BTCFi on Sui. \n\nDeposit now: trade.bluefin.io/deposit/0x8…",
+      "timestamp": "Jul 8, 2025 · 3:55 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1942613596577620403#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1942540572985606198#m",
+      "content": "Do more with your Bitcoin on Bluefin! We are excited to kick off our campaign with OKX @wallet, introducing multiple xBTC liquidity pools where you can provide liquidity and earn rewards.\n\nLearn more: web3.okx.com/earn/activity/x…",
+      "timestamp": "Jul 8, 2025 · 11:05 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1942540572985606198#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1942529531614749092#m",
+      "content": "More utility. More rewards 💧\n\nBTCfi on Sui offers you more and more 👇",
+      "timestamp": "Jul 8, 2025 · 10:21 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1942529531614749092#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1942527333426147522#m",
+      "content": "Get over 11K $SUI and 1.7M $BLUE in rewards when you provide liquidity for xBTC on @bluefinapp!\n\nSimply join a xBTC pool (USDC, SUI, wBTC) on Sui to start.\n\nMore details: web3.okx.com/earn/activity/x…",
+      "timestamp": "Jul 8, 2025 · 10:13 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1942527333426147522#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1941030103708062128#m",
+      "content": "Bluefin Pro is imminent.",
+      "timestamp": "Jul 4, 2025 · 7:03 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1941030103708062128#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1940780080185176176#m",
+      "content": "3/ Bluefin was born in 2020 with a vision to become the most powerful onchain trading venue, and this started with perps as our flagship product. Perpetual futures are the future of crypto markets, and we are seeing major institutions and companies, such as Robinhood and Coinbase, adopting perps into their core product strategies. Sui provides the scalability and performance needed to support this at a global scale, and Bluefin Pro will lead the way.",
+      "timestamp": "Jul 3, 2025 · 2:30 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1940780080185176176#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1940780078201200680#m",
+      "content": "2/ The migration from the current Beta platform to Bluefin Pro will be part of Bluefin Governance Proposal 2 (BGP-2). Here’s everything you need to know about the migration:\n\n• July 11: First round of delistings on Beta (SEI, APT, TIA, POL, AVAX, ARB, TRUMP, DEEP, BLUE, SEND)\n• Week of July 15: Early access to Bluefin Pro opens\n• 3 Days After Early Access: Public launch of Bluefin Pro\n• July 29: Second round of delistings on Beta (BTC, ETH, SOL, SUI, WAL). These markets will be listed on Bluefin Pro and will be available for you to re-open your positions.\n• July 31: Sunset of Bluefin Beta\n\nPlease close open positions before each delisting deadline. Positions that have not been closed before the delisting time will be closed at the oracle price. You can continue trading and earning rewards on Beta until July 29. Bluefin Vaults will remain active and continue to earn beyond migration.\n\nWe will be publishing a detailed guide and FAQ in the coming days to help make this migration as smooth as possible for you.",
+      "timestamp": "Jul 3, 2025 · 2:30 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1940780078201200680#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1940780073872732337#m",
+      "content": "1/ The Great Migration is here. Bluefin pioneered perps trading on @SuiNetwork, and over the past 648 days, Bluefin Perps Beta has processed over $55 billion in trading volume. \n\nWith Bluefin Pro, we introduce a completely rebuilt perps exchange and are excited to take perps trading on Sui to new heights. As we launch Pro, Bluefin Perps Beta will gradually be sunsetted.",
+      "timestamp": "Jul 3, 2025 · 2:30 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1940780073872732337#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1938538701539152062#m",
+      "content": "A standout moment from @DefaiCon at #IBW2025:\n\nAndrey Fedorov (@ston_fi), @zabimx (@bluefinapp), and @djchrisssssss (@Scallop_io) explored The Rise of DeFAI Trading: Are Autonomous Agents the Next Market Makers?\n\nExpertly moderated by Merve Sait (@mesmes__). \n\nDeFi + AI is not only the future, but the present.",
+      "timestamp": "Jun 27, 2025 · 10:03 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1938538701539152062#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1938184733437137229#m",
+      "content": "XO, the native token of @xocietyofficial, is now listed on Bluefin Spot!\n\nTrade: trade.bluefin.io/swap/USDC-X…\nDeposit and earn: trade.bluefin.io/deposit/0xa…",
+      "timestamp": "Jun 26, 2025 · 10:37 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1938184733437137229#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1938133148778262952#m",
+      "content": "Arttoo’s vision to bring iconic fine art to a global community is coming to life, and it’s happening on Sui!\n\nDiscover the “Life of Jupiter” masterpiece 👇",
+      "timestamp": "Jun 26, 2025 · 7:12 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1938133148778262952#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1938059209628594383#m",
+      "content": "We are excited to announce that XO, the native token of @xocietyofficial, will be listed on Bluefin on June 26 at 9:00 AM UTC.",
+      "timestamp": "Jun 26, 2025 · 2:18 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1938059209628594383#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1937844928391925768#m",
+      "content": "Guardrail has been a key part of our security stack. Their real-time monitoring and oracle protection systems help us maintain reliability and resilience as we continue to scale.\n\nRead their case study here: guardrail.ai/case-studies/bl…",
+      "timestamp": "Jun 25, 2025 · 12:06 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1937844928391925768#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1937735888395461023#m",
+      "content": "Do more with your wWAL on Bluefin! ❄️ \n\nDeposit: trade.bluefin.io/deposit/0x3…",
+      "timestamp": "Jun 25, 2025 · 4:53 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1937735888395461023#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1937591311655202990#m",
+      "content": "Lend. Borrow. Drive into the future with @bluefinapp and $DMC 🏎️💨💨💨",
+      "timestamp": "Jun 24, 2025 · 7:19 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1937591311655202990#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1937590219714494937#m",
+      "content": "Lending and borrowing for DMC by @DeLoreanlabs is now live on Bluefin - supply now: trade.bluefin.io/lend",
+      "timestamp": "Jun 24, 2025 · 7:14 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1937590219714494937#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1937465777382097108#m",
+      "content": "We are excited to announce that DMC, the native token of @DeLoreanlabs, is now listed on Bluefin Spot!\n\nTrade: trade.bluefin.io/swap/USDC-D…\nDeposit and earn: trade.bluefin.io/deposit/0x0…",
+      "timestamp": "Jun 24, 2025 · 11:00 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1937465777382097108#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1937257415667241039#m",
+      "content": "Bluefin Spot LP incentives have been refreshed – the updated rewards are now live!\n\nLP and earn on Bluefin: trade.bluefin.io/liquidity-p…",
+      "timestamp": "Jun 23, 2025 · 9:12 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1937257415667241039#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1937118446312988814#m",
+      "content": "Start your engines! DMC, the native token of @DeLoreanlabs, will be listed on Bluefin on June 24 at 11:00 AM UTC.\n\n1,600,000 DMC in daily rewards will be distributed across spot and lending on Bluefin. Reward emissions may change over time - stay tuned for more details.",
+      "timestamp": "Jun 23, 2025 · 12:00 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1937118446312988814#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1936093516414832992#m",
+      "content": "Introducing Bluefin Governance, powered by @commondotxyz! \n\nThe first proposal is live and open for voting: common.xyz/bluefin/discussio…",
+      "timestamp": "Jun 20, 2025 · 4:07 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1936093516414832992#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1935761311142404289#m",
+      "content": "6/ Protocols Integrated into Bluefin (Perps, Spot, Lending, Aggregator)\n\nYield Aggregators: @AlphaFiSUI, @kai_finance_sui\nLending: @AlphaLendSui, @navi_protocol, @suilendprotocol\nCross-Chain: @lifiprotocol, @JumperExchange, @binance Alpha, OKX @wallet , @elixir\nAI: @BlueprintAIx, @NewmoneyAI\nTrading Terminals: @nexaxyz, @ThePumpkinToken, @NoodlesFi \nStablecoins: @bucket_protocol, @withAUSD\nLaunchpads: @printrgobrrr, @doubleup_app \nRWA: @arttoo_official",
+      "timestamp": "Jun 19, 2025 · 6:07 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1935761311142404289#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1935761309133685149#m",
+      "content": "5/ Advanced Features & Refreshed Feel\n\n• Terminal Mode: select the mode for a trading terminal view of each token\n• Auto Vaults: automatically manage your LP positions, powered by AlphaFi\n• Refreshed Feel: the spot interface has gone through a UI refresh",
+      "timestamp": "Jun 19, 2025 · 6:07 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1935761309133685149#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1935761305211985966#m",
+      "content": "4/ Advanced Liquidity Tools, Made Simple.\n\nThe all-new LP experience is the most advanced LP experience on Sui – built to help you view, manage, and optimize your liquidity across all pools on Bluefin!",
+      "timestamp": "Jun 19, 2025 · 6:07 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1935761305211985966#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1935761301139005758#m",
+      "content": "3/ Security as a System\n\nBluefin is the most audited and battle-tested protocol on Sui, with ongoing audits from @osec_io and @AsymptoticTech and a dedicated internal security team.\n\nSecurity is an ongoing commitment, and these are some of the initiatives that we are investing in at Bluefin:\n\n • Formal verification of core libraries (localhost:8080/AsymptoticTech/status/…)\n • Weekly code reviews\n • Bug bounties\n • Internal coverage\n\nWe’ll continue investing in formal verification, architecture reviews, and ecosystem-wide coordination to raise the bar for secure and verifiable DeFi.",
+      "timestamp": "Jun 19, 2025 · 6:07 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1935761301139005758#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1935761298794467580#m",
+      "content": "2/ A Leading Aggregator on Sui\n\nBluefin7K is a widely used aggregator infrastructure on Sui, integrated with @lifiprotocol (powering swaps across @binance, @JumperExchange, and many other venues).\n\nIt extends Bluefin’s unique liquidity model across the ecosystem, routing through the deepest markets.\n\nBluefin Spot 2.0 means: smarter routing, broader integrations, and a vastly improved UX.",
+      "timestamp": "Jun 19, 2025 · 6:07 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1935761298794467580#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1935761297070833732#m",
+      "content": "1/ Hybrid Liquidity: RFQ + CLMM\n\nBluefin combines the depth of passive LPs with the precision of RFQ (Request for quote) execution. This hybrid model delivers low slippage, MEV protection, and consistently better pricing.\n\nRFQ is quickly emerging as a core primitive in DeFi. We’re scaling it fast and integrating it directly into our concentrated liquidity pools. This results in tighter spreads, faster fills, and better execution.",
+      "timestamp": "Jun 19, 2025 · 6:07 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1935761297070833732#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1935761295254458870#m",
+      "content": "What makes Bluefin Spot 2.0 the most advanced onchain DEX on Sui? Let's dive in 🧵",
+      "timestamp": "Jun 19, 2025 · 6:07 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1935761295254458870#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1935715613928022058#m",
+      "content": "We’re excited to share a major milestone from our security partnership with @bluefinapp:\n\nWe’ve completed the full formal verification of integer-mate, the library used across many Sui protocols. The latest version is now formally verified and provably correct.\n\nDuring verification, we uncovered and responsibly disclosed a previously unknown bug. Thanks to the quick action and coordination by @SuiNetwork, an ecosystem-wide upgrade was swiftly deployed.\n\nDon’t just trust, verify: you can independently read and run our formal specifications yourself.\n\nBig thanks to @bluefinapp for hosting the formally-verified and improved version of this library and its executable specs for the community. You can check it out here: github.com/fireflyprotocol/i…",
+      "timestamp": "Jun 19, 2025 · 3:05 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1935715613928022058#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1935342515260916138#m",
+      "content": "New Avant-Garde is coming.",
+      "timestamp": "Jun 18, 2025 · 2:23 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1935342515260916138#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1935329868905877858#m",
+      "content": "The Bluefin7K aggregator is now live on @lifiprotocol!",
+      "timestamp": "Jun 18, 2025 · 1:32 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1935329868905877858#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1934856338556756030#m",
+      "content": "LI.F​I now supports @bluefinapp on Sui.\n\nThis integration unlocks deeper liquidity and more tokens on Sui for all our partners.\n\nBest price execution for swaps guaranteed on Sui, powered by LI.F​I!",
+      "timestamp": "Jun 17, 2025 · 6:11 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1934856338556756030#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1935036417584799889#m",
+      "content": "On Skynet, Bluefin holds the highest scores across the Sui ecosystem in multiple categories:\n\n• Skynet Score: 87.83 (AA) - #1 on Sui\n• Code Security: 85.39 - #1 on Sui\n• TVL: $186.6M\n\nTrack it all here: skynet.certik.com/projects/b…",
+      "timestamp": "Jun 17, 2025 · 6:06 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1935036417584799889#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1934642119878037924#m",
+      "content": "The @SuiNetwork experience on Jumper just levelled up with the meta-aggregator @bluefinapp now part of our Sui stack 💙\n\nThis unlocks deeper liquidity and more tokens on Sui to Make. The. Jump to 💧",
+      "timestamp": "Jun 16, 2025 · 3:59 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1934642119878037924#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1934657790468829522#m",
+      "content": "The Bluefin Pro audit contest is live on @HackenProof!\n\nLearn more: hackenproof.com/audit-progra…",
+      "timestamp": "Jun 16, 2025 · 5:02 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1934657790468829522#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1933177671464452399#m",
+      "content": "Nautilus in Action with Bluefin, TensorBlock & RegularTech localhost:8080/i/broadcasts/1MYxNwymV…",
+      "timestamp": "Jun 12, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1933177671464452399#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1932553456499482987#m",
+      "content": "🚨 LIVE DEMO TIME 🚨\n\nJoin us for a live stream with @Mysten_Labs Product Manager @abhinavg6, plus @Bluefinapp, @TensorBlock_aoi, and @thebldgblocks.\n\nWe're showcasing how teams are building real-world apps with Nautilus on @SuiNetwork — from verifiable trading engines to AI compute and smart legal contracts.\n\nLive on X, June 12 - 8am PST, see you there!",
+      "timestamp": "Jun 10, 2025 · 9:40 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1932553456499482987#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1932508120837726693#m",
+      "content": "The @lofitheyeti liquidity pool is live on Bluefin! It’s Yeti season on Bluefin 🥶\n\nTrade and LP LOFI on Bluefin: trade.bluefin.io/deposit/0xa…",
+      "timestamp": "Jun 10, 2025 · 6:40 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1932508120837726693#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1932464509626511400#m",
+      "content": "This launch marks a significant milestone for what’s possible on Sui! Bluefin Pro leverages Nautilus, running the matching engine in a trusted execution environment, to deliver millisecond-level order speeds without giving up decentralization, user custody, or verifiability.",
+      "timestamp": "Jun 10, 2025 · 3:46 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1932464509626511400#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1932401541962747982#m",
+      "content": "A deep dive into Bluefin Pro by the team at Four Pillars – one of the sharpest research firms in the space. Their article gets to the heart of why we built it the way we did.\n\nThank you @FourPillarsFP!",
+      "timestamp": "Jun 10, 2025 · 11:36 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1932401541962747982#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1932152623316230630#m",
+      "content": "During formal verification of the integer-mate library (part of our collaboration with @bluefinapp 🙏), we uncovered a subtle integer overflow bug in signed integer subtraction (sub).\n\nWe responsibly disclosed this to @SuiNetwork, who helped spread the word to affected DEXs so they could also fix this bug. And special thanks to @NotDeGhost from @osec_io for jumping in and helping throughout!\n\nOne impressive aspect was @bluefinapp’s rapid response, they had an upgrade ready almost immediately.\n\nNow that everyone has safely upgraded, here are the details about the bug 🧵",
+      "timestamp": "Jun 9, 2025 · 7:07 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1932152623316230630#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1932150716581171444#m",
+      "content": "During our ongoing formal verification with our partners at @AsymptoticTech, of integer-mate  – a core math library used across many Sui protocols – we identified an edge case where signed subtraction could behave incorrectly when the second operand reached its minimum possible value.\n\nWhile the bug had no impact on Bluefin’s systems, the uncertainty around how others might use the library prompted us to act quickly - preparing an improved implementation with our security partners and working closely with Sui Foundation to spread the word to affected DEXs so they could fix this bug.\n\nThank you to everyone involved: @AsymptoticTech for the deep dive and spotting the edge case, @osec_io’s @NotDeGhost for jumping in on verification, and @SuiNetwork for leading a swift and coordinated response.\n\nThis is the kind of collaboration that sets Sui apart. Security is an ongoing commitment, and this quick identification and solve shows we're in this together.\n\nWe’ll continue investing in formal verification, architecture reviews, and ecosystem-wide coordination to raise the bar for secure and verifiable DeFi.",
+      "timestamp": "Jun 9, 2025 · 7:00 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1932150716581171444#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1932126148869369934#m",
+      "content": "Welcoming @IvanOnTech to Sui and the Bluefin family 💙",
+      "timestamp": "Jun 9, 2025 · 5:22 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1932126148869369934#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1932055170759700971#m",
+      "content": "We are thrilled to announce our partnership with @BitgetWallet! \n\nJoin the campaign and complete quests to earn rewards! Learn more here: learn.bluefin.io/bluefin/use…",
+      "timestamp": "Jun 9, 2025 · 12:40 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1932055170759700971#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1931465120477065484#m",
+      "content": "Introducing the most advanced LP experience on Sui – built to help you view, manage, and optimize your liquidity across all pools on Bluefin!\n\nDeposit Now: trade.bluefin.io/liquidity-p…",
+      "timestamp": "Jun 7, 2025 · 9:35 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1931465120477065484#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1931379213509984437#m",
+      "content": "Welcoming this adorable Popkin by @Claynosaurz to the Bluefin family 💙",
+      "timestamp": "Jun 7, 2025 · 3:54 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1931379213509984437#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1929872510557786567#m",
+      "content": "Earn rewards by providing liquidity to the new WAL-SUI incentivized pool on Bluefin!\n\nDeposit Now: trade.bluefin.io/deposit?poo…",
+      "timestamp": "Jun 3, 2025 · 12:07 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1929872510557786567#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1929684421252120728#m",
+      "content": "Bluefin Spot LP incentives have been refreshed – the updated rewards are now live!\n\nLP and earn on Bluefin: trade.bluefin.io/liquidity-p…",
+      "timestamp": "Jun 2, 2025 · 11:39 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1929684421252120728#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1929672788585206220#m",
+      "content": "Formal verification of all u256 math operations from integer-mate is just the beginning. We are proud to work with @AsymptoticTech to complete the proofs for the remaining signed and unsigned operations.",
+      "timestamp": "Jun 2, 2025 · 10:53 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1929672788585206220#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1929596937181032908#m",
+      "content": "Introducing Bluefin7K – a Sui-native aggregator that routes through a network of DEXs and Bluefin’s RFQ engine, offering users the best rates and the deepest liquidity on the @SuiNetwork.\n\nThis is made possible by the acquisition of the 7K's aggregator backend technology.\n\nBluefin and @7k_ag_ are partnering to bring the 7K aggregator into the Bluefin ecosystem under the new name, Bluefin7K. Bluefin and 7K will remain as independent companies.",
+      "timestamp": "Jun 2, 2025 · 5:52 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1929596937181032908#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1929575120063832413#m",
+      "content": "Thank you for this piece on Bluefin, @Steve_4P!",
+      "timestamp": "Jun 2, 2025 · 4:25 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1929575120063832413#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1928470708247564696#m",
+      "content": "The @ATTNtoken is now live on Bluefin!\n\nTrade and LP ATTN on Bluefin: trade.bluefin.io/deposit?poo…",
+      "timestamp": "May 30, 2025 · 3:17 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1928470708247564696#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1928104458413822430#m",
+      "content": "Make your @SuiNetwork journey seamless with #Wallet 🤝\n\nBookmark and use this guide to get started👇",
+      "timestamp": "May 29, 2025 · 3:01 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1928104458413822430#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1928043747339645305#m",
+      "content": "We are thrilled to announce that $BLUE, the native token of Bluefin, is now listed on @Backpack! \n\nTrade BLUE on Backpack to earn from a reward pool of 102,500 BLUE.\n\nFor more information, please visit here: learn.backpack.exchange/blog…",
+      "timestamp": "May 29, 2025 · 11:00 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1928043747339645305#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1927854010582581691#m",
+      "content": "Volatile LP Vaults are live again!\n\nKai users can now create new positions in SUI–USDC and DEEP–SUI Vaults on @bluefinapp.\n\n🔹 Existing Bluefin LPs: withdraw-only\n🔹 Cetus LPs: paused\n\nFarm more efficiently 👉 kai.finance",
+      "timestamp": "May 28, 2025 · 10:26 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1927854010582581691#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1927729715055358451#m",
+      "content": "Provide liquidity on Bluefin and earn rewards! The Bluefin Spot LP experience makes managing your positions seamless, with an overview of your earnings, smart filters for auto-rebalancing pools, and an easy token search feature.\n\nLP on Bluefin: trade.bluefin.io/liquidity-p…",
+      "timestamp": "May 28, 2025 · 2:12 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1927729715055358451#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1927408953429778822#m",
+      "content": "6/ To date, we have completed six third-party audits across our AMM, perpetuals, and vaults infrastructure. We are expanding that scope, not just to what we build, but to every protocol we interact with.\n\nOn top of audits, we are layering in:\n\n• Internal red teaming\n• Formal verification\n• Incentive-driven discovery\n• Runtime circuit breakers\n\nSecurity isn’t something we “have.” With every product released and increasing user deposits, it’s something we continually build. This is how we shift left, stay vigilant, and make Bluefin harder to break by design.",
+      "timestamp": "May 27, 2025 · 4:57 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1927408953429778822#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1927408950254735647#m",
+      "content": "5/ Bug bounties are expanding – and are a first-class part of our security model. We’ve been live on @HackenProof since 2024, and have now significantly increased rewards to incentivize responsible disclosure. We are also publishing internal threat models to broaden the attack surface whitehats can meaningfully engage with. Combined with economic modelling, they form a parallel layer of defence that scales as we do.\n\nBluefin Spot bug bounty: hackenproof.com/programs/blu…",
+      "timestamp": "May 27, 2025 · 4:57 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1927408950254735647#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1927408947033436502#m",
+      "content": "4/ We are also evolving our runtime defence posture. Drawing inspiration from DeFi primitives like Compound’s guardian actor, timelocks, and circuit breakers, each Bluefin protocol is being hardened with runtime fail-safes that automatically delay or throttle risky actions. For example, large withdrawals that deviate several standard deviations above historical norms will trigger temporary delays. In those windows, the system fails safe – and a multisig guardian can accelerate approval if triage determines the behaviour is valid. These mechanisms are protocol-specific, adaptable, and designed to contain failure before it spreads.",
+      "timestamp": "May 27, 2025 · 4:57 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1927408947033436502#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1927408944999186471#m",
+      "content": "3/ This is the start of a long-term relationship with Asymptotic across all Bluefin protocols. We are embedding formal verification into our continuous integration pipelines, especially in areas where invariants govern core value flows. As this evolves, we’ll share more on our methodology and how we use the Sui Prover to enforce correctness at the spec level.",
+      "timestamp": "May 27, 2025 · 4:57 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1927408944999186471#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1927408942340022595#m",
+      "content": "2/ Formal verification uses specifications and provers to mathematically prove that critical logic behaves as expected, catching bugs that tests and audits can easily miss. This post (localhost:8080/AsymptoticTech/status/…) demonstrates exactly how the recent exploit could have been avoided.\n\nAs part of our collaboration, we are simplifying complex methods, introducing reusable spec patterns, and publishing verified versions of common operations. The highest-priority functions, including those most relevant to recent vulnerabilities, will be verified by the end of this week, with full coverage to follow shortly after as a shared asset for the broader Sui ecosystem.",
+      "timestamp": "May 27, 2025 · 4:57 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1927408942340022595#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1927408937831116857#m",
+      "content": "1/ At Bluefin, we have been investing in deeper security layers across the stack: formal verification, architecture, incentives, and layered defence.\n\nWe are now partnering with @AsymptoticTech to formally verify integer-mate – the core math library powering AMMs and DeFi systems – building on their groundbreaking work with the Sui Prover.",
+      "timestamp": "May 27, 2025 · 4:57 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1927408937831116857#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1927349147994087627#m",
+      "content": "🌊 Want to provide the best trading quotes for your dApp users? BluefinX by @bluefinapp is now exclusively available on the 7K SDK for that purpose!\n\nDiscover why integrating BluefinX is a game-changer and how to do it with 7K. 🧵",
+      "timestamp": "May 27, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1927349147994087627#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1927120909011124510#m",
+      "content": "Back live: suiUSDT–USDC LP Vault on @bluefinapp\n\n🔹 0.01% & 0.001% pools now available\n🔹 Existing LPs = withdraw-only\n🔹 Volatile LP Vaults  paused\n🔹 Cetus LP creation paused\n\nFarming stables? Kai + Bluefin is as capital efficient as it gets.",
+      "timestamp": "May 26, 2025 · 9:53 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1927120909011124510#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1926718151816802667#m",
+      "content": "SUI, WAL, DEEP, and USDC now have boosted rewards on Bluefin Spot!\n\nBluefin today: \n\n• $60.5B total spot + perps volume \n• $153M in TVL\n• $120.6M in total supplies - new ATH\n• $48.3M in total borrows - new ATH\n\nLP on Bluefin: trade.bluefin.io/liquidity-p…\nSwap: trade.bluefin.io/swap",
+      "timestamp": "May 25, 2025 · 7:12 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1926718151816802667#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1926381852568301760#m",
+      "content": "We move forward by standing together. We are excited to announce that Bluefin Spot will power the liquidity for @SquirtleSui.",
+      "timestamp": "May 24, 2025 · 8:56 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1926381852568301760#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1925599205382377753#m",
+      "content": "We commend the swift coordination between the Cetus team, fellow DeFi protocols, the Sui Foundation, and Sui validators.\n\nAt Bluefin, our internal security team has been on call since the incident emerged. We've been working closely with ecosystem partners and external security experts to monitor the situation and contribute wherever we can.\n \nWe stand with the Sui community.",
+      "timestamp": "May 22, 2025 · 5:06 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1925599205382377753#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1925533269262582013#m",
+      "content": "To protect our users, we’ve temporarily paused actions on Bluefin Spot as a precautionary measure. We want to emphasize that Bluefin remains fully secure.\n\nOur team is actively monitoring the situation. Thank you for your trust.",
+      "timestamp": "May 22, 2025 · 12:44 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1925533269262582013#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1925519115751432642#m",
+      "content": "Important PSA: Bluefin is safe.\n\nThe Bluefin team is aware of an ongoing incident involving another DEX in the Sui ecosystem. We want to reassure our users that Bluefin is unaffected.\n\nThe entire Bluefin team is on call and closely monitoring the situation. We will provide updates. \n\nBluefin security: bluefin.io/blog/security",
+      "timestamp": "May 22, 2025 · 11:48 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1925519115751432642#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1925481019849023696#m",
+      "content": "$BLUE @bluefinapp USDT Futures is now live on #Bitget , with up to 20x leverage and trading bots support.\n\n🚀 Start trading now: bitget.com/futures/usdt/BLUE…",
+      "timestamp": "May 22, 2025 · 9:17 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1925481019849023696#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1925478449407242629#m",
+      "content": "We are thrilled to announce that $BLUE, the native token of Bluefin, is now listed on @BithumbOfficial!",
+      "timestamp": "May 22, 2025 · 9:06 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1925478449407242629#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1925176957022478366#m",
+      "content": "BluefinX is now live on @7k_ag_ – bringing RFQ-powered execution to every user on @SuiNetwork!",
+      "timestamp": "May 21, 2025 · 1:08 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1925176957022478366#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1925155015867466038#m",
+      "content": "We are excited to stand with @BitgetWallet and the Crypto for Everyone movement. #Crypto4Everyone\n\nAt Bluefin, we believe trading should be available to everyone - without compromising on speed, security, or experience. This is how we move DeFi forward.",
+      "timestamp": "May 21, 2025 · 11:41 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1925155015867466038#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1924782218968240269#m",
+      "content": "We're excited to launch The Future of Trading on Sui campaign on @Galxe!\n\nOur goal with this campaign is to showcase Bluefin’s ecosystem of products, which includes perps, spot, and lending, all powered by @SuiNetwork.\n\nComplete the quests to earn your share of the $5,000 prize pool: app.galxe.com/quest/bluefin/…",
+      "timestamp": "May 20, 2025 · 11:00 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1924782218968240269#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1924758570924425465#m",
+      "content": "Bluefin has crossed $60 billion in all-time trading volume! Thank you to our community and partners for making it possible 💙",
+      "timestamp": "May 20, 2025 · 9:26 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1924758570924425465#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1924521164778418216#m",
+      "content": "Thank you for this informative video, @jussy_world!",
+      "timestamp": "May 19, 2025 · 5:42 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1924521164778418216#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1923668308458394049#m",
+      "content": "Lend, Borrow and Earn with capital efficiency on Bluefin, powered by AlphaLend! Here are the current supply APRs for some ecosystem assets:\n\n🔹6.96% on $USDC\n🔹5.04% on $SUI\n🔹10.65% on $BLUE\n\nLend: trade.bluefin.io/lend",
+      "timestamp": "May 17, 2025 · 9:13 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1923668308458394049#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1923396899052081594#m",
+      "content": "Join the $BLUE trading competition on @binance Alpha! The top 8,000 traders by volume will each earn 625 $BLUE from a 5,000,000 prize pool.\n\nMore details: binance.com/en/support/annou…",
+      "timestamp": "May 16, 2025 · 3:15 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1923396899052081594#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1923327781842092098#m",
+      "content": "BLUE is now open for trading on @LBank_Exchange!",
+      "timestamp": "May 16, 2025 · 10:40 AM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1923327781842092098#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1922995257890759030#m",
+      "content": "Join us today at 3 PM UTC to discuss Sui DeFi and Interop - hosted by @axelar! Details below 👇",
+      "timestamp": "May 15, 2025 · 12:39 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1922995257890759030#m",
+      "author": "bluefinapp"
+    },
+    {
+      "id": "1922645395286426011#m",
+      "content": "A new batch of Binance Alpha Projects added today! Discover the latest tokens spotlighted in #Binance Markets. \n\n$PORT3\n$BLUE\n$HIPPO\n\nNavigate to the [Markets] - [Alpha] tab to trade.\n\nKnow More ⬇️",
+      "timestamp": "May 14, 2025 · 1:29 PM UTC",
+      "url": "https://twitter.com/bluefinapp/status/1922645395286426011#m",
+      "author": "bluefinapp"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-20T23:38:10.906Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 26725,
+    "cursorTrail": [
+      "DAAHCgABG3vb2VP__-oLAAIAAAATMTk3MzMzNDY1MjA4MjY4NDA3MggAAwAAAAIAAA",
+      "DAAHCgABG3vb2VP__9ULAAIAAAATMTk2NTExMjU0NDI0NDUxOTM2MQgAAwAAAAIAAA",
+      "DAAHCgABG3vb2VP__8ALAAIAAAATMTk1NzUxNTcyMDgzOTA3ODE4OQgAAwAAAAIAAA",
+      "DAAHCgABG3vb2VP__6sLAAIAAAATMTk1MDEzNDk5MDIwMjYzNDQ0NggAAwAAAAIAAA",
+      "DAAHCgABG3vb2VP__5gLAAIAAAATMTk0NTg0ODM2ODIyNTMwOTEwMQgAAwAAAAIAAA",
+      "DAAHCgABG3vb2VP__4MLAAIAAAATMTk0Mjg5NTUxNDI0NjA5OTM0NggAAwAAAAIAAA",
+      "DAAHCgABG3vb2VP__24LAAIAAAATMTkzNzQ2NTc3NzM4MjA5NzEwOAgAAwAAAAIAAA",
+      "DAAHCgABG3vb2VP__1kLAAIAAAATMTkzMjUwODEyMDgzNzcyNjY5MwgAAwAAAAIAAA",
+      "DAAHCgABG3vb2VP__0QLAAIAAAATMTkyNzQwODk1MzQyOTc3ODgyMggAAwAAAAIAAA",
+      "DAAHCgABG3vb2VP__y8LAAIAAAATMTkyMzY2ODMwODQ1ODM5NDA0OQgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

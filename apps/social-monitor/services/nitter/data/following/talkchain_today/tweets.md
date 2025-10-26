@@ -1,0 +1,2613 @@
+# talkchain (@talkchain_today)
+
+- 抓取时间：2025-10-20T23:57:02.338Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：25890 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：11
+- 抓取尝试：1
+- Cursor 链：10 条
+- 账号统计：粉丝 10736，关注 1247，推文 4161，点赞 1515
+- 所在地：Malaysia
+- 站外链接：https://t.co/qFN1iievkE
+- Twitter：https://twitter.com/talkchain_today
+- 头像：https://pbs.twimg.com/profile_images/1445006322198454274/M0SWZ3sb_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1381656719017664512/1636022279
+- 认证：Blue Verified
+
+> 账号简介：
+> your daily dose of web 3 https://t.co/n6orvRJtOR https://t.co/JK61DTG4hZ
+
+---
+
+## 1. Aug 9, 2025 · 2:23 PM UTC · 1954186752186613996#m
+- 链接：https://twitter.com/talkchain_today/status/1954186752186613996#m
+- 作者：@talkchain_today
+
+> Pendle新产品Boros上线！比MEME更暴利？！
+>  
+> 📌 你将学到：
+> • 什么是 YU（Yield Unit），为什么它能让资金费率变成可交易资产
+> • 做多/做空资金费率的盈利逻辑和风险
+> • 6 种捕捉市场机会的玩法，从短线到套利全覆盖
+>  
+> @pendle_fi  @boros_fi
+
+## 2. Oct 18, 2025 · 10:58 AM UTC · 1979502432297406923#m
+- 链接：https://twitter.com/talkchain_today/status/1979502432297406923#m
+- 作者：@talkchain_today
+
+> 从FBI突袭到华尔街豪赌20亿：预测市场Polymarket
+>  
+> 📌 你将学到：
+> - 什么是预测市场，它如何精准预测未来？
+> - 纽交所母公司(ICE)怒投20亿，占股超20%的原因？
+> - Polymarket要凉了吗？交易量被Kalshi超越？
+> - CEO @shayne_coplan 的反击策略是什么？
+>  
+> $POLY @Polymarket
+
+## 3. Oct 13, 2025 · 4:16 PM UTC · 1977770419727057120#m
+- 链接：https://twitter.com/talkchain_today/status/1977770419727057120#m
+- 作者：@talkchain_today
+
+> HYPE超流动性家人们 集结！
+>  
+> Hyperliqyud第一中文电报群成立，支持 @RaccoonHKG 带头团结中文社群。
+>  
+> 无论巨鲸/散修，只要你关注 $HYPE 都欢迎入群！
+>  
+> 华流崛起
+
+## 4. Oct 13, 2025 · 4:03 PM UTC · 1977767227312275728#m
+- 链接：https://twitter.com/talkchain_today/status/1977767227312275728#m
+- 作者：@talkchain_today
+
+> H家人们 速速进群
+>  
+> Hyperliquid 第一中文电报社群成立，支持小浣熊 @RaccoonHKG  绝对的HL OG
+>  
+> 一起壮大Hyperliquid中文声量
+
+## 5. Oct 9, 2025 · 12:49 AM UTC · 1976087481184571519#m
+- 链接：https://twitter.com/talkchain_today/status/1976087481184571519#m
+- 作者：@talkchain_today
+
+> 🦊
+
+## 6. Sep 27, 2025 · 2:37 PM UTC · 1971947201669877958#m
+- 链接：https://twitter.com/talkchain_today/status/1971947201669877958#m
+- 作者：@talkchain_today
+
+> HyperEVM的 @hyperdrivedefi 疑似合约有问题，存款的用户赶紧撤走资金
+>  
+> 曾经交互过的朋友，建议取消授权，以防万一。
+>  
+> 快速录制了一个取消授权的教学，用的是 @RevokeCash 和 @Rabby_io 的服务
+>  
+> 不要在着急的情况下，误入钓鱼网站，希望视频对不熟悉如何取消授权的Defi新手有帮助
+
+## 7. Sep 25, 2025 · 1:06 PM UTC · 1971199593938669741#m
+- 链接：https://twitter.com/talkchain_today/status/1971199593938669741#m
+- 作者：@talkchain_today
+
+> 本期视频由 @AethirCloud 荣誉赞助
+>  
+> 对需要高性价比算力，或者关注AI与RWA结合的朋友，Aethir目前是比较有代表性的 DePIN 项目之一。
+
+## 8. Sep 25, 2025 · 12:36 PM UTC · 1971191999350046996#m
+- 链接：https://twitter.com/talkchain_today/status/1971191999350046996#m
+- 作者：@talkchain_today
+
+> PerpDEX空投热潮，Extended是性价比之选？
+>  
+> 📌 你将学到:
+> - Extended 如何融入对冲策略？低风险撸空投的办法
+> - 独特的统一保证金系统是什么？
+> - 团队与欧洲大厂Revolut的关系，Starknet CEO为何推荐？
+>  
+> @extendedapp @rf_extended
+
+## 9. Sep 18, 2025 · 5:25 AM UTC · 1968546968562463225#m
+- 链接：https://twitter.com/talkchain_today/status/1968546968562463225#m
+- 作者：@talkchain_today
+
+> Pendle @boros_fi 省手续费攻略来啦：
+>  
+> 绑定推荐码 TC888 → 永久减免 10% 费用
+>  
+> 📈 Boros LP 池子额度持续开放
+> 💰 Taker 挂单奖励依旧丰厚，$PENDLE 奖励等你瓜分
+>  
+> 👉 boros.pendle.finance/join/TC…
+
+## 10. Sep 16, 2025 · 1:03 PM UTC · 1967937380167688315#m
+- 链接：https://twitter.com/talkchain_today/status/1967937380167688315#m
+- 作者：@talkchain_today
+
+> “币股”=美股的旁氏？怎么用MyStonks做链上股票交易？
+>  
+> 📌 你将学到:
+> - 两种“币股”公司的运作机制，飞轮如何形成？
+> - 如何评价“币股”高估or低估？ETH BNB SOL币股公司都适用
+> - Mystonks交易股票的教学，适合哪类人群？
+>  
+> @MyStonks_Org  @MyStonksCN
+
+## 11. Sep 14, 2025 · 12:31 PM UTC · 1967204494783250674#m
+- 链接：https://twitter.com/talkchain_today/status/1967204494783250674#m
+- 作者：@talkchain_today
+
+> x.com/i/article/196712042790…
+
+## 12. Sep 7, 2025 · 12:00 PM UTC · 1964660085168476231#m
+- 链接：https://twitter.com/talkchain_today/status/1964660085168476231#m
+- 作者：@talkchain_today
+
+> 本期视频由 @debridge  @deBridge_CN 荣誉赞助
+>  
+> 跨链桥 deBridge 现已支持 HyperEVM / Tron / Solana / Ethereum等众多公链
+>  
+> 秒级跨链 + 空投费用返还
+
+## 13. Sep 7, 2025 · 12:00 PM UTC · 1964660081405866158#m
+- 链接：https://twitter.com/talkchain_today/status/1964660081405866158#m
+- 作者：@talkchain_today
+
+> HIP-3提案详解，人人都能吃到交易所的红利？｜Hyperliquid下一个大招
+>  
+> 📌 你将学到:
+> - 三部曲：看懂HIP-1/2/3的进化，三大提案的核心。
+> - HIP-3的颠覆性玩法：它如何让你从“交易员”变成“交易所股东”。
+> - HYPE的“收租”模型：如何通过众筹，瓜分未来新交易所的手续费收入。
+> - 三大生态Alpha机会：@kinetiq_xyz  @stakedhype @0xHyperBeat  怎么选？如何提前埋伏潜在空投？
+>  
+> Hyperliquid $HYPE
+
+## 14. Sep 3, 2025 · 10:33 AM UTC · 1963188561471328754#m
+- 链接：https://twitter.com/talkchain_today/status/1963188561471328754#m
+- 作者：@talkchain_today
+
+> M
+> O
+> N
+> A
+> D
+>  
+> 能召唤神龙吗？🟣
+
+## 15. Aug 30, 2025 · 12:04 PM UTC · 1961762061089911105#m
+- 链接：https://twitter.com/talkchain_today/status/1961762061089911105#m
+- 作者：@talkchain_today
+
+> EdgeX 评测：Perp DEX 市占第二，下沉市场能被开辟吗？
+>  
+> 📌 你将学到：
+> - Amber Group在背后的角色
+> - EdgeX如何借鉴成功项目的经验
+> - 空投积分如何分配，适合哪类人群？
+> - 价格战 + 移动端 = 狙击Binance / Bybit等CEX？
+>  
+> @edgeX_exchange  @ambergroup_io
+
+## 16. Aug 22, 2025 · 12:07 PM UTC · 1958863713194406249#m
+- 链接：https://twitter.com/talkchain_today/status/1958863713194406249#m
+- 作者：@talkchain_today
+
+> DeFi lego with Inverse Finance and Pendle
+>  
+> 📌 In this video content, you’ll learn:
+>  
+> • The transition of looping loans: 1.0 → 2.0 → 3.0
+>  
+> • Why Pendle (fixed income) + Inverse (fixed expenses) could be the endgame of leverage loops
+>  
+> • What is DBR and how borrowing interest into a “prepaid credit” model
+>  
+> • Is $INV undervalued? And what is the team planning their next move?
+>  
+> @InverseFinance $INV $PENDLE
+>  
+> Video Link:
+> piped.kavin.rocks/watch?v=tQXIkXRo…
+
+## 17. Aug 22, 2025 · 12:07 PM UTC · 1958863709314719958#m
+- 链接：https://twitter.com/talkchain_today/status/1958863709314719958#m
+- 作者：@talkchain_today
+
+> Pendle锁收入，Inverse锁支出，DeFi的最后一块拼图？
+>  
+> 📌 你将学到：
+> - 循环贷 1.0 2.0 3.0的进化史
+> - Pendle锁收入 + Inverse锁支出 = 循环贷的终极形态
+> - 什么是DBR，它如何把借贷利息变成“充值话费”模式
+> - $INV 是否被低估？团队怎么出招？
+>  
+> @InverseFinance $INV $PENDLE
+
+## 18. Aug 10, 2025 · 8:55 AM UTC · 1954466600159232387#m
+- 链接：https://twitter.com/talkchain_today/status/1954466600159232387#m
+- 作者：@talkchain_today
+
+> 🔥 TOKEN2049 × TalkChain 🔥
+>  
+> 📅 时间：2025 年 10 月 1–2 日
+> 📍 地点：新加坡 Marina Bay Sands
+>  
+> @token2049 是全球最有影响力的加密与 Web3 盛会之一。每年，来自世界各地的创业者、投资人、开发者、行业领袖和媒体都会齐聚一堂，聊技术、谈趋势、找机会，一起探索区块链、数字资产和去中心化未来的可能性。
+>  
+> 今年，TalkChain 很高兴再次成为 TOKEN2049 的官方媒体合作伙伴！
+> 我们会在现场为大家带来全程报道——包括最新动态、深度对话、幕后故事和独家内容，让你即使不在新加坡，也能感受到大会的热度与氛围。
+>  
+> 大会看点
+> •25,000+ 参会者：来自 160+ 国家和地区的加密生态玩家
+> •7,000+ 企业：覆盖区块链、DeFi、NFT、GameFi、AI、DePin 等热门赛道
+> •200+ 重磅嘉宾：创始人、投资人、政策制定者、行业意见领袖同台分享
+> •全城加密周（TOKEN2049 Week）：数百场活动、路演、派对、黑客松轮番上演
+> •沉浸式体验：舞台演讲、互动展区、国际美食、精品咖啡、休闲社交区
+>  
+> 有兴趣参与的可以使用 TalkChain 邀请码注册，即可享受 TOKEN2049 门票优惠！有谁会到现场的也可以留言让我们知道！😍
+>  
+> 邀请码：TALKCHAINTODAY10
+> 🔗 注册入口：
+> sg2025.token2049.com/?promo=…
+>  
+> 关于 TOKEN2049
+> TOKEN2049 每年在新加坡和迪拜举办，聚焦全球行业先锋的思想碰撞与创新展示，是加密与 Web3 领域的风向标。
+>  
+> 关于 TalkChain
+> TalkChain 是面向全球华语用户的 Web3 媒体与社区平台，专注于深度报道、趋势分析和活动合作，推动区块链与数字经济的发展与普及。
+
+## 19. Aug 6, 2025 · 11:10 AM UTC · 1953051011851141373#m
+- 链接：https://twitter.com/talkchain_today/status/1953051011851141373#m
+- 作者：@talkchain_today
+
+> 提问：不玩空投积分，不玩循环贷，不做LP交易对，怎么样在市场拿到稳定币约20%的APY？
+>  
+> @protocol_fx 和 @FalconStable 会不会是稳定币生息的最优解？
+
+## 20. Jul 31, 2025 · 11:00 AM UTC · 1950874266536452438#m
+- 链接：https://twitter.com/talkchain_today/status/1950874266536452438#m
+- 作者：@talkchain_today
+
+> 久违的节点公售回来了
+>  
+> 日本项目Mawari开启DIO，单个节点售价333刀，能不能回本？条款如何？
+>  
+> 他们真的要做元宇宙的底层设施，还是打着Web3的壳圈Web2的钱？
+>  
+> 传送门：nodes.mawari.net/?code=talkc…
+
+## 21. Jul 25, 2025 · 11:57 AM UTC · 1948714241084592218#m
+- 链接：https://twitter.com/talkchain_today/status/1948714241084592218#m
+- 作者：@talkchain_today
+
+> Converge生态再添一员，Ethena生态项目 @strata_money 短短两天吸引近2亿美金锁仓量。
+>  
+> 视频要点：
+> 📌 Strata如何把「稳定币」变成「印钞机」
+> 📌 三重收益机制，巨鲸为何FOMO？
+> 📌 这波空投机会，值不值散户参与？
+
+## 22. Jul 22, 2025 · 12:34 PM UTC · 1947636419414859973#m
+- 链接：https://twitter.com/talkchain_today/status/1947636419414859973#m
+- 作者：@talkchain_today
+
+> Youtube传送门👇
+>  
+> piped.kavin.rocks/watch?v=dWSU5UWU…
+
+## 23. Jul 22, 2025 · 12:34 PM UTC · 1947636416277844320#m
+- 链接：https://twitter.com/talkchain_today/status/1947636416277844320#m
+- 作者：@talkchain_today
+
+> 一代人有一代人的神矿，近期有哪些高收益的挖矿机会？
+>  
+> 新公链的老项目： @katana 上的 @SushiSwap 三重收益奖励，提供三位数的APR；
+>  
+> 老公链的新项目：Avax链的新龙头 @BlackholeDex 掀起了又一轮的ve33玩法，挖提卖还是钻石手？
+
+## 24. Jul 17, 2025 · 1:16 PM UTC · 1945835109082648694#m
+- 链接：https://twitter.com/talkchain_today/status/1945835109082648694#m
+- 作者：@talkchain_today
+
+> YZi Labs押注新型资产发行交易所， @aspecta_ai 帮你抓住百倍币的机会？
+>  
+> 7月21日开启公售
+> 7月24日上Binance Alpha
+>  
+> Wen Binance spot list👀
+
+## 25. Jul 4, 2025 · 1:41 PM UTC · 1941130148151243223#m
+- 链接：https://twitter.com/talkchain_today/status/1941130148151243223#m
+- 作者：@talkchain_today
+
+> 前Coinbase高管的“阳谋”：融资1.8亿美金，Farcaster如何对推特进行“降维打击”？
+>  
+> 免费与氪金埋伏空投的方法分别是什么，来得及吗？
+>  
+> 完整内容已发布在Youtube👇
+> piped.kavin.rocks/watch?v=TiNcKtKq…
+
+## 26. Jun 24, 2025 · 10:32 AM UTC · 1937458747242349025#m
+- 链接：https://twitter.com/talkchain_today/status/1937458747242349025#m
+- 作者：@talkchain_today
+
+> Infini关闭U卡业务，当下市场还有哪些好用的U卡？
+>  
+> RedotPay、Bybit Card、Etherfi 三家U卡的稳定性、费用、福利分别如何？支援哪些国家用户KYC？
+>  
+> 香港/大陆/台湾/马来西亚的用户怎么选？
+>  
+> 完整内容已发布在Youtube👇
+> piped.kavin.rocks/watch?v=DbqrTRZN…
+>  
+> @RedotPay @Bybit_ZH @ether_fi
+
+## 27. Jun 10, 2025 · 8:45 AM UTC · 1932358392137621887#m
+- 链接：https://twitter.com/talkchain_today/status/1932358392137621887#m
+- 作者：@talkchain_today
+
+> Youtube传送门：
+>  
+> piped.kavin.rocks/watch?v=rF8Pl8Nk…
+
+## 28. Jun 10, 2025 · 8:44 AM UTC · 1932358248398790969#m
+- 链接：https://twitter.com/talkchain_today/status/1932358248398790969#m
+- 作者：@talkchain_today
+
+> 有手就行！零成本浏览器挖矿，潜在空投新大陆？！
+>  
+> Solana上的Depin项目 $GRASS 曾给早期用户价值不菲的空投，单号收益诱人。
+>  
+> 这类Depin项目的本质是鼓励全球分布式用户贡献电脑宽带/算力，从而获得项目代币做奖励。
+>  
+> 同时参与多个Depin项目就能获得多份空投收益。本期视频介绍三个能参与的潜力项目👇
+
+## 29. Jun 5, 2025 · 7:51 PM UTC · 1930714104999927948#m
+- 链接：https://twitter.com/talkchain_today/status/1930714104999927948#m
+- 作者：@talkchain_today
+
+> 美国两个男人吵架，特斯拉股票大跌，先前自己有交易美股的需求，找了一个能交易美股合约的链上平台。
+>  
+> 还没看过 @talkchain_today 这期视频的朋友，欢迎观看，不妨留下一键三连哦！
+>  
+> @OstiumLabs 市场部别睡觉了，这时候正是你们推广自家平台的好时机呀！（广告费结一下，谢谢
+>  
+> piped.kavin.rocks/watch?v=wgO2pvcF…
+
+## 30. Jun 4, 2025 · 4:22 AM UTC · 1930118020929880556#m
+- 链接：https://twitter.com/talkchain_today/status/1930118020929880556#m
+- 作者：@talkchain_today
+
+> 🚀 SuperAI 2025 @superai_conf
+>  
+> 超级人工智慧盛会即将登场！
+>  
+> 📅 日期：2025年6月18-19日
+> 📍 地点：新加坡滨海湾金沙
+>  
+> 🌐 与全球 AI 先锋共聚一堂，探索人工智慧的未来：
+>  
+> 🎤 150+ 顶尖讲者，包括：
+>  
+> Emad Mostaque（Stability AI 创办人）
+> Balaji Srinivasan（《The Network State》作者）
+> Marc Raibert（Boston Dynamics AI Institute 创办人）
+> Felix Shang（Unitree 董事）
+> Tao Cheung（Manus AI 联合创办人）
+>  
+> 🏢 100+ 参展企业，涵盖：
+>  
+> AWS、Google Cloud、OpenAI、Anthropic、Meta AI、ByteDance、Unitree、Boston Dynamics 等
+>  
+> 💡 精彩议程，涵盖：
+> AGI、AI Agents、Web3、机器人、金融科技、医疗健康、太空探索等前沿主题
+>  
+> 🏆 特别活动：
+> Genesis 创业大赛：$200,000 奖金池
+> NEXT Hackathon 编程马拉松：$50,000 奖金池
+> AMD Creator Lab：AI 内容创作工作坊
+>  
+> 🎫 立即使用以下链接购票，享受 20% 专属折扣
+>  
+> 👉 2025.superai.com/?promo=TALK…
+
+## 31. May 17, 2025 · 2:43 AM UTC · 1923570098511675481#m
+- 链接：https://twitter.com/talkchain_today/status/1923570098511675481#m
+- 作者：@talkchain_today
+
+> 最近很火爆的 @believeapp 创始人与 @2lambro @ManoppoMarco 直播访谈中
+> localhost:8080/i/broadcasts/1gqxvjbNa…
+
+## 32. May 9, 2025 · 2:27 PM UTC · 1920848002320650731#m
+- 链接：https://twitter.com/talkchain_today/status/1920848002320650731#m
+- 作者：@talkchain_today
+
+> - Binance Alpha新规定偏袒新玩家，现在加入还来得及？
+>  
+> - 知名稳定币项目 @ResolvLabs  即将发币！估值多少才合理？空投注册链接已发布！
+>  
+> 速看本期TalkChain观察室内容👇
+
+## 33. Apr 24, 2025 · 9:23 AM UTC · 1915335816848789928#m
+- 链接：https://twitter.com/talkchain_today/status/1915335816848789928#m
+- 作者：@talkchain_today
+
+> x.com/i/article/191533253437…
+
+## 34. Apr 23, 2025 · 3:04 PM UTC · 1915059233407615370#m
+- 链接：https://twitter.com/talkchain_today/status/1915059233407615370#m
+- 作者：@talkchain_today
+
+> 个人认为Hyperliquid的空投还有下一季度，官网的Point字眼甚至都没撤下。
+>  
+> Hyperliquid 拥有币圈最强信仰的社群，最强盈利能力的产品之一，日均盈利1m-3m左右，97%全用于回购。
+>  
+> 如果仔细看代币经济会发现，仍有总量38.88%代币会用于未来排放，价值超过70亿美金。
+>  
+> - Hyperliquid生态怎么玩？
+> - 哪些项目有一鱼多吃的机会？
+> - 不同的Defi策略适合不同的人？
+>  
+> 🧵👇Hyperliquid $HYPE
+
+## 35. Apr 18, 2025 · 1:17 PM UTC · 1913220279972798487#m
+- 链接：https://twitter.com/talkchain_today/status/1913220279972798487#m
+- 作者：@talkchain_today
+
+> 团队成员：
+>  
+> Treeverse创始人：@Loopifyyy
+> DESK Contributor：@shutsuwei88
+> Infini创始人：@Christianeth @0xsexybanana
+
+## 36. Apr 18, 2025 · 1:17 PM UTC · 1913220277401797023#m
+- 链接：https://twitter.com/talkchain_today/status/1913220277401797023#m
+- 作者：@talkchain_today
+
+> 三件大事：一个玩赚空投、一个交易挖矿、一个消费神器！
+>  
+> 1️⃣ Treeverse 游戏空投开启： 30天“玩游戏赚代币”活动上线，绑定钱包、每日游玩，即可赚取空投代币！
+>  
+> 2️⃣ Desk 交易挖矿活动： 在Base链上用Desk做合约交易，不仅可获积分奖励，还有机会同时预言机Stork空投。
+>  
+> 3️⃣ Infini狗卡重塑消费体验： 新推出狗卡支持Apple Pay、费用全网最低、还能赚稳定利息，成为币圈消费首选神器？
+>  
+> @TheTreeverse @TradeOnDESK  @0xinfini
+>  
+> 视频传送门：piped.kavin.rocks/watch?v=73DhQftW…
+
+## 37. Apr 14, 2025 · 12:21 PM UTC · 1911756656909689138#m
+- 链接：https://twitter.com/talkchain_today/status/1911756656909689138#m
+- 作者：@talkchain_today
+
+> $OM暴跌的启示｜Huma争议事件｜Solana扶持新的Depin项目【TalkChain观察室】
+>  
+> 🚨 百亿RWA项目$OM一夜暴跌90%，谁该出来承担责任？
+> 🧨 Huma被质疑商业模式，创始人亲自下场，空投党还能安心上车吗？
+> ⚡ Solana亲自站台的Depin项目，Gradient零撸就能领到空投？
+>  
+> @humafinance  @Gradient_HQ
+>  
+> 视频传送门：piped.kavin.rocks/watch?v=FlvNP2_x…
+
+## 38. Apr 13, 2025 · 11:09 AM UTC · 1911376077982748826#m
+- 链接：https://twitter.com/talkchain_today/status/1911376077982748826#m
+- 作者：@talkchain_today
+
+> Rise Chain 相关成员：
+> @sam_battenally
+> @0xsashamai
+> @hai_rise
+> @ripdoteth
+> @degenRobot
+> @nvthnh
+> @CaliberBuild
+
+## 39. Apr 13, 2025 · 11:06 AM UTC · 1911375315001094447#m
+- 链接：https://twitter.com/talkchain_today/status/1911375315001094447#m
+- 作者：@talkchain_today
+
+> Bitget Morph刚翻车，Rise悄悄出手，以太坊OG要救市？
+>  
+> Wayfinder/Initia/Movement的案例都证明，低成本/零成本依旧能获得或多或少空投收益。
+>  
+> 本期视频介绍以太坊OG支持的新二层公链 @rise_chain ，手把手一起参与！
+>  
+> 视频传送门：piped.kavin.rocks/watch?v=Y2csLhCG…
+
+## 40. Apr 4, 2025 · 2:30 PM UTC · 1908165243467145339#m
+- 链接：https://twitter.com/talkchain_today/status/1908165243467145339#m
+- 作者：@talkchain_today
+
+> Keystone 3 Pro开箱视频？买还是不买？
+>  
+> 面对层出不穷的木马病毒、钓鱼网站和授权陷阱，你的链上资产真的安全吗？拥有硬件钱包后，我们真能安枕无忧了吗？
+>  
+> OKX Web3 Wallet 有哪些安全功能？
+>  
+> 本期视频开箱Keystone 3 Pro旗舰产品，搭配OKX Web3 Wallet，最大程度对资产负责。
+>  
+> 观看链接：piped.kavin.rocks/HlUEuEBfYVU
+>  
+> @KeystoneWallet  @KeystoneCN @okxchinese
+
+## 41. Mar 30, 2025 · 9:24 AM UTC · 1906276264954229055#m
+- 链接：https://twitter.com/talkchain_today/status/1906276264954229055#m
+- 作者：@talkchain_today
+
+> 文字版汇总👇
+
+## 42. Mar 30, 2025 · 9:23 AM UTC · 1906276133076959353#m
+- 链接：https://twitter.com/talkchain_today/status/1906276133076959353#m
+- 作者：@talkchain_today
+
+> 明星公链 Monad 测试网太卷了！空投期待值拉满 ？
+>  
+> Monad 测试网竞争激烈，单靠“刷任务”已难以占得先机。
+>  
+> 本期节目，我们将从生态视角深入剖析 Monad 公链的潜在价值，发掘优质项目，在主网上线前抢占有利位置。
+>  
+> 五个优质项目：@apr_labs  @opinionlabsxyz  @perpltrade
+> @0xFastLane  @fortytwonetwork
+>  
+> 视频传送门：piped.kavin.rocks/watch?v=ScdP4yCL…
+
+## 43. Mar 17, 2025 · 10:02 AM UTC · 1901574974986403941#m
+- 链接：https://twitter.com/talkchain_today/status/1901574974986403941#m
+- 作者：@talkchain_today
+
+> 全网“最”期待即将TGE的项目？
+>  
+> AI项目 @AIWayfinder 在Kaito Pre-TGE的Mindshare排行第一名，力压 Monad、0G、INITIA等明星项目。
+>  
+> 实际上， @talkchain_today 早在1月份就在视频讲解了该项目，以及具体的参与方式。
+>  
+> - Wayfinder是什么？
+> - 现在还能不能参与？
+> - 如何拿到代币空投？
+>  
+> 🧵👇 $PROMPT
+
+## 44. Mar 17, 2025 · 5:37 AM UTC · 1901508272466927955#m
+- 链接：https://twitter.com/talkchain_today/status/1901508272466927955#m
+- 作者：@talkchain_today
+
+> 官网链接🔗
+> desk.exchange/referral?ref=L…
+> 【推荐码：L5VJ7HF】
+
+## 45. Mar 17, 2025 · 5:37 AM UTC · 1901508270407532943#m
+- 链接：https://twitter.com/talkchain_today/status/1901508270407532943#m
+- 作者：@talkchain_today
+
+> Desk 交易挖矿：HMX 团队能否再创辉煌？
+>  
+> 昔日Arbitrum望着HMX 团队再度出击，携 Desk 合约交易所强势回归！ 这次，他们能否在 Base 链上再创辉煌，重现当年的盛况？
+>  
+> 本期视频，我们将深度解析 Desk 交易挖矿项目，从团队背景、交易费用、积分机制到参与策略，全方位评估其价值与潜在风险。
+>  
+> 点击观看视频👇
+> piped.kavin.rocks/watch?v=J3lqjLPZ…
+
+## 46. Mar 15, 2025 · 9:59 AM UTC · 1900849301024289160#m
+- 链接：https://twitter.com/talkchain_today/status/1900849301024289160#m
+- 作者：@talkchain_today
+
+> 🎉 @EthTaipei 宣布与 @ETHGlobal 合作，打造长达两天会议 + 三天黑客松的区块链活动！
+>  
+> 以太坊创始人V神 @VitalikButerin  确定出席会议，他将亲临现场发表主题演讲，并参与多场座谈讨论，分享对以太坊生态最新技术发展的见解，目前 V神对演讲主题仍保密，只透露 “这将是一个惊喜!‘’ 👀
+>  
+> 🔥 超过40 位国际知名团队多元主题的深度分享，以及 15 万美元黑客松奖金！
+>  
+> 参与活动的知名团队
+> @ethereum @arbitrum @ZircuitL2 @Uniswap @0xPolygon
+>  
+> 活动主题内容 ：
+> - DeFi
+> - Protocol
+> - RWA
+> - 资讯安全
+> - 区块链隐私
+> - AA Wallet
+> - ZK
+> - MEV
+> - Layer 2
+>  
+> @EthTaipei  是一个由社区驱动的活动，其愿景在于连接亚洲区块链社区与全球顶尖团队，进行技术层面的深度交流。
+>  
+> 在过去两年中，ETHTaipei 已吸引超过 2,000 名参与者，展现出其迅速增长的影响力，以及致力于推动以太坊生态系统发展的坚定决心。
+>  
+> 🗓️ 活动日期：2025/4/1-2
+>  
+> 💻 黑客松日期：2025/4/4-6
+>  
+> 📍 地点：台北南港瓶盖工厂 POPOP Taipei
+>  
+> 有兴趣的朋友立即购票，不容错过这次活动与全球区块链爱好者一同参与这次台北活动！
+>  
+> 🔗 购票链接及详情：ethtaipei.org/
+
+## 47. Mar 12, 2025 · 6:10 AM UTC · 1899704534064095617#m
+- 链接：https://twitter.com/talkchain_today/status/1899704534064095617#m
+- 作者：@talkchain_today
+
+> 3月20日， 还有一场在台北的社群聚会活动。
+>  
+> ​🎟 参会者专属福利：
+> 🎁 “APAC Move Pioneer” NFT 徽章（活动签到专享）
+> 🎁 特别奖励及品牌周边
+>  
+> 🎁 优先体验 Movement 上的开创性项目
+>  
+> 👉 报名链接：lu.ma/qvdlaqsa
+
+## 48. Mar 12, 2025 · 6:03 AM UTC · 1899702725832823213#m
+- 链接：https://twitter.com/talkchain_today/status/1899702725832823213#m
+- 作者：@talkchain_today
+
+> Movement 联合创始人 Cooper 亚洲行首站台北！3月19日，由政大区块链社、Sora Ventures 和 Movement Labs 联办「Coop’s Asia Tour」。
+>  
+> 现场将深入解析 Movement 主网及独家 Alpha，并分享 @coopsmoves  与 @rushimanche  从大学休学到打造 Movement 公链的创业故事，还有生态项目分享。
+>  
+> 活动对公众开放，报名后凭 QR-Code 入场，亦可线上直播观看。
+>  
+> 想了解关于更多MOVE的朋友，欢迎报名参与！
+>  
+> 📅 3月19日（周三）
+> ⏰ 19:00 ~ 21:00（18:30报到）
+> 📍 台北101（报名后显示具体位置）
+>  
+> 线上直播 ：@nccublockchain
+>  
+> 👉 报名链接：lu.ma/xd9mphav
+
+## 49. Mar 8, 2025 · 5:00 PM UTC · 1898418497933484373#m
+- 链接：https://twitter.com/talkchain_today/status/1898418497933484373#m
+- 作者：@talkchain_today
+
+> x.com/i/article/189841062528…
+
+## 50. Feb 12, 2025 · 12:07 PM UTC · 1889647426367266981#m
+- 链接：https://twitter.com/talkchain_today/status/1889647426367266981#m
+- 作者：@talkchain_today
+
+> 币安链抽象项目，迷因神器？UniversalX 能否提高链上交易胜率？
+>  
+> 上轮周期，大家期待 ETH 逆袭 BTC，这轮周期，SOL 成了迷因币主战场。近期随着 CZ 态度转变，BNB 链的迷因币一度备受关注。
+>  
+> 机会一直都在不同公链间轮动，而如何用最快的方法抓住这些机会，是每个玩家的刚需。
+>  
+> 💡 @UseUniversalX 是 @ParticleNtwrk 官方推出的链抽象交易平台，专门为迷因币市场优化，让你无需跨链、无需换 Gas 费，随时随地一键冲入最新机会！
+>  
+> 🎯 本期看点：
+> ✅  什么是 UniversalX？
+> ✅  如何用它快速在 BNB、SOL、ETH 等链上交易？
+> ✅  Particle Network 有可能发币？现在用 UniversalX 会有空投吗？
+> ✅  1% 交易费值不值？它跟 Telegram Bot、GMGN 有什么不同？
+>  
+> 点击观看视频👇
+> piped.kavin.rocks/DfDgsHTU-hk
+
+## 51. Feb 12, 2025 · 8:03 AM UTC · 1889586218121437575#m
+- 链接：https://twitter.com/talkchain_today/status/1889586218121437575#m
+- 作者：@talkchain_today
+
+> 🚀 万向区块链大会 x OKX 🎟️ NFT门票限量发售！
+>  
+> 万向区块链大会汇聚全球Web3先锋，共探技术前沿。OKX作为官方赞助商，将门票做成NFT，限量发售！
+>  
+> 链接👉 okx.com/ul/q3xd9N
+>  
+> 🎁 留言即有机会赢取OKX 礼盒！
+>  
+> 🎁 OKX 礼盒 X3
+>  
+> 如何参与？
+> 1️⃣ 关注 @okxchinese @talkchain_today
+> 2️⃣ 转发+2位标记朋友，参与抽奖！
+>  
+> 📅 抽奖结果公布：2月16日 23:59PM（UTC+8）
+
+## 52. Feb 7, 2025 · 11:41 AM UTC · 1887828961323061343#m
+- 链接：https://twitter.com/talkchain_today/status/1887828961323061343#m
+- 作者：@talkchain_today
+
+> Hyperliquid数据工具大解析：如何看懂HYPE走势？
+>  
+> 灰度（Grayscale）最新季度代币名单揭晓！ 其中一个新晋代币—— @HyperliquidX ( $HYPE )，为何能脱颖而出？
+>  
+> 本期视频通过链上数据分析，深度解析 Hyperliquid 的资金流、回购逻辑、生态发展，介绍4个实用的数据工具网站，帮你更好地理解 HYPE 的增长逻辑。
+>  
+> 点击观看视频👇
+> piped.kavin.rocks/cV5PIQsAIFY
+
+## 53. Jan 30, 2025 · 1:04 PM UTC · 1884950937871200569#m
+- 链接：https://twitter.com/talkchain_today/status/1884950937871200569#m
+- 作者：@talkchain_today
+
+> Deepseek冲击AI行业？三个能埋伏的AI项目！｜ @BrianknowsAI  @AIWayfinder  @myshell_ai
+>  
+> 2025年大概率是AI应用爆发元年，中国小型AI公司Deepseek可以轻松让英伟达市值大跌13%，美国推出5000亿星际之门计划，扶持AI行业。区块链之上必然会出现许多AI的应用。
+>  
+> 本期视频分享3个还未发币的AI项目，并且整理了，并且整理了具体的参与办法。
+>  
+> 点击观看视频👇
+> piped.kavin.rocks/vQOyhkz_auA
+
+## 54. Jan 24, 2025 · 11:58 AM UTC · 1882759796966990316#m
+- 链接：https://twitter.com/talkchain_today/status/1882759796966990316#m
+- 作者：@talkchain_today
+
+> 最新视频的文字版内容 👇🏻
+
+## 55. Jan 24, 2025 · 11:48 AM UTC · 1882757248621191425#m
+- 链接：https://twitter.com/talkchain_today/status/1882757248621191425#m
+- 作者：@talkchain_today
+
+> 本周四大重磅新闻￼👇🏻
+>  
+> - 特朗普引发SOL与ETH战争： $TRUMP 发行在Solana，WLF持续购入以太坊，谁是美国正统公链？
+>  
+> - 美国监管环境大改善：加密友好人士Mark Uyeda担任美国SEC的代理主席，Tornada Cash与丝绸之路皆传来好消息！
+>  
+> - 以太坊内乱与改革？：基金会即将重组，Lido联创 @Lomashuk 设立Second Foundation（第二基金会）
+>  
+> - 三大项目开放领空投：@JupiterExchange  @animecoin @TimeswapLabs  空投领到手软？
+>  
+> 点击观看视频￼👇🏻
+> piped.kavin.rocks/watch?v=IVV3CK8w…
+
+## 56. Jan 18, 2025 · 2:25 PM UTC · 1880622567003943138#m
+- 链接：https://twitter.com/talkchain_today/status/1880622567003943138#m
+- 作者：@talkchain_today
+
+> 推荐文章👇
+> - localhost:8080/poopmandefi/status/187…
+> - localhost:8080/i/bookmarks?post_id=18…
+> - localhost:8080/tmel0211/status/187943…
+> - localhost:8080/Defi0xJeff/status/1875…
+> -
+
+## 57. Jan 18, 2025 · 2:25 PM UTC · 1880622563396837578#m
+- 链接：https://twitter.com/talkchain_today/status/1880622563396837578#m
+- 作者：@talkchain_today
+
+> DeFAI：DeFi的下一个进化方向？解放双手？
+>  
+> 万物皆可AI，近期市场掀起了一波DeFi+AI的叙事，即所谓「DeFAI」。
+>  
+> 本期视频深入探讨了 DeFAI (DeFi + AI) 这一新兴领域，分析了其如何利用人工智能技术重塑去中心化金融，并详细解读了该领域中三种核心的智能代理类型。
+>  
+> 点击观看视频👇
+> piped.kavin.rocks/8p5VS7IYGqo
+
+## 58. Jan 8, 2025 · 1:08 PM UTC · 1876979249074303206#m
+- 链接：https://twitter.com/talkchain_today/status/1876979249074303206#m
+- 作者：@talkchain_today
+
+> 2024年币圈「不正经」颁奖典礼
+>  
+> 过去一年，区块链行业风云变幻：新兴项目崭露头角，某些赛道黯然失色。这期视频，我们将系统梳理2024年的关键趋势与行业亮点。从比特币铭文符文的市场退潮，到 @solana 和 @base 公链的强势崛起，再到 @HyperliquidX 和 @ethena_labs 的创新突破，每一个细节都值得深思。
+>  
+> 点击观看视频：
+> piped.kavin.rocks/R14PZyqDP_M
+
+## 59. Dec 31, 2024 · 4:29 PM UTC · 1874130660665024956#m
+- 链接：https://twitter.com/talkchain_today/status/1874130660665024956#m
+- 作者：@talkchain_today
+
+> 感谢一路支持！
+>  
+> 2025，TalkChain陪你继续出发！🎆🚀
+
+## 60. Dec 29, 2024 · 11:09 AM UTC · 1873325367550939522#m
+- 链接：https://twitter.com/talkchain_today/status/1873325367550939522#m
+- 作者：@talkchain_today
+
+> 下一个Usual？Resolv挖矿策略全解析！
+>  
+> Ethena和Usual之后，稳定币项目备受市场爱戴，Resolv锁仓量迅速突破3亿美金。
+>  
+> 本期节目，我们聚焦潜力项目 @ResolvLabs ，深入了解运作机制，分享稳定币30%甚至更高的年化收益，同时埋伏未来的空投机会！
+>  
+> 点击观看视频：
+> piped.kavin.rocks/kGstbSwB5Yc
+
+## 61. Dec 29, 2024 · 7:46 AM UTC · 1873274442190864437#m
+- 链接：https://twitter.com/talkchain_today/status/1873274442190864437#m
+- 作者：@talkchain_today
+
+> 超越Solana？毫秒级延迟！MegaETH真能打造「世界计算机」？
+>  
+> 以太巨星？megaETH在echo募资不到3分钟的时间就筹集了1,000万美金，这一条公链号称10万TPS超强性能和毫秒级延迟。投资人甚至包括Vitalik！
+>  
+> @megaeth_labs 能否接棒以太坊，实现“世界计算机”的宏伟愿景？它又将如何改变现有的区块链格局？
+>  
+> 点击观看视频：
+> piped.kavin.rocks/Gv0q5owTFN8
+
+## 62. Dec 19, 2024 · 11:51 AM UTC · 1869712170742907311#m
+- 链接：https://twitter.com/talkchain_today/status/1869712170742907311#m
+- 作者：@talkchain_today
+
+> Pudgy Penguins阳光普照式空投，大户散户都有份！｜Cryptopedia 加码空投
+>  
+> Pudgy Penguins发行代币 $PENGU ，上线当天直接空投近总量半数代币给社群，总共流通比例达70%。
+>  
+> $PENGU 代币价格一度高达0.7u，约等于60亿美金估值，现已回落。昨晚，链上聪明玩家在 @HyperliquidX 疯狂狙击代币，资金费率数据惊人。
+>  
+> 无论你是否持有企鹅NFT，只要你的以太坊或Solana钱包地址足够活跃或资深，便有资格领取空投。
+>  
+> 点击观看视频👇
+> piped.kavin.rocks/2pwqv5zV3fM
+
+## 63. Dec 18, 2024 · 6:31 PM UTC · 1869450521893122314#m
+- 链接：https://twitter.com/talkchain_today/status/1869450521893122314#m
+- 作者：@talkchain_today
+
+> 1/ Usual稳定币沸沸扬扬，该不该质押？
+>  
+> 刚领了 @usualmoney 空投，稍微做了一点功课，快速分享领取 $USUAL 后必须知道的一些信息
+>  
+> 比如说：
+> - $USUAL 和 $USUALx 有什么区别？
+> - $USUAL 质押年化收益高达22,037%，原因/猫腻？
+>  
+> 🧵👇
+
+## 64. Dec 16, 2024 · 5:29 PM UTC · 1868710176335053212#m
+- 链接：https://twitter.com/talkchain_today/status/1868710176335053212#m
+- 作者：@talkchain_today
+
+> 8大项目齐发空投！这波又多少人毕业了？
+>  
+> 牛市开启，项目方使用“空投”方式来做市场营销的成本会进一步降低。不少项目开始发币/空投，最近几周至少8个项目方宣布空投计划。
+>  
+> 如果你最近有交互过链上项目，或许有资格领取这些空投，快来检查作业吧！
+> $HYPE $USUAL $MOVE $F $BLUE $FLUE $ME $PENGU
+>  
+> 点击观看视频 👇
+> piped.kavin.rocks/yX-rnQBEcXY
+
+## 65. Dec 13, 2024 · 11:28 AM UTC · 1867531974744977859#m
+- 链接：https://twitter.com/talkchain_today/status/1867531974744977859#m
+- 作者：@talkchain_today
+
+> 以太坊DeFi站起来了！Fluid增长速度迅猛！
+>  
+> 没有代币激励或者积分PUA的情况下拿到超过10亿美金的锁仓量，足以证明这是一个强大项目。就连借贷龙头Aave也动用国库去投资它，未来新的代币经济学出炉之后，有没有可能出现更多惊喜？
+>  
+> @0xfluid 产品具备高效清算/智能债务等技术创新，迅速在以太坊的借贷（Lending）/交易（DEX）拥有了一席之地。 $INST $FLUID
+>  
+> 点击观看视频👇
+> piped.kavin.rocks/wKy3slJO-nE
+
+## 66. Dec 7, 2024 · 12:12 PM UTC · 1865368737169432999#m
+- 链接：https://twitter.com/talkchain_today/status/1865368737169432999#m
+- 作者：@talkchain_today
+
+> @PKUBlockchain 品牌活动《Web3进阶公开课》第一讲正式发布！
+>  
+> 这次的课程设计会更侧重于区块链行业各特定赛道，后期课程主讲人来自资深从业人员与项目方。
+>  
+> 为了确保大家对行业有较为全面的认识，特邀 @KiwiCryptoBig ，北大区块链协会前副会长，某基金研究员，非常低调谦虚的大佬来授课，欢迎观看/学习！
+
+## 67. Dec 7, 2024 · 8:49 AM UTC · 1865317709325701124#m
+- 链接：https://twitter.com/talkchain_today/status/1865317709325701124#m
+- 作者：@talkchain_today
+
+> 币安投资+AI Agent+落地产品，Myshell一骑绝尘？
+>  
+> OpenAI连续12天直播，仿佛在憋大招。币圈AI Agent叙事大行其道，出现不少打着AI旗帜的迷因币。
+>  
+> 踏踏实实做AI与Crypto结合的项目方有哪些？我们离消费级别的Mass Adoption还有多远？
+>  
+> 本期视频介绍 @myshell_ai ，一个背靠 @BinanceLabs 的AI项目。 $SHELL
+>  
+> 相关链接🔗
+> app.myshell.ai/invite/7a6900
+>  
+> 点击观看视频👇
+> piped.kavin.rocks/EPIUERDFQM4
+
+## 68. Dec 5, 2024 · 1:10 PM UTC · 1864658689271189543#m
+- 链接：https://twitter.com/talkchain_today/status/1864658689271189543#m
+- 作者：@talkchain_today
+
+> 筹备已久的公开课终于要正式推出啦！
+>  
+> 前两年 @0xAA_Science 主导推出的《Web3新人公开课》获得热烈反响，时过境迁，比特币已经突破了10万美金重要关口，币圈来到了新的世代，是时候推出进阶版课程了！
+>  
+> 非常感谢 @arbitrum_cn @babylonlabs_io @SuiNetwork @solana @SaharaLabsAI  以及诸位北大优秀学长姐担任课程嘉宾。
+>  
+> 这十讲公开课覆盖各标志性赛道与领域，课程内容夯实！敬请期待！
+
+## 69. Dec 5, 2024 · 1:00 PM UTC · 1864656161884242015#m
+- 链接：https://twitter.com/talkchain_today/status/1864656161884242015#m
+- 作者：@talkchain_today
+
+> 💡PKU Blockchain《Web3 进阶公开课》重磅来袭！
+>  
+> 📒共十讲，邀请业界多位资深人士（主讲人来自@arbitrum_cn @babylonlabs_io @SuiNetwork @solana @SaharaLabsAI 等），涵盖Web3热门话题，深度剖析其奥秘与机遇。
+>  
+> ✨2022年发布的《Web3 新人公开课》反响热烈，本届执委团精心筹备了《Web3 进阶公开课》，进一步满足进阶学习需求。
+>  
+> ✨希望能为中文世界贫瘠的学习资料现况添砖加瓦，让对区块链行业感兴趣的同学有更系统化的学习框架。
+>  
+> 🌟每周1-2节，2025年1月28日前全部上传至X/Youtube/Bilibili，敬请关注！
+
+## 70. Nov 29, 2024 · 1:24 PM UTC · 1862487731848585601#m
+- 链接：https://twitter.com/talkchain_today/status/1862487731848585601#m
+- 作者：@talkchain_today
+
+> 🎉 BitMEX 十周年特别活动！ 🎉
+>  
+> 为庆祝 @BitMEX @Bitmex_zh 十周年，Talkchain 社群专属 100 USDT giveaway 正在进行！🎁 一位幸运用户将独享 100 USDT！🔥
+>  
+> 👇 参与方式：
+> 1️⃣ 转发此推文
+> 2️⃣ 注册并验证账号 👉 bitmex.com/decade-of-bitmex?…
+> 3️⃣ 加入 DC 并前往 Giveaway 区点击 🎉 👉 discord.gg/9UCW6RZQdr
+>  
+> 🔥 额外福利：
+> 新用户注册享 BTC 50% 购买折扣（返现最高 50 USDT，每日前 100 名）。
+>  
+> ⏳ 活动截止：12月4日 23:59PM（UTC+8）
+>  
+> 立即参与，抽奖USDT 还有撸BTC 福利！
+
+## 71. Nov 24, 2024 · 11:25 AM UTC · 1860645890182304161#m
+- 链接：https://twitter.com/talkchain_today/status/1860645890182304161#m
+- 作者：@talkchain_today
+
+> Zircuit代币上线， 全新安全为主L2能否成功打开全新新叙事？！
+>  
+> Binance Labs、Dragonfly、Pantera Capital等知名VC联手投资的 @ZircuitL2 终于即将TGE，早期参与者和 $EIGEN 持有者都能领取空投代币。
+>  
+> 新一代的Layer2各有特色，Zircuit团队在排序器上添加风险识别/拦截功能，通过AI来检测可以交易。这一套安全方案称之为Sequencer-Level Security (SLS)
+>  
+> 点击观看视频：piped.kavin.rocks/bIxs0KRokcI
+
+## 72. Nov 19, 2024 · 2:15 AM UTC · 1858695598708584880#m
+- 链接：https://twitter.com/talkchain_today/status/1858695598708584880#m
+- 作者：@talkchain_today
+
+> 周报📰
+>  
+> DeSci 叙事席卷币圈，除了一系列迷因币之外，本周行业发生了若干大事件，涉及空投/Defi/黑客事件。
+>  
+> 🟢 @usualmoney 上线币安，为何让渡那么多利益给币安？；
+>  
+> 🟢DDEX/Thala项目出现漏洞，结果截然不同
+>  
+> 🟢 @ethena_labs 即将开启费用开关，sUSDe被纳入Aave抵押品行列，Defi复兴！
+>  
+> 点击观看视频：piped.kavin.rocks/3HxeuIPat-s?si=mZJ5…
+
+## 73. Nov 14, 2024 · 12:12 PM UTC · 1857033830021939490#m
+- 链接：https://twitter.com/talkchain_today/status/1857033830021939490#m
+- 作者：@talkchain_today
+
+> CZ/V神齐站台Desci，Bio Protocol 能否引领新叙事？
+>  
+> 币圈需要新叙事，以太坊/币安创始人联手站台 DeSci ， @BinanceLabs 战略布局 @bioprotocol
+>  
+> $VITA 率先大涨/发力，打响去中心化科学的第一枪！
+>  
+> 相关链接🔗
+> bio.xyz
+>  
+> 点击观看视频： piped.kavin.rocks/Nt_WMkII2Ss
+
+## 74. Oct 26, 2024 · 11:08 AM UTC · 1850132333153734734#m
+- 链接：https://twitter.com/talkchain_today/status/1850132333153734734#m
+- 作者：@talkchain_today
+
+> Base公链发币悬念，押注最强以太L2王者！？
+>  
+> @base 链是目前以太坊Layer2龙头老大，更被部分人士认为是以太坊破圈希望。背靠Coinbase交易所，其生态项目有上大所预期。
+>  
+> 若Base链忽然进行大规模空投，散户该如何获益？
+>  
+> 点击观看视频👇
+> piped.kavin.rocks/hUfNAmIzEfE
+
+## 75. Oct 25, 2024 · 8:21 AM UTC · 1849728074960773520#m
+- 链接：https://twitter.com/talkchain_today/status/1849728074960773520#m
+- 作者：@talkchain_today
+
+> 🚀 倒计时！@Wamo_topia 将于11月5-7日在清迈 Algonquin Club 举行，深度聚焦密码朋克、未来社会与自主世界。
+>  
+> 有兴趣的朋友可以点击报名参加！🙌🏻
+>  
+> 报名链接🔗： lu.ma/wamo3 🔥
+
+## 76. Oct 23, 2024 · 1:53 PM UTC · 1849086713928536242#m
+- 链接：https://twitter.com/talkchain_today/status/1849086713928536242#m
+- 作者：@talkchain_today
+
+> a16z 2024年度报告出炉，资本看好哪个赛道？
+>  
+> 知名投资机构 @a16z 发布年度报告，宏观角度谈论链上数据、美国大选，微观角度细谈稳定币/DeFi/AI等赛道。
+>  
+> a16z 如何看待后市？哪些赛道蕴含机会？
+>  
+> 点击观看视频 👇
+> piped.kavin.rocks/j9bdJ4MxIkY
+
+## 77. Oct 22, 2024 · 1:00 PM UTC · 1848710900372349043#m
+- 链接：https://twitter.com/talkchain_today/status/1848710900372349043#m
+- 作者：@talkchain_today
+
+> 👻🎃✨Talkchain 朋友们，HODLoween 活动来了！🎁💎
+>  
+> 🚀 参与我们的 Labubu HODLoween 抽奖活动，赢取 Labubu 盲盒！
+>  
+> 🎁 6 位幸运儿
+>  
+> 赶紧到这里参与 👇 piped.kavin.rocks/post/UgkxeW5YZ05…
+>  
+> 🕛 截止日期：2024年11月1日 23:59（UTC+8）
+
+## 78. Oct 13, 2024 · 11:37 AM UTC · 1845428596741222424#m
+- 链接：https://twitter.com/talkchain_today/status/1845428596741222424#m
+- 作者：@talkchain_today
+
+> 📰周报速递：
+>  
+> 本周币圈异常热闹，三类大事件值得关注：
+>  
+> - @Uniswap Labs推出 @unichain ，Defi拥护者狂喜，本轮周期或出现Defi Summer；
+> - 空投季节再次来临，一周内四大项目宣布空投，牛市的前兆？
+> @Scroll_ZKP
+> @puffer_finance @pufferfi_cn
+> @swellnetworkio
+> @Optimism
+> - @SuiNetwork 链利好不断，用户/资金大量流入，Solana高性能链宝座还稳吗？
+>  
+> 👉 点击观看视频 ：piped.kavin.rocks/rgaMa2rJ2MU?feature…
+
+## 79. Oct 9, 2024 · 11:14 AM UTC · 1843973402933264622#m
+- 链接：https://twitter.com/talkchain_today/status/1843973402933264622#m
+- 作者：@talkchain_today
+
+> 交易赛道“金铲子”，收益吊打各种热门协议？
+>  
+> 没有永远爆火的迷因币，但永远会有迷因币爆火。
+>  
+> 已知：迷因币浪潮经久不衰。
+> 问：如何把握迷因浪潮中的机会？
+>  
+> Telegram Bot 赛道产品抓住迷因币交易员刚需，成为了本轮周期盈利能力名列前茅的赛道。具体原因是什么？哪些项目值得关注？
+>  
+> @TrojanTrading
+> @BananaGunBot
+> @bonkbot_io
+> @MaestroBots
+>  
+> 点击观看视频：piped.kavin.rocks/-a-SvaMg8_k
+
+## 80. Oct 3, 2024 · 12:21 PM UTC · 1841815744436437031#m
+- 链接：https://twitter.com/talkchain_today/status/1841815744436437031#m
+- 作者：@talkchain_today
+
+> x.com/i/article/184181093789…
+
+## 81. Oct 3, 2024 · 11:28 AM UTC · 1841802402175058313#m
+- 链接：https://twitter.com/talkchain_today/status/1841802402175058313#m
+- 作者：@talkchain_today
+
+> Binance Wallet准备启动下个空投叙事？Berachain草根公链搞起来！
+>  
+> @Web3WithBinance Wallet 与 @berachain 联合推出活动任务，大大提高真实用户获得空投代币的概率。
+>  
+> 据Berachain领投机构Framework Ventures Co-Founder表示，Berachain将在2024年底前发布主网，留给市场的时间不多了！
+>  
+> 点击观看视频：piped.kavin.rocks/oOql5WPjukA?feature…
+
+## 82. Oct 1, 2024 · 8:30 AM UTC · 1841032855155327158#m
+- 链接：https://twitter.com/talkchain_today/status/1841032855155327158#m
+- 作者：@talkchain_today
+
+> 前阵子为北大区块链协会和TalkChain在新加坡Token2049举办了场Side Event(PKU Blockchain Happy Hour)
+>  
+> “思想自由,兼容并包”
+>  
+> 当初决定脱离舒适圈，在新加坡举办活动时，一度担心没有北大人的身影。没想到，活动异常顺利，沉寂在各项目/大厂/基金的校友们都拨冗支持，特别感谢。
+>  
+> @OKX_Ventures 的@KiwiCryptoBig、@BitlayerLabs Co-founder @0xkevinhe、@dappOS_com的 @Mtyl_7th、@SynFuturesDefi Founder、@AntPoolofficial CEO....
+>  
+> Panel活动中，BitLayer联合创始人@0xkevinhe、媒体投资人@RomeoKuok、Bitget研究院首席生态研究员@0x9seed 分享了投研方法论、AI热点、比特币生态前景等干货内容。
+>  
+> （本以为Side Event不适合举办Panel，大家更倾向于社交聊天，没想到Panel效果意外良好！）
+>  
+> 这是第一次@PKUBlockchain 在海外举办的线下活动，但不会是最后一次，未来一年，我们会更频繁出现在世界各地，举办黑客松、公开课、交流会等，产出有意思的研报。欢迎各位多关注！
+>  
+> 若大家对Defi/早期项目感兴趣，亦可关注本次活动的主办方 @talkchain_today，我们有个Youtube频道和Discord社群，开箱不同Defi项目，谈论市场热点。欢迎志同道合的朋友一起玩耍！
+>  
+> 最后，特别感谢 @Bitget_zh 研究院和@Seraph_global对活动的大力支持！
+>  
+> 我们下一次活动再相见！
+>  
+> 欢迎观看精心剪辑的回顾视频👇
+
+## 83. Sep 30, 2024 · 1:34 PM UTC · 1840747047735197917#m
+- 链接：https://twitter.com/talkchain_today/status/1840747047735197917#m
+- 作者：@talkchain_today
+
+> Depin赛道到底凉了没？有收益代表有潜力？
+>  
+> Depin(去中心化物理设施网络)赛道沉寂了一段时间，看似无人关注的赛道似乎出现了两大黑马，从营收数据层面击败老牌知名项目。
+>  
+> Geodnet是个去中心化定位网络，提供厘米级定位服务；Glow是太阳能Depin项目，刚谈下重大合作伙伴。
+>  
+> 什么为Depin？ @GEODNET_ 和 @GlowFND ，哪个更胜一筹？
+>  
+> 点击观看视频：piped.kavin.rocks/q5dhXvbMWSs
+
+## 84. Sep 29, 2024 · 3:20 PM UTC · 1840411242240045445#m
+- 链接：https://twitter.com/talkchain_today/status/1840411242240045445#m
+- 作者：@talkchain_today
+
+> x.com/i/article/184039878572…
+
+## 85. Sep 27, 2024 · 11:39 AM UTC · 1839631049766420812#m
+- 链接：https://twitter.com/talkchain_today/status/1839631049766420812#m
+- 作者：@talkchain_today
+
+> 9月是加密圈活动频繁的热闹月份，有韩国的 @kbwofficial 和新加坡的 @token2049 ，我们当然也不例外！在 TOKEN2049 期间，我们与 @PKUBlockchain 一起举办了 Happy Hours 活动，Talkchain 很荣幸作为联合主办方参与其中！
+>  
+> 现场气氛热烈，大家畅聊 Web3 和加密行业，分享了不少干货。超过 200 位朋友到场，气氛真的很棒！🫡
+>  
+> 这次活动的顺利举办离不开大家的支持，期待下次再聚～🙌
+>  
+> 还有特别感谢所有远道而来的朋友们的参与！🙏
+> @ch999degen
+> @0x_claudia
+> @KiwiCryptoBig
+> @Bitget_zh @0x9seed
+> @Seraph_global
+> @RomeoKuok
+> @0xkevinhe
+> @ZhengWalker
+> @pencesix1
+> @Alinaa_eth
+
+## 86. Sep 25, 2024 · 3:13 PM UTC · 1838959922173907433#m
+- 链接：https://twitter.com/talkchain_today/status/1838959922173907433#m
+- 作者：@talkchain_today
+
+> 回顾 #TOKEN2049 ，盘点三个AI项目！
+>  
+> 本期视频分享在新加坡Token2049活动中遇到的三个引人注目的AI项目： @getsogni 、@elfa_ai 和 @SaharaLabsAI  ，分别在去中心化艺术生成、AI市场分析、基础设施建设有不俗表现。
+>  
+> 点击观看视频：piped.kavin.rocks/AMh6kDYh2b4
+
+## 87. Sep 18, 2024 · 12:45 PM UTC · 1836386078707847299#m
+- 链接：https://twitter.com/talkchain_today/status/1836386078707847299#m
+- 作者：@talkchain_today
+
+> 📢 倒计时2天！#Token2049singapore Side Event - PKU Happy Hour 即将开启！🔥
+>  
+> @talkchain_today 和 @PKUBlockchain 邀您一起畅聊 WEB3 的机遇与挑战，干货满满！🚀
+>  
+> 📅 2024年9月20日，晚上6:00 - 11:00
+>  
+> 🎙️ 嘉宾阵容：
+> CH @ch999degen ( PKUBA & TalkChain)
+> Jarseed @RomeoKuok (Bitget)
+> Romeo @0x9seed (国际媒体投资人)
+> Kevin @0xkevinhe (BitLayer CTO)
+> Walker @ZhengWalker (SNZ Capital)
+>  
+> 感兴趣的小伙伴赶紧报名参加吧！我们到时见！👀
+>  
+> 报名渠道👉 lu.ma/we9b68qc
+
+## 88. Sep 18, 2024 · 12:32 PM UTC · 1836382776352014523#m
+- 链接：https://twitter.com/talkchain_today/status/1836382776352014523#m
+- 作者：@talkchain_today
+
+> 👀👀
+
+## 89. Sep 14, 2024 · 4:31 PM UTC · 1834993492659257812#m
+- 链接：https://twitter.com/talkchain_today/status/1834993492659257812#m
+- 作者：@talkchain_today
+
+> Vitalik亲自回答，以太坊何去何从？
+>  
+> 以太坊基金会一年两度有问必答AMA刚结束，核心成员和Vitalik回应社群困惑，重申以太坊未来路线图。
+>  
+> 本期视频摘取了四大主题的讨论内容，快来了解以太坊何去何从吧！
+>  
+> 内容摘要：
+> - 以太坊价值增长驱动因素
+> - 未来扩容方案
+> - 如何保持抗审查性/中立性？
+> - 与比特币Layer2的竞争优势
+>  
+> 点击观看视频： piped.kavin.rocks/dQCNsCnT4eY
+
+## 90. Sep 14, 2024 · 5:12 AM UTC · 1834822396504949183#m
+- 链接：https://twitter.com/talkchain_today/status/1834822396504949183#m
+- 作者：@talkchain_today
+
+> x.com/i/article/183464378897…
+
+## 91. Sep 13, 2024 · 10:15 AM UTC · 1834536491483329003#m
+- 链接：https://twitter.com/talkchain_today/status/1834536491483329003#m
+- 作者：@talkchain_today
+
+> 🇸🇬 #TOKEN2049
+
+## 92. Sep 11, 2024 · 3:56 PM UTC · 1833897303624831120#m
+- 链接：https://twitter.com/talkchain_today/status/1833897303624831120#m
+- 作者：@talkchain_today
+
+> 14/ 最后一些话
+>  
+> 本期内容已同步制作为视频版本，若想了解更详细内容，欢迎观看！
+>  
+> piped.kavin.rocks/watch?v=AGoeHtFv…
+
+## 93. Sep 11, 2024 · 3:54 PM UTC · 1833896810039140382#m
+- 链接：https://twitter.com/talkchain_today/status/1833896810039140382#m
+- 作者：@talkchain_today
+
+> 13/ 推荐关注
+>  
+> 若大家对Story Protocol感兴趣，建议关注团队成员的推特号👇
+>  
+> 创始人：
+> @storysylee
+> @jasonjzhao
+> @JasonLLevy
+>  
+> 核心贡献者：
+> @WeileiY
+> @timtimtim_eth
+> @leo_hao
+> @StoryBenS
+> @lilsuziverrt
+
+## 94. Sep 11, 2024 · 1:17 PM UTC · 1833857453366333723#m
+- 链接：https://twitter.com/talkchain_today/status/1833857453366333723#m
+- 作者：@talkchain_today
+
+> 🚀 @token2049 Singapore 2024 将于9月18-19日在滨海湾金沙会展中心举行，吸引20,000名与会者和300位演讲嘉宾，并包括500多场周边活动。
+>  
+> 现在使用优惠码【TALKCHAIN15】购票，可享15%折扣！
+>  
+> 购票链接 👉 asia.token2049.com/tickets
+
+## 95. Sep 11, 2024 · 1:17 PM UTC · 1833857429416882512#m
+- 链接：https://twitter.com/talkchain_today/status/1833857429416882512#m
+- 作者：@talkchain_today
+
+> 🎉 新加坡区块链盛事即将来临！距离 @token2049 Singapore 2024 仅剩 7 天！
+>  
+> 9月20日晚， @PKUBlockchain 和 @talkchain_today 将联合举办“PKU Blockchain Happy Hour”，与 TOKEN2049 同期举行。我们将汇聚行业顶尖精英，探讨区块链前沿创新。
+>  
+> 立即报名：lu.ma/we9b68qc
+
+## 96. Sep 11, 2024 · 11:31 AM UTC · 1833830793220948356#m
+- 链接：https://twitter.com/talkchain_today/status/1833830793220948356#m
+- 作者：@talkchain_today
+
+> 12/ 测试网交互方式
+>  
+> Story Protocol开放测试网，当下有四个项目已能进行交互：
+>  
+> - @TheBlockBookapp ：内容平台，链接品牌方和内容创作者，帮助内容创作者提升曝光率且获得品牌方奖励。
+>  
+> - @color_mp ：IP 市场，用户可注册链上IP、设定许可条款、进行IP交易；（为庆祝项目推出，目前推出了免费的NFT可以铸造）
+>  
+> - @piperxprotocol ：Story链上的现货交易所；
+>  
+> - @UnleashProtocol：IPfi平台，功能包括IP启动平台、IP借贷等；
+>  
+> 领取测试币 $IP 后即可在项目进行交互，不确定未来是否能获得空投 🎁
+>  
+> 测试水龙头：faucet.story.foundation/
+
+## 97. Sep 11, 2024 · 11:31 AM UTC · 1833830790142341612#m
+- 链接：https://twitter.com/talkchain_today/status/1833830790142341612#m
+- 作者：@talkchain_today
+
+> 11/ 团队背景（4）
+>  
+> 韩国娱乐圈人脉：
+>  
+> - Bang Si-Hyuk,：HYBE创办人，公司旗下有BTS防弹少年团、Seventeen等知名团队；
+> - Kyung In Jung：The Black Label的CEO，旗下艺人包括BlackPick成员Rosé、前BIGBANG成员Taeyang、朴宝剑；
+>  
+> 以上都是Story Protocol的天使投资人，上周KBW活动也有不少韩国知名人物与之碰面。
+>  
+> localhost:8080/StoryProtocol/status/1…
+
+## 98. Sep 11, 2024 · 11:31 AM UTC · 1833830786157752425#m
+- 链接：https://twitter.com/talkchain_today/status/1833830786157752425#m
+- 作者：@talkchain_today
+
+> 10/ 团队背景（3）
+>  
+> 好莱坞人脉：
+>  
+> 该项目的顾问是David Goyer，好莱坞知名的编剧和导演,参与创作了《蝙蝠侠》、《超人》等多部知名电影，并且他也曾参与制作了游戏《使命召唤》
+>  
+> 有望为Story Protocol对接好莱坞的IP资源
+
+## 99. Sep 11, 2024 · 11:31 AM UTC · 1833830783951503857#m
+- 链接：https://twitter.com/talkchain_today/status/1833830783951503857#m
+- 作者：@talkchain_today
+
+> 9/ 团队背景（2）
+>  
+> 三位创始人：
+> - Seung Yoon Lee：连续创业者，上一个创业公司最终用4.4亿美金的价格卖给了韩国科技巨头Kakao，而后担任Hashed的风投合伙人，负责Web3的业务，对区块链技术较为熟悉；
+>  
+> - Jason Zhao：斯坦福大学的高材生，哲学和计算机科学双学位。曾在Google DeepMind工作（之前研发出AlphaGo击败围棋世界冠军李世石的背后公司），AI领域的佼佼者；
+>  
+> - Jason Levy：斯坦福大学的高材生，曾任职苹果公司，担任Pocket Gem的原创内容总监，创立了一家名为Worlds Between Worlds的游戏公司，熟悉IP领域；
+
+## 100. Sep 11, 2024 · 11:31 AM UTC · 1833830781334299055#m
+- 链接：https://twitter.com/talkchain_today/status/1833830781334299055#m
+- 作者：@talkchain_today
+
+> 8/ 团队背景（1）
+>  
+> Story的愿景有极强的「网络效应」，越多IP入驻会吸引越多创作者，从而让该平台拥有更多IP资产，形成正向循环。
+>  
+> 如何冷启动至关重要，取决于项目方拥有的人脉资源。
+
+## 101. Sep 11, 2024 · 11:31 AM UTC · 1833830779060908144#m
+- 链接：https://twitter.com/talkchain_today/status/1833830779060908144#m
+- 作者：@talkchain_today
+
+> 7/ AI时代下的创作者生态（2）
+>  
+> 许多有趣的二次创作，在不获得IP授权的情况下，只能承担「侵权」风险。
+>  
+> - 哈利波特和Balenciaga品牌的时尚元素结合起来，千万观看的短视频
+> piped.kavin.rocks/watch?v=iE39q-IK…
+> - 克隆明星音色生成音乐内容
+> piped.kavin.rocks/watch?v=uPMXn7Ib…
+>  
+> @StoryProtocol 试图解决AI时代下二次创作的侵权问题
+
+## 102. Sep 11, 2024 · 11:31 AM UTC · 1833830776452121039#m
+- 链接：https://twitter.com/talkchain_today/status/1833830776452121039#m
+- 作者：@talkchain_today
+
+> 6/ AI时代下的创作者生态（1）
+>  
+> 创作者利用AI和互联网素材进行创作，会导致内容产出爆炸式增长。然而，由于版权问题，很多创作难以变现，创作者无法获得应有收益。
+>  
+> 以「公地悲剧」理论诠释，这就像牧民过度放牧导致草场退化一样，最终可能损害创作生态。
+>  
+> AI时代需要有效的管理机制，保护IP拥有人，让创作者能合法获利。
+
+## 103. Sep 11, 2024 · 11:31 AM UTC · 1833830774258512210#m
+- 链接：https://twitter.com/talkchain_today/status/1833830774258512210#m
+- 作者：@talkchain_today
+
+> 5/ 具体案例
+>  
+> 官方举了个例子👇
+>  
+> “如果你想用别人的Azuki NFT和你的Pudgy NFT创作漫画（二创作品），首先你需要找到两个NFT的相关许可证、联系持有者、请律师撰写合同，非常麻烦。
+>  
+> Story Protocol允许Azuki和Pudgy持有者将NFT注册为IP资产，允许所有人在条款限制下使用和改编IP，并且二次创作的收益可以自动分配。”
+
+## 104. Sep 11, 2024 · 11:31 AM UTC · 1833830770785595553#m
+- 链接：https://twitter.com/talkchain_today/status/1833830770785595553#m
+- 作者：@talkchain_today
+
+> 4/ Story Protocol提出链上IP概念
+>  
+> 所谓「链上IP」指的是IP版权交易能直接在链上进行，对IP拥有人和创作者都有好处。
+>  
+> - IP拥有人：直接在链上将图片/音乐/小说注册为IP，获得法律保障；
+> - 创作者：根据链上IP的许可条款，快速方便使用他人IP来二次创作，可正当盈利，无需担忧侵权问题；
+>  
+> 二次创作的收益可自动分配给IP拥有人，依据设定的许可条款来决定。
+
+## 105. Sep 11, 2024 · 11:31 AM UTC · 1833830768118034824#m
+- 链接：https://twitter.com/talkchain_today/status/1833830768118034824#m
+- 作者：@talkchain_today
+
+> 3/ IP市场多大？
+>  
+> 根据PwC研究报告，IP涉及的娱乐与媒体市场巨大，2023年达2.8万亿美金。
+>  
+> 相比之下，比特币目前市值1.1万亿美金。Story Protocol所涉猎的市场天花板更高，从这角度便能解释A16Z为何愿意给出巨额投资。
+
+## 106. Sep 11, 2024 · 11:31 AM UTC · 1833830764632547522#m
+- 链接：https://twitter.com/talkchain_today/status/1833830764632547522#m
+- 作者：@talkchain_today
+
+> 2/ 为何获得巨额融资？
+>  
+> @StoryProtocol 已公布3轮融资，共计1.3亿美金，皆由 @a16zcrypto 领投。
+>  
+> 问：市场不景气情况下，为何能获得巨额融资？
+> 答：或与「不内卷」有关系，不竞争现有链上用户，引入Web2用户。
+>  
+> NFT、GameFi、Ton小游戏等赛道玩法的爆火，主要原因在于能为行业带入新用户。Story提出的链上IP也有望达成该愿景。
+
+## 107. Sep 11, 2024 · 11:31 AM UTC · 1833830761457160418#m
+- 链接：https://twitter.com/talkchain_today/status/1833830761457160418#m
+- 作者：@talkchain_today
+
+> 1/ 放弃内卷，Story链上IP概念能否撬动万亿市场？
+>  
+> A16Z鼎力扶持的Story Protocol，最新一轮融资获得8000万美金，总金额超过1.3亿美金。
+>  
+> 神秘之师Story Protocol能否联动知名IP，共同搞事？项目背景资源如何？散户该怎么获利？
+>  
+> 👇🧵
+
+## 108. Sep 5, 2024 · 1:30 AM UTC · 1831505086725673288#m
+- 链接：https://twitter.com/talkchain_today/status/1831505086725673288#m
+- 作者：@talkchain_today
+
+> 打破稳定币秩序？Ethena算稳赛道王者？孕育中的下个LUNA？
+>  
+> Luna事件爆发后，算法稳定币在加密货币市场一度销声匿迹。在Dragonfly、Binance Labs、Arthur Hayes等重量级玩家的共同扶持下，Ethena项目如一匹黑马般崛起，似乎要重振算稳的昔日荣光。
+>  
+> @ethena_labs 究竟是何方神圣？它能否避免重蹈Luna的覆辙呢？
+>  
+> 点击观看视频：piped.kavin.rocks/FoYM0G4HrKw?feature…
+
+## 109. Aug 30, 2024 · 11:28 AM UTC · 1829481256549245374#m
+- 链接：https://twitter.com/talkchain_today/status/1829481256549245374#m
+- 作者：@talkchain_today
+
+> 🚀  @token2049 倒计时中，门票几乎售罄！Happy Bird 优惠将于9月6日新加坡时间晚上11:59结束🔥
+>  
+> Talkchain 期待与大家共襄盛举，推动区块链的未来发展🌐
+>  
+> 现在使用优惠码【TALKCHAIN15】购票，可享15%折扣！
+> 购票链接 👉 asia.token2049.com/tickets
+
+## 110. Aug 28, 2024 · 3:22 PM UTC · 1828815442569486532#m
+- 链接：https://twitter.com/talkchain_today/status/1828815442569486532#m
+- 作者：@talkchain_today
+
+> 记得留守这周五的Spaces，大家不见不散！👀
+
+## 111. Aug 28, 2024 · 12:56 PM UTC · 1828778743789507003#m
+- 链接：https://twitter.com/talkchain_today/status/1828778743789507003#m
+- 作者：@talkchain_today
+
+> Perp赛道头部竞争剧烈！ Aark发币后是否能靠XXX突破重围破局？！
+>  
+> Arbitrum老牌衍生品交易所 @Aark_Digital 力图破局，采用「大撒币」模式来吸引交易员用户。
+>  
+> 本期 DeFi 开箱视频，详细解读 Aark Digital 的机制、基本面及竞品对比，挖掘其中机会与风险。
+>  
+> 点击观看视频: piped.kavin.rocks/mf7sOqSUwiQ
+
+## 112. Aug 27, 2024 · 10:48 AM UTC · 1828384113595949516#m
+- 链接：https://twitter.com/talkchain_today/status/1828384113595949516#m
+- 作者：@talkchain_today
+
+> Babylon主网开启 ｜孙哥Tron链异军突起｜Story Protocol荣获A16Z力捧【视频里有抽奖👀】
+>  
+> 本周币圈三件大事👇
+> 1. 比特币 @babylonlabs_io 主网开启，第一场战争打响，哪个项目暂时领先？
+> 2. $TRX 公链代币大涨，波场基本面变好？ $USDD 稳定币藏有大雷？
+> 3.  @StoryProtocol 获得A16Z力捧，如何结合知识产权与区块链？
+>  
+> 点击观看视频: piped.kavin.rocks/K-GsDz5vSS4
+>  
+> 活动倒数一天啦！千万别错过最后的机会赢取《黑神话：悟空》，快去观看视频参加吧！🥳🥳
+
+## 113. Aug 23, 2024 · 12:58 PM UTC · 1826967207290843303#m
+- 链接：https://twitter.com/talkchain_today/status/1826967207290843303#m
+- 作者：@talkchain_today
+
+> 10/ 最后一些话
+>  
+> 本期内容已同步制作成视频版本，若想了解更详细信息，欢迎移步观看！
+>  
+> piped.kavin.rocks/watch?v=rGcUZtVP…
+
+## 114. Aug 23, 2024 · 12:58 PM UTC · 1826967205126590602#m
+- 链接：https://twitter.com/talkchain_today/status/1826967205126590602#m
+- 作者：@talkchain_today
+
+> 9/ 另一个杠杆策略
+>  
+> @NX_Finance 实际上还开设了个 @thevaultfinance 的池子，用户可以杠杆获得更多积分，博取日后的空投收益。
+>  
+> 但，该池子的资金量过小，本文就不过多介绍。
+
+## 115. Aug 23, 2024 · 12:58 PM UTC · 1826967203079667884#m
+- 链接：https://twitter.com/talkchain_today/status/1826967203079667884#m
+- 作者：@talkchain_today
+
+> 8/ 存款策略（2）
+>  
+> 除了一般的合约风险之外，存款策略也存在一个可能的风险情况：
+>  
+> 当杠杆用户过多，将借贷池子的资金全借走，存款者就无法立刻取款离场，需要等更多人存入资金，或者杠杆者还款。
+
+## 116. Aug 23, 2024 · 12:58 PM UTC · 1826967199606878384#m
+- 链接：https://twitter.com/talkchain_today/status/1826967199606878384#m
+- 作者：@talkchain_today
+
+> 7/ 存款策略（1）
+>  
+> NX Finance内置个借贷池子，杠杆者使用借贷池子来实现杠杆策略，适合不愿承担清算风险的低风险用户。
+>  
+> 存款稳定币在NX Finance可以获得15%的APR
+
+## 117. Aug 23, 2024 · 12:58 PM UTC · 1826967197144789240#m
+- 链接：https://twitter.com/talkchain_today/status/1826967197144789240#m
+- 作者：@talkchain_today
+
+> 6/ 杠杆策略
+>  
+> NX Finance提供JLP杠杆策略，允许用户开设最高5倍杠杆，用有限资金最大化JLP的年化收益。
+>  
+> 杠杆越大，年化收益越高，清算风险也越大⚠️
+>  
+> 例如：在JLP价格3.15u的价格选择3倍杠杆，可以获得134% APY，清算价格为2.21u
+
+## 118. Aug 23, 2024 · 12:58 PM UTC · 1826967194040779200#m
+- 链接：https://twitter.com/talkchain_today/status/1826967194040779200#m
+- 作者：@talkchain_today
+
+> 5/ 注意事项
+>  
+> - 使用 @Backpack 可获得额外10%空投；
+> - 空投活动需手动参与，未参与用户无法获得空投，且需要加入队伍，最高获得50%的额外空投
+>  
+> 参与空投活动链接👇
+> nxfinance.io/airdrop?inviteC…
+>  
+> TalkChain队伍：talkchain
+
+## 119. Aug 23, 2024 · 12:58 PM UTC · 1826967191792849033#m
+- 链接：https://twitter.com/talkchain_today/status/1826967191792849033#m
+- 作者：@talkchain_today
+
+> 4/ NX Finance介绍
+>  
+> @NX_Finance 是Solana生态的杠杆流动性挖矿平台，杠杆JLP的策略金库可获得超过200%的年化收益。
+>  
+> 该项目未发币，现在参与可获得积分，兑换日后空投。
+
+## 120. Aug 23, 2024 · 12:58 PM UTC · 1826967189267923213#m
+- 链接：https://twitter.com/talkchain_today/status/1826967189267923213#m
+- 作者：@talkchain_today
+
+> 3/ JLP机制（2）
+>  
+> 目前JLP池子的年化收益约为21.85%，不包括SOL/BTC/ETH带来的币价升值，以及交易员的盈亏影响。
+
+## 121. Aug 23, 2024 · 12:58 PM UTC · 1826967187204325614#m
+- 链接：https://twitter.com/talkchain_today/status/1826967187204325614#m
+- 作者：@talkchain_today
+
+> 2/ JLP机制（1）
+>  
+> JLP是Jupiter合约交易所的流动性代币，类似GMX中GLP的定位。
+>  
+> - JLP持有者可以分享Jupiter合约交易平台75%的费用收入；
+> - JLP池子由SOL/BTC/ETH/USDT/USDC组成，当大盘上涨，JLP也会增值；
+> - 当Jupiter交易员亏损，JLP池子盈利，反之亏损；
+
+## 122. Aug 23, 2024 · 12:58 PM UTC · 1826967184465334748#m
+- 链接：https://twitter.com/talkchain_today/status/1826967184465334748#m
+- 作者：@talkchain_today
+
+> 1/ Solana乐高叠起来！杠杆策略香香矿？
+>  
+> @JupiterExchange 旗下的JLP池子锁仓量高达6.5亿美金，提供了Solana链超过10%的锁仓量。
+>  
+> 为何大户热衷JLP池子，如何提高JLP收益率，拿到三位数年化收益？
+>  
+> 👇🧵
+
+## 123. Aug 20, 2024 · 9:06 PM UTC · 1826002881180479618#m
+- 链接：https://twitter.com/talkchain_today/status/1826002881180479618#m
+- 作者：@talkchain_today
+
+> 我们在马来西亚区块链周 Malaysia Blockchain Week 期间举办了场公开的Side Event活动，特取名为TalkChain Kopitiam，融合🇲🇾马来西亚道地多元文化。
+>  
+> 本次活动，第一次尝试，不分种族/语言，活动圆桌论坛融合三语元素（英/中/马），邀请了我们觉得有趣的项目代表，分享嘉宾，本次活动共200余人参与，荣幸之至！🫡
+>  
+> 本次活动成功举办离不开TALKCHAIN社群来场支持，我们下次活动见！🙌
+>  
+> 还有特别感谢有道而来参与的各界好友 ！🙏
+>  
+> @elfa_ai @tethrees
+> @BubblyFinance @josephxu_
+> @impossiblefi
+> @MantaNetwork @mattyap145
+> @Bifrost
+> @MeteorWallet
+> @DaoZerox @ping_choong
+> @Defi0xJeff
+> @benhwx
+> @dannyjj_hoe
+> @ubatmerah
+> @ChocoYining
+
+## 124. Aug 18, 2024 · 1:30 AM UTC · 1824982148497232145#m
+- 链接：https://twitter.com/talkchain_today/status/1824982148497232145#m
+- 作者：@talkchain_today
+
+> 👀
+
+## 125. Aug 14, 2024 · 3:33 PM UTC · 1823744889458495708#m
+- 链接：https://twitter.com/talkchain_today/status/1823744889458495708#m
+- 作者：@talkchain_today
+
+> 空投手机开卖引争议！Movement创办人：虚假信息，没有正式合作！
+>  
+> @movementlabsxyz 自诞生起就受到各方人士关注，投资阵容豪华。围绕空投手机开卖，甚至出现了些许乌龙事件。
+> - 如何埋伏空投代币？
+> - 项目机制有何特殊？
+> 👇🧵
+>  
+> 一、乌龙事件
+> Movement生态手机项目 @upnetworkhq 正在进行手机公售，在宣传界面表示，购买手机的用户可获得Movement代币空投、自家Up Network空投，以及40++生态项目的空投。
+>  
+> 不料仅一天时间，Movement的联合创始人 @rushimanche 便辟谣，表示从未承诺给任何生态项目空投，假消息。
+>  
+> 辟谣后， @upnetworkhq 及其公售平台 @Beanco_io 已修改宣传页的信息，移除Movement空投的描述。
+>  
+> 有没有可能，购买手机的持有人真能获得空投？只是项目方不小心透露出来？
+>  
+> 万事皆有可能，可以根据之前 @upnetworkhq @Beanco_io 公布的空投比例来计算回报率。
+>  
+> 假设：10,000台手机可获得0.1%的Movement代币空投
+> 结果：Movement发币后的全流通估值需达70亿美金，方能获得700u空投
+>  
+> ⚠️ 近期发币的Layer2项目 Blast和zkSync只有10-25亿的估值
+>  
+> 二、Movement介绍
+> 乌龙事件不该影响Movement项目的基本面，有两项旗舰产品，分别是以太坊的Layer2（Movement Network）和 去中心化排序器（M1）
+>  
+> - Movement Network：以太坊的Layer2，开发者可以用Solidity语言，通过编译器转变为MOVE语言，拥有EVM环境，同时兼容MOVE语言优点；
+> - M1：去中心化排序器，模块化的产品，任何用该排序器的公链都能优化跨链的互操作性问题；
+>  
+> 三、投资阵容
+> 并行EVM+模块化执行层的叙事诱人，吸引了不少知名VC投资该项目。
+>  
+> 种子轮：dao5、Borderless Capital、Blizzard Fund领投，获340万美金融资；
+> A轮融资：Polychain领投，获3800万美金融资；
+>  
+> @BinanceLabs 也宣布投资该项目
+>  
+> 四、空投预测
+> Movement推出了激励测试网，散户可以体验测试网、开发者可以尝试构建产品，在日后有可能可以拿到空投代币。
+>  
+> - 这期视频的6分20秒左右讲解了交互测试网的要点，欢迎观看👇
+> piped.kavin.rocks/watch?v=p9HAksQW…
+> - 测试网任务太多了，若项目方想奖励真实用户，而非空投农民，应该不会要求任务必须全完成，完成10-20%的比例任务或许可达门槛；
+> - 创始人在接受采访曾考虑把部分空投份额交给生态应用去发放；
+>  
+> 五、生态项目
+> Movement上的生态项目非常多，该公链会诞生什么现象级的产品吗？
+>  
+> 个人猜测：消费级产品，交易/比赛/社交之类的产品会更有优势，之前在其他链因为性能做不到的全链游戏，全链订单簿之类的项目，有可能可以在Movement之类的高性能链上解决
+>  
+> 有两个项目曾在创始人采访中多次被提及，可关注👇
+>  
+> - @BRKTgg ：链上预测市场，可以下注各类体育赛事；
+> - @cred_v ：AI驱动的链上订单簿流动性做市商服务，支持链上订单簿；
+>  
+> 六、最后一些话
+> 若想第一时间得知TalkChain的最新内容，欢迎打开TalkChain Youtube的订阅+小铃铛。
+>  
+> 原创内容不易，若对您有帮助，欢迎点赞/分享！
+
+## 126. Aug 13, 2024 · 11:34 AM UTC · 1823322265066557792#m
+- 链接：https://twitter.com/talkchain_today/status/1823322265066557792#m
+- 作者：@talkchain_today
+
+> 5/ 最后一些话
+>  
+> 以下是TalkChain Discord链接，提供给大家一个聊天交流的平台，欢迎新朋友加入！
+>  
+> 🔗：discord.com/invite/JdRKFGcrj…
+
+## 127. Aug 13, 2024 · 11:34 AM UTC · 1823322262508065004#m
+- 链接：https://twitter.com/talkchain_today/status/1823322262508065004#m
+- 作者：@talkchain_today
+
+> 4/ 📰行业消息
+>  
+> - @BitGo 和 BiT Global 创建合资企业，实现 WBTC 跨多个司法管辖区的托管和冷储存业务，引起了业内对于WBTC掌控权的讨论
+> - @realDonaldTrump 在采访中提出使用比特币来应对35万亿美元的美国国债问题的建议
+> - @OrderlyNetwork 代币 $ORDER 即将上线，官方表示会从目前800万左右的净费用抽出60%，以USDC的形式分发给质押者
+> - @hyperlane 推出了Hyperlane基金会以及$ HYPE 代币
+
+## 128. Aug 13, 2024 · 11:34 AM UTC · 1823322259702043053#m
+- 链接：https://twitter.com/talkchain_today/status/1823322259702043053#m
+- 作者：@talkchain_today
+
+> 3/ 👀早期项目
+>  
+> - @superstatefunds：基于区块链的政府债券基金，使用以太坊区块链作为辅助记录保存工具；
+> - @YieldNestFi：由EigenLayer 支持的流动性再质押协议，提供简化、经过风险调整的流动性再质押策略；
+> - @parasailnetwork ：DePIN质押协议，消除DePIN服务提供商之间的风险，简化用户获得DePIN协议奖励的流程；
+
+## 129. Aug 13, 2024 · 11:34 AM UTC · 1823322257307169123#m
+- 链接：https://twitter.com/talkchain_today/status/1823322257307169123#m
+- 作者：@talkchain_today
+
+> 2/ 💰融资信息
+>  
+> - @solayer_labs：Solana再质押协议solayer获得Binance Labs投资，金额未披露；
+> - @andrena_wifi：互联网基础设施Andrena获得1800 万美元融资，Dragonfly领投；
+> - @PaymanAI：AI to Human 平台 Payman 完成 300 万美元Pre种子轮融资，Coinbase Venture和Spartan Group参投；
+> - @PentagonGamesXP：zkEVM 区块链游戏发行商Pentagon Games完成 600 万美元种子轮融资，Binance Labs参投；
+> - @VesselFinance：ZK交易平台Vessel获得1000 万美元种子轮融资，Sequoia Capital参投；
+
+## 130. Aug 13, 2024 · 11:34 AM UTC · 1823322254949978324#m
+- 链接：https://twitter.com/talkchain_today/status/1823322254949978324#m
+- 作者：@talkchain_today
+
+> 1/ 🧬 2024/8/6- 2024/8/12TalkChain周报🧬
+>  
+> 8月6日以太坊现货ETF流入逾一亿美金流动性，ETF流入金额由负转正，抛压逐渐减少。
+>  
+> 截至目前，以太坊ETF走势与年初比特币走势吻合。若未来几周能持续保持净流入，走势较弱的以太币或许会挺起腰板！
+>  
+> 本周还有许多重要新闻👇🧵
+
+## 131. Aug 8, 2024 · 11:39 AM UTC · 1821511588211482867#m
+- 链接：https://twitter.com/talkchain_today/status/1821511588211482867#m
+- 作者：@talkchain_today
+
+> 若对文字版内容感兴趣，欢迎阅读 @ch999degen 撰写的推文👇
+
+## 132. Aug 8, 2024 · 11:39 AM UTC · 1821511585900503467#m
+- 链接：https://twitter.com/talkchain_today/status/1821511585900503467#m
+- 作者：@talkchain_today
+
+> 比特币抄底 or 逃顶？关键指标搞懂了吗？
+>  
+> 每隔一段时间总能听见有人高喊「牛市已完结」，追涨杀跌是人性使然。唯有善用量化指标才能做出更理智的决策。
+>  
+> 本期视频介绍 @coinglass_com 平台内好用的几个关键指标，讲解其中的解读逻辑。
+>  
+> 内容摘要：
+> - 加密货币多空比：判断现况
+> - Ahr999：何时抄底/定投？
+> - Pi循环顶部指示器：逃顶指标
+> - 最大痛点：趋势判断
+> - RSI热力图：超买or超卖
+> - 恐慌贪婪指数：市场情绪
+>  
+> 👉 点击观看视频 : piped.kavin.rocks/watch?v=Ip1sAlSz…
+
+## 133. Aug 5, 2024 · 4:00 PM UTC · 1820490171940520094#m
+- 链接：https://twitter.com/talkchain_today/status/1820490171940520094#m
+- 作者：@talkchain_today
+
+> 5/ 最后的话
+>  
+> 对于以上项目，你们怎么看？希望大家能一起交流进步！加入我们的Discord社群，一起来聊天！😄
+>  
+> 🔗：discord.com/invite/JdRKFGcrj…
+
+## 134. Aug 5, 2024 · 4:00 PM UTC · 1820490169075798297#m
+- 链接：https://twitter.com/talkchain_today/status/1820490169075798297#m
+- 作者：@talkchain_today
+
+> 4/ 📰行业消息
+>  
+> - @compoundfinance 疑似遭受治理攻击，第 289 号提案通过将价值2400万美元的COMP代币分配给Golden Boys 收益协议；
+> - @TeamKujira 基金会的运营钱包遭到清算，导致 KUJI 代币下跌 40%。
+> - 多链借贷协议 @RDNTCapital 于8月1日在 Base 上线。
+> - @Tether_to 上半年的利润达到 52 亿美元，创下历史新高。
+> - @alifarhat79 鲍威尔表示，如果条件允许，最早可能在9月的会议上降息。
+
+## 135. Aug 5, 2024 · 4:00 PM UTC · 1820490166265594268#m
+- 链接：https://twitter.com/talkchain_today/status/1820490166265594268#m
+- 作者：@talkchain_today
+
+> 3/ 👀早期项目
+>  
+> - @BubblyFinance：首个基于AMM的Pre-Market交易所，可以交易积分或其他上市前的资产；
+> - @elfa_ai：基于人工智能分析社媒数据，狩猎Alpha的强大工具；
+> - @BlonkFi：Solana上基于迷因币的借贷协议，种子轮获得UOB Venture投资（未公布融资额）；
+
+## 136. Aug 5, 2024 · 4:00 PM UTC · 1820490163090567229#m
+- 链接：https://twitter.com/talkchain_today/status/1820490163090567229#m
+- 作者：@talkchain_today
+
+> 2/ 💰融资信息
+>  
+> - @AgentLabs：用户可生成多个支持转移的子账户，支持出售绑定空投积分的钱包，获得100万美金融资；
+> - @daylightenergy_：专注于能源分配的Depin项目，a16z领投900万美金；
+> - @PichiFinance：积分交易市场，Signum Capital / UOB Venture / Mantle Network共同领投250万美金；
+> - @ParticleNtwrk：模块化的Layer1公链，链抽象及钱包抽象是其特点，Binance刚宣布成为其投资者；
+> - @MorphoLabs：自定义借贷协议，刚完成巨额融资，Ribbit Capital领投5000万美金；
+
+## 137. Aug 5, 2024 · 4:00 PM UTC · 1820490160360038613#m
+- 链接：https://twitter.com/talkchain_today/status/1820490160360038613#m
+- 作者：@talkchain_today
+
+> 1/ 🧬 2024/7/30- 2024/8/5 TalkChain周报🧬
+>  
+> 行情遇冷，以太坊和比特币大跳水。祝愿各位能稳稳挺过币价动荡的时段，静待降息来临！
+>  
+> 本周币报请查收👇🧵
+
+## 138. Aug 4, 2024 · 12:24 PM UTC · 1820073340071235976#m
+- 链接：https://twitter.com/talkchain_today/status/1820073340071235976#m
+- 作者：@talkchain_today
+
+> 12/ 最后一些话
+>  
+> 原创内容不易，若TalkChain内容对您有些许帮助，欢迎各位点赞、留言，分享给更多人。
+>  
+> 一起学习，一起进步⛽️
+
+## 139. Aug 4, 2024 · 12:23 PM UTC · 1820073153021788585#m
+- 链接：https://twitter.com/talkchain_today/status/1820073153021788585#m
+- 作者：@talkchain_today
+
+> 11/ 项目四：Morpho（2）
+>  
+> @MorphoLabs 是个Defi借贷协议，一开始是个搭建在Aave/Compound的借贷优化器，透过p2p的模式来为借贷双方获得更优利率。
+>  
+> Morpho升级后，任何人都能在平台上根据自己的风险管理策略，自定义借贷池子，有利于大型机构进入Defi世界。
+
+## 140. Aug 4, 2024 · 12:23 PM UTC · 1820073149632856253#m
+- 链接：https://twitter.com/talkchain_today/status/1820073149632856253#m
+- 作者：@talkchain_today
+
+> 10/ 项目四：Morpho（1）
+>  
+> 直接入重点， @MorphoLabs 刚完成 5,000美金的新一轮融资，领投机构为传统资本 @RibbitCapital ，其他跟投方有美国的 @cbventures 和中国的 @fenbushi 。
+
+## 141. Aug 4, 2024 · 12:23 PM UTC · 1820073146562859406#m
+- 链接：https://twitter.com/talkchain_today/status/1820073146562859406#m
+- 作者：@talkchain_today
+
+> 9/ 项目三：Redstone（3）
+>  
+> 该项目也推出了积分计划，动用空投预期拉拢用户来使用生态项目。
+>  
+> @EtherFi  @RenzoProtocol  @swellnetworkio 等LRT项目都采用该预言机的服务，目前他们和 @pendle_fi 合作举办了积分活动（详情如下）
+
+## 142. Aug 4, 2024 · 12:23 PM UTC · 1820073143580692574#m
+- 链接：https://twitter.com/talkchain_today/status/1820073143580692574#m
+- 作者：@talkchain_today
+
+> 8/ 项目三：Redstone（2）
+>  
+> 同样在7月份，该项目获得了1,500万美金的新一轮融资， @Arrington_Cap 领投， @TheSpartanGroup / @SevenXVentures /  @IOSGVC 等明星机构跟投。
+
+## 143. Aug 4, 2024 · 12:23 PM UTC · 1820073140472705208#m
+- 链接：https://twitter.com/talkchain_today/status/1820073140472705208#m
+- 作者：@talkchain_today
+
+> 7/ 项目三：Redstone（1）
+>  
+> @redstone_defi 是个模块化预言机项目。根据DefiLlama的TVS和协议数量数据，Redstone目前在整个预言机赛道中排名第5/第6名。
+
+## 144. Aug 4, 2024 · 12:23 PM UTC · 1820073137498906650#m
+- 链接：https://twitter.com/talkchain_today/status/1820073137498906650#m
+- 作者：@talkchain_today
+
+> 6/ 项目二：aPriori（2）
+>  
+> 7月份种子轮中，获得 @PanteraCapital 领投的800万美金（估值1亿美金）。
+>  
+> 此外， @BinanceLabs 也宣布在战略轮中投资该项目，金额不明。
+
+## 145. Aug 4, 2024 · 12:23 PM UTC · 1820073134697107645#m
+- 链接：https://twitter.com/talkchain_today/status/1820073134697107645#m
+- 作者：@talkchain_today
+
+> 5/ 项目二：aPriori（1）
+>  
+> @monad_xyz 公链生态的流动性质押项目，不同于市面主流的LSD项目， @aprMEV 除了可赚取POS奖励之外，还可以收获MEV的利润。
+>  
+> aPriori在Monad上创建高效的MEV市场，提高效率的同时，也让用户和验证者能从MEV中获利。
+
+## 146. Aug 4, 2024 · 12:23 PM UTC · 1820073131966701622#m
+- 链接：https://twitter.com/talkchain_today/status/1820073131966701622#m
+- 作者：@talkchain_today
+
+> 4/ 项目一：Agent Exchange（2）
+>  
+> - CEO（Jimmy Xue）曾担任 @VelodromeFi 的技术联合创始人；
+> - COO（Greg Lim）曾在英语媒体 @TheBlock__ 担任企业发展主管；
+>  
+> 该项目刚获得100万美金融资，投资阵容如下图👇
+
+## 147. Aug 4, 2024 · 12:23 PM UTC · 1820073129135460609#m
+- 链接：https://twitter.com/talkchain_today/status/1820073129135460609#m
+- 作者：@talkchain_today
+
+> 3/ 项目一：Agent Exchange（1）
+>  
+> 用户可基于ERC-6551用主钱包生成多个子账户地址，每个地址都可以进行转移和交易。
+>  
+> @AgentLabs 兼容了市面主流的积分空投项目，比如Ethena、EigenLayer，用户可用子账户去赚取积分，在项目TGE之前，可以直接出售钱包拥有权。
+
+## 148. Aug 4, 2024 · 12:23 PM UTC · 1820073126623109358#m
+- 链接：https://twitter.com/talkchain_today/status/1820073126623109358#m
+- 作者：@talkchain_today
+
+> 2/ 四个项目
+>  
+> - @AgentLabs ：Web3子账户管理/交易平台；
+> - @aprMEV ：Monad LSD+MEV项目；
+> - @redstone_defi ：模块化预言机
+> - @MorphoLabs ：明星借贷协议
+>  
+> 已同步制作成Youtube视频，欢迎观看👇
+>  
+> piped.kavin.rocks/W9aUpirswX8
+
+## 149. Aug 4, 2024 · 12:23 PM UTC · 1820073123636797465#m
+- 链接：https://twitter.com/talkchain_today/status/1820073123636797465#m
+- 作者：@talkchain_today
+
+> 1/ 无聊牛市，币圈新融资呼唤狠角色来整活！
+>  
+> 融资项目千千万，本月哪些有意思的项目获得机构投资，一起在一级市场中寻觅瑰宝！
+>  
+> 资本如何布局打破无聊牛市，为行业带来创新价值？
+>  
+> 🧵👇
+
+## 150. Aug 2, 2024 · 10:25 AM UTC · 1819318550101958765#m
+- 链接：https://twitter.com/talkchain_today/status/1819318550101958765#m
+- 作者：@talkchain_today
+
+> 恭喜各位获得Foresight 活动门票 🔥🎉
+>  
+> 获奖者名单：
+> @Anon22968
+> @PenghuaLu
+> @JimmyHuang19
+> @ping_choong
+> @0xb2991_
+> @khunthekid
+> @Lony_M
+> @ml_hao
+> @BitmanTW
+> @9527bobi
+> @BreValenti16520
+> @fren1004
+> @Flyying2049
+> @JDEN_MAK
+> @potato89757_3
+>  
+> 请在24小时之内 DM 我们您的 EVM 地址 🙏 逾时不候！
+
+## 151. Jul 29, 2024 · 3:30 PM UTC · 1817945683724480647#m
+- 链接：https://twitter.com/talkchain_today/status/1817945683724480647#m
+- 作者：@talkchain_today
+
+> 5/ 最后的话
+>  
+> 若想了解更多项目分析内容，欢迎留守TalkChain的Youtube频道！
+>  
+> piped.kavin.rocks/@TALKCHAINTODAY
+
+## 152. Jul 29, 2024 · 3:30 PM UTC · 1817945680880779290#m
+- 链接：https://twitter.com/talkchain_today/status/1817945680880779290#m
+- 作者：@talkchain_today
+
+> 4/ 项目更新📰
+>  
+> - 特朗普在比特币2024大会中表示，比特币可能会作为美国战略储备资金；
+> - @AvailProject ：Avail DA主网 和 $AVAIL 代币已上线！用户可进行流动性
+> 质押，以及代币交易；
+> - @EclipseFND ：可定制 rollup解决方案Eclipse在官方X账号预告，主网即将在下周上线；
+> - @solana ：solana总市值一度超越BNB，成为行业第四；
+> - @MalaysiaWeek 马来西亚区块链周将在 31/7至1/8 在吉隆坡举办 , Talkchain 将会在31号举办Side Event，欢迎光临！
+
+## 153. Jul 29, 2024 · 3:30 PM UTC · 1817945677948989678#m
+- 链接：https://twitter.com/talkchain_today/status/1817945677948989678#m
+- 作者：@talkchain_today
+
+> 3/ 早期项目👀
+>  
+> - @KuruExchange：基于Monad 的链上订单簿去中心化交易所，能让用户查找、研究和交易链上现货资产；
+> - @OpenSocialLabs：多链 SocialFi 基础设施，为 web3 用户、创建者和开发人员提供真正可扩展和可组合的协议；
+> - @redpill_gpt：去中心化的 AI 平台，将多种类的 AI 模型聚合到单一API中，在全球范围内提供更快、更实惠、可验证的 AI 服务；
+> - @etherfuse：发行代币化现实世界资产的平台，通过资产上链带来成本、效率和可访问性优势；
+> - @CatizenAI：建立在TON生态系统上的Telegram Swipe-to-Earn 游戏，近期获得Binance Labs投资；
+
+## 154. Jul 29, 2024 · 3:29 PM UTC · 1817945674950000708#m
+- 链接：https://twitter.com/talkchain_today/status/1817945674950000708#m
+- 作者：@talkchain_today
+
+> 2/ 融资信息 💰
+>  
+> - @b3dotfun：Coinbase前团队成员创建，基于Base打造的游戏生态系统，完成 2100 万美元种子轮融资，Pantera Capital领投；
+> - @BitlayerLabs： 基于 BitVM 构建的比特币Layer 2，完成 1100 万美元A轮融资，估值为 3 亿美元，ABCDE Capital领投；
+> - @Calderaxyz： 高性能、可定制的Layer 2，完成 1500 万美元A轮融资，Dragonfly领投；
+> - @aprMEV：MEV 基础设施和流动性质押协议，完成 800 万美元种子轮融资，估值为 1 亿美元，Pantera Capital领投；
+> - @MezoNetwork：比特币 Layer2 网络，完成 750 万美元融资，Pantera Capital领投；
+
+## 155. Jul 29, 2024 · 3:29 PM UTC · 1817945672383181143#m
+- 链接：https://twitter.com/talkchain_today/status/1817945672383181143#m
+- 作者：@talkchain_today
+
+> 1/ 🧬 2024/7/23- 2024/7/29 TalkChain周报🧬
+>  
+> 特朗普在比特币大会大放厥词，号称要把比特币纳入国家储备、解雇现任SEC主席。币圈一整颓势，仿佛要再创高峰。
+>  
+> 跳脱同温层，这周币圈还有哪些大小事？
+>  
+> 👇🧵
+
+## 156. Jul 27, 2024 · 1:23 PM UTC · 1817188986965885390#m
+- 链接：https://twitter.com/talkchain_today/status/1817188986965885390#m
+- 作者：@talkchain_today
+
+> 以太坊 vs Solana 两大公链角逐！ 你站好队了吗？！
+>  
+> @BanklessHQ 访谈《SOL vs ETH: How Undervalued is SOL Really?》，邀请了The DeFi Report 的创始人 @JustDeauIt 从数据基本面角度谈论SOL代币被低估的可能性，以及以太坊/Solana潜在爆发可能性。
+>  
+> 内容概要：
+> - Solana和以太坊的基本面数据
+> - Michael Nadeau价格预测
+> - 以太币走势弱的根本原因
+> - 以太坊三个潜在利好驱动力
+> - Solana最值得关注的赛道
+> - Solana的潜在炸弹
+>  
+> 👉 点击观看视频 : piped.kavin.rocks/XtiITe8YOnY
+
+## 157. Jul 26, 2024 · 11:01 AM UTC · 1816790923059368314#m
+- 链接：https://twitter.com/talkchain_today/status/1816790923059368314#m
+- 作者：@talkchain_today
+
+> 🎉 Talkchain 受邀成为FORESIGHT 2024 大会的社区合作伙伴，这次有给大家专属福利！
+>  
+> FORESIGHT 2024 大会由 @ForesightVen 、Foresight News 和 @TheBlock__ 主办，旨在促进全球 Web3 交流。大会将邀请政界人士、行业领袖、投资人等，讨论亚洲 Web3、机构机会、合规监管、投资趋势、比特币生态、AI+Crypto 应用和零知识证明等话题。
+>  
+> 一共准备了30张活动门票！
+>  
+> 赶紧来参与抽奖吧！
+>  
+> 参与方式：
+> 1. 关注 @Foresight_News 和 @talkchain_today
+> 2. 转发并点赞这条推文
+>  
+> 开奖时间：72 小时后
+>  
+> 快来行动，不要错过！🚀
+
+## 158. Jul 26, 2024 · 10:20 AM UTC · 1816780744695673150#m
+- 链接：https://twitter.com/talkchain_today/status/1816780744695673150#m
+- 作者：@talkchain_today
+
+> Solv项目简介
+>  
+> - 比特币质押协议，试图解决比特币资产分散、收益机会和托管问题；
+> - 为比特币持有者提供更多收益机会，同时助力传统资金进入加密货币市场；
+> - 投资机构有 The Spartan Group、IOSG Ventures、Binance Labs等；
+> - 目前有空投积分活动；
+> - SolvBTC Babylon活动可获得20倍积分加成；
+
+## 159. Jul 26, 2024 · 10:20 AM UTC · 1816780740169793926#m
+- 链接：https://twitter.com/talkchain_today/status/1816780740169793926#m
+- 作者：@talkchain_today
+
+> 参与方法
+>  
+> 1. 将BNB Chain/Arbitrum/Mantle公链的比特币存入Solv平台，换取SolvBTC代币；（图一）
+> 2. 使用SolvBTC来参与SolvBTC.BBN活动，质押SolvBTC获得SolvBTC.BBN（图二）
+> 3. 完成 ✅
+
+## 160. Jul 26, 2024 · 10:20 AM UTC · 1816780727012483547#m
+- 链接：https://twitter.com/talkchain_today/status/1816780727012483547#m
+- 作者：@talkchain_today
+
+> 在Solv平台上存入SolvBTC的过程中，如何埋伏Babylon？
+>  
+> - Solv是Babylon的合作伙伴之一，项目方表示，一旦Babylon开启比特币质押活动后，SolvBTC池子内的BTC会以最快速度质押进入，赚取Babylon空投积分；
+> - 可用多链的BTC存入SolvBTC，提早埋伏Babylon，支持公链包括BNB Chain/Arb/ETH/Mantle...
+
+## 161. Jul 26, 2024 · 10:20 AM UTC · 1816780724101665124#m
+- 链接：https://twitter.com/talkchain_today/status/1816780724101665124#m
+- 作者：@talkchain_today
+
+> SolvBTC Babylon 存款活动再次启动，官方号称最后一次20倍积分活动。
+>  
+> 📅 时间：7月26日 12:00 PM UTC
+> 📈 存款额度: 500 BTC
+> 🌐 支持公链：BNB Chain, Arbitrum, Mantle....
+> 🎁 奖励：20倍速度获得Solv空投积分
+>  
+> 此举有望第一时间埋伏即将上线的比特币明星项目Babylon👉
+
+## 162. Jul 26, 2024 · 5:29 AM UTC · 1816707364793516424#m
+- 链接：https://twitter.com/talkchain_today/status/1816707364793516424#m
+- 作者：@talkchain_today
+
+> TalkChain将在马来西亚区块链周期间举办一场SideEvent活动。
+>  
+> 活动主题为Talkchain Kopitiam, 诚挚邀请各位一起讨论加密市场DeFi最新动态, 同时享用马来西亚美食, 认识新朋友✌️
+>  
+> 我们将在Discord群抽取5张Malaysia Blockchain Week主会场活动门票🎉 感谢 🙏 MBW 赞助门票！
+> 👉 discord.com/invite/w6tUtaQ5h…
+>  
+> @MalaysiaWeek 由 @LydianLabsLLC 主办, 时间是2024年7月31日至8月1日。
+>  
+> 值得一提的是, 马来西亚数字经济发展局( @mymdec )是MBW活动的战略合作伙伴,正在推动区块链在马来西亚的实际应用。
+>  
+> 不管你是区块链领域的老韭菜还是新韭菜,都欢迎来参加!
+>  
+> 有兴趣参加的朋友, 可以通过以下链接报名: lu.ma/e9yghefw
+>  
+> 名额有限，先报先得！
+>  
+> 我们到时活动现场见! 👋
+>  
+> 声明！这次活动没有任何赞助！
+>  
+> #TalkchainKopitiam #MalaysiaBlockchainWeek
+
+## 163. Jul 23, 2024 · 1:18 PM UTC · 1815738132249362819#m
+- 链接：https://twitter.com/talkchain_today/status/1815738132249362819#m
+- 作者：@talkchain_today
+
+> ETF监管利好落地！RWA赛道是炒作还是机遇？ #Usual #Plume
+>  
+> 以太坊现货ETF上线，加密货币开始受到主流社会认可，与合规监管关系最密切的RWA赛道或许有望成为最大赢家。
+>  
+> 本期视频讲解2个RWA赛道中的潜力项目，分别是稳定币项目 @usualmoney 及公链项目 @plumenetwork
+>  
+> 点击观看视频: piped.kavin.rocks/lHaBVLrYXiM
+
+## 164. Jul 22, 2024 · 3:06 PM UTC · 1815403154600775734#m
+- 链接：https://twitter.com/talkchain_today/status/1815403154600775734#m
+- 作者：@talkchain_today
+
+> 5/ 最后的话
+>  
+> 我们每周都在坚持更新Youtube视频，和大家深度讲解我们看到的一些项目！欢迎各位subscribe，准时收看我们的视频～😎
+>  
+> piped.kavin.rocks/@TALKCHAINTODAY
+
+## 165. Jul 22, 2024 · 3:06 PM UTC · 1815403151731953673#m
+- 链接：https://twitter.com/talkchain_today/status/1815403151731953673#m
+- 作者：@talkchain_today
+
+> 4/ 📰项目更新
+>  
+> - @fuel_network ：Fuel 测试网快照已经结束，官方表示，后面加入的用户
+> 将不会得到空投
+> - @AvailProject ：Avail主网将于7月23日上线，主网启动后，任何人都可以
+> 自由获取 AVAIL 代币，并成为验证者
+> - @reya_xyz ：Reya推出Royal XP Boost积分活动，质押时间超过一个星期，可获得翻倍的XP Boost
+> - @BananaGunBot ：Banana 在 7月20号 上线 Binance，是第一个Binance Hodler Airdrop项目
+> - @binance ：Binance获得批准，将客户法定资金存入美国国债
+
+## 166. Jul 22, 2024 · 3:06 PM UTC · 1815403148401688822#m
+- 链接：https://twitter.com/talkchain_today/status/1815403148401688822#m
+- 作者：@talkchain_today
+
+> 3/ 👀早期项目
+>  
+> - @RECRDapp ：SocialFi平台，允许创作者和用户将内容转为NFT资产，并通过视频流量获利
+> - @YeiFinance ：Sei公链上的龙头借贷协议，现在参与的用户可获得 $SEI 代币奖励，以及平台空投积分；
+> - @solayer_labs ：Solana 生态的再质押协议，用户除了POS 质押收益之外，还可获得 MEV 和 AVS 等收益
+> - @nufflelabs ：Nuffle Labs 由 NEAR 基金会推出，打算构建
+> NEAR DA、NFFL 等等 NEAR 模块化产品
+> - @ZivoeProtocol ：即将推出的RWA信贷协议，并将同步启动 ITO（Initial Tranche Offering）
+
+## 167. Jul 22, 2024 · 3:06 PM UTC · 1815403144916111499#m
+- 链接：https://twitter.com/talkchain_today/status/1815403144916111499#m
+- 作者：@talkchain_today
+
+> 2/ 💰融资信息
+>  
+> - @bimabtc : 基于比特币的全链稳定币协议，完成 225 万美元融资，Portal Ventures 领投；
+> - @Mira_Network : 为打造AI原生应用的基础设施，完成 900 万美元融资，
+> Framework Ventures 领投；
+> - @Owlto_Finance : 专注Layer2 的去中心化 跨链桥，完成新一轮融资，估值1.5亿美元，Matrixport Ventures 参投；
+> - @AlliumLabs : 区块链索引和数据基础设施，完成 1,650 万美元融资，Theory Ventures领投；
+> - @ChainbaseHQ : 为人工智能时代提供透明、可靠、无需许可的数据层，完成 1500 万美元融资，腾讯领投
+
+## 168. Jul 22, 2024 · 3:06 PM UTC · 1815403141774622904#m
+- 链接：https://twitter.com/talkchain_today/status/1815403141774622904#m
+- 作者：@talkchain_today
+
+> 1/ 🧬 2024/7/16 - 2024/7/22 TalkChain周报🧬
+>  
+> 近日，市场随着美国选举发生很多动荡，和参选人物挂钩的迷因币更是大起大落。除了关注选举结果，我们也可以把目光看向认真耕耘的项目方。
+>  
+> 本周币报请查收👇🧵
+
+## 169. Jul 17, 2024 · 1:20 PM UTC · 1813564495048110222#m
+- 链接：https://twitter.com/talkchain_today/status/1813564495048110222#m
+- 作者：@talkchain_today
+
+> 再质押又再质押，乐高会不会崩？ #Karak #Kernel
+>  
+> 获Pantera Capital领投4,900美金的再质押项目 @Karak_Network 来势汹汹，对EigenLayer开启吸血鬼攻击。用户手上握有的以太币能再再质押，获得更多空投积分。
+>  
+> 内容概要：
+> - Karak项目介绍，有何特殊之处？
+> - 如何参与才能利益最大化？
+> - 生态项目 @KernelProtocol 介绍，能不能二次腾飞？
+>  
+> 点击观看视频: piped.kavin.rocks/5srqtVAXZRM
+
+## 170. Jul 17, 2024 · 10:57 AM UTC · 1813528343150731382#m
+- 链接：https://twitter.com/talkchain_today/status/1813528343150731382#m
+- 作者：@talkchain_today
+
+> 全球最大的Web3活动 @token2049 将于2024年9月18日至19日在新加坡滨海湾金沙举办！ 🎉
+> ​
+> 来自全球的2万多名参会者将齐聚一堂，聆听300多名演讲者的分享，参加500多场边会活动，7000多家公司将参与其中。
+> ​
+> 现在使用优惠码【TALKCHAIN15】购票，可享15%折扣！
+> 购票链接 👉 asia.token2049.com/tickets
+> ​
+> 此次活动的演讲嘉宾包括了Binance CEO @_RichardTeng 、Solana创始人 @aeyakovenko、多产企业家 @balajis、Maelstrom首席信息官 @CryptoHayes 、Schelling AI创始人 @EMostaque 等。
+> ​
+> 赞助商包括，OKX、BingX、TRON DAO、DWF LABS、Bitget以及Bullish。
+> ​
+> 此外，TOKEN2049新创企业大赛将展示最具创新性的前10个Web3项目，详情 👉 asia.token2049.com/startup-c…
+> ​
+> Token2049是一个全球性的论坛会，也是全球最大的Web3活动，每半年在新加坡和迪拜举行，许多行内知名人物也会来参与，深入探讨，建立联系，并塑造整个行业。
+> ​
+> 期待在活动现场能见到大家！🔥
+
+## 171. Jul 15, 2024 · 3:43 PM UTC · 1812875672341368872#m
+- 链接：https://twitter.com/talkchain_today/status/1812875672341368872#m
+- 作者：@talkchain_today
+
+> 📰 项目更新
+> - Fuel开启空投积分活动，目前主网尚未启动，存款进入其项目智能合约能赚取积分，若主网启动前提取资金将失去积累的积分
+> - Compound首席执行长宣布辞职，创立新项目 @JoinLegend
+> - Solana链锁仓量排名前五项目 @sanctumso 即将发币/空投；
+> - @Stake_Stone 部署资产至 @symbioticfi， $STONE 持有者开始积累Symbiotic积分
+
+## 172. Jul 15, 2024 · 3:43 PM UTC · 1812875668360986690#m
+- 链接：https://twitter.com/talkchain_today/status/1812875668360986690#m
+- 作者：@talkchain_today
+
+> 👀 早期项目
+> - @jojo_exchange ： Base链最大交易量的合约交易所，正进行空投积分活动，创始人推特 @JOTARO_JOJO_EX ；
+> app.jojo.exchange/referralIn…
+> - @plumenetwork ： RWA(real-world assets)概念的二层公链，曾获 @HaunVentures 领投的1,000万美金，刚推出测试网活动；
+> - @usualmoney ： 以RWA资产背书的去中心化稳定币，@IOSGVC @KrakenVentures 领投700万美金，主网刚上线，正在进行存款积分活动；
+> app.usual.money/#QK391
+
+## 173. Jul 15, 2024 · 3:43 PM UTC · 1812875663545950435#m
+- 链接：https://twitter.com/talkchain_today/status/1812875663545950435#m
+- 作者：@talkchain_today
+
+> 🧬2024/7/8 - 2024/7/15 TalkChain周报🧬
+>  
+> 💰 融资信息
+> - @RomeProtocol ：Solana模块化服务（外部共享定序器网络方案），完成900万美金融资， @PortalVentures 领投；
+> - @SearchOnDora ：多链搜索引擎工具，完成550万美金融资， @dragonfly_xyz 领投；
+> - @zaponblast ：Blast链的代币发行协议，完成1,500万美金融资， @cypher_capital 领投；
+
+## 174. Jul 14, 2024 · 12:13 PM UTC · 1812460336316068271#m
+- 链接：https://twitter.com/talkchain_today/status/1812460336316068271#m
+- 作者：@talkchain_today
+
+> EigenLayer 新对手？ Paradigm联合Lido搞事孵化Symbiotic分蛋糕！
+>  
+> 短短一个月锁仓量突破11亿美金，背靠Paradigm的超级新星Symbiotic强势来袭，再质押赛道格局会否改变？
+>  
+> 内容摘要：
+> - @symbioticfi 项目介绍
+> - Paradigm与Lido再质押赛道的布局策略
+> - 对比EigenLayer的两大竞争优势
+> - 如何透过 @mellowprotocol 埋伏双重空投？
+>  
+> 👉 点击观看视频: piped.kavin.rocks/mODtS_UxRVc
+
+## 175. Jul 9, 2024 · 12:03 PM UTC · 1810645983400964144#m
+- 链接：https://twitter.com/talkchain_today/status/1810645983400964144#m
+- 作者：@talkchain_today
+
+> 《资本战争》经济学大佬观点整理，比特币的未来何去何从？
+>  
+> 经济学著作《资本战争》作者Michael Howell接受采访，谈论当今全球经济情况，讲解未来风险市场走势。「流动性」是影响全球经济的重要因素，牛市/熊市均仰赖全球流动性情况。
+>  
+> 币圈是否死了？风险市场大涨大跌的原因有什么？未来走势如何？
+>  
+> 内容摘要：
+> - 为什么流动性对币圈重要？
+> - 流动性的规律的背后原因是什么？
+> - 流动性框架和关键角色/指标？
+> - 四个短期潜在流动性来源？
+>  
+> 👉 点击观看视频 : piped.kavin.rocks/p0_Nsah-P_s
+
+## 176. Jul 1, 2024 · 5:17 AM UTC · 1807644737035485504#m
+- 链接：https://twitter.com/talkchain_today/status/1807644737035485504#m
+- 作者：@talkchain_today
+
+> 跨链桥大对比，多链多桥是终点？
+>  
+> 多链时代已到来，合格的链上猎人应该不错过任何链上机会，以最快的速度开启猎杀时刻。如何便宜、快速实现资产跨链成为一大难题，哪些跨链桥性价比最高？
+>  
+> 本期视频分享四个实用跨链桥，足以满足不同人群的喜好。
+> @AcrossProtocol
+> @StargateFinance
+> @Owlto_Finance
+> @BungeeExchange
+>  
+> 👉 点击观看视频 : piped.kavin.rocks/BWYPH68fgJ0
+
+## 177. Jun 30, 2024 · 5:18 AM UTC · 1807282650245460088#m
+- 链接：https://twitter.com/talkchain_today/status/1807282650245460088#m
+- 作者：@talkchain_today
+
+> 11/最后一些话
+>  
+> 原创内容不易，若文章内容对您有帮助，欢迎点赞/转发该帖文，感谢！
+
+## 178. Jun 30, 2024 · 5:18 AM UTC · 1807282458028810624#m
+- 链接：https://twitter.com/talkchain_today/status/1807282458028810624#m
+- 作者：@talkchain_today
+
+> 10/ 项目四：Nexus（2）
+>  
+> @NexusLabsHQ 团队皆是名校毕业生/教授/研究员，对零知识和密码学有较多研究。
+>  
+> 团队核心成员的履历见下图👇
+
+## 179. Jun 30, 2024 · 5:18 AM UTC · 1807282449128538476#m
+- 链接：https://twitter.com/talkchain_today/status/1807282449128538476#m
+- 作者：@talkchain_today
+
+> 9/ 项目四：Nexus（1）
+>  
+> @NexusLabsHQ 是一个零知识证明公链级别的项目，他们正在研发zkVM（零知识虚拟机）的技术，号称能真正意义在零知识证明可验证的前提下，最大化提高公链的结算速度。
+>  
+> 6月11日，该项目推特的第一则推文宣布获得2,500万美金融资，背后机构包括 @lightspeedvp  @PanteraCapital @dragonfly_xyz
+
+## 180. Jun 30, 2024 · 5:18 AM UTC · 1807282431700926962#m
+- 链接：https://twitter.com/talkchain_today/status/1807282431700926962#m
+- 作者：@talkchain_today
+
+> 8/ 项目三：Ora（2）
+>  
+> @OraProtocol 目前推出了积分活动，绑定推特和钱包可获得一定积分，使用其OAO（Onchain AI Oracle）可获得更多积分。
+>  
+> 输入推荐码可获得额外积分，TalkChain邀请码：B53W54
+>  
+> ora.io/app/tasks/dashboard
+
+## 181. Jun 30, 2024 · 5:18 AM UTC · 1807282414701682819#m
+- 链接：https://twitter.com/talkchain_today/status/1807282414701682819#m
+- 作者：@talkchain_today
+
+> 7/ 项目三：Ora（1）
+>  
+> @OraProtocol 是个链上人工智能预言机，能让以太坊智能合约调用AI大模型的能力。或许在未来能打造出AI借贷协议 / AI AMM等产品。
+>  
+> 该项目在种子轮阶段曾获得红杉资本领投获得三百万美金。最新一轮融中， @polychain @SevenXVentures 等一众资本再次投资2,000万美金。
+>  
+> TalkChain曾在AI主题视频详细介绍过Ora，欢迎回看👇
+>  
+> piped.kavin.rocks/watch?v=3e-ExgsC…
+
+## 182. Jun 30, 2024 · 5:17 AM UTC · 1807282385836515717#m
+- 链接：https://twitter.com/talkchain_today/status/1807282385836515717#m
+- 作者：@talkchain_today
+
+> 6/ 项目二：Conduit（2）
+>  
+> @aevoxyz  @friendtech @zora 均是Conduit旗下生态客户。考虑到Conduit尚未发币，未来或有可能给生态客户社群发空投，可尝试交互。
+>  
+> 此外，Conduit在Zora链开设了个纪念NFT👇
+
+## 183. Jun 30, 2024 · 5:17 AM UTC · 1807282354504995240#m
+- 链接：https://twitter.com/talkchain_today/status/1807282354504995240#m
+- 作者：@talkchain_today
+
+> 5/ 项目二：Conduit（1）
+>  
+> @conduitxyz 是个RaaS（Rollup as a Service）的产品，让项目方能轻松搭建属于自己的公链/应用链。费用为每月3000美金及7.5%排序器利润。
+>  
+> @paradigm 及 @HaunVentures 领投，Conduit在最新一轮的A轮融资中获得 $37m
+
+## 184. Jun 30, 2024 · 5:17 AM UTC · 1807282329725079848#m
+- 链接：https://twitter.com/talkchain_today/status/1807282329725079848#m
+- 作者：@talkchain_today
+
+> 4/ 项目一：Sonic（2）
+>  
+> 目前Sonic和部分游戏厂商达成合作，构建Solana游戏生态，例如 @continentalger @RageEffect_
+>  
+> 此外，Sonic目前推出了测试网的奥德赛活动，感兴趣朋友可尝试👇
+
+## 185. Jun 30, 2024 · 5:17 AM UTC · 1807282314541715516#m
+- 链接：https://twitter.com/talkchain_today/status/1807282314541715516#m
+- 作者：@talkchain_today
+
+> 3/ 项目一：Sonic（1）
+>  
+> @SonicSVM 号称是第一个SVM的Layer2公链，即Solana的二层网络。这是一条让游戏厂商能搭建产品的公链，保证提供更快的速度，确保游戏的使用体验。
+>  
+> A轮融资中， @BITKRAFTVC 领投, @OKX_Ventures 跟投，总金额达 $12m 💰
+
+## 186. Jun 30, 2024 · 5:17 AM UTC · 1807282307969253647#m
+- 链接：https://twitter.com/talkchain_today/status/1807282307969253647#m
+- 作者：@talkchain_today
+
+> 2/ 内容大纲
+>  
+> - @SonicSVM ：Solana 游戏 Layer2
+> - @conduitxyz ：提供一键发链服务的RasS项目
+> - @OraProtocol：链上人工智能预言机
+> - @NexusLabsHQ：zkVM（零知识虚拟机）
+>  
+> 若想了解更详细内容，欢迎观看视频版本👇
+> piped.kavin.rocks/watch?v=vOOK2ZeK…
+
+## 187. Jun 30, 2024 · 5:17 AM UTC · 1807282301765632108#m
+- 链接：https://twitter.com/talkchain_today/status/1807282301765632108#m
+- 作者：@talkchain_today
+
+> 1/ 资本集中下注 Layer2/ AI / ZK 赛道，拱起币圈下个热点赛道？
+>  
+> 比特币大盘横盘震荡/市场贪婪情绪渐去，币圈VC似乎不受恐慌情绪影响，继续大额投注优质项目。
+>  
+> 以下是6月份获得大额投资的四个优质项目👇
+
+## 188. Jun 28, 2024 · 1:15 PM UTC · 1806677755230380304#m
+- 链接：https://twitter.com/talkchain_today/status/1806677755230380304#m
+- 作者：@talkchain_today
+
+> 11/ 注意事项（2）
+>  
+> 感兴趣者可时刻留意Babylon与pStake信息
+>  
+> 两者均有中文官推，可关注！
+> @babylon_zh
+> @pSTAKEFinanceCN
+
+## 189. Jun 28, 2024 · 1:15 PM UTC · 1806677752420126983#m
+- 链接：https://twitter.com/talkchain_today/status/1806677752420126983#m
+- 作者：@talkchain_today
+
+> 10/ 注意事项（1）
+>  
+> 最终pSTAKE能否上线币安，与其基本面息息相关。
+>  
+> 若Babylon主网上线后，它能把握比特币市场的巨大机会，旗下的锁仓量将大幅增加。
+
+## 190. Jun 28, 2024 · 1:15 PM UTC · 1806677749450559892#m
+- 链接：https://twitter.com/talkchain_today/status/1806677749450559892#m
+- 作者：@talkchain_today
+
+> 9/ Babylon x pSTAKE测试网任务（2）
+>  
+> 拥有测试代币sBTC后，进入pSTAKE测试网，输入推荐码「talkchain」。
+> app.btc-testnet.pstake.finan…
+>  
+> 两种交互方式：
+> - 使用 pSTAKE 存入 sBTC
+> - 从 pSTAKE 提取 sBTC
+
+## 191. Jun 28, 2024 · 1:15 PM UTC · 1806677746174841298#m
+- 链接：https://twitter.com/talkchain_today/status/1806677746174841298#m
+- 作者：@talkchain_today
+
+> 8/ Babylon x pSTAKE测试网任务（1）
+>  
+> 操作步骤：
+> - 进入pSTAKE测试网，输入推荐码「talkchain」
+> app.btc-testnet.pstake.finan…
+> - 在OKX Web3 Wallet中点击「Manage crypto」，添加sBTC代币（紫色logo）
+> - 领取测试币，进入Babylon Discord里的Faucet频道，粘贴比特币地址来领取（“tb1q”开头的地址）
+> discord.com/invite/babylongl…
+
+## 192. Jun 28, 2024 · 1:15 PM UTC · 1806677742840340698#m
+- 链接：https://twitter.com/talkchain_today/status/1806677742840340698#m
+- 作者：@talkchain_today
+
+> 7/ 关注原因二：币安扶持低市值项目（3）
+>  
+> 昨日， @BinanceResearch 盘点比特币生态的帖文中再次提及 @pStakeFinance
+
+## 193. Jun 28, 2024 · 1:15 PM UTC · 1806677738121777164#m
+- 链接：https://twitter.com/talkchain_today/status/1806677738121777164#m
+- 作者：@talkchain_today
+
+> 6/ 关注原因二：币安扶持低市值项目（2）
+>  
+> pStake曾获得 @BinanceLabs 等机构投资，融资2000万美金。如今大部分代币已处于流通状态，市值不高、流通量高，基本符合Binance招募要求。
+>  
+> ☑️ pSTAKE价格 - 0.118u
+> ☑️ 市值 - 55m
+> ☑️ 全稀释估值 - 58m
+>  
+> 上个月Binance官推曾推荐pSTAKE👇🏻
+> localhost:8080/binanceresearch/status…
+
+## 194. Jun 28, 2024 · 1:15 PM UTC · 1806677735068373392#m
+- 链接：https://twitter.com/talkchain_today/status/1806677735068373392#m
+- 作者：@talkchain_today
+
+> 5/ 关注原因二：币安扶持中低市值项目（1）
+>  
+> 这周期诞生许多VC币，特点高估值/低流通量，二级价格上涨空间有限。
+>  
+> Binance为了维护交易所用户权益，不久前公开招募优质中低市值项目上市。符合条件的成熟项目有机会上线币安。
+>  
+> pSTAKE或有机会受益。
+>  
+> binance.com/zh-CN/support/an…
+
+## 195. Jun 28, 2024 · 1:15 PM UTC · 1806677732329492668#m
+- 链接：https://twitter.com/talkchain_today/status/1806677732329492668#m
+- 作者：@talkchain_today
+
+> 4/ 关注原因一：比特币叙事（2）
+>  
+> 待Babylon主网上线后，用户可通过pSTAKE质押比特币进入Babylon，可获得相应的LRT代币。
+>  
+> 在获得Babylon收益/空投的前提下，LRT代币可进行其他Defi策略，提高资金效率。
+>  
+> pSTAKE于比特币链类似Lido于以太坊的关系，潜力大。
+
+## 196. Jun 28, 2024 · 1:15 PM UTC · 1806677729687077189#m
+- 链接：https://twitter.com/talkchain_today/status/1806677729687077189#m
+- 作者：@talkchain_today
+
+> 3/ 关注原因一：比特币叙事（1）
+>  
+> pSTAKE已宣布将全力拥抱Babylon，为比特币质押提供流动性质押服务。
+>  
+> @babylon_chain 凭借更安全的比特币质押技术，成为市场关注的重点项目。
+>  
+> 具体介绍可看该视频解说👇🏻
+> piped.kavin.rocks/XqCC9vnQD6M?si=Wf3b…
+
+## 197. Jun 28, 2024 · 1:15 PM UTC · 1806677726914580658#m
+- 链接：https://twitter.com/talkchain_today/status/1806677726914580658#m
+- 作者：@talkchain_today
+
+> 2/ 项目介绍：pSTAKE
+>  
+> @pStakeFinance 是上轮牛市便诞生的流动性质押协议，为Cosmos生态及BNB Chain提供服务。
+>  
+> 往后重心将围绕比特币明星项目 @babylon_chain ，或吃到新一轮叙事的红利。
+
+## 198. Jun 28, 2024 · 1:15 PM UTC · 1806677723630428384#m
+- 链接：https://twitter.com/talkchain_today/status/1806677723630428384#m
+- 作者：@talkchain_today
+
+> 1/ 中低市值项目拥抱比特币明星Babylon，pSTAKE能否起死回生？
+>  
+> 近期出现大量「明星项目」，以高估值/低流通量的姿态发币，极大程度缩小了币价的上涨空间，不利于后期购买代币的用户。
+>  
+> - 二级市场存在低市值+有潜力标的吗？
+> -  @pStakeFinance 前景如何？
+> - 低市值+高流通+顶级赛道+比特币叙事 = ？
+
+## 199. Jun 24, 2024 · 4:13 AM UTC · 1805091940763160946#m
+- 链接：https://twitter.com/talkchain_today/status/1805091940763160946#m
+- 作者：@talkchain_today
+
+> 潜力 Pre-Market 赛道新选手入场！🔥
+
+## 200. Jun 23, 2024 · 2:23 PM UTC · 1804882854461239692#m
+- 链接：https://twitter.com/talkchain_today/status/1804882854461239692#m
+- 作者：@talkchain_today
+
+> 9/ 最后一些话
+>  
+> 原创内容不易，若觉得有所帮助，欢迎点赞/转发这则推文！

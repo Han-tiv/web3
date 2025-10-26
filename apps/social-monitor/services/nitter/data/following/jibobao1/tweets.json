@@ -1,0 +1,394 @@
+{
+  "account": {
+    "id": "1337031207574523906",
+    "screen_name": "jibobao1",
+    "name": "jibobao",
+    "description": "I love good food and the sea！meme!",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1737750112494026752/lphb1T_V_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337031207574523906/1735915205",
+    "followers_count": 207,
+    "friends_count": 818,
+    "statuses_count": 133,
+    "favourites_count": 16,
+    "listed_count": 9,
+    "location": "",
+    "website": "",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": false,
+    "following": true,
+    "followed_by": null,
+    "can_dm": false,
+    "protected": false,
+    "created_at": "2020-12-10 21:47:50 +08:00",
+    "url": "https://twitter.com/jibobao1",
+    "rest_id": "1337031207574523906"
+  },
+  "tweets": [
+    {
+      "id": "1871497321168715994#m",
+      "content": "急播报 充提监控\nt.me/DepositAlert\n\n急播报  CEX异动监控(v2)\nt.me/CEXMovementAlert\n\n急播报  CEX暴涨暴跌监控\nt.me/CEXVolatilityAlert\n\n急播报  eth土狗监控\nt.me/EthMemeCoinAlert\n\n急播报  sol土狗监控\nt.me/SolMemeCoinAlert",
+      "timestamp": "Dec 24, 2024 · 10:05 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1871497321168715994#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1930226467096670404#m",
+      "content": "嘴撸工具。。有需要的看看。。",
+      "timestamp": "Jun 4, 2025 · 11:33 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1930226467096670404#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1930214081795109300#m",
+      "content": "发个我自己在用的嘴撸web3项目的神器（理论上支持所有嘴撸平台上的所有嘴撸项目）--x360.one谷歌浏览器插件。下面介绍下这个插件嘴撸方面的功能：\n一、web3项目AI推文生成\n这个插件可以让AI帮你自动生成针对某个项目的嘴撸推文，由于插件里面引用了项目方的知识库，因此生成的推文质量非常高，同时生成的推文会自动@相关项目方的推特、@cookiedotfun，@kaitoAI等嘴撸平台的推特，同时还会自动生成#项目方标签。\n1）插件下载后，在发帖的界面底部工具栏看到一个图标，如下图\n2）点击这个按钮进入AI发文界面，用户在这里可以选择语言，人设、情绪等，最关键的是可以引用web3项目知识库，例如我们可以选择当下最流行的web3项目库（作者会定期增加知识库）sparkdotfi项目时\n此时会弹出来要你选择一篇sparkdotfi的具体某个知识文档（因为要发一些针对性有深度的推文，最好是围绕项目的某个特点来），如下图\n\n我们点击官方知识库网站，随便选一篇文档，把地址拷贝过来，例如我们选择关于SPK airdrop空投相关的内容，把地址贴到上面的输入框中，点击确定后，就可以让AI生成推文了\n\n复制内容发送推文就可以啦~~\n此外，还有个功能就是推文 改写，如果你觉得某个博主写的推文不错，还可以一键将该推文进行改写哦\n具体功能大家自行体验吧~\n二、插件下载地址：\n谷歌商店下载地址：chromewebstore.google.com/de…\n\n插件使用需要注册x360.one的会员，注册地址：\nx360.one\n\nPS，关注我送VIP会员哦~",
+      "timestamp": "Jun 4, 2025 · 10:44 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1930214081795109300#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1915693591613333738#m",
+      "content": "币安的Alpha,就是搞假dex池子交易，不让充提，不但收手续费、吃价差，还收不存在的高额gas费。这样搞流量，还不如学OKX认真做好产品，流量自然就来了。现在又出啥points ，产品经理是淘宝双11请的吧。",
+      "timestamp": "Apr 25, 2025 · 9:05 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1915693591613333738#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1901817741608423482#m",
+      "content": "x360.one (v1.9版）增加智能合约悬浮信息卡片，欢迎大家更新使用",
+      "timestamp": "Mar 18, 2025 · 2:07 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1901817741608423482#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1891454061670469638#m",
+      "content": "合约号跳转链接自定义",
+      "timestamp": "Feb 17, 2025 · 11:46 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1891454061670469638#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1891447506132762896#m",
+      "content": "X360推特插件新增合约号智能加链接、复制以及一键搜索相关推文功能，详情请访问x360.one(即日起，关注我并转发该推文送VIP会员，以私信为准）\n-----\nX360插件目标是打造x/twitter网站的一站式全能插件。目前已拥有改名查询、自定义备注名以及合约号智能链接功能，后续新功能会不断增加",
+      "timestamp": "Feb 17, 2025 · 11:20 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1891447506132762896#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1871497319348359659#m",
+      "content": "急播报DEX平台新增交易对监控：\nt.me/DexNewPair\n\n急播报CEX新增币种监控:\nt.me/jijifabu_cexapi\n\n急播报eth聪明钱包监控(仅买入):\nt.me/smartmoney2eth\n\n急播报eth聪明钱包监控:\nt.me/smartmoney2ethall\n\n急播报资金费率套利:\nt.me/RateArbiAlert",
+      "timestamp": "Dec 24, 2024 · 10:05 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1871497319348359659#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1871497317595115554#m",
+      "content": "【电报群】\n\n急播报公告群(1线)\nt.me/jijifabu_notice00\n\n急播报公告群(重点)：\nt.me/jijifabu_notice01\n\n急播报公告群(全部)：\nt.me/jijifabu_notice02\n\n急播报群(推特)：\nt.me/jijifabu_notice03\n\n急播报DEX大额监控群：\nt.me/DexBigSwap",
+      "timestamp": "Dec 24, 2024 · 10:05 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1871497317595115554#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1871497083783720971#m",
+      "content": "5。付费的推特监控工具，\n\nalpha.apidance.pro/welcome\n能监控关键词、置顶、换头像背景、修改简介、关注等，对于推特方面监控要求高的，一定要去看看。\n这个朋友就是前段时间提供pumpscam.com的开发者。\n同时还提供推特的API，在推特领域很多开发者都是用他家的api",
+      "timestamp": "Dec 24, 2024 · 10:04 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1871497083783720971#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1871497081212535159#m",
+      "content": "4。查推特改名历史的插件，免费，用量大的需要付费。\nlocalhost:8080/x360_extension\n一朋友刚上架的查推特改名历史的插件。目前只支持查推特改名历史与自定义备注，但应该很快就能支持各看K线平台了。有免费使用额度，他买的是付费的API。有需要的可以去看看",
+      "timestamp": "Dec 24, 2024 · 10:04 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1871497081212535159#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1871497078872174824#m",
+      "content": "3。Web3消息过滤器，需求大的涉及付费\nthundersend.me/\n\n一个还没入门web3的朋友搞的工具，目前支持电报信息的采集，过滤与转发到企业微信、飞书等。特别是对于VPN不稳定的朋友应该蛮有用的",
+      "timestamp": "Dec 24, 2024 · 10:04 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1871497078872174824#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1871497076896657557#m",
+      "content": "2。ETH 链聪明钱包监控，自己用的，免费\nt.me/smartmoney2eth\n不单单是聪明钱包，还包含了分析出来的骗子钱包，可以减少中问题合约的概率。\n只能供参考！有时间还是会遇到貔貅！",
+      "timestamp": "Dec 24, 2024 · 10:04 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1871497076896657557#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1871497074933731605#m",
+      "content": "1。SOL土狗热点监控群，自己用的，免费：\nt.me/SolMemeCoinAlert\n原理是结合舆情与交易量\n【首次提醒】\n第一次符合热度与交易量\n【再次提醒】\n热度回炉\n【持续霸榜】\n持续热度与交易量\n【超级热狗】\n交易量与热度都非常好的\n\n注意不少提醒出来是貔貅，阴谋刷的交易量与热度\n记得观察清楚是不是pump",
+      "timestamp": "Dec 24, 2024 · 10:04 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1871497074933731605#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1871497072832287105#m",
+      "content": "分享最近的自己和身边朋友开发的小工具：",
+      "timestamp": "Dec 24, 2024 · 10:04 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1871497072832287105#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1865222316038508931#m",
+      "content": "币安对项目的审核管理真是一塌糊涂。很难想象如果传统金融交易所对上市公司的市值情况与流通情况乱搞一气，肯定会被告死。。",
+      "timestamp": "Dec 7, 2024 · 2:30 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1865222316038508931#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1853076733685113116#m",
+      "content": "I present to you $GIRL\n\nMomentum on this is going parabolic, going viral at the same time. Ahoo Daryaei the heroic Iranian Girl. Dex Updated with $4M volume on the hourly. How high can we go!?\n\nCalled @ $353k\nATH reached $1.8M mcap\n\n3fnuuHNgU5LMbSjAmjZHhBoVXxFVNUmU8BvAbC1Zpump",
+      "timestamp": "Nov 3, 2024 · 2:08 PM UTC",
+      "url": "https://twitter.com/jibobao1/status/1853076733685113116#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1803913369327669531#m",
+      "content": "🤘 Retweet, Create Content & Refer to win 1000 SOL Prizes!\n\n- Create content, memes or stream to win SOL \n\n- Don't forget to get your ref link at BullX\n\n👇 Tips & Tricks on how to win below",
+      "timestamp": "Jun 20, 2024 · 10:10 PM UTC",
+      "url": "https://twitter.com/jibobao1/status/1803913369327669531#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1782689551594795327#m",
+      "content": "Just minted my unique gmID - the ultimate passport to the gmWorld!\nMint yours here: gm.ai/mint\n \nFollow @gm_dot_ai to make sure you're first in line for future mints!",
+      "timestamp": "Apr 23, 2024 · 8:34 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1782689551594795327#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1774729251427877354#m",
+      "content": "I have minted @ethena_labs $USDe, not backed or fully endorsed by the @federalreserve\n\nJoin the airdrop with my code: app.ethena.fi/join/tki8j",
+      "timestamp": "Apr 1, 2024 · 9:23 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1774729251427877354#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1772632115706040478#m",
+      "content": "🎉Omnichain Carnival Wave 1 is now live with early access!\n\nTL;DR\n\n-Early access for Wave 1 starts on 3/26 at 14:00 UTC and lasts for 4 days\n-Register during early access to receive a 15% bonus in wave 1\n-3% of the total supply will be allocated in Wave 1.\n\nLead Wave 1 with extra rewards!\n\nRegister at: carnival.stakestone.io/\n\nAnticipate Wave 2, plus even more to come.\n\nLearn more about omnichain carnival: medium.com/@official_42951/s…",
+      "timestamp": "Mar 26, 2024 · 2:30 PM UTC",
+      "url": "https://twitter.com/jibobao1/status/1772632115706040478#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1765706532476670014#m",
+      "content": "I just minted 1 Linea Park - AsMatch Emerald Enchanted Key on @AlienSwap_NFT alienswap.xyz/mint/linea/0xc…",
+      "timestamp": "Mar 7, 2024 · 11:50 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1765706532476670014#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1764643832698949824#m",
+      "content": "THIS WEEK IN GAMING\n@carv_official curated the most pivotal news from the gaming landscape, so you can stay ahead⚡️\n\nFor more Airdrops, FREE Mint or Beta Testing Opportunities in gaming space, read the full articles: newsletter.carv.io/p/this-we…\n\n🎁#Airdrop & #FreeMint News\n1.  Saga announces mainnet airdrop eligibility\n2. Overtrip Founders Pass NFT FREE Mint on March 5th\n3. Xociety Frontier Avatar NFT FREE Mint on March 7th\n4. Kiraverse Box NFT FREE Mint on March 13th\n\n🎮#Gamedev News\n1. Ethereum-Based 'Gods Unchained' NFT Game Debuts on iOS and Android Platforms\n2. Hytopia: NFT Worlds' Bold Leap Beyond Minecraft's NFT Ban, Launching on Its Own Chain\n3. Star Wars Stormtrooper Joins Solana Game MixMob as NFT Character\n4. Arbitrum Arcade Launches: A Gameathon Showcasing Web3 Gaming and Creator Support\n\n🕵️#Industry News\n1. Ubisoft Partners with AI Firm Helika for 'Champions Tactics' NFT Game Launch\n2. Final Fantasy 7 Rebirth can't save the Sony PlayStation team layoffs\n\n💰#Fundraising News\n1. PlayMakers Secures $1.5M for Web3 Gaming Content Creation\n2. Former PlayStation Head Shawn Layden Joins NFT Gaming Company READYgg, Secures $4 Million in Funding",
+      "timestamp": "Mar 4, 2024 · 1:27 PM UTC",
+      "url": "https://twitter.com/jibobao1/status/1764643832698949824#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1765210252537180258#m",
+      "content": "again",
+      "timestamp": "Mar 6, 2024 · 2:58 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1765210252537180258#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1765209903206203743#m",
+      "content": "Gooooog",
+      "timestamp": "Mar 6, 2024 · 2:56 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1765209903206203743#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1765209746464981171#m",
+      "content": "just do it",
+      "timestamp": "Mar 6, 2024 · 2:56 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1765209746464981171#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1765209609072165123#m",
+      "content": "good job",
+      "timestamp": "Mar 6, 2024 · 2:55 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1765209609072165123#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1765209532349939972#m",
+      "content": "nice",
+      "timestamp": "Mar 6, 2024 · 2:55 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1765209532349939972#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1765209442990342313#m",
+      "content": "like",
+      "timestamp": "Mar 6, 2024 · 2:55 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1765209442990342313#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1762645889833943244#m",
+      "content": "GM hot miners & NFT holders, ready for the surprise\n\n✅Follow @RuneCraftNexus \n📷like & retweet  \n\nDrop your taproot address and if it contains the NFT shown in the picture, you will receive an airdrop.\n\n#NodeMonkes #RSIC #Runes",
+      "timestamp": "Feb 28, 2024 · 1:08 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1762645889833943244#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1762665701322666010#m",
+      "content": "I just minted 1 Abyss World - Linea Park on @AlienSwap_NFT alienswap.xyz/mint/linea/0x6…",
+      "timestamp": "Feb 28, 2024 · 2:27 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1762665701322666010#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1760884547019997519#m",
+      "content": "GM GalaxyPioneers! The GalaxyCash IDO Whitelist Campaign is now live!🚀 We're offering IDO whitelist spots to 500 early testers as a thank you for your participation. Whitelisted users will get early access to the IDO and enjoy discount benefits.🤑\n\nAlso, our Smart Contract audit is nearly complete👏, and once the #Fraxtal mainnet fully opens, we'll proceed with the IDO on it. Haven't tested yet?\n\nFollow us, retweet, and DM your Fraxtal (EVM) wallet address to join the testing phase. We'll grant you a spot on the test whitelist and send you test tokens.\n\nI know many of you are eager to experience Fraxtal and earn #FXTL points through FLOX, but good things are always worth the wait @fraxfinance. Fortunately, we've already deployed the testnet on Fraxtal, so you can get a sneak peek ahead of time.\n\ntestnet.galaxycash.finance/\n\n#GalaxyCash #IDO #Whitelist #Crypto #fraxtal #Layer2",
+      "timestamp": "Feb 23, 2024 · 4:29 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1760884547019997519#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1758043044312666365#m",
+      "content": "Verifying my Twitter account for my #GalxeID gid:CZtHgARpSCitum5kQSHatX @Galxe \n\n galxe.com/id",
+      "timestamp": "Feb 15, 2024 · 8:18 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1758043044312666365#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1717629688997380362#m",
+      "content": "前天发表了一篇技术帖子,\n收获不少粉丝.\n熬夜搞了一个对大家帮助很大的东西.\n起因是受到了@0xSunNFT 孙哥的启发\n他在昨天夜里通过监控某大v买入了某代币\n在5分钟内1E变成4E.\n故而有了此文档,眼睛已瞎,后续会持续更新.\n1⃣点赞\n2⃣回复本贴\n3⃣转发本帖\n4⃣进tg领文档 t.me/zero_calls",
+      "timestamp": "Oct 26, 2023 · 7:50 PM UTC",
+      "url": "https://twitter.com/jibobao1/status/1717629688997380362#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1745620906079363459#m",
+      "content": "Just entered a #Nobody giveaway with 2500 spots for @realnobodyxyz on @okxweb3, come and join!localhost:8080/okxweb3/status/1745415… @Azan22802735\n@Chmqaj786\n@Bilal7582",
+      "timestamp": "Jan 12, 2024 · 1:37 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1745620906079363459#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1663473406334078977#m",
+      "content": "Ahoy, degens! I just discovered a mysterious artifact on @Tabi_NFT.\nJoin me on the voyagers‘ expedition, where we uncover a wealth of exquisite treasures. Hop on board and let's catch the wind.  tabi.lol?code=21156151572173…",
+      "timestamp": "May 30, 2023 · 9:12 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1663473406334078977#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1656571543877718017#m",
+      "content": "🧡OrdinalsCN x @RedactedBTCNFT🧡\n\n$oxbt, the massive brc-20 is coming....  \n\nWL x 15\n\nTo enter\n1⃣Follow @OrdinalsCN @RedactedBTCNFT @BitGod21\n2⃣Like, Rt, Tag 3 frens\n3⃣Comment and say something about #Ordinals #BRC20\n\n⏰ 50hrs",
+      "timestamp": "May 11, 2023 · 8:06 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1656571543877718017#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1643640320561909761#m",
+      "content": "1/ 🧑‍🎓 Do you share our belief that education should foster creativity and connectivity? Imagine an environment where learning and teaching are not controlled externally. Welcome to Open Campus, where education meets blockchain in EdTech and web3",
+      "timestamp": "Apr 5, 2023 · 3:42 PM UTC",
+      "url": "https://twitter.com/jibobao1/status/1643640320561909761#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1639938789442453505#m",
+      "content": "Dear colleagues in the crypto circle, I am the owner of the account that was forcefully liquidated for 4 million dollars on March 10th at 5:00 am by the Huobi platform's HT pin liquidation.  I will continue to share all the details and what Huobi did at that time  #ShameonHuobi",
+      "timestamp": "Mar 26, 2023 · 10:34 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1639938789442453505#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1632953643627593729#m",
+      "content": "V神过一段时间就砸一次山寨币，抢到了还真是能发笔小财！底下接的，已经快3倍了。\nV神是昨天出去泡妞又没钱花了吗？\n\netherscan.io/token/0x24da31e…",
+      "timestamp": "Mar 7, 2023 · 3:57 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1632953643627593729#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1593963450543525890#m",
+      "content": "You are a ray of light",
+      "timestamp": "Nov 19, 2022 · 1:44 PM UTC",
+      "url": "https://twitter.com/jibobao1/status/1593963450543525890#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1585092920033837056#m",
+      "content": "孙割集齐了这卧龙凤雏两件工具人。严重怀疑，凉兮的前女友和屎侠的鲍鱼妹都是孙割派过去的。后续估计会用一桃杀二士不断让凉仔和屎侠加戏..加戏.. 非把两人炸干煎透为止。而孙割付出了啥？无非每人5万U，却让两人白干到过气或者被搞为止，却把众多熊市看热闹的韭菜都拉回来了！绝对服气！服气！",
+      "timestamp": "Oct 26, 2022 · 2:16 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1585092920033837056#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1584928037052694530#m",
+      "content": "大家说鲍鱼夹接下来会如何",
+      "timestamp": "Oct 25, 2022 · 3:21 PM UTC",
+      "url": "https://twitter.com/jibobao1/status/1584928037052694530#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1584827708688982016#m",
+      "content": "#aleoquiz I like to do on Testnet3",
+      "timestamp": "Oct 25, 2022 · 8:42 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1584827708688982016#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1548491620529864704#m",
+      "content": "I am an early settler of @CantoPublic. Verification: d98fbca386d9215052461e354bfe66ab4bf11861bb6f7d7a8e513554f925d293\n settlers.canto.io",
+      "timestamp": "Jul 17, 2022 · 2:15 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1548491620529864704#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1388706519751938048#m",
+      "content": "CrossPad Public Sale Whitelist swee.ps/qwRTw_eyhUdbQ",
+      "timestamp": "May 2, 2021 · 4:06 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1388706519751938048#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1388706182496464902#m",
+      "content": "CrossPad Public Sale Whitelist is now open! \n👉 crosspad.finance/whitelist\n#crosspad #bsc #bnb #launchpad #binancesmartchain swee.ps/qwRTw_eyhUdbQ",
+      "timestamp": "May 2, 2021 · 4:05 AM UTC",
+      "url": "https://twitter.com/jibobao1/status/1388706182496464902#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1387084267004571649#m",
+      "content": "✖️CrossPad Public Sale Whitelist✖️\n\nAfter the huge success of our Presale, we are excited more than ever to announce the Public Sale Whitelist!\n\n👉 crosspad.finance/whitelist\n\nRead more at:crosspad.medium.com/crosspad…\n\n#BSC #BinanceSmartChain #BNB #launchpad #whitelist #DeFi",
+      "timestamp": "Apr 27, 2021 · 4:40 PM UTC",
+      "url": "https://twitter.com/jibobao1/status/1387084267004571649#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1362053174660526082#m",
+      "content": "Replying to \n@polkastarter\n@Rocky_00707 \n@Blockchaincryp\n SuperFarm recently announce they opening Whitelist process for IDO, please take a part on this, project is very strong,It will be the one of the best Project in coming days. $SUPER $POLS #IDO",
+      "timestamp": "Feb 17, 2021 · 2:55 PM UTC",
+      "url": "https://twitter.com/jibobao1/status/1362053174660526082#m",
+      "author": "jibobao1"
+    },
+    {
+      "id": "1362051580061650946#m",
+      "content": "Replying to \n@UnidoEP\n and \n@polkastarter\nGreat opportunity for the #IDO community to get some $UDO before they bust out of the gates with secondary trading on the DEX. Don’t miss the chance at this price point! \nJoin\n@AlinaKo48870214\n\n@NicolasPili1",
+      "timestamp": "Feb 17, 2021 · 2:49 PM UTC",
+      "url": "https://twitter.com/jibobao1/status/1362051580061650946#m",
+      "author": "jibobao1"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-20T23:40:52.595Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 50,
+    "pagesFetched": 4,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 7971,
+    "cursorTrail": [
+      "DAAHCgABG3vciYz__-wLAAIAAAATMTc4MjY4OTU1MTU5NDc5NTMyNwgAAwAAAAIAAA",
+      "DAAHCgABG3vciYz__9cLAAIAAAATMTY0MDE3MDE2NDUxMDY2MjY1NggAAwAAAAIAAA",
+      "DAAHCgABG3vciYz__8sLAAIAAAATMTM2MjA1MTU4MDA2MTY1MDk0NggAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

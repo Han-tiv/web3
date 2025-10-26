@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nitter 连接测试</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background: #f5f5f5; }
+        .container { max-width: 600px; margin: 0 auto; background: white; padding: 30px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        h1 { color: #2c3e50; text-align: center; margin-bottom: 30px; }
+        .button-group { text-align: center; margin: 20px 0; }
+        button { background: #3498db; color: white; border: none; padding: 15px 25px; border-radius: 8px; cursor: pointer; margin: 10px; font-size: 16px; }
+        button:hover { background: #2980b9; }
+        button.success { background: #27ae60; }
+        button.error { background: #e74c3c; }
+        .result { margin: 15px 0; padding: 20px; border-radius: 8px; font-family: monospace; white-space: pre-wrap; }
+        .success { background: #d5edda; color: #155724; border: 1px solid #c3e6cb; }
+        .error { background: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
+        .info { background: #d1ecf1; color: #0c5460; border: 1px solid #bee5eb; }
+        .loading { background: #fff3cd; color: #856404; border: 1px solid #ffeaa7; }
+        .url-list { list-style: none; padding: 0; }
+        .url-list li { margin: 10px 0; padding: 10px; background: #f8f9fa; border-radius: 5px; }
+        .url-list a { color: #007bff; text-decoration: none; font-weight: bold; }
+        .url-list a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔧 Nitter API 连接测试</h1>
+
+        <div class="result info">
+            <strong>问题诊断：</strong>
+            您遇到的"Failed to fetch"错误通常是由于浏览器无法连接到localhost导致的。
+            这不是服务器问题，API服务器运行正常！
+        </div>
+
+        <div class="button-group">
+            <button onclick="testAllUrls()">🔍 自动测试所有地址</button>
+            <button onclick="clearResults()">🗑️ 清除结果</button>
+        </div>
+
+        <div id="results"></div>
+
+        <div class="result info" style="margin-top: 30px;">
+            <strong>💡 快速解决方案：</strong>
+
+            尝试以下地址访问仪表板：
+            <ul class="url-list">
+                <li>🔗 <a href="http://127.0.0.1:3001/dashboard" target="_blank">http://127.0.0.1:3001/dashboard</a> (推荐)</li>
+                <li>🔗 <a href="http://localhost:3001/dashboard" target="_blank">http://localhost:3001/dashboard</a></li>
+                <li>🔗 <a href="http://[::1]:3001/dashboard" target="_blank">http://[::1]:3001/dashboard</a> (IPv6)</li>
+            </ul>
+
+            <strong>🔧 其他解决方法：</strong>
+            • 按 Ctrl+Shift+R 强制刷新浏览器缓存
+            • 检查浏览器是否使用了代理服务器
+            • 尝试不同的浏览器 (Chrome, Firefox, Safari)
+            • 确保没有防火墙阻止端口3001
+        </div>
+    </div>
+
+    <script>
+        const urls = [
+            { url: 'http://127.0.0.1:3001/health', desc: 'IPv4 地址' },
+            { url: 'http://localhost:3001/health', desc: 'localhost' },
+            { url: 'http://[::1]:3001/health', desc: 'IPv6 地址' }
+        ];
+
+        async function testUrl(urlObj) {
+            const resultsDiv = document.getElementById('results');
+
+            const testDiv = document.createElement('div');
+            testDiv.className = 'result loading';
+            testDiv.textContent = `🔄 正在测试 ${urlObj.desc}...`;
+            resultsDiv.appendChild(testDiv);
+
+            try {
+                const startTime = Date.now();
+                const response = await fetch(urlObj.url, {
+                    method: 'GET',
+                    mode: 'cors',
+                    cache: 'no-cache'
+                });
+
+                const responseTime = Date.now() - startTime;
+                const data = await response.text();
+
+                if (response.ok) {
+                    testDiv.className = 'result success';
+                    testDiv.innerHTML =
+                        `✅ ${urlObj.desc} - 连接成功！\n` +
+                        `• URL: ${urlObj.url}\n` +
+                        `• 状态: ${response.status} ${response.statusText}\n` +
+                        `• 响应时间: ${responseTime}ms\n` +
+                        `• 仪表板: ${urlObj.url.replace('/health', '/dashboard')}\n\n` +
+                        `🎉 您可以使用这个地址访问仪表板！`;
+
+                    return true;
+                } else {
+                    testDiv.className = 'result error';
+                    testDiv.innerHTML =
+                        `❌ ${urlObj.desc} - HTTP错误\n` +
+                        `• 状态: ${response.status} ${response.statusText}\n` +
+                        `• 响应时间: ${responseTime}ms`;
+                }
+            } catch (error) {
+                testDiv.className = 'result error';
+                testDiv.innerHTML =
+                    `❌ ${urlObj.desc} - 连接失败\n` +
+                    `• 错误: ${error.message}\n` +
+                    `• 可能原因: 浏览器安全策略、代理设置、网络问题`;
+            }
+
+            return false;
+        }
+
+        async function testAllUrls() {
+            document.getElementById('results').innerHTML = '';
+
+            let successFound = false;
+
+            for (const urlObj of urls) {
+                const success = await testUrl(urlObj);
+                if (success && !successFound) {
+                    successFound = true;
+                }
+
+                // 小延迟让用户看到测试过程
+                await new Promise(resolve => setTimeout(resolve, 500));
+            }
+
+            if (successFound) {
+                const successDiv = document.createElement('div');
+                successDiv.className = 'result success';
+                successDiv.innerHTML =
+                    `🎯 找到了可用的连接！\n` +
+                    `请使用上面标记为"连接成功"的地址访问仪表板。\n\n` +
+                    `💡 建议收藏可用的地址以便下次直接使用。`;
+                document.getElementById('results').appendChild(successDiv);
+            } else {
+                const errorDiv = document.createElement('div');
+                errorDiv.className = 'result error';
+                errorDiv.innerHTML =
+                    `⚠️ 所有连接都失败了\n\n` +
+                    `请尝试以下解决方案：\n` +
+                    `1. 检查API服务器是否正在运行\n` +
+                    `2. 关闭浏览器代理设置\n` +
+                    `3. 使用不同的浏览器\n` +
+                    `4. 重启浏览器后再试\n` +
+                    `5. 检查防火墙设置`;
+                document.getElementById('results').appendChild(errorDiv);
+            }
+        }
+
+        function clearResults() {
+            document.getElementById('results').innerHTML = '';
+        }
+
+        // 页面加载时自动测试
+        window.addEventListener('load', () => {
+            setTimeout(testAllUrls, 1000);
+        });
+    </script>
+</body>
+</html>

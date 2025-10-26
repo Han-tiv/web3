@@ -1,0 +1,1632 @@
+# 汐 (@xixi_kawayi)
+
+- 抓取时间：2025-10-20T23:42:54.141Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：24458 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：11
+- 抓取尝试：1
+- Cursor 链：10 条
+- 账号统计：粉丝 27909，关注 1079，推文 20342，点赞 12415
+- 站外链接：https://t.co/21oemc9ItD
+- Twitter：https://twitter.com/xixi_kawayi
+- 头像：https://pbs.twimg.com/profile_images/1935239997709500416/A8NjeIQa_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1342135083252105216/1744721710
+- 认证：Blue Verified
+
+> 账号简介：
+> 幻想 ｜求求玩我号的人充点钱来点🌏online体验叭 🥹
+
+---
+
+## 1. Mar 25, 2025 · 11:43 AM UTC · 1904499348089503813#m
+- 链接：https://twitter.com/xixi_kawayi/status/1904499348089503813#m
+- 作者：@xixi_kawayi
+
+> 此刻已成为艺术
+
+## 2. Oct 17, 2025 · 8:04 AM UTC · 1979096216475701643#m
+- 链接：https://twitter.com/xixi_kawayi/status/1979096216475701643#m
+- 作者：@xixi_kawayi
+
+> 又可以安心上班还债了😭
+
+## 3. Oct 16, 2025 · 4:38 PM UTC · 1978863088175571133#m
+- 链接：https://twitter.com/xixi_kawayi/status/1978863088175571133#m
+- 作者：@xixi_kawayi
+
+> 汐汐坏坏的… 好爱🤯
+
+## 4. Oct 16, 2025 · 1:19 AM UTC · 1978631767973085380#m
+- 链接：https://twitter.com/xixi_kawayi/status/1978631767973085380#m
+- 作者：@xixi_kawayi
+
+> 有什么比较好的抗抑郁药物推荐嘛
+
+## 5. Oct 15, 2025 · 4:02 PM UTC · 1978491756183277665#m
+- 链接：https://twitter.com/xixi_kawayi/status/1978491756183277665#m
+- 作者：@xixi_kawayi
+
+> 一直在用童话故事来充当安慰剂… 那么成功以后呢，王子和公主幸福的在一起生活后呢 🙂‍↕️最终归宿是什么… 为什么会下意识思考
+
+## 6. Oct 15, 2025 · 4:00 PM UTC · 1978491118644846905#m
+- 链接：https://twitter.com/xixi_kawayi/status/1978491118644846905#m
+- 作者：@xixi_kawayi
+
+> 一直在重复负债-还债-负债-赚点小钱-继续负债-还债-再负债… 为什么会这样 🫠 真的不知道该如何化解∞de悲观情绪了😶‍🌫️
+
+## 7. Oct 15, 2025 · 3:53 PM UTC · 1978489473622302751#m
+- 链接：https://twitter.com/xixi_kawayi/status/1978489473622302751#m
+- 作者：@xixi_kawayi
+
+> 烦… 所以什么才是有意义的人生🙂‍↔️
+
+## 8. Jul 6, 2025 · 6:13 AM UTC · 1941742234501775490#m
+- 链接：https://twitter.com/xixi_kawayi/status/1941742234501775490#m
+- 作者：@xixi_kawayi
+
+> 毕竟亏钱的人是不太会表达的... 沉默的大多数往往被忽略掉不是么，哪有什么真正的大结果和所谓的happy ending，只是赌博梭哈输了的幻想罢了，不要美化，因为本身也就是赌对了... 以及有更多的试错成本罢了，只能说TA是幸运的，但这终究是唬人的幌子不对么...
+
+## 9. Feb 8, 2025 · 3:34 PM UTC · 1888249967103340731#m
+- 链接：https://twitter.com/xixi_kawayi/status/1888249967103340731#m
+- 作者：@xixi_kawayi
+
+> There is no meme, i just love u❤️
+
+## 10. Jun 12, 2025 · 12:47 AM UTC · 1932963007904239822#m
+- 链接：https://twitter.com/xixi_kawayi/status/1932963007904239822#m
+- 作者：@xixi_kawayi
+
+> 老马 @elonmusk 在社交媒体上表现得太平易近人了，以至于很多人假装忘记了面对这种级别的人应该有的恐惧、敬畏、尊重。
+
+## 11. Jun 11, 2025 · 4:27 PM UTC · 1932837080067121653#m
+- 链接：https://twitter.com/xixi_kawayi/status/1932837080067121653#m
+- 作者：@xixi_kawayi
+
+> 烦
+
+## 12. Jun 11, 2025 · 5:51 AM UTC · 1932677002525622567#m
+- 链接：https://twitter.com/xixi_kawayi/status/1932677002525622567#m
+- 作者：@xixi_kawayi
+
+> 不回来币圈是对的... 已经亏惨了这几天🥺
+
+## 13. Jun 6, 2025 · 12:44 PM UTC · 1930968944338407715#m
+- 链接：https://twitter.com/xixi_kawayi/status/1930968944338407715#m
+- 作者：@xixi_kawayi
+
+> ♾️
+
+## 14. May 31, 2025 · 3:06 AM UTC · 1928649345101943293#m
+- 链接：https://twitter.com/xixi_kawayi/status/1928649345101943293#m
+- 作者：@xixi_kawayi
+
+> 还是别见了
+> 一回来就跌😭
+
+## 15. May 26, 2025 · 4:28 PM UTC · 1927039264920916037#m
+- 链接：https://twitter.com/xixi_kawayi/status/1927039264920916037#m
+- 作者：@xixi_kawayi
+
+> 好久不见
+
+## 16. Apr 29, 2025 · 11:58 PM UTC · 1917368000342286788#m
+- 链接：https://twitter.com/xixi_kawayi/status/1917368000342286788#m
+- 作者：@xixi_kawayi
+
+> 很有趣的事，大多数来留言的都是"散户"、"玩家"，很多"互关"的"kol"来评论的寥寥无几，有点意思😇
+
+## 17. Apr 29, 2025 · 3:11 AM UTC · 1917054144474714618#m
+- 链接：https://twitter.com/xixi_kawayi/status/1917054144474714618#m
+- 作者：@xixi_kawayi
+
+> 前段时间把很多和Crypto有关的群退了
+> 给很多这几年积累的"人脉"、"资源"删了
+> 把自己辛苦运营的账号/社区也半抛弃了
+>  
+> 顺带刚给月薪1w+的单位提了离职申请
+> 准备思考本命年/明年的gap year去做什么
+>  
+> 这一刻我似乎知道我想要什么惹 😇
+> 不想再被任何人绑架了，不想再被定义了
+> 亏钱又怎样，赚钱又怎样，A8A9又怎样
+>  
+> 为什么赚不到大结果就是逃避，而不是放过自己
+> 所以，再没有新的兴趣增长点前（新的动力）
+> 大概率这是我最后一篇和币圈有关的推了
+>  
+> 很多人会觉得怎么那么蠢，有钱还不赚
+> 当然谁会嫌钱多，但是为了赚钱会被各种sb绑架
+> 有相对高收入工作不干，有粉丝社区不太发广子变现
+>  
+> 不知道，大概是因为这些虽然是我努力得来的
+> 但都不是我想要的，我只想做开心的事情 😇
+> 溜了溜了，越来越讨厌这里了，没什么意思 🥳
+
+## 18. Apr 28, 2025 · 3:30 PM UTC · 1916877672036336020#m
+- 链接：https://twitter.com/xixi_kawayi/status/1916877672036336020#m
+- 作者：@xixi_kawayi
+
+> 戒断了几天币圈/推特
+> 感觉就好像没来过一样
+> 可能没有什么留念了叭
+> 所以也没什么动力post推文
+> 毕竟... 不知道是为了什么
+> 也没有什么信仰了，不是么
+> 无论是现实 "工作" 也好
+> 还是这里的 "兴趣" 也好
+> 觉得没有什么坚持的必要
+> 忘记来过，曾经拥有过就好
+> 所以，忘记汐就好，忘了这里的一切
+> 毕竟，汐并不是唯一，以后还会有无数的碎碎念博主/被定义的抽象po也好/被喜欢也好/被讨厌也罢，不重要了 😇
+> localhost:8080/xixi_kawayi/status/190…
+
+## 19. Apr 25, 2025 · 2:36 PM UTC · 1915777001975423392#m
+- 链接：https://twitter.com/xixi_kawayi/status/1915777001975423392#m
+- 作者：@xixi_kawayi
+
+> 那些你所担忧的 焦虑的 恐惧的 烦躁的 不安的 令你感到痛苦的 全部交给汐就好 😇 你只需要闭上眼好好休息 下次睁开眼是你崭新的人生 你自由了 GN💤❤️
+
+## 20. Apr 24, 2025 · 2:21 PM UTC · 1915410850648826155#m
+- 链接：https://twitter.com/xixi_kawayi/status/1915410850648826155#m
+- 作者：@xixi_kawayi
+
+> 突然不好笑了...
+
+## 21. Apr 23, 2025 · 6:36 AM UTC · 1914931454686921147#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914931454686921147#m
+- 作者：@xixi_kawayi
+
+> eth已经1800了
+> 这回e卫兵可以上桌吃菜了🥺
+
+## 22. Apr 23, 2025 · 2:18 AM UTC · 1914866474336002387#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914866474336002387#m
+- 作者：@xixi_kawayi
+
+> 很多情绪价值都是一次性的，所以珍惜情感感受...
+
+## 23. Apr 23, 2025 · 1:15 AM UTC · 1914850485733069229#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914850485733069229#m
+- 作者：@xixi_kawayi
+
+> 你看eth都1780了😭
+> 不许再瞧不起e卫兵了🥺
+
+## 24. Apr 22, 2025 · 2:05 PM UTC · 1914681907276861757#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914681907276861757#m
+- 作者：@xixi_kawayi
+
+> 预感越来越强烈了😭
+> eth meme春天快来了
+> 你看eth都1650了...🥹
+
+## 25. Apr 22, 2025 · 1:52 PM UTC · 1914678696637857839#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914678696637857839#m
+- 作者：@xixi_kawayi
+
+> 算了，不喊了... 毕竟手里真有仓位
+> 万一崩了的话，我这是害自己🥹
+> 晚安玛卡巴卡，就这样悄咪咪牛回下去叭
+
+## 26. Apr 22, 2025 · 4:38 AM UTC · 1914539255067763178#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914539255067763178#m
+- 作者：@xixi_kawayi
+
+> 操... 发错地方了
+
+## 27. Apr 22, 2025 · 4:01 AM UTC · 1914529945730335115#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914529945730335115#m
+- 作者：@xixi_kawayi
+
+> 以前的抹茶，现在的bitget，未来的____? 😈
+> 越发恐惧、敬畏、尊重了😭
+
+## 28. Apr 22, 2025 · 3:13 AM UTC · 1914517986209386609#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914517986209386609#m
+- 作者：@xixi_kawayi
+
+> 后面我发现一个道理(现象)
+> 很多人并不关心事件本身
+> 事情背后事真相还是谣言
+> 只是习惯性代入到固有思维
+> 变相找个地，去情绪发泄...
+> 想通这个道理后，很多问题迎刃而解了
+
+## 29. Apr 21, 2025 · 5:23 PM UTC · 1914369361332359676#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914369361332359676#m
+- 作者：@xixi_kawayi
+
+> 不儿？ $eth 这就开始跌了？😭
+
+## 30. Apr 21, 2025 · 4:23 PM UTC · 1914354351948337553#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914354351948337553#m
+- 作者：@xixi_kawayi
+
+> 你们越说eth meme不行了
+> 我越觉得eth这波要起来了
+> 所以eth meme的春天要来啦👿😭
+
+## 31. Apr 21, 2025 · 3:47 PM UTC · 1914345340838563869#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914345340838563869#m
+- 作者：@xixi_kawayi
+
+> $dark 可不关我事 😡
+> $rfc 我好像确实盖了 👿
+
+## 32. Apr 21, 2025 · 3:46 PM UTC · 1914345101398364437#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914345101398364437#m
+- 作者：@xixi_kawayi
+
+> 丸辣 $rfc $dark 👿😭
+
+## 33. Mar 26, 2025 · 5:15 PM UTC · 1904945244183175639#m
+- 链接：https://twitter.com/xixi_kawayi/status/1904945244183175639#m
+- 作者：@xixi_kawayi
+
+> 嚣张的另一面
+
+## 34. Apr 21, 2025 · 6:58 AM UTC · 1914212191366156474#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914212191366156474#m
+- 作者：@xixi_kawayi
+
+> 图中的地址是这个🤯
+> gmgn.ai/sol/address/QXw2uGWZ…
+
+## 35. Apr 21, 2025 · 6:48 AM UTC · 1914209489957617992#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914209489957617992#m
+- 作者：@xixi_kawayi
+
+> 羡慕... 现在终于知道谁把钱赚走了，瞬间具象化😭
+
+## 36. Apr 21, 2025 · 5:32 AM UTC · 1914190464154320961#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914190464154320961#m
+- 作者：@xixi_kawayi
+
+> 好吧才发现一语双关了🥹
+
+## 37. Apr 21, 2025 · 5:06 AM UTC · 1914183959799623886#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914183959799623886#m
+- 作者：@xixi_kawayi
+
+> 我就说100U是可以操控市场的
+> 庄就是看上我这100U了
+> 你们现在相信了吧😈
+> 所以不许说100U是小钱了😭
+
+## 38. Apr 21, 2025 · 4:01 AM UTC · 1914167560079347720#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914167560079347720#m
+- 作者：@xixi_kawayi
+
+> 我以为的亏钱：亏本完要负债度日
+>  
+> 实际上的亏钱：本来赚A9的，现在只赚A8了，少赚了就是亏！家人们，亏麻了，我要维权傻逼币圈...
+>  
+> 终于理解以前做生意的亲戚，经常抱怨说这些年生意不好，亏麻了的感觉... 后面看到他们家各地都有房产... 草泥马🐴😈
+
+## 39. Apr 21, 2025 · 2:34 AM UTC · 1914145777137684637#m
+- 链接：https://twitter.com/xixi_kawayi/status/1914145777137684637#m
+- 作者：@xixi_kawayi
+
+> 所以现在算熊市么
+
+## 40. Apr 20, 2025 · 4:03 PM UTC · 1913986918578307513#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913986918578307513#m
+- 作者：@xixi_kawayi
+
+> 不能刻意的去盖帽...得是我主动想买的！不然就不灵了，你们真的是...阿米诺斯👿
+
+## 41. Apr 20, 2025 · 3:29 PM UTC · 1913978443450270083#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913978443450270083#m
+- 作者：@xixi_kawayi
+
+> 如果真的买啥都能盖的话，以后可以拿购买记录去威胁项目方了👿毕竟，别的博主发推可能是喊单，汐发推是避邪...
+>  
+> 另外很好，今天那几个eth meme又跌了... 底部怎么还能跌啊，草泥马😭 拉的时候没你eth，跌的时候怎么那么丝滑 @VitalikButerin
+
+## 42. Apr 20, 2025 · 3:23 PM UTC · 1913976928555712940#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913976928555712940#m
+- 作者：@xixi_kawayi
+
+> 下次你们看谁不爽 我继续去盖 👿 $rfc
+
+## 43. Apr 20, 2025 · 3:04 PM UTC · 1913972130603036844#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913972130603036844#m
+- 作者：@xixi_kawayi
+
+> 世界是个巨大的草台班子
+
+## 44. Apr 20, 2025 · 5:49 AM UTC · 1913832458489049174#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913832458489049174#m
+- 作者：@xixi_kawayi
+
+> 盲猜过几天的推文：
+>  
+> A：前几天给VIP小群指导的 $RFC $DARK 成功逃顶+配上微信/Telegram私密频道截图+一堆「技术分析」
+>  
+> B：VIP小群XXX成员 $RFC $DARK 获利100倍赚了10万u，然后配的链上收益图是随便偷的一个
+>  
+> C：喊单NPL BOT也是（发群里几百个CA，都会有记录）喊了几十x几百x，真吃到了🐴，如吃...
+>  
+> 还有什么可以补充的么，老师们？
+
+## 45. Apr 20, 2025 · 4:52 AM UTC · 1913818124522258500#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913818124522258500#m
+- 作者：@xixi_kawayi
+
+> 大人，他们一边卖一边fomo劝着你加仓，吃着你的肉，以看你亏钱痛苦的样子为乐，这就是你执着且热爱的Crypto么
+
+## 46. Apr 20, 2025 · 4:50 AM UTC · 1913817481485115603#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913817481485115603#m
+- 作者：@xixi_kawayi
+
+> 反正现在大家看好的，再谈论的... 我不会再fomo了，再拉是你们的事，踏空也没事，不想再陷入任何信息茧房以及路径依赖了，否则只会越陷越深 🥰 毕竟只有K线和价格不会骗我，而一次次信任骗走的是我的止盈仓，最后割肉只剩嘲讽和自我安慰...
+
+## 47. Apr 20, 2025 · 12:41 AM UTC · 1913754805748797887#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913754805748797887#m
+- 作者：@xixi_kawayi
+
+> 为什么嘲笑我😭
+> 难道他们说的是真的🐴
+> 那我问你👿
+> 小V子 @VitalikButerin
+
+## 48. Apr 19, 2025 · 4:08 PM UTC · 1913625833748730134#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913625833748730134#m
+- 作者：@xixi_kawayi
+
+> 有种预感，eth meme的春天要来了😭
+
+## 49. Apr 19, 2025 · 1:37 PM UTC · 1913587806141821067#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913587806141821067#m
+- 作者：@xixi_kawayi
+
+> 三年前你放的屁，我用塑料袋小心翼翼的装着闻了三年，现在屁味儿散了，我们的感情也淡了😭
+
+## 50. Apr 19, 2025 · 9:41 AM UTC · 1913528338796486958#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913528338796486958#m
+- 作者：@xixi_kawayi
+
+> 一点也不积极👿
+
+## 51. Apr 19, 2025 · 9:28 AM UTC · 1913524980177871268#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913524980177871268#m
+- 作者：@xixi_kawayi
+
+> 🏆恭喜中奖，请24小时内DM我SOL地址/wx收款码
+> 🏆抽奖编号：NQN63A
+>  
+> 1. @lilili0612
+> 2. @daimmmi
+> 3. @Mikom666
+> 4. @Hazimi919
+> 5. @lsy88168
+> #Easy3 easy3.app/cn/picker2/NQN63A
+
+## 52. Apr 18, 2025 · 12:08 PM UTC · 1913203072496734412#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913203072496734412#m
+- 作者：@xixi_kawayi
+
+> 我以为的A8：一个土狗吃几百x，单笔1mu收益，最次也是几个土狗吃几十x...
+>  
+> 实际上的A8：能赚10%也要出，能赚几x也要出，小钱也赚，大钱也赚，慢慢攒到a8...
+
+## 53. Apr 18, 2025 · 9:25 AM UTC · 1913161982821163468#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913161982821163468#m
+- 作者：@xixi_kawayi
+
+> 谁家能出一个做空全部pump代币的平台，那我的春天就来了😈以后一边盖帽一边做空，盖帽赚不到的钱做空赚，做空被拉爆的前盖帽赚，哈基汐真的是天才🤯
+
+## 54. Apr 18, 2025 · 8:26 AM UTC · 1913147148855857498#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913147148855857498#m
+- 作者：@xixi_kawayi
+
+> 加分项：今天你猎币安了🐴😈
+> @cz_binance @heyibinance
+
+## 55. Apr 18, 2025 · 8:19 AM UTC · 1913145234776900001#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913145234776900001#m
+- 作者：@xixi_kawayi
+
+> BinanceWallet 上的第 1305 次独家代币生成事件
+> ✅ 完成 KYC
+> ✅ 钱包活跃
+> ✅ 买过 Alpha
+> ✅ 手臂纹币安 logo
+> ✅ 跟 CZ 合过影
+> ✅ 在链上上传一段跳 CZ 主题舞的视频
+> ✅ 念 88 遍「币安是我信仰」
+> ✅ 在推特上写舔CZ Heyi的小作文
+> ✅ 为BN制作过视频内容
+> @heyibinance @cz_binance
+
+## 56. Apr 18, 2025 · 7:54 AM UTC · 1913139071570051093#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913139071570051093#m
+- 作者：@xixi_kawayi
+
+> 好像这波都给别人拉完了... 不卷你们了，我还是自己多刷交易量撸积分吧，拉人头拉不动一点👉🏻🤡👈🏻 什么时候来点好玩到爆炸的Gamefi，想回到以前天天写教程的时候了... 虽然单号也就撸个十几u几十u的，但是很开心... 不像现在动不动就大起大落的，累咯😭
+
+## 57. Apr 18, 2025 · 7:23 AM UTC · 1913131222433214495#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913131222433214495#m
+- 作者：@xixi_kawayi
+
+> 原推也转一下，厚礼蟹！
+
+## 58. Apr 18, 2025 · 7:20 AM UTC · 1913130392229679419#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913130392229679419#m
+- 作者：@xixi_kawayi
+
+> 三连这个Post 抽5份打狗资金吧 0.1sol *5 😈
+>  
+> 可以的话走走我的邀请（有10%折扣，最高25%）我撸个人头积分：axiom.trade/@xixixi
+>  
+> 你们可以再开个小号，用你们自己的大号吃返佣
+
+## 59. Apr 18, 2025 · 7:09 AM UTC · 1913127652573266030#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913127652573266030#m
+- 作者：@xixi_kawayi
+
+> 只要我的扫链工具看起来足够牛逼！我就一定能赚到钱！让自己的屏幕被Meme塞入的满满当当😈 一个界面就可以PUMP+推文监控+钱包监控了🫡
+>  
+> axiom.trade/@xixixi
+
+## 60. Apr 18, 2025 · 7:04 AM UTC · 1913126501693988979#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913126501693988979#m
+- 作者：@xixi_kawayi
+
+> x.com/i/article/191310265642…
+
+## 61. Apr 18, 2025 · 2:33 AM UTC · 1913058163676598628#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913058163676598628#m
+- 作者：@xixi_kawayi
+
+> ATH了 $DARK
+> 还创造了一波抄底机会
+> 不许再说我反指了😈
+
+## 62. Apr 18, 2025 · 1:50 AM UTC · 1913047379487691221#m
+- 链接：https://twitter.com/xixi_kawayi/status/1913047379487691221#m
+- 作者：@xixi_kawayi
+
+> 币圈是巨大的傻逼互道，
+> 币圈是巨大的互道傻逼，
+> 没有之一，问就是傻逼。
+
+## 63. Apr 17, 2025 · 2:58 PM UTC · 1912883270716666263#m
+- 链接：https://twitter.com/xixi_kawayi/status/1912883270716666263#m
+- 作者：@xixi_kawayi
+
+> 有毒。。。。。。
+
+## 64. Apr 17, 2025 · 1:02 PM UTC · 1912854146291835104#m
+- 链接：https://twitter.com/xixi_kawayi/status/1912854146291835104#m
+- 作者：@xixi_kawayi
+
+> 得打破一下魔咒了👿
+
+## 65. Apr 17, 2025 · 12:43 PM UTC · 1912849293997949088#m
+- 链接：https://twitter.com/xixi_kawayi/status/1912849293997949088#m
+- 作者：@xixi_kawayi
+
+> 要不我在试试？盖帽100u $dark
+
+## 66. Apr 17, 2025 · 12:41 PM UTC · 1912849019145273492#m
+- 链接：https://twitter.com/xixi_kawayi/status/1912849019145273492#m
+- 作者：@xixi_kawayi
+
+> 中文版有了
+> axiom.trade/@xixixi
+
+## 67. Apr 16, 2025 · 1:59 PM UTC · 1912506033517523341#m
+- 链接：https://twitter.com/xixi_kawayi/status/1912506033517523341#m
+- 作者：@xixi_kawayi
+
+> 假设我这样操作，真逮到一个上bn的Meme，有1000x，甚至1w倍... 是不是我又可以开课了，笑死，所以币圈确实有意思的，不过也正常，赢了自有人来解读你给你加光环加滤镜捧杀，输了我也无所谓，早晚我会这样吃到一个的，只要币圈还在☺️
+
+## 68. Apr 16, 2025 · 1:56 PM UTC · 1912505393856823616#m
+- 链接：https://twitter.com/xixi_kawayi/status/1912505393856823616#m
+- 作者：@xixi_kawayi
+
+> 所以有些评论我说，看你之前有几个call的sol/eth meme也拉上去了，也有几万u，为什么不出...是这样的，如果拉到几十万u利润，那又该怎么输说... 无所吊谓，没必要这样审判马后炮式的发言，都是赌，只不过我赌输了我这个阶段我忍了
+
+## 69. Apr 16, 2025 · 1:54 PM UTC · 1912504802975891630#m
+- 链接：https://twitter.com/xixi_kawayi/status/1912504802975891630#m
+- 作者：@xixi_kawayi
+
+> 其实倒也不是刻意亏...
+>  
+> 很多标其实本身也是赚的，但是没有到心中的那个止盈窗口 (可能也就几十个点)，舍不得卖 (还是贪...市场好我更贪，想一波吃大的) 然后从赚到亏钱...
+>  
+> 然后这种心态久而久之... 浮亏就加仓，套了也不割，能这样操作的标很少，当前版本下亏损也正常，基本是这样吧😑
+>  
+> 屡试不爽... 😪 都喜欢p的话，就看情绪把握谁先跑谁后跑，其实没必要说什么马后炮，本质都是赌能不能跑出来，反弹v回去...
+
+## 70. Apr 16, 2025 · 1:14 PM UTC · 1912494916393218330#m
+- 链接：https://twitter.com/xixi_kawayi/status/1912494916393218330#m
+- 作者：@xixi_kawayi
+
+> 亏钱很正常的...哪有天天赚钱的，赚钱也是暂时的好吧，真的是，你也不看看这行情有多难玩好叭😭
+
+## 71. Apr 16, 2025 · 1:09 PM UTC · 1912493428115677447#m
+- 链接：https://twitter.com/xixi_kawayi/status/1912493428115677447#m
+- 作者：@xixi_kawayi
+
+> 《你们自己起标题吧😭》
+
+## 72. Apr 16, 2025 · 5:23 AM UTC · 1912376324192366647#m
+- 链接：https://twitter.com/xixi_kawayi/status/1912376324192366647#m
+- 作者：@xixi_kawayi
+
+> 我觉得没有一个新人会很享受这种极致pvp的市场的，虽然说最终是少数人的狂欢（从赌桌离开变现的），但是和21、22年真的不一样，各种玩法体验感都屌差... 幻想都打碎了嚼烂了给你咽下去的既视感
+
+## 73. Apr 16, 2025 · 5:15 AM UTC · 1912374230978568214#m
+- 链接：https://twitter.com/xixi_kawayi/status/1912374230978568214#m
+- 作者：@xixi_kawayi
+
+> 我也很想💎✋🏻钻石手，但市场每次都在惩罚我
+> Hold到底错在哪里了，不是Hold才能Rich么😭
+> 那我问你 @cz_binance @heyibinance
+
+## 74. Apr 16, 2025 · 5:02 AM UTC · 1912370906648965300#m
+- 链接：https://twitter.com/xixi_kawayi/status/1912370906648965300#m
+- 作者：@xixi_kawayi
+
+> 继续打游戏了...亏累了
+
+## 75. Apr 16, 2025 · 3:01 AM UTC · 1912340568300277957#m
+- 链接：https://twitter.com/xixi_kawayi/status/1912340568300277957#m
+- 作者：@xixi_kawayi
+
+> 可以用这个网站打发时间，很多小游戏一玩可以摸🐟一整天，如果行情不好的话，就不要强迫自己玩了呗 😇 多休息
+>  
+> poki.com/zh
+
+## 76. Apr 15, 2025 · 3:33 PM UTC · 1912167324704182391#m
+- 链接：https://twitter.com/xixi_kawayi/status/1912167324704182391#m
+- 作者：@xixi_kawayi
+
+> 我估计死后一定是去天堂的，你们下地狱去吧 👿 毕竟在阳间看了太多阴间抽象视频了 🤓🫰🏻❤️
+
+## 77. Apr 15, 2025 · 3:43 AM UTC · 1911988834625339889#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911988834625339889#m
+- 作者：@xixi_kawayi
+
+> @heyibinance 快来夸我
+
+## 78. Apr 15, 2025 · 3:40 AM UTC · 1911988018635846059#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911988018635846059#m
+- 作者：@xixi_kawayi
+
+> 都在说学历，所以我大专人算人上人🐴
+>  
+> 我不管，在推特哈基汐就是加密皇帝😇拳打cz，脚踢孙哥👿
+
+## 79. Apr 14, 2025 · 2:32 PM UTC · 1911789725557670380#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911789725557670380#m
+- 作者：@xixi_kawayi
+
+> 到底什么是现实
+> 可能都是虚假的
+> 一切皆是幻想叭🥺
+> 还是逃避现实叭🥳
+
+## 80. Apr 14, 2025 · 11:53 AM UTC · 1911749542363488604#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911749542363488604#m
+- 作者：@xixi_kawayi
+
+> Eth Meme行情回来的话...
+> 是不是改轮到 $drip $swag 了叭
+> 轮奸也该轮到了吧😭
+
+## 81. Apr 14, 2025 · 7:42 AM UTC · 1911686449289973876#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911686449289973876#m
+- 作者：@xixi_kawayi
+
+> 我不管，我就是赚到了 $rfc 😭🤡
+
+## 82. Apr 14, 2025 · 7:19 AM UTC · 1911680575188214123#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911680575188214123#m
+- 作者：@xixi_kawayi
+
+> 哦，我指的是和游戏防沉迷一样
+> 偷家里人身份证/甚至过人脸...
+> 以前00后放学是一起开黑周游
+> 现在10/20后放学是一起扫链/合约😂
+> 有点意思哈哈哈哈
+
+## 83. Apr 14, 2025 · 7:02 AM UTC · 1911676497112519154#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911676497112519154#m
+- 作者：@xixi_kawayi
+
+> 如果交易所以后猖狂到对未成年拉新... 是不是未成年退款真的不是段子而是笑话了🤣
+
+## 84. Apr 14, 2025 · 4:07 AM UTC · 1911632467477635289#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911632467477635289#m
+- 作者：@xixi_kawayi
+
+> 为什么喜欢去迪士尼
+> 因为那里还有"活人味"
+> 还保留着我最后的纯真...
+> 其他地方都不会再有的
+
+## 85. Apr 14, 2025 · 2:20 AM UTC · 1911605389487198684#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911605389487198684#m
+- 作者：@xixi_kawayi
+
+> 回快乐老家了🥳
+> 希望不要触发迪士尼行情🥺
+
+## 86. Apr 13, 2025 · 5:42 PM UTC · 1911475165378011372#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911475165378011372#m
+- 作者：@xixi_kawayi
+
+> 傻逼币圈傻逼bn傻逼vc傻逼kol傻逼项目方傻逼哈基汐，无所吊谓🙂
+
+## 87. Apr 13, 2025 · 4:23 PM UTC · 1911455188860473397#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911455188860473397#m
+- 作者：@xixi_kawayi
+
+> 就是为了验证仓位...所以 $rfc 就试着卖了100u，然后刚好晚上看着不爽就割了... 然后就飞了，自闭了啊...🙁好玄学
+
+## 88. Apr 13, 2025 · 4:08 PM UTC · 1911451385599836429#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911451385599836429#m
+- 作者：@xixi_kawayi
+
+> 真睡不着啊... 哪怕就赢一次行不行，真的想不通为什么次次都这样🙁
+
+## 89. Apr 13, 2025 · 4:07 PM UTC · 1911451202229022918#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911451202229022918#m
+- 作者：@xixi_kawayi
+
+> 我好难过...为什么每次都这样😭
+
+## 90. Apr 13, 2025 · 3:38 PM UTC · 1911443779824890102#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911443779824890102#m
+- 作者：@xixi_kawayi
+
+> 草泥马... 怎么卖了就飞😭 $rfc
+
+## 91. Apr 13, 2025 · 10:15 AM UTC · 1911362706768269519#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911362706768269519#m
+- 作者：@xixi_kawayi
+
+> 呐！钱辈请一定要喜欢我😭
+
+## 92. Apr 13, 2025 · 5:43 AM UTC · 1911294069034144064#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911294069034144064#m
+- 作者：@xixi_kawayi
+
+> 工具越快，亏/赚的越快...
+>  
+> 你懂okx web3钱包有时候卡住卖不出去，然后你以为卖了... 最后拉上去懊悔卖飞，但实际上仓位还在的救赎感么🥺
+>  
+> 不，你不懂😭
+
+## 93. Apr 13, 2025 · 5:26 AM UTC · 1911289870888141102#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911289870888141102#m
+- 作者：@xixi_kawayi
+
+> 怎么又是哈基汐的错
+> 我明明没上 $bang 😭
+
+## 94. Apr 13, 2025 · 5:10 AM UTC · 1911285788366803074#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911285788366803074#m
+- 作者：@xixi_kawayi
+
+> 怎么不 $bang 了？😅🔨
+> gmgn.ai/sol/token/QXw2uGWZ_C…
+
+## 95. Apr 12, 2025 · 5:45 PM UTC · 1911113347896057987#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911113347896057987#m
+- 作者：@xixi_kawayi
+
+> 人间即地狱
+
+## 96. Apr 12, 2025 · 4:27 PM UTC · 1911093866784235628#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911093866784235628#m
+- 作者：@xixi_kawayi
+
+> 我操，打我止损就爆拉，是吧... 沃日逆蝶😭
+
+## 97. Apr 12, 2025 · 4:17 PM UTC · 1911091244002136574#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911091244002136574#m
+- 作者：@xixi_kawayi
+
+> 所以比起赚钱亏钱本身来说
+>  
+> 我更希望「汐」被记住
+>  
+> 哪怕是傻逼、抽象、有趣、神经病、操作菜、情绪敏感细腻... 无所吊谓
+>  
+> 现在看起来我大致做到了
+
+## 98. Apr 12, 2025 · 4:15 PM UTC · 1911090686507798592#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911090686507798592#m
+- 作者：@xixi_kawayi
+
+> 另一种就是热爱... 当然
+>  
+> 热爱割韭菜也是热爱
+> 热爱记录也是热爱
+> 热爱分享也是热爱哈哈哈
+
+## 99. Apr 12, 2025 · 4:13 PM UTC · 1911090371268133003#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911090371268133003#m
+- 作者：@xixi_kawayi
+
+> 因为交易或当项目方(让kol舔你逼脸)，或者既当项目方又当kol，这些哪个都比记录账号要来的容易/快的多...
+>  
+> 你天天复盘和写一些流量帐记录...不是没资源就是认知不够去做局，要么就是没手段去迎合各种妖魔鬼怪，没这大心脏...
+>  
+> 我承认我做不到前者，因为没这种性格(这是天赋)，所以我很无奈选择后者，所以流量多不多对我来说意义不大，不如发癫hhh（当然大多数人都是这样）
+
+## 100. Apr 12, 2025 · 4:04 PM UTC · 1911088159427101175#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911088159427101175#m
+- 作者：@xixi_kawayi
+
+> 我的认知里，应该是先有圈子经历和一部分的人脉/资源(认知资源也是)，然后最差的"变现"方式才是做账号，哪怕是最好的Ad推广，也是赚着白菜钱，操心着卖du的钱。
+>  
+> 至少我是所有路都走死了才开始做账号记录的(20/21年很多dao还有后面nft微信认识我的，应该知道我有多傲气)，因为我之前一直觉得推特很多kol都是傻逼。现在我理解了(感同生受了)，因为确实很傻逼hhh
+>  
+> 不过认知提升确实很快... 因为以前在社区或者个人角色的时候，你只能充其量算一个大户或者一个大韭菜 (哪怕是工作室)，当你有了自己的社区/流量以后你会有更多的角色，能从其他视角感受到一些东西...
+>  
+> 无所吊谓，也不后悔，也从不会后悔，输了就是输了，至少我赢过，我也是曾经的赢家，我还年轻我还有机会🫡
+
+## 101. Apr 12, 2025 · 1:28 PM UTC · 1911048778481901643#m
+- 链接：https://twitter.com/xixi_kawayi/status/1911048778481901643#m
+- 作者：@xixi_kawayi
+
+> 不敢相信不沉迷币圈
+> 汐每天该有多开朗🥺😭
+
+## 102. Apr 12, 2025 · 10:03 AM UTC · 1910997130107666744#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910997130107666744#m
+- 作者：@xixi_kawayi
+
+> 不想刷推了... 全是互关帖
+> 不知道的还以为是娱乐圈呢😅
+> 吃瓜 撕逼 磕cp 互粉...
+
+## 103. Apr 12, 2025 · 7:41 AM UTC · 1910961537986052303#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910961537986052303#m
+- 作者：@xixi_kawayi
+
+> 有人质疑那个sol但我赚麻了 我截图🔨一下 厚礼蟹🥺🙂
+
+## 104. Apr 12, 2025 · 6:10 AM UTC · 1910938478453436816#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910938478453436816#m
+- 作者：@xixi_kawayi
+
+> 手机版上线了，体验还不错
+> axiom.trade/@xixixi
+
+## 105. Apr 12, 2025 · 5:27 AM UTC · 1910927668813406622#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910927668813406622#m
+- 作者：@xixi_kawayi
+
+> 草泥马😭
+> 本来以前推特是用来看h的
+> 现在全是看各种破币 麻了
+
+## 106. Apr 12, 2025 · 5:23 AM UTC · 1910926807651824044#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910926807651824044#m
+- 作者：@xixi_kawayi
+
+> 我对ux的恨更进了一步
+
+## 107. Apr 12, 2025 · 4:28 AM UTC · 1910912774978625566#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910912774978625566#m
+- 作者：@xixi_kawayi
+
+> 你只是跑的慢了
+> 你不是真心想建设
+> 并不叫什么钻石手
+> 你只是套牢不想止损
+> 你要正确的面对自己
+
+## 108. Apr 12, 2025 · 1:49 AM UTC · 1910872858156552649#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910872858156552649#m
+- 作者：@xixi_kawayi
+
+> 真要戒赌了😭
+
+## 109. Apr 11, 2025 · 4:48 PM UTC · 1910736654165565792#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910736654165565792#m
+- 作者：@xixi_kawayi
+
+> 如果还是无效
+> 那就是还没拉够
+> 得拉服，拉服他们
+> 让他们卖飞，踏空...
+> 比说一万句十万句都有用
+> 自有大儒为你辩经
+
+## 110. Apr 11, 2025 · 4:45 PM UTC · 1910736086168723871#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910736086168723871#m
+- 作者：@xixi_kawayi
+
+> 拉盘比任何解释都有效
+
+## 111. Apr 11, 2025 · 3:44 PM UTC · 1910720668507004946#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910720668507004946#m
+- 作者：@xixi_kawayi
+
+> 越安静
+> 越平和
+> 越淡定
+> 越忍耐
+> 就越无所谓
+> 我眼里深藏的汹涌就越沸腾
+
+## 112. Jan 4, 2025 · 12:24 PM UTC · 1875518562779197455#m
+- 链接：https://twitter.com/xixi_kawayi/status/1875518562779197455#m
+- 作者：@xixi_kawayi
+
+> I'm utterly drained from this place. It's like a black hole sucking the life out of me. If I had a time machine, I'd erase crypto from my existence. I despise this place with every fiber of my being. 😶
+>  
+> $evan, $drip, $swag – those are my last vibes of this spot. They're all I got left.
+
+## 113. Apr 11, 2025 · 3:21 PM UTC · 1910714944871633050#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910714944871633050#m
+- 作者：@xixi_kawayi
+
+> 整了点 $R6D9 ，@virtuals_io 弄的老AI Agents 😇
+>  
+> 底部位再亏也亏不到哪去吧，SOL Meme链上行情好一些了，哈基汐要开始乱玩乱冲咯 DYOR
+>  
+> 最近换这个冲了，可以试试 axiom.trade/@xixixi
+>  
+> CzbsTtLTwnX81fEvNBz7bDSt8VAw43XAcdgK8Ludvirt
+
+## 114. Apr 11, 2025 · 2:53 PM UTC · 1910707908083671271#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910707908083671271#m
+- 作者：@xixi_kawayi
+
+> 不用担心，我会止损👿
+
+## 115. Apr 11, 2025 · 2:27 PM UTC · 1910701138275643879#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910701138275643879#m
+- 作者：@xixi_kawayi
+
+> 给 @UseUniversalX 来点小小的震撼，这一次我一定要赢 👿
+
+## 116. Apr 11, 2025 · 12:08 PM UTC · 1910666315783954734#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910666315783954734#m
+- 作者：@xixi_kawayi
+
+> . $rfc 拉回去了👿不许再说我反指了...
+
+## 117. Apr 11, 2025 · 11:59 AM UTC · 1910664099236896969#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910664099236896969#m
+- 作者：@xixi_kawayi
+
+> Eth/Sol meme终于要回来了嘛，好起来了诶🤯
+
+## 118. Apr 11, 2025 · 2:10 AM UTC · 1910515848420483557#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910515848420483557#m
+- 作者：@xixi_kawayi
+
+> 卑微🫥抽奖不多但真...
+
+## 119. Apr 11, 2025 · 2:02 AM UTC · 1910513813457445229#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910513813457445229#m
+- 作者：@xixi_kawayi
+
+> 🏆恭喜中奖，24小时内DM我SOL地址/wx收款码
+> 1. @0xzhouzhou13
+> 2. @daimmmi
+> 3. @Loveyy888
+> 4. @alilinar123
+> 5. @lingling727
+> 公证 | EASY3抽奖编号：Y6UZGW
+> #Easy3 easy3.app/cn/picker2/Y6UZGW
+
+## 120. Apr 10, 2025 · 4:41 PM UTC · 1910372657385861367#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910372657385861367#m
+- 作者：@xixi_kawayi
+
+> 还好就买了100u😭亏一半了 $rfc 🥺
+
+## 121. Apr 10, 2025 · 1:17 PM UTC · 1910321325467701618#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910321325467701618#m
+- 作者：@xixi_kawayi
+
+> 不玩了，真不玩了😭我我我... 服了啊
+
+## 122. Apr 10, 2025 · 1:12 PM UTC · 1910320053490196621#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910320053490196621#m
+- 作者：@xixi_kawayi
+
+> 我... 你... 踏马的，真盖帽了是吧😭 $rfc
+
+## 123. Apr 10, 2025 · 9:54 AM UTC · 1910270028525752687#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910270028525752687#m
+- 作者：@xixi_kawayi
+
+> 想到一个新的play方式
+> 以后觉得哪个项目sb
+> 直接找个死M穿上周边衣服
+> 最好是能cos扮演项目方
+> 然后疯狂输出羞辱
+> 感觉应该会更解气😅😈
+> M也爽了，我也爽了
+> 还不太得罪项目方
+> 没有人受伤害的世界终于有了😇
+
+## 124. Apr 10, 2025 · 8:02 AM UTC · 1910242019529957441#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910242019529957441#m
+- 作者：@xixi_kawayi
+
+> Axiom axiom.trade/@xixixi 放个原图 ，好像直接复制无边记的图会压缩... 截图的好像更清楚，数据源是这里：dune.com/adam_tehc/trading-b…
+
+## 125. Apr 10, 2025 · 7:52 AM UTC · 1910239443958804636#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910239443958804636#m
+- 作者：@xixi_kawayi
+
+> 哦原来已经发推了啊... 我还在草稿里找了半天...以为写的推文丢了，沃日你个die啊推特现在越来越难用了😭
+
+## 126. Apr 10, 2025 · 7:48 AM UTC · 1910238491902181641#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910238491902181641#m
+- 作者：@xixi_kawayi
+
+> Axiom Pro | 老爷爷😈~我来给你踩踩背咯~
+>  
+> 我不太信别人吹什么产品，相对只信数据("真实"收入)
+>  
+> 截止4/9的DUNE数据显示：Axiom axiom.trade/@xixixi 目前在SOL链上市场占有率42%，日收入40万美元手续费——这个是什么概念呢？
+>  
+> ⭐️ 我们不妨看下竞品当日数据：
+>  
+> Axiom | 市场占有率 42% + 日收入 40万u
+> Photon | 市场占有率 20% +日收入 20万u
+> Bullx | 市场占有率  11.3% + 日收入 10万u
+> GMGN | 市场占有率 6.8% + 日收入 6万u
+> PEPE | 市场占有率 0.5% + 日收入 4万u
+>  
+> 不评价产品好坏本身，各有优缺点也都不完美 | 只讨论为什么在英文区那么受欢迎的 @AxiomExchange 可以那么快出圈？——我们来看看他们的组合拳：
+>  
+> ⭐️YC强背书：Openai联创/孵化Coinbase
+> ⭐️专注做交易与监控功能：
+> 提供自定义RPC、防MEV、限价单、止盈止损TPSL、DCA定投... 监控盯盘模块，显示Twitter改名、开发者持仓等信息、Trackers可定制监控X账户、提供悬浮窗功能、方便边交易边监控...
+> ⭐️阶梯/更低的手续费：最高返25%
+>  
+> ⭐️但目前缺点是只有英文（中文会很快上）+ 只支持SOL（BSC很快也会上）+ 没有2FA + 没有独立的手机端
+>  
+> 感谢 @Siegfried90210  安利，可以阅读原po推文：localhost:8080/Siegfried90210/status/…
+>  
+> 随着越来越多的正规军们进来瓜分DEX这块蛋糕，让子弹飞一会儿，看看这场战斗到底谁才是最后的赢家！期待其他家产品有更强的反击😈
+
+## 127. Apr 10, 2025 · 3:58 AM UTC · 1910180660599509057#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910180660599509057#m
+- 作者：@xixi_kawayi
+
+> 在不违反原则的前提下
+> 朋友多多的，敌人少少的
+> 该骂就骂，该夸就夸
+> 该自黑就自黑，该舔就舔
+> 该尊重就尊重，该敬畏就敬畏
+> 孤芳自赏，无所屌谓🫡
+
+## 128. Apr 10, 2025 · 2:14 AM UTC · 1910154390184616010#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910154390184616010#m
+- 作者：@xixi_kawayi
+
+> 为啥不焦虑了... 因为我试错成本少
+> 大家都看到拉盘的，大多数跌的看不到
+> $RFC 拿到大结果的（底部+筹码多）
+> 基本上都是不太缺子弹的
+> 可以这样操作1000次，甚至1万次
+> 而我几次赌错了，又要重来了...
+> 大多数人可能一次大的赌博机会都没有
+> 小仓位还有可能有几次
+> 所以没必要焦虑，钱多的话你我都可以（相对）
+> 没必要怼我，你怼你就是对的
+> 本来就不是一类人，都是相互吸引力法则
+> 不能共情很正常，不能理解也很正常
+> 所以死亡是相对公平的事件，无所屌谓
+
+## 129. Apr 10, 2025 · 1:19 AM UTC · 1910140631525314916#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910140631525314916#m
+- 作者：@xixi_kawayi
+
+> 我有点想追多了，怎么办...
+> 醒来看到涨麻了好难受😭
+
+## 130. Apr 9, 2025 · 9:51 PM UTC · 1910088190729605348#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910088190729605348#m
+- 作者：@xixi_kawayi
+
+> GM... 还是不喝了以后
+> 肚子疼了一晚上... 😭
+
+## 131. Apr 9, 2025 · 4:29 PM UTC · 1910007089818447950#m
+- 链接：https://twitter.com/xixi_kawayi/status/1910007089818447950#m
+- 作者：@xixi_kawayi
+
+> 或许我真的应该休息一段时间了
+
+## 132. Apr 9, 2025 · 3:43 PM UTC · 1909995539086922094#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909995539086922094#m
+- 作者：@xixi_kawayi
+
+> 我不担心我赚不到钱
+> 盘是一直有的
+> 只要我带够足够的时间
+> 一定会轮到我的👿
+
+## 133. Apr 9, 2025 · 3:39 PM UTC · 1909994591371374682#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909994591371374682#m
+- 作者：@xixi_kawayi
+
+> 无所吊谓
+
+## 134. Apr 9, 2025 · 3:31 PM UTC · 1909992538884505846#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909992538884505846#m
+- 作者：@xixi_kawayi
+
+> Freedom！
+
+## 135. Apr 9, 2025 · 3:01 PM UTC · 1909984956371153368#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909984956371153368#m
+- 作者：@xixi_kawayi
+
+> 我觉得我求你们点赞评论
+> 是不是和强奸没什么区别
+> 所以这算不算区块链绑架play啊
+
+## 136. Apr 9, 2025 · 2:20 PM UTC · 1909974597191262325#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909974597191262325#m
+- 作者：@xixi_kawayi
+
+> 我也忍不住想盖帽，不过看到你盖了我感觉我不用盖了，前天暴跌的时候我就是看到你忍不住开了空单马上反手开多赚了不少🤣
+
+## 137. Apr 9, 2025 · 2:14 PM UTC · 1909973163099988037#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909973163099988037#m
+- 作者：@xixi_kawayi
+
+> 走你👿 $rfc 😇
+> 100u说到做到
+> gmgn.ai/sol/token/QXw2uGWZ_C…
+
+## 138. Apr 9, 2025 · 2:05 PM UTC · 1909970962533253501#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909970962533253501#m
+- 作者：@xixi_kawayi
+
+> 要不我盖个帽吧... $rfc
+> 看你们那么开心我很难受
+>  
+> 如果再拉我也开心
+> 我100u可以变200u
+> 如果跌了... 那正合我意😇👿
+
+## 139. Apr 9, 2025 · 1:39 PM UTC · 1909964440356737403#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909964440356737403#m
+- 作者：@xixi_kawayi
+
+> 有财相，福气相
+> 抓不住... 无解，释怀😌
+
+## 140. Apr 9, 2025 · 1:37 PM UTC · 1909963965209428437#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909963965209428437#m
+- 作者：@xixi_kawayi
+
+> 别焦虑... 这次 $rfc 我全程看戏
+> 几百k 1m 2m 甚至4m 都有人cx我上车
+> 哈基汐无动于衷...
+> 也挺玄学的，次次错过机会...
+> 我来crypto也是帕鲁命
+> 所以别难受了，晚安GN
+
+## 141. Apr 9, 2025 · 1:25 PM UTC · 1909960855632203804#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909960855632203804#m
+- 作者：@xixi_kawayi
+
+> 不如我来当总统叭👿同意的扣个1
+
+## 142. Apr 9, 2025 · 1:17 PM UTC · 1909958879708119540#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909958879708119540#m
+- 作者：@xixi_kawayi
+
+> 当年吹川普上台的人
+> 怎么不出来说话了
+> 那我问你！？👿😡😭
+> @realDonaldTrump @POTUS
+
+## 143. Apr 9, 2025 · 12:40 PM UTC · 1909949422177587706#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909949422177587706#m
+- 作者：@xixi_kawayi
+
+> 本命年真的不太平... 严重水逆...😭
+
+## 144. Apr 9, 2025 · 12:14 PM UTC · 1909942994536460647#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909942994536460647#m
+- 作者：@xixi_kawayi
+
+> 因为也没人在意，从今以后我爱发啥发啥，毕竟看透这傻逼地方了。你做恶但你能带别人赚钱就不重要，虚假的正义也没人会感谢你~ 骂多了就说你愤青穷韭菜，夸多了你就是大舔狗你就十恶不赦~🤤
+>  
+> 无所屌谓~ 以后我发推只是哄我自己以及喜欢我的人开心，等哪天累了，就离开了，等哪天又想来了，我再回来😈💙
+
+## 145. Apr 9, 2025 · 12:00 PM UTC · 1909939519450948054#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909939519450948054#m
+- 作者：@xixi_kawayi
+
+> 工具越来越多
+> 教程越多越来
+> KOL越来越卷
+> 是时候寻找下一个赛道了
+> 开摆，晚餐食堂2u🥰
+
+## 146. Apr 9, 2025 · 9:45 AM UTC · 1909905432581390497#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909905432581390497#m
+- 作者：@xixi_kawayi
+
+> 以后直接这样，我黑你
+> 我黑你黑的不对的话，你捶我
+> 好不好👿哈基cz @cz_binance
+
+## 147. Apr 9, 2025 · 9:42 AM UTC · 1909904789733089339#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909904789733089339#m
+- 作者：@xixi_kawayi
+
+> 既然这样可以把我解开嘛 @cz_binance 我当你面黑👿 你看看哈基一姐都关注我了，再看看你，说几句就拉黑了😡 @heyibinance 帮我艾特一下大表哥，厚礼蟹🫡
+
+## 148. Apr 9, 2025 · 9:24 AM UTC · 1909900184466890933#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909900184466890933#m
+- 作者：@xixi_kawayi
+
+> 其实是为了让你们看我做的封面...才花时间去写的推文😭为了一包醋包了一顿饺子是我了😈
+
+## 149. Apr 9, 2025 · 9:14 AM UTC · 1909897751728693379#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909897751728693379#m
+- 作者：@xixi_kawayi
+
+> 很久没抽奖了，抽 0.1SOL * 5份 PVP资金，三连推文+关注汐即可，用Easy3链上公证开奖❤️
+
+## 150. Apr 9, 2025 · 9:14 AM UTC · 1909897679821524996#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909897679821524996#m
+- 作者：@xixi_kawayi
+
+> x.com/i/article/190987343551…
+
+## 151. Apr 2, 2025 · 1:00 PM UTC · 1907417773518848354#m
+- 链接：https://twitter.com/xixi_kawayi/status/1907417773518848354#m
+- 作者：@xixi_kawayi
+
+> SOL曼波 | OKX悬崖上的哈基米战士
+>  
+> 2025年4月2日，哈基汐の第N+1次归零，这也是哈基汐与OKX(bit.ly/okx_xixi)的曼波故事，以下故事仅为哈基宇宙观虚构。🤓🫰🏻❤️
+>  
+> 哈基汐瘫在城中村出租屋的折叠椅上，盯着OKX Meme新币榜的“哈基米Pump”，耳边循环播放着赛马娘二创神曲「哈基曼波のJOJO之旅」——那是社区用AI合成的“梭哈进行曲”，歌词只剩下一句被电音扭曲的“曼波曼波”，像极了土狗K线抽搐的脉搏。This is true music ~
+>  
+> 三天前，当这个以赛马娘“东海帝王”蜂蜜水梗命名的哈基币横空出世时，哈基汐正缩在OKX的场外交易区，像诗歌剧一样碎碎念着“曼波曼波”，试图催眠自己接受流水审核的凌迟。
+>  
+> 卖家要求我证明“2万块是卖二手显卡而非肾”时，我甚至想截一张赛马娘国服停更的墓碑图：“看！这就是我为信仰充值的代价！”但最终只是卑微地P了张工资条，而哈基米的市值已在曼波战士们的狂欢中从20万市值窜到80万市值
+>  
+> 收到U的瞬间，哈基汐以曼波鱼翻滚的姿势扑向链上！
+>  
+> 提币时，OKX弹窗提醒“智能风控检测到异常交易”，差点对着屏幕喊出赛马娘二创经典台词：“哈基米！你这家伙……欧耶！”
+>  
+> 当SOL终于到账，K线却如被拔掉耳朵的马娘模型般诡异抽搐——刚冲进去的140万市值，在哈基汐膀胱告急的30秒里被尿成了一根-50%的瀑布。
+>  
+> 社区里，“曼波神教”正在举行赛博弥撒。管理员把头像P成诗歌剧的大头娃娃，用变声器尖叫：“回调？这叫曼波震荡！哈基米信徒要做钻石蹄！” 配图是赛马娘二创里东海帝王跳《迷你世界》的鬼畜动图。
+>  
+> 哈基汐颤抖着复制黏贴“曼波永恒”，却发现群里70%的消息都是同一个机器人用三种语言刷的“LFG”，剩下30%是韭菜们互喷“JEET曼波”和“TRUE曼波”——活像赛马娘论坛大战抽象二创党的复刻。
+>  
+> 凌晨两点，当哈基米Pump跌成“哈基碎”时，某个自称“赛马娘国服守墓人”的老哥突然在群里丢出AI重制的《翻车鱼之歌》：“曼波~曼波~V2重铸荣光！”配图是锁池合约地址，背景音乐混进了《孤高曼波》的唢呐版。
+>  
+> 哈基汐条件反射地转了0.01 SOL，转头就在链上浏览器看到项目方钱包秒提——那转账速度比国服赛马娘下架还利落。望着OKX账户里最后0.02 SOL，哈基汐点开“哈基米Pump” 社区置顶的二创视频。
+>  
+> 画面里，诗歌剧的大头娃娃正在交易所悬崖边蹦迪，弹幕飘过一行金色传说：“所有冲崖的曼波战士，都会在哈基米星重生！”突然，视频插入了《麦田守望者》的台词，但霍尔顿的红色猎人帽被P成了赛马娘的兽耳。
+>  
+> 但是原文是这样的：“不管怎样，我老是在想象，有那么一群小孩子在一大块麦田里做游戏。几千几万个小孩子，附近没有一个人——没有一个大人，我是说——除了我，我呢，就站在那混账的悬崖边。我的职务是在那儿守望，要是有那个孩子往悬崖边奔来，我就把他捉住——我是说孩子们都在狂奔，也不知道自己是在往哪儿跑，我得从什么地方出来，把他们捉住，我整天就干这样的事。我只想当个麦田里的守望者。我知道这有点异想天开，可我真正喜欢干的就是这个。我知道这不像话。”这是塞林格《麦田里的守望者》最后一段话，我觉得币圈也需要这么一个守望者，该由谁来做？当然是亏到退圈但又对这个行业仍然有感情的人。
+>  
+> 最后... 哈基汐忍不住笑出声，把仅剩下的0.02 SOL砸进某个叫“SOLの私人笑声”的土狗——毕竟，在OKX的曼波丛林里，当个边哭边笑的哈基米赌徒，总比当清醒的守望者有趣。
+>  
+> 此刻，某管理员正用AI将哈基汐的人生生成赛马娘新角色：“属性：归零の曼波鱼。必杀技：悬崖信仰之跃。台词：哈基米，你这家伙……再让我赌一波！
+>  
+> 最后致谢哈基OKX团队成员：
+>  
+> 哈基汐（韭菜本汐）—— @xixi_kawayi
+> 哈基海腾 ——  @Haiteng_okx
+> 哈基米粒儿 —— @mia_okx
+> 哈基Mercy —— @Mercy_okx
+> 哈基Lanng —— @Lanng_okx
+>  
+> 以及哈基技术平台：哈基OKX Web3钱包的哈基力的支持 @okxchinese @okx 希望可以获得2000U的故事哈基基金🤓🫰🏻❤️ 吼了，今晚就做这个梦了，晚安汐卡汐卡~
+
+## 152. Apr 9, 2025 · 3:47 AM UTC · 1909815294060904891#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909815294060904891#m
+- 作者：@xixi_kawayi
+
+> 能不能帮我把这个推文三连一下，抽到大奖我给你们发红包🧧👿主要是想让更多的人了解哈基文化🤤
+
+## 153. Apr 8, 2025 · 4:07 PM UTC · 1909639162678198531#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909639162678198531#m
+- 作者：@xixi_kawayi
+
+> 本来亏钱就没啥心情看币圈
+> 最后一点乐趣被你毁了
+> 不好好管你妹的机器人
+> 给真人限流@elonmusk 🤮
+
+## 154. Apr 8, 2025 · 3:53 PM UTC · 1909635806282891724#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909635806282891724#m
+- 作者：@xixi_kawayi
+
+> 看样子限流了
+> 那推特也没啥好玩的了
+> 本来就一个傻呗平台👋🏻
+> 推流算法和💩一样
+
+## 155. Apr 8, 2025 · 1:19 PM UTC · 1909597066676126180#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909597066676126180#m
+- 作者：@xixi_kawayi
+
+> 撸毛的话还有一个原因，这个是open ai 创始人sam联创的@ycombinator 领投，上一个项目arkm，填个邮箱就发1000刀空投，撸毛+省钱性价比拉满了
+>  
+> axiom.trade/@xixixi
+
+## 156. Apr 8, 2025 · 12:49 PM UTC · 1909589408384532864#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909589408384532864#m
+- 作者：@xixi_kawayi
+
+> 所以，到底什么是kol？
+
+## 157. Apr 8, 2025 · 12:29 PM UTC · 1909584382966612303#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909584382966612303#m
+- 作者：@xixi_kawayi
+
+> 我更相信(链上)数据
+> 至少比KOL的嘴靠谱
+
+## 158. Apr 8, 2025 · 12:20 PM UTC · 1909582098668904855#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909582098668904855#m
+- 作者：@xixi_kawayi
+
+> 最关键你能白嫖ct tracker，axiom的ct tracker 和 wuppx一个级别的，都是最快的（MS），自己部署这样的sol节点也要一个月400美元，去订阅也要150美元，速度这东西自己体验，说太多没意义
+
+## 159. Apr 8, 2025 · 12:18 PM UTC · 1909581526507176225#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909581526507176225#m
+- 作者：@xixi_kawayi
+
+> 就是你自己交易也会反u手续费，挺大方的，没用太长时间，后续看看比例，阶梯的，最低10%，最高25%，变向0.75%就是这样算的，能省点是一点
+>  
+> axiom.trade/@xixixi
+
+## 160. Apr 8, 2025 · 11:50 AM UTC · 1909574593888784601#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909574593888784601#m
+- 作者：@xixi_kawayi
+
+> 道高一尺，魔高一丈
+> 喜欢拉票的有福咯👿
+> 这毛都能"撸"真的想不到
+> bn确定没什么制裁手段么👿
+> 小何 @heyibinance @cz_binance
+
+## 161. Apr 8, 2025 · 11:47 AM UTC · 1909573883553784204#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909573883553784204#m
+- 作者：@xixi_kawayi
+
+> 这fy机器人一天不ban
+> 推特永无安宁之日
+> 有没有推特的平替社交工具
+> 最好是曝光不错的
+> 不要像x一样推文几天以后就没推流了
+> 好好写的内容都没人看
+> 只有发癫/搞抽象/赌狗/擦边有人看
+> 受够了这破软件 😅
+
+## 162. Apr 8, 2025 · 11:41 AM UTC · 1909572329132507160#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909572329132507160#m
+- 作者：@xixi_kawayi
+
+> Link：axiom.trade/@xixixi
+>  
+> 最近发现了一个新的 MEME 工具，可以试下，我不信kol说什么，我只看交易量（目前这个tool交易量占全市场接近一半，老外用的多，背后是Yc，正规军出来的）
+>  
+> 中文版本预计这几天上线，费率0.75%比起来平台低很多（非广子，纯属是觉得很好用，感谢 @faster100x @lucas_faster 安利❤️）
+>  
+> 体验下来无论是扫链、K 线加载，还是交易执行，速度都非常快，其他方面（可撸毛）：
+>  
+> 1.  有发币预期，通过交易或邀请好友可积累积分
+> 2. 背后有 Y Combinator 投资加持
+> 3. 手续费有阶梯优惠，交易量越大越便宜，最低可至 0.75%
+> 4. 前在 SOL 链上遥遥领先，交易量排名第一
+
+## 163. Apr 8, 2025 · 6:52 AM UTC · 1909499495546826971#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909499495546826971#m
+- 作者：@xixi_kawayi
+
+> 好的，从现在开始
+
+## 164. Apr 8, 2025 · 6:18 AM UTC · 1909490984972620235#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909490984972620235#m
+- 作者：@xixi_kawayi
+
+> 以后我也要装深沉，装大佬
+> 然后少发推和互动，少说话😭
+
+## 165. Apr 8, 2025 · 5:24 AM UTC · 1909477425224073255#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909477425224073255#m
+- 作者：@xixi_kawayi
+
+> 有什么好的解决方法吗
+> 我真的很想互动...
+> 好像不提那些关键词没事
+> 他们有AI筛选机制估计😢
+
+## 166. Apr 8, 2025 · 5:21 AM UTC · 1909476706664259826#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909476706664259826#m
+- 作者：@xixi_kawayi
+
+> 对不起，暂时先开蓝v回复了...
+> 机器人给我杀疯了啊
+> 没v的先忍忍吧😭日
+> 大概率是被限流了
+> 很多回复我不敢回了😭
+> 现在也在别人垃圾回复里面了
+> 休息一段时间
+
+## 167. Apr 8, 2025 · 2:57 AM UTC · 1909440436336574585#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909440436336574585#m
+- 作者：@xixi_kawayi
+
+> 不是...怎么又拉回去了😭
+
+## 168. Apr 7, 2025 · 2:59 PM UTC · 1909259638505369614#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909259638505369614#m
+- 作者：@xixi_kawayi
+
+> 曼波doro～😭
+
+## 169. Apr 7, 2025 · 2:26 PM UTC · 1909251373197369485#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909251373197369485#m
+- 作者：@xixi_kawayi
+
+> 为什么那么晚还在水推
+> 本身我工作不加班的
+> 客户单位加班我就得加班😭
+> 我恨药企...TMD那么晚还卷😈
+
+## 170. Apr 7, 2025 · 2:22 PM UTC · 1909250479680553164#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909250479680553164#m
+- 作者：@xixi_kawayi
+
+> 其实能次次错过大机会，然后做出错误的选择，然后从赚钱到亏钱，何尝不是一种水平呢。我不管，我就是区块链最牛逼的天才，能这样也是极致TOP不是么...
+
+## 171. Apr 7, 2025 · 2:01 PM UTC · 1909245039169204226#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909245039169204226#m
+- 作者：@xixi_kawayi
+
+> 怎么一空就大反弹，沃日你爹🥺
+
+## 172. Apr 7, 2025 · 10:58 AM UTC · 1909199157585399812#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909199157585399812#m
+- 作者：@xixi_kawayi
+
+> 还有救么... 😭累了💔感觉也没咋亏又多了好多... 其实一换算也就100sol多... 也就1万多u啊，踏马的。。。怎么换到现实中那么多钱👿好有幻灭感
+
+## 173. Apr 7, 2025 · 10:34 AM UTC · 1909193000191918309#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909193000191918309#m
+- 作者：@xixi_kawayi
+
+> 爱不是错过
+> 错的是爱过
+> 大家都没错
+> 但大家都错了
+> 至于其他的，都是数字
+> 和具象化的表达方式
+> 好了，我要去寻找夏天的气味了😇
+
+## 174. Apr 7, 2025 · 8:51 AM UTC · 1909167117196476717#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909167117196476717#m
+- 作者：@xixi_kawayi
+
+> 我觉得我这28.4K粉丝中有99%都是来看我笑话的😈
+> 我不信，真爱粉能不能点个赞😭
+
+## 175. Apr 7, 2025 · 8:45 AM UTC · 1909165720862425542#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909165720862425542#m
+- 作者：@xixi_kawayi
+
+> 草泥马怎么反弹了😭
+
+## 176. Apr 2, 2025 · 9:52 AM UTC · 1907370449354547431#m
+- 链接：https://twitter.com/xixi_kawayi/status/1907370449354547431#m
+- 作者：@xixi_kawayi
+
+> 前年我下定决心弄撸毛工作室，然后多号撸毛赛道快寄了...
+> 去年我下定决心运营账号，然后kol赛道卷到飞起，八仙过海，各显神通
+> 现在我定下决心开始接一些交易所的推广，... 今年又是我本命年，我真的很害怕😭
+
+## 177. Apr 7, 2025 · 7:31 AM UTC · 1909146994796564719#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909146994796564719#m
+- 作者：@xixi_kawayi
+
+> I just want to be happy 🙂
+
+## 178. Apr 7, 2025 · 6:42 AM UTC · 1909134625659920574#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909134625659920574#m
+- 作者：@xixi_kawayi
+
+> 小空一手，不告诉你们我开的啥
+> eth 500见 sol 50见 btc 5w见
+
+## 179. Apr 7, 2025 · 6:37 AM UTC · 1909133509752705514#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909133509752705514#m
+- 作者：@xixi_kawayi
+
+> 再跌我真要做空了😈
+
+## 180. Jul 21, 2024 · 2:31 PM UTC · 1815031907668935030#m
+- 链接：https://twitter.com/xixi_kawayi/status/1815031907668935030#m
+- 作者：@xixi_kawayi
+
+> 有没有可能，我不来币圈...我能过得更好
+>  
+> 而不是，因为我来了币圈，我才有钱消费...
+>  
+> 当然我不能和那些动辄A8A9的群友和推友比
+>  
+> 但至少我自己出去吃东西、简单的娱乐消费是没压力的...
+>  
+> 我是Web2打工供这个圈子消费的...
+>  
+> 多了币圈这些亏损消费以后...我反而消费降级了
+>  
+> 望周知，谢谢~
+
+## 181. Apr 7, 2025 · 5:10 AM UTC · 1909111573437874249#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909111573437874249#m
+- 作者：@xixi_kawayi
+
+> 狗庄能不能让我赚点，我真没钱玩了，谁天天给你们整活玩抽象啊😭我不是在逼你，我是在求你🥺让我吃个100x吧，吃一次就好😈
+>  
+> 让我狠狠炫耀一次，求你了，我也想让他们羡慕嫉妒恨 😈
+
+## 182. Apr 7, 2025 · 4:27 AM UTC · 1909100724631589117#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909100724631589117#m
+- 作者：@xixi_kawayi
+
+> 再跌我要报警了 @FBI 😭
+>  
+> 能不能给cz重新关回去啊，再给小v还有sun哥都双重质押了，这个憋佬仔出来后我日子就没好过... 先是meme链上没好日子了，现在交易所都没东西可以玩了😭真想让我做空啊... 草泥马
+>  
+> 能不能还给我链上行情👿
+
+## 183. Apr 7, 2025 · 4:22 AM UTC · 1909099401538400664#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909099401538400664#m
+- 作者：@xixi_kawayi
+
+> 不甘心，真的不甘心... 为什么🥶
+
+## 184. Apr 7, 2025 · 4:17 AM UTC · 1909098286843310473#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909098286843310473#m
+- 作者：@xixi_kawayi
+
+> 怎么每次都这样啊，NPC真的没有游戏体验啊，草泥马管理员能不能给我加点MOD，厚礼蟹😭
+
+## 185. Apr 7, 2025 · 4:12 AM UTC · 1909096964488352054#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909096964488352054#m
+- 作者：@xixi_kawayi
+
+> 合约关了😭
+
+## 186. Apr 7, 2025 · 3:50 AM UTC · 1909091450093973830#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909091450093973830#m
+- 作者：@xixi_kawayi
+
+> 踏马的没完了是吧 eth 我叼你妈
+
+## 187. Apr 7, 2025 · 1:57 AM UTC · 1909063061761335727#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909063061761335727#m
+- 作者：@xixi_kawayi
+
+> 所以至高无上的神啊，我主
+> 赐给哈基汐一次100x就好
+> 哪怕一次，从头吃到尾
+> 我就可以离开这个是非之地了😭
+> 哪怕是1w变100w也可以😈🥹
+
+## 188. Apr 7, 2025 · 1:44 AM UTC · 1909059619550531991#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909059619550531991#m
+- 作者：@xixi_kawayi
+
+> 要是我喜欢的人这样追我就好了
+> 我会感动到哭死，绝对会爆哭😭
+> 所以错的从来不是喜欢和被喜欢的
+> 而是爱过，爱上错的人，不爱对的人
+
+## 189. Apr 7, 2025 · 1:14 AM UTC · 1909052046084596033#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909052046084596033#m
+- 作者：@xixi_kawayi
+
+> 同意，所以我不去见，也不想去见
+> 因为太平易近人，恐惧、敬畏、尊重
+> 所以被关注和被拉黑还是值得炫耀的😈
+
+## 190. Apr 6, 2025 · 11:39 PM UTC · 1909028306902806586#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909028306902806586#m
+- 作者：@xixi_kawayi
+
+> 安心上班了😭
+
+## 191. Apr 6, 2025 · 11:31 PM UTC · 1909026180197748870#m
+- 链接：https://twitter.com/xixi_kawayi/status/1909026180197748870#m
+- 作者：@xixi_kawayi
+
+> 喜欢抄底，就有抄不完的底🙂
+
+## 192. Apr 6, 2025 · 4:24 PM UTC · 1908918715560911335#m
+- 链接：https://twitter.com/xixi_kawayi/status/1908918715560911335#m
+- 作者：@xixi_kawayi
+
+> INFP🌙
+
+## 193. Apr 6, 2025 · 3:18 PM UTC · 1908902031282299104#m
+- 链接：https://twitter.com/xixi_kawayi/status/1908902031282299104#m
+- 作者：@xixi_kawayi
+
+> 平易近人 恐惧 敬畏 尊重
+
+## 194. Dec 1, 2024 · 9:35 AM UTC · 1863154824059179147#m
+- 链接：https://twitter.com/xixi_kawayi/status/1863154824059179147#m
+- 作者：@xixi_kawayi
+
+> 我就像个坏脾气的小孩一样，把辛辛苦苦搭起来的积木一把推倒... 最后注定什么都得不到，但我不知道搭积木的意义是什么，可能只是好玩叭🤨就像发这条推文也是... 弄一个在Crypto无数不多很open的TG群聊也是...
+
+## 195. Apr 6, 2025 · 2:54 PM UTC · 1908895977949544854#m
+- 链接：https://twitter.com/xixi_kawayi/status/1908895977949544854#m
+- 作者：@xixi_kawayi
+
+> 看到有些KOL特地来香港面基小赵跟孙割，你们踏马前几个礼拜甚至有的昨天还在喷 @binance 跟 bnb chian 是垃圾链或孙哥是条狗，现在怎么都当祖宗在舔了，清明节已经过了都，这样舔几把很舒服吗，我相信 @cz_binance 是最舒服的，他只喜欢别人舔她，小黑子的声音一律静音。
+
+## 196. Apr 6, 2025 · 2:38 PM UTC · 1908892097887002944#m
+- 链接：https://twitter.com/xixi_kawayi/status/1908892097887002944#m
+- 作者：@xixi_kawayi
+
+> 其实我挺心疼给我点小铃铛的po
+> 我平均下来一天发10条推文以上...
+> 可能这也是虽然每天有几十人关注我
+> 也有几十人取关我的原因叭...
+> 话太密，情绪太多了，好敏感💔😈
+
+## 197. Apr 6, 2025 · 2:35 PM UTC · 1908891398897848653#m
+- 链接：https://twitter.com/xixi_kawayi/status/1908891398897848653#m
+- 作者：@xixi_kawayi
+
+> 好想被救赎
+> 所以到底想要什么
+> 我不知道，也许是钱，但也不是
+> 也许是放弃得到的，享受被人夸
+>  
+> 可能想要的从来没得到过吧
+> 或许也得到过（但不是完美的）
+> 我不接受，毕竟这不是理想化的
+> 好折磨... 想离开但又离不开的感觉
+> 到底在做什么诶一天天的
+
+## 198. Apr 6, 2025 · 2:00 PM UTC · 1908882521980289224#m
+- 链接：https://twitter.com/xixi_kawayi/status/1908882521980289224#m
+- 作者：@xixi_kawayi
+
+> Meme变得有点奇怪了
+> 币圈也变得有点奇怪了
+
+## 199. Apr 6, 2025 · 1:07 PM UTC · 1908869210924896590#m
+- 链接：https://twitter.com/xixi_kawayi/status/1908869210924896590#m
+- 作者：@xixi_kawayi
+
+> 再这样下去早晚会坏掉的... 都是疯子hh
+
+## 200. Apr 6, 2025 · 12:57 PM UTC · 1908866719139180719#m
+- 链接：https://twitter.com/xixi_kawayi/status/1908866719139180719#m
+- 作者：@xixi_kawayi
+
+> 我觉得你发癫没什么
+> 搞抽象也没什么
+> 至少你得发点乐子好玩的
+> 哪怕发裸照甚至性爱教程都还能接受
+> 但别搞猎奇和生理不适啊...
+> 真的san值狂掉...还影响推流
+> 现在我刷推荐好多地雷zc/各种奇怪play，真的好ex啊

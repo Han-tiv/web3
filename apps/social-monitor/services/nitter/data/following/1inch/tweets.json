@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1137038394503114753",
+    "screen_name": "1inch",
+    "name": "1inch",
+    "description": "Simple experience. Smart execution. Trading built to scale. It's time to bring the world onchain.",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1973196084802658304/7MgQxNVU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1137038394503114753/1759281583",
+    "followers_count": 1351163,
+    "friends_count": 363,
+    "statuses_count": 10395,
+    "favourites_count": 9909,
+    "listed_count": 4282,
+    "location": "Cross-Chain",
+    "website": "https://t.co/NvUcIqCqfv",
+    "birthdate": null,
+    "verified_type": "Business",
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2019-06-08 00:47:33 +08:00",
+    "url": "https://twitter.com/1inch",
+    "rest_id": "1137038394503114753"
+  },
+  "tweets": [
+    {
+      "id": "1973194015240757358#m",
+      "content": "DeFi has a new home\n\n1inch.com\n\nFresh look. Smoother experience. Still the best swap rates.\n\nWe move forward as 1”",
+      "timestamp": "Oct 1, 2025 · 1:11 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973194015240757358#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1980335626605195423#m",
+      "content": "DeFi projects need to work together on security - or they’re leaving the door open for state-sponsored hackers.\n\n1inch CLO Orest Gavriliak @OrestGavryliak  breaks down the situation in this month’s Cyber Defense Magazine.  \n\nCheck out the link to download 👇\n\ncyberdefensemagazine.tradepu…",
+      "timestamp": "Oct 20, 2025 · 6:09 PM UTC",
+      "url": "https://twitter.com/1inch/status/1980335626605195423#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1980283486255927604#m",
+      "content": "Learn more 👀\n\nblog.1inch.com/1inch-busines…",
+      "timestamp": "Oct 20, 2025 · 2:42 PM UTC",
+      "url": "https://twitter.com/1inch/status/1980283486255927604#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1980283483508326851#m",
+      "content": "Meet 1inch Business - the new home of 1inch APIs, and our services for partners and institutions.\n\nThe complete Web3 stack meets enterprise-grade compliance, scalability and management - with streamlined pricing and one integration to access all Swap APIs.",
+      "timestamp": "Oct 20, 2025 · 2:42 PM UTC",
+      "url": "https://twitter.com/1inch/status/1980283483508326851#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1980248204877971882#m",
+      "content": "*deep thought about crypto*",
+      "timestamp": "Oct 20, 2025 · 12:22 PM UTC",
+      "url": "https://twitter.com/1inch/status/1980248204877971882#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1980233534527746406#m",
+      "content": "Another dominant performance from Alina Dalaslan at @OktagonOfficial 78.\n\nStill unbeaten — full control from bell to bell 👊\n\nProud to have her in the 1inch corner.\n\nFollow her journey 👉 nstagram.com/alinadalaslan",
+      "timestamp": "Oct 20, 2025 · 11:24 AM UTC",
+      "url": "https://twitter.com/1inch/status/1980233534527746406#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1980216210991239604#m",
+      "content": "While a major AWS outage is disrupting much of the internet today, 1inch services remain fully operational.\n\nDecentralization = resilience.",
+      "timestamp": "Oct 20, 2025 · 10:15 AM UTC",
+      "url": "https://twitter.com/1inch/status/1980216210991239604#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1979548022817329565#m",
+      "content": "Fight week. Alina Dalaslan is back in the cage at @OktagonOfficial 78 in Frankfurt 🥊\n\nComposed. Sharp. Powerful.\n\nLet’s get it 👊\n\n👉 instagram.com/alinadalaslan",
+      "timestamp": "Oct 18, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/1inch/status/1979548022817329565#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1979168379131904297#m",
+      "content": "Here’s how gas settings actually work, how to use them, and what changes under the hood. \n\nblog.1inch.com/market-and-ag…",
+      "timestamp": "Oct 17, 2025 · 12:51 PM UTC",
+      "url": "https://twitter.com/1inch/status/1979168379131904297#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1979168376921411917#m",
+      "content": "“Aggressive” mode in 1inch automatically adjusts gas limits and priority fees to push your transaction through even when mempools are jammed.\n\nIt’s not about overpaying - it’s about smooth execution.",
+      "timestamp": "Oct 17, 2025 · 12:51 PM UTC",
+      "url": "https://twitter.com/1inch/status/1979168376921411917#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1979168375243743588#m",
+      "content": "You may just click on “Market” when placing a swap order.\n\nBut gas settings determine whether your swap gets confirmed fast - or might get stuck during network spikes.",
+      "timestamp": "Oct 17, 2025 · 12:51 PM UTC",
+      "url": "https://twitter.com/1inch/status/1979168375243743588#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1979136826230149159#m",
+      "content": "Great watch as always 👇",
+      "timestamp": "Oct 17, 2025 · 10:46 AM UTC",
+      "url": "https://twitter.com/1inch/status/1979136826230149159#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1978489768221495355#m",
+      "content": "Run crypto from your pocket 📲 1inch.com/wallet",
+      "timestamp": "Oct 15, 2025 · 3:54 PM UTC",
+      "url": "https://twitter.com/1inch/status/1978489768221495355#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1978489662474756212#m",
+      "content": "Your favourite crypto app got a fresh design - that makes it even easier to:\n\n🔀 swap at the best rates\n\n📋 track activity at a glance\n\n⏱️ save time with transaction templates\n\n…and much more.",
+      "timestamp": "Oct 15, 2025 · 3:54 PM UTC",
+      "url": "https://twitter.com/1inch/status/1978489662474756212#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1978058433484947495#m",
+      "content": "“They don’t want to miss the train. Our tech empowers the entire financial industry.”\n\nRead his full take on the future of DeFi 👇\n\nblog.1inch.com/sergej-kunz-o…",
+      "timestamp": "Oct 14, 2025 · 11:20 AM UTC",
+      "url": "https://twitter.com/1inch/status/1978058433484947495#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1978058431631098012#m",
+      "content": "The line between DeFi and traditional finance is fading.\n\n1inch is already powering this shift - our non-custodial tech supports swaps for Binance, Coinbase, Ledger, MetaMask, Trust Wallet and more.",
+      "timestamp": "Oct 14, 2025 · 11:20 AM UTC",
+      "url": "https://twitter.com/1inch/status/1978058431631098012#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1978058428468597000#m",
+      "content": "At @token2049 , 1inch co-founder Sergej Kunz shared his vision for the next phase of crypto:\n\nCEXes will turn into frontends for DeFi - as the industry moves fully on-chain.",
+      "timestamp": "Oct 14, 2025 · 11:20 AM UTC",
+      "url": "https://twitter.com/1inch/status/1978058428468597000#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1977736084806369438#m",
+      "content": "🚨 DuneCon speaker confirmed, here we go!\n\n@k06a, Co-Founder at @1inch.\n\nStarted coding at 12, built the first 1inch prototype during a 2019 hackathon, and now shaping how users navigate liquidity across chains.\n\nSee you on stage at #DuneCon25 in Buenos Aires on Nov 19",
+      "timestamp": "Oct 13, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/1inch/status/1977736084806369438#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1976670808891138102#m",
+      "content": "DeFi moves fast, but compliance moves slow.\n\n@dreamerdh, CIO at @1inch, will speak at DSS about 1inch’s journey through ISO27001 and SOC2 certification, sharing how the team balanced startup agility with enterprise-grade security and built a culture of disciplined innovation.",
+      "timestamp": "Oct 10, 2025 · 3:27 PM UTC",
+      "url": "https://twitter.com/1inch/status/1976670808891138102#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1977706407064453155#m",
+      "content": "GM anyways",
+      "timestamp": "Oct 13, 2025 · 12:02 PM UTC",
+      "url": "https://twitter.com/1inch/status/1977706407064453155#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1977676473780912511#m",
+      "content": "Our second episode of the Yellow Media podcast.\n\n@1inch Co-Founder @deacix joins us to talk about the future of DeFi, from cross-chain swaps and MEV protection to UX that makes Web3 feel seamless.\n\nWatch the full episode now on YouTube ⬇️",
+      "timestamp": "Oct 13, 2025 · 10:03 AM UTC",
+      "url": "https://twitter.com/1inch/status/1977676473780912511#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1976925101078561060#m",
+      "content": "When $19B is liquidated on the market, infrastructure is tested. Yet everything still works.\n\nCrypto endures, and DeFi remains the future.\n\n1inch seamlessly processed $1.23B in swap volume in 24 hours.\n\nDay and night, we are ready.",
+      "timestamp": "Oct 11, 2025 · 8:17 AM UTC",
+      "url": "https://twitter.com/1inch/status/1976925101078561060#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1976634863563481169#m",
+      "content": "Big thanks to @gunnarcamner, @hominh95, @sterwong, @francescoswiss and @kaiynne for sharing their thoughts 🤝",
+      "timestamp": "Oct 10, 2025 · 1:04 PM UTC",
+      "url": "https://twitter.com/1inch/status/1976634863563481169#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1976632336101064732#m",
+      "content": "We unite DeFi into one seamless ecosystem.\n\nRead the full September digest 👇\n\n🔗 blog.1inch.com/1inch-in-sept…",
+      "timestamp": "Oct 10, 2025 · 12:54 PM UTC",
+      "url": "https://twitter.com/1inch/status/1976632336101064732#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1976632333890699524#m",
+      "content": "–  @BarterDeFi  joined 1inch resolvers to boost intent-based swaps — faster and more efficient trades for all.\n\n– @Thorwallet  using 1inch API\n\n– @wallet integration\n\n– 1inch joined @BlockchainAssn ⚡️",
+      "timestamp": "Oct 10, 2025 · 12:54 PM UTC",
+      "url": "https://twitter.com/1inch/status/1976632333890699524#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1976632331780698534#m",
+      "content": "The 1inch Swap API now supports RWAs — making tokenized assets as easy to swap as crypto.\n\nLiquidity was the blocker. We solved it.\n\nRWAs are now live via the 1inch dApp, Wallet (where eligible), and 1inch Business API.\n\nIntegration powered by @OndoFinance 🔗",
+      "timestamp": "Oct 10, 2025 · 12:54 PM UTC",
+      "url": "https://twitter.com/1inch/status/1976632331780698534#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1976632328329080835#m",
+      "content": "September was HUGE for 1inch 👀\n\nSupport for tokenized real-world assets, a new partner, and more integrations shaping the next phase of DeFi ↓",
+      "timestamp": "Oct 10, 2025 · 12:54 PM UTC",
+      "url": "https://twitter.com/1inch/status/1976632328329080835#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1976155225951285287#m",
+      "content": "We spent more time on panels at #Token2049\n\nAt @1inch's Unite DeFi, our Head of Growth @SrWillWill joined voices from @Dune, @Kiln_finance, @BackedFi & @TheBlock__ to discuss how tokenized assets are rewriting the playbook for finance.\n\nGoated panel = RWAs bridging TradFi & DeFi",
+      "timestamp": "Oct 9, 2025 · 5:18 AM UTC",
+      "url": "https://twitter.com/1inch/status/1976155225951285287#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1976591285151580440#m",
+      "content": "One simple question for the panelists at UniteDeFi:\n\nwhat does Unite DeFi mean to them?",
+      "timestamp": "Oct 10, 2025 · 10:11 AM UTC",
+      "url": "https://twitter.com/1inch/status/1976591285151580440#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1976239974258475385#m",
+      "content": "Swap, track, research and more - 1inch.com is the complete new home for your DeFi strategy.\n\nFrom Pro to Portfolio, we’ve rounded up the highlights for you in this handy guide.\n\nWhatever you do with DeFi, remember - we move forward as 1”\n\nblog.1inch.com/1inch-dapp-wh…",
+      "timestamp": "Oct 9, 2025 · 10:55 AM UTC",
+      "url": "https://twitter.com/1inch/status/1976239974258475385#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1976205865871954271#m",
+      "content": "Hey hackers, ready to build?\n\n@1inch just dropped a $10,000 bounty 💸\n\n📚 Details in the Hacker Manual.\nStill not applied? Go fix that 👇🏻",
+      "timestamp": "Oct 9, 2025 · 8:39 AM UTC",
+      "url": "https://twitter.com/1inch/status/1976205865871954271#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1976206782205661540#m",
+      "content": "Wonderful news! Congrats, @coinbase 😎",
+      "timestamp": "Oct 9, 2025 · 8:43 AM UTC",
+      "url": "https://twitter.com/1inch/status/1976206782205661540#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1975913686385705015#m",
+      "content": "Simplify scale\n\nBuild with 1inch Business\n\nbusiness.1inch.com",
+      "timestamp": "Oct 8, 2025 · 1:18 PM UTC",
+      "url": "https://twitter.com/1inch/status/1975913686385705015#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1975913683089052020#m",
+      "content": "Perform at scale\n\nwith enterprise-grade reliability, security and functionality.\n\n99.99% uptime\n\nsub-100ms latency\n\nSSO, multi-user management and more",
+      "timestamp": "Oct 8, 2025 · 1:18 PM UTC",
+      "url": "https://twitter.com/1inch/status/1975913683089052020#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1975913680069144662#m",
+      "content": "Integrate simply\n\nwith every API included in all standard plans - and one Swap product to access all endpoints.\n\nRedesigned portal\n\nClearer interface & navigation\n\nNo interruption for existing users",
+      "timestamp": "Oct 8, 2025 · 1:18 PM UTC",
+      "url": "https://twitter.com/1inch/status/1975913680069144662#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1975913676642382234#m",
+      "content": "Introducing 1inch Business:\n\nthe new home for developers and business users in Web3.\n\nIntegrate the tech that powers DeFi with efficient solutions that perform at scale.\n\nClear. Complete. Enterprise-ready.\n\nFind out more below ⏬",
+      "timestamp": "Oct 8, 2025 · 1:18 PM UTC",
+      "url": "https://twitter.com/1inch/status/1975913676642382234#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1975887900240720137#m",
+      "content": "THEY SAID 1INCH COULDN’T DO IT.\nBut they DID. A TOTAL TRANSFORMATION.\nNo more cartoons. No more gimmicks.\nJust ONE — strong, clean, POWERFUL.\nI love it. REMINDS ME OF MY OWN WORK.\nCongrats to the entire team and ME. PREVIOUS ADMINISTRATION DIDN’T HAVE ANY INCHES AT ALL.\n\n– some guy",
+      "timestamp": "Oct 8, 2025 · 11:36 AM UTC",
+      "url": "https://twitter.com/1inch/status/1975887900240720137#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1975847776304160959#m",
+      "content": "Get the latest numbers on Dune  👀\n\ndune.com/1inch/main",
+      "timestamp": "Oct 8, 2025 · 8:56 AM UTC",
+      "url": "https://twitter.com/1inch/status/1975847776304160959#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1975847185184071969#m",
+      "content": "$500B routed via 1inch on Ethereum.\n\nA major milestone — and only halfway to $1T.\n\nWe move forward as 1”",
+      "timestamp": "Oct 8, 2025 · 8:54 AM UTC",
+      "url": "https://twitter.com/1inch/status/1975847185184071969#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1975590404041887982#m",
+      "content": "ICYMI - we revealed the new 1inch brand at Token2049.\n\nCheck out the reaction at the booth…",
+      "timestamp": "Oct 7, 2025 · 3:53 PM UTC",
+      "url": "https://twitter.com/1inch/status/1975590404041887982#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1975530153485717622#m",
+      "content": "Simple means smart\n\nSwap with 1inch\n\n1inch.com/swap",
+      "timestamp": "Oct 7, 2025 · 11:54 AM UTC",
+      "url": "https://twitter.com/1inch/status/1975530153485717622#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1975530151107813671#m",
+      "content": "Swap smarter –\nwith under-the-hood tech to speed up and secure your trades:\n\n▪️ Automatic native token wrapping\n▪️ Intent-based architecture\n▪️ MEV protection built in\n\nLearn more\n\nblog.1inch.com/swap-native-t…",
+      "timestamp": "Oct 7, 2025 · 11:54 AM UTC",
+      "url": "https://twitter.com/1inch/status/1975530151107813671#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1975530147291037924#m",
+      "content": "Swap simpler –\nwith a shorter pick & confirmation flow that still keeps your assets safe:\n\n▪️ Token details on hover\n▪️ Swap value shortcuts\n▪️ One-step signing",
+      "timestamp": "Oct 7, 2025 · 11:54 AM UTC",
+      "url": "https://twitter.com/1inch/status/1975530147291037924#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1975530143402893641#m",
+      "content": "1inch.com isn’t just a new look.\n\nSwap in a smoother, more intuitive interface - and you’ll find it even easier to get the best rates on and across chains.\n\nHow? ⏬",
+      "timestamp": "Oct 7, 2025 · 11:54 AM UTC",
+      "url": "https://twitter.com/1inch/status/1975530143402893641#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1975523168275099924#m",
+      "content": "A day of panels, keynotes — and a lot of energy.\nCatch the vibe from Unite DeFi ⬛️\n\nBig thanks to our friends @infinex, @build_on_bob & @bitgetwallet ❤️",
+      "timestamp": "Oct 7, 2025 · 11:26 AM UTC",
+      "url": "https://twitter.com/1inch/status/1975523168275099924#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1975153102715244828#m",
+      "content": "Give some financial advice without giving financial advice.",
+      "timestamp": "Oct 6, 2025 · 10:56 AM UTC",
+      "url": "https://twitter.com/1inch/status/1975153102715244828#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1974133110226002320#m",
+      "content": "Order control\n\nUse 1inch.com/pro",
+      "timestamp": "Oct 3, 2025 · 3:23 PM UTC",
+      "url": "https://twitter.com/1inch/status/1974133110226002320#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1974133107222851665#m",
+      "content": "Take control -\n\nwith the choice of Market or Limit orders, detailed data and flexible configuration.\n\n▪️TradingView charts\n\n▪️Token pair watchlist\n\n▪️Market trade tracker",
+      "timestamp": "Oct 3, 2025 · 3:23 PM UTC",
+      "url": "https://twitter.com/1inch/status/1974133107222851665#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1974133104521720077#m",
+      "content": "Order efficiently -\n\nwith an overhauled flow that removes distractions and focuses on execution\n\n▪️Parallel buy-sell forms\n\n▪️Order value shortcuts\n\n▪️Straight-to-signing confirmation",
+      "timestamp": "Oct 3, 2025 · 3:23 PM UTC",
+      "url": "https://twitter.com/1inch/status/1974133104521720077#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1974133101262770367#m",
+      "content": "Welcome to 1inch Pro.\n\nSelf-custody meets precise order control \nin the ultimate toolkit for serious DeFi users.\n\nGet the highlights below - or find out more on our blog:\n\nblog.1inch.com/trading-with-…",
+      "timestamp": "Oct 3, 2025 · 3:23 PM UTC",
+      "url": "https://twitter.com/1inch/status/1974133101262770367#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1974014854953361608#m",
+      "content": "1",
+      "timestamp": "Oct 3, 2025 · 7:33 AM UTC",
+      "url": "https://twitter.com/1inch/status/1974014854953361608#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973683467146985664#m",
+      "content": "Unite DeFi: done, but never over.\n\nThe best minds in DeFi brought us bold ideas, and an energy you could feel in every corner of @Artscience.\n\nNow the night belongs to Become 1 — time to sprinkle DeFi with a little champagne. 🥂🔥\n\nAnd remember: we move forward as 1”",
+      "timestamp": "Oct 2, 2025 · 9:36 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973683467146985664#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973673900451254632#m",
+      "content": "ok you're all busy right now we got it",
+      "timestamp": "Oct 2, 2025 · 8:58 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973673900451254632#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973668757076885897#m",
+      "content": "yes",
+      "timestamp": "Oct 2, 2025 · 8:37 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973668757076885897#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973667860011688380#m",
+      "content": "💆‍♂️take a moment to meditate💆‍♀️",
+      "timestamp": "Oct 2, 2025 · 8:34 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973667860011688380#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973667157230887061#m",
+      "content": "Use the replies under this tweet to share how you’re having a great time at UniteDefi 👇",
+      "timestamp": "Oct 2, 2025 · 8:31 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973667157230887061#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973666001503002799#m",
+      "content": "1inch event is a vibe @1inch, wallet is smooth stuff as well",
+      "timestamp": "Oct 2, 2025 · 8:26 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973666001503002799#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973666332618138006#m",
+      "content": "nice",
+      "timestamp": "Oct 2, 2025 · 8:28 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973666332618138006#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973662402291048535#m",
+      "content": "They said WHAT?!\n\nCatch the vibe at Unite DeFi ♥️",
+      "timestamp": "Oct 2, 2025 · 8:12 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973662402291048535#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973625310307651917#m",
+      "content": "Thought we were done with news? Nope. \n\nCatch 1inch co-founder Sergej Kunz @deacix on the Unite DeFi stage at 14:00.\n\nWhat will he announce? Sorry - no spoilers.",
+      "timestamp": "Oct 2, 2025 · 5:45 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973625310307651917#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973618656165703734#m",
+      "content": "Coinbase now uses the 1inch Swap API.\n\nThat’s a massive new audience for decentralized swaps - and the tech that’s scaling DeFi.\n\nTop rates. Massive liquidity. True self-custody.\n\nFind out more 👀 blog.1inch.com/1inch-coinbas…",
+      "timestamp": "Oct 2, 2025 · 5:18 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973618656165703734#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973553889443193330#m",
+      "content": "And tonight - don’t forget Become 1. Another legendary 1inch party.\n\nOct 2 · 20:00–01:00 · ArtScience Museum\n\nTwo floors. Web3’s brightest stars. A night to remember.\n\nBig up to @infinex + @arkham  for helping us bring the vibes.\n\n🔗 luma.com/become1",
+      "timestamp": "Oct 2, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973553889443193330#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973553885072539763#m",
+      "content": "Or cosy up to our Fireside Chat at 14:25\n\nBuilding DeFi: Parallel Paths, Shared Vision\n\nBuilding through cycles, aligning communities & onboarding the next wave.\n\nSpeakers: @deacix (1inch), @kaiynne (Infinex) \nModerator: @DominicGCox (1inch)",
+      "timestamp": "Oct 2, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973553885072539763#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973553879947043044#m",
+      "content": "Taking stock?\n\nGo to Real-World Assets (RWA) – The Institutional Gateway at 10:40\n\nTokenized T-bills, real estate, private credit & commodities. Focus: MENA & Asia.\n\nSpeakers: Roberto Klein, co-founder at Backed, @hagaetc, @JamieElky, @laszlo__szabo\n\nModerator: Gabriel Saunders (The Block)",
+      "timestamp": "Oct 2, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973553879947043044#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973553876503609440#m",
+      "content": "Feeling fluid?\n\nSlip over to Liquidity Wars – Incentives, Composability & Collaboration at 11:15\n\nFrom staking to liquidity layers — aligning incentives across ecosystems.\n\nSpeakers: @hilmarxo, @nihal_maunder, @ChiefReindeer, @alexeiZamyatin\n\nModerator: @daosasha (1inch)",
+      "timestamp": "Oct 2, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973553876503609440#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973553872619663710#m",
+      "content": "Seek protection?\n\nCatch Building Safe – Security, Wallets & Responsible Growth at 11:50\n\nProtecting institutional capital at scale.\n\nSpeakers: @FrancoisRochet (Ledger), @eowynchen (Trust Wallet), @hominh95 (Coin98), @gunnarcamner  (Coinbase)\n\nModerator: @francescoswiss (Consensys)",
+      "timestamp": "Oct 2, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973553872619663710#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973553868152950995#m",
+      "content": "Crave connection?\n\nHit up Expanding Horizons – Aggregation, Interoperability & Cross-Chain Liquidity, at 13:25\n\nWith @deacix (1inch), @sandeepnailwal (Polygon/Sentient), @ericturnr  (Messari), @Psalom (Symbiotic), @sterwong (Crypto.com)\n\nModerator: @therealkartik (ETHGlobal)",
+      "timestamp": "Oct 2, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973553868152950995#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973553864407191614#m",
+      "content": "Want big names?\n\nCheck out Pioneer Insights – A Conversation with DeFi OGs, at 15:00\n\nDAOs, governance & the road to mass adoption.\n\nSpeakers: @k06a (1inch), @StaniKulechov (Aave), @kaiynne (Infinex), @gluk64 (zkSync Foundation)\n\nModerator: @daosasha (1inch)",
+      "timestamp": "Oct 2, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973553864407191614#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973553860745863410#m",
+      "content": "Top of the don’t-miss list: the keynote from 1inch Co-Founder Sergej Kunz @deacix.  Where you can expect *even more* epic news.  \n\nThat’s right. It wasn’t just 1inch.com.  There’s more…",
+      "timestamp": "Oct 2, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973553860745863410#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973553857926975722#m",
+      "content": "Unite DeFi is here. 🚀\n\nYesterday - @deacix Sergej Kunz revealed our new vision for the future of finance.\n\nToday, join us at @ArtSciMuseum to explore the details - at panels, keynotes, conversations - with our friends @infinex @build_on_bob & @bitgetwallet\n\nWhich will you join? 👇",
+      "timestamp": "Oct 2, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973553857926975722#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973344832535011677#m",
+      "content": "Today, at @token2049 , 1inch co-founder @deacix revealed our new vision for the future of finance. And this is just the start.\n\nJoin us tomorrow at Unite DeFi - the first dedicated 1inch conference - and help shape the decentralized future.",
+      "timestamp": "Oct 1, 2025 · 11:10 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973344832535011677#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973311929243644382#m",
+      "content": "Token, that was epic.\n\nAnd tomorrow, we’ve got more.\n\nJoin us at Unite DeFi - the first dedicated 1inch conference - and help shape the decentralized future.\n\nFrom 10AM. 2 October. The Lotus @ArtSciMuseum.\n\nWith @infinex @build_on_bob & @bitgetwallet\n\nluma.com/unitedefi",
+      "timestamp": "Oct 1, 2025 · 9:00 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973311929243644382#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973299680193978557#m",
+      "content": "1inch.com is now officially out in the world.\n\nAnd like Sergej @deacix says - this is just the start.\n\nWe move forward as 1”",
+      "timestamp": "Oct 1, 2025 · 8:11 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973299680193978557#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973281730711711809#m",
+      "content": "Good design isn’t just aesthetics.\n\nIt helps us think clearly - and work effectively.\n\nThe new 1inch brand makes it simpler and more satisfying to use our products, so you can focus on building your financial future.\n\nCheck it out in real life 👀 1inch.com",
+      "timestamp": "Oct 1, 2025 · 7:00 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973281730711711809#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973232653861085671#m",
+      "content": "At Token 2049?\n\nYou’ve got 30 minutes to get to the TON stage.\n\n1inch co-founder Sergej Kunz @deacix is about to define a new era.\n\n12:15 Singapore time.\n\nGo!",
+      "timestamp": "Oct 1, 2025 · 3:45 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973232653861085671#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973194026850377986#m",
+      "content": "You don’t need to take ANY action.\n\nScammers and bad actors often try to take advantage of moments like this. From now on, always use 1inch.com.\n\n1inch will not contact you and ask you to do anything based on this update. If you have any doubts, contact 1inch Support.\n\nRemember, don’t trust - verify.\n\nlocalhost:8080/1inch/status/197305524…",
+      "timestamp": "Oct 1, 2025 · 1:11 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973194026850377986#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973194022601834923#m",
+      "content": "Want to know more?\n\nOur co-founder Sergej Kunz @deacix will explain soon at Token2049.  And you can find more information on our our blog:\n\nblog.1inch.com/1inch-rebrand",
+      "timestamp": "Oct 1, 2025 · 1:11 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973194022601834923#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973194020571722219#m",
+      "content": "Since day one - 1inch has worked to unite DeFi\n\nWe created the first DEX aggregator\n\nWe replaced bridges with secure cross-chain swaps\n\nWe built the infra that powers the industry\n\nNow we’re delivering one ecosystem that will unlock financial freedom for everyone.",
+      "timestamp": "Oct 1, 2025 · 1:11 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973194020571722219#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973194018080313535#m",
+      "content": "The 1inch logo and our brand identity have been refreshed.\n\nYou’ll see icons and visuals change across every 1inch product.\n\nAnd you’ll find a smoother, more intuitive experience everywhere.",
+      "timestamp": "Oct 1, 2025 · 1:11 AM UTC",
+      "url": "https://twitter.com/1inch/status/1973194018080313535#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973099888779972803#m",
+      "content": "👋 Hey – just a reminder.\n\nOur friends @iSafePal  offer swaps via the 1inch Swap API.\n\nSo their users get:\n\n🛡 MEV protection\n🧾 Zero gas fees\n🌊 Massive liquidity\n\nThe future of DeFi is built on integration. Build it with 1inch ⚙️ 1inch.dev",
+      "timestamp": "Sep 30, 2025 · 6:57 PM UTC",
+      "url": "https://twitter.com/1inch/status/1973099888779972803#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973055244637794642#m",
+      "content": "Tomorrow, 1inch is making an announcement. You won’t need to take any action.\n\nIf anyone contacts you directly and tells you to do something in any 1inch product - reach out to 1inch Support: help.1inch.io/en/\n\nRemember - don’t trust, verify.",
+      "timestamp": "Sep 30, 2025 · 4:00 PM UTC",
+      "url": "https://twitter.com/1inch/status/1973055244637794642#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973043262400114766#m",
+      "content": "Building is all about process. Ship, optimize, repeat. \n\nBut sometimes, you get to launch something big - and define the path ahead.\n\nTomorrow is one of those moments.  \n\n1 October, Token 2049, the Ton stage. 12:15 Singapore time.  I’ll see you there.  \n\nasia.token2049.com/agenda",
+      "timestamp": "Sep 30, 2025 · 3:12 PM UTC",
+      "url": "https://twitter.com/1inch/status/1973043262400114766#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1973034696888955089#m",
+      "content": "And once again, 1inch co-founder @k06a took the stage  — this time at Multichain Day, diving into vaults, aggregation, and why composability might be the only thing that truly scales DeFi beyond the hype.\n\nHe was joined by Frondoto (Head of BD, @beefyfinance), Shivam Chopra (Founder, @dzap_io), Michael Ho (Co-Founder & CBO, @domaprotocol), and Claude Donzé (Principal, @greenfield_cap) for a sharp exchange of ideas.",
+      "timestamp": "Sep 30, 2025 · 2:38 PM UTC",
+      "url": "https://twitter.com/1inch/status/1973034696888955089#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1972996925801820267#m",
+      "content": "1inch co-founder @k06a joined a fireside chat with Wee Howe, CEO @TokkaLabs, at DeFi x RWA: “The Future of Flow: From DeFi Primitives to RWAs.”\n\nA solid exchange of views on where this space is heading.",
+      "timestamp": "Sep 30, 2025 · 12:08 PM UTC",
+      "url": "https://twitter.com/1inch/status/1972996925801820267#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1972954568658153813#m",
+      "content": "Congrats guys! 🚀",
+      "timestamp": "Sep 30, 2025 · 9:19 AM UTC",
+      "url": "https://twitter.com/1inch/status/1972954568658153813#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1972687458199384229#m",
+      "content": "Work hard, degen harder.\n\nAfter Unite DeFi, the real fun starts: Become 1  🚀 - another legendary 1inch party.\n\nluma.com/become1\n\nOct 2 · 20:00–01:00 · ArtScience Museum\n\nTwo floors. Web3’s brightest stars. A night to remember.  Big up to @infinex + @arkham for helping us bring the vibes.",
+      "timestamp": "Sep 29, 2025 · 3:38 PM UTC",
+      "url": "https://twitter.com/1inch/status/1972687458199384229#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1972304918544580618#m",
+      "content": "Use of 1inch APIs ($1.5K total):\n\n😆 Nakal (@Yagneshh28, @mohan_kavin)\n\n🛰 Singularity (@mBinCrypto, @akshasolapurkar, @0xpratth)\n\n⚙ d8n (@ReactLakshya, @HarshitNay80531, @Siddhartha37648)",
+      "timestamp": "Sep 28, 2025 · 2:18 PM UTC",
+      "url": "https://twitter.com/1inch/status/1972304918544580618#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1972304915495285016#m",
+      "content": "Extend Limit Order Protocol ($6.5K total):\n\n🥇 DeFiDuck (@rishad0x3) \n\n🥈 CrossYield (@Okayrohannn) \n\n🥉 Tzunami (@0xholmesdev, @notarkoroy, @ayashtwtt, @Soubhag24825728, @RoshanKhan75906)",
+      "timestamp": "Sep 28, 2025 · 2:18 PM UTC",
+      "url": "https://twitter.com/1inch/status/1972304915495285016#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1972304912810672138#m",
+      "content": "Non-EVM extensions for 1inch Cross-chain Swap (Fusion+) | $10K total:\n\n🥇 Melswap \n\n🥈 Hide&Seek (@RomarioKavin1)",
+      "timestamp": "Sep 28, 2025 · 2:18 PM UTC",
+      "url": "https://twitter.com/1inch/status/1972304912810672138#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1972304909740752997#m",
+      "content": "ETHGlobal New Delhi wrapped.\nHere’s how the 1inch bounties played out👇\n\nethglobal.com/",
+      "timestamp": "Sep 28, 2025 · 2:18 PM UTC",
+      "url": "https://twitter.com/1inch/status/1972304909740752997#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1971608703628464398#m",
+      "content": "1/10/25",
+      "timestamp": "Sep 26, 2025 · 4:12 PM UTC",
+      "url": "https://twitter.com/1inch/status/1971608703628464398#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1971601533411193018#m",
+      "content": "And thanks to our media partners:\n\n@TheBlock__, @beincrypto, @Cointelegraph, @decryptmedia, @TechFlowPost, @TechCrunch, @U_today, @CryptoSlate, @Crypto_Potato, @BTC_Archive, @cryptodailyuk, @BlockBeatsAsia, @OdailyChina, @Foresight_News, @solus_group, and incryptoland.com 🙌",
+      "timestamp": "Sep 26, 2025 · 3:43 PM UTC",
+      "url": "https://twitter.com/1inch/status/1971601533411193018#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1971601531012345934#m",
+      "content": "Special thanks to our partners:\n\n@infinex, @BitgetWallet and @build_on_bob 💪",
+      "timestamp": "Sep 26, 2025 · 3:43 PM UTC",
+      "url": "https://twitter.com/1inch/status/1971601531012345934#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1971601526629003750#m",
+      "content": "⏱️14:25 — Fireside Chat\n\nBuilding DeFi: Parallel Paths, Shared Vision\n\nBuilding through cycles, aligning communities & onboarding the next wave.\n\nSpeakers: @deacix (1inch), @kaiynne (Infinex) Moderator: @DominicGCox (1inch)",
+      "timestamp": "Sep 26, 2025 · 3:43 PM UTC",
+      "url": "https://twitter.com/1inch/status/1971601526629003750#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1971601522677932245#m",
+      "content": "⏱️ 10:40 \n\nReal-World Assets (RWA) – The Institutional Gateway\n\nTokenized T-bills, real estate, private credit & commodities. Focus: MENA & Asia.\n\nSpeakers: Roberto Klein, co-founder at Backed, @hagaetc, @JamieElky, @laszlo__szabo\n\nModerator: Gabriel Saunders (The Block)",
+      "timestamp": "Sep 26, 2025 · 3:43 PM UTC",
+      "url": "https://twitter.com/1inch/status/1971601522677932245#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1971601518970171728#m",
+      "content": "⏱️ 11:15 \n\nLiquidity Wars – Incentives, Composability & Collaboration\n\nFrom liquid staking to restaking & liquidity layers — aligning incentives across ecosystems.\n\nSpeakers: @hilmarxo, @nihal_maunder, @ChiefReindeer, @alexeiZamyatin\n\nModerator: @daosasha (1inch)",
+      "timestamp": "Sep 26, 2025 · 3:43 PM UTC",
+      "url": "https://twitter.com/1inch/status/1971601518970171728#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1971601514897572229#m",
+      "content": "⏱️ 11:50 \n\nBuilding Safe – Security, Wallets & Responsible Growth\n\nHacks, MEV & new wallet standards. Protecting institutional capital at scale.\n\nSpeakers: @FrancoisRochet (Ledger), @eowynchen (Trust Wallet), @hominh95 (Coin98), @gunnarcamner  (Coinbase)\n\nModerator: @francescoswiss (Consensys)",
+      "timestamp": "Sep 26, 2025 · 3:43 PM UTC",
+      "url": "https://twitter.com/1inch/status/1971601514897572229#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1971601510317572335#m",
+      "content": "⏱️ 13:25 \n\nExpanding Horizons – Aggregation, Interoperability & Cross-Chain Liquidity\n\nLiquidity aggregation, ZK rollups & non-EVM chains.\n\nSpeakers: @deacix (1inch), @sandeepnailwal (Polygon/Sentient), @ericturnr  (Messari), @Psalom (Symbiotic), @sterwong (Crypto.com)\n\nModerator: @therealkartik (ETHGlobal)",
+      "timestamp": "Sep 26, 2025 · 3:43 PM UTC",
+      "url": "https://twitter.com/1inch/status/1971601510317572335#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1971601506261454974#m",
+      "content": "⏱️ 15:00 \n\nPioneer Insights – A Conversation with DeFi OGs\n\nDAOs, governance & the road to mainstream adoption — a decade of lessons.\n\nSpeakers: @k06a (1inch), @StaniKulechov (Aave), @kaiynne (Infinex), @gluk64 (zkSync Foundation)\n\nModerator: @daosasha (1inch)",
+      "timestamp": "Sep 26, 2025 · 3:43 PM UTC",
+      "url": "https://twitter.com/1inch/status/1971601506261454974#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1971601503941976204#m",
+      "content": "This Thurs Oct 2, 1inch gathers the whole DeFi family at @ArtSciMuseum.\n\nFrom RWAs to aggregation… and big name panels… with a Sergej Kunz @deacix keynote to open a whole new chapter…\n\nIt’s time for Unite DeFi Singapore. Let’s build the future of finance.\n\nPanels 👀 ⬇️\n\nluma.com/unitedefi",
+      "timestamp": "Sep 26, 2025 · 3:43 PM UTC",
+      "url": "https://twitter.com/1inch/status/1971601503941976204#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1971522132904657383#m",
+      "content": "Want to know what the biggest crypto VC funds are holding — and how much they actually make?\n\nUse 1inch Portfolio to track the whales.\n\nSimply paste any wallet address to track holdings & PnL over any period.\n\nSee clearer. Swap smarter 🔀 1inch.io/portfolio",
+      "timestamp": "Sep 26, 2025 · 10:28 AM UTC",
+      "url": "https://twitter.com/1inch/status/1971522132904657383#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1970810173624045608#m",
+      "content": "Just got this strange email from @1inch 🤔\n\nBig black square stamped 2019, “Is it a product?” and a link to forward.\n\nforward.1inch.io/ dropping in October 2025.\n\nOGs know 1inch started at a 2019 hackathon… feels like a full-circle moment.\n\nHearing whispers it’s more consumer-facing than past launches. \n\nAnyone else getting “new app / intents” vibes?",
+      "timestamp": "Sep 24, 2025 · 11:18 AM UTC",
+      "url": "https://twitter.com/1inch/status/1970810173624045608#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1970907927528505471#m",
+      "content": "See it differently\n\nforward.1inch.io\n1/10/25",
+      "timestamp": "Sep 24, 2025 · 5:47 PM UTC",
+      "url": "https://twitter.com/1inch/status/1970907927528505471#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1970898577561108904#m",
+      "content": "If you’re watching how stablecoins evolve from DeFi tools into global payment rails - this report is worth your time 👀",
+      "timestamp": "Sep 24, 2025 · 5:10 PM UTC",
+      "url": "https://twitter.com/1inch/status/1970898577561108904#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1970777883443351682#m",
+      "content": "DeFi just got even better.\n\n@Thorwallet integrated the 1inch Swap API – unlocking deep liquidity and the best rates, including Solana, right inside the wallet.\n\nInstant swaps. Cross-chain. MEV-safe.\n\nThe 1inch Swap API, as well as other APIs, are available on 1inch.dev.\n\nDeFi magic, every day. Check the full story:\n\nblog.1inch.io/1inch-swap-api…",
+      "timestamp": "Sep 24, 2025 · 9:10 AM UTC",
+      "url": "https://twitter.com/1inch/status/1970777883443351682#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1970505937149477246#m",
+      "content": "If you’ve found the connection - you’ll find a place for it here…\n\nforward.1inch.io",
+      "timestamp": "Sep 23, 2025 · 3:10 PM UTC",
+      "url": "https://twitter.com/1inch/status/1970505937149477246#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1970493254916341794#m",
+      "content": "What happens when infra builders meet institutional money?\n\nFind out Sept 29 in Singapore! 1inch co-founder Anton Bukov (@k06a) joins leaders from @monad, @MantaNetwork, FBTC & more for a sharp 30‑min panel on where this edge is heading.\n\n29 September 2025 | Singapore EDITION\n\nsignal.caladan.xyz/",
+      "timestamp": "Sep 23, 2025 · 2:19 PM UTC",
+      "url": "https://twitter.com/1inch/status/1970493254916341794#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1970441370549543115#m",
+      "content": "forward.1inch.io",
+      "timestamp": "Sep 23, 2025 · 10:53 AM UTC",
+      "url": "https://twitter.com/1inch/status/1970441370549543115#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1970402346376273932#m",
+      "content": "🎙️ Sarah Shin, BD Associate, @1inch\n\nSarah will share how 1inch helps keep stablecoin liquidity deep and reliable across exchanges and DeFi.\n\nSee what’s still missing to scale liquidity at Stablecoin Summit.\n\n📌 Andaz Singapore\n🗓️ 2 Oct",
+      "timestamp": "Sep 23, 2025 · 8:18 AM UTC",
+      "url": "https://twitter.com/1inch/status/1970402346376273932#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1970095739088077050#m",
+      "content": "Connect (9)\n\nforward.1inch.io\n1/10/25",
+      "timestamp": "Sep 22, 2025 · 12:00 PM UTC",
+      "url": "https://twitter.com/1inch/status/1970095739088077050#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1970054300870001103#m",
+      "content": "🥊 Another statement win. Future looks bright, and it’s only the beginning.\n\nAnd yeah, hit that follow on Alina’s IG —\ninstagram.com/alinadalaslan",
+      "timestamp": "Sep 22, 2025 · 9:15 AM UTC",
+      "url": "https://twitter.com/1inch/status/1970054300870001103#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1970054297498026422#m",
+      "content": "What a fight in Frankfurt! Alina Dalaslan walks away victorious at @OktagonOfficial 76 - staying unbeaten.\n\nSpeed, focus, control from start to finish 👊\n\n1inch is proud to back Alina - women pushing the sport forward.",
+      "timestamp": "Sep 22, 2025 · 9:15 AM UTC",
+      "url": "https://twitter.com/1inch/status/1970054297498026422#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1969707500854181934#m",
+      "content": "P.S. Follow Alina on Insta: instagram.com/alinadalaslan 🥊",
+      "timestamp": "Sep 21, 2025 · 10:17 AM UTC",
+      "url": "https://twitter.com/1inch/status/1969707500854181934#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1969416265996648740#m",
+      "content": "Today at @OktagonOfficial 76, Alina Dalaslan steps into the cage in Frankfurt 🥊\n\nFocused. Determined. Ready for the next step.\n\nWe’re proud to back Alina on this journey — let’s go 👊\n\noktagonmma.com/en/fighters/a…",
+      "timestamp": "Sep 20, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/1inch/status/1969416265996648740#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1969063836201173281#m",
+      "content": "Maybe - just maybe – we are gonna to present something VERY cool on the Unite Defi conf. You never know. Soooo maybe you should register NOW?\n\nluma.com/unitedefi",
+      "timestamp": "Sep 19, 2025 · 3:39 PM UTC",
+      "url": "https://twitter.com/1inch/status/1969063836201173281#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1969022788347273280#m",
+      "content": "luma.com/unitedefi",
+      "timestamp": "Sep 19, 2025 · 12:56 PM UTC",
+      "url": "https://twitter.com/1inch/status/1969022788347273280#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1968657917957071156#m",
+      "content": "A year ago, 1inch fixed cross-chain swaps.\n\nThe Fusion+ protocol launched on 18.9.24.\n\nSince then: 110k+ swaps. $500mn+ volume. Across 13 chains (👋@Solana)\n\nThe DeFi future is one boundless ecosystem.\n\nNo bridges. No gas. Just seamless swaps.\n\nLet’s build it together. \nblog.1inch.io/1inch-cross-ch…",
+      "timestamp": "Sep 18, 2025 · 12:46 PM UTC",
+      "url": "https://twitter.com/1inch/status/1968657917957071156#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1968615608129396962#m",
+      "content": "time is ticking ⏱️ register now!",
+      "timestamp": "Sep 18, 2025 · 9:58 AM UTC",
+      "url": "https://twitter.com/1inch/status/1968615608129396962#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1968613724861714494#m",
+      "content": "just saying \n\nluma.com/unitedefi",
+      "timestamp": "Sep 18, 2025 · 9:51 AM UTC",
+      "url": "https://twitter.com/1inch/status/1968613724861714494#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1968613650962194882#m",
+      "content": "GM\n\n    to everyone who’s planning to attend, thinking about it, following updates, or just keeping Unite DeFi on their radar (our first conference, oct 2 at the ArtScience Museum in Singapore. visionary keynotes, cross-chain panels, giveaways, networking, and more)",
+      "timestamp": "Sep 18, 2025 · 9:50 AM UTC",
+      "url": "https://twitter.com/1inch/status/1968613650962194882#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1968353248542122068#m",
+      "content": "Swap smarter and stay informed with 1inch Wallet.\n\nWith built-in intent-based swaps, you can beat the market price.\n\nIf it happens, your favourite DeFi app will tell you (with confetti, obv).\n\nPro-level features. One user-friendly wallet.\n\nRun crypto from your pocket 📲1inch.io/wallet",
+      "timestamp": "Sep 17, 2025 · 4:35 PM UTC",
+      "url": "https://twitter.com/1inch/status/1968353248542122068#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1968338347862229119#m",
+      "content": "Find the word. Follow the link.",
+      "timestamp": "Sep 17, 2025 · 3:36 PM UTC",
+      "url": "https://twitter.com/1inch/status/1968338347862229119#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1968330694872158317#m",
+      "content": "Think harder. What if we’re giving away a Labuba???",
+      "timestamp": "Sep 17, 2025 · 3:06 PM UTC",
+      "url": "https://twitter.com/1inch/status/1968330694872158317#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1968327645948776920#m",
+      "content": "Connect to see different possibilities\n\nf70a0a 145146151156145\n\nforward.1inch.io\n1/10/25",
+      "timestamp": "Sep 17, 2025 · 2:54 PM UTC",
+      "url": "https://twitter.com/1inch/status/1968327645948776920#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1968286929478426789#m",
+      "content": "solve the puzzle. what are you waiting for?",
+      "timestamp": "Sep 17, 2025 · 12:12 PM UTC",
+      "url": "https://twitter.com/1inch/status/1968286929478426789#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1968211569143320830#m",
+      "content": "The first 1inch conference won’t happen in “some venue.”\n\nCome join us at @ArtSciMuseum: the iconic lotus that defines Marina Bay.\n\nThe future has a floorplan.\nOct 2. Unite DeFi. Right next to Token2049.\n\nlu.ma/unitedefi",
+      "timestamp": "Sep 17, 2025 · 7:13 AM UTC",
+      "url": "https://twitter.com/1inch/status/1968211569143320830#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1967896360470102401#m",
+      "content": "yes",
+      "timestamp": "Sep 16, 2025 · 10:20 AM UTC",
+      "url": "https://twitter.com/1inch/status/1967896360470102401#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1967629423869604132#m",
+      "content": "We stand united with 110+ companies, urging Congress to safeguard self-custody and developer rights. \n\n👉 Full letter & details: \n\nblog.1inch.io/initiative-cal…",
+      "timestamp": "Sep 15, 2025 · 4:39 PM UTC",
+      "url": "https://twitter.com/1inch/status/1967629423869604132#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1967629421709344958#m",
+      "content": "Without clarity, innovation slows and builders leave the US. Open-source devs aren’t custodians — and shouldn’t be treated like them.",
+      "timestamp": "Sep 15, 2025 · 4:39 PM UTC",
+      "url": "https://twitter.com/1inch/status/1967629421709344958#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1967629418660286652#m",
+      "content": "DeFi needs clear rules — not complex risks.\n\nThat’s why 1inch, together with 100+ industry leaders, signed a letter to the US Senate calling for protections for developers & non-custodial providers.",
+      "timestamp": "Sep 15, 2025 · 4:39 PM UTC",
+      "url": "https://twitter.com/1inch/status/1967629418660286652#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1967611891821457885#m",
+      "content": "Connect to deliver something new\n\nforward.1inch.io\n1/10/25",
+      "timestamp": "Sep 15, 2025 · 3:30 PM UTC",
+      "url": "https://twitter.com/1inch/status/1967611891821457885#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1967503688236499438#m",
+      "content": "Keep swapping. Keep building the DeFi future 💪",
+      "timestamp": "Sep 15, 2025 · 8:20 AM UTC",
+      "url": "https://twitter.com/1inch/status/1967503688236499438#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1967464647990333830#m",
+      "content": "OKX @wallet just switched on the 1inch Swap API.\n\nWhy? \n\n😀Zero gas & MEV protection for their users.\n👷Enterprise-grade reliability & smooth integration for their team.\n\nThe major players build with 1inch APIs.\n\nJoin them ⚙️1inch.dev",
+      "timestamp": "Sep 15, 2025 · 5:45 AM UTC",
+      "url": "https://twitter.com/1inch/status/1967464647990333830#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1966503195137413196#m",
+      "content": "Capital efficient. Composable. But not without risks.\nYield-bearing stables may reshape adoption — if they stay secure and compliant.\n\nFull breakdown 👉 \n\nblog.1inch.io/what-are-yield…",
+      "timestamp": "Sep 12, 2025 · 2:04 PM UTC",
+      "url": "https://twitter.com/1inch/status/1966503195137413196#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1966503193031868633#m",
+      "content": "Instead of just sitting at $1, these tokens pass returns to holders — either by rebasing balances or via an appreciating unit price.\n\nBacked by RWAs, staking yields, perp funding or lending strategies.",
+      "timestamp": "Sep 12, 2025 · 2:04 PM UTC",
+      "url": "https://twitter.com/1inch/status/1966503193031868633#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1966503190431465906#m",
+      "content": "Stable ≠ static\n\nYield-bearing stablecoins are changing what it means to hold value in DeFi.",
+      "timestamp": "Sep 12, 2025 · 2:04 PM UTC",
+      "url": "https://twitter.com/1inch/status/1966503190431465906#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1966469684967911770#m",
+      "content": "With a good portfolio tracker you can:\n\n✅ view all your assets in one dashboard\n\n✅ track them across chains and protocols\n\n✅ get real-time updates to act instantly\n\nDon’t just hold or trade crypto. Know it - with 1inch Portfolio. 🦾",
+      "timestamp": "Sep 12, 2025 · 11:51 AM UTC",
+      "url": "https://twitter.com/1inch/status/1966469684967911770#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1966469682342371593#m",
+      "content": "Without the right portfolio tracker…\n\n⚠️ you have to juggle multiple wallets and chains manually\n\n⚠️ you're likely to miss shifts in token prices or LP positions\n\n⚠️ you may not see your true exposure until it's too late\n\nIn crypto, speed & clarity = survival.",
+      "timestamp": "Sep 12, 2025 · 11:51 AM UTC",
+      "url": "https://twitter.com/1inch/status/1966469682342371593#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1966469680161304693#m",
+      "content": "Portfolio tracking isn't just \"nice to have.\"It's mission-critical for crypto investors and traders. Crypto runs 24/7 across chains and wallets, with PnL shifting every block.\n\nReliable tracking keeps you current and ready to act at any time.",
+      "timestamp": "Sep 12, 2025 · 11:51 AM UTC",
+      "url": "https://twitter.com/1inch/status/1966469680161304693#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1966107152537338279#m",
+      "content": "don't worry…. be DeFi ✌️",
+      "timestamp": "Sep 11, 2025 · 11:50 AM UTC",
+      "url": "https://twitter.com/1inch/status/1966107152537338279#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1966077558044139676#m",
+      "content": "register now",
+      "timestamp": "Sep 11, 2025 · 9:53 AM UTC",
+      "url": "https://twitter.com/1inch/status/1966077558044139676#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1965037989345775640#m",
+      "content": "Join us from 29 Sept - 3 Oct  as we bring you the best of the @ethereum ecosystem together right at @ArtSciMuseum\n\nRead on to learn more and sign up for our events 👇\n\n 🗓️ luma.com/ethereumsg\n📍Artscience Museum, 6 Bayfront Ave\n\n#IntheEtherASM",
+      "timestamp": "Sep 8, 2025 · 1:02 PM UTC",
+      "url": "https://twitter.com/1inch/status/1965037989345775640#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1965814745845649839#m",
+      "content": "Swap Solana tokens across 13+ chains - right inside your 1inch Wallet.\n\nNo bridges. MEV protection. The best rates.\n\nRun crypto from your pocket  📲 1inch.io/wallet",
+      "timestamp": "Sep 10, 2025 · 4:28 PM UTC",
+      "url": "https://twitter.com/1inch/status/1965814745845649839#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1965788351514149036#m",
+      "content": "The Thing is… at least one of your hands should be diamond",
+      "timestamp": "Sep 10, 2025 · 2:44 PM UTC",
+      "url": "https://twitter.com/1inch/status/1965788351514149036#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1965772280266658254#m",
+      "content": "Explore tokenized real-world assets with 1inch - and see how the world is coming onchain.\n\nTake the next step 🔀 app.1inch.io\n\nRWAs now online for eligible users in the 1inch dApp and 1inch Wallet",
+      "timestamp": "Sep 10, 2025 · 1:40 PM UTC",
+      "url": "https://twitter.com/1inch/status/1965772280266658254#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1965435142509658566#m",
+      "content": "🛡 1inch users were not affected by yesterday’s industry-wide supply chain attack.\nAll funds and trades remain secure, and were never at risk.\n\nEvery 1inch product is built to keep you as safe as possible.  But remember: don’t trust - verify.",
+      "timestamp": "Sep 9, 2025 · 3:20 PM UTC",
+      "url": "https://twitter.com/1inch/status/1965435142509658566#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1965348349772788183#m",
+      "content": "🌙 After dark, it’s time for Become 1: another iconic 1inch party.\n\nCo-hosted with @infinex 💥and @arkham\nGood vibes, great people and a sprinkle of that magic 1inch energy.\n\n→ Register now:\n\nConf: luma.com/unitedefi\nParty: luma.com/become1",
+      "timestamp": "Sep 9, 2025 · 9:35 AM UTC",
+      "url": "https://twitter.com/1inch/status/1965348349772788183#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1965348346823905662#m",
+      "content": "🇸🇬 Unite DeFi Singapore\nThe 1inch conference on the future of finance\nOct 2 • ArtScience Museum 🌸\n\nThe first ever 1inch conference, with our friends @infinex  and @build_on_bob, alongside @token2049.\n\nPanels, keynotes & real talk on integration, building connections… and maybe some big news 🤔",
+      "timestamp": "Sep 9, 2025 · 9:35 AM UTC",
+      "url": "https://twitter.com/1inch/status/1965348346823905662#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1965044105945452825#m",
+      "content": "Circle’s CCTP integration made USDC on Solana even stronger.\n\nAnd with 1inch, you can now swap Solana tokens (incl. stablecoins) cross-chain — without risky bridges.\n\nMore insights here 👉\n\nblog.1inch.io/solanas-stable…",
+      "timestamp": "Sep 8, 2025 · 1:26 PM UTC",
+      "url": "https://twitter.com/1inch/status/1965044105945452825#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1965044103642861605#m",
+      "content": "In July alone:\n\n📈 $215B in stablecoin transfers\n\n📈 $185B of that = USDC\n\n📈 26.9M P2P transfers (+63%)\n\n📈 $1.92B swaps in a single day\n\nFast blocks + low fees = Solana becoming the stablecoin hub.",
+      "timestamp": "Sep 8, 2025 · 1:26 PM UTC",
+      "url": "https://twitter.com/1inch/status/1965044103642861605#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1965044098760605785#m",
+      "content": "Nearly 50% of all USDC transfers now run on Solana.\n\nYes, half of them.\n\nSolana just passed Ethereum, Polygon, Base & Arbitrum in stablecoin usage 🧵",
+      "timestamp": "Sep 8, 2025 · 1:26 PM UTC",
+      "url": "https://twitter.com/1inch/status/1965044098760605785#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1965011735318090116#m",
+      "content": "Some say “touch grass”.\n\nWe say: touch some green instead",
+      "timestamp": "Sep 8, 2025 · 11:18 AM UTC",
+      "url": "https://twitter.com/1inch/status/1965011735318090116#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1963997136137105696#m",
+      "content": "Run crypto from your pocket📲1inch.io/wallet",
+      "timestamp": "Sep 5, 2025 · 4:06 PM UTC",
+      "url": "https://twitter.com/1inch/status/1963997136137105696#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1963997133540831547#m",
+      "content": "Need to send a token you don’t have?\n\nJust swap in your 1inch Wallet - & choose ‘Receive to another wallet’.\n\nYou get the best rate. The receiver gets the right tokens.\n\nSwap & send in one transaction, from your complete DeFi app.",
+      "timestamp": "Sep 5, 2025 · 4:06 PM UTC",
+      "url": "https://twitter.com/1inch/status/1963997133540831547#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1963980693400387954#m",
+      "content": "Welcome to the secret history of DeFi.\n\nIt gets messy.\n\nMade by @square_lazy 😎",
+      "timestamp": "Sep 5, 2025 · 3:01 PM UTC",
+      "url": "https://twitter.com/1inch/status/1963980693400387954#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1963653455030972853#m",
+      "content": "💪@DeFiSaver users routed $1.1B volume  through 1inch Swap API.\n\nFrom Automation to Boost&Repay — their core features lean on our routes.\n\n1inch + DeFi Saver = smoother trades, better rates, reliable execution.\n\nBuilding DeFi UX that works.\n\n blog.1inch.io/",
+      "timestamp": "Sep 4, 2025 · 5:20 PM UTC",
+      "url": "https://twitter.com/1inch/status/1963653455030972853#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1963597304864424115#m",
+      "content": "👋🏻",
+      "timestamp": "Sep 4, 2025 · 1:37 PM UTC",
+      "url": "https://twitter.com/1inch/status/1963597304864424115#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1963270766461386935#m",
+      "content": "👏 Congrats @TrustWallet on the announcement!\n\n1inch Swap API integration = seamless access to tokenized assets for eligible users.",
+      "timestamp": "Sep 3, 2025 · 4:00 PM UTC",
+      "url": "https://twitter.com/1inch/status/1963270766461386935#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1963260122089582640#m",
+      "content": "Great to see @BitgetWallet highlighting the 1inch Swap API 🚀\n\nEvery new integration means more access points for eligible users — powered by 1inch.",
+      "timestamp": "Sep 3, 2025 · 3:17 PM UTC",
+      "url": "https://twitter.com/1inch/status/1963260122089582640#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1963244339573993579#m",
+      "content": "👏 Congrats @OndoFinance on launch!\n\nTheir tokenized RWAs are now flowing through the 1inch Swap API → seamless access for eligible users.",
+      "timestamp": "Sep 3, 2025 · 2:15 PM UTC",
+      "url": "https://twitter.com/1inch/status/1963244339573993579#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1963238627003011106#m",
+      "content": "*User eligibility depends on region. Not available in the U.S., UK, Canada or Singapore, among others.",
+      "timestamp": "Sep 3, 2025 · 1:52 PM UTC",
+      "url": "https://twitter.com/1inch/status/1963238627003011106#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1963238624889057344#m",
+      "content": "Get intent-based swaps for tokenized RWAs with the 1inch Swap API.\n\nPowered by @OndoFinance, live in the 1inch dApp & Wallet.*\n\nAvailable for all API partners, with @TrustWallet as the newest.\n\nThe DeFi future is coming 👀\n\nblog.1inch.io/1inchs-swap-ap…",
+      "timestamp": "Sep 3, 2025 · 1:52 PM UTC",
+      "url": "https://twitter.com/1inch/status/1963238624889057344#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1962925050622808387#m",
+      "content": "The future is onchain. Tokenized assets are shaping the next era of DeFi. \n\n💪 @OndoFinance",
+      "timestamp": "Sep 2, 2025 · 5:06 PM UTC",
+      "url": "https://twitter.com/1inch/status/1962925050622808387#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1962839115948229030#m",
+      "content": "don't forget to swap your crypto 🙏",
+      "timestamp": "Sep 2, 2025 · 11:24 AM UTC",
+      "url": "https://twitter.com/1inch/status/1962839115948229030#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1962516220399276132#m",
+      "content": "Great swaps need great resolvers.\n\nOne of the best just joined the 1inch lineup.\n\n@BarterDeFi are here to bring top swap rates and stable execution to your 1inch swaps.\n\nWelcome to the fam… it’s like you were always here 😉\nLearn more 👀\n\nblog.1inch.io/1inch-partners…",
+      "timestamp": "Sep 1, 2025 · 2:01 PM UTC",
+      "url": "https://twitter.com/1inch/status/1962516220399276132#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1960942892324704397#m",
+      "content": "Every hero has an inner battle. \n\nIn DeFi, it’s against high fees, slow swaps, and messy bridges. 🥊\n\n@1inch smashes them all - so u can focus on win💥\n\n#DeFi #1inch",
+      "timestamp": "Aug 28, 2025 · 5:49 AM UTC",
+      "url": "https://twitter.com/1inch/status/1960942892324704397#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1961333467104653437#m",
+      "content": "#EASYCON is coming to Taipei during @TaipeiWeek 2025 🇹🇼\n\nJoin us for a builder-packed afternoon of workshops, hands-on sessions, and high-quality networking, powered by @dapp_portal &\n@KaiaChain, alongside @1inch right in the heart of Taiwan 🍹💻\n\n📆 Sep 6th, Saturday | 1:00 PM – 5:30 PM | Cozy Cowork Cafe, Taipei\n💌 RSVP: lu.ma/EASYCONTaipei",
+      "timestamp": "Aug 29, 2025 · 7:41 AM UTC",
+      "url": "https://twitter.com/1inch/status/1961333467104653437#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1961400300633288951#m",
+      "content": "guess who crossed.",
+      "timestamp": "Aug 29, 2025 · 12:07 PM UTC",
+      "url": "https://twitter.com/1inch/status/1961400300633288951#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1961073168270885046#m",
+      "content": "Swap Solana across 13+ chains.\n\nNo bridges. MEV-protected. At the best rates\n\nIt’s just… easy.\n\nLFG  🔀 app.1inch.io",
+      "timestamp": "Aug 28, 2025 · 2:27 PM UTC",
+      "url": "https://twitter.com/1inch/status/1961073168270885046#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1961053654120865975#m",
+      "content": "👁️‍you are getting sleepy…\n\n👁️‍you only hear one voice…\n\n👁️‍it whispers: swap… cross-chain… to Solana…\n\n👁️you want to swap…\n\n👁️you need to swap…\n\n👁️you will swap… cross-chain… to Solana… with 1inch…",
+      "timestamp": "Aug 28, 2025 · 1:10 PM UTC",
+      "url": "https://twitter.com/1inch/status/1961053654120865975#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1960767848311103628#m",
+      "content": "👉🏻👈🏻",
+      "timestamp": "Aug 27, 2025 · 6:14 PM UTC",
+      "url": "https://twitter.com/1inch/status/1960767848311103628#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1960759177552302289#m",
+      "content": "Good point. Proper sleep is everything",
+      "timestamp": "Aug 27, 2025 · 5:39 PM UTC",
+      "url": "https://twitter.com/1inch/status/1960759177552302289#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1960680697879736422#m",
+      "content": "Miss the times… when things were simplier…",
+      "timestamp": "Aug 27, 2025 · 12:28 PM UTC",
+      "url": "https://twitter.com/1inch/status/1960680697879736422#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1960674526678933583#m",
+      "content": "🆒🆒🆒",
+      "timestamp": "Aug 27, 2025 · 12:03 PM UTC",
+      "url": "https://twitter.com/1inch/status/1960674526678933583#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1960343222959358338#m",
+      "content": "Think your funds are safe when swapping cross-chain via bridges?\n\nThink again! Billions have been lost to bridge vulnerabilities.\n\nLearn why bridges are risk-prone ⬇️\n\nblog.1inch.io/cross-chain-br…",
+      "timestamp": "Aug 26, 2025 · 2:07 PM UTC",
+      "url": "https://twitter.com/1inch/status/1960343222959358338#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1960324348629459404#m",
+      "content": "Share your warm childhood memories of Solana cross-chain swaps on 1inch",
+      "timestamp": "Aug 26, 2025 · 12:52 PM UTC",
+      "url": "https://twitter.com/1inch/status/1960324348629459404#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1959956430531789166#m",
+      "content": "thanks for answers",
+      "timestamp": "Aug 25, 2025 · 12:30 PM UTC",
+      "url": "https://twitter.com/1inch/status/1959956430531789166#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1959901167401500768#m",
+      "content": "Why did the SOL cross the chains? Only wrong answers.",
+      "timestamp": "Aug 25, 2025 · 8:50 AM UTC",
+      "url": "https://twitter.com/1inch/status/1959901167401500768#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1958918981663801504#m",
+      "content": "Swap between Solana and EVM and back.\n\nWe’d say “do it on 1inch” - but, well,\n\nyou literally can’t do it anywhere else (without bridging).",
+      "timestamp": "Aug 22, 2025 · 3:47 PM UTC",
+      "url": "https://twitter.com/1inch/status/1958918981663801504#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1958839359085355431#m",
+      "content": "Players, your move.\n\nSwap smarter. Earn XP. Repeat.",
+      "timestamp": "Aug 22, 2025 · 10:31 AM UTC",
+      "url": "https://twitter.com/1inch/status/1958839359085355431#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1958830712687051089#m",
+      "content": "Swap across chains at the best rates with 1inch.\n\nThe future is integrated DeFi. And it’s already here.\n\nMake the switch 🔀 app.1inch.io",
+      "timestamp": "Aug 22, 2025 · 9:56 AM UTC",
+      "url": "https://twitter.com/1inch/status/1958830712687051089#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1958180455640863049#m",
+      "content": "Did you try Solana cross-chain yet?",
+      "timestamp": "Aug 20, 2025 · 2:52 PM UTC",
+      "url": "https://twitter.com/1inch/status/1958180455640863049#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1958179924247810137#m",
+      "content": "DeFi can only thrive on trust. That’s why 1inch joined the Beacon Network — to stop illicit funds before they cash out, protect users, and prove that real-time collaboration builds freedom, safety & resilience for the whole ecosystem.",
+      "timestamp": "Aug 20, 2025 · 2:50 PM UTC",
+      "url": "https://twitter.com/1inch/status/1958179924247810137#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1958129616138244441#m",
+      "content": "Did you know that you have rights?",
+      "timestamp": "Aug 20, 2025 · 11:30 AM UTC",
+      "url": "https://twitter.com/1inch/status/1958129616138244441#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1958122288911438120#m",
+      "content": "NOW do you get it?",
+      "timestamp": "Aug 20, 2025 · 11:01 AM UTC",
+      "url": "https://twitter.com/1inch/status/1958122288911438120#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1957865320909345118#m",
+      "content": "ON AIR NOW 🚨\n\nFeaturing:\n@daosasha @DominicGCox @JamieElky @tkktkkkk  @ComposableKi @Kha_N_T\n@oCalebSol @sibeleth @NickyScanz @scottgralnick @ElizabethOls0n @rektonomist_ \n\nlocalhost:8080/i/spaces/1YqJDNPyZrwKV",
+      "timestamp": "Aug 19, 2025 · 6:00 PM UTC",
+      "url": "https://twitter.com/1inch/status/1957865320909345118#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1957858499242676430#m",
+      "content": "Solana and 12+ EVM chains are now live across 1inch Developer Portal - your complete solution to build in Web3.\n\nSecure. Scalable. Cost-efficient.\n\nLet’s BUIDL ⚙️ 1inch.dev",
+      "timestamp": "Aug 19, 2025 · 5:33 PM UTC",
+      "url": "https://twitter.com/1inch/status/1957858499242676430#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1957858497208386004#m",
+      "content": "Connect to Solana with the 1inch Fusion+ API, for intent-based cross-chain swaps - and get:\n\n🛠️ Seamless integration with the SDK  \n🛡️ MEV protection by design  \n🌙 24/7 support",
+      "timestamp": "Aug 19, 2025 · 5:33 PM UTC",
+      "url": "https://twitter.com/1inch/status/1957858497208386004#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1957858493513297966#m",
+      "content": "Your users want secure Solana cross-chain swaps.\n\nNow it’s easy to integrate them - with no bridges required.\n\nLive on 1inch Developer Portal: the first trustless cross-chain integration between Solana and EVM networks.",
+      "timestamp": "Aug 19, 2025 · 5:33 PM UTC",
+      "url": "https://twitter.com/1inch/status/1957858493513297966#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1957820823944774116#m",
+      "content": "remember this day",
+      "timestamp": "Aug 19, 2025 · 3:03 PM UTC",
+      "url": "https://twitter.com/1inch/status/1957820823944774116#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1957805465351381443#m",
+      "content": "Run trustless, intent-based swaps between Solana and EVM chains: get the details here 👀\n\nblog.1inch.io/1inch-solana-c…",
+      "timestamp": "Aug 19, 2025 · 2:02 PM UTC",
+      "url": "https://twitter.com/1inch/status/1957805465351381443#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1957805462205747566#m",
+      "content": "Swap Solana across 13+ chains, without bridges.\n\nTrustless \nMEV-protected\nAt the best rates\n\nWhen we said unite DeFi - we meant it.\nCross to the future 🔀app.1inch.io",
+      "timestamp": "Aug 19, 2025 · 2:02 PM UTC",
+      "url": "https://twitter.com/1inch/status/1957805462205747566#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1957739567152525599#m",
+      "content": "It’s not about tokens. It’s about the absence of middlemen.",
+      "timestamp": "Aug 19, 2025 · 9:41 AM UTC",
+      "url": "https://twitter.com/1inch/status/1957739567152525599#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1957491354801783104#m",
+      "content": "Tomorrow we go live 🎙️\n\nSet the reminder (or however that works here), don’t play yourself ⏰\n\nSee you there.\n\nWith: @daosasha @JamieElky @tkktkkkk \n@ComposableKi @Kha_N_T @oCalebSol @sibeleth @NickyScanz @scottgralnick @DominicGCox\nlocalhost:8080/i/spaces/1YqJDNPyZrwKV",
+      "timestamp": "Aug 18, 2025 · 5:14 PM UTC",
+      "url": "https://twitter.com/1inch/status/1957491354801783104#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1957456995180486963#m",
+      "content": "Send. Swap. Secure.  Whatever you need to do with your assets - you can do it with 1inch Wallet.\n\nRun crypto from your pocket 📲 1inch.com/wallet",
+      "timestamp": "Aug 18, 2025 · 2:58 PM UTC",
+      "url": "https://twitter.com/1inch/status/1957456995180486963#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1957441170759385545#m",
+      "content": "Glad to have @jpegtrading on board as a Resolver.\n\nEvery integration makes 1inch swaps more efficient — this one’s no exception.",
+      "timestamp": "Aug 18, 2025 · 1:55 PM UTC",
+      "url": "https://twitter.com/1inch/status/1957441170759385545#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1957432976372822283#m",
+      "content": "Tomorrow, it’s time to cross to the future",
+      "timestamp": "Aug 18, 2025 · 1:22 PM UTC",
+      "url": "https://twitter.com/1inch/status/1957432976372822283#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1957370635832758469#m",
+      "content": "What game is it",
+      "timestamp": "Aug 18, 2025 · 9:15 AM UTC",
+      "url": "https://twitter.com/1inch/status/1957370635832758469#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1956725731431477402#m",
+      "content": "What happens when the biggest names in DeFi share one stage?\n\n🗓 Tuesday, Aug 19, 6PM UTC\n🎙 @daosasha @pedrouid @JamieElky @tkktkkkk @ComposableKi @Kha_N_T @oCalebSol @sibeleth @NickyScanz @scottgralnick @DominicGCox \n📍localhost:8080/i/spaces/1YqJDNPyZrwKV",
+      "timestamp": "Aug 16, 2025 · 2:32 PM UTC",
+      "url": "https://twitter.com/1inch/status/1956725731431477402#m",
+      "author": "1inch"
+    },
+    {
+      "id": "1956340103044886795#m",
+      "content": "uh sorry what?",
+      "timestamp": "Aug 15, 2025 · 1:00 PM UTC",
+      "url": "https://twitter.com/1inch/status/1956340103044886795#m",
+      "author": "1inch"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-20T23:15:13.612Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 20792,
+    "cursorTrail": [
+      "DAAHCgABG3vWnbx__-oLAAIAAAATMTk3NzY5MTc2NzI0MDU2MTAzNQgAAwAAAAIAAA",
+      "DAAHCgABG3vWnbx__9ULAAIAAAATMTk3NTU5MDQwNDA0MTg4Nzk4MggAAwAAAAIAAA",
+      "DAAHCgABG3vWnbx__8ELAAIAAAATMTk3MzY2MjQwMjI5MTA0ODUzNQgAAwAAAAIAAA",
+      "DAAHCgABG3vWnbx__6wLAAIAAAATMTk3MzE5NDAxODA4MDMxMzUzNQgAAwAAAAIAAA",
+      "DAAHCgABG3vWnbx__5oLAAIAAAATMTk3MTYwMTUyMjY3NzkzMjI0NQgAAwAAAAIAAA",
+      "DAAHCgABG3vWnbx__4gLAAIAAAATMTk3MDA1NDMwMDg3MDAwMTEwMwgAAwAAAAIAAA",
+      "DAAHCgABG3vWnbx__3YLAAIAAAATMTk2Nzg5NjM2MDQ3MDEwMjQwMQgAAwAAAAIAAA",
+      "DAAHCgABG3vWnbx__2ELAAIAAAATMTk2NTM0ODM0OTc3Mjc4ODE4MwgAAwAAAAIAAA",
+      "DAAHCgABG3vWnbx__00LAAIAAAATMTk2MjUxNjIyMDM5OTI3NjEzMggAAwAAAAIAAA",
+      "DAAHCgABG3vWnbx__zgLAAIAAAATMTk1ODEyOTYxNjEzODI0NDQ0MQgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

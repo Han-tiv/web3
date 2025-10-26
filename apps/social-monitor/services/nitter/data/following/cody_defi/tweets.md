@@ -1,0 +1,3751 @@
+# Cody_DeFi (@Cody_DeFi)
+
+- 抓取时间：2025-10-21T01:24:13.098Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：29970 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：12
+- 抓取尝试：1
+- Cursor 链：11 条
+- 账号统计：粉丝 5093，关注 2513，推文 4275，点赞 4300
+- 所在地：香港
+- 站外链接：https://t.co/7shg67aKqB
+- Twitter：https://twitter.com/Cody_DeFi
+- 头像：https://pbs.twimg.com/profile_images/1781050103006158850/lJvhLicr_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1610353801/1713465105
+- 认证：Blue Verified
+
+> 账号简介：
+> 💵 巴菲特信徒，价值投资
+>  
+> ⛏️  DeFi Farmer, a little degen
+>  
+> 💰 Ambassador @DriftProtocol
+>  
+> 🏠 Member @Solana_zh
+>  
+> 🎣 反对以太坊生态放任 permit 功能滥用钓鱼
+
+---
+
+## 1. Oct 21, 2025 · 12:06 AM UTC · 1980425495536939453#m
+- 链接：https://twitter.com/Cody_DeFi/status/1980425495536939453#m
+- 作者：@Cody_DeFi
+
+> 太牛逼了
+
+## 2. Oct 16, 2025 · 10:00 AM UTC · 1978762899406434700#m
+- 链接：https://twitter.com/Cody_DeFi/status/1978762899406434700#m
+- 作者：@Cody_DeFi
+
+> 太离谱了，听说“手滑” Mint 了 30万亿 Pyusd 出来，吓得我把 USDG 也全部换成 USDC 了
+
+## 3. Oct 16, 2025 · 9:24 AM UTC · 1978754023025934717#m
+- 链接：https://twitter.com/Cody_DeFi/status/1978754023025934717#m
+- 作者：@Cody_DeFi
+
+> Sui 链又被黑了，MMT 拿什么做 TGE ，环境这么差，公链安全还一言难尽。
+>  
+> 黑客估计会越来越熟悉 Move 语言，Sui 链怕是要踩完 ETH 所有踩过的坑。
+
+## 4. Oct 14, 2025 · 12:20 PM UTC · 1978073309905391837#m
+- 链接：https://twitter.com/Cody_DeFi/status/1978073309905391837#m
+- 作者：@Cody_DeFi
+
+> docs.drift.trade/risk-and-sa…
+
+## 5. Oct 14, 2025 · 12:18 PM UTC · 1978072985950204413#m
+- 链接：https://twitter.com/Cody_DeFi/status/1978072985950204413#m
+- 作者：@Cody_DeFi
+
+> 这还挺有意思的一个彩蛋。
+>  
+> 博主是做期货合约的老外 KOL，受邀给很多 PERP DEX 团队做用户体验测试的 feed back，然后在前几天的币灾里面，他的所有测试仓位都爆仓了，除了 @DriftProtocol 。
+>  
+> 他都以为自己出 BUG 了，后来发现是 Drift 有一个清算保护系统—— guardrails，这个系统在市场最疯狂的时候，切换了预言机喂价，把订单薄切到 ORACLE 上面，甚至在市场最疯狂的时候，暂停了清算，结果让一个“应该被清算”的仓位保留下来了，并且持有到反弹。
+>  
+> “Drift’s guardrails - the ones they quietly mention in their docs - actually worked.  They throttle liquidations during violent wicks, use oracle-based pricing instead of thin-book marks, and can even temporarily pause liquidations when volatility or oracle data goes off the rails. In other words, they built a system that recognizes when the market’s lost its mind - and gives traders a fighting chance instead of an instant execution.”
+>  
+> 这真的是独一家了。
+
+## 6. Oct 13, 2025 · 12:15 PM UTC · 1977709707835183387#m
+- 链接：https://twitter.com/Cody_DeFi/status/1977709707835183387#m
+- 作者：@Cody_DeFi
+
+> 看到一个用户 @edison_zzz 在币安杠杆做多 SOL，刚好被插针的针尖清零了 200多万，觉得实在太惋惜了。
+>  
+> 我觉得一个真正为用户考虑的 PERP DEX，是一定要考虑插针保护这件事的。
+>  
+> 本质上，插针是一种“垃圾数据”，而交易所的责任，就是识别这种垃圾数据，并且保护好用户的资产。
+>  
+> 这对一个交易所要求并不低，数据识别不好，合约账户就会穿仓，导致交易所亏损。数据识别过强，就会导致用户轻易被插针清算，就像上面这位一样。
+>  
+> 这其实是在保护用户和保护交易所之间，做一个取舍的平衡。
+>  
+> 比如，为什么我觉得  @DriftProtocol  这方面做的不错，就是他们的预言机喂价是取多个来源进行加权的，另外一方面，当一个 Token 的价格，大幅偏离于交易所 5分钟左右的 TWAP (时间加权平均价格)，他们的清算引擎就会放缓，哪怕只有几秒钟，都能够挽救一大批人。
+>  
+> 事实上，在这次币灾里面，DRIFT 上面有 5000个人是涉及到被针尖清算的，而交易所大约保护了 2500个人没有被清算。
+>  
+> 最后我看了一下 SOL PERP 的价格，币安下插到了 140，而 DRIFT 是 163，如果上面这个老哥用的是 @DriftProtocol 这次就不会被清算了。
+>  
+> 最后，不是我硬吹，从产品体验上来看，作为一个套利选手，没有任何一个交易所比的上我现在使用的 DRFIT。
+>  
+> 比如，前几天市场崩盘的时候，DRIFT 上面的 SOL 费率是 -400%，我就通过做空现货，做多期货的形式，赚取了大概 1%的价差和资金费率。
+>  
+> 更别提，我的合约保证金利息能够达到 10%的APY，这甚至比大多数 CEX 的理财收益还高。
+>  
+> 不管是我是不是 @DriftProtocol 的大使，我都良心推荐使用这家交易所：
+>  
+> app.drift.trade/ref/cody （大使专属手续费折扣链接）
+
+## 7. Oct 13, 2025 · 9:14 AM UTC · 1977664316901089445#m
+- 链接：https://twitter.com/Cody_DeFi/status/1977664316901089445#m
+- 作者：@Cody_DeFi
+
+> 我也觉得币安赔了一堆套利用户，得罪了一帮山寨合约赌徒。
+>  
+> 站在做生意的角度，明显后者才是交易所真正的衣食父母，合约可以亏钱，全部插针到 0 清算真的过分了。
+>  
+> “山寨的价值原本是 0” 这句话如果为真，那么币安的价值要大打折扣……
+
+## 8. Oct 13, 2025 · 9:08 AM UTC · 1977662730036523293#m
+- 链接：https://twitter.com/Cody_DeFi/status/1977662730036523293#m
+- 作者：@Cody_DeFi
+
+> 山寨的价值原本是 0
+>  
+> 强烈呼吁币监会成立🤣
+
+## 9. Oct 12, 2025 · 4:23 PM UTC · 1977409857818067147#m
+- 链接：https://twitter.com/Cody_DeFi/status/1977409857818067147#m
+- 作者：@Cody_DeFi
+
+> 主流 token 的定价会从 cex  去到华尔街
+>  
+> 随之而来，cex 的交易量会被剥夺一部分
+>  
+> 山寨币的真实价值是 0，玩到最后就是韭菜给庄家上供
+>  
+> 意味着圈内炒合约的赌徒，是最后的竭泽而渔？
+
+## 10. Oct 11, 2025 · 6:46 PM UTC · 1977083410956140823#m
+- 链接：https://twitter.com/Cody_DeFi/status/1977083410956140823#m
+- 作者：@Cody_DeFi
+
+> 挺实用的工具
+
+## 11. Oct 11, 2025 · 12:30 PM UTC · 1976988674694037998#m
+- 链接：https://twitter.com/Cody_DeFi/status/1976988674694037998#m
+- 作者：@Cody_DeFi
+
+> 作为 @DriftProtocol 的 Ambassador 还是得说两句。
+>  
+> 首先，Drift 交易所还是比较稳的，我在上面做的套保仓位没有一个被 ADL，全部 COVER 了我的现货下跌。
+>  
+> 其次，平台在期货+现货端，很顺利的做了 $70m 的清算，零穿仓。这对平台的清算能力和做市商流动性要求还蛮高的。
+>  
+> 相应的，他们的保险基金，也无亏损的拿到了一笔平台分红，做到了 30%的 APY回报。远好于 @Lighter_xyz 的保险库 -10% ROI ，当然比不了 @HyperliquidX 149%的 APY。
+>  
+> 唯一的遗憾就是，在市场极端情况下，我币安下单没成功，赶紧来这边下单，滑点有点过高了，开着 1%的滑点容忍，才勉强给我撮合成功，希望团队能够继续加强流动性吧，期待 V3 的上线。
+>  
+> 总体而言，Drift 在目前的一众 CEX/DEX 里面，还是给了我比较大的安全感，
+>  
+> 团队注重安全，高于效率。注重产品，高于激励。中规中矩，但也行以致远。
+
+## 12. Oct 11, 2025 · 9:33 AM UTC · 1976944150210920654#m
+- 链接：https://twitter.com/Cody_DeFi/status/1976944150210920654#m
+- 作者：@Cody_DeFi
+
+> 现在流动性有点混乱，估计做市商和交易所还在复盘和查找原因
+>  
+> 可以做一些跨所的资金费+价差套利，也可以看看 YT 的机会，还有一些山寨是不是也可以买点，大家都很看好有现金流的山寨，pendle\aave ?
+>  
+> 我不认为牛市结束了，这次币灾的主要原因是币安自己的问题。
+>  
+> USDE\ WARPED ETH 脱锚，做市商撤池子，一连串的踩踏效应，让山寨币直接插针到接近归零。但是另外一方面，BTC\ETH 的跌幅并没有那么恐怖。
+>  
+> 很大一部分原因，我猜测山寨币的定价权还在币安&币安背后的做市商手里，但是主流币的定价权已经去了华尔街。
+>  
+> 某种程度上来说，这次暴跌是币圈原生金融结构的问题，以币安为主要金融基建的币圈原生机构，发生了连环踩踏效应。
+>  
+> 现在整体大盘的情绪并没有那么差，Crypto 友好的政策没变化，也没有 too big to fail 的大机构倒塌，对后市还是比较看好的。
+
+## 13. Oct 10, 2025 · 10:55 PM UTC · 1976783590487908729#m
+- 链接：https://twitter.com/Cody_DeFi/status/1976783590487908729#m
+- 作者：@Cody_DeFi
+
+> 没等来山寨季，等来了山寨祭。
+>  
+> 这么一搞山寨更没人买了，价格都是做市商做出来的假象，一点点流动性就把价格跌穿了。
+>  
+> 几十亿的 FDV，可能只有几百万的流动性，山寨自带几十倍的杠杆。
+
+## 14. Oct 10, 2025 · 10:29 PM UTC · 1976777202579784035#m
+- 链接：https://twitter.com/Cody_DeFi/status/1976777202579784035#m
+- 作者：@Cody_DeFi
+
+> 亚洲人一觉醒来天都塌了，这波山寨直接插针最高 -90%，只要带一个多头杠杆就歇菜了……太可怕了
+
+## 15. Oct 10, 2025 · 9:49 PM UTC · 1976767177488494803#m
+- 链接：https://twitter.com/Cody_DeFi/status/1976767177488494803#m
+- 作者：@Cody_DeFi
+
+> 草了，任何一个交易所都下不了单，币安的活期 USDT 无法赎回？
+
+## 16. Oct 10, 2025 · 9:39 PM UTC · 1976764580224540766#m
+- 链接：https://twitter.com/Cody_DeFi/status/1976764580224540766#m
+- 作者：@Cody_DeFi
+
+> ？什么情况呢
+
+## 17. Oct 10, 2025 · 4:54 PM UTC · 1976692916484817155#m
+- 链接：https://twitter.com/Cody_DeFi/status/1976692916484817155#m
+- 作者：@Cody_DeFi
+
+> 还说准备放点钱进去做对冲，差点我又撞枪口上？
+
+## 18. Oct 10, 2025 · 1:48 PM UTC · 1976645948899213580#m
+- 链接：https://twitter.com/Cody_DeFi/status/1976645948899213580#m
+- 作者：@Cody_DeFi
+
+> MMT & Buidlpad 准备 TGE 了，然后要给 KOL 搞组队嘴撸加权。
+>  
+> 我就很尴尬，我发了不少 MMT 的内容，数据还不差，但都是维权的，这能算嘴撸吗？
+>  
+> （我真的要谢 @nemoprotocol 这个协议，钱还锁在里面，等他们做完审计，据说最快17号可以赎回？一个半月了，真就 NMSL ）
+
+## 19. Oct 3, 2025 · 4:49 PM UTC · 1974154910989234222#m
+- 链接：https://twitter.com/Cody_DeFi/status/1974154910989234222#m
+- 作者：@Cody_DeFi
+
+> 通过群友所谓的安全 KYC 友商推荐，搞了 @buidlpad 。
+>  
+> Kyc友商给的邮箱被谷歌封了，找了谷歌的人帮忙恢复，说邮箱需要管理员，他们恢复不了，友商说邮箱是随便买的，基本丢了。
+>  
+> 去找@buidlpad 帮忙，说 Kyc 不符合不支持support，基本上没啥希望。
+>  
+> 直接因为这个事儿，丢了4000U，这段时间太水逆了，各种低级错误导致亏钱，痛定思痛，以后逐步放弃各种擦边操作，老老实实的玩了。
+>  
+> 也尽量屏蔽了群，推特，还有各种币友的信息，不想陷入 fomo 的情绪里面，导致又踩各种奇怪的坑。
+>  
+> 区块链的坑比想象中多多了，而且经常发生在你意想不到的地方。信息噪音制造 fomo情绪，fomo 情绪导致傻逼操作，以后都自己玩自己的，老老实实的赚属于自己的那份钱。
+
+## 20. Oct 2, 2025 · 3:13 AM UTC · 1973587070502445496#m
+- 链接：https://twitter.com/Cody_DeFi/status/1973587070502445496#m
+- 作者：@Cody_DeFi
+
+> Spacecoin 是什么币啊，为什么 token2049 到处都是他们的 logo，而且还包了一个会议室带大家做瑜伽？
+
+## 21. Oct 1, 2025 · 1:31 PM UTC · 1973380308906156472#m
+- 链接：https://twitter.com/Cody_DeFi/status/1973380308906156472#m
+- 作者：@Cody_DeFi
+
+> V3 升级是 @DriftProtocol 筹备很久的一次协议升级。
+>  
+> 甚至可以说是一次 rebrand 的改变，过去的 PERP DEX，比如 GMX、Jupiter PERP，注重去中心化的自拓管，基于链上流动性的 PERP 交易模式。
+>  
+> 这符合 DEX 最早期的去中心化的原教旨的主义，但是 Hyperliquid 通过私链的模式，实现了匹配 CEX 的交易体验 —— 极致的速度和市场深度，打开了另外一个市场，这显然对于现阶段的合约交易用户而言，更具有吸引力。
+>  
+> Drift 经历过这两个阶段，一方面是注重了依托于 Solana 的自拓管模式，另外一方面，也要通过 V3 升级，引入更深的做市流动性（ 10X ），并且开放类似 JLP 的第三方存入流动性 token—— DLP ，以及协议代币 DRIFT 的 100% 收入回购。
+>  
+> 总之，我用了挺久的 DRIFT，最喜欢在上面做一些中性组合，包括我甚至对比了 $ASTER，在费率和交易滑点上的对比， @DriftProtocol 都不比  @Aster_ 弱。
+>  
+> 回到大家都熟悉的那句话上，发币是发币，产品是产品，使用产品感受也是如此。
+
+## 22. Oct 1, 2025 · 7:47 AM UTC · 1973293711628050933#m
+- 链接：https://twitter.com/Cody_DeFi/status/1973293711628050933#m
+- 作者：@Cody_DeFi
+
+> Huma Q4 的重点就是对 DeFi Looping 进行收益分级。
+>  
+> Huma 有12%左右的原生收益，零违约率，现在 Solana Usdc 的借贷利率，大部分时候可能只有5-8%， looping 几次之后，整体 APY 能够达到 30%-50%
+>  
+> 这部分收益会抽取部分，给到两个 vault ，一个是保险基金，由 staking sol 支持。一个是 Huma staking vault，会给looping 提供 boost 激励。
+>  
+> 这样，保险基金能够给 looping 的用户提供缓冲，增加 looping的体量。
+>  
+> 另外一方面给 huma staking 进行赋能，质押 Huma 能够直接拿到收益，而不仅仅是羽毛，提供让质押和存钱的用户变成两个群体，分别拿到收益。Huma vault 的部分收益同时用来回购 huma，最后促成正向飞轮。
+>  
+> 总体而言，相当于给 Huma 的双代币经济，做了一个币圈DeFi looping 增长的场景。
+
+## 23. Sep 30, 2025 · 10:02 AM UTC · 1972965273230844064#m
+- 链接：https://twitter.com/Cody_DeFi/status/1972965273230844064#m
+- 作者：@Cody_DeFi
+
+> 实在太离谱了， @nemoprotocol 被盗之后，为了安全重新写了一遍协议代码，然后提交审查，然后即使没被盗的资产，也被暂时性的冻结在里面了，所以有大量用户的资产还沉淀在 @MMTFinance 和 @nemoprotocol 的池子中。
+>  
+> 当初很多用户是冲着 @MMTFinance 的积分，才去参与的 NEMO 的协议，结果 NEMO 出事之后，MMT 直接把所有通过 NEMO 存钱的用户积分都抹消掉了。
+>  
+> 实在无法理解，为什么 MMT 要这么做，作为关联生态协议，在生态协议出问题的时候，不仅不给予援手，甚至还把用户的历史积分都抹消掉了，普通用户不仅损失了钱，还损失了机会成本，DEFI 用户也实在太弱势了吧？
+>  
+> MMT 的创始人 @ChefMMT_X 可是口口声声说
+>  
+> “Totally. We all build on Sui ecosystem and we believe we stay stronger together.”
+>  
+> 为什么转头就把 NEMO 的用户抛弃了，这样子以后还怎么能够让人信任和参与 SUI 链的  DEFI 协议？项目方能不能考虑一下用户的感受？ @NemoEugene
+>  
+> ——
+>  
+> This is just outrageous. After @nemoprotocol was hacked, they rewrote the entire protocol code for security reasons and submitted it for review. But even the assets that weren’t stolen ended up temporarily frozen. As a result, a large number of user funds are still locked in the pools of @MMTFinance and @nemoprotocol.
+>  
+> Back then, many users participated in the NEMO protocol mainly for the points offered by @MMTFinance. But after the NEMO incident, MMT directly erased all the points earned by users who deposited through NEMO.
+>  
+> It’s truly incomprehensible why MMT would do this. As an interconnected project in the same ecosystem, not only did they fail to offer any support when a fellow project encountered problems, but they even erased users’ historical points. Regular users didn’t just lose money—they also lost opportunity costs. Are DeFi users really this powerless?
+>  
+> The founder of MMT, @ChefMMT_X, once said:
+>  
+> “Totally. We all build on Sui ecosystem and we believe we stay stronger together.”
+>  
+> So why did they turn around and abandon NEMO’s users? How can people trust or be willing to participate in DeFi protocols on the SUI chain after this? Can the project teams please consider the users' perspective? @NemoEugene
+
+## 24. Sep 29, 2025 · 11:20 AM UTC · 1972622547599692189#m
+- 链接：https://twitter.com/Cody_DeFi/status/1972622547599692189#m
+- 作者：@Cody_DeFi
+
+> Solana Apex  side event 的活动真气派，在五星级酒店 73楼观景酒吧。
+>  
+> 还没来得及时间去聊天，今晚上 Claim FF 空投才是第一要务😮‍💨@solana @Solana_zh
+
+## 25. Sep 27, 2025 · 6:43 AM UTC · 1971827974774403107#m
+- 链接：https://twitter.com/Cody_DeFi/status/1971827974774403107#m
+- 作者：@Cody_DeFi
+
+> 人倒霉的时候，真的是会连续倒霉呀
+>  
+> 吃鱼都被卡鱼刺，去了医院找不到，只感觉异物感梗在喉里
+>  
+> 可能鱼刺太小，只能等身体排异，排不出来就要共生，真的给我搞抑郁了
+>  
+> 本来带着期待的心情去新加坡 token 2049 的，这下心情变得好 down ，一度都不想去了
+>  
+> 只有在生病的时候，才会感觉财富什么的都不重要，好好活着已经很好了😢
+
+## 26. Sep 25, 2025 · 3:45 PM UTC · 1971239519988089218#m
+- 链接：https://twitter.com/Cody_DeFi/status/1971239519988089218#m
+- 作者：@Cody_DeFi
+
+> 泪目了，利好 eth ，黑客都刷成eth了
+
+## 27. Sep 25, 2025 · 12:49 PM UTC · 1971195295972327620#m
+- 链接：https://twitter.com/Cody_DeFi/status/1971195295972327620#m
+- 作者：@Cody_DeFi
+
+> 现在 CEX 交易所里面的各种存款活动 APY 都是年化 20% - 50%以上了
+>  
+> 现在搞 DeFi 都不用离开 CEX 了……
+
+## 28. Sep 24, 2025 · 3:04 AM UTC · 1970685743841649023#m
+- 链接：https://twitter.com/Cody_DeFi/status/1970685743841649023#m
+- 作者：@Cody_DeFi
+
+> 全网都在交易 aster 了，drift 都上了交易对… 这赚钱效应真看不明白…
+
+## 29. Sep 23, 2025 · 5:43 PM UTC · 1970544538130489578#m
+- 链接：https://twitter.com/Cody_DeFi/status/1970544538130489578#m
+- 作者：@Cody_DeFi
+
+> 这个基金也是挺牛逼的，底层资产全是杠杆拉满了的循环贷，health factor 1.03 那种，之前基金管理人 fud 了 Usdf 然后导致了一度脱钩，我看了一下底层资产，还真是五花八门的稳定币循环贷拉满了……除了 Usdf….
+
+## 30. Sep 23, 2025 · 12:06 PM UTC · 1970459768881062214#m
+- 链接：https://twitter.com/Cody_DeFi/status/1970459768881062214#m
+- 作者：@Cody_DeFi
+
+> YALA @yalaorg 官方如约在 23号添加了 500万 U 的流动性，现在币价回锚了。
+>  
+> 这次 YALA 的事件，官方处理的非常干脆，承担了所有损失，并且基本上没有任何延期的履约了承诺。
+>  
+> 有钱赔付当然是好事，但是教训也非常昂贵，机构级 BTC FI 注重托管安全，YU 的稳定币取决于 USDC 真实 BACKUP， DEFI 安全更是不仅仅是合约审计，流程管控也是一部分。
+>  
+> 站在非项目方的角度，我感觉可以吸取教训和改进的地方都非常多，这只是灾后重建的第一步。
+>  
+> 希望项目方能够妥善度过危机，把项目平稳的做起来，DEFI 真的很难。🥲 @Bin_YalaLabs @cktlore @Christinaliu66  @pandaBA007 @piper1000x @VickyXAI
+
+## 31. Sep 19, 2025 · 7:18 AM UTC · 1968937709164183566#m
+- 链接：https://twitter.com/Cody_DeFi/status/1968937709164183566#m
+- 作者：@Cody_DeFi
+
+> 就是没想到拿了一年多的 @DriftProtocol token，开始赚钱了。
+>  
+> 我一直都觉得 DRFIT 是被低估的。但是之前币价真的不给力，只能说产品是产品，团队是团队，币是币。
+>  
+> 现在 perp DEX 的风因为 @Aster_DEX 的走势，又被重新点燃。
+>  
+> 从  @lerolwen 老师那里看到一个关于 perp DEX 的文档，我觉得挺好的，有关于目前主流 DEX 的大部分数据。
+>  
+> 想撸 perp DEX 的人，可以看看这个文档，以及关注邻山老师。
+>  
+> 文档：perpetualpulse.xyz/
+>  
+> 现在看起来，未 TGE 的 PERP DEX，light 的数据是最好的，其次是 BACKPACK 和 edgeX，不过 BACKPACK 有自己的独特优势——牌照。
+>  
+> 最后再多说两句 Drift，在关于“去中心化交易所”这个定义上， Drift 是比其他几个 DEX 更符合的，依然保持了依托 SOLANA 主链的非托管账户模式，而且勤勤恳恳的耕耘四年，TVL 现在第 3.
+>  
+> 但是相比于去中心化，现在用户更重视交易速度和深度，低摩擦和手续费。这些问题他们会在 V3 升级中改善，引入更多流动性和做市商。
+>  
+> 作为产品会越来越好用，可惜就是发币太早，无法参与这波刷交易量撸空投的狂潮了。
+
+## 32. Sep 18, 2025 · 2:35 PM UTC · 1968685423879930248#m
+- 链接：https://twitter.com/Cody_DeFi/status/1968685423879930248#m
+- 作者：@Cody_DeFi
+
+> 很高兴跟各位老师进行一场 AMA 探讨，稍微浓缩了一下各位老师的发言精华。
+>  
+> Tradingview @GDHFang  老师认为 BTC 已经成为主流金融产品之一，有更低的波动率，更大的交易量。而且 ETH\SOL 这类主流资产也在进入主流金融视野。虚拟货币相比于黄金，除了有储备商品的价值，还有智能合约的拓展空间，天花板理论更高，长期看好市场趋势。短期内波动，主要取决于流动性紧张程度，如果像 BTC 这类资产因为流动性紧张而大跌，并不失为一个好的买入机会。
+>  
+> @dory0228  老师分享了关于网格交易的策略，最主要的是控制价格区间和仓位，通过使用一些技术指标，布林带、RSI等，能够提高网格交易的胜率，BTC 在11-12万这个价格区间已经震荡了 2.5个月，就很适合作为网格交易。对于超出区间的交易，要么控制止损，及时调整网格区间，要么愿意持币，比如BTC。
+>  
+> @ospopen  老师分享了关于套利的一些实操经验。比如某些项目方在币价 1：1 兑换的时候，链上老币流动性归零，但是有些小交易所还没来得及进行新老 TOKEN 的重新 list，这里面就存在部分流动性套利机会。其次，DEFILLMA 的收益聚合板块，可以经常刷新，查看最新的资金池收益情况，有时候一些新矿，在早期有非常好的年化 APY，而且可以根据收益池情况，发掘链上高息套利机会。
+>  
+> @wsjack_eth  老师分享了关于链上信号的一些经验，比如在之前 @Aster_DEX  的TGE 事件中，很多人因为卖飞 aster 感到遗憾，JACK 老师从 1：1 兑换代币 APX 的交易异动来判断，APX 老币的成交量异动，也暗示了 aster 的行情会有变化，链上山寨币的交易核心，还是找到异动数据，他们的产品 @aveai_info  支持很多异动数据的捕捉，并且支持多达160+链。
+>  
+> @sukie234  老师分享了如何在链上建立一个有效的用户地址库， @gmgnai  对此有强大的功能支持，能够给很多聪明钱、鲸鱼进行打标分类，也有推特捕捉工具，能够第一时间抓住最新热点叙事。并且支持对合约安全性的检测，能够预防一些貔貅盘，进行安全的扫链。
+
+## 33. Sep 17, 2025 · 10:11 AM UTC · 1968256365438316756#m
+- 链接：https://twitter.com/Cody_DeFi/status/1968256365438316756#m
+- 作者：@Cody_DeFi
+
+> 多谢 @Solana_zh 社区的邀请，明天晚上将会和几位老师，一起探讨交易，套利，链上信号方面的话题，欢迎大家一起来参与 🎙️
+
+## 34. Sep 16, 2025 · 10:55 PM UTC · 1968086260305817968#m
+- 链接：https://twitter.com/Cody_DeFi/status/1968086260305817968#m
+- 作者：@Cody_DeFi
+
+> Yala @yalaorg 兜底了所有的损失，770 万 U 不是一个小数目，协议的安全审计也没有问题，内控有问题。
+>  
+> 唉，凭心而论，项目方的安全意识并不低，还是出了问题，损失也不少，希望能够追回被盗的资产。
+>  
+> 细节后面再看，DeFi 真的好难 🤯 。
+
+## 35. Sep 15, 2025 · 7:19 AM UTC · 1967488430411329667#m
+- 链接：https://twitter.com/Cody_DeFi/status/1967488430411329667#m
+- 作者：@Cody_DeFi
+
+> Neom 出的赔偿方法，参考了当初 @Penpiexyz_io 的赔偿方案，是债务型 token - NEOM。
+>  
+> 官方会按照 1：1 的价格，给 NEOM / USDC 的池子注入初始流动性，然后后续会逐渐通过外部融资的形式，再注入流动性。
+>  
+> 参考一下被盗池子的比例，很多非 U 的资产都被按照 U 进行偿还了。
+>  
+> 对非 U 用户挺不友好的，因为价格波动需要自己承担，初始流动性不足，也会让债务 TOKEN 大打折扣。
+>  
+> 只是引入了第三方交易用户，来交易债务TOKEN，算是把一份债务过度到了公开市场，让赔偿时间延续吧。
+
+## 36. Sep 14, 2025 · 11:42 AM UTC · 1967192238003482903#m
+- 链接：https://twitter.com/Cody_DeFi/status/1967192238003482903#m
+- 作者：@Cody_DeFi
+
+> @cktlore @piper1000x @Christinaliu66
+
+## 37. Sep 14, 2025 · 11:39 AM UTC · 1967191591673823643#m
+- 链接：https://twitter.com/Cody_DeFi/status/1967191591673823643#m
+- 作者：@Cody_DeFi
+
+> 已经过去大半天了，现在 @yalaorg 项目方发布的是资产安全。
+>  
+> 但是另外一方面，链上显示有大量的 USDC 被黑客掏走了，项目方是否应该直面目前的事实，考虑一下怎么处理后续的情况，及时发布方案，白帽方案等等？
+>  
+> 如果要 BTC 抵押清算无法实现，意味着所有的 USDC 用户都要亏损？
+>  
+> 难道这么多人实名加机构背书的团队，连最基本的事实情况都不处理一下吗？ @Bin_YalaLabs @VickyXAI
+> @pandaBA007
+
+## 38. Sep 14, 2025 · 7:48 AM UTC · 1967133407391215689#m
+- 链接：https://twitter.com/Cody_DeFi/status/1967133407391215689#m
+- 作者：@Cody_DeFi
+
+> 如果连全员实名，加众多机构背书的项目方最后都是以黑客 + RUG 收场的话。
+>  
+> 那这些链上 DEFI 就真的没啥意思了。
+>  
+> 希望 @yalaorg 能够妥善的解决这次危机吧。
+
+## 39. Sep 14, 2025 · 7:02 AM UTC · 1967121728720785742#m
+- 链接：https://twitter.com/Cody_DeFi/status/1967121728720785742#m
+- 作者：@Cody_DeFi
+
+> Yala , Sei , Sui 接连被盗，感觉 DeFi 这条路可能走不通
+
+## 40. Sep 12, 2025 · 7:57 AM UTC · 1966410881992200365#m
+- 链接：https://twitter.com/Cody_DeFi/status/1966410881992200365#m
+- 作者：@Cody_DeFi
+
+> 有时候我感觉币圈不像金融行业，像影视行业。
+>  
+> 每隔一段时间，市场就需要有项目来凝聚资金的共识，不然资本无法实现自我增值的目的。
+>  
+> 现在这个时间段，币圈的档期无疑是留给 @FalconStable 的，16 亿 TVL + @buidlpad 造势 + @xhunt_ai 显示讨论热度第一，共识+流动性溢价助推 TGE 最后阶段的 FDV 定价。
+>  
+> 明牌大毛无疑，能参与就参与，感谢 Ruby 老师写的详细攻略。
+
+## 41. Sep 12, 2025 · 7:20 AM UTC · 1966401427049427154#m
+- 链接：https://twitter.com/Cody_DeFi/status/1966401427049427154#m
+- 作者：@Cody_DeFi
+
+> 欢迎大家使用我的 DRIFT 链接参与，大使专属优惠会在月底更新：app.drift.trade/ref/cody
+
+## 42. Sep 12, 2025 · 7:19 AM UTC · 1966401184027259254#m
+- 链接：https://twitter.com/Cody_DeFi/status/1966401184027259254#m
+- 作者：@Cody_DeFi
+
+> 现在 PERP DEX 的竞争力环境很激烈， @DriftProtocol 也在做自己的 V3 升级。
+>  
+> Referral 的返佣从 15% 提高到了 35%，就是其中一项举措，后续还有更多新功能开放。
+>  
+> 不过这个要推荐交易量一个月满足 1000万才能达标，我觉的适合搭配之前的做市商激励策略:
+> localhost:8080/DriftProtocol/status/1…
+>  
+> one more thing:
+>  
+> 这里，再分享一个基于 @Lombard_Finance  LBTC 的跨协议循环贷套利。
+>  
+> 简单的来说，LBTC 正在 SOL 链上做利息补贴，应该是为了自己 TGE 做最后的冲刺。
+>  
+> 所以， @KaminoFinance 上 LBTC 的存入利息补贴高达 15-20%，同时还可以借出 WBTC，然后 WBTC 存入 @DriftProtocol ，可以低成本的借出 LBTC，循环一下。年化很轻松上 20%+
+>  
+> 风险就是 LBTC 脱钩，不过 TGE 在即，风险不大吧，DYOR
+
+## 43. Sep 11, 2025 · 6:44 AM UTC · 1966030001100468574#m
+- 链接：https://twitter.com/Cody_DeFi/status/1966030001100468574#m
+- 作者：@Cody_DeFi
+
+> Nemo 的这个复盘报告写的很详细，从团队成立初期到现在黑客事件，进行了全面的复盘。 @nemoprotocol
+>  
+> 我觉得这份报告，体现了大多数现在 WEB 3 初创团队的问题。
+>  
+> 比如，团队早期一月份的时候，开发拥有协议升级单签权限，上传了未经审计的代码到代码库里。而团队在四月份的时候，才建立多签升级合约的 SOP 流程。
+>  
+> 还有，为了追求了潜在的增长，在未经足够风险考虑的情况下，把“闪电贷”功能部署到了合约内。以及，在跟 @MMTFinance  的合作金库开发上，投入了太多的资源，而忽视了对安全问题的审视。
+>  
+> 总体而言，我在好几个出现问题的初创团队身上，都看到了类似的问题。为了快速增长，忽视甚至放弃了对安全问题的考虑。并且没有彻底的 review 早期遗留问题，而直接进行历史代码依赖。以及最重要的，团队核心人员没有分配足够的精力，对安全问题进行时刻警惕。
+>  
+> Nemo 作为 sui 生态的 pendle 类协议，一年时间不到， TVL 最高去到了接近 20 M，速度真的很快，尤其是在市场需求点上也打的很精准，跟 MMT TGE 的合作，加上 Sui foundation 的激励，吸引了大量 TVL。
+>  
+> 而另外一方面，为了追求 TGE 节点的机会，资源不足的情况下，必然会放弃对安全的审视，这让协议某些时刻看起来像裸奔。
+>  
+> 目前，被盗资金 260万美金，主要是和 @Scallop_io  合作的金库-205万 美金，以及 MMT 的 suiUSDT-USDC池子 55万美金，我损失的资金量不大，不过有一些钱冻结在了协议内，团队正在重新评估和审计代码，也在组织赔偿方案。从这个重新启动的节奏来看，估计还要一个月吧。
+>  
+> 唉，这对我自己也是一个教训，DeFi 是一个复杂且高风险的投资。初创项目大部分都是技术性极客，对金融的安全理解并不深刻。对于新协议真的要谨慎，哪怕是有大平台进行背书。
+>  
+> 对于要投入资金的平台，还是要着重的理解团队的安全文化，历史背景，对高额激励和机会保持冷静的状态吧。
+
+## 44. Sep 10, 2025 · 7:00 PM UTC · 1965852795678109800#m
+- 链接：https://twitter.com/Cody_DeFi/status/1965852795678109800#m
+- 作者：@Cody_DeFi
+
+> 北京时间今天早上九点，会有一份关于 @nemoprotocol 全面报告，另外 @NemoEugene 也会发起一场 AMA 在 discord 。
+>  
+> 目前猜测，是有资方来帮助度过难关了，看起来项目方和一些关键生态，还有资方，并不希望协议清算，具体情况，看明天的报告吧。
+>  
+> PS.遭遇协议被黑真的蛮难熬的，哪怕是受损资金并不多，但是有大量资金锁在里面，除了等待，别无他事可做。
+
+## 45. Sep 10, 2025 · 2:17 PM UTC · 1965781584822603858#m
+- 链接：https://twitter.com/Cody_DeFi/status/1965781584822603858#m
+- 作者：@Cody_DeFi
+
+> 恭喜 @FalconStable 上了 @buidlpad ，再来一个盘前合约，TGE 估值指日可待。
+
+## 46. Sep 10, 2025 · 6:53 AM UTC · 1965670038595404021#m
+- 链接：https://twitter.com/Cody_DeFi/status/1965670038595404021#m
+- 作者：@Cody_DeFi
+
+> 《如何在  @DriftProtocol  上拿到年化 15% + APY 的合约保证金利息，并且做出 25%+ APY 的套利方案》
+>  
+> ⭐️合约保证金利息激励计划
+>  
+> Drift 正在和很多项目方正在做合约保证金利息激励计划（ collateral incentive ）
+>  
+> 简单的说，就是通过对有效合约保证金进行激励，从而大幅提高你的保证金仓位利息。
+>  
+> 所谓的有效保证金，就是你开仓合约的开仓量（open interest ）能够覆盖抵押品的金额价值，那么会取两者之间最小数来计算利息。
+>  
+> 比如最近刚刚和 @Lombard_Finance 进行合作，用 LBTC （BTC 的包装版本）作为开仓合约的抵押保证金，就能享受 U 本位 年化15% 左右的合约保证金利息。
+>  
+> 比如，我在 DRIFT 上开仓了 10000 USDC 等值的 BTC 合约仓位，同时使用 10000 LBTB 作为这个合约仓位的保证金，那么我就能够享受到 10000 U 本位，15% APY 激励的合约保证金。
+>  
+> 合约仓位和保证金价值，二者之间取最小数，如果 BTC 合约仓位只有8000 U，合约保证金 LBTC 有10000 U，那么激励本金也只有 8000 U.
+>  
+> ⭐️进阶玩法-杠杆保证金
+>  
+> 如果想拿到超过 15% APY 激励的方式，最简单的办法，就是创建一个 DRFIT 的子账户，然后账户一放入 USDC ，借出 LBTC，账户二存入 LBTC，开仓合约。
+>  
+> 这样的话，能够拿到一个存 U 借LBTC 的组合贷款仓位，作为基础抵押品，USDC 本身就有 7%左右的利息，相当于 7 +15% ，约等于 20%的年化保证金利息。
+>  
+> 比如我这里，我第一个账户借了 LBTC，第二个账户作为合约保证金，因为 BTC 波动更小，所以杠杆放的更高。
+>  
+> ⭐️除此之外
+>  
+> 而这些，仅仅你的保证金利息，在这个基础上，你的合约仓位无论是炒币，还是套利，都能拿到较低的手续费或者 FUNDING FEE。
+>  
+> 比如现在 HYPE 很火，平台上面的做空年化利率，月平均水平是25%
+>  
+> 所以，一个最简单的套利生息方案，就是在 DRIFT 上面开两个账户，账户 1 存入 USDC，贷出 LBTC，账户2 存入 LBTC 作为抵押品，同时开仓合约 HYPE 做空，买入 HYPE 现货套保。
+>  
+> 一个年化20-40%+APY，并且没有第三方托管风险的方案就出现了。
+>  
+> 延申：
+>  
+> 这是我成为 Drift 大使后，分享的第一个基于 Drift 的策略，平台本身还有很多功能点可以挖，欢迎大家用我的大使专属链接参与，有大使专属的最优手续费折扣优惠：
+>  
+> app.drift.trade/ref/cody
+>  
+> ————————
+>  
+> How to Earn 15%+ Annualized APY on Contract Margin Interest at Drift @DRIFT and Create an Arbitrage Strategy Yielding 25%+ APY
+>  
+> Contract Margin Interest Incentive Program
+>  
+> Drift is collaborating with many projects on a contract margin interest incentive program (collateral incentive).
+>  
+> Simply put, this program significantly increases the interest on your margin positions by incentivizing effective contract margin.
+>  
+> "Effective margin" refers to the lesser value between your open interest on contracts and the value of your collateral. Interest is calculated based on this minimum value.
+>  
+> For example, in the recent collaboration with @LOMBADR, if you use LBTC (a wrapped version of BTC) as collateral for opening contract positions, you can enjoy around 15% APY in US dollar-denominated contract margin interest.
+>  
+> For instance, if I open a BTC contract position on DRIFT equivalent to 10,000 USDC, and use 10,000 LBTC as margin for this position, I can receive the 15% APY incentive on 10,000 USDC worth of contract margin.
+>  
+> Between the contract position and the collateral value, the smaller amount is taken. So, if the BTC contract position is only 8,000 USDC and the LBTC margin is 10,000 USDC, the incentive principal will be 8,000 USDC.
+>  
+> Advanced Strategy – Leveraged Margin
+>  
+> If you want to earn more than 15% APY in incentives, the easiest way is to create a sub-account on DRIFT. In Account 1, deposit USDC and borrow LBTC. In Account 2, deposit LBTC as collateral and open a contract position.
+>  
+> This creates a USDC deposit + LBTC loan combination as basic collateral. Since USDC itself yields around 7% interest, this strategy yields approximately 7% + 15% = about 20% annualized margin interest.
+>  
+> Moreover, this is only your margin interest. On top of this, whether you trade contracts or perform arbitrage, you will enjoy lower fees or FUNDING FEE rebates on your contract positions.
+>  
+> For example, HYPE is currently very popular, with short-selling annualized interest rates on the platform averaging around 25% monthly.
+>  
+> So, the simplest arbitrage yield strategy is: open two accounts on DRIFT. Account 1 deposits USDC and borrows LBTC; Account 2 deposits LBTC as collateral and opens a short contract position on HYPE while simultaneously buying HYPE spot for hedging.
+>  
+> This yields a 20-40%+ APY arbitrage plan with no third-party custody risk.
+>  
+> Additional Notes:
+> This is the first Drift-based strategy I’m sharing after becoming a Drift Ambassador. The platform itself has many more features to explore. Feel free to join using my ambassador referral link for exclusive best fee discounts:
+> app.drift.trade/ref/cody
+
+## 47. Sep 9, 2025 · 3:45 PM UTC · 1965441376193257486#m
+- 链接：https://twitter.com/Cody_DeFi/status/1965441376193257486#m
+- 作者：@Cody_DeFi
+
+> 从昨天这份声明到现在已经过去一天了，@nemoprotocol 团队在沟通上非常的不透明和被动，除了@NemoEugene 发布过一个简短的声音，以及在 discord 内表示会在 24 小时内出具一份全面复盘报告之外，就没有任何来自于项目方的信息了。
+>  
+> Discord 里面的社区用户从等待变成焦虑，害怕事情进一步恶化，很需要新进展的更新。可惜的是，@SuiFoundation 基金会对 Nemo 的关心远远不如 @CetusProtocol ，甚至不清楚，他们有帮助 Nemo 一起面对这个事情。
+>  
+> 现在除此之外，最大的信源方就是合作的@MMTFinance @ChefMMT_X 了，但是更新的最新信息也少的可怜。
+>  
+> 先不论这件事的严重程度，这种处理方式就很让人焦虑，没有沟通，只有等待，这就是 Sui 链生态项目方的工作方式吗？
+>  
+> 希望项目方能够尽快披露最新信息，资金情况，以及处理方案，并且需要一名有担当的人，来面对目前社区的沟通需求。
+
+## 48. Sep 8, 2025 · 9:50 PM UTC · 1965171031448190988#m
+- 链接：https://twitter.com/Cody_DeFi/status/1965171031448190988#m
+- 作者：@Cody_DeFi
+
+> 唉，多事之秋，代码库出现供应链级别漏洞风险，对整个 Solana 生态都有影响。
+>  
+> 各个协议方都在审核自己的情况，建议每次签名之前，多看一下签署的地址和钱包。
+
+## 49. Sep 8, 2025 · 8:56 AM UTC · 1964976160221401513#m
+- 链接：https://twitter.com/Cody_DeFi/status/1964976160221401513#m
+- 作者：@Cody_DeFi
+
+> MMT @MMTFinance 发了一个公告，表示所有和 Nemo 合作的 Vault 先下架了，池子里面的资金是安全的。
+>  
+> 现在看到的情况大概是，有 260万 U 被盗走了，预估占协议总 TVL 的 15%左右。
+>  
+> 部分消息人士称，Vault 里面的资产是安全的，最主要受影响的就是 YT 资产，但是不确定这个消息的准确性，等待官方通告。
+>  
+> 而且真要做赔偿和清算的话，是所有人均分亏损金额，还是部分人承担所有，是未知数。
+>  
+> 但是有部分人在协议暂停之前，已经把资金提走了，可能有100-200万美金？这些人有自己的渠道。
+>  
+> 感觉 @SuiFoundation @MMTFinance 应该会支持一部分 Nemo 的损失，因为很多人参与 Nemo 主要还是 MMT 的品牌，以及 SUI 基金会的高额 incentive。
+>  
+> Nemo 是 Sui 生态唯一的 Pendle 类协议，如果 SUI 链要继续搞，这个角色还是无法缺席。
+>  
+> 唉，这不是我第一次经历 DEFI 协议被盗，感觉也不会是最后一次，有时候真不知道自己是不是做的正确的选择。
+
+## 50. Sep 8, 2025 · 7:44 AM UTC · 1964958062420132107#m
+- 链接：https://twitter.com/Cody_DeFi/status/1964958062420132107#m
+- 作者：@Cody_DeFi
+
+> 看了一下链上 @nemoprotocol  被盗的交易
+>  
+> 有两个池子被攻击了，一个是和 MMT 合作的 suiUSDT - USDC 的池子，被移除了55.6万 U 的流动性。
+>  
+> 第二个是和 @Scallop_io 合作的 staking 池子，差不多有 180 万U 的代币移走了。
+>  
+> 然后黑客已经全部换成了 USDC 通过 CIRCLE 的 CCTP 移出了 SUI 链。
+>  
+> SUI 生态是不是彻底废了。
+
+## 51. Sep 8, 2025 · 6:40 AM UTC · 1964941879524598140#m
+- 链接：https://twitter.com/Cody_DeFi/status/1964941879524598140#m
+- 作者：@Cody_DeFi
+
+> 卧槽，我有钱在这里
+
+## 52. Sep 8, 2025 · 4:58 AM UTC · 1964916125495652641#m
+- 链接：https://twitter.com/Cody_DeFi/status/1964916125495652641#m
+- 作者：@Cody_DeFi
+
+> 检测  USDC 含金量的时候到了，如果 Hyperliquid 这关都过不了，很难想象未来 USDC 究竟有多大的护城河。
+
+## 53. Sep 7, 2025 · 6:04 PM UTC · 1964751745982115919#m
+- 链接：https://twitter.com/Cody_DeFi/status/1964751745982115919#m
+- 作者：@Cody_DeFi
+
+> 《普通散户如何与机构竞争，更好的在链上提供流动性？》
+>  
+> 本来想在 Solana 的 @MeteoraAG 上面做一点流动性 LP 的策略，才发现，原来大部分 Solana 上面的流动性，都不是开放给普通用户的。
+>  
+> ⭐️是什么原因呢？
+>  
+> 因为这些流动性，要么被暗池 AMM 瓜分，要么就是被场外 OTC 撮合了，基本主流代币的交易量都不会分配给普通用户参与的流动性。
+>  
+> 比如，我想在 OK 的 DEX 交易所，买一万 U 的 $JUP ，然后看订单波，整个流动性基本被 3个基本上没太多人知道的暗池 AMM 瓜分了。
+>  
+> 这些暗池 AMM 基本都是由个别做市商提供部署的，只在智能合约层面运行，基本上占据了 SOL 链上，主流代币 90%以上的交易量。
+>  
+> 又比如，有些 DEX 会匹配不同 router，然后自家的 router 会优先匹配。
+>  
+> 我在 @JupiterExchange 上面如果用 U 买 $huma 的话，就会把订单  route 到 Jupiterz 上，Jupiterz 是 Jupiter 自己做的链下 OTC 撮合流动性池，相当于给 OTC 商户做了个暗池 AMM，OTC 可以拿到 CEX 的货，再去链上做流动性。
+>  
+> 总之，这么一通观察之后，我就发现，在 @MeteoraAG 上做一些主流代币的 LP 性价比很低，因为很多订单都去了暗池，分给 Meteora 的很少。
+>  
+> Meteora 能走到今天这个水平，估计很大程度，还是 meme 助推的吧， meme 主打一个速度快，滑点高，深度差，适合阶段性 FOMO，Meteora 相当于占据了一个利基市场。
+>  
+> 而主流代币，散户和 OTC 大户会越来越形成马太效应，最后总有一天，链上也会跟链下一样，大量订单被机构做市商吃掉。
+>  
+> ⭐️最后
+>  
+> 我觉得这个情况在 ETH 主链或许好很多，毕竟深度很高，巨鲸和散户的钱都放在 uniswap，甚至做市商做市也会引用 @Uniswap   的流动性，其他链就很难说了。
+>  
+> 侧面也说明一个事情，如果要做 LP 策略，提供流动性，第一步应该通过一些热门的 DEX 交易聚合器，去查看 router 的路径，通常会经过那些池子，是否散户参与的机会。
+>  
+> 然后，再去做具体的策略选择，链上这么公平，作为散户不要输在起手上。
+
+## 54. Sep 4, 2025 · 7:53 AM UTC · 1963510730654916612#m
+- 链接：https://twitter.com/Cody_DeFi/status/1963510730654916612#m
+- 作者：@Cody_DeFi
+
+> 《解析以 JLP 为底层资产的合成稳定币项目 ——@UnitasLabs 》
+>  
+> 1⃣– Unitas 是什么？
+>  
+> 昨天在 @DRFIT 的那篇帖子里面，很多人提到过在 DRFIT 上面买过 JLP 中性策略的 Vault。
+>  
+> 这次正好，给大家介绍一个基于 JLP 中性策略的稳定币项目 Unitas。
+>  
+> Unitas 跟 @ethena_labs  一样，也是合成稳定币项目，基于市场中性 策略（对冲套保）发行稳定币。
+>  
+> 区别在于， Ethena 只做 BTC/ETH 的底层资产，而 Unitas 做 JLP 中性的策略。
+>  
+> $JLP 是 @JupiterExchange  基于现货模型的 perp dex 发行的流动性 token。
+>  
+> 简单的说，JLP 是一个代币化的资金池，里面有 USDC+BTC +ETH +SOL，然后资金池的出资方与 Jupiter 里面的交易选手进行对赌，承担对赌风险的同时，也赚取手续费。
+>  
+> 所以，相比于 Ethena 只对冲BTC/ETH，JLP 的对冲更加复杂，当然收益也更高。
+>  
+> ⭐️为什么对冲更复杂？
+>  
+> 因为 JLP 本质是为 jupter 的交易客户服务的，所以他的资金池里面，BTC\ ETH\ SOL 是会动态变化的。如果要对冲 JLP 的底层资产，策略管理方也需要动态调整自己的对冲仓位，比如 Unitas 的对冲就是以每小时间隔执行的。
+>  
+> ⭐️为什么收益更高？
+>  
+> 因为 Ethena 的收益来源只有合约的 funding fee，但是 JLP 却多了一个手续费。在牛市的时候，这个综合收益率能够去 50%+以上，同时在资金费套利层面，也会有更好的收益。
+>  
+> 在我看来，如果以 Ethena 为主的合成稳定币是一款 PMF 比较好的赛道。
+>  
+> 那么以 JLP 为底层资产，进行对冲套利，并且发行稳定币的项目，就应该存在。
+>  
+> 因为 JLP 不仅有更高的收益率，同时他和 Ethena 这类对冲套利策略一样，收益全部来自于链上真实可验证，这在币圈是属于较高透明度的资产。
+>  
+> 2⃣– Unitas 是否值得参与？
+>  
+> 总体而言，是否值得参与，归根到底就两个维度。1、策略的收益与稳健性如何 2、资金的托管是否安全
+>  
+> ⭐️策略稳收益稳健性
+>  
+> @DriftProtocol  是最早发行 JLP 中性策略 Vault 的平台，他上面有大量的此类基金 VAULT 可以作为回撤收益的验证。
+>  
+> 这里面全部都是基于 JLP 为底层资产的中性资金 VAULT，可以看到，在较长时间的运行下，所有此类基金都是正收益。
+>  
+> 而且其中运行时间最长的 VAULT，最大回撤率只有 -2.24%
+>  
+> 这些事情说明：
+>  
+> 1、策略比较稳健，动态对冲手段可行。
+> 2、收益率确实高于 ethena 这类纯对冲
+>  
+> 策略的稳健性，给了 Unitas 发行基于 JLP 合成稳定币的基础。
+>  
+> ⭐️资金的托管是否安全
+>  
+> 安全主要分为两个方面，Unitas 自己的风控，和 JLP 资金池的安全。
+>  
+> Unitas 跟 Ethena 一样，也是采用了 Ceffu/ Copper 这样的托管商，跟交易所进行场外清算。
+>  
+> 链上的 JLP 现货，主要是用了多签钱包进行管理，对于合成稳定币来说，都是很标准的配置。
+>  
+> 另外，我看一下了两类资产的比例，考虑到 JLP 中有30%左右是 USDC。
+>  
+> 按照比例来算，JLP 相当于放了2-2.5倍的做空杠杆，对BTC\ETH\SOL 进行套保，这个杠杆比例也是比较安全的。
+>  
+> 外部安全方面，主要就是 JLP 这个池子，JLP 背靠 Jupiter 这个 Solana 生态大树，而且运行了很久，总体还是比较安全的。
+>  
+> 基于以上原因，我认为 Unitas 确实在补齐合成稳定币市场为数不多的剩余拼图。
+>  
+> 目前协议方 @UnitasLabs 正在做 season 0 的积分活动，并且做了市场补贴，无论是 STAKING 还是做 RATE X 或者 KAMINO 上面的 DEFI， 都有20%+ APY 和积分的收益。
+>  
+> 背景方面，投资人有美股上市的数字货币公司 ——Amber 以及 @BixinVentures  ，算是香港那边的 VC 资源，未来可能承接一些 RWA\PAYMENT 之类的业务，从而提高项目的估值。
+>  
+> 最后，欢迎大家使用 @Solana_zh  社区的链接参与，能够有30%+的积分 BOOST :
+>  
+> app.unitas.so/points?ref=SOL…
+
+## 55. Sep 3, 2025 · 10:38 AM UTC · 1963189937991532946#m
+- 链接：https://twitter.com/Cody_DeFi/status/1963189937991532946#m
+- 作者：@Cody_DeFi
+
+> 有幸成为了 @DriftProtocol  中文区首位大使
+>  
+> Drift 是我非常喜欢的一个 DEX，是 @solana 上最大的 Perp DEX，TVL 接近 13亿。
+>  
+> Drift 最大的优点，就是他的永续合约抵押品（collateral），有全网最高的 APY，这极大提高了我套利组合的资金效率（Capital Efficiency）
+>  
+> 当然这只是他众多功能中的其中一个，以后我会分享更多基于 Drfit 的套利策略（这真的是把我吃饭的家伙拿出来了😂）
+>  
+> 选择成为 Drift 大使的另一个原因，也是作为一个普通用户，我看到了 Drift 飞快的产品迭代能力，很符合我心中理性 DEX 的产品范本，所以希望和币圈优秀的团队有更多的接触。
+>  
+> 具体的成绩进展，可以看看 Drift 的 co-founder @cindyleowtt  的推特，非常的令人眼前一亮：
+> localhost:8080/cindyleowtt/status/194…
+>  
+> 最后，欢迎大家使用我的 referal link ，我愿意把所有手续费 rebate 都返还给你，交个朋友 :
+>  
+> app.drift.trade/ref/cody
+>  
+> 希望以后能够建立一个 Drfit 中文社区，带更多的朋友做一些稳定低风险的套利策略。
+>  
+> @spicycilipadi @namanc19 @airtightfish @Solana_zh
+
+## 56. Sep 3, 2025 · 7:53 AM UTC · 1963148433637986718#m
+- 链接：https://twitter.com/Cody_DeFi/status/1963148433637986718#m
+- 作者：@Cody_DeFi
+
+> DEFI 最近真是乏味的让人无语，他么的，PENDLE 上面卖 PT 的稳定币，底层资产是 PENDLE 上面的 PT。
+>  
+> 我是谁？我是我爹的爹的儿子的儿子。
+
+## 57. Sep 3, 2025 · 5:26 AM UTC · 1963111288214868171#m
+- 链接：https://twitter.com/Cody_DeFi/status/1963111288214868171#m
+- 作者：@Cody_DeFi
+
+> Bunny 被盗的细节出来，还真的跟 Uniswap V4 的功能有关，Bunny 基于 V4 的 hook 做了自己的流动性分布式曲线（liquidity distribution function）
+>  
+> 然后黑客发现精准的控制 LP 的某个 TOKEN 数据，可以让这个曲线的 rebalance 发生错误，多次 rebalance 错误之后，就取走了多余的 TOKEN
+>  
+> （Exploiter figured out they could manipulate this LDF by making trades of very specific sizes. These carefully chosen amounts caused the rebalancing calculation to break, giving wrong results for how much each LP share should own.）
+>  
+> 又是一次精度攻击，新协议天然带有漏洞风险，不过好在看起来金额不是很大？
+
+## 58. Sep 2, 2025 · 7:52 PM UTC · 1962966989208793309#m
+- 链接：https://twitter.com/Cody_DeFi/status/1962966989208793309#m
+- 作者：@Cody_DeFi
+
+> 又是一家 on-chain equity platform 了
+>  
+> Mark 一下，回头研究
+>  
+> Solana 这一轮是强推 Internet Capital Market 的叙事了，代币化股票只是第一步。
+>  
+> 如何刺激交易需求和部署更多流动性在链上，才是促成这个叙事的关键。
+
+## 59. Sep 2, 2025 · 4:04 PM UTC · 1962909629706641532#m
+- 链接：https://twitter.com/Cody_DeFi/status/1962909629706641532#m
+- 作者：@Cody_DeFi
+
+> 我去，这才是真正大钱们玩的东西
+>  
+> 一级市场估值都1800亿美金了
+>  
+> 对比起来币圈真的小卡拉米
+>  
+> 侧面也说明，大家不要灰心，行业还是很早期
+>  
+> 大家都有机会说一句，Thank you crypto
+
+## 60. Sep 1, 2025 · 4:29 PM UTC · 1962553398819201347#m
+- 链接：https://twitter.com/Cody_DeFi/status/1962553398819201347#m
+- 作者：@Cody_DeFi
+
+> 小白教学8: 如何读懂Bundle和集群地址，🐶庄如何绕过Bundle和集群检测？
+> 在满屏WLFI thank u crypto之际，我们聊点更硬核的——如何像“聪明钱”一样思考和交易？
+>  
+> 答案，在于理解两个链上概念：Bundle交易 和 集群地址。这套方法论能帮你识别高控盘代币、预判庄家动向，甚至看穿整个拉盘出货的全过程
+>  
+> 1️⃣ 什么是Bundle交易？“聪明钱”的协同作战信号
+>  
+> 简单来说，Bundle（交易捆绑） 是一种将多个独立的交易打包成一组，然后作为一个整体一次性提交给区块链的机制。在Solana这样的高性能链上，这些交易是“原子性”的——要么全部成功，要么全部失败
+>  
+> 这对于Meme币交易意味着什么？
+>  
+> 项目方精准建仓：代币发行方可以在创建流动性池的瞬间，用一个Bundle同时执行多笔买入操作，为自己和团队锁定底部筹码
+> 链上套利：高级交易员或科学家利用Bundle执行复杂的MEV（最大可提取价值）套利策略，或降低刷量磨损
+>  
+> 识别出这种行为，就等于抓住了“聪明钱”或项目方的尾巴。但问题是，不同工具的定义和检测逻辑千差万别。一些更精密的检测逻辑，尤其是在Solana链上，会采用以下几种方式：
+> 💰Jito Tip（小费）检测法：由于Solana上的Bundle大多通过 Jito 提交以获得优先处理权，一种先进的方案就是通过识别给Jito验证者的“小费”（Tip Payment）交易来定位Bundle。找到“小费”后，再看它前后紧邻的几笔交易，如果出现2到5笔连续买卖同一个代币的行为，就会被精确标记
+> 💰连续Swap检测法：另一种辅助判断方式，是在一个Slot（时隙）内，有4到5笔连续的Swap交易
+> 💰综合行为分析法：一些交易分析平台则采用了更高维度的 “集群算法”。它不仅看资金关联和捆绑地址行为，还会考虑“相近提币交易时间”等多种因素，力求侦测的完整性。这代表了一种更全面的行为分析流派
+>  
+> 核心结论：Bundle是“协同作战”的信号。虽然各家定义不同，但其本质都是为了捕捉到背后由同一个人或团队控制的多个地址的协同动作
+>  
+> 2️⃣ 如何将数据转化为交易决策？小白也能看懂的庄家动态指标
+> 检测到Bundle和集群地址只是第一步，真正能帮助我们做出交易判断的是基于这些数据衍生的指标
+>  
+> 指标一：Bundler持仓占比（“控盘度”预警信号）
+> 这是最直观的指标。它告诉你，由这些被识别为“Bundler”的地址（即参与了Bundle行为的地址）总共持有了该代币总量的多少。这个指标能帮助用户识别和避免有“高操盘风险”的代币。一些工具甚至会在该比例超过10%时直接标红警告
+>  
+> 小白使用指南：当你点开一个新Meme币，如果发现Bundler持仓占比高达30%以上，就要亮起最高警报。这意味着极少数人掌握了绝大部分的流通盘，他们随时可以砸盘套现，散户的风险极高
+> 指标二：持仓变化曲线（洞察吸筹与出货的“心电图”）
+> 如果我们将集群地址的总持仓量随时间变化绘制成一条曲线，让你能直观地看出主力资金是在吸筹还是出货
+>  
+> 这个指标的反应时常领先于价格。我们可以用一个经典案例来理解其应用：
+>  
+> 吸筹阶段 (Accumulation)：在价格快速拉升前，可以清楚看到庄家集群的持仓占比早已大幅上升。在图表中，下方代表持仓的曲线持续稳定攀升，而上方的价格K线则处于横盘或缓涨阶段交易信号：这是最值得关注的看涨信号。它告诉你，“聪明钱”正在悄无声息地收集筹码
+> 拉盘阶段 (The Pump)：当庄家吸筹完毕，便开始拉升价格，吸引市场关注和散户的FOMO情绪
+> 出货阶段 (Distribution)：这是决定你盈利还是亏损的关键。当币价达到高潮后，持仓曲线开始掉头下降。此时价格可能仍在冲高，但持仓曲线的下降是一个极其强烈的预警信号，说明早期进入的庄家已经开始把筹码派发给追高的散户了。如果持仓量在短时间内剧烈变动，就是“市场即将变盘的强烈讯号”
+>  
+> OKX DEX 推出的 Holder Map（持仓地图） 功能，就把这种复杂的地址集群算法做得非常直观易用：web3.okx.com/zh-hans/holder-…
+>  
+> 从这张图我们可以看到，Holder Map不仅用可视化的节点图展示了各个集群地址之间的关联，右侧还有清晰的数据面板：
+> 精准识别与排行：它能帮你识别出Top 100的Bundler集群，告诉你这些最核心的聪明钱掌握了多少比例的筹码
+>  
+> 一键关注，实时监控：最强大的功能是，你可以对任何一个你感兴趣的地址集群进行 “一键关注”。关注之后，这个集群的任何买入或卖出行为，你都能收到 实时的监控和报警
+>  
+> 这相当于给你开了一个“上帝视角”，把顶级玩家的底牌直接亮给你看。当他们开始吸筹时，你跟进；当他们高位出货时，你离场。这让前面提到的所有分析方法论，都有了可以落地执行的强大工具
+>  
+> 3️⃣魔高一尺道高一丈？庄家如何理论上绕开集群检测？
+> 既然有矛，就必有盾。作为专业的庄家或聪明钱集团，他们完全有可能通过更复杂的操作来规避市面上的地址检测。以下是基于我们讨论过的检测逻辑的推导：
+>  
+> 规避Jito Tip检测：
+> 方法一：放弃Jito
+> 既然大部分检测都盯着Jito，那最直接的方法就是不用它。庄家可以利用私有的RPC节点或与验证器建立直接通道来提交交易，虽然可能牺牲一点点优先级，但能完美隐身，不留下Jito Tip的痕迹
+>  
+> 方法二：分离“小费”和“交易”主体
+> 一个集团可以设立“小费地址池”和“交易地址池”，用A组地址支付小费，而让完全没有链上关联的B组地址在该Slot内执行买入。这会打破检测工具的关联逻辑
+>  
+> 规避连续Swap检测：
+> 方法一：打断连续性
+> 该逻辑的核心是“Index连续”。庄家只需要在连续的几笔Swap交易之间，插入一笔完全无关的交易（如给自己转0.001 SOL），就能轻易打断“连续”这个判定条件
+>  
+> 方法二：化整为零，分散时间
+> 检测工具的阈值是在一个Slot内有4-5笔交易。庄家可以把一笔大额购买计划分散到多个Slot中执行，例如在Slot A买2笔，Slot B买2笔，以此类推，这样在任何一个Slot内都达不到触发警报的阈值
+>  
+> 终极规避手段：Sybil策略（女巫攻击）：
+> 所有集群分析工具的根基，是能够将多个地址关联到同一个实体。而终极的规避手段，就是让这些地址从一开始就无法被关联。一个顶级的操盘团队会为每一次操作启用一批全新的钱包，并直接从几十个不同的中心化交易所账户提币，使得这些钱包在链上没有任何资金来源的交集。再配合上文提到的各种手段，几乎可以做到完全“隐形”
+>  
+> 对于我们普通交易者而言，虽然庄家总有理论上隐身的方法，但绝大多数的链上活动并没有使用如此高成本的规避手段。因此，学会使用 OKX DEX Holder Map 这样的工具去分析Bundle交易和集群地址动态，仍然是我们在Meme币这个黑暗森林中，保护自己、发现机会的最强武器之一
+>  
+> 数据不会撒谎。价格会骗人，但“聪明钱”的动向，早已被区块链清晰地记录了下来
+
+## 61. Sep 2, 2025 · 6:04 AM UTC · 1962758522258760161#m
+- 链接：https://twitter.com/Cody_DeFi/status/1962758522258760161#m
+- 作者：@Cody_DeFi
+
+> @evilcos 余弦老师可以关注一下这个 case，会跟 Uniswap v4有关系吗？
+
+## 62. Sep 2, 2025 · 6:03 AM UTC · 1962758289806225906#m
+- 链接：https://twitter.com/Cody_DeFi/status/1962758289806225906#m
+- 作者：@Cody_DeFi
+
+> 麻了
+>  
+> Euler @eulerfinance 的安全监控监测到异常交易，然后暂停了协议，排查之后发现是 @bunni_xyz 被黑了。
+>  
+> Bunni 是建立在 Uniswap V4 之上的 Dex，没想到 V4 没掀起什么水花，被黑客捷足先登了，这样 Uniswap V4更难推了。
+
+## 63. Sep 1, 2025 · 3:29 PM UTC · 1962538334653501898#m
+- 链接：https://twitter.com/Cody_DeFi/status/1962538334653501898#m
+- 作者：@Cody_DeFi
+
+> 某个币圈项目的 KOL 联络表出来了，160个 KOL 接受了广告报价，只有 <5 个说明了是广告。
+
+## 64. Sep 1, 2025 · 9:22 AM UTC · 1962446027556114490#m
+- 链接：https://twitter.com/Cody_DeFi/status/1962446027556114490#m
+- 作者：@Cody_DeFi
+
+> 圈内 OG 告诉我
+> 数据真不真实有那么重要吗
+> 大家不在乎风险
+> 只在乎最后是不是自己接棒
+> 真项目也好，假项目也罢
+> 能够凝聚韭菜共识的就是好项目
+> 发币就是终点
+> 这就是币圈
+>  
+> 这让我这种努力寻求真实，追求长期主义的人很不适应啊
+>  
+> 不会玩着玩着，适应不了圈内生态，被迫退圈了吧
+
+## 65. Aug 28, 2025 · 5:01 AM UTC · 1960930605216227385#m
+- 链接：https://twitter.com/Cody_DeFi/status/1960930605216227385#m
+- 作者：@Cody_DeFi
+
+> 我的妈唉，这是什么邪修的市场行情吗，今天睡起来一看，我的一个小的套利仓位，差点也被单边清算了，插针最高价离我清算价就差 0.002 ?
+
+## 66. Aug 27, 2025 · 2:29 PM UTC · 1960711314227257823#m
+- 链接：https://twitter.com/Cody_DeFi/status/1960711314227257823#m
+- 作者：@Cody_DeFi
+
+> 突然想起一个互关的哥们，说要重仓美团来着？
+>  
+> 那哥们儿之前还在 @CetusProtocol 做流动性被盗了，差点全部没了。
+>  
+> 哥们儿你真的有点流年不利。
+
+## 67. Aug 27, 2025 · 9:55 AM UTC · 1960642306857685203#m
+- 链接：https://twitter.com/Cody_DeFi/status/1960642306857685203#m
+- 作者：@Cody_DeFi
+
+> 我觉得 Hyperliquid 这件事上的认识是有问题的，这种走势是很明显的价格操纵，放传统金融里面直接被监管处罚的。
+>  
+> 本身 Hyperliquid 就是透明持仓了，你不设预言机价格保护，平台也不认为这是问题，那不是摆明了谁钱多谁就可以操纵市场吗？
+>  
+> 而且空头自带杠杆，天然有被逼空的劣势，平台这个态度，以后谁还来 hyperliquid 做空？
+>  
+> 最后，千言万语的辩解，你也抵不过用户一句，为什么币安没有插针？
+
+## 68. Aug 27, 2025 · 5:38 AM UTC · 1960577671538335965#m
+- 链接：https://twitter.com/Cody_DeFi/status/1960577671538335965#m
+- 作者：@Cody_DeFi
+
+> 对了，小币套保，习惯挂一个无脑市价止损单，贴近被动平仓线附近……
+
+## 69. Aug 27, 2025 · 5:37 AM UTC · 1960577392818446662#m
+- 链接：https://twitter.com/Cody_DeFi/status/1960577392818446662#m
+- 作者：@Cody_DeFi
+
+> 太惨了，插针被清算了 72万刀，喜事变丧事。
+>  
+> 听说币安的没变化，只有hyper的价格插了针？这应该算交易所事故了吧，理论上应该对极端价格波动检验，根据时间价格加权有一个置信区间？
+>  
+> 合约和现货不同，是另外一个战场，会有独立行情。
+>  
+> 现货 Tge 发币还有一段时间，注定了 XPL 的合约要承受一段时间逼空的不确定性。
+>  
+> 按照 pump 的经验，真的等现货上市了再操作合约也来得及……
+
+## 70. Aug 26, 2025 · 5:56 AM UTC · 1960219837424427068#m
+- 链接：https://twitter.com/Cody_DeFi/status/1960219837424427068#m
+- 作者：@Cody_DeFi
+
+> 最近 Huma 的第二季空投终于尘埃落地了，空投和 PreSale 地址在这里：
+>  
+> PreSale : presale.huma.finance/
+> 空投：claim.huma.finance/
+>  
+> 差不多加起来拿了 60 万个 Huma，加上我之前没卖的，我现在也是百万 Huma holder 了，0.01% 的小币东。
+>  
+> Presala + 第二季空投同时解锁，加上 Kaito 的份额，有超过 4% 的解锁抛压。
+>  
+> 解锁对币价的压力很大，所以现在的价格也在我的预料之中。币价下跌自然带来很多抱怨的声音，能理解。
+>  
+> 不过即便是现在的市价，也有 20%  的 APY 了。
+>  
+> 会继续质押 Huma，不想在这个位置卖出，继续看好稳定币转账的叙事，希望有一天像 ETH 也一样，成为一个出圈的 PayFi 项目。
+>  
+> 对于 Huma 的项目增长，除了转账业务和大客户合作外，更想看到 Huma 在 DeFi 平台层面上的变化，等待更多 Huma 代币的赋能。
+>  
+> @humafinance @humafinance_zh
+
+## 71. Aug 22, 2025 · 12:59 PM UTC · 1958876674105516540#m
+- 链接：https://twitter.com/Cody_DeFi/status/1958876674105516540#m
+- 作者：@Cody_DeFi
+
+> Noble 有技术、有客户、有收入，TVL 5000万。
+>  
+> Plasma 除了据传有 Tether 投资之外，啥也没有，TVL 20亿。
+>  
+> 辛辛苦苦干 2年，不如人家 4 个月搞预售 ICO，项目收入越高，币价估值越低。
+>  
+> 最后还是贩卖梦想和血统值钱，前期拉的声量越大，TGE 上所的时候，自有 P 小将护盘。
+>  
+> 管你什么价不价投，吃完这波我再找下一个资产。
+>  
+> 我承认我酸了，PUMP、PLASMA，ICO 赚钱的速度可比什么炒币、套利快多了。
+>  
+> 想赚更多的钱方法，就是先把钱打给我，简单朴实无华。
+>  
+> 币圈有币圈的逻辑，再进一步，联想到自己手贱点了赎回，真的是小丑中的小丑，道心破碎了。
+
+## 72. Aug 22, 2025 · 8:58 AM UTC · 1958816097433788636#m
+- 链接：https://twitter.com/Cody_DeFi/status/1958816097433788636#m
+- 作者：@Cody_DeFi
+
+> 《深度解析 Solana 生态上的去中心化稳定币协议 —— Hylo》
+>  
+> 📖前言
+>  
+> Hylo @hylo_so  是最近 Solana @solana @Solana_zh  生态上的 TVL 上涨比较快的一个去中心化稳定币协议，目前TVL 16 M。他的基础原理跟 @protocol_fx  一样，也是通过收益互换的形式，实现了公链原生收益放大和现货杠杆两个功能。
+>  
+> （想要了解更多底层原理的，可以去我之前写的关于FX 的文章：localhost:8080/Cody_DeFi/status/19446…）
+>  
+> 与 FX 不同的是，Hylo 没有侧重到交易工具这个方向，更加注重稳定币收益和保持汇率稳定的风控这两个方面。
+>  
+> 之所以觉得 Hylo 这个协议值得关注，最主要的原因就是他选择了 SOL 作为这套收益互换体系的底层资产。
+>  
+> 因为 SOL 的公链 Staking 收益能够有8%，同时 SOL 也是整个币圈市值排行第 6 的代币，有很高的交易需求。最后，SOL 公链上有比较成熟的 DEFI 生态，方便后续的 DEFI 生态对接。所以，基于以上原因，他大概率能够满足一些细分市场的需求。
+>  
+> 但是，我在深入研究 Hylo 后也发现了一些问题，最后尝试用原理和实操两个篇章来说明这个协议，以及自己的操作。
+>  
+> 👉原理篇 1  –  协议框架设计
+>  
+> 要理解 Hylo 其实很简单——Hylo 有两个池子。
+>  
+> 池子1：hyUSD。协议自己发行的稳定币，1：1锚定 USD。
+>  
+> 池子2：xSOL ，一个由自己调节杠杆比例的纯粹做多 SOL 的多头仓位。
+>  
+> 而这两个池子的背后，是一篮子的生息包装SOL 代币，比如 jitoSOL，提供年化7-8%左右的公链质押收益，同时还有 SOL 的价格波动敞口。
+>  
+> Hylo 做的事情，就是把这一篮子流动性质押 SOL 的波动收益和质押收益切分。
+>  
+> 波动收益全部归属到 xSOL 里面去，形成了一个带杠杆的多头头寸。
+>  
+> 质押收益大部分去到了 hyUSD 的质押池子（stability pool），提供年化 17-20% APY 的收益。
+>  
+> 所以，我们可以这么认为，xSOL 吸收了SOL 的价格波动。相当于这套稳定币的是否能够维持 1：1 汇率稳定的安全垫，在xSOL 的净值消耗完之前，hyUSD 都是安全的。
+>  
+> 那么这个xSOL 的消耗速度有多块？
+>  
+> 以协议目前的静态数据来看，还是很快，在SOL 下跌50%，90美金的左右，xSOL 的价格就会缩水93%。
+>  
+> 但是在实际金融环境中，这个速度可能会更快。
+>  
+> 因为xSOL 的杠杆比例与 hyUSD 的规模成正比，与xSOL 的规模成反比，随着市场下跌，一部分人止损 xSOL，让其规模变小，xSOL 的杠杆比例上升，净值缩水速度进一步加快，这个协议整体杠杠比例进一步加大。
+>  
+> 那么协议采取了哪些方法来控制这些问题？他们设计了自己风控机制模型，从手续费和开仓权限去管控。
+>  
+> 👉原理篇 2 —— 安全风控的设计
+>  
+> Hylo 用一种叫做 “全局杠杆比例”来控制协议的安全等级，简单的来说，就是（xSOL 的市值/hyUSD 的市值=全局杠杆比例）
+>  
+> 值得注意的是，这里的XSOL 是市值，而非净值，考虑到目前杠杆比例在 2倍左右，实际上如果没有新增资金进入 XSOL，那么SOL价格跌一半，XSOL 就应该归零，相当于保证金归零。
+>  
+> 但是 XSOL 是按照 SOL 的市值计价的，保证金归零的情况下，为了保持XSOL 的头寸不被清算，就会把 hyUSD 质押池里面的收益 sHYUSD 部分池子转化为 xSOL 的头寸。
+>  
+> 在SOL价格下跌一半的情况下，将会有30%的 sHYUSD 转化为XSOL。
+>  
+> 同时，为了应对下跌情况下，不发生踩踏的情况，协议会自动调整申购赎回、资金奖励等一系列费用，从而缓解大家面临下跌时侯的恐惧心理。
+>  
+> 比如，当SOL 下跌非常剧烈的时候，协议会禁止大家再去申购hyUSD，减少对流动性质押SOL 的头寸暴露，同时降低赎回的费用。
+>  
+> 另外一方面，XSOL 大幅下跌的时候，赎回费用也会大幅上升，申购费用变为0。希望大家不要在底部赎回，鼓励抄底。
+>  
+> 这些，都是Hylo 这个协议，在风控模式上，一些比较创新的举措，类似于应对不同环境下费用开关的功能。
+>  
+> 这样，通过收益互换+风控费用两个功能模块的设计，搭建了 Hylo 1.0 最初级的协议模型，构建了一个基于SOL 生态的去中心化稳定币。
+>  
+> 👉实操篇 —— 空头积分、年化收益、多头杠杆的三者博弈
+>  
+> 在我们理解了 Hylo 这个协议的基础框架之后，进入到实操篇，我自己是如何看待 HYLO 这个协议的？
+>  
+> 我个人认为，首先 HYLO 还没有经历过极端下跌的情况，他的 Stability pool 机制对人性考验非常强。
+>  
+> 下跌的时候的，恐惧会驱使大家不顾高昂的手续费，纷纷赎回，而这些赎回会进一步挤兑 stability pool 和 XSOL 的安全垫。
+>  
+> 但是在跟创始人沟通的过程中 ，@Shoomsol  认为如果大家因为恐惧纷纷赎回 hyUSD。会大幅减少对流动性质押 SOL 的头寸暴露，从而降低了全局的资金杠杆。
+>  
+> 因为全局资金杠杆与 hyUSD 成正比，也与 XSOL 成反比。
+>  
+> 另外一个方面，我个人认为，SOL 是一个值得抄底的资产，这给了我比较大的进入 HYLO 协议的预期。
+>  
+> 如果在极端情况下，有机会以 1% 的开仓成本，持有一个带杠杆头寸，再无其他费用的 XSOL，那么还是值得的。
+>  
+> 而真到了那个时候，hyUSD 的 mint 是 disable 的，所以在低费率的时候切入稳定币收益，高费率的时候大胆抄底 XSOL 是我考虑的一个策略方向。
+>  
+> 现在，HYLO 正在做自己的 season 0 积分活动，sHYUSD 是一倍积分，hyUSD 是5倍积分，xSOL 是20倍积分。
+>  
+> 我选择了优先拿收益，其次等待抄底的机会。
+>  
+> （创作不易，欢迎大家使用我的连接参与：hylo.so/leverage?ref=S80ORX）
+
+## 73. Aug 21, 2025 · 6:54 AM UTC · 1958422484770017618#m
+- 链接：https://twitter.com/Cody_DeFi/status/1958422484770017618#m
+- 作者：@Cody_DeFi
+
+> 结束之前把 YT 卖了真的很 6，我觉得同样的 YT 不同时间段的积分价值也不一样的。
+>  
+> 比如刚开始挖的时候，还有市场低迷的时候，本质是 YT 有一个隐含的年化回报率变化。刚开始挖的时候，没人卷，收益很高，或者市场低迷的时候，定价 APY 远低于隐含 APY。
+>  
+> 隐含 APY 的回报跟空投份额(反过来也可以看作积分重量) ，二级市场价格，空投时间，三者相关，这三个参数决定了 YT 的隐含回报率。
+
+## 74. Aug 20, 2025 · 3:38 PM UTC · 1958191901749735616#m
+- 链接：https://twitter.com/Cody_DeFi/status/1958191901749735616#m
+- 作者：@Cody_DeFi
+
+> 牛逼，IPO 用稳定币打款，11.5亿融资，这就是历史的节点。
+
+## 75. Aug 20, 2025 · 3:10 PM UTC · 1958184944875778507#m
+- 链接：https://twitter.com/Cody_DeFi/status/1958184944875778507#m
+- 作者：@Cody_DeFi
+
+> ETH 这也没什么波动，稍微有点行情 GAS 去了 9，我在 @Equilibriafi 取款 GAS 费用就到了 30 U？
+>  
+> 这就是世界计算机的使用门槛吗？
+>  
+> 平民如我真的用不起，我选择拥抱 Solana ...
+
+## 76. Aug 20, 2025 · 1:21 PM UTC · 1958157509568700479#m
+- 链接：https://twitter.com/Cody_DeFi/status/1958157509568700479#m
+- 作者：@Cody_DeFi
+
+> 终于要空投了吗？
+>  
+> S1 就参与的协议，当时刚入 DEFI ，还是靠 OK钱包的赚币页面引导去的。
+>  
+> 期间还经历过协议被盗200万U，RPC 节点失灵，多次吓出冷汗。
+>  
+> 空投不空投的不重要，全是对刚入行业胆颤心惊的心路历程回顾...
+
+## 77. Aug 20, 2025 · 12:58 PM UTC · 1958151588863942750#m
+- 链接：https://twitter.com/Cody_DeFi/status/1958151588863942750#m
+- 作者：@Cody_DeFi
+
+> 在币安交易所存了 plasma 的链上赚币。
+>  
+> 然后，我看有赎回按钮，想试一下流程，点着点着，连个确认都没有，直接给我走到赎回去了。
+>  
+> 这下不仅没认购上，也不知道赎回之后还能不能认购，而且还浪费我3天利息。
+>  
+> 这个赎回也没有取消赎回，功能有点残缺啊。有办法能够取消赎回吗？ @Rick_Binance @binancezh @binancezh
+
+## 78. Aug 19, 2025 · 2:02 PM UTC · 1957805486511911276#m
+- 链接：https://twitter.com/Cody_DeFi/status/1957805486511911276#m
+- 作者：@Cody_DeFi
+
+> In 2025 you can still make 6 figures with Solana Airdrops
+>  
+> 🏦 @hylo_so
+> ➿ @LoopscaleLabs
+> ❌ @RateX_Dex
+> 💰 @humafinance
+> 🐳 @whalewatchalert
+> 🪐 @JupiterExchange Jupuary & ASR
+> 🌱 @grass S2
+> 🌐 @dawninternet
+> 📶 @Gradient_HQ
+> 👾 @playsolana
+> 🎒 @Backpack
+> 🔫 @ranger_finance
+> ✖️ @ExponentFinance
+> 🟣 @Perena__
+> ⭐ @KyrosFi
+> 🔌 @switchboardxyz
+> ☄️ @MeteoraAG S2
+> 📡 @pipenetwork
+> 🌉 @debridge S2
+> ⚜️ @vectis_finance
+> 🪖 @AxiomExchange
+> 📈 @TradeNeutral
+> ⚡ @FlashTrade_
+> 🧊 @cubexch
+> 💫 @AdrasteaFinance
+> 🟩 @solayer_labs S2
+> 🚢 @Titan_Exchange
+> 🪄 @MagicEden
+> 💦 @RainFi_
+> 💳 @KASTcard
+> 🗳️ @chompdotgames
+> 🗿 @MayanFinance
+> 💠 @tradewithPhoton
+>  
+> You just need to choose the right ones...
+
+## 79. Aug 18, 2025 · 5:17 AM UTC · 1957310919652045101#m
+- 链接：https://twitter.com/Cody_DeFi/status/1957310919652045101#m
+- 作者：@Cody_DeFi
+
+> 还有最后2个小时，我也去申请一个。
+
+## 80. Aug 17, 2025 · 4:21 AM UTC · 1956934448488050993#m
+- 链接：https://twitter.com/Cody_DeFi/status/1956934448488050993#m
+- 作者：@Cody_DeFi
+
+> “买和卖 采取多少比例 看每个人判断。 比例也决定区间。 我认为55开 是不太好的。 一般最好是1/9 2/8 3/7 不要搞55开。比例也决定了你看方向的把握程度。”
+>  
+> 我觉得越趋近于55开，越能很好的计算无常损失和手续费之间的盈亏比呢？通过55开，可以直接计算最大损失是多少，大概多少手续费能够COVER最大损失，什么地方退出LP 无常损失最小？
+>  
+> 55开的问题就是区间覆盖会更大，平均手续费降低，但是现在能过100APR的 大市值代币交易对，基本都靠 incentive，所以可以开更宽的区间？
+>  
+> 最后，从V3的角度来看，以市值现价为中轴线，是不是哪边的开的区间越窄，相当于更看空哪边？比如上面区间看的窄，意味着向上布置的资金杠杆更高，承受更大的无常损失，同时也拿着更高的手续费收益率。 @gch_enbsbxbs
+
+## 81. Aug 17, 2025 · 3:53 AM UTC · 1956927241289646308#m
+- 链接：https://twitter.com/Cody_DeFi/status/1956927241289646308#m
+- 作者：@Cody_DeFi
+
+> ？ 世上无难事，只怕有心人@FalconStable @richardgo_go
+
+## 82. Aug 16, 2025 · 2:06 PM UTC · 1956719255543816688#m
+- 链接：https://twitter.com/Cody_DeFi/status/1956719255543816688#m
+- 作者：@Cody_DeFi
+
+> TGE 之后 6 个月，作为创始人离职。
+>  
+> 打造的 IP 公链，现在 TVL 35 M。
+>  
+> 在币安上了币后，IP 现在的 FDV 是 57 亿。
+>  
+> 这是您 3.5年实现的成绩，不愧是斯坦福的高材生。
+>  
+> 祝福转战 AI 领域后，继续大展宏图。
+
+## 83. Aug 16, 2025 · 4:50 AM UTC · 1956579290839167295#m
+- 链接：https://twitter.com/Cody_DeFi/status/1956579290839167295#m
+- 作者：@Cody_DeFi
+
+> 今天才发现，自己在 @KaitoAI 上有4791 个 $slay 没有领取。
+>  
+> 首次领取时间是 8.11，当时最高定价好像是去了0.1，但是现在已经跌到0.02了，最离谱的是链上没有流动性，卖出去有 80%的滑点，现在实际只值 13美金？
+>  
+> 我没想明白，项目方发个这样的 token，实际上就是为了开盘的时候冲一把？
+>  
+> 然后这才几天时间，这个代币就彻底死了？
+>  
+> 项目方自己出够货了吗？
+
+## 84. Aug 15, 2025 · 4:07 PM UTC · 1956387216646865154#m
+- 链接：https://twitter.com/Cody_DeFi/status/1956387216646865154#m
+- 作者：@Cody_DeFi
+
+> 凡人修仙传看到第17集了
+>  
+> 真的很感慨，弃魔卫道300年的燕家堡主，最后为了救自己女儿燕如嫣献祭了全城人的性命，也沦为了魔道。
+>  
+> 他救他女儿的原因，除了亲情之外，更看重的是她女儿所谓的“天灵根”的资质，天灵根是单一属性，在灵力稀薄的人界，更容易进入元婴期。
+>  
+> 但是倘若，他要是知道所谓的天灵根，元婴之后，要更往上走，需要补全五灵根，天灵根几乎无法补全，成了最废的灵根，会不会后悔这个选择……
+>  
+> 这让我感觉有时候和币圈也挺像的，币圈致富的路子也很多，坑蒙拐骗舔是一条路，回报周期也很快。
+>  
+> 但是付出隐形代价实际很大，倘若自己是个十足的恶人，行动就是本心，那也还行。全性保真，不以物累形。
+>  
+> 可大多数人都是被短期利益蒙蔽了，做了非常不值得的选择。终有一天明白过来，想回头的时候，才发现已经回不去了。
+
+## 85. Aug 15, 2025 · 10:34 AM UTC · 1956303492345418039#m
+- 链接：https://twitter.com/Cody_DeFi/status/1956303492345418039#m
+- 作者：@Cody_DeFi
+
+> 看了下 @humafinance  今天官宣和 @geoswift 的合作，总体我认为这是一个非常好的，在跨境电子商务层面，用稳定币进行跨境支付，满足实时流动性需求的解决方案探索。
+>  
+> 总的来说，在稳定币支付这条赛道上，目前所有人的第一关大 BOSS，就是替代 SWIFT，后者实在是过于尾大不掉，甚至他们自己的都在尝试用区块链支付革自己的命。
+>  
+> 但是技术替代仅仅只是一个维度，想要稳定币支付阳光化的前提，一样是要满足监管的合规要求，这里面既是挑战，也是门槛。
+>  
+> 每个地方都有自己的合规与牌照，跟 Huma 合作的跨境支付企业 Geoswift，我理解应该是跟 Huma 首家宣布合作的，在亚洲的，大陆背景的支付企业？
+>  
+> Geoswift 中文名叫汇元通，成立于 2010年，有中国央行颁发的非银机构支付牌照，主要业务涉及电子跨境支付、跨境学费支付、跨境旅游支付、跨境金融服务四个板块。
+>  
+> Geoswift 的老板 @raymondqu  也在推特上面，也很活跃，并且在他的签名栏里面能够看到很多区块链相关的标签，看起来是非常拥抱区块链技术的。
+>  
+> 在与 Huma 的这次合作里面，主要包含了四个主体： @humafinance @arf_one @GeoswiftLimited @Polyflow_PayFi
+>  
+> Huma 和 Arf 负责流动性的分发和清算，Geoswift 和 Polyflow 则负责商家在个体支付层面的金融配套服务，而这一切都会在一个合规化的前提下进行。满足中国监管对于商户穿透、反洗钱等一系列监管要求。
+> （引用：With this solution, Geoswift can fund merchants at the moment settlement is initiated on the e-commerce platform, leveraging PolyFlow's vendor financing, Arf's compliant modular settlement infrastructure, and Huma's liquidity and network orchestration capabilities for instant distribution.）
+>  
+> 我自己是有跨境金融创业企业的工作经历的，我非常的深刻的能够体会到金融创业的难处，需要同时满足各地的监管要求，又要在市场里面提供能够具有竞争力的用户体验。
+>  
+> 很多时候，作为创业主体，很难平衡这里面的各方利益，尤其是在一些开创性的金融创业领域。
+>  
+> 作为 Huma 协议的重度参与者，很乐意见到 Huma 和 Geoswift 达成的合作，探索新的解决方案。
+>  
+> 并且希望能够以此作为 Showcase 进一步扩大 Huma 在亚洲市场的市场份额。
+>  
+> 今天也是我的 Huma 账号 S1 羽毛数突破1000万的一天，Beliving in something, let feather go.
+
+## 86. Aug 15, 2025 · 5:04 AM UTC · 1956220388863828112#m
+- 链接：https://twitter.com/Cody_DeFi/status/1956220388863828112#m
+- 作者：@Cody_DeFi
+
+> 区块链实用手册第二弹来了
+
+## 87. Aug 14, 2025 · 6:33 AM UTC · 1955880443645190396#m
+- 链接：https://twitter.com/Cody_DeFi/status/1955880443645190396#m
+- 作者：@Cody_DeFi
+
+> 记得 @MyStonks_Org 是最早配合 @solana  Internet Capital Market 叙事的，似乎还被官方推特转发过，算是某种程度的背书。
+>  
+> 其实我觉得也挺奇怪的，700多万U 充入一个还在实验阶段的链上股票平台，金主是心大，还是觉得链上股票更方便？
+>  
+> 并不是说金主的钱涉及黑钱，这个等待调查结果。但是据我所知，区块链洗钱还是挺高频的，之前有人和我说，有些 PayFi 项目，尤其是 C端支付类型的，涉及高频洗钱，大量的黑钱通过链上+终端机洗白再流通。
+>  
+> 最后，我觉得目前项目方作恶的成本已经比以前高很多很多了，硬 RUG 的风险太高，是要坐牢的，所以从一开始就没有急着站队和 FUD 平台。
+>  
+> 链上股票是一个非常好的创业方向，项目方似乎也没有理由在长坡厚雪的赛道里面找“屎”吃。
+
+## 88. Aug 13, 2025 · 12:04 PM UTC · 1955601320104345763#m
+- 链接：https://twitter.com/Cody_DeFi/status/1955601320104345763#m
+- 作者：@Cody_DeFi
+
+> 长的跟中概股爆仓那个比尔黄基本一样啊。
+>  
+> 一个汤姆李，一个比尔黄，还都是韩国人。
+
+## 89. Aug 13, 2025 · 11:37 AM UTC · 1955594437092065497#m
+- 链接：https://twitter.com/Cody_DeFi/status/1955594437092065497#m
+- 作者：@Cody_DeFi
+
+> 哦，这是散户视角，交易所，项目方，庄家们笑而不语。
+
+## 90. Aug 13, 2025 · 11:36 AM UTC · 1955594253448757265#m
+- 链接：https://twitter.com/Cody_DeFi/status/1955594253448757265#m
+- 作者：@Cody_DeFi
+
+> 今天看到好几个发财的例子了，各种策略都有，DeFi/ ICO /交易/ 套利等等……
+>  
+> 第一次感觉币圈是个赚钱机会比亏钱机会还多的地方？
+>  
+> 本金不够是最大的硬伤？
+>  
+> 原来币圈赚钱都那么容易吗？谁在亏钱。
+
+## 91. Aug 13, 2025 · 7:33 AM UTC · 1955533052454769098#m
+- 链接：https://twitter.com/Cody_DeFi/status/1955533052454769098#m
+- 作者：@Cody_DeFi
+
+> 最近想练练听力，万能的推友们，有没有好的英文 podcast 推荐，可以优先 Web3 的内容。
+
+## 92. Aug 13, 2025 · 3:35 AM UTC · 1955473239238644097#m
+- 链接：https://twitter.com/Cody_DeFi/status/1955473239238644097#m
+- 作者：@Cody_DeFi
+
+> “一直向社区释出1.2%代币只能说不是空穴来风”
+>  
+> 请大家盯住 V 佬推特，并且打开小铃铛，这才是真正的 infoFI
+
+## 93. Aug 13, 2025 · 12:54 AM UTC · 1955432661524287538#m
+- 链接：https://twitter.com/Cody_DeFi/status/1955432661524287538#m
+- 作者：@Cody_DeFi
+
+> 项目方 @sparkdotfi  真的太格局了，真的给了 10倍的空投，我这还只是小毛， @0xCooker 领了几十万个，APY 4位数了。
+>  
+> “多跟有钱的项目方做朋友”这句话的含金量还在上升，在狗庄身上浪费一分钟都是对自己人生的不负责。
+
+## 94. Aug 12, 2025 · 11:37 AM UTC · 1955232158852976937#m
+- 链接：https://twitter.com/Cody_DeFi/status/1955232158852976937#m
+- 作者：@Cody_DeFi
+
+> 太猛了这个哥哥在 ena 上赚了数百万美元。
+>  
+> 一堆巨鲸挖提卖的矿币上也能赚到钱，我真的佩服。
+>  
+> Ena 在我看来唯一的优势就是项目方操盘能力很强了，难道币圈的山寨币投资法则，就是风口+周期吗？
+>  
+> 只抓龙头概念，逢低建仓，等庄拉盘，然后出货？
+>  
+> 上一轮二级操作，FOMO 后买入 eth 折腾两轮暴涨暴跌，最后混个保本。
+>  
+> 出清之后开始试探抄底 GMX，我也要在币圈二级上赢一把，可恶！
+
+## 95. Aug 12, 2025 · 11:29 AM UTC · 1955230206618436039#m
+- 链接：https://twitter.com/Cody_DeFi/status/1955230206618436039#m
+- 作者：@Cody_DeFi
+
+> 我把 @noble_xyz  S2 存款的双倍积分也撤了，TVL 降了很多，很可能达不到 S2 扩大空投规模的 TVL了，那么 S2 才 2%的空投份额，即使是双倍积分性价比也不高。
+>  
+> 倒计时结束之后，项目方没有拿出能够接住用户留存的东西，想要在 hyperliquid 上发个带积分和收益的 USDN Vault，居然还要开发 2-6周。
+>  
+> 自己感觉 Noble 的策略有很多问题，最好的时间窗口期内，没有引导好用户的增长和预期，反而在活动结束后，又走上了 pendle\morpho 之类的 DEFI 老路。
+>  
+> 可能产品的 PMF 还是有问题，稳定币好发不好推广，区块链门槛还是太高了，即便对圈内人怕也是如此。
+>  
+> 反撸也只能认了，不过一期保底不稀释 5% 的空头份额，可能最后跟 Babylon 差不多？吃个 10-20%的 APY？
+
+## 96. Aug 11, 2025 · 7:57 AM UTC · 1954814332228792766#m
+- 链接：https://twitter.com/Cody_DeFi/status/1954814332228792766#m
+- 作者：@Cody_DeFi
+
+> 很好，做个普通人也不错…
+>  
+> My iq score lol iq-checker.xyz/Cody_DeFi
+
+## 97. Aug 11, 2025 · 6:21 AM UTC · 1954790333101023526#m
+- 链接：https://twitter.com/Cody_DeFi/status/1954790333101023526#m
+- 作者：@Cody_DeFi
+
+> Huma 的各项数据都增长很快，无论是资金规模还是收入
+>  
+> 团队在发币之后也没有懈怠，做了内容学院、新客户引入、新合作伙伴等等
+>  
+> Richard 老板说了会有回购， to be announcement
+>  
+> 这次我能走到对岸吗？
+>  
+> 不过，可能我会先走到 token 2049 参加 PayFi Summit 🤣
+>  
+> @humafinance
+
+## 98. Aug 10, 2025 · 3:36 PM UTC · 1954567627822805303#m
+- 链接：https://twitter.com/Cody_DeFi/status/1954567627822805303#m
+- 作者：@Cody_DeFi
+
+> 花了一点时间，研究了一下 @Gradient_HQ  这个项目。契机是 @Solana_zh  社区的征文活动，然后去 @RootDataCrypto  看了一下信息，惊奇的发现，投资方居然有红杉中国。
+>  
+> 红杉中国已经基本上独立了，现在由沈南鹏一手主导，能被红衫中国投的企业，多多少少都有点背景，尤其是大陆的 WEB 2风投机构涉及币圈的本就不多。
+>  
+> 回到 @Gradient_HQ ，主打的是推理侧能力的分布式计算。其实概念并不新鲜，但是这个模式确实和币圈的分布式思维，以及代币经济很符合。
+>  
+> 因为，很多时候，这种分布式计算资源的模式，本质就是用代币经济进行刺激——POW of DePin ，在商业模式上，跟 @SaharaLabsAI  其实也没有太多本质上的区别。
+>  
+> 看了下目前项目方的数据，地域上在173个地区有服务器接入，接近80万个节点在跑，单纯从数据上看，确实不低了(接近 TGE 标准？😀)，但是不知道是不是工作室接入了很多…
+>  
+> ——分割线——
+>  
+> 📊 还是比较关心几个实际的问题，正好就问了 Gradient 的AI
+>  
+> 1⃣、Gradient 的大语言模型，和CHATGPT 有什么区别？
+>  
+> 模型给出的答案，核心就是他们自己的 P2P 算力框架
+>  
+> “Parallax 框架在全球分布的节点上进行推理，利用点对点（P2P）网络实现计算资源的共享。“
+>  
+> 带来的好处包括不限于隐私保护、社区参与、快速响应、等。
+>  
+> 尤其是快速响应这一点，提到了他们自有的通信协议 Lattica ，可以分块、压缩、加密的点对点传输。
+>  
+> 2⃣、推理的能力计算资源其实要求不高，真正需要算力的是大模型训练侧，Gradient 的优势是什么？怎么体现？
+>  
+> Gradient 主打的核心还是跟云计算的差异化竞争，以及嵌入代币经济和社区。
+>  
+> 3⃣、你们如何赚钱？商业模式如何运行？
+> AI 非常笼统的给了所有可以赚钱的方式，包括不限于 API调用、企业私有化部署、代币经济、教育培训等。
+>  
+> 现在看起来，币圈 AI 项目，收入最高的商业模式可能就是代币经济，笑。
+>  
+> 不过，给 P2P 算力市场，赋予一个可以流通的代币经济，好像也是理论上可以成立的事情？
+>  
+> 总结：
+>  
+> 总体我感觉，Gredient 的想法是并没有太多错误的，因为未来的算力一定还会增长，无论是云端还是个人端，也一定会有闲置，把这些资源聚集起来再利用肯定是个方向，加上 AI 的推理测能力需求，伴随着 AI 的场景越来越多，算力需求也会增长。
+>  
+> 就是不知道，现阶段就做这样的项目，能不能撑到需求爆发的那天，毕竟上个世纪就有电动车概念先行，但是真正到大规模普及，却是几十年之后的特斯拉。
+>  
+> 始终还是对币圈的很多 Depin 持有不太清晰看法，个人觉得充电宝这样的商业模式都运行，这简直就是最早的 DePin，没理由币圈在代币经济赋能下，搞不出一个好的 DePin 吧，保持观察，撸撸空投也不错。
+>  
+> #chatonparallax  #LatticaInMotion @Gradient_HQ @Solana_zh
+
+## 99. Aug 10, 2025 · 6:53 AM UTC · 1954435861912895702#m
+- 链接：https://twitter.com/Cody_DeFi/status/1954435861912895702#m
+- 作者：@Cody_DeFi
+
+> 看来除了拉盘，顺便把套保合约也爆了，现在价格19，最高35，GMX 几乎没什么流通盘了，套保太危险了。
+
+## 100. Aug 10, 2025 · 6:41 AM UTC · 1954432920405569706#m
+- 链接：https://twitter.com/Cody_DeFi/status/1954432920405569706#m
+- 作者：@Cody_DeFi
+
+> 嗯？ 买了一些，然后就插了一根 35 的针？
+
+## 101. Aug 8, 2025 · 11:33 AM UTC · 1953781618893894089#m
+- 链接：https://twitter.com/Cody_DeFi/status/1953781618893894089#m
+- 作者：@Cody_DeFi
+
+> 从这篇文章之后，就参与了 @MMTFinance 的 DEFI FARM。
+>  
+> 主要做的是 sui- usdc, sui-xsui 这两个交易对。
+>  
+> 前者交易对在补贴之后，APY能达到100%+，并且有 1.5 倍的积分，后者是 APY 只有10%，但是  2X 的积分。
+>  
+> 目前等级只有5，真的很难升级。考虑增加 SUI-USDC 的交易对 LP 的资金。
+>  
+> 这个是 V3 模型的单波动交易币对，我的 SUI 来自从 BACKPACK 借的，相当于 V3 窄区间+ delta neutral 的LP，会有无常损失，但是可以控制，这个回头再细讲。
+>  
+> 目前 @MMTFinance 看起来，准备把之前的 NFT 认购活动变成免费送了，可惜了，当时为了求稳，就认购了一个，单账号认购上限是 30个。
+>  
+> MMT 和 OK @wallet ， @OneKeyCN 都做了补贴活动，现在 TVL 去了 1.7亿，长期我觉得还是会取代 @CetusProtocol 成为 SUI 生态最大的流动性中心，对标 BASE 链的 @AerodromeFi 。
+>  
+> 所以，如果他们上了 VE 33模型，可能考虑把所有空投全部最长期质押，财务层面全部计做归零，从 VE 模式里面再赚回来，庞氏模型一定要搭配先信资本，这是币圈教会我的道理。
+>  
+> MMT 如果是小毛，后面大概率是个持续下蛋的金鸡，如果是中毛，可以先卖一波。打完这么玩。
+
+## 102. Aug 8, 2025 · 8:12 AM UTC · 1953731078084341778#m
+- 链接：https://twitter.com/Cody_DeFi/status/1953731078084341778#m
+- 作者：@Cody_DeFi
+
+> 之前存YALA @yalaorg 第一期 12%APR + 5倍积分，一个月到期的存款结束了。
+>  
+> 只能说真的很爽，除了有 12%APR 的收益之外，还把那一个月的 5倍积分一次性的计入了 TGE 的空投计算中，最后差不多拿到了 4000多 U 的空投，还有接近 1000 U 的利息。
+>  
+> YALA 项目方是真的对得起所有初期的社区参与者，不管是写文章的，还是存款的。
+>  
+> 现在估计是为了稳住 TVL，二级市场的价格被控制的稳稳的，一天拉了 57%，又回到了 TGE 时期价格 0.3 U 左右了。
+>  
+> 如果按照这个二级市场价格，目前 YALA 的二期空投APY 收益也会相当不错，因为光是活期存款的 stablepool 就有接近 15%的 APR收益（注意是 APR，非APY），再加上空投的收益，预估能够去到 25%。
+>  
+> 如果去 @pendle_fi 之类的做 LP的话，底层收益会从15% 提高了 25%。
+>  
+> 总之，看起来二期收益还是非常香的。
+>  
+> 关于 YALA 的更多信息，可以去翻我的推特，之前还是写了好几篇。
+>  
+> 最后，风险主要还是稳定币 YU 脱钩、智能合约被盗、BTC暴跌无法清算（这个理论上风险最小） 。
+>  
+> Keep safe, do your own research.
+
+## 103. Aug 7, 2025 · 9:20 AM UTC · 1953385692177772807#m
+- 链接：https://twitter.com/Cody_DeFi/status/1953385692177772807#m
+- 作者：@Cody_DeFi
+
+> 会超过 PT 收益吗？小小期待一下？
+
+## 104. Aug 6, 2025 · 4:28 PM UTC · 1953131179693228473#m
+- 链接：https://twitter.com/Cody_DeFi/status/1953131179693228473#m
+- 作者：@Cody_DeFi
+
+> 建议所有有内容创作能力的推友，都尝试参加 @humafinance 的这个内容创作活动，大概率后续会获得空投与新的徽章，名额有限，创作内容优质的可以DM 我，我帮忙推荐一下。
+>  
+> 除了开放创作学院招募，官方还制定了新的内容筛选规则，包括排除 AI 写作、明显事实错误等。
+>  
+> 只能说 @KaitoAI & @humafinance 的 S1 活动含金量还在上升，毕竟少了很多 AI 工作室来瓜分蛋糕，又增加了真实内容创作者的空投权重。
+>  
+> 说个小插曲，之前遇到过一个用 AI 写小作文的创作者想嘴撸 HUMA，然后 AI 给他编了一个尼加拉瓜上班族用HUMA收款的故事，结果文章说 HUMA 是做个人 P2P 信用贷款的，接着被官方发现了，认定为 “明显事实错误”，被排除在空投了...
+>  
+> 只能说 AI 嘴撸是没前途的，AI 越多，真实优质内容的稀缺性会体现的愈加明显。
+
+## 105. Aug 6, 2025 · 4:52 AM UTC · 1952955984303051238#m
+- 链接：https://twitter.com/Cody_DeFi/status/1952955984303051238#m
+- 作者：@Cody_DeFi
+
+> 《快速复盘一下——永续合约费率交易工具 Broros 的要点》
+>  
+> 1⃣ 、@boros_fi  是 @pendle_fi  推出的，专门围绕 “永续合约费率” 这一金融资产进行交易的衍生品交易工具。
+>  
+> 2⃣、 在 Boros 上，交易用户可以只用资金买入/卖出 未来一段时间的永续合约费率，类似 funding fee 的YT，非交易用户可以提供流动性，最终形成一个新资产的交易平台。
+>  
+> 3⃣、 Boros 会从 BTC和 ETH 两个代币的合约费率交易开始，以币安作为底层清算托管交易所，提供 BTC/ETH 的杠杆费率交易。目前，每一交易单位为YU（ Yield Units），(e.g. 1 YU-ETH = Yield from 1 ETH notional value)
+>  
+> 4⃣、 后续会提供更多交易对以及交易所，包括 SOL\BNB等代币，以及 BYBIT\HYPERLIQUID 这些交易所。
+>  
+> 5⃣、 受限于测试阶段的规模，目前的合约开仓总量（open interest）只有 10M 美金，杠杆比例只有 1.2倍。这一总量上限和杠杆比例，会随着协议升级完善逐步提高。
+>  
+> 6⃣、 会在初期就开展推荐交易计划，提供推荐交易的人，能够获取返佣和协议收入分成，非常诱人。
+>  
+> 📊 核心就是这六点，我一直都在关注 @boros_fi  这个协议，因为现在永续合约的交易规模大概占据币圈衍生品交易的 78%。
+>  
+> 2025年，单月交易量最高达到8.94万亿美金。
+>  
+> 增长速度也很快，2024年，TOP 10 中心化交易所的合约交易量是 58.5万亿，是2022年交易量的两倍。
+>  
+> 无论从哪方面来看，合约依然是目前币圈交易量最大，深度最好，发展最快的交易工具，也是最主流的上杠杆的方式。
+>  
+> 这么一个大体量的金融产品，围绕着合约交易的衍生品——合约费率，构建一个几十亿规模的DEFI 平台，不算很困难，而且会进一步反过来强化合约规模的上升。
+>  
+> Boros 这类产品的出现和诞生是行业发展的必然，也会出现更多类似产品。
+
+## 106. Aug 5, 2025 · 5:09 PM UTC · 1952779113371930918#m
+- 链接：https://twitter.com/Cody_DeFi/status/1952779113371930918#m
+- 作者：@Cody_DeFi
+
+> 太敬业了，我直接给你转发，我懒得写了。
+>  
+> 我没有取 S1 的积分存款，顺延到 S2 了，看起来命中双倍了积分了，之前差点想过转存到 APY池子去。
+>  
+> 坚持到现在没动这笔钱，主要还是大家都在怒喷项目方，并且纷纷在时间点结束前提款的时候。
+>  
+> 隐隐约约的直觉告诉我，项目方估计要在这个节点玩一下“忠诚度考验游戏”，看起来猜中了。
+>  
+> 另外一个坚持 Noble 的理由，也是陆续会看到一些项目方采用他们家的方案。链上生息稳定币是个刚需，以目前区块链的清算能力，没理由还要像传统金融那样，分什么，现金，活期，定期。
+>  
+> 如果国债就等于现金，那我为什么还要用现金这种不生息的纸钞来支付？传统金融无法实现，但是区块链可以，这就是区块链的意义。
+>  
+> 当然这套方案也有门槛，所以有些项目方就直接集成 @noble_xyz @noble_chinese 的方案。
+>  
+> 说一千道一万，还没 TGE，不能半场开香槟，来吧，继续赌下去。🎲🎲🎲
+
+## 107. Aug 5, 2025 · 2:45 PM UTC · 1952742886438539307#m
+- 链接：https://twitter.com/Cody_DeFi/status/1952742886438539307#m
+- 作者：@Cody_DeFi
+
+> 可以，@noble_xyz 的一季度积分，会固定分配5%的份额了，估计是个大毛了。
+
+## 108. Aug 5, 2025 · 11:41 AM UTC · 1952696407078658112#m
+- 链接：https://twitter.com/Cody_DeFi/status/1952696407078658112#m
+- 作者：@Cody_DeFi
+
+> 《 HUMA 空投收益 APY 预估 以及业务发展盘点》
+>  
+> 英文区 DEFI 博主 @FabianoSolana  发布了关于 HUMA S1 Classic 和 Maxi 模式的回报率测算。
+>  
+> 按照他的结论，现在羽毛的总量是 2.7B 左右，还有一个月的时间进行快照，预估快照节点总量 3.5B 的羽毛数，对应 2.1% 的空投份额，约总值 760万U 的市值。
+>  
+> 最后的预估数据，是1000 羽毛对应 2U 的价格。
+>  
+> 不过，按照我自己的推算，跟他还是有比较大的差距，主要差别在空投总量和 HUAM 的市场价格上面。
+>  
+> 因为 S1 的羽毛总量，似乎除了散户零售的，还有机构的份额。所以，我只给了1.37%左右的散户份额预估。
+>  
+> 而在 HUMA 的市场价格上面，我也没有给比较高的预期，因为之前的 2% presale 也会在这轮解锁，市场需要一定的时间消化卖盘，我大概算出来的每 1000 个羽毛价格，大概对应 1.2 U。
+>  
+> 不过即便是这个羽毛回报率，大概也能对应到 MAXI 20%的 APY 。如果存 Classsic Mode 10%APY + 7倍左右的羽毛积分，那估计会在15-25%左右。
+>  
+> 无论怎么样，这个收益率都已经是目前币圈在稳定币层面，非杠杆模式下最高的收益率了。
+>  
+> 我一直在用实际行动支持 @humafinance ，还比较有耐心，等待福报来临。
+>  
+> ——
+>  
+> 空投之外，聊聊业务层面。
+>  
+> 我觉得即便到今天，币圈的大多数人还是对 HUMA 没有太多的认知，不太清楚 HUMA 的具体业务是什么。
+>  
+> 简单的来说：就是 B2B 跨境支付下的稳定币的垫资和支付。
+>  
+> 这一模式下，同类型业务的法币跨境支付公司 @airwallex 目前最新一轮估值是  62亿，HUMA 目前 FDV 3.4亿。
+>  
+> 同样是支付型企业，核心指标还是看支付成交量，目前 HUMA 支付交易量已经超过 56B，距离 100B 的目标在加速进行，业务发展很健康。
+>  
+> 📊战略业务层面
+>  
+> HUMA 的支付业务，是以 @arf_one  为主线。按照 FOUNDER们的叙事，还有两条剩下的线，一条是自己的  DEFI 平台叙事，一条是和 TRADEFI 机构的合作。
+>  
+> PART 1⃣
+>  
+> DEFI 方面，目前看到的新闻是，和 @superstatefunds  的合作，后者主打两个产品。
+>  
+> USTB 和 USCC，一个是机构级的代币化短期国债，一个是自营的基差套利基金。
+>  
+> 我猜测，目前和 superstate 的合作，应该也是增加 HUMA 平台的多样化收益来源。
+>  
+> Superstate 的产品我观察下来，很有传统金融的背景，重视托管安全和净值计算，我之前打过交道的 WEB 2 基金公司，也是很看重这两样。
+>  
+> PART 2⃣
+>  
+> TRADEFI 合作方面，我目前看到的未经证实的传言，据说是和 @JupiterExchange  合作做 LEND CARD 相关的事情.
+>  
+> 按照HUMA @DrPayFi  的之前的说法，HUMA 主要还是涉及稳定币的清算，可能会在这些 U 卡的清算背后，看到一些 HUMA 的参与。
+>  
+> 之前听过一期关于支付的博客 ，提到稳定币支付除了需要 Solana \ Circle 提供底层的清算，也需要一些像 HUMA 这样的中介机构提供服务，简单的就是清算层和服务层。
+>  
+> 我觉得在服务层上面， HUMA应该也有很多可以做的空间。
+>  
+> ——
+>  
+> ⭐️最后，作为一个 DEFI 赛道的博主，我最希望的还是看到 HUMA 能够在 DEFI 这个平台上有更多的动作，毕竟 RWA 的收益跟币圈 DEFI 之间还是差了一层，没那么容易引起币圈的注意力。
+>  
+> 脑洞大开一下，如果哪一天 HUMA 像 @phantom 钱包一样，接入了  @HyperliquidX  这样的合约交易系统，是不是也可以用 PST/MPST 作为抵押保证金来进行交易。
+>  
+> 那样的话，估计 PST 和 MPST 就是全市场利息最高的合约交易保证金了，会吸引很多交易型用户进入 HUMA 的生态。哈哈，纯粹脑补，不足为信。
+>  
+> #DeFi @humafinance  @humafinance_zh @KaitoAI
+
+## 109. Aug 3, 2025 · 8:50 AM UTC · 1951928585201041447#m
+- 链接：https://twitter.com/Cody_DeFi/status/1951928585201041447#m
+- 作者：@Cody_DeFi
+
+> 根据我的推文画出我的形象 @grok
+
+## 110. Aug 3, 2025 · 7:06 AM UTC · 1951902470537609354#m
+- 链接：https://twitter.com/Cody_DeFi/status/1951902470537609354#m
+- 作者：@Cody_DeFi
+
+> Noble @noble_xyz @noble_chinese  的第一季，加一个月延期的存款活动还有 2 天结束了。
+>  
+> 感觉 TGE 延期+积分活动第二季不意外，我对项目的感觉就是项目有进展，但是进展不多。
+>  
+> TGE 这种事情本身就是天时地利人和的事情，按照一个项目方的 TIMELINE 大概率是踏空的，还是看二级市场的交易员们感不感兴趣。
+>  
+> 后面会上 APP layer 和可能会官宣的第二季积分活动，项目方嘴上承诺会保护第一季的积分不被稀释，实际最后到底怎么分配，全看项目方心情吧。
+
+## 111. Aug 2, 2025 · 2:31 PM UTC · 1951652188910223544#m
+- 链接：https://twitter.com/Cody_DeFi/status/1951652188910223544#m
+- 作者：@Cody_DeFi
+
+> 第一次看见要先交易 app ，才能拿到 yap 奖励的项目。
+>  
+> @defidotapp DeFiapp 属实是把 VE33 模型和 pow模型结合起来了。
+>  
+> 一边吃用户交易磨损的点差和手续费，一边还让帮忙吆喝，这就是拿出300万U 奖励嘴撸的格局吗？
+>  
+> 城市套路太多了。
+
+## 112. Aug 2, 2025 · 9:58 AM UTC · 1951583384041406681#m
+- 链接：https://twitter.com/Cody_DeFi/status/1951583384041406681#m
+- 作者：@Cody_DeFi
+
+> BNB 版本的 @protocol_fx
+>  
+> 理论上只要有生息的现货资产，都可以做成 FX 的模式，这次是把 BNB 的 lauchpool 收益做成了固定收益，将波动和收益做了拆分。
+>  
+> lauchpool 的收益不稳定，周期也不确定，但是背靠币安，有很高的隐含收益率，理论上也可以上 pendle，进一步做收益互换。
+>  
+> 现在类似于 @protocol_fx FXSAVE 功能模块的收益规模，200多万U，还在推积分计划。
+>  
+> 但是貌似只能链币安钱包，安全审计的什么就不清楚了，DEFI 的困境永远是对于新协议迈出第一步有点敬畏...
+
+## 113. Aug 2, 2025 · 7:22 AM UTC · 1951544078963036509#m
+- 链接：https://twitter.com/Cody_DeFi/status/1951544078963036509#m
+- 作者：@Cody_DeFi
+
+> GMX 经历过上次黑客事件之后，现在的数据依然是 @arbitrum 上面最好的交易所。
+>  
+> 相比于 Hyperliquid，GMX 最大的特色就是毫无争议的去中心化DEX，所有数据都是链上真实的，而且可能是在一众 DEX 里面刷量最少的，因为做 LP 需要现货成本。
+>  
+> 目前，GMX 经历过黑客和被质疑会被 Hyperliquid 取代，币价已经从最高点 40U 跌到 10U 附近很久了，利空出尽，只剩钻石手，买在无人问津处，是不是一个好的买点？
+>  
+> GMX 代币 Staking 的收益还有 15%-40%，全部来自于协议回购 GMX 之后派发给 Staking 用户。
+>  
+> 这个交易所目前最大的问题，就是团队战斗力懒散，效率低下，据说以前搞一个上币搞了两年，组织偏向于原生的 DAO 形式，目前主推多链和股票上链。
+>  
+> 有没有更懂行的推友来说说，GMX 可以入吗？
+
+## 114. Aug 1, 2025 · 4:31 PM UTC · 1951319983746895881#m
+- 链接：https://twitter.com/Cody_DeFi/status/1951319983746895881#m
+- 作者：@Cody_DeFi
+
+> 《数字金融革命》——SEC 新任主席保罗·阿特金斯讲了什么？
+>  
+> 美国证券交易委员会（SEC）新任主席，保罗·阿特金斯昨天发表了一份美国全面进行数字金融监管变革的演讲。
+>  
+> 其背景是在川普总统的要求下，确保数字资产（Cypto）的创新发生在美国本土之上。
+>  
+> 在此之上，白宫发布了一份165页的《白宫数字资产报告》 ，报告框架全面的涵盖了对区块链金融（on-chian finance）的解读和建议。
+>  
+> 基于那场报告，SEC 新任主席，保罗·阿特金斯也发表了全面拥抱监管变革的演讲。
+>  
+> 两份原文链接如下：
+>  
+> 1、《American Leadership in the Digital Finance Revolution》倡议的链接：
+>  
+> sec.gov/newsroom/speeches-st…
+>  
+> 2、《白宫数字资产报告》原文链接：
+>  
+> whitehouse.gov/wp-content/up…
+>  
+> 这份演讲中，保罗阿斯特金提出了项目名为：Project Cyrpto 的倡议，并且将其作为未来 SEC 变革的 “行动北极星”。
+>  
+> 下面简单地讲讲这份演讲中有哪些重要内容。
+>  
+> ————分割线————
+>  
+> 1⃣、将链上金融 ( on-chain financial ) 提升到下一代金融基础设施的高度
+>  
+> 我觉得这份演讲，最重要的就是，美国监管层正本清源的认清了区块链金融在金融清算上面，具有跨时代意义的领先性。
+>  
+> 用央行行长潘功胜的话来说，就是“支付即清算”。这一个功能特性，目前在所有的传统金融市场中都不能实现。
+>  
+> 在保罗的演讲中提到，纽交所于 1792 年，由二十几个经纪人在梧桐树下成立，也意味着华尔街金融的诞生。而华尔街金融的发展，本质也是一套金融清算系统的发展。
+>  
+> 由最开始纸质存托凭证记录，到现在的电子化账本记录，清算能力的改变，除了降低金融门槛，提升了金融活动，也带来了监管的升级变化，比如于 1990年开始，专门监管电子交易的 Reg ATS 法案。
+>  
+> “By the late 1990s, electronic trading systems surged in popularity, unsettling old assumptions about how markets should function. Chairman Arthur Levitt likewise believed it behooved the SEC to provide regulatory flexibility for the electronic markets to innovate.[7]
+> So, Regulation Alternative Trading Systems, or “Reg ATS,” adopted in 1999, allowed for ATSs to be regulated like broker-dealers, rather than like exchanges.”
+>  
+> 这一监管升级的背景，同样适用于现在的区块链金融（on-chain finance）的监管升级，而这是美国拥抱区块链金融的核心原因。
+>  
+> 2⃣、《白宫数字资产报告》明确了 SEC 是最重要的监管主体之一
+>  
+> 加密货币不同于传统的金融资产，具有功能多样性，本身具备股权的分红、投票、交易等属性。
+>  
+> 同时，又有商品的质押，货币的支付、托管等多种属性，这导致了现有金融体系的单一监管主体，无法完全覆盖加密货币的所有功能场景。
+>  
+> 但是在这份 165页的《白宫数字资产报告里面》，明确了加密货币的监管主体将由 SEC和其他机构主导，确保美国在加密领域的合规化、大众化的普及。
+>  
+> 最终以美国技术为底层，服务全世界。
+>  
+> “Yesterday, the President’s Working Group on Digital Asset Markets released the PWG Report with clear recommendations for the SEC and other federal agencies to build a framework to maintain U.S. dominance in crypto asset markets. This report is the blueprint to make America first in blockchain and crypto technology. The President said last week that he wants “the entire world running on the backbone of American technology.”[9] I stand ready to help get that job done.”
+>  
+> 3⃣、五个具体的监管举措，确保 Crypto 行业重新回归到美国本土
+>  
+> 在明确了监管的必要性和责任之后，保罗关于 Cyrpto  的监管方向，全部都回归到了五个具体的场景下面。
+>  
+> 而这五个场景，也是区块链金融与传统金融非常不一样的地方。
+>  
+> （1）明确不同的代币，在具体场景下的具体金融属性
+>  
+> Crypto 是否属于证券( Security )一直是一个长期争议的目标，甚至一度让 SEC 长期与链上的协议项目方进行司法仲裁。
+>  
+> 现在新的监管框架，开始着重的去先定义，某一个Token 是属于哪类金融资产，再进行对应的条目框架管理。
+>  
+> “Our goal is to help market participants to slot crypto assets into categories, such as digital collectibles, digital commodities, or stablecoins, and assess the economic realities of a transaction. This approach can allow market participants to determine, based upon clear guidelines, whether any outstanding promises or commitments of the issuer cause the crypto asset to be subject to an investment contract.”
+>  
+> （2）鼓励金融资产资产“自拓管”的发展
+>  
+> “金融资产自拓管”，是传统金融与区块链金融具有明显不同特征的一个方面。
+>  
+> 在传统金融中，我们依赖的是银行为底层的清算账本，本质上，所有的金融资产都存在于一个中心化的金融机构手中。所以政府和金融机构，往往对金融资产拥有冻结等手段。
+>  
+> 但是在区块链行业里面，区块链的去中心化账本技术，取代了银行的账本体系，从而让“金融资产自拓管” 这一手段出现在普通投资人手中。
+>  
+> 在 SEC 主席保罗的倡议演讲中，从美国自由民权的角度出发认为了自拓管的积极一面，但是也提出来监管框架对于自拓管的适应问题
+>  
+> “The existing custody rules were created without crypto assets in mind. I have directed the staff to consider how best to adapt the existing regime to facilitate the custody of crypto assets, including possible exemptive or other relief, in addition to changes to the rules themselves.”
+>  
+> （3）Super- Apps  一种新的金融中介机构
+>  
+> 在过去的区块链金融发展过程中，起到中介机构交易的交易所，大多数都是不具备合规性的民营机构交易所。某种程度来说，无法适应到现有的监管体系之内。
+>  
+> 随着 Coinbase上市， Robinhood 发行自己的区块链和提供交易。 代币和证券的融合趋势，给一些新兴的中介交易机构提供了新的机会，他们被 SEC 定义为 Super-App。
+>  
+> 这些 Super-app 因为涉及的金融资产众多、金融业务也很多，必然面临各类牌照和地方监管的问题。
+>  
+> 站在 SEC 推动创新的角度，他们希望构建一种尽量简单，全包括的单一牌照。
+>  
+> “A broker-dealer with an alternative trading system should be able to offer trading in non-security crypto assets alongside crypto securities, traditional securities, and other services, like crypto asset staking and lending, without requiring fifty-plus state licenses or multiple federal licenses.”
+>  
+> 这种全牌照属性，能够让很多金融机构尽快的适应到链上金融生态中，推动一些 Crypto 原生的金融服务，比如链上的质押（staking）和借贷（lend）
+>  
+> （4）对完全去中心化程序 （DAPP） 的定义和监管
+>  
+> 传统金融中，所有的金融服务都是由中心化的金融机构提供。
+>  
+> 但是在区块链上，有很多金融服务是由特定的代码自动运行。有一些是完全去中心化和自动的，有一些是由某些组织进行代码的更新和服务，但是不进行服务的提供。
+>  
+> 这其实是对监管机构相当大的挑战，比如著名的链上洗钱工具- 龙卷风，就是完全的去中心化自动运行的 DAPP。对于监管机构来说，面对这些去中心化的DAPP 的反洗钱手段，就是对交互过协议的地址进行黑名单处理。
+>  
+> 对于 SEC 这样的监管机构来说，最重要界定中心化和去中心化金融组织的界线，适应新的监管环境。
+>  
+> “will create space in our markets for both models, by protecting pure publishers of software code, drawing reasonable lines to distinguish intermediated and disintermediated activity, and creat rational and workable rules of the road for intermediaries that seek to operate onchain software systems.”
+>  
+> 确保有利的去中心化金融程序能够不受干扰的运行，又不会被个别组织以此为借口滥用。
+>  
+> （5）对创新者的豁免权力，大幅降低合规成本
+>  
+> SEC 认为，相对于目前落后的监管框架，更应该对金融创新进行鼓励，确保下一代金融基建由美国引领。
+>  
+> 所以，SEC 认为在保持一定的主要条件合规的前提下，就可以开展很多创新性的金融活动。
+>  
+> 比如，在区块链上发行股票，传统金融提供原生的 代币ETF 质押收益等等。
+>  
+> 而这些金融活动的合规成本，可能仅需要进行定期报告、或者白名单机制、或者实验池等方式就可以实现，最大程度的降低创新者的合规成本。
+>  
+> “they will be able to comply with certain principles-based conditions designed to achieve the core policy aims of the federal securities laws. These conditions may include, for example, a commitment to make periodic reports to the Commission, incorporate whitelisting or “verified pool” functionality, and restrict tokenized securities that do not adhere to a token standard that incorporates compliance features, such as ERC3643.[22]”
+>  
+> 总结：
+>  
+> 这是我迄今为止，看到的监管层对区块链金融 （on-chain finance）理解的最为透彻的一份内容了。
+>  
+> 从这里， 以及联合那份《白宫数字资产报告》可以看到，美国的监管层对于区块链的理解相当深刻，并且还在持续的了解这个生态，试图建立引领性的监管框架。
+>  
+> -
+>  
+> 在我眼中的区块链金融，或者说币圈，有其虚伪和真实的一面。
+>  
+> 金融本质上是一个产业链极其短的行业，一头是资金，一头是资产。
+>  
+> 对于区块链金融来说，发达的资金端是他真实的一面，这依赖于去中心化账本提供的高效清算能力，DEFI 模块化、可组合的能力等等。
+>  
+> 但是，困难的就是这套资金清算体系，缺乏足够优质的资产进行交易。
+>  
+> 于是就有了币圈虚伪的一面。
+>  
+> 币圈曾经讲过“价值互联网”的故事，就是将互联网的产品放到区块链上面进行运行。
+>  
+> 但是结果并不理想，这个故事最大的作用，是凭空创造了一堆泡沫资产，给大家进行交易，从而进一步强化了区块链金融在资金清算端的能力，也就所谓的去中心化金融 DEFI。
+>  
+> 走到今天这个里程碑，“价值互联网”的故事已经没有人再买单，而随着加密资本对川普的扶持，整个美国开始拥抱加密行业。
+>  
+> 也就出现了所谓的币股融合、稳定币、RWA等对传统金融进行改造的叙事。
+>  
+> 这些叙事的落地能力远强于“价值互联网”，并且在稳定币的背后，还有一套久经验证的金融系统  DEFI，这些都可以进一步进入到传统金融世界中。
+>  
+> 回到最初的关于这份演讲和美国监管的话题上面。我认为，链上金融是一个在技术层面更加高效的金融网络，本质是一种先进生产力。
+>  
+> 但是，对于大多数政府来说，过于自由和高效的金融系统，并不符合他们的期望。
+>  
+> 只是美国天然是一个开放的资本环境，加上区块链上的稳定币99%都是美元本位，也就顺势而为的与区块链进行互相融合。
+>  
+> 这本质是在倒逼其他国家的金融体系要么进行改革，要么进一步加强控制。
+>  
+> 因为链上金融拥有更强的金融渗透能力，传统金融世界里面，普通人想要投资美国国债，需要一套银行账户和外汇。
+>  
+> 但是在加密的世界上，只要有一台电脑就可以创建钱包，通过 OTC 的形式，就能接触到全世界大多数的资产类别。
+>  
+> 所以，在我看来，一场新的金融变革已经到来，相比于美国而言，第三世界国家的紧迫性反而更加迫切。
+
+## 115. Jul 31, 2025 · 8:01 AM UTC · 1950829257833451800#m
+- 链接：https://twitter.com/Cody_DeFi/status/1950829257833451800#m
+- 作者：@Cody_DeFi
+
+> 感觉这条推特的含金量还在上升，昨天美联储没降息，市场下探了一下就立刻反弹了，ETH 比 BTC 更能代表市场的信心指标。
+>  
+> 随之而来的就是波动率的上升，二级市场的收益会带来链上 DEFI 的繁荣。
+>  
+> 观察了一下整体的市场交易偏好，DEFI 把二级市场的收益像分级基金一样，把不同的 risk/reward 匹配给了不同的人群。
+>  
+> 最高风险偏好的交易选手，直接上杠杆交易，比如合约杠杆，比如 @protocol_fx 现货杠杆 。
+>  
+> 次一级的，做多波动率，通过 @ResolvLabs 的 RLP-YT 做多费率。
+>  
+> 再次一级的，赚纯 funding fee， @vectis_finance @TradeNeutral 的跨所合约费率套利表现也不错。
+>  
+> 最后，围绕叠码仔思路，做的抵押放贷类型的收益也在上升，比如 @MorphoLabs 的循环贷， @protocol_fx 的fxsave等。
+>  
+> 还有，二级市场代币价格的上升，也能带来矿币收益的APY 直线提升，比如  @ethena_labs 的ENA， @humafinance 的 HUMA 等。
+>  
+> 再看一下这张图，属于 DEFI 时代的“美林投资时钟”
+
+## 116. Jul 29, 2025 · 4:56 PM UTC · 1950239122779754535#m
+- 链接：https://twitter.com/Cody_DeFi/status/1950239122779754535#m
+- 作者：@Cody_DeFi
+
+> 币安合约团队出来做的一个链上合约 DEX
+>  
+> 亮点是保证金可以生息，底层是一个叫 DUSD 自己发行的稳定币。
+>  
+> 本质是把 U 放入了 @PancakeSwap @RaydiumProtocol 上面 USDT\USDC\DUSD 的稳定币 V3 的池子，看起来年化能做到 10%+？
+>  
+> 我怎么觉得这套体系有点像 @Perena__ + 一个链上合约 DEX？
+
+## 117. Jul 29, 2025 · 4:13 PM UTC · 1950228160508993577#m
+- 链接：https://twitter.com/Cody_DeFi/status/1950228160508993577#m
+- 作者：@Cody_DeFi
+
+> Huma 的池子又开了，有点意外，上次开池子差不多等了一个多月。
+>  
+> 看起来业务端的增速又起来了，联想到上次 AMA 说有几个大客户会来 Huma，所以这些资金是为他们预留的？
+>  
+> 10 B 的交易额应该会比预想中还快到来。8 月还有一些消息会陆续出来，包括和 @JupiterExchange 的合作等。
+>  
+> 这次还多一个新的徽章 - Anchor Badge，连续存 2次 6个月就能拿到。
+>  
+> Huma 这是准备开个 Steam 一样的成就系统？那以后我那个满徽章的 Huma 钱包地址不得起飞？
+>  
+> 能不能成为我的养老金，本小韭菜必须要幻想一下 !
+>  
+> FLG~
+>  
+> @humafinance @KaitoAI
+
+## 118. Jul 29, 2025 · 3:15 PM UTC · 1950213559490924789#m
+- 链接：https://twitter.com/Cody_DeFi/status/1950213559490924789#m
+- 作者：@Cody_DeFi
+
+> 这些山寨微策略们，市值最大的是 ETH 版本的微策略， BMNR 32亿，SBET 18.9亿，其他的市值 1-3亿，成交量更低。
+>  
+> 但是已经可以影响币圈币本位几百亿盘子的情绪了？
+>  
+> 属实是典型的小马拉大车了。
+
+## 119. Jul 28, 2025 · 4:53 PM UTC · 1949875809378062554#m
+- 链接：https://twitter.com/Cody_DeFi/status/1949875809378062554#m
+- 作者：@Cody_DeFi
+
+> 不是吧？
+>  
+> 我没有数错 0 吧？ @defidotapp   要拿 100M $HOME 空投给 @KaitoAI 的 yapper？
+>  
+> 按照目前市价计算，相当于 300万 U ？？？
+>  
+> 普通项目拿出来几十万U 空投已经是大毛了，这次 Defi App 直接来个大的？
+>  
+> 另外还有 75万U 的一季度 yapper 追溯，项目方这是什么惊天格局？
+>  
+> 对不起，给的实在太多了
+>  
+> ————
+> 💰 Total rewards:
+>  
+> 125M $HOME
+> • 100M for Season 2 Defi App Leaderboard yappers + $KAITO Stakers
+>  
+> • 25M for yappers missed by Season 1 snapshot • All tracked on
+
+## 120. Jul 28, 2025 · 4:42 PM UTC · 1949873129347752420#m
+- 链接：https://twitter.com/Cody_DeFi/status/1949873129347752420#m
+- 作者：@Cody_DeFi
+
+> 没看明白，为什么是 @OKX_Ventures 出来发布 @ethena_labs 的 2025 计划。
+>  
+> 基本上还是以前那几个饼，对 ENA 的赋能是 Ethena 的老招了。
+>  
+> 当初 ENA 第一波拉盘就是给 ENA 做 staking share ，分你几百万美金的利润，拉出几个亿的市值。
+>  
+> 项目方炒币还是能力一流的。
+
+## 121. Jul 28, 2025 · 9:46 AM UTC · 1949768516204462114#m
+- 链接：https://twitter.com/Cody_DeFi/status/1949768516204462114#m
+- 作者：@Cody_DeFi
+
+> 感觉 @ethena_labs 最近的动作太多了
+>  
+> 首先是宣布 Launch 了自己的资管专属公链 @convergeonchain ，联合 @BlackRock 之类的，搞 TredeFi 的资产发行和管理。
+>  
+> 同时，为了提高自己的合成美元头寸利用率，搞了自己的链上 DEX @etherealdex 。
+>  
+> 为了把合成美元的头寸嵌入到传统金融里面，又做了所谓的 iUSDe
+>  
+> 后来，学习了 @ResolvLabs 的 优先/劣后 资金池模式，在自己的公链上要搭建同样的资金池协议 @strata_money
+>  
+> 考虑到 sUSDe 是一个 yeild token，直接在链上做 LP 会有无常损失，想学习 wstETH 之于 stETH 的模式，在自己的公链上又准备推出 自己的 @Terminal_fi ，将 sUSDE 包装成 rUSDe ，然后官方可以无损的兑换，内置 yeild 生息。
+>  
+> 搞完这一套之后，看到 ETH 学习微策略，自己也宣布做 ENA 的微策略模式，给一个矿币猛猛拉盘。
+>  
+> 最后，以上的这些生态协议，还可以进行套娃质押， eUSDe 存入 @strata_money ，估计后面还可以套套 @Terminal_fi ，一美元的流动性，能够做出三美元的 TVL。
+>  
+> -@ethena_labs  这几波连环操作，感觉真是迈了好大的步子，什么都要做，已经把自己当作华尔街和加密圈的 TradeFi 桥梁进行打造。
+>  
+> 按照历史规律，要么来一波大的，要么拉一坨大的，各位元芳们怎么看？
+
+## 122. Jul 25, 2025 · 12:07 PM UTC · 1948716819310936307#m
+- 链接：https://twitter.com/Cody_DeFi/status/1948716819310936307#m
+- 作者：@Cody_DeFi
+
+> DLMM 交易所 @MeteoraAG 正在追溯之前做过社区贡献的用户。
+>  
+> 如果你参与过 meteora 的活动，写过 meteora 的内容，或者有什么别的建设性举措，都可以填表写进去。
+>  
+> 应该 Q3 就会空投了，现在是最后一轮追溯空投贡献的机会窗口了。
+
+## 123. Jul 25, 2025 · 9:08 AM UTC · 1948671784808841597#m
+- 链接：https://twitter.com/Cody_DeFi/status/1948671784808841597#m
+- 作者：@Cody_DeFi
+
+> 《币圈上班族理财指南 —— 链上“基金超市” Neutral Trade》
+>  
+> 链上对冲基金是我一直在关注的领域，我也是非常早就认识了 @TradeNeutral @Neutraltrade_CN 的团队。感谢 @Solana_zh  社区发起的征文活动，借花献佛，也给大家聊聊我认知里的 NEUTRAL TRADE 和基于他们可以做的投资策略。
+>  
+> 一、Neutral Trade 是什么？
+>  
+> 其实，我觉得大家可以把 Neutra Trade 当作一个币圈的基金超市。 Neutra 做的事情，本质就是把传统金融里面一些经过验证的交易策略，放到区块链和 DEFI 上面，并且做了本地化处理。
+>  
+> 整体来说，我觉得目前交易策略分为两类。
+>  
+> 1、一类是不带方向性敞口，以中性策略为主的套利基金
+>  
+> 这类策略的核心，就是通过对冲的手段，去掉了代币的方向性敞口，大白话来说，不管币价涨跌，只赚确定性的钱。
+>  
+> 我们以 JLP Delata Neutral 这个经典策略为例。 JLP 是 Solana 生态上的链上合约交易所 @JupiterExchange  发行的流动性 Token，有BTC+ETH+SOL+USDC+USDT。
+>  
+> 其本质是做市商资金池，用户存入资金，买入一篮子代币，承担代币价格波动的风险，以及和交易所用户对赌的风险，赚取交易所的利息和手续费。
+>  
+> 这个APY 收益相当高，经常在年化 10%-80%之间波动。
+>  
+> 而 JLP 的中性策略，就是通过动态对冲的方式，将 JLP 底层资产中的 ETH\BTC\SOL 等波动代币，通过合约对冲掉。
+>  
+> 这样，就可以只赚 JLP 的手续费，同时又不承担任何代币价格波动。
+>  
+> 但是，对冲并不是没有成本的。成本主要是两类：1、对冲合约的 funding fee。2、对冲时候调仓的摩擦成本。
+>  
+> 所以，合约费率牛市的时候，JLP 中性策略的收益最高。
+>  
+> 下图就是 JLP 中性基金的长期表现：
+>  
+> 除了 JLP 中性策略外，Neutral Trade  上还有其他的中性策略，比如跨所合约 funding fee 套利、对冲+流动性质押TOKEN 等。
+>  
+> 2、第二类是带有选择性方向的被动交易策略基金
+>  
+> 这类策略基金的核心，其实就是根据一定的规则，有选择性的增加对二级市场某个方向的金融敞口，获得一些不确定性的回报。
+>  
+> 现在 Neutral Trade 上卖的最好的方向性基金就是 CTA Momentum，其实这类策略在传统金融非常盛行，很多大宗商品交易，就是用的一些标准的动量策略，通过高频 + 量化的模式来进行二级市场交易。
+>  
+> 比如 Neutral Trade 的 CTA Momentum 策略：
+>  
+> “It is designed to capture short-term momentum and mean-reversion inefficiencies in highly liquid digital assets, specifically: BTC, ETH, SOL, BNB, XRP, and DOGE”
+>  
+> 这个就是围绕这几个代币，做短线层面的均值回归。
+>  
+> 这类策略的好处，就是在市场趋势明显的时候，能够取得很好的超额回报，尤其是市场处于周期拐点的时候，底部或者顶部。
+>  
+> 但是风险也很明显，就是趋势不明朗的时候，容易左右打脸策略亏钱。
+>  
+> 在 Neutral Trade 平台上，还有一些其他的方向性策略，比如配对交易、ETH\SOL\BTC 单一敞口、指数基金等等，不一而足，感兴趣的朋友可以去深度了解。
+>  
+> 二、基于 Neutra Trade 可以做哪些交易策略？
+>  
+> 正如我之前所说，Neutra Trade 可以看作一个链上的基金超市。
+>  
+> 与主动性私募基金的差别在于，后者往往策略是不固定的，会做主动管理来赚取超额回报。
+>  
+> 所以，基于这个逻辑，本质上也可以衍生出一套“择时和择币”的 FOF 基金操作模式。
+>  
+> 比如，我们以 “ 波动 ” 和 “趋势 ” 这两个指标作为 X 和 Y 轴，就能看到哪些策略基金在哪个时间段表现更好。
+>  
+> 本质上：
+>  
+> 👉波动决定了市场的资金费率是否对中性策略有利，趋势决定了方向性策略的胜率如何。
+>  
+> 比如前段时间 FOMO 起来的 ETH 牛市，就非常适合资金费率套利。
+>  
+> 而四月份的阶段性底部，就适合 CTA 策略的投入。
+>  
+> 如果什么都没有，就可以放入 USDC 理财，或者对冲过后的 LST 策略，这类策略通常都有5-10%的APY，作为活期理财也不错，现金本质上也是一种 CALL OPTION ，不要小看现金的潜力。
+>  
+> 三、Neutral Trade 安全吗？
+>  
+> 总体，我认为 Neutral Trade  是比较安全的，这样的安全分为两个层面。
+>  
+> 1、策略层面的安全
+>  
+> Neutral Trade 的策略主要是二级市场的交易为主，会涉及部分头部 DEFI 协议，比如 STAKING，比如 JLP 的资金池、Kamino 的存款等。
+>  
+> 这类协议的 DEFI 风险都相对较小，也不会涉及一些高杠杆的 PT 循环贷，整体以二级市场交易+头部 DEFI 协议为主，大大降低了 DEFI 协议的智能合约风险。
+>  
+> 2、托管层面的安全
+>  
+> Neutral Trade 在托管层面，把大部分资金都放在了交易所中，比如 BAKC\DRIFT\OK 这类交易所，这类交易所用的托管系统，我个人认为比智能合约更安全。比如 BACKPACK 说自己用的是两层多签系统做的资金存托。
+>  
+> 其次，Neutral Trade 在资金管理的权限上面，是采购了 @CopperHQ   这样的托管服务商，将资金的存取和管理权限拆离，内部做了多签管理。
+>  
+> 另外，我记得 Copper 还有一套资金清算映射系统，跟 Ethena 现在的模式一样，进一步提升了资金的安全性。
+>  
+> 最后，Neutral Trade 的团队，基本都在香港运作，像 Drift 交易所，也对 Neutral Trade 做了 KYB (KNOW YOUR BUSINESS ) 的认证，某种程度上，是增加了对团队的背书。
+>  
+> ————
+>  
+> 做个总结：
+>  
+> 我认为 Neutral Trade 的安全性是不错的，被动策略的执行也不错。
+>  
+> 普通人投 Vault 的好处就是省心省力+安全。
+>  
+> 但是，如果想拿到好的收益，也离不开，对各种策略 Vault 的选择，这个需要专业能力。
+>  
+> 或许某一天，会出现一个类似 AI + FOF 的形式，来帮普通人进一步降低投资的门槛吧。
+
+## 124. Jul 24, 2025 · 9:03 AM UTC · 1948308154254832014#m
+- 链接：https://twitter.com/Cody_DeFi/status/1948308154254832014#m
+- 作者：@Cody_DeFi
+
+> 我勒个去~
+>  
+> 之前有几百个 HYPE 在这里做 loop staking，然后 miss 了官方的 phase 2 airdrop。
+>  
+> 官方 @Looped_HYPE 给我发私信，告诉我可以补领，太感谢官方了。
+>  
+> 必须全部 stake，bullish !
+
+## 125. Jul 23, 2025 · 3:51 PM UTC · 1948048318183162022#m
+- 链接：https://twitter.com/Cody_DeFi/status/1948048318183162022#m
+- 作者：@Cody_DeFi
+
+> 太佩服  @starzqeth 老师这个执行力了，AMA 一结束，就发布了会议信息。
+>  
+> 借花献佛，也补充一些我觉得重要的信息:
+>  
+> 1⃣ HUMA 在未来几个月不仅会发布 7个新功能，陆续还有很多大的机构性 Partner 加入，甚至 @Ripple 最大的客户之一，也会迁移到 Huma 上面。总之，随着稳定币法案的立法成型，大型机构会逐步打消关于监管的顾虑，进一步加快稳定币的采用，静待官宣就可以了。
+>  
+> 2⃣ 新的代币上所正在筹备中，可以期待新的交易所 listing 事件，会有更多流动性加入。
+>  
+> 3⃣ 无论是跨境支付，还是 DEFI 业务，都在有序推进中。采用跨境业务的老客户续约率很高，意味着池子和收入都会进一步增大。
+>  
+> 同时，关于 PST 的循环贷和即时流动性也在推进中。小小期待一下，HUMA 的链上流动性激励（AMM LP INCENTIVE）未来也能推行，能够增加更多的链上现货流动性。
+>  
+> 4⃣ 关于土耳其、韩国、日本的新增市场推广也在推进中，增加 Huma 在 PAYFI 的领域 mind share ，能够引入更多非 Crypto 领域的用户，让 HUMA 也能抓住稳定币出圈的机会，接触到更多用户。
+>  
+> 最后，我也在 AMA 里面提了一个问题，问  HUMA 未来会不会和 AIRWALLEX 竞争。
+>  
+> 背景主要是，@airwallex 的 founder，之前 FUD 了稳定币的无用论叙事，然而转头又招募了稳定币的合约工程师，只能说“真香”只会迟到，不会缺席。😂
+>  
+> 在我看来，我是希望有越来越多的企业能够加入 PAYFI 的竞争的，一方面市场足够广阔，各个企业都能很好的找到发展机会。
+>  
+> 另外一方面，就像手机、电脑、新能源汽车行业一样，真正的强需求市场，都是充分竞争的出来的。
+>  
+> 而最好的企业，也是在充分竞争的市场环境里面，用产品来证明自己的。
+>  
+> 显而易见，HUMA 的业务目前正处于一个业务上升期，继续加油~
+
+## 126. Jul 23, 2025 · 11:33 AM UTC · 1947983379053604875#m
+- 链接：https://twitter.com/Cody_DeFi/status/1947983379053604875#m
+- 作者：@Cody_DeFi
+
+> 追了 1000U 的 YT。
+>  
+> 纯粹是相当于变向二级市场追高了，但是安全垫更厚。
+>  
+> SPK 直接从 0.03 拉到了现在最高 0.18，这对应了 18亿 FDV，只能说项目方太格局了。
+>  
+> 庆幸之前的空投不仅没卖，还又买了5000个参与第二期。第二期的空投体量应该第一期的好几倍。按照这个目前的市价，APY 可能会高达40-80%。
+>  
+> 当然，前提都是项目方能够按时准点的发放空投，想耍手段的话，项目方有一百种方式让散户亏钱。
+>  
+> 不要忘了，这个项目说来说去，始终是一个 10年 100亿排放，嵌入 USDS DeFi 生态的增长计划，怎么都无法摆脱其矿币的属性。
+>  
+> 还是那句话，多跟有钱的项目方做朋友，少跟穷逼狗庄纠缠。
+>  
+> @sparkdotfi 让我吃顿龙虾饭吧。
+
+## 127. Jul 23, 2025 · 7:25 AM UTC · 1947921091722101232#m
+- 链接：https://twitter.com/Cody_DeFi/status/1947921091722101232#m
+- 作者：@Cody_DeFi
+
+> 《复盘一下 @yalaorg 的空投经历，再聊聊 SUI 生态的 @MMTFinance 空投计划》
+>  
+> BTCFI 的协议 @yalaorg 在不到2个月内，就完成了自己的 TGE，几乎没有任何拖泥带水的动作，完成了自己当初的承诺，值得点赞。
+>  
+> 我也很庆幸，在项目主网启动不久之后，就积极的参与了这次的存款+ 嘴撸的过程，而且还组建了车队，推动大家积极参与，现在算起来，APY 我估计应该有60%+吧？
+>  
+> 关于 YALA 的 TGE，我曾经还一度担心，初始流通盘过多，也没有上主所，会不会无法支撑币价。
+>  
+> 然而事实是，抹茶的盘前交易价格，起了很好的价格引导作用，在盘前结束的一刻，甚至一段时间 FOMO 了一下，冲上了 0.35 的价格。
+>  
+> 这也导致了 Alpha 开盘一度抢筹到了 0.4+ 以上。这个 FDV 已经大大超过了我的预期，后面 FDV 哪怕能够维护在 2亿以上，第二期的空投也不会太差。不过，我是否要深度参与稳定币 YU 的生态，还要再看看，主要还是考量脱钩风险，以及 DEFI 集成度收益的情况。
+>  
+> 总的来说，YALA 的初始流通盘解锁虽然很高，但是 TOP 10 地址持有 97.8%的代币，实际流通量并不高，项目方并没有像之前某个 BTCFI 项目，完全不管理代币价值，一路向下。后续关注 YALA 代币的赋能，项目数据的增长。
+>  
+> ——
+>  
+> 聊完 YALA，顺带再聊聊另外一个 DEFI 项目 @MMTFinance ，MMT 是 SUI 生态上目前增长非常迅速的一家 DEX，已经超越了之前最大的 @CetusProtocol ，明显看起来是要取而代之，成为 SUI 链生态的流动性中心。
+>  
+> 对标也就是 BASE 链生态的 @AerodromeFi，Aerodrome 是 BASE 链的 VE33 模型的 DEX，代币不仅是增加 DEFI 协议的收入，也是绑定利润分成的重要功能性代笔。
+>  
+> 换句话说，MMT 如果要走 AERO 的路子，第一、必须要发币。第二、他的代币价格，一定会在某个周期内走入 VE33 螺旋上升的通道，价格上升。
+>  
+> 所以，站在这个角度上，我觉得 MMT 有很不错的 DeFi Farming 的价值。
+>  
+> 看到 @TravelToEW 老师的推文，提到 MMT 的目标是 1亿 TVL 之后就 TGE，现在已经达到，大概预估 9月就会 TGE，其他一些信息 JOE 老师也聊了，更详细的信息可以看他推文。
+>  
+> MMT 有非常好的 VC 背书，而且最近还在和 @SuiFoundation @wallet @okxchinese 这些项目方合作做流动性激励，有很不错的收益补贴，属于 DEFI 最爱的连吃带拿模式了，APY + 积分。
+>  
+> MMT @MMTFinance 有自己的积分模式，搞了一个等级+积分的忠诚系统，考核资金量+交易量，目前看起来做多号的策略，并不一定占优势，不如集中精力搞一个。
+>  
+> 追求稳定，可以做 XBTC-WBTC , SUI-XSUI 这样的稳定币交易对，追求高收益，可以借或买 SUI，来参与 SUI-USDC 交易对。
+>  
+> 还可以适当刷刷稳定币交易对，增加SWAP 的量。
+>  
+> ——
+>  
+> 最后，回到老生常谈的安全问题上。
+>  
+> 总体而言，我觉得作为 CETUS 的同类型 DEX 协议，MMT 肯定会从里面吸取很多教训，安全意识会高很多。
+>  
+> 另外一个方面，SUI 公链和基金会，在上一轮的黑客事件里面也展现了其不错的管理能力，以及对币价的控制能力，这也是我比较看好 MMT 的币在 TGE 之后，有能力进入上升飞轮的原因之一。
+>  
+> 最后，有兴趣的朋友欢迎用我的链接参与协议：
+> app.mmt.finance/leaderboard?…
+>  
+> @GiveRep
+
+## 128. Jul 22, 2025 · 4:56 PM UTC · 1947702255064649887#m
+- 链接：https://twitter.com/Cody_DeFi/status/1947702255064649887#m
+- 作者：@Cody_DeFi
+
+> 哇哦，HUMA @humafinance 主动发起了关于项目最新进展，以及解析稳定币法案通过后行业趋势的交流活动 AMA ，非常期待。
+>  
+> 我觉得在币圈真正想持续做事儿的项目方，就应该像HUMA 这样，定期发起一些交流活动，充分与外界进行沟通表达。
+>  
+> 尤其是在币圈，社区相比于股东，更是一个弱势群体，项目方哪怕只是做到 60分的水平，也能产生90分的效果，都是同行衬托的。
+>  
+> 以前投资美股的时候，就特别喜欢看美股的电话会议稿。美股是每个季度后，都有电话会议的，而且内容含金量特别高。
+>  
+> 券商行业分析师和上市公司 CEO\CFO 等等，会全面的讨论关于公司的财务、战略、竞争、甚至八卦等等，干货特别多，远远比国内 A 股电话会议走个形式要详细的多。
+>  
+> 我也是从电话会议里面，逐步的了解到了这个世界上，各个行业的职业经理人、创业者、高管们，他们究竟是如何看待行业变化，世界变化的，增加了我很多关于金融和商业的理解，希望 HUMA 这个 AMA 也能够更清晰的传达 PayFi 领域的想法、见解等。
+>  
+> GHUMA~
+
+## 129. Jul 22, 2025 · 3:43 AM UTC · 1947502678160117957#m
+- 链接：https://twitter.com/Cody_DeFi/status/1947502678160117957#m
+- 作者：@Cody_DeFi
+
+> KYC 收不到短信 @KaitoAI
+
+## 130. Jul 22, 2025 · 3:35 AM UTC · 1947500633378136283#m
+- 链接：https://twitter.com/Cody_DeFi/status/1947500633378136283#m
+- 作者：@Cody_DeFi
+
+> Kaito @KaitoAI 的新板块—— Captial Launchpad 第一个 ICO 项目上线了，明天就可以打钱。
+>  
+> 现在要去官方网站做 KYC，Kaito 下场亲自做了 Launch Pad，看起来是要把 TGE 发行前的环节都参与进去。拿到的资源越多，YAP- Airdrop - More YAP 的飞轮才能转起来。
+>  
+> 项目还没认真研究，@espressoFNDN PRE-TGE 轮估值 4亿，先把 KYC 做了吧，非美地区好像都可以。
+
+## 131. Jul 21, 2025 · 2:38 PM UTC · 1947305232683483335#m
+- 链接：https://twitter.com/Cody_DeFi/status/1947305232683483335#m
+- 作者：@Cody_DeFi
+
+> 敲重点，走收藏夹进去，不要走搜索引擎。
+>  
+> 如果要走搜索引擎，一定要看看是不是广告位的钓鱼网站，还有域名对不对，多跳几次页面检查。
+
+## 132. Jul 21, 2025 · 8:38 AM UTC · 1947214603844546884#m
+- 链接：https://twitter.com/Cody_DeFi/status/1947214603844546884#m
+- 作者：@Cody_DeFi
+
+> panda.activity.wbrks.com/pag…
+>  
+> 欢迎大家用熊猫证券，手续费便宜，同一app可以开多号，打新利器。
+
+## 133. Jul 21, 2025 · 8:37 AM UTC · 1947214250516353032#m
+- 链接：https://twitter.com/Cody_DeFi/status/1947214250516353032#m
+- 作者：@Cody_DeFi
+
+> 港股打新 $维几志博 的认购已经 2346倍了。
+>  
+> 公司是做癌症靶向治疗的，还在实验阶段，团队是从礼来出来的，据说是礼来的首席科学家。
+>  
+> 开始我还并不想认购的，主要公司没盈利，药品也在实验阶段，还没到临床过审，加上医药风险大，经常破发。
+>  
+> 但是大家都在打，因为基石比较豪华，加上横向估值，对比同类药企估值不高。现在超额认购去了2000多倍，有流动性溢价，应该不会破发。
+>  
+> 所以重新上了杠杆，冲来试试。
+
+## 134. Jul 20, 2025 · 2:50 PM UTC · 1946945895792341247#m
+- 链接：https://twitter.com/Cody_DeFi/status/1946945895792341247#m
+- 作者：@Cody_DeFi
+
+> 神速的上了一个币安 Alpha。
+>  
+> 空投体量3.4%，生态解锁20%，我真的看不懂了。
+>  
+> 不会开盘就全砸了吧？
+
+## 135. Jul 18, 2025 · 9:00 AM UTC · 1946132919480881397#m
+- 链接：https://twitter.com/Cody_DeFi/status/1946132919480881397#m
+- 作者：@Cody_DeFi
+
+> 谁能想到这个占用我资金量最小的 DEFI 组合，居然是目前 DEFI 持仓里面 APY 最高的，估计有50%APY。
+>  
+> 主要得益于 sui 代币价格和费率的同步提升，让现货端的 staking 和 套保端的 funding 收益都大幅提升。
+>  
+> 又一次感慨有心栽花花不开，无心插柳柳成荫的命运轨迹。
+>  
+> 出了一部分 ETH ，还是看好后市，只是不看好 ETH，涨上去之后主网就变得异常难用，价格和用户体验是成反比的，大方向也想回归 BTC + USDC。
+>  
+> 目前在 DEFI 端的策略越发的手熟，DEFI 的门槛高在入门认知和避坑经验上，金融层面的逻辑其实很简单，而且考虑到智能合约的 hack 风险后，越发的对不断复制的新协议不感兴趣，老方法重复做，收益相对较低，但是更稳健。
+>  
+> 剩下的精力和资金，还在考虑山寨、期权、美股？可能需要一些 Social 来输入才行了。
+
+## 136. Jul 18, 2025 · 6:26 AM UTC · 1946094135020224866#m
+- 链接：https://twitter.com/Cody_DeFi/status/1946094135020224866#m
+- 作者：@Cody_DeFi
+
+> The President requests the pleasure of your company for remarks on the GENIUS Act
+>  
+> - @humafinance 的 Co founder @0xErbil 是要去白宫演讲了吗？
+
+## 137. Jul 17, 2025 · 5:22 PM UTC · 1945896972558406059#m
+- 链接：https://twitter.com/Cody_DeFi/status/1945896972558406059#m
+- 作者：@Cody_DeFi
+
+> 试玩了一下 @trendsdotfun @Mable_Jiang
+>  
+> 我大概明白这是个什么东西了，简单的来说就是 Pumpfun 模式 + 新闻信源。
+>  
+> 之前我们给讨论 Pumpfun 有什么价值的时候，就提到冲土狗，本质也是在拉注意力，让大家通过金融市场信号，注意都某个新闻。
+>  
+> 比如曾经有人发过空难 CA ，然后被喷的很惨。这种逻辑有其必然性。
+>  
+> 但是有两个缺陷。
+>  
+> 1、从 CA 到新闻信源之间，步骤繁琐，本质上需要映射一套信号。比如取个名字，发个图，启动一个 CA ，然后到处传销，每一步都是加大从金融市场到新闻信源的流失。
+>  
+> 2、 CA 没有正统性，之前币安发土狗——CZ 的狗，结果突然多了几百条狗，也不知道到底哪个是 CZ 的狗。
+>  
+> 现在通过直接 link 新闻信源的模式，本质上赋予了 CA 的唯一性。 一个 CA 对应一个信源，大家的火力也集中，拉注意力的目的也达到了。
+>  
+> 我觉得这个东西挺有意思的，简化了步骤，赋予了唯一性。
+>  
+> 我来做个实验，这边已经把前几天写的关于 @protocol_fx @taowang1  的文章发到 bonding curve。
+> 了，花了 0.02 SOL 大家快来冲我的新闻信源。
+>  
+> trends.fun/token/8cvar4k4qw9…
+
+## 138. Jul 17, 2025 · 5:03 PM UTC · 1945892096835219518#m
+- 链接：https://twitter.com/Cody_DeFi/status/1945892096835219518#m
+- 作者：@Cody_DeFi
+
+> 哈， @Mable_Jiang 老师新加入的项目 @trendsdotfun 。
+>  
+> 可以买卖推特的推文，以后想拓展到全媒体平台。
+>  
+> 这条推文已经价值 四十多万 U 了，冲了 0.1 SOL，纯粹是为了感受区块链的 Crowd Trading。
+>  
+> 看起来，比冲 CA 的速度要快一些，不 PVP MEME 了，我们来 PVP  X Thread~
+
+## 139. Jul 17, 2025 · 6:46 AM UTC · 1945736841606619428#m
+- 链接：https://twitter.com/Cody_DeFi/status/1945736841606619428#m
+- 作者：@Cody_DeFi
+
+> 一觉醒来，ETH 的天都亮了。
+>  
+> 局不可持续，但却很有效，后面大概率还有一段合约牛市，分享两个套费率的小手段。
+>  
+> 1、@ResolvLabs 的头寸差不多一半 ETH 一半 BTC，合约牛市下，他们的 RLP 现在 APY 去到了 20%-30%。
+>  
+> RLP 相当于 Delta neutral 套费率策略的劣后资金池，享受更高收益，但是在负费率的时候优先承担亏损，现在情绪高涨，可以试试，而且还有积分，连吃带拿模式开启。
+>  
+> RLP 是类似 JLP 和 LST 一样的内生息 TOKEN，超过 10万 U，走官方渠道，来回磨损大概 千一至千二，小额磨损更高一点，大家自己把握。
+>  
+> 2、@vectis_finance @TradeNeutral 这两家链上基金，都在推广自己的跨所费率套利 VAULT，收益都还可以，相对于主流币套利，有了更多小币和跨所的套利，像 pump  最近的合约费率就相当不错。选哪家，大家可以自己去看下 Vault 细节。
+>  
+> 现在后视镜来看，在 pump 操作上最稳定的手段就是抢开盘筹码+套保期货 了，吃资金费率+价格收敛，还不承担任何不确定性的风险。
+>  
+> 币圈这种收益机会还很多，大家不要堕怠，大儒辩经，不如放手一搏，money talk, not mouth talk。
+>  
+> 上面两个方法都比较轻松 easy，夏季来了，币友们多出去活动活动，提升下身体代谢率，还有保护眼睛。
+
+## 140. Jul 16, 2025 · 3:27 PM UTC · 1945505469482868811#m
+- 链接：https://twitter.com/Cody_DeFi/status/1945505469482868811#m
+- 作者：@Cody_DeFi
+
+> 局不可持续，但却有用。
+>  
+> —— 贝拉尚 ！
+
+## 141. Jul 16, 2025 · 3:26 PM UTC · 1945505283331305820#m
+- 链接：https://twitter.com/Cody_DeFi/status/1945505283331305820#m
+- 作者：@Cody_DeFi
+
+> 千言万语汇成一句话 —— E 卫兵，全体起立！
+
+## 142. Jul 16, 2025 · 8:23 AM UTC · 1945398832583598308#m
+- 链接：https://twitter.com/Cody_DeFi/status/1945398832583598308#m
+- 作者：@Cody_DeFi
+
+> SBET 引入一个指标叫 ETH Concentration，意思是每1000股 SBET 背后储备了多少 ETH。
+>  
+> total ETH / 1000 SBET shares = 2.46 ETH
+>  
+> 等于说每一千股 SBET，包含 2.46个 ETH 现在。
+>  
+> 按照目前市场价值计算，32740 美金的 SBET 股票有 7749 美金的 ETH。
+>  
+> 有个问题没搞懂，那我做空 SBET，做多 stETH，是不是就可以套利了？
+
+## 143. Jul 15, 2025 · 7:27 PM UTC · 1945203687661691179#m
+- 链接：https://twitter.com/Cody_DeFi/status/1945203687661691179#m
+- 作者：@Cody_DeFi
+
+> 讲讲一些自己关于 PMUP 认知上的错误，算是少有的喜欢自己打自己脸的博主了，笑。
+>  
+> 1⃣、 $pump 不等于 $loud ，主要 Loud 是几个人生造的平台发射方式，背后还是无控盘的公平发射。而 $pump 是有做市商的，项目方也有控盘的预期，也不知道6亿的公售里面会不会大部分有自己认购的筹码。
+>  
+> 2⃣、$pump 在开盘的时候，严控了筹码的派发，最开始抹茶想提前交易，最后被项目方叫停了，首先开盘的还是链上，大部分现货的抛压被控制住，反而冲进来很多抢筹的人。10分钟，持币地址数从 1万6涨到 2万4，基本开盘的流动性溢价拖住了 TGE 的定价。
+>  
+> 3⃣、链上开盘之后，合约的价格基本没动，停在了  0.059，而且还是正费率，这让很多人可以大胆放心的套保之后，再进来做LP。也算是新增了链上的流动性。
+>  
+> 4⃣、还是低估了币圈用户对 PUMP 的品牌认知，我自己是没买过 MEME 的，也不喜欢这个产品。但是不妨碍大多数币圈用户觉得，pump 是这个周期的现象级产品，我不清楚他们对标的上个现象级产品是什么，UNI\AAVE？
+>  
+> 总之，PUMP 的链上新增地址数非常快，新增买盘增量还挺多的，24小时增量 240%，目前总共有 4.08万 链上持币地址，这个数据已经好过很多发行了很久代币的项目方了。
+>  
+> 5⃣、还是对 MEME 相关事情比较抵触，所以不太愿意参与公售，但是流动性溢价这个 alpha 是全市场都有的。
+>  
+> 就跟港股打新很像，市场很热的时候，快手 IPO 也去到过 420 港币，有巨大的泡沫，现在 68 港币。
+>  
+> 长期我依然不看好 PUMP ，哪怕有人说他收入7亿美金，还有二次空投等。
+>  
+> 但是，还是要放下偏见，挣到理性认知中的钱，注意力+流动性溢价（抢筹）=泡沫。
+>  
+> 快手的港股打新，和 PUMP 的公售，不该有太多本质的区别。
+
+## 144. Jul 15, 2025 · 6:22 PM UTC · 1945187304080887854#m
+- 链接：https://twitter.com/Cody_DeFi/status/1945187304080887854#m
+- 作者：@Cody_DeFi
+
+> 真牛逼，链上快照，直接发分红，一宝洁股票 $pg.m 派发 1.0568 usdt。
+>  
+> 币圈的朋友们，也感受到了来自 web 2 的空投了。
+
+## 145. Jul 15, 2025 · 12:18 PM UTC · 1945095612724097087#m
+- 链接：https://twitter.com/Cody_DeFi/status/1945095612724097087#m
+- 作者：@Cody_DeFi
+
+> 这是什么光速 TGE？
+>  
+> 看了一下，首先代币总量十亿，假如按照 1 亿 FDV，那么 0.1 U 一个YALA。
+>  
+> 空投上面，嘴撸效率碾压存钱，社交活动最次。
+>  
+> 目前看了一下：
+> 存钱： 8351
+> 社交活动：530
+> 写文章： 5000
+>  
+> 总计 13881 YALA，1388.1 U？
+>  
+> 能有一亿 FDV 吗？
+
+## 146. Jul 15, 2025 · 11:58 AM UTC · 1945090508629426285#m
+- 链接：https://twitter.com/Cody_DeFi/status/1945090508629426285#m
+- 作者：@Cody_DeFi
+
+> 我没看错吧？这就光速 TGE 了？
+>  
+> 用一个小钱包测试了一下，看到显示空投 516个 YALA?
+>  
+> 这是真的？
+
+## 147. Jul 14, 2025 · 5:13 PM UTC · 1944807435816059241#m
+- 链接：https://twitter.com/Cody_DeFi/status/1944807435816059241#m
+- 作者：@Cody_DeFi
+
+> 净成交量从- 800万 变成 +500万了。
+>  
+> 持币地址十分钟增加了4000个。
+>  
+> 合约价格几乎没动，费率还是 +0.005%
+>  
+> 交易所大头貌似还没出货。
+>  
+> 吃瓜吃瓜
+
+## 148. Jul 14, 2025 · 3:32 PM UTC · 1944782151758807276#m
+- 链接：https://twitter.com/Cody_DeFi/status/1944782151758807276#m
+- 作者：@Cody_DeFi
+
+> ETH 版本的“微策略”果然开始在美股推起来了，但是这些微策略仿盘大概忘了一件事情。
+>  
+> 牛逼的从来都不是微策略，牛逼的是 BTC。确实 ETH 可以用机构级 Staking ，甚至 loop staking，做成股息来做美股市场的局。
+>  
+> 但是这种局最怕的就是下跌负循环，区块链的无用论叙事我个人觉得还没走完，Circle 目前只是上市亮眼，离产品落地，RWA落地，链上股票这些东西还很远很远。更别提公链之间还有竞争，SOL 的高收益，更适合做美股局。
+>  
+> 没有落地、落地困难就可以证伪叙事，情绪拉起来的盘，自然也会被情绪砸掉。
+>  
+> BTC就不同了，财富储蓄，给每个孩子一个 BTC，就算要证伪，也要等孩子长大了吧。
+>  
+> 手上还有几个 ETH，等着拉上去就基本上出完，这一轮的赢家，最后大概率是 BTC + USDC
+
+## 149. Jul 14, 2025 · 9:56 AM UTC · 1944697500012876043#m
+- 链接：https://twitter.com/Cody_DeFi/status/1944697500012876043#m
+- 作者：@Cody_DeFi
+
+> 《解析 f(x)protocol - 链上”现货杠杆“交易模式》
+>  
+> 最近深入研究了 @protocol_fx  DEFI 协议，越看越喜欢，我觉得这种低调的宝藏 DEFI 协议，体现了最原始的 DEFI 的美。
+>  
+> FX 与传统杠杆交易工具最大的不同，就是他是完全基于”现货“进行交易的，并且在此之上构建了一个多赢的商业模式。
+>  
+> 👉FX 主要有三个功能点：
+> 1、可以提供 1-7 倍的 BTC/ETH 杠杆交易，并且几乎没有 Funding Fee 一样的持仓成本（极少情况会收取很少一点利息费用）。
+>  
+> 2、杠杆仓位不会被强制平仓，也没有强平的罚息，有一个清算刹车（liquidation brake）来保护仓位，简单的来说的就类似于 ADL 一样的降杠杆，每次成本只有降杠杆那部分资金的 2.5%，而不像合约一样，对所有保证金罚没 3-5%等。
+>  
+> 3、提供一个活期理财产品——fxSAVE，年化10%，所有收益来源于链上真实可见，没有底层不透明的问题。
+>  
+> 👉在我看来，目前 FX 最适合三类人群。
+> 1、愿意中长期，持有或者交易 BTC 和 ETH 的用户，FX 的头寸在 2-4 倍杠杆的情况下，其资金效率是远比纯现货，或者永续合约好的。
+>  
+> 2、想要低风险活期理财的用户， fxSAVE 有 10% 左右的APY。收益来源于链上的真实收入（ETH staking+协议手续费+ FXN 代币）日内的赎回周期，非常适合作为短期资金的存放场地。
+>  
+> 3、想要进行 BTC/ETH funding fee 套利的用户，币圈的合约做多，是默认 10%APY 年化成本的，FX 因为是现货模式，几乎没有杠杆的持仓成本，很适合做大资金 FUNDING套利。
+>  
+> 我看好 FX 的核心原因，就是我在这个协议上面，看到了基于 DEFI 的创新，现货杠杆的精髓，在于底层资产可以生息，可以作为抵押品，可以做收益互换。
+>  
+> 在此基础上构建了一个除了加杠杆，之外的商业模式，而且我遍历了很多 DEFI 协议之后，感觉 FX 算是独一家的存在。
+>  
+> 下面我从底层机制来讲讲这个协议的原理：
+>  
+> ————分割线————
+>  
+> 1⃣、 现货杠杆模式的底层逻辑  ——  现金流收益互换
+>  
+> 要理解 FX 的现货杠杆模式，就要理解现金流的收益互换
+>  
+> 我们以FX 上的 ETH 杠杆交易为例，协议通过创造一个名为 xPOSITION 的头寸，来容纳三个现金流，并进行互换。
+>  
+> 现金流一：stETH 的价格波动。
+> 现金流二：stETH 的 staking 收益
+> 现金流三： FX 协议本身的收入+代币FXN
+>  
+> 这三个现金流之间的互换逻辑，构成了 FX 协议运作的基础。
+>  
+> 以图上为例，一个 5倍杠杆 stETH xPOSITION 的开仓流程是这样的。
+>  
+> 1、交易用户 A提供 200 美金作为保证金，通常会被转化为 stETH
+>  
+> 2、FX 以200美金为基准，通过闪电贷的形式，借入 800 美金的 stETH。
+>  
+> 3、这 800 美金的stETH，会作为抵押物，mint 资产 fxUSD (fx自己发行的稳定币)
+>  
+> 4、fxUSD 通过链上SWAP 成 stETH，然后还回去闪电贷。（通常走 fxUSD-USDC-stETH 的路径，有更好的交易深度）
+>  
+> 5、至此这个 5倍杠杆做多 ETH 的 xPOSITION 就完成了。
+>  
+> 6、里面的利益进行切割，ETH 的价格波动给到交易用户。形成 5倍 ETH 现货杠杆。
+>  
+> 7、stETH 的利息+部分开仓手续费+ fxn 代币补贴，给到提供杠杆的资金方，也就是 fxSAVE，年化 10%。
+>  
+> 2⃣、现货杠杆做多模式的优势
+>  
+> 现货杠杆，原则上不属于金融衍生品，他是 100%的现货交割，现货可以生息、可以作为抵押品，由此衍生了出很多优势。
+>  
+> 对于交易者来说
+>  
+> 第一、无 FUNDING FEE，币圈的合约是默认做多自带 10%APY 年化成本的，现货没有 FUNDING FEE，节约10%年化资金成本。
+>  
+> 第二、遇到市场下跌逼近平仓线，不会一次性完全平仓，而是会逐步降低杠杆比率，保证不会被插针影响。
+>  
+> 第三、在 xPOSITION 的对手盘构建一个做空的头寸，就成了现货杠杆做空的头寸，持仓成本也会比合约小一些。
+>  
+> 第四、现货作为抵押品可以做 CDP 模式，MINT fxUSD。生息资金可以进一步补贴到 fxSAVE 里面，提高活期利息。
+>  
+> 3⃣、FX 的未来想法
+>  
+> 总的来说，我觉得 FX 走了一条与目前大多数 DEFI 不同的道路——在现货模式上进行交易和理财的探索。
+>  
+> 这得益于区块链的高效的现货清算体系，以及 DEFI 基建的完善，比如协议的外部依赖，需要有 AAVE\LIDO\CURVE 这样的支撑。
+>  
+> 我觉得是体现了 DEFI 的优势和创新的产品。
+>  
+> 从我看到的未来，也有很多模式可以探索，比如基于 SOL staking 的现货杠杆，能够提供更高的存款APY。fxUSD 去中心化稳定币的叙事等
+>  
+> 足够大规模的 fxUSD 能够带来更好的交易深度和衍生商业模式。
+>  
+> 4⃣、 代币信息和协议安全等问题
+>  
+> 最后，关于 @protocol_fx   协议代币 FXN 总量 200万枚，FDV 1亿出头，2114个持币地址，大量的筹码在项目方和流动性池里面。
+>  
+> 第 TOP 20名的持仓量大概在 10万美金左右，成交量也不高，日成交量在几万-几十万美金左右。
+>  
+> 所以价格波动很大。总体来说，还是一个比较小众和早期的状态，对于协议长期看好，倒是适合小规模持续定投。
+>  
+> 关于协议风险方面，外部依赖的协议，主要是 AAVE\LIDO\CURVE\WBTC ，这几家都算比较老牌的 DEFI 协议，整体资本金也比较雄厚，相对还算安全，也具备赔付能力。
+>  
+> 至于 FX 自身的协议安全性，我在 ETHCC 上，看到他们说做了 12家审计。 @taowang1 可以多说 FX 如何保证协议安全，以及后续产品功能等。
+>  
+> 我觉得在 DEFI 高度同质化的今天，FX 还在创新这条路上探索，真的不容易，很期待看到产品的下一步变化。
+
+## 150. Jul 14, 2025 · 7:46 AM UTC · 1944664718196826186#m
+- 链接：https://twitter.com/Cody_DeFi/status/1944664718196826186#m
+- 作者：@Cody_DeFi
+
+> 在 PT 14% 的时候买了一些这个稳定币项目的短债固收。
+>  
+> 关注 @Perena__ 这个项目，也挺久了，PRE-SEASON 期间就有参与。
+>  
+> 但是很早就疑问过，看不清楚项目主打什么叙事。
+>  
+> 最开始还猜测过会不会 U卡+ PayFi 什么项目。
+>  
+> 现在看起来，估计还是会往 Solana 上 Curve 的方向去做，主打稳定币兑换的低滑点和流动性深度。
+>  
+> 但是，感觉故事没有那么性感呢，而且如果是稳定币之间兑换的话， Solana 上的 DEX 聚合器 jupiter，以及新出来的 @Titan_Exchange 都可以找到也很不错的稳定币底层 Pool
+>  
+> 有没有这个项目的 OG 老师，聊聊花瓣这个项目的方向和叙事？
+
+## 151. Jul 13, 2025 · 1:42 AM UTC · 1944210896315945135#m
+- 链接：https://twitter.com/Cody_DeFi/status/1944210896315945135#m
+- 作者：@Cody_DeFi
+
+> 又存了一些钱进去
+>  
+> 虽然是早鸟存款，但是我真的不喜欢早上起来...
+>  
+> 下次辛苦项目方照顾下东八区时间，币圈还是夜猫子多 🤣
+>  
+> @humafinance
+
+## 152. Jul 12, 2025 · 6:32 PM UTC · 1944102581015654906#m
+- 链接：https://twitter.com/Cody_DeFi/status/1944102581015654906#m
+- 作者：@Cody_DeFi
+
+> 预售 $pump 的时候，什么都别想，裸多，强共识 0.004，大家玩公平发射的庞氏游戏，流动性溢价护盘，大概率不破发，就算赚不到钱，也亏不了什么。
+>  
+> 现货开盘的时候，什么费率也别看，裸空，大家都是来砸盘的，吃完这波下跌，pump fun 就结束了。
+>  
+> 什么产品、套壳、做庄、品牌、币圈的伟大发明，都扯淡。
+>  
+> 一个更大规模的 $loud 罢了。
+
+## 153. Jul 12, 2025 · 4:16 PM UTC · 1944068269050409228#m
+- 链接：https://twitter.com/Cody_DeFi/status/1944068269050409228#m
+- 作者：@Cody_DeFi
+
+> 第一波受害者已经出现了，接下来看还有哪些花式受伤的方法……
+>  
+> #gpump
+
+## 154. Jul 11, 2025 · 3:08 PM UTC · 1943688863999721831#m
+- 链接：https://twitter.com/Cody_DeFi/status/1943688863999721831#m
+- 作者：@Cody_DeFi
+
+> 把 @humafinance 这个币安广场的任务做了。
+>  
+> 5分钟解决，顺手的事儿，感觉最次也有一个猪脚饭吧。
+>  
+> 主要需要注意的是，在币安广场的发帖，要开头 @humafinance
+>  
+> X 上发帖的帖子，要 TAG #HumaFinance
+>  
+> 如果你撸过币安 Alpha，请也不要放过币安广场，猪脚饭の时代。
+
+## 155. Jul 11, 2025 · 6:14 AM UTC · 1943554357775253838#m
+- 链接：https://twitter.com/Cody_DeFi/status/1943554357775253838#m
+- 作者：@Cody_DeFi
+
+> 美股、BTC、黄金都新高了。
+>  
+> 但是，感觉也啥可做的，入圈的时间比较晚。因为 DEFI 入的圈，很兴奋地在牛市高点买了 ETH。
+>  
+> 但是 DEFI 是 20-22 年的产物，认知上落后了一个版本，最后的结果很惨淡，拿着 ETH+一些 DEFI 山寨，被市场教育的很惨。
+>  
+> 好的是，克制住了买币的仓位比例，不然真的估计以后再没胆买币了。然后，靠着套利，DEFI 赚回了亏损，感谢BTCFI 线的 @babylonlabs_io +@SolvProtocol +@AVALON  ，PAYFI 线的 @humafinance ，这两条叙事线的空投都让我有了一些超预期的回报。
+>  
+> 剩下的钱主要来自各种 staking/LP 的 incentive + funding fee，说实话这个收益在圈内不算高，但是跟圈外比，就属于高吓人了，一切都还是认知问题，在逐渐理解币圈，各类资产的超额收益在哪里，共识的 BETA 在哪里。
+>  
+> 比较遗憾，又无可奈何的是，BTCFI 的叙事线上，BTC 是套保后进行挖矿的，如果买的话，又是一个另外一个故事了。
+>  
+> BTC 现在被机构架在火上烤，撺成了一个阳谋，微策略发优先股形式来加杠杆，囤积 BTC ，现货从散户向机构手中转移。
+>  
+> 优先股的融资成本在 8%-10%，微策略的 BTC 平均成本在 70000左右， BTC 要进入一个长期向下的熊市通道，才有可能导致微策略被迫出售BTC 还债，形成负向循环，但是BTC 过去十年的年化复合增长率是 40%。
+>  
+> 也就是说，40%的复合增长率，覆盖10%的优先股融资成本，净息差 30%，可能这才是真正的 BTCFI 吧。
+
+## 156. Jul 10, 2025 · 8:19 PM UTC · 1943404767264543058#m
+- 链接：https://twitter.com/Cody_DeFi/status/1943404767264543058#m
+- 作者：@Cody_DeFi
+
+> 上了我 Yala 车队 🚗 的家人们，辛苦看过来…
+>  
+> 突然发现 @yalaorg 的 ice berries 积分抽取是冷却模式的。
+>  
+> 简单说，每抽两次，冷却72小时，CD 好了不抽就会浪费 TGE 前的时间。
+>  
+> 之前不小心忘了一下，估计浪费了十来个小时，对不起。
+>  
+> 为了防止问题重现，建立了一个 Yala and Cody 的 TG 车队群，上了我车的家人们麻烦进下群。
+>  
+> 一方面是提醒我抽分，另外一方面，大家也可以互动 Yala 的 yell 活动。
+>  
+> 时间不多了，赶快上车！
+>  
+> t.me/yalacody
+
+## 157. Jul 10, 2025 · 7:16 PM UTC · 1943388952133800427#m
+- 链接：https://twitter.com/Cody_DeFi/status/1943388952133800427#m
+- 作者：@Cody_DeFi
+
+> 汇丰银行在香港金管局的要求下，完成了“e-HKD+” 的实验，也就是港币稳定币。
+>  
+> 涉及到了4条公链， Arbitrum、以太坊、Linea 和 Polygon，以及汇丰自己的私链。
+>  
+> 做了 744 名香港用户的抽样调查，三分之一的用户愿意用数字港币进行交易。
+>  
+> 除了链上交易外，也探讨了零售支付和绿色债券 RWA 两个领域。
+>  
+> 合规是推动 on-chain finance 的进入大众的关键。
+
+## 158. Jul 10, 2025 · 7:56 AM UTC · 1943217737712439593#m
+- 链接：https://twitter.com/Cody_DeFi/status/1943217737712439593#m
+- 作者：@Cody_DeFi
+
+> InfoFi 的嘴撸赛道，又多了一个币安广场 @binancezh  @humafinance  进行嘴撸活动，总金额 10万美金等额 HUMA 代币，不要放过一鱼多吃的机会，具体要求点里面了解。
+>  
+> 说点跟资本市场相关的想法：
+>  
+> 1、如果过说 @KaitoAI  Pre-TGE 的造势，币安广场估计是所内交易的聊天板了，简单说就是做二级市场买盘。做 token 激励应该会有一些效果，但是说实话，不知道真实效果如何，肯定是不如推特了。
+>  
+> 现在看起来，整个币圈的山寨氛围非常差。大部分山寨都没有赚钱效应，仅剩几个龙头 DEFI 还在守住前低。行业处于叙事破灭下行周期，什么都是空气。同时，山寨 holder 恐慌美股上链，进一步剥夺山寨流动性，总之就是难，看不到大行情出现。
+>  
+> 2、HUMA 的基本面，看了一下 DUNE 面板dune.com/huma-finance/huma-o…，还是不错的，放贷资金去到了52亿，斜率增长 45%抬头的趋势，到明年底的目标我记得好像是 3-10倍。
+>  
+> 至于新增空投排放和现存流动性比较，尝试计算了一下。按照 DUNE 里面的数据算，仅一期空投，质押 TOKEN 比例在14.17%，按照 0.03美金一币算，大概在4000万美金在流通市场。
+>  
+> 这里面，应该没包含做市、链上流动性、YAP、币安ALPHA 这几类流通量？真实的流通量（排除做市锁仓和 DEFI 锁仓）估计要去 1亿美金以上了？
+>  
+> 接下来的空投，还有1.3825 亿的HUMA，通过空投+YAP 进入流通渠道，依然按照 0.03美金一币算，是415万美金。
+>  
+> 最后，一期的 jupiter+OG 的预售解锁，应该 2%的份额，对应 600万美金，解锁大概还有50天。
+>  
+> 总之新增排放量，我估计 1000 多万美金，比起一期空投压力小很多了，加上一些 DEFI 玩法锁仓，总体应该还行。但是这个山寨币市场环境下，依然不容易，只能说项目方和做市商加油吧。
+>  
+> 3、如果说 DEFI 在下行周期，卷的是协议的安全性，那么山寨币就是卷注意力了。
+>  
+> 币圈这个行业，不像股票，有季报+机构电话会议，定期披露信息，让机构 Holder 能够比较稳定的关注到项目进展，然后掌握二级市场定价权，护盘。
+>  
+> 币圈很依赖散户的流动性，最后卷的公域流量的注意力。我觉得 HUMA 这内容+流量这条路径还是对的，上班牛马开会都要自己给自己吆喝，何况项目方。
+>  
+> 所以，我觉得嘴撸还是依然比较稳定的 FARMING 手法，像 @cookiedotfun 经历过上次 SPK 事件后，把空投标准提高到了35 万美金，HUMA 的YAP 这次也才30万美金。这里面肯定有空间的。
+>  
+> 而且有些项目是明牌阳光普照，回头应该会把 @KaitoAI 和 @cookiedotfun 上面的项目都过一遍，看有没有值得下嘴的。
+>  
+> 最后，还有两个项目 @protocol_fx @yalaorg 是有自己独立 InfoFi 项目的，应该不卷，多写写，或许会有惊喜。
+>  
+> 大概就这些，零零碎碎的想法，不成体系，欢迎交流。
+
+## 159. Jul 10, 2025 · 4:44 AM UTC · 1943169554206589219#m
+- 链接：https://twitter.com/Cody_DeFi/status/1943169554206589219#m
+- 作者：@Cody_DeFi
+
+> 40 亿估值的 $pump 也买的下去手吗？
+>  
+> 发射平台产品层面没有护城河，赚钱效应在哪里，哪里就有用户，BSC 证明过这件事。
+>  
+> 而赚钱效应取决于阴谋集团要在哪里发射，阿根廷总统币也证明了这件事。
+>  
+> 除了一个开盘流动性溢价的博傻，看不到 pump 任何上涨的理由，已经40亿了，难道翻两倍去 100亿，就一个没啥技术含量的发射平台？
+>  
+> 还不如直接公售阴谋集团呢。
+
+## 160. Jul 9, 2025 · 5:12 PM UTC · 1942995254430339175#m
+- 链接：https://twitter.com/Cody_DeFi/status/1942995254430339175#m
+- 作者：@Cody_DeFi
+
+> 前脚还在说 Solana 为啥不容易被盗，没过几分钟，Solana 生态的借贷协议就被盗了，2.2 M 的 USDC…
+>  
+> 再这么盗下去，怕是要改名退圈了。😓DeFi 还有未来吗？
+
+## 161. Jul 9, 2025 · 2:08 PM UTC · 1942948999897784612#m
+- 链接：https://twitter.com/Cody_DeFi/status/1942948999897784612#m
+- 作者：@Cody_DeFi
+
+> 更新一下，来自 GMX 中文群，被盗的是 V1 GLP 金库，目前看起来4200万美金，已经跑了 1000万美金了
+
+## 162. Jul 9, 2025 · 2:04 PM UTC · 1942948038043144462#m
+- 链接：https://twitter.com/Cody_DeFi/status/1942948038043144462#m
+- 作者：@Cody_DeFi
+
+> 为什么 EVM 生态这么容易被盗呢？黑客不看看 Solana生态呢？而且我 Usdc 从 sol 跨链到 Eth，只要十几秒，反过来要十几分钟，理论上 sol 不是更容易被盗吗？
+
+## 163. Jul 9, 2025 · 1:59 PM UTC · 1942946830465237283#m
+- 链接：https://twitter.com/Cody_DeFi/status/1942946830465237283#m
+- 作者：@Cody_DeFi
+
+> 卧槽，GMX 被盗了 4200万美金，黑客正在从 Arbitrum 跨链到 Ethereum。
+>  
+> 好像是 V2 的 GLP 金库被盗了，项目方正在联系 Corcle 冻结？
+
+## 164. Jul 9, 2025 · 6:46 AM UTC · 1942837633815830834#m
+- 链接：https://twitter.com/Cody_DeFi/status/1942837633815830834#m
+- 作者：@Cody_DeFi
+
+> Web 3 玩久了，太伤眼睛了，每天强制自己出来户外一下，保护一下眼睛。
+>  
+> 大家还有什么好的防止近视的方法吗？
+
+## 165. Jul 8, 2025 · 9:43 AM UTC · 1942520023148552672#m
+- 链接：https://twitter.com/Cody_DeFi/status/1942520023148552672#m
+- 作者：@Cody_DeFi
+
+> 迟迟等不来 @FalconStable 项目方的公告，决定自己先分析一下吧。
+>  
+> 这份声明和里面的报告，主要指摘了 Falcon 几个值得诟病的点。
+>  
+> 1、对于资产管理过于中心化，透明度太低，包括不限于 USDF 的储备资产比例，策略收息来源，部分资金存托到哪些链上 DEFI，insurance fund 的透明度等等。
+>  
+> 2、策略非常激进，包括有 5000万美金 的 USDF 给 DOLO 这种山寨代币可以进行 MINT 的额度，而 DOLO 的市值只有 1400万美金。
+>  
+> 3、协议对清算的流动性深度估计不足，比如走 CURVE 的池子，协议预估 1.4% 的 market impact 条件下，总体的兑换额度只有 300万美金，而目前 TVL 接近 6亿，极端情况下难以清算。
+>  
+> 4、给场外资金 40%的 APY的融资成本，吸引资金做高 TVL。
+>  
+> 👉看了下，差不多就是这些，围绕上面的几点，说下我的想法。
+>  
+> 1、资产透明度这个事情，从一开始就是 Falcon 问到的最多的问题，他们后面自己做了一些数据面板，加审计报告，算是初步的性的进行资产披露。
+>  
+> 但是不得不说，在区块链所有链上数据可查的今天，这个资产透明度还是远远不够的，不知道是不会会与策略秘密进行冲突，总之，任何一个人都希望进一步的看到 Falcon 的资产披露情况。
+>  
+> 2 和 3、策略激进的本质，其实也是 Falcon 相较于其他合成稳定币协议的特色，一方面是做正负FUNDING，一方面是做山寨币的超额抵押。
+>  
+> 但是确实问题 2 和 问题 3 是连带的，核心就是小币无法面对极端流动性枯竭的情况，那个时候既需要清算，又需要面对巨大的冲击成本。
+>  
+> 如果要做小币的策略，又回到问题 1 上面，项目方是否会公开自己的策略和仓位，让大家能更清楚自己的资金面临什么风险敞口。
+>  
+> 4、关于 40% APY 这个事情，其实目前不算啥秘密，之前参与 1K USDF 活动的很多用户都知道。
+>  
+> 40%的 APY 构成是 susdf 的基础 APY + 1 B 估值的 AIRDROP + 项目正常空投积分，三者加起来预估的。
+>  
+> 能拿到这个收益，是 Falcon 这个项目，运行最好的一个状态下，能够拿到的收益。既按照 1B+估值进行 TGE。实际上到手有多少，大家心里多少都会有折扣。
+> ——
+>  
+> 👉差不多就是这些，Falcon 的很多问题，不是局外人能够解决的，资产透明度的披露，完全依赖项目方自己的选择。
+>  
+> 策略如何平衡稳健性和收益，也要在仓位足够明细的前提下，才能进行判断。
+>  
+> 作为局外人，目前汇率磨损还在 千5 左右，安全起见，先退出观望。
+>  
+> 跟 @0xCooker 老师探讨一下，我认为有几个基础情况应该不太会发生。
+>  
+> 1、直接 RUG，这个目前创始人在迪拜，也是有头有脸的人物，还有 DWF 的品牌。之前 @zkcasino rug 3000万美金，现在几个人都被抓了。
+>  
+> 2、目前市场还没有遇到极端流动性情况，而且我相信 FALCON 的第三方托管内的资产是比较安全的。
+>  
+> 3、汇率可能会短期脱锚，长期会有回锚的情况，在清算资本足够的情况下，脱锚对于项目方来说，就是一个稳定波段的机会。
+>  
+> ——
+>  
+> 老实说，我觉得 Falcon 动作还是慢了，很多问题也不是今天才发生的，希望能够更清晰的回应声明和报告里面的问题。
+
+## 166. Jul 8, 2025 · 6:03 AM UTC · 1942464516815458517#m
+- 链接：https://twitter.com/Cody_DeFi/status/1942464516815458517#m
+- 作者：@Cody_DeFi
+
+> 啊，什么情况 @FalconStable @ag_dwf
+
+## 167. Jul 7, 2025 · 12:26 PM UTC · 1942198523438731766#m
+- 链接：https://twitter.com/Cody_DeFi/status/1942198523438731766#m
+- 作者：@Cody_DeFi
+
+> 太离谱了，大家到底在 Backpack 怎么刷的交易？怎么把 Sol 卷到这个程度了？
+>  
+> 把自己的现货 Sol 全部换成了合约多单，这个费率持续 2 天，磨损加手续费就回来了，剩下的都是赚了。
+
+## 168. Jul 7, 2025 · 10:05 AM UTC · 1942163030881849733#m
+- 链接：https://twitter.com/Cody_DeFi/status/1942163030881849733#m
+- 作者：@Cody_DeFi
+
+> 还以为手动的抢不到呢，没想到准点，点了几下就成了，看了一下返回了一个 YLPS1 的 token。
+>  
+> 看起来是一个 liquid provider 的 token，后面估计还能做更多 DEFI 策略的拓展。
+>  
+> 算是帮项目方进行了公测了，希望记下我的好，后面多给我发点空投，笔芯❤ @yalaorg
+
+## 169. Jul 5, 2025 · 5:20 PM UTC · 1941547839156584855#m
+- 链接：https://twitter.com/Cody_DeFi/status/1941547839156584855#m
+- 作者：@Cody_DeFi
+
+> 还是决定参与 @yalaorg  的存款+积分活动了
+>  
+> 关于 YALA 是什么，可以看看我的置顶帖，这里说下接下来开放的一个 YALA LITE 的活动。
+>  
+> YALA 为了推广自己的 lite 模式，推出了一个月的 12% APY + 5倍积分的存款活动，不过上限只有100 万美金，手慢无。
+>  
+> 注意我画红框地方:
+> 👉Any funds lost or insufficient profits resulting from any reason will be compensated by the Yala Foundation.
+>  
+> 简单说，这笔钱和收益，项目方兜底，除了项目方倒闭，基本无风险。
+>  
+> 欢迎大家走我的链接上车，有 16%-20% 的积分加成：
+> app.yala.org?inviteCode=BPca…
+>  
+> 错过了也没关系，YALA 的 DEFI 玩法，也可以拿到比这个收益更高的策略。后面再说说 YALA 的积分玩法，以及对这个协议安全性的进一步思考。
+>  
+> -------------
+>  
+> 先说积分玩法：
+> YALA 总共有两种积分，链上积分（Berries）和链下积分（Ice Berries）
+>  
+> 1⃣链上积分（Berries）：
+>  
+> 简单的来说，就是存钱，存钱的积分可以下面这个信息来计算：
+>  
+> * 使用 YBTC 作为抵押开启仓位：每小时每美元 0.05 Berries
+> * 通过 MetaMint 使用 YBTC 抵押并产生 $YU 债务铸造$YU：每小时每个 $YU 0.6 Berries
+> * 在钱包中持有 $YU：每小时每个 $YU 0.1 Berries
+> * 将 $YU存入稳定池（SP）：每小时每个 $YU 0.15 Berries
+> * 为 AMM（自动做市商）提供流动性（代币对）：每小时每个 $YU 4×0.05 Berries
+> * 完成 DeFi 市场任务：每小时每个 $YU 获得 X × 0.05 Berries，系数 X 显示在 DeFi 市场板块中
+>  
+> 👉我直接给答案吧，最佳积分方案就是 抵押YBTC，然后 mint YU，然后跨链去 Solana 给 @RateX_Dex  提供 LP，这里面抵押、MINT、跨链都有积分，RATEX 也能拿到最高6倍积分，而且有10%+的 APY， YALA 正在和 Solana 生态 @Solana_zh  合作，后续应该还有更多 DEFI 拓展活动。
+>  
+> 不过现在 YBTC mint 额度好像满了，直接用U换 YU 也可以，无损。
+>  
+> 2⃣链下积分（Ice Berries）：
+>  
+> 简单的说就是社交活动，这些链下积分增长非持续线性的，最后会在 TGE 的时候，一次性解锁。全部积分空投积分中。
+>  
+> 任务有两个：
+> 1、 银河的任务：app.galxe.com/quest/yala/GCU…
+>  
+> 2、 积分车队 team lucky draw，重点说说这个。
+>  
+> 简单的来说，就是通过不断邀请，提高车队排名，进入最高档区间的车队，每隔72小时，能够获取两次积分加成的机会（加成幅度 16%-20%）。
+>  
+> 目前，我这里已经组好了一个现成的最高档积分排名。欢迎使用我的车队：app.yala.org?inviteCode=BPca…
+>  
+> 可以看到，我通过积分加成，抽到了19%的积分加成，直接给车队增加了 3.02M 的积分
+>  
+> ——
+>  
+> 最后，再说说对协议安全性的进一步思考。
+>  
+> 看过我置顶的小伙伴都知道，YALA 对native BTC 的核心约束能力，就是一个 2/2 的多签。
+>  
+> 但是要进入到 Native BTC 的清算情况，我个人认为，除非发生下面这三种情况：
+>  
+> 1、 BTC 瞬间暴跌，并且暴跌的幅度是历史单日最大跌幅的2 倍。
+> 2、 YU参与的头部生态被黑，并且无法赔偿资金损失。
+> 3、 YALA 自己的资金被盗。
+>  
+> 目前来说，这三种情况的几率都很小，官方自己测试几率小于 0.1%
+>  
+> 1、BTC 目前的交易量越来越大，波动越来越小。
+> 2、头部DEFI协议都比较有钱，而且历经时间证明比较安全。
+> 3、YALA 自己被盗的，除非有人能动里面的 USDC，其他都很难造成协议的实际损失，而且 YALA 本身算是一个存托型协议，有很高的安全意识。
+>  
+> 退一万步讲，现在大多数的 BTCFI 协议，对 NATIVE BTC 都没有清算能力，比如 SOLV Merlin 里面的包装 BTC，本质都是映射，YALA 搞一个多签，已经有了一定的进行清算的资本，后续看协议的风险迭代变化。
+>  
+> 另外一方面，YALA 的 BTC 大户基本都是机构。机构有具体的法人和信誉，可减小对手方风险。YALA 自己团队也是全员实名+真实头像，我认为团队的信誉也值得一定程度的信任。
+>  
+> 最后，YALA 明牌Q3 TGE，不 PUA，积分活动也简单明了。而且项目方比较“求真”，不用 KAITO 的吹捧方案，接受自己的 INFOFI ，接受批评的声音，我真的蛮欣赏的。
+>  
+> 综上，考虑在 TGE 前参与 YALA，TGE 之后，看机构级 BTCFI 这条路径的执行情况，决定了对稳定币 Yu 生态的参与。
+>  
+> 总之，我看好机构级 BTCFI 的现金流业务。
+>  
+> PS. 创作和凑车队都不易，欢迎用我的链接上车：app.yala.org?inviteCode=BPca…
+
+## 170. Jul 3, 2025 · 10:03 AM UTC · 1940713098052358657#m
+- 链接：https://twitter.com/Cody_DeFi/status/1940713098052358657#m
+- 作者：@Cody_DeFi
+
+> JUP 的 ASR 算了下币本位年化有 40%
+>  
+> 还是得跟着赌场老板们好啊
+
+## 171. Jul 2, 2025 · 4:58 PM UTC · 1940454966071570714#m
+- 链接：https://twitter.com/Cody_DeFi/status/1940454966071570714#m
+- 作者：@Cody_DeFi
+
+> 非常感谢 Bin 老师的回复，我很欣赏你们没有用 Kaito 的推广方案，转而推出自己的 yell 活动，鼓励真实的社区意见，甚至是质疑的声音。
+>  
+> 基于以上，我想表达的更直接明确一点，就是 @yalaorg 围绕大户的 BTC 自托管方案，是否是真实的抵押品，还是说仅仅是一个 BTC TVL 的摆盘，就像之前很多 BTCFI 一样。
+>  
+> 因为如果遇到极端黑天鹅事件，(包括不限于协议被黑，资金丢失，极速下跌。 )
+>  
+> Yala 为大户 mint 出来的 Yu ，仅仅只有9%的费用作为备用坏账损失。如果穿仓，Yala 想要处理 native BTC，就需要在时间戳内，和大户共同进行多签。
+>  
+> 要满足这两个条件，我认为是不是就会需要明确的法律约束之类的东西，而且这个对大户的约束能力如何让参与的社区用户(散户)，也能够感知到，很重要，关乎散户的安全感。
+>  
+> 确实如您所说，以 BTC 今天的流动性深度，以及如今头部DeFi 协议的安全性和赔付能力，需要清算到大户 native BTC 的概率很低，但是这并不代表没有。
+>  
+> 尤其是如果大户仅仅是 tvl 摆盘，那么散户就是真金白银的质押 BTC，大户上了一个无抵押的信用杠杆。这样的 TVL 我觉的是无意义的，非常不公平的。等于散户替大户承担了极端的尾部风险，并且没有任何补偿。
+>  
+> 最终的结果，就是不会有散户愿意在稳定币 Yu 生态上进行重金投入，甚至 TGE 后，大概率会流失。
+
+## 172. Jul 2, 2025 · 3:27 PM UTC · 1940432145513635849#m
+- 链接：https://twitter.com/Cody_DeFi/status/1940432145513635849#m
+- 作者：@Cody_DeFi
+
+> 去年三月份，和朋友聊 Robinhood ，觉得估值太低，每股14美金，没有算进代币的业务。
+>  
+> 还深夜微信三连问，然后就没有然后了。
+>  
+> 现在 Robinhood 每股 100美金了，而在这段时间，我进了币圈，买了 eth和一堆山寨币，全亏钱。
+>  
+> 幸好买币没有上头，严格守住了仓位配比的底线，靠着稳定币相关的 DeFi farming 又赚回来了。
+>  
+> 只是现在自己变得更保守了，想着各种方式卷确定性收益，变得不敢赌了。
+>  
+> 但是对于小资金来说，长期二级市场收益是可以很高的，要知道今年上半年恒生指数都有20%的收益。
+>  
+> 必须要逼自己拿出精力，时间，金钱，参与赌博，赌博不是瞎赌，是概率和赔率的综合下注。
+>  
+> 币圈的稳定性收益，套利收益只会越来越低，但是处理不确定性的能力是任何时代，任何市场都不会剥夺的，那才是真正的确定性收益。
+
+## 173. Jul 2, 2025 · 10:53 AM UTC · 1940363313096929352#m
+- 链接：https://twitter.com/Cody_DeFi/status/1940363313096929352#m
+- 作者：@Cody_DeFi
+
+> 真没想到流量断崖式下跌。
+>  
+> 看起来我是写了一个大家都还没有必要关心的问题。
+>  
+> Yala 不上Kaito ，鼓励真实的声音。
+>  
+> 但是Kaito 的水文，反而要占据流量场景，我觉得重要的问题，也没人关心。
+>  
+> 加上大家更在乎怎么拿分，怎么套利，也没太多人关注 Yala 底层安全。
+>  
+> 行吧，如果一个项目连基础热度都没有，安全问题纯属多余，散户不缺乏BTC抵押的协议，大户能不能放心这种自托管模式，也很难知道，毕竟他们不刷推特。😂
+
+## 174. Jul 2, 2025 · 9:19 AM UTC · 1940339573370052783#m
+- 链接：https://twitter.com/Cody_DeFi/status/1940339573370052783#m
+- 作者：@Cody_DeFi
+
+> 《客观中立的分析 BTCFI 项目- YALA，疑问 YALA 的核心问题》
+>  
+> 最近在Solana 中文社区 @Solana_zh  6月生态介绍会上面，看到一个项目 @yalaorg
+>  
+> 刚好发现 YALA 官方也在推出自己的 INFOFI 活动—— YALA YELL，而且项目方也说了，鼓励大家坦诚清晰的表达自己的观点，哪怕是负面的都可以，不用一味吹捧。
+>  
+> 那太好了，正好符合我的需求。对我来说，我只会在值得事情上投入时间和精力。我已经投入了一些资金进入 YALA，但是有些困惑希望能够得到项目方更准确的回复。这些答案决定了我后续的投入程度。
+>  
+> ————
+>  
+> 1⃣ 首先介绍 YALA
+> 简单来说，YALA 就是 BTC 的 CDP（超额抵押头寸） 协议。将 BTC 的信用资产释放出流动性来，通过超额抵押的形式，MINT 出稳定币 YU，然后这些稳定币去做生息的事情。
+>  
+> 其实 BTCFI 的核心，本质上就是释放 BTC 的资产价值。而我也很看重这条赛道。一方面，是因为整个币圈，BTC 占据总TVL 的3分1，大概2.26万亿？另外一方面，BTC 实在是太能涨了，BETA 收益已经吊打了很多主动投资。大部分人对 BTC 的投资预期就是安全的托管，据我所知，香港那边的BTC 存托，每年还要付托管费用给券商。
+>  
+> 导致的问题就是，BTCFI 赛道的市场份额很小很小，实际上应该只有不到5%的 BTC 通过 CDP 的形式释放出来了流动性。
+>  
+> 而YALA 想做的就是推广 BTC 超额抵押的市场份额，并且获取其中大部分利益，本质上，YALA 和 USDS背后的 SPAKR（前身 MAKERDAO）是一样的协议。
+>  
+> 但是 YALA 突围的方式，我理解很大一部分依赖于对 BTC 大户的定制化需求服务。帮助 BTC 大户过渡到 BTCFI ，是一条更快的增长途径。
+>  
+> 但是这个服务，本身也切入了 YALA 协议的核心问题，就是对 BTC 大户的清算约束能力如何？这决定了发行的稳定币 YU 背后，是否有真实的资产抵押。
+>  
+> 2⃣  YALA 的 BTC 存托方案
+> 在我理解的 YALA 的BTC 存托方案中，大概分为两个方案，1、对散户的通用方案。2、对大户的多签方案。
+>  
+> 对散户的方案，跟目前市面上的所有方案，没有太多本质不同，将 native 的BTC 转入 YALA 的地址中，然后映射出包装的 YBTC，然后再进行一系列DEFI 操作。
+>  
+> 核心想要讲的是大户的BTC 托管方案。
+>  
+> 所有的 BTC Holder 对BTC 资产的第一要求都肯定是安全，只有在此之上，才有资格谈及生息的问题。YALA 和 BTC 大户合作的方式，是采用的所谓 Native BTC 自拓管的模式。
+>  
+> 不知道是不是类似于 BABYLON 的那套签名技术，YALA 和 BTC 大户达成的 BTC 存托，会进入到一个带有时间戳的 BTC 地址之内，然后在时间戳到期之前，只有 BTC 大户和 YALA 同时签名，才能转走地址内的 BTC，而在时间戳到期后，BTC 大户就可以独自转走 BTC。
+>  
+> 这样做的好处很明显，BTC 不托管在 YALA 名下，而是多签的形式自拓管，对于 BTC 大户来说，能够进一步增强托管安全性。
+>  
+> 缺点也很显而易见，对于YALA 官方来说，不够公平，因为所有的 YU 都是 BTC 质押出来的，如果大户爆仓了，一旦大户不配合 Native BTC 的清算，那么本质上稳定币 YU 就有资金窟窿。
+>  
+> 那么 YALA 如何进行 BTC 大户的风控管理？
+>  
+> 3⃣ YALA 如何管理 BTC 大户的风险？
+> YALA 确实采用了一个很巧妙的方案，来避免 BTC 大户被爆仓。
+>  
+> 简单的来说，YALA名下，所有的BTC 大户，其MINT 出来的 YU，都不在 BTC 大户自己地址内，他们在 YALA 的金库中，由 YALA 自己管理，YALA 代为操作YU ，进行不同的生息方案。
+>  
+> 然后，金库会持续观测 BTC 大户的抵押资产，一旦发现接近平仓线，就是开始赎回一些YU，自动减仓，类似于期货账户里面的 ADL（自動減倉 Auto-Deleveraging）。这样可以保证 BTC 大户不会轻易爆仓。
+>  
+> 同时，BTC 大户在 MINT YU 的时候，会单独缴纳一笔 9%费用的 USDC，在我看来，这笔费用相当于大户给到 YALA 的 保证金+稳定币利息+费用。如果一旦在减仓中发生费用，会从这里面扣除。
+>  
+> 理论上来说，在流动性充足的时候，YALA 的这个方案没问题。但是如果流动性不足呢？
+>  
+> 这个流动性不足，在我看来包含两个情况。
+> 1、 市场突然暴跌，来不及减仓。
+> 2、 参与的DEFI 协议被黑，9%的保证金无法覆盖损失。
+> 这两个问题的核心都会进一步涉及到，在面临多签方案下，YALA 和 BTC 大户如何协商达成，对于 native BTC 的清算和补偿。
+>  
+> 尤其是第二个问题，我问过一个YALA 的官方人员，他说这是所有 DEFI 协议都会有的问题，我对这个回答并不满意。
+>  
+> 4⃣ YALA 如何约束 BTC 质押大户？
+>  
+> 在遇到极端情况下，如何约束 BTC 大户配合进行资产清算。
+>  
+> 只有项目方解答了这个问题，我觉得才是真正解决了 YALA 的信任问题。
+>  
+> 实际上不只是散户，BTC 大户和大户之间，同样对这个约束能力存疑，一旦9%的保证金无法覆盖损失。
+>  
+> 那么YALA如何约束大户配合 BTC 清算?通过场外法律和法人体系的约束？
+>  
+> 另外，时间戳之内是多签，时间戳之外呢？YALA 是否需要公开一些大户的地址和时间戳，保证所有参与稳定币 YU 生态的用户，都有一个公开透明的信息来源？
+>  
+> 5⃣  我为什么面对疑惑，依然看好YALA？
+>  
+> 我看好 YALA 也是多次体验过后的感受。
+>  
+> 1、 能够明显感受到，团队在工程能力上的优秀，无论是简洁清晰的前端交互，还是 YU 和 USDC 之间的无损转换和跨链，都看得出来，团队在用心做产品。
+>  
+> 2、 YALA 团队全体实名，并且多有不错得过往币圈大厂履历，团队信誉上值得信任。
+>  
+> 3、 同样的 BTC 托管方案 ZBTC 已经发币，YALA 团队得日程表上也会在预期 Q3 TGE，项目方坦诚明牌 TGE，不做PUA。
+>  
+> 所以，综上，我在带着疑问的同时，也已经投入了一点资金，我对 YALA 得态度，类似于遇到一个好看的姑娘，但是还不确定她是不是捞女（情感反诈模拟器？）
+>  
+> 并且，我自己也在 YALA 已经组建好了一个TEAM 车队，已经能够拿到最高档位得积分加成，欢迎有兴趣上车得小伙伴，使用我的链接：
+>  
+> app.yala.org?inviteCode=BPca…
+>  
+> 希望 YALA 团队能够开诚布公得解决我的疑虑，这将决定我后续得参与程度。
+>  
+> ——————
+>  
+> An Objective and Neutral Analysis of the BTCFI Project – YALA: Key Concerns About Its Core Issues
+>  
+> Recently, during the June Solana Chinese Community Ecosystem Meeting hosted by @solar, a project named @YALA caught my attention. It aligned quite well with my investment aesthetics in several aspects, so I decided to start a deeper dive into it.
+>  
+> Coincidentally, the YALA team launched its own INFOFI campaign — YALA YELL — where they explicitly encourage honest and clear opinions, even if they're critical. They emphasize that flattery isn't necessary.
+>  
+> That’s perfect — exactly what I was looking for. I only invest time and energy in things that are worthwhile. I've already allocated some capital to YALA, but there are still a few uncertainties that I hope the team can clarify. Their answers will determine the extent of my continued investment.
+>  
+> I. Introduction to YALA
+> Simply put, YALA is a CDP (Collateralized Debt Position) protocol for BTC. It unlocks BTC’s liquidity by over-collateralizing BTC and minting a stablecoin named YU, which can then be deployed into yield-generating strategies.
+>  
+> The essence of BTCFI is to unlock BTC’s asset value. I’m quite bullish on this sector for two main reasons:
+>  
+> First, BTC accounts for about one-third of total DeFi TVL, approximately $2.26 trillion.
+>  
+> Second, BTC has shown exceptional upside performance — its beta return has outperformed many actively managed strategies. For many investors, BTC is seen as a safe custodial asset, even in Hong Kong, where BTC custodians charge users annual custody fees.
+>  
+> The problem is: the market share of BTCFI is still very small. Less than 5% of BTC is currently providing liquidity via CDP protocols. YALA aims to expand this market and capture a significant portion of it. At its core, YALA is conceptually similar to protocols like MakerDAO and SPAKR (which now backs USDS).
+>  
+> II. YALA’s BTC Custody Design
+> From what I understand, YALA has two custody solutions:
+>  
+> A standard plan for retail users.
+>  
+> A custom multi-sig plan for large BTC holders.
+>  
+> The retail solution works like other protocols: native BTC is deposited into YALA’s custody address, then converted into wrapped YBTC, which is used for various DeFi operations.
+>  
+> What’s more interesting is the custody mechanism for whales.
+>  
+> The highest priority for all BTC holders is asset safety — only after that does yield generation become relevant. YALA collaborates with large BTC holders using what they describe as a native BTC self-custody model.
+>  
+> While I'm not sure if it's based on Babylon’s signature tech, the idea is that BTC is deposited into a timestamped BTC address. Before the time lock expires, funds can only be moved with joint signatures from both the whale and YALA. Once the time lock expires, the whale can withdraw BTC unilaterally.
+>  
+> The advantage here is clear: BTC is not fully held under YALA's custody — the multi-sig structure enhances trust for whales.
+>  
+> The risk, however, is also apparent: if a whale is liquidated and refuses to cooperate, the stablecoin YU could become under-collateralized.
+>  
+> So the question becomes: How does YALA manage liquidation and risk for BTC whales?
+>  
+> III. How YALA Manages Whale Risk
+> YALA has implemented a clever mechanism to mitigate liquidation risk.
+>  
+> All YU minted by BTC whales is not returned to their own wallets — it is stored in YALA’s treasury, and managed solely by the protocol for yield strategies.
+>  
+> YALA continuously monitors whale collateral. If a position approaches the liquidation threshold, the system automatically redeems and burns YU, similar to Auto-Deleveraging (ADL) in futures trading. This helps avoid sudden liquidation events.
+>  
+> In addition, when whales mint YU, they are required to pay a 9% fee in USDC, which I interpret as a form of security deposit + interest + protocol fee. Any losses during partial liquidations would be deducted from this buffer.
+>  
+> This system works well in liquid markets. But what happens when liquidity dries up?
+>  
+> There are two potential risk scenarios:
+>  
+> A sudden market crash doesn’t allow time for gradual unwinding.
+>  
+> The underlying DeFi protocols YALA uses for yield farming get exploited, and the 9% fee is insufficient to cover the loss.
+>  
+> Both situations raise a deeper question: how will YALA and whales resolve disputes in multi-sig BTC custody setups when things go wrong?
+>  
+> I asked a YALA team member about this. They replied that “this is a risk all DeFi protocols face.” I wasn’t fully satisfied with that answer.
+>  
+> IV. How Can YALA Enforce Whale Liquidations?
+> Unless this question is answered transparently, I believe YALA’s trust model remains incomplete.
+>  
+> Even whales are unsure about enforcement. If the 9% buffer proves inadequate during a liquidation, how does YALA compel whales to cooperate with BTC liquidation?
+>  
+> Will it rely on off-chain legal agreements and corporate accountability?
+>  
+> Also, before the time lock expires, multi-signature is enforced. But after the time lock, does YALA plan to publish the whale addresses and their time lock expiries so that YU holders and users can independently verify the backing?
+>  
+> V. Why I Still Like YALA, Despite My Concerns
+> My opinion of YALA is based on repeated usage and product evaluation:
+>  
+> Excellent engineering quality — the frontend is clean and intuitive, and the gasless, cross-chain conversion between YU and USDC is seamless. This shows strong product focus.
+>  
+> The team is fully doxxed, with many members having strong track records in major Web3 companies. This inspires confidence.
+>  
+> The comparable ZBTC custody solution has already launched a token. YALA has clearly communicated a Q3 TGE, with no manipulative ambiguity. Transparency is rare and valuable.
+>  
+> So overall, although I still have questions, I’ve already invested a small amount. My current attitude toward YALA is similar to meeting someone very attractive — but not knowing yet whether she’s genuine or a scammer (emotional fraud simulator, anyone?).
+>  
+> Lastly, I’ve already built a TEAM for YALA, reaching the highest points tier. If you're interested in joining, feel free to use my invite link:
+> 👉 app.yala.org?inviteCode=BPca…
+> I sincerely hope the YALA team can address these concerns openly and transparently — it will determine how much further I get involved.
+
+## 175. Jul 2, 2025 · 6:55 AM UTC · 1940303315247800543#m
+- 链接：https://twitter.com/Cody_DeFi/status/1940303315247800543#m
+- 作者：@Cody_DeFi
+
+> 查了一下资料，前两年 Curve 官方也被盗过，好像是7000万美金。
+>  
+> 那时候我还没入圈，能不能有老哥们儿告诉我一下，这事儿后来怎么了结的？有赔偿吗？
+
+## 176. Jul 1, 2025 · 4:26 PM UTC · 1940084666406772946#m
+- 链接：https://twitter.com/Cody_DeFi/status/1940084666406772946#m
+- 作者：@Cody_DeFi
+
+> 还是老外会玩啊，装 ETH 的硬件钱包闻着都一股酸臭味。
+>  
+> 装 SpaceX 和 OpenAI 的股权，逼格都不一样了，以后娶媳妇儿，还可以当彩礼，送给老丈人。
+
+## 177. Jun 30, 2025 · 7:46 PM UTC · 1939772620398108721#m
+- 链接：https://twitter.com/Cody_DeFi/status/1939772620398108721#m
+- 作者：@Cody_DeFi
+
+> 1500 万积分，发了3000多个 DRIFT TOKEN，市价 1500 U。
+>  
+> Drift 目前的价格算低位了，但是拿到的空投还是不打算继续存了，虽然给了 10% 的APY，以及 1000 Drift 以下 200%的 APY。
+>  
+> Drift 目前是个纯矿币，项目方每年赚几千万美金，但是给到的代币赋能真的扣扣嗖嗖。
+>  
+> 不过 Drift 这个 DEX 是真心不错，我这种低频套利交易者，算上空投收益，在上面目前基本是负手续费。更别提，他们家 FUNDING 和 MARGIN 上都有很多空间可以操作。去年牛市的时候，合约保证金都能给我 20%的 APY。
+>  
+> 唯一缺点就是滑点和流动性比较差，但是如果愿意手工拆单，慢慢下单的话，其实都还好。
+>  
+> 诚心推荐用我的 LINK 交易：app.drift.trade/ref/kongdexi…
+
+## 178. Jun 30, 2025 · 5:17 PM UTC · 1939735035948728790#m
+- 链接：https://twitter.com/Cody_DeFi/status/1939735035948728790#m
+- 作者：@Cody_DeFi
+
+> 卧槽，我有点激动了，我在一个 DEFI 协议里面，买了50 U 的苹果股票。
+>  
+> 虽然还不知道  @xStocksFi 具体是用什么手段做的“股票代币化”，但是我可以在 @JupiterExchange 和 @RaydiumProtocol 上面买美股了。
+>  
+> 我觉得这是股票上链的一个大跨越，意味着股票也可以用AMM 进行定价，也可以做 Loop 和 Yeild Swap，这些金融衍生品，用传统金融来做的话，会非常的复杂、冗长，因为需要相当麻烦的中后台来支持。
+>  
+> 当股票资产可以在链上，像代币一样顺畅流动的时候，我觉得 DEFI 的简洁和优雅才能体现的更加直观。
+>  
+> 说白了，区块链在金融层面的核心功能就是 6个字“支付既清算”，这一点在传统金融任何一个具有规模效应的金融网络里面都无法实现。
+>  
+> 一旦实现了“支付既清算”，即便美股不能 7X24  小时交易，但是代币化的美股可以，交易的核心不在于基建，在于流动性的匹配，支付既清算的条件下， OTC 也可以拥有比肩交易所柜台的能力。
+>  
+> 厉害了。
+
+## 179. Jun 30, 2025 · 2:30 PM UTC · 1939692909101797445#m
+- 链接：https://twitter.com/Cody_DeFi/status/1939692909101797445#m
+- 作者：@Cody_DeFi
+
+> HUMA 的 Staking 政策出来了，现在选择14天 unstaking 周期的话，能够有 10 倍的羽毛加成。
+>  
+> 作为 @humafinance 的社区长期陪跑成员，截至目前我做的所有的选择，都是选择了长期陪跑，哪怕代币价格下降了一大半，我也只是怪自己交易能力不行，不认为质押是一个错误的选择。
+>  
+> 前几天有个一直关注我推的前同事，略带嘲讽意味的说，看到一个大 V 一直唱多 Huma ，跟着你炒币的最后 10 U 都爆光了，那个大 V 不会是你吧。
+>  
+> 说实话，听到这里还蛮不是滋味的。在币圈唱多一个代币的难度，要远远高于唱空。在一个全都是空气的赌场，和一群基本都是挖提卖的玩家，想找一个长期价值资产的难度谈何容易。
+>  
+> 我选择陪跑 huma ，也仅仅是因为项目方确实在好几件事情上做的不错，甚至超出预期。稳定币又是一个有真实用户的赛道。最后，我在 Huma 代币上的成本很低，能够容忍自己坐过山车。
+>  
+> 大多数人都高估短期的影响，低估长期的变化。在我看来，陪跑 Huma 是一个赔率很高的选项，向下还有真实 APY 兜底。我很期待，自己能够压中一个区块链的真实业务项目方，而不是空气和基建。
+>  
+> 其实不想写这么多矫情的话，不过确实找不到角度 YAP huma 了，哈哈哈。
+>  
+> 技术流各种大 V 都已经分享完了，跟大家掏掏心里话吧，写的每一句话，都是我的真实想法。
+>  
+> @humafinance @KaitoAI
+
+## 180. Jun 28, 2025 · 1:51 PM UTC · 1938958525277053158#m
+- 链接：https://twitter.com/Cody_DeFi/status/1938958525277053158#m
+- 作者：@Cody_DeFi
+
+> 保险库的用户会承担 600 万美元的坏账，大概等于每个人均摊 15.5% 的亏损。
+>  
+> 又一次本金和收益的互换，吃了一天的瓜，印象比较深的有几点:
+>  
+> 1.@ResupplyFi 和用户严重对立，甚至上升到人身攻击。
+>  
+> 2. 项目方及其相关核心人员，并不是第一次遭受黑客损失，几乎每年一次，相当于给黑客每年发一次年终奖。
+>  
+> 3.curve 和 resupply 有明显的利益关系，但是彼此之间又没有责任义务的约束，简单地说，有福可以同享，有难你自己承担。
+>  
+> 4.虽然所有人都是屁股决定脑袋，但是在 DeFi 领域，用户和项目方之间的地位过于不平等，责任和义务严重脱钩。用户现在唯一能制约项目方的手段就是舆论，站在自己也是用户的角度，我选择支持用户维权，声讨  resupply 及其背后相关利益人士。
+>  
+> 5. Curve 这个网站说实话就很烂，前端和Uniswap差不多，一样的烂，核心创始人之前还有过故意让自己爆仓完成出货的劣迹。在我心中处于负分状态，后续应该也不会太关注相关 DeFi 产品。
+
+## 181. Jun 28, 2025 · 10:39 AM UTC · 1938910178730193294#m
+- 链接：https://twitter.com/Cody_DeFi/status/1938910178730193294#m
+- 作者：@Cody_DeFi
+
+> 从不玩土狗的我，没想到也被土狗貔貅盘给教育了。
+>  
+> 参加 Meteora 中文训练营的活动，按照要求要做一个LP，但是要求的 LP 里面需要有个5%的盈利，没看懂这个盈利是啥意思，持币涨 5%？
+>  
+> 也没想那么多，为了快速达到要求，就丢了 1 SOL 到土狗的 LP 池子里面，想着波动大，赌一赌。
+>  
+> 没想到直接丢到个貔貅盘里面去了，2秒钟没了 1 SOL.
+>  
+> 现在的心情就有点无语加平静...
+>  
+> 又是被亏钱链教育的一天...
+>  
+> @MeteoraCN @MeteoraAG
+
+## 182. Jun 28, 2025 · 5:44 AM UTC · 1938836003734569245#m
+- 链接：https://twitter.com/Cody_DeFi/status/1938836003734569245#m
+- 作者：@Cody_DeFi
+
+> Hyperliquid 上的生态 Dex 要发空投了，沉寂了那么久的生态，终于开始有tge了，看看能不能一炮而红，如果拉垮了，后面的其他生态协议，也不会太好。
+>  
+> Hyperliquid 当初的技术叙事，EVM 和 order book 的区块叠加在一起，实现在 order book 上进行编程的领先技术，为什么没有体现出来什么颠覆性的体验呢？
+
+## 183. Jun 26, 2025 · 3:20 PM UTC · 1938255943214764386#m
+- 链接：https://twitter.com/Cody_DeFi/status/1938255943214764386#m
+- 作者：@Cody_DeFi
+
+> 嘴了 300 U，可以吃我家楼下 100 份猪脚饭，谢谢你，古希腊掌管猪脚饭的神。
+
+## 184. Jun 26, 2025 · 2:32 PM UTC · 1938244024072343957#m
+- 链接：https://twitter.com/Cody_DeFi/status/1938244024072343957#m
+- 作者：@Cody_DeFi
+
+> 1250 万枚 $huma 会分配给 Top Huma yappers
+>  
+> 前提是你要质押了 kaito 以及 huma，不过我觉得 Huma 还是仁慈了，首期质押时间快照在8月1日，忠诚度考验游戏不够残酷，应该多学习下韩国的鱿鱼游戏，走错一步就下一轮再见吧。
+>  
+> Huma 是我对于币圈在“资产端”为数不多的希望了，剩下的不是空气就是赌场基建。
+>  
+> 感觉自己的入圈的时间点还是不好啊，赶在大叙事破灭周期的腰部，不知道还要经历几轮阵痛，才能挺到下一个周期。
+>  
+> 世界计算机变成了世界账本，链游和 Depin 变成了人工旁氏，AI Agent 变成了 meme 发射器。币圈讲了一个又一个故事，撺了一个又一个高 FDV，收割了一轮又一轮，最后钻石手亏得满身是血，大家觉得都是假的，全都是空气。
+>  
+> 现在好资产都在去美股，公链的原生质押收益也会去美股，论好资产的聚合地，美股笑着说，“我不是针对谁，在座的各位都是垃圾。”
+
+## 185. Jun 26, 2025 · 1:42 PM UTC · 1938231451046281241#m
+- 链接：https://twitter.com/Cody_DeFi/status/1938231451046281241#m
+- 作者：@Cody_DeFi
+
+> 现在的新币，上的所越多，开盘的资金负费率越高。
+>  
+> 大家都是一边喊单，一边做空，喊单是为了开盘的 FDV 足够高，做空是为了落袋为安。
+>  
+> 市场的傻子越来越少了，最后大家得出一个共识。
+>  
+> 都是假的。
+
+## 186. Jun 26, 2025 · 8:42 AM UTC · 1938155794056507861#m
+- 链接：https://twitter.com/Cody_DeFi/status/1938155794056507861#m
+- 作者：@Cody_DeFi
+
+> 看了下 @ResupplyFi  被攻击的原因，是大概新上了一段代码，用了一个价格为空的智能合约（an empty ERC4626 wrapper as the price oracle.）作为 Oracle price。
+>  
+> 然后黑客用闪电贷的形式，操纵了 Oracle price，用 2 cuvUSD 借贷了 10M reUSD 出来，最后再用 reUSD 套走了 wstUSR ，总计损失 9.5M 。
+>  
+> 基本上是“新合约部署+闪电贷操纵” 的攻击路数，不算新鲜。这让我想起了前段时间的 @YeiFinance ，也是因为新上了 BTC 抵押的合约，最后被黑客盗走了 200万美金。
+>  
+> 理论上来说，智能合约只要在不停的更新，就早晚会有纰漏，区别只在于会被盗走多少，项目方能不能赔得起。
+>  
+> 像 @ResupplyFi 这样的 subDAO 项目方，问题就在于本身是做复杂智能合约的协议，而自己又没什么资本积累，而且还是最高危险级别的借贷协议，又危险又赔不起， debuff 叠满了。
+>  
+> DeFi 玩多了之后，我自己对协议的风险等级也是有了分类。
+>  
+> Staking > LP > lend ，本质上还是觉得逻辑越简单的协议，被盗的风险约低。
+>  
+> 另外，时间锁、大额控制、私链、常用主流的区块链、编程语言也是安全的加分项，这些都能用常识推理出来。
+>  
+> 最后就是 follow whales，巨鲸能帮你维权，能容纳巨鲸的协议，一般也有钱赔付。
+>  
+> 其他的，我也没想到什么好的风控方法了，经历 DEFI 被盗几乎是每个 DEFI farmer 的宿命，做好心理准备吧。
+>  
+> 硬要说个人层面还能做点什么努力的话，我觉得还是取舍问题，25%的 lending APY 协议，其真实的投资回报比，不会比 15%的 delta neutral funding fee + staking 的收益高，也不会比 18%的 PT 高。
+>  
+> 因为后两者蕴含的风险系数，远小于借贷协议的风险。
+>  
+> 黑客也是人，他们纵然有再强的代码能力，也要遵循一些基本原理，比如闪电贷操纵价格，至少需要一个 price 参数吧，需要能够有单一区块内 deposit 和 withdraw 的功能吧。
+>  
+> 这些技术，放到一个 unstaking 7 days 的 staking 协议上，就算他有通天的能力，也没法盗取，越简单越强健，这些都是常识。
+>  
+> 当然，像 @Bybit_Official 跟 @safe 这种是真的没办法了，Safe 是个垃圾，把 Bybit 坑惨了，类似于一个垃圾银行自己的金库被盗了，客户委托给他的资产没了。
+>  
+> 这是区块链 DEFI 非常草台的一面，时代的代价，谁遇到谁倒霉吧。
+
+## 187. Jun 25, 2025 · 9:33 AM UTC · 1937806251607609349#m
+- 链接：https://twitter.com/Cody_DeFi/status/1937806251607609349#m
+- 作者：@Cody_DeFi
+
+> 参与了这个质押，碰碰运气，做不一定有，不做一定没有。
+>  
+> By the way，我现在也加入了 @Solana_zh （Solana 中文社群），成为社区的一员了，后续会多跟大家分享 Solana 上的 DeFi 生态，以及新的项目信息。
+
+## 188. Jun 25, 2025 · 7:29 AM UTC · 1937775205688226258#m
+- 链接：https://twitter.com/Cody_DeFi/status/1937775205688226258#m
+- 作者：@Cody_DeFi
+
+> 我在 @cookiedotfun @cookiedotfuncn 上关于 @sparkdotfi 的嘴撸活动，居然从 8分被调整到了 32.4 分，排名去到了 165 名。
+>  
+> 有点 Lucky，我基本上在推特的内容输出，以表达信息为主，嘴撸只是顺带的事情，而且基本上有啥说啥，坏的也不会说成好的。
+>  
+> 目前关于 spark 的内容，也就发了三四篇，自认为没有一篇水的，看来做正确的事情，还是有人会认可的。
+>  
+> 关于 SPK 这个代币，还是值得再跟踪一下，核心还是怎么分配利润，@spark 一年大概 1亿多美金收入，到底怎么分配，如何平衡治理代币 SKY 和 功能代币 SPK ，以及如何运营好，这个十年 100亿的排放计划。
+>  
+> 至少目前为止，还没有看到项目方拿出什么有诚意的解决方案。
+
+## 189. Jun 24, 2025 · 6:53 PM UTC · 1937584862300602773#m
+- 链接：https://twitter.com/Cody_DeFi/status/1937584862300602773#m
+- 作者：@Cody_DeFi
+
+> 这篇文章写的太好了。
+>  
+> 作者是一个 2017年入圈的 BTC holder+ Alt Coin Trader，通过每年40%的复合年华增长率，获得了近 10 倍的投资回报，进入了 A8 的区间。
+>  
+> 我觉得最有意思的是，作者非常详尽的分析了自己关于长期投资和复合回报的理解，并且定制了一个自己坚决执行的操作步骤，然后坚持了 8 年，获得了自己想要的结果。
+>  
+> 他的财富不来自于某一个特定时刻，更像是在一个更高维度下市场博弈出来的结果，长周期+持续正 EV，像在打德州扑克。
+>  
+> 里面有一个关于筛选标的的标准：
+> For filter is fast-paced quality founder, strong community, product people actually use, dominates attention and still early
+>  
+> 真的是我见过高度凝练总结，关于如何提高投资审美的语言。
+>  
+> 推荐给大家都看看，每天都能在币圈见到各种厉害的人，学到很多东西。
+
+## 190. Jun 24, 2025 · 3:30 PM UTC · 1937533917684486221#m
+- 链接：https://twitter.com/Cody_DeFi/status/1937533917684486221#m
+- 作者：@Cody_DeFi
+
+> 关注 @Metabape 猿哥的好处，就是随时走在币圈热点前线，如果没有猿哥这条推特，我估计要错过 $NEWT 的空投了，最后领了 700个，卖了500 U 很香。
+>  
+> 补充一下自己为什么要质押 KAITO 的逻辑，其实我做 DEFI FARM 的核心思考角度，就是看这个项目方的现金流是怎么来的，@spark 是赌场放贷的现金流，而 @KaitoAI 就是 marketing 的现金流。
+>  
+> 曾经有个朋友说过一句话，让我印象深刻，“Marketing 本身是一个很大的市场。”这句话在我若干年后看了很多份美股上市公司的财报后，感受更加深刻，事实上大部分上市公司的成本占比中，Marketing 的成本往往都要占据 30%-50%，而对于一些虚拟商品，比如游戏什么的，Marketing 的成本甚至能占到 80%。
+>  
+> 对于项目方来说，不管是发币圈钱，还是认真做产品，都需要做渠道的资本支出。而这些现金流，最终也会层层分配到这个利益链条上。
+>  
+> @KaitoAI 把币圈 Marketing 这件事体系化了，相当于在推特内部做了个广告平台。所以一定是会有一个周期内的持续现金流的。
+>  
+> 想通这件事后，我就把所有相关的平台都质押，无论是@kaito 还是 @cookiedotfun ，主要也是给自己的嘴撸做准备的。但是没想到 @KaitoAI 还挺局气的，直接给质押者空投代币，我甚至都没有动嘴。
+>  
+> 之前说 Kaito YT 有泡沫的我，格局低了，向 kaito 道歉...谢谢您的空投，我会继续输出内容的...
+
+## 191. Jun 24, 2025 · 2:10 PM UTC · 1937513748383825962#m
+- 链接：https://twitter.com/Cody_DeFi/status/1937513748383825962#m
+- 作者：@Cody_DeFi
+
+> 花了一点时间，看 Sui 生态上面的 DeFi 生态。
+>  
+> 之所以看 Sui，主要还是想看看上次黑客事件后，有没有人弃我取的机会。
+>  
+> 虽然 SUI 基金会在上次黑客事件的冻结地址处理，显得不够去中心化，但是显然目前对于DEFI 来说，抗审查的意义远远比不上智能合约安全，黑客风险的兜底。把 SUI 当做一个运营区块链的金融理财公司，看待问题就很合理很多...
+>  
+> 理论上来说，一方面经历过黑客事件后，协议的整体安全意识会提高很多。另外一方面，SUI 基金会在继续加大补贴力度，遏制 TVL 的流失 ，整体而言作为 DEFI FARM 的收益还是可行的。
+>  
+> 想找一些除了补贴收益之外的机会，朋友推荐关注了一下最近新上的基于 sui 链的收益互换协议—— @nemoprotocol   SUI 链的 pendle。
+>  
+> DEFI 玩多了之后，其实每条公链，感觉都会复制一遍基础的 DEFI 协议- XX 链的 AAVE \ MORPHO\ PENDLE\ LIDO\ UNISWAP\ MAKERDAO，基本上这六神装凑齐了，一条公链的基础生态也搭完善了。
+>  
+> 不过收益互换协议的核心，是该公链有比较好的资产可以发行，在发行前期，做积分和APY 收益的互换，比如 HUMA 和FRAG，带去了Solana 生态上，收益互换协议 @RateX_Dex  @ExponentFinance 的繁荣。
+>  
+> SUI 链的 @nemoprotocol  能不能跑出来，要看 SUI 生态后续的发展，不过现在的收益补贴和积分还挺不错的，协议给做 LP 资产的 sui 代币补贴和3倍积分，活动持续一个月。
+>  
+> 以 sSUI 的LP 为例，补贴后收益APY 也有32.66%，以及 0.84 x 3 的积分，算是一个头矿的红利阶段吧。
+>  
+> 官推搜了一下 nemo的审计机构 @MoveBit_ ，审计过的基本都是 MOVE 语言系的主流协议了。
+>  
+> 总体感觉值得尝试，无论是 sUSDC/ sUSDT，还是可以做套保后的 sSUI ，吃到基础收益的前提下，再去拿一些 DEFI 的积分空投，连吃带拿才是 DEFI 操作的基本姿势。
+>  
+> 如果 SUI 生态能够恢复，并且发起新的资产，比如现在很流行的 公链代币+上美股（类似 FRAG SOL），那么带动 nemo 积分空投收益也不错，放了一万U 套保后的 sSUI 试试，希望有小惊喜。
+
+## 192. Jun 23, 2025 · 3:04 PM UTC · 1937164781858988155#m
+- 链接：https://twitter.com/Cody_DeFi/status/1937164781858988155#m
+- 作者：@Cody_DeFi
+
+> I researched every Solana protocol to find the highest stablecoin yields
+>  
+> Bookmark this thread and start printing, regardless of market conditions 👇🏼🧵
+
+## 193. Jun 23, 2025 · 4:04 PM UTC · 1937179971505782998#m
+- 链接：https://twitter.com/Cody_DeFi/status/1937179971505782998#m
+- 作者：@Cody_DeFi
+
+> Circle 这个走势真是惊讶到我了，直接从 IPO 到现在，市值翻了十倍。
+>  
+> 美股和币圈不一样，美股是世界上定价最准的交易市场，各种上市公司去美股上市的时候，都要经历多轮路演，然后上市公司给各种投资机构，讲解发展业务、利润来源，定价逻辑，卖方做出定价模型，秀来秀去。
+>  
+> 当然这还只是人前的动作，背后还有各种人情世故，觥筹交错之间，按照 PS 或者 PE，或者其他什么倍数，拍一个的大概的数字，最后按照那个定价，开盘，发行。
+>  
+> 现在 Circle 从 IPO 到现在，市值翻了超过 10 倍，某种程度上来说，相当于公司被按照市场公允价值十分之一的价格贱卖了。这种情况，最应该背锅的就是那些负责 IPO 的投行...
+>  
+> 但是也从侧面说明一个问题，传统金融的老毕登们，可能是真的不懂稳定币，不懂链上。
+>  
+> 在他们眼中的 USDC 这门生意，只是一门不同法币转换之间的媒介，高昂的摩擦成本，只能吃国债利息的低净利润生意，600 亿 USDC，再翻十倍，6000 亿，吃4.5%的利息，最后也没多少钱，算来算去，50亿 IPO 估值很合适。
+>  
+> 但是，显然公开市场里面有人懂 USDC，相比于 USDT 的灰黑产包袱，合规背书的 USDC ，是替代 swift 的最佳方案。
+>  
+> 在链上，USDC 是 DEFI 领域的绝对龙头，通过 CCTP 协议，无损跨链 ETH 和 SOLANA，最好的链上 DEFI 交易深度，甚至有些公链新发行的时候，把 sUSDC 当作一个无需许可的可交易生息资产。
+>  
+> USDC 的门槛，比那些传统金融老毕登们想象的还要深，随着规模的扩大，普及度的提升，这个护城河只会更强。
+>  
+> 当然情绪的炒作，也是必不可少的，大家在想象，取代VISA/MASTER，联合 APPLE/AMAZON 做跨境支付，现在最佳方案，无疑就是 USDC。
+>  
+> USDC 开盘就大幅上涨，100亿的时候，我还想着等一个回调再入，没想到直接奔着十倍来了，现在的估值也大致 price in 了我上面的这些想象，而且这些叙事，现阶段还远远没有到证伪的阶段。
+>  
+> 如果天才法案通过， USDC 能够打开稳定币这个赛道，拿出大公司合作的 showcase，TVL 不断增加，并且站稳这个市值。
+>  
+> 那么真的是稳定币在 mass adoption 上的一个标杆。这不仅仅是一个价格，更是一个信号。
+
+## 194. Jun 23, 2025 · 7:13 AM UTC · 1937046329852915786#m
+- 链接：https://twitter.com/Cody_DeFi/status/1937046329852915786#m
+- 作者：@Cody_DeFi
+
+> Tao 老师发福利了，@protocol_fx 是最近半年代币跟TVL都在低调上涨的 DeFi 协议，项目是完全基于智能合约，链上自洽的 DeFi 工具，后面还会接很多生息场景，推荐大家不要错过这个低调的宝藏协议。
+
+## 195. Jun 21, 2025 · 11:15 AM UTC · 1936382364365807919#m
+- 链接：https://twitter.com/Cody_DeFi/status/1936382364365807919#m
+- 作者：@Cody_DeFi
+
+> 想咨询一下，币圈现在有没有关于抵押/套利的通用风控计算软件呢？
+>  
+> 现在币圈的抵押借贷品类很多，借贷平台也很多。
+>  
+> 不只是存U借币，也包括存币借U，存币借币等等。
+>  
+> 然后，不同的代币，在不同的平台，有不同的抵押率和借贷率，不同的利率等。
+>  
+> 有没有哪个软件，可以类似于记账软件一样，可以自己设置不同的代币，他的借率，贷率，然后软件根据二级市场价格，实时监控借贷水平( LTV )，甚至监控 portfolio 的净利率水平等等。
+>  
+> 帮助用户更好的进行多资产类别，多平台的借贷套利监控？
+
+## 196. Jun 21, 2025 · 8:44 AM UTC · 1936344411933393156#m
+- 链接：https://twitter.com/Cody_DeFi/status/1936344411933393156#m
+- 作者：@Cody_DeFi
+
+> 更正一下，币安ALPHA 的数据不太确定，有数据说是 2.5，总之流动量 500万-1500万美金，肯定落入置信区间了。
+
+## 197. Jun 21, 2025 · 8:32 AM UTC · 1936341326997676362#m
+- 链接：https://twitter.com/Cody_DeFi/status/1936341326997676362#m
+- 作者：@Cody_DeFi
+
+> 半天没看推，大家又开始 FOMO 新的产品了。
+>  
+> 这次是币圈的大众点评 @ethos_network 推出的新的 InfoFi 平台 —— @xeetdotai
+>  
+> 据说要提高 InfoFi 的信噪比，提高信息密度。
+>  
+> 不管三七二十一，先在注册了再说，想想以后不知道还有几个 InfoFi 平台。
+>  
+> 发一条推特，领 @KaitoAI @cookiedotfun @xeetdotai 三个平台的代币？
+>  
+> 谢谢你，稿费之神。
+>  
+> 欢迎用我的链接注册，管他是啥，先信为敬：xeet.ai/boost/Cody_DeFi
+
+## 198. Jun 21, 2025 · 8:16 AM UTC · 1936337409542914133#m
+- 链接：https://twitter.com/Cody_DeFi/status/1936337409542914133#m
+- 作者：@Cody_DeFi
+
+> Spark @sparkdotfi 第一阶段的 ignition airdrop，截至到目前为止，总共的领取数据量才31.6M，而空投的总量是300M，还剩下 2.7 亿个 token
+>  
+> 这些剩下的 Token，会进入所谓的第二季的 overdrvie 空投里面，空投分配的金额是按照当初 ignition 空投数量 X 3倍积分瓜分剩下 2.7亿 token，瓜分的上限是 ignition 空投数量的十倍。
+>  
+> 简单的来说，这是一个围绕空投忠诚用户的额外补偿。
+>  
+> 比如 ignition 阶段，领取了 5400 个 SPK 的地址，将 5400 个 SPK 全部质押的话，在 8月12日 结束后，最多还能领取 54000 个SPK。
+>  
+> ————
+>  
+> 确实没想到 ignition 阶段空投的 SPK，实际领取份额才  10%，这意味着目前 SPK 的流通量也就可能不足 1.5亿。
+>  
+> 这个流动量，包括币安和其他交易所的 launchpool，以及链上的 POOL，按照 FDV 4亿，0.04 的价格。总共的流通量美金才 400万U 左右，着实够低的。
+>  
+> 之前就说了，SPK 会是一个一边操盘，一边挖矿，十年100亿排放计划的盘子。接下来就看项目方要怎么玩吧。
+>  
+> @cookiedotfun 的 @sparkdotfi 还有三天，最后的冲刺阶段了，snap~
+
+## 199. Jun 19, 2025 · 2:27 PM UTC · 1935706080849613127#m
+- 链接：https://twitter.com/Cody_DeFi/status/1935706080849613127#m
+- 作者：@Cody_DeFi
+
+> 一直都挂有 OneKey 的小绿标
+>  
+> 愿意参与，也是因为对 OneKey 所倡导的正直价值观的支持，未涉及商业利益，算是价值观层面的双向选择。
+>  
+> 这次 618 期间，也算是借花献佛，给我的粉丝发两个福利吧，感谢 OneKey 官方的赞助。
+>  
+> 👉福利一：
+>  
+> 618 活动期间，在 OneKey 官方购买平台购买硬件钱包，在全场 86 折的基础上，通过我的专属链接，还可以返还 5% 费用。
+>  
+> 链接如下：shop.onekey.so/zh-hans?r=SJQ…
+>  
+> 👉福利二：
+>  
+> 会在本条推特的评论区抽取 2 位幸运观众，每人赠送一台 联名款的 OneKey Classic
+>  
+> 只需要满足关注 @Cody_DeFi 和 @OneKeyCN ，并且点赞和评论本条推特即可。
+>  
+> 最后，再说几句 OneKey 硬件钱包的优势。
+>  
+> 1、用户体验流畅，支持 60+ 链。
+> 2、代码完全开源公开，慢雾审计。
+> 3、资方背景深厚，同时拿到了币安和 Coinbase 的投资，不排除未来回馈老用户的可能性。
+>  
+> 总之，值得拥有，没买的朋友建议试试~
+
+## 200. Jun 19, 2025 · 9:15 AM UTC · 1935627466246340784#m
+- 链接：https://twitter.com/Cody_DeFi/status/1935627466246340784#m
+- 作者：@Cody_DeFi
+
+> 参加了一个公链项目方在线下的活动。
+>  
+> 最大的感受是，还没到半场，会场前排的项目方宣讲，就被会场后排的人群讨论声音掩盖了。虽然会场管理人员也多次尝试制止，但是没什么效果。
+>  
+> 我跟坐身边一大爷儿聊，大爷儿说这些项目方讲的东西都没有用，忽悠人的，浪费大家时间。
+>  
+> 大爷自己是从比特币20000跌到8000进的币圈，8000抄了底，11000就卖了，然后就恐高，踏空了比特币从一万到十万的后续行情。
+>  
+> 现在在币安交易，炒 BSC meme，囤了些BNB 挖矿。我问他为啥炒 meme，他说他喜欢“无主币”，而且meme可以翻100倍，绝对不去碰 VC 币，都是割韭菜的。
+>  
+> 大爷的画像，我觉得很能代表币圈一众最基础的流动性，币圈为啥没有山寨季？最基础的流动性也不愿意碰那些假大空的项目方代币。
+>  
+> 后来，我又陆续听了公链生态下的 Dapp 的介绍，说实话，我觉得这些dapp自己应该都无法说服自己吧，东南亚国家的学生贷款 RWA 上链，统一 DeFi 交互的另一套链抽象交易软件。
+>  
+> 不是逻辑无法自洽，就是基建项目的重复造轮子。看了一下这个公链已经发币，我估摸着这是不是乘着稳定币法案的热潮，硬套一个 RWA ，给自己的盘子造点热度，后面要干什么，大家懂得都懂。说实话，还是有点心疼项目方的处心积虑。
+>  
+> 都说现在是稳定币的高光时刻，我觉得某种上也是币圈最后的稻草，倘若稳定币真的没用，币圈的这套体系，怕是就只能困在“赌场”和“洗钱”这个赛道里，天花板也就到这里了。
+>  
+> 纵然在此基础上，DeFi 还能有些相对于圈外的超额收益，但是这些超额收益也会被圈外进场的机构抹平，尤其是现在的币上美股趋势。
+>  
+> 微策略把 BTC 的 beta 收益带去了圈外，其他的公司，有样学样，把 eth/sol 的 staking yield 带去了圈外，还有 Trx 的手续费，等等。
+>  
+> 比起把用户带进圈内，把资产和收益带去圈外，容易的多。这些圈外流动性并不能赋能圈内和链上，他们只是把圈内当作理财收益的燃料。
+>  
+> 看来看去，也就稳定币这一条路，还能带来增量收益了。

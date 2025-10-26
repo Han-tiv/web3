@@ -1,0 +1,177 @@
+# Web3 Monorepo - Production Docker Compose
+version: '3.8'
+
+services:
+  # 📡 Social Monitor - Node.js Services
+  social-monitor:
+    build:
+      context: ./apps/social-monitor
+      dockerfile: Dockerfile
+    container_name: web3-social-monitor
+    restart: unless-stopped
+    ports:
+      - "3002:3002"  # Aggregator API
+      - "3001:3001"  # Health check
+    environment:
+      - NODE_ENV=production
+      - REDIS_HOST=redis
+      - TELEGRAM_API_ID=${TELEGRAM_API_ID}
+      - TELEGRAM_API_HASH=${TELEGRAM_API_HASH}
+      - DISCORD_BOT_TOKEN=${DISCORD_BOT_TOKEN}
+    depends_on:
+      - redis
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3001/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - web3-network
+
+  # 🧠 Kronos DeFi - AI Trading Engine
+  kronos-trading:
+    build:
+      context: ./apps/kronos-defi
+      dockerfile: Dockerfile.trading
+    container_name: web3-kronos-trading
+    restart: unless-stopped
+    ports:
+      - "4567:4567"  # Trading engine
+    environment:
+      - NODE_ENV=production
+      - PREDICTOR_URL=http://kronos-ai:4568
+    depends_on:
+      - kronos-ai
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:4567/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - web3-network
+
+  # 🤖 Kronos AI Predictor - Python Service
+  kronos-ai:
+    build:
+      context: ./apps/kronos-defi
+      dockerfile: Dockerfile.ai
+    container_name: web3-kronos-ai
+    restart: unless-stopped
+    ports:
+      - "4568:4568"  # AI predictor service
+    environment:
+      - KRONOS_DEVICE=auto
+      - KRONOS_PRED_LEN=12
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:4568/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s  # AI model loading takes time
+    networks:
+      - web3-network
+
+  # 🗄️ PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    container_name: web3-postgres
+    restart: unless-stopped
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: web3_core
+      POSTGRES_USER: cryptouser
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-cryptopass123}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U cryptouser -d web3_core"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    networks:
+      - web3-network
+
+  # 🔴 Redis Cache & Message Queue
+  redis:
+    image: redis:7-alpine
+    container_name: web3-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    command: redis-server --appendonly yes --maxmemory 256mb --maxmemory-policy allkeys-lru
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    networks:
+      - web3-network
+
+  # 📊 Web Dashboard (Optional)
+  dashboard:
+    build:
+      context: ./apps/kronos-defi/apps/web-dashboard
+      dockerfile: Dockerfile
+    container_name: web3-dashboard
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:3002
+      - NEXT_PUBLIC_TRADING_URL=http://localhost:4567
+    depends_on:
+      - kronos-trading
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - web3-network
+
+  # 📈 Monitoring & Metrics (Optional)
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: web3-prometheus
+    restart: unless-stopped
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml
+      - prometheus_data:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.console.libraries=/etc/prometheus/console_libraries'
+      - '--web.console.templates=/etc/prometheus/consoles'
+      - '--storage.tsdb.retention.time=200h'
+      - '--web.enable-lifecycle'
+    networks:
+      - web3-network
+    profiles:
+      - monitoring
+
+volumes:
+  postgres_data:
+    driver: local
+  redis_data:
+    driver: local
+  prometheus_data:
+    driver: local
+
+networks:
+  web3-network:
+    driver: bridge
+
+# Health check aggregation
+x-healthcheck-common: &healthcheck-common
+  interval: 30s
+  timeout: 10s
+  retries: 3
+  start_period: 40s

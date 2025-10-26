@@ -1,0 +1,71 @@
+version: '3.8'
+
+services:
+  nitter:
+    image: zedeus/nitter:latest
+    container_name: web3-nitter
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./config/nitter.conf:/src/nitter.conf:ro
+      - ./data/sessions.jsonl:/src/sessions.jsonl:ro
+      - ./data:/data
+    depends_on:
+      - redis
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    environment:
+      - NITTER_CONFIG_FILE=/src/nitter.conf
+    networks:
+      - nitter-net
+
+  redis:
+    image: redis:7-alpine
+    container_name: web3-nitter-redis
+    command: redis-server --save 60 1 --loglevel warning --maxmemory 128mb --maxmemory-policy allkeys-lru
+    volumes:
+      - redis-data:/data
+      - ./logs:/var/log/redis
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+    networks:
+      - nitter-net
+
+  # Nitter monitoring and API service
+  nitter-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: web3-nitter-api
+    ports:
+      - "3001:3001"
+    environment:
+      - NITTER_URL=http://nitter:8080
+      - REDIS_URL=redis://redis:6379
+      - NODE_ENV=production
+      - DEMO_MODE=false
+    depends_on:
+      - nitter
+      - redis
+    restart: unless-stopped
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - nitter-net
+
+volumes:
+  redis-data:
+    driver: local
+
+networks:
+  nitter-net:
+    driver: bridge

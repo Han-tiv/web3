@@ -1,0 +1,190 @@
+# ================================
+# Web3 MONOREPO - 私有仓库优化版
+# ================================
+# 此配置针对私有仓库优化，包含更多配置文件
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production builds
+dist/
+build/
+.next/
+out/
+
+# Environment variables - 保留敏感的，允许模板和示例
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# 根目录环境变量文件
+/.env
+# 但允许包含示例和已填写的配置模板
+!.env.example
+!**/.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+logs/
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# nyc test coverage
+.nyc_output
+
+# ESLint cache
+.eslintcache
+
+# Prettier cache
+.prettiercase
+
+# Stylelint cache
+.stylelintcache
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variable files (duplicated for clarity)
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Turbo
+.turbo
+
+# Vercel
+.vercel
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# IDEs - 但允许项目特定配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Docker - 但允许配置文件
+.docker/
+# 允许 docker-compose.yml 和 Dockerfile
+
+# Database - 保留数据文件但允许结构
+*.db
+*.sqlite
+*.sqlite3
+# 但允许迁移和结构文件
+!**/migrations/*.sql
+!**/schema.sql
+
+# Temporary files
+.tmp/
+tmp/
+temp/
+
+# Nitter specific - 允许基础配置，忽略敏感数据
+apps/social-monitor/services/nitter/logs/
+# 允许 nitter.conf (不包含敏感信息)
+!apps/social-monitor/services/nitter/config/nitter.conf
+# 忽略会话文件 (包含OAuth token)
+apps/social-monitor/services/nitter/sessions.jsonl
+apps/social-monitor/services/nitter/data/sessions.jsonl
+
+# Rust specific
+target/
+*.pdb
+*.rlib
+# 允许 Cargo.toml，忽略 Cargo.lock
+
+# Trading Bot specific - 允许配置模板
+apps/rust-trading-bot/target/
+# 允许配置文件，但保护真实密钥
+!apps/rust-trading-bot/.env.example
+
+# AI Predictor specific - 保护敏感配置
+apps/kronos-defi/packages/ai-predictor/.env
+apps/kronos-defi/packages/ai-predictor/.env.production
+apps/kronos-defi/packages/ai-predictor/.env.testnet
+# 但允许模型配置 (不包含API密钥)
+!apps/kronos-defi/packages/ai-predictor/models/**/config.json
+
+# 敏感文件 - 始终忽略
+secrets.json
+api_keys.txt
+**/private_keys.*
+**/wallet_*.json
+**/*_private.*
+
+# 交易数据 - 保护交易历史
+trade_history.json
+trading_data/
+backtest_results/
+# 但允许配置和示例数据
+!**/sample_data.json
+!**/test_data.json
+
+# ================================
+# 私有仓库优化说明
+# ================================
+# ✅ 包含的配置文件:
+#    - nitter.conf (基础服务配置)
+#    - nginx.conf (反向代理配置)
+#    - docker-compose.yml (服务编排)
+#    - .env.example (配置模板)
+#    - package.json, Cargo.toml (依赖配置)
+#    - config.json (模型配置，非敏感)
+#
+# ❌ 仍然忽略的敏感文件:
+#    - 真实的 .env 文件
+#    - OAuth sessions (sessions.jsonl)
+#    - 私钥和钱包文件
+#    - 交易历史数据
+#    - 日志文件
+#
+# 🔒 安全提醒:
+#    即使是私有仓库，也要谨慎处理API密钥和私钥

@@ -1,0 +1,22 @@
+# signal_trader systemd 单元文件示例
+# 推荐复制到 /etc/systemd/system/ 作为系统级服务运行
+
+[Unit]
+Description=Signal Trader Service (Rust)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/hanins/code/apps/rust-trading-bot
+User=hanins
+Group=hanins
+ExecStart=/bin/bash -lc 'set -a && source /home/hanins/code/.env && set +a && exec /home/hanins/code/apps/rust-trading-bot/target/release/signal_trader'
+Restart=on-failure
+RestartSec=5
+StandardOutput=append:/home/hanins/code/apps/rust-trading-bot/signal_trader.log
+StandardError=append:/home/hanins/code/apps/rust-trading-bot/signal_trader.log
+LimitNOFILE=65535
+
+[Install]
+WantedBy=multi-user.target

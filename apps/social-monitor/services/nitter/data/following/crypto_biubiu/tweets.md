@@ -1,0 +1,1428 @@
+# biubiu (@crypto_biubiu)
+
+- 抓取时间：2025-10-21T00:12:15.472Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：31520 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：13
+- 抓取尝试：1
+- Cursor 链：12 条
+- 账号统计：粉丝 16214，关注 369，推文 2777，点赞 285
+- 所在地：Tuen Mun District, Hong Kong
+- Twitter：https://twitter.com/crypto_biubiu
+- 头像：https://pbs.twimg.com/profile_images/1462791771927478273/RCTKfrHm_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1421173966496931840/1637591680
+- 认证：Blue Verified
+
+> 账号简介：
+> 流水不争先，争得是滔滔不绝
+> 努力抓住确定性机会
+
+---
+
+## 1. Sep 9, 2025 · 2:41 PM UTC · 1965425449070461114#m
+- 链接：https://twitter.com/crypto_biubiu/status/1965425449070461114#m
+- 作者：@crypto_biubiu
+
+> 四年前，我经历了币圈的最后一次归零。那时，合约让我归零了几次，最后一次归零后，我借了5万人民币重新开始。2022年和2023年，我2年没碰合约，然后靠着在市场打新套利，也算是摸到A8的门槛。然而，从我开始上大仓位操作起，厄运就接踵而来。2023年，我重仓了 $BORD ，自己打了几十张仓位，但是感觉手里筹码不够，并且那会市场情绪很FOMO，我又追加了10万U扫货。结果，铭文开始走下坡路，这10万U加上自己手里的持仓接近100W直接归零。
+>  
+> 由于自己急于回本，接连几次重仓操作，却一无所获。2024年初，我在 $ORDI 高点投入了40多万U，结果从我买入起就没回过本，最后亏损了200万人民币。自此我开始情绪失控，继续走梭哈玩法，用20万美元买入 $PUPS ，几乎全是高位接盘，又亏损一波大的。到符文板块出现时，我的本金仅剩约100万人民币。凭借对BTC生态的熟悉，我迅速上手符文，在符文版块差不多赚到了40万U的收益。后来，节点猴和 $PUPS 价格回升，我开始场外出金，此时盈利已近1M。时间来到2024年末，我再次因乱操作盈利回撤了十几万U，合算下来2024年一整年还亏损了约40多万U。
+>  
+> 紧接着是2025年初，特朗普发币的时候，我因为出去玩，错过了币圈有史以来最大的机会，心里一直很焦虑，导致情绪再度失控，开始用重仓玩法冲土狗，亏损10万U。随后， $TST 上线币安，热度极高，我梭哈65万美元（其中30万U从朋友那里借的），本来以为是大机会，没想到是接力的最后一棒，最终以23万U的亏损离场，开年短短三个月，我已累计亏损超200万人民币，内心压抑，只想翻身，于是我转战合约。重新开始玩合约的那个月，四月，我几乎每天盈利，直到 $ALPACA 的出现让我回吐所有收益，亏损10万U。
+>  
+> 冷静一段时间后，我重新启动，以2万U重新开始，逐渐盈利到7万U。然而，就今天，这7万U又给我玩合约亏光了。亏完的那一刻，我倒是有点释怀了，长期的高风险玩法让我早在心里预知我早晚有一天会走到这一步，可我还是没管住手，明明有更适合自己的机会，我却总想在不擅长的领域分一杯羹，结果导致一步错，步步错。
+>  
+> 回首这几年，我从零开始，又回到零点。幸好，我在前两年坚持出金，置办了房子和车子，手里还有一些现金，足以应对当下生活。这次归零未必是坏事，反而让我找回了2021年从零开始的斗志。压力让我更渴望赚钱，趁着年轻，我要再拼一把！
+>  
+> 这次，我要改变思路，不玩合约，让自己的操作更有逻辑一些，做到知行合一。加油，biubiu，你一定行！
+
+## 2. Oct 16, 2025 · 11:03 PM UTC · 1978959959413960942#m
+- 链接：https://twitter.com/crypto_biubiu/status/1978959959413960942#m
+- 作者：@crypto_biubiu
+
+> 一觉醒来睡觉之前委托朋友买的NFT @sleepagotchi 大部分都买到了，还是有一部分单子没吃到，准备等个回调在买了。依旧是最喜欢的 #GAMEFI ，虽然大多数人都不看好这个赛道，但是依旧会为喜欢买单。
+>  
+> 这次买入的仓位是上次1WU钱包剩余的4000U，期待一下自己喜欢的东西会不会给自己带来满意的结果
+
+## 3. Oct 16, 2025 · 11:02 AM UTC · 1978778445732520136#m
+- 链接：https://twitter.com/crypto_biubiu/status/1978778445732520136#m
+- 作者：@crypto_biubiu
+
+> 抽一下，给俺一个
+
+## 4. Oct 15, 2025 · 12:39 PM UTC · 1978440693673566439#m
+- 链接：https://twitter.com/crypto_biubiu/status/1978440693673566439#m
+- 作者：@crypto_biubiu
+
+> 钻不动了，市场情绪一下子变得很差起来。前两天准备的1WU钱包，买了其他的赚了些，然后买入了奶龙，直接跌没了2/3，被迫割肉离场，等待下一个机会了。
+
+## 5. Oct 14, 2025 · 7:01 PM UTC · 1978174441407369599#m
+- 链接：https://twitter.com/crypto_biubiu/status/1978174441407369599#m
+- 作者：@crypto_biubiu
+
+> 感谢币安，空投了3.75BNB，爱死币安了
+> @binance
+
+## 6. Oct 13, 2025 · 7:21 PM UTC · 1977817013214204025#m
+- 链接：https://twitter.com/crypto_biubiu/status/1977817013214204025#m
+- 作者：@crypto_biubiu
+
+> 可以领了，小赚
+
+## 7. Oct 11, 2025 · 11:24 AM UTC · 1976972176445391129#m
+- 链接：https://twitter.com/crypto_biubiu/status/1976972176445391129#m
+- 作者：@crypto_biubiu
+
+> 准备了一个钻石手钱包，以后看好的标就用这个钱包来买，并且分享逻辑，争取1wu拿到大结果
+> 地址：0x20E8A65520A0f2eCeb3D6a9E485f8A26fAD87d30
+
+## 8. Oct 11, 2025 · 12:37 AM UTC · 1976809444714656244#m
+- 链接：https://twitter.com/crypto_biubiu/status/1976809444714656244#m
+- 作者：@crypto_biubiu
+
+> 一个月前，我身上仅剩1万U，到今天为止已经33万U，加上已提现的7万U，总计40万U。和去年经历相似，上半年一直在亏损，下半年逐渐转运。
+>  
+> 这一个月踩准了几个关键节点，虽然过程中失误频频，卖飞不少机会，但总体稳步上升。破产第九天，赶上AST空投，以0.9美元出完，获利15万U。随后几天连连亏损，资金缩水至8万U。向朋友拿了9万U，然后17万U全仓 $GIGGLE ，浮盈15万U时没走，最终落袋5万U。因为拿着 $GIGGLE 错过了看好的哈基米，而且币安MEME RUSH新平台也没钱去玩，就把最后的5000U打进去，然后跑出来12WU。这波操作梭哈锁住了流动性，导致错过其他机会，以后不能这样了，需要留好足够的流动性。今天暴跌抄底WBETH，赚了9万美元，但是大部分资金刚转到OKX，币安账户没多少钱，有点可惜。
+>  
+> 回看这一路，轻舟已过万重山，仓位已接近年初。下一目标是重回去年1M高点，目前正处于过三关的第二关。继续努力，争取年底前恢复巅峰！
+
+## 9. Oct 10, 2025 · 9:25 PM UTC · 1976761113959448957#m
+- 链接：https://twitter.com/crypto_biubiu/status/1976761113959448957#m
+- 作者：@crypto_biubiu
+
+> 卧槽他妈，这世界是怎么了
+
+## 10. Oct 10, 2025 · 3:32 PM UTC · 1976672228130558381#m
+- 链接：https://twitter.com/crypto_biubiu/status/1976672228130558381#m
+- 作者：@crypto_biubiu
+
+> 请停止砸盘 我和我的家人们还要生活
+
+## 11. Oct 10, 2025 · 1:54 PM UTC · 1976647504587612427#m
+- 链接：https://twitter.com/crypto_biubiu/status/1976647504587612427#m
+- 作者：@crypto_biubiu
+
+> AST查询出来了，严重反撸，领取反撸一半，目前来看退手续费划算一点，
+
+## 12. Oct 10, 2025 · 1:42 PM UTC · 1976644484076273870#m
+- 链接：https://twitter.com/crypto_biubiu/status/1976644484076273870#m
+- 作者：@crypto_biubiu
+
+> 打个广告，打狗的可以走一下链接：
+> XXYY：xxyy.io/?ref=biubiu
+> BN钱包：web3.binance.com/referral?re…
+
+## 13. Oct 10, 2025 · 11:12 AM UTC · 1976606830932726155#m
+- 链接：https://twitter.com/crypto_biubiu/status/1976606830932726155#m
+- 作者：@crypto_biubiu
+
+> 币安新玩法9.30开始，记得参加
+
+## 14. Oct 10, 2025 · 2:14 AM UTC · 1976471388992217578#m
+- 链接：https://twitter.com/crypto_biubiu/status/1976471388992217578#m
+- 作者：@crypto_biubiu
+
+> 希望你当个人啊
+
+## 15. Oct 9, 2025 · 2:52 PM UTC · 1976299646604673115#m
+- 链接：https://twitter.com/crypto_biubiu/status/1976299646604673115#m
+- 作者：@crypto_biubiu
+
+> 绷不住了，赚了12W，跌了17W了，心态有点炸
+
+## 16. Oct 9, 2025 · 8:25 AM UTC · 1976202349002867176#m
+- 链接：https://twitter.com/crypto_biubiu/status/1976202349002867176#m
+- 作者：@crypto_biubiu
+
+> 虽然GG上合约没拉多少，但是现货更快了
+
+## 17. Oct 9, 2025 · 8:19 AM UTC · 1976200884356079729#m
+- 链接：https://twitter.com/crypto_biubiu/status/1976200884356079729#m
+- 作者：@crypto_biubiu
+
+> 这波龙头没吃到，就梭哈了meme rush，买了3个点，但是币安那会很卡，点卖给我卖完了，纸面卖飞1M，但是最少卖飞500K，没招了，只能等下一次机会了。这波5000U砍了12WU，也知足了。但是不够 $GIGGLE 跌的，拿住 一定会赢的
+
+## 18. Oct 9, 2025 · 7:51 AM UTC · 1976193797144142117#m
+- 链接：https://twitter.com/crypto_biubiu/status/1976193797144142117#m
+- 作者：@crypto_biubiu
+
+> 拿稳 $GIGGLE 拿稳 $GIGGLE 拿稳 $GIGGLE
+
+## 19. Oct 9, 2025 · 4:13 AM UTC · 1976138830119043390#m
+- 链接：https://twitter.com/crypto_biubiu/status/1976138830119043390#m
+- 作者：@crypto_biubiu
+
+> 网传下午币安会出无私钥钱包打新，准备下，没走邀请码的可以走一下
+>  
+> web3.binance.com/referral?re…
+
+## 20. Oct 8, 2025 · 6:55 PM UTC · 1975998428091216236#m
+- 链接：https://twitter.com/crypto_biubiu/status/1975998428091216236#m
+- 作者：@crypto_biubiu
+
+> $GIGGLE 半夜来个大哥直接买了1000B助力突破
+> 地址：0xba35e3a84aeb762c1356acbfea4bf1dca5359f30
+> 等个$GIGGLE/USDT
+
+## 21. Oct 8, 2025 · 8:12 AM UTC · 1975836655467815246#m
+- 链接：https://twitter.com/crypto_biubiu/status/1975836655467815246#m
+- 作者：@crypto_biubiu
+
+> 捐款达到10M，一个巨大的里程碑
+
+## 22. Oct 7, 2025 · 12:41 PM UTC · 1975541912305340595#m
+- 链接：https://twitter.com/crypto_biubiu/status/1975541912305340595#m
+- 作者：@crypto_biubiu
+
+> $GIGGLE 上ASTER了，下一步速度去币安吧，这两天BSC的狂暴大牛市是一点都没玩，把所有的仓位都打进去了，就那么多流动性了，期待GG早日起飞
+
+## 23. Oct 7, 2025 · 11:37 AM UTC · 1975525952550748557#m
+- 链接：https://twitter.com/crypto_biubiu/status/1975525952550748557#m
+- 作者：@crypto_biubiu
+
+> $GIGGLE 捐款马上10M，冲啊
+
+## 24. Oct 7, 2025 · 10:17 AM UTC · 1975505633207103778#m
+- 链接：https://twitter.com/crypto_biubiu/status/1975505633207103778#m
+- 作者：@crypto_biubiu
+
+> 怎么办押注错了，只押注了 $GIGGLE ，捐赠9M了，CZ是一点也不提
+
+## 25. Oct 6, 2025 · 6:54 AM UTC · 1975092378261471517#m
+- 链接：https://twitter.com/crypto_biubiu/status/1975092378261471517#m
+- 作者：@crypto_biubiu
+
+> 这是今天要上币安了吗🥰🥰🥰
+
+## 26. Oct 5, 2025 · 1:33 PM UTC · 1974830227227615482#m
+- 链接：https://twitter.com/crypto_biubiu/status/1974830227227615482#m
+- 作者：@crypto_biubiu
+
+> 我日尼玛啊 维权了 草泥马地 ASTER团队，做尼玛的老鼠仓，那谁几把能想到1-2周刷分呢。明面上的钱都给你们赚了，手续费你还赚了，真是日尼玛了
+
+## 27. Oct 5, 2025 · 1:14 PM UTC · 1974825418088948220#m
+- 链接：https://twitter.com/crypto_biubiu/status/1974825418088948220#m
+- 作者：@crypto_biubiu
+
+> 每周1%，卧槽尼玛，反撸炸了
+
+## 28. Oct 5, 2025 · 11:17 AM UTC · 1974796125732577720#m
+- 链接：https://twitter.com/crypto_biubiu/status/1974796125732577720#m
+- 作者：@crypto_biubiu
+
+> 卧槽，第二期那么快，希望一切顺利🙏🏻🙏🏻🙏🏻
+
+## 29. Oct 5, 2025 · 9:48 AM UTC · 1974773612717744583#m
+- 链接：https://twitter.com/crypto_biubiu/status/1974773612717744583#m
+- 作者：@crypto_biubiu
+
+> 币安把介绍 宝可梦的帖子删了，那 $GIGGLE 就是近期唯一币安博客唯一提到的币了，全力以赴吧
+
+## 30. Oct 1, 2025 · 12:23 PM UTC · 1973363244137058355#m
+- 链接：https://twitter.com/crypto_biubiu/status/1973363244137058355#m
+- 作者：@crypto_biubiu
+
+> 抽我帮主
+
+## 31. Oct 1, 2025 · 5:39 AM UTC · 1973261364568400275#m
+- 链接：https://twitter.com/crypto_biubiu/status/1973261364568400275#m
+- 作者：@crypto_biubiu
+
+> ASTER之后又重新记录了一下自己的操作，只能说回撤蛮严重的，本来想着 $ASTER 之后小玩一下，等确定性机会，后面也的确小玩了。但是月底最后一天还是FOMO进去了，重仓了 $EDEN ，这个币上线一直跌，被那些嘴撸的KOL赢麻了,也算是给自己一个又教了一个学费。只能10月继续努力，9月结余85000U（本金10WU）
+>  
+> 10月我的钱包资产将会青云直上，一往无前，步步高升，平步青云，一飞冲天，前程似锦 ，我是最棒的， 我是最棒的，  我是最棒的!
+> 10月一定是我的Time！
+
+## 32. Sep 30, 2025 · 1:19 PM UTC · 1973014911552045351#m
+- 链接：https://twitter.com/crypto_biubiu/status/1973014911552045351#m
+- 作者：@crypto_biubiu
+
+> 我操尼玛 $EDEN
+
+## 33. Sep 30, 2025 · 8:42 AM UTC · 1972945204526358903#m
+- 链接：https://twitter.com/crypto_biubiu/status/1972945204526358903#m
+- 作者：@crypto_biubiu
+
+> 要下载这个傻逼钱包才好用，很傻逼交易所做的傻逼产品
+> web3.gate.com/zh/trade/gatel…
+
+## 34. Sep 30, 2025 · 8:16 AM UTC · 1972938709520773480#m
+- 链接：https://twitter.com/crypto_biubiu/status/1972938709520773480#m
+- 作者：@crypto_biubiu
+
+> 买了点GATE FUN第一个狗目前250K，目前是龙一
+> web3.gate.com/zh/trade/gatel…
+> 要下他的破钱包，很卡，交易很不流畅，要不是因为是第一个，买不了一点
+
+## 35. Sep 27, 2025 · 10:14 AM UTC · 1971881157047587020#m
+- 链接：https://twitter.com/crypto_biubiu/status/1971881157047587020#m
+- 作者：@crypto_biubiu
+
+> OKX交易1分给3.4个币价值居然有6U=42RMB，发财😄😄😄
+
+## 36. Sep 26, 2025 · 12:04 PM UTC · 1971546508102344725#m
+- 链接：https://twitter.com/crypto_biubiu/status/1971546508102344725#m
+- 作者：@crypto_biubiu
+
+> 积分已经1.5加成了，然后返佣也已经30%了，有需要的可以直接走我链接了
+
+## 37. Sep 26, 2025 · 10:35 AM UTC · 1971523976905302301#m
+- 链接：https://twitter.com/crypto_biubiu/status/1971523976905302301#m
+- 作者：@crypto_biubiu
+
+> OKX妥妥的安卓所啊，不是余额不够，就是交易额不够
+
+## 38. Sep 25, 2025 · 4:02 PM UTC · 1971243886195724293#m
+- 链接：https://twitter.com/crypto_biubiu/status/1971243886195724293#m
+- 作者：@crypto_biubiu
+
+> 傻逼项目方1S打了4000S，也不是好人来的，血亏刷白的1000刀
+
+## 39. Sep 25, 2025 · 9:28 AM UTC · 1971144670337171947#m
+- 链接：https://twitter.com/crypto_biubiu/status/1971144670337171947#m
+- 作者：@crypto_biubiu
+
+> ASTER的第二期其实我这两天一直再有研究，虽然说第二期很卷，但是第一期实打实的让我翻身了，所以准备送点回去（大概率还是有利润的）。
+>  
+> 至于玩法我想说一下自己的观点：
+>  
+> 1.找个返佣30%，而且团队加成是1.5X的，去做（这个我自己就符合，大家感觉需要的可以走一下我的邀请码）
+>  
+> 2.项目方明确说会查女巫，所以说对刷可能不太行了，但是可以找3个号对刷，或者跨平台对刷（跨平台可以刷别的平台，性价比超高）
+>  
+> 3.已经明确是交易额至上了，所以没必要做那么多号，做精品号就可以了。然后对冲的时候可以多拿一会单子，拿一下持仓分数。顺便刷的时候买点ASTER提到平台，抵扣5%手续费
+>  
+> 4.可以考虑铸造一些USDF，目前USDF是16%年华，可以当做是理财，等年华低了出来就行。
+>  
+> 5.刷的时候看似市价单比限价单手续贵3.5倍，但是限价对冲，很可能一边开到单子，另外一边没开到，实际磨损要远远比限价贵
+>  
+> 6.大家可以根据自身条件去做，不要盲目跟刷，空投可能和S3一起发，需要很长一段时间才能拿到空投
+>  
+> 打个小广告：
+> 没走链接的可以走我一下链接：asterdex.com/zh-CN/referral/…（手续费返佣30%，全部都会返还给你们）
+>  
+> 至于团队1.5X积分加成，我这边明天就能够达到，希望大家放心，和市场的返佣都是一样的。走我链接的要是有不懂的可以加我微信可以直接问我，我也会耐心给你们解答（微信：Crypto_biubiu）
+
+## 40. Sep 24, 2025 · 6:22 AM UTC · 1970735634651508783#m
+- 链接：https://twitter.com/crypto_biubiu/status/1970735634651508783#m
+- 作者：@crypto_biubiu
+
+> 自从 $ASTER 之后，就没有赚过钱，玩大玩小都会亏钱。所以今天又选择了次果断出金，只留10W刀在圈子了，这两天一共出了7w刀，全部给家里了，给弟弟留着买房用了
+
+## 41. Sep 24, 2025 · 2:41 AM UTC · 1970680023788237131#m
+- 链接：https://twitter.com/crypto_biubiu/status/1970680023788237131#m
+- 作者：@crypto_biubiu
+
+> 这些脚本刷ASTER二期的已经把网站都刷崩了，要不要那么离谱啊
+
+## 42. Sep 24, 2025 · 2:11 AM UTC · 1970672347817693622#m
+- 链接：https://twitter.com/crypto_biubiu/status/1970672347817693622#m
+- 作者：@crypto_biubiu
+
+> 太牛逼了，这两天破天盖地的都在刷链上dex，能不能降降温啊
+
+## 43. Sep 23, 2025 · 4:06 AM UTC · 1970339061287264710#m
+- 链接：https://twitter.com/crypto_biubiu/status/1970339061287264710#m
+- 作者：@crypto_biubiu
+
+> 其实炒币真要有点运气在身，就比如这波抄底 $UXLINK ，第一波抄底的人10X，第二波抄底的人跌了300X（抄底500变2U），第三波抄底人又又几十X收益（持仓2U变28），这东西真要有点运气
+
+## 44. Sep 23, 2025 · 3:36 AM UTC · 1970331338302726511#m
+- 链接：https://twitter.com/crypto_biubiu/status/1970331338302726511#m
+- 作者：@crypto_biubiu
+
+> 我擦，抄底8X了
+
+## 45. Sep 23, 2025 · 3:23 AM UTC · 1970328117505036439#m
+- 链接：https://twitter.com/crypto_biubiu/status/1970328117505036439#m
+- 作者：@crypto_biubiu
+
+> $UXLINK 我操你妈了，抄底亏500刀，只剩2刀了
+
+## 46. Sep 23, 2025 · 2:19 AM UTC · 1970312055900250162#m
+- 链接：https://twitter.com/crypto_biubiu/status/1970312055900250162#m
+- 作者：@crypto_biubiu
+
+> 这 $uxlink 太好玩了，前脚刚发一个消息说把黑客的大部分资产冻结了，后脚黑客就增发10亿币去砸盘
+
+## 47. Sep 22, 2025 · 11:05 AM UTC · 1970081984698548228#m
+- 链接：https://twitter.com/crypto_biubiu/status/1970081984698548228#m
+- 作者：@crypto_biubiu
+
+> 卧槽了，能不能不要跌了
+
+## 48. Sep 15, 2025 · 3:22 PM UTC · 1967609853062389789#m
+- 链接：https://twitter.com/crypto_biubiu/status/1967609853062389789#m
+- 作者：@crypto_biubiu
+
+> We’re excited to officially announce the TGE of $GOATED! 🔥
+>  
+> Welcome to the biggest casino token launch on Solana in 2025, powered by @Metaplex Genesis
+>  
+> 📅 Presale begins at 16:00 UTC on Sep 25th, 2025
+>  
+> 100% of Funds Raised will be used to provide Day 1 DEX Liquidity.
+>  
+> RT this for a chance to win an exclusive allocation of $GOATED - let’s dive in 👇
+
+## 49. Sep 22, 2025 · 2:12 AM UTC · 1969947813929980217#m
+- 链接：https://twitter.com/crypto_biubiu/status/1969947813929980217#m
+- 作者：@crypto_biubiu
+
+> 刷了这个项目@goatedcom的几个白，今天就结束了，想做的可以做一下。项目25号在@metaplex发射，白很简单，存1000U打1000U流水，绑定一下推特，然后发一下推特就行，具体教程可以自行找一下其他博主的推特。
+>  
+> 做完这些白单查询：goated.com/allowlist
+>  
+> 注意：
+> 1.平台是下注台子，一定不要上头，做好自己的策略。
+> 2.绑定的时候要绑定SOL钱包，不要绑定EVM钱包
+> 3.完成白名单就撤，切莫贪心
+
+## 50. Sep 21, 2025 · 12:52 PM UTC · 1969746452852445216#m
+- 链接：https://twitter.com/crypto_biubiu/status/1969746452852445216#m
+- 作者：@crypto_biubiu
+
+> 流水不争先，争得是滔滔不绝
+> 最近的行情只适合IQ50和IQ150的才能发财，多思考一下就很难赚到钱。这波没吃到的千万不要FOMO，耐心等待属于自己的机会，只要活下来，肯定会有属于自己发财的机会的
+
+## 51. Sep 21, 2025 · 12:45 AM UTC · 1969563708591653225#m
+- 链接：https://twitter.com/crypto_biubiu/status/1969563708591653225#m
+- 作者：@crypto_biubiu
+
+> 睡醒看到 $ASTER 涨到1.7U，一天卖飞一个A7，心里肯定肯定没有那么舒服。但是这个币已经非常超出我的预期了，而且拿到0.9U全部下车，对自己来说已经算是拿到很大的结果了。总之这个币已经过去了，我也不会再去参与了，耐心等待下一个机会，希望大家也不要被各种盈利图FOMO，祝大家早日抓到下一个 $ASTER 。
+
+## 52. Sep 20, 2025 · 12:59 AM UTC · 1969204772486979772#m
+- 链接：https://twitter.com/crypto_biubiu/status/1969204772486979772#m
+- 作者：@crypto_biubiu
+
+> $ASTER 0.9清仓了，这波4000U-17W，真的很知足了（出了4W刀金），场内还剩15W刀，继续加油吧。
+
+## 53. Sep 19, 2025 · 11:12 PM UTC · 1969177758988136713#m
+- 链接：https://twitter.com/crypto_biubiu/status/1969177758988136713#m
+- 作者：@crypto_biubiu
+
+> $ASTER 速度去1U
+
+## 54. Sep 19, 2025 · 4:12 AM UTC · 1968890961590726658#m
+- 链接：https://twitter.com/crypto_biubiu/status/1968890961590726658#m
+- 作者：@crypto_biubiu
+
+> 有点梦一场，一周前我身上只有1WU了，然后和朋友合伙买了只月鸟，全身只剩下2000U流动性。然后过了几天 $ASTER 发了空投，一下把我盘活了，感谢 $ASTER 让我翻身，相信区块链奇迹
+
+## 55. Sep 18, 2025 · 6:31 PM UTC · 1968744677152010718#m
+- 链接：https://twitter.com/crypto_biubiu/status/1968744677152010718#m
+- 作者：@crypto_biubiu
+
+> 果然提现开提现了，下一步就是bn了吧
+
+## 56. Sep 18, 2025 · 10:45 AM UTC · 1968627316579611016#m
+- 链接：https://twitter.com/crypto_biubiu/status/1968627316579611016#m
+- 作者：@crypto_biubiu
+
+> 关于OKXBoost我说一下我自己的看法：首先他效仿的是币安，第一期的确以低门槛，大毛吸引了不少人来刷交易。但是毕竟是仿盘，而且第二期门槛突然变高,让大部分人第二期的基本反撸，包括我自己在内，这里做的真不如币安来的豪华。
+>  
+> 至于后面怎么走，个人认为以后刷就要玩精品号去做了，就正常的去交易，空投就随缘就好。币安的alpha在240高门槛的基础上一次活动就30-40刀收益持续了很长一段时间，才迎来现在的爆发。OKX肯定也会有大毛的，但是不建议大家很刻意的去刷小号了，有时候质大于量。
+
+## 57. Sep 18, 2025 · 10:19 AM UTC · 1968620923709161485#m
+- 链接：https://twitter.com/crypto_biubiu/status/1968620923709161485#m
+- 作者：@crypto_biubiu
+
+> 这OKX交易5分只给108个，领取10U，消耗成本都不够
+
+## 58. Sep 18, 2025 · 8:28 AM UTC · 1968592963698557077#m
+- 链接：https://twitter.com/crypto_biubiu/status/1968592963698557077#m
+- 作者：@crypto_biubiu
+
+> 要提前开提币，然后币安了？
+
+## 59. Sep 18, 2025 · 12:40 AM UTC · 1968475264687685690#m
+- 链接：https://twitter.com/crypto_biubiu/status/1968475264687685690#m
+- 作者：@crypto_biubiu
+
+> 半夜看 $ASTER 拉盘，想着买这个交易所第一个现货，然后买了1000U，目前接近翻倍。然后卖了点 $ASTER 买了1WU的 $ASP ，成本0.24，希望能起飞
+
+## 60. Sep 17, 2025 · 8:37 PM UTC · 1968414054076273062#m
+- 链接：https://twitter.com/crypto_biubiu/status/1968414054076273062#m
+- 作者：@crypto_biubiu
+
+> $ASTER 你就是我亲哥，拉到1U这币安上不上无所谓了
+
+## 61. Sep 17, 2025 · 3:59 PM UTC · 1968344028916944898#m
+- 链接：https://twitter.com/crypto_biubiu/status/1968344028916944898#m
+- 作者：@crypto_biubiu
+
+> 骂早了哥，对不起，你你在拉拉盘吧。0.15卖了4w个币，剩下的在看看
+
+## 62. Sep 17, 2025 · 1:35 PM UTC · 1968307705690697966#m
+- 链接：https://twitter.com/crypto_biubiu/status/1968307705690697966#m
+- 作者：@crypto_biubiu
+
+> ASTER总共拿了20w出头的币，这价格也不想卖，太垃圾了，币安弃子@Aster_DEX
+
+## 63. Sep 17, 2025 · 9:10 AM UTC · 1968241049186537623#m
+- 链接：https://twitter.com/crypto_biubiu/status/1968241049186537623#m
+- 作者：@crypto_biubiu
+
+> 可以领取了，但是领完空投要10.1才能提出来，只能说真恶心
+
+## 64. Sep 17, 2025 · 7:44 AM UTC · 1968219574945583430#m
+- 链接：https://twitter.com/crypto_biubiu/status/1968219574945583430#m
+- 作者：@crypto_biubiu
+
+> OKX反撸的想吐血，这批号反撸了45个180-190的账号（单号磨损50-60刀），不想说什么了
+
+## 65. Sep 17, 2025 · 7:28 AM UTC · 1968215545398083942#m
+- 链接：https://twitter.com/crypto_biubiu/status/1968215545398083942#m
+- 作者：@crypto_biubiu
+
+> OKX我擦尼玛，加的号全反撸了
+
+## 66. Sep 17, 2025 · 7:15 AM UTC · 1968212138344005912#m
+- 链接：https://twitter.com/crypto_biubiu/status/1968212138344005912#m
+- 作者：@crypto_biubiu
+
+> OKX反撸一批号，最后加了一批小号，余额差一天（这一期余额是交易额：128，余额200）🥲🥲🥲
+
+## 67. Sep 16, 2025 · 10:02 AM UTC · 1967891884434706719#m
+- 链接：https://twitter.com/crypto_biubiu/status/1967891884434706719#m
+- 作者：@crypto_biubiu
+
+> 哥们，不到24小时了，要拉坨大的吗，还不上宣布上BN，又要当弃子了吗
+
+## 68. Sep 13, 2025 · 11:40 AM UTC · 1966829231100621024#m
+- 链接：https://twitter.com/crypto_biubiu/status/1966829231100621024#m
+- 作者：@crypto_biubiu
+
+> 单个的翻倍了，整组的一组550，马上也翻倍
+
+## 69. Sep 13, 2025 · 10:37 AM UTC · 1966813419111411869#m
+- 链接：https://twitter.com/crypto_biubiu/status/1966813419111411869#m
+- 作者：@crypto_biubiu
+
+> 操你妈的傻逼穷鬼项目方，陪你玩了那么久，你整这死出。你真死妈了，质押了那么久加刷那么久，领空投的就几百人，畜生项目方。
+
+## 70. Sep 12, 2025 · 9:47 PM UTC · 1966619725896839536#m
+- 链接：https://twitter.com/crypto_biubiu/status/1966619725896839536#m
+- 作者：@crypto_biubiu
+
+> 半夜睡醒刷会推，发现一个可以小玩的币 $MTP ，概念是币安ALPHA第一个跑路币，买了一些，莫辜负
+
+## 71. Sep 12, 2025 · 6:11 PM UTC · 1966565228931674139#m
+- 链接：https://twitter.com/crypto_biubiu/status/1966565228931674139#m
+- 作者：@crypto_biubiu
+
+> 已经结束了不要在打了，目前有利润，市场链接：magiceden.io/marketplace/col…
+
+## 72. Sep 12, 2025 · 4:30 PM UTC · 1966539929095422320#m
+- 链接：https://twitter.com/crypto_biubiu/status/1966539929095422320#m
+- 作者：@crypto_biubiu
+
+> 和朋友凑钱买了一只 #Moonbirds，准备长拿一段时间。另外又打了一些Moonbirds新的实物周边（打完市值很低，赌一下赋能+后续能上链交易），25U一个号，打满300U。打个能接受归零的仓位！！！
+> MINT链接：moonbirds.collectorcrypt.com…
+>  
+> 月鸟的实物周边官方发的是24小时的OE（具体可以去官推去看@moonbirds），目前打了1MU， 下面是链接web3.okx.com/zh-hans/explore…
+>  
+> #Moonbirds
+
+## 73. Sep 12, 2025 · 2:54 PM UTC · 1966515826200064115#m
+- 链接：https://twitter.com/crypto_biubiu/status/1966515826200064115#m
+- 作者：@crypto_biubiu
+
+> 准备好Spark上面的SATS，以防冷开
+
+## 74. Sep 11, 2025 · 9:31 AM UTC · 1966072140630994971#m
+- 链接：https://twitter.com/crypto_biubiu/status/1966072140630994971#m
+- 作者：@crypto_biubiu
+
+> 刚刚查询了一下，精品号大号有4w个 $ASTER ，精品号4000+ $ASTER 个币平均，小号一个号一个号110个 $ASTER 左右。按照现在和 $APX 一比一兑换现在价格是0.085U，我这批号成本应该在0.03U下方，具体成本记不得了。如果批量查询出来，所有号都有的话应该有个3X左右，等个批量查询吧。
+
+## 75. Sep 11, 2025 · 8:26 AM UTC · 1966055632928440530#m
+- 链接：https://twitter.com/crypto_biubiu/status/1966055632928440530#m
+- 作者：@crypto_biubiu
+
+> ASTER可以检查空投数量了，感觉好少，这个数量
+
+## 76. Sep 11, 2025 · 8:22 AM UTC · 1966054772097908978#m
+- 链接：https://twitter.com/crypto_biubiu/status/1966054772097908978#m
+- 作者：@crypto_biubiu
+
+> 目前我在撸的有OKX的BOOST和FOURMEME。这两个项目我给大家分别说一下我是怎么做的。
+>  
+> OKX的BOOST：
+> 第一期 $LINEA 的大毛，单号200U-300U，大家肯定都看到了，所以第二期应该是非常卷的。而且官方说出了第二期会查女巫，所以第二期要改变一下相应策略。第二期应该以精品号为主，而且要避免同质化交易，最好的策略就是每天找当天的热门币，波段一下就好。而且要注意一点，不要只刷一个币，链有那么多，多刷几条链也是可以的。就当正常打狗就行，其他的具体刷多少就要看个人承受能力了。（我刷的是520U这个档位，即买卖520U，1000U+的交易量，然后链了留了超过500U的余额）
+>  
+> FOURMEME：
+> 这个项目是之前第一期打新我去刷的，刷到现在也差不多有10天了，也是没出第二期打新，不过第二期打新应该是要快来了。这个项目的策略就很简单了，就是创建一个代币，然后其他号交易自己创建的代币就行。如果需要刷精品号就质押100个 $FORM 。（我是每个号每天刷了0.1BNB交易量，质押了100个 $FORM ，一天17分）
+>  
+> 打个广告，刷这两个项目的如果方便的话可以走一下邀请码。
+> OKX：web3.okx.com/join/BIUBIU
+> FOUR：four.meme?code=A6GX96R5XEZR
+
+## 77. Sep 11, 2025 · 7:18 AM UTC · 1966038515478835565#m
+- 链接：https://twitter.com/crypto_biubiu/status/1966038515478835565#m
+- 作者：@crypto_biubiu
+
+> 基本上算是翻倍了，恭喜跟上的兄弟们
+
+## 78. Sep 10, 2025 · 3:48 PM UTC · 1965804677758689443#m
+- 链接：https://twitter.com/crypto_biubiu/status/1965804677758689443#m
+- 作者：@crypto_biubiu
+
+> 这波 $LIENA 跟上的应该舒服了，这波一共刷了12个账户，0.05+卖了4户，0.036卖了一户，0.04链上卖了3户，币安充值了4户，利润应该在3000+。OKX卖的最舒服了，0.05+单号卖了340刀，纯利润应该在300U，剩下的在4户充值到了币安，这波总成本300U，利润应该在3000U的样子，小回一口血。
+
+## 79. Sep 10, 2025 · 2:24 PM UTC · 1965783356752429410#m
+- 链接：https://twitter.com/crypto_biubiu/status/1965783356752429410#m
+- 作者：@crypto_biubiu
+
+> 开奖了，恭喜这15个人，我直接提交你们评论区填写的地址
+> @ysmxx9
+> @wangyan82462512
+> @zaifuchangan
+> @ayuucimoet
+> @koka_youssef
+> @__bboodd__
+> @pjzyq32612514
+> @JonnhEB
+> @xiomi898253459
+> @AugustBecker17
+> @Chinese98004029
+> @0x77888
+> @XTonyma
+> @ysmxx9
+> @HBihsnoi
+
+## 80. Sep 10, 2025 · 12:32 PM UTC · 1965755236875919476#m
+- 链接：https://twitter.com/crypto_biubiu/status/1965755236875919476#m
+- 作者：@crypto_biubiu
+
+> OKX的 $linea 奖励出出来了，基本单号200刀。已经算是超大毛了，另外下期OKX官方人员说了会女巫，具体什么规则还不知道大家注意点，但是主号交易肯定是没问题的。
+
+## 81. Sep 10, 2025 · 11:36 AM UTC · 1965741066721927333#m
+- 链接：https://twitter.com/crypto_biubiu/status/1965741066721927333#m
+- 作者：@crypto_biubiu
+
+> 这是我在圈子所有的钱了，再加上10个刷OKX的账户（每个600U），再加上OKX刷的linea空投，还有个aster的潜在空投。把这些就算1WU来算，重新出发了，以后每个月会记录当月收益，希望有一天资产能大爆发
+
+## 82. Sep 10, 2025 · 10:08 AM UTC · 1965718953055203529#m
+- 链接：https://twitter.com/crypto_biubiu/status/1965718953055203529#m
+- 作者：@crypto_biubiu
+
+> 打了几组404，0.15OKB一张
+> dodo404.fun/mint
+
+## 83. Sep 10, 2025 · 7:34 AM UTC · 1965680360890786055#m
+- 链接：https://twitter.com/crypto_biubiu/status/1965680360890786055#m
+- 作者：@crypto_biubiu
+
+> 紧急通知一条，OKX没刷的不建议强行去刷了，说是要改规则了，拿日常冲狗的钱包正常交易买买自己喜欢的币看一下就好了或者小额活跃一下交易量（消息有待确认，反正我是把交易量降了下来了）
+> 但是自己要有个常用号可以刷刷交易什么的，多号的可以减少交易额或者等待规则出来
+
+## 84. Sep 9, 2025 · 10:45 PM UTC · 1965547154136797495#m
+- 链接：https://twitter.com/crypto_biubiu/status/1965547154136797495#m
+- 作者：@crypto_biubiu
+
+> 凌晨又加了30个OKX的号（钱是大哥提供的，大哥懒得刷，直接打钱给我，到时候直接给分润就好了）。单号放了660刀，刷每日2000U的交易额。
+>  
+> 前两天看我推特的应该是吃到了 $linea 第一期的空投，按照OK目前7w分来算，第一期应该是一分60U，按照我刷的1000U档位交易额就是能拿到180U,已经算是大毛了。
+>  
+> 在一个就是刷的时候我的建议是找当天的热点币去波段交易，这样至少不会亏手续费，如果当天找不到合适的热点币，就刷 $KOGE 这种比较稳定的币固定一下磨损（500U磨损7.5刀一天，1000U磨损15刀一天）。
+>  
+> 我个人认为OK至少能玩个3期左右，所以现在加号不算太晚。如果没刷OK的可以走我的邀请码，可以返还30%手续。（交易的时候自动返还20%，然后如果你刷交易的话，联系我我手动返还10%，共计30%市场上别人一般都是20%）
+> web3.okx.com/ul/joindex?ref=…
+> 单独的邀请码就是：BIUBIU
+
+## 85. Sep 9, 2025 · 12:21 PM UTC · 1965390212286349525#m
+- 链接：https://twitter.com/crypto_biubiu/status/1965390212286349525#m
+- 作者：@crypto_biubiu
+
+> 3x了，乖乖，打进去40 $BGB 出来130 $BGB
+
+## 86. Sep 8, 2025 · 6:02 PM UTC · 1965113487514100180#m
+- 链接：https://twitter.com/crypto_biubiu/status/1965113487514100180#m
+- 作者：@crypto_biubiu
+
+> 推迟到下午1点了，可以睡个好觉了
+> giwa.io/udc2025vip
+
+## 87. Sep 8, 2025 · 4:08 PM UTC · 1965084802123710602#m
+- 链接：https://twitter.com/crypto_biubiu/status/1965084802123710602#m
+- 作者：@crypto_biubiu
+
+> UPBIT要改自己的链了，早晨8点有个倒计时，早起关注一下。不一定是链直接开，也有可能是测试，不管怎么样，先早起一下，新链机会多，而且还是UP这种交易所发的链
+
+## 88. Sep 8, 2025 · 12:54 PM UTC · 1965036021978108363#m
+- 链接：https://twitter.com/crypto_biubiu/status/1965036021978108363#m
+- 作者：@crypto_biubiu
+
+> OK也是赶上了末班车，如果10w积分总量算 1分也有1600个币48U，3档的话单号144U。如果20W积分参与1分有800个币24U，3档的话单号72U,3天磨损25U，只能说多号的麻了。
+>  
+> 顺便问一嘴，那些刷linea刷三年的还不如OKX刷2天，心里作何感想。
+
+## 89. Sep 8, 2025 · 12:21 PM UTC · 1965027817797894485#m
+- 链接：https://twitter.com/crypto_biubiu/status/1965027817797894485#m
+- 作者：@crypto_biubiu
+
+> OK的Boost结果出来了，第一期为 $linea ，最低要求最低 Boost 余额：$10
+> 最低 Boost 交易量：$32
+> 前两天加的号都在第3档，不知道能有多少利润
+
+## 90. Sep 8, 2025 · 6:19 AM UTC · 1964936596417098232#m
+- 链接：https://twitter.com/crypto_biubiu/status/1964936596417098232#m
+- 作者：@crypto_biubiu
+
+> 刷OK的时候大家可以找一下当天的热点币，看看有没有波段的机会，能赚个手续费也可以啊（刷 $KOGE 3天损耗了25U）。我所有的号都是600U的初始，每天会找部分号去刷当天的热点币。
+
+## 91. Sep 8, 2025 · 6:07 AM UTC · 1964933675940007978#m
+- 链接：https://twitter.com/crypto_biubiu/status/1964933675940007978#m
+- 作者：@crypto_biubiu
+
+> OKX的boost要开始了，希望加的这批号应该来得及。没走邀请码的可以走一下邀请码，有20%返佣（后续如果继续增加我会增加比例）。web3.okx.com/ul/joindex?ref=…
+
+## 92. Sep 8, 2025 · 4:21 AM UTC · 1964906981724184886#m
+- 链接：https://twitter.com/crypto_biubiu/status/1964906981724184886#m
+- 作者：@crypto_biubiu
+
+> 期待一切顺利
+
+## 93. Sep 7, 2025 · 3:56 PM UTC · 1964719505286082720#m
+- 链接：https://twitter.com/crypto_biubiu/status/1964719505286082720#m
+- 作者：@crypto_biubiu
+
+> 这个项目是假挖矿，验证都是假的，但是打完市值蛮低的，我就打了一发10w的，剩下的起来就起来吧，不过多参与了
+
+## 94. Sep 7, 2025 · 11:17 AM UTC · 1964649227327533464#m
+- 链接：https://twitter.com/crypto_biubiu/status/1964649227327533464#m
+- 作者：@crypto_biubiu
+
+> SPARK的挖矿具体成本如下，想玩的可以提前做准备工作了。提币从主网提过去或者闪电网络（闪电网络要从交易所提到onekey钱包，在提到spark的钱包，基本秒到，建议从这里）
+
+## 95. Sep 7, 2025 · 10:40 AM UTC · 1964639812272714106#m
+- 链接：https://twitter.com/crypto_biubiu/status/1964639812272714106#m
+- 作者：@crypto_biubiu
+
+> 这个市值就很合理了，打完只是应该在3W市值以内之内。单钱包需要350刀以内的BTC就好了（按照难度8来算的，一次需要31刀BTC来挖取10W代币），注意单钱包限制10次，多准备钱包
+
+## 96. Sep 7, 2025 · 10:17 AM UTC · 1964634188252172418#m
+- 链接：https://twitter.com/crypto_biubiu/status/1964634188252172418#m
+- 作者：@crypto_biubiu
+
+> 按照图片展示的是2-5sats一枚币，总量10亿，意味着要收20BTC（200w刀）起步，那么贪心的吗
+
+## 97. Sep 6, 2025 · 8:48 PM UTC · 1964430564314026195#m
+- 链接：https://twitter.com/crypto_biubiu/status/1964430564314026195#m
+- 作者：@crypto_biubiu
+
+> 深夜加仓了几个OKBoost账户，希望有福报。（刷的记得绑定一下邀请码，没绑定可以绑定一下邀请码：BIUBIU，感谢）
+
+## 98. Sep 5, 2025 · 8:07 AM UTC · 1963876577420394923#m
+- 链接：https://twitter.com/crypto_biubiu/status/1963876577420394923#m
+- 作者：@crypto_biubiu
+
+> 快发把，希望有个福报
+
+## 99. Sep 2, 2025 · 6:36 PM UTC · 1962947756903018665#m
+- 链接：https://twitter.com/crypto_biubiu/status/1962947756903018665#m
+- 作者：@crypto_biubiu
+
+> 这个bgb的狗错过的真可惜（6w-2
+> .2m），钱提过去了，从6w买到18w卡链了死活买不进去，有点倒霉了
+
+## 100. Sep 2, 2025 · 11:23 AM UTC · 1962838683188633980#m
+- 链接：https://twitter.com/crypto_biubiu/status/1962838683188633980#m
+- 作者：@crypto_biubiu
+
+> 参加打记得出ASTER里面卖，打USD1的单号1543.74个
+> asterdex.com/zh-CN/referral/…
+
+## 101. Sep 1, 2025 · 12:22 PM UTC · 1962491206883319901#m
+- 链接：https://twitter.com/crypto_biubiu/status/1962491206883319901#m
+- 作者：@crypto_biubiu
+
+> 说不羡慕是假的😅😅😅
+
+## 102. Sep 1, 2025 · 7:33 AM UTC · 1962418473575010402#m
+- 链接：https://twitter.com/crypto_biubiu/status/1962418473575010402#m
+- 作者：@crypto_biubiu
+
+> 没注意看，在坐车4点开始退款
+
+## 103. Sep 1, 2025 · 5:37 AM UTC · 1962389367986749730#m
+- 链接：https://twitter.com/crypto_biubiu/status/1962389367986749730#m
+- 作者：@crypto_biubiu
+
+> 提前退款了，凌晨12点开始退款
+
+## 104. Sep 1, 2025 · 3:53 AM UTC · 1962363196402242017#m
+- 链接：https://twitter.com/crypto_biubiu/status/1962363196402242017#m
+- 作者：@crypto_biubiu
+
+> 慢慢寻找自己适合的赛道，多加钻研，很难拿不到结果
+
+## 105. Aug 29, 2025 · 1:24 PM UTC · 1961419715060097289#m
+- 链接：https://twitter.com/crypto_biubiu/status/1961419715060097289#m
+- 作者：@crypto_biubiu
+
+> 投降了 ，庄家手里没现货
+
+## 106. Aug 29, 2025 · 11:57 AM UTC · 1961397771724099675#m
+- 链接：https://twitter.com/crypto_biubiu/status/1961397771724099675#m
+- 作者：@crypto_biubiu
+
+> NFT市值5M，要收15M的预售，这钱还是真好圈啊，还是赚不到这个钱
+
+## 107. Aug 29, 2025 · 11:54 AM UTC · 1961396964396048416#m
+- 链接：https://twitter.com/crypto_biubiu/status/1961396964396048416#m
+- 作者：@crypto_biubiu
+
+> $LEVER 下架币概念，目前市值不到1000w，这里可以小赌一手
+
+## 108. Aug 28, 2025 · 8:11 AM UTC · 1960978520248869325#m
+- 链接：https://twitter.com/crypto_biubiu/status/1960978520248869325#m
+- 作者：@crypto_biubiu
+
+> four meme打新开始了，先打的先空投
+
+## 109. Aug 28, 2025 · 12:57 AM UTC · 1960869209325625552#m
+- 链接：https://twitter.com/crypto_biubiu/status/1960869209325625552#m
+- 作者：@crypto_biubiu
+
+> CRO链好金，两个 $CDOG 来回跷跷板，酣畅淋漓的一夜
+> （打个小广告），OKX没走返佣的可以走瞎链接，返佣20%，后续可以提高的话我会提高比例，邀请码web3.okx.com/ul/joindex?ref=…
+> 链上图二绑定
+
+## 110. Aug 27, 2025 · 1:36 PM UTC · 1960697919805514186#m
+- 链接：https://twitter.com/crypto_biubiu/status/1960697919805514186#m
+- 作者：@crypto_biubiu
+
+> 明天four.meme 新一期的打新开始了，单号限制4000刀，超募的，而且WLFI转发了，可以玩一下
+
+## 111. Aug 26, 2025 · 4:04 PM UTC · 1960372794278998460#m
+- 链接：https://twitter.com/crypto_biubiu/status/1960372794278998460#m
+- 作者：@crypto_biubiu
+
+> 40个已经被用完了，又添加了100个名额
+
+## 112. Aug 26, 2025 · 3:43 PM UTC · 1960367517807116347#m
+- 链接：https://twitter.com/crypto_biubiu/status/1960367517807116347#m
+- 作者：@crypto_biubiu
+
+> 发现一个好用的工具@frontrunpro，邀请码BiuBiuyp1AgJlx20（邀请码直接使用就好了）。和官方要了40个免费名额，先到先得，希望能帮助到大家
+
+## 113. Jun 23, 2025 · 12:13 PM UTC · 1937121708881936538#m
+- 链接：https://twitter.com/crypto_biubiu/status/1937121708881936538#m
+- 作者：@crypto_biubiu
+
+> 期待一下，大的要来了
+
+## 114. Jun 5, 2025 · 2:55 PM UTC · 1930639674915393693#m
+- 链接：https://twitter.com/crypto_biubiu/status/1930639674915393693#m
+- 作者：@crypto_biubiu
+
+> $PLUME 的基建越来越完善了
+
+## 115. May 27, 2025 · 11:35 PM UTC · 1927508979057357114#m
+- 链接：https://twitter.com/crypto_biubiu/status/1927508979057357114#m
+- 作者：@crypto_biubiu
+
+> PLUME Staking is coming soon with Plume Genesis! 🪶
+>  
+> Put your PLUME to work to earn real yield and exclusive ecosystem rewards while securing our RWA chain.
+>  
+> Stake, secure, and earn, to power the future of RWAs.
+>  
+> Learn more in the full blog: plume.org/blog/staking
+
+## 116. Jun 5, 2025 · 2:52 PM UTC · 1930638881856290938#m
+- 链接：https://twitter.com/crypto_biubiu/status/1930638881856290938#m
+- 作者：@crypto_biubiu
+
+> 团队一直在努力做事，多关注一下团队
+> $PLUME
+
+## 117. Jun 5, 2025 · 7:33 AM UTC · 1930528337623138782#m
+- 链接：https://twitter.com/crypto_biubiu/status/1930528337623138782#m
+- 作者：@crypto_biubiu
+
+> 市场又进入低流动性的阶段了，不敢想PUMP发币之前市场有事什么样。不过每年这个时候好像都是这样，撑到9-10月份就好了
+
+## 118. May 23, 2025 · 11:32 AM UTC · 1925877546916188312#m
+- 链接：https://twitter.com/crypto_biubiu/status/1925877546916188312#m
+- 作者：@crypto_biubiu
+
+> $B 的前排刚刚都在出货，在洗盘？
+
+## 119. May 23, 2025 · 11:26 AM UTC · 1925876027948986816#m
+- 链接：https://twitter.com/crypto_biubiu/status/1925876027948986816#m
+- 作者：@crypto_biubiu
+
+> WLFI 内幕地址正在链上出售 $B
+> 出点 $B ，给你们举办晚宴
+> bscscan.com/address/0x26aeaf…
+
+## 120. May 23, 2025 · 10:00 AM UTC · 1925854271070699844#m
+- 链接：https://twitter.com/crypto_biubiu/status/1925854271070699844#m
+- 作者：@crypto_biubiu
+
+> 币安ALPHA真给了很多机会，一方面给了撸毛机会，另一方面给了一些玩新币的人的机会。比如昨天的 $RWA 今天拉了50个点，今天 $SOON 0.53左右也有抄底的机会，有时间可以多关注一下币安ALPHA的上币
+
+## 121. May 22, 2025 · 3:34 AM UTC · 1925394769007824910#m
+- 链接：https://twitter.com/crypto_biubiu/status/1925394769007824910#m
+- 作者：@crypto_biubiu
+
+> 只能说这波太不知行合一了
+
+## 122. May 22, 2025 · 12:00 AM UTC · 1925340862923645134#m
+- 链接：https://twitter.com/crypto_biubiu/status/1925340862923645134#m
+- 作者：@crypto_biubiu
+
+> $B 启动了，没卖的也50%了，可惜我太纸手了😂😂😂
+
+## 123. May 21, 2025 · 11:26 PM UTC · 1925332388789592372#m
+- 链接：https://twitter.com/crypto_biubiu/status/1925332388789592372#m
+- 作者：@crypto_biubiu
+
+> 恭喜BTC突破11w大关
+
+## 124. May 21, 2025 · 10:53 PM UTC · 1925324039339614337#m
+- 链接：https://twitter.com/crypto_biubiu/status/1925324039339614337#m
+- 作者：@crypto_biubiu
+
+> 买了点 $B ，等8点之后国人起床看看有没有第二波
+
+## 125. May 21, 2025 · 3:07 PM UTC · 1925206749306634725#m
+- 链接：https://twitter.com/crypto_biubiu/status/1925206749306634725#m
+- 作者：@crypto_biubiu
+
+> BTC~ATH
+
+## 126. May 21, 2025 · 10:49 AM UTC · 1925141905240953158#m
+- 链接：https://twitter.com/crypto_biubiu/status/1925141905240953158#m
+- 作者：@crypto_biubiu
+
+> 复盘 $TGT 操作，整体较为满意。开盘前充分准备，研读白皮书，分析代币流通情况，确认 $TGT 在 IMX 链、BSC 链及交易所上线。我在 BOT 钱包、Gate 交易所和 BSC 上均准备了资金。开盘后，链上价格为 0.15（感觉有点偏高了，就只用BOT狙击了1BNB，结果被夹了亏了70%），Gate 为 0.14，但不久链上价格涨至 0.2+，而 Gate 仅 0.11+。果断在 Gate 以 0.11+ 抄底，并于 0.145 左右清仓。然后就没有再操作了。期待 23 号的 $SOON ，预计也是一次机会。
+
+## 127. May 21, 2025 · 3:18 AM UTC · 1925028511309611030#m
+- 链接：https://twitter.com/crypto_biubiu/status/1925028511309611030#m
+- 作者：@crypto_biubiu
+
+> 今天错过了个对自己来说比较好的机会。第一时间看到 $OM 上线，因团队曾出问题且价格已涨 25%，就没太多想法了。后来看到 $RLY 公告（公布时市值5M，第一时间去找，但因为没在交易所找到 $RLY，所以忽略了，等找到时价格已经来到 0.0023），价格从 0.001 涨到高点 0.003，本可翻倍盈利。虽然错过了机会，但感觉自己在逐渐找回状态，下次争取抓住！
+
+## 128. May 21, 2025 · 2:52 AM UTC · 1925021895059243237#m
+- 链接：https://twitter.com/crypto_biubiu/status/1925021895059243237#m
+- 作者：@crypto_biubiu
+
+> $OM 之前团队那么大问题都能上UP吗？
+
+## 129. May 21, 2025 · 1:22 AM UTC · 1924999301891293211#m
+- 链接：https://twitter.com/crypto_biubiu/status/1924999301891293211#m
+- 作者：@crypto_biubiu
+
+> 通过这两天在市场观察，我意识到自己目前的确跟不上市场节奏，只能通过努力弥补之前的懈怠，希望早日找回状态吧，然后目前我主要工作如下：
+> 1.筛选优质ALPHA项目，进行市场跟踪。
+>  
+> 2.通过多账号操作币安ALPHA，赚取生活开支，并且在ALPHA里面找寻能玩的。
+>  
+> 3.感知市场动态，逐步追逐局部热点。
+
+## 130. May 19, 2025 · 4:07 PM UTC · 1924497247590564338#m
+- 链接：https://twitter.com/crypto_biubiu/status/1924497247590564338#m
+- 作者：@crypto_biubiu
+
+> PLUME主网快上了，估计大所也快上了，关注一下代币
+
+## 131. May 19, 2025 · 11:58 AM UTC · 1924434556066943352#m
+- 链接：https://twitter.com/crypto_biubiu/status/1924434556066943352#m
+- 作者：@crypto_biubiu
+
+> 官方@nockchain改了mini的最低配置，准备先观望一下了，通过群友提示发现多开的京东会员也能退😂😂😂，继续找项目了
+
+## 132. May 19, 2025 · 6:47 AM UTC · 1924356097265250394#m
+- 链接：https://twitter.com/crypto_biubiu/status/1924356097265250394#m
+- 作者：@crypto_biubiu
+
+> 本来想买几台mac mini挖@nockchain的，结果忙活了几个小时一台mac没买到，还倒贴了两个京东会员，离校了大学生都找不到了
+
+## 133. May 18, 2025 · 5:13 PM UTC · 1924151479063150909#m
+- 链接：https://twitter.com/crypto_biubiu/status/1924151479063150909#m
+- 作者：@crypto_biubiu
+
+> 刷了CZ奶的这个链上交易所，马上TGE了，然后组队有加成，可以走我一个号，剩下的可以走自己的，（实测刷1W刀交易额磨损7-8U，磨损挺大的）。
+> 这一期还不卷，明天8点之前这一期结束了，没睡的刷一下，有闲钱的记得质押一下USDF
+> asterdex.com/zh-TW/referral/…
+
+## 134. May 18, 2025 · 4:03 PM UTC · 1924133627035856969#m
+- 链接：https://twitter.com/crypto_biubiu/status/1924133627035856969#m
+- 作者：@crypto_biubiu
+
+> 最近我认真思考后发现，币圈从不缺机会，总有确定性的机会让人抓住。因此，我计划创建一个1万美元的账户，专注记录自己能把握的确定性机会，不参与PVP，同时所有的操作我都会记录当时的操作理由。通过这个账户，我希望逐步培养自己的交易纪律。我会公开账户地址，接受大家的监督。如果遇到非常看好的项目，我也会分享出来，与大家共同探讨。
+> EVM：0xc3ca2d790a86ee2ead9874d24bff3187ed065124
+> SOL：
+> DAMZvg64xzdkjTo6iE8MuDfigLdFKcLVgPvaRkWRGn2N
+
+## 135. May 17, 2025 · 3:09 PM UTC · 1923757821390356783#m
+- 链接：https://twitter.com/crypto_biubiu/status/1923757821390356783#m
+- 作者：@crypto_biubiu
+
+> 最近很长一段时间我都没有在推特说话，也没有更新动态，很多人应该也能想到原因，自从TST那波之后亏损了30w刀之后仅存5W刀，然后通过各种PVP操作又重新打到14W刀左右，然后经历了在羊驼一波亏损了10W刀，又被打回原型。连续两年的亏损（24年亏损了60w刀）让我币圈的操作真是陷入了死循环。投资亏损，心态崩了，情绪摆烂，结果又因为摆烂而焦虑，做出更糟糕的决策，亏得更多。这篇帖子不是想抱怨，而是想认真反省，找出问题的根源，逼自己从这个泥潭里爬出来。
+>  
+> 回顾这段时间的亏损，表面上看是市场波动和运气差，但深挖原因，我不得不承认，自己的问题占了大头。操作完全没计划，经常凭感觉下单，止损点根本不设，简直像无头苍蝇。市场稍微波动，我就止损，然后追涨杀跌，亏得稀里糊涂。亏钱后，我情绪化操作更多了，为了快速回本，看到什么机会都想上，盲目跟单车头钱包、追热门项目、重仓所谓的“内幕”信息，结果越急越乱，越乱越亏，完全是情绪在主导我的操作。
+>  
+> 这段时间最让我难受的是，反复的亏损让我开始自我怀疑。从一开始的能迅速振作，到后面亏得麻木，我开始怀疑自己是不是被市场淘汰了，觉得自己根本不适合做投资。在无尽的自责和怀疑中，我开始摆烂，每天刷视频、打游戏、出去玩，短暂地用多巴胺麻木自己，再也不想复盘亏损，想着亏就亏吧，反正烂命一条，结果亏得更加没完没了。
+>  
+> 写到这里，我意识到不能再这样下去了。短期的亏损其实并不是最可怕的，最可怕的是我让自己一直陷在这种状态里。我必须振作起来，重新定义自己的状态，重新开始！
+>  
+> 这篇帖子是我的新起点，也是对自己的承诺。我不想再被亏损和摆烂绑架，我要对自己负责。投资是一场长跑，情绪和心态是我的装备，我得先把装备修好，才能跑得更远。
+>  
+> 如果你也在经历类似的低谷，希望我们能一起努力，走出困境。如果你有过这样的经历，但已经成功上岸，欢迎分享你的经验，给我一些建议，非常感谢！
+
+## 136. May 16, 2025 · 6:22 AM UTC · 1923262856436277730#m
+- 链接：https://twitter.com/crypto_biubiu/status/1923262856436277730#m
+- 作者：@crypto_biubiu
+
+> 币安我操你妈，拖出alpha了
+
+## 137. May 1, 2025 · 11:16 AM UTC · 1917901027480855017#m
+- 链接：https://twitter.com/crypto_biubiu/status/1917901027480855017#m
+- 作者：@crypto_biubiu
+
+> 中中中
+
+## 138. Apr 30, 2025 · 7:32 AM UTC · 1917482200234352748#m
+- 链接：https://twitter.com/crypto_biubiu/status/1917482200234352748#m
+- 作者：@crypto_biubiu
+
+> 第一次看+4%费率的币
+> $ALPACA
+
+## 139. Apr 30, 2025 · 2:01 AM UTC · 1917398754040373568#m
+- 链接：https://twitter.com/crypto_biubiu/status/1917398754040373568#m
+- 作者：@crypto_biubiu
+
+> 羊驼牛逼爆了，高点跌了近80%，然后底部又反弹四倍，狗庄家里没活人了
+
+## 140. Apr 29, 2025 · 10:40 AM UTC · 1917167191583265240#m
+- 链接：https://twitter.com/crypto_biubiu/status/1917167191583265240#m
+- 作者：@crypto_biubiu
+
+> 终于结束了吗 $ALPACA
+
+## 141. Apr 29, 2025 · 9:47 AM UTC · 1917153704060555533#m
+- 链接：https://twitter.com/crypto_biubiu/status/1917153704060555533#m
+- 作者：@crypto_biubiu
+
+> 这币安要杀人不吐骨头了 $alpaca
+
+## 142. Apr 27, 2025 · 8:27 AM UTC · 1916408894554853385#m
+- 链接：https://twitter.com/crypto_biubiu/status/1916408894554853385#m
+- 作者：@crypto_biubiu
+
+> 奖励已经发放完成请查收
+
+## 143. Apr 27, 2025 · 8:07 AM UTC · 1916403734437040548#m
+- 链接：https://twitter.com/crypto_biubiu/status/1916403734437040548#m
+- 作者：@crypto_biubiu
+
+> 恭喜@0xlucky233
+> @Crypto_shijiu
+> @qfhsj2
+> @xn6165879951233
+> @notsvip
+> @0x01_Cz
+> @madomna8888
+> @yihong159
+> @alvinhoLPK
+> @tuituiWEB3
+> 我将会根据你们提供的bsc地址 发放奖励
+
+## 144. Apr 25, 2025 · 8:56 AM UTC · 1915691276650926362#m
+- 链接：https://twitter.com/crypto_biubiu/status/1915691276650926362#m
+- 作者：@crypto_biubiu
+
+> 好久没做福利了 给大家送点福利fai抽10个人(每人333个fair3）目前价值10刀
+> 1）关注 @Fair3_community
+> @crypto_biubiu
+> 2）一键三连本条推文 随便评论FAIR3+ BSC钱包地址
+> 3）加入 FAIR3 中文社区：t.me/FAIR3_Chinese
+
+## 145. Apr 25, 2025 · 6:26 AM UTC · 1915653633901039859#m
+- 链接：https://twitter.com/crypto_biubiu/status/1915653633901039859#m
+- 作者：@crypto_biubiu
+
+> 恭喜OKZOO @okzoo_app上线币安钱包TGE，OKZOO 寻求成为更新、更大的 DePin；它将自身定位为 AIoT（AI+去中心化物联网）的先驱，致力于构建全球首个大规模的真实世界环境数据网络。希望大家多多关注一下这个项目。
+> （此次币安钱包需要45积分，可能又是一分大毛）
+
+## 146. Apr 23, 2025 · 9:56 AM UTC · 1914981676855468510#m
+- 链接：https://twitter.com/crypto_biubiu/status/1914981676855468510#m
+- 作者：@crypto_biubiu
+
+> gate恢复了，真就每年一次要跑路
+
+## 147. Apr 23, 2025 · 9:43 AM UTC · 1914978364734967866#m
+- 链接：https://twitter.com/crypto_biubiu/status/1914978364734967866#m
+- 作者：@crypto_biubiu
+
+> gate 快提走，提币有问题
+
+## 148. Apr 22, 2025 · 10:08 AM UTC · 1914622276307443806#m
+- 链接：https://twitter.com/crypto_biubiu/status/1914622276307443806#m
+- 作者：@crypto_biubiu
+
+> #Binance  IDO开始了，7点结束
+
+## 149. Apr 20, 2025 · 1:22 PM UTC · 1913946333964361743#m
+- 链接：https://twitter.com/crypto_biubiu/status/1913946333964361743#m
+- 作者：@crypto_biubiu
+
+> 参加一下PLUME的活动吧，PLUME @plumenetwork是一个非常优质的项目，项目方一直很积极的做事，而且有很多靠谱的合作伙伴，期待项目早日上币安吧。
+
+## 150. Apr 20, 2025 · 9:38 AM UTC · 1913890082937033178#m
+- 链接：https://twitter.com/crypto_biubiu/status/1913890082937033178#m
+- 作者：@crypto_biubiu
+
+> BG撸到钱的（撸是撸不走的哈）
+
+## 151. Apr 20, 2025 · 5:33 AM UTC · 1913828286666613048#m
+- 链接：https://twitter.com/crypto_biubiu/status/1913828286666613048#m
+- 作者：@crypto_biubiu
+
+> 出去玩了很久，今天算是第一天正式上班，@SKYAIpro这个项目真是大毛。打满4BNB早打的直接给1500+的利润，（可惜我就打了1BNB）。不过好在今天上班抄底了一波，虽然卖飞了，但是还是吃到了一段，后面有项目回合大家一起分享的
+
+## 152. Apr 19, 2025 · 11:42 PM UTC · 1913740020890100035#m
+- 链接：https://twitter.com/crypto_biubiu/status/1913740020890100035#m
+- 作者：@crypto_biubiu
+
+> AI16Z的新台子 快开了，蹲一下
+
+## 153. Mar 27, 2025 · 2:32 PM UTC · 1905266755037217134#m
+- 链接：https://twitter.com/crypto_biubiu/status/1905266755037217134#m
+- 作者：@crypto_biubiu
+
+> AI 时代下 IP 为王，Aria 将会成为音乐垂直赛道 AI 代理的优质 IP 资产来源
+> AI 模型训练依赖海量文本、图片、视频及多种数据，当算力逐渐被商品化，AI 模型的核心竞争力已从算力转向数据和 IP。
+> @StoryProtocol
+> 生态中的 Aria，正在成为音乐垂类最具潜力的 IP 数据来源。通过收购并代币化 Aespa《Black Mamba》等现实音乐版权，Aria 为 AI 系统与 AI 代理注入具法律合规性、高文化价值的原始资产。 AI 模型需要音乐、图像、文本等海量内容，而 Story 正在建设的 programmable IP 网络，正是让这些内容可追踪、可许可、可交易的基础设施。 当 IP 变成结构化资产流通于链上，Story 将不仅是 Web3 的内容操作系统，更是 AI 数据层的重要支撑。
+> @jasonjzhao
+> @StoryChina_
+
+## 154. Mar 22, 2025 · 4:36 PM UTC · 1903485987139047434#m
+- 链接：https://twitter.com/crypto_biubiu/status/1903485987139047434#m
+- 作者：@crypto_biubiu
+
+> 黑π转发，这含金量应该懂把
+
+## 155. Mar 18, 2025 · 12:00 PM UTC · 1901966860306063810#m
+- 链接：https://twitter.com/crypto_biubiu/status/1901966860306063810#m
+- 作者：@crypto_biubiu
+
+> 王兴的币要跨链bsc了，听一下ama
+
+## 156. Mar 17, 2025 · 7:32 PM UTC · 1901718243825606839#m
+- 链接：https://twitter.com/crypto_biubiu/status/1901718243825606839#m
+- 作者：@crypto_biubiu
+
+> YZi Labs 宣布投资 Plume Network，PLUME是一个专注于 RWA 领域的聚合模块区块链，旨在桥接传统金融与 DeFi，推动 RWA 金融化（RWAfi），等待起飞
+
+## 157. Mar 11, 2025 · 8:29 AM UTC · 1899377032523661600#m
+- 链接：https://twitter.com/crypto_biubiu/status/1899377032523661600#m
+- 作者：@crypto_biubiu
+
+> 币安钱包打新活动，和上次mysheel一样的，这次只质押三个小时去搞一下，套个保就行
+
+## 158. Mar 7, 2025 · 7:46 AM UTC · 1897916771128295438#m
+- 链接：https://twitter.com/crypto_biubiu/status/1897916771128295438#m
+- 作者：@crypto_biubiu
+
+> ODINFUN有点问题虽然官方在澄清，但是先把币提出来吧
+
+## 159. Mar 6, 2025 · 7:22 PM UTC · 1897729616363860161#m
+- 链接：https://twitter.com/crypto_biubiu/status/1897729616363860161#m
+- 作者：@crypto_biubiu
+
+> 留意一手这个，还有Odin的大鹅也要发币@ChainRacingClub（畜生很PUA，大傻逼来的）
+
+## 160. Mar 4, 2025 · 8:14 PM UTC · 1897017828928315774#m
+- 链接：https://twitter.com/crypto_biubiu/status/1897017828928315774#m
+- 作者：@crypto_biubiu
+
+> ODINFUN出大金狗了，@SuperExet交易所下场发币，目前这个市场没有很多行情，大家可以抽点时间去看一下这个平台，目前还是很早期，没玩的可以先来玩一下看看
+> odin.fun?r=7g8hd870wj
+
+## 161. Mar 3, 2025 · 12:06 PM UTC · 1896532662824915038#m
+- 链接：https://twitter.com/crypto_biubiu/status/1896532662824915038#m
+- 作者：@crypto_biubiu
+
+> 建议大家关注一下Story 生态 IP RWA 协议 Aria 收购《Black Mamba》版权并代币化
+>  
+> Story 生态 IP RWA（现实世界资产）协议 Aria 近日宣布，将收购韩国女团 Aespa 热门单曲《Black Mamba》的部分版权，并将其进行代币化。截至目前，ARIA Premiere Launch 的音乐目录已囊括 BLACKPINK、BTS、Justin Bieber、Miley Cyrus、Dua Lipa、Katy Perry、BIGBANG 等多位全球顶级艺人的音乐作品，展现了其在音乐 IP 代币化领域的雄心与实力。
+> @StoryProtocol @jasonjzhao @StoryChina
+
+## 162. Feb 27, 2025 · 9:28 AM UTC · 1895043309309174164#m
+- 链接：https://twitter.com/crypto_biubiu/status/1895043309309174164#m
+- 作者：@crypto_biubiu
+
+> 还是没从 $TST 亏损中走出来，MASK从赚了2w多刀，到浮盈加仓亏损1w多刀离场也是没谁了，这行情真是格局不了一点
+
+## 163. Feb 26, 2025 · 8:18 PM UTC · 1894844480379072649#m
+- 链接：https://twitter.com/crypto_biubiu/status/1894844480379072649#m
+- 作者：@crypto_biubiu
+
+> 毁灭吧，区块链
+
+## 164. Feb 25, 2025 · 8:01 AM UTC · 1894296744067739969#m
+- 链接：https://twitter.com/crypto_biubiu/status/1894296744067739969#m
+- 作者：@crypto_biubiu
+
+> 不装了，刚才给您送外卖的那个人，就是我
+
+## 165. Feb 25, 2025 · 7:25 AM UTC · 1894287604821963229#m
+- 链接：https://twitter.com/crypto_biubiu/status/1894287604821963229#m
+- 作者：@crypto_biubiu
+
+> 操你妈的 我刚抄底
+
+## 166. Feb 25, 2025 · 7:22 AM UTC · 1894286916738244608#m
+- 链接：https://twitter.com/crypto_biubiu/status/1894286916738244608#m
+- 作者：@crypto_biubiu
+
+> 行情结束了，慢慢抄底了一部分B，希望别死
+
+## 167. Feb 24, 2025 · 8:29 PM UTC · 1894122468966895695#m
+- 链接：https://twitter.com/crypto_biubiu/status/1894122468966895695#m
+- 作者：@crypto_biubiu
+
+> 除了龙头都翻倍了多了，记得出本
+
+## 168. Feb 24, 2025 · 7:36 PM UTC · 1894109053011595349#m
+- 链接：https://twitter.com/crypto_biubiu/status/1894109053011595349#m
+- 作者：@crypto_biubiu
+
+> SOL基金会转发新台子time.fun?ref=biubiu137
+> 龙一Ta1wrnVmwJ25RpE4KN7z4YNMvBhSKgi4U6uu9xEtime
+> 其他的
+> qDLcRXivddsMqLHyUskP4MgoaC1FNnDaBHyTtG3time jnwng
+> q7eY2zfSZwHRaGZ4j2XzeZDMGSQcELcWkZSZGdptime pe
+> SgjrtWywmtF1HMDp6MJeR7jpPLYYeVToQqVDGZytime jacob
+
+## 169. Feb 21, 2025 · 5:07 PM UTC · 1892984599518867619#m
+- 链接：https://twitter.com/crypto_biubiu/status/1892984599518867619#m
+- 作者：@crypto_biubiu
+
+> 将军拎着ETH来看你们咯
+
+## 170. Feb 21, 2025 · 4:13 PM UTC · 1892970838225211649#m
+- 链接：https://twitter.com/crypto_biubiu/status/1892970838225211649#m
+- 作者：@crypto_biubiu
+
+> 已经安全提出
+
+## 171. Feb 21, 2025 · 4:11 PM UTC · 1892970323894468768#m
+- 链接：https://twitter.com/crypto_biubiu/status/1892970323894468768#m
+- 作者：@crypto_biubiu
+
+> 我在被盗的那两分钟刚充进去，现在从提币中变成审核中了，还有部分人直接驳回了，先提走吧
+
+## 172. Feb 21, 2025 · 3:54 PM UTC · 1892966088368959612#m
+- 链接：https://twitter.com/crypto_biubiu/status/1892966088368959612#m
+- 作者：@crypto_biubiu
+
+> 君子不立于危墙之下
+
+## 173. Feb 21, 2025 · 3:42 PM UTC · 1892963134479974656#m
+- 链接：https://twitter.com/crypto_biubiu/status/1892963134479974656#m
+- 作者：@crypto_biubiu
+
+> 刚把钱冲进bybit，bybit就出事，真是操他妈了，有钱速度走
+
+## 174. Feb 20, 2025 · 9:10 PM UTC · 1892683391809552483#m
+- 链接：https://twitter.com/crypto_biubiu/status/1892683391809552483#m
+- 作者：@crypto_biubiu
+
+> 2.7U一张，准备睡觉了，白熬夜了（友情提示：很多人都是用促销卡打的，不花钱）
+
+## 175. Feb 20, 2025 · 12:12 PM UTC · 1892547750484471968#m
+- 链接：https://twitter.com/crypto_biubiu/status/1892547750484471968#m
+- 作者：@crypto_biubiu
+
+> 凌晨5点，HYPE的铭文，总量21w张，在ARB上面存USDC，可以等开始看看，不收费可以打
+> 官推@HPSProtocol
+> hyperscriptions.hpspro.io/
+
+## 176. Feb 19, 2025 · 6:20 PM UTC · 1892278140929495438#m
+- 链接：https://twitter.com/crypto_biubiu/status/1892278140929495438#m
+- 作者：@crypto_biubiu
+
+> 应该是这个合约，刚刚加了3.7WSOL，先观望看看
+> 1Qf8gESP4i6CFNWerUSDdLKJ9U1LpqTYvjJ2MM4pain
+
+## 177. Feb 15, 2025 · 12:27 PM UTC · 1890739758839509005#m
+- 链接：https://twitter.com/crypto_biubiu/status/1890739758839509005#m
+- 作者：@crypto_biubiu
+
+> 多看少动吧，阿根廷总统这波又吸走一波市场流动性，等待比较确定性的机会在出手吧
+
+## 178. Feb 14, 2025 · 4:00 AM UTC · 1890249668011127203#m
+- 链接：https://twitter.com/crypto_biubiu/status/1890249668011127203#m
+- 作者：@crypto_biubiu
+
+> 有一种感觉， $TST 已经是这轮BSC的巅峰了
+
+## 179. Feb 13, 2025 · 3:40 PM UTC · 1890063630017986902#m
+- 链接：https://twitter.com/crypto_biubiu/status/1890063630017986902#m
+- 作者：@crypto_biubiu
+
+> 皱皱巴巴卖NFT，节点猴又凑出来5w刀，希望能用这笔钱打一下翻身仗
+
+## 180. Feb 9, 2025 · 2:54 PM UTC · 1888602403752345703#m
+- 链接：https://twitter.com/crypto_biubiu/status/1888602403752345703#m
+- 作者：@crypto_biubiu
+
+> 感谢CZ，之前35w本金出了5W之后，又找朋友拿了30w刀，全部梭哈 $TST ，成功把这部分赚的全部归零。我真是把你妈杀了CZ
+
+## 181. Feb 8, 2025 · 7:26 AM UTC · 1888127231710707980#m
+- 链接：https://twitter.com/crypto_biubiu/status/1888127231710707980#m
+- 作者：@crypto_biubiu
+
+> 去年在最不该玩的时间去玩，今年该玩的时候又在努力，真是种什么因，得什么果
+
+## 182. Feb 7, 2025 · 3:22 PM UTC · 1887884557334282276#m
+- 链接：https://twitter.com/crypto_biubiu/status/1887884557334282276#m
+- 作者：@crypto_biubiu
+
+> Story在本轮加密周期中获得a16z的支持，成为唯一的Layer 1项目，这一事实显示了其市场潜力和投资者信心。与以往的成功案例，如Solana和SUI相比，Story在技术、生态和经济模型上可能具备更强的优势。
+>  
+> 国标案例的延续：Solana和SUI的成功不仅仅在于技术的创新，更在于其强大的生态系统和用户基础的迅速扩大。Story能够吸取前两者的成功经验，通过更有效的社区建设和生态发展来推动其代币$IP的需求上升。
+>  
+> 市场吸引力：随着Web3.0和区块链技术的持续发展，Story的独特卖点在于其潜力巨大的框架结构和灵活性，能够迅速适应市场需求。在这样的环境下，$IP将成为投资者和开发者追捧的重要对象，有望在市场中脱颖而出。
+>  
+> 信任背书：获得a16z的投资不仅是一种资金的支持，更是对其未来发展潜力的信任背书。在加密市场中，投资者对核心团队的信任和支持是代币价值的重要推动力，这将进一步增强$IP的持有者信心。
+> @StoryProtocol @jasonjzhao @StoryChina_
+
+## 183. Feb 7, 2025 · 5:03 AM UTC · 1887728896537485678#m
+- 链接：https://twitter.com/crypto_biubiu/status/1887728896537485678#m
+- 作者：@crypto_biubiu
+
+> 谢谢bn的伟大功能，监测到合约地址，会自动阻拦转账
+> @cz_binance @heyibinance
+
+## 184. Feb 6, 2025 · 9:22 AM UTC · 1887431771773673683#m
+- 链接：https://twitter.com/crypto_biubiu/status/1887431771773673683#m
+- 作者：@crypto_biubiu
+
+> 年过完了，开始努力上班咯
+
+## 185. Feb 4, 2025 · 2:57 AM UTC · 1886609873485607092#m
+- 链接：https://twitter.com/crypto_biubiu/status/1886609873485607092#m
+- 作者：@crypto_biubiu
+
+> 🌟 新动态：Story 与 Incention 合作推出了 AI 驱动的叙事平台 Emergence，由知名编剧大卫·S·高耶（《黑暗骑士》系列）主导。这个平台利用区块链技术，帮助创作者将 IP 资产通证化，实现更好的确权、共享和商业化。
+> 🔗 Incention 提供了一种现代化的 IP 运营模式，IP 持有者、社区和 AI 代理可以无缝协作，通过 AI 工具和可编程 IP 基础设施，实现更智能的授权和收益分配。
+> 🌍 Story 被视为 IP 领域的“英伟达”，致力于解决 AI 时代对优质数据和 IP 的访问与管理问题，推动创意产业的变革。
+> 💡 值得一提的是，Story 是 a16z Crypto 连续三轮领投的区块链项目，是迄今为止唯一一个获得这一殊荣的区块链项目。
+> #AI #区块链 #IP创新 #Story #Incention #Emergence #大卫高耶 #a16zCrypto
+
+## 186. Jan 29, 2025 · 12:12 PM UTC · 1884575271543828752#m
+- 链接：https://twitter.com/crypto_biubiu/status/1884575271543828752#m
+- 作者：@crypto_biubiu
+
+> Plume Network @plumenetwork 是首个完全整合的模块化 L1 区块链，专为 RWAfi 量身打造，让真实世界资产 (RWA) 无缝接入 DeFi。我们已在私有开发网 (devnet) 上吸引 180+ 项目，并提供端到端的代币化引擎和强大的金融基础设施网络。
+> 🔹 为什么选择 Plume？
+> ✅ 最强大的 RWAfi 生态系统
+> ✅ 唯一专为保护万亿级 RWA 资产打造的 L1 区块链
+> ✅ 可组合、兼容 EVM，助力资产轻松接入和管理
+> 相较其他同类项目估值，仍有很大的空间。Plume有望成为这波新政策环境下的RWA新龙头
+> RWAs = Plume，RWA 代币化的未来已来！🔥
+> #Plume #PLUME #RWAfi #代币化 #DeFi #RWAs 🚀
+
+## 187. Jan 28, 2025 · 1:25 AM UTC · 1884050009655742587#m
+- 链接：https://twitter.com/crypto_biubiu/status/1884050009655742587#m
+- 作者：@crypto_biubiu
+
+> 刚刚看了一下 加上BTC，链上其他资产，不知不觉35W左右了，两个月时间时间过得真快啊
+
+## 188. Jan 28, 2025 · 12:13 AM UTC · 1884032117371461937#m
+- 链接：https://twitter.com/crypto_biubiu/status/1884032117371461937#m
+- 作者：@crypto_biubiu
+
+> 除夕送红包了舒服了，睡之前抄底，订的8点闹钟，提前醒了半小时，结果刚卖第一笔就上cb了，然后迷迷糊糊一顿卖，爽
+
+## 189. Jan 27, 2025 · 12:23 PM UTC · 1883853362690769392#m
+- 链接：https://twitter.com/crypto_biubiu/status/1883853362690769392#m
+- 作者：@crypto_biubiu
+
+> 展望 Q1——꧁IP꧂ 元年已经到来。
+>  
+> IPFi（IP Finance）将为 DeFi 的下一个重大叙事。
+
+## 190. Jan 25, 2025 · 1:40 PM UTC · 1883147957110993189#m
+- 链接：https://twitter.com/crypto_biubiu/status/1883147957110993189#m
+- 作者：@crypto_biubiu
+
+> 收到
+
+## 191. Jan 24, 2025 · 4:04 AM UTC · 1882640655035597202#m
+- 链接：https://twitter.com/crypto_biubiu/status/1882640655035597202#m
+- 作者：@crypto_biubiu
+
+> 致敬最傻逼的NFT🫡🫡🫡
+
+## 192. Jan 24, 2025 · 2:15 AM UTC · 1882613159711928829#m
+- 链接：https://twitter.com/crypto_biubiu/status/1882613159711928829#m
+- 作者：@crypto_biubiu
+
+> 红豆简直是所有NFT持续最难看的傻逼
+> $ANIME
+
+## 193. Jan 23, 2025 · 11:24 AM UTC · 1882389034162704775#m
+- 链接：https://twitter.com/crypto_biubiu/status/1882389034162704775#m
+- 作者：@crypto_biubiu
+
+> 感谢币安送来的小年红包🤪🤪🤪，抢到单号6X（送到BASE就麻了），后面抄底，然后高点SELL，收工
+
+## 194. Jan 22, 2025 · 1:27 PM UTC · 1882057562868298108#m
+- 链接：https://twitter.com/crypto_biubiu/status/1882057562868298108#m
+- 作者：@crypto_biubiu
+
+> 我财运极佳，我天生就是富贵命💎
+> 金钱总是向我飞奔而来 🐎
+> 赚钱对我来说很容易📈
+> 我非常感激我的钱，请给我更多😇
+> 我将步入人生中最富裕的时期🧧
+> 我会有非常非常多的钱💰
+> 2025年相信自己一定能拿到大结果🎰
+
+## 195. Jan 22, 2025 · 8:57 AM UTC · 1881989472314920969#m
+- 链接：https://twitter.com/crypto_biubiu/status/1881989472314920969#m
+- 作者：@crypto_biubiu
+
+> Story牛逼
+
+## 196. Jan 22, 2025 · 5:42 AM UTC · 1881940570169602546#m
+- 链接：https://twitter.com/crypto_biubiu/status/1881940570169602546#m
+- 作者：@crypto_biubiu
+
+> Ai众神回归
+
+## 197. Jan 21, 2025 · 5:25 AM UTC · 1881573905275695133#m
+- 链接：https://twitter.com/crypto_biubiu/status/1881573905275695133#m
+- 作者：@crypto_biubiu
+
+> OKX的Jumpstart记得参加，600OKB/0.3BTC打满
+
+## 198. Jan 20, 2025 · 7:01 PM UTC · 1881416660277686694#m
+- 链接：https://twitter.com/crypto_biubiu/status/1881416660277686694#m
+- 作者：@crypto_biubiu
+
+> 买了一些自己喜欢的Ai
+
+## 199. Jan 19, 2025 · 11:16 PM UTC · 1881118493455847778#m
+- 链接：https://twitter.com/crypto_biubiu/status/1881118493455847778#m
+- 作者：@crypto_biubiu
+
+> 睡一觉天塌了
+
+## 200. Jan 19, 2025 · 4:26 PM UTC · 1881015489499210198#m
+- 链接：https://twitter.com/crypto_biubiu/status/1881015489499210198#m
+- 作者：@crypto_biubiu
+
+> GMzuntWYJLpNuCizrSR7ZXggiMdDzTNiEmSNHHunpump
+> 买了点这个stark创始人实名制发推，高点回调50%小赌一手了

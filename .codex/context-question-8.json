@@ -1,0 +1,16 @@
+{
+  "question": "“异动推送”消息的真实来源与可用字段是什么？",
+  "reason": "需要确定应调用哪一个外部接口，以及响应中 alpha/fomo 标签的形态，确保后续关键词筛选逻辑准确。",
+  "analysis": "仓库内没有现成的“异动推送”实现，结合 ValueScan 集成指引推测数据应来自 getFundsMovementPage 接口。实测调用该接口可直接返回包含 alpha/fomo 字段的列表，部分条目为布尔 false，部分为 \"\" 空字符串。该接口无需额外会话，只需携带 Bearer/Access-Ticket。",
+  "evidence": [
+    {
+      "path": "docs/valuescan-integration.md:15",
+      "details": "提到 getFundsMovementPage 返回字段含 alpha/fomo，可作为资金异动榜。"
+    },
+    {
+      "path": "command:curl-getFundsMovementPage",
+      "details": "POST /api/chance/getFundsMovementPage (pageNum=1,pageSize=5) 返回 JSON 列表，条目字段包括 symbol, number24h, percentChange24h, alpha, fomo 等；alpha 可能为 false 或空字符串。"
+    }
+  ],
+  "conclusion": "异动推送可从 ValueScan getFundsMovementPage 获取；需对响应中 alpha/fomo 进行布尔化判断，并结合 symbol、price、gains 等字段构建通知内容。"
+}

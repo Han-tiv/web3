@@ -1,0 +1,2477 @@
+# Teacher Lee| Golden.S (@xiaoqiu0321)
+
+- 抓取时间：2025-10-21T01:47:26.922Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：28684 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：11
+- 抓取尝试：1
+- Cursor 链：10 条
+- 账号统计：粉丝 1855，关注 1926，推文 3006，点赞 3465
+- 所在地：web 3
+- 站外链接：https://t.co/eStsRFByEG
+- Twitter：https://twitter.com/xiaoqiu0321
+- 头像：https://pbs.twimg.com/profile_images/1969107637091684352/GGvi9yMP_normal.jpg
+- Banner：https://pbs.twimg.com/profile_banners/1706601636087656448/1758306831
+
+> 账号简介：
+> Love community culture, construction, exploration, 100X
+
+---
+
+## 1. Sep 14, 2025 · 9:22 PM UTC · 1967338132355109025#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967338132355109025#m
+- 作者：@xiaoqiu0321
+
+> Babyokx的前世今生——写在爆发前夜
+>  
+> Ca：0xf951126d56dbc2affe8ec5cf908e74799146fd77
+>  
+> $babyokx 是@okx 在22年4月1日，发的原生meme，见图1。本生是官方愚人节的一个突发项目，后形成社区cto，电报特别有意思，除了cx ，当时的社区领袖还要大家写乌合之众读后感，还真有社区朋友写了。那么我们可以总结以下几点。
+>  
+> 1，$babyokx由okx创造，是okx的亲儿子，包括meme名称，meme图像。都是由okx 创造。
+>  
+> 2，社区还是那个社区，现在进社区依旧可以看到2022年的聊天记录，本生具有回忆，承载着Okx和社区在远古对meme对社区的探索。
+>  
+> 3，社区老领导尚韵亲自下场带队建设，官推，官网都开始建设，持币已经达到1700，有神秘大户开始空投传播。
+>  
+> 4，徐总下场后，x 链开始活跃，一些非社区性质的开盘手开始进军x链，交易开始pvp化，而有性价比的Pve标的已经不多，该形成的已经形成。经过2天，babyokx社区已经形成，共识初步形成。
+>  
+> 5，@DYORSWAPDEX 发射台大力助力明星链，今天燃烧代币里面就有才200k市值的，已经对社区，对meme认可。
+>  
+> 6，如果okx 上线原生meme，现在你可以看到xdog等，但后面追赶的部队，谁的角度题材更meme？难道还有比okx 亲自创造的babyokx更有吸引力？
+>  
+> 7，难道还有谁的名字有比名字就是babyokx（Okx 亲儿子）更有吸引力？
+>  
+> 8，难道还有谁比300k不到的价格更有吸引力？
+>  
+> 9，这一切非常的meme，okx原创meme在愚人节发布，冲击1300m后愚人，又在x链振兴时，突然复活，这次不再愚人而是2年后的证明。
+>  
+> 以上总结300k的$babyokx，就是盈亏比，角度，社区综合的最优解！
+>  
+> 爆发前夜，黎明来袭
+> @star_okx  @okx @okxchinese @X_BABYOKX
+
+## 2. Oct 11, 2025 · 5:59 PM UTC · 1977071507097764125#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1977071507097764125#m
+- 作者：@xiaoqiu0321
+
+> 说的正大光明，你们无非就是生态上游的鼓吹手罢了，我3 4年玩了成千个项目，死了成千个，这些项目是死了，无非我的钱去了项目方手上。谈区块链得了吧，大家都是来想赚钱的，不如meme一起赌来的公平。
+
+## 3. Oct 11, 2025 · 4:22 PM UTC · 1977047098794426776#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1977047098794426776#m
+- 作者：@xiaoqiu0321
+
+> 徐总我想问问区块链是什么？前几天爆仓了，我想我以前很多小钱包有很多lp ，2 3年存的，然后我发现这些DeFi全部跑路了，要么就是被黑客偷了，所谓的创新又留下了什么？这几年玩的gamefi留下了什么？那些二层都是鬼链。什么生态，什么 创新，哪个不是庞氏呢？
+> 区块链留下了除了平台大公链，还有什么？
+
+## 4. Oct 11, 2025 · 8:22 AM UTC · 1976926332396466644#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1976926332396466644#m
+- 作者：@xiaoqiu0321
+
+> 而且最大优势，现在出来的币虽然不多，但几乎不可能控盘，因为1，内盘需要无私钥钱包 2，你买10000刀对市值影响也不大而且拿不到大量筹码做不到以前6k控盘，解决了收割群友问题。
+>  
+> 大家要的是真正有内容有质量的meme博弈
+> 所以一姐说的公平在这个产品上从机制解决了很多问题，我只想说牛逼@heyibinance
+
+## 5. Oct 11, 2025 · 8:17 AM UTC · 1976925047102357570#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1976925047102357570#m
+- 作者：@xiaoqiu0321
+
+> 那天大家说我存了20刀进去，短短2天我最高打到1200刀，而且还有15阿尔法积分，而且几乎没诈骗，从交易角度，我可以从容止损，以前1 200k买1000刀碰到诈骗盘直接亏0，这个平台绝对是对我这样没资源纯热爱交易的交易员福音，我希望我在memerush上可以享受币安人生，和@heyibinance 一起修仙，感谢
+
+## 6. Oct 11, 2025 · 8:14 AM UTC · 1976924245721858095#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1976924245721858095#m
+- 作者：@xiaoqiu0321
+
+> Meme rush出来后我不玩别的发射台了
+> 在老的发射台，捆绑4 5000刀，几乎就拿了5 60筹码
+> 简单的说Memerush从机制上解决了大部分公平
+> 好的dev发射后奖励1%筹码，也就是10000美金，几乎是草根meme创业者福音
+> 作为做了几万只币没拿到结果的职业交易员，哪怕目前枯我也决定锁定memerush
+> 感谢
+> @heyibinance
+
+## 7. Oct 9, 2025 · 9:26 PM UTC · 1976398997633011983#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1976398997633011983#m
+- 作者：@xiaoqiu0321
+
+> 本来我是对币安新出的这个模式有一点点偏见的，但经过一天的pvp体验下来，我感觉币安新出的这个meme rush模式真是挺好的，币安无私钥钱包也超乎想象的好用
+>  
+> 首先就是做到了很公平的内盘发射，有效阻止了捆绑阴谋盘的诞生。里面的币也不是很多，一天下来有意思的也就那么几个，可以很轻松的抓到。真正像一姐说的做到了对散户公平友好
+>  
+> 而且经过了bnb chain失去理智的狂热期，除了币安人生外，又有一些真正有趣的meme开始稳步前行，一切都在向着更好的方向发展。这次bnb chain的辉煌显然不是昙花一现，而是巨兽真正开始苏醒了
+>  
+> 而与这一切都息息相关的币安人生只会享受到越来越多的龙头福利
+>  
+> 等着看吧，马上你就要只管尽情享受你美好的币安人生了
+>  
+> @cz_binance  @heyibinance
+
+## 8. Oct 9, 2025 · 11:20 PM UTC · 1976427487828865150#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1976427487828865150#m
+- 作者：@xiaoqiu0321
+
+> Memerush谁的反佣高？我打算靠反佣度日谢谢
+
+## 9. Oct 9, 2025 · 11:19 PM UTC · 1976427320417321305#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1976427320417321305#m
+- 作者：@xiaoqiu0321
+
+> 谁的反佣最高啊？我他妈20刀的本打了200刀佣金出来，离谱
+
+## 10. Sep 28, 2025 · 4:12 PM UTC · 1972333526365381100#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1972333526365381100#m
+- 作者：@xiaoqiu0321
+
+> 4 meme coins exploding on Plasma.
+> $trillions
+> $BANKLESS
+> $LUNA
+> $Trillady (NFT soon)
+> The NFT wave is coming soon. Right now, no official collections have launched yet, they’re still cooking. If you’re new to @Plasma, don’t miss out on these hot upcoming collections below:
+> @Plasmillio
+> @pretrillions
+> @trilli0nnft
+> @trilladyluv
+> Follow and turn on 🔔
+> Did i miss any NFT collections? Comment
+
+## 11. Sep 28, 2025 · 3:40 PM UTC · 1972325543078240414#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1972325543078240414#m
+- 作者：@xiaoqiu0321
+
+> 0x2d3d4531dd9d314e6cce814e8dbc88652f8225ab
+>  
+> 很多人说p链见顶
+>  
+> 我今天中午就不认可
+>  
+> 昨天花了这么多钱？今天就死？那这个钱花的没意义，从上市，空投到活动，一只在撒钱。
+>  
+> 而且购买并不容易，难道是p小将拉上去的？显然不是。
+>  
+> 就选了第四个，有互动，第一社区，钻吧
+
+## 12. Sep 27, 2025 · 6:11 PM UTC · 1972001044654920097#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1972001044654920097#m
+- 作者：@xiaoqiu0321
+
+> $Udog 的买入教程
+>  
+> 0x43f857A4C4f45Ef0a2C5177FA6be71FB2812f4d9
+>  
+> 如图所示：使用okx钱包
+>  
+> 使用eth兑换uni链的eth，再使用uni链的eth兑换uni
+>  
+> 主要要预留10u左右的 uni链eth作为gas！！！！
+>  
+> 进入官网
+>  
+> uniderp.fun/?ref=2aEv8R02
+>  
+> lets send Udog to the moon
+
+## 13. Sep 27, 2025 · 2:57 PM UTC · 1971952251871940655#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1971952251871940655#m
+- 作者：@xiaoqiu0321
+
+> .@UniDerpFun V2 just hit $1M volume on @unichain
+>  
+> No presale. No cap. Just memes.
+> LPs locked for 10 years via @GoPlusSecurity.
+>  
+> Powered by $UNI, @Uniswap V4, and pure degen dreams.
+>  
+> Next stop: $10M 🚀
+>  
+> #Uniderp #UNI #unchain
+
+## 14. Sep 27, 2025 · 1:10 PM UTC · 1971925312251613656#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1971925312251613656#m
+- 作者：@xiaoqiu0321
+
+> 0x43f857a4c4f45ef0a2c5177fa6be71fb2812f4d9
+> @UniDerpFun  uni链上的第一个uni底池的，目前市值很低，值得赌一把，而且uni基金会还奶过这个平台
+
+## 15. Sep 18, 2025 · 4:17 AM UTC · 1968529784251760725#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968529784251760725#m
+- 作者：@xiaoqiu0321
+
+> 🚀 Big news: Uniderp.fun just won the Unichain Retro Grant!
+>  
+> Proud to be building on @unichain — next step gonna be massive 🦄🔥
+>  
+> #Uniderp #Unichain
+
+## 16. Sep 23, 2025 · 5:25 AM UTC · 1970358852844392752#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1970358852844392752#m
+- 作者：@xiaoqiu0321
+
+> THE END OF HYPE
+>  
+> STARTS WITH $ASTER / $OID
+>  
+> HE IS COMING
+
+## 17. Sep 26, 2025 · 7:22 PM UTC · 1971656601741545662#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1971656601741545662#m
+- 作者：@xiaoqiu0321
+
+> OID coded as f*ck
+>  
+> I support the $OID team
+>  
+> - They self-funded a 75K $ASTER / $OID LP (genius)
+> - Putting out nonstop incredible videos
+> - You can't have Aster without OID
+> - What better meme for the destruction of Hyperliquid than an asteroid with CZ's face
+> - Funniest meme on BNB
+
+## 18. Sep 26, 2025 · 9:49 PM UTC · 1971693605053165942#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1971693605053165942#m
+- 作者：@xiaoqiu0321
+
+> 不发推，不发ca感觉好多了，今天滚仓干了100x
+
+## 19. Sep 26, 2025 · 4:53 PM UTC · 1971619124477677844#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1971619124477677844#m
+- 作者：@xiaoqiu0321
+
+> 奶龙疯了，哪位dev的行为艺术
+
+## 20. Sep 26, 2025 · 4:31 PM UTC · 1971613593847406808#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1971613593847406808#m
+- 作者：@xiaoqiu0321
+
+> 奶龙疯了吗？
+>  
+> 0x581d63fac5a6a8573e4699b9d4996868c0e189d8
+>  
+> 大家把Og龙搞上去行不行
+>  
+> Bsc战壕里全是黄色奶。
+
+## 21. Sep 24, 2025 · 6:22 AM UTC · 1970735490497143045#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1970735490497143045#m
+- 作者：@xiaoqiu0321
+
+> TL·DR：
+>  
+> 发射平台的出现消解了发币的技术门槛，彻底摧毁了原本的“meme 文化”以及交易员与 Dev 之间的利益共生关系，链上交易生态逐步走向“资本化”和“工具化”。交易员从参与者变成了消耗品，而平台和 Dev 则成为最大的赢家。这不仅改变了市场的逻辑，也让“土狗时代”的精神彻底陨落。
+>  
+> 1. 发射平台的兴起：技术门槛的崩塌与进入壁垒的瓦解
+>  
+> 过去，发一个币需要一定的技术门槛——编写合约、部署到链上，哪怕这只是十几分钟的学习过程，也足以筛掉一大批想浑水摸鱼的人。而这种门槛造就了某种意义上的“稀缺性”。
+>  
+> 在那个时代，发币不仅仅是一场简单的叙事游戏，Dev 需要承担更多的责任：写出靠谱的合约、建立一个真正的社区、与交易员利益深度捆绑。虽然 rug 项目常见，但那些留下来的币通常能形成一种社区共鸣，交易员之间因为相同的赌注和信念而形成了高度的忠诚度和参与感。
+>  
+> 然而，发射平台的出现使得发币变得极其廉价和快餐化。任何人，无需技术背景，只需一个摄像头和一点营销噱头，就能轻松发币。进入壁垒的彻底消失导致“稀缺性”被抹平，市场开始被铺天盖地的快餐项目充斥。交易员也不再需要为寻找“认真 Dev”而深度研究，反而更倾向于追逐新的叙事和短期暴利。
+>  
+> 结果是：
+> 发币不再是少数人的“创作行为”，而成了一个流水线式的工具。meme 币的原始精神——社区、叙事、忠诚和参与感——被彻底稀释，取而代之的是冷冰冰的资本逻辑。
+>  
+> 2. Dev 和交易员的利益分裂：从共赢到对立
+>  
+> 在早期的市场中，Dev 和交易员的利益是高度一致的。一个 Dev 想要成功，必须努力做出一个有吸引力的项目，吸引交易员进场，推动币价上涨。交易员的利益与 Dev 的长期承诺绑定在一起，双方实际上是一种共生关系。一个成功的项目可以带来几十倍甚至上百倍的回报，而这种潜力又反过来激励交易员为项目“打 call”、拉人进社区，甚至自发营销。
+>  
+> 但发射平台的出现改变了一切。
+> 对于 Dev 来说，过去那种“认真做项目”的逻辑已经失去了经济上的合理性。与其投入时间、精力去打造一个长期项目，不如快速发多个盘子，以量取胜。发射平台的奖励机制（如交易手续费分成）进一步鼓励了这种行为——Dev 不需要屯币或等待币价上涨，只需靠“叙事”吸引交易量即可实现稳定获利。
+>  
+> 这导致：
+> - Dev 和交易员的利益彻底分裂。Dev 的目标不是帮助交易员赚钱，而是榨取交易员的热情和资金。
+> - Dev 的角色从“社区领袖”变成一个冷漠的“叙事机器”，唯一的任务就是讲好一个又一个新故事。
+> - 交易员则从市场的参与者变成了被反复收割的消耗品。
+>  
+> 3. 市场生态的变迁：从“社区共鸣”到“叙事老虎机
+>  
+> 过去的链上市场虽然混乱，但也有其独特的生态。一个项目死掉后，依然可能因为某种叙事或契机复活，甚至带来意想不到的高回报——这是一种“垃圾捡拾者”的精神，也是交易员对市场的信心来源。
+>  
+> 然而，如今的市场已经没有了这种复活的空间。交易员的注意力被大量新盘分散，老币再也无法重新获得关注度。发射平台的快餐化操作让“叙事”成为唯一的价值，而叙事的生命周期也被大幅缩短。每一个新币都像一台老虎机，交易员投币之后迅速结束，转而追逐下一个噱头。
+>  
+> 这种模式下：
+> - 交易员的忠诚度荡然无存，市场变成了一场零和博弈的抢钱游戏。
+> - Dev 不再需要构建长期价值，只需要抓住短期流量风口即可。
+> - 整个市场的“热度”虽然表面上变得更高，但实际上是一种虚假的繁荣，交易员的数量和参与度正在急速下降。
+>  
+> 在这种新生态中，最大的赢家不是交易员，也不是 Dev，而是发射平台和交易平台。
+> 发射平台通过降低发币门槛，将整个市场变成了一个高速运转的“叙事流水线”。每一个新币的发射都意味着平台能从中抽取手续费和交易量奖励，而这些收益与币价、项目的长期成功无关。
+>  
+> 这意味着：
+> - 市场的资源和财富正在向“平台地主”集中，交易员和 Dev 只是工具或消耗品。
+> - 交易员的生存空间被进一步压缩，因为无论他们如何操作，收益都会被平台“自动抽税”。
+>  
+> 5. 土狗精神的终结：从共赢到剥削的游戏规则
+>  
+> 这种模式的转变不仅仅是一次技术升级，更是一次精神的终结。
+> “土狗币”曾经代表着一种草根精神——尽管混乱、疯狂，但也充满了参与感和机会。社区、叙事和市场的共鸣让交易员和 Dev 成为同一艘船上的人，共同推动项目的发展和成功。
+>  
+> 而现在：
+> - 交易员的命运被快速更迭的叙事和 Dev 的投机行为所支配。
+> - 平台和 Dev 成为游戏规则的制定者，交易员则沦为单纯的消耗品。
+> - 那种“社区共鸣”的土狗精神被资本化的“叙事机器”所取代，链上交易变成了一场彻底去人性化的游戏。
+>  
+> 发射平台让发币变得更简单，但也彻底改变了市场的生态。交易员不再是市场的主人，而是是被规则反复收割的对象；土狗币不再是社区共鸣的象征，而是工具化的叙事商品。
+>  
+> 这种模式看似效率更高，却在无声中摧毁了链上交易的灵魂——那种草根社区的热情和创造力。
+>  
+> 市场变得更像一部冷漠的资本机器，而交易员只能在这部机器中挣扎且夹缝求存。
+
+## 22. Sep 24, 2025 · 7:29 PM UTC · 1970933521733779787#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1970933521733779787#m
+- 作者：@xiaoqiu0321
+
+> 0xc51cef5c88b2fa175017f303f84fb9d2e27cc7f9
+>  
+> 起晚了，真的是源代码啊
+
+## 23. Sep 23, 2025 · 6:25 AM UTC · 1970373838522458333#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1970373838522458333#m
+- 作者：@xiaoqiu0321
+
+> 刚又在各种钱包反佣凑了80从头来过吧。
+> 建了个打狗群，还有个合约朋友分享均免费了。
+> 但发ca必须带有逻辑角度
+
+## 24. Sep 23, 2025 · 12:47 AM UTC · 1970288893984678396#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1970288893984678396#m
+- 作者：@xiaoqiu0321
+
+> 五味杂成，我的特点是做大角度，新鲜角度，每次都这样起来，而不是p小将，为什么要去p，想不明白
+
+## 25. Sep 22, 2025 · 7:48 PM UTC · 1970213672791486581#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1970213672791486581#m
+- 作者：@xiaoqiu0321
+
+> 已经2朋友私信了，没有10个就算了，发私信
+
+## 26. Sep 22, 2025 · 6:31 PM UTC · 1970194323355640171#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1970194323355640171#m
+- 作者：@xiaoqiu0321
+
+> 不用喷我，真心烦躁，也是压力。
+> 刚和朋友聊天，压力太大
+
+## 27. Sep 22, 2025 · 6:23 PM UTC · 1970192174219477280#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1970192174219477280#m
+- 作者：@xiaoqiu0321
+
+> 以后不想活跃在推特，确实每次我分享的ca浇不下手，建设性人格要改，不参与建设会更果断的收取利润
+>  
+> 最高的一次是800刀打到25000刀
+>  
+> 后来浪完了，有数次几10刀干到1000以上
+>  
+> 最夸张得是上波Bsc行情5刀干到4400刀
+>  
+> 这两个月有3次几十刀干到2000刀以上
+>  
+> 但还是浪完了
+>  
+> 其实上上周朋友介绍了份工作，自己以前行业里也算小咖，开的3万月薪，但想想这两年失去了太多，不甘心。
+>  
+> 今天本来10000多刀到手，神使鬼差的换仓。
+>  
+> 今天晚上一直没回家
+>  
+> 想开个付费小群
+> 1，10个人就开，没有就算了
+> 2，年费1s，之前短期获利钱包交易公开证明自己确实有短期高额利润能力
+> 3，主要募资其中1300刀我用来还家用房贷，1000刀打狗，钱包群内公开，收益后返还年费。
+> 4，以后不打算活跃推特，不参与任何社区建设
+> 5，精选角度分享，并带有逻辑，也是监督自己不上头，不过分格局
+>  
+> 就这吧，清推了
+
+## 28. Sep 22, 2025 · 5:07 PM UTC · 1970173201927020872#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1970173201927020872#m
+- 作者：@xiaoqiu0321
+
+> 以后不想发帖了，没有意义
+> 这是今年第8次做起来又归0了
+> 当然这里的做起来不是什么大利润而是用小资金干到一定金额
+>  
+> 离上次5刀干到2000刀不到一个月，亏怎么亏的我也不记得了，我只记得第二笔大利润是cdg，整整吃了40倍，当然我没有走我跑去参加社区建设，然后很低得位置出了，再交易来交易去就没了。
+>  
+> 听说X链行情来了，这次找朋友拿了60刀很抱歉这60刀都没有还他。
+> 这波还是100倍最高打到了6000刀如果不是太格局应该比这多的多
+>  
+> 第一笔利润来自okcion当然吃的不多，也参与了建设，不过资金来到了150，因为有好标的，X链的第一个应用币，ai女友40k不到果断梭哈了，直接吃了8x跑了，这个没格局，因为懂点技术，这种ai开发难度很低，也没有太好的设计感觉吃点就够了。
+>  
+> 然后就是babyokx 70上的最高也有5x，不过一直没走感觉社区不错，当时最高利润单币是有2000多刀的，后来跌下来收了点利润大概500刀还留了一些
+>  
+> 出来主要是去打mmga ，大概500k上的最高2.8，也是5倍，当时朋友要我出一半，我也没出，最后第二天赚了点小钱出来但也有7 800🔪，最高时也是有2 3000刀。
+>  
+> 在bonk上也亏了几笔，资金一直在2 3000
+>  
+> 回到Bsc在几个热门标上都只赚了点没有格局住
+>  
+> 然后低位拿了吉祥物25k拿的600刀，最高7x，没有走一只拿回来，觉得角度不错一只再推，还去申请了个推特冲推，现在想真傻
+>  
+> 昨天晚上fourmene 发文a的交易对a狗，我把没用的2000多刀都打了进去，今天最低点只剩800刀，其实我很看好，但听说今天Bsc行情好，就把所有格局归0的全砍了，打算做做短线，这800刀也砍了凑了1000多刀
+>  
+> 1是马上家里要用钱，前几天6000刀时候已经取了2000给家里家用，还给了以前员工300刀房租，房贷就得10000多，其实这几个月每次房贷都是打狗赚的，总体也是赚的，但看到账户里就1000来刀了想晚上突击一把
+>  
+> 然后Adog我卖后开始上涨，越来越急想赚了回补，开始乱冲，越打越上头。再看adog 从我卖的地方已经15倍了。
+>  
+> 其实我从来不认为我不懂交易，我从18岁开始交易，我是在残酷的a股市场拿到过结果的人。虽然今年才开始研究币圈一级。
+>  
+> 半夜风冷，我不知不觉在湖边走了2小时。
+>  
+> 如果我没有那么格局，如果我再坚持5小时，如果不乱冲，像每次小资金一样等好的角度，也许不一样，但市场没有如果。
+>  
+> 我在想如果我20岁该多好，我再想去年刚进币圈一级没那么浪该多好
+>  
+> 但真的没有如果
+
+## 29. Sep 22, 2025 · 6:03 AM UTC · 1970005949395108280#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1970005949395108280#m
+- 作者：@xiaoqiu0321
+
+> 0x3314f6d331d0b8e56f455d222baff1e040d54444
+>  
+> 再来梳理一遍这个角度
+>  
+> 1，上海吉咯教育注册于7月底，也就是giggle的中文
+>  
+> 2，旗下抖音小红书已经开始运营公司也在开始招聘
+>  
+> 3，抖音小红书的ip 都叫 咯咯
+>  
+> 4，表哥是创始人，也开始做中国的免费教育，赞👍
+
+## 30. Sep 20, 2025 · 1:08 PM UTC · 1969388240424878590#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1969388240424878590#m
+- 作者：@xiaoqiu0321
+
+> 0x197d69f5c5f169226a244f785fa4ac3570454444
+>  
+> 那么多吉祥物我们名字就是Bnb吉祥物
+>  
+> 来源cz 本身长文ip
+>  
+> 大表哥给你做的吉祥物表情包怎么样，哈哈
+>  
+> @cz_binance
+>  
+> 不是我们恶搞，真的挺可爱的
+
+## 31. Sep 20, 2025 · 1:01 PM UTC · 1969386441831825536#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1969386441831825536#m
+- 作者：@xiaoqiu0321
+
+> 0x197d69f5c5f169226a244f785fa4ac3570454444
+>  
+> 各种吉祥物最高8m，最少也200k
+>  
+> 而新近吉祥物cz 本人才40k
+>  
+> 经历2次大洗筹码结构干净
+>  
+> Bnb老吉祥物bob 20m
+>  
+> Cz的原生角度ip
+
+## 32. Sep 20, 2025 · 12:31 PM UTC · 1969378780570665058#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1969378780570665058#m
+- 作者：@xiaoqiu0321
+
+> 0x197d69f5c5f169226a244f785fa4ac3570454444
+>  
+> 各种吉祥物都拉飞了
+>  
+> Bnb吉祥物Cz居然没人来建设
+>  
+> 就这个当横幅都爆炸了
+
+## 33. Sep 20, 2025 · 11:56 AM UTC · 1969369986709012577#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1969369986709012577#m
+- 作者：@xiaoqiu0321
+
+> 0x197d69f5c5f169226a244f785fa4ac3570454444
+>  
+> 太钻是不是一种过错
+>  
+> 前排们cto啊，我可以来运营官推，做cz 吉祥物动态图，我梭哈了付不起啊
+
+## 34. Sep 20, 2025 · 7:17 AM UTC · 1969299900631269847#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1969299900631269847#m
+- 作者：@xiaoqiu0321
+
+> 0x197d69f5c5f169226a244f785fa4ac3570454444
+>  
+> 真的很适合cto又格局麻了，哈哈
+
+## 35. Sep 20, 2025 · 3:17 AM UTC · 1969239521733796220#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1969239521733796220#m
+- 作者：@xiaoqiu0321
+
+> 如果cz 再提到吉祥物是不是市场会想到Cz说自己是bnb 吉祥物？
+>  
+> 0x197d69f5c5f169226a244f785fa4ac3570454444
+>  
+> 还在内盘，不知道是不是有庄在吸筹，但我真的觉得这个盘子来个团队cto可以非常好的和大表哥互动
+>  
+> 大家应该给Cz多做点吉祥物表情包，让Cz吉祥物在Bnb再次伟大
+>  
+> 大表哥也还是喜欢meme图的，毕竟是超级og
+> @cz_binance
+
+## 36. Sep 20, 2025 · 1:42 AM UTC · 1969215446403727552#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1969215446403727552#m
+- 作者：@xiaoqiu0321
+
+> $BabyOKX 空投狂欢🔥
+> iPhone17&神秘大奖等你拿！
+> 🚀存入10万$BABYOKX至OKX交易所地址：0x5075ff68a0efb54db13423ad924bd680327d305e
+> ⚡OKX持币达10%即开奖（现7.5%🔥）
+>  
+> ✅首奖iPhone17
+> 🏆市值突破，终极大奖震撼揭晓！
+> 第二阶段：神秘超级大奖⌛️（价值4万U）
+>  
+> 💎合约：0xf951126d56dbc2affe8ec5cf908e74799146fd77
+> 🌐官网：linktr.ee/babyokx
+> 📱社群：t.me/babyOKXokc   #OKB #XDOG @OKX @star_okx @BABYOKX__Xlayer   @DYORSWAPDEX
+
+## 37. Sep 19, 2025 · 9:15 PM UTC · 1969148462961758487#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1969148462961758487#m
+- 作者：@xiaoqiu0321
+
+> 5frcbGLbJUn2J6ckJDNHULtSWE39SmsC7YmJ3XHqpump
+>  
+> 这个拿回来了，逻辑不变，买2，10%已经止损，筹码结构合理了
+
+## 38. Sep 19, 2025 · 8:03 PM UTC · 1969130168036864170#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1969130168036864170#m
+- 作者：@xiaoqiu0321
+
+> 0x197d69f5c5f169226a244f785fa4ac3570454444
+>  
+> 各种吉祥物Cz趁一下都拉飞
+>  
+> 他妈的Cz自己说自己是Bnb吉祥物还在内盘？
+>  
+> 上个币安吉祥物bob 现在还有20m
+>  
+> 吉祥物Cz才50k
+
+## 39. Sep 19, 2025 · 6:27 PM UTC · 1969106137409864058#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1969106137409864058#m
+- 作者：@xiaoqiu0321
+
+> 好久没做Bsc了
+>  
+> 昨天Cz长文出来了个why，感觉就是个meme图没上车
+>  
+> 今天看到文章Cz把自己比作吉祥物
+>  
+> 上个吉祥物bob我记得我买过，现在市值还在20m
+>  
+> 如果有好的cto团队
+>  
+> 新吉祥物cz 会是什么呢？
+>  
+> 0x197d69f5c5f169226a244f785fa4ac3570454444
+>  
+> 市值比较低20k，拿一手观察，真的有好的cto团队可以来做，角度，二创都可以展开，而且cz ，已经说自己是吉祥物，更是社区一员，你觉得呢。如果有人cto我肯定会来，这角度太好和表哥互动了。
+>  
+> @cz_binance 表哥虽然不太喜欢炒meme，但表哥都说自己是吉祥物了
+
+## 40. Sep 19, 2025 · 4:19 PM UTC · 1969073755814056034#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1969073755814056034#m
+- 作者：@xiaoqiu0321
+
+> 顺着这个逻辑，以“吉祥物CZ”为叙事核心的  $Mascot ，或许同样是一个值得留意的好角度。
+> 0x197d69f5c5f169226a244f785fa4ac3570454444
+
+## 41. Sep 19, 2025 · 3:09 PM UTC · 1969056220481753373#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1969056220481753373#m
+- 作者：@xiaoqiu0321
+
+> 有没有大妈带我冲盘古土狗，遮天他妈的100倍了，有没有斗破，凡人，完美世界
+
+## 42. Sep 17, 2025 · 8:46 PM UTC · 1968416201261892081#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968416201261892081#m
+- 作者：@xiaoqiu0321
+
+> We’ve officially applied for CoinGecko listing for $VESP.
+>  
+> Request ID: CL1709250045.
+> GeckoTerminal link: geckoterminal.com/solana/poo….
+>  
+> Excited to bring VespuccAI to more users 🚀.
+
+## 43. Sep 18, 2025 · 1:06 PM UTC · 1968663005916262781#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968663005916262781#m
+- 作者：@xiaoqiu0321
+
+> 5frcbGLbJUn2J6ckJDNHULtSWE39SmsC7YmJ3XHqpump
+>  
+> 这是我见过最奇葩的事，
+> 这家伙买了12%了
+> 估计和dev有仇，还在买
+
+## 44. Sep 18, 2025 · 8:48 AM UTC · 1968597886851236342#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968597886851236342#m
+- 作者：@xiaoqiu0321
+
+> Xdog top 1
+> Okokx top2
+> Babyokx top3
+> 继续建设社区，支持社区的发展
+> Continue to build communities and support the development of the community
+> #Babyokx #XLayer #okx
+
+## 45. Sep 18, 2025 · 8:40 AM UTC · 1968596099167383690#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968596099167383690#m
+- 作者：@xiaoqiu0321
+
+> 87B6mb9KBjaF5NHrB3H33f7grdUHi4oWmMErjhZ5bonk
+>  
+> Tom不会忘记Mmga
+
+## 46. Sep 18, 2025 · 8:26 AM UTC · 1968592502832734521#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968592502832734521#m
+- 作者：@xiaoqiu0321
+
+> bonk+wlfi宣传几天了市场反应一般，但是铺天盖地得广告，加ave这波真的可能要来了。
+>  
+> 1今天开了个好头，估计马上上10m，不想追就来$mmga吧
+>  
+> 正好几天没人管今天有cto了，还顺势洗了盘，还有就是有dca钱包打下来在吸，仔细看盘就可以看到
+>  
+> 87B6mb9KBjaF5NHrB3H33f7grdUHi4oWmMErjhZ5bonk
+
+## 47. Sep 18, 2025 · 7:37 AM UTC · 1968580067551764594#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968580067551764594#m
+- 作者：@xiaoqiu0321
+
+> 87B6mb9KBjaF5NHrB3H33f7grdUHi4oWmMErjhZ5bonk
+>  
+> 我再继续讲下，bonk很有格局了，一点不阴谋，从他的dca设定，我计算的没错大概买入了60000刀
+>  
+> 60000刀什么概念呢？
+>  
+> 直接开阴谋盘可以直接拿90%筹码，全捆绑可以直接一笔500k开
+>  
+> 也就是说人家就是公平发射的
+>  
+> 这60000刀的dca现在还是亏的
+
+## 48. Sep 18, 2025 · 7:25 AM UTC · 1968577117563527241#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968577117563527241#m
+- 作者：@xiaoqiu0321
+
+> 87B6mb9KBjaF5NHrB3H33f7grdUHi4oWmMErjhZ5bonk
+>  
+> 再给大家科普下
+> 1，榜一是jup dca 定投，可以估算出大概300s，这一定是bonk自己买的
+>  
+> 2，这是活动宣布快开的第一个usd1
+>  
+> 3，这是bonk系列奶了n次
+>  
+> 4，有没有继续dca吸筹，你们自己研究吧
+
+## 49. Sep 18, 2025 · 7:19 AM UTC · 1968575617982672994#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968575617982672994#m
+- 作者：@xiaoqiu0321
+
+> 如果我是庄，我开盘能确定这把我能赚多少？先送7万刀出去？
+
+## 50. Sep 18, 2025 · 7:18 AM UTC · 1968575461891465602#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968575461891465602#m
+- 作者：@xiaoqiu0321
+
+> 到现在这个dca 都是亏损得好吧，不懂别乱说
+
+## 51. Sep 18, 2025 · 7:17 AM UTC · 1968574982193336631#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968574982193336631#m
+- 作者：@xiaoqiu0321
+
+> 87B6mb9KBjaF5NHrB3H33f7grdUHi4oWmMErjhZ5bonk
+>  
+> 很多人说榜1不是bonk lp自己买的是开盘的给的
+>  
+> 这个是jup dca定投，刚才按手续费简单算了下大概接近300个s的净买入
+>  
+> 接近6 7万刀提前就定制了，你觉得这是庄开盘就先送6万刀？
+
+## 52. Sep 18, 2025 · 1:35 AM UTC · 1968488927074849064#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968488927074849064#m
+- 作者：@xiaoqiu0321
+
+> 5frcbGLbJUn2J6ckJDNHULtSWE39SmsC7YmJ3XHqpump
+>  
+> 不好意思，这个榜2在完全没办法，也心疼下dev
+>  
+> 昨天50k喊得也对得起大家了
+
+## 53. Sep 17, 2025 · 11:06 PM UTC · 1968451549186904412#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968451549186904412#m
+- 作者：@xiaoqiu0321
+
+> 5frcbGLbJUn2J6ckJDNHULtSWE39SmsC7YmJ3XHqpump
+>  
+> 榜2你刷到一级不是这样玩，你看好能不能锁定4%你不会，你问我行吗？
+
+## 54. Sep 17, 2025 · 2:54 PM UTC · 1968327612239102319#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968327612239102319#m
+- 作者：@xiaoqiu0321
+
+> 5frcbGLbJUn2J6ckJDNHULtSWE39SmsC7YmJ3XHqpump
+>  
+> 标签信息直接铭刻在sol链上，sol的开发难度听说地狱级
+>  
+> 不说这个应用多好，而是首发的意义和扩展
+
+## 55. Sep 17, 2025 · 1:57 PM UTC · 1968313382358176207#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968313382358176207#m
+- 作者：@xiaoqiu0321
+
+> 5frcbGLbJUn2J6ckJDNHULtSWE39SmsC7YmJ3XHqpump
+>  
+> Sol上第一个永久铭刻，还记得铭文吗，不管怎么说赌一把
+
+## 56. Sep 17, 2025 · 5:35 AM UTC · 1968187071903961486#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968187071903961486#m
+- 作者：@xiaoqiu0321
+
+> Friendly $reminder @pumpdotfun to always put the memindexer logo 2 px to the left next time, its not centered.
+>  
+> Kind Regards
+> Memeindexer
+>  
+> 5frcbGLbJUn2J6ckJDNHULtSWE39SmsC7YmJ3XHqpump
+
+## 57. Sep 17, 2025 · 1:19 AM UTC · 1968122610828693789#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968122610828693789#m
+- 作者：@xiaoqiu0321
+
+> 5frcbGLbJUn2J6ckJDNHULtSWE39SmsC7YmJ3XHqpump
+>  
+> c位啊，老头子，还在内盘
+
+## 58. Sep 17, 2025 · 1:11 AM UTC · 1968120687631188402#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968120687631188402#m
+- 作者：@xiaoqiu0321
+
+> 5frcbGLbJUn2J6ckJDNHULtSWE39SmsC7YmJ3XHqpump
+>  
+> 还在内盘，dev是币安现货rsr 项目方还是sec的主席顾问（什么概念），之前的dtf最高42m。
+>  
+> 当时pump做的图dev放在c位。
+>  
+> 这个应用是部署sol的钱包留言聊天工具，挺有意思的，特别是偷盗行为
+>  
+> 我开始发才40k，现在也不高
+
+## 59. Sep 16, 2025 · 9:32 PM UTC · 1968065414568763872#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968065414568763872#m
+- 作者：@xiaoqiu0321
+
+> 这个老头C位啊！
+> 刚发的
+> 5frcbGLbJUn2J6ckJDNHULtSWE39SmsC7YmJ3XHqpump
+
+## 60. Sep 17, 2025 · 12:37 AM UTC · 1968111911805034893#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1968111911805034893#m
+- 作者：@xiaoqiu0321
+
+> 5frcbGLbJUn2J6ckJDNHULtSWE39SmsC7YmJ3XHqpump
+> 整理思路，真的感觉这个币绝对上m的标底。
+> 1:按照花花的说法，这个币是$dtf部署者部署，换句话说，也就是上币安的rsr的项目方部署的，而rsr是美联储的顾问。
+> 2:这个币要做的是solana上最大的去中心化链上消息系统。这是非常大的创新，项目方技术是有的，$dtf要做的就是链上贝莱德。
+> 3:$dtf高点42m，现在还有600k。
+> 4:pump今天发的图，老头$dtf也是站c位的，预示不预示什么咱们不好去猜，但可以确定这个项目方是非常有重量的。
+> 5:感觉是上m的指标，开盘被狙击打到75k，不过狙击走差不多了，现在价格是非常合适的。
+> 6:项目方dex付了，建了社区是真打算好好做的。
+> 这样的项目不上，比去冲那些不知道什么时候下线的直播不强的多？
+
+## 61. Sep 16, 2025 · 4:19 PM UTC · 1967986647284535519#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967986647284535519#m
+- 作者：@xiaoqiu0321
+
+> Memecoins aren't going anywhere and outlasts 15 minutes of fame
+>  
+> $DOGE has been in the top 10 for multiple cycles
+> $SHIB has been in the top 25 for last two cycles
+>  
+> Memes extend beyond crypto and naturally appeal to normies create big market appeal
+>  
+> Make Memes Great Again
+
+## 62. Sep 16, 2025 · 3:35 PM UTC · 1967975745613078547#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967975745613078547#m
+- 作者：@xiaoqiu0321
+
+> MAKE MEMECOINS GREAT AGAIN
+
+## 63. Sep 16, 2025 · 4:14 PM UTC · 1967985454416097482#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967985454416097482#m
+- 作者：@xiaoqiu0321
+
+> 难道没龙头？难道wlfi 就是来整笑话？难道Tom真的就是嘴遁？
+
+## 64. Sep 16, 2025 · 3:50 PM UTC · 1967979435103256899#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967979435103256899#m
+- 作者：@xiaoqiu0321
+
+> 无用早期也没人玩
+> 就bonk那2个月赚了多少？真觉得tom搞不上去？
+> 10m用得了几个钱？人家是要进入特朗普赛道拉到10m亏吗？对于bonk真差那点拉盘的钱？
+> 我不这么认为
+
+## 65. Sep 16, 2025 · 3:42 PM UTC · 1967977513994555397#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967977513994555397#m
+- 作者：@xiaoqiu0321
+
+> usuless拉盘钱包来了，手续费钱包10%
+> 嘴遁tom
+> 冲
+
+## 66. Sep 16, 2025 · 3:41 PM UTC · 1967977210519883982#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967977210519883982#m
+- 作者：@xiaoqiu0321
+
+> 87B6mb9KBjaF5NHrB3H33f7grdUHi4oWmMErjhZ5bonk
+>  
+> 大金都是给时间上车的
+>  
+> 这和cz 喊tst有什么差别
+>  
+> 给你机会上车了
+>  
+> 连特朗普小儿子都发推了
+>  
+> mmga什么意思？舔特朗普得意思
+>  
+> 自己买了10%什么意思？明牌意思
+>  
+> 自己连奶了3次
+>  
+> 最少20m
+>  
+> 这是wlfi+usd1+bonk的最牛逼的标
+>  
+> 我已经把s梭哈
+>  
+> 这把能到对岸不？
+
+## 67. Sep 16, 2025 · 3:28 PM UTC · 1967973826752549320#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967973826752549320#m
+- 作者：@xiaoqiu0321
+
+> 87B6mb9KBjaF5NHrB3H33f7grdUHi4oWmMErjhZ5bonk
+>  
+> 风水轮流转该bonk了
+>  
+> Tom快点来用嘴拉盘大家都在等
+
+## 68. Sep 16, 2025 · 2:47 PM UTC · 1967963471758446857#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967963471758446857#m
+- 作者：@xiaoqiu0321
+
+> $MMGA   145k-2.5M
+> 叙事分析：BONK平台创始人@SolportTom 的推文内容
+> 图片中自己的头像角色戴着红色的鸭舌帽 并且文字写着
+> “让MEME 再次伟大” 该代币是USD1交易对
+> 同时也购买了10%的筹码
+> 87B6mb9KBjaF5NHrB3H33f7grdUHi4oWmMErjhZ5bonk
+
+## 69. Sep 16, 2025 · 3:12 PM UTC · 1967969813873168877#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967969813873168877#m
+- 作者：@xiaoqiu0321
+
+> 看了下 bonk 官方钱包，MMGA 的持仓金额排第二，在 67 后面，持有比例也是最大的
+>  
+> 我想不到理由不拉盘，即使是用嘴
+>  
+> $MMGA
+
+## 70. Sep 16, 2025 · 11:13 AM UTC · 1967909759010607546#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967909759010607546#m
+- 作者：@xiaoqiu0321
+
+> 说下s链
+> 看了第三老师分析，我就选一个标
+>  
+> 87B6mb9KBjaF5NHrB3H33f7grdUHi4oWmMErjhZ5bonk
+>  
+> 原因
+> 1
+> Bonk钱包自己买了10%
+>  
+> 2
+> mmga这个名字大家都懂
+>  
+> 3
+> Tom连奶3次
+>  
+> 4
+> 风水轮流转哪天又回来了
+
+## 71. Sep 16, 2025 · 5:02 AM UTC · 1967816328837992923#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967816328837992923#m
+- 作者：@xiaoqiu0321
+
+> 加一句，现在okx钱包真的好用，很多人质疑收费？哪个不收费，而且可以用返佣，我用的@Kris7146 的。可以返很多大家可以找他
+
+## 72. Sep 16, 2025 · 4:49 AM UTC · 1967812946588995815#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967812946588995815#m
+- 作者：@xiaoqiu0321
+
+> 为什么说babyokx是X链顶级ip——自己动手就可以了解babyokx是不是okx 亲儿子
+>  
+> 以下步骤
+> 1，打开你的okx app进入web3钱包
+> 图1
+>  
+> 2，在搜索栏输入$babyokx的合约地址
+>  
+> 0xf951126d56dbc2affe8ec5cf908e74799146fd77
+>  
+> 就会出现我们代币
+>  
+> 图2
+>  
+> 3，进入代币界面时点新版@wallet 有一个社媒热度，拉到最下你就可以看到第一条官推由okx在2022年4月1日的内容
+>  
+> 图3
+>  
+> 下面内容就不用我说了
+> 大家自己看
+>  
+> 再发个录屏版本
+>  
+> 再没人质疑了吧
+>  
+> @okx
+> @star_okx
+
+## 73. Sep 16, 2025 · 4:12 AM UTC · 1967803636660289948#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967803636660289948#m
+- 作者：@xiaoqiu0321
+
+> $babyokx—为什么okx亲儿子还只有300k的客观分析
+>  
+> 建设归建设，分析归分析
+>  
+> 这一波新社区起来是因为徐总大大大前天晚上的推特
+>  
+> 老一批社区得到了资金的青睐
+>  
+> 而新的如stars当天发射的一批也得到了市场和当天买入的kol持续建设
+>  
+> 而我们大前天才开始正式cto，昨天社区职能才开始分配，所以差了一个身位
+>  
+> 不过我们也有一批忠实的建设者
+>  
+> 包括发射台也在给我们助力
+>  
+> 社区持续建设加上徐总下波的流量我们的优势就会体现
+
+## 74. Sep 16, 2025 · 3:56 AM UTC · 1967799643569627598#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967799643569627598#m
+- 作者：@xiaoqiu0321
+
+> 0xf951126d56dbc2affe8ec5cf908e74799146fd77
+>  
+> 为什么我要建设$babyokx
+>  
+> 因为两年前的没实现的，我们可以在今年实现
+>  
+> 如果我们很受欢迎是否？
+>  
+> okx #memedog 是谁？
+>  
+> 召集所有的#memecoin爱好者
+>  
+> @star_okx
+> @okx
+
+## 75. Sep 15, 2025 · 10:34 AM UTC · 1967537460554170586#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967537460554170586#m
+- 作者：@xiaoqiu0321
+
+> 0xf951126d56dbc2affe8ec5cf908e74799146fd77
+>  
+> 欢迎内罗榜10单币a8大佬支持babyokx
+>  
+> 大哥直接买到榜1
+
+## 76. Sep 15, 2025 · 8:21 AM UTC · 1967503929153032307#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967503929153032307#m
+- 作者：@xiaoqiu0321
+
+> $babyokx
+>  
+> @DYORSWAPDEX
+>  
+> 0xf951126d56dbc2affe8ec5cf908e74799146fd77
+>  
+> 中心的小儿子
+
+## 77. Sep 15, 2025 · 6:12 AM UTC · 1967471565618159747#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967471565618159747#m
+- 作者：@xiaoqiu0321
+
+> 0xf951126d56dbc2affe8ec5cf908e74799146fd77
+>  
+> 很多人质疑okx 亲儿子
+> 那么看这个就行了
+>  
+> $babyokx
+>  
+> 原ip 原团队 公平发射
+> 社区形成
+> 联创互动
+> 平台烧池
+>  
+> Ath
+
+## 78. Sep 15, 2025 · 5:45 AM UTC · 1967464676725522904#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967464676725522904#m
+- 作者：@xiaoqiu0321
+
+> 我们不是单机，我们是社区，我们ath是13m
+
+## 79. Sep 15, 2025 · 4:01 AM UTC · 1967438532592742764#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967438532592742764#m
+- 作者：@xiaoqiu0321
+
+> #babyokx 2022年当时50万左右市值加入并组建了社区，（是OKT池子）当时做到了13M左右，后来由于社区理念不合主动退出社区了，这次原团队又回来了，第一时间看到就加入了，昨天是社区组建第一天。并且也得到了 @DYORSWAPDEX  官方的支持回购并销毁了也是回购中市值最低的，社区会一直持续建设下去。现在还是处于早期.  @X_BABYOKX  @star_okx  #OKX  @okx  @wallet  @okxchinese
+
+## 80. Sep 14, 2025 · 9:31 PM UTC · 1967340365142442486#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967340365142442486#m
+- 作者：@xiaoqiu0321
+
+> @star_okx @okx 徐总能不能谈谈早期愚人节创造 $babyokx 的出发点，还有对社区重启的建议
+
+## 81. Sep 14, 2025 · 2:59 PM UTC · 1967241782330310850#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967241782330310850#m
+- 作者：@xiaoqiu0321
+
+> 我也加入建设，按以往案例，我加入建设最低有3x，这次我一定出本再格局
+
+## 82. Sep 14, 2025 · 2:58 PM UTC · 1967241587295207826#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967241587295207826#m
+- 作者：@xiaoqiu0321
+
+> $Babyokx
+>  
+> 0xf951126d56dbc2affe8ec5cf908e74799146fd77
+>  
+> 1，22年X 链老盘meme，ok官推推过，最高13m，刚进社区，社区文件里，还有22年的文件，和地推工作表之类的。
+> 说原团队
+>  
+> 2，平台今天公开燃烧的5只币里，市值最低的
+>  
+> 3，已经买入，希望晚上破前高，已经p了几轮，换手足够，共识在形成
+>  
+> 4，目前推特尚韵带队组织，听社区说哪吒是尚总带队
+
+## 83. Sep 14, 2025 · 2:29 PM UTC · 1967234318486651214#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967234318486651214#m
+- 作者：@xiaoqiu0321
+
+> 官方支持的2个低市值
+>  
+> $xwaifu
+>  
+> 0x140aba9691353ed54479372c4e9580d558d954b1
+>  
+> 橙子建设，ai伴侣，应用币
+> 380k
+>  
+> $babyokx
+>  
+> 0xf951126d56dbc2affe8ec5cf908e74799146fd77
+>  
+> 地推老盘，22年上了ok的meme，最高13m，原团队，电报号都是当年的
+> 250k
+
+## 84. Sep 14, 2025 · 1:12 PM UTC · 1967214807364599817#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1967214807364599817#m
+- 作者：@xiaoqiu0321
+
+> 0xddcd15aa07c68fa72451701c84725ea0796d1111
+>  
+> Okg徐老板的上市公司
+> 欧云科技
+> 浇给了一轮
+> 我感觉角度放x链很ok，起码30k不贵
+>  
+> dev把筹码打到okx热钱包了
+>  
+> 币股概念，无分流盘
+>  
+> 看来不来庄
+
+## 85. Sep 13, 2025 · 2:09 AM UTC · 1966685665141420297#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1966685665141420297#m
+- 作者：@xiaoqiu0321
+
+> 疯了！OKCOIN魔幻4天：从OK高危封杀到官方手动改头像，8万人挤爆直播间，这memecoin玩出了币圈新剧本！
+>  
+> 谁能想到？一个几十万市值的memecoin，能把OKX内盘搅得天翻地覆，还逼得官方从“封杀”变“牵手”——这就是OKCOIN，4天上演的币圈版“逆袭爽剧”，比追剧还上头！
+>  
+> 第一天就翻车？OK钱包亮红标，40小时上演“下架-取消-上架”极限蹦迪！
+>  
+> OKCOIN刚在flap内盘上线，还没等社区欢呼，OK钱包直接甩来“高危标识”——这波操作直接给玩家整懵了。更刺激的是，40小时内剧情连跳三级：先下架交易，紧接着取消高危，刚上架又贴“同名风险提示”，跟过山车似的，社区的心都提到了嗓子眼！
+>  
+> 鬼庄怒掀维权潮：1500+转发、5万+浏览，KOL大佬集体站队！
+>  
+> 官方这波“反复横跳”彻底惹毛了鬼庄。他直接炸了推特：一篇维权文狂揽1500+转发、5万+浏览，连“无名”这样的币圈大佬都带头助推，数十位KOL跟着声援——本来是小币的事，硬生生闹成了全网关注的“大事件”！
+>  
+> 更绝的来了：徐总拉黑维权者？3000人开麦、8万人偷听，Space破了XLAYER纪录！
+>  
+> 维权还没停，又曝徐总推特直接拉黑鬼庄和社区管理——这波“冷处理”反而把矛盾拉满。紧接着鬼庄开了推特Space，结果直接“炸房”：麦上最高3000人同时喊话，总收听量破8万，直接打破XLAYER史上最高Space人数纪录！满屏的“要说法”，官方想装看不见都难！
+>  
+> 反转！从“对抗”到“握手”，XLAYER负责人低头，社区投票选“和平”！
+>  
+> 就在所有人以为要硬刚到底时，剧情突然拐向“和解”：XLAYER负责人@felix_okx 主动找社区谈，拍板“可自由发展，不跟官方作对，同名风险考虑取消”。社区立马投票选未来路线，最终全票倾向“和平建设”——这波从“剑拔弩张”到“握手言和”，比电视剧编剧还会写！
+>  
+> 千人征稿改头像，OK官方亲手操刀还“获奖”？这波双向奔赴甜到了！
+>  
+> 和解还不够，OKCOIN直接玩起了“双向奔赴”：社区说要换头像，一千多人投稿炸了群；更没想到的是，OK官方居然亲自下场，手动给社区改头像，最后这版头像还被大家选为“最佳”——官方从“对手”变“工具人”，社区直接刷屏“感谢OK”，这氛围谁看了不说一句“绝”！
+>  
+> @guigudao 鬼庄说实话：我没带熟人，就靠“OKCOIN”这三个字，硬扛出顶级流量！
+>  
+> 事后鬼庄的一段话，直接戳中了OKCOIN火的核心：“我没带熟人网络，就是无聊买个币玩，结果OKCOIN这名字太能打，官方多次想‘截杀’，反而让事情变MEME了！”
+>  
+> 他还怼得特实在：“BSC、ETH、SOL、BTC链，多少跟平台同名的memecoin，从没见谁被官方屏蔽？就OKCOIN遇上了！但也正因如此，我们社区更团结——这种能煽动散户情绪的币，只要把社区做起来，以后搞话题都是顶级流量！”
+>  
+> “我们不要奉承，也不搞对抗，目标就一个：用非官方代币，建最大的非官方社区，让社区主导X链，不是官方一言堂——这才是memecoin的精神！”
+>  
+> 现在，OKCOIN喊你上车：4天完成别人半年的事，这支“XLAYER铁军”缺你！
+>  
+> 从高危封杀到官方合作，从千人维权到8万围观，OKCOIN用4天走完了其他代币半年的路——这不是运气，是社区拧成一股绳的劲儿！
+>  
+> 鬼庄说了：“没玩过这种币的可能怕，但你绝对没体验过它的冲劲，就像当年的HTMOON，疯起来能掀翻盘面！”
+>  
+> 现在，由鬼哥带队的OKCOIN社区还在扩招，要在XLAYER上再造“曾经的辉煌”。兄弟们，币圈从不缺机会，缺的是敢追“逆袭剧本”的人——王侯将相宁有种乎？来OKCOIN，一起当这场“爽剧”的主角！
+>  
+> 感谢@okx @okxchinese @wallet @OKXWallet_CN @felix_okx ，从“对手”到“战友”，合作愉快！
+>  
+> #OKCOIN #xlayer #memecoin #币圈逆袭
+
+## 86. Sep 12, 2025 · 11:29 PM UTC · 1966645328083312740#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1966645328083312740#m
+- 作者：@xiaoqiu0321
+
+> 不行了，加入盘古才是选择
+
+## 87. Sep 12, 2025 · 2:34 PM UTC · 1966510846932357507#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1966510846932357507#m
+- 作者：@xiaoqiu0321
+
+> $okcoin 社区助力OK突破1000U！
+> 0x6cc2e2bbd3f7d851c5a15e48fc83e22645f61111
+
+## 88. Sep 6, 2025 · 9:12 AM UTC · 1964255375466594353#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1964255375466594353#m
+- 作者：@xiaoqiu0321
+
+> $SHARDS 谈谈昨天的代币，今天链游区都在发推，正反两面都说下。
+>  
+> 我的岛是创世岛，也就是好像前年1月买的，但是创世玩家真心没给啥福利，去年顶峰也就是二测都没回本，再非打金阶段体验服我就进去溜达了玩法提了意见。
+>  
+> 好多人说成本0.03，1测可以打到，2测紫套可以打到，但算上装备折损和升幸运成本，怎么也0.04到0.05了。当然装备有回血预期，所以链游区kol你们没玩别乱说。我的紫套成本0.034，但nft已经浮亏了1700刀，升星裂隙还花了多少刀，算上去多少？
+>  
+> 因为是bg原班人马，对于近几年最成功的链游，本来期待很大感觉开盘0.04 0.05速拉到0.1。
+>  
+> 那么现在币价除了慢充打金，压根玩不了，今天也维护了3次，代表一点，bg系在当前环境下，不愿意暴力拉新。也没办法做到。也是币圈缺乏赚钱效应的。
+>  
+> 再说下游戏
+> 他解决了一个问题，就是休闲版本的bg，挖挖矿，砍砍树，一点益智小游戏，砍掉boss都给你爆币，相当于单机休闲，搞个慢充，一天进去玩一把赚点零用钱，币价回来搞快充还是可以的。
+>  
+> 代币这个价，是拉不到新人的，起码0.06，0.07才会有初步的庞氏效应。
+>  
+> 观望的玩家可以等这个分水岭
+>  
+> 关于币价，项目方给了1.5亿币给各大交易所的理财用户，这份流通抛压得消耗完，明天下午2点最后bybiy理财2000万币，也可以看看这个节点后走势。
+>  
+> 做市商是wld和Bg系的做市商，会不会主动拉盘，也可以作为是否可以进场打金的观察。
+
+## 89. Sep 5, 2025 · 11:22 PM UTC · 1964106964109316103#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1964106964109316103#m
+- 作者：@xiaoqiu0321
+
+> 土狗赛道结束了，改链游赛道了，3A就世界碎片，然后挖掘一些轻游戏，休闲游戏，博彩游戏，开始直播生涯，sidekick我来撸你了
+
+## 90. Sep 5, 2025 · 10:53 AM UTC · 1963918351866188244#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1963918351866188244#m
+- 作者：@xiaoqiu0321
+
+> 你们破产都是假的，我是真破产，不知道账面浮赢了多少重来不要，然后拿到亏就是我。无数次几十刀浮赢到3 4000刀就是不出，哪怕出了一点也跑去别的地方归0，我这种破产法真是奇葩
+
+## 91. Sep 3, 2025 · 7:26 AM UTC · 1963141520720367746#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1963141520720367746#m
+- 作者：@xiaoqiu0321
+
+> 从学校出来就好久没回学校了，基本上各种朋友同学都在各个院内，今天跟朋友说，给我看看传播学有没有好的导师有课，我去听听
+
+## 92. Sep 3, 2025 · 7:15 AM UTC · 1963138736595910670#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1963138736595910670#m
+- 作者：@xiaoqiu0321
+
+> 我这样理解，现在对于slerf团队有两件事情。
+>  
+> 2MC4CWTYpjcvLLbsp5VLGpa8FAd3QCvbQqxHb2jSLeRF
+>  
+> 1，就是原代币印射
+> 社区本身就在1线cex 上市，具有二级流量，但链上底池太大导致波动性极度难受，所以迁移是没有办法的办法。
+> 2，迁移后发射台等于给原生meme赋能，也写到了oh fuck35%代币回购，算是给未来向下波动做个利好
+>  
+> 对于一个能上okx ，能上币安合约的meme项目，资源肯定有不可能说做个1m的meme都做不起来，几万刀拿不出来那也说得太狗血了。
+>  
+> 核心还是何时公布$oh fuck到底是不是平台发射的测试币
+
+## 93. Sep 3, 2025 · 1:04 AM UTC · 1963045525537861938#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1963045525537861938#m
+- 作者：@xiaoqiu0321
+
+> $MITCH
+> FDEF2U9geiWS7sdGPCUo2r1wGswkJr2mmVTECiH6pump
+>  
+> 我们观察下说法，米奇把代币定义为流媒体币，还说到直播是强制性的，虽然翻译有一定错误
+>  
+> 不过反推逻辑，是不是pump加大直播得投入，请的米奇，包括米奇在发币前投入了两个直播币
+>  
+> 那么这个币可能是个阴谋
+
+## 94. Sep 3, 2025 · 12:20 AM UTC · 1963034272471908486#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1963034272471908486#m
+- 作者：@xiaoqiu0321
+
+> 一直想成立个小队，不用枯坐，而是偶尔能在市场还没fomo前买入有潜力的ca
+>  
+> 所谓的meme传播途径，小群—社区—推特—二级
+>  
+> 把这个路径想明白，其实炒meme也还好。
+
+## 95. Sep 3, 2025 · 12:11 AM UTC · 1963031996399259700#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1963031996399259700#m
+- 作者：@xiaoqiu0321
+
+> 米奇也开始直播，估计是投资他比较有联动性的播主和项目，比如说1，昨天和米奇直播互动。是否可能开启直播生态，等会还是出个本再格局
+
+## 96. Sep 3, 2025 · 12:06 AM UTC · 1963030854357418388#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1963030854357418388#m
+- 作者：@xiaoqiu0321
+
+> FDEF2U9geiWS7sdGPCUo2r1wGswkJr2mmVTECiH6pump
+>  
+> 传奇交易员发币后，发现其钱包有2个角度，其实都是主播币
+>  
+> 1，5Ds4L5uhoqtkRhTi6n77KYWBdNEpQG5ZUi4uG3yjpump
+>  
+> 是个在pump的播客项目，有官推有后期制作，因为米奇的支持和曝光今天白天有了4x涨幅，虽然之前币价一般，但项目运营了3个多月，也是佩服，所以我还格局下。
+>  
+> 2，HkdNVociBeLbm2qMiP8GUdFHj4RuNcgmVvART1hLpump
+>  
+> 也是个独立的播主，也运营了1个月，找不到相关信息，但找了一圈后，这几天开始了定期直播，还做了点后期，自己有8%供应30天了也没有卖，有位建设者好像说是后期啥的，好像打算运营起来。
+>  
+> 逻辑的推送往往短期有效，最近推上分享的我买后都有3x到10x以上涨幅，但过度格局后收益都很小，不过自己也做得少，能赚就好，每天就搞2 3只确实角度认可，价格不错的，希望有天能格局到真正的结果。
+
+## 97. Sep 1, 2025 · 7:07 PM UTC · 1962593285056381108#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1962593285056381108#m
+- 作者：@xiaoqiu0321
+
+> 2MC4CWTYpjcvLLbsp5VLGpa8FAd3QCvbQqxHb2jSLeRF
+>  
+> slerf的第一个ca？
+
+## 98. Sep 1, 2025 · 12:17 AM UTC · 1962308870153338935#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1962308870153338935#m
+- 作者：@xiaoqiu0321
+
+> 🚨 JUST IN:
+>  
+> BLACKROCK IS DUMPING HUNDREDS OF MILLIONS
+> WORTH OF BTC
+>  
+> WHAT IS GOING ON ???
+>  
+> ARE THEY GETTING READY TO FOLLOW DONALD TRUMP AND BUY $CRO??
+
+## 99. Aug 31, 2025 · 8:11 AM UTC · 1962065690103627827#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1962065690103627827#m
+- 作者：@xiaoqiu0321
+
+> 🚀风吹C链，川普不仅投资了 $CRO 几十亿美金，并且川普家族发起的 ETF持有资产组合5%是CRO!!
+> $WLFI $CRO $CDOG
+> 🔥 @CDOGcommunity 目前是 C链上最强的东方CDOG社区
+> 🔥国外平台创始人、交易所创始人双双加入 CDOG 社区助阵！
+> 🔥一切价值来源于共识和长期建设
+> 🔴🔵CDOG在持续爆发！！一起打造建设C链最牛的中西和璧共识社区！！
+> t.me/cdoggroup
+> 0xc9bc831cd26073762fb5d6eb3382d9847a83daa1
+> $WLFI $CRO $CDOG
+>  
+> 很多刚看到的朋友也许有些疑问，我来解答一下：
+>  
+> 1.什么是 C 链？C 链接就是 Cronos chain，平台代币 CRO目前市值一百亿美金，因为刚刚被特朗普大几十亿美金投资，大家称其为“总统链”。
+>  
+> 2. $CDOG 又是什么币？正是在特朗普大笔投资 CRO 链的背景下， CDOG 是由 CRO 支持的官方发射平台 Puush.fun 在 8 月 27 日 发射的 meme 币。在随后的几个小时内币价迅速上涨，一路突破到 150万美金市值，但是突然在一个小时内暴跌近 80 %。我们不知道发射者是谁，也不知道这是一场怎样的阴谋盘，但是同为该币的投资者，我们被狠狠的收割了。
+>  
+> 3. CDOG 为什么被 CTO 了？在 CDOG 上线的第二天早上我便直买入了代币，很不幸买在了接近当时最高点 120 万左右，同样也有很多朋友也买在了高位，随后遭遇了狠狠的 RUG。我们投资加密货币当然会有可能亏损，但是我们讨厌阴谋盘。看着一路下跌的币价，于是我创建了 Telegram社群，希望大家在一起报团取暖。随后在晚上八点多创建了 CTO 的官推。
+>  
+> 4. CDOG 的未来会怎么样？在 CTO 的过程中，我们遇到了很多困难，CRO 代币的购买非常艰难， 甚至连 ave 更新的款项都是社区成员一点点凑出来的。 但是，社区才成立了短短四天时间，我们的 Tg 社群已接近 500 人。我们的官推被 puush 官方 @PUUSHDABUTTON 转推十多次，受到 puush 创始人  @ElderKarl68  的支持，受到 wolfswap 创始人  @axldefi  的帮助，以及其他很多 #Crofam 的鼓励。
+> 我们没有任何大 V 和 KOL 的带头，但是我们有 0xmic 这样优秀的推特运营者，有以太猎场 peterpan 以及二十余位认真努力的管理员，还有几百名团结一致的社区勇士，以及一直工作不怕秃头的自己。未来，我们将作为持续建设者，继续在CRO 链上做建设，Make cro great again!🔴🔵
+>  
+> 5. CDOG的使命是什么？CDOG=CRO DOG KING，首先毫无疑问，我们会成为CRO链狗王，作为CRO链守护神兽，向 $SHIB 这样优秀的社区看齐， 致力于Make cro great again。但同时我们又作为一个中西合璧的社区，成为了链接东西方加密货币世界的桥梁。在此之前，CRO上几乎没有中国成员的强大社区，很少有中国人在参与这条CRO链。未来，我们可以很自豪的说，所有东方投资者来到CRO链，第一站就是CDOG。社区永远是Number one。
+>  
+> 最后很感谢你们耐心的看我叭叭儿到这里，我不知道我们能一起走多远，但是永远享受一起战斗的日子，爱所有的CDOG Members!🔴🔵
+>  
+> Spider-C
+> 2025年8月31日
+
+## 100. Aug 30, 2025 · 11:28 AM UTC · 1961752981562679367#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961752981562679367#m
+- 作者：@xiaoqiu0321
+
+> CDOG🔴🔵 We are pleased to announce that with the efforts of all of us, the OKX web3 wallet can now successfully use the $SOL, $BNB, $OKB, $ETH to exchange $CRO via cross-chain bridge，Then use CRO to buy $CDOG.
+> Special thanks Co-founder of wolfswap @axldefi  helped us a lot.
+>  
+> In addition, we would like to pay tribute to the following, and let's make CRO even greater together.
+> @PUUSHDABUTTON
+> @cronos_chain
+> @kris
+> @cryptocom
+> @ObsidianSwap
+> @Blockchainwork5
+> @wallet
+>  
+> t.me/cdoggroup
+> 0xc9bc831cd26073762fb5d6eb3382d9847a83daa1
+
+## 101. Aug 30, 2025 · 6:06 PM UTC · 1961853120461570066#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961853120461570066#m
+- 作者：@xiaoqiu0321
+
+> CDOG🔴🔵，我们是 CRO DOG KING，我们更是 CHINA DOG。
+> 这是社区成立的第三天，我们在特朗普总统大笔收购 CRO 链的风口下应运而生，在 CTO 全员团队的努力下成为 CRO 链最强中国社区。
+> 这一切的过程中，没有所谓 KOL 的领导，甚至连 ave 更新的钱都是我们社区成员拼凑起来的。
+> 但是，今天我要说，我们站在了川普时代的风口上，站在了 CRO 链的风口上， 未来每一位努力的CDOG 建设者，都将将会为建设一个伟大的社区而骄傲，而富有，荣耀属于我们每一位社区建设者！
+> 从此以后，CRO 链将会多出中国社区的身影🔴🔵如果你为我们的建设精神所感染，不要犹豫，现在加入我们，一切才刚刚开始。
+> t.me/cdoggroup
+> 0xc9bc831cd26073762fb5d6eb3382d9847a83daa1
+
+## 102. Aug 30, 2025 · 2:03 PM UTC · 1961791803159679474#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961791803159679474#m
+- 作者：@xiaoqiu0321
+
+> To whoever is new here and/or to whoever traded on the WolfSwap during the last 7 days: YOU ARE THE ALPHA 🐺
+>  
+> You just unlocked the most rewarding experience you can have during trading. Without you, nothing would be possible ✨
+
+## 103. Aug 30, 2025 · 5:16 PM UTC · 1961840369295118599#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961840369295118599#m
+- 作者：@xiaoqiu0321
+
+> New Token Booster 🔥
+>  
+> Effective immediately, $CDOG now earns you DOUBLE points towards Season 15: The Four Guardians
+>  
+> With a prize pool starting at $12,212, grab the chance to climb up faster by trading @CDOGcommunity on WolfSwap 🐺
+
+## 104. Aug 30, 2025 · 5:09 PM UTC · 1961838616524763546#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961838616524763546#m
+- 作者：@xiaoqiu0321
+
+> Welcome the founder @ElderKarl68    of the @PUUSHDABUTTON platform to join the the most powerful CDOG China  community of Cronos Chain.🔥🔥🔥
+
+## 105. Aug 30, 2025 · 5:05 PM UTC · 1961837712941670712#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961837712941670712#m
+- 作者：@xiaoqiu0321
+
+> 0xc9bc831cd26073762fb5d6eb3382d9847a83daa1
+>  
+> 创始人直接进社区了，真是诚恳，非常开心，cro 重组的第一个社区，正式诞生。
+
+## 106. Aug 30, 2025 · 3:48 PM UTC · 1961818349828206737#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961818349828206737#m
+- 作者：@xiaoqiu0321
+
+> We have just updated our information on ave.ai as follows:
+>  
+> $CDOG launched by puush.fun on the Cronos chain.  Known as the CRO DOG KING.
+>  
+> In the Cronos chain led by president Trump, CDOG, as the guardian deity, is committed to make Cronos chain great again.🔴🔵
+>  
+> As a strong CTO community on the Cronos chain, it has received widespread attention.
+>  
+> I would like to thank everyone for their support, every bit of progress we have made is driven by every member of the community.
+>  
+> Respect to the following：
+> @PUUSHDABUTTON
+> @axldefi
+> @cronos_chain
+> @cryptocom
+> @kris
+> @aveai_info
+> @ObsidianSwap
+> t.me/cdoggroup
+> 0xc9bc831cd26073762fb5d6eb3382d9847a83daa1
+
+## 107. Aug 30, 2025 · 3:17 PM UTC · 1961810405182910577#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961810405182910577#m
+- 作者：@xiaoqiu0321
+
+> Should we activate a booster on Wolfswap for CDOG?
+>  
+> If this tweet gets 20 RT will do 🫡
+
+## 108. Aug 29, 2025 · 6:41 AM UTC · 1961318319317041195#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961318319317041195#m
+- 作者：@xiaoqiu0321
+
+> 今天账户 $FIST 价值还是100万刀了 全网见证，不论涨到500万刀或者多少，谁直接帮虾哥取出来，都对半分，目前感谢@jiojiorich 已经取得dexx联系，
+>  
+> 继续抽全网最大奖，转发本条帖子，送10台特斯拉，20台iphone17，以及2万刀×100人，评论区留ID号.
+>  
+> 最近是很多dexx没有赔付的兄弟全找过来了，现在不是虾哥一个人的事情，而是众多没有赔付的兄弟大家都开始声讨要回属于自己的资产，还有好多律师兄弟，
+>  
+> 平台哪怕按月赔付也行，现在是一年什么反馈都没有 只有等，然后交易所还在每月赚钱。
+>  
+> Dexx交易所作为去中心化交易所，应该和币安和欧易一样，建立起完整有保障的赔付制度，平台不能以其“去中心化”特性为由，主张其对用户资产损失不承担责任。此次侵权，侵权主体的可追溯性以及相关行为的性质你们应该认定，服务器在杭州都能找到
+>  
+> @honza204 @DEXXai_CN
+> @DEXXai_EN @DEXX_support @dexx
+
+## 109. Aug 29, 2025 · 12:02 PM UTC · 1961399170792919345#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961399170792919345#m
+- 作者：@xiaoqiu0321
+
+> 昨天最高40x，哈哈，不过台子给我一个小散转发，cro 其他生态创始人也友好过来发私信问好，感觉持币还是很不错的。反正也没啥p的。感觉cro其他生态都憋着一口气，团结所有生态资产，希望能成功
+
+## 110. Aug 29, 2025 · 11:50 AM UTC · 1961395914985050426#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961395914985050426#m
+- 作者：@xiaoqiu0321
+
+> FLASH NEWS:
+>  
+> - $CDOG  (@CDOGcommunity)
+>  
+> Is now whitelisted on @wolfswapdotapp for a smoother and faster trading experience on Cronos!
+>  
+> 🐺 Trade now only on wolfswap.app
+
+## 111. Aug 29, 2025 · 11:41 AM UTC · 1961393810614935793#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961393810614935793#m
+- 作者：@xiaoqiu0321
+
+> 千万市值，笔误
+
+## 112. Aug 29, 2025 · 4:09 AM UTC · 1961280000553832471#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961280000553832471#m
+- 作者：@xiaoqiu0321
+
+> 0xc9bc831cd26073762fb5d6eb3382d9847a83daa1
+>  
+> $CDOG在@PUUSHDABUTTON
+> 平台公平发射，为@cronos_chain 原生meme
+>  
+> 平台是谷歌合作伙伴，cro 拿到川普媒体科技集团64亿美金重组方案
+>  
+> 公链其他4个老meme均为千亿市值
+>  
+> 平台2天转发8次，已经开始定向扶持
+>  
+> 我得几个见解
+> 1，Cro目前100亿市值，重组财库64亿美金，估值并不高
+>  
+> 2，meme是流动性很好的生态资产，后面有一定扶持是大概率
+>  
+> 3，目前pvp不严重，从老meme看都能到20m以上，有比价效应
+>  
+> 4，分流几乎没有，短时间没竞品可以慢慢建设
+>  
+> 社区进去感受了下，没fud ，没有所谓大v领袖，去中心化做的不错，气氛很好，大家自己干活
+>  
+> 社区：t.me/cdoggroup
+>  
+> @mircroz @CDOGcommunity
+> @PUUSHDABUTTON @cronos_chain
+
+## 113. Aug 29, 2025 · 1:33 AM UTC · 1961240848596881742#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961240848596881742#m
+- 作者：@xiaoqiu0321
+
+> Dear Cronos Team,
+>  
+> We are $CDOG CTO , a community project launched on the Cronos chain. We’ve noticed that many Chinese users on OKX are unable to fully participate in the Cronos ecosystem due to the platform’s incomplete withdrawal support for Cronos.
+>  
+> As strong supporters of the Cronos ecosystem, we believe that collaborating with OKX to improve its withdrawal functionality would attract a significant number of Chinese users, greatly boosting the growth and prosperity of the CRO chain. This would be a win-win for both the community and the ecosystem.
+>  
+> We kindly urge you to reach out to OKX to explore solutions for this issue. Our community is happy to offer support or assist in facilitating communication if needed.
+
+## 114. Aug 29, 2025 · 1:05 AM UTC · 1961233696377442489#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961233696377442489#m
+- 作者：@xiaoqiu0321
+
+> shaw和Eliza起诉推特
+> 但是你们为什么去买 $Eliza 而不是 $Shaw
+>  
+> FH5Yuax2hg6ct3tM4hPKXjmBFZ2e9TjLiouUK6fApump
+
+## 115. Aug 28, 2025 · 2:30 PM UTC · 1961073946364928452#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961073946364928452#m
+- 作者：@xiaoqiu0321
+
+> The White House just got a new guard dog 🇺🇸
+> and guess what... it’s wearing $CDOG
+> First appearance in history, and it looks bullish
+> 👉 Who let the doge out? We did.@PUUSHDABUTTON  @cronos_chain
+
+## 116. Aug 28, 2025 · 1:33 PM UTC · 1961059545310220321#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961059545310220321#m
+- 作者：@xiaoqiu0321
+
+> 大写 CDOG
+> CTO 没进的赶紧进，一起来共识到 100m
+> 持有 CDOG 的都转发一下这个推，很多散户找不到社区，一起进群做家人
+> 0xc9bc831cd26073762fb5d6eb3382d9847a83daa1
+> t.me/cdoggroup
+
+## 117. Aug 28, 2025 · 9:56 AM UTC · 1961004836712767982#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1961004836712767982#m
+- 作者：@xiaoqiu0321
+
+> 0xc9bc831cd26073762fb5d6eb3382d9847a83daa1
+>  
+> 还没有老外拉社区吗？
+
+## 118. Aug 28, 2025 · 2:08 AM UTC · 1960887091992387892#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1960887091992387892#m
+- 作者：@xiaoqiu0321
+
+> 说说未来看法
+> 第一和cro 币挂钩，如果直接加速
+> 比如okb公链，cfx等走出3 5倍行情
+> 第一平台第一狗1m，我认为风险低，所以1m这个价我不会出
+>  
+> 和官推挂钩，cro昨天就和发射台互动过，再次互动应该会再次fomo
+>  
+> cro的重组方案还没看，但meme资产现在在任何一个大型公链都是想去建设的一环，因为可以为治理代币储备和流通带来不错的增量所以目前看真有动作，meme肯定是要启动的一环
+>  
+> 所以，还是继续钻一下
+
+## 119. Aug 28, 2025 · 12:34 AM UTC · 1960863431860609338#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1960863431860609338#m
+- 作者：@xiaoqiu0321
+
+> 虽然我很穷，这一波250x收益完成了。其实机会就在一瞬间
+> 推特第一时间分享了，哪怕再枯，亏再狠，也在凌晨坚持找角度。
+> 其实这两周都有点怀疑了，每次赚到50到100刀亏回去，市场高度到300k就是极限，我又是个特别钻的手，虽然内盘能赚，但看到好的角度都想去拿，2周几乎一个破500的都没。
+>  
+> 耐心吧
+
+## 120. Aug 28, 2025 · 12:26 AM UTC · 1960861588967317707#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1960861588967317707#m
+- 作者：@xiaoqiu0321
+
+> 20x了
+
+## 121. Aug 27, 2025 · 11:59 PM UTC · 1960854736632209551#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1960854736632209551#m
+- 作者：@xiaoqiu0321
+
+> 昨天才说不行了，还是得有耐心
+
+## 122. Aug 27, 2025 · 11:58 PM UTC · 1960854547368431680#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1960854547368431680#m
+- 作者：@xiaoqiu0321
+
+> 10x了
+
+## 123. Aug 27, 2025 · 10:25 PM UTC · 1960830947479445768#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1960830947479445768#m
+- 作者：@xiaoqiu0321
+
+> 0xc9bc831cd26073762fb5d6eb3382d9847a83daa1
+>  
+> 不知道能不能金，cro 关注的发射台
+> Cdog 特朗普68亿刀投资，出个金狗不过分吧
+>  
+> Gate提币走，cro链，到帐很快，3个跨链桥已经被提空。
+> 如果gate提多了限制提币，市场有fomo预期
+
+## 124. Aug 27, 2025 · 9:50 PM UTC · 1960822212078002248#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1960822212078002248#m
+- 作者：@xiaoqiu0321
+
+> Congratulations to our newest puush.fun graduate with
+>  
+> 🐶 $cdog ⚫️
+>  
+> They take advantage of our brand new graduation perks
+> Vault rewards begin tomorrow!
+>  
+> #puushfuncronos
+> just $puush da button
+> 🔴🔵
+
+## 125. Aug 26, 2025 · 9:36 AM UTC · 1960275124793270637#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1960275124793270637#m
+- 作者：@xiaoqiu0321
+
+> 这项目，我给朋友空投了500万币，项目方大概空投了3000万币，打给了黑洞5亿币，做各种活动花了接近8000刀，这都是实打实的。
+
+## 126. Aug 26, 2025 · 9:32 AM UTC · 1960274104915001408#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1960274104915001408#m
+- 作者：@xiaoqiu0321
+
+> 后来达成一致意见，我们筹码肯定不卖，但如果继续做，需要开发真正能形成飞轮的东西，能持续运营而且能产生现金流的东西，起码你要生存，我这朋友这项目亏了10万刀，现在又开始写程序挖矿了，成为项目创业者的理想也暂时停滞了
+
+## 127. Aug 26, 2025 · 9:25 AM UTC · 1960272438585172144#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1960272438585172144#m
+- 作者：@xiaoqiu0321
+
+> 开项目直接rug，啥项目不是为了rug，不为了rug都是等着被市场rug归0。之前朋友开了个项目本来拉我合伙，我说我最多来炒炒，朋友在大马，他没事，我也帮忙宣传下，我没拿项目方一分钱风投，我筹码也不是最底部。
+> 前几天项目方持有的币也被卖了，我立马打电话过去，他说合伙人不干了，我说还有很多兄弟在里面，他说那他搞点钱把合伙人的买回来。也事实真买了，其实最高的时候我有100万利润，我没有卖，除了实名的卖了3000刀补贴家用，而且也在跌了30%后回购回来了，我所有钱包都是可以视频认证，我是t都没做。
+> 项目都是有生命周期，我和项目方持筹也就25%到30%我5%，也找过做市商，市商觉得控筹不够。
+> 那么问题来了，项目方高位该不该卖一点？他跟我反馈不但没卖，还高位护了几万刀的盘。
+> 项目也是认真开发了，运营了，可能思路有问题。
+> 中间也开发了几个新产品，和我交流也出现了分歧，我说这个已经证伪，市场对轻游戏不感冒，你发出来谁买单？
+> 1，市场买单你跑不跑，我跑不跑，我们跑了还是会跌回来
+> 2，市场你是靠自然流量还是你自己拿钱去拉盘？拉盘又怎么，你开始出给市场，然后割一波人？
+> 3，总之meme很难，你看旺柴再看ani，如果他们归0了，这市场又怎么看呢？
+
+## 128. Aug 24, 2025 · 1:45 PM UTC · 1959613011900961274#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1959613011900961274#m
+- 作者：@xiaoqiu0321
+
+> wen time capital mami @baoskee
+>  
+> The time is now.
+>  
+> Introducing $MAMI a @daosdotfun AI agent.
+>  
+> @TimeCapitalMami
+>  
+> daos.fun/FAzajuuDTNVDQDQhyb8…
+
+## 129. Aug 21, 2025 · 11:57 PM UTC · 1958679830964445466#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1958679830964445466#m
+- 作者：@xiaoqiu0321
+
+> 干到100刀后又自闭了，操了，4刀挑战这么难的吗？
+> 市场总有无穷无尽的诱惑，告诉你这次梭哈一定行，哈哈
+
+## 130. Aug 19, 2025 · 4:23 PM UTC · 1957840795140255974#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1957840795140255974#m
+- 作者：@xiaoqiu0321
+
+> 测试了下，bate版本应该可以开放了，不过代币是好捆绑，一直在倒钱包，基本上都是新钱包
+
+## 131. Aug 19, 2025 · 4:17 AM UTC · 1957658106902818960#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1957658106902818960#m
+- 作者：@xiaoqiu0321
+
+> Elsa
+
+## 132. Aug 18, 2025 · 4:23 PM UTC · 1957478474567872803#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1957478474567872803#m
+- 作者：@xiaoqiu0321
+
+> I know who This account was and why it's suspended
+
+## 133. Aug 17, 2025 · 10:02 PM UTC · 1957201275772076309#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1957201275772076309#m
+- 作者：@xiaoqiu0321
+
+> 0.8是个神奇的数字，因为在09年比特币第一笔交易价格的时候他是0.0008，我比比特币多了100倍我怕什么呢？
+
+## 134. Aug 17, 2025 · 9:57 PM UTC · 1957200155045998987#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1957200155045998987#m
+- 作者：@xiaoqiu0321
+
+> 我这0.8刀现在1.12刀了，快的很，当然你以为我会死？不可能，我还有60多个可以回收的租金。
+> 0.8刀到800刀就是1000倍，8000刀就是10000倍。
+> 关公都点头
+
+## 135. Aug 17, 2025 · 9:54 PM UTC · 1957199289920225324#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1957199289920225324#m
+- 作者：@xiaoqiu0321
+
+> 妈的刚才刷了下推，一会5000万刀，一会1个亿的？
+> 你们让我这0.8刀冲狗的情何以堪。
+
+## 136. Aug 17, 2025 · 9:14 PM UTC · 1957189352200560976#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1957189352200560976#m
+- 作者：@xiaoqiu0321
+
+> okx傻逼接盘后，继续加难度，挑战推特翻身极限
+> 0.8刀车头之路开启
+
+## 137. Aug 17, 2025 · 3:59 PM UTC · 1957110108758155332#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1957110108758155332#m
+- 作者：@xiaoqiu0321
+
+> 市场诱惑太多了
+
+## 138. Aug 17, 2025 · 3:58 PM UTC · 1957109726816440513#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1957109726816440513#m
+- 作者：@xiaoqiu0321
+
+> 不好意思又要重新开始，跑去okx 接盘了
+
+## 139. Aug 17, 2025 · 6:45 AM UTC · 1956970708120272937#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1956970708120272937#m
+- 作者：@xiaoqiu0321
+
+> 虽然赚了一倍多，但是好像买grok就赢了。主要grok名字叠加了ai 属性
+
+## 140. Aug 17, 2025 · 5:58 AM UTC · 1956958795990458476#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1956958795990458476#m
+- 作者：@xiaoqiu0321
+
+> GB5N5QEg4sEnnft58k8MTvcb6Pmmqo3hX5nTvzeGpump
+>  
+> 这个逻辑就是人们为什么买泡泡玛特，而不是拉布布
+>  
+> 聚焦产品ip的话germ明显更好炒作
+>  
+> 难道买Xai而不是ani？
+>  
+> Spark 还i
+
+## 141. Aug 17, 2025 · 4:18 AM UTC · 1956933566845407340#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1956933566845407340#m
+- 作者：@xiaoqiu0321
+
+> $Grem
+
+## 142. Aug 17, 2025 · 4:30 AM UTC · 1956936688548110548#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1956936688548110548#m
+- 作者：@xiaoqiu0321
+
+> Aped $GREM
+>  
+> Grem is the AI companion name
+>  
+> $CURIO is company name and weird that people buying Curio instead of Grem
+>  
+> GREM is the next $LABUBU
+>  
+> BAFygjPR5F3A3TWVuESji51rLYwh2DVeJhk4vRBupump
+>  
+> proof on web heycurio.com/
+
+## 143. Aug 16, 2025 · 5:42 AM UTC · 1956592426946359300#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1956592426946359300#m
+- 作者：@xiaoqiu0321
+
+> 昨天打到30刀后，滚仓2笔，很伤，还是决定先分仓成5刀战神，年级大了，做交易坐不住，20年前我还没成年就是少年股神，另外一个当时年少成名的16岁，也是我铁哥们，如果你知道大a应该知道黄河路。有哥们说我交易菜有两个原因，年纪大了，第二确实见过钱，所以出手没有计较太多。还是那句话，你做不到不代表专业的做不到，只是到了2 300k，容易买到榜前死掉。币圈也只研究了半年。起码5刀打到几千刀，对于我来说是一件没难度得事，不过不太愿意枯坐。今天目标2 300刀吧，周一行情好，争取2000。完成500倍，如果质疑或者喷子，我愿意到时候所有利润找3方对赌。就这样
+
+## 144. Aug 16, 2025 · 2:52 AM UTC · 1956549670420742478#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1956549670420742478#m
+- 作者：@xiaoqiu0321
+
+> Meet Sona, the first AI assistant for Solana Mobile
+>  
+> How this never had bonded before?
+>  
+> You can find all the information here
+>  
+> tars.pro/sona
+>  
+> medium.com/devdotcom/the-ris…
+>  
+> 67qcg7iUgVzFHb6YDuZa26t8S4S7ZsHZXrzc6v1Mpump
+
+## 145. Aug 15, 2025 · 5:13 PM UTC · 1956403891584508396#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1956403891584508396#m
+- 作者：@xiaoqiu0321
+
+> 还是要分，不然滚错2笔太伤了，就5刀5刀打吧。
+
+## 146. Aug 15, 2025 · 3:08 AM UTC · 1956191212743893218#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1956191212743893218#m
+- 作者：@xiaoqiu0321
+
+> 推特第一极限公开挑战—4刀翻身
+>  
+> 不好意思车头之路又傻逼了
+> 重新来，开始枯坐模式
+>  
+> 一个小时干了8倍，32刀了，先满仓滚
+> 等到200刀在分仓
+>  
+> 后面更新进度，别和我谈地址，推特我就是玩
+
+## 147. Aug 15, 2025 · 2:35 AM UTC · 1956182904708718890#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1956182904708718890#m
+- 作者：@xiaoqiu0321
+
+> 来个最奇葩的挑战，4刀翻身，哈哈
+
+## 148. Aug 13, 2025 · 6:16 PM UTC · 1955695075976937477#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1955695075976937477#m
+- 作者：@xiaoqiu0321
+
+> HOLY FUCK HE FULLY ENDORSED IT AND IS GOING TO BULL POST AND PUMP OUR BAGS FOREVER WOW THANKS @0xFrisk
+
+## 149. Aug 13, 2025 · 2:09 PM UTC · 1955632803955290292#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1955632803955290292#m
+- 作者：@xiaoqiu0321
+
+> 4KRH7QeLGYSuy8qFUopiZM5xPFtggFeRS7JpETCbpump
+>  
+> qvac是由usdt公司今天发型的ai产品
+> 会不会像gork那样炒作
+
+## 150. Aug 13, 2025 · 9:34 AM UTC · 1955563626099810683#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1955563626099810683#m
+- 作者：@xiaoqiu0321
+
+> Qvac.tether.io
+
+## 151. Aug 13, 2025 · 7:59 AM UTC · 1955539745112743994#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1955539745112743994#m
+- 作者：@xiaoqiu0321
+
+> 从第一个图我们可以看出，ca绑定的推特也就是dev是chillguy创作者本人。
+> 版稅是全球公益组织@teamwater ，很多世界级头部网红参与其中，比如野兽先生，立志解决世界水源污染，其中捐赠者不缺乏区块链知名项目方比如@opensea @AbstractChain 等等
+> 图二可以看到，chullguy作者，很早就联系了@finnbags 想发型一个项目，而且他不想出名，想着匿名，但由于bags的机制，最终还是绑定了推特。
+> 当然有人说他推特被黑了。但这个概率我认为很小。
+>  
+> 其实chullguy的代币并不是创作者本人发型，这次大概率是他本人发型，是正版，而且他自己不要版稅。
+>  
+> 我认为这是个值得投资潜伏的标的
+>  
+> 因为
+> 1，@teamwater 已经领取了版稅，而且接受其他区块链项目方捐赠时都公开说明。
+> 后面的公示会提及chullguy的捐赠是大概率
+>  
+> 2，作为一个全球有一定影响力的项目，众多自愿者网红参与的公益，并且@finnbags @BagsApp 也参与其中，得到bags的认可和支持概率大
+>  
+> 3，这有可能也是作者商务性质的一块，有可能拉动社区参与
+
+## 152. Aug 13, 2025 · 7:59 AM UTC · 1955539731409932408#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1955539731409932408#m
+- 作者：@xiaoqiu0321
+
+> A3D25W7S33nSoF9FmncP73pEM693QoGbXFJTWhVLBAGS
+>  
+> 昨天有个朋友潜伏了一个6k的ca，认领前他卖了，仅仅30分钟错过了400倍涨幅，然后我就开始研究下bags的ca。
+>  
+> 找到一个自己喜欢的。^_^^_^
+
+## 153. Aug 12, 2025 · 7:14 PM UTC · 1955347191662514354#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1955347191662514354#m
+- 作者：@xiaoqiu0321
+
+> Shout out to @opensea and the @AbstractChain Community for their generous $230,000 donation!!! TYSM 💙
+
+## 154. Aug 13, 2025 · 1:35 AM UTC · 1955443106662293824#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1955443106662293824#m
+- 作者：@xiaoqiu0321
+
+> So, here it is. 30 minutes to an hour before this was deployed, @PhillipBankss had a conversation with @finnbags about launching a project on @BagsApp . Then, boom, he deployed it, and it immediately sent to 600K, before people started fudding saying his account was hacked. Ok, so, in order to log into @BagsApp with your x account, YOU HAVE TO VERIFY YOUR ACCOUNT. The way it made me verify when I logged into @BagsApp , it sent a code to my cellphone, which I had to enter to verify. SO, he was hacked and his cellphone was stolen too? Yea, ok.. SO anyways, my personal opinion, hacked or not, which I'm almost positive he wasn't, this project is gold, one of a kind. Also, if I hack @PhillipBankss account, I'm not going to make it private , like it is now. I'm going to use the account to my advantage. But, whatever. lol So, I cto'd this project because IMO it has massive potential, and the royalties go to @teamwater , which provide clean water for the world. Yes, supposedly the hacker set the royalties to go to helping the world. lol. Anyways, here we are, and I am going to continue to push this as what it is, THE FIRST AND ONLY CHILLGUY DEPLOYED BY THE ARTIST, 100%. GRAB A BAG, AND GET READY TO MOON. Honestly, Im just a Chill Guy. 😏
+>  
+> t.me/chillguybyartist
+>  
+> bags.fm/A3D25W7S33nSoF9FmncP…
+>  
+> A3D25W7S33nSoF9FmncP73pEM693QoGbXFJTWhVLBAGS
+
+## 155. Aug 12, 2025 · 1:49 AM UTC · 1955084135799849453#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1955084135799849453#m
+- 作者：@xiaoqiu0321
+
+> 6bRoiGLs3S2gkXTbo2gtdHKmHFKHCS7ms8QQZskFpump
+>  
+> spark 60m
+> Tanaki 5m
+> tommy 60k？？？
+
+## 156. Aug 12, 2025 · 12:54 AM UTC · 1955070469931143278#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1955070469931143278#m
+- 作者：@xiaoqiu0321
+
+> Are our bugs a little bit stupid?
+> @sparkboinkboink @Thoompin @okpasquale
+
+## 157. Aug 11, 2025 · 6:32 PM UTC · 1954974098817421342#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954974098817421342#m
+- 作者：@xiaoqiu0321
+
+> "Run" in Chinese means to sell. Maybe Chinese holders misunderstood your statement. I understand that you mean that our project is about to be launched and we need an official Twitter account.
+
+## 158. Aug 11, 2025 · 3:20 PM UTC · 1954925944776564827#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954925944776564827#m
+- 作者：@xiaoqiu0321
+
+> It's time to register an official Twitter account for Spark's friend Tommy
+
+## 159. Aug 11, 2025 · 2:47 PM UTC · 1954917538178941396#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954917538178941396#m
+- 作者：@xiaoqiu0321
+
+> at least one of these facts are true
+
+## 160. Aug 11, 2025 · 9:23 AM UTC · 1954836145172619435#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954836145172619435#m
+- 作者：@xiaoqiu0321
+
+> $Spark 50M
+> $Tanaki 4M
+> $Tommy ..........
+>  
+> 6bRoiGLs3S2gkXTbo2gtdHKmHFKHCS7ms8QQZskFpump
+
+## 161. Aug 11, 2025 · 1:46 AM UTC · 1954720977352540457#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954720977352540457#m
+- 作者：@xiaoqiu0321
+
+> 经典 WORM形象 +官方正面回应Name
+>  
+> 欢迎加入 $SPARK 小伙伴 $Tommy
+>  
+> 6bRoiGLs3S2gkXTbo2gtdHKmHFKHCS7ms8QQZskFpump
+
+## 162. Aug 10, 2025 · 6:17 AM UTC · 1954426910592614836#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954426910592614836#m
+- 作者：@xiaoqiu0321
+
+> $spark 30m 5zCETicUCJqJ5Z3wbfFPZqtSpHPYqnggs1wX7ZRpump $lucius100k
+> $Lucius 120k
+> CVAQR7nTM5qXq59iunWBA4pQ1zADDVYbMAgtzyXMpump
+>  
+> who works on ocean protection, seems underrated. It's a bit like the Marvel Universe. Lucius's IP address shouldn't be limited to 100k.
+
+## 163. Aug 10, 2025 · 5:53 AM UTC · 1954420823462232115#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954420823462232115#m
+- 作者：@xiaoqiu0321
+
+> 1
+
+## 164. Aug 6, 2025 · 12:01 PM UTC · 1953063811247947991#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1953063811247947991#m
+- 作者：@xiaoqiu0321
+
+> Creating an xcomm for $Lucius
+> @okpasquale has mentioned Lucius a few times and with SPARK running hard, I reckon the dolphin can swim far
+>  
+> CVAQR7nTM5qXq59iunWBA4pQ1zADDVYbMAgtzyXMpump
+
+## 165. Aug 9, 2025 · 3:36 PM UTC · 1954205254876110881#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954205254876110881#m
+- 作者：@xiaoqiu0321
+
+> 一朋友买我推荐的ani，七崽套死了，平时也没啥钱。
+> 我说2天帮他打回来。
+> 今天早上100刀给他砍了，不但帮他赚回来了，还多送了他一倍
+>  
+> 验证了够不够？你做不到的事不代表别人做不到，今天推特全程公开喊的，中文区我不玩了就这样。
+>  
+> 有比赛我会参加
+
+## 166. Aug 9, 2025 · 2:43 PM UTC · 1954191855022928249#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954191855022928249#m
+- 作者：@xiaoqiu0321
+
+> 错了4只
+
+## 167. Aug 9, 2025 · 2:43 PM UTC · 1954191802619023694#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954191802619023694#m
+- 作者：@xiaoqiu0321
+
+> 3x，今天推特就发了3只全部3x起，喷啥呢？
+
+## 168. Aug 9, 2025 · 2:16 PM UTC · 1954185127837290693#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954185127837290693#m
+- 作者：@xiaoqiu0321
+
+> 🚀🚀butthole 24h内上涨+549.3%，现价$0.0₄3618, 用GMGN更快发现，更快买卖！#butthole #GMGN gmgn.ai/sol/token/BDt8SjiGTd…
+
+## 169. Aug 9, 2025 · 1:19 PM UTC · 1954170662786076872#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954170662786076872#m
+- 作者：@xiaoqiu0321
+
+> 3x
+
+## 170. Aug 9, 2025 · 1:00 PM UTC · 1954165856579305872#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954165856579305872#m
+- 作者：@xiaoqiu0321
+
+> 1
+
+## 171. Aug 9, 2025 · 9:51 AM UTC · 1954118365024337927#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954118365024337927#m
+- 作者：@xiaoqiu0321
+
+> Maybe we need animated background on dexscreener?
+>  
+> $TOBY the $Troll #dog
+>  
+> Pump this one:
+>  
+> 6gTqf9JFiCK3wPg5pTBzWY3iMkH8z9SbuJX8R2vxpump
+
+## 172. Aug 9, 2025 · 8:36 AM UTC · 1954099472125907415#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954099472125907415#m
+- 作者：@xiaoqiu0321
+
+> 作为社区币和表情包的热衷投机者，我已经无法加入社区了，我该如何是好
+
+## 173. Aug 9, 2025 · 7:37 AM UTC · 1954084646020636886#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954084646020636886#m
+- 作者：@xiaoqiu0321
+
+> 3x
+
+## 174. Aug 9, 2025 · 7:06 AM UTC · 1954076810695819507#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1954076810695819507#m
+- 作者：@xiaoqiu0321
+
+> no
+
+## 175. Aug 9, 2025 · 12:09 AM UTC · 1953971873475440892#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1953971873475440892#m
+- 作者：@xiaoqiu0321
+
+> Picture with powerful message ❤️💪 from Neuralink's 7th Pioneer: @PairedWith_P7
+
+## 176. Aug 9, 2025 · 1:45 AM UTC · 1953996120256131546#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1953996120256131546#m
+- 作者：@xiaoqiu0321
+
+> This is a good story on bags today. Someone issued a token for p7, the seventh person to undergo brain-computer interface surgery. He withdrew the handling fee and donated it to the association to help more people like him. The association also accepted the donation and retweeted his tweet. It's great and in line with the concept of bags.
+
+## 177. Aug 8, 2025 · 11:44 PM UTC · 1953965680975544365#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1953965680975544365#m
+- 作者：@xiaoqiu0321
+
+> GOD CANDLES WALKED
+>  
+> SO $JUJU CANDLES COULD RUN
+
+## 178. Aug 8, 2025 · 11:47 PM UTC · 1953966446620684678#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1953966446620684678#m
+- 作者：@xiaoqiu0321
+
+> 我把资料都改成英文
+> 以后交易都做英文区为主
+> 还有参与建设我都尽量做英文区的meme
+>  
+> 还有哪里有比赛可以推荐给我
+
+## 179. Aug 8, 2025 · 12:20 PM UTC · 1953793313934651858#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1953793313934651858#m
+- 作者：@xiaoqiu0321
+
+> STILL WAITING FOR THE SUPER JEWJEW TO ANSWER THE CALL
+>  
+> @a1lon9 WE ARE ALIGNED AND WAITING
+>  
+> PUMP 🤝 PUMP
+
+## 180. Aug 7, 2025 · 11:40 PM UTC · 1953602180902269280#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1953602180902269280#m
+- 作者：@xiaoqiu0321
+
+> Recently, many foreign KOLs have been following me. Thank you very much. I will also change my focus to sharing in the English area.
+
+## 181. Aug 6, 2025 · 11:14 PM UTC · 1953233280524009773#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1953233280524009773#m
+- 作者：@xiaoqiu0321
+
+> 5jidmmNR6kRXceddJwUrSGPzkMayKuDCHh7X96WHbonk
+>  
+> Pepe作者创作的唯一的狗
+>  
+> 风险有明牌dev，还有路线图，跑路则归0
+
+## 182. Aug 6, 2025 · 10:05 PM UTC · 1953215758630256973#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1953215758630256973#m
+- 作者：@xiaoqiu0321
+
+> 昨天看社区花开理的工作内容，最后一条是救助流浪猫，正好有点经验就分享下
+>  
+> 其实可以看到，现在我每天下楼出门就有喵喵过来迎接我。
+>  
+> 流浪猫和家猫一样，当你救助过他，他也会过来噜噜，代表想你抚摸他，这种主动亲近你的喵喵，你是可以抚摸的，一般脖子是他最喜欢的，但是不主动亲近你，就不要去互动。比如这只三花，就很少找我。
+>  
+> 如果你发现你发现你小区附近有野猫就可以进行救助。
+>  
+> 其实也很简单，搭一个猫窝，最好小房子那种，这样他们会很有安全感，准备几个食盆，水盆，就行，然后每天投喂2餐，我主要就是猫粮，小鱼干，这个基地搭成后，我们这栋楼还有其他邻居投喂，所以每天并不复杂，甚至食物超标，而且他们不像家猫从小固定猫粮。都是自己找食，肠胃不会出现问题。
+>  
+> 然后就是驱虫项圈，建议给性格亲人的先带上，这样防止他们疾病和皮肤病。
+>  
+> 我这边已经发展到了5只，而且和人熟了后他们不会驱赶外来的，基本上每天会几只躺一起。
+>  
+> 还有题外话
+> 其实每天社区都出现不和谐的声音，比如今天有人说到时候花开全浇给。
+>  
+> 其实花开是个非常好的人，我私下和他说这种声音直接踢，他说算了，这都是要经历的。
+>  
+> 我想说的是不要道德绑架，这里面有几个逻辑。
+>  
+> 1，花开就3%，并不是30%
+> 2，任何人，任何前排，任何代币，都会浇给，包括我，我也可能会卖，而且我已经卖了部分，我在第二天下跌时，又购买了接近2%得供应护盘，我也不想拥有这么多，所以卖了而且是亏损的，我不想因为我卖了部分被道德绑架。难道你们卖了就是自己交易牛逼，未来别人卖了就要被骂？
+> 3，重启cto时候，我24小时没睡，240k时我从归0到浮赢我也没卖，我制作了3段视频，冲推100+，给bonkguy打币活动我一个人捐了供应的接近一半，我还给了Kol空投，我不知道我为什么还被骂，这样作为核心建设者真的很心寒。
+> 4，没有人能左右币价，你们要花开拉盘，难道他一个人买50%？我们能做的就是保持建设，让更多人喜欢七崽来购买。
+>  
+> 社区现在大概有10名核心建设者
+> 据我观察大家做了以下工作
+> 1，nft制作
+> 2，官网制作
+> 3，二创制作
+> 4，专属表情包制作，已经上传wechat和tg
+> 5，@theunipcs 打币活动
+>  
+> 继续努力吧
+> @Weixin_WeChat @SolportTom
+
+## 183. Aug 5, 2025 · 6:58 AM UTC · 1952625119475716561#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1952625119475716561#m
+- 作者：@xiaoqiu0321
+
+> Open Letter to @SolportTom and the BonkFun Team
+>  
+> From a Believer in Community-First Crypto
+>  
+> Dear @SolportTom ,
+>  
+> First, thank you for taking the time to read this. I know you’re constantly flooded with messages and ideas, but I hope this one will stand out — not just as feedback, but as a sincere call to help shape what BonkFun can truly become.
+>  
+> ⸻
+>  
+> BonkFun Has Taken the Lead — But What’s Next?
+>  
+> Based on on-chain and community data, it’s clear that BonkFun is now the leader in this space, much like PumpFun was before.
+> But success isn’t just about this moment — it’s about sustaining that leadership.
+>  
+> Your edge has always been how you treat the community. That difference built trust. That difference got you here.
+> But if we rely on just that — without nurturing standout communities — that edge might fade.
+>  
+> PumpFun has started to mimic your strategies, including community token buybacks. With more capital, they may eventually weaponize those resources to undercut you. Now is the time to double down on your true strength: community-first innovation.
+>  
+> ⸻
+>  
+> PVP Is Still Dominant — But PVE also important
+>  
+> You’ve been vocal about promoting PVE — shifting away from the short-termism of PVP.
+> I respect that vision deeply. But I also know how difficult it is in this environment.
+>  
+> Recent data shows that the average holding time now is just 60 seconds. That speaks volumes.
+> Most users are here for a quick flip. I understand that — more PVP means more launches, which helps revenue.
+>  
+> But here’s what I believe:
+>  
+> A successful PVE projects won’t kill PVP — it will bring in people who would never have participated otherwise.
+>  
+> ⸻
+>  
+> Why Equal Support Isn’t Always the Best Strategy
+>  
+> I know you want to be fair — to give everyone a chance.
+> But equal distribution of resources often leads to no one getting enough.
+> And when that happens, no leader emerges. No standard is set. No inspiration follows.
+>  
+> Take Ani as an example:
+> • Even with your support, it remained a PVP-driven play.
+> • Most holders were waiting on Elon Musk’s tweets and actions.
+> • Data shows: after your buying 1% of tokens, Ani gained ~10% more holders — but the price performance actually worsened.
+>  
+> Now compare that to 旺柴:
+> • Reached ATH $18M and most people held, not dumped.
+> • Due to some FUD dropped to $10M, $8M, $6M, $4M — and still, holders kept accumulating.
+> • New members joined daily including X and Telegram.
+> • On X, the community continues to grow with high-quality content, memes, articles, and artwork.
+>  
+> The BonkFun buyback wallet shows:
+> • Ani and 旺柴 are the only ones with relatively low unrealized losses (~15%).
+> • But Ani had Elon, the spotlight, and PVP hype.
+> • 旺柴 had none of that — just the strength of its community.
+>  
+> That should mean something.
+>  
+> Now imagine — if the same level of funding and support you gave to Ani had been directed toward 旺柴 instead… just how far could it have gone?
+>  
+> ⸻
+>  
+> You Can’t Inspire the Market Without First Believing In a Few
+>  
+> This isn’t a call to support 旺柴 instead of others —
+> it’s a call to support the right ones first.
+>  
+> Pick a few communities you believe in. Go deep.
+> Once they succeed, the network effect will uplift the entire ecosystem.
+>  
+> ⸻
+>  
+> You’ve already interacted with 旺柴 on X, and we appreciate that.
+> But the Western market doesn’t understand what it sees when it sees Chinese characters — they scroll past, or click “translate” at best.
+> They need your signal to take it seriously.
+>  
+> They don’t believe in buybacks.
+> They believe in your conviction. In your wallet.
+> Just look at what happened the day you announced support for Ani.
+> That’s the kind of influence you hold — and why it matters where you choose to place your trust.
+> Now imagine if that support had gone to a real community.
+> You can use that influence to show the world what PVE really looks like.
+>  
+> So why 旺柴?
+> • Chinese tickers are a powerful narrative. But they need a single proven success before others follow.
+> • 旺柴 has already inspired others to copy — many rugged — but that only proved its brand strength.
+> • The 旺柴 meme is deeply rooted in Chinese culture, across generations. It’s funny, expressive, remixable, and emotionally sticky.
+> • We’ve seen massive interest from Chinese users who feel excluded in Western-dominated communities.
+> • Many want to join, but language holds them back. In 旺柴, we’ve seen English speakers use translators to bridge the gap. This is rare.
+> • The Chinese crypto community is sticky — just look at brc20 projects. If they trust you, they stay loyal — like a cult.
+> • Even outside of China, many global users are still sidelined, doubting whether Chinese tickers can succeed.
+> But it’s precisely because so many don’t believe that the upside is so big — just like $USELESS once was.
+>  
+> And let’s not forget:
+> • Major exchanges like @binancezh , @okxchinese , and @Bitget_zh  had to create entirely new accounts just to provide Chinese-language content — can you imagine how big that market must be?
+> • There’s a huge opportunity to connect that capital and energy with the Bonk ecosystem — through the right narrative.
+>  
+> ⸻
+>  
+> 旺柴 Defies the Trend
+>  
+> Across BonkFun, most tokens have retraced hard.
+> Communities disappear. Tokens get dumped.
+>  
+> 旺柴?
+> • Minimal pullback by comparison.
+> • Holder count growing.
+> • X community growing.
+> • Engagement, memes, creativity — all growing.
+>  
+> All of this, without being in the spotlight.
+>  
+> ⸻
+>  
+> Final Words: Don’t Wait Until It’s Too Late
+>  
+> I genuinely believe Bonk has the potential to become the birthplace of real communities.
+> But this space moves fast. And it’s brutal.
+>  
+> PumpFun won’t wait. Copycats won’t stop.
+> And true communities don’t emerge every day.
+>  
+> The time to act is now.
+> Reward the real communities
+>  
+> 旺柴 has earned the trust.
+> It has survived.
+> Now give it the spotlight — and watch what happens.
+>  
+> Let’s build something unforgettable.
+>  
+> Make Bonk Ecosystem great again.
+>  
+> With respect,
+> A believer in PVE, WAGMI, and community-first crypto.
+
+## 184. Aug 6, 2025 · 1:15 AM UTC · 1952901393444188438#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1952901393444188438#m
+- 作者：@xiaoqiu0321
+
+> Ani打开pve天花板吧
+
+## 185. Aug 5, 2025 · 8:43 PM UTC · 1952832969787551903#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1952832969787551903#m
+- 作者：@xiaoqiu0321
+
+> 很多人喜欢说我这说我那，好吧我不想说啥，在大a市场都有我的传说，大学2万起家，桃县3万粉，这几年比较火的车神都叫我哥，很多知名席位都是铁哥们。
+>  
+> 我是见过钱的，而且不是小钱，所以币圈我很大方，我赚1000刀我就可以送200刀出去，对于我来说无所谓
+>  
+> 就5年前一场牌局就是1万刀进出
+>  
+> 我去坑水割谁没必要
+>  
+> 我只是享受交易带来的乐趣
+>  
+> 我敢说早年玩a股的，10个里面至少有一半都学习过我写的东西
+
+## 186. Aug 5, 2025 · 8:36 PM UTC · 1952831140131492221#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1952831140131492221#m
+- 作者：@xiaoqiu0321
+
+> 这已经是今年第五次，单周100倍以上了，也是最后一次了
+>  
+> 发帖只是分享题材，均为pvp，注意风险，利润我只买ani了短期
+
+## 187. Aug 5, 2025 · 8:32 PM UTC · 1952829969555701951#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1952829969555701951#m
+- 作者：@xiaoqiu0321
+
+> 说来唏嘘，再一次0.05打到了40个s，又接近1000倍了
+>  
+> 重新理一遍交易准则，我相信用不了多久，我就是车头
+>  
+> 1，不用翻倍出本，对于情绪类短期热点，钱包和持币人数才是重点，不对走，对的时候出本没意义
+>  
+> 2，如果格局看好长线，基本面不变的情况下，不用考虑交易，拿出可以归0的资金，下跌时用pvp利润加仓
+>  
+> 3，自己并非pvp高手，但对短期情绪题材的理解我觉得是顶级的，而且自己努力的程度不比任何车头低，必须拿到结果
+>  
+> 4，注意自己的情绪控制，走势说明一切而不是题材本身，榜10不是我现在体量能承受的，不要去装这个逼，但是再努力1个月我相信热门股我都在榜单中
+
+## 188. Aug 5, 2025 · 2:02 AM UTC · 1952550745527738768#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1952550745527738768#m
+- 作者：@xiaoqiu0321
+
+> 8BN9xq4W7Y8e1gY84SCY8wUHuSpzvYc8qTD1toJHbonk
+>  
+> 今天是好友@okzczc 的生日，特此送他喵的777777枚喵币
+>  
+> 以后凡事有我WeChat好友的，生日，我都送喵币，不发红包了！
+>  
+> 我是长期主义者，我没有了我就去买。
+>  
+> 我一点不急，不是每个币都是旺柴。建设是长久之旅，也当个pvp完的一个小事业。
+>  
+> 七崽是web2最火的喵，他喵的不能归0，谁叫我是喵奴呢。
+
+## 189. Aug 4, 2025 · 1:10 PM UTC · 1952356531191824822#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1952356531191824822#m
+- 作者：@xiaoqiu0321
+
+> J8saYDv3CMUL5rqDoeGrBRgS4zuN3CySWmzuaJQVbonk
+>  
+> 731
+>  
+> 有几个问题
+> 1，阴谋盘，今天拉起来的都是统一地址提币，都是三方桥
+>  
+> 那么你就无法这阴谋是捞一笔还是大庄
+>  
+> 2，今天大v加密女仆搞黑红，晚上又送门票，是否有关联
+>  
+> 3，但题材确实够顶，今天最早公布定档的是央视新闻和人民日报。这个级别你懂的，都不是发行方来宣布。
+>  
+> 4，哪吒，dogking，包括bang，这种事件性高度都比较夸张
+>  
+> 我只分析，其他注意风险
+
+## 190. Aug 3, 2025 · 11:17 PM UTC · 1952146851563708454#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1952146851563708454#m
+- 作者：@xiaoqiu0321
+
+> $LIBERLA
+> 刚刚国家账号在社区内发帖，被版主置顶
+> bags的fin在平台暧昧的国家币
+> 算是最近比较有趣的ticker之一，等后续
+> Dcr6DTsgftc3WMSSG7age76qrsFxy4iAtYy6vcToBAGS
+
+## 191. Aug 3, 2025 · 11:46 PM UTC · 1952154189033078812#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1952154189033078812#m
+- 作者：@xiaoqiu0321
+
+> @SolportTom 你对七崽怎么来的web3？怎么归0，又怎么在七崽粉丝们重建社区感兴趣吗？我们会做英文视频解说这一切
+
+## 192. Aug 3, 2025 · 11:42 PM UTC · 1952153132026454170#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1952153132026454170#m
+- 作者：@xiaoqiu0321
+
+> 8BN9xq4W7Y8e1gY84SCY8wUHuSpzvYc8qTD1toJHbonk
+>  
+> 不管以前发生了什么
+>  
+> 中文区不能有只猫吗？
+>  
+> 抖音（TikTok）最火的猫
+> 七崽，他已经来了web3，他不该归0！
+>  
+> 华流才是最屌的，难道只是个口号？
+>  
+> 七崽可以躺，华流的同胞只知道吃瓜吗？
+>  
+> 这可是web2华语最火的猫！
+>  
+> 是的他是诈骗犯带来的，但它来了，就不能让他归0！
+
+## 193. Aug 3, 2025 · 5:29 PM UTC · 1952059225649430858#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1952059225649430858#m
+- 作者：@xiaoqiu0321
+
+> 我们后来榜1自发了cto，现在还很多人骂我们，cto时候全是套牢散户，榜1钱包也就600刀左右。
+>  
+> 我们社区已经很多人40小时没怎么睡了一只在工作。
+>  
+> 但是还是很多人不理解，他们只看走势，只记得被@ZephyrTrading 诈骗。
+>  
+> 我们需要更多人发声我们社区已经换人了，就算做不起来也是我们自己没本事，但真的全是当时归0的小伙伴。
+>  
+> 我们不需要大家买，我们也需要市场理解现在状况，老哥，我们需要流量曝光支援，如果冲你推别介意。
+
+## 194. Aug 3, 2025 · 8:40 AM UTC · 1951926090316091597#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1951926090316091597#m
+- 作者：@xiaoqiu0321
+
+> 发了安妮图后，ani也反弹了
+
+## 195. Aug 3, 2025 · 7:02 AM UTC · 1951901478689669147#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1951901478689669147#m
+- 作者：@xiaoqiu0321
+
+> 8BN9xq4W7Y8e1gY84SCY8wUHuSpzvYc8qTD1toJHbonk
+>  
+> 9tqjeRS1swj36Ee5C1iGiwAxjQJNGAVCzaTLwFY8bonk
+>  
+> 作为ani和七崽的同时持有者
+>  
+> 这个图好喜欢
+
+## 196. Aug 3, 2025 · 6:43 AM UTC · 1951896698151710901#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1951896698151710901#m
+- 作者：@xiaoqiu0321
+
+> 兄弟告诉你你30个小时没睡，新的cto团队也好多人30小时没睡，我们在干活，拯救七崽，希望你回来，七崽会治愈你
+
+## 197. Aug 3, 2025 · 6:39 AM UTC · 1951895741032787988#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1951895741032787988#m
+- 作者：@xiaoqiu0321
+
+> D哥不需要负责，D群也不需要，这是不是个好ip，是不是真有团队在做事，值不值得投入支持，做交易选择！仅此而已！
+
+## 198. Aug 3, 2025 · 4:38 AM UTC · 1951865166104064436#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1951865166104064436#m
+- 作者：@xiaoqiu0321
+
+> #新头像
+
+## 199. Aug 3, 2025 · 4:02 AM UTC · 1951856223118057549#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1951856223118057549#m
+- 作者：@xiaoqiu0321
+
+> 8BN9xq4W7Y8e1gY84SCY8wUHuSpzvYc8qTD1toJHbonk
+>  
+> CTO团队推出的限量版，免费七崽nft
+>  
+> 反正不要钱，万一以后火了呢？
+>  
+> 你说是不是
+>  
+> 躺平猫王
+>  
+> launchmynft.io/collections/B…
+
+## 200. Aug 3, 2025 · 1:06 AM UTC · 1951811911194202594#m
+- 链接：https://twitter.com/xiaoqiu0321/status/1951811911194202594#m
+- 作者：@xiaoqiu0321
+
+> 聊一下我心中的CTO吧
+> 一：一切的前提，前提是meme核心，热爱。可能有人会骂我，热爱不赚钱有鸡毛用，任何观点都正常。
+> 热爱才能有激情，meme无非就是一群热爱的人影响更多人而已，本质。
+> 二：免不了里面的投机，但一定是过程中寻找到更多人，其实包括大的KOL也好，车头也好，当一个IP开始影响市场了，可以成为所谓的建设者，而不是简单的索取者，仅仅是让所有人看到，你的钱包有买。
+> 三：形成了初步影响力，这个IP一定要争议性的，共识难形成，但争议永远有流量。
+> 有幸经历了一段Nerio的过程，也是一波三折，后来有带头大哥们直接下场。
+> 无论结果如何，买了点 #七崽 ，当支持了。
+> 希望争议也好，热度也好，可以有更多喜欢这个猫猫的人一起，也喜欢如今“躺平”人生价值观的人一起。
+> 从哪个角度，国人的CTO不应该成为别人眼里的诈骗。
+> 引用教员的两句诗吧。
+> “雄关漫道真如铁，而今迈步从头越。”
+> 加油吧。
+> @qizai_cto

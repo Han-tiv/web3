@@ -1,0 +1,1453 @@
+{
+  "account": {
+    "id": "1681540721684389888",
+    "screen_name": "infinex",
+    "name": "Infinex",
+    "description": "The crypto superapp.",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1978267585633525760/PavGc5KA_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681540721684389888/1759280706",
+    "followers_count": 80156,
+    "friends_count": 2,
+    "statuses_count": 2762,
+    "favourites_count": 3048,
+    "listed_count": 499,
+    "location": "",
+    "website": "https://t.co/i6hN3ytuCB",
+    "birthdate": null,
+    "verified_type": "Business",
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": false,
+    "protected": false,
+    "created_at": "2023-07-19 13:45:43 +08:00",
+    "url": "https://twitter.com/infinex",
+    "rest_id": "1681540721684389888"
+  },
+  "tweets": [
+    {
+      "id": "1973205885267947725#m",
+      "content": "Infinex Perps is now live 🔥\n\nThe most CEX-like trading experience onchain is now open to everyone.\n\nPowered by @HyperliquidX\n\nDetails in 🧵",
+      "timestamp": "Oct 1, 2025 · 1:58 AM UTC",
+      "url": "https://twitter.com/infinex/status/1973205885267947725#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1979974683387732197#m",
+      "content": "Are CEXs on borrowed time? ⏳\n\n@kaiynne says the next crypto cycle belongs to onchain platforms, if they can match CEX UX. ⚡️",
+      "timestamp": "Oct 19, 2025 · 6:15 PM UTC",
+      "url": "https://twitter.com/infinex/status/1979974683387732197#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1979167576162013228#m",
+      "content": "And speaking of @NEARProtocol and Infinex – did you know you can also deposit, buy, trade, and send everyone’s favorite boomer coins?\n\n→ $BTC\n→ $DOGE\n→ $XRP\n\nAll from the convenience of your Infinex account, secured by Near Intents.",
+      "timestamp": "Oct 17, 2025 · 12:48 PM UTC",
+      "url": "https://twitter.com/infinex/status/1979167576162013228#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1979167564430479516#m",
+      "content": "Pro tip: the best routes for buying ZEC will be from the majors including USDC, ETH, and SOL.",
+      "timestamp": "Oct 17, 2025 · 12:48 PM UTC",
+      "url": "https://twitter.com/infinex/status/1979167564430479516#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1979167552388632671#m",
+      "content": "ZEC (ZCash) is now supported in Infinex, via @NEARProtocol's Near Intents\n\n→ Deposit $ZEC into your Infinex account\n→ Buy/sell/trade $ZEC with Swidge\n→ Send $ZEC to native addresses on ZCash\n\nSupport for shielded sends is coming soon.\n\nGet started now → infinex.xyz",
+      "timestamp": "Oct 17, 2025 · 12:48 PM UTC",
+      "url": "https://twitter.com/infinex/status/1979167552388632671#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1979109055529652588#m",
+      "content": "Great write-up from @kaiynne about his superapp thesis and how he plans to win that game with Infinex.\n\nAfter years of empty narratives, real revenue has finally become crypto’s defining meta. Some might call it ridiculous to even call that a “meta,” but it’s good to see the space finally waking up to the fact that productivity and cash flow are what truly matter.\n\nBetter late than never.\n\nCEXs have shown for a decade now what’s possible, but now it’s time for onchain protocols to catch up.\n\nThis was my thesis from day one, when Moonrock came in as one of the earliest backers almost 1.5 years ago.\n\nInfinex is building the first true onchain superapp, with perps powered by Hyperliquid, swaps, yield, games, NFTs, and prediction markets all slowly but surely coming together - the vision is turning into reality.\n\nA full CEX experience, minus the custodial risk.\n\nOnce we’re there, the playbook is simple:\n\ngenerate revenue → diversify streams → double down on what users want most → generate even more revenue → TGE → buy back → return value to users.\n\nThe revenue wars have just begun. Also with CEXs getting more FUD than ever, people are finally realizing they need real alternatives.\n\nInfinex is here to win both of these races.",
+      "timestamp": "Oct 17, 2025 · 8:55 AM UTC",
+      "url": "https://twitter.com/infinex/status/1979109055529652588#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1979104834063339786#m",
+      "content": "Breaking news: @kaiynne has changed his views on centralized exchanges...\n\n\"Centralized exchanges are just *that good* at what they do. They are the most efficient cross-chain, multi-chain, multi-asset platforms, ever.\"\n\n💀\n\nCheck out the clip from his conversation with @laurashin below, and then read more in his latest blog → paragraph.com/@kain/the-supe…",
+      "timestamp": "Oct 17, 2025 · 8:38 AM UTC",
+      "url": "https://twitter.com/infinex/status/1979104834063339786#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1979030791914164416#m",
+      "content": "Tap the link to learn more 👉\nblog.synthetix.io/6-more-wee…",
+      "timestamp": "Oct 17, 2025 · 3:44 AM UTC",
+      "url": "https://twitter.com/infinex/status/1979030791914164416#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1979030780178501677#m",
+      "content": "Raffle prize winners\n\n🥇 1st – 1 ETH - quantum\n🥈 2nd – 1 x Patron - Shojaie\n🥉 3rd – 1 x Patron - Doc\n🎖️ 4th – 2,000 SNX - pkwn888\n🎖️ 5th – 1,000 SNX - marcuslayerx",
+      "timestamp": "Oct 17, 2025 · 3:44 AM UTC",
+      "url": "https://twitter.com/infinex/status/1979030780178501677#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1979030767696253253#m",
+      "content": "The Synthetix $sUSD rewards competition - weekly prizes.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Oct 17, 2025 · 3:44 AM UTC",
+      "url": "https://twitter.com/infinex/status/1979030767696253253#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1978958952114327601#m",
+      "content": "Synthetix’s Coming Perp Dex 🤺 localhost:8080/i/broadcasts/1lDGLBQdQ…",
+      "timestamp": "Oct 16, 2025 · 10:59 PM UTC",
+      "url": "https://twitter.com/infinex/status/1978958952114327601#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1978777194517451057#m",
+      "content": "Simply hit 'Reverse', confirm, and your open position will close at the current market price and reopen in the opposite direction instantly.\n\nOne more small reason to check out Infinex Perps.\n\nLearn more or trade now → infinex.xyz/perps",
+      "timestamp": "Oct 16, 2025 · 10:57 AM UTC",
+      "url": "https://twitter.com/infinex/status/1978777194517451057#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1978777182622339199#m",
+      "content": "Reverse your perps position with one ☝️ click.\n\nA small but convenient feature on Infinex Perps is the ability to quickly react to market shifts.\n\nYou can reverse your position - from long <> short or short <> long - without manually closing and reopening trades.",
+      "timestamp": "Oct 16, 2025 · 10:56 AM UTC",
+      "url": "https://twitter.com/infinex/status/1978777182622339199#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1978400644433371182#m",
+      "content": "And for a limited time, get 80% of Infinex’s builder fees back as an instant cashback. On every trade.\n\nTrade now → app.infinex.xyz\nLearn more → infinex.xyz/perps",
+      "timestamp": "Oct 15, 2025 · 10:00 AM UTC",
+      "url": "https://twitter.com/infinex/status/1978400644433371182#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1978400632861253637#m",
+      "content": "With Infinex, it’s simpler:\n\n→ Pick any token in your portfolio\n→ Swidge and fund your margin account in one step\n→ Start trading",
+      "timestamp": "Oct 15, 2025 · 10:00 AM UTC",
+      "url": "https://twitter.com/infinex/status/1978400632861253637#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1978400621121458519#m",
+      "content": "Typically, to start trading on Hyperliquid you need to:\n\n→ Connect your wallet\n→ Swap and bridge tokens to USDC on Arbitrum\n→ Send to your Hyperliquid deposit address\n\nIt works - but it’s clunky and slow 🐢",
+      "timestamp": "Oct 15, 2025 · 10:00 AM UTC",
+      "url": "https://twitter.com/infinex/status/1978400621121458519#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1978400609255747905#m",
+      "content": "Fund your trading account with any asset, in one step.\n\nWith Infinex Perps powered by @HyperliquidX, you don’t need to swap, bridge, or hunt for deposit addresses.\n\nLog in with your passkey, swidge, and start trading - no bridges, no gas, no friction.\n\nA 🧵",
+      "timestamp": "Oct 15, 2025 · 10:00 AM UTC",
+      "url": "https://twitter.com/infinex/status/1978400609255747905#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1977660548704833771#m",
+      "content": "If you want to become a Patron, head to  @blur_io, @OpenSea, or @MagicEden to purchase one.\n\nOfficial links 👇\n\nmagiceden.io/collections/eth…\nopensea.io/collection/infine…\nblur.io/eth/collection/infin…",
+      "timestamp": "Oct 13, 2025 · 8:59 AM UTC",
+      "url": "https://twitter.com/infinex/status/1977660548704833771#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1977660536906186888#m",
+      "content": "To join the Secret Patron Cabal, you must hold a Patron in your Infinex account.\n\nTo activate the channel:\nGo to Settings → Connected Accounts → Connect Telegram.\nLog into your Telegram account, and you’ll receive an automated invitation to the channel.",
+      "timestamp": "Oct 13, 2025 · 8:59 AM UTC",
+      "url": "https://twitter.com/infinex/status/1977660536906186888#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1977660524545597917#m",
+      "content": "Welcome to the new crop of Patron holders who joined us following @token2049 👋\n\nIt's always nice to see new faces.\n\nReminder of the Patron perks now available to you:\n→ No fees on most transactions\n→ Early access to new features (including the Infinex Extension RN)\n→ Access to Patron-only TG channel and IRL VIP events",
+      "timestamp": "Oct 13, 2025 · 8:59 AM UTC",
+      "url": "https://twitter.com/infinex/status/1977660524545597917#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1977540143344238745#m",
+      "content": "Part 3, Permissionless, New York → Build like Infinex piped.kavin.rocks/watch?v=gSzWWr00…",
+      "timestamp": "Oct 13, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/infinex/status/1977540143344238745#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1977540141389594834#m",
+      "content": "Part 2, Accelerate, New York → You don't need a CEX piped.kavin.rocks/watch?v=WUSU_Mtz…",
+      "timestamp": "Oct 13, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/infinex/status/1977540141389594834#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1977540139346997346#m",
+      "content": "This is the fourth in a series of recent talks from @kaiynne on the topic of crypto wallets, and their evolution, and how Infinex is approaching the hard problems in this space. Previous talks:\n\nPart 1, Token2049, Dubai → The Builder's Dilemma piped.kavin.rocks/watch?v=DcMkpbWV…",
+      "timestamp": "Oct 13, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/infinex/status/1977540139346997346#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1977540137337983325#m",
+      "content": "Last week, at @token2049 in Singapore, @kaiynne gave a talk about the emerging crypto Super app form factor, and the evolution of wallets.\n\nWatch the full talk here → piped.kavin.rocks/watch?v=q46Yr0_o…",
+      "timestamp": "Oct 13, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/infinex/status/1977540137337983325#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1976487224377254282#m",
+      "content": "Tap the link to learn more 👉\nblog.synthetix.io/6-more-wee…",
+      "timestamp": "Oct 10, 2025 · 3:17 AM UTC",
+      "url": "https://twitter.com/infinex/status/1976487224377254282#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1976487212624773435#m",
+      "content": "Raffle prize winners\n\n🥇 1st – 1 ETH - Shimi\n🥈 2nd – 1 x Patron - STC\n🥉 3rd – 1 x Patron - hzzgood48\n🎖️ 4th – 2,000 SNX - Doc\n🎖️ 5th – 1,000 SNX - trader1",
+      "timestamp": "Oct 10, 2025 · 3:17 AM UTC",
+      "url": "https://twitter.com/infinex/status/1976487212624773435#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1976487200121643260#m",
+      "content": "The Synthetix $sUSD rewards competition - weekly prizes.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Oct 10, 2025 · 3:17 AM UTC",
+      "url": "https://twitter.com/infinex/status/1976487200121643260#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1976455021899415736#m",
+      "content": "The most CEX-like trading experience onchain is here.\n\nRead more on Infinex Perps → cointelegraph.com/news/metam…",
+      "timestamp": "Oct 10, 2025 · 1:09 AM UTC",
+      "url": "https://twitter.com/infinex/status/1976455021899415736#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1976143785617916279#m",
+      "content": "The Infinex Extension is now available to Patrons.\n\nComing to all Infinex users later this month.\n\nLearn more and sign up → infinex.xyz",
+      "timestamp": "Oct 9, 2025 · 4:32 AM UTC",
+      "url": "https://twitter.com/infinex/status/1976143785617916279#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1976143773731262523#m",
+      "content": "Who'd have thought that a browser wallet extension would be news in 2025?\n\nIt turns out that if you swap out seed phrases for passkeys, suddenly your Infinex account becomes a universal crypto wallet, and everything changes.\n\nRead more → cointelegraph.com/news/infin…",
+      "timestamp": "Oct 9, 2025 · 4:32 AM UTC",
+      "url": "https://twitter.com/infinex/status/1976143773731262523#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1976034729909731560#m",
+      "content": "Everyone wants to be a super app right now. But building the foundation for good multi device UX requires a lot of work. It’s going to become obvious how much Infinex has invested in our infrastructure stack very soon.",
+      "timestamp": "Oct 8, 2025 · 9:19 PM UTC",
+      "url": "https://twitter.com/infinex/status/1976034729909731560#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1975808610937819256#m",
+      "content": "And to round out the week, a VIP dinner at the Mandala Club just before F1 weekend. It was a chance to connect with founders, partners and our Patrons IRL.\n\nToken2049 was the kickoff.  We're hyped to share what’s coming next 👀",
+      "timestamp": "Oct 8, 2025 · 6:20 AM UTC",
+      "url": "https://twitter.com/infinex/status/1975808610937819256#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1975808598925320551#m",
+      "content": "We wrapped the day with our afterparty with @1inch at the ArtScience Museum - plenty of Infinex Spritzes, plenty of energy.",
+      "timestamp": "Oct 8, 2025 · 6:20 AM UTC",
+      "url": "https://twitter.com/infinex/status/1975808598925320551#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1975808360571400388#m",
+      "content": "From there, we teamed up with @1inch for Unite DeFi, a full day of panels, talks, and some of the best minds in the space. Highlights included @kaiynne’s fireside with @deacix and a 🔥 panel with Kain, @StaniKulechov, @gluk64, and @k06a.",
+      "timestamp": "Oct 8, 2025 · 6:19 AM UTC",
+      "url": "https://twitter.com/infinex/status/1975808360571400388#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1975808332150808803#m",
+      "content": "Day one set the tone. @kaiynne took the stage to share the story behind the Infinex Super app and why it’s becoming the next major form factor for crypto. The big moment - the launch of Infinex Perps.\n\nIf you missed it, no stress - we’ll be sharing the full keynote soon.",
+      "timestamp": "Oct 8, 2025 · 6:19 AM UTC",
+      "url": "https://twitter.com/infinex/status/1975808332150808803#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1975808301792436403#m",
+      "content": "We’re back from an incredible week at @Token2049 and it’s safe to say Super app shipping season has begun 🔥\nA 🧵",
+      "timestamp": "Oct 8, 2025 · 6:19 AM UTC",
+      "url": "https://twitter.com/infinex/status/1975808301792436403#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1975467886182604918#m",
+      "content": "ICYMI Infinex Perps is LIVE 🚀\n\nTry the most CEX-like trading experience onchain, powered by Infinex Connect + @HyperliquidX.\n\n→ Trade 100+ markets with up to 40x leverage\n→ Fund with any asset - no bridging required\n→ Trade on any device with your Infinex passkey\n→ Seamless on desktop and mobile\n→ Plus, get 80% fee cashback on every trade\n\nLearn more and get started → infinex.xyz/perps",
+      "timestamp": "Oct 7, 2025 · 7:47 AM UTC",
+      "url": "https://twitter.com/infinex/status/1975467886182604918#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1975361146418028694#m",
+      "content": "Tap the link to learn more 👉\nblog.synthetix.io/6-more-wee…",
+      "timestamp": "Oct 7, 2025 · 12:42 AM UTC",
+      "url": "https://twitter.com/infinex/status/1975361146418028694#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1975361134619468257#m",
+      "content": "Raffle prize winners\n\n🥇 1st – 1 ETH - Infinexfan\n🥈 2nd – 1 x Patron - Shimi\n🥉 3rd – 1 x Patron - mitn\n🎖️ 4th – 2,000 SNX - pkwn888\n🎖️ 5th – 1,000 SNX - Paf",
+      "timestamp": "Oct 7, 2025 · 12:42 AM UTC",
+      "url": "https://twitter.com/infinex/status/1975361134619468257#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1975361122208546978#m",
+      "content": "ICYMI - 6 more weeks of sUSD rewards\n\nThe @synthetix_io sUSD rewards campaign is powering on this month as the Synthetix Mainnet launch gains momentum. Deposit sUSD on Infinex before November 7th, 2025 to keep earning and unlock onchain prizes.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Oct 7, 2025 · 12:42 AM UTC",
+      "url": "https://twitter.com/infinex/status/1975361122208546978#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1973553885072539763#m",
+      "content": "Or cosy up to our Fireside Chat at 14:25\n\nBuilding DeFi: Parallel Paths, Shared Vision\n\nBuilding through cycles, aligning communities & onboarding the next wave.\n\nSpeakers: @deacix (1inch), @kaiynne (Infinex) \nModerator: @DominicGCox (1inch)",
+      "timestamp": "Oct 2, 2025 · 1:01 AM UTC",
+      "url": "https://twitter.com/infinex/status/1973553885072539763#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1973617454917239228#m",
+      "content": "The party will be kicking off in the atmospheric bottom level of the Art Science Museum at 8pm\n\nTickets here 👇\nluma.com/become1",
+      "timestamp": "Oct 2, 2025 · 5:14 AM UTC",
+      "url": "https://twitter.com/infinex/status/1973617454917239228#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1973617442846024051#m",
+      "content": "2:25pm Building DeFi - Kain fireside with 1\" founder @deacix\n3pm Pioneer Insights - DeFi Panel with @k06a (1inch), @StaniKulechov (Aave), @kaiynne (Infinex), @gluk64 (zkSync Foundation)\n\nGet your tickets here!\nluma.com/unitedefi",
+      "timestamp": "Oct 2, 2025 · 5:14 AM UTC",
+      "url": "https://twitter.com/infinex/status/1973617442846024051#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1973617430737068038#m",
+      "content": "Today, we're taking over the world famous ArtScience Museum with our friends from @1inch.\n\nWe'll give you a day of talks, firesides and the legendary Infinex Spritz in the evening 🍹",
+      "timestamp": "Oct 2, 2025 · 5:13 AM UTC",
+      "url": "https://twitter.com/infinex/status/1973617430737068038#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1973557256374591923#m",
+      "content": "My first ever Keynote Speech did NOT go as planned",
+      "timestamp": "Oct 2, 2025 · 1:14 AM UTC",
+      "url": "https://twitter.com/infinex/status/1973557256374591923#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1973362134919852378#m",
+      "content": "Live stream for @CryptoFightWeek \n\nI'll be in the ring around 10pm SGT \n\nlocalhost:8080/i/broadcasts/1OyKAjkaY…",
+      "timestamp": "Oct 1, 2025 · 12:19 PM UTC",
+      "url": "https://twitter.com/infinex/status/1973362134919852378#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1973327277690855690#m",
+      "content": "I almost DIED recording this important announcement",
+      "timestamp": "Oct 1, 2025 · 10:01 AM UTC",
+      "url": "https://twitter.com/infinex/status/1973327277690855690#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1973324217149186401#m",
+      "content": "Enter the Super app.\n@token2049",
+      "timestamp": "Oct 1, 2025 · 9:48 AM UTC",
+      "url": "https://twitter.com/infinex/status/1973324217149186401#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1973205933078749455#m",
+      "content": "Sign up and trade now → app.infinex.xyz or\nLearn more → infinex.xyz/perps",
+      "timestamp": "Oct 1, 2025 · 1:58 AM UTC",
+      "url": "https://twitter.com/infinex/status/1973205933078749455#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1973205921418584238#m",
+      "content": "We’re also rebating 80% of our builder fee as direct cashback on every trade for a limited time.",
+      "timestamp": "Oct 1, 2025 · 1:58 AM UTC",
+      "url": "https://twitter.com/infinex/status/1973205921418584238#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1973205909456429249#m",
+      "content": "Everything you need at your fingertips:\n→ Drag TP/SL directly on chart\n→ Quickly reverse your position\n→ Instantly close all positions\n→ View your trade history with rolled up fills\n→ See expected PnL when setting TP/SL\n→ Star your favourites for quick access",
+      "timestamp": "Oct 1, 2025 · 1:58 AM UTC",
+      "url": "https://twitter.com/infinex/status/1973205909456429249#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1973205897532084301#m",
+      "content": "From day one you can:\n→ Trade 100+ markets with up to 40x leverage\n→ Fund with any asset - no bridging required\n→ Trade on any device with your Infinex passkey\n→ Instantly reverse or close all positions\n→ Earn 80% fee cashback on trades (limited time)\n→ Trade seamlessly on desktop and mobile",
+      "timestamp": "Oct 1, 2025 · 1:58 AM UTC",
+      "url": "https://twitter.com/infinex/status/1973205897532084301#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1972891906477895832#m",
+      "content": "Catch @kaiynne on stage Day 1 of @token2049 as he unpacks why the super app is the emerging form factor in crypto.\n\n📅  Wednesday, Oct 1st\n⏰ 10.35am\n📍 BingX Stage",
+      "timestamp": "Sep 30, 2025 · 5:10 AM UTC",
+      "url": "https://twitter.com/infinex/status/1972891906477895832#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1972687458199384229#m",
+      "content": "Work hard, degen harder.\n\nAfter Unite DeFi, the real fun starts: Become 1  🚀 - another legendary 1inch party.\n\nluma.com/become1\n\nOct 2 · 20:00–01:00 · ArtScience Museum\n\nTwo floors. Web3’s brightest stars. A night to remember.  Big up to @infinex + @arkham for helping us bring the vibes.",
+      "timestamp": "Sep 29, 2025 · 3:38 PM UTC",
+      "url": "https://twitter.com/infinex/status/1972687458199384229#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1972496930531061810#m",
+      "content": "Its going to be a big Wednesday.\n\n@kaiynne's delivering a keynote at @token2049, the headline fight at @CryptoFightWeek and we're launching Infinex Perps.\n\nLock in.",
+      "timestamp": "Sep 29, 2025 · 3:01 AM UTC",
+      "url": "https://twitter.com/infinex/status/1972496930531061810#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1971850374408819014#m",
+      "content": "GM ☀️\n\nIn 6 days, we're throwing down with @1inch for what's set to be the best night of @Token2049. This isn't your average side event.\n\nUp-only vibes, the best crowd in the game, over two floors, and a night you won't forget.\n\nClear your calendar for Oct 2 and lock in your spot.\n\nluma.com/become1",
+      "timestamp": "Sep 27, 2025 · 8:12 AM UTC",
+      "url": "https://twitter.com/infinex/status/1971850374408819014#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1971469156353806576#m",
+      "content": "Look out for an announcement next week, during @Token2049.\n\nHaven't got an Infinex account yet? Sign up with one click → app.infinex.xyz",
+      "timestamp": "Sep 26, 2025 · 6:57 AM UTC",
+      "url": "https://twitter.com/infinex/status/1971469156353806576#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1971469142936154324#m",
+      "content": "Infinex Perps is the most CEX-like trading experience onchain, powered by @HyperliquidX.\n\n→ 100+ markets, up to 40x leverage\n→ Fund your account with any asset and start trading in 2 clicks\n→ Trade on any device with your Infinex passkey\n→ Instantly \"Close All Positions\"\n→ One click \"Reverse\" your position\n→ and much more...",
+      "timestamp": "Sep 26, 2025 · 6:57 AM UTC",
+      "url": "https://twitter.com/infinex/status/1971469142936154324#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1971469125701730702#m",
+      "content": "Infinex Perps is going live for everyone next week.\n\nPatrons got early access and have been trading on Infinex Perps for the last four weeks, helping us dial in the trading experience.\n\nIt's ready.",
+      "timestamp": "Sep 26, 2025 · 6:57 AM UTC",
+      "url": "https://twitter.com/infinex/status/1971469125701730702#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1971398272892936322#m",
+      "content": "Tap the link to learn more 👉\nblog.synthetix.io/6-more-wee…",
+      "timestamp": "Sep 26, 2025 · 2:15 AM UTC",
+      "url": "https://twitter.com/infinex/status/1971398272892936322#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1971398260142244085#m",
+      "content": "Raffle prize winners:\n🥇 1st – 1x Patron NFT - Simon202\n🥈 2nd – 1x Patron NFT - Shimi\n🥉 3rd – 1 $ETH - Paf\n🎖️ 4th – 2,000 $SNX - Infinexfan\n🎖️ 5th – 1,000 $SNX - laonie",
+      "timestamp": "Sep 26, 2025 · 2:15 AM UTC",
+      "url": "https://twitter.com/infinex/status/1971398260142244085#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1971398247500632531#m",
+      "content": "The Synthetix $sUSD rewards competition - weekly prizes.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Sep 26, 2025 · 2:15 AM UTC",
+      "url": "https://twitter.com/infinex/status/1971398247500632531#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1970125937678164148#m",
+      "content": "LIVE NOW -  How Synthetix Brings Perps Back to The Ethereum L1\n\nAn Ethereum L1 Perp DEX was thought to be impossible.\n\nBut @kaiynne argues the unlock is here:\n\n- An optimistic orderbook\n- 12s of CEX (orders are matched off-chain), then it’s settled on-chain\n\nPlus: a $1M celebrity trading competition is coming.\n\n---\nTIMESTAMPS\n\n0:00 Boxing, Beef & Bitlord\n4:04 The Super App Thesis\n8:20 The Revenue Meta\n14:27 Lessons From Binance\n22:55 @Synthetix_io Returns to Ethereum L1\n32:50 The $1M Trading Competition\n38:43 The Future of @infinex \n45:08 Closing Thoughts",
+      "timestamp": "Sep 22, 2025 · 2:00 PM UTC",
+      "url": "https://twitter.com/infinex/status/1970125937678164148#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1970007943736422684#m",
+      "content": "From wallets to Super Apps - see @kaiynne live @Token2049",
+      "timestamp": "Sep 22, 2025 · 6:11 AM UTC",
+      "url": "https://twitter.com/infinex/status/1970007943736422684#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1969216125809344678#m",
+      "content": "Your Infinex wallet has been upgraded.\nPerps. Soon.",
+      "timestamp": "Sep 20, 2025 · 1:44 AM UTC",
+      "url": "https://twitter.com/infinex/status/1969216125809344678#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1968848751906410906#m",
+      "content": "Tap the link to learn more 👉\nblog.synthetix.io/p/daf11986…",
+      "timestamp": "Sep 19, 2025 · 1:24 AM UTC",
+      "url": "https://twitter.com/infinex/status/1968848751906410906#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1968848739944317042#m",
+      "content": "Raffle prize winners:\n🥇 1st – 1x Patron NFT - Paf\n🥈 2nd – 1x Patron NFT - pkwn888\n🥉 3rd – 1 $ETH - bingo\n🎖️ 4th – 2,000 $SNX - StAc\n🎖️ 5th – 1,000 $SNX - Shimi",
+      "timestamp": "Sep 19, 2025 · 1:24 AM UTC",
+      "url": "https://twitter.com/infinex/status/1968848739944317042#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1968848727063556401#m",
+      "content": "The Synthetix $sUSD rewards competition - weekly prizes.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Sep 19, 2025 · 1:24 AM UTC",
+      "url": "https://twitter.com/infinex/status/1968848727063556401#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1967408028149239960#m",
+      "content": "Kain Warwick (@kaiynne) is back at TOKEN2049 to reveal why crypto wallets have become a graveyard of failed experiments and CEX conquests. The @synthetix_io founder is now building @infinex - reimagining the entire category as a trading super app, the new wallet form factor.",
+      "timestamp": "Sep 15, 2025 · 2:00 AM UTC",
+      "url": "https://twitter.com/infinex/status/1967408028149239960#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1966338816018731222#m",
+      "content": "Tap the link to learn more 👉\nblog.synthetix.io/p/daf11986…",
+      "timestamp": "Sep 12, 2025 · 3:11 AM UTC",
+      "url": "https://twitter.com/infinex/status/1966338816018731222#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1966338804182347800#m",
+      "content": "Raffle prize winners:\n🥇 1st – 1x Patron NFT - _Martin_\n🥈 2nd – 1x Patron NFT - Shimi\n🥉 3rd – 1 $ETH - applele\n🎖️ 4th – 2,000 $SNX - hzzgood48\n🎖️ 5th – 1,000 $SNX - bingo",
+      "timestamp": "Sep 12, 2025 · 3:11 AM UTC",
+      "url": "https://twitter.com/infinex/status/1966338804182347800#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1966338791603581559#m",
+      "content": "The Synthetix $sUSD rewards competition - weekly prizes.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Sep 12, 2025 · 3:11 AM UTC",
+      "url": "https://twitter.com/infinex/status/1966338791603581559#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1965644819071741993#m",
+      "content": "We're excited to be joining @1inch to bring you this unforgettable day + night at @token2049\n\nJoin us at 'Unite DeFi' during the day for some thought-provoking talks and networking. Come evening, turn it up a notch for our 'Become 1' underground party with 1inch and @arkham - all at the iconic ArtScience Museum.\n\nSee you there 🔥",
+      "timestamp": "Sep 10, 2025 · 5:13 AM UTC",
+      "url": "https://twitter.com/infinex/status/1965644819071741993#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1965589308645278098#m",
+      "content": "Renegade's dark pools just went live on Infinex 🥷🏼\n\nPick @renegade_fi from your quotes on Arbitrum and Base for ZK-powered swaps with direct matching.\n\nBetter prices and trading privacy.",
+      "timestamp": "Sep 10, 2025 · 1:33 AM UTC",
+      "url": "https://twitter.com/infinex/status/1965589308645278098#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1965264334768177296#m",
+      "content": "🚨 ICYMI, a large scale supply-chain attack was detected earlier today, via a compromised NPM account.\n\nInfinex accounts are not impacted – we have confirmed that the compromised packages are not part of our direct dependencies.\n\nAs a precaution, we’ve also reached out to every swidge provider and are confirming with each team directly that their systems are not affected.\nWe’ve disabled some integrations while we get confirmation and will enable them as soon as we hear back.\n\nWe’ll continue to keep an eye on things and share updates if needed.",
+      "timestamp": "Sep 9, 2025 · 4:01 AM UTC",
+      "url": "https://twitter.com/infinex/status/1965264334768177296#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1964888992803123635#m",
+      "content": "LFG",
+      "timestamp": "Sep 8, 2025 · 3:10 AM UTC",
+      "url": "https://twitter.com/infinex/status/1964888992803123635#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1963778813575540815#m",
+      "content": "Tap the link to learn more 👉\nblog.synthetix.io/p/daf11986…",
+      "timestamp": "Sep 5, 2025 · 1:38 AM UTC",
+      "url": "https://twitter.com/infinex/status/1963778813575540815#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1963778801625956670#m",
+      "content": "Raffle prize winners:\n🥇 1st – 1x Patron NFT - thesettingsun\n🥈 2nd – 1x Patron NFT - Shimi\n🥉 3rd – 1 $ETH - hzzgood48\n🎖️ 4th – 2,000 $SNX - ned\n🎖️ 5th – 1,000 $SNX - Paf",
+      "timestamp": "Sep 5, 2025 · 1:38 AM UTC",
+      "url": "https://twitter.com/infinex/status/1963778801625956670#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1963778788959064485#m",
+      "content": "The Synthetix $sUSD rewards competition - weekly prizes.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Sep 5, 2025 · 1:38 AM UTC",
+      "url": "https://twitter.com/infinex/status/1963778788959064485#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1963472972485956055#m",
+      "content": "$STRAT mirrors MicroStrategy's model onchain.\n\n11,000+ ETH treasury. Leveraged ETH exposure, with no risk of liquidation.\n\nWhile $ESPN productizes ETH's volatility.\n\nBonds capital, sells options, compounds premiums perpetually. The $1M launch cap filled in 2 hours earlier today.",
+      "timestamp": "Sep 4, 2025 · 5:23 AM UTC",
+      "url": "https://twitter.com/infinex/status/1963472972485956055#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1963472960473501835#m",
+      "content": "Two new @eth_strategy products have landed on Infinex.\n\nThe first and largest onchain digital asset treasury brings MicroStrategy's playbook to DeFi.\n\nYou can now deposit, send and swidge $STRAT & $ESPN.",
+      "timestamp": "Sep 4, 2025 · 5:23 AM UTC",
+      "url": "https://twitter.com/infinex/status/1963472960473501835#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1962322882127905016#m",
+      "content": "x.com/i/article/195878519063…",
+      "timestamp": "Sep 1, 2025 · 1:13 AM UTC",
+      "url": "https://twitter.com/infinex/status/1962322882127905016#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1961283787037290847#m",
+      "content": "Every morning I wake up and try to remember all the features @infinex is working on and I never remember them all.",
+      "timestamp": "Aug 29, 2025 · 4:24 AM UTC",
+      "url": "https://twitter.com/infinex/status/1961283787037290847#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1961242069982417131#m",
+      "content": "Tap the link to learn more 👉\nblog.synthetix.io/p/daf11986…",
+      "timestamp": "Aug 29, 2025 · 1:38 AM UTC",
+      "url": "https://twitter.com/infinex/status/1961242069982417131#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1961242058162934174#m",
+      "content": "Raffle prize winners:\n🥇 1st – 1x Patron NFT – thesettingsun\n🥈 2nd – 1x Patron NFT - Shimi\n🥉 3rd – 1 $ETH – Paf\n🎖️ 4th – 2,000 $SNX – pkwn888\n🎖️ 5th – 1,000 $SNX – 0x4",
+      "timestamp": "Aug 29, 2025 · 1:38 AM UTC",
+      "url": "https://twitter.com/infinex/status/1961242058162934174#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1961242045571604708#m",
+      "content": "The Synthetix $sUSD rewards competition - weekly prizes.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Aug 29, 2025 · 1:38 AM UTC",
+      "url": "https://twitter.com/infinex/status/1961242045571604708#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1959266928012190187#m",
+      "content": "Picked up another 10 Infinex Patrons over the past week through some lowball bids that impatient mayo hands dumped into.\n\nNot sure why you guys hate money, but thanks I guess.\n\nIt’s slowly but surely becoming my biggest bag in the portfolio. I honestly don’t get how people are still sidelined here, this opportunity is a blessing.\n\nLet me explain why:\n\nThe next 3–6 months are shaping up to be max bullish and risk-on. Projects that will generate the most momentum and attention will also be the biggest winners.\n\nThis will happen through a series of fundamental upgrades for Infinex that are about to roll out, the result of 6–12 months of hard work behind the scenes:\n\n- Infinex Predict\n- Infinex NFT\n- Infinex Perps / Hyperliquid integration\n- Native $SUI support\n- Infinex browser extension\n- Fiat on-ramp\n\nCombine that with the following catalysts:\n\n- Retail is coming, hence a wave of new users Infinex can capture\n\n- DeFi will thrive in up-only conditions as activity, volume & fees turn reflexive\n\n- From @kaiynne podcasts/interviews, it’s clear their TGE is still coming this year, so expecting a big marketing push and momentum ramp-up\n\nThere are a ton more reasons I’m bullish on Infinex as the main DeFi play, but I’ll leave it here before this turns into a novel.\n\nSo yeah, screenshot this and keep dumping your Patron NFTs at ridiculous prices. We’ll keep buying them.\n\nWinning isn’t for everyone.",
+      "timestamp": "Aug 23, 2025 · 2:50 PM UTC",
+      "url": "https://twitter.com/infinex/status/1959266928012190187#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1958743414394253397#m",
+      "content": "Tap the link to learn more 👉\nblog.synthetix.io/p/daf11986…",
+      "timestamp": "Aug 22, 2025 · 4:09 AM UTC",
+      "url": "https://twitter.com/infinex/status/1958743414394253397#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1958743402650247428#m",
+      "content": "Raffle prize winners:\n🥇 1st – 1x Patron NFT – trader1\n🥈 2nd – 1x Patron NFT - Lowkeigh\n🥉 3rd – 1 $ETH – Paf\n🎖️ 4th – 2,000 $SNX – quantum\n🎖️ 5th – 1,000 $SNX – fendi",
+      "timestamp": "Aug 22, 2025 · 4:09 AM UTC",
+      "url": "https://twitter.com/infinex/status/1958743402650247428#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1958743389954085344#m",
+      "content": "The Synthetix $sUSD rewards competition - weekly prizes.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Aug 22, 2025 · 4:09 AM UTC",
+      "url": "https://twitter.com/infinex/status/1958743389954085344#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1958397623033065671#m",
+      "content": "$YZY just landed on Infinex Perps for Patrons, with up to 3x leverage.\n\nRemember:\n→ Low liquidity = wide spreads\n→ High volatility = quick moves\n→ Leverage = increased risk\n\nListing ≠ endorsement. Trade what you understand.",
+      "timestamp": "Aug 21, 2025 · 5:15 AM UTC",
+      "url": "https://twitter.com/infinex/status/1958397623033065671#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1958357717858607457#m",
+      "content": "$YZY landed on Infinex the moment trading started 🌊\n\nDeposit, send and swidge @kanyewest's official token now.",
+      "timestamp": "Aug 21, 2025 · 2:37 AM UTC",
+      "url": "https://twitter.com/infinex/status/1958357717858607457#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1957640537336607133#m",
+      "content": "Remember Infinex will never ask for your private keys, seed phrases, or passwords via email. If you're unsure about any communication head to infinex.xyz and tap \"Get Support\" to speak with our customer support team.",
+      "timestamp": "Aug 19, 2025 · 3:07 AM UTC",
+      "url": "https://twitter.com/infinex/status/1957640537336607133#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1957640525529641357#m",
+      "content": "Security Alert 🚨\n\nInfinex users, we're aware of fraudulent emails circulating with the subject \"Introducing the Infinex Desktop Application\". The email is referencing a fake Infinex website.\n\nThis is a scam. Do NOT click any links in the email. Delete it immediately and mark it as spam.",
+      "timestamp": "Aug 19, 2025 · 3:07 AM UTC",
+      "url": "https://twitter.com/infinex/status/1957640525529641357#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1957269576837935293#m",
+      "content": "Also, if you're a Patron, we've got more Hype-related announcements coming up this week, so look out for that 👀",
+      "timestamp": "Aug 18, 2025 · 2:33 AM UTC",
+      "url": "https://twitter.com/infinex/status/1957269576837935293#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1957269564775100640#m",
+      "content": "You can now access:\n→ $HYPE, $PURR\n\nAnd tokens from ecosystem projects like:\n→ @kinetiq_xyz's $kHYPE\n→ @USDT0_to's $USDT0\n→ @hyperunit's tokens ($UBTC, $UETH, $USOL, $UFART, $UPUMP)\n\nSearch any token by name or drop in a contract address in the Explorer to see live prices, token info, and filter by chain to check what’s live on HyperEVM.",
+      "timestamp": "Aug 18, 2025 · 2:33 AM UTC",
+      "url": "https://twitter.com/infinex/status/1957269564775100640#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1957269552695480779#m",
+      "content": "HyperEVM is now live on Infinex for all users 💧\n\n@HyperliquidX's previously siloed ecosystem is now instantly accessible. Send, deposit, and Swidge on HyperEVM from your Infinex Account.\n\nHyperliquid",
+      "timestamp": "Aug 18, 2025 · 2:33 AM UTC",
+      "url": "https://twitter.com/infinex/status/1957269552695480779#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1956209800754422063#m",
+      "content": "View the final Season 1 leaderboard here infinex.xyz/yaprun",
+      "timestamp": "Aug 15, 2025 · 4:22 AM UTC",
+      "url": "https://twitter.com/infinex/status/1956209800754422063#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1956209788775489777#m",
+      "content": "Yaprun Season 1 Airdrop is live 🪂\n\nOver 150M µPatrons has now been distributed.\n\nIf you ranked in the top 501 for Season 1, you can now log into your Infinex account to claim your µPatrons.",
+      "timestamp": "Aug 15, 2025 · 4:22 AM UTC",
+      "url": "https://twitter.com/infinex/status/1956209788775489777#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1956199750820356136#m",
+      "content": "Tap the link to learn more 👉\nblog.synthetix.io/p/daf11986…",
+      "timestamp": "Aug 15, 2025 · 3:42 AM UTC",
+      "url": "https://twitter.com/infinex/status/1956199750820356136#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1956199739038556412#m",
+      "content": "Raffle prize winners:\n\n🥇 1st – 1x Patron NFT – trader1\n🥈 2nd – 1x Patron NFT - shimi\n🥉 3rd – 1 $ETH – pessegaylishu\n🎖️ 4th – 2,000 $SNX – mogukong\n🎖️ 5th – 1,000 $SNX – phill",
+      "timestamp": "Aug 15, 2025 · 3:42 AM UTC",
+      "url": "https://twitter.com/infinex/status/1956199739038556412#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1956199726526947592#m",
+      "content": "The Synthetix $sUSD rewards competition has been extended until 26 September.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Aug 15, 2025 · 3:42 AM UTC",
+      "url": "https://twitter.com/infinex/status/1956199726526947592#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1955943270997221689#m",
+      "content": "Tomorrow and Monday we are holding demo days to show patrons everything we will be releasing ahead of token 2049 now Infinex connect is live. More details incoming.",
+      "timestamp": "Aug 14, 2025 · 10:43 AM UTC",
+      "url": "https://twitter.com/infinex/status/1955943270997221689#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1955872112511737926#m",
+      "content": "We recently announced Swidge support for $BTC, $DOGE, $XRP (swap $BTC → $SOL in just a few clicks!) All powered by @NEARProtocol’s intent-based architecture.\n\n@kaiynne and @ilblackdragon caught up on the news with @farokh on @rugradio. Don't miss it 👇",
+      "timestamp": "Aug 14, 2025 · 6:00 AM UTC",
+      "url": "https://twitter.com/infinex/status/1955872112511737926#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1955736893695340639#m",
+      "content": "YapRun Season 1 has wrapped up.\n\nReal Infinex users were rewarded for great, creative, innovative and original content during the season.  \n\nThe community was dropped over 1.5m uPatrons valued at almost 1 million $USD in total value. 👀\n\nBut who are they? and what did they say about their drop?\n\n🧵👇",
+      "timestamp": "Aug 13, 2025 · 9:03 PM UTC",
+      "url": "https://twitter.com/infinex/status/1955736893695340639#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1955564092107759658#m",
+      "content": "There’s one sentence here that stood out to me and here are my thoughts on it:\n\n“The timeline was overwhelmed by low-quality content. Bots destroyed the network effects of legitimate content creators.”\n\nThis is a very interesting observation.\n\nNot long ago, when my favorite creators spoke about an ecosystem, it would push me to genuinely explore further.\n\nBut now that I think about it, it’s been a while since I’ve studied an ecosystem deeply.\n\nThose same creators I used to pause for and study their content and breakdowns, I now skip.\n\nAnd that’s because what appeared back then as authentic interest has become incentivized shilling.",
+      "timestamp": "Aug 13, 2025 · 9:36 AM UTC",
+      "url": "https://twitter.com/infinex/status/1955564092107759658#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1954875286329192663#m",
+      "content": "Today @infinex Changed My Life \n\nI end up on #15 YapRun Season 1\n\nMade $9.100 with 800 followers from one project\n\nFor s0 + s1 I made 10k, just for Yapping \n\nThat was a long journey where I climbed from #143 to #15 in less than 3 months \n\nCongratulations to everyone who won with Infinex today\n\nInfinex your everything crypto app",
+      "timestamp": "Aug 11, 2025 · 11:59 AM UTC",
+      "url": "https://twitter.com/infinex/status/1954875286329192663#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1955432752477860111#m",
+      "content": "x.com/i/article/195518600245…",
+      "timestamp": "Aug 13, 2025 · 12:54 AM UTC",
+      "url": "https://twitter.com/infinex/status/1955432752477860111#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1955187265959039050#m",
+      "content": "🧵 on Season 1 of Yaprun\n\nYup, that's us. I bet you're wondering how we got ourselves into this situation. Well, it all started four months ago...",
+      "timestamp": "Aug 12, 2025 · 8:39 AM UTC",
+      "url": "https://twitter.com/infinex/status/1955187265959039050#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1954839167562924367#m",
+      "content": "The Yaprun Experiment went from permissionless attention game to bot farm nightmare.\n\n@kaiynne breaks down how genuine yappers got drowned in \"a tsunami of slop\" and why Season 2 will reward quality over quantity.\n\n\"You can't negotiate with terrorists\" 🎬",
+      "timestamp": "Aug 11, 2025 · 9:35 AM UTC",
+      "url": "https://twitter.com/infinex/status/1954839167562924367#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1954802125881676113#m",
+      "content": "The airdrop will be distributed soon. Keep your eyes on our X or your Infinex account to claim your airdrop.\n\nThank you to everyone who participated authentically in Season 1. Season 2 has not started yet (and will see some big changes). We'll share details soon.",
+      "timestamp": "Aug 11, 2025 · 7:08 AM UTC",
+      "url": "https://twitter.com/infinex/status/1954802125881676113#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1954802114154348651#m",
+      "content": "We'll share a conversation with @kaiynne soon, where he unwraps Season 1, and what's next.",
+      "timestamp": "Aug 11, 2025 · 7:08 AM UTC",
+      "url": "https://twitter.com/infinex/status/1954802114154348651#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1954802102020223182#m",
+      "content": "What got rewarded?\n\n→ Original, thoughtful content\n→ Genuine community engagement\n→ Consistent quality contributions\n→ Real referrals that used the platform\n\nWhat got nerfed?\n→ Copy-paste threads\n→ Bot activity\n→ Farming leaderboards\n→ Spam referral-links",
+      "timestamp": "Aug 11, 2025 · 7:08 AM UTC",
+      "url": "https://twitter.com/infinex/status/1954802102020223182#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1954802089932341253#m",
+      "content": "As a reminder, the final leaderboard went through numerous checks and included a review of:\n\n→ Referral + Patrons (as previously communicated)\n→ Nerfing low quality and buffing high quality content\n→ Manual spot checks of accounts\n\ninfinex.xyz/yaprun",
+      "timestamp": "Aug 11, 2025 · 7:08 AM UTC",
+      "url": "https://twitter.com/infinex/status/1954802089932341253#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1954802077575840138#m",
+      "content": "Yaprun Season 1 final rankings are live! 🏆\n\nAfter extensive review, the leaderboard is finalized. 150M µPatrons are being distributed to the Top 501 contributors.\n\n🥇 @shmula\n🥈 @sjdedic\n🥉 @aibra\n\nCongratulations to all the Yappers out there who made the cut.\n\nA🧵",
+      "timestamp": "Aug 11, 2025 · 7:08 AM UTC",
+      "url": "https://twitter.com/infinex/status/1954802077575840138#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1953672528880382301#m",
+      "content": "Infinex yaprun leaderboard release is delayed till next week due to unforeseen circumstances.\n\nhalf our team has caught a bad case of ligma.\n\ndon't worry, next week will be a feast.",
+      "timestamp": "Aug 8, 2025 · 4:20 AM UTC",
+      "url": "https://twitter.com/infinex/status/1953672528880382301#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1953674986763518222#m",
+      "content": "Tap the link to learn more 👉 blog.synthetix.io/susd-depos…",
+      "timestamp": "Aug 8, 2025 · 4:29 AM UTC",
+      "url": "https://twitter.com/infinex/status/1953674986763518222#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1953674974906265745#m",
+      "content": "Raffle prize winners:\n\n🥇 1st – 1x Patron NFT – jackattack\n🥈 2nd – 1x Patron NFT - Paf\n🥉 3rd – 1 $ETH – Shimi\n🎖️ 4th – 2,000 $SNX – neekolas\n🎖️ 5th – 1,000 $SNX – pkwn888",
+      "timestamp": "Aug 8, 2025 · 4:29 AM UTC",
+      "url": "https://twitter.com/infinex/status/1953674974906265745#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1953674962281419156#m",
+      "content": "Welcome to Week 5 of the Synthetix $sUSD rewards competition, running until August 15.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Aug 8, 2025 · 4:29 AM UTC",
+      "url": "https://twitter.com/infinex/status/1953674962281419156#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1953005193991471577#m",
+      "content": "PROVE by @SuccinctLabs is live on Infinex.\n\nYou can now swidge from any supported chain to $PROVE on BNB & ETH mainnet.\n\nSuccinct's decentralized prover network makes zero-knowledge proofs accessible to every application.",
+      "timestamp": "Aug 6, 2025 · 8:08 AM UTC",
+      "url": "https://twitter.com/infinex/status/1953005193991471577#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1952633298892853654#m",
+      "content": "Switch between crypto and USD values instantly with our new Unit Switcher 💸\n\nAvailable in Swidge 🔀",
+      "timestamp": "Aug 5, 2025 · 7:30 AM UTC",
+      "url": "https://twitter.com/infinex/status/1952633298892853654#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1952439395862364639#m",
+      "content": "Great conversation with one of the legends of DeFi @kaiynne.\n\nHe drops some really juicy alpha on @infinex and where it’s headed.",
+      "timestamp": "Aug 4, 2025 · 6:40 PM UTC",
+      "url": "https://twitter.com/infinex/status/1952439395862364639#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1951198188431614426#m",
+      "content": "Season 2 has not started yet. We're cooking up a whole new format with better scoring logic for the next season. This format will continue to reward genuine Infinex community members who are helping us grow.\n\nStay tuned for more details on the Season 1 airdrop and Season 2.",
+      "timestamp": "Aug 1, 2025 · 8:27 AM UTC",
+      "url": "https://twitter.com/infinex/status/1951198188431614426#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1951198176666697838#m",
+      "content": "Season 1 will see 150M µPatrons distributed amongst our yappers.\n\nIf you've been genuinely yapping or referring quality users, you'll be rewarded. Just like in Season 0, where 100M µPatrons went to real contributors.\n\nWatch this space for the full allocation breakdown.",
+      "timestamp": "Aug 1, 2025 · 8:27 AM UTC",
+      "url": "https://twitter.com/infinex/status/1951198176666697838#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1951198164868038799#m",
+      "content": "Infinex also recognises that @KaitoAI is actively tackling the issues referenced above - both with the algorithm and slop actors. We’re confident there’s a fix in play.",
+      "timestamp": "Aug 1, 2025 · 8:27 AM UTC",
+      "url": "https://twitter.com/infinex/status/1951198164868038799#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1951198152989745633#m",
+      "content": "Yaprun needs a reset.\n\nWhat started as artisanal, farm-to-table content has devolved into industrialized slop. We've seen a substantial increase in low-effort content over the course of the season. Copy-paste threads, bot-like behavior, and spam that dilutes the aim of Yaprun: building the Infinex community.\n\nFor transparency, we'll be breaking down the review process once complete, showing exactly what content we valued, and what content we didn't.\n\n@kaiynne will share more on this on X, look out for that next week 👀",
+      "timestamp": "Aug 1, 2025 · 8:27 AM UTC",
+      "url": "https://twitter.com/infinex/status/1951198152989745633#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1951198141006619015#m",
+      "content": "The final leaderboard will be published next week.\n\nWe're running a full review before locking in results. This includes:\n→ Referral + Patrons (as previously communicated)\n→ Nerfing low quality & buffing high quality content\n→ Manual checks for spam or low-effort activity",
+      "timestamp": "Aug 1, 2025 · 8:27 AM UTC",
+      "url": "https://twitter.com/infinex/status/1951198141006619015#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1951198129216430229#m",
+      "content": "Yaprun Season 1 concludes today! 🏁\n\nAfter 11 weeks of mindshare battles and yapping, we're wrapping up Season 1.\n\n150M µPatrons are about to be distributed to our top performers.\n\nA🧵",
+      "timestamp": "Aug 1, 2025 · 8:27 AM UTC",
+      "url": "https://twitter.com/infinex/status/1951198129216430229#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1951150971478016341#m",
+      "content": "Tap the link to learn more 👉 blog.synthetix.io/susd-depos…",
+      "timestamp": "Aug 1, 2025 · 5:20 AM UTC",
+      "url": "https://twitter.com/infinex/status/1951150971478016341#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1951150959503302705#m",
+      "content": "Raffle prize winners:\n\n🥇 1st – 1x Patron NFT – Paf\n🥈 2nd – 1x Patron NFT - DoryTrinh\n🥉 3rd – 1 $ETH – miyu\n🎖️ 4th – 2,000 $SNX – nimbus\n🎖️ 5th – 1,000 $SNX – trader1",
+      "timestamp": "Aug 1, 2025 · 5:20 AM UTC",
+      "url": "https://twitter.com/infinex/status/1951150959503302705#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1951150946823921756#m",
+      "content": "Welcome to Week 4 of the Synthetix $sUSD rewards competition, running until August 15.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Aug 1, 2025 · 5:20 AM UTC",
+      "url": "https://twitter.com/infinex/status/1951150946823921756#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1950460451139285372#m",
+      "content": "As always, early access is a Patron-only perk. Patrons get first access to new features, direct feedback loops with the core team, and a range of exclusive benefits.\n\nBecome a Patron → infinex.xyz/patron",
+      "timestamp": "Jul 30, 2025 · 7:36 AM UTC",
+      "url": "https://twitter.com/infinex/status/1950460451139285372#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1950460349460758989#m",
+      "content": "We’re supporting the most active ecosystem tokens from day one:\n→ $HYPE\n→ @USDT0_to\n→ $PURR\n→ $BUDDY\n→ @hyperunit tokens\n\nInfinex is reuniting all of DeFi and giving users access to powerful chains like HyperEVM, without the complexity.",
+      "timestamp": "Jul 30, 2025 · 7:35 AM UTC",
+      "url": "https://twitter.com/infinex/status/1950460349460758989#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1950459995210076242#m",
+      "content": "Previously a siloed ecosystem - Infinex links HyperEVM with the rest of DeFi - unlocking access to tokenless protocols, new yield opportunities, and potential airdrops.\n\nFor Infinex users, that means:\n→ Swidge from any supported chain to HyperEVM\n→ Access a rapidly growing DeFi ecosystem\n→ No gas fees needed to onboard",
+      "timestamp": "Jul 30, 2025 · 7:34 AM UTC",
+      "url": "https://twitter.com/infinex/status/1950459995210076242#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1950459983013040320#m",
+      "content": "Hype 🤝 Infinex\n\nHyperEVM is now live on Infinex - exclusively for Patrons.\n\nPatrons can now send, deposit, and Swidge supported tokens on HyperEVM.",
+      "timestamp": "Jul 30, 2025 · 7:34 AM UTC",
+      "url": "https://twitter.com/infinex/status/1950459983013040320#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1950212907490550183#m",
+      "content": "believe in somETHing 🧡\n\nHappy 10th birthday @Ethereum!",
+      "timestamp": "Jul 29, 2025 · 3:12 PM UTC",
+      "url": "https://twitter.com/infinex/status/1950212907490550183#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1950035648569889077#m",
+      "content": "Arbitrum is now live on Infinex Connect ⚡️\n\nIt's joined Ethereum and Optimism as Infinex Connect enabled chains. Patrons can now use @aave on Arbitrum, with more apps to come 👀\n\nHyperliquid",
+      "timestamp": "Jul 29, 2025 · 3:28 AM UTC",
+      "url": "https://twitter.com/infinex/status/1950035648569889077#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1949699774602469487#m",
+      "content": "Infinex mentioned",
+      "timestamp": "Jul 28, 2025 · 5:13 AM UTC",
+      "url": "https://twitter.com/infinex/status/1949699774602469487#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1948615008419791356#m",
+      "content": "📍 Not in the top 250? You can still track your rank!\n\nThe Yaprun widget in your Infinex account shows:\n→ Your season rank\n→ Your weekly rank (up to 1000)\n\nEvery Yapper can see their progress. Just check the widget in-app.\n\nLeaderboard → infinex.xyz/yaprun",
+      "timestamp": "Jul 25, 2025 · 5:23 AM UTC",
+      "url": "https://twitter.com/infinex/status/1948615008419791356#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1948614995442630999#m",
+      "content": "Season 1 leaderboard check 📈\n\nAfter 10 weeks of yapping, here's where the competition stands\n\nCurrent top 3:\n🥇 @BCheque1\n🥈 @banditxbt\n🥉 @shmula\n\nUnchanged from Week 9, but @0xdune2000 is back  👀\n\nRemember: ~$900k in µPatrons will be distributed based on final season rankings",
+      "timestamp": "Jul 25, 2025 · 5:23 AM UTC",
+      "url": "https://twitter.com/infinex/status/1948614995442630999#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1948614975553241316#m",
+      "content": "This week’s top movers 🏆\n\nShoutout to the Yappers who climbed the most spots on the season leaderboard this week:\n🥇 @beausecurity\n🥈 @deltatigernz\n🥉 @bullish_bunt\n4️⃣ @thegolden_eel\n5️⃣ @Jack55750\n6️⃣ @Anastasis_Delta\n7️⃣ @FranklinARTNFTs\n8️⃣ @zacxbt\n9️⃣ @Fantardio\n🔟 @fuhume",
+      "timestamp": "Jul 25, 2025 · 5:23 AM UTC",
+      "url": "https://twitter.com/infinex/status/1948614975553241316#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1948614953050800526#m",
+      "content": "The Week 10 Season 1 Yaprun leaderboard is live! 🏆\n\nCongratulations to the top 3 from the Week 10 weekly leaderboard:\n🥇 @shmula\n🥈 @banditxbt\n🥉 @BCheque1",
+      "timestamp": "Jul 25, 2025 · 5:23 AM UTC",
+      "url": "https://twitter.com/infinex/status/1948614953050800526#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1948596073762881695#m",
+      "content": "Tap the link to learn more 👉 blog.synthetix.io/susd-depos…",
+      "timestamp": "Jul 25, 2025 · 4:08 AM UTC",
+      "url": "https://twitter.com/infinex/status/1948596073762881695#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1948596061913972782#m",
+      "content": "Raffle prize winners:\n\n🥇 1st – 1x Patron NFT – twodoors\n🥈 2nd – 1x Patron NFT - frankxu\n🥉 3rd – 1 $ETH – Paf\n🎖️ 4th – 2,000 $SNX – thomaslll\n🎖️ 5th – 1,000 $SNX – quantum",
+      "timestamp": "Jul 25, 2025 · 4:07 AM UTC",
+      "url": "https://twitter.com/infinex/status/1948596061913972782#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1948596049180066245#m",
+      "content": "Welcome to Week 3 of the Synthetix $sUSD rewards competition, running until August 15.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Jul 25, 2025 · 4:07 AM UTC",
+      "url": "https://twitter.com/infinex/status/1948596049180066245#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1948591746516238392#m",
+      "content": "x.com/i/article/194783919449…",
+      "timestamp": "Jul 25, 2025 · 3:50 AM UTC",
+      "url": "https://twitter.com/infinex/status/1948591746516238392#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1948262216672899168#m",
+      "content": "Privacy mode 🫣\n\nYou can now hide your portfolio balance across the app and view it in\nstealth mode. Just tap your balance and ✨",
+      "timestamp": "Jul 24, 2025 · 6:01 AM UTC",
+      "url": "https://twitter.com/infinex/status/1948262216672899168#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1947826497810534899#m",
+      "content": "Congratulations to our friends @FogoChain with testnet now live! As one of our first Infinex Connect partners, we can't wait to see what happens when the fastest chain meets the simplest UX.\n\nFeel the speed ⚡",
+      "timestamp": "Jul 23, 2025 · 1:10 AM UTC",
+      "url": "https://twitter.com/infinex/status/1947826497810534899#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1947221259504234515#m",
+      "content": ".@infinex new feature - updated!\n\nthis isn't the first time that the team proves\nto us that they do listen to every feedback you raised\n\nwhether it's the bugs or the features to improve!\n\nthere's an alpha at the end of the vdo\n(you might or might not know that 😎)",
+      "timestamp": "Jul 21, 2025 · 9:05 AM UTC",
+      "url": "https://twitter.com/infinex/status/1947221259504234515#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1946843959126565253#m",
+      "content": "We are about to see an absolute tidal wave of Infinex functionality being released now that Connect is ready. It’s going to be wild.",
+      "timestamp": "Jul 20, 2025 · 8:05 AM UTC",
+      "url": "https://twitter.com/infinex/status/1946843959126565253#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1946126302685405430#m",
+      "content": "📍 Not in the top 250? You can still track your rank!\n\nThe Yaprun widget in your Infinex account shows:\n→ Your season rank\n→ Your weekly rank (up to 1000)\n\nEvery Yapper can see their progress.  Just check the widget in-app.\n\nLeaderboard → infinex.xyz/yaprun",
+      "timestamp": "Jul 18, 2025 · 8:34 AM UTC",
+      "url": "https://twitter.com/infinex/status/1946126302685405430#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1946126289766949011#m",
+      "content": "Season 1 leaderboard check 📈\n\nAfter 9 weeks of yapping, here's where the competition stands.\n\nCurrent top 3:\n🥇 @BCheque1\n🥈 @banditxbt\n🥉 @shmula ← New entrant to the top 3!\n\nRemember: ~$900k in µPatrons will be distributed based on final season rankings.",
+      "timestamp": "Jul 18, 2025 · 8:33 AM UTC",
+      "url": "https://twitter.com/infinex/status/1946126289766949011#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1946126270015885430#m",
+      "content": "This week’s top movers 🏆\n\nShoutout to the Yappers who climbed the most spots on the season leaderboard this week:\n🥇 @m00des\n🥈 @Jack55750\n🥉 @bullsbears262\n4️⃣ @0xfs7\n5️⃣ @Fantardio\n6️⃣ @SwizzyOnChain\n7️⃣ @Amandyk_sx\n8️⃣ @Spectrum__eth\n9️⃣ @bored_vic\n🔟 @Cryptking_1",
+      "timestamp": "Jul 18, 2025 · 8:33 AM UTC",
+      "url": "https://twitter.com/infinex/status/1946126270015885430#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1946126247958081970#m",
+      "content": "The Week 9 Season 1 Yaprun leaderboard is live! 🏆\n\nCongratulations to the top 3 from the Week 9 weekly leaderboard:\n🥇 @shmula\n🥈 @0xRodo\n🥉 @KierianV",
+      "timestamp": "Jul 18, 2025 · 8:33 AM UTC",
+      "url": "https://twitter.com/infinex/status/1946126247958081970#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1946025871560806818#m",
+      "content": "Tap the link to learn more 👉 blog.synthetix.io/susd-depos…",
+      "timestamp": "Jul 18, 2025 · 1:54 AM UTC",
+      "url": "https://twitter.com/infinex/status/1946025871560806818#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1946025859779051973#m",
+      "content": "Raffle prize winners:\n\n🥇 1st – 1x Patron NFT – CZoin\n🥈 2nd – 1x Patron NFT - trader1\n🥉 3rd – 1 $ETH – Mg8025\n🎖️ 4th – 2,000 $SNX – Paf\n🎖️ 5th – 1,000 $SNX – Leopando",
+      "timestamp": "Jul 18, 2025 · 1:54 AM UTC",
+      "url": "https://twitter.com/infinex/status/1946025859779051973#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1946025847078650064#m",
+      "content": "Welcome to Week 2 of the extended $sUSD rewards competition, running until August 15.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Jul 18, 2025 · 1:54 AM UTC",
+      "url": "https://twitter.com/infinex/status/1946025847078650064#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1945010084624654781#m",
+      "content": "S1 ranks are provisional. The season end date is not announced yet, but we're 9 weeks deep 👀\n\nWeekly leaderboards keep you motivated. Season leaderboards determine your µPatron rewards.\n\nKeep yapping, keep climbing. Quality wins.\n\nCheck your progress → infinex.xyz/yaprun",
+      "timestamp": "Jul 15, 2025 · 6:38 AM UTC",
+      "url": "https://twitter.com/infinex/status/1945010084624654781#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1945010072863825937#m",
+      "content": "Yaprun Telegram is now open to ALL Season 1 Yappers! 🤝\n\nPreviously exclusive to S0 Yappers and Patrons, now active S1 Yappers can join for alpha.\n\nGo to Settings → Connected Accounts to connect your X + Telegram and join the channel.\n\nWe've just posted Yaprun FAQs & a Content Guide 👀",
+      "timestamp": "Jul 15, 2025 · 6:38 AM UTC",
+      "url": "https://twitter.com/infinex/status/1945010072863825937#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1945010060952002673#m",
+      "content": "Track your weekly score in-app 🎯\n\nThe Yaprun widget now shows your weekly rank (if you're in the top 1000) alongside your season score.\n\nIt's the best way to see how you performed this week, even if you're outside the weekly top 250.\n\nJust click S1 in the Yaprun widget in your Infinex account.",
+      "timestamp": "Jul 15, 2025 · 6:38 AM UTC",
+      "url": "https://twitter.com/infinex/status/1945010060952002673#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1945010049065345141#m",
+      "content": "NEW: Weekly Leaderboard View 📊\n\nYou can now see the top 250 yappers from the last week, not just the overall season.\n\nPerfect for new yappers to see their immediate impact and for everyone to track their weekly performance.\n\nWeekly momentum matters 🚀",
+      "timestamp": "Jul 15, 2025 · 6:38 AM UTC",
+      "url": "https://twitter.com/infinex/status/1945010049065345141#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1945010037182869973#m",
+      "content": "Week 8 of Yaprun Season 1 finished last week!\n\nWe've shipped some major upgrades to make tracking your progress even better.\n\nNew leaderboards. In-app scoring. Expanded Telegram access.\n\nHere's what's new 👇🧵",
+      "timestamp": "Jul 15, 2025 · 6:38 AM UTC",
+      "url": "https://twitter.com/infinex/status/1945010037182869973#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1944912660790960638#m",
+      "content": "$PUMP landed on Infinex the moment trading started 💊\n\nDeposit, send and swidge @pumpdotfun now.",
+      "timestamp": "Jul 15, 2025 · 12:11 AM UTC",
+      "url": "https://twitter.com/infinex/status/1944912660790960638#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1944626127341035945#m",
+      "content": "gPatron",
+      "timestamp": "Jul 14, 2025 · 5:12 AM UTC",
+      "url": "https://twitter.com/infinex/status/1944626127341035945#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1943570515576394183#m",
+      "content": "📍 Not in the top 250? You can still track your rank!\n\nThe Yaprun widget in your Infinex account shows:\n→ Your season rank\n→ Your weekly rank (up to 1000)\n\nEvery Yapper can see their progress.  Just check the widget in-app.\n\nLeaderboard → infinex.xyz/yaprun",
+      "timestamp": "Jul 11, 2025 · 7:18 AM UTC",
+      "url": "https://twitter.com/infinex/status/1943570515576394183#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1943570502645354710#m",
+      "content": "Season 1 leaderboard check 📈\n\nAfter 8 weeks of yapping, here's where the competition stands.\n\nCurrent top 3:\n🥇 @BCheque1\n🥈 @banditxbt\n🥉 @sjdedic\n\nOur top 3 are holding strong for another week.\n\nRemember: ~$900k in µPatrons will be distributed based on final season rankings.",
+      "timestamp": "Jul 11, 2025 · 7:18 AM UTC",
+      "url": "https://twitter.com/infinex/status/1943570502645354710#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1943570483011817510#m",
+      "content": "This week’s top movers 🏆\n\nShoutout to the Yappers who climbed the most spots on the season leaderboard this week:\n\n🥇 @deltatigernz\n🥈 @SwizzyOnChain\n🥉 @beausecurity\n4️⃣ @kryptomokus\n5️⃣ @thecryptojourno\n6️⃣ @nezuron_\n7️⃣ @thegolden_eel\n8️⃣ @Jack55750\n9️⃣ @0xRodo\n🔟 @Amandyk_sx\n\nDeltatiger has is our top mover two weeks in a row. Definitely one to watch 👀",
+      "timestamp": "Jul 11, 2025 · 7:18 AM UTC",
+      "url": "https://twitter.com/infinex/status/1943570483011817510#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1943570460731675013#m",
+      "content": "The Week 8 Season 1 Yaprun leaderboard is live! 🏆\n\nThis is the first time we're publishing the weekly leaderboard as well as the season leaderboard.\n\nCongratulations to this week's top 3:\n🥇 @0xRodo\n🥈 @banditxbt\n🥉 @thecryptojourno",
+      "timestamp": "Jul 11, 2025 · 7:18 AM UTC",
+      "url": "https://twitter.com/infinex/status/1943570460731675013#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1943538561506251234#m",
+      "content": "Tap the link to learn more 👉 blog.synthetix.io/susd-depos…",
+      "timestamp": "Jul 11, 2025 · 5:11 AM UTC",
+      "url": "https://twitter.com/infinex/status/1943538561506251234#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1943538549661536386#m",
+      "content": "Raffle prize winners:\n\n🥇 1st – 1x Patron NFT – Infinexfan\n🥈 2nd – 1x Patron NFT – thesettingsun\n🥉 3rd – 1 $ETH – quantum\n🎖️ 4th – 2,000 $SNX – secretorg_hogehoge\n🎖️ 5th – 1,000 $SNX – pechnatunk",
+      "timestamp": "Jul 11, 2025 · 5:11 AM UTC",
+      "url": "https://twitter.com/infinex/status/1943538549661536386#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1943538537061847252#m",
+      "content": "We’re now in Week 1 of the extended $sUSD rewards competition, running from July 4 to August 15.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Jul 11, 2025 · 5:11 AM UTC",
+      "url": "https://twitter.com/infinex/status/1943538537061847252#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1943144381411627152#m",
+      "content": "Rewards for sUSD depositors on @infinex have been extended 🧃\n\nDeposit sUSD, earn your share of 12,000 OP tokens every week, and unlock raffle prizes like Infinex Patron NFTs, ETH, and SNX.\n\nLearn more below. 🧵🔽",
+      "timestamp": "Jul 10, 2025 · 3:04 AM UTC",
+      "url": "https://twitter.com/infinex/status/1943144381411627152#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1942497975374094636#m",
+      "content": "It's always fun when I get a chance to work on some web 3d. The @infinex patronage page is certainly important enough to warrant some special attention.",
+      "timestamp": "Jul 8, 2025 · 8:16 AM UTC",
+      "url": "https://twitter.com/infinex/status/1942497975374094636#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1942406687929033097#m",
+      "content": "To start earning with stables on Infinex, simply:\n\nOpen the Earn page → Browse stablecoins → Buy → Done. That's it.\n\nHead to the Earn page to explore all our opportunities → app.infinex.xyz/earn",
+      "timestamp": "Jul 8, 2025 · 2:13 AM UTC",
+      "url": "https://twitter.com/infinex/status/1942406687929033097#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1942406675765645551#m",
+      "content": "Stablecoins are having their moment.\n\nAs @AndreCronjeTech said at @Permissionless: \"There's a new stablecoin launching every 24 hours.\"\n\nBut most users are stuck earning low yields (and paying high fees) on TradFi platforms.\n\nWith your Infinex account, you can earn native yield - no fees, no friction.",
+      "timestamp": "Jul 8, 2025 · 2:13 AM UTC",
+      "url": "https://twitter.com/infinex/status/1942406675765645551#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1942406546421604868#m",
+      "content": "New stablecoin earn opportunities dropped on Infinex 💰\n\nWe’ve just tripled our stablecoin lineup on Infinex Earn.\n\nNow live:\n→ $sUSDS\n→ $sFRAX\n→ $sUSDE\n\nMore choice. Better yields. Two clicks to start earning.\n\nA 🧵",
+      "timestamp": "Jul 8, 2025 · 2:13 AM UTC",
+      "url": "https://twitter.com/infinex/status/1942406546421604868#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1942137991318982779#m",
+      "content": "International Meme Fund ($IMF) is live on Infinex.\n\nIMF is a project that unlocks borrowing for meme communities.\nAccess stablecoins, hold your assets, and stay liquid.\n\nBecause memes deserve capital efficiency too.\n\nDeposit, send and swidge $IMF on Infinex.",
+      "timestamp": "Jul 7, 2025 · 8:25 AM UTC",
+      "url": "https://twitter.com/infinex/status/1942137991318982779#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1942043854678716522#m",
+      "content": "And to close out June... Infinex Connect dropped for Patrons 🔥\n\nOur next step in bringing the Infinex experience to DeFi, starting with @Aave and @synthetix_io support.\n\nThe beginning of something huge → infinex.xyz/connect",
+      "timestamp": "Jul 7, 2025 · 2:11 AM UTC",
+      "url": "https://twitter.com/infinex/status/1942043854678716522#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1942043852778721758#m",
+      "content": "Some of the Infinex team headed to @Permissionless where @Kaiynne took the stage for a keynote on Infinex Connect.\n\nWe also hosted an epic rooftop party with @FogoChain, @synthetix_io and @Zcash - plus an exclusive Patron-only party for our Cabal members 🥂\n\nlocalhost:8080/i/status/1938071901714…",
+      "timestamp": "Jul 7, 2025 · 2:11 AM UTC",
+      "url": "https://twitter.com/infinex/status/1942043852778721758#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1942043849448386721#m",
+      "content": "Multiple Passkey support arrived - you can now add up to 3 passkeys to your Infinex account.\n\nNever worry about getting locked out again. Your phone, your laptop, your hardware key - all secured and ready.",
+      "timestamp": "Jul 7, 2025 · 2:11 AM UTC",
+      "url": "https://twitter.com/infinex/status/1942043849448386721#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1942043847187734658#m",
+      "content": "@kaiynne joined @exk200 from @avax for a deep dive on the Avalanche integration, Infinex Connect, and what's next.\n\nOne of the best conversations about where we're heading 👇",
+      "timestamp": "Jul 7, 2025 · 2:11 AM UTC",
+      "url": "https://twitter.com/infinex/status/1942043847187734658#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1942042997606265311#m",
+      "content": "Avalanche landed on Infinex mid-June. Fast execution meets incredible UX - deposit, earn, and swidge any Avalanche asset directly on Infinex.\n\nSub-second finality without sacrificing speed, safety, or simplicity.",
+      "timestamp": "Jul 7, 2025 · 2:08 AM UTC",
+      "url": "https://twitter.com/infinex/status/1942042997606265311#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1942042985493115327#m",
+      "content": "100M μPatrons were distributed to sKAITO and YT-sKAITO holders. If you held a Yapybara NFT in the same wallet, you got a 10% bonus\n\nThe first of two airdrops coming to the Kaito ecosystem 🪂",
+      "timestamp": "Jul 7, 2025 · 2:08 AM UTC",
+      "url": "https://twitter.com/infinex/status/1942042985493115327#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1942042973455454504#m",
+      "content": "Portfolio view dropped early June - a unified way to see everything in your Infinex account, from Wallets to Vaults, all in one place at a glance.\n\nSmall shift that makes tracking your assets faster, easier, and more intuitive.",
+      "timestamp": "Jul 7, 2025 · 2:08 AM UTC",
+      "url": "https://twitter.com/infinex/status/1942042973455454504#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1942042872527917559#m",
+      "content": "ICYMI here's what went down in June at Infinex 🚀\n\nTL;DR\n→ Infinex Connect (closed alpha)\n→ Avalanche\n→ Multiple passkeys\n→ Portfolio page\n→ Kaito stakers' airdrop\n\nA huge month of shipping! A 🧵",
+      "timestamp": "Jul 7, 2025 · 2:07 AM UTC",
+      "url": "https://twitter.com/infinex/status/1942042872527917559#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1941476996674093179#m",
+      "content": "Infinex: Over-indexing on rooftop parties since 2024!  \n\nThanks to everyone who joined us at @Permissionless and our co-hosts @FogoChain, @synthetix_io & @Zcash\n\nSpecial shoutout to our Infinex Patrons who attended the exclusive Patron party - see you at the next Cabal 🥂",
+      "timestamp": "Jul 5, 2025 · 12:39 PM UTC",
+      "url": "https://twitter.com/infinex/status/1941476996674093179#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1941048335437386098#m",
+      "content": "We're working on making it easier for everyone to track their progress in Yaprun - whether you're aiming for the Top 10 weekly movers or the Top 3 overall.\n\nView the current leaderboard 👉 infinex.xyz/yaprun",
+      "timestamp": "Jul 4, 2025 · 8:16 AM UTC",
+      "url": "https://twitter.com/infinex/status/1941048335437386098#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1941048323466842391#m",
+      "content": "Returning to our usual scheduled announcement - the Season Leaderboard considers results from Week One through Week Seven, recognising committed Yappers who have consistently delivered.\n\nCongratulations to the current Top Three:\n\n🥇 @BCheque1\n🥈 @banditxbt\n🥉 @sjdedic",
+      "timestamp": "Jul 4, 2025 · 8:15 AM UTC",
+      "url": "https://twitter.com/infinex/status/1941048323466842391#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1941048250750194007#m",
+      "content": "A big congratulations to this week's ones to watch, our Top 10 Movers:\n\n🥇 @deltatigernz\n🥈 @m00des\n🥉 @nftchains\n4️⃣ @0xdegend\n5️⃣ @beausecurity\n6️⃣ @bored_vic\n7️⃣ @AvengerAli\n8️⃣ @SEBSIXCHAINS\n9️⃣ @ldzcrypto\n🔟 @TheBrownGentYT",
+      "timestamp": "Jul 4, 2025 · 8:15 AM UTC",
+      "url": "https://twitter.com/infinex/status/1941048250750194007#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1941048238905479668#m",
+      "content": "Let the good times roll - the Yaprun Season One Week Seven cumulative leaderboard is now live!\n\nTime to close out this week on a high and announce the Top 10 Yaprun Movers, shall we? Those impressive Yappers among us who have made the biggest leaps up the leaderboard over the past week 🚀",
+      "timestamp": "Jul 4, 2025 · 8:15 AM UTC",
+      "url": "https://twitter.com/infinex/status/1941048238905479668#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1940944977259122774#m",
+      "content": "Keep your 👀 peeled - sUSD deposit rewards are sticking around!\nMore details to come.",
+      "timestamp": "Jul 4, 2025 · 1:25 AM UTC",
+      "url": "https://twitter.com/infinex/status/1940944977259122774#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1940944965615734979#m",
+      "content": "Tap the link to learn more 👉 blog.synthetix.io/rewards-ex…",
+      "timestamp": "Jul 4, 2025 · 1:25 AM UTC",
+      "url": "https://twitter.com/infinex/status/1940944965615734979#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1940944953804575105#m",
+      "content": "Raffle prize winners:\n\n🥇 1st – 1x Patron NFT – cryptoyang\n🥈 2nd – 1x Patron NFT – transfer\n🥉 3rd – 1 $ETH – hzzgood48\n🎖️ 4th – 2,000 $SNX – Paf\n🎖️ 5th – 1,000 $SNX – blahblauser",
+      "timestamp": "Jul 4, 2025 · 1:25 AM UTC",
+      "url": "https://twitter.com/infinex/status/1940944953804575105#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1940944941120999892#m",
+      "content": "Welcome to your sixth week of $sUSD rewards.\n\nThis week's rewards pool includes pro-rata share of 12,000 $OP tokens, distributed to all holders of over 1,000 $sUSD.\n\nSee the winners below 👇",
+      "timestamp": "Jul 4, 2025 · 1:25 AM UTC",
+      "url": "https://twitter.com/infinex/status/1940944941120999892#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1939370921695068481#m",
+      "content": "Have been accumulating @infinex patrons per @jarethcjr various posts calling me out (localhost:8080/jarethcjr/status/19342…) and figured I would share a thread on why. 🧵 1/",
+      "timestamp": "Jun 29, 2025 · 5:10 PM UTC",
+      "url": "https://twitter.com/infinex/status/1939370921695068481#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1940628531891032403#m",
+      "content": "You can now deposit, send, and swidge your favourite tokens on Ink directly on Infinex including:\n\n$USDT0\n$PURPLE\n$SHROOMY",
+      "timestamp": "Jul 3, 2025 · 4:27 AM UTC",
+      "url": "https://twitter.com/infinex/status/1940628531891032403#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1940628519987695898#m",
+      "content": "Infinex now supports @inkonchain ⛓️\n\nInk is a new Layer 2 from @krakenfx built on @Optimism designed for fast and low-cost transactions.",
+      "timestamp": "Jul 3, 2025 · 4:27 AM UTC",
+      "url": "https://twitter.com/infinex/status/1940628519987695898#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1940173489203552649#m",
+      "content": "Epic Infinex x Berachain x Kodiak Chat... \n\n@kaiynne puts the @steadyteddys on.\n\nNew @bera_morning episode coming soon!",
+      "timestamp": "Jul 1, 2025 · 10:19 PM UTC",
+      "url": "https://twitter.com/infinex/status/1940173489203552649#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1939844195491225690#m",
+      "content": "What is Infinex Connect?\n\nConnect lets you use your Infinex Account like a connected wallet with external apps - only much better.\n\n→ One-click auto connect\n→ Clear signing prompts, with granular controls\n→ Take your portfolio with you with swidge built-in\n→ Support for multi-chain apps (no more chain switching)\n→ and more...\n\nCheck out → infinex.xyz/connect",
+      "timestamp": "Jul 1, 2025 · 12:31 AM UTC",
+      "url": "https://twitter.com/infinex/status/1939844195491225690#m",
+      "author": "infinex"
+    },
+    {
+      "id": "1939844183386378707#m",
+      "content": "With today's alpha release, Patrons can try out the first wave of Connect-enabled apps from the new \"Apps\" page in Infinex, starting with two classics: @aave and @synthetix_io\n\nYou can:\n→ Enable Infinex Connect in your account\n→ Auto-connect from the \"Apps\" page\n→ Supply, borrow, and withdraw on @aave\n→ Stake SNX and sUSD in the @synthetix_io 420 pool\n\nFor more details about this alpha release, head over to → infinex.xyz/changelog/infine…",
+      "timestamp": "Jul 1, 2025 · 12:31 AM UTC",
+      "url": "https://twitter.com/infinex/status/1939844183386378707#m",
+      "author": "infinex"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T01:44:15.422Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 13,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 30838,
+    "cursorTrail": [
+      "DAAHCgABG3v4sJX__-oLAAIAAAATMTk3ODQwMDYwOTI1NTc0NzkwNQgAAwAAAAIAAA",
+      "DAAHCgABG3v4sJX__9ULAAIAAAATMTk3NTgwODYxMDkzNzgxOTI1NggAAwAAAAIAAA",
+      "DAAHCgABG3v4sJX__8ALAAIAAAATMTk3MzIwNTkzMzA3ODc0OTQ1NQgAAwAAAAIAAA",
+      "DAAHCgABG3v4sJX__6wLAAIAAAATMTk2ODg0ODc4NDg0NDM2MjAyOAgAAwAAAAIAAA",
+      "DAAHCgABG3v4sJX__5cLAAIAAAATMTk2MzQ3Mjk2MDQ3MzUwMTgzNQgAAwAAAAIAAA",
+      "DAAHCgABG3v4sJX__4ILAAIAAAATMTk1NzI2OTU3NjgzNzkzNTI5MwgAAwAAAAIAAA",
+      "DAAHCgABG3v4sJX__20LAAIAAAATMTk1NDgwMjExNDE1NDM0ODY1MQgAAwAAAAIAAA",
+      "DAAHCgABG3v4sJX__1gLAAIAAAATMTk1MTE1MDk3MTQ3ODAxNjM0MQgAAwAAAAIAAA",
+      "DAAHCgABG3v4sJX__0MLAAIAAAATMTk0ODU5MTc0NjUxNjIzODM5MggAAwAAAAIAAA",
+      "DAAHCgABG3v4sJX__y4LAAIAAAATMTk0NDkxMjY2MDc5MDk2MDYzOAgAAwAAAAIAAA",
+      "DAAHCgABG3v4sJX__xkLAAIAAAATMTk0MjA0Mzg1Mjc3ODcyMTc1OAgAAwAAAAIAAA",
+      "DAAHCgABG3v4sJX__wQLAAIAAAATMTk0MDYyODUzMTg5MTAzMjQwMwgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

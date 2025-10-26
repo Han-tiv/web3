@@ -1,0 +1,1451 @@
+{
+  "account": {
+    "id": "1339588489537486848",
+    "screen_name": "BlockSecTeam",
+    "name": "BlockSec",
+    "description": "Smart Contract Audit | Security Monitoring | AML/CFT (KYA/KYT) | Crypto Investigation | @Phalcon_xyz @MetaSleuth @MetaDockTeam 👉TG: https://t.co/owokTLanv5",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1683851044370145280/YSyAY_kP_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339588489537486848/1690296350",
+    "followers_count": 26635,
+    "friends_count": 147,
+    "statuses_count": 2054,
+    "favourites_count": 1187,
+    "listed_count": 506,
+    "location": "",
+    "website": "https://t.co/Kgi6tFe59a",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2020-12-17 23:10:26 +08:00",
+    "url": "https://twitter.com/BlockSecTeam",
+    "rest_id": "1339588489537486848"
+  },
+  "tweets": [
+    {
+      "id": "1769996703690785011#m",
+      "content": "📢 Attention, DeFi projects!\n\nSecure your protocol's entire lifecycle with BlockSec🛡️.\nFrom pre-launch security audits to post-launch attack monitoring and blocking (Phalcon), we've got you covered. \n\nLearn more about our full-stack security solution at blocksec.com/blog/new-websit….",
+      "timestamp": "Mar 19, 2024 · 7:57 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1769996703690785011#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1980220633335349598#m",
+      "content": ".@SharwaFinance was reported to be exploited and subsequently paused (as claimed by the project). However, several additional suspicious transactions occurred hours later, likely exploiting the same underlying issue through slightly varied attack paths.   \n\nIn general, the attacker first created a margin account, then borrowed additional assets through leveraged lending using the provided collateral, and finally executed a sandwich attack targeting the swap operation involving the borrowed assets.  \n\nThe root cause appears to be a flawed insolvency check in the MarginTrading contract's swap() function, which exchanges borrowed assets from one token (e.g., WBTC) to another (e.g., USDC). The function only verifies solvency based on the account state at the beginning of the swap, before the asset exchange is executed, leaving room for manipulation during the process.  \n\nAttacker 1 (0xd356c82e0c85e1568641d084dbdaf76b8df96c08) carried out multiple attacks, earning ~$61K in profit. \n- Attacker1's TX1 (create margin account): app.blocksec.com/explorer/tx…\n- Attacker1's TX2 (launch attack): app.blocksec.com/explorer/tx… \n\nAttacker 2 (0xaa24987bab540617416b77c986f66ae009c55795) executed a single attack, earning ~$85K in profit. \n- Attacker2's TX1 (create margin account): app.blocksec.com/explorer/tx…\n- Attacker2's TX2 (launch attack): app.blocksec.com/explorer/tx…",
+      "timestamp": "Oct 20, 2025 · 10:32 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1980220633335349598#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1978319079963611192#m",
+      "content": "Our system detected several suspicious transactions (initiated by different EOAs) targeting two unknown contracts deployed by the same address on #Ethereum hours ago, resulting in losses of ~$120K.\n\nThe root cause appears to be a lack of access control on the critical functions approveERC20 and withdrawAll in the victim contracts (which are not open source), allowing attackers to drain the tokens held within them.\n\nNotably, the withdrawAll function requires burning a sufficient amount of #sil tokens. This explains why, in the second attack transaction (TX2, which caused the majority of the loss), the attacker first acquired #sil tokens via a flashloan followed by multiple swaps before executing the actual exploit.\n\nTX1:\napp.blocksec.com/explorer/tx…\nTX2:\napp.blocksec.com/explorer/tx…\nTX3:\napp.blocksec.com/explorer/tx…",
+      "timestamp": "Oct 15, 2025 · 4:36 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1978319079963611192#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1978075819575759112#m",
+      "content": "🚨 It’s live! \nPhalcon Compliance Self-Service Platform by @BlockSecTeam — your real-time AML solution for crypto compliance.\n\n✅ 400M+ labeled addresses\n⚡️ Millisecond-level response\n🌍 FATF-aligned across 27+ jurisdictions\n🔍 Seamless MetaSleuth integration @MetaSleuth \n\nDetect illicit flows. Prevent freezes. Stay compliant.\n\n👉 Explore now: blocksec.com/phalcon/complia…\n#Web3 #Compliance #PhalconCompliance #AML #KYT",
+      "timestamp": "Oct 14, 2025 · 12:30 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1978075819575759112#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1977031656663081148#m",
+      "content": "Indeed, the AToken price for USDT was incorrectly shown as $154 during the @asterafinance exploit. However, this was not a \"textbook oracle misconfiguration\". The root cause appears to be token price manipulation resulting from insufficient market liquidity.\n\nThe AToken price = underlying token price (which was correctly around $1 from the oracle) × LiquidityIndex, which the attacker manipulated from 1.001 → 154 through a series of flashloan transactions before the exploit.\n\nInterestingly, unlike classic one-shot attacks targeting empty markets in #AAVE -forked projects, this incident involved multiple transactions, likely because the market was not empty and required several iterations to accumulate flashloan fees and distort the price.\n\nAToken (USDT): lineascan.build/address/0x15…\nAttacker address 1 (pool drainer): lineascan.build/address/0x61…\nAttacker address 2 (liquidity-index inflater): lineascan.build/address/0x95…\n\n1. Deposit / position creation (attacker address 1)\nAttacker address 1 created positions via deposits.\nTX: app.blocksec.com/explorer/tx…\n\n2. LiquidityIndex inflation (attacker address 2)\nAttacker address 2 performed repeated flashloan (borrow+repay) operations (~100 transactions) that inflated the pool’s LiquidityIndex from 1.001 → 154.\nFirst inflation TX: app.blocksec.com/explorer/tx…\nFinal inflation TX: app.blocksec.com/explorer/tx…\n\n3. Exploit / pool drain (attacker address 1 profits)\nWith LiquidityIndex inflated, attacker address 1 borrowed against the manipulated AToken's price and drained the lending pool.\nDrain TX: app.blocksec.com/explorer/tx…",
+      "timestamp": "Oct 11, 2025 · 3:20 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1977031656663081148#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1974533451408986417#m",
+      "content": ".@MIM_Spell was attacked hours ago, resulting in a loss of ~$1.7M. The root cause stems from the flawed implementation logic of the cook function, which allows users to execute multiple predefined operations in a single transaction. Specifically, the actions share a common status, which may lead to the bypassing of the insolvency check.\n\nThe details are as follows:\n1. When action = 5 (ACTION_BORROW), a borrowing operation is executed, and status.needsSolvencyCheck is set to true.\n2. When action = 0, the internal function _additionalCookAction is called to update the status. However, this function is an empty function and defaults to returning status.needsSolvencyCheck = false, thereby overwriting the previous check flag and skipping the final insolvency check.\n\nThe attacker called the cook function on 6 different addresses, passing in actions = [5, 0], obtained 1,793,755e18 MIM, and subsequently profited through swaps.\n\nAttack TX: app.blocksec.com/explorer/tx…",
+      "timestamp": "Oct 4, 2025 · 5:53 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1974533451408986417#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1973211741350973620#m",
+      "content": "ALERT! Our system has detected several suspicious transactions continuously targeting an unknown contract on #SEI. It is a typical \"transferFrom\" issue, which is caused by an arbitrary low-level call.\n\nPlease revoke any approvals granted to 0xa9b9e1af3cfd8b1c29e0ae4fddf2dadd74a108cc on #SEI!",
+      "timestamp": "Oct 1, 2025 · 2:21 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1973211741350973620#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1972595841245516037#m",
+      "content": "ALERT! Our system detected a series of suspicious transactions targeting an inactive contract (etherscan.io/address/0xdc827…, inactive for over 200 days) on #Ethereum. Losses exceed 32 Ether, and the remaining Ether is still under attack.\n\nSince the contract is not open-source, we suspect the root cause lies in flawed game mechanics: it fails to restrict participants to EOAs, and the randomness implementation is also defective.\n\nOne of the attack TXs: app.blocksec.com/explorer/tx…",
+      "timestamp": "Sep 29, 2025 · 9:34 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1972595841245516037#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1971154830447280308#m",
+      "content": "Yet another attack targeting @Griffin_AI similar to the @seedifyfund incident: fraudulent cross-chain messages from the source chain (in this case, #Ethereum) were accepted and executed on the destination chain (#BSC), allowing the attacker to profit from $GAIN tokens and eventually swap them for other assets. \n\nThe key difference lies in how ownership was compromised. Specifically, the attacker managed to get 0x54A978238984d581EdD3a9359dDA9BE53A930a7e to invoke the setPeer function (likely via phishing). This action designated 0xba159054636e69080ae7c756319e5c85498efeb0 as a trusted peer, enabling the attacker to mint tokens arbitrarily through the cross-chain bridge.  \n  \n1. Set peer on #BSC: app.blocksec.com/explorer/tx…\n2. Cross-chain TX on #Ethereum: app.blocksec.com/explorer/tx…\n3. Mint $GAIN tokens on #BSC: app.blocksec.com/explorer/tx…",
+      "timestamp": "Sep 25, 2025 · 10:08 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1971154830447280308#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1970510108506591289#m",
+      "content": ".@seedifyfund was attacked across multiple chains, likely due to a private-key compromise. \n\nSpecifically, after gaining ownership of the SFUND_OFTv1 contracts on certain destination chains (e.g., #Base), the attacker (0x8030f5bF186d69627aA220FF7d486fd8c8818c56) used the setTrustedRemoteAddress function to set a malicious contract (0xffad4bD0fA118010bA01a3C69C9Ed7fF460E943e) as the trusted remote address. This allowed fraudulent cross-chain messages originating from the source chain (e.g., #Polygon) to be accepted and executed on the destination chain (e.g., #Base), enabling the attacker to profit in $SFUND tokens and ultimately swap them for other assets. \n\nKey attack steps:\n1. Ownership takeover:  app.blocksec.com/explorer/tx…\n2. Malicious trusted remote set (attacker-controlled: 0xffad4bD0fA118010bA01a3C69C9Ed7fF460E943e):  app.blocksec.com/explorer/tx…\n3. Cross-chain request sent from #Polygon:  app.blocksec.com/explorer/tx…\n4. Profits realized on #Base (in $SFUND):  app.blocksec.com/explorer/tx…",
+      "timestamp": "Sep 23, 2025 · 3:26 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1970510108506591289#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1970429012179869801#m",
+      "content": "Phalcon explorer now supports @monad \n\nA sample tx:\n\napp.blocksec.com/explorer/tx…",
+      "timestamp": "Sep 23, 2025 · 10:04 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1970429012179869801#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1970113734019633635#m",
+      "content": "🧵 WE'RE SO BACK 🔥\n\nPhalcon Explorer @Phalcon_xyz just dropped the most INSANE update and it's about to change the game forever\n\nAfter listening to 2000+ degens, researchers, and devs crying about transaction analysis pain points... we cooked something special 👨‍🍳",
+      "timestamp": "Sep 22, 2025 · 1:11 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1970113734019633635#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1969021136236351836#m",
+      "content": "Okie Finance has completed the security audit for Okie Swap V3 conducted by @BlockSecTeam 💯\n\nFor more info, audit report 👉 docs.okiedokie.finance/user-…",
+      "timestamp": "Sep 19, 2025 · 12:49 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1969021136236351836#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1968520529046016248#m",
+      "content": "ALERT! Several hours ago, our system detected an attack transaction targeting the NGP token (issued by @newgoldprotocol) on #BSC, resulting in ~$2M in losses.\n\nThis incident is a price manipulation attack, rooted in two critical design flaws of the NGP token:\n1) The token’s buying amount limit can be bypassed by setting the recipient address of token transfers to the \"DEAD\" address;\n2) When selling NGP tokens, the contract syncs to reflect fee deductions—a process that can be abused to manipulate the token’s price.\n\nHere’s a breakdown of how the attack unfolded:\n1. The attacker purchased NGP Token at a normally low price using multiple accounts.\n2. They then inflated NGP’s price by executing large-volume BUSD-for-NGP swaps on the BUSD-NGP PancakePair. Crucially, by setting the recipient address to the \"DEAD\" address, the attacker bypassed two key restrictions during acquisition: the \"maxBuyAmountInUsdt\" limit and the buyer’s cooldown limit.\n3. Finally, the attacker drained BUSD from the pool using the NGP Token purchased earlier. While certain fees were deducted (e.g., fees allocated to the treasury and reward pools), this action left the pool’s NGP reserves extremely depleted. This depletion, in turn, triggered a sharp surge in the token’s price—completing the manipulation.\n\nAttack TX: app.blocksec.com/explorer/tx…",
+      "timestamp": "Sep 18, 2025 · 3:40 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1968520529046016248#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1968230202468974649#m",
+      "content": "🚀 We're thrilled to announce that BlockSec has completed the security audit for @Upheavalfi!",
+      "timestamp": "Sep 17, 2025 · 8:27 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1968230202468974649#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1968171129039933751#m",
+      "content": "ALERT! Hours ago, our system detected a series of suspicious transactions on #BSC targeting an unverified contract (0x93fD192e1CD288F1f5eE0A019429B015016061F9), resulting in ~$150K in losses.\n\nThe root cause lies in the contract’s referral reward design: reward calculations depend on the manipulable spot price of the BURN/BUSD trading pair (note: the BURN token is issued by @burnArmy or @Burn_building ?). \n\nHere’s a breakdown of how the attack unfolded:\n1. When users stake or lock BURN via a referrer, the contract credits them with referral rewards in BUSD. These rewards are calculated based on the volume of BURN staked/locked and the real-time BURN/BUSD spot price.\n2. The attacker exploited this flaw by manipulating BURN’s price via flash loans. They then repeatedly created new contracts to bypass two critical restrictions—the \"one referral per address\" rule and maximum investment limits—allowing them to accumulate artificially inflated BUSD rewards.\n3. Afterward, the attacker sold off the remaining borrowed BURN to repurchase BUSD—a move that drove down BURN’s price. Finally, they used the previously accumulated BUSD credits to claim BURN at this depressed price, aiming to make profits.\n\nOne of the TXs: app.blocksec.com/explorer/tx…",
+      "timestamp": "Sep 17, 2025 · 4:32 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1968171129039933751#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1967551758118625410#m",
+      "content": "🎉 MAJOR LAUNCH: BlockSec Security Incidents Library\n\nIntroducing the industry's first comprehensive blockchain security incident library!\n\nHighlights of this library:\n✅ Curated incidents with losses over $100K\n✅ $2.9B+ total losses recorded across all incidents\n✅ $500M+ protected by Phalcon, $20M+ successfully rescued\n✅ Complete vulnerability coverage: Access Control, Business Logic, Price Manipulation & more\n\nPowerful Features:\n🔍 Search by project name or attack transaction hash\n📥 One-click download of attack transactions & attacker addresses\n🔗 Direct links to detailed root cause analysis\n📋 Embeddable code for easy team sharing\n\nMore than just data—it's your Web3 security playbook! Every incident verified by Phalcon Security APP real-time detection.\n\n#Web3Security",
+      "timestamp": "Sep 15, 2025 · 11:31 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1967551758118625410#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1966418055900311556#m",
+      "content": "🚀 We are thrilled to announce that BlockSec will provide security auditing services for @Upheavalfi !",
+      "timestamp": "Sep 12, 2025 · 8:26 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1966418055900311556#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1965142760660562210#m",
+      "content": "securityalliance.org/news/20…",
+      "timestamp": "Sep 8, 2025 · 7:58 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1965142760660562210#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1962811690631983342#m",
+      "content": "An interesting transaction on #BSC, involving ~$24M in funds—is it a phishing incident or merely a normal position adjustment?\napp.blocksec.com/explorer/tx…\n\nThe approval took place in this transaction: app.blocksec.com/explorer/tx…",
+      "timestamp": "Sep 2, 2025 · 9:35 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1962811690631983342#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1962743751568433416#m",
+      "content": "ALERT! Our system detected a suspicious transaction targeting @bunni_xyz ’s contract on #Ethereum, and the loss is ~$2.3M. Please take actions ASAP.",
+      "timestamp": "Sep 2, 2025 · 5:05 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1962743751568433416#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1961825928876642766#m",
+      "content": "It’s been an incredible journey at Virtual Asset Technical Exchange 2025 in New Orleans! 🇺🇸\n\nOur cofounder @yajinzhou presented our team’s work on how crypto is used in Southeast Asia scam compounds and shared insights on tracing illicit funds. Excited to see our technology helping investigations into cryptocurrency abuse in cybercrime. \n\n#CryptoSecurity #Web3 #BlockchainForensics",
+      "timestamp": "Aug 30, 2025 · 4:18 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1961825928876642766#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1959825233453650293#m",
+      "content": "ALERT! Our system has detected two attack transactions targeting an unknown contract (0x5a46c6) on #BSC, resulting in a loss of ~$85K. \n\nSpecifically, the attacker utilized EIP-7702 on its own address to leverage the flash loan callback function, manipulating prices and conducting staking activities. By exploiting the flawed time check mechanism, the attacker directly executed two transactions (stake and unstake) to illicitly profit.\n\nNotably, three key vulnerabilities enabled this attack:\n1) Flawed flash loan protection check: The attacker exploited EIP-7702 to bypass the flash loan protection mechanism.\n2) Spot price dependency.\n3) Flawed time interval check for staking and unstaking: The duration calculation incorrectly uses \"timestamp modulo day\" (timestamp % day) instead of relying on the end time of the previous stake.\n\nTX1: app.blocksec.com/explorer/tx…\nTX2: app.blocksec.com/explorer/tx…",
+      "timestamp": "Aug 25, 2025 · 3:48 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1959825233453650293#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1957685945194672238#m",
+      "content": "🚀 We're thrilled to announce that BlockSec has completed the security audit for @StableStock !",
+      "timestamp": "Aug 19, 2025 · 6:07 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1957685945194672238#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1938106182989979718#m",
+      "content": "We released the SoK paper on stablecoin collaborated with City University of Hongkong.\n\nSee the link: arxiv.org/abs/2506.17622\n\nComments and suggestions are appreciated.",
+      "timestamp": "Jun 26, 2025 · 5:24 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1938106182989979718#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1956661877473476962#m",
+      "content": "Alert! Our system has detected suspicious transactions targeting an unknown contract (named D3XAT) on #BSC, resulting in an estimated loss of ~$160K. Although the contract is not open-source, preliminary analysis indicates a likely case of price manipulation due to spot price dependency.\n\nTX: app.blocksec.com/explorer/tx…",
+      "timestamp": "Aug 16, 2025 · 10:18 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1956661877473476962#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1948548552143040793#m",
+      "content": "Blockchain Security Award Ceremony \n\nPioneering blockchain security talent development to strengthen Hong Kong's Web3 industry. 🚀\n\nBlockSec will award the BlockSec Blockchain Security Award at @HongKongPolyU, recognizing outstanding talent and celebrating the future of blockchain security.\n\n📍 Location: The Hong Kong Polytechnic University\n🗓️ Date: 25th July, 2025\n\nEmpowering the next generation of Web3 leaders through innovation and education.\n\n#Web3 #BlockchainEducation #BlockSec #PolyU",
+      "timestamp": "Jul 25, 2025 · 12:59 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1948548552143040793#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1947978159149994231#m",
+      "content": "ALERT! Our system has detected a series of malicious transactions targeting an unverified contract (0x16d7c6f43df19778e382b7a84bcb8c763971a551) on the Binance Smart Chain (BSC), with losses exceeding $600K. Since the contract is not open-source, our investigation indicates the root cause lies in a lack of slippage protection. This vulnerability allowed attackers to exploit the contract by using a fake liquidity pool to harvest #TA tokens (0x539ae81a166e5e80aed211731563e549c411b140), which were then sold in the legitimate pool to make profits.\n\nUsers who have granted approvals to this contract (0x16d7c6f43df19778e382b7a84bcb8c763971a551) are strongly advised to revoke those permissions immediately to prevent further losses!!!\n\nAttack TXs:\napp.blocksec.com/explorer/tx…\napp.blocksec.com/explorer/tx…\napp.blocksec.com/explorer/tx…",
+      "timestamp": "Jul 23, 2025 · 11:12 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1947978159149994231#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1948231611654484161#m",
+      "content": "The submission deadline to the ACM CCS workshop on Decentralized Finance and Security has been extended to July 28, 2025 (AoE). \n\nThanks to our incredible program committee & chairs.\n\n@yaish_aviv @christoftorres @alexcryptan @chendaLiu @PulpSpy @jgorzny @0xlf_ @manv_sc @pszalach @mysteryfigure @KaihuaQIN @flotschorsch @zzzihaoli @masserova @dmoroz @ObadiaAlex @chiachih_wu @VeroCEG @KushalBabel @0xFanZhang @lzhou1110 @lzhou1110 @chunghaocrypto\n…and to our steering committee: @TheWattenhofer @dawnsongtweets @HatforceSec @Daeinar\n\nLearn more & submit: defiwork.shop",
+      "timestamp": "Jul 24, 2025 · 3:59 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1948231611654484161#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1944770132280017053#m",
+      "content": "Phalcon Explorer supports HyperEVM now @HyperliquidX \n\nYou can see the call trace of HyperEVM to understand the transaction.\n\nA simple transaction:\n\napp.blocksec.com/explorer/tx…",
+      "timestamp": "Jul 14, 2025 · 2:45 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1944770132280017053#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1944656034653741122#m",
+      "content": "Thrilled to partner with @InterlaceMoney, a true innovator bridging Web2 and Web3 finance. We're excited to work with a team that places such a high priority on security and compliance.\n\nThis is precisely why we built our Phalcon Compliance App. It empowers partners like Interlace with real-time AML/CFT screening and on-chain risk evaluation, making trusted digital finance a reality. @Phalcon_xyz \n\nLearn more about our solution: blocksec.com/phalcon/complia…\n\n#Web3Security #Compliance #AML",
+      "timestamp": "Jul 14, 2025 · 7:11 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1944656034653741122#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1943731901392699845#m",
+      "content": "Friday night is hack night. 🧪🕵️‍♂️\n\nLet’s analyze an attack (happened a couple of hours ago) no one really talks about.\n\napp.blocksec.com/explorer/tx…",
+      "timestamp": "Jul 11, 2025 · 5:59 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1943731901392699845#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1943598560689160619#m",
+      "content": "x.com/i/article/194359504479…",
+      "timestamp": "Jul 11, 2025 · 9:09 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1943598560689160619#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1943518566831296566#m",
+      "content": "Our system has detected a series of attacks targeting @Bankroll_Status across both Ethereum and BSC, resulting in total losses of ~$400K since Sep 2024. Attempts to contact the project team have received no response.\n\nThese attacks exploit the same root vulnerability in the distribute() function, which updates the global profitPerShare_ only after syncing a user's _updatedPayouts during buy/sell operations. Since rewards are distributed over time based on the pool's payoutRate, an attacker can buy a large amount tokens via several staking contracts, immediately sell them, and gain more than their fair share of dividends. This sequencing flaw allows the attacker to claim excess rewards before the system correctly accounts for them.\n\nThe most recent attack transaction—resulting in ~$115K in losses—was front-run by c0ffeebabe.eth: app.blocksec.com/explorer/tx…\nNote that in this transaction, ETH was first donated to the pool to ensure there were enough rewards to drain.",
+      "timestamp": "Jul 11, 2025 · 3:51 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1943518566831296566#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1942990338731229379#m",
+      "content": "x.com/i/article/194298618589…",
+      "timestamp": "Jul 9, 2025 · 4:52 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1942990338731229379#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1942965515007455521#m",
+      "content": "Our initial analysis indicates that GMX’s order-keeper account (0xd4266f8f82f7405429ee18559e548979d49160f3) issued a transaction,  which passes a contract address as the first parameter of executeDecreaseOrder, and then the attacker leveraged a reentrancy to carry out the attack.",
+      "timestamp": "Jul 9, 2025 · 3:14 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1942965515007455521#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1942948251671433285#m",
+      "content": "app.blocksec.com/explorer/tx…\n\nWorth a further analysis  @GMX_IO",
+      "timestamp": "Jul 9, 2025 · 2:05 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1942948251671433285#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1942594222353260893#m",
+      "content": ". @PeapodsFinance’s Ethereum contracts have reportedly been attacked due to a price oracle issue. It looks like the original attacker successfully executed the first exploit, but its second attempt was front-run by Yoink—a well-known MEV frontrunner. It may be possible to contact them to mitigate losses.\n\nAttack TXs:\n1. app.blocksec.com/explorer/tx…\n\n2. app.blocksec.com/explorer/tx…",
+      "timestamp": "Jul 8, 2025 · 2:38 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1942594222353260893#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1942071854522380498#m",
+      "content": "Best DeFi Papers Award 2024 – Call for Nominations!\n\nWe honor research advancing Decentralized Finance across:\n* Track A: Best Theoretical Paper\n* Track B: Best Practical Paper\n* Track C: Best Industry Paper\n\nFor the nominations aim for industry track, one of the authors should come from industry, and please describe how the research has been practically used in industry.\n\nEach winning paper receives:\n• $500 in USDT/DAI/USDC\n• A commemorative statue & certificate\n\nEligibility: Peer-reviewed papers published between Jan 1 – Dec 31, 2024\n\nTimeline:\nJuly 1 – Nominations open\nJuly 21 – Nominations close\nAug 20 – Recipients notified\n\nAwarded authors will present at DeFi’25 Workshop @ ACM CCS 2025 on Oct 17 (remote/on-site) and provide a 2-min video summary.\n\nNominate your paper now: defiwork.shop",
+      "timestamp": "Jul 7, 2025 · 4:03 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1942071854522380498#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1941788315549946225#m",
+      "content": "A hack in the weekend:\n\napp.blocksec.com/explorer/tx…\n\naround 204k loss",
+      "timestamp": "Jul 6, 2025 · 9:16 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1941788315549946225#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1941786763971948631#m",
+      "content": "x.com/i/article/194178468800…",
+      "timestamp": "Jul 6, 2025 · 9:10 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1941786763971948631#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1941782542870536288#m",
+      "content": "We published our in-depth analysis and reflections on the Resupply protocol attack incident\n\nSee:\n\nblocksec.com/blog/in-depth-a…",
+      "timestamp": "Jul 6, 2025 · 8:53 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1941782542870536288#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1941564153765954025#m",
+      "content": "Stay safe.",
+      "timestamp": "Jul 5, 2025 · 6:25 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1941564153765954025#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1941155150514508194#m",
+      "content": "“Moving Bricks”: Inside the Scam Industry’s Secret Logistics Network\n\n1/ Imagine you send your life savings to what you think is a safe investment.\n\nTen minutes later, that money is split into dozens of smaller transfers, wired across continents, converted into crypto, and gone forever.\n\nThis is not a movie plot. It’s happening every day, in a system criminals call Moving Bricks.\n\nRead more: globalchinapulse.net/moving-…",
+      "timestamp": "Jul 4, 2025 · 3:20 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1941155150514508194#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1940715252011937848#m",
+      "content": "Regarding compliance risk management, BlockSec's CEO stated: \"As a globally leading blockchain security company, BlockSec not only possesses exceptional technical capabilities in security protection, but its Phalcon Compliance APP (compliance monitoring platform) also provides virtual asset service providers with real-time risk identification and compliance management capabilities.\" @Phalcon_xyz \n\nLearn more: blocksec.com/phalcon/complia…",
+      "timestamp": "Jul 3, 2025 · 10:12 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1940715252011937848#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1940715248287412574#m",
+      "content": "BlockSec is proud to announce a strategic partnership with @FinTax_Official.\n\nAs a cryptocurrency tax software and service provider, FinTax has developed comprehensive Crypto tax systems and professional tax teams, providing customized solutions for numerous industry institutions and participating in cryptocurrency tax industry standards development across multiple countries and regions.\n\nThis partnership will create an integrated solution combining security protection, compliance risk management, and tax management, building safer, more compliant, and more professional infrastructure services for the industry.",
+      "timestamp": "Jul 3, 2025 · 10:12 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1940715248287412574#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1940612190886903910#m",
+      "content": ". @QuickswapDEX  \n\n7702 breaks the assumption in the code, and creates an attack surface.\n\napp.blocksec.com/explorer/tx…",
+      "timestamp": "Jul 3, 2025 · 3:22 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1940612190886903910#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1938536823539499326#m",
+      "content": "“Compliance isn’t just a requirement—it’s the key to unlocking stablecoin adoption.”  \n\nAt the Scale Stablecoin Summit, BlockSec CEO Prof. Yajin Zhou @yajinzhou  showcased how Phalcon @Phalcon_xyz empowers stablecoin issuers with real-time risk blocking and a one-stop compliance solution to meet growing regulatory demands and ensure operational security.  \n\nHe also highlighted that trust and security are essential to building a sustainable stablecoin ecosystem. \n\n#Stablecoin #Compliance #Blockchain #Security #ScaleSummit2025",
+      "timestamp": "Jun 27, 2025 · 9:56 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1938536823539499326#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1938083408762311100#m",
+      "content": "🌟 Stablecoins in Focus | Scale Stablecoin Summit  \n\nAs stablecoins enter the era of strong regulation, the industry faces unprecedented compliance and security challenges.  \n\nBlockSec will join the panel \"The Forces Behind Stablecoin Adoption\" to share how our Phalcon @Phalcon_xyz delivers comprehensive compliance and security solutions, offering in-depth insights into stablecoin issuance, anti-money laundering, and future market trends, empowering stablecoins to navigate this evolving landscape 🚀.  \n\nSee you in Hong Kong Tonight! 🇭🇰 \n\n#Stablecoin #Blockchain #Compliance #Security",
+      "timestamp": "Jun 26, 2025 · 3:54 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1938083408762311100#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1938077421665980859#m",
+      "content": "😔 $9.5M lost in today’s attack...",
+      "timestamp": "Jun 26, 2025 · 3:30 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1938077421665980859#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1938074034119516504#m",
+      "content": "Bypassing insolvency checks—a classic attack vector for lending protocols—demands attention!",
+      "timestamp": "Jun 26, 2025 · 3:17 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1938074034119516504#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1938062681866678593#m",
+      "content": "This attack transaction occurred on Ethereum. If @ResupplyFi were using Phalcon, they could have detected it in the mempool stage (before the attack goes on-chain) and automatically paused the protocol— preventing the full $9.5M loss! 🔍",
+      "timestamp": "Jun 26, 2025 · 2:32 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1938062681866678593#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1937904699610718520#m",
+      "content": "Our system detected several attack transactions targeting @SiloFinance's smart contracts on different chains, with the root cause identified as flawed parameter validation logic in the flashloan callback function. By exploiting this vulnerability, the attacker could borrow assets using victims' collateral. The protocol team has paused the affected smart contracts.\n\nWhile the team released a somewhat vague statement, forensic analysis of transactions reveals characteristics consistent with an attack:\n1) Legitimate testing scenarios rarely necessitate moving substantial funds.\n2) An address which launched attack transactions on Ethereum in the incident was funded via #TornadoCash.\n\nTimeline (UTC):\n14:11:23  - Attack on Ethereum ~$546K loss\n14:20:23 - Attack on Ethereum ~$3K loss\n14:38 - @SiloFinance 's official announcement on X\n14:44:02 -  Attack on Sonic ~$1K loss\n14:44:27  - Attack on Sonic ~$2K loss\n\nAttack TXs:\n1) 1st TX on Ethereum : app.blocksec.com/explorer/tx…\n2) 2nd TX on Ethereum : app.blocksec.com/explorer/tx…\n3) 1st TX on Sonic : app.blocksec.com/explorer/tx…\n4) 2nd TX on Sonic : app.blocksec.com/explorer/tx…\n\nAttacker addresses:\n1) Ethereum: 0x04377cfaf4b4a44bb84042218cdda4cebcf8fd62\n2) Sonic: 0xba321eb613d76c758995fb33c64d71b9db0aaf6e",
+      "timestamp": "Jun 25, 2025 · 4:04 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1937904699610718520#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1937754321111908577#m",
+      "content": "Some vToken losses reported, but unrelated to @VenusProtocol",
+      "timestamp": "Jun 25, 2025 · 6:06 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1937754321111908577#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1937081834661351425#m",
+      "content": "🚀 Calling all Phalcon Explorer users!\n\nWe want your feedback — our User Experience Survey takes just 2–3 mins. Got ideas or suggestions? Let us know!\n\n👉 Survey link: docs.google.com/forms/d/e/1F…\n\n🎁 Bonus: All survey participants will get a free 1-week @MetaSleuth Pro trial (worth $180/month)! Thank you for helping us improve! \n\n#Web3 #DeFi #Blockchain #PhalconExplorer",
+      "timestamp": "Jun 23, 2025 · 9:34 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1937081834661351425#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1937000909374140425#m",
+      "content": "Interesting BSC transactions exploiting EIP-7702’s EOA code delegation.",
+      "timestamp": "Jun 23, 2025 · 4:12 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1937000909374140425#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1936055015229030612#m",
+      "content": "🚀 We’ve just released a new version of MetaSuites!\n\n🔒 Fix: Thanks to @elyx0 for reporting a potential issue —we’ve replaced it with a safer implementation.\n\n📝 New feature: Local labels in MetaSuites now sync with Phalcon Explorer (locally only—your data stays private).\n\n🙈 Quality-of-life: You can now hide zero-amount token transfers to filter out noisy address-posting txs.",
+      "timestamp": "Jun 20, 2025 · 1:34 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1936055015229030612#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1935974251334627648#m",
+      "content": "Our @Phalcon_xyz system detected an attack tx to\n@libertum_token caused ~4.8K USD loss. \n\nBook a demo to know how Phalcon can help protocol to detect hacks and take automated actions.\n\nblocksec.com/book-demo",
+      "timestamp": "Jun 20, 2025 · 8:13 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1935974251334627648#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1935305319732887834#m",
+      "content": "localhost:8080/i/spaces/1RDGlzvvbpDxL",
+      "timestamp": "Jun 18, 2025 · 11:55 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1935305319732887834#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1934448470544515294#m",
+      "content": "The #BNBKickstart program offers a range of essential tools and services from across the BNB Chain ecosystem to help developers and projects kickstart their building journey.\n\n👉 Apply now bnbchain.org/en/programs/kic…",
+      "timestamp": "Jun 16, 2025 · 3:10 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1934448470544515294#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1934448467059114248#m",
+      "content": "🎉 We're proud to announce that BlockSec is now an official @BNBCHAIN Kickstart Program Service Provider!\n\nIn BNB Chain Kickstart Program, we offer:\n🔸Audit: 5% exclusive discount with priority onboarding—get started in 8 working days.\n🔸Phalcon Security APP: Free real-time monitoring for 3 addresses to promptly identify and mitigate security threats. First-time Standard Plan subscribers receive an extra month free.\n🔸Phalcon Compliance APP: Ensure project compliance with KYA & KYT. Enjoy a 20% discount on your first-year subscription.\n🔸Dedicated 1-on-1 Support: Immediate SOP emergency response from our expert team for fast and effective issue resolution.\n🔸Co-Branding Exposure: Get featured on our official social media channels.",
+      "timestamp": "Jun 16, 2025 · 3:10 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1934448467059114248#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1932007814400229696#m",
+      "content": "Proud to partner with @minelabs_  \n\nLet's make on-chain safer for everyone! 🫡\n\n#BlockchainSafety",
+      "timestamp": "Jun 9, 2025 · 9:32 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1932007814400229696#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1930940746938696122#m",
+      "content": "“Security isn’t just about audits—it’s about full-lifecycle protection.”\n\nAt #SolanaSummitAPAC, BlockSec’s Director of Security Service, Dr. Jiang, emphasized the importance of securing protocols across their entire lifecycle. \n\nWith BlockSec Phalcon (@Phalcon_xyz), we showcased how proactive, real-time monitoring and automatic blocking effectively mitigate live attacks.\n\nMore importantly, we’re encouraged to see more builders prioritizing security as a foundation for creating a stronger Web3 ecosystem. ⚡🌐\n\n#SolanaSummitAPAC #BlockSec #Phalcon",
+      "timestamp": "Jun 6, 2025 · 10:52 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1930940746938696122#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1930877084999586066#m",
+      "content": "A big thank you to everyone who joined BlockSec's workshop at #SolanaSummitAPAC2025! \n@SolanaSummitOrg  \n\n🌟 BlockSec shared how we safeguard the Solana ecosystem across its full lifecycle through 4 KEY DIMENSIONS:  \n🔒  Security Audit: In-depth security audits for both smart contracts and blockchains. \n⚡ BlockSec @Phalcon_xyz : Provides real-time monitoring and automatic threat-blocking protections. \n🕵️ BlockSec @MetaSleuth : Provides advanced on-chain investigation and tracking to analyze efficiently. \n🔗 Swap Actions API: Subscribe to DEX Swap Actions on Solana with One Single API -- receive parsed swap actions within a transaction. \ndocs.blocksec.com/transactio…\n\nBuilding a safer Web3, one step at a time. 🌐 \n\n#Web3Security #SolanSummitAPAC #BlockSec",
+      "timestamp": "Jun 6, 2025 · 6:39 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1930877084999586066#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1930505401247867130#m",
+      "content": "Meet BlockSec at Solana Summit 🤘\n\n@SolanaSummitOrg @SolanaFndn",
+      "timestamp": "Jun 5, 2025 · 6:02 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1930505401247867130#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1930308444839653591#m",
+      "content": ". @CetusProtocol hacker was moving funds to tornado cash.\n\netherscan.io/tx/0xdcfb8d40b6…",
+      "timestamp": "Jun 4, 2025 · 4:59 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1930308444839653591#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1929846817338089480#m",
+      "content": "🔥 BlockSec is excited to join Solana Summit APAC 2025！@SolanaSummitOrg\n\n👉 Register now: lu.ma/qzpui3j6\n🛠️ Workshop: Securing Solana Ecosystem Across Its Full Lifecycle\n🕙 2025.6.6 10:00-10:25（UTC+7）\n📍 Workshop Room 2: The Boardroom Round Table Room (44PAX)\n\n🎤 Panel: Security Blind Spots: What You’re Overlooking (Until It’s Too Late)\n🕒 2025.6.6 15:40-16:10（UTC+7）\n📍 Main Stage\n\nFrom audits to real-time attack monitoring (@Phalcon_xyz), crypto tracking and investigation platform (@MetaSleuth), and Swap Actions API, BlockSec is committed to securing the Solana ecosystem across its full lifecycle.@SolanaFndn\n\nWe’re shaping the way for a safer Solana. \n\nJoin us in Da Nang! 🏄🏻‍♂️\n\n#SolanaSummitAPAC #BlockchainSecurity #Solana",
+      "timestamp": "Jun 3, 2025 · 10:25 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1929846817338089480#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1929829660935819355#m",
+      "content": "BlockSec Wallet Label & Screening APIs have been launched on @OmniMCP 🙌\n\nThanks for @Footprint_Data 's integration efforts! Excited to see AI and Crypto spark new innovations together!\n\n#AI #Web3 #Crypto #Security #Data",
+      "timestamp": "Jun 3, 2025 · 9:17 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1929829660935819355#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1928462800621633590#m",
+      "content": "From Security to Trust: BlockSec at Trust Day@DASFAA 2025! 🚀✨\n\nStablecoins face increasing compliance and security challenges, from smart contract vulnerabilities to illegal transactions and regulatory scrutiny. At this inspiring event, BlockSec showcased end-to-end solutions to address these issues:\n-Conducting security audits to reduce vulnerabilities at the source.\n-24/7 risk monitoring and automated response with Phalcon Security APP.\n-Real-time risk exposure analysis and illegal activity detection with Phalcon Compliance APP. 🔐⚡\n\nBig thanks to @Cobo_Global and @FOMOPayOfficial for joining the conversation!\n\nLet’s keep building a safer world together. 💻🌟\n\n#DASFAA2025 #TrustDay #BlockchainSecurity #Stablecoins",
+      "timestamp": "May 30, 2025 · 2:45 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1928462800621633590#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1928115801573179579#m",
+      "content": "Thanks for mentioning us! Let's make a more secure Web3 ecosystem.",
+      "timestamp": "May 29, 2025 · 3:46 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1928115801573179579#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1928050300780433553#m",
+      "content": "Oracle Monitoring Feature Now Live in BlockSec Phalcon!\nblocksec.com/blog/phalcon-or…\n\nMango Markets ($116M), Venus ($11.2M), and Rho Markets ($7.6M) all suffered massive losses from oracle exploits. With Phalcon's Oracle Monitors, these attacks could have been stopped cold.\n\n🔥 How?\n→ Live price deviation & range alerts\n→ Oracle price feed comparison\n→ Update delays + health checks\n→ Instant alerts + auto-response to anomalies\n🟰 No window for exploiters—losses can be fully prevented.\n\nRead more👇",
+      "timestamp": "May 29, 2025 · 11:26 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1928050300780433553#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1927934439713296526#m",
+      "content": "BlockSec is live at the world’s biggest Bitcoin event Bitcoin2025 Las Vegas! 🚀✨@TheBitcoinConf\n\nWith Bitcoin's market cap making history in 2025, security is more crucial than ever. 🔐 From auditing services to real-time risk monitoring and blocking, we’re here to safeguard Bitcoin Layer 2 and cross-chain protocols.\n\nSwing by our booth 2339 @exSatNetwork for epic moments! 🌟💻\n\n#Bitcoin2025 #Blockchain",
+      "timestamp": "May 29, 2025 · 3:46 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1927934439713296526#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1927741755400884661#m",
+      "content": "Since @Corkprotocol has paused the protocol, I'd like to share some findings from our initial investigation based on the attack transaction trace: it appears that the protocol fails to properly verify the arguments passed to the CorkCall function, allowing the attacker to specify a fake paymentToken and profit from it.",
+      "timestamp": "May 28, 2025 · 3:00 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1927741755400884661#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1927706024414158987#m",
+      "content": "A bad day… @Corkprotocol was attacked.  Detected by @Phalcon_xyz \n\napp.blocksec.com/explorer/tx…",
+      "timestamp": "May 28, 2025 · 12:38 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1927706024414158987#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1927607817378177316#m",
+      "content": "Our @Phalcon_xyz system detected an possibly attack tx to @usualmoney . Now the vault has paused, we can share the link here:\n\napp.blocksec.com/explorer/tx…\n\nBook a demo to know how Phalcon can help protocol to monitor hacks and take automated actions.  \n\nblocksec.com/phalcon/securit…",
+      "timestamp": "May 28, 2025 · 6:08 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1927607817378177316#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1927410963315060823#m",
+      "content": "Good to help secure protocols in @StoryEcosystem.",
+      "timestamp": "May 27, 2025 · 5:05 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1927410963315060823#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1926695761921634709#m",
+      "content": "We have released the dataset (the phishing contracts) of our SIGMETRICS 2025 paper. Feel free to use the dataset and cite our paper :)\n\ngithub.com/blocksecteam/phis…",
+      "timestamp": "May 25, 2025 · 5:44 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1926695761921634709#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1925941031884804493#m",
+      "content": "1/ Two lines of code. One giant mess.\n\nThat’s all it took to drain $223 million from @CetusProtocol.\n\n* $162M was paused (thanks, Sui)\n* $60M was bridged to Ethereum, now chilling in two wallets\n* And yes — AI can help explain the whole mess.\n\nHere’s the story 🧵",
+      "timestamp": "May 23, 2025 · 3:44 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1925941031884804493#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1925757100304515446#m",
+      "content": "Yep, the overflow check can be bypassed:\ngithub.com/CetusProtocol/int…",
+      "timestamp": "May 23, 2025 · 3:34 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1925757100304515446#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1925630025585312068#m",
+      "content": "The gas fee of @CetusProtocol hacker is from 0xff1070d40277a3d748a3222b44eab08ed588b256094ecdc2090badf0f9f5e9f4. \nThis address looks the wallet address of Kucoin @kucoincom ? Anyone can help double check this?",
+      "timestamp": "May 22, 2025 · 7:09 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1925630025585312068#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1925603580113035298#m",
+      "content": "Our preliminary investigation on the @CetusProtocol security incident.\n\nWithout @Phalcon_xyz, it's really a headache when analyzing hacks.",
+      "timestamp": "May 22, 2025 · 5:24 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1925603580113035298#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1925563331965780343#m",
+      "content": "A sad day (and night) ...",
+      "timestamp": "May 22, 2025 · 2:44 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1925563331965780343#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1925156444862832893#m",
+      "content": "👀 This is a must-read for risk management teams! blocksec.com/blog/phishing-c…\n\nFrom EOAs to phishing contracts, scammers are getting smarter. 37K phishing contracts, 171K victims, and $190M in losses—don't let your users become the next target!  \n\nOur SIGMETRICS 2025 research dives deep into phishing contracts and provides actionable strategies to protect your users. Read more👇",
+      "timestamp": "May 21, 2025 · 11:47 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1925156444862832893#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1924677205084536915#m",
+      "content": "Proxy and implementation misused in 2025, ~64k loss \n\napp.blocksec.com/explorer/tx…\n\napp.blocksec.com/explorer/tx…",
+      "timestamp": "May 20, 2025 · 4:02 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1924677205084536915#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1924436807363817730#m",
+      "content": "🛡️.@soon_svm SOON Bridge is powered by BlockSec Phalcon's real-time protection, offering top-tier security through cross-chain asset depegging detection, contract security, and operational threat monitoring.\n\n🚨 Any detected anomalies will trigger immediate alerts and automated responses, ensuring assets remain secure. 💪\n\nLearn more about BlockSec Phalcon at blocksec.com/phalcon/securit…",
+      "timestamp": "May 19, 2025 · 12:07 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1924436807363817730#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1921948087892705472#m",
+      "content": "📢 6/ Final Call to Action\n\nWeb3 = trustless systems, but phishing is still your Achilles’ heel.\n\nDMARC isn’t optional – it’s your first line of defense against phishing to your community.\n\nLock it down. Now. 🔒",
+      "timestamp": "May 12, 2025 · 3:18 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1921948087892705472#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1921948085552353531#m",
+      "content": "🔧 5/ How Web3 Projects Should Set DMARC\n\n1️⃣ Publish a strict DNS record with p=reject\n\n2️⃣ Use tools like EasyDMARC to monitor spoofing attempts.\n\n3️⃣ Educate your community to never trust emails without DMARC enforcement.",
+      "timestamp": "May 12, 2025 · 3:18 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1921948085552353531#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1921948083216175364#m",
+      "content": "🛡️ 4/ Fix: Enforce “p=quarantine” or “p=reject”\n\n* p=reject: Block unauthorized emails pretending to be you.\n\n* Protects users from fake:\n- Wallet updates\n- Smart contract interactions\n- Team announcements",
+      "timestamp": "May 12, 2025 · 3:18 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1921948083216175364#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1921948080821191017#m",
+      "content": "📉 3/ Real Web3 Nightmares\n\n* Fake “token sale” emails stealing ETH.\n* “KYC verification” scams draining wallets.\n* Spoofed “governance alerts” redirecting to malicious dApps.\n\nAll possible if your domain isn’t locked down.",
+      "timestamp": "May 12, 2025 · 3:18 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1921948080821191017#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1921948078535274759#m",
+      "content": "💥 2/ “p=none” = Open Season for Crypto Phishing\n\nExample:\nAttacker sends: “URGENT: Claim your airdrop at phishy-link.xyz” from support@yourproject.com.\n\nEmail providers deliver it because your DMARC policy says “no enforcement.”\n\nResult? Users lose funds → your reputation burns. 😱",
+      "timestamp": "May 12, 2025 · 3:18 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1921948078535274759#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1921948076173828543#m",
+      "content": "🔍 1/ Why DMARC matters for Web3\n\nYou’re not just protecting emails – you’re safeguarding private keys, wallets, and community trust.\n\nPhishers spoofing admin@yourproject.com? With p=none, their fake \"wallet migration\" emails hit inboxes. 💸🔥",
+      "timestamp": "May 12, 2025 · 3:18 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1921948076173828543#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1921948073783144933#m",
+      "content": "🚨 Web3 projects, listen up!\n\nA weak DMARC policy (p=none) could turn your community into a phishing goldmine.\n\nYour token holders’ crypto is at risk. Let’s unpack why. 👇\n\n#Web3 #Cybersecurity",
+      "timestamp": "May 12, 2025 · 3:18 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1921948073783144933#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1915367915442102377#m",
+      "content": "🚀 Big News for Crypto Compliance: the Phalcon Compliance APP is LIVE!\n\n🔥 Why it’s a game-changer:\n✅ Detect illegal activities via AI-powered exposure and behavioral pattern analysis\n✅ Pre-set FATF-compliant risk engines and custom rules\n✅ Collaborate: Assign tasks, comment & blacklist\n✅ 1-click STR, ready for regulators\n✅ Security + Compliance in one platform\n\n⚡ Exclusive Launch Offer: The first 30 demos get FREE access!\n👉 Request a demo NOW: blocksec.com/request-demo-co…\n👀 Read the blog to learn more: blocksec.com/blog/phalcon-co…",
+      "timestamp": "Apr 24, 2025 · 11:31 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1915367915442102377#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1914684330758070502#m",
+      "content": "This API has multiple use cases. For example, users can subscribe to smart money accounts to track their swap actions and gain insights into their trading strategies. The following code snippet demonstrates how to use this API.",
+      "timestamp": "Apr 22, 2025 · 2:14 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1914684330758070502#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1914684326928622008#m",
+      "content": "BlockSec's Solana Swap Actions API is now available. With this API, you can access well-parsed swap actions without the need for an RPC endpoint, requiring just a few lines of code. Currently, it supports 48 different DEX protocols.\n\nDocument: docs.blocksec.com/transactio…",
+      "timestamp": "Apr 22, 2025 · 2:14 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1914684326928622008#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1914525889934901451#m",
+      "content": "🚀 Thrilled to power the future of secure staking! 🚀\n\nAs the security partner behind @puffer_finance 's Institutional-Grade Staking & Restaking Solution, we at @BlockSecTeam are proud to bring battle-tested audits and cutting-edge safeguards to this game-changing EigenLayer-powered ecosystem.",
+      "timestamp": "Apr 22, 2025 · 3:45 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1914525889934901451#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1912472774829801709#m",
+      "content": "Scammers are becoming more cunning, using increasingly stealthy methods to conceal their rug pull intentions.\n\napp.blocksec.com/explorer/tx…",
+      "timestamp": "Apr 16, 2025 · 11:46 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1912472774829801709#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1912412347232317711#m",
+      "content": "At 18:52 UTC on April 14, Phalcon @Phalcon_xyz  detected and blocked an initial exploit attempt targeting KiloEx, preventing $927K in potential losses. This critical intervention created a 47-minute window for the related team to respond, securing an additional $982K.\n\nThis fully validates the effectiveness of Phalcon and our STOP solution. Learn more:\n🔗 Phalcon: blocksec.com/phalcon\n🔗 STOP: blocksec.com/stop\n\nCurrently, our team is assisting @KiloEx_perp in tracing the stolen funds. For post-incident support (war room, fund tracking, root cause analysis), contact us: contact@blocksec.com",
+      "timestamp": "Apr 16, 2025 · 7:46 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1912412347232317711#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1910588902026461358#m",
+      "content": "RT @Phalcon_xyz: It appears that the victim, 0xa8292c010522a3d65880bad8e75fb9ac8c8da3e5, was likely tricked into signing an approve transac…",
+      "timestamp": "Apr 11, 2025 · 7:01 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1910588902026461358#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1910586410551177368#m",
+      "content": "woo, an interesting transaction.\n\napp.blocksec.com/explorer/tx…",
+      "timestamp": "Apr 11, 2025 · 6:51 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1910586410551177368#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1910520080183812553#m",
+      "content": "Excited to collaborate with SoSoValue to create a safer on-chain ecosystem! 🫡\n\n#SoSoValue #SSI #BlockchainSecurity",
+      "timestamp": "Apr 11, 2025 · 2:27 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1910520080183812553#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1909460134830678454#m",
+      "content": "🎓​Prof. Yajin Zhou @yajinzhou, CEO of BlockSec @BlockSecTeam and Professor at Zhejiang University, is giving a speech on \"​System Research for Blockchain: From Storage Optimization to Parallel Execution\" at #WSC2025.\n\n🗓️Apr 8, 2025 | 09:30-17:30\n📍STAGE 2, HK WEB3 FESTIVAL\n\n🔗Livestream: piped.kavin.rocks/live/Qq2mu_C-Y9w\n\n#WSC2025 #Web3Festival #HK",
+      "timestamp": "Apr 8, 2025 · 4:15 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1909460134830678454#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1908875254656868410#m",
+      "content": ". @MochiDeFi was hacked with a loss around 50K in multiple transactions. \n\napp.blocksec.com/explorer/tx…\n\nNote that, Mochi was blocked by @CurveFinance  emergency DAO due to alleged attempted governance attack.\n\ngov.curve.fi/t/the-curve-eme…",
+      "timestamp": "Apr 6, 2025 · 1:31 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1908875254656868410#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1908797072771604648#m",
+      "content": "We Do Everything To Ensure Your Transaction Security! 🛡️\nFrom shielding users against phishing, rug pulls, and sandwich attacks to protecting protocols from hacks, operational risks, compliance issues, and social engineering attacks targeting Safe{Wallet} signers. \n\nLearn more at blocksec.com         \n#Web3Festival",
+      "timestamp": "Apr 6, 2025 · 8:21 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1908797072771604648#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1908714758511202507#m",
+      "content": "🚨 BlockSec at the 2025 Hong Kong Web3 Festival! 🚨\n\nAs a trusted guardian of Web3, BlockSec is excetied to participate in the 2025 Hong Kong Web3 Festival, the premier event driving the future of blockchain innovation! 🌐@festival_web3 @WXblockchain\n@HashKeyGroup\n\n📅 April 6 - 9, Hong Kong Convention Center. Here’s where you’ll find us:\n\n1️⃣ Keynote Speech:📅 April 6 | 14:30-14:45📍 Main Stage, Hall 3·Winter\n\nBlockSec will reveal critical vulnerabilities in Web3 ecosystems and share actionable strategies to protect projects and users in this \"dark forest.\"\n\n2️⃣Side Event - Stablecoins & Global Payments:📅 April 7 | 17:00-22:00\n\nBlockSec will deliver an exclusive talk on Crypto Payment Security and the regulatory challenges facing the future of global payments.\n\n3️⃣ Web3 Scholars Conference📅 April 8 | 11:25-11:45📍Hall 5BCDE\n\nProf. Yajin will present BlockSec’s insights - System Research for Blockchain: “From Storage Optimization to Parallel Execution” pushing the boundaries of blockchain technology.\n\n🎭 Mystery COSER Alert!Look out for our “Security Guardian” COSER in black shades and trench coat, wielding the BlockSec Blade! Find them for interactive photos and exclusive BlockSec merch!\n\n#BlockSec #Web3Festival #Web3Security",
+      "timestamp": "Apr 6, 2025 · 2:53 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1908714758511202507#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1907692882510884998#m",
+      "content": "Thrilled to share BlockSec's latest security research insights at the event! Honored by the invitation & can't wait to engage with the community. \n\nSee you there! 🔐 #Cybersecurity",
+      "timestamp": "Apr 3, 2025 · 7:13 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1907692882510884998#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1904606890438648240#m",
+      "content": "Our initial analysis suggests that the root cause may lie in liquidating without updating the collateral's value in the order contract of @MIM_Spell .\nSpecifically, the inputAmount variable records an order's collateral value and is later used in the _isSolvent function (part of @GMX_IO ) to perform the insolvency check via the orderValueInCollateral function in the order contract. However, during liquidation in the sendValueInCollateral function, inputAmount is not properly decreased. \nAs a result, the _isSolvent check can be bypassed, allowing an attacker to borrow additional assets after liquidation and profit from the exploit.",
+      "timestamp": "Mar 25, 2025 · 6:50 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1904606890438648240#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1903848877100613858#m",
+      "content": "🫡",
+      "timestamp": "Mar 23, 2025 · 4:38 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1903848877100613858#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1903030334897233966#m",
+      "content": ". @zothdotio was hacked through contract upgrade. The loss is around 8M. It's probably the private key leakage. The fund is now in 0x7b0cd0d83565adbb57585d0265b7d15d6d9f60cf.\n\nmetasleuth.io/result/eth/0x3…",
+      "timestamp": "Mar 21, 2025 · 10:26 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1903030334897233966#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1903026639522418810#m",
+      "content": "Looks the contract was upgraded to unverified one, which was funded through changnow.\n\napp.blocksec.com/explorer/tx…",
+      "timestamp": "Mar 21, 2025 · 10:11 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1903026639522418810#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1902584640113717680#m",
+      "content": "Upgrade MetaSuites to 5.7.0 to sync local labels between Etherscan (or other scans) to Phalcon Explorer.\n\nchromewebstore.google.com/de…",
+      "timestamp": "Mar 20, 2025 · 4:55 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1902584640113717680#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1902282316778496418#m",
+      "content": "Sandwich attacks cost users money daily. We've deployed Anti-MEV RPC protection for BSC/Ethereum with a real-time monitoring dashboard (beta) to combat these attacks.\n\nSecure your transactions now: \n\nanti-mev.blocksec.com/\n\n#DeFiSecurity #MEV",
+      "timestamp": "Mar 19, 2025 · 8:53 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1902282316778496418#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1901925111386775662#m",
+      "content": "RT @yajinzhou: The add liquidity tx is not using private rpc. Our system listened this tx (0x7f87a7cd02bbdab255c6245942502d958caabd7eea3da8…",
+      "timestamp": "Mar 18, 2025 · 9:14 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1901925111386775662#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1900809936906711549#m",
+      "content": "1/ @WebKey01 WebKeyDao was attacked, resulting in a ~$73K loss. The attacker leveraged an unprotected function to buy wkeyDao tokens at a low price and sold them on DEX for profit. \n\napp.blocksec.com/explorer/tx…\n\nSince the vulnerable contract can no longer be exploited, we're releasing the full details to the community.",
+      "timestamp": "Mar 15, 2025 · 7:22 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1900809936906711549#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1897626232860410308#m",
+      "content": "Make Safe{Wallet} Safe Again! \n\nblocksec.com/safe-wallet-mon…",
+      "timestamp": "Mar 6, 2025 · 12:32 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1897626232860410308#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1894712439020966161#m",
+      "content": "The @solana ecosystem is now under enhanced protection with BlockSec Phalcon.  \nblocksec.com/blog/blocksec-p…\n\nProtocols on Solana can now leverage Phalcon's on-chain risk detection capabilities to: \n🔍 Monitor potential security threats in real-time\n🚨 Receive instant alerts for suspicious activities\n🛡️ Implement proactive measures to prevent losses\n\nAdditionally, Phalcon Explorer empowers Solana users with visualized insights into transaction details such as fund flows, balance changes, and function calls.\n\nLearn more in the blog 👇\n#Solana #Web3Security",
+      "timestamp": "Feb 26, 2025 · 11:33 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1894712439020966161#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1893977820893950151#m",
+      "content": "🚨 Twitter Space: Rethinking Multisig Security – Lessons from the Bybit Hack 🚨\n\nJoin Cobo’s CEO & Co-founder, Discus Fish (@bitfish1), alongside leading security experts as we analyze the recent Bybit security incident, explore key vulnerabilities, and discuss how institutions can strengthen their security frameworks. \n\nThis attack has raised critical questions about multisig security and risk management for exchanges—let’s break down what happened and what it means for the future of digital asset protection.\n\n📅 Feb 25 | 20:00 (UTC+8)\n🎙 Speakers:\n🔹 Discus Fish (@bitfish1) – Cobo CEO & Co-founder | @Cobo_Global\n🔹 Yajin Zhou (@yajinzhou) – BlockSec CEO & Co-founder | @BlockSecTeam\n🔹 Niqi (@niqislucky) – OneKey Chief Growth | @OneKeyHQ\n🔹 Moon (@MoonL1ang) – Cobo Head of Blockchain Security\n\n🎤 Host: Wu Blockchain (@WutalkWu | @wublockchain12)\n🎤 Co-host: Alex Zuo (@alexzuo4) – Cobo VP💡 Key Topics:\n🔹 Understanding the attack: What happened and key takeaways\n🔹 The evolving security needs of exchanges and custodians\n🔹 Risks associated with transaction approvals and operational security\n🔹 Best practices for securing digital assets in an institutional setting.\n\nJoin the discussion & stay ahead of emerging security risks: localhost:8080/i/spaces/1yNxaLjPyPNJj\n\nSecurity is a continuous process — let’s discuss what’s next for safeguarding digital assets. Don’t miss it!",
+      "timestamp": "Feb 24, 2025 · 10:54 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1893977820893950151#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1893879953118134589#m",
+      "content": ". A sad day: an attack on an unverfied contract on Ethereum, around 40M loss.\n\netherscan.io/address/0xc49b5…",
+      "timestamp": "Feb 24, 2025 · 4:25 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1893879953118134589#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1892987728452538643#m",
+      "content": "The tx to update the master copy of the Safe wallet in @Bybit_Official incident.\n\napp.blocksec.com/explorer/tx…",
+      "timestamp": "Feb 21, 2025 · 5:20 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1892987728452538643#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1892985284482211961#m",
+      "content": "The bybit @Bybit_Official  hacker is dispersing the Ether across multiple addresses. \n\nmetasleuth.io/result/eth/0x4…",
+      "timestamp": "Feb 21, 2025 · 5:10 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1892985284482211961#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1892948641171542030#m",
+      "content": "By switching your wallet’s RPC settings to BlockSec’s RPC endpoint (bsc.rpc.blocksec.com) , you protect yourself from front-runners and keep Four.meme @four_meme_  trading fair for everyone. \n\nDive into our blog for the full story!",
+      "timestamp": "Feb 21, 2025 · 2:44 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1892948641171542030#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1892948346756575462#m",
+      "content": "4/ The key to avoiding these attacks is transaction privacy. BlockSec’s Anti-MEV RPC (bsc.rpc.blocksec.com) hides your pending trades until they’re confirmed, reducing the chance bots can slip in front of you.",
+      "timestamp": "Feb 21, 2025 · 2:43 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1892948346756575462#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1892948344672006248#m",
+      "content": "3/ We’ve highlighted a BNX case where the attacker spotted the victim’s purchase, bought BNX at a lower price, and sold right after the victim’s transaction finalized—pocketing easy profits.",
+      "timestamp": "Feb 21, 2025 · 2:43 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1892948344672006248#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1892948341899628775#m",
+      "content": "2/ In a sandwich attack, a malicious bot sees your pending trade, buys first to push up the price, and then sells immediately after you, leaving you paying a premium.",
+      "timestamp": "Feb 21, 2025 · 2:43 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1892948341899628775#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1892948338175013342#m",
+      "content": "1/ Want a quick rundown on sandwich attacks plaguing Four.meme @four_meme_? Check out our latest blog for a real-world example of how attackers front-run trades —plus tips on how to protect yourself using BlockSec's Anti-MEV RPC.\n\nblocksec.com/blog/how-to-pla…",
+      "timestamp": "Feb 21, 2025 · 2:43 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1892948338175013342#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1892814617883161068#m",
+      "content": "Use BlockSec Phalcon @Phalcon_xyz  to monitor hacks and take automatic actions. blocksec.com/phalcon",
+      "timestamp": "Feb 21, 2025 · 5:52 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1892814617883161068#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1892539327441240224#m",
+      "content": "In our latest blog, we dive deep into the recent @zkLend incident, offering a detailed security analysis and clearing up misunderstandings about the attack within the security community.\n\nblocksec.com/blog/zklend-exp…",
+      "timestamp": "Feb 20, 2025 · 11:38 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1892539327441240224#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1892090307707011157#m",
+      "content": "Day 1 at Consensus Hong Kong 2025 was a blast! 🚀\n\nBlockSec is here, making waves with cutting-edge blockchain security insights 🔐 and our amazing \"Security Guardian\" Coser😎.\n\nThank you to everyone who stopped by to chat, take photos, and explore the future of Web3 with us! 📸\n\n#Consensus2025 #BlockSec #BlockchainSecurity #Web3",
+      "timestamp": "Feb 19, 2025 · 5:54 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1892090307707011157#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1891796253425512819#m",
+      "content": "In a word: Change your RPC to bsc.rpc.blocksec.com to avoid sandwich attacks and happily play @four_meme_! 🛡️🎮",
+      "timestamp": "Feb 18, 2025 · 10:25 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1891796253425512819#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1891795783004951001#m",
+      "content": "To play @four_meme_ and avoid being a victim of a sandwich attack, you can use BlockSec's anti-MEV RPC. Here's how you can set it up.\n\ndocs.blocksec.com/blocksec-a…",
+      "timestamp": "Feb 18, 2025 · 10:23 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1891795783004951001#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1891513152136999180#m",
+      "content": "Interested in how we approach protocol security?\n\nJoin us on February 18th at 2:30am UTC to welcome @Phalcon_xyz to our security lineup.\n\nWe'll cover what BlockSec Phalcon is capable of and how your assets on Yei are better secured with the @BlockSecTeam on our side.\n\nReminder below 👇",
+      "timestamp": "Feb 17, 2025 · 3:40 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1891513152136999180#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1891471575620231360#m",
+      "content": "📍 Mark your calendars and find us at HKCEC — let’s unlock the ultimate Web3 defense strategies together! 💪\n\n#Consensus2025 #BlockSec #BlockchainSecurity #Web3Gaming",
+      "timestamp": "Feb 17, 2025 · 12:55 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1891471575620231360#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1891471224217141541#m",
+      "content": "🔥 Don’t miss our highlights:\n\n🤖 Meet our \"Security Guardian\" Coser for a fun photo op & exclusive BlockSec merch!\n\n🎤 Dive into the latest blockchain security insights & innovations with the BlockSec team.",
+      "timestamp": "Feb 17, 2025 · 12:54 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1891471224217141541#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1891471020323713396#m",
+      "content": "🔐 BlockSec is your Web3 Guardian, and we’re coming to Consensus Hong Kong 2025!\n\nFrom Feb 18-20, we’ll bring cutting-edge blockchain security solutions and insights to the biggest Web3 stage at HKCEC @consensus_hk @CoinDesk🇭🇰.",
+      "timestamp": "Feb 17, 2025 · 12:53 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1891471020323713396#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1890377906980819365#m",
+      "content": "Happy to work together with Unleash Protocol @UnleashProtocol on Story @StoryProtocol.",
+      "timestamp": "Feb 14, 2025 · 12:29 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1890377906980819365#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1890283371281997874#m",
+      "content": "🚨 ALERT! 🚨 Our system has detected a series of suspicious transactions targeting several unknown contracts (likely MEV bots) across multiple chains, including #Ethereum, #BSC, #Avalanche, and #Base, resulting in a loss of approximately $170K. These transactions were initiated by the same address (0x6c88be3ff0a1c98cd3ddbad1203507d0bc2e17f1).\n\nOur analysis indicates that due to inadequate access control, the attacker was able to force investments into fraudulent Uni-V3 pools for profit.\n\nTransactions:\napp.blocksec.com/explorer/tx…\napp.blocksec.com/explorer/tx…\napp.blocksec.com/explorer/tx…\napp.blocksec.com/explorer/tx…",
+      "timestamp": "Feb 14, 2025 · 6:14 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1890283371281997874#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1889685529110749442#m",
+      "content": ".@YeiFinance 🤝 BlockSec Phalcon\n\n24/7 attack monitoring ➕ millisecond automated blocking \n🟰 Proactive defense 🟰 $140M+ assets secured 🛡️\n\nLearn more in the blog👇: blocksec.com/blog/blocksec-p…\n\n#DeFiSecurity #YeiFinance #Phalcon #Sei",
+      "timestamp": "Feb 12, 2025 · 2:38 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1889685529110749442#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1888164245831131418#m",
+      "content": "Subscribe to BlockSec Phalcon today to get alerted in real time and take automatic actions to protect your assets.  blocksec.com/phalcon",
+      "timestamp": "Feb 8, 2025 · 9:53 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1888164245831131418#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1888143950990778773#m",
+      "content": "ALERT! Our system has detected several attack transactions targeting contracts on #BSC and #Arbitrum hours ago, resulting in losses of ~ $107K and $188K, respectively. Both incidents are price manipulation attacks: the first involves a price manipulation attack by forced investment, while the second exploits the lack of access control and slippage protection, enabling the attacker to forcibly burn victims' positions.\n\nAttack TX on #BSC: app.blocksec.com/explorer/tx…\n\nAttack TX on #Arbitrum:\napp.blocksec.com/explorer/tx…\n\nSubscribe to BlockSec Phalcon today to get alerted in realtime and take automatic actions to protect your assets.  blocksec.com/phalcon",
+      "timestamp": "Feb 8, 2025 · 8:32 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1888143950990778773#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1887693987839971583#m",
+      "content": "ALERT! Our system detected a series of attacks targeting an unknown #XSD token on #ETH , #Base and #Optimism , resulting in ~$45k in losses.  It is a price manipulation attack that leverages the flawed 'swapXSDforETH' function through two key steps to manipulate the #XSD token's price: 1) exploiting a reentrancy vulnerability, and 2) burning tokens held by the pool.\n\nAttack TX: \napp.blocksec.com/explorer/tx…\napp.blocksec.com/explorer/tx…\napp.blocksec.com/explorer/tx…\n\nSubscribe to BlockSec Phalcon today to get alerted in realtime and take automatic actions to protect your assets.  blocksec.com/phalcon",
+      "timestamp": "Feb 7, 2025 · 2:44 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1887693987839971583#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1882630151583981787#m",
+      "content": "ALERT! Our system detected a series of attacks targeting the @odosprotocol protocol on #ETH #Base, resulting in ~$50k in losses. \n\nThe root cause is arbitrary call vulnerability caused by unverified user input. We notice that the attacker exploited the precompile contract (0x4) to bypass the signature verification. Protocols utilizing this method should exercise caution to mitigate similar risks.\n\nAttack TX:\napp.blocksec.com/explorer/tx…\n\nSubscribe to BlockSec Phalcon today to get alerted in realtime and take automatic actions to protect your assets.\n\nblocksec.com/phalcon",
+      "timestamp": "Jan 24, 2025 · 3:23 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1882630151583981787#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1880181450387124272#m",
+      "content": "🚀Enhancing On-Chain Security on Ethereum and BSC🚀\nRead the full analysis👉blocksec.com/blog/blog-4\n\nBlocksec has partnered with leading BSC Builder service provider @BlockRazor_Inc to launch an RPC for MEV protection. \nStart Now👉:docs.blocksec.com/blocksec-a…\n\nWith 100% effectiveness against sandwich and front-running attacks, and 98% of transactions included in the next block, it offers a safer, more secure trading environment while protecting users from potential losses. 🛡️\n\n#BSC #MEV #BlockchainSecurity",
+      "timestamp": "Jan 17, 2025 · 9:12 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1880181450387124272#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1879475749138382896#m",
+      "content": "Happy to collaborate to secure Web3 users. @MetaDockTeam @okxexplorer \n\nblocksec.com/metasuites",
+      "timestamp": "Jan 15, 2025 · 10:28 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1879475749138382896#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1879369751694291449#m",
+      "content": "Subscribe to Phalcon to monitor and block hacks to protect users.\n\nblocksec.com/phalcon",
+      "timestamp": "Jan 15, 2025 · 3:27 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1879369751694291449#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1878792587500540041#m",
+      "content": "#BTCFi projects can utilize BlockSec Phalcon to monitor the depegging and cross-chain risks of BTC-wrapped assets, and take automated actions to prevent them.\nblocksec.com/blog/btc-cross-…\n\nAdditionally, our address ownership verification API provides data for #PoR on third-party platforms like Chainlink. Learn more 👇",
+      "timestamp": "Jan 13, 2025 · 1:13 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1878792587500540041#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1878697312731762811#m",
+      "content": "✅ Audit complete and mainnet underway! \n\nSide Protocol has been thoroughly audited by the industry-leading security research firm @BlockSecTeam.\n\n📄 Read the full report here: \nblocksec.com/audit-report/se…",
+      "timestamp": "Jan 13, 2025 · 6:55 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1878697312731762811#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1877559609776640019#m",
+      "content": ". BunniHub of @alienbasedex on base was attacked with multiple transactions. Though the loss in each transaction is small, it still shows the vulnerabilities existing in the smart contract.\n\nSubscribe to Phalcon to protect your protocol. \nblocksec.com/phalcon\n\nSome attack tx: \napp.blocksec.com/explorer/tx…\napp.blocksec.com/explorer/tx…\napp.blocksec.com/explorer/tx…\napp.blocksec.com/explorer/tx…\napp.blocksec.com/explorer/tx…",
+      "timestamp": "Jan 10, 2025 · 3:34 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1877559609776640019#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1876929877489648046#m",
+      "content": "Being aware of the critical operation of a DeFi protocol is necessary. That's why you must have Phalcon in hand to monitor the *Contract Upgrade*.\n\nBook a demo with the BlockSec Phalcon team to learn how Phalcon can help mitigate the operation risks.\n\ncalendly.com/blocksec/phalco…",
+      "timestamp": "Jan 8, 2025 · 9:52 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1876929877489648046#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1873721569627033684#m",
+      "content": "We have released the data from our paper, 'Dissecting Payload-based Transaction Phishing on Ethereum,' which was accepted to NDSS 2025.\n\ngithub.com/blocksecteam/PTXP…\n\nKeep protecting users and make a safe Web3.",
+      "timestamp": "Dec 30, 2024 · 1:23 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1873721569627033684#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1873633529109901810#m",
+      "content": "RT @Phalcon_xyz: .@FEGtoken was attacked on #Ethereum, #BSC, and #Base last Sunday, resulting in losses exceeding $900K. As the core relaye…",
+      "timestamp": "Dec 30, 2024 · 7:33 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1873633529109901810#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1872235999537066199#m",
+      "content": "We keep building.",
+      "timestamp": "Dec 26, 2024 · 11:00 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1872235999537066199#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1872159401051828341#m",
+      "content": "🔥 Explore BlockSec Phalcon's New Feature: TestKit\n\nThreat monitoring platforms should be highly flexible, allowing users to tailor monitoring rules for complex scenarios. But how can users ensure their setup meets their expectations? Wait for a threat to strike? Absolutely not!\n\nWith TestKit, users can initiate simulated or historical transactions to test how the system would react. Will the monitor be triggered? Will you receive an alert? Will the response action (e.g., pause the protocol) be automatically initiated? Test your setup with TestKit and rest assured!\n\n👀 Learn more about BlockSec Phalcon at blocksec.com/phalcon\n🤝 Book a demo with our security experts and apply for a free trial today at  calendly.com/blocksec/phalco…",
+      "timestamp": "Dec 26, 2024 · 5:55 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1872159401051828341#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1871566724627390911#m",
+      "content": "🎄 Merry Christmas from the BlockSec! 🎄\n\nThis year, we’ve worked hard to protect what matters: your assets, your trust, and the promise of Web3. But none of it would have been possible without YOU—our community.\n\nLet this season inspire us all to aim higher, dream bigger, and work harder for a safer, brighter Web3 future. \n\n🧑‍🎄Merry Christmas\n#MerryChristmas #Web3Security #BlockSec",
+      "timestamp": "Dec 24, 2024 · 2:40 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1871566724627390911#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1871244717184450909#m",
+      "content": "Merry Christmas, Sleuthers!\n\nNow, the user manual is available in five more languages: Chinese, German, French, Japanese, and Russian\n\nHappy sleuthing this holiday season!\n\ndocs.metasleuth.io/",
+      "timestamp": "Dec 23, 2024 · 5:21 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1871244717184450909#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1870497636702409174#m",
+      "content": "Glad we could assist @TheGemPad by providing real-time attack alerts and helping the team take emergency action to stop ongoing threats.\n\nSubscribe to BlockSec Phalcon today to get alerted in realtime and take automatic actions to protect your assets.   blocksec.com/phalcon",
+      "timestamp": "Dec 21, 2024 · 3:52 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1870497636702409174#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1868939653929402822#m",
+      "content": "Mark your calendars! Dec 18, 8 PM (UTC+8)\n\n🚀 BlockSec x OKX Chinese @okxchinese are bringing together TOP security experts and protocols to discuss how to safeguard your assets in the BULL MARKET! [Space is in Chinese]\n\nDon’t miss out on this must-attend event!\n\n#Blockchain#Security#Web3📷",
+      "timestamp": "Dec 17, 2024 · 8:41 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1868939653929402822#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1868938902415065223#m",
+      "content": "🔗 Join us here\n\nmeeting.tencent.com/dm/FtWgh…",
+      "timestamp": "Dec 17, 2024 · 8:38 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1868938902415065223#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1867496590388474307#m",
+      "content": "🚀 Exciting news! The MetaSleuth Team Plan, designed specifically for team collaboration, is now live. \n\nCreate your team to experience seamless investigative teamwork now!  metasleuth.io",
+      "timestamp": "Dec 13, 2024 · 9:07 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1867496590388474307#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1866415952180502855#m",
+      "content": "ALERT! Our system detected an attack on the unknown project named Rebalancer on #Base, resulting in ~133 Ether in losses. It is a typical reentrancy attack. Note that the attacker (0x012fc6) is not a new actor; it has been launching several other attacks for some time.\n\nAttack TX: app.blocksec.com/explorer/tx…\n\nSubscribe to BlockSec Phalcon today to get alerted in realtime and take automatic actions to protect your assets.   blocksec.com/phalcon",
+      "timestamp": "Dec 10, 2024 · 9:33 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1866415952180502855#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1866392519895847183#m",
+      "content": "ALERT! Our system has detected suspicious transactions that seem to be initiating governance attacks targeting an unknown protocol on #BSC. Losses exceed $640K. Please take action ASAP! \n\nAs there is no direct method available to contact the respective project, please reach out to us if you have any questions.\n\nSubscribe to BlockSec Phalcon today to get alerted in realtime and take automatic actions to protect your assets.   blocksec.com/phalcon",
+      "timestamp": "Dec 10, 2024 · 8:00 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1866392519895847183#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1864611113092174226#m",
+      "content": "Phalcon Explorer ✖️ Core 🎉\n\nWe are excited to announce that Phalcon Explorer now supports @Coredao_Org, allowing users to easily check fund flows & balance changes, and explore transaction traces with just a click. \n\n🔥Try it out here: app.blocksec.com/explorer/tx…\n\n#Core #PhalconExplorer #DeFi #BlockSec",
+      "timestamp": "Dec 5, 2024 · 10:01 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1864611113092174226#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1863895517086003545#m",
+      "content": "#MetaSleuthTips Edge Drawing Feature\n\n🔸 Connect nodes on the canvas to reveal unique relationships, like cross-chain transfers (not supported by automatic tracing) and off-chain connections, and more.\n🔸 Double-tap to improve clarity by adding notes.",
+      "timestamp": "Dec 3, 2024 · 10:38 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1863895517086003545#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1862115173164798412#m",
+      "content": "This Thanksgiving, we’re grateful for the trust our clients, partners, and community place in us to secure the blockchain ecosystem. 🎉\n\nHappy Thanksgiving from all of us at BlockSec! 🧡💙\n\n#BlockchainSecurity#Thanksgiving2024#BlockSec",
+      "timestamp": "Nov 28, 2024 · 12:43 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1862115173164798412#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1861712730547462383#m",
+      "content": "Equilibria ✖️ BlockSec Phalcon\n\nBlockSec Phalcon is actively safeguarding @Equilibriafi by monitoring its mempool and on-chain transactions to detect hacks, operational, interaction and financial risks 24/7. When threats are detected, BlockSec Phalcon will automatically block them to prevent loss before they do any damage to Equilibria.\n\nThis proactive approach establishes robust defenses for Equilibria against evolving threats, securing its platform throughout its entire lifecycle.\n\n#Equilibria #Phalcon #BlockSec #DeFiSecurity",
+      "timestamp": "Nov 27, 2024 · 10:04 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1861712730547462383#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1861375788211413234#m",
+      "content": "Thrilled to announce that BlockSec Phalcon now supports Optimism.\n\nProtocols on @Optimism can now get access to BlockSec Phalcon to continuously monitor and automatically block hacks, operational, interaction, and financial risks, 24/7.\n\n👀Interested in experiencing our platform? Book a demo and gain access to a free trial: calendly.com/blocksec/phalco…\n\n😎Discover more about what BlockSec Phalcon offers: blocksec.com/phalcon",
+      "timestamp": "Nov 26, 2024 · 11:45 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1861375788211413234#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1860890801909190664#m",
+      "content": "ALERT! Several hours ago, our system detected an attack transaction targeting an unknown #DCT token on #BSC, leading to losses exceeding $428K. The attacker took advantage of the #DCF token's transfer mechanism, which enforces a forced investment logic. When #DCF tokens were sent to the USDT-DCF liquidity pool address, 5% of the tokens were automatically converted into #USDT and added to the USDT-DCT liquidity pool. This action triggered a swap in the USDT-DCT pool, allowing the attacker to manipulate the #DCT token's price and make profits accordingly.\n\nSubscribe to BlockSec Phalcon today to get alerted in realtime and take automatic actions to protect your assets.   blocksec.com/phalcon",
+      "timestamp": "Nov 25, 2024 · 3:38 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1860890801909190664#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1859795155131433238#m",
+      "content": "We’re thrilled to announce our partnership with @BlockSecTeam , a leading security and audit firm driving innovation in Web3 security, led by a team of industry experts.\n\nBlockSec got involved with our project early on and played a crucial role in ensuring usdx.money is one of the most secure stablecoin protocols in the ecosystem. They’ve just completed a comprehensive audit, solidifying our commitment to transparency, security, and user trust.",
+      "timestamp": "Nov 22, 2024 · 3:04 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1859795155131433238#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1859218441754083364#m",
+      "content": "BlockSec Phalcon 🛡️ x Arbitrum 🚀\n\nBlockSec Phalcon now supports @arbitrum , providing unbreakable post-launch security for the Arbitrum Ecosystem.\n\nProtocols on Arbitrum can now get access to BlockSec Phalcon's robust capabilities to continuously monitor and automatically prevent hacks, operational, interaction, and financial risks, 24/7.\n\n👀Interested in experiencing our platform? Book a demo and gain access to a free trial: calendly.com/blocksec/phalco…\n😎Discover more about what BlockSec Phalcon offers: blocksec.com/phalcon",
+      "timestamp": "Nov 20, 2024 · 12:53 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1859218441754083364#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1859199044343455843#m",
+      "content": "We launched our attack monitoring and blocking platform, BlockSec Phalcon, last year and are honored to have earned the trust of many esteemed clients, including @0xMantle, @IgnitionFBTC, @Bybit_Official, @MantaNetwork, and @puffer_finance, among others. We sincerely appreciate your trust! ❤️\n\nWe have been continuously refining our platform and, after months of dedicated effort, are excited to announce this major upgrade. The new version covers the vast majority of threats that protocols might face post-launch and greatly optimizes convenience and flexibility in configuration.\n\nWe invite protocols to book a demo with us and start a free trial today at calendly.com/blocksec/phalco….",
+      "timestamp": "Nov 20, 2024 · 11:36 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1859199044343455843#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1858842844041286128#m",
+      "content": "Phalcon Explorer Integrates Neo X Blockchain for Seamless Transaction Visualization and Analysis 🤝\n\nExcited to announce that Phalcon Explorer, the supported tool of BlockSec Phalcon, now supports the Neo X chain. This enhancement allows users to easily track fund flows, check balance changes, and delve into transaction traces with just a click. \n🚀Try it out here: app.blocksec.com/explorer/tx…\n\nLooking ahead, we are going to deepen our collaboration with @Neo_Blockchain on BlockSec Phalcon to further strengthen the security of the Neo X ecosystem. \n👀Learn about BlockSec Phalcon at blocksec.com/phalcon\n\n#NeoX #Phalcon #BlockSec #DeFiSecurity",
+      "timestamp": "Nov 19, 2024 · 12:00 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1858842844041286128#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1858465675762655395#m",
+      "content": "This week, we’re uncovering how the #Restaking Aggregator was audited and exploring its technical details with the experts at @BlockSecTeam 🔍  \n\nDon’t miss this deep dive — set your reminder!\nlocalhost:8080/i/spaces/1yNxagkzwqgGj",
+      "timestamp": "Nov 18, 2024 · 11:02 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1858465675762655395#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1858436357674381516#m",
+      "content": ".@polterfinance on #Fantom suffered a hack, resulting in losses of approximately $8.7M. The incident appears to be a typical price manipulation attack caused by reliance on the spot price of the #BOO token.\n\nThe attacker exploited the calculation of the #BOO token price, which was based on token reserves in the WFTM-BOO liquidity pair. By draining #BOO token reserves through a flash loan, they artificially inflated the calculated price of #BOO. This allowed them to borrow tokens far exceeding the actual value of the collateral (#BOO), resulting in significant profit.",
+      "timestamp": "Nov 18, 2024 · 9:05 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1858436357674381516#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1858434172852822227#m",
+      "content": "By integrating our key products—including BlockSec's @MetaSleuth, Phalcon Explorer @Phalcon_xyz, and MetaSuites @MetaDockTeam — we aim to provide blockchain developers and users with more comprehensive and secure analysis tools and data services.",
+      "timestamp": "Nov 18, 2024 · 8:56 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1858434172852822227#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1858434170466243035#m",
+      "content": "🚀BlockSec and OKX Explorer @OKXExplorer\nhave launched a comprehensive partnership focusing on blockchain data interoperability, product integration, and API enhancements.  \n\nblocksec.com/blog/block-sec-…",
+      "timestamp": "Nov 18, 2024 · 8:56 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1858434170466243035#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1857003795420512668#m",
+      "content": "On October 23, the $SHAR token skyrocketed to $60M in market cap before a rug pull crashed its price from $0.05986 to $0.0013.\n\n👉Discover the full story behind this dramatic rise and fall here: metasleuth.io/blog/pump-dump…\n\n🕵️Simplify and enhance your on-chain investigations with #MetaSleuth",
+      "timestamp": "Nov 14, 2024 · 10:13 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1857003795420512668#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1857686200414253560#m",
+      "content": "Dexx @DEXXai_EN was compromised, possibly due to private key leakage. This raised the security concerns of centralized store of users private key in trading bots. A new security architecture of trading bot is needed in #Solana ecosystem, with a real self-custody mechanism.",
+      "timestamp": "Nov 16, 2024 · 7:24 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1857686200414253560#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1857421903004328204#m",
+      "content": "Enhanced security measures attract more users, increase TVL, and drive ecosystem prosperity, promoting wider adoption. YESSS! Security is CRUCIAL for the growth of L2!\n\nAs a security company, BlockSec offers an effective solution for L2 networks with the Sequencer Threat Overwatch Program (S.T.O.P). Leveraging BlockSec Phalcon's @Phalcon_xyz excellent threat detection capabilities, S.T.O.P brings innovative security solutions to L2.\n\nFind out more here🔗\n\nblocksec.com/blog/revolution…\n\n#BlockchainSecurity #L2Innovation #DevCon2024\n\n￼\n￼",
+      "timestamp": "Nov 15, 2024 · 1:54 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1857421903004328204#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1857356767115477004#m",
+      "content": "Our investigation on meme coin SHAR Pump and Dump on #Solana\n\nmetasleuth.io/blog/pump-dump…",
+      "timestamp": "Nov 15, 2024 · 9:35 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1857356767115477004#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1857002671124730233#m",
+      "content": "ALERT! Our system has detected several attacks targeting the #vETH token on #Ethereum, resulting in approximately $450K in losses. This appears to be a price manipulation attack, likely due to reliance on the spot price within the designated factory contract (0x62f2, which is not open-source).\n\nSubscribe to BlockSec Phalcon today to get alerted in realtime and take automatic actions to protect your assets.   blocksec.com/phalcon",
+      "timestamp": "Nov 14, 2024 · 10:08 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1857002671124730233#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1856517504358895639#m",
+      "content": "#USDa is secured by top industry experts: @salus_sec  , @BlockSecTeam, @SlowMist_Team, and @fuzzland_ , and has successfully passed their audits. Your assets are protected, and so are we.\n\nWith a zero-tolerance policy for vulnerabilities, #USDa’s smart contracts have been rigorously tested by leading security firms.\n\nTo ensure continuous protection, we partner with @fuzzland_,  a 24/7 on-chain security guard, keeping the Avalon ecosystem and its users safe at all times.",
+      "timestamp": "Nov 13, 2024 · 2:00 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1856517504358895639#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1855798237770170415#m",
+      "content": "ALERT! Our system has detected an attack targeting the #BGM token on #BSC, resulting in losses exceeding $450K. This is a typical price manipulation attack exploiting reliance on the spot price. Do NOT add liquidity to the pool (0xadc4ec) anymore.\n\nSubscribe to BlockSec Phalcon today to get alerted in realtime and take automatic actions to protect your assets.   blocksec.com/phalcon\n\nAttack  TX: app.blocksec.com/explorer/tx…",
+      "timestamp": "Nov 11, 2024 · 2:22 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1855798237770170415#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1854818315845484954#m",
+      "content": "The new User Manual for #MetaSleuth is now live! 🎉\n\n👉 Explore it here: docs.metasleuth.io/user-manu…\n\nWe’ve added sections on \"Start by a Simple Search\" and \"Start by a Shared Link\" to help first-time users get up to speed quickly. Dive into our comprehensive resource to maximize your blockchain analysis experience!\n\n🕵️Simplify and enhance your on-chain investigations with #MetaSleuth",
+      "timestamp": "Nov 8, 2024 · 9:28 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1854818315845484954#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1854135505602195568#m",
+      "content": "On August 20, 2024, a phishing attack drained over $54M in DAI from a Gemini-funded vault, and we've just released a detailed analysis of this incident.\n\n👉 Check out the full report here: metasleuth.io/blog/illicit-f…\n\n🔍 We used #MetaSleuth to trace the stolen funds and uncover the full impact of this phishing scheme.\n\n🕵️ Simplify and enhance your on-chain investigations with #MetaSleuth!",
+      "timestamp": "Nov 6, 2024 · 12:15 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1854135505602195568#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1852316637904728372#m",
+      "content": "Discover the top 4 security incidents in October and stay informed! 🛡️👇\n\nblocksec.com/blog/monthly-se… #Web3Security",
+      "timestamp": "Nov 1, 2024 · 11:47 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1852316637904728372#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1851876822906212427#m",
+      "content": "#MetaSleuthTips Cross-Chain Automatic Tracking✍️\n\nLet's take the address 0x50275...836, marked as KyberSwap Exploiter 1 in MetaSleuth.\n🔸Cross-Chain Transfers: This address transfers ETH to OP and ARB via OptimismGateway and ArbitrumBridge\n🔸Visualize Bridges: Cross-chain bridges are displayed in a unique shape on MetaSleuth\n🔸Track Funds: Click the bridge, then in the InterChain Tracker panel, click Track to automatically follow the fund flows\n\n🔍 From the results, we see ETH transferred to OP(3ETH) and ARB(2ETH)\n\n🕵️Simplify and enhance your on-chain investigations with #MetaSleuth",
+      "timestamp": "Oct 31, 2024 · 6:40 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1851876822906212427#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1851183171033055473#m",
+      "content": "#MetaSleuthTips Node Batch Editing is here ✍️\n\nSimply hold SHIFT + COMMAND to select a group, or use SHIFT to add more nodes.\nNow you can easily move nodes and customize their colors in bulk!\n\nSimplify and enhance your on-chain investigations with MetaSleuth🕵️",
+      "timestamp": "Oct 29, 2024 · 8:43 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1851183171033055473#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1849636437349527725#m",
+      "content": "ALERT! Our system has detected a suspicious transaction targeting an unknown project on #Base, resulting in a loss of approximately $1M. The affected project appears to be a #Compound fork, with multiple markets being drained. As the contracts are not open-source, we suspect this may be a classic price manipulation attack caused by reliance on Uniswap's spot price.\n\nAttack TX: app.blocksec.com/explorer/tx…\n\nSubscribe to BlockSec Phalcon today to get alerted in realtime and take automatic actions to protect your assets.   blocksec.com/phalcon",
+      "timestamp": "Oct 25, 2024 · 2:17 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1849636437349527725#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1849366073579041015#m",
+      "content": "ALERT! Our system has detected attack transactions targeting @RamsesExchange's contract on #Arbitrum, resulting in a loss of  ~$93K. We have contacted the team, and they have informed us that actions have already been taken.\n\nThe root cause appears to be an unverified input in the getPeriodReward function, where the current timestamp is not properly checked against the specified 'period', allowing the attacker to drain the vulnerable contract.\n\nSubscribe to BlockSec Phalcon today to get alerted in realtime and take automatic actions to protect your assets.   blocksec.com/phalcon",
+      "timestamp": "Oct 24, 2024 · 8:23 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1849366073579041015#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1849409939007275052#m",
+      "content": "We've just released a detailed analysis of the @lifiprotocol LiFi Attack, where a vulnerability in the GasZipFacet contract resulted in significant losses.\n\n👉 Check out the full report here: metasleuth.io/blog/illicit-f…\n📊 Explore the MetaSleuth Chart here: metasleuth.io/result/eth/0x1…\n\n🔍 We used #MetaSleuth to trace the stolen funds and reveal the full impact of the exploit.\n\n🕵️ Simplify and enhance your on-chain investigations with #MetaSleuth",
+      "timestamp": "Oct 24, 2024 · 11:17 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1849409939007275052#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1846887112009744398#m",
+      "content": "thanks. the repo is public now :)",
+      "timestamp": "Oct 17, 2024 · 12:12 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1846887112009744398#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1846874306745380930#m",
+      "content": "We have released our dataset on Web3 phishing website detection, containing 26,333 phishing URLs. Feel free to use the dataset for further research and development of better anti-phishing solutions.\n\ngithub.com/blocksecteam/TxPh…",
+      "timestamp": "Oct 17, 2024 · 11:22 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1846874306745380930#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1846738049075761561#m",
+      "content": "🚀 Excited to announce that BlockSec CEO Prof. Yajin Zhou @yajinzhou spoke at #MEVShanghai, unveiling the innovative Layer 2 security solution: Sequencer Threat Overwatch Program (S.T.O.P) 🛡️.\n\nCurious to learn more? Check it out! 🔥blocksec.com/blog/revolution…\n\nSince 2022, BlockSec Phalcon @Phalcon_xyz has safeguarded $20M+ assets through our advanced attack detection and transaction frontrunning. 🔒💪S.T.O.P. utilizes Phalcon's advanced attack detection technology to provide robust security for Layer 2 networks with cutting-edge performance.\n\n#Blockchain #Layer2 #MEVShanghai",
+      "timestamp": "Oct 17, 2024 · 2:20 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1846738049075761561#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1843626451301773765#m",
+      "content": "🚨 On [2024-10-07 11:26], @VitalikButerin  transferred 73 $ETH to #Kanro (Vitalik Charity)! 🚀\n\nStart tracking today: metasleuth.io/result/eth/0xd…\n\n🔍 Simplify your on-chain investigations with #MetaSleuth. Monitor Vitalik's wallet activities and stay up-to-date with just one click! 💻",
+      "timestamp": "Oct 8, 2024 · 12:16 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1843626451301773765#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1841480250942947603#m",
+      "content": "Thanks for mentioning Phalcon explorer @Phalcon_xyz",
+      "timestamp": "Oct 2, 2024 · 2:07 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1841480250942947603#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1841287935532072997#m",
+      "content": "My notes for @danielvf interview on @CyfrinAudits\n\n- Best tools for tracing:\n  - Phalcon Explorer app.blocksec.com/explorer/ (by @BlockSecTeam)\n  - Tenderly tenderly.co/ (by @TenderlyApp)\n  - OpenChain openchain.xyz/trace (by @samczsun)\n  - Dedaub for contract decompilation, currently the best app.dedaub.com (by @dedaub)\n\n- Phalcon usage tips:\n  - Disable static calls (reduces noise)\n  - Mark contracts with colors\n  - Focus on \"Gas Used\" in Phalcon explorer to identify key calls (higher gas consumption often indicates importance)\n  - Asset names are displayed by default instead of just addresses, which makes the trace more readable\n\n- First 2-3 attempts at tracing a hack may be challenging, but significant improvement occurs afterward (up to 50% faster)\n\npiped.kavin.rocks/live/PIGEhaMyg1g",
+      "timestamp": "Oct 2, 2024 · 1:23 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1841287935532072997#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1839314277359849484#m",
+      "content": ".@OnyxDAO was attacked, resulting in a loss of nearly $4M. The root cause was unverified user input during the liquidation process. Specifically, key parameters of the liquidateWithSingleRepay function in the NFTLiquidation contract were controllable by the attacker, allowing manipulation of the extraRepayAmount variable through the repayAmount parameter. By exploiting this, the attacker was able to liquidate all collateral with just one token.\n\nThe key attack steps are summarized as follows:\n1. The attacker first deposited oETH and borrowed various assets to reach the liquidation threshold. Simultaneously, they created a new contract that, through a donation attack and precision loss (inherent from the Compound V2 fork), reduced the oETH exchange rate, making the attacker's position eligible for liquidation.\n2. The attacker then performed the liquidation. Due to insufficient parameter validation, the attacker manipulated the extraRepayAmount variable, which was added to the calculation of how many tokens needed to be liquidated. This allowed the attacker to obtain more oETH through liquidation, leading to a profit.\n\nAttack Tx: app.blocksec.com/explorer/tx…",
+      "timestamp": "Sep 26, 2024 · 2:41 PM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1839314277359849484#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1838795326112592289#m",
+      "content": "See the detailed fund flow of address poisoning on BTC network using @MetaSleuth",
+      "timestamp": "Sep 25, 2024 · 4:19 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1838795326112592289#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1838781531868819790#m",
+      "content": "ALERT! Our system has detected hundreds of suspicious transactions targeting an unknown, non-open-sourced contract on #BSC (0xff2481) over the past few hours, suggesting a possible reentrancy attack. The total loss has reached ~$140K. \n\nInterestingly, after the first attack transaction (with a profit of ~$78K), the deployer (0x7baa94) invoked the victim contract's 'emergencyWithdrawUSDT' function multiple times, each for a small amount rather than withdrawing all the funds at once. This allowed the attacker to make small, repeated profits, ultimately accumulating to $140K.\n\nFirst attack TX: app.blocksec.com/explorer/tx…\n\nSubscribe to BlockSec Phalcon today to get alerted in realtime and take automatic actions to protect your assets.   blocksec.com/phalcon",
+      "timestamp": "Sep 25, 2024 · 3:24 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1838781531868819790#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1838502376979738707#m",
+      "content": "address 1: phishing address\nbc1q7jywd9nfjg36skxt4lc0twvgzc3rkjj6lyfjwm\n\naddress 2:\nbc1q7jgulg69frc8zuzy0ng8d5208kae7t0twyfjwm\n\naddress 3: \nbc1q6c3c0t3zvnphce37ufr4yz9veaqvew2wg0shwr",
+      "timestamp": "Sep 24, 2024 · 8:54 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1838502376979738707#m",
+      "author": "BlockSecTeam"
+    },
+    {
+      "id": "1838502373011943911#m",
+      "content": "Address poisoning is on BTC now. The following is one concrete case. The phishing address (address 1) is disguising address 2 to send a small amount of BTC to address 3. Since addresses 2 and 3 have historic transactions, the attacker hopes to trick the owner into copying the wrong address.",
+      "timestamp": "Sep 24, 2024 · 8:54 AM UTC",
+      "url": "https://twitter.com/BlockSecTeam/status/1838502373011943911#m",
+      "author": "BlockSecTeam"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-20T23:41:54.895Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 200,
+    "pagesFetched": 11,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 27653,
+    "cursorTrail": [
+      "DAAHCgABG3vcsy5__-oLAAIAAAATMTk2Mjc1NTkxMjY4ODY0NDUwMQgAAwAAAAIAAA",
+      "DAAHCgABG3vcsy5__9YLAAIAAAATMTk0MTc4ODQ3MDEyMjU2NjA2MggAAwAAAAIAAA",
+      "DAAHCgABG3vcsy5__8ILAAIAAAATMTkzNTMwNjQzOTA3NTI0MjExMAgAAwAAAAIAAA",
+      "DAAHCgABG3vcsy5__68LAAIAAAATMTkyNjY5NTc2MTkyMTYzNDcwOQgAAwAAAAIAAA",
+      "DAAHCgABG3vcsy5__5sLAAIAAAATMTkxNDUyNTg4OTkzNDkwMTQ1MQgAAwAAAAIAAA",
+      "DAAHCgABG3vcsy5__4oLAAIAAAATMTkwMjI4MjMxNjc3ODQ5NjQxOAgAAwAAAAIAAA",
+      "DAAHCgABG3vcsy5__3YLAAIAAAATMTg5MTUxNDE5NTcwODg5MTU4MwgAAwAAAAIAAA",
+      "DAAHCgABG3vcsy5__2ELAAIAAAATMTg3MjIzNTk5OTUzNzA2NjE5OQgAAwAAAAIAAA",
+      "DAAHCgABG3vcsy5__00LAAIAAAATMTg1ODg0NzQ2NTcxOTYzMjA1NggAAwAAAAIAAA",
+      "DAAHCgABG3vcsy5__zgLAAIAAAATMTg0Njg4NzExMjAwOTc0NDM5OAgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}

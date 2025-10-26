@@ -1,0 +1,2098 @@
+# Hyperliquid (@HyperliquidX)
+
+- 抓取时间：2025-10-21T00:59:17.384Z
+- 推文数量：200 / 目标 200
+- 抓取耗时：25489 ms
+- 数据来源：twitter-Following-1760964620895.json
+- 分页次数：11
+- 抓取尝试：1
+- Cursor 链：10 条
+- 账号统计：粉丝 341587，关注 7，推文 1126，点赞 5367
+- 站外链接：https://t.co/mc1LyCLkYq
+- Twitter：https://twitter.com/HyperliquidX
+- 头像：https://pbs.twimg.com/profile_images/1646991609416806408/vKLEZxhh_normal.png
+- Banner：https://pbs.twimg.com/profile_banners/1527020295059648513/1681508375
+- 认证：Blue Verified
+
+> 账号简介：
+> The blockchain to house all finance. Trade, build apps, and launch tokens on the same hyper-performant chain. X by Hyper Foundation
+
+---
+
+## 1. Oct 18, 2025 · 5:58 PM UTC · 1979608112006086967#m
+- 链接：https://twitter.com/HyperliquidX/status/1979608112006086967#m
+- 作者：@HyperliquidX
+
+> Powered by Hyperliquid
+
+## 2. Oct 18, 2025 · 4:53 PM UTC · 1979591612704723253#m
+- 链接：https://twitter.com/HyperliquidX/status/1979591612704723253#m
+- 作者：@HyperliquidX
+
+> Debunking the FUD that Hyperliquid prioritizes protocol revenue over traders
+>  
+> On 10/10, Hyperliquid ADLs net made users hundreds of millions of dollars by closing profitable short positions at favorable prices. If more positions had been backstop liquidated, HLP could have made hundreds of millions of dollars more in pnl, while being exposed to an irresponsible amount of risk. ADL passed on HLP's potential pnl to users while decreasing HLP's exposure, a win-win.
+>  
+> As a reminder the ADL queue on Hyperliqid has always followed a similar formula to what most CEXs use, incorporating both leverage used and unrealized pnl on the open position.
+>  
+> Finally, thanks to everyone for the feedback on ADL. Suggestions generally increase complexity, such as partially offsetting long and short positions in historically correlated assets. I don't know of other major venues that use more complex logic for the ADL queue. Simple formulas are more robust and understandable by users. Nonetheless, there is research being done on whether there can be substantial improvements that merit more complexity.
+
+## 3. Oct 16, 2025 · 2:44 PM UTC · 1978834364256440433#m
+- 链接：https://twitter.com/HyperliquidX/status/1978834364256440433#m
+- 作者：@HyperliquidX
+
+> Thank you to @token2049 for hosting a fireside chat with @chameleon_jeff and @hal2001 earlier this month.
+>  
+> Discussion covered Hyperliquid's ecosystem approach, perps, HIP-3, builder codes, and stablecoins.
+>  
+> piped.kavin.rocks/watch?v=QDxRDzxx…
+
+## 4. Oct 14, 2025 · 9:59 PM UTC · 1978219148975980825#m
+- 链接：https://twitter.com/HyperliquidX/status/1978219148975980825#m
+- 作者：@HyperliquidX
+
+> JUST IN: Hyperliquid deposits & withdrawals are now live on Polymarket.
+
+## 5. Oct 15, 2025 · 7:39 AM UTC · 1978365114597396614#m
+- 链接：https://twitter.com/HyperliquidX/status/1978365114597396614#m
+- 作者：@HyperliquidX
+
+> On Hyperliquid, there is no listing fee, no listing department, and no gatekeepers.
+>  
+> Spot deployment on Hyperliquid is permissionless. Anyone can deploy a spot asset by paying a gas fee in HYPE. Deployers can choose to receive up to 50% of trading fees on their spot pairs. Everything is transparent and verifiable onchain.
+>  
+> The full defi lifecycle includes building a project, launching a token, and trading that token. Every step of that journey can be done permissionlessly on Hyperliquid.
+
+## 6. Oct 13, 2025 · 1:01 PM UTC · 1977721385641550144#m
+- 链接：https://twitter.com/HyperliquidX/status/1977721385641550144#m
+- 作者：@HyperliquidX
+
+> Hyperliquid.
+>  
+> Now live on the Morpho App.
+
+## 7. Oct 13, 2025 · 2:23 PM UTC · 1977741981414572186#m
+- 链接：https://twitter.com/HyperliquidX/status/1977741981414572186#m
+- 作者：@HyperliquidX
+
+> Equity perps are now live.
+>  
+> Trade [XYZ100] with up to 20x leverage 24/7, 365.
+>  
+> The XYZ US 100 Index tracks the value of the top 100 non-financial companies.
+>  
+> The first 100 users on the waitlist will get alpha access to trade.xyz today.
+
+## 8. Oct 13, 2025 · 3:34 AM UTC · 1977578610329534958#m
+- 链接：https://twitter.com/HyperliquidX/status/1977578610329534958#m
+- 作者：@HyperliquidX
+
+> Hyperliquid’s fully onchain liquidations cannot be compared with underreported CEX liquidations
+>  
+> Hyperliquid is a blockchain where every order, trade, and liquidation happens onchain. Anyone can permissionlessly verify the chain’s execution, including all liquidations and their fair execution for all users. Furthermore, anyone can verify the solvency of the entire system in real time. Transparency and neutrality are key reasons that fully onchain defi is the ideal infrastructure for global finance.
+>  
+> Some CEXs publicly document that they dramatically underreport user liquidations. For example on Binance, even if there are thousands of liquidation orders in the same second, only one is reported. Because liquidations happen in bursts, this could easily be 100x under-reporting under some conditions. Source below.
+>  
+> Hopefully the industry will see transparency and neutrality as important features of the new financial system, and others will follow.
+
+## 9. Oct 11, 2025 · 5:40 PM UTC · 1977066751717429516#m
+- 链接：https://twitter.com/HyperliquidX/status/1977066751717429516#m
+- 作者：@HyperliquidX
+
+> TLDR: During recent volatility, Hyperliquid had 100% uptime with zero bad debt. This was Hyperliquid’s first cross-margin ADL in more than 2 years of operation. ADL does not change the outcome for any liquidated users. While some specific ADL providing trades were unfavorable, the aggregate effect of ADL was that traders realized significant pnl by closing positions at favorable prices that were only briefly available.
+>  
+> --
+>  
+> It’s sad to see some people attack Hyperliquid to deflect from their own platforms’ issues. Solvency and uptime are the two most important properties of a financial system. These are table stakes for any trading system, and gaslighting to convince users otherwise is unethical and irresponsible.
+>  
+> Below is more analysis on how Hyperliquid’s margining system handled the extreme volatility.
+>  
+> Background on liquidations
+>  
+> For a perps system to be solvent, every position must be backed by a minimum amount of collateral. This is called the “maintenance margin.” When positions do not meet the maintenance margin requirement, they are taken over by the system to be liquidated. Earlier today, many altcoins dropped by more than 50% in a short period of time. When this happens, long positions at 2x or higher leverage must be liquidated, or else the system accrues bad debt.
+>  
+> There were billions of dollars worth of positions liquidated on Hyperliquid in a matter of minutes. In a permissionless system, each user chooses their own position sizing and collateralization. Any system that does not liquidate the necessary users is irresponsibly gambling with other users’ funds. On Hyperliquid, every order, trade, and liquidation is transparently verifiable onchain. Many other venues significantly under-report liquidation data. This cannot be compared apples-to-apples against the fully onchain picture of Hyperliquid.
+>  
+> Background on HLP
+>  
+> HLP is a protocol vault with permissionless deposits that 1) provides order book liquidity and 2) performs backstop liquidations. The first role is negligible, with HLP trading less than 1% market share. The focus of this post is liquidations.
+>  
+> Liquidations are first attempted against the order book, and any user can provide liquidity to these market liquidations. Backstop liquidations occur when the order book does not have enough liquidity to absorb an undercollateralized position. In this case, HLP takes over the position along with its collateral. For improved risk management, HLP is split into several child vaults, and each liquidation is only sent to one child vault.
+>  
+> Background on ADL
+>  
+> Auto-deleveraging (ADL) is the liquidation mechanism of last resort, when market and backstop liquidations do not work. See Doug’s thread (link in reply) for a thorough explanation on the details of ADL.
+>  
+> Every ADL event has two sides: the “triggered” side is undercollateralized, while the “providing” side is decided as a function of profitability and leverage used.
+>  
+> Similar to backstop liquidations, even though providers to ADL are profitable on average, there are no guarantees for any specific event. Some ADL providing trades were unfavorable, such as when only some components of long/short portfolio were closed. The system is designed to minimize ADLs because they are unpredictable even if ADL providing trades are profitable on average. Because HLP is a non-toxic backstop liquidator, ADL is a rare settlement of last resort. As far as I know, this was the first cross-margin ADL event on Hyperliquid mainnet (ADL is more common for isolated-only assets such as hyperps, which are not backstop liquidated by HLP).
+>  
+> Summary of events
+>  
+> Over the course of 20 minutes, HLP backstop liquidated billions of dollars worth of positions.
+>  
+> HLP's philosophy has always been to provide liquidity of last resort. Contrary to misconceptions, HLP is a non-toxic liquidator that does not pick profitable liquidations. Instead HLP is a public good for maintaining system solvency. In particular, Hyperliquid has no liquidation fees. HLP’s design, including its multi-component child vault system, is the product of countless simulations, and allows HLP to maximally serve the benefit of the protocol while managing its own risk.
+>  
+> In fact, the liquidator child vaults of HLP themselves became undercollateralized in the course of backstop liquidating as many user positions as possible. This is by design, where child vaults are isolated from the other components of the overall strategy. HLP is treated no differently from other users when participating in ADL. In aggregate, HLP's child vaults were the largest addresses on the triggered side of ADL by more than an order of magnitude. The addresses on the providing side of ADL against HLP’s child vaults realized hundreds of millions of dollars in additional profit relative to the prices shortly before and after the dislocation.
+>  
+> On other venues, the liquidation engine is not transparent and therefore may not be subject to the same strict margin requirements as for normal users. On these venues, the exchange could have backstop liquidated more positions, bearing increased solvency risk to extract hundreds of millions in business revenue. This is not an acceptable tradeoff for Hyperliquid.
+>  
+> Finally, I know that this is a difficult time for many traders, and I hope the community can continue to support each other and grow together. As a contributor to Hyperliquid, I’ll continue to work my hardest to build the best possible platform that can house all of finance. Times like this highlight the importance of transparency and fairness in the financial system.
+
+## 10. Oct 11, 2025 · 5:52 AM UTC · 1976888543948816750#m
+- 链接：https://twitter.com/HyperliquidX/status/1976888543948816750#m
+- 作者：@HyperliquidX
+
+> During the recent market volatility, the Hyperliquid blockchain had zero downtime or latency issues despite record traffic and volumes. HyperBFT consensus and execution handled the spike in throughput gracefully.
+>  
+> This was an important stress test proving that Hyperliquid's decentralized and fully onchain financial system can be robust and scalable. The system's risk and margining implementation functioned as designed, ensuring platform solvency throughout the extreme volatility.
+
+## 11. Oct 10, 2025 · 10:59 AM UTC · 1976603380555645295#m
+- 链接：https://twitter.com/HyperliquidX/status/1976603380555645295#m
+- 作者：@HyperliquidX
+
+> As a reminder, hyperps do not rely on any external data for the oracle price. Hyperps trade like perpetual contracts that users are familiar with, but do not require an external spot or index oracle price. Instead, the funding rate is determined relative to a moving average of the hyperp mark price. This makes the hyperp price more stable and less susceptible to manipulation, unlike usual pre-launch futures.
+>  
+> When trading hyperps, funding rates are important to consider. If there is heavy price momentum in one direction, funding will heavily incentivize positions in the opposite direction for the next eight hours. As always, be sure to understand the contract before trading.
+>  
+> Trading is on low leverage and isolated margin only. Beware of low liquidity, high volatility, potentially extreme funding, and increased liquidation risk. Note: MET-USD will convert to a vanilla perp upon CEX spot listing. See Docs for more.
+>  
+> MET-USD is a hyperp contract that poses higher than normal risk. Do not trade contracts you are unfamiliar with and do not understand the risks for. Read the Docs to learn more about the hyperp mechanism and how it differs from vanilla perps. NFA.
+>  
+> app.hyperliquid.xyz/trade/ME…
+
+## 12. Oct 10, 2025 · 10:59 AM UTC · 1976603377632149511#m
+- 链接：https://twitter.com/HyperliquidX/status/1976603377632149511#m
+- 作者：@HyperliquidX
+
+> By community request, Hyperliquid has listed MET-USD hyperps. You can now long or short the unlaunched Meteora token with up to 3x leverage.
+
+## 13. Oct 8, 2025 · 1:12 PM UTC · 1975912222967943613#m
+- 链接：https://twitter.com/HyperliquidX/status/1975912222967943613#m
+- 作者：@HyperliquidX
+
+> Powered by Hyperliquid
+
+## 14. Oct 8, 2025 · 4:33 AM UTC · 1975781598298841299#m
+- 链接：https://twitter.com/HyperliquidX/status/1975781598298841299#m
+- 作者：@HyperliquidX
+
+> As a reminder, hyperps do not rely on any external data for the oracle price. Hyperps trade like perpetual contracts that users are familiar with, but do not require an external spot or index oracle price. Instead, the funding rate is determined relative to a moving average of the hyperp mark price. This makes the hyperp price more stable and less susceptible to manipulation, unlike usual pre-launch futures.
+>  
+> When trading hyperps, funding rates are important to consider. If there is heavy price momentum in one direction, funding will heavily incentivize positions in the opposite direction for the next eight hours. As always, be sure to understand the contract before trading.
+>  
+> Trading is on low leverage and isolated margin only. Beware of low liquidity, high volatility, potentially extreme funding, and increased liquidation risk. Note: MON-USD will convert to a vanilla perp upon CEX spot listing. See Docs for more.
+>  
+> MON-USD is a hyperp contract that poses higher than normal risk. Do not trade contracts you are unfamiliar with and do not understand the risks for. Read the Docs to learn more about the hyperp mechanism and how it differs from vanilla perps. NFA.
+>  
+> app.hyperliquid.xyz/trade/MO…
+
+## 15. Oct 8, 2025 · 4:33 AM UTC · 1975781595513819524#m
+- 链接：https://twitter.com/HyperliquidX/status/1975781595513819524#m
+- 作者：@HyperliquidX
+
+> By community request, Hyperliquid has listed MON-USD hyperps. You can now long or short the unlaunched Monad token with up to 3x leverage.
+
+## 16. Oct 6, 2025 · 4:19 PM UTC · 1975234405074673691#m
+- 链接：https://twitter.com/HyperliquidX/status/1975234405074673691#m
+- 作者：@HyperliquidX
+
+> 🌈 Now available to everyone: Perps
+>  
+> The smoothest and most powerful way to trade perps onchain, now built right into your favorite mobile wallet. Powered by Hyperliquid.
+
+## 17. Oct 3, 2025 · 11:42 AM UTC · 1974077580065300962#m
+- 链接：https://twitter.com/HyperliquidX/status/1974077580065300962#m
+- 作者：@HyperliquidX
+
+> Thank you to everyone who came to Tuesday's event. For many people, it was their first time in Singapore and first time traveling to any crypto event. Some highlights were the Hypurr NFT gallery, builder booths, Jeff's speech, and merch drop.
+>  
+> We’re grateful to have such a passionate community contributing to Hyperliquid. It’s inspiring to see many people start out as users, believe in the mission, grow to love the ecosystem, and become builders.
+>  
+> There's still so much to build, and we're excited for the future.
+
+## 18. Oct 2, 2025 · 1:25 PM UTC · 1973741227335135478#m
+- 链接：https://twitter.com/HyperliquidX/status/1973741227335135478#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/ZE…
+
+## 19. Oct 2, 2025 · 1:25 PM UTC · 1973741225254785237#m
+- 链接：https://twitter.com/HyperliquidX/status/1973741225254785237#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $ZEC with up to 5x leverage.
+
+## 20. Oct 2, 2025 · 1:07 PM UTC · 1973736643292238010#m
+- 链接：https://twitter.com/HyperliquidX/status/1973736643292238010#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/2Z
+
+## 21. Oct 2, 2025 · 1:07 PM UTC · 1973736641027248391#m
+- 链接：https://twitter.com/HyperliquidX/status/1973736641027248391#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $2Z with up to 3x leverage.
+
+## 22. Oct 2, 2025 · 12:59 PM UTC · 1973734622346252687#m
+- 链接：https://twitter.com/HyperliquidX/status/1973734622346252687#m
+- 作者：@HyperliquidX
+
+> Spot Doublezero deposits, withdrawals, and trading are now officially live on Hyperliquid.
+>  
+> Deposit 2Z on app.hyperliquid.xyz or app.hyperunit.xyz
+>  
+> Trade spot 2Z at app.hyperliquid.xyz/trade/2Z…
+
+## 23. Oct 2, 2025 · 5:33 AM UTC · 1973622270519296037#m
+- 链接：https://twitter.com/HyperliquidX/status/1973622270519296037#m
+- 作者：@HyperliquidX
+
+> Thank you to @hal2001 and @hosseeb for moderating and fellow panelists @gdog97_ and @StaniKulechov for a great discussion
+
+## 24. Oct 2, 2025 · 5:33 AM UTC · 1973622266601861139#m
+- 链接：https://twitter.com/HyperliquidX/status/1973622266601861139#m
+- 作者：@HyperliquidX
+
+> This week, @chameleon_jeff spoke at @token2049 for a fireside chat and defi panel.
+>  
+> Thank you to the community members who traveled all the way to Singapore and listened in. Hyperliquid swag and Hypurr plushies were a common sight in the crowd.
+
+## 25. Sep 28, 2025 · 3:57 PM UTC · 1972329725080313970#m
+- 链接：https://twitter.com/HyperliquidX/status/1972329725080313970#m
+- 作者：@HyperliquidX
+
+> Hypurr NFTs have been deployed on the HyperEVM.
+>  
+> Participants had the opportunity to opt in to receive a Hypurr NFT after the HyperEVM went live as part of the Genesis Event in November 2024. The HyperEVM launched in February 2025 as the general programmability interface to the Hyperliquid L1. The HyperEVM is not a standalone EVM. Rather, it allows developers to trustlessly tap into the liquidity on HyperCore. Read precompiles allow smart contracts on the HyperEVM to read L1 state, and the CoreWriter contract allows HyperEVM smart contracts to send actions on HyperCore. This two-way communication between Core and EVM secured by the same HyperBFT consensus protocol unlocks powerful new primitives. Many novel applications have been built on the HyperEVM exploring these possibilities, including LSTs, lending, and vault tokenization protocols.
+>  
+> The goal of the Hypurr NFT collection was to share a memento with those who believed in and contributed early on to Hyperliquid’s growth. Each NFT is unique and captures the different moods, hobbies, tastes, and quirks of the Hyperliquid community, as depicted by Hypurr.
+>  
+> There are a total of 4,600 NFTs in the collection. 4,313 NFTs went to Genesis Event participants, 144 went to the Hyper Foundation, and 143 went to core contributors, including Hyperliquid Labs, NFT artists, and other contributors.
+>  
+> Ownership and use of Hypurr NFTs are subject to the Hypurr NFT Terms and License available here: hyperfoundation.org/nftTerms. Participants who opted in to receive a Hypurr NFT as part of the Genesis Event were screened according to the Foundation's risk-based program. In addition, clustering analysis was conducted to protect against sybil behavior and cap the total number of NFTs received by any given user.
+>  
+> Contract address: 0x9125E2d6827a00B0F8330D6ef7BEF07730Bac685.
+>  
+> To be clear: No action is required. You do not need to mint. The NFT collection has already been distributed. As always, beware of scams and impersonations.
+
+## 26. Sep 28, 2025 · 10:06 AM UTC · 1972241379213611065#m
+- 链接：https://twitter.com/HyperliquidX/status/1972241379213611065#m
+- 作者：@HyperliquidX
+
+> Permissionless spot quote assets are live on mainnet. Stable asset deployers can enable quote asset status, subject to the onchain requirements outlined in the Docs.
+>  
+> Any quote asset can be specified as the quote asset in the first spot pair of an HIP-1 deployment. Additional asset pairs between existing base and quote assets can also be deployed through a permissionless Dutch auction. This auction is independent from the HIP-1 token auction.
+>  
+> @nativemarkets deployed USDH as the first permissionless quote asset. HYPE/USDH trading is now live, with more permissionless pair deployments possible in the future.
+
+## 27. Sep 27, 2025 · 6:31 AM UTC · 1971825039566950774#m
+- 链接：https://twitter.com/HyperliquidX/status/1971825039566950774#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/AP…
+
+## 28. Sep 27, 2025 · 6:31 AM UTC · 1971825037197168902#m
+- 链接：https://twitter.com/HyperliquidX/status/1971825037197168902#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $APEX with up to 3x leverage.
+
+## 29. Sep 25, 2025 · 1:18 PM UTC · 1971202568291483801#m
+- 链接：https://twitter.com/HyperliquidX/status/1971202568291483801#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/XP…
+
+## 30. Sep 25, 2025 · 1:18 PM UTC · 1971202565854593424#m
+- 链接：https://twitter.com/HyperliquidX/status/1971202565854593424#m
+- 作者：@HyperliquidX
+
+> The XPL hyperp has converted to a regular perp. You can now long or short $XPL with up to 10x leverage.
+
+## 31. Sep 25, 2025 · 12:59 PM UTC · 1971197941017702492#m
+- 链接：https://twitter.com/HyperliquidX/status/1971197941017702492#m
+- 作者：@HyperliquidX
+
+> Spot Plasma deposits, withdrawals, and trading are now officially live on Hyperliquid.
+>  
+> Deposit XPL on app.hyperliquid.xyz or app.hyperunit.xyz
+>  
+> Trade spot XPL at app.hyperliquid.xyz/trade/XP…
+
+## 32. Sep 24, 2025 · 7:26 AM UTC · 1970751586663309402#m
+- 链接：https://twitter.com/HyperliquidX/status/1970751586663309402#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/HE…
+
+## 33. Sep 24, 2025 · 7:26 AM UTC · 1970751584549392668#m
+- 链接：https://twitter.com/HyperliquidX/status/1970751584549392668#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $HEMI with up to 3x leverage.
+
+## 34. Sep 23, 2025 · 1:32 PM UTC · 1970481506570375642#m
+- 链接：https://twitter.com/HyperliquidX/status/1970481506570375642#m
+- 作者：@HyperliquidX
+
+> A common question I’ve heard in Seoul is: what makes Hyperliquid special? I haven't found a way to distill it all into a sentence, but one reason that stood out to me the past few days is the culture of dreaming big and executing, while staying true to the original ethos of defi: integrity, fairness, and transparency. The work is hard, and there are many crucial components to be built. But that’s the beauty of the Hyperliquid community. Builders rise to the challenge and push the frontier of what is possible. I’ve never been more excited to continue building alongside everyone.
+>  
+> Since beginning work on Hyperliquid a few years ago, this was my first time traveling to meet so many community members, and also my first time in Korea. Thank you to @hlh_build organizers @hyperpc_ and @B__Harvest for an incredible hackathon, to @christyhwchoi for the thoughtful fireside chat at KBW, and to @SKYGG_Official/@hypurrcorea, @hypurr_co, and @Hyperliquid_KR for tonight’s community event.
+>  
+> Most of all, thank you to the builders, traders, and community members who give Hyperliquid its soul. I’m blown away by the hospitality, energy, and talent growing every day. There’s a long journey ahead to house all of finance, but it’s good to appreciate how far we’ve come together.
+
+## 35. Sep 23, 2025 · 10:58 AM UTC · 1970442533651259491#m
+- 链接：https://twitter.com/HyperliquidX/status/1970442533651259491#m
+- 作者：@HyperliquidX
+
+> What an incredible past 2 days.⚡️
+>  
+> Much thanks to all our hardworking builders and committed sponsors for helping us bring HLH to life.
+>  
+> Special thanks to @chameleon_jeff for being an honorary judge. Without you, building on Hyperliquid would not be possible.
+>  
+> Congratulations to all our winners of the first ever in person @HyperliquidX Hackathon powered by @hyperpc_.
+>  
+> We hope to see you all at the next one. Lets keep building. 🤝
+
+## 36. Sep 22, 2025 · 10:03 AM UTC · 1970066465438245340#m
+- 链接：https://twitter.com/HyperliquidX/status/1970066465438245340#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/0G
+
+## 37. Sep 22, 2025 · 10:03 AM UTC · 1970066462489641020#m
+- 链接：https://twitter.com/HyperliquidX/status/1970066462489641020#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $0G with up to 3x leverage.
+
+## 38. Sep 22, 2025 · 3:28 AM UTC · 1969966933677412363#m
+- 链接：https://twitter.com/HyperliquidX/status/1969966933677412363#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/ST…
+
+## 39. Sep 22, 2025 · 3:28 AM UTC · 1969966931542491528#m
+- 链接：https://twitter.com/HyperliquidX/status/1969966931542491528#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $STBL with up to 3x leverage.
+
+## 40. Sep 21, 2025 · 7:06 AM UTC · 1969659599298183510#m
+- 链接：https://twitter.com/HyperliquidX/status/1969659599298183510#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/AV…
+
+## 41. Sep 21, 2025 · 7:06 AM UTC · 1969659597268140446#m
+- 链接：https://twitter.com/HyperliquidX/status/1969659597268140446#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $AVNT with up to 5x leverage.
+
+## 42. Sep 19, 2025 · 10:36 AM UTC · 1968987546668449809#m
+- 链接：https://twitter.com/HyperliquidX/status/1968987546668449809#m
+- 作者：@HyperliquidX
+
+> Trading is on low leverage and isolated margin only. Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/AS…
+
+## 43. Sep 19, 2025 · 10:36 AM UTC · 1968987543552074205#m
+- 链接：https://twitter.com/HyperliquidX/status/1968987543552074205#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $ASTER with up to 3x leverage.
+>  
+> Beware of low liquidity, high volatility, and increased liquidation risk.
+
+## 44. Sep 17, 2025 · 5:55 AM UTC · 1968192097334509706#m
+- 链接：https://twitter.com/HyperliquidX/status/1968192097334509706#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/SK…
+
+## 45. Sep 17, 2025 · 5:55 AM UTC · 1968192094926934448#m
+- 链接：https://twitter.com/HyperliquidX/status/1968192094926934448#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $SKY with up to 3x leverage.
+
+## 46. Sep 16, 2025 · 12:30 PM UTC · 1967928959947116873#m
+- 链接：https://twitter.com/HyperliquidX/status/1967928959947116873#m
+- 作者：@HyperliquidX
+
+> Native @USDC & CCTP V2 is now live on HyperEVM - part of @HyperliquidX’s high-performance ecosystem.
+>  
+> Developers, institutions, and traders can now access the world’s largest regulated stablecoin on HyperEVM, and securely make crosschain deposits from over a dozen blockchains.
+>  
+> Key Benefits:
+> ✅ Fully reserved, regulated USDC redeemable 1:1 for US dollars
+> ✅ Institutional on/off-ramps via Circle Mint
+> ✅ Easy integration into HyperEVM apps
+>  
+> Token Addresses:
+> Mainnet: 0xb88339CB7199b77E23DB6E890353E22632Ba630f
+> Testnet: 0x2B3370eE501B4a559b57D449569354196457D8Ab
+>  
+> Get free testnet USDC to test fund flows: faucet.circle.com
+>  
+> Day 1 Partners: @0xHyperBeat @AcrossProtocol @felixprotocol @hyperdrivedefi @hyperlendx @StargateFinance @wormhole
+>  
+> Coming Soon: Direct HyperEVM ↔ HyperCore Connectivity
+>  
+> This launch is the first step toward enabling USDC deposits into Hyperliquid’s spot and perpetuals exchange on HyperCore.
+>  
+> → USDC on HyperEVM is distinct from USDC currently available on HyperCore. As such, there’s no impact to existing trading flows. DEX deposits and withdrawals will also continue to route through its bridge from Arbitrum.
+>  
+> In the next phase, we’ll enable:
+>  
+> → Seamless deposits and withdrawals between HyperEVM and HyperCore’s spot and perps markets, including from 14+ blockchains through CCTP V2
+>  
+> Stay tuned for more updates.
+>  
+> Learn more from our initial announcement: circle.com/blog/native-usdc-…
+>  
+> Hyperliquid.
+
+## 47. Sep 11, 2025 · 10:11 AM UTC · 1966082266465276311#m
+- 链接：https://twitter.com/HyperliquidX/status/1966082266465276311#m
+- 作者：@HyperliquidX
+
+> Over the past week, the community engaged with teams’ proposals for the USDH ticker for a Hyperliquid-first, Hyperliquid-aligned, compliant, and natively minted USD stablecoin. While USDH is no more than a reserved ticker at the protocol level, it has come to represent a community rallying around a common cause and a successful experiment in decentralized governance. Thoughtful dialogue, proposal iteration based on user feedback, and community stewardship are values that will continue to drive Hyperliquid forward.
+>  
+> Regardless of the vote’s result, it will be exciting to see many of these proposals go live and contribute to growing the Hyperliquid ecosystem. Thank you to all participants who dedicated their precious time to be a part of this governance process.
+>  
+> Each validator has stated their intended vote and reasoning in the Discord governance forum. Voting will begin on September 14 at 10:00 UTC, and stakers have until then to stake to a validator who matches their vote.
+>  
+> There are 2 steps to change the validator you stake to: 1) Unstake from the validator and 2) Stake to a new validator who matches your vote. There is a 1-day cooldown after staking to a new validator before you can unstake from them. Important: Do not transfer HYPE from your staking balance to spot balance - this removes HYPE from your staking balance, and you will then be unable to participate in the vote.
+>  
+> Voting is fully onchain through a transaction on the Hyperliquid blockchain and based on stake. When quorum (2/3) is reached, the designated address will be able to bid on the ticker in the spot deploy gas auction. As a reminder, the Foundation validators will effectively abstain by voting for the team with the most non-Foundation votes based on validator commitments made on September 11 weighted by stake on September 14.
+
+## 48. Sep 10, 2025 · 4:19 PM UTC · 1965812377670279592#m
+- 链接：https://twitter.com/HyperliquidX/status/1965812377670279592#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/LI…
+
+## 49. Sep 10, 2025 · 4:19 PM UTC · 1965812375371805165#m
+- 链接：https://twitter.com/HyperliquidX/status/1965812375371805165#m
+- 作者：@HyperliquidX
+
+> The LINEA hyperp has converted to a regular perp. You can now long or short $LINEA with up to 3x leverage.
+
+## 50. Sep 6, 2025 · 4:10 PM UTC · 1964360621681414356#m
+- 链接：https://twitter.com/HyperliquidX/status/1964360621681414356#m
+- 作者：@HyperliquidX
+
+> Rabby Perps is live — now on Rabby Mobile and Rabby Extension.
+>  
+> Trade with up to 40x leverage across 100 markets.
+>  
+> Go long or short anytime, anywhere.
+> Powered by @HyperliquidX
+
+## 51. Sep 3, 2025 · 1:00 PM UTC · 1963225506020491627#m
+- 链接：https://twitter.com/HyperliquidX/status/1963225506020491627#m
+- 作者：@HyperliquidX
+
+> FalconX is expanding support for the Hyperliquid (HYPE) ecosystem with custody and staking solutions.
+>  
+> Clients can now:
+> ✓ Custody HYPE securely on FalconX
+> ✓ Stake HYPE on HyperCore directly from FalconX Custody accounts
+> ✓ Delegate staking to the FalconX validator, operated with @ChorusOne
+> ✓ Access liquid staking via @kinetiq_xyz (kHYPE, iHYPE) for greater flexibility
+>  
+> This is just the first phase of FalconX’s engagement with the Hyperliquid ecosystem. Beyond custody and staking, FalconX will soon integrate HYPE into its market-making capabilities, enabling institutional clients to access liquidity, yield, and exposure through a single trusted platform.
+
+## 52. Sep 1, 2025 · 1:19 PM UTC · 1962505697750647113#m
+- 链接：https://twitter.com/HyperliquidX/status/1962505697750647113#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/WL…
+
+## 53. Sep 1, 2025 · 1:19 PM UTC · 1962505694525174165#m
+- 链接：https://twitter.com/HyperliquidX/status/1962505694525174165#m
+- 作者：@HyperliquidX
+
+> The WLFI hyperp has converted to a regular perp. You can now long or short $WLFI with up to 5x leverage.
+
+## 54. Sep 1, 2025 · 9:31 AM UTC · 1962448280656470496#m
+- 链接：https://twitter.com/HyperliquidX/status/1962448280656470496#m
+- 作者：@HyperliquidX
+
+> As a reminder, hyperps do not rely on any external data for the oracle price. Hyperps trade like perpetual contracts that users are familiar with, but do not require an external spot or index oracle price. Instead, the funding rate is determined relative to a moving average of the hyperp mark price. This makes the hyperp price more stable and less susceptible to manipulation, unlike usual pre-launch futures.
+>  
+> When trading hyperps, funding rates are important to consider. If there is heavy price momentum in one direction, funding will heavily incentivize positions in the opposite direction for the next eight hours. As always, be sure to understand the contract before trading.
+>  
+> Trading is on low leverage and isolated margin only. Beware of low liquidity, high volatility, potentially extreme funding, and increased liquidation risk. Note: LINEA-USD will convert to a vanilla perp upon CEX spot listing. See Docs for more.
+>  
+> LINEA-USD is a hyperp contract that poses higher than normal risk. Do not trade contracts you are unfamiliar with and do not understand the risks for. Read the Docs to learn more about the hyperp mechanism and how it differs from vanilla perps. NFA.
+>  
+> app.hyperliquid.xyz/trade/LI…
+
+## 55. Sep 1, 2025 · 9:31 AM UTC · 1962448278060232819#m
+- 链接：https://twitter.com/HyperliquidX/status/1962448278060232819#m
+- 作者：@HyperliquidX
+
+> By community request, Hyperliquid has listed LINEA-USD hyperps. You can now long or short the unlaunched $LINEA token with up to 3x leverage.
+
+## 56. Aug 27, 2025 · 12:01 PM UTC · 1960674035844702390#m
+- 链接：https://twitter.com/HyperliquidX/status/1960674035844702390#m
+- 作者：@HyperliquidX
+
+> Introducing Based – the first true omnichannel trading experience on @HyperliquidX 🚀
+>  
+> No matter where you are, you can trade seamlessly across 4 powerful products:
+>  
+> 🔸 Mobile App – iOS & Android
+> 🔸 Web Terminal – Accessible & Intuitive
+> 🔸 Telegram App – Trading Bot within Telegram
+> 🔸 Desktop App – Incognito Trades & Highly Performant
+>  
+> Trade anytime, anywhere. One platform, every channel.
+>  
+> 👉 Download Based now & start trading smarter: linktr.ee/BasedOne
+
+## 57. Aug 26, 2025 · 6:55 PM UTC · 1960415778811076682#m
+- 链接：https://twitter.com/HyperliquidX/status/1960415778811076682#m
+- 作者：@HyperliquidX
+
+> BitGo custody for $HYPE is now live. Institutions can securely access HyperEVM with qualified custody, self-custody wallets, and scalable infrastructure for governance assets and dApps.
+>  
+> BitGo brings the security needed to participate in the highest-performance onchain trading ecosystem.
+>  
+> Learn more: bitgo.com/resources/blog/bit…
+
+## 58. Aug 25, 2025 · 7:05 AM UTC · 1959874702056567022#m
+- 链接：https://twitter.com/HyperliquidX/status/1959874702056567022#m
+- 作者：@HyperliquidX
+
+> Spot volumes on Hyperliquid reached a new 24h ATH of $3.4B. This was driven largely by growth in BTC and ETH deposits and spot volume, facilitated by @hyperunit.
+>  
+> This makes Hyperliquid the second largest venue to trade spot BTC across both centralized and decentralized exchanges, with $1.5B 24h volume on BTC alone.
+
+## 59. Aug 23, 2025 · 10:33 AM UTC · 1959202370883363035#m
+- 链接：https://twitter.com/HyperliquidX/status/1959202370883363035#m
+- 作者：@HyperliquidX
+
+> As a reminder, hyperps do not rely on any external data for the oracle price. Hyperps trade like perpetual contracts that users are familiar with, but do not require an external spot or index oracle price. Instead, the funding rate is determined relative to a moving average of the hyperp mark price. This makes the hyperp price more stable and less susceptible to manipulation, unlike usual pre-launch futures.
+>  
+> When trading hyperps, funding rates are important to consider. If there is heavy price momentum in one direction, funding will heavily incentivize positions in the opposite direction for the next eight hours. As always, be sure to understand the contract before trading.
+>  
+> Trading is on low leverage and isolated margin only. Beware of low liquidity, high volatility, potentially extreme funding, and increased liquidation risk. Note: WLFI-USD will convert to a vanilla perp upon CEX spot listing. See Docs for more.
+>  
+> WLFI-USD is a hyperp contract that poses higher than normal risk. Do not trade contracts you are unfamiliar with and do not understand the risks for. Read the Docs to learn more about the hyperp mechanism and how it differs from vanilla perps. NFA.
+>  
+> app.hyperliquid.xyz/trade/WL…
+
+## 60. Aug 23, 2025 · 10:33 AM UTC · 1959202368119013700#m
+- 链接：https://twitter.com/HyperliquidX/status/1959202368119013700#m
+- 作者：@HyperliquidX
+
+> By community request, Hyperliquid has listed WLFI-USD hyperps. You can now long or short the unlaunched $WLFI token with up to 3x leverage.
+
+## 61. Aug 22, 2025 · 9:22 AM UTC · 1958821971200024819#m
+- 链接：https://twitter.com/HyperliquidX/status/1958821971200024819#m
+- 作者：@HyperliquidX
+
+> As a reminder, hyperps do not rely on any external data for the oracle price. Hyperps trade like perpetual contracts that users are familiar with, but do not require an external spot or index oracle price. Instead, the funding rate is determined relative to a moving average of the hyperp mark price. This makes the hyperp price more stable and less susceptible to manipulation, unlike usual pre-launch futures.
+>  
+> When trading hyperps, funding rates are important to consider. If there is heavy price momentum in one direction, funding will heavily incentivize positions in the opposite direction for the next eight hours. As always, be sure to understand the contract before trading.
+>  
+> Trading is on low leverage and isolated margin only. Beware of low liquidity, high volatility, potentially extreme funding, and increased liquidation risk. Note: $XPL-USD will convert to a vanilla perp upon CEX spot listing. See Docs for more.
+>  
+> $XPL-USD is a hyperp contract that poses higher than normal risk. Do not trade contracts you are unfamiliar with and do not understand the risks for. Read the Docs to learn more about the hyperp mechanism and how it differs from vanilla perps. NFA.
+>  
+> app.hyperliquid.xyz/trade/XP…
+
+## 62. Aug 22, 2025 · 9:22 AM UTC · 1958821968536584585#m
+- 链接：https://twitter.com/HyperliquidX/status/1958821968536584585#m
+- 作者：@HyperliquidX
+
+> By community request, Hyperliquid has listed XPL-USD hyperps. You can now long or short the unlaunched $XPL token with up to 3x leverage.
+
+## 63. Aug 21, 2025 · 3:17 AM UTC · 1958367757445284097#m
+- 链接：https://twitter.com/HyperliquidX/status/1958367757445284097#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/YZ…
+
+## 64. Aug 21, 2025 · 3:17 AM UTC · 1958367755222270128#m
+- 链接：https://twitter.com/HyperliquidX/status/1958367755222270128#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $YZY with up to 3x leverage.
+>  
+> Beware of low liquidity, high volatility, and increased liquidation risk.
+
+## 65. Aug 18, 2025 · 4:03 PM UTC · 1957473371106754579#m
+- 链接：https://twitter.com/HyperliquidX/status/1957473371106754579#m
+- 作者：@HyperliquidX
+
+> Spot trading against multiple quote assets has been activated on Hyperliquid mainnet. The USDT0 team completed their deployment today, which automatically deployed the HYPE/USDT pair.
+>  
+> HIP-1 base asset deployments can specify any quote asset as their first spot pair deployment. Permissionless pair deployments between existing base and quote assets follow an independent Dutch auction with the same cadence as the existing HIP-1 deployments. This is an important technical step in generalizing the Hyperliquid protocol. A mechanism for additional quote asset deployments will be added in a future network upgrade. See Docs for more: hyperliquid.gitbook.io/hyper…
+
+## 66. Aug 18, 2025 · 1:08 AM UTC · 1957248243701809322#m
+- 链接：https://twitter.com/HyperliquidX/status/1957248243701809322#m
+- 作者：@HyperliquidX
+
+> Exclusive interview with Hyperliquid founder @chameleon_jeff : How 11 people built "Binance onchain"?
+>  
+> In this episode, he discusses the importance of self-funding, rejecting venture capital, and the focus on user-driven growth. Jeff explains @HyperliquidX vision for a decentralized financial future, the rationale behind not pursuing token listings on CEXs.
+>  
+> Read more wublock.substack.com/p/exclu…
+>  
+> Youtube piped.kavin.rocks/watch?v=M0CluQjz…
+
+## 67. Aug 15, 2025 · 2:55 AM UTC · 1956187895779176514#m
+- 链接：https://twitter.com/HyperliquidX/status/1956187895779176514#m
+- 作者：@HyperliquidX
+
+> Hyperliquid reached new all-time highs with $29B in 24h volume and $7.7M in 24h fees.
+
+## 68. Aug 13, 2025 · 2:59 PM UTC · 1955645436410417418#m
+- 链接：https://twitter.com/HyperliquidX/status/1955645436410417418#m
+- 作者：@HyperliquidX
+
+> The HYPE is real. Anchorage Digital Bank will custody @HyperliquidX's  native HYPE token, bringing institutional-grade security to HyperEVM.
+>  
+> If you’re looking for custody of HYPE on HyperEVM, or are a builder looking for support launching your ERC-20 on HyperEVM, send us a DM to get in touch.
+
+## 69. Aug 6, 2025 · 3:18 AM UTC · 1952932151080698142#m
+- 链接：https://twitter.com/HyperliquidX/status/1952932151080698142#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/PR…
+
+## 70. Aug 6, 2025 · 3:18 AM UTC · 1952932148752859375#m
+- 链接：https://twitter.com/HyperliquidX/status/1952932148752859375#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $PROVE with up to 3x leverage.
+
+## 71. Aug 4, 2025 · 2:45 PM UTC · 1952380455757721720#m
+- 链接：https://twitter.com/HyperliquidX/status/1952380455757721720#m
+- 作者：@HyperliquidX
+
+> 1/8
+> 📊 Just launched: a real-time dashboard to track Hyperliquid trading volumes, builder and referral metrics, profit & loss, and more.
+>  
+> Built by @AlliumLabs
+>  
+> Let's dive in 🧵
+
+## 72. Jul 31, 2025 · 1:03 PM UTC · 1950905110214914364#m
+- 链接：https://twitter.com/HyperliquidX/status/1950905110214914364#m
+- 作者：@HyperliquidX
+
+> Native @USDC and CCTP V2 are coming soon to @HyperliquidX.
+>  
+> What native USDC brings:
+> ✅ A regulated, fully reserved stablecoin, redeemable 1:1 for US dollars
+> ✅ Institutional on/offramps via Circle Mint
+> ✅ Liquidity for DeFi, trading, perps, and more
+>  
+> What CCTP V2 unlocks:
+> ✅ Frictionless USDC transfers between Hyperliquid and the network of CCTP V2 supported blockchains
+> ✅ Fast, capital-efficient liquidity routing for crosschain apps
+>  
+> Learn what this means for the ecosystem: circle.com/blog/native-usdc-…
+
+## 73. Jul 30, 2025 · 2:02 PM UTC · 1950557680856096881#m
+- 链接：https://twitter.com/HyperliquidX/status/1950557680856096881#m
+- 作者：@HyperliquidX
+
+> Spot Bonk deposits, withdrawals, and trading are now officially live on Hyperliquid.
+>  
+> Deposit BONK on app.hyperliquid.xyz or app.hyperunit.xyz
+>  
+> Trade spot BONK at app.hyperliquid.xyz/trade/BO…
+
+## 74. Jul 23, 2025 · 9:07 PM UTC · 1948127961581773311#m
+- 链接：https://twitter.com/HyperliquidX/status/1948127961581773311#m
+- 作者：@HyperliquidX
+
+> Dexari is now live on iOS and Android, no invite needed.
+>  
+> Trade spot and perps with up to 40x leverage in a self-custodial app powered by Hyperliquid. Advanced orders, TradingView charts, no KYC, no lockouts, and MoonPay onramps.
+>  
+> Download: dexari.com/join
+
+## 75. Jul 23, 2025 · 10:30 AM UTC · 1947967563625017405#m
+- 链接：https://twitter.com/HyperliquidX/status/1947967563625017405#m
+- 作者：@HyperliquidX
+
+> Open interest continues to reach new all-time highs, surpassing $14.7B.
+
+## 76. Jul 21, 2025 · 6:16 AM UTC · 1947178777244803543#m
+- 链接：https://twitter.com/HyperliquidX/status/1947178777244803543#m
+- 作者：@HyperliquidX
+
+> The CoreWriter system contract was activated on mainnet two weeks ago.
+>  
+> CoreWriter and read precompiles allow trustless two-way communication between HyperCore and the HyperEVM, enabling builders to create an entirely new class of HyperEVM applications that interact with the liquidity and performance of HyperCore.
+>  
+> For example, LSTs on other chains are usually controlled by an offchain multi-sig because staking occurs outside of the VM. The next generation of Hyperliquid LSTs can be built using read precompiles and CoreWriter for an entirely onchain tokenized staking experience. Furthermore, these onchain LSTs can participate in staking-related functionality through actions initiated from the HyperEVM, such as onchain LST-holder governance to deploy HIP-3 assets.
+>  
+> As another example, borrow lend protocols can use read precompiles to incorporate prices from order books on HyperCore into more robust oracle prices. CoreWriter then allows these protocols to trustlessly liquidate undercollateralized positions on HyperCore order books.
+>  
+> The seamless composability of HyperCore and the HyperEVM will be essential to enabling builders and bringing finance onchain.
+
+## 77. Jul 18, 2025 · 3:45 PM UTC · 1946234940066246694#m
+- 链接：https://twitter.com/HyperliquidX/status/1946234940066246694#m
+- 作者：@HyperliquidX
+
+> Open interest has reached new all-time highs seven days in a row. Today's OI record was $13.8B.
+>  
+> Fees also continue to grow, with a new ATH in 24h fees of $6M.
+
+## 78. Jul 15, 2025 · 9:05 AM UTC · 1945046990968250526#m
+- 链接：https://twitter.com/HyperliquidX/status/1945046990968250526#m
+- 作者：@HyperliquidX
+
+> Last week, Hyperliquid was the first major venue to offer PUMP prelaunch trading. It became the main platform for price discovery leading up to PUMP’s highly anticipated TGE, with over $400M in open interest and $600M in 24h volume as a prelaunch perp.
+>  
+> Following TGE, Hyperliquid was also the first major venue to offer spot trading of PUMP through @hyperunit. It remains one of the most liquid venues to trade PUMP spot.
+>  
+> Hyperliquid continues to support the movement of capital formation and price discovery onchain. This trend is reflected in four consecutive days of open interest all-time highs. Today’s OI reached $12.1B.
+
+## 79. Jul 14, 2025 · 4:55 PM UTC · 1944803023152452055#m
+- 链接：https://twitter.com/HyperliquidX/status/1944803023152452055#m
+- 作者：@HyperliquidX
+
+> Announcing the Hyperliquid Community Hackathon.
+>  
+> A 4-week, global online event to build the future of finance.
+> 💰 Over $160,000 in prizes
+> ⭐ Powered by 35+ Hyperliquid aligned sponsors
+> 📅 Registration opens July 28
+> More details to come. Follow for updates.
+>  
+> Hyperliquid
+
+## 80. Jul 14, 2025 · 5:42 PM UTC · 1944814803886957030#m
+- 链接：https://twitter.com/HyperliquidX/status/1944814803886957030#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/PU…
+
+## 81. Jul 14, 2025 · 5:42 PM UTC · 1944814801877926337#m
+- 链接：https://twitter.com/HyperliquidX/status/1944814801877926337#m
+- 作者：@HyperliquidX
+
+> The PUMP hyperp has converted to a regular perp. You can now long or short $PUMP with up to 5x leverage.
+
+## 82. Jul 14, 2025 · 5:24 PM UTC · 1944810351775658151#m
+- 链接：https://twitter.com/HyperliquidX/status/1944810351775658151#m
+- 作者：@HyperliquidX
+
+> PUMP spot deposits, withdrawals, and trading are now officially live on Hyperliquid.
+>  
+> Deposit PUMP on app.hyperliquid.xyz or app.hyperunit.xyz
+>  
+> Trade spot PUMP at app.hyperliquid.xyz/trade/PU…
+
+## 83. Jul 14, 2025 · 12:04 PM UTC · 1944729735986323924#m
+- 链接：https://twitter.com/HyperliquidX/status/1944729735986323924#m
+- 作者：@HyperliquidX
+
+> Rabby Wallet now tracks your Hyperliquid balance.
+>  
+> Stay on top of your portfolio anytime, anywhere.
+
+## 84. Jul 13, 2025 · 3:18 PM UTC · 1944416246017241237#m
+- 链接：https://twitter.com/HyperliquidX/status/1944416246017241237#m
+- 作者：@HyperliquidX
+
+> Hyperliquid hit a new OI ATH two days in a row. This time of >$11.3B.
+
+## 85. Jul 12, 2025 · 5:26 AM UTC · 1943904876112626069#m
+- 链接：https://twitter.com/HyperliquidX/status/1943904876112626069#m
+- 作者：@HyperliquidX
+
+> Hyperliquid reached a new all-time high of >$10.6B in open interest.
+
+## 86. Jul 10, 2025 · 3:36 AM UTC · 1943152324463202445#m
+- 链接：https://twitter.com/HyperliquidX/status/1943152324463202445#m
+- 作者：@HyperliquidX
+
+> As a reminder, hyperps do not rely on any external data for the oracle price. Hyperps trade like perpetual contracts that users are familiar with, but do not require an external spot or index oracle price. Instead, the funding rate is determined relative to a moving average of the hyperp mark price. This makes the hyperp price more stable and less susceptible to manipulation, unlike usual pre-launch futures.
+>  
+> When trading hyperps, funding rates are important to consider. If there is heavy price momentum in one direction, funding will heavily incentivize positions in the opposite direction for the next eight hours. As always, be sure to understand the contract before trading.
+>  
+> Trading is on low leverage and isolated margin only. Beware of low liquidity, high volatility, potentially extreme funding, and increased liquidation risk. Note: $PUMP-USD will convert to a vanilla perp upon CEX spot listing. See Docs for more.
+>  
+> $PUMP-USD is a hyperp contract that poses higher than normal risk. Do not trade contracts you are unfamiliar with and do not understand the risks for. Read the Docs to learn more about the hyperp mechanism and how it differs from vanilla perps. NFA.
+>  
+> app.hyperliquid.xyz/trade/PU…
+
+## 87. Jul 10, 2025 · 3:36 AM UTC · 1943152321623376209#m
+- 链接：https://twitter.com/HyperliquidX/status/1943152321623376209#m
+- 作者：@HyperliquidX
+
+> By community request, Hyperliquid has listed PUMP-USD hyperps. You can now long or short the unlaunched $PUMP token with up to 3x leverage.
+
+## 88. Jul 9, 2025 · 5:10 AM UTC · 1942813529675116932#m
+- 链接：https://twitter.com/HyperliquidX/status/1942813529675116932#m
+- 作者：@HyperliquidX
+
+> Huge congrats to the Phantom team on their perps launch! We're honored that they chose Hyperliquid as their infrastructure, tapping into the best onchain liquidity with permissionless monetization via builder codes.
+>  
+> By building on Hyperliquid, the Phantom team can focus on their world-class user experience, trusting that the liquidity infrastructure of Hyperliquid will give their users world-class execution. Innovative user interfaces are a huge milestone in bringing finance onchain. I'm excited to see Phantom and Hyperliquid scale and grow together!
+
+## 89. Jul 8, 2025 · 4:56 PM UTC · 1942628993636917311#m
+- 链接：https://twitter.com/HyperliquidX/status/1942628993636917311#m
+- 作者：@HyperliquidX
+
+> Introducing: Phantom Perps 👻 ♾️
+>  
+> Go long or short in just a few taps.
+>  
+> 100+ markets. Up to 40x leverage. All in your pocket.
+>  
+> Powered by @HyperliquidX
+
+## 90. Jul 7, 2025 · 11:39 AM UTC · 1942186694977192179#m
+- 链接：https://twitter.com/HyperliquidX/status/1942186694977192179#m
+- 作者：@HyperliquidX
+
+> Announcing HyperEvmScan, a block explorer for HyperEVM
+
+## 91. Jun 26, 2025 · 5:33 AM UTC · 1938108288081793468#m
+- 链接：https://twitter.com/HyperliquidX/status/1938108288081793468#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/SY…
+
+## 92. Jun 26, 2025 · 5:33 AM UTC · 1938108285313511446#m
+- 链接：https://twitter.com/HyperliquidX/status/1938108285313511446#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $SYRUP with up to 3x leverage.
+
+## 93. Jun 24, 2025 · 2:58 PM UTC · 1937525649545265593#m
+- 链接：https://twitter.com/HyperliquidX/status/1937525649545265593#m
+- 作者：@HyperliquidX
+
+> hyperliquid
+
+## 94. Jun 12, 2025 · 2:00 PM UTC · 1933162517250896289#m
+- 链接：https://twitter.com/HyperliquidX/status/1933162517250896289#m
+- 作者：@HyperliquidX
+
+> XAUt0 is live on @HyperliquidX and HyperCore.
+>  
+> The oldest store of value, now on the blockchain to house all finance.
+>  
+> Your gold, now on Hyperliquid.
+
+## 95. Jun 10, 2025 · 2:16 PM UTC · 1932441713060270182#m
+- 链接：https://twitter.com/HyperliquidX/status/1932441713060270182#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/RE…
+
+## 96. Jun 10, 2025 · 2:16 PM UTC · 1932441710673776877#m
+- 链接：https://twitter.com/HyperliquidX/status/1932441710673776877#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $RESOLV with up to 3x leverage.
+
+## 97. Jun 4, 2025 · 6:22 PM UTC · 1930329296645828769#m
+- 链接：https://twitter.com/HyperliquidX/status/1930329296645828769#m
+- 作者：@HyperliquidX
+
+> Support for HyperEVM in wallet and mini apps is live!
+>  
+> Send and swap any token on HyperEVM with your existing balances on other chains. No bridging necessary.
+
+## 98. Jun 3, 2025 · 4:12 AM UTC · 1929753039969440212#m
+- 链接：https://twitter.com/HyperliquidX/status/1929753039969440212#m
+- 作者：@HyperliquidX
+
+> Thank you to everyone who took the time to thoughtfully respond to my post on transparent markets. I understand that the thesis is controversial and that Hyperliquid is at a new frontier as the first fully transparent order book venue of its scale.
+>  
+> I could well be mistaken, and welcome the continuous dialogue on market structure innovation. However, many criticisms I saw stemmed from misunderstandings, with some points actually supporting transparent systems like Hyperliquid. Market structure is notoriously counterintuitive, and novel approaches often challenge established paradigms, leading to understandable skepticism.
+>  
+> For example, Hyperliquid pioneered protocol-level cancel prioritization, which has since been implemented by new DEXs and even inspired novel transaction ordering ideas on other blockchains. But at the time, it was considered controversial because it went against traditional market design. I hope that transparent trading will follow a similar path to adoption.
+>  
+> I may have been too ambitious trying to cover a complex argument in a single post. Given the specific patterns in criticisms, I'd like to take this opportunity to zoom in on nuances that were missed in the high level summary. What follows is an argument for the final state of efficient markets, with the understanding that Hyperliquid is far from fully efficient today. However, inefficiency is opportunity for those hungry to act. Hopefully this post can also be a call to action for traders, market makers, and builders to translate transparent markets into the highest quality execution venue for all.
+>  
+> --
+>  
+> Before delving into specific concerns, let’s crystallize some counterintuitive principles that can form a helpful mental model for market structure:
+>  
+> 1. Counterparty principle: Benefits of counterparty curation are misattributed to privacy.
+>  
+> Users ultimately care about execution. As studies have shown though, privacy sells. Alternative trading venues often market privacy as the causal feature for improving execution. In reality, the primary source of benefit for users is the screening of counterparties allowed to participate on the venue. Hyperliquid’s market design provides these same benefits more directly and effectively than patchwork solutions. Hyperliquid’s solution also democratizes access, improving execution for all traders large and small.
+>  
+> Note that transparency does not mean doxxing. Of course, the exact identity of some traders will fundamentally change the value of the asset. But those traders need not dox themselves, e.g. Warren Buffet can buy BTC and benefit from transparent markets, without tying his identity to his address.
+>  
+> 2. Competition principle: Maximizing competition is key to improving execution.
+>  
+> Many traders who want to execute in size have some form of alpha. However, the group of informed medium/long term traders in aggregate is difficult to distinguish even over yearly timeframes, as their realized sharpe is too low for statistical significance. It is challenging to distinguish between a trader with solid medium term alpha and a degenerate gambler who got lucky. Therefore, while the desire to minimize market impact and alpha leakage is natural, it’s usually outweighed by the improved liquidity from transparent markets.
+>  
+> Traders therefore see improved execution despite revealing their strategy, as market makers are bound to provide liquidity to the entire range of flows in the market. Competition is the bedrock of capital markets and economics. As an example, the Hyperliquid order books support an onchain TWAP. Such a broadcasted intent to trade is in fact a reasonable proxy for optimal execution. Market makers will immediately fill some size so that the earlier TWAP orders receive worse execution, but will also compete to fill the remaining flow. The competition between market makers ensures near optimal overall execution over the course of the TWAP. Any inefficiency in execution is an opportunity for another market maker to undercut the others.
+>  
+> 3. Repeated games principle: Execution improves when one-time games become repeated games.
+>  
+> Market makers evaluate each decision from a game-theoretical framework, as they are in the business of making positive expectancy bets. On Hyperliquid, every account placing more than one order is playing a repeated game. Repeated games have dramatically different optimal strategies from the one-time games of private venues, and the resulting equilibrium is better execution for everyone other than toxic extractors. Competition is essential for the optimal market marker strategy to benefit the end user, which is amplified by the next principle.
+>  
+> 4. Full transparency principle: Benefits from transparency are non-linear and only manifest when transparency is at the system level.
+>  
+> When optimizing for execution, “the system knows” > “no one knows” > “some people know.” The worst of the three states is where some insiders have privileged information. Those insiders can act exploitatively to extract profit from end users. Because L3 books are not transparent in tradfi, the “darker” venues often implement systems to unilaterally apply counterparty-specific filtering to trades. Hyperliquid achieves the same effect on a lit venue and therefore maintains the benefits of efficient order book execution.
+>  
+> --
+>  
+> Common criticisms to the initial post, and my responses [I’ve bracketed references to the different principles]:
+>  
+> 1. Many large desks in tradfi trade OTC, which is evidence that public venues cannot support large size.
+>  
+> Response: This point actually supports Hyperliquid. In tradfi's L3 books, there is no reliable way to broadcast your identity trustlessly to all counterparties. Using an OTC desk is a compromise, telling a small set of professional counterparties that you are non-toxic. Like trading on an L4 order book, trading OTC is a repeated game where the OTC desk is quick to ban any counterparties that adversely select a small fraction of quotes, or engage in otherwise toxic behavior [repeated games principle]. The OTC desks offer quotes where their own algorithmic execution/hedging costs are below the markup, which is only possible when their fills’ immediate markouts are positive.
+>  
+> A Hyperliquid whale who places an onchain TWAP order is effectively routing their flow to every "OTC desk" plugged into Hyperliquid. When OTC counterparties expand from a select few to all market makers, the competition improves execution for the user compared to the bespoke OTC quote [competition principle]. In summary, execution on Hyperliquid incorporates the efficiency of lit venues with the counterparty signaling of OTC. This high quality execution is available to all users equally.
+>  
+> 2. A large percentage of tradfi volume happens on dark pools, retail internalizer systems, etc.
+>  
+> Response: This argument also supports Hyperliquid. The basic idea behind dark pools is that two large whales with a "coincidence of wants" can match immediately and bypass the spread that lit markets charge. Until such a match exists, orders are attempted to be kept private to reduce market impact. While a neat idea at first glance, the privacy of dark pools is unlikely to meaningfully protect intentions or improve execution. For example, sophisticated actors participate in dark pools themselves. At a minimum, their fills are a strong signal on the supposedly private flow. This shares many parallels with the insider information discussed in the following section. Information that will be deduced anyway is better made public [full transparency principle].
+>  
+> As another argument against the effectiveness of privacy properties, dark pools rely heavily on participants having identities known to the pool operator [repeated games principle]. This is necessary because the private information is easily leaked. There are strict requirements for participation, e.g. high fill rate, minimum order size, and negative short term markouts. Offenders with toxic behavior are banned or deprioritized [counterparty principle]. Like OTC desks discussed above, transparent L4 books on Hyperliquid incorporate and improve upon many of these positive properties of dark pools within an open, systematic framework.
+>  
+> 3. Public data allows hunting of liquidations/stops.
+>  
+> Response: Most would agree that unlike size information, preserving margin privacy is beneficial for the end user. Perhaps a ZK privacy implementation can accomplish this in the future. However, until then, users are less likely to be successfully hunted if everyone knows liquidation and stop prices than when only the exchange operator knows [full transparency principle]. Two reasons:
+>  
+> a. On CEXs, your position information is far from private. Based on empirical data of insider trading leading up to listings, one should assume that liquidations and stops are also vulnerable to misuse. This can be despite best efforts from management: it is extremely difficult to completely control large organizations from leaking information. When insiders hunt stops and liquidations, there is no public data for other market makers to understand the source of the temporary dislocation. This decreases the required capital to successfully push the price.
+>  
+> b. In the game theoretical equilibrium of transparent data, stop and liquidation hunting are likely unprofitable endeavors on average. Whales are protected by the entire system of market participants acting rationally. People trying to hunt liquidations and stops will be counteracted by people trying to trick them into the hunting. For example, someone who wants to open a large long position can execute half of their position on high leverage, bait the hunters to short, then increase collateral and enter the remaining desired position at a more favorable price. As long as some profit seeking “anti-hunters” exist, all whales benefit from the cover.
+>  
+> While point (b) will take time to play out, markets are ultimately efficient. Even before this equilibrium is reached, the full transparency principle in point (a) suggests Hyperliquid's model offers more robust protection for whales. Liquidity is generally deeper when lit venues are more transparent [competition principle], which further increases the cost of liquidation and stop hunting.
+>  
+> 4. Some users have alpha and will not benefit from transparency.
+>  
+> Response: The users that are disadvantaged by Hyperliquid’s system are a very small set of “toxic” participants. These are the same adversarial traders that dark pools, OTC desks, and other solutions try to avoid. A small number of professional HFT firms have alpha on this timescale, and it’s a failing of traditional market structure that these toxic takers have the ability to tax all other users of the system.
+>  
+> As an aside, short term alpha and toxicity is a continuous spectrum, so I’m oversimplifying for sake of argument. For example, there are intraday quantitative strategies that can realize significant sharpe ratios, whose flow could be a reliable momentum signal for market makers. The technical reason this is not a problem is that cost to rotate accounts is proportional to fee sensitivity of the strategy, which is inversely proportional to the time it takes for others to detect the strategy with statistical significance. In other words, the more execution matters to a quant strategy, the less the burden of obfuscation.
+>  
+> Regardless, the vast majority of users on Hyperliquid do not fall remotely close to this category of quantitative, toxic alpha. Note that “toxic” does not mean “informed,” but rather traders who profit non-constructively from slight infrastructural or other structural advantages such as latency. Hyperliquid's cancel prioritization and L4 order book essentially boost the short term liquidity available to non-toxic small and large orders, respectively. As a conservative lower bound, as long as market maker counterparties on Hyperliquid can hedge in time on other venues, the trader benefits from Hyperliquid’s system.
+>  
+> --
+>  
+> I know I’ve missed other points, but will stop here to keep this post digestible. Thanks again to everyone for their thoughtful feedback, especially those who took time to review an earlier version of this post. I look forward to continuing this discussion!
+
+## 99. May 31, 2025 · 6:38 PM UTC · 1928883871644528890#m
+- 链接：https://twitter.com/HyperliquidX/status/1928883871644528890#m
+- 作者：@HyperliquidX
+
+> Why transparent trading improves execution for whales
+>  
+> Throughout Hyperliquid’s growth, skeptics questioned the platform's ability to scale liquidity. These concerns have been resolved now that Hyperliquid is one of the most liquid venues globally. With Hyperliquid’s adoption by some of the largest traders in crypto, discussion has shifted to concerns around transparent trading. Many believe that whales on Hyperliquid are:
+> 1) frontrun as they enter their position
+> 2) hunted because their liquidation and stop prices are public
+>  
+> These concerns are natural, but the opposite is actually true: for most whales, transparent trading improves execution compared to private venues.
+>  
+> The high level argument is that markets are efficient machines that convert information into fair prices and liquidity. By trading publicly on Hyperliquid, whales give market makers more opportunity to provide liquidity to their flow, resulting in better execution. Billion dollar positions can have better execution on Hyperliquid than on centralized exchanges.
+>  
+> This post covers a complex line of reasoning, so it may be more compelling to start with a real-world example from tradfi to demonstrate this universal principle. After all, actions speak louder than words.
+>  
+> Example
+>  
+> Consider the largest tradfi ETFs in the world that need to rebalance daily. Examples include leveraged ETFs that increase positions when prices move favorably and decrease positions in the other direction. These funds manage hundreds of billions of dollars in AUM. Many of these funds choose to execute on the closing auction of the exchanges. In many ways this is a more extreme version of whales trading publicly on Hyperliquid:
+> 1. These funds’ positions are known almost exactly by the public. This is true on Hyperliquid as well.
+> 2. These funds follow a precise strategy that is public. This is not true on Hyperliquid. Whales can trade however they want.
+> 3. These funds trade predictably every day, often in massive size. This is not true on Hyperliquid. Whales can trade whenever they want.
+> 4. The closing auction gives ample opportunity for other participants to react to the ETFs’ flows. This is not true on Hyperliquid, where trading is continuous and immediate.
+>  
+> Despite these points, these ETF managers opt into a Hyperliquid-like transparency. These funds have full flexibility to make their flows private, but proactively choose to broadcast their intentions and trades. Why?
+>  
+> History of transparency in electronic markets
+>  
+> A complementary example is the history of electronic markets. As summarized above, markets are efficient machines that convert information into fair prices and liquidity. In particular, electronic trading was a step-function innovation for financial markets in the early 2000s. Prior trading occurred largely in trading pits, where execution quality was often inconsistent and spreads wider. With the advent of programmatic matching engines transparently enforcing price-time priority, spreads compressed and liquidity improved for end users. Public order books allowed market forces to incorporate supply and demand information into fairer prices and deeper liquidity.
+>  
+> The spectrum of information
+>  
+> Order books are classified by their information granularity. Note that L0 and L4 are not standard terminology, but are included here as natural extensions of the spectrum.
+> L0: No book information (e.g. dark pools)
+> L1: Best bid and offer
+> L2: Levels of the book with price, total size of level, and optionally number of orders in the level
+> L3: Individual anonymized orders with time, price and size. Some fields including sender are private
+> L4 (Hyperliquid): Individual orders with complete parity between private and public information
+>  
+> Each new level of order book granularity offers dramatically improved information for participants to incorporate into their models. Tradfi venues stop at L3, but Hyperliquid advances to L4. Part of this is necessity, as blockchains are transparent and verifiable by nature. However, I argue that this is a feature, not a bug.
+>  
+> Zooming out, the tradeoff between privacy and market efficiency spans the full spectrum from L0 to L4 books. On this scale, L3 books can be viewed as an arbitrary compromise, not necessarily optimal. The main argument against L4 books is that some strategy operators prefer privacy. Perhaps there is some alpha in the strategy that is revealed by the order placement. However, it’s easy to underestimate the sheer talent and effort going into the industry of quantitative finance, which backs out much of these flows despite anonymized data. It’s difficult to enter a substantial position over time without leaking that information to sophisticated participants.
+>  
+> As an aside, I believe financial privacy should be an individual right. I look forward to blockchains implementing privacy primitives in a thoughtful way in the coming years. However, it's important not to conflate privacy and execution. Rather than hand-in-hand concepts, they are independently important concepts that can be at odds.
+>  
+> How market makers react to information
+>  
+> One might argue that some privacy is still strictly beneficial. But privacy is far from free due to its tradeoff with execution: toxic flow can commingle with non-toxic taker flow, worsening execution for all participants. Toxic flow can be defined as trades where one side immediately regrets making the trade, where the timescale of "immediate" defines the timescale of the toxicity. One common example is sophisticated takers who have the fastest line of communication between two venues running toxic arbitrage taker strategies. Market makers lose money providing liquidity to these actors.
+>  
+> The main job of a market maker is to provide liquidity to non-toxic flow while avoiding toxic flow as much as possible. On transparent venues, market makers can categorize participants by toxicity and selectively size up to provide as a non-toxic participant executes. As a result, a whale can quickly scale into a large position faster than on anonymized venues.
+>  
+> Summary
+>  
+> Finally returning to the example of ETF rebalancing, I imagine the conclusion of rigorous experimentation confirmed the points above. Addressing the specific subpoints in the introduction:
+> 1) A transparent venue does not lead to more frontrunning than private venues. Rather, traders with consistently negative short term markouts benefit by broadcasting their autocorrelated flow directly to the market. Transparent venues offer a provable way for every user to benefit from this feature.
+> 2) Liquidations and stops are not “hunted” on transparent venues more than on private venues. Attempts to push the price on a transparent venue are met with counterparties more confident to take the mean reversion trade.
+>  
+> If a trader wants to trade massive size, one of the best things to do is tell the world beforehand. Though counterintuitive, the more information that is out there, the better the execution. On Hyperliquid, these transparent labels exist at the protocol level for every order. This enables a unique opportunity to scale liquidity and execution for traders of all sizes.
+
+## 100. May 28, 2025 · 2:41 PM UTC · 1927737115757904212#m
+- 链接：https://twitter.com/HyperliquidX/status/1927737115757904212#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/SO…
+
+## 101. May 28, 2025 · 2:41 PM UTC · 1927737112884842712#m
+- 链接：https://twitter.com/HyperliquidX/status/1927737112884842712#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $SOPH with up to 5x leverage.
+
+## 102. May 28, 2025 · 2:00 AM UTC · 1927545422664331367#m
+- 链接：https://twitter.com/HyperliquidX/status/1927545422664331367#m
+- 作者：@HyperliquidX
+
+> Today we launch Hyperdrive — the stablecoin money market built for Hyperliquid, and the foundational layer for making everything on HyperCore liquid.
+>  
+> This is our story:
+
+## 103. May 26, 2025 · 6:47 AM UTC · 1926892983019839548#m
+- 链接：https://twitter.com/HyperliquidX/status/1926892983019839548#m
+- 作者：@HyperliquidX
+
+> Hyperliquid reached new all-time highs again:
+> + Open interest: $10.1B
+> + 24h fees: $5.6M
+> + USDC TVL: $3.5B
+>  
+> Welcome to all new members of the ecosystem.
+
+## 104. May 26, 2025 · 4:19 AM UTC · 1926855801425080823#m
+- 链接：https://twitter.com/HyperliquidX/status/1926855801425080823#m
+- 作者：@HyperliquidX
+
+> The @HyperFND X account has been secured. The Hyperliquid blockchain and all other social media channels were unaffected and remain secure.
+>  
+> A thorough investigation is being conducted with the assistance of X's security team. Security best practices were and continue to be in place for the account. There was no compromise of internal systems, email, or associated credentials. Hardware 2FA was untouched. Sincere thanks to X’s team for their swift action and support.
+>  
+> As a warning not just for users of Hyperliquid, but any project, if an announcement looks suspicious, do not interact. First verify it against other social media channels, e.g., Discord, Telegram. Legitimate posts will never require urgency. Remember to stay vigilant.
+
+## 105. May 24, 2025 · 6:54 AM UTC · 1926170012110159950#m
+- 链接：https://twitter.com/HyperliquidX/status/1926170012110159950#m
+- 作者：@HyperliquidX
+
+> HyperFND twitter account was compromised.
+>  
+> The Hyperliquid blockchain is unaffected. Do not interact with any links or tweets from that account.
+
+## 106. May 23, 2025 · 5:40 AM UTC · 1925788938825814403#m
+- 链接：https://twitter.com/HyperliquidX/status/1925788938825814403#m
+- 作者：@HyperliquidX
+
+> Read more here: hyperfnd.medium.com/defi-as-…
+
+## 107. May 23, 2025 · 5:40 AM UTC · 1925788936531591394#m
+- 链接：https://twitter.com/HyperliquidX/status/1925788936531591394#m
+- 作者：@HyperliquidX
+
+> The following post is from Hyperliquid Labs
+>  
+> Hyperliquid Labs is committed to the advancement of defi and its promise in delivering a more open, transparent, and efficient financial system for all. As a contributor to the Hyperliquid blockchain, we believe in defi’s ability not only to meet but to exceed the demands of modern financial markets.
+>  
+> In this spirit, Hyperliquid Labs submitted two comment letters to the United States’ Commodity Futures Trading Commission (CFTC) in response to its recent Requests for Comment on perpetual derivatives and 24/7 trading. We commend the CFTC for its proactive engagement on these topics, understanding of which is fundamental to the evolution of global markets. We believe that Hyperliquid exemplifies how core defi principles can be put into practice to enhance market efficiency, market integrity, and user protection.
+>  
+> Supporting defi in the U.S. with open dialogue and a clear regulatory framework is an opportunity to ensure the U.S. remains a leader in financial innovation while robustly protecting users. Hyperliquid Labs, alongside the broader Hyperliquid community, is committed to being a constructive partner in this journey. We thank the CFTC for its leadership in exploring these critical market innovations and for the opportunity to contribute our perspective.
+
+## 108. May 22, 2025 · 5:05 AM UTC · 1925417762907988159#m
+- 链接：https://twitter.com/HyperliquidX/status/1925417762907988159#m
+- 作者：@HyperliquidX
+
+> With Hyperliquid, anyone can see trades onchain, in real-time.
+>  
+> Thank you to the community for building helpful tools to make this easy, such as: hyperdash.info/ and hypurrscan.io/
+
+## 109. May 22, 2025 · 5:05 AM UTC · 1925417760710152675#m
+- 链接：https://twitter.com/HyperliquidX/status/1925417760710152675#m
+- 作者：@HyperliquidX
+
+> Hyperliquid hit multiple all-time highs today, including:
+> + Open interest: $8.9B
+> + 24h fees: $5.4M
+> + USDC TVL: $3.2B
+>  
+> Onchain, transparent markets are the future.
+
+## 110. May 21, 2025 · 9:44 AM UTC · 1925125505801678958#m
+- 链接：https://twitter.com/HyperliquidX/status/1925125505801678958#m
+- 作者：@HyperliquidX
+
+> Hyperliquid reached a new all-time high in open interest of >$8B.
+
+## 111. May 20, 2025 · 1:10 PM UTC · 1924815018803028093#m
+- 链接：https://twitter.com/HyperliquidX/status/1924815018803028093#m
+- 作者：@HyperliquidX
+
+> Rabby Wallet has integrated HyperEVM chain. @HyperliquidX
+
+## 112. May 20, 2025 · 11:57 AM UTC · 1924796663409082717#m
+- 链接：https://twitter.com/HyperliquidX/status/1924796663409082717#m
+- 作者：@HyperliquidX
+
+> 1/11
+>  
+> HyperEVM eco is now integrated in debank.com! @HyperliquidX @HyperFND
+>  
+> 1st batch of supported protocols: @KittenswapHype @felixprotocol @hyperlendx @HyperYieldx @HyperSwapX @HyperstableX @laminar_xyz @MorphoLabs @sentimentxyz @Hyperpiexyz_io
+
+## 113. May 15, 2025 · 8:05 AM UTC · 1922926341717926230#m
+- 链接：https://twitter.com/HyperliquidX/status/1922926341717926230#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/NX…
+
+## 114. May 15, 2025 · 8:05 AM UTC · 1922926338991681631#m
+- 链接：https://twitter.com/HyperliquidX/status/1922926338991681631#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $NXPC with up to 5x leverage.
+
+## 115. May 15, 2025 · 7:01 AM UTC · 1922910072293691869#m
+- 链接：https://twitter.com/HyperliquidX/status/1922910072293691869#m
+- 作者：@HyperliquidX
+
+> Listen more here - the clip begins at 51:31:  bloomberg.com/news/audio/202…
+>  
+> The article referenced: bloomberg.com/news/newslette…
+
+## 116. May 15, 2025 · 7:01 AM UTC · 1922910069869408264#m
+- 链接：https://twitter.com/HyperliquidX/status/1922910069869408264#m
+- 作者：@HyperliquidX
+
+> The Bloomberg Surveillance Podcast yesterday touched upon crypto, notably in regards to:
+>  
+> + Transparent, verifiable onchain revenue in projects like Hyperliquid
+>  
+> + Crypto as a breeding ground for the next generation of finance
+
+## 117. May 14, 2025 · 2:03 PM UTC · 1922653932737744945#m
+- 链接：https://twitter.com/HyperliquidX/status/1922653932737744945#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/LA…
+
+## 118. May 14, 2025 · 2:03 PM UTC · 1922653929625575444#m
+- 链接：https://twitter.com/HyperliquidX/status/1922653929625575444#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $LAUNCHCOIN with up to 3x leverage.
+
+## 119. May 14, 2025 · 4:03 AM UTC · 1922503123760975974#m
+- 链接：https://twitter.com/HyperliquidX/status/1922503123760975974#m
+- 作者：@HyperliquidX
+
+> Thanks @MikeIppolito_ and @MonetSupply for having me on Bell Curve!
+>  
+> Really enjoyed the thoughtful questions and discussion including:
+> 1. HyperEVM as a permissionless interface into HyperCore
+> 2. MEV and market design from first principles
+> 3. Business idea: Fully onchain LSTs protocolizing HIP-3 market deployments, with unique revenue streams enabled by the HyperEVM
+>  
+> piped.kavin.rocks/watch?v=xHGKv0Cx…
+
+## 120. May 13, 2025 · 2:57 PM UTC · 1922305320325357895#m
+- 链接：https://twitter.com/HyperliquidX/status/1922305320325357895#m
+- 作者：@HyperliquidX
+
+> SOL and FARTCOIN deposits, withdrawals, and spot trading are now live on Hyperliquid through @hyperunit
+>  
+> Trade SOL: app.hyperliquid.xyz/trade/0x…
+>  
+> Trade FARTCOIN: app.hyperliquid.xyz/trade/0x…
+
+## 121. May 13, 2025 · 2:06 PM UTC · 1922292360622252333#m
+- 链接：https://twitter.com/HyperliquidX/status/1922292360622252333#m
+- 作者：@HyperliquidX
+
+> Native SOL deposits, withdrawals, and spot trading are now live on Hyperliquid.
+>  
+> Deposit SOL on app.hyperliquid.xyz or app.hyperunit.xyz
+>  
+> Trade spot SOL at app.hyperliquid.xyz/trade/0x…
+
+## 122. May 13, 2025 · 2:12 PM UTC · 1922293804419227993#m
+- 链接：https://twitter.com/HyperliquidX/status/1922293804419227993#m
+- 作者：@HyperliquidX
+
+> FARTCOIN spot deposits, withdrawals, and trading are now live on Hyperliquid.
+>  
+> Deposit FARTCOIN on app.hyperliquid.xyz or app.hyperunit.xyz
+>  
+> Trade spot FARTCOIN at app.hyperliquid.xyz/trade/0x…
+
+## 123. May 13, 2025 · 3:17 AM UTC · 1922129034797830422#m
+- 链接：https://twitter.com/HyperliquidX/status/1922129034797830422#m
+- 作者：@HyperliquidX
+
+> Hyperliquid reached a new all-time high in open interest of >$6.7B.
+
+## 124. May 11, 2025 · 9:46 AM UTC · 1921502111566856208#m
+- 链接：https://twitter.com/HyperliquidX/status/1921502111566856208#m
+- 作者：@HyperliquidX
+
+> Excited to see the world's most popular stablecoin on Hyperliquid!
+>  
+> Enabling permissionless and fully customizable multi-chain assets was one of the key motivations for the HyperEVM. It's great to see the USDT0 and LayerZero teams provide a seamless and secure product for all Hyperliquid users.
+>  
+> Users can mint USDT0 from various source chains without needing to make a pit-stop on a required chain before bridging. Indeed, USDT0 is secured by the LayerZero protocol without need for a custom smart contract bridge.
+>  
+> From the builder's perspective, USDT0 highlights the power of the HyperEVM as a general-purpose interface into the entire Hyperliquid blockchain. USDT0 plugs into the HyperEVM as another EVM chain in its multichain network. The magic is that once the ERC20 tokens are minted on the HyperEVM, they are seamlessly composable with HyperCore without ever leaving Hyperliquid.
+>  
+> As HyperCore features expand to multiple collateral assets, they will apply to USDT0 as a first-class spot asset on HyperCore. At the end of the day, users get the best of both worlds: functionality on the full suite of Hyperliquid features and a secure, battle-tested omnichain onramp experience.
+
+## 125. May 11, 2025 · 8:45 AM UTC · 1921486722736513319#m
+- 链接：https://twitter.com/HyperliquidX/status/1921486722736513319#m
+- 作者：@HyperliquidX
+
+> Hyperliquid reached a new all-time high in open interest of >$5.6B.
+
+## 126. May 9, 2025 · 2:28 PM UTC · 1920848296219996251#m
+- 链接：https://twitter.com/HyperliquidX/status/1920848296219996251#m
+- 作者：@HyperliquidX
+
+> Introducing Hyperbridge
+>  
+> Move your assets from any chain directly into @HyperliquidX
+>  
+> Starting with USDT0, USDe, PLUME, COOK, USR, and RLP
+>  
+> Bridge now at hyperbridge.xyz, powered by LayerZero
+
+## 127. May 9, 2025 · 2:00 PM UTC · 1920841189000884565#m
+- 链接：https://twitter.com/HyperliquidX/status/1920841189000884565#m
+- 作者：@HyperliquidX
+
+> USDT0 is live on @HyperliquidX Spot and HyperEVM.
+>  
+> Liquidity of the largest stablecoin in the world powering the blockchain to house all finance.
+>  
+> Your USDT, now on Hyperliquid.
+
+## 128. May 9, 2025 · 1:20 PM UTC · 1920831248802414801#m
+- 链接：https://twitter.com/HyperliquidX/status/1920831248802414801#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/DO…
+
+## 129. May 9, 2025 · 1:20 PM UTC · 1920831245690262006#m
+- 链接：https://twitter.com/HyperliquidX/status/1920831245690262006#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $DOOD with up to 3x leverage.
+
+## 130. May 9, 2025 · 2:47 AM UTC · 1920671973014659191#m
+- 链接：https://twitter.com/HyperliquidX/status/1920671973014659191#m
+- 作者：@HyperliquidX
+
+> Hyperliquid reached a new all-time high in open interest of >$4.9B.
+
+## 131. May 5, 2025 · 12:49 PM UTC · 1919373849097109991#m
+- 链接：https://twitter.com/HyperliquidX/status/1919373849097109991#m
+- 作者：@HyperliquidX
+
+> USDe is now live on both @HyperliquidX exchange & HyperEVM 🫳🏻
+>  
+> HyperCore users will earn daily rewards auto airdropped on top of their USDe spot exchange balances
+>  
+> USDe fills the opportunity for a scalable rewarding dollar asset within the Hyperliquid exchange & ecosystem
+>  
+> HYENA 2025 🐕
+
+## 132. Apr 15, 2025 · 12:18 PM UTC · 1912118353499406722#m
+- 链接：https://twitter.com/HyperliquidX/status/1912118353499406722#m
+- 作者：@HyperliquidX
+
+> HyperEVM is just getting started. Bring your friends over.
+>  
+> Three announcements:
+> 1. BTC collateral is live on Felix
+> 2. Mint cap on HYPE collateral is raised to 35M
+> 3. First Felix points batch will be released on Friday, April 18 at 12pm UTC
+
+## 133. May 2, 2025 · 5:51 AM UTC · 1918181439537025485#m
+- 链接：https://twitter.com/HyperliquidX/status/1918181439537025485#m
+- 作者：@HyperliquidX
+
+> The Hyperliquid protocol will support builder-deployed perps (HIP-3), a key milestone toward fully decentralizing the perp listing process.
+>  
+> An MVP of this feature is live on testnet. Feedback is appreciated during this testing phase. Note that numbers and specifications below are not finalized.  Builder-deployed perps share many features with HyperCore spot deployments:
+> 1. Deployments allocate new performant onchain orderbooks on HyperCore.
+> 2. Deployment gas is paid through a Dutch auction every 31 hours. A difference is that HYPE is the gas token used for perp deployments.
+> 3. Deployers can set a fee share of up to 50%. A difference is that the deployer can configure additional fees on top of the base fee rate. Fee share applies to the total configured fee.
+> 4. Deployments are fully permissionless.
+>  
+> The deployer of a perp market is also responsible for
+> 1. Market definition, including the oracle definition and contract specifications
+> 2. Market operation, including setting oracle prices, leverage limits, and settling the market if needed
+>  
+> To ensure high quality markets and protect users, deployers must maintain 1M staked HYPE. In the event of malicious market operation, validators have the authority to slash the deployer’s stake by conducting a stake-weighted vote during the deployer’s 7-day unstaking queue. In addition, perp deployment composes with HyperCore multisig to support protocolized market deployment and operation. Technical details will be released shortly in the API docs and Python SDK.
+>  
+> Note that the frontends at app.hyperliquid-testnet.xyz and app.hyperliquid.xyz will not display builder-deployed perps initially, and will not feature a UI for perp deployment. Alternative interfaces may be built by the community. This will encourage specialization and further decentralization of the interfaces to access the Hyperliquid protocol.
+
+## 134. Apr 29, 2025 · 6:44 AM UTC · 1917107760694759920#m
+- 链接：https://twitter.com/HyperliquidX/status/1917107760694759920#m
+- 作者：@HyperliquidX
+
+> The new fee system and staking tiers will go live on May 5 at approximately 03:00 UTC.
+>  
+> To recap, changes include:
+> + Staking HYPE lowers trading fees
+> + Separate fee schedules for perps vs spot
+> + Spot volume counts double toward your fee tier
+>  
+> Staking and trading account linking is now available on testnet. This allows users to apply the staking discounts from one account to a different trading account. This is expected to go live shortly after the new fee system and staking tiers.
+>  
+> For more details on fee changes as well as staking account linking, see the Docs: hyperliquid.gitbook.io/hyper…
+
+## 135. Apr 28, 2025 · 9:00 AM UTC · 1916779599490589183#m
+- 链接：https://twitter.com/HyperliquidX/status/1916779599490589183#m
+- 作者：@HyperliquidX
+
+> You can read more about the HyperEVM in the Docs: hyperliquid.gitbook.io/hyper…
+> hyperliquid.gitbook.io/hyper…
+
+## 136. Apr 28, 2025 · 9:00 AM UTC · 1916779597531693355#m
+- 链接：https://twitter.com/HyperliquidX/status/1916779597531693355#m
+- 作者：@HyperliquidX
+
+> Read precompiles are live on the mainnet HyperEVM. This is an important step in the HyperEVM's gradual roll-out.
+>  
+> Read precompiles allow builders to read state from HyperCore atomically from smart contracts on the HyperEVM. For example, lending protocols could use HyperCore oracle and mark prices as a reliable source of pricing information.
+
+## 137. Apr 24, 2025 · 11:18 AM UTC · 1915364652051292501#m
+- 链接：https://twitter.com/HyperliquidX/status/1915364652051292501#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/IN…
+
+## 138. Apr 24, 2025 · 11:18 AM UTC · 1915364649895338005#m
+- 链接：https://twitter.com/HyperliquidX/status/1915364649895338005#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $INIT with up to 3x leverage.
+
+## 139. Apr 23, 2025 · 2:12 PM UTC · 1915046019152429241#m
+- 链接：https://twitter.com/HyperliquidX/status/1915046019152429241#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/ZO…
+
+## 140. Apr 23, 2025 · 2:12 PM UTC · 1915046016723882449#m
+- 链接：https://twitter.com/HyperliquidX/status/1915046016723882449#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $ZORA with up to 3x leverage.
+
+## 141. Apr 22, 2025 · 3:55 PM UTC · 1914709623598178660#m
+- 链接：https://twitter.com/HyperliquidX/status/1914709623598178660#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/HY…
+
+## 142. Apr 22, 2025 · 3:55 PM UTC · 1914709621505450160#m
+- 链接：https://twitter.com/HyperliquidX/status/1914709621505450160#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $HYPER (Hyperlane) with up to 3x leverage.
+
+## 143. Apr 22, 2025 · 3:22 AM UTC · 1914520069897670826#m
+- 链接：https://twitter.com/HyperliquidX/status/1914520069897670826#m
+- 作者：@HyperliquidX
+
+> The validator set has been updated to 21 permissionless nodes. Anyone can register a validator, and the 21 largest by stake form the active set. Delegations from the Delegation Program are expected to go live in the coming days.
+>  
+> Technical details for validators:
+> Validators are encouraged to carefully understand the technology and familiarise themselves with testnet before proceeding with mainnet. Note that the self-delegation of 10k HYPE is locked by the protocol for one year. This lockup applies even if a validator is not part of the active set and should be carefully considered before committing the stake. It is strongly recommended to review and apply for the Delegation Program before running a mainnet validator: hyperliquid.gitbook.io/hyper….
+
+## 144. Apr 15, 2025 · 2:57 PM UTC · 1912158408972644443#m
+- 链接：https://twitter.com/HyperliquidX/status/1912158408972644443#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/WC…
+
+## 145. Apr 15, 2025 · 2:57 PM UTC · 1912158406510600699#m
+- 链接：https://twitter.com/HyperliquidX/status/1912158406510600699#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $WCT with up to 3x leverage.
+
+## 146. Apr 12, 2025 · 6:48 AM UTC · 1910948030498660740#m
+- 链接：https://twitter.com/HyperliquidX/status/1910948030498660740#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/BA…
+
+## 147. Apr 12, 2025 · 6:48 AM UTC · 1910948028170613229#m
+- 链接：https://twitter.com/HyperliquidX/status/1910948028170613229#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $BABY with up to 5x leverage.
+
+## 148. Apr 12, 2025 · 2:37 AM UTC · 1910884866759217550#m
+- 链接：https://twitter.com/HyperliquidX/status/1910884866759217550#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/PR…
+
+## 149. Apr 12, 2025 · 2:37 AM UTC · 1910884863366115646#m
+- 链接：https://twitter.com/HyperliquidX/status/1910884863366115646#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $PROMPT with up to 5x leverage.
+
+## 150. Apr 6, 2025 · 3:34 PM UTC · 1908906145328284008#m
+- 链接：https://twitter.com/HyperliquidX/status/1908906145328284008#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/PA…
+
+## 151. Apr 6, 2025 · 3:34 PM UTC · 1908906142765609389#m
+- 链接：https://twitter.com/HyperliquidX/status/1908906142765609389#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $PAXG with up to 5x leverage.
+
+## 152. Apr 5, 2025 · 2:17 PM UTC · 1908524506110672979#m
+- 链接：https://twitter.com/HyperliquidX/status/1908524506110672979#m
+- 作者：@HyperliquidX
+
+> Debunking Hyperliquid FUD (Part 1: HLP, liquidations, and platform guarantees)
+>  
+> It's sad to see coordinated misinformation campaigns targeting Hyperliquid, which have led to widespread misunderstanding of what we are all working so hard to build.
+>  
+> In response, this series of posts provides detailed, factual explanations of how Hyperliquid works. As a community, we must actively fight FUD by spreading the truth. The tone with which we do this also matters: the best way to grow as a protocol and ultimately house all finance is to remain humble and welcome more users into the ecosystem.
+>  
+> --
+>  
+> The first post focuses on HLP and liquidations on Hyperliquid.
+>  
+> High level summary
+> The FUD is that the Hyperliquid protocol is subject to large losses stemming from manipulation. On the contrary, Hyperliquid's margining design mathematically guarantees platform solvency. Note that HLP’s losses are isolated to the vault itself, and Hyperliquid does not depend on HLP’s operation to exist. This was true even before the JELLY incident. After the JELLY incident, there is an additional change to protect HLP from losses during backstop liquidations. The fundamental changes are to HLP, not the platform itself.
+>  
+> HLP background
+> HLP is a permissionless protocol vault pioneered by Hyperliquid. HLP does not collect fees from depositors, and historically has returned 60M USDC in pnl to its depositors. On CEXs, this profit typically goes to the internal market making desks instead of users.
+> HLP plays two roles: market making and backstop liquidations. In terms of market making, HLP runs a passive strategy that accounts for less than 2% of Hyperliquid's total volume. The vast majority of volume on Hyperliquid is between two non-HLP users.
+>  
+> Liquidations
+> On Hyperliquid, liquidations are first sent to the book as a market order. This allows any user to participate in providing liquidity to liquidations, which is profitable flow on average. On other exchanges, this flow is internalized by the exchange as a revenue source.
+> HLP only performs backstop liquidations, which involves taking over positions that are unable to be market liquidated. When account values go negative, the last resort for platform solvency is auto-deleveraging (ADL). ADL closes underwater positions against the most profitable and highly leveraged positions on the other side, ensuring the protocol's solvency. ADL is extremely rare but importantly targets the attacker's position on both sides during manipulation attempts as described below.
+>  
+> JELLY incident
+> An attacker recently attempted to exploit HLP by opening a large long and short against themself. Open interest caps allowed a position worth 4M USDC at the time of trade, but the logical issue was that HLP collateralized the liquidation with its full balance. It is false that the platform itself had solvency risks, but HLP was indeed overexposed to the manipulation.
+>  
+> Changes made
+> Now the liquidator component vault of HLP has capped collateral, limiting its potential loss by backstop liquidations. A historical analysis was conducted based on this new system. Apart from the JELLY incident, this change would not have caused additional ADLs in the past, even during extreme volatility. However, it would have minimized HLP’s losses during the JELLY incident to low six figures, which is far less than the attacker spent on market manipulation. In particular, ADL would have closed the attacker’s momentarily profitable long position, leaving other JELLY positions untouched.
+>  
+> Validators now actively discuss delistings in an open governance forum on Discord. Several interesting dashboards have been created by users and validators: stalequant.github.io/hyperli…, data.asxn.xyz/dashboard/hl-r….
+> Market cap of the underlying spot assets will likely be an important input into delisting considerations. While delistings are important to ensure that users on the platform do not suffer from potential price manipulation, they are not required for platform solvency.
+>  
+> New state of margining system and HLP
+> Hyperliquid still functions as before, handling under-collateralized positions in the order of 1) market liquidations 2) backstop liquidations 3) ADL. Backstop liquidations on HLP now have additional protections to cap the total losses, making mark price manipulation attacks more expensive than the limited available gain from HLP. HLP's role continues to shrink as Hyperliquid grows, and at this point is nonessential to the protocol's operation. HLP still exists as a source of protocol yield through backstop liquidations and providing consistent background liquidity.
+
+## 153. Mar 28, 2025 · 4:57 PM UTC · 1905665684790784006#m
+- 链接：https://twitter.com/HyperliquidX/status/1905665684790784006#m
+- 作者：@HyperliquidX
+
+> The Hyperliquid blockchain has been upgraded to feature fully onchain validator voting for asset delisting. When a quorum of stake has voted for a delisting, the action automatically triggers onchain. This permissionless stake-based vote weighting primitive is built natively into HyperCore and technically requires no offchain coordination.
+>  
+> As a demonstration of the primitive, the Hyper Foundation validators 2-5 will vote to delist MYRO perps around 13:00 UTC on March 29. Hyper Foundation validator 1 will abstain from voting until delegations to initial Delegation Program participants are complete.
+>  
+> Like on other chains, most validators will likely make their intended votes clear offchain beforehand to provide users clarity and predictability. The Hyper Foundation does not act or speak on behalf of other validators. There may be interfaces built or provided in the future to summarize validator voting in a more user-friendly way.
+
+## 154. Mar 27, 2025 · 6:01 PM UTC · 1905319339991204263#m
+- 链接：https://twitter.com/HyperliquidX/status/1905319339991204263#m
+- 作者：@HyperliquidX
+
+> Yesterday is a good reminder to stay humble, hungry, and focused on what matters: building a better financial system owned by the people. Hyperliquid is not perfect, but it will continue to iterate and grow through the collective efforts of builders, traders, and supporters.
+>  
+> Users with JELLY long positions at the time of settlement will be refunded by the Foundation as if their position settled at the closing price of 0.037555. This results in all JELLY traders being settled at a price advantageous to them, except flagged addresses.
+>  
+> To recap what happened:
+> A trader self-traded a 4M USDC JELLY position at 0.0095.
+> The price of JELLY then rose more than 4x, with HLP backstop liquidating the 4M position.
+> The short position led to a loss in HLP’s account value.
+> The OI cap formula is a dynamic function of global liquidity and OI on other venues including major CEXs. A 4M USDC position fell within those limits, but additional open interest was prevented from being opened beyond the automatically triggered cap.
+> However, the key issue was that once HLP took over the position, it shared collateral with the other component vaults in the strategy and therefore did not trigger ADL.
+>  
+> Risk management on Hyperliquid is being strengthened in various ways, including:
+> + HLP: The Liquidator vault will have a tight cap representing a small percentage of total HLP account value, rebalanced less frequently, and more sophisticated logic around taking backstop liquidations. ADL will be triggered if the Liquidator loses above a certain threshold, instead of moving collateral automatically from the other component vaults. Note that ADL is not expected to trigger during organic market activity.
+> + OI caps: Open interest caps will be refined to be dynamic relative to market cap.
+> + Delistings: Validators will vote onchain to delist assets that fall beneath thresholds.
+>  
+> Thank you for your continued feedback, support, and commitment.
+>  
+> Hyperliquid
+
+## 155. Mar 27, 2025 · 4:20 PM UTC · 1905293958835818573#m
+- 链接：https://twitter.com/HyperliquidX/status/1905293958835818573#m
+- 作者：@HyperliquidX
+
+> ETH deposits, withdrawals, and spot trading are now live on Hyperliquid.
+>  
+> Deposit ETH on app.hyperliquid.xyz or app.hyperunit.xyz
+>  
+> Trade spot ETH at app.hyperliquid.xyz/trade/0x…
+
+## 156. Mar 27, 2025 · 4:16 PM UTC · 1905292966400229605#m
+- 链接：https://twitter.com/HyperliquidX/status/1905292966400229605#m
+- 作者：@HyperliquidX
+
+> Spot ETH is live on Hyperliquid. Users may now deposit ETH directly from Ethereum Mainnet.
+
+## 157. Mar 26, 2025 · 3:47 PM UTC · 1904923137684496784#m
+- 链接：https://twitter.com/HyperliquidX/status/1904923137684496784#m
+- 作者：@HyperliquidX
+
+> After evidence of suspicious market activity, the validator set convened and voted to delist JELLY perps.
+>  
+> All users apart from flagged addresses will be made whole from the Hyper Foundation. This will be done automatically in the coming days based on onchain data. There is no need to open a ticket. Methodology will be shared in detail in a later announcement.
+>  
+> As with other chains, validators often need to convene to take decisive action as a group to ensure the integrity of the network. It is a priority to enhance robustness and transparency to the voting system.
+>  
+> Note that HLP’s 24 hour pnl as of writing is approximately 700k USDC. Technical improvements will be made, and the network will grow stronger as a result of lessons learned. More details will be shared shortly.
+
+## 158. Mar 25, 2025 · 7:53 AM UTC · 1904441605005979876#m
+- 链接：https://twitter.com/HyperliquidX/status/1904441605005979876#m
+- 作者：@HyperliquidX
+
+> HyperCore and HyperEVM linking is live on mainnet. HyperCore spot assets are now available as building blocks for applications on HyperEVM. Furthermore, HyperEVM builders now have a permissionless path to listing on the same liquid and performant order books that power billions of volume every day on HyperCore.
+>  
+> The full defi lifecycle includes building a project, launching a token, and trading that token. Every step of the journey can be done permissionlessly within Hyperliquid. Defi features composability, self-custody, and no gate keepers. CEXs feature frictionless UX and deep liquidity. Hyperliquid combines both into a seamless and onchain system to house all of finance.
+>  
+> See the Docs for details: hyperliquid.gitbook.io/hyper…. It is strongly recommended to test everything on testnet before linking on mainnet, as linking is immutable.
+
+## 159. Mar 24, 2025 · 1:14 PM UTC · 1904159965801255188#m
+- 链接：https://twitter.com/HyperliquidX/status/1904159965801255188#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/NI…
+
+## 160. Mar 24, 2025 · 1:14 PM UTC · 1904159963053732000#m
+- 链接：https://twitter.com/HyperliquidX/status/1904159963053732000#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $NIL with up to 3x leverage.
+
+## 161. Mar 20, 2025 · 5:52 PM UTC · 1902780302964978019#m
+- 链接：https://twitter.com/HyperliquidX/status/1902780302964978019#m
+- 作者：@HyperliquidX
+
+> #HyperEVM is live on Fireblocks
+>  
+> Built for speed, security, and institutional #DeFi—this was a highly requested integration, and it’s here.
+>  
+> @HyperliquidX 🚀
+
+## 162. Mar 19, 2025 · 10:22 AM UTC · 1902304642392072660#m
+- 链接：https://twitter.com/HyperliquidX/status/1902304642392072660#m
+- 作者：@HyperliquidX
+
+> Introducing Staking Tiers
+>  
+> Staking tiers will be determined by the amount of HYPE staked. The initial benefit of staking tiers is reduced trading fees. These updates are expected to go live on or after April 30 to give users time to adjust.
+>  
+> As part of this update, the overall fee system will be reworked. The new fee system will have the following properties:
+> 1. Even without staking discounts, perps and spot fees are lower than CEXs for most users.
+> 2. Fee sensitive users can stake HYPE to benefit from even lower fees than the existing system.
+> 3. Protocol revenue is projected to increase.
+> 4. HYPE will have more utility for users.
+>  
+> What else is changing:
+> + Separate fee schedules for perps vs spot
+> + Spot volume counts double toward your fee tier
+>  
+> What is not changing:
+> + Maker rebates based on % of total maker volume
+> + Perps and spot volume combined to determine your fee tier
+>  
+> For more details, see the Docs: hyperliquid.gitbook.io/hyper….
+
+## 163. Mar 17, 2025 · 3:42 AM UTC · 1901479296415502798#m
+- 链接：https://twitter.com/HyperliquidX/status/1901479296415502798#m
+- 作者：@HyperliquidX
+
+> Hyperliquid has redefined trading.
+>  
+> When a whale shorts $450M+ BTC and wants a public audience, it's only possible on Hyperliquid.
+>  
+> When headlines say "Bitcoin Market on Edge," they are equating "Hyperliquid" with the "market."
+>  
+> Anyone can photoshop a PNL screenshot. No one can question a Hyperliquid position, just like no one can question a Bitcoin balance.
+>  
+> The decentralized future is here.
+
+## 164. Mar 13, 2025 · 4:12 PM UTC · 1900218435562578130#m
+- 链接：https://twitter.com/HyperliquidX/status/1900218435562578130#m
+- 作者：@HyperliquidX
+
+> There's been a lot of discussion on Hyperliquid's margin design. I’ll address some flaws in the common arguments and explain Hyperliquid's first-principles based approach to improving the system. To my knowledge, this is the first such design in margining systems.
+>  
+> Perhaps other teams will find it useful for their own logic. Like good theories in physics, the best margining design is simple, canonical, explainable, and works in a wide variety of pathological scenarios.
+>  
+> 1. The conclusion of some people has been that there needs to be a centralized force that detects and limits malicious behavior. This completely violates the purpose of defi and everything Hyperliquid stands for. This forces users back to a web2 world where the platform has the final say. True decentralized finance is worth it, even if it is 10x harder to build. Just a few years ago, no one believed DEX/CEX volumes would reach its ratio today. Hyperliquid is leading the charge here and has no intention to stop.
+>  
+> 2. Some assume that copying approaches from CEXs will work in defi. The most common suggestion I've seen is per-address margin requirement fraction scaling with position size, as CEXs only offer higher leverage for smaller positions. However, this doesn't work to prevent manipulation attempts on a DEX because a sophisticated attacker can easily open positions on many accounts. Nonetheless, this will help somewhat reduce the impact of "organic whale" positions and is on the list of features to implement.
+>  
+> 3. Another suggestion is to implement some features that severely limit usability of the platform in exchange for safety. For example, if unrealized pnl is not withdrawable, many attacks are not possible. Indeed, Hyperliquid pioneered isolated-only perps for illiquid assets which feature this safety mechanism. However, this change would have a crippling effect on funding arbitrage strategies, where unrealized pnl from Hyperliquid needs to be withdrawn to offset the loss on other venues. Real user needs are a top priority in system design.
+>  
+> 4. There were also suggestions to innovate on design by having margin settings based on global parameters. However, liquidation prices need to be deterministic functions of price and position size. If global parameters such as open interest were added as inputs to margin requirements, users would lose confidence in the ability to use leverage at all.
+>  
+> So what's the answer? We all want defi, but a permissionless system must be robust to manipulation at all scales.
+>  
+> The answer lies in understanding the true problem with large positions: they are difficult to mark. The first order approximation of mark price times size breaks down when market impact approaches maintenance margin. It's impossible to accurately simulate market impact because book liquidity is a path-dependent function of time and actions of other participants. Without simulating market impact, it can be possible for liquidation to be a low-slippage way to exit at a price that is unfavorable to the liquidator.
+>  
+> Therefore, Hyperliquid's margining system update has the following desirable property: any liquidated position is either a loss relative to entry price, or at least a (20% - 2 * maintenance_margin_ratio / 3) = 18.3% loss relative to the last margin transfer out (using an example of 20x leverage). An organic 20x user who makes 100% return on equity after a 5% move will still be able to withdraw the majority of the pnl without closing the position. However, by introducing separate margin requirements between transfers and opening new positions, profitable manipulation attempts require moving the mark price almost 20%. This kind of attack is infeasible from a capital perspective.
+>  
+> Finally, I'd like to point out that the mark price problem also solves itself as market makers continue scaling up on Hyperliquid. It's quite possible that the trader yesterday could have lost money in aggregate. $1.8M pnl longing on Hyperliquid could have been more than offset when pushing the price on other venues, or using other accounts on Hyperliquid. HLP took over an undesirable position, losing $4M. The only market participants who definitely made money in aggregate are the market makers. With millions of dollars of pnl to be made in the span of minutes, it's becoming clear to sophisticated participants that Hyperliquid is one of the venues with the best flow. As liquidity improves, it will become more and more expensive to dislodge prices. So while the margining system improvements will go a long way, the allure of easy pnl attracting market makers will provide an independent source of robustness over time.
+>  
+> The future is decentralized.
+>  
+> Hyperliquid.
+
+## 165. Mar 13, 2025 · 3:22 PM UTC · 1900205791250202844#m
+- 链接：https://twitter.com/HyperliquidX/status/1900205791250202844#m
+- 作者：@HyperliquidX
+
+> To be clear, users can still trade with the same leverage, up to 40x. This change only affects removing unrealized pnl on open positions (e.g., withdrawing).
+
+## 166. Mar 13, 2025 · 2:55 PM UTC · 1900199063880171578#m
+- 链接：https://twitter.com/HyperliquidX/status/1900199063880171578#m
+- 作者：@HyperliquidX
+
+> To date, Hyperliquid has processed over $1 trillion in trading volume and become the first DEX to rival CEX scale. As volume and open interest continue to grow, there are increasingly large tests for the margining system. Yesterday’s event highlighted an opportunity to strengthen the margining framework to address extreme conditions more robustly. Immediate review was undertaken to analyze the scenario in detail and investigate ways to mitigate similar situations. Risk management is, and has always been, a top priority. It is a constant focus, even if not publicly highlighted each day.
+>  
+> To that effect, there will be a change to require 20% margin ratio on margin transfers in a network upgrade after March 15 0:00 UTC. "Margin transfer" refers to funds leaving cross wallet and isolated margin positions. Examples include withdrawals, perp to spot transfers, and adding or removing isolated margin. This change does not affect the opening of new cross margin positions and only affects new isolated margin positions if cross margin usage would exceed 5x after the isolated position is opened. This update is intended to maintain healthier margin requirements and reduce the systemic impact of large positions with hypothetical market impact upon closing.
+>  
+> As always, Hyperliquid remains committed to providing a performant, transparent, and resilient trading environment and delivering the best possible experience for users.
+
+## 167. Mar 12, 2025 · 10:26 AM UTC · 1899768864705237211#m
+- 链接：https://twitter.com/HyperliquidX/status/1899768864705237211#m
+- 作者：@HyperliquidX
+
+> Regarding commentary and questions on the 0xf3f4 user's ETH long:
+>  
+> To be clear: There was no protocol exploit or hack.
+>  
+> This user had unrealized PNL, withdrew, which lowered their margin, and was liquidated. They ended with ~$1.8M in PNL. HLP lost ~$4M over the past 24h. HLP's all-time PNL remains at ~$60M. As a reminder, HLP is not a risk-free strategy.
+>  
+> Max leverage will be updated for BTC and ETH to 40x and 25x respectively to increase maintenance margin requirements for larger positions. This will provide a better buffer for backstop liquidations of larger positions.
+
+## 168. Mar 9, 2025 · 2:15 PM UTC · 1898739434000191823#m
+- 链接：https://twitter.com/HyperliquidX/status/1898739434000191823#m
+- 作者：@HyperliquidX
+
+> Hyperliquid = HyperCore + HyperEVM.
+>  
+> One piece of user feedback since HyperEVM’s alpha launch was to more intuitively communicate how the HyperEVM fits into the larger context of Hyperliquid. To this effect, the native pieces of the Hyperliquid execution state have been organized under one umbrella term: HyperCore.
+>  
+> HyperCore consists of performant native components: order book perp and spot DEX, staking, oracles, multi-sig, etc. HyperEVM is a general purpose world-computer, allowing builders to deploy code that interacts with both HyperEVM and HyperCore. Together, they form one global, composable state on Hyperliquid, secured by the state-of-the-art HyperBFT consensus algorithm. Importantly, any interaction across the Core/EVM boundary is part of execution itself. There is one unified state, with no need for bridging, proofs, or trusted signers.
+>  
+> HyperEVM offers builders a familiar interface to plug into the most powerful permissionless financial system in crypto. Let's walk through some concrete examples.
+>  
+> A project XYZ deploys an ERC20 contract on the HyperEVM using standard EVM tooling. They deploy a corresponding spot asset XYZ permissionlessly in the HyperCore ticker auction. Once the XYZ HyperCore token and HyperEVM contract are linked, users can seamlessly transfer their XYZ balance to HyperCore for order book trading. Two key improvements compared to CEX listings:
+>  
+> 1) The entire process is permissionless. No behind-the-scenes negotiations for preferential treatment. Hyperliquid is a neutral platform for finance.
+> 2) There is no bridging risk between HyperCore and HyperEVM. On the other hand, CEXs need to manage deposits and withdrawals through wallets that could be hacked. HyperCore and HyperEVM are one unified state.
+> Trading and building on the same chain is a 10x product improvement over CEXs.
+>  
+> Let's go further. A lending protocol sets up a pool contract that accepts XYZ as collateral and lends out another token ABC to the borrower. To determine the liquidation threshold, the lending smart contract can read XYZ/ABC prices directly from the HyperCore order books using a "read precompile." For a Solidity developer, this is as simple as calling a built-in function.
+>  
+> Suppose the borrower's position requires liquidation. The lending smart contract can send orders directly swapping XYZ and ABC on the HyperCore order books using a "write precompile." Again, this is a simple built-in function in Solidity. In a few lines of code, the lending protocol has implemented protocolized liquidations similar to how perps function on HyperCore. A theme of the HyperEVM is to abstract away the deep liquidity on HyperCore as a building block for arbitrary user applications.
+>  
+> As these interactions become available on mainnet HyperEVM, I look forward to seeing the innovative ways that builders leverage these primitives to reinvent finance. These examples only scratch the surface of what is possible.
+>  
+> Hyperliquid.
+
+## 169. Mar 4, 2025 · 8:42 AM UTC · 1896843804734599244#m
+- 链接：https://twitter.com/HyperliquidX/status/1896843804734599244#m
+- 作者：@HyperliquidX
+
+> The mainnet validator set will become fully permissionless after the next network upgrade. Like on testnet, the top N validators by stake will form the active set. Initially, N will be set to 20 and will increase over time.
+>  
+> In addition, the Delegation Program is live. The Delegation Program is designed to enhance network security and decentralisation and support validators committed to the growth of the Hyperliquid ecosystem.
+>  
+> Technical details for validators:
+> Validators are encouraged to carefully understand the technology and familiarise themselves with testnet before proceeding with mainnet. Note that the self-delegation of 10k HYPE is locked by the protocol for one year. This lockup applies even if a validator is not part of the active set, and should be carefully considered before committing the stake. It is strongly recommended to review and apply for the Delegation Program before running a mainnet validator:  hyperliquid.gitbook.io/hyper….
+
+## 170. Feb 26, 2025 · 12:03 PM UTC · 1894719990521282908#m
+- 链接：https://twitter.com/HyperliquidX/status/1894719990521282908#m
+- 作者：@HyperliquidX
+
+> Hyperliquid is rank 3 in defi for 24h revenue behind Tether and Circle.
+>  
+> Note this excludes the HLP vault and HyperEVM fees. Source: @DefiLlama
+
+## 171. Feb 25, 2025 · 11:00 AM UTC · 1894341643853283497#m
+- 链接：https://twitter.com/HyperliquidX/status/1894341643853283497#m
+- 作者：@HyperliquidX
+
+> JUST IN: @HyperliquidX data is now accessible through the CoinGecko API and @GeckoTerminal's Public API.
+>  
+> Get Hyperliquid trending pools, top pools, token data & more now ✅
+
+## 172. Feb 25, 2025 · 10:25 PM UTC · 1894514201281904645#m
+- 链接：https://twitter.com/HyperliquidX/status/1894514201281904645#m
+- 作者：@HyperliquidX
+
+> 🎉 Hyperliquid EVM Support 🎉
+>  
+> Ever since HyperEVM went live, this has been one of the most requested blockchains to support on our platform. The wait is over, you can now revoke @HyperliquidX token approvals on Revoke.cash.
+>  
+> Stay safe on all chains 🫡
+
+## 173. Feb 21, 2025 · 11:19 AM UTC · 1892896924770193431#m
+- 链接：https://twitter.com/HyperliquidX/status/1892896924770193431#m
+- 作者：@HyperliquidX
+
+> Over 5 hours of amazing food, pastries and conversations about @HyperliquidX in the room in Hong Kong - with a turnout of over 100+ people!
+>  
+> HypurrCo Gathers gets crazier each round, lots of new faces, keen builders, funds and institutions involved; supporting the next wave of growth.
+>  
+> Hyperliquid.
+> We welcome all builders to the HyperEVM.
+
+## 174. Feb 20, 2025 · 1:13 PM UTC · 1892563222454026341#m
+- 链接：https://twitter.com/HyperliquidX/status/1892563222454026341#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/KA…
+
+## 175. Feb 20, 2025 · 1:13 PM UTC · 1892563219744706763#m
+- 链接：https://twitter.com/HyperliquidX/status/1892563219744706763#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $KAITO with up to 5x leverage.
+
+## 176. Feb 19, 2025 · 5:24 PM UTC · 1892263910298046717#m
+- 链接：https://twitter.com/HyperliquidX/status/1892263910298046717#m
+- 作者：@HyperliquidX
+
+> Execution
+>  
+> Extremely proud of the community and team for the smooth launch of the HyperEVM. The upgrade happened amidst billions of dollars of daily volume, where the majority of defi derivatives trade. There was no downtime, and no performance degradation after the launch.
+>  
+> The UX of trading is still so seamless that many users assume the HyperEVM is a separate chain! To be clear: the HyperEVM and the existing native Hyperliquid financial system are one composable state.
+>  
+> The safest way to upgrade this uniquely complex system is a gradual rollout. Precompiles and other L1 interactions will build upon the sturdy foundation of the initial HyperEVM release. This will unlock an entirely new class of performant defi applications, but more on that later.
+>  
+> Right now I want to focus on the execution of the launch. A bug in HyperEVM logic or an unoptimized code path would've crippled the entire blockchain, affecting hundreds of thousands of users and billions in open interest.
+>  
+> This was a massively challenging launch: a jet's engine was flawlessly changed mid-flight.
+>  
+> --
+>  
+> Philosophy
+>  
+> The HyperEVM launch stayed true to Hyperliquid’s “no insiders” principle. Hyperliquid has always embodied the original ethos of crypto: no investors, no paid market makers, no fees going to any company. The HyperEVM launch is yet another example that integrity and fairness are the pillars of Hyperliquid.
+>  
+> The tradeoff of a fair launch is that things are a bit messy to start. Tooling might not be there from day one. Builders need to familiarize themselves with the tech. But these short term obstacles are nothing compared to the long term value of fairness. No one had a head start or unfair advantages. I’m impressed that some teams deployed dapps, tooling, and analytics within hours of the HyperEVM release, a testament to the strength of the builders and community.
+>  
+> Hyperliquid will eventually be the credibly neutral infrastructure that houses all of finance. Looking back, the L1 launch, HYPE genesis, and HyperEVM launch will all be important milestones. Success is path dependent, and there can be no blemishes on the fair trajectory towards the final state.
+>  
+> The HyperEVM is a clean slate. The community is hungry for quality applications. Where else in the world is there such an imbalance between supply and demand for applications built? Fast, general purpose chains are nothing new. But on Hyperliquid, builders can plug into a mature, liquid, and performant onchain economy with real users.
+>  
+> I've noticed a pattern that builders, traders, and communities who "make it" on Hyperliquid are those who call Hyperliquid home. Legacy players don't win just because of their credentials. Newcomers have equal opportunity to win by challenging the status quo and seizing the opportunities. There are empires to be built on the HyperEVM, and the community welcomes builders with open arms.
+>  
+> Hyperliquid
+
+## 177. Feb 18, 2025 · 7:51 PM UTC · 1891938492059398288#m
+- 链接：https://twitter.com/HyperliquidX/status/1891938492059398288#m
+- 作者：@HyperliquidX
+
+> 1/
+>  
+> Purrsec is now live on mainnet
+>  
+> We are building the premier HyperEVM Explorer
+
+## 178. Feb 18, 2025 · 6:02 AM UTC · 1891730068151599464#m
+- 链接：https://twitter.com/HyperliquidX/status/1891730068151599464#m
+- 作者：@HyperliquidX
+
+> The HyperEVM is live. This is a major step toward the vision of housing all finance by bringing general-purpose programmability to Hyperliquid’s performant financial system. The initial mainnet release of the HyperEVM includes:
+>  
+> 1. HyperEVM blocks built as part of L1 execution, inheriting all security from HyperBFT consensus.
+> 2. Spot transfers between native spot HYPE and HyperEVM HYPE. As a reminder, HYPE is the native gas token on the HyperEVM.
+> 3. A canonical WHYPE system contract deployed at 0x555...5 for defi applications. The source code can be found at hyperliquid.gitbook.io/hyper…
+>  
+> Effective immediately, the bug bounty program will pay mainnet bounty amounts for reports within the scope of the points above. See hyperliquid.gitbook.io/hyper… for details.
+>  
+> For API and wallet users: the mainnet HyperEVM has chain ID 999. A JSON-RPC server for the mainnet HyperEVM is hosted at rpc.hyperliquid.xyz/evm. Node operators and other builders are encouraged to host their own RPC servers.
+>  
+> Tooling and analytics around mainnet HyperEVM may not be polished on day one. However, there are many talented builders working to solve these developer pain points. To help with these efforts, raw HyperEVM block data is streamed realtime to S3 so that running a node is not required to index the HyperEVM. More technical details can be found here: hyperliquid.gitbook.io/hyper…
+>  
+> General ERC20 native transfers and precompiles will be enabled on a future network upgrade. Any ongoing feedback for these features on testnet is greatly appreciated. While these features are implemented on testnet, the mainnet releases are staggered for minimal disruption to existing users on the L1. The HyperEVM is composable with the L1 state while not affecting the low latency trading experience of existing users.
+>  
+> Thank you to all the builders and users who have shared feedback on testnet so far. It will be exciting to see new applications leveraging and building upon the existing onchain financial system of Hyperliquid.
+
+## 179. Feb 16, 2025 · 3:41 PM UTC · 1891151011319841191#m
+- 链接：https://twitter.com/HyperliquidX/status/1891151011319841191#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/OM
+
+## 180. Feb 16, 2025 · 3:41 PM UTC · 1891151008522191128#m
+- 链接：https://twitter.com/HyperliquidX/status/1891151008522191128#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $OM with up to 5x leverage.
+
+## 181. Feb 14, 2025 · 4:49 PM UTC · 1890443240186462684#m
+- 链接：https://twitter.com/HyperliquidX/status/1890443240186462684#m
+- 作者：@HyperliquidX
+
+> Excited to see Unit protocol hit mainnet! For the first time, users can trade native assets from another chain using the seamless UX of Hyperliquid.
+>  
+> BTC is the most important crypto asset and historically the most difficult to bring to defi. Most wrapped BTC options today involve a single custodian, contradicting the ethos of defi.
+>  
+> Unit protocol's guardian architecture is a generalized solution bringing self-custody to a wide range of asset sources. When a user deposits, trades, and withdraws BTC using Unit and Hyperliquid, they maintain full control of their assets at all times.
+>  
+> Like Hyperliquid, Unit abstracts away the underlying technological complexity from the end user. Send BTC to an address, and it's ready for trading. Finally a BTC trading solution Satoshi would approve of: trustless and self-custodial, without sacrificing user experience.
+>  
+> Unit's launch brings Hyperliquid one step closer to housing all finance. It will be exciting to see Hyperliquid's world class liquidity and UX extend to many more important financial assets.
+
+## 182. Feb 14, 2025 · 4:25 PM UTC · 1890437173738107107#m
+- 链接：https://twitter.com/HyperliquidX/status/1890437173738107107#m
+- 作者：@HyperliquidX
+
+> Introducing Unit: the decentralized asset tokenization layer for all of finance, built exclusively on Hyperliquid.
+>  
+> Unit will enable seamless deposits, withdrawals, and trading for a wide variety of assets. Our first integration allows major spot crypto tokens to flow between Hyperliquid and their native blockchains, launching today with native BTC.
+>  
+> This is a significant unlock for users, enabling:
+>  
+> 1-Click Native Deposits & Withdrawals: Deposit or withdraw BTC via their self-custodial wallet or centralized exchange account. (ETH and SOL coming soon).
+>  
+> Unified Trading Experience: Trade both spot and derivatives within a single, integrated platform.
+>  
+> New Capital Onramps: Send spot from any supported native source chain and sell in the spot order book to access USDC.
+>  
+> Deposit BTC now directly on app.hyperliquid.xyz or at app.hyperunit.xyz.
+>  
+> For more details on the protocol design, see our documentation at docs.hyperunit.xyz and to stay up to date on what we're building, you can join our telegram channel: t.me/hyperunit
+
+## 183. Feb 13, 2025 · 9:11 AM UTC · 1889965485376369068#m
+- 链接：https://twitter.com/HyperliquidX/status/1889965485376369068#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/IP
+
+## 184. Feb 13, 2025 · 9:10 AM UTC · 1889965483413442627#m
+- 链接：https://twitter.com/HyperliquidX/status/1889965483413442627#m
+- 作者：@HyperliquidX
+
+> By community, you can now long or short $IP with up to 3x leverage.
+
+## 185. Feb 12, 2025 · 3:55 PM UTC · 1889704834393153566#m
+- 链接：https://twitter.com/HyperliquidX/status/1889704834393153566#m
+- 作者：@HyperliquidX
+
+> See Docs for more: hyperliquid.gitbook.io/hyper…
+
+## 186. Feb 12, 2025 · 3:54 PM UTC · 1889704752419848240#m
+- 链接：https://twitter.com/HyperliquidX/status/1889704752419848240#m
+- 作者：@HyperliquidX
+
+> Hyperliquid now supports native multi-sig transactions. Multi-sig is an advanced feature that allows users to configure multiple wallets to collectively sign transactions for an address.
+>  
+> On most chains, multi-sig is only available through smart contracts. Users can deploy multi-sig smart contracts on the HyperEVM, but Hyperliquid also includes complementary multi-sig as a built-in primitive on the L1. Order book trading, staking, validating, and L1 asset custody all can leverage multi-sig security.
+>  
+> Multi-sig can benefit anyone who does not want a single private key to control their address. This could include institutions, large traders, validators, custodians, or bridge operators. With agent addresses that have delegated permissions, security setups can fine-tune signature requirements depending on the transaction type.
+
+## 187. Feb 12, 2025 · 2:54 PM UTC · 1889689557752504635#m
+- 链接：https://twitter.com/HyperliquidX/status/1889689557752504635#m
+- 作者：@HyperliquidX
+
+> What an amazing turnout today! ❤️
+>  
+> With 100+ joining us, and @chameleon_jeff gracing us with a speech and some trivia.
+>  
+> We had 15 projects share on what they were building, from @hyperdrivedefi @ResolvLabs @TheoNetwork_ @kinetiq_xyz @pendle_fi @PythNetwork @HedgewaterDAO @thefarmdotfun just to name some.
+>  
+> With power users of @HyperliquidX , funds and much more in the space, this was the biggest HypurrCo gathers event till date.
+>  
+> Excited for Consensus HK and ETHDenver events next, and excited for the ecosystem to grow further.
+>  
+> Hearts full, and job’s not done till Hyperliquid houses all of finance.
+
+## 188. Feb 11, 2025 · 3:11 PM UTC · 1889331521825427513#m
+- 链接：https://twitter.com/HyperliquidX/status/1889331521825427513#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/LA…
+
+## 189. Feb 11, 2025 · 3:11 PM UTC · 1889331519271194641#m
+- 链接：https://twitter.com/HyperliquidX/status/1889331519271194641#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $LAYER with up to 3x leverage.
+
+## 190. Feb 9, 2025 · 11:21 AM UTC · 1888548739435860001#m
+- 链接：https://twitter.com/HyperliquidX/status/1888548739435860001#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/TS…
+
+## 191. Feb 9, 2025 · 11:21 AM UTC · 1888548736806146380#m
+- 链接：https://twitter.com/HyperliquidX/status/1888548736806146380#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $TST with up to 3x leverage.
+
+## 192. Feb 6, 2025 · 1:15 PM UTC · 1887490304674353578#m
+- 链接：https://twitter.com/HyperliquidX/status/1887490304674353578#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/BE…
+
+## 193. Feb 6, 2025 · 1:15 PM UTC · 1887490302518362217#m
+- 链接：https://twitter.com/HyperliquidX/status/1887490302518362217#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $BERA with up to 5x leverage.
+
+## 194. Jan 30, 2025 · 11:45 PM UTC · 1885112211841949776#m
+- 链接：https://twitter.com/HyperliquidX/status/1885112211841949776#m
+- 作者：@HyperliquidX
+
+> Speed matters, especially when trading crypto.
+>  
+> Bridge $USDC to @HyperliquidX in seconds!
+>  
+> Powered by @AcrossProtocol
+
+## 195. Jan 30, 2025 · 5:35 PM UTC · 1885018953832939732#m
+- 链接：https://twitter.com/HyperliquidX/status/1885018953832939732#m
+- 作者：@HyperliquidX
+
+> We have some huge news!
+>  
+> @HyperliquidX is officially integrated into CMM. Here are a few things to note: 🧵
+>  
+> 🔹 Spot trading analytics
+> 🔹 Verifying address ownership
+> 🔹 10k execution limit
+
+## 196. Jan 30, 2025 · 4:11 AM UTC · 1884816715445579797#m
+- 链接：https://twitter.com/HyperliquidX/status/1884816715445579797#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/JE…
+
+## 197. Jan 30, 2025 · 4:11 AM UTC · 1884816713562415451#m
+- 链接：https://twitter.com/HyperliquidX/status/1884816713562415451#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $JELLY with up to 3x leverage.
+>  
+> This perpetual contract uses onchain AMMs for the underlying oracle price. Beware of low liquidity, high volatility, and increased liquidation risk.
+
+## 198. Jan 28, 2025 · 1:11 AM UTC · 1884046704292552725#m
+- 链接：https://twitter.com/HyperliquidX/status/1884046704292552725#m
+- 作者：@HyperliquidX
+
+> Noticing a trend that important projects have perps on Hyperliquid before anywhere else
+>  
+> Informed traders can no longer afford to stay on CEXs
+
+## 199. Jan 28, 2025 · 1:18 AM UTC · 1884048291488498019#m
+- 链接：https://twitter.com/HyperliquidX/status/1884048291488498019#m
+- 作者：@HyperliquidX
+
+> Listing is not an endorsement of the project. Past performance does not guarantee future results. Do not trade assets you are unfamiliar with and do not understand the risks for. Exercise control. NFA.
+>  
+> app.hyperliquid.xyz/trade/VV…
+
+## 200. Jan 28, 2025 · 1:18 AM UTC · 1884048289622028769#m
+- 链接：https://twitter.com/HyperliquidX/status/1884048289622028769#m
+- 作者：@HyperliquidX
+
+> By community request, you can now long or short $VVV with up to 3x leverage.

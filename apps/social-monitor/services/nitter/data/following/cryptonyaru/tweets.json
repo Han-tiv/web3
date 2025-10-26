@@ -1,0 +1,1347 @@
+{
+  "account": {
+    "id": "1457349446987960323",
+    "screen_name": "CryptoNyaRu",
+    "name": "加密猫雷",
+    "description": "😀大家好啊我是国人 KOL | 😠我要开始在主页介绍叠 buff 了 | 🌹红 buff | 💧蓝 buff | 🐲小龙 buff | 🐉大龙 buff | 🌍国人 KOL 必备的反佣链接: 做尼玛合约呢 等死吧",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1950054021458276352/b07niy-s_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457349446987960323/1751436600",
+    "followers_count": 7408,
+    "friends_count": 706,
+    "statuses_count": 1203,
+    "favourites_count": 2006,
+    "listed_count": 76,
+    "location": "平壤 - 朝鲜",
+    "website": "https://t.co/RXYePGOeWH",
+    "birthdate": null,
+    "verified_type": null,
+    "is_blue_verified": true,
+    "following": true,
+    "followed_by": null,
+    "can_dm": true,
+    "protected": false,
+    "created_at": "2021-11-07 22:09:28 +08:00",
+    "url": "https://twitter.com/CryptoNyaRu",
+    "rest_id": "1457349446987960323"
+  },
+  "tweets": [
+    {
+      "id": "1937103386522042703#m",
+      "content": "我归集并卖出 1000 个号的交易仅花费 12937574 gas\nbscscan.com/tx/0x03975c906b8…\n\n该合约为纯 Yul 实现, holder 存储至合约 runtime bytecode 本身, 并尽可能多地使用了节省 gas 的技巧, 现已开源, 欢迎交流学习: github.com/CryptoNyaRu/DownT…\n\n致自己用了脚本没打进去, 反过来想让项目方烧我币的神人们: \n我砸完能把合约开源，而你没打进去就要恶心打进去的, 你看看你贱的吧\n不会就去学, 没人拦着你",
+      "timestamp": "Jun 23, 2025 · 11:00 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1937103386522042703#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1980227184854987196#m",
+      "content": "说你们是他吗的猪策划, 狗技术, 蠢模式, 贱车头还不乐意听了\n还带隐藏评论的? 玩不起别玩",
+      "timestamp": "Oct 20, 2025 · 10:58 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1980227184854987196#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1979518700610056646#m",
+      "content": "你们真的太牛逼了兄弟, 这是人想出来的? \n你们的产品策划是从米哈游毕业的吗? \n你们的脑子是玩二次元萌萌人公式开放世界抽卡游戏玩傻了?\n\n规则:\n- 当代币在内盘阶段达到 100 个以上持有者时, 名称将受到 72 小时保护\n- 保护仅能在内盘阶段触发, 若在内盘阶段触发保护, 发射后仍受保护\n- 保护期内, 禁止使用相同或相似的名称创建新的公平模式代币\n\n新的小池子代币允许与已有的大/小池子代币重名, 无论是否受保护\n新的大池子代币不能与受保护的代币重名, 无论大/小池子\n\n那大池子模式还留着干什么? \n考虑过狗庄秒开小池子再秒刷 100+ 持币地址的情况吗?\n这样的话已经不是大池子有没有人玩的问题了, 是大池子可能根本就你妈了个逼的创不出来\n\n你们真的是一帮神人",
+      "timestamp": "Oct 18, 2025 · 12:03 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1979518700610056646#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1979174063248720288#m",
+      "content": "操你妈了个逼的狗杂种，你想自己买多少啊？\n啊？\n你要不要放个地址收私募给你妈凑点棺材钱啊？\n\nbscscan.com/tx/0x0acd57f2eb9…",
+      "timestamp": "Oct 17, 2025 · 1:14 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1979174063248720288#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1978043906747945301#m",
+      "content": "真的还能玩下去吗? 什么时候你妈逼的成这样了?\n新韭菜进场直接要给人家的根薅出来?\n这样玩下去散户还有一点赢面?\n\nVC 币流水线一样上币安 Alpha: \n- 平台对开多号刷币安 Alpha 持默许放任态度, 负责人甚至关注互动买卖 KYC 的推特用户, 平台只关心交易量\n- 刷交易量给的奖励就像赌场免费提供的小吃和饮料, 想要吸引你\n你现在不想玩可以被操纵的现货/合约没关系, 先把你哄进来再说\n\nKOL 垄断推特话语权: \n- 任何非散户实体无论出了多大的事, 都去收买 KOL 唱赞歌, 营造一片歌舞升平\n- 维权按闹分配, 只有闹得大才有机会解决问题, 散户想把事情闹大非常困难\n每次维权都一样, 要不了多久, 散户微弱的抱怨声就消失殆尽\n\n链上的主流土狗只玩类 PumpFun 模式: \n- 只炒作白板合约代币, 合约不存在任何机制\n- 初始流动性为 0, 拿足够的筹码 == 可以撤池子\n狗庄只需要研究如何让自己利润最大化, 然后浇你一头\n\n链上的主流土狗只跟有话语权的人玩: \n- 编故事说自己赚麻了有人信, 自己开盘子自己买装聪明钱也有人信, 屁股后面全是跟单, 养活一群杂种\n- 代币的情绪极大程度上依赖有话语权的人, 一条推文左右涨跌\n但偏偏玩家就认这些人, 离开这群人就像工蚁失去了蚁后\n\n链上的阴谋彻底骑在散户脑袋上: \n- 炒作的类 PumpFun 模式代币, 你根本不知道实际控制者, 或是实际控制者只喊单但永远不会承认\n- 炒作起来的代币如果阴谋集团没有拿到底部, 几乎立刻会出现他们自己发的币来分流老币\n- 代币生命周期显著缩短, 一个代币上涨, 要不了多久情绪就会转移到下个代币\n一场比赛中, 阴谋既是攒局者, 又是裁判员, 甚至还是参赛选手, 散户拿什么赢?\n\n现在这群畜生阴谋能这样控制链上, BSC 的那群老狗庄都死绝了吗?\n机制盘狗庄上哪去了?\n资金盘狗庄上哪去了?\n不围绕类 PumpFun 模式就不会玩了?\n\nBSC 老狗庄们跟现在这群杂种车头相比, 那他妈都算慈眉善目了:\n- 小池子畜生姚胜宇开的 2 BNB 底池 10 BNB 押金公平发射限购盘\n- 金猪存钱罐畜生郑中胜开的粉红预售\n- 还有畜生小熊猫、畜生王健林、畜生蓝颜、畜生大海六、畜生王晴以及畜生谢玉胜等等一票畜生\n我不开玩笑, 这些畜生的盘子放现在都算良心狗庄开的大金狗了\n\n更他妈了个逼的不要扯什么类 PumpFun 模式有更多造富神话\n散户有多少? 又真正富了几个散户?\n\n我承认确实有一部分散户在类 PumpFun 模式赚到大钱, 但为什么会这样?\n这必须归因于类 PumpFun 模式的玩法:\n这种玩法根本就是一种过分剧烈的财富再分配, 庄家拥有压倒性优势, 初始流动性 0, 有效锁定流动性 0, 价格可跌至 0\n如果没有内幕, 没有话语权, 散户长期玩下来和赌博有什么区别?\n\n我一直持悲观态度, 现在必须来泼一盆冷水: \n如果说之前机制币过高的税收是给狗庄全家的丧葬费,\n那么现在类 PumpFun 模式给散户尝到的甜头就是给癌症晚期病人注射的杜冷丁\n承认吧, 这套玩法快要持续不下去了",
+      "timestamp": "Oct 14, 2025 · 10:23 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1978043906747945301#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1977733466876977285#m",
+      "content": "别 JB 恶心你爹行吗? 我直接就是拉黑",
+      "timestamp": "Oct 13, 2025 · 1:49 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1977733466876977285#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1977732336696676475#m",
+      "content": "你不用教人扫链, 这样割起来太麻烦\n你直接放个收款地址让大家打钱就行了",
+      "timestamp": "Oct 13, 2025 · 1:45 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1977732336696676475#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1977633407325864446#m",
+      "content": "感觉你是有点活不起了 @0xfacairiji\n凑钱给你婊子妈的冰箱棺材续费呢? 再不续费你婊子妈就要烂里头了",
+      "timestamp": "Oct 13, 2025 · 7:12 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1977633407325864446#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1977629173989736773#m",
+      "content": "FourMeme 新模式路由的 Signer 现在已经写死\n0xb6AEf8B018EE808267c5589d516E0A7d38f121EF\n\n基于自定义 Signer 的服务应该已经失效",
+      "timestamp": "Oct 13, 2025 · 6:55 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1977629173989736773#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1977381464015610245#m",
+      "content": "🔈速报：韩耀荣现在一次 100块",
+      "timestamp": "Oct 12, 2025 · 2:30 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1977381464015610245#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1976262177041375254#m",
+      "content": "奶牛奶牛，给你写了首歌",
+      "timestamp": "Oct 9, 2025 · 12:23 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1976262177041375254#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1976880371456524751#m",
+      "content": "一觉睡醒怎么瀑布人生了，吓哭了\n幸亏昨天把亏钱的土狗全割了，亏钱的hype也割了，吓哭了\n要是不割真他妈福烂了，吓哭了",
+      "timestamp": "Oct 11, 2025 · 5:19 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1976880371456524751#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1976609126127178161#m",
+      "content": "你妈死了，把别人当傻逼？\n\n7 个月之前更新的文档\nfour-meme.gitbook.io/four.me…\n\n26 个小时之前创的币\n\n0x22...8f915d 跑不出来?\n我要是跑出来你叫我爹敢不敢?",
+      "timestamp": "Oct 10, 2025 · 11:21 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1976609126127178161#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1976601323803218369#m",
+      "content": "你给韩耀荣口交",
+      "timestamp": "Oct 10, 2025 · 10:50 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1976601323803218369#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1976593883942490454#m",
+      "content": "币安公主？币安鸡！\n谁买谁傻逼",
+      "timestamp": "Oct 10, 2025 · 10:21 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1976593883942490454#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1976588118783594603#m",
+      "content": "Fourmeme 新模式好玩吗?\n发现新盘子全是底部批量新钱包拿货了吗?\n\n你想玩，全是阴谋盘\n如果你没有内幕, 那买就是赌\n\n非要这么赌, 赢面小于抛硬币猜正反面: \n因为硬币不会根据你的想法而改变哪面朝上, 但是阴谋会",
+      "timestamp": "Oct 10, 2025 · 9:58 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1976588118783594603#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1976577598475112564#m",
+      "content": "Fourmeme 新模式只过了一天，小捆绑来了\n\n毕竟运行环境是在浏览器里面，能这么干不奇怪\n但为什么我昨天抓包的请求，过夜了还能重复使用啊？\n同个请求能复用，甚至能跨日复用，这不应该吧？\n\nweb3.binance.com/bapi/defi/v…\n\n显然，运行环境在浏览器，想 100% 拦住那是不可能的\n但至少要稍微设置点障碍吧？\n@BinanceWallet @bnbchain",
+      "timestamp": "Oct 10, 2025 · 9:16 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1976577598475112564#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1976541953442615624#m",
+      "content": "看见这种傻逼了吗？ @bailangda \n我不知道还有多少人也这么想，凡是这么想的都是一等一的贱货，喜欢让人家拿鞭子抽还要叫爽！",
+      "timestamp": "Oct 10, 2025 · 6:54 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1976541953442615624#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1976276861861994899#m",
+      "content": "王腊肉你看你贱的吧 @brc20niubi \n买个 0.078 BNB 钓跟单，那你永远是农民",
+      "timestamp": "Oct 9, 2025 · 1:21 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1976276861861994899#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1976220546678522319#m",
+      "content": "我是奶牛",
+      "timestamp": "Oct 9, 2025 · 9:37 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1976220546678522319#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1976217394965295221#m",
+      "content": "韩耀荣，内盘给你们捆绑上点难度就急成这样了？ @feibo03",
+      "timestamp": "Oct 9, 2025 · 9:25 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1976217394965295221#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1976197331243631078#m",
+      "content": "你也挺会装啊",
+      "timestamp": "Oct 9, 2025 · 8:05 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1976197331243631078#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1976184976191390194#m",
+      "content": "还有你，你在这装什么呢",
+      "timestamp": "Oct 9, 2025 · 7:16 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1976184976191390194#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1976183874108469682#m",
+      "content": "怎么了，韩耀荣？ @feibo03",
+      "timestamp": "Oct 9, 2025 · 7:12 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1976183874108469682#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1971936681617248264#m",
+      "content": "hyperdrive 被攻击 @hyperdrivedefi \n\n原因: \n在借贷过程中, 用户将 Router 设置为 Operator, 但 Router 可执行 To 在白名单内的任意 Call, 而恰巧 Market 在白名单内\n因此第三方地址可以调用 Router, 发起任意 Call 调用 Market 操作这些用户的仓位\n\n地址:\nRouter: 0x8D9e168a8Fd102Ea52Ba3Cc43d4C613Bb6c89F32\nMarket: 0xa522572cF63E6CeEd49Db6C77Cd9Ec76c1d47d09\n\n1. 用户将 Router 设置为 Operator\nhyperevmscan.io/tx/0x5456d89…\n\n2. Router 可执行 To 在白名单内的任意 Call, 同时 Market 在白名单内\nMarket ID: 0x05d24672e977d13156abe9ab24f6fb3e5310589eae87cf8dee2d2647035a280c\n\n3. 第三方地址调用 Router, 发起任意 Call 调用 Market 操作用户的仓位\nhyperevmscan.io/tx/0xcaf5ea6…",
+      "timestamp": "Sep 27, 2025 · 1:55 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1971936681617248264#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1971137901560987831#m",
+      "content": "我支持你",
+      "timestamp": "Sep 25, 2025 · 9:01 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1971137901560987831#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1970029695170420744#m",
+      "content": "假如你是李华，你将 $NEIROETH 充值到交易所，交易所随即宣布下架你刚才充值的 $NEIROETH 代币交易对。\n请你给交易所发送邮件，内容包括：\n1）询问下架的原因。\n2）协商能否取消下架。\n\n注意：\n1）词数不少于50。\n2）开头和结尾已给出，不计入总词数。\n\nbinance.com/en/support/annou…",
+      "timestamp": "Sep 22, 2025 · 7:37 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1970029695170420744#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1969788514192736537#m",
+      "content": "你是不是又痒痒了？那我要给台子充点钱了？\n@EnHeng456",
+      "timestamp": "Sep 21, 2025 · 3:39 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1969788514192736537#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1967236822389739870#m",
+      "content": "是不是把别人当傻子忽悠呢? @TODO_dream\n\n你给自己抽甚至不愿意用个 OKX 插件里没有的地址啊?",
+      "timestamp": "Sep 14, 2025 · 2:39 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1967236822389739870#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1966867418783060083#m",
+      "content": "你这个傻逼玩意在装什么孙子呢我想问问? 怎么演的跟真的一样? \n\n为什么你藏个地址, 自己给自己转账能增发余额 100 倍?\noklink.com/zh-hans/x-layer/a…",
+      "timestamp": "Sep 13, 2025 · 2:11 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1966867418783060083#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1965103500167414103#m",
+      "content": "我给你截图了防止你不认帐啊",
+      "timestamp": "Sep 8, 2025 · 5:22 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1965103500167414103#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1965032539854446717#m",
+      "content": "领币的奖池合约大概率从这里创出来, 这是奖池合约的 Factory: \nlineascan.build/address/0x00…\n注意, 领币需要 Merkle Proof, 相关的 API 自己提前准备\n\n如果领币的奖池合约没从上面的 Factory 创出来, 那就考虑是不是换了 Factory, 这是 OKX Create2 Factory, 去里面找新的: \nlineascan.build/address/0x00…\n\n啥也不是, 以为上个土狗呢, 结果上个正规军",
+      "timestamp": "Sep 8, 2025 · 12:40 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1965032539854446717#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1965023634688524405#m",
+      "content": "你猜 X Launch 是什么",
+      "timestamp": "Sep 8, 2025 · 12:05 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1965023634688524405#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1964911313530007906#m",
+      "content": "当年我一觉醒来全网都在传我的假充值，海贼王说”兄弟，我昨晚冲了十几个亿进去，太屌了”，我回到公司，余弦说这个事情不要说出去是你做的，这不值一提。然后回头问我拿了poc。笑了",
+      "timestamp": "Sep 8, 2025 · 4:38 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1964911313530007906#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1964618387835002990#m",
+      "content": "我为什么离开慢雾，这才是真相。\n\n道不同，不相为谋。\nmedium.com/@alita.btckevin/%…",
+      "timestamp": "Sep 7, 2025 · 9:14 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1964618387835002990#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1964639684530938064#m",
+      "content": "你放你娘的屁，无特权你妈了个臭逼\n\n交易开关杀区块\n\n批量拉黑\n\nweb3.okx.com/zh-hans/explore…",
+      "timestamp": "Sep 7, 2025 · 10:39 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1964639684530938064#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1964588386305654862#m",
+      "content": "这个项目是诈骗 @heroxdotfun \n与已跑路的项目存在关联 @XRC_420 \n\n截止至今天下午(2025.09.07 14:30:00)左右, 在网站的 JS 中存在一个收款地址: \n0x3A155D544D5e80A3ad0CDFF0508451579002672b\nherox.fun/_next/static/chunk…\n\n而后网站更新, 这个 JS 不再可用, 收款地址被替换为无交互记录的: \n0x74354b1E26e165743452fe07B91e4e104d2dA7E3\n\n而对原收款地址交互记录进行检查, 有所发现: \n------------------------------------\nA: 原收款地址: \n0x3A155D544D5e80A3ad0CDFF0508451579002672b\n\nB: OKX 充值地址 01: \n0x05a9716F78544E51Cd31864Ce202120a3BD5CD96\n\nC: 首次交互 B 的地址: \n0xe9Bb49bc685ad3fCD51f64d13b5cc19DF681B1E1\n\nD: OKX 充值地址 02: \n0x6BBd736a98d21b869f0B5217DEE683937B7E20f7\n\nE: 同时交互过 B 与 D 的地址:\n0xb4a829B945Ceb0D9D875E4F7d82811446Ab4a808\n\nF: 大额转账给 E 的地址(XRC420 项目方):\n0x8aa96bcd27b387e07ab5d14abca251dfce0dd8b5\n------------------------------------\n对于这些地址,  有: \nA -> B, C -> B, C -> D\nE -> B, E -> D, F -> E\n------------------------------------\n\n最终, 追到 XRC420 项目方地址: \noklink.com/zh-hans/x-layer/a…",
+      "timestamp": "Sep 7, 2025 · 7:15 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1964588386305654862#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1964321687136309429#m",
+      "content": "孙割，SEC 宣布成立跨境特别工作组打击欺诈行为了！\n你一定要向他们寻求帮助来证明自己的清白啊！\n你的口碑老韭菜们长久以来有目共睹！\n\nsec.gov/newsroom/press-relea…",
+      "timestamp": "Sep 6, 2025 · 1:36 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1964321687136309429#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1963533176174997738#m",
+      "content": "你要是这么说的话，\n那我直接就转发原贴喷，截图不给你头像打码，不纯文字暗示而是直接明示：\n\n傻逼玩意我操你妈了个逼",
+      "timestamp": "Sep 4, 2025 · 9:22 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1963533176174997738#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1962524868844699966#m",
+      "content": "孙割(category == 3)的币解锁了20% , 项目方开绿灯\n\n为孙割开绿灯添加解锁规则: \netherscan.io/tx/0xfccb4de057…\n\n孙割解锁: \netherscan.io/tx/0x85decfc567…",
+      "timestamp": "Sep 1, 2025 · 2:36 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1962524868844699966#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1962468898080788969#m",
+      "content": "这个又删了，一天反转四次",
+      "timestamp": "Sep 1, 2025 · 10:53 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1962468898080788969#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1962468023140528305#m",
+      "content": "无敌了，我草死尼玛\n\nmedium.com/@wlfi/understandi…",
+      "timestamp": "Sep 1, 2025 · 10:50 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1962468023140528305#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1962387931299250640#m",
+      "content": "看吧，这母狗又是典型的“真话说一半” @ai_9684xtpa \n\nCMC 显示流通 27.23B，这当然是真的，现在也这么显示\n\n但是这婊子故意不告诉你把鼠标放到 Verified Icon 能看到 “根据该项目的自报流通供应量” 为 5B\n\n然后再去她常年霸榜的律动买个新闻\n\n丧良心的玩意，是新闻学科班出身吗？",
+      "timestamp": "Sep 1, 2025 · 5:31 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1962387931299250640#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1961353224784678991#m",
+      "content": "你这个傻逼玩意恶不恶心啊？ \n还他妈拉黑你爹？\n我看你是野狗一条还他妈的意淫自己能榜上巨鲸 @ai_9684xtpa\n\n把有关联的人全部 @ 一遍，人家有钱就应舔尽舔？\n把存在争议的事直接当成事实讲，人家有钱就是非不分？\n\n巨鲸声称睡眠不足意外开错仓，你直接当成真的说，把路人当傻子？\n说你舔巨鲸就直接拉黑，杵进你肺管子里了？\n\n要是你还想犟，那我就写明白：\n如果在理性上，试图实证：根本就没有办法判断开仓是否由于睡眠不足，有人在当事人家里装监控吗？“开什么方向”、“开多少” 以及 “什么时候开” 难道不是由他的个人意志决定吗？\n如果在感性上，试图揣测：以路人视角来看 “由于睡眠不足意外开错仓爆空单，最终甚至盈利” 这件事，信他还是信我是秦始皇？\n\n你要非得添油加醋地舔，就不能找个不那么抽象的事吗？\n最后再偷偷告诉你一个秘密，就算你舔得再多，巨鲸也不会分你一毛钱",
+      "timestamp": "Aug 29, 2025 · 9:00 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1961353224784678991#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1959999708086321439#m",
+      "content": "(续) 昨天的问题已有答案:  找到消失的 65.7 亿 WLFI\n\n未记录到 Registry 中的部分全都在 WLFI 热钱包中, 那为什么预售用户(category == 1)的总额度是 184.3 亿(18.43%), 而不是 250 亿(25%) 呢?\n消失的那 65.7 亿(6.57%) 上哪去了?\n消失的那 65.7 亿(6.57%) 上哪去了?\n消失的那 65.7 亿(6.57%) 上哪去了?\n\n通过获取 FinancialSale 的事件: \nBuy(address,address,uint256,uint256,uint256,uint256), \n我们可以拿到 FinancialSale 中记录的预售用户的预售信息: \n- 85845 次购买\n- 5.5 亿 USD 付款\n- 250 亿(25%) WLFI 被售出\netherscan.io/advanced-filter…\netherscan.io/advanced-filter…\n\n再结合 Registry 的 事件: \nLegacyUserUpdated(address,uint256,uint8,bool),\n我们可以检查预售被记录至 Registry 的情况, 此时发现存在部分用户比较特殊: \n\n3 个用户通过 DAPP 参与预售, 但在 Registry 中被记录为非预售用户(category != 1): \n---------------------------------------\n0x29De882559194E2BE08c182c1860193f8137CbF8: \n实体: Lemma Solutions\n数量: 4.3 亿(0.43%)\n---------------------------------------\n0x5AB26169051d0D96217949ADb91E86e51a5FDA74: \n实体: TRON DAO\n数量: 30 亿(3%)\n---------------------------------------\n0x61Af7a48B0EeA8481E5A055A35f829d0e8505fE3: \n实体: Mantle\n数量: 2 亿(2%)\n---------------------------------------\n共 36.3 亿(3.63%), 分别属于不同的实体\n\n11 个用户通过 DAPP 参与预售, 但并未被记录至 Registry: \n---------------------------------------\n0x57930B2FBC0B7471E5Fc58323D886620bE37Bb80\n0x64bcb62AFEe4712BB6Ecf7673eE3CfE6E2e133E8\n0x787a1D40e4131184C8125Bd5cd874a7D106B409B\n0x7F5957E99863dc8b02E9C484Bc5745192a829C0c\n0x848fBE538d962E7aAB30cbBBf7D18c87Bb969da7\n0x8D6e35e9720B9A8b5889eCeE9Aa2a56E1bfdab30\n0xB929C0814A7D740389bF837a4387daDCF7ffBC4b\n0xC1C5cd0683b0ad2a4837aFe96afAA66195a28C3a\n0xE54a7f3714c8d104783b207799D6d9985Cd68539\n0xc9b8e766C263f65350756FB237f71EaB457156C4\n0xd1d3a740248cb0D9761216f0bcEa57c14D23079b\n---------------------------------------\n共 29.5 亿(2.95%), 这批多签钱包受 WLFI 的 Guardian 权限地址控制, WLFI 被转出至其他地址, 推测这部分 WLFI 已在场外出售\netherscan.io/address/0x407f6…\n\n1 个用户未通过 DAPP 参与预售, 但在 Registry 中被记录为预售用户(category == 1): \n---------------------------------------\n0xae9cD9A2Af96076208EF48f156e9801BC1446cCc\n---------------------------------------\n共 1000 万(0.01%), 根据这一用户的代币转账历史记录推测, 他的入场价格可能为 $0.05\netherscan.io/address/0xae9cD…\n\n此时有: \n36.3 亿(3.63%) + 29.5 亿(2.95%) - 1000 万(0.01%) = 65.7 亿(6.57%)\n恰好等于: \n250 亿(25%) - 184.3 亿(18.43%) = 65.7 亿(6.57%)\n\n终于, 消失的 65.7 亿(6.57%) 谜团被解开",
+      "timestamp": "Aug 25, 2025 · 3:22 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1959999708086321439#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1959626680194248903#m",
+      "content": "WLFI 锁仓/释放链上数据解析: 锁仓/解锁数量与用户类别\n\n若想要了解 Registry 或 WLFI 系列其他合约的功能, 见上一条推文: \nlocalhost:8080/CryptoNyaRu/status/195…\n\n通过获取 Registry 的事件: LegacyUserUpdated(address,uint256,uint8,bool), 我们可以拿到 Registry 中记录的早期用户 WLFI 的额度以及多个用户类别(category): \n- 631.5 亿(63.15%) 总额度\n- 19 个用户类别\n- 85873 个用户\n- 预售用户(category == 1)总锁仓 184.3 亿(18.43%), 总解锁 36.9 亿(3.69%)\n- Registry 中只记录了 631.5 亿(63.15%) 额度, 而未记录的 368.5亿(36.85%) 额度都在 WLFI 的地址中: 0x5be9a4959308A0D0c7bC0870E319314d8D957dBB, 0x9E8F9A6EA64cBBA627749De83C32d2096ba0C787 以及 0xA713fc94db054AA435AF4d9c66c3433dCA98559F\netherscan.io/advanced-filter…\n\n通过获取 Vester 的事件: SetCategoryTemplate(uint8,uint8,(uint112,uint32,uint32,uint32)), 我们可以拿到 Vester 中记录的早期用户 WLFI 的锁仓/解锁数量以及各个用户类别的 WLFI 解锁规则: \n- 对于预售用户(category == 1), 允许自时间戳 1756728000(2025-09-01 20:00:00 UTC+8) 开始, 一次性解锁 20% WLFI\n- 其他类型用户的解锁规则均未设置\netherscan.io/advanced-filter…\n\n问题就出现了: \n未记录到 Registry 中的部分全都在 WLFI 热钱包中, 那为什么预售用户(category == 1)的总额度是 184.3 亿 (18.43%), 而不是 250 亿(25%) 呢? 少的那块上哪去了?\n在其他类别(category != 1)中根本找不到某一类别的总额度能补上这 65.7 亿(6.57%) 的缺口, 也许消失的这部分被分散在了多个不同的类别中\n\n求求了, 就按照目前的: 总锁仓 184.3 亿(18.43%), 总解锁 36.9 亿(3.69%) 开盘可以吗? 消失的那部分就别解锁了可以吗?\n因为老子的 ALTS 还没卖呢, CNMLGB\n因为老子的 ALTS 还没卖呢, CNMLGB\n因为老子的 ALTS 还没卖呢, CNMLGB\n因为老子的 ALTS 还没卖呢, CNMLGB\n因为老子的 ALTS 还没卖呢, CNMLGB\n因为老子的 ALTS 还没卖呢, CNMLGB\n因为老子的 ALTS 还没卖呢, CNMLGB\n因为老子的 ALTS 还没卖呢, CNMLGB\n\n以上内容的时效性截止至区块 23211578(2025-08-24 22:35:23 UTC+8)",
+      "timestamp": "Aug 24, 2025 · 2:39 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1959626680194248903#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1959540952068129261#m",
+      "content": "WLFI 锁仓/释放合约简单解析: WLFI, Registry & Vester\n\nWLFI: 代币主合约\n- 在发送/接收 WLFI 时调用 Registry 检查用户是否有权限发送/接收 WLFI\n- 允许早期用户在调用 activateAccountAndClaimVest 一步完成(需要签名): \n    - 解除在 Registry 中记录的早期用户发送/接收 WLFI 的权限限制\n    - 按照 Registry 中记录的数量, 锁仓持有的 WLFI 至 Vester\n    - 从 Vester 中提取已解锁的 WLFI\netherscan.io/address/0xda5e1…\n\nRegistry: 记录早期用户(创始人/预售/场外交易)的信息, 控制其发送/接收 WLFI 的权限\n- 非早期用户将不会被记录, 可以自由地发送/接收 WLFI\n- 早期用户的信息将会被分类划分并记录, 这些用户必须将 WLFI 锁仓至 Vester 以解除发送/接收 WLFI 的权限限制\netherscan.io/address/0x4f61a…\n\nVester: 锁仓/释放 WLFI\n- 控制 WLFI 的锁仓/释放, 支持对不同类别的用户应用不同的释放规则\n- 已有的释放规则可以被编辑\n- 同时支持到期一次性释放与时间范围内线性释放\netherscan.io/address/0x74B4f…\n\n简言之: \n对于非早期用户: 可以自由地发送/接收 WLFI\n对于早期用户: 无论本次是否有解锁, 都必须将 WLFI 锁仓至 Vester 才能发送/接收 WLFI",
+      "timestamp": "Aug 24, 2025 · 8:59 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1959540952068129261#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1959191262801899936#m",
+      "content": "傻逼玩意涨了就冒出来了是吧？什么脑残都能开收费群了？\n打的时候你妈了个臭逼的预测到了代币后面要解锁是吧？屁也不知道瞎JB喊的也能收费？\n还有，你这个傻逼玩意居然还他妈关注我了，别他妈关注你爹，恶心人的玩意。",
+      "timestamp": "Aug 23, 2025 · 9:49 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1959191262801899936#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1958963950529520028#m",
+      "content": "补了一个星期的仓，我的 ALTS 宝宝终于回本了，加油啊 ALTS 宝宝，你是我最香香软软甜甜糯糯蜂蜜奶油酥酥脆脆滑滑嫩嫩绵绵密密弹弹润润丝丝滑滑蓬蓬松松香香甜甜油油润润细细软软的奶油小蛋糕😭😭😭",
+      "timestamp": "Aug 22, 2025 · 6:46 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1958963950529520028#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1958921973960253796#m",
+      "content": "你是不是傻逼啊，还他妈分红卡链了，主合约里 unwrap eth 不写 receive",
+      "timestamp": "Aug 22, 2025 · 3:59 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1958921973960253796#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1958878599840178473#m",
+      "content": "666领免费代币不喊我？\n回家吧孩子，回家吧，你问 ChatGPT 老师都不至于合约弄成这样",
+      "timestamp": "Aug 22, 2025 · 1:07 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1958878599840178473#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1958769085824569417#m",
+      "content": "你他妈是flap老板啊？\n操死你们妈，你们这群傻逼在bsc开阴谋，别人买0.1b都直接弃盘重新开，没见过你们这么抠B的废物。要么你们直接宣布不允许别人赚钱吧？",
+      "timestamp": "Aug 22, 2025 · 5:51 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1958769085824569417#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1958449208014541070#m",
+      "content": "？？？？？？",
+      "timestamp": "Aug 21, 2025 · 8:40 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1958449208014541070#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1957803425279652202#m",
+      "content": "我操你妈\n可以了，跌的够多了，不要再跌了行不行，我补不动了",
+      "timestamp": "Aug 19, 2025 · 1:54 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1957803425279652202#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1956375420959674791#m",
+      "content": "我操你妈的特朗普跑路了？\n不是币股吗？怎么你妈个比我一上车就不币股了？有他妈的这么巧吗？不是币股吗？怎么你妈个比我一上车就不币股了？有他妈的这么巧吗？不是币股吗？怎么你妈个比我一上车就不币股了？有他妈的这么巧吗？不是币股吗？怎么你妈个比我一上车就不币股了？有他妈的这么巧吗？",
+      "timestamp": "Aug 15, 2025 · 3:20 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1956375420959674791#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1955863159975387295#m",
+      "content": "GM",
+      "timestamp": "Aug 14, 2025 · 5:24 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1955863159975387295#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1955159392665604406#m",
+      "content": "666还有免费黑U领",
+      "timestamp": "Aug 12, 2025 · 6:48 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1955159392665604406#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1954779883454058693#m",
+      "content": "闹麻了兄弟们 币圈人均俊男美女 寄拍这条赛道起号也属实是好使 \n\n前有 @JYinG_eth 抠脚大汉找小红书博主做寄拍假装自己小仙女人设骗取群友钱 现有抠脚大汉 @jiamibtc 找20岁年轻帅哥做寄拍伪装币圈小鲜肉 \n\n妈耶 这些人莫不是同一个起号机构出来的吧  \n\n哦 对了 前几天还有个拿别人提车照来装逼行骗的 被我扒了删推了 幸好我还留了截图证据",
+      "timestamp": "Aug 11, 2025 · 5:40 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1954779883454058693#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1954530062973260270#m",
+      "content": "666起猛了赛博猪头肉开收费群了\n这种感觉不亚于出门被大运创了，醒来发现在医院里护士是疯狂宝贝，全是黄色皮的医生要拿尼泊尔军刀给我开刀",
+      "timestamp": "Aug 10, 2025 · 1:07 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1954530062973260270#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1951335111200481503#m",
+      "content": "@chiroukyc \n劝你别狂了，你那些东西们挂在首页就像狗狗把肚皮主动露出来给别人看一样，想恶心死你我有一万种方法。\n我跟废太子嗯哼干了一个月，从七月到八月，你自己考虑清楚吧。",
+      "timestamp": "Aug 1, 2025 · 5:31 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1951335111200481503#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1951331460759298395#m",
+      "content": "被废太子嗯哼刷数据的朋友们注意了：\n废太子嗯哼的号商(之一)现在终于浮出水面了，你被刷的数据有它的参与，有仇的可以去报仇了: @chiroukyc\nlocalhost:8080/chiroukyc/status/19513…\n\n它的推特资料、发卡网站以及发卡网站首页也帮大家快照了，防止它删掉：\n发卡支持微信支付宝，还可以看到客服的微信号，大家自由发挥吧。",
+      "timestamp": "Aug 1, 2025 · 5:17 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1951331460759298395#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1950455300043194602#m",
+      "content": "我是嗯哼粉丝，我看下去了我觉得你很好心所以你准备什么都能收到吧，白u也给你，你自己花",
+      "timestamp": "Jul 30, 2025 · 7:15 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1950455300043194602#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1950431438094160233#m",
+      "content": "我不是嗯哼粉丝，我看不下去了我觉得你很恶心所以你准备什么也收不到吧，黑u也不给你，俺自己花 @abyssofgambling",
+      "timestamp": "Jul 30, 2025 · 5:41 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1950431438094160233#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1950177772518986063#m",
+      "content": "你千万别着急，我这边才刚刚开始。@thecryptoskanda",
+      "timestamp": "Jul 29, 2025 · 12:53 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1950177772518986063#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1950177228874272983#m",
+      "content": "加密马桶，你怎么骂自己小号？问你呢，东南亚刷马桶的。\n@thecryptoskanda",
+      "timestamp": "Jul 29, 2025 · 12:50 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1950177228874272983#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1950054603652792320#m",
+      "content": "起床了，孩子们，一睡醒发现刷盘子的学慈禧向全世界宣战了。 @thecryptoskanda",
+      "timestamp": "Jul 29, 2025 · 4:43 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1950054603652792320#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1949891615965008341#m",
+      "content": "还有你也小心点 @EnHeng456 ，我可没把你忘了，等着你解锁推特呢。",
+      "timestamp": "Jul 28, 2025 · 5:56 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1949891615965008341#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1949891225609490495#m",
+      "content": "收到，看看谁先受不了。\n@thecryptoskanda",
+      "timestamp": "Jul 28, 2025 · 5:54 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1949891225609490495#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1949828353521025407#m",
+      "content": "你刷了我一天的盘主了，爽了吗？\n现在该轮到我了吧，送了你两万五千个赞，不要你钱，不用谢。 @thecryptoskanda",
+      "timestamp": "Jul 28, 2025 · 1:44 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1949828353521025407#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1949803369729781798#m",
+      "content": "50.诋毁他人的人，注定一辈子摆脱不了“无耻小人”的烙印。",
+      "timestamp": "Jul 28, 2025 · 12:05 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1949803369729781798#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1949787499070673379#m",
+      "content": "ApiPassword配置好了？",
+      "timestamp": "Jul 28, 2025 · 11:02 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1949787499070673379#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1949744494343278664#m",
+      "content": "抱歉,ApiPassword配置错误,请重新配置！",
+      "timestamp": "Jul 28, 2025 · 8:11 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1949744494343278664#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1949503752882565560#m",
+      "content": "看，又要给我冲黑 U 呢。\n为了干你 @EnHeng456，交易所的钱早让我提干净了，感动吗？",
+      "timestamp": "Jul 27, 2025 · 4:14 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1949503752882565560#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1949401785136972121#m",
+      "content": "我觉得你们这样的，趁早把推特注销了吧，喜欢给别人刷脏数据，别人给你们刷回去又不开心，跟个怨妇一样。@EnHeng456 @thecryptoskanda \n\n1.这个废太子嗯哼 @EnHeng456 的捐款实际上用的是赵长鹏的钱，和阿根廷同一笔，但这个不要脸的臭傻逼居然好意思召集阴兵刷这钱是他给粉丝捐的。\n\n2.刷的阴兵是去骚扰其他人的推文，包括但不限于我，甚至阴兵发的内容还 @ 了 nulinuli188 打扰人家。\n\n3.我还手的畜生仅限于废太子嗯哼及其小弟，并没有打扰 nulinuli188，真正打扰人家的是废太子嗯哼的阴兵，因为刷的内容里一直 @ 人家。\n\n看废太子嗯哼这个太监，钱是赵长鹏出的，怎么功劳让他揽走了？\n揽走了就算了，为什么还跑到别人的推特下面刷是他捐的？\n我一直觉得这个傻逼的下限有无限的空间，甚至坚持突破自我，试图触及更低的下限。\n\n再看加密马桶这颗魔丸，刷盘子的臭傻逼居然恶人先告状，在这拉偏架。\n先来刷，恶心别人，恶心完别人被恶心回去就难受坏了，拉上接受捐款的人说打扰人家了，不是你们的阴兵一直在 @ 人家吗？\n有点玩不起了，只许自己恶心别人，被恶心回去就差躺地上打滚了。\n\n-----------------------------------------------\n\n致傻逼们： @EnHeng456 @thecryptoskanda\n- 你们这群傻篮子是不是在这试探你们爹呢？真以为你们爹说给你们刷回去是闹着玩呢？\n- 我可以告诉你们这群小兔崽子，早就有交易工具和交易所邀请你们爹开返佣了，你看你们爹挂返佣链接了吗？\n- 所以说，比起你们爹来说，更看重推特号的其实是你们这群臭傻逼。你们爹就没锁过推，倒是你们一个个被别人反击了又是锁推又是哈气，还没明白给你们爹刷的后果是什么吗？\n\n-----------------------------------------------\n\n@nulinuli188 这位朋友你好，还手的数据并不针对你，只是针对先来刷我的废太子嗯哼及其小弟。在还手的时候我刻意避开了你，只有他们的楼中楼推文会受到影响。\n\n如果仍有困难请联系 TG @CryptoNyaru，与推特同 ID。\n你的聊天记录不会被公开，你也不必向别人提及这件事，没有人会知道你来找过我。\n(仅限 @nulinuli188 联系，因为是由本人自己出资，而不是拿赵长鹏给的。本人能力有限，并未拥有一家交易所)\n\n祝阿姨身体健康，也祝你的小吃摊生意兴隆。\n更真诚地希望你不会再遇到更多困难，早日回到正轨。",
+      "timestamp": "Jul 27, 2025 · 9:29 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1949401785136972121#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1949190592732287194#m",
+      "content": "又开始啦？ @EnHeng456 \n那我要迎战了，你收好哦！",
+      "timestamp": "Jul 26, 2025 · 7:30 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1949190592732287194#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1948260445170905297#m",
+      "content": "各单位注意，奶牛韩耀荣 @feibo03 又不老实呢：\n\n把你的跟单关了，谁跟奶牛韩耀荣的单我笑话谁一辈子！",
+      "timestamp": "Jul 24, 2025 · 5:54 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1948260445170905297#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1948258150714622176#m",
+      "content": "还轧不轧空了？\n\n还 2B 不 2B 了？\n\n一个 13 号，一个 15 号，为什么全是山顶？\n\n怎么没人说话呢？",
+      "timestamp": "Jul 24, 2025 · 5:45 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1948258150714622176#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1947194238795710527#m",
+      "content": "这他妈的啥人啊 @0xyeshen，非要拿海豚辩经，最后把自己说急了，骂完我就拉黑······",
+      "timestamp": "Jul 21, 2025 · 7:17 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1947194238795710527#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1946865206665367640#m",
+      "content": "海豚哥你好！ @ht78221 \n\n是不是只允许你拿底部啊？\n底部让别人拿走了你怎么急成这样啊？\n怎么最后都带哭腔了？\n\n视频进度条拖到最后听海豚哭哭！",
+      "timestamp": "Jul 20, 2025 · 9:30 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1946865206665367640#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1946844602906071381#m",
+      "content": "你这叫韭菜爱幻想¹\n[1]加密马桶推文.推特.中文版,2025.",
+      "timestamp": "Jul 20, 2025 · 8:08 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1946844602906071381#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1946842209514574194#m",
+      "content": "我这边阴兵已经收到，一会请你也查收",
+      "timestamp": "Jul 20, 2025 · 7:58 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1946842209514574194#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1946668179654414430#m",
+      "content": "谁允许狗说话了？看你这个骚玩意贱的，没褶皱的狗脑子还来点评上了？\n事实上，你现在的首要任务应该是抱着你的刷盘子理论去开2wu的巨额pump仓位。",
+      "timestamp": "Jul 19, 2025 · 8:27 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1946668179654414430#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1946596204172968287#m",
+      "content": "傻狗是不是上美股挨干了，然后回来取米，怎么演都不演了 @xiaomucrypto",
+      "timestamp": "Jul 19, 2025 · 3:41 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1946596204172968287#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1945864245029339559#m",
+      "content": "你看，又暴露出一个问题：\n\n你这个傻狗为废太子嗯哼刷脏数据开脱的理由是“也得有原因呀，不能平白无故的吧”。\n\n然而废太子嗯哼自己为刷脏数据开脱的理由是“根本不是他刷的”。\n\n你们把看推的人当傻子糊弄？\n我建议你们先统一口径，对齐一下颗粒度，然后再来洗。",
+      "timestamp": "Jul 17, 2025 · 3:12 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1945864245029339559#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1945856585018011814#m",
+      "content": "傻狗你好，为什么把照片编辑掉了？是不是拍马屁不小心拍到马腿上了？我看你僭越了有点 @0xLige",
+      "timestamp": "Jul 17, 2025 · 2:42 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1945856585018011814#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1945462623518294218#m",
+      "content": "现在详细说币圈中文推的这个现象，以及该怎么做——赛博黑社会横行霸道。\n\n不知从今年何时开始，币圈中文推突然出现一种诡异的情况：\n你到某些 KOL 的评论区发表了他不爱听的言论，过了一会，你就会发现自己的历史推文被刷了点赞和转发，而且还可能有阴兵复读固定的文案骂你，更有甚者直接威胁要给你的交易所充黑钱。\n\n我来告诉你，已知的这些赛博黑社会都有谁：\n- 废太子嗯哼与养的狗之一 @EnHeng456 && @daisukikksk_\n- 老骚逼愉悦 @yuyue_chris \n- 加密马桶 @thecryptoskanda \n- 奶牛韩耀荣 @feibo03 \n\n大家都知道：废太子嗯哼、老骚逼愉悦和加密马桶是很早开始就厮混在一起的。那么奶牛韩耀荣为什么可以调动资源搞赛博群殴？\n这是因为，废太子嗯哼和奶牛韩耀荣的地址早在5月就交互过，他们早就睡在一张床上啦：\nbscscan.com/tx/0xa364ca7d761…\n\n这几位赛博黑社会搞赛博群殴的记录如下，看一下评论区你就明白了：\n- 废太子嗯哼：localhost:8080/CryptoNyaRu/status/193…\nlocalhost:8080/CryptoNyaRu/status/194…\nlocalhost:8080/CryptoNyaRu/status/193…\nlocalhost:8080/GoldenPepeCabal/status…\nlocalhost:8080/memekiller365/status/1…\n- 老骚逼愉悦：\nlocalhost:8080/bigbottle44/status/194…\nlocalhost:8080/Tintinx2021/status/194… (需要点击页面下方 Show probable spam)\nlocalhost:8080/h0wardwang/status/1945…\n- 加密马桶：\nlocalhost:8080/CryptoNyaRu/status/194…\nlocalhost:8080/dotyyds1234/status/194…\nlocalhost:8080/Tintinx2021/status/194… (需要点击页面下方 Show probable spam)\n- 奶牛韩耀荣：\nlocalhost:8080/CryptoNyaRu/status/194…\nlocalhost:8080/zunzunv/status/1943948…\nlocalhost:8080/hei_niu70800/status/19… (需要点击页面下方 Show probable spam)\n\n那凭什么说这几个死妈东西用的是某种相同的服务，或者干脆他们几个就是一体的呢，因为这些阴兵有很明显的共同特征。\n以这两个号 @Algorithms36945 && @li_lao22389 为例：\n- 在不作为阴兵时，经常参与推特抽奖。\n- 在作为阴兵时，回复的内容有本人授意，与事件本身有极强的相关性。\n- 发送阴兵回复后，账号可能立刻回复其他推文，推测是某种养号策略。\n- 发送的阴兵回复语气极其相似，并且不同账号回复的内容有时完全重复。\n\n------------------------------------------------\n\n老骚逼愉悦刷的这一批，全部都在威胁曝光受害者的过往。\n\n加密马桶刷的这一批，高频率出现了关键词“盘总”和“三盘理论”，很是看重自己后厨刷盘子的身份和他的光盘行动理论。\n\n奶牛韩耀荣刷的这一批，大概就是他本人的真实想法，大家都来骂他，他委屈坏了。\n\n废太子嗯哼刷的实在是太多了，每条长推文只能放四张内嵌图片，放不下了。如果感兴趣的话，可以点上面的链接进评论区看。\n\n------------------------------------------------\n\n如果以后被赛博群殴了，你该怎么做：\n- 当自己的推文被刷回复时，可以在这条回复的菜单中点击 Hide reply 来隐藏这条回复。\n- 当在其他人推文的楼中楼被刷回复时，可以在自己的回复中点击 Mute this conversation 来屏蔽这条回复的相关通知。\n- 当被刷转发或点赞时，可以在这条回复的菜单中点击 Mute this conversation 来屏蔽这条回复的相关通知。\n- 花钱刷回去，刷垃圾数据从来都不是这群死妈东西的专利，况且他们一样珍视自己的推特号。\n\n现在已经被赛博群殴了，我本人是这么做的：\n- 我已经为这件事拨款了几千 U 专项资金，分批充值到台子里，哪个死妈玩意来刷，直接加倍刷回去。\n- 喜欢锁推的宝宝也别高兴得太早！我现在每天就是在 CF 的怀旧模式里打生化酒店，蹲到蓝色滑梯的边上玩战龙大炮，有的是时间，所以有本事就锁一辈子推，别让我发现你解锁，让我发现了那就等着吧。\n\n------------------------------------------------\n\n最后说一下，和废太子嗯哼这一连串的事到底因何而起，就因为这张图片：localhost:8080/CryptoNyaRu/status/193…\n你做梦都想不到，就因为发了这张图片，连文字都没配，废太子嗯哼就开始给我刷数据。\n从这里开始，陷入了：他刷我 -> 我骂他 -> 他刷我 -> 我骂他 的良性循环。\n\n废太子嗯哼是个倔驴，已经半个月了，昨天都还在那给我搞赛博群殴，很多人遇到这种情况应该就受不了了。\n但是很可惜，我也是个犟种，我不差这点钱，不缺这点时间，陪废太子嗯哼玩到下个牛市。",
+      "timestamp": "Jul 16, 2025 · 12:36 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1945462623518294218#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1945387991733821772#m",
+      "content": "删了没关系，我帮大家存了。",
+      "timestamp": "Jul 16, 2025 · 7:40 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1945387991733821772#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1945378865590964600#m",
+      "content": "现在某些死妈 KOL 喜欢给别人刷数据，赛博黑社会这一块的，web2 国人那套堵人嘴原封不动搬到推特上，晚点详细说这个事",
+      "timestamp": "Jul 16, 2025 · 7:03 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1945378865590964600#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1945369943098409208#m",
+      "content": "傻逼玩意你妈死了，我操你妈了个红烧奶牛肉面，我把奶牛肉面塞你妈批里问问你妈辣不辣，你妈说屁眼也来点行不行\n\n那我问你这个贱狗，这是谁的？这是韩耀荣梦游的时候开的？你爹怎么还腰斩呢？\nbscscan.com/tx/0xf7cd2aa5645…",
+      "timestamp": "Jul 16, 2025 · 6:28 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1945369943098409208#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1945106873545273351#m",
+      "content": "休息好久 抱歉最近虧太多玩不動了 \n今天來講講 @yuyue_chris 的故事, 2023年的時候他還是一個啥都不是的人 ( 現在對我來說還是 )\n\n那時候 sei 準備空投了, 規則採取了跨鏈開盲盒, 於是這人開始在可以說是台港澳最大的中文社群 @RaccoonHKG 的社群中跟群友合作 , 群友提供錢包私鑰, 愉悅跨鏈開盒最後八二分帳\n\n這人跨鏈不選擇磨損小的路徑, 然後之後獎勵不如預期有群友詢問他進度被他說煩 不問他就當沒這回事並說自己的資產自己負責 自己不會查阿(圖片我放在留言處) 再甩上一句我忘了就當作沒這回事\n\n那你怎當初不查一下自己風評有多差啊, 現在可能只會整天查哪家醫美技術比較好吧\n\n之後沒多久又發生一件事情, 後來一陣子流行花 gas 打幣, 然後有一個項目叫做 @clipstoken 規則是單錢包只能 mint 一次, 所以我的朋友 @makima1901  寫了批量合約節省我們的時間, 他為了造福其他人也把 code 開源了\n\n結果隔天起床愉悅這臭逼發了條推特說他搞了個批量合約但是有 6% 的稅, 讓大家走他的合約說可以省 gas 便宜方便 \nlocalhost:8080/yuyue_chris/status/165…\n\n結果浣熊群, 又是浣熊群 裡面真的臥虎藏龍 有群友發現愉悅這稅都進到自己的錢包, 然後整份 code 都是100%複製我朋友的 code 只加了收稅的功能, 這也沒差 但當時一堆人開始吹她牛逼 這也是她成為 KOL 跟累積本金的第一步, 真的噁心到看不下去\nlocalhost:8080/forgivenever/status/16…\n\n加上昨天的這個事情 @dotyyds1234 在問有什麼好的 lulu圖片可以買\nlocalhost:8080/dotyyds1234/status/194…\n\n這傻逼又去 cx 人家買 meme token 又發文說 cto 吃力不討好 狗才cto\n\nlocalhost:8080/yuyue_chris/status/194…\n\n先不說龍王炒不炒meme 光這人在推特上混的時間能比你這傻屌少嗎 你這也是只會用AI寫文的白痴 一個 CTO 誰會不知道 還要特地發文嘴一下 今天還特地科普一下 CTO 是啥 那我只好跟你科普一下 CNM 是操你媽 希望你了解一下\n\n以上來源都是來自浣熊群以及當事人本人\n\n更多圖片放在留言區\n\n希望你不要覺得自己跟嗯亨一樣舔成功就真把自己當回事 你還是啥也不是 性別正確就好好享受性別正確帶來的紅利 別往自己臉上貼金了",
+      "timestamp": "Jul 15, 2025 · 1:03 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1945106873545273351#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1945083787731161257#m",
+      "content": "加密马桶你在狗叫什么？天天叫的声音那么大，一看仓位2wu，怎么开的还没我大呢？",
+      "timestamp": "Jul 15, 2025 · 11:31 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1945083787731161257#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1945068806168060263#m",
+      "content": "啊啊啊啊啊啊宝宝你是一个每0.75秒就能出一个新区块，21个验证节点天天围着你转，gas费比ETH便宜99%让大家都喜欢你，TPS比ETH快10倍跑得贼快，跟ETH完全兼容的小机灵鬼，虽然有时候会被闪电贷攻击欺负也会被合约漏洞伤害，偶尔还会被国企领导链上的老鼠仓气到跺脚，但你永远是我心中最靓的BSC小宝贝。",
+      "timestamp": "Jul 15, 2025 · 10:31 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1945068806168060263#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1944794038852632840#m",
+      "content": "我看你是皮又痒痒了吧？怎么一干坏事就锁推呢？有本事你锁一辈子 @EnHeng456",
+      "timestamp": "Jul 14, 2025 · 4:20 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1944794038852632840#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1944421216032551110#m",
+      "content": "你们交易所的逆子 @EnHeng456 要给你们交易所转黑钱 @binance\n你的孽畜前逆子 @EnHeng456 要给你曾运营的交易所转黑钱 @cz_binance \n\n不幸的是，我的所有资产已从币安提走，嘿嘿。\n\n但事实上，我认为嗯哼拿不出标记地址来给别人的交易所充值地址投毒，也许最多拿龙卷风转一下。",
+      "timestamp": "Jul 13, 2025 · 3:38 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1944421216032551110#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1944279225084813620#m",
+      "content": "嗯嗯嗯",
+      "timestamp": "Jul 13, 2025 · 6:14 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1944279225084813620#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1942881502792171919#m",
+      "content": "把舔说得清新脱俗，把背后使坏说得大义凛然，把不要脸当成个性。\n自己内裤是什么颜色都让别人扒出来了，但还得强撑着笑，说自己早就走出来了，可惜你赵长鹏爹再也没理过你。",
+      "timestamp": "Jul 9, 2025 · 9:40 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1942881502792171919#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1942172756667420976#m",
+      "content": "(2/2) 对死亡笔记一些细节的补充说明\n\n嗯哼这脑残玩意哼死亡笔记的一角，来源于 sisi 发的推文: localhost:8080/sisibinance/status/191…\n非常幸运，她拍得太尼玛的清楚了，让我可以一行行地提取出图中的所有内容。\n死亡笔记的文本版已经永久存储到链上，在区块浏览器中 View Input As: UTF-8 即可查看：bscscan.com/tx/0xa6b5c33dd81…\n\n在这死亡笔记的一角中：\n- 共 43 行，未知数据 2 行，重复数据 1 行，有效数据 40 行。\n- 其中，有 5 条推文被删除，3 个账号被封禁。\n- 也就是说，仅在这死亡笔记的一角中，居然至少有 20% 的账号实打实地受到嗯哼的大手影响。\n\n关于死亡笔记，还有这样一段聊天记录，不难读出一些信息：\n- 死亡笔记的记录与执行可能由于某种未知的原因曾被挂起过，但结合和我一样被刷数据的人来看，现在很可能已被重启。\n- 死亡笔记并不是由嗯哼一个人记录的，有多个人共同参与，至少图中嗯哼养的狗 牛逼 NewBee 是参与人之一。\n- 被记入死亡笔记的标准是 恶心人。\n\n还有嗯哼养的狗 牛逼 NewBee 的一些信息：\n- 他的推特: @daisukikksk_ \n- 他的 SVM 地址: solscan.io/account/H7zRrGXNX…\n- 他的 EVM 地址: bscscan.com/address/0x762dff…\n- 嗯哼给他转 0.15 BNB 狗粮的交易: bscscan.com/tx/0x807aa0357bc…\n\n还有那天晚上，我早就知道自己的账号在被他们小群霍霍：\n\n忠告：\n- 你爹我劝你，少使点这种见不得人的蔫坏。\n- 实际上，大部分人看一眼就知道你这个自以为很聪明的傻逼在又在憋着什么坏。\n- 其他人不去戳破你，是因为他们还要靠推特号赚钱，他们不愿意干这种得罪人容易把自己的号搭进去的事，但不代表他们不知道你在私底下搞的那些小动作。\n- 难道你真的就没有想过，会有一些没指着推特号赚钱的人来骂你吗？所以说你真就他妈是个自以为很聪明的傻逼。\n- 你爹我怕你养的狗 牛逼 NewBee (@daisukikksk_) 饿肚子，给它转了 0.16 BNB 狗粮，比你给的多了 0.01 BNB，让它不至于吃不饱: bscscan.com/tx/0x6303e276806…\n\n完",
+      "timestamp": "Jul 7, 2025 · 10:44 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1942172756667420976#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1942172600417005623#m",
+      "content": "你这个死了妈的贱狗 @EnHeng456 是不是觉得这个事过不去了？我真草死你血妈的，已经一个星期了，还他妈给你爹刷阴兵，你妈了个逼的心眼比马眼还小啊？是觉得你爹好欺负啊？ \n那很好了，今天我就来揭秘嗯哼小群的日常，并补充说明一些死亡笔记的细节，完整推文分为 2 条。\n\n(1/2) 嗯哼小群的日常\n\n是不是以为你爹不知道你怎么给引流阴兵讲话术的？\n- 你看看你写的话术，你自己不会觉得恶心吗？\n- 你是个人吗？你这条贱狗付一份的钱让人家开 10 个推特给你回复。\n\n你开新抖音号的事，让大家不要传出去，实际上你爹几分钟后就知道了。\n- “兄弟们支持一下，新抖音，不要传出去”，结果你爹我五分钟后就看到了这些消息。\n- 最后想破头都不知道是谁发出来的，只能归因为是别人刷到的，把自己都骗了。\n\n是不是以为你爹不知道你发狗粮给你那B劳力士引流？\n- 你舔着个 B 脸超绝不经意炫耀劳力士的嘴脸是真把你爹给恶心到了。\n- 你买了劳力士，让群友给你引流，结果只给你群友发人均十几二十块钱的红包，跟你这种人混真是他妈的倒了八辈子血霉。\n\n续见 (2/2)",
+      "timestamp": "Jul 7, 2025 · 10:43 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1942172600417005623#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1939631768124162520#m",
+      "content": "你这条死了妈的白条猪没完没了了是吧？@EnHeng456\n又召集阴兵在你爹的推特下面评论，还给你爹刷转发点赞想点你爹的号？\n\n你自己看看你这条没骟干净的白条公猪骚气的吧，你爹我隔着屏幕都能闻见你那一身猪肉的骚味\n再看看你那一脸的横肉，你那麻子贴在横肉上，跟芝麻烧饼一样，还好意思笑得这么淫荡？在 KTV 上班的小妹跟你舌吻完都得辞职",
+      "timestamp": "Jun 30, 2025 · 10:27 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1939631768124162520#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1939591954637164654#m",
+      "content": "GethO_BSC 是自动过滤家人 Peer 的 Geth BSC 客户端, 现已开源\n\n动机: 低质量的家人 Peer 过多\n- 家人 Peer 们无休止地发送 GetPooledTransactionsPacket, 回复这些请求需要消耗大量网络资源\n- 家人 Peer 们只收不发交易和区块, 造成节点服务降级甚至无法同步\n\n原理: 过滤 Caps\n- 当 --tries-verify-mode=local 时, Caps 为 [bsc/1 bsc/2 eth/68 snap/1]\n- 当 --tries-verify-mode=none 时, Caps 为 [bsc/1 bsc/2 eth/68]\n- 它们都开启 bsc/2 协议, 所以目前只需要过滤掉未开启 bsc/2 的 Peer\n\n进阶\n- 当前绝大部分家人 Peer 并不会握手 bsc/2, 因此仅按照 Caps 过滤 Peer 是足够有效的\n- 如果你想进一步过滤, 可以考虑在 Peer 握手成功后的一段时间内检查它宣告的新块数量\n\n项目链接: github.com/CryptoNyaRu/GethO…",
+      "timestamp": "Jun 30, 2025 · 7:48 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1939591954637164654#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1939383255792497025#m",
+      "content": "嗯哼的阴兵大军大举进犯了：\nP1 是要给我刷数据然后举报我吗？\nP2 给别人刷的也是这套词，骂他就是嫉妒。\n\n嗯哼这个人和他的事，以及舔他的神人们，从头到尾都抽象得让人完全不能理解：\n- 嗯哼到底有什么是值得别人嫉妒的？他的成就在哪里？\n- 嗯哼到底是什么定位？如果是 BD，他光嘴上说了，没有对任何项目做出过实质性贡献；如果是 MKT，他打的广告还有直接跑路的；如果是 DEV，他也没有发过技术方面的内容。\n- 想要舔人上位的同学为什么要舔他？为什么不越过他直接去舔赵长鹏？他就是这么干的，怎么连这点野心都没有？\n\n“我不是来证明自己的，我是来统治这个时代的。”\n“一路走来，全是地狱开局，全靠老子自己杀出个天堂。”\n“把失败揉碎，然后去攀登王座的人。”\n“记住——每一次嘲讽、质疑、冷眼，都是上天给我的特训。”\n——引自嗯哼频道(t.me/EnhengAlpha/304)\n- 为什么一个靠舔别人生存的太监，能说出来他要统治这个时代？\n- 为什么这个太监能社达到这种地步？不让别人骑在自己脑袋上，就非得让自己骑在别人脑袋上不可？\n- 为什么这个开创了币圈“舔”赛道的大功臣听不得一丁点不爱听的？难道没做好觉悟？\n\n“看到了传说中的嗯哼‘死亡笔记’🤣\n记录的超详细😅”\n——引自推文(localhost:8080/sisibinance/status/191…)\n- 这是我见过最抽象的笑面虎，因为他真的把每个骂他的人记下来，甚至一本正经地给其他人炫耀他的“死亡笔记”。\n\n仔细想想，这位的性格根本就是极度扭曲的：\n- 性压抑，但色胆包天。\n- 对上位者卑躬屈膝，对下位者猛踩。\n- 害怕被别人骑在脑袋上，又想骑在别人脑袋上。\n- 表面和和气气，也许转头就把对方写进“死亡笔记”里。",
+      "timestamp": "Jun 29, 2025 · 5:59 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1939383255792497025#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1938614751309005129#m",
+      "content": "你看你这傻逼贱的吧，你爹我从来就没刷过alpha，就你这个脑残当个宝天天刷刷刷把本金刷没了，维权还他妈能哭错坟",
+      "timestamp": "Jun 27, 2025 · 3:05 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1938614751309005129#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1937079848503238953#m",
+      "content": "UpTop 结束\n2921个号，含 gas 的成本 6wu，卖出 12wu，利润 6wu\n\n其中 2000 个号在开盘时分为两笔交易，第一名同区块卖出\n其余 921 个号归集后卖出\n\n结果你妈了个逼的 0 区块根本就没人，我还怕别人要砸，直接抢着卖，少赚几十个点，草死尼玛",
+      "timestamp": "Jun 23, 2025 · 9:26 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1937079848503238953#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1936766268058857875#m",
+      "content": "转了1U给你，省着花，最好挂个号看看脑子",
+      "timestamp": "Jun 22, 2025 · 12:40 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1936766268058857875#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1935988594185060711#m",
+      "content": "打进去2921个号，下班",
+      "timestamp": "Jun 20, 2025 · 9:10 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1935988594185060711#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1935281155030532340#m",
+      "content": "看你这条贱狗贱的，左右脑又打架了？你怎么不说黑客晚上睡觉梦见的私钥？",
+      "timestamp": "Jun 18, 2025 · 10:19 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1935281155030532340#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1934857619564601685#m",
+      "content": "据说有个链原生没有txpool，但硬是有些第三方服务提供了伪txpool和交易流订阅服务，这个链上的swap交易必须也使用这些服务才不会被夹\n\n同时听说这个链上的一个交易平台正接受调查，推特被封，创始人被指控有罪\n\n而且好像这个链上的token规范混乱无比，sdk也几乎无人维护\n\n再就是这个链的tps也在宣传上造假了，实际上很低\n\n到底是哪个链，完全猜不出来",
+      "timestamp": "Jun 17, 2025 · 6:16 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1934857619564601685#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1934822992162455830#m",
+      "content": "臭婊子你的infini卡怎么停止服务了🤭",
+      "timestamp": "Jun 17, 2025 · 3:58 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1934822992162455830#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1934232156295065666#m",
+      "content": "有条贱狗，你看你贱的",
+      "timestamp": "Jun 15, 2025 · 12:50 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1934232156295065666#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1933814036229165398#m",
+      "content": "mod小畜生 @0xRegan0x \n\n- 昨天你们 bot 不承认你跟他们有关系，为什么今天就承认你是mod了？\n- 你说你在高速，别人就得信你就在高速？高速收费站的收据也上链了？\n- 你说 “在发生这个事情后，我第一时间去找与“可疑用户”的对话，意料之中已被他双向删除”，那你跟他对话的截图是怎么截出来的？\n- 就算你是先截图再被删 chat 的，那为什么图片没出现 3EVM2cZhGZRbfW1b1wS5WPYQvHqGjZWd3vtg4y5MxxLU 这个地址呢？你的图能证明是要求你转 gas 到这个地址的吗？\n\n其实这都不重要了，因为你说你不回应了，其实我都懒得打这么多。\n但是有一点是肯定的：你一定会来找我，求着把钱还我",
+      "timestamp": "Jun 14, 2025 · 9:09 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1933814036229165398#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1933501487902306590#m",
+      "content": "小畜生 @0xRegan0x\n你的意思是你的钱包被黑客做局了，然后解锁你的手机进桌面，然后点进solana钱包，复制黑客的地址，粘贴，点击发送，才转出去的这个gas给这个骗子钱包？\nsolscan.io/tx/Q74Gqs9BJBMMNZ…",
+      "timestamp": "Jun 13, 2025 · 12:27 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1933501487902306590#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1932796593939599696#m",
+      "content": "晚上好小母狗韩玉峰 @aa_AFeng\n你爹我想来问问你明牌地址的小号为什么收到了 ULUCKY 分的钱\n说不明白你爹我就直接把插在热宝屁眼里的肛塞拔出来趁热乎塞你这条小母猪的嘴巴里让你品尝热宝最隐秘的味道🏉\n然后把孙嘉桐胸前的两个大硅胶球塞你嘴里给你锻炼口腔肌肉👄\n最后再奖励你跟谢玉胜在腾讯会议直播拉丝舌吻👅\n\nbscscan.com/address/0x582e70…\nbscscan.com/tx/0x6f263633749…\nbscscan.com/tx/0xcc6d0d6fc11…",
+      "timestamp": "Jun 11, 2025 · 1:46 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1932796593939599696#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1930966001752936637#m",
+      "content": "我操你妈了个瞎眼母狗唉！瞎眼母狗唉！母狗唉！唉！",
+      "timestamp": "Jun 6, 2025 · 12:32 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1930966001752936637#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1922261021961683439#m",
+      "content": "AddressInf0DB 是 EVM 地址信息的数据库与维护工具, 现已开源\n\n动机\n- 死了妈的 Etherscan 系浏览器(etherscan.io/) 的 Nametags API(docs.etherscan.io/etherscan-…) 居然他妈了个逼的好意思要钱, 而且只有最贵的那一档订阅才能调用, 早该埋土里的后端渲染上世纪垃圾也配张嘴要钱? 这傻逼玩意还套 cf 五秒盾, 爬都爬不了, 所以我个人认为五秒盾不应该套在网页上, 应该穿越回 50 年前套 Matthew Tan 他爹的 JB 上, 这样的话这个王八草的傻逼就不会出生了\n- 为满足一毛钱也不用掏的本地查询需求, AddressInf0DB 支持对 Flipside(docs.flipsidecrypto.xyz/data…) 地址数据库的不完整爬取与增量更新(排除了可以在链上拿到信息的合约, 大幅缩小数据库体积)\n\n数据库信息\n维护时间: 2025-05-13\n文件大小: 2.73 MB (2,867,200 字节)\nMainnet: 22198\nBSC: 3144\nMainnet: 22198\nBase: 195\n\n鸣谢\n- AddressInf0DB 的数据来源于 Flipside(flipsidecrypto.xyz/)\n- Flipside 允许免费计划用户访问数据库与 API, 正因如此 AddressInf0DB 才能诞生, 感谢 Flipside 的卓越贡献\n\n项目链接: github.com/CryptoNyaRu/Addre…\n雷氏频道: t.me/HKongcryptolei",
+      "timestamp": "May 13, 2025 · 12:01 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1922261021961683439#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1922191802234503267#m",
+      "content": "一群茂腾腾的后生！\n他们的身后是一家交易所。他们被PUA得就像女神的小狗！\n\n一刷起来就发狠了，忘情了， 没命了！百十个拿着一麻袋手机的后生，如百十块被强震不断击起的石头，狂舞在你的面前。\n这交易，使个位数的的Gas立即变得燥热了，使安静的Uniswap立即变得飞溅了，使困倦的MEV立即变得亢奋了。\n好一个币安 Alpha！\n每一次点击都充满了力量。每一笔交易都呼呼作响。每一次刷新都是光与影的匆匆变幻。每一次磨损都使人战栗在浓烈的艺术享受中，使人叹为观止。\n使人想起：落日照大旗，马鸣风萧萧！使人想起：千里的雷声万里的闪！\n\n当他们被反撸的时候，世界出奇的寂静，以致使人感到对他们十分陌生了。\n简直像来到另一个星球。耳畔是一声渺远的鸡啼。",
+      "timestamp": "May 13, 2025 · 7:26 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1922191802234503267#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1921522049836589131#m",
+      "content": "网传的 \"在 @gmgnai 开了 MEV 防护还是被夹了\" 到底发生了什么?\n\n结论: \n典中典中典问题, Uniswap V3 原版路由就有的坑到今天还踩, 路由在 Input Token 未耗尽时缺少/漏使用退款机制\n\nWeb3 技术岗招聘现状: \n愿意接受你开出的工资的, 技术配不上你开的工资\n你想要的 \"合格\" 技术人才会觉得你开的那仨瓜俩枣跟傻逼一样\n\n受害交易是一笔两跳的 Swap: WBNB -> USDT -> DOOD\n第一跳(WBNB -> USDT) 正常完成\n\n第二跳(USDT -> DOOD) 路由器在 Swap 时:\nsqrtPriceLimitX96 被设置为不限制 price 的变化量, 在 Swap 中耗尽了起始 tick 上方流动性的情况下, 仅有 617 USDT 被用于 Swap, 换回了 62331 枚 DOOD, 1276 USDT 被留在了路由器中\n\nsqrtPriceX96: 81198181275878258653442974744 -> 4295128740\ntick: 46545 -> 15889944\n\n获利交易利用路由器 swapMixedMultiHopExactIn 方法会使用路由器本身所持有代币的特性, 将 1276 USDT 换成了 1275 USDC\n\n受害交易: app.blocksec.com/explorer/tx…\n获利交易: app.blocksec.com/explorer/tx…",
+      "timestamp": "May 11, 2025 · 11:05 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1921522049836589131#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1920452507089973405#m",
+      "content": "Kecc4k256DB 是 EVM 方法与事件签名的完整数据库与维护工具, 现已开源\n\n动机\n- 4byte(4byte.directory/) 提供 EVM 签名查询服务, 但不开放完整数据库下载\n- 为满足本地高频查询需求, Kecc4k256DB 支持对 4byte API(4byte.directory/docs/) 数据的完整爬取与增量更新\n\n数据库信息\n- 维护时间: 2025-05-08\n- 方法签名: 1121550\n- 事件签名: 263597\n- 文件大小: 84.2 MB (88,338,432 字节)\n\n鸣谢\n- Kecc4k256DB 的数据来源于 4byte API(4byte.directory/docs/)\n- 4byte 允许用户在遵守公平使用原则的情况下自由地使用其数据, Kecc4k256DB 遵守了这一规则, 未使用高并发更新数据库\n\n项目链接: github.com/CryptoNyaRu/Kecc4…\n雷氏频道: t.me/HKongcryptolei/295",
+      "timestamp": "May 8, 2025 · 12:15 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1920452507089973405#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1919289189218079078#m",
+      "content": "AUG",
+      "timestamp": "May 5, 2025 · 7:12 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1919289189218079078#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1913901117584576891#m",
+      "content": "《安娜：星际迷航》震撼上映",
+      "timestamp": "Apr 20, 2025 · 10:22 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1913901117584576891#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1902261674700370299#m",
+      "content": "这个人吃人家的酒席不随份子就算了，还顺人家的烟回来😭😭\n我问一句就骂我！他们微信小群还说我要开盘子！还要用脚本封我的号！😭😭\n呜呜呜呜，我好怕怕😭😭😭😭😭😭😭😭😭😭😭😭",
+      "timestamp": "Mar 19, 2025 · 7:31 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1902261674700370299#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1899746598642471066#m",
+      "content": "打工的兄弟们！把撸毛工作室老板的米，都给我偷了！！！！操你妈，造反！！！！操你妈，造反！！！！操你妈，造反！！！！操你妈，造反！！！！操你妈，造反！！！！操你妈，造反！！！！",
+      "timestamp": "Mar 12, 2025 · 8:57 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1899746598642471066#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1891826416825803085#m",
+      "content": "我在尖沙咀很想你\n爱情是什么滋味",
+      "timestamp": "Feb 18, 2025 · 12:25 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1891826416825803085#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1875123178386989452#m",
+      "content": "库伯勒-罗丝模型（英语：Kübler-Ross model）描述人对待BIO公募价格的五个独立阶段。踏空BIO的人被认为会经历这些阶段。这一模型是伊丽莎白·库伯勒-罗丝提出的。\n\n五个阶段包括：\n“否认”：“不会吧，不可能啊！”\n“愤怒”：“我操你妈”。\n“愤怒”：“我操你妈”。\n“愤怒”：“我操你妈”。\n“愤怒”：“我操你妈”。",
+      "timestamp": "Jan 3, 2025 · 10:12 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1875123178386989452#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1839645227810001320#m",
+      "content": "交钱挨骂",
+      "timestamp": "Sep 27, 2024 · 12:36 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1839645227810001320#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1836631595933143487#m",
+      "content": "大哥 你地址暴露啦 你只吃了0.46E 另外那20E是你从bitget提过来的 LMAO",
+      "timestamp": "Sep 19, 2024 · 5:01 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1836631595933143487#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1836378332042293450#m",
+      "content": "你埋伏🐶，我就埋伏你妈个逼\n你埋伏🐱，我就埋伏你妈个逼\n你埋伏🐹，我就埋伏你妈个逼\n你埋伏🐰，我就埋伏你妈个逼\n你埋伏🦊，我就埋伏你妈个逼\n你埋伏🐻，我就埋伏你妈个逼\n你埋伏🐼，我就埋伏你妈个逼\n你埋伏🐨，我就埋伏你妈个逼\n你埋伏🐯，我就埋伏你妈个逼\n你埋伏🦁，我就埋伏你妈个逼",
+      "timestamp": "Sep 18, 2024 · 12:14 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1836378332042293450#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1833831495250919558#m",
+      "content": "快绝经的三十多岁老母猪我操死你的妈 @feng_anna95516",
+      "timestamp": "Sep 11, 2024 · 11:34 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1833831495250919558#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1823578453981192594#m",
+      "content": "别走好吗？",
+      "timestamp": "Aug 14, 2024 · 4:32 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1823578453981192594#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1803104733177209339#m",
+      "content": "思来想去还是把金猪存钱罐拒了\n因为自己才18，还能到处开盘撤池，也还想做一些能让自己认识更多镰刀项目方的事情。最后猪哥跟我说了一句：“哪里来的眼红酸狗穷蛆？”，我也会一直铭记在心。\n江湖何处不青山，总有一天，我们会在正确的KOL群相逢~",
+      "timestamp": "Jun 18, 2024 · 4:37 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1803104733177209339#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1776892786605986181#m",
+      "content": "包你妈了个臭逼，你又懂了是吧，怎么没人抢我的？",
+      "timestamp": "Apr 7, 2024 · 8:40 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1776892786605986181#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1775815122277077456#m",
+      "content": "果然一点开主页就是rats，rats就是区块链原神，到现在还舔着rats的就是区块链原批",
+      "timestamp": "Apr 4, 2024 · 9:18 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1775815122277077456#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1772112054608171216#m",
+      "content": "我是大帅哥",
+      "timestamp": "Mar 25, 2024 · 4:03 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1772112054608171216#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1769938165681569963#m",
+      "content": "投20000B，看出殡的不怕殡大",
+      "timestamp": "Mar 19, 2024 · 4:05 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1769938165681569963#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1768628992628740289#m",
+      "content": "谁打谁是傻逼",
+      "timestamp": "Mar 15, 2024 · 1:23 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1768628992628740289#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1766440067181035541#m",
+      "content": "大家好啊，我是菠萝莎白",
+      "timestamp": "Mar 9, 2024 · 12:25 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1766440067181035541#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1756508844879143180#m",
+      "content": "🤣按照你的逻辑，你已经足够厉害了，为什么还需要开群跟别人讨论？你自己一个人不就看明白了？大过年一打开推特就看见傻卵kol在这提纯，评论区的孝子抢着当看门狗",
+      "timestamp": "Feb 11, 2024 · 2:41 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1756508844879143180#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1756352091898118209#m",
+      "content": "good project",
+      "timestamp": "Feb 10, 2024 · 4:19 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1756352091898118209#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1753024081921036491#m",
+      "content": "🎙 Hosted by inscriptions Exchange based on multi-chain smart indexers @evms2024 X Spaces: \n\nInscription Investment Strategy and Future Opportunites Upon the Launch of Binance Wallet\n\n📅 20:00 2nd, Feb（UTC+8）\n🎁 10 #whitelist of governance token @HelloDex_io \n📜 Rules: Like+Retweet+ @ 3 friends + erc20 adress\n\n🕗Book X Space: localhost:8080/i/spaces/1vAGRvR…\n\n🎙Host:  Adel EVMS core builder\n@evms2024\n\n👥 Guests:  \nBerri - sync Chinese Community\n@cantaffordajpeg \n\nJamil - Filscriptions\n@filscriptions \n\nMaboy - Elephant Inscription\n@elephant_ins_ \n\nLambert - BTCTool Community\n@btctoolpro \n\n次元喵 - BNB48 Protocal Community\n@48Club_Official \n\nzksMarket\n@zksmarket \n\nHelloDex\n@HelloDex_io \n\nMantscription\n@mantscription \n\n#Inscriptions #Giveaway #AMA #Twitterspace #AINN #BRC20",
+      "timestamp": "Feb 1, 2024 · 11:54 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1753024081921036491#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1735922100626661419#m",
+      "content": "滚",
+      "timestamp": "Dec 16, 2023 · 7:17 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1735922100626661419#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1735921902974296350#m",
+      "content": "滚",
+      "timestamp": "Dec 16, 2023 · 7:16 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1735921902974296350#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1735691123950248045#m",
+      "content": "我去会所跟你妈妈睡一晚上都要不了500IOST，你这婊子冥文的批镶钻了？",
+      "timestamp": "Dec 15, 2023 · 3:59 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1735691123950248045#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1735348034601664778#m",
+      "content": "这是装着你妈焚尸炉的进度条，等进度条走完你妈的白色骨头渣就出锅可以端上桌了，我操你妈",
+      "timestamp": "Dec 14, 2023 · 5:16 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1735348034601664778#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1735344256389398848#m",
+      "content": "我操你妈",
+      "timestamp": "Dec 14, 2023 · 5:01 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1735344256389398848#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1734994364617871544#m",
+      "content": "性能垃圾容量小就直接承认，还你妈了个逼的设置了防机器人？你怎么不说你爹当时操你妈的时候避孕套漏了是防止不孕不育啊？弱智",
+      "timestamp": "Dec 13, 2023 · 5:51 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1734994364617871544#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1734994048237326617#m",
+      "content": "还他妈10%？我看你脑子的智商是正常人的10%，你个傻逼",
+      "timestamp": "Dec 13, 2023 · 5:49 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1734994048237326617#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1734574201984446909#m",
+      "content": "笑死了 抢3000U红包都有老鼠仓 更别说币了",
+      "timestamp": "Dec 12, 2023 · 2:01 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1734574201984446909#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1733990347662115242#m",
+      "content": "还你从来不认为，你是个JB你从来不认为？别在这丢人了，赶紧滚玩你的老鼠仓项目去吧",
+      "timestamp": "Dec 10, 2023 · 11:21 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1733990347662115242#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1733989999526416720#m",
+      "content": "因为你这个傻逼根本就没站在散户的角度想，当个kol写点作文还真以为自己韭菜根硬了开始在这指点了？\n装老外创业被人家挖出来这种事你有意见就算了，什么傻逼会脑残到支持预留15%，你是他爹啊？",
+      "timestamp": "Dec 10, 2023 · 11:20 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1733989999526416720#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1733558091005006335#m",
+      "content": "你就是一条给孙宇晨口爆的母狗，个web3婊子还来装无辜，真给你闹麻了啊？",
+      "timestamp": "Dec 9, 2023 · 6:43 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1733558091005006335#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1730863073924469206#m",
+      "content": "我操烂你婊子妈的血逼，打完了删推？",
+      "timestamp": "Dec 2, 2023 · 8:14 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1730863073924469206#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1727706044321890443#m",
+      "content": "你很快就会死亡\n\n你立刻猝死的概率不为零。此外，你所在的地方也有可能发生地震，你会被天花板压扁。假如你侥幸活到了明天，你死亡的概率仍然不为零，你可能会被邻居捅死，出没被车撞…陷入死亡螺旋。\n\n以上是在网上传的几句话，不代表我的观点，我只是翻译了一下。各位自己鉴别。",
+      "timestamp": "Nov 23, 2023 · 3:09 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1727706044321890443#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1727265278759936093#m",
+      "content": "这个项目极其垃圾，项目方拉黑了散户的筹码留着自己的巨鲸持仓，千万不要买。",
+      "timestamp": "Nov 22, 2023 · 9:58 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1727265278759936093#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1727253868176961796#m",
+      "content": "我mint了 币安铭文 BNCS #bncs #bnbscriptions\n\n手动打了30多张，希望起飞",
+      "timestamp": "Nov 22, 2023 · 9:13 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1727253868176961796#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1707320043099574731#m",
+      "content": "精神病发了？",
+      "timestamp": "Sep 28, 2023 · 9:03 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1707320043099574731#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1697975684357079440#m",
+      "content": "#TON #新链信息更新 $TON\n随着TON Space的测试版开启申请，公测和正式上线即将到来了，对于这个拥有10亿＋用户的软件，简单挖了一下TON链，东西挺多，貌似还真有的玩！\n\n1.ton链钱包（关注度最大的还是他的域名系统）\n@wallet_tg \n\n2.SWAP\n@dedust_io \n@ston_fi\n@Megaton_Fi\n@pixelswap_ton \n\n3.衍生品\n@tapfantasy2021  gamefi\n@evaaprotocol  借贷\n@HeroBlaze3kd  gamefi\n@boltlabston meme\n@insider_ton 链上基础工具包\n@hipofinance 流动性质押\n@tonstakers 流动性质押\n@storm_trade_ton 杠杆交易\n@TonDiamonds nft市场\n@TonPunks nft\n@disintar_io nft市场 \n@TonUP_io 启动板\n\n4.生态信息媒体\n@TonDailyNews\n@open_builders\n@tonradarapp\n@ton_ecosystem\n@the_daily_ton \n\n5.热衷于投资ton链的机构\n@exstcap \n@boltlabston \n@EncodingLabs\n@blockczechlab\n@FirstStageLabs \n\n6.与电报及其ton生态具有强绑定关系的个人账号\n@rogozov\n@takoy_sasha \n@0xconst\n@durov\n@mirakhmed\n@steveyun_ton \n@0xHoward_Peng\n@sophireum\n@BMRSMRKR\n@jeribond\n@Crn_Web3\n@Toya_bit \n@drawesomedoge\n@AnthonyTsivarev \n@k0xinga\n@0xRunchen \n\n如果你觉得对你有帮助的话，请点赞转发，谢谢🥰🥰",
+      "timestamp": "Sep 2, 2023 · 2:12 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1697975684357079440#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1702210046237835614#m",
+      "content": "傻逼残念我操你妈，你妈大逼人人插",
+      "timestamp": "Sep 14, 2023 · 6:37 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1702210046237835614#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1700053251444387921#m",
+      "content": "1/注意你的KOL身份，你的课程设计表明了你支持区块链黑客行为，你很危险\n2/vcup发行自你的圣杯社区，你大可承认自己开盘",
+      "timestamp": "Sep 8, 2023 · 7:47 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1700053251444387921#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1686034360036921344#m",
+      "content": "BALD 项目方信息\n小池子  qiuqiu \n姓名  姚胜宇\n身份证320922198202289059  \n电话18914632381\nQq 97414507",
+      "timestamp": "Jul 31, 2023 · 3:21 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1686034360036921344#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1683373595429568512#m",
+      "content": "猪哥 你怎么了",
+      "timestamp": "Jul 24, 2023 · 7:08 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1683373595429568512#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1680964528732004352#m",
+      "content": "这个人所属社区：小池子社区\n社区长： qiuqiu\n姓名：姚胜宇\n身份证：320922198202289059\n电话：18914632381\nqq：97414507",
+      "timestamp": "Jul 17, 2023 · 3:35 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1680964528732004352#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1642621530348867584#m",
+      "content": "如果你有任何异议，欢迎联系小池子社区长姚胜宇先生。\nIf there is any objection, please contact @qiuqiu88571154.",
+      "timestamp": "Apr 2, 2023 · 8:14 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1642621530348867584#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1642621495414489088#m",
+      "content": "所有行为均在小池子社区长姚胜宇先生的胁迫下完成。姚胜宇先生包揽了黑白通吃的 BSC 链业务：貔貅盘、软跑路以及黑客组织。\nAll exploit behavior was forced by @qiuqiu88571154 named Shengyu Yao, who controls all business of BNB Smart Chain like honeypot, soft rug and hacker organization.",
+      "timestamp": "Apr 2, 2023 · 8:14 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1642621495414489088#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1642621411792658458#m",
+      "content": "黑客所属组织为小池子社区的下属组织。\nThe exploiter belongs to @xiaochizi12345678.",
+      "timestamp": "Apr 2, 2023 · 8:13 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1642621411792658458#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1642613463188119552#m",
+      "content": "所有的资金最终将归集到小池子社区公户钱包。\n\nAll the funds will be transferred to 0xFA76B6393680A0224C3d8aD02a376Bb11080545b.",
+      "timestamp": "Apr 2, 2023 · 7:42 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1642613463188119552#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1642613347584741377#m",
+      "content": "免责声明\nDisclaimer\n\n本社区成员发起的的所有攻击均在 @qiuqiu88571154 胁迫下完成。\nAll exploit behavior of the members in our group was forced by @qiuqiu88571154.\n本社区为小池子社区的附属社区。\nWe're a sub group of @xiaochizi12345678.",
+      "timestamp": "Apr 2, 2023 · 7:41 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1642613347584741377#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1641101392546004993#m",
+      "content": "中国大陆地区Web3er合规出金指南V1\n久等了\n（有转载需求请推特或微信私信）",
+      "timestamp": "Mar 29, 2023 · 3:33 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1641101392546004993#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1639075283289653248#m",
+      "content": "如果你支持本协会打击犯罪，就@你认为的币圈诈骗犯+他犯下的罪行，不方便的可以私信大佐。\n\n我们不玩抽奖，转发就送U。\n转发并关注@freelanddao 可以领取5-10U，规则跟之前一样。\n就这么简单粗暴。",
+      "timestamp": "Mar 24, 2023 · 1:22 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1639075283289653248#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1587791438305062914#m",
+      "content": "🎊We have reached 20k on Discord!!\n\n🍿To celebrate, the Twitter Lucky GA opens as you wish! \n\nFollow @HoshiBoshiNFT\n\nRT and tag at least one friend\n \nPick 3 #STARLIST in 24 hours! \n\nFor the steady development of the community, the HOSHIBOSHI discord entry is currently closed.",
+      "timestamp": "Nov 2, 2022 · 12:59 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1587791438305062914#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1584886298208194560#m",
+      "content": "🎊We have reached 40k on Twitter!!\n\n🍿To celebrate, the Twitter Lucky GA opens again! \n\nFollow @HoshiBoshiNFT\n\nRT and tag at least one friend\n\nJoin the discord\n \nWe will pick three #STARLIST in 24 hours! #HOSHIBOSH \n\nAnd new short hair girl, hope you like it😀",
+      "timestamp": "Oct 25, 2022 · 12:35 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1584886298208194560#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1580518385120555010#m",
+      "content": "Guys! This is DUDU!🐻\n\n50k members joined us!🥳\n\nWith each additional member joining us, we are one step closer to success in fighting the centralized forces of Bear Islands!🏰\n\n🎁15WLs for DUers!🎁\n➕Follow@dudulabNFT\n➕Like, RT & Tag 3 friends\n➕Join DC: discord.gg/dudulab",
+      "timestamp": "Oct 13, 2022 · 11:18 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1580518385120555010#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1574714231664291840#m",
+      "content": "$cryy and $SOL #giveaway #solana\n\nDrop your address 👇👇\n\nOnly for 1000 🍀🍀",
+      "timestamp": "Sep 27, 2022 · 10:55 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1574714231664291840#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1571319353395773441#m",
+      "content": "SGG🤝OpenDao🤝Lunar🌙\n\nWe are pleased to announce our long-term partnership with @The_OpenDAO & @lunarprojectnft ! To celebrate, we are giving away:\n\n🎁2 X SGG& Lunar WL spots\n\n1️⃣RT🔄Like❤️\n2️⃣Follow @SOSGameGuild @The_OpenDao @lunarprojectnft \n3️⃣Tag 3 friends\n\n⏱️48hrs",
+      "timestamp": "Sep 18, 2022 · 2:05 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1571319353395773441#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1570780270521098241#m",
+      "content": "P12 Arcana @ TI11, I have hopped onboard!\n@_p12_ × Dota 2 Ti11\nIt's looking spicy~\n\nWin your Ti Final Tickets now!\nairdrop.p12.games/arcana",
+      "timestamp": "Sep 16, 2022 · 2:22 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1570780270521098241#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1570264502100426755#m",
+      "content": "P12 Arcana @ TI11 stage 1 is officially out now! 🚀\n@Dota2\n \nJoining forces with @BNBCHAIN & partners, #P12 launch this so you can join the raffle and win #TI11 finals' tickets worth thousands of dollars.💸\n\nWatch your team’s Epic TI11 battle in site. It could be you! #Dota2",
+      "timestamp": "Sep 15, 2022 · 4:13 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1570264502100426755#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1486315601018642439#m",
+      "content": "🔍Orbler #Airdrop (3rd Round)\n\n💲Reward: Up to 8 BUSD + 2,000 BUSD referral pool\n\n🔴 Start the airdrop bot t.me/OrblerNewroundAirdropBo…\n\n🔘 Do the tasks on the bot & submit your data\n\n🔘 Details: piped.kavin.rocks/StkOqt5Qa5M\n\n#Airdrops #Orbler #Bitcoin #AirdropDet #Crypto #BUSD #BSC",
+      "timestamp": "Jan 26, 2022 · 12:30 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1486315601018642439#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1485796969222373376#m",
+      "content": "📣#Orbler #airdrop is live now!\n\n🎉Total for airdrop: 5,000 BUSD\n\n👉Use our airdrop bot in Telegram: t.me/Orbler_bot\n\n🗓 Airdrop End: 8th February\n🗓Airdrop Distribution: within 2 weeks after airdrop ends @airdropinspect",
+      "timestamp": "Jan 25, 2022 · 2:09 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1485796969222373376#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1485939001034870784#m",
+      "content": "💵Round2 Airdrop is live!\n\nParticipate in our Airdrop and earn to 4 ORBR (~$4) for doing tasks.\n\nJoin our airdrop bot here:\nt.me/OrblerRound2AirdropBot?…\n\nAirdrop rewards will be distributed after IDO and 2,000 lucky random participants will be rewarded.",
+      "timestamp": "Jan 25, 2022 · 11:33 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1485939001034870784#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1475004522775089161#m",
+      "content": "10k unique dungeons in Monster & Dungeon Metaverse… Join the adventure with us!\n\n200 Whitelist are now open, to join:\n- Follow our Twitter @mnd_meta\n- Retweet pinned post and tag 2 friends\n- Join Discord discord.gg/monster-dungeon\n\n#NFTCommunity #NFTs",
+      "timestamp": "Dec 26, 2021 · 7:24 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1475004522775089161#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1474982275196792832#m",
+      "content": "We're happy to announce our Happy New Year airdrop contest. 500 random winners will be granted 501 $CSHIP each to their wallet, enough to open a new ship and refuel it to start racing.\n\nJoin here: gleam.io/s7VHD/cryptoship-be…",
+      "timestamp": "Dec 26, 2021 · 5:55 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1474982275196792832#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1472608475260002306#m",
+      "content": "t.me/VLaunchCN 1000XXX",
+      "timestamp": "Dec 19, 2021 · 4:43 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1472608475260002306#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1460192952945451010#m",
+      "content": "PROJECT NAME: VLaunch 🚀",
+      "timestamp": "Nov 15, 2021 · 10:28 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1460192952945451010#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1472606147157032960#m",
+      "content": "Telegram：@VLaunchCN 中文共识群",
+      "timestamp": "Dec 19, 2021 · 4:33 PM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1472606147157032960#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1469549142661758978#m",
+      "content": "We are coming with StarSharks SSS Tokens, Sharks!\nRules:\n 1. Join StarSharks' Discord: discord.gg/TZfxJbnS3e\n2. Join StarSharks' Telegram: t.me/starsharks_SSS\n3. Like, retweet, and tag three friends\n4. Comment with your BEP20 address\n\nMore details as below in the poster.",
+      "timestamp": "Dec 11, 2021 · 6:06 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1469549142661758978#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1458315522097954818#m",
+      "content": "Did you miss #FLOKI ? Did you miss #Doge? Don't miss #FlokiDoge the next coin on the #BinanceSmartChain to break a $1BN+ market cap. Presale Sunday.. launch on Monday. Huge marketing plans with a very strong community. Stay tuned..\n\n#cryptocurrency #BSC #BSCGem #altcoins #shiba",
+      "timestamp": "Nov 10, 2021 · 6:08 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1458315522097954818#m",
+      "author": "CryptoNyaRu"
+    },
+    {
+      "id": "1450036249373261828#m",
+      "content": "🎉🎉AvaStarter opened registration for Whitelist – an opportunity only for 300 people.\n \n🔥 AvaStarter is the first Multi-Form launchpad platform.\nSupport projects & Help investors find the best projects.\n🎯 Register for a Whitelist at:gleam.io/h83mx/avastarter-wh…",
+      "timestamp": "Oct 18, 2021 · 9:49 AM UTC",
+      "url": "https://twitter.com/CryptoNyaRu/status/1450036249373261828#m",
+      "author": "CryptoNyaRu"
+    }
+  ],
+  "meta": {
+    "capturedAt": "2025-10-21T00:28:04.623Z",
+    "tweetLimit": 200,
+    "tweetsFetched": 185,
+    "pagesFetched": 12,
+    "sourceFile": "twitter-Following-1760964620895.json",
+    "durationMs": 27790,
+    "cursorTrail": [
+      "DAAHCgABG3vnQ9d__-4LAAIAAAATMTk3NjU3NzM3MzA0NzgyMDc0MAgAAwAAAAIAAA",
+      "DAAHCgABG3vnQ9d__9oLAAIAAAATMTk2NDY1NzEwODA4NTA4ODU1MQgAAwAAAAIAAA",
+      "DAAHCgABG3vnQ9d__8kLAAIAAAATMTk1ODkyMTk3Mzk2MDI1Mzc5NggAAwAAAAIAAA",
+      "DAAHCgABG3vnQ9d__7QLAAIAAAATMTk0OTgwMzM2OTcyOTc4MTc5OAgAAwAAAAIAAA",
+      "DAAHCgABG3vnQ9d__6ELAAIAAAATMTk0NTM3ODg2NTU5MDk2NDYwMAgAAwAAAAIAAA",
+      "DAAHCgABG3vnQ9d__5ALAAIAAAATMTkzNjc2NjI2ODA1ODg1Nzg3NQgAAwAAAAIAAA",
+      "DAAHCgABG3vnQ9d__30LAAIAAAATMTg5MTgyOTIyOTgxNTQ2NDQxNwgAAwAAAAIAAA",
+      "DAAHCgABG3vnQ9d__2gLAAIAAAATMTczNTkyMjEwMDYyNjY2MTQxOQgAAwAAAAIAAA",
+      "DAAHCgABG3vnQ9d__1MLAAIAAAATMTY4NjAzNDM2MDAzNjkyMTM0NAgAAwAAAAIAAA",
+      "DAAHCgABG3vnQ9d__z4LAAIAAAATMTQ3NjQwNDM2MDI4NDI5NTE3MQgAAwAAAAIAAA",
+      "DAAHCgABG3vnQ9d__zYLAAIAAAATMTQ1ODgyODc2NDczODA0ODAwNAgAAwAAAAIAAA"
+    ],
+    "attempts": 1,
+    "skipped": false
+  }
+}
