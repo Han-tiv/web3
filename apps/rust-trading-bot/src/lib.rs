@@ -23,7 +23,12 @@ pub mod price_service;
 // 多交易所执行器
 pub mod multi_exchange_executor;
 
-// DeepSeek AI 交易模块
+// DeepSeek AI 交易模块（纯技术指标版本）
 pub mod deepseek_client;
 pub mod technical_analysis;
-pub mod market_sentiment;
+// pub mod market_sentiment;        // 已移除：不使用情绪分析
+// pub mod crypto_oracle_client;    // 已移除：不使用外部情绪数据
+
+// 主力资金追踪交易模块
+pub mod key_level_finder;           // 关键位识别
+pub mod smart_money_tracker;        // 主力资金追踪

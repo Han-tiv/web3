@@ -1,13 +1,13 @@
-# 🦀 Rust Trading Bot - Binance U本位合约跟单系统
+# 🦀 Rust Trading Bot - 加密货币智能交易系统
 
 <div align="center">
 
 [![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-**高性能 Rust 实现的 Binance U本位合约自动跟单系统**
+**高性能 Rust 实现的多策略加密货币自动交易系统**
 
-[功能特性](#功能特性) • [快速开始](#快速开始) • [使用文档](#使用文档) • [风险提示](#风险提示)
+[功能特性](#功能特性) • [快速开始](#快速开始) • [文档索引](#文档索引) • [风险提示](#风险提示)
 
 </div>
 
@@ -15,18 +15,65 @@
 
 ## ✨ 功能特性
 
-### 核心功能
+### 🎯 主力资金追踪交易（最新）
+
+基于主力资金流向信号的智能交易系统：
+
+- ✅ **主力资金位识别** - 1小时K线，找最大成交量主力活跃区域
+- ✅ **动态支撑阻力** - 实时计算关键价格位，强度评分0-100
+- ✅ **智能信号生成** - 5种交易信号：突破/回踩/破位/平仓/持有
+- ✅ **优先级评估** - Critical/High/Medium/Low 四级优先级
+- ✅ **自动止损止盈** - 基于关键位动态计算，非固定百分比
+- ✅ **多重确认机制** - 价格 + 成交量 + 资金流向三重验证
+
+📖 **详细文档**: [主力资金追踪策略](SMART_MONEY_STRATEGY.md) | [快速启动](QUICKSTART_SMART_MONEY.md)
+
+---
+
+### 📡 传统跟单系统
+
 - ✅ **实时跟单** - 5秒检测带单者持仓变化，自动跟随开平仓
 - ✅ **智能比例** - 自定义跟单比例（10%-100%）
 - ✅ **风险控制** - 最大仓位限制、自动止损
 - ✅ **杠杆交易** - 支持1-125倍杠杆
 - ✅ **Telegram控制** - 通过Bot实时监控和控制
 
-### 技术亮点
+📖 **详细文档**: [跟单系统快速启动](QUICKSTART.md)
+
+---
+
+### 🤖 DeepSeek AI 交易
+
+- ✅ **纯技术指标版本** - RSI/MACD/布林带/均线分析
+- ✅ **多周期分析** - 15分钟/1小时K线
+- ✅ **AI决策引擎** - DeepSeek模型生成交易信号
+- ✅ **防频繁交易** - 智能信号过滤机制
+
+📖 **详细文档**: [DeepSeek AI 交易](docs/deepseek/README.md) | [技术指标版本](TECHNICAL_INDICATORS_ONLY.md)
+
+---
+
+### 🔧 技术亮点
 - 🚀 **Rust编写** - 内存安全、零成本抽象、极致性能
 - ⚡ **异步架构** - 基于tokio异步运行时
 - 🔒 **类型安全** - 编译期保证正确性
 - 📊 **实时统计** - 账户状态、持仓盈亏一目了然
+- 🌐 **多交易所** - Gate.io / OKX / Binance / Hyperliquid
+
+---
+
+## 📚 文档索引
+
+**📌 推荐先阅读**: [完整文档索引 (DOC_INDEX.md)](DOC_INDEX.md)
+
+### 按功能查找
+
+| 功能 | 快速启动 | 详细文档 |
+|-----|---------|----------|
+| **主力资金追踪** | [QUICKSTART_SMART_MONEY.md](QUICKSTART_SMART_MONEY.md) | [策略设计](SMART_MONEY_STRATEGY.md) |
+| **传统跟单** | [QUICKSTART.md](QUICKSTART.md) | [多交易所](docs/user-guide/README_MULTI_EXCHANGE.md) |
+| **DeepSeek AI** | [DeepSeek说明](docs/deepseek/README.md) | [技术指标](TECHNICAL_INDICATORS_ONLY.md) |
+| **系统架构** | - | [架构文档](docs/technical/SYSTEM_ARCHITECTURE.md) |
 
 ---
 

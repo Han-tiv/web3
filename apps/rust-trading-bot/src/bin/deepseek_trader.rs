@@ -5,7 +5,6 @@ use rust_trading_bot::{
     exchange_trait::ExchangeClient,
     deepseek_client::{DeepSeekClient, Kline, Position},
     technical_analysis::TechnicalAnalyzer,
-    market_sentiment::SentimentAnalyzer,
 };
 use tokio::time::{sleep, Duration};
 use log::{info, warn, error};
@@ -345,16 +344,35 @@ async fn main() -> Result<()> {
     info!("✅ 当前选择: {} ({})", config.trading_symbol.get_display_name(), config.symbol);
     info!("");
     
-    // 初始化 DeepSeek 客户端
-    let deepseek_api_key = std::env::var("DEEPSEEK_API_KEY")
+    // 初始化组件
+    let exchange_type = std::env::var("EXCHANGE_TYPE")
+        .ok()
+        .and_then(|s| match s.to_uppercase().as_str() {
+            "BINANCE" => Some(ExchangeType::Binance),
+            "OKX" => Some(ExchangeType::Okx),
+            "GATE" => Some(ExchangeType::Gate),
+            _ => None,
+        })
+        .unwrap_or_else(|| {
+            info!("💡 未设置 EXCHANGE_TYPE 环境变量，使用默认交易所: Gate.io");
+            info!("");
+            ExchangeType::Gate
+        });
+    
+    let api_key = std::env::var("API_KEY").expect("❌ 缺少 API_KEY 环境变量");
+    let api_secret = std::env::var("API_SECRET").expect("❌ 缺少 API_SECRET 环境变量");
+    
+    let exchange: Arc<dyn ExchangeClient> = match exchange_type {
+        ExchangeType::Binance => Arc::new(BinanceClient::new(api_key, api_secret)),
+        ExchangeType::Okx => Arc::new(OkxClient::new(api_key, api_secret)),
+        ExchangeType::Gate => Arc::new(GateClient::new(api_key, api_secret)),
+    };
+    
+    let deepseek_key = std::env::var("DEEPSEEK_API_KEY")
         .expect("❌ 缺少 DEEPSEEK_API_KEY 环境变量");
-    let deepseek = Arc::new(DeepSeekClient::new(deepseek_api_key));
+    let deepseek = Arc::new(DeepSeekClient::new(deepseek_key));
     
-    // 初始化技术分析器
     let analyzer = Arc::new(TechnicalAnalyzer::new());
-    
-    // 初始化市场情绪分析器
-    let sentiment = Arc::new(SentimentAnalyzer::new());
 
     info!("📊 交易配置:");
     info!("   币种: {}", config.trading_symbol.get_display_name());
@@ -377,7 +395,7 @@ async fn main() -> Result<()> {
             let exchange = Arc::new(BinanceClient::new(api_key, secret, false));
             info!("✅ Binance 客户端初始化成功");
             
-            run_bot(exchange, deepseek, analyzer, sentiment, config).await?;
+            run_bot(exchange, deepseek, analyzer, config).await?;
         }
         
         ExchangeType::Okx => {
@@ -391,7 +409,7 @@ async fn main() -> Result<()> {
             let exchange = Arc::new(OkxClient::new(api_key, secret, passphrase, false));
             info!("✅ OKX 客户端初始化成功");
             
-            run_bot(exchange, deepseek, analyzer, sentiment, config).await?;
+            run_bot(exchange, deepseek, analyzer, config).await?;
         }
         
         ExchangeType::Gate => {
@@ -403,7 +421,7 @@ async fn main() -> Result<()> {
             let exchange = Arc::new(GateClient::new(api_key, secret, false));
             info!("✅ Gate.io 客户端初始化成功");
             
-            run_bot(exchange, deepseek, analyzer, sentiment, config).await?;
+            run_bot(exchange, deepseek, analyzer, config).await?;
         }
     }
     
@@ -415,7 +433,6 @@ async fn run_bot<T: ExchangeClient + 'static>(
     exchange: Arc<T>,
     deepseek: Arc<DeepSeekClient>,
     analyzer: Arc<TechnicalAnalyzer>,
-    sentiment: Arc<SentimentAnalyzer>,
     config: TradingConfig,
 ) -> Result<()> {
     // 检查账户余额
@@ -452,7 +469,6 @@ async fn run_bot<T: ExchangeClient + 'static>(
             &exchange,
             &deepseek,
             &analyzer,
-            &sentiment,
             &config,
             &mut signal_history,
         ).await {
@@ -474,7 +490,6 @@ async fn run_trading_cycle<T: ExchangeClient>(
     exchange: &Arc<T>,
     deepseek: &Arc<DeepSeekClient>,
     analyzer: &Arc<TechnicalAnalyzer>,
-    sentiment: &Arc<SentimentAnalyzer>,
     config: &TradingConfig,
     signal_history: &mut SignalHistory,
 ) -> Result<()> {
@@ -508,27 +523,7 @@ async fn run_trading_cycle<T: ExchangeClient>(
     info!("   RSI: {:.2} ({})", indicators.rsi, rsi_signal);
     info!("   布林带: {}", bb_signal);
 
-    // 3. 获取市场情绪
-    info!("😊 获取市场情绪...");
-    let price_24h_ago = if klines.len() >= 96 {
-        klines[klines.len() - 96].close
-    } else {
-        current_price
-    };
-    
-    let market_sentiment = match sentiment.get_market_sentiment(current_price, price_24h_ago).await {
-        Ok(s) => {
-            info!("   {}", sentiment.interpret_fear_greed(s.fear_greed_value));
-            info!("   {}", sentiment.analyze_momentum(s.price_change_24h));
-            Some(s)
-        }
-        Err(e) => {
-            warn!("⚠️  获取市场情绪失败: {}", e);
-            None
-        }
-    };
-
-    // 4. 获取当前持仓
+    // 3. 获取当前持仓
     info!("📦 查询持仓...");
     let positions = exchange.get_positions().await?;
     let current_position = positions.iter()
@@ -549,14 +544,13 @@ async fn run_trading_cycle<T: ExchangeClient>(
         info!("   当前无持仓");
     }
 
-    // 5. 构建 prompt 并调用 DeepSeek
+    // 4. 构建 prompt 并调用 DeepSeek
     info!("🧠 AI 分析中...");
     let prompt = deepseek.build_prompt(
         &klines,
         &indicators,
-        market_sentiment.as_ref(),
-        current_position.as_ref(),
         current_price,
+        current_position.as_ref(),
     );
 
     let signal = match deepseek.analyze_market(&prompt).await {
@@ -574,7 +568,7 @@ async fn run_trading_cycle<T: ExchangeClient>(
     info!("   止损价: ${:.2}", signal.stop_loss);
     info!("   止盈价: ${:.2}", signal.take_profit);
     
-    // 6. 记录信号到历史
+    // 5. 记录信号到历史
     let signal_record = SignalRecord {
         timestamp: Local::now().format("%Y-%m-%d %H:%M:%S").to_string(),
         signal: signal.signal.clone(),
@@ -590,7 +584,7 @@ async fn run_trading_cycle<T: ExchangeClient>(
     let hold_count = signal_history.count_signal("HOLD", 10);
     info!("📊 最近10次信号: BUY({}) SELL({}) HOLD({})", buy_count, sell_count, hold_count);
     
-    // 7. 防频繁交易检查
+    // 6. 防频繁交易检查
     let should_skip = check_frequent_trading(&signal, current_position.as_ref(), signal_history);
     if should_skip {
         info!("🔒 防频繁交易：本周期跳过执行");

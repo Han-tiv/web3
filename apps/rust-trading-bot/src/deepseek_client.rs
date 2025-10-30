@@ -124,25 +124,23 @@ impl DeepSeekClient {
         Ok(signal)
     }
 
-    /// 构建分析 prompt
+    /// 构建分析 prompt (纯技术指标版本)
     pub fn build_prompt(
         &self,
         klines: &[Kline],
         indicators: &TechnicalIndicators,
-        sentiment: Option<&MarketSentiment>,
-        position: Option<&Position>,
         current_price: f64,
+        position: Option<&Position>,
     ) -> String {
         let kline_text = self.format_klines(klines);
         let indicator_text = self.format_indicators(indicators);
-        let sentiment_text = sentiment.map(|s| self.format_sentiment(s))
-            .unwrap_or_else(|| "【市场情绪】\n数据获取失败".to_string());
         let position_text = self.format_position(position);
-
+        
+        // 趋势分析
+        let trend_analysis = self.analyze_trend(indicators, current_price);
+        
         format!(
             r#"你是一个专业的加密货币交易分析师。请基于以下BTC/USDT 15m周期数据进行分析：
-
-{}
 
 {}
 
@@ -152,17 +150,55 @@ impl DeepSeekClient {
 - 当前价格: ${:.2}
 - 当前持仓: {}
 
+【防频繁交易重要原则】
+1. **趋势持续性优先**: 不要因单根K线或短期波动改变整体趋势判断
+2. **持仓稳定性**: 除非趋势明确强烈反转，否则保持现有持仓方向
+3. **反转确认**: 需要至少2-3个技术指标同时确认趋势反转才改变信号
+4. **成本意识**: 减少不必要的仓位调整，每次交易都有成本
+
+【交易指导原则 - 必须遵守】
+1. **趋势跟随**: 明确趋势出现时立即行动，不要过度等待
+2. **因为做的是BTC，做多权重可以大一点点**
+3. **信号明确性**:
+   - 强势上涨趋势 → BUY信号
+   - 强势下跌趋势 → SELL信号
+   - 仅在窄幅震荡、无明确方向时 → HOLD信号
+4. **技术指标权重**:
+   - 趋势(均线排列) > RSI > MACD > 布林带
+   - 价格突破关键支撑/阻力位是重要信号
+
+【当前技术状况分析】
+{}
+
+【智能仓位管理规则 - 必须遵守】
+1. **减少过度保守**：
+   - 明确趋势中不要因轻微超买/超卖而过度HOLD
+   - RSI在30-70区间属于健康范围，不应作为主要HOLD理由
+   - 布林带位置在20%-80%属于正常波动区间
+
+2. **趋势跟随优先**：
+   - 强势上涨趋势 + 任何RSI值 → 积极BUY信号
+   - 强势下跌趋势 + 任何RSI值 → 积极SELL信号
+   - 震荡整理 + 无明确方向 → HOLD信号
+
+3. **突破交易信号**：
+   - 价格突破关键阻力 + 成交量放大 → 高信心BUY
+   - 价格跌破关键支撑 + 成交量放大 → 高信心SELL
+
+4. **持仓优化逻辑**：
+   - 已有持仓且趋势延续 → 保持或BUY/SELL信号
+   - 趋势明确反转 → 及时反向信号
+   - 不要因为已有持仓而过度HOLD
+
+【重要】请基于技术分析做出明确判断，避免因过度谨慎而错过趋势行情！
+
 【分析要求】
-1. 基于15m K线趋势和技术指标给出交易信号: BUY(买入) / SELL(卖出) / HOLD(观望)
-2. 简要分析理由（考虑趋势连续性、支撑阻力、成交量等因素）
-3. 基于技术分析建议合理的止损价位
-4. 基于技术分析建议合理的止盈价位
-5. 评估信号信心程度
+基于以上分析，请给出明确的交易信号。
 
 请用以下JSON格式回复：
 {{
     "signal": "BUY|SELL|HOLD",
-    "reason": "分析理由",
+    "reason": "简要分析理由(包含趋势判断和技术依据)",
     "stop_loss": 具体价格,
     "take_profit": 具体价格,
     "confidence": "HIGH|MEDIUM|LOW"
@@ -170,9 +206,45 @@ impl DeepSeekClient {
 "#,
             kline_text,
             indicator_text,
-            sentiment_text,
             current_price,
-            if position.is_some() { "有持仓" } else { "无持仓" }
+            position_text,
+            trend_analysis
+        )
+    }
+    
+    fn analyze_trend(&self, indicators: &TechnicalIndicators, current_price: f64) -> String {
+        let rsi = indicators.rsi;
+        let rsi_status = if rsi > 70.0 {
+            "超买"
+        } else if rsi < 30.0 {
+            "超卖"
+        } else {
+            "中性"
+        };
+        
+        let overall_trend = if indicators.sma_5 > indicators.sma_20 && indicators.sma_20 > indicators.sma_50 {
+            "强势上涨"
+        } else if indicators.sma_5 < indicators.sma_20 && indicators.sma_20 < indicators.sma_50 {
+            "强势下跌"
+        } else if indicators.sma_20 > indicators.sma_50 {
+            "上涨趋势"
+        } else if indicators.sma_20 < indicators.sma_50 {
+            "下跌趋势"
+        } else {
+            "震荡整理"
+        };
+        
+        let macd_direction = if indicators.macd > indicators.macd_signal {
+            "多头"
+        } else {
+            "空头"
+        };
+        
+        format!(
+            r#"- 整体趋势: {}
+- RSI状态: {:.1} ({})
+- MACD方向: {}"#,
+            overall_trend, rsi, rsi_status, macd_direction
         )
     }
 
@@ -217,18 +289,6 @@ MACD Signal: {:.4}
         )
     }
 
-    fn format_sentiment(&self, sentiment: &MarketSentiment) -> String {
-        format!(
-            r#"【市场情绪】
-恐慌贪婪指数: {} ({})
-24小时价格变化: {:+.2}%
-长短比: {:.2}"#,
-            sentiment.fear_greed_value,
-            sentiment.fear_greed_label,
-            sentiment.price_change_24h,
-            sentiment.long_short_ratio
-        )
-    }
 
     fn format_position(&self, position: Option<&Position>) -> String {
         match position {
@@ -268,13 +328,6 @@ pub struct TechnicalIndicators {
     pub bb_lower: f64,
 }
 
-#[derive(Debug, Clone)]
-pub struct MarketSentiment {
-    pub fear_greed_value: i32,
-    pub fear_greed_label: String,
-    pub price_change_24h: f64,
-    pub long_short_ratio: f64,
-}
 
 #[derive(Debug, Clone)]
 pub struct Position {

@@ -1,8 +1,21 @@
+// ===================================
+// 此模块已废弃 - 不再使用市场情绪分析
+// 改用纯技术指标版本（指标Plus版）
+// ===================================
+
 use reqwest::Client;
 use serde::Deserialize;
 use anyhow::Result;
 use log::{info, warn};
-use crate::deepseek_client::MarketSentiment;
+
+// 本地 MarketSentiment 定义（用于保持此废弃模块的编译通过）
+#[derive(Debug, Clone)]
+pub struct MarketSentiment {
+    pub fear_greed_value: i32,
+    pub fear_greed_label: String,
+    pub price_change_24h: f64,
+    pub long_short_ratio: f64,
+}
 
 #[derive(Debug, Deserialize)]
 struct FearGreedResponse {
