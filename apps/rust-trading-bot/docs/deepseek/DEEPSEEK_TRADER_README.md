@@ -12,10 +12,10 @@ DeepSeek Trader 是一个利用大语言模型 (LLM) 进行市场分析和交易
 
 - 🧠 **AI 驱动** - 使用 DeepSeek API 进行市场分析
 - 📊 **技术指标** - 集成 SMA, RSI, MACD, 布林带等指标
-- 😊 **市场情绪** - 实时获取恐慌贪婪指数
-- 💱 **多交易所** - 支持 Binance, OKX
+- 💱 **Binance 交易** - 仅支持 Binance 交易所
 - 🚀 **高性能** - Rust 实现，内存占用低，启动快速
 - 🔄 **自动化** - 15分钟周期自动执行
+- 💰 **多币种** - 支持 BTC/ETH/SOL/BNB/DOGE/XRP
 
 ---
 
@@ -48,14 +48,12 @@ DeepSeek Trader 是一个利用大语言模型 (LLM) 进行市场分析和交易
 # DeepSeek AI
 DEEPSEEK_API_KEY=your_deepseek_api_key
 
-# Binance (如果使用 Binance)
+# Binance API (必需)
 BINANCE_API_KEY=your_binance_api_key
 BINANCE_SECRET=your_binance_secret
 
-# OKX (如果使用 OKX)
-OKX_API_KEY=your_okx_api_key
-OKX_SECRET=your_okx_secret
-OKX_PASSWORD=your_okx_password
+# 交易币种 (可选，默认 BTC)
+TRADING_SYMBOL=BTC  # 支持: BTC, ETH, SOL, BNB, DOGE, XRP
 
 # Telegram (可选，用于通知)
 TELEGRAM_BOT_TOKEN=your_telegram_bot_token

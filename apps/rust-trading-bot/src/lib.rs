@@ -1,9 +1,8 @@
 pub mod binance_client;
-pub mod copy_trader;
-pub mod health_monitor;
 pub mod telegram_bot;
 pub mod telegram_notifier;
 pub mod trading_lock;
+pub mod copy_trader;
 
 // 交易所客户端模块
 pub mod exchange_trait;
@@ -32,3 +31,9 @@ pub mod technical_analysis;
 // 主力资金追踪交易模块
 pub mod key_level_finder;           // 关键位识别
 pub mod smart_money_tracker;        // 主力资金追踪
+
+// 市场数据获取
+pub mod market_data_fetcher;
+
+// 健康监控
+pub mod health_monitor;

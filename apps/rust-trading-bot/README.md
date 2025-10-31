@@ -7,7 +7,7 @@
 
 **高性能 Rust 实现的多策略加密货币自动交易系统**
 
-[功能特性](#功能特性) • [快速开始](#快速开始) • [文档索引](#文档索引) • [风险提示](#风险提示)
+[功能特性](#功能特性) • [快速开始](#快速开始) • [文档](#文档) • [风险提示](#风险提示)
 
 </div>
 
@@ -26,7 +26,7 @@
 - ✅ **自动止损止盈** - 基于关键位动态计算，非固定百分比
 - ✅ **多重确认机制** - 价格 + 成交量 + 资金流向三重验证
 
-📖 **详细文档**: [主力资金追踪策略](SMART_MONEY_STRATEGY.md) | [快速启动](QUICKSTART_SMART_MONEY.md)
+📖 **快速启动**: [QUICKSTART_SMART_MONEY.md](QUICKSTART_SMART_MONEY.md)
 
 ---
 
@@ -49,7 +49,7 @@
 - ✅ **AI决策引擎** - DeepSeek模型生成交易信号
 - ✅ **防频繁交易** - 智能信号过滤机制
 
-📖 **详细文档**: [DeepSeek AI 交易](docs/deepseek/README.md) | [技术指标版本](TECHNICAL_INDICATORS_ONLY.md)
+📖 **详细文档**: [DeepSeek AI 交易](docs/deepseek/DEEPSEEK_TRADER_README.md)
 
 ---
 
@@ -62,18 +62,16 @@
 
 ---
 
-## 📚 文档索引
+## 📚 文档
 
-**📌 推荐先阅读**: [完整文档索引 (DOC_INDEX.md)](DOC_INDEX.md)
-
-### 按功能查找
-
-| 功能 | 快速启动 | 详细文档 |
-|-----|---------|----------|
-| **主力资金追踪** | [QUICKSTART_SMART_MONEY.md](QUICKSTART_SMART_MONEY.md) | [策略设计](SMART_MONEY_STRATEGY.md) |
-| **传统跟单** | [QUICKSTART.md](QUICKSTART.md) | [多交易所](docs/user-guide/README_MULTI_EXCHANGE.md) |
-| **DeepSeek AI** | [DeepSeek说明](docs/deepseek/README.md) | [技术指标](TECHNICAL_INDICATORS_ONLY.md) |
-| **系统架构** | - | [架构文档](docs/technical/SYSTEM_ARCHITECTURE.md) |
+| 功能 | 文档 |
+|-----|----------|
+| **主力资金追踪** | [QUICKSTART_SMART_MONEY.md](QUICKSTART_SMART_MONEY.md) |
+| **传统跟单** | [QUICKSTART.md](QUICKSTART.md) |
+| **多交易所支持** | [docs/user-guide/README_MULTI_EXCHANGE.md](docs/user-guide/README_MULTI_EXCHANGE.md) |
+| **DeepSeek AI** | [docs/deepseek/DEEPSEEK_TRADER_README.md](docs/deepseek/DEEPSEEK_TRADER_README.md) |
+| **系统架构** | [docs/technical/SYSTEM_ARCHITECTURE.md](docs/technical/SYSTEM_ARCHITECTURE.md) |
+| **Hyperliquid** | [docs/technical/HYPERLIQUID_README.md](docs/technical/HYPERLIQUID_README.md) |
 
 ---
 

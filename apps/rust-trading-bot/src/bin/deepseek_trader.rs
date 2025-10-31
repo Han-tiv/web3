@@ -1,7 +1,5 @@
 use rust_trading_bot::{
     binance_client::BinanceClient,
-    okx_client::OkxClient,
-    gate_client::GateClient,
     exchange_trait::ExchangeClient,
     deepseek_client::{DeepSeekClient, Kline, Position},
     technical_analysis::TechnicalAnalyzer,
@@ -14,13 +12,7 @@ use chrono::{Local, Timelike};
 use std::collections::VecDeque;
 use serde::{Deserialize, Serialize};
 
-// 交易所类型
-#[derive(Debug, Clone)]
-enum ExchangeType {
-    Binance,
-    Okx,
-    Gate,
-}
+// DeepSeek AI 交易仅支持 Binance
 
 // 支持的交易币种
 #[derive(Debug, Clone, PartialEq)]
@@ -344,29 +336,17 @@ async fn main() -> Result<()> {
     info!("✅ 当前选择: {} ({})", config.trading_symbol.get_display_name(), config.symbol);
     info!("");
     
-    // 初始化组件
-    let exchange_type = std::env::var("EXCHANGE_TYPE")
-        .ok()
-        .and_then(|s| match s.to_uppercase().as_str() {
-            "BINANCE" => Some(ExchangeType::Binance),
-            "OKX" => Some(ExchangeType::Okx),
-            "GATE" => Some(ExchangeType::Gate),
-            _ => None,
-        })
-        .unwrap_or_else(|| {
-            info!("💡 未设置 EXCHANGE_TYPE 环境变量，使用默认交易所: Gate.io");
-            info!("");
-            ExchangeType::Gate
-        });
+    // 初始化 Binance 客户端
+    let binance_api_key = std::env::var("BINANCE_API_KEY")
+        .expect("❌ 缺少 BINANCE_API_KEY 环境变量");
+    let binance_secret = std::env::var("BINANCE_SECRET")
+        .expect("❌ 缺少 BINANCE_SECRET 环境变量");
     
-    let api_key = std::env::var("API_KEY").expect("❌ 缺少 API_KEY 环境变量");
-    let api_secret = std::env::var("API_SECRET").expect("❌ 缺少 API_SECRET 环境变量");
+    let exchange: Arc<dyn ExchangeClient> = Arc::new(
+        BinanceClient::new(binance_api_key, binance_secret, false)
+    );
     
-    let exchange: Arc<dyn ExchangeClient> = match exchange_type {
-        ExchangeType::Binance => Arc::new(BinanceClient::new(api_key, api_secret)),
-        ExchangeType::Okx => Arc::new(OkxClient::new(api_key, api_secret)),
-        ExchangeType::Gate => Arc::new(GateClient::new(api_key, api_secret)),
-    };
+    info!("✅ 使用 Binance 交易所");
     
     let deepseek_key = std::env::var("DEEPSEEK_API_KEY")
         .expect("❌ 缺少 DEEPSEEK_API_KEY 环境变量");

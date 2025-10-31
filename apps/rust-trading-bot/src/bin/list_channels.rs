@@ -55,15 +55,17 @@ async fn main() -> Result<()> {
             channel_count += 1;
             let title = dialog.chat().name();
             let id = channel.id();
-            // 特别标记目标频道
-            let marker = if id == 2291145819 {
-                " 🎯 [目标频道]"
+            // 标记频道角色
+            let marker = if id == 2254462672 {
+                " ⭐ [主频道 - valuescan]"
+            } else if id == 2291145819 {
+                " 🔧 [辅助频道 - CM AI SIGNAL]"
             } else {
                 ""
             };
 
             println!("{:3}. {} (ID: {})", channel_count, title, id);
-            println!("     👥 标记: {}", marker.trim());
+            println!("     角色: {}", if marker.is_empty() { "普通频道" } else { marker.trim() });
             println!();
         }
     }

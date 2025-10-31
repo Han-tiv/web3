@@ -1,0 +1,37 @@
+# 文档最终精简总结
+
+精简时间：2025-10-30
+
+## 最终保留文档（7个）
+
+### 根目录（3个）
+1. README.md - 项目主文档
+2. QUICKSTART.md - 传统跟单快速启动
+3. QUICKSTART_SMART_MONEY.md - 主力资金追踪快速启动
+
+### docs/ 目录（4个）
+1. docs/deepseek/DEEPSEEK_TRADER_README.md - DeepSeek AI交易
+2. docs/technical/SYSTEM_ARCHITECTURE.md - 系统架构
+3. docs/technical/HYPERLIQUID_README.md - Hyperliquid集成
+4. docs/user-guide/README_MULTI_EXCHANGE.md - 多交易所支持
+
+## 删除统计
+
+总共删除：19个文档
+- 第一轮：11个（归档/优化/分析/集成说明）
+- 第二轮：8个（索引/总结/策略设计等）
+
+保留率：7/26 = 27%（精简73%）
+
+## 文档原则
+
+保留标准：
+✅ 核心功能快速启动文档
+✅ 系统架构和技术说明
+✅ 重要功能集成说明
+
+删除标准：
+❌ 临时性文档（总结、清理记录）
+❌ 过于详细的设计文档
+❌ 已完成的迁移/升级说明
+❌ 重复的索引文档
