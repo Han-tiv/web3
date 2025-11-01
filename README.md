@@ -203,8 +203,8 @@ npm run clean
 
 - [Social Monitor 文档](./apps/social-monitor/README.md)
 - [Rust Trading Bot 指南](./apps/rust-trading-bot/README.md)
-- [环境配置指南](./docs/ENV_CONFIGURATION_GUIDE.md)
-- [部署指南](./DEPLOYMENT_GUIDE.md)
+- [环境配置指南](./docs/guides/ENV_CONFIGURATION_GUIDE.md)
+- [部署指南](./docs/deployment/DEPLOYMENT_GUIDE.md)
 
 ---
 

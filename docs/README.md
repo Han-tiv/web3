@@ -32,24 +32,33 @@ docs/
 │   └── SECURITY_SUMMARY.md              安全总结
 │
 ├── optimization/                      ← 优化文档
+│   ├── README.md                        优化报告导航
 │   ├── WEB3_PROJECT_OPTIMIZATION.md     项目优化报告
-│   ├── OPTIMIZATION_COMPLETE.md         优化完成总结
-│   ├── OPTIMIZATION_REPORT.md           优化详细报告
-│   ├── PHASE_2_PERFORMANCE_REPORT.md    阶段2性能报告
-│   ├── PHASE_3_INTELLIGENCE_REPORT.md   阶段3智能报告
-│   └── SHORT_TERM_OPTIMIZATION_COMPLETE.md
+│   ├── OPTIMIZATION_REPORT.md           Phase 1 优化报告
+│   ├── PHASE_2_PERFORMANCE_REPORT.md    Phase 2 性能报告
+│   ├── PHASE_3_INTELLIGENCE_REPORT.md   Phase 3 智能报告
+│   ├── SHORT_TERM_OPTIMIZATION_COMPLETE.md
+│   └── PROJECT_REFACTORING_REPORT.md    项目重构报告
 │
 ├── deployment/                        ← 部署文档
 │   ├── DEPLOYMENT_GUIDE.md              部署指南
 │   ├── ENV_CONFIG.md                    环境配置
 │   └── MONITORING_STATUS.md             监控状态
 │
-└── guides/                            ← 使用指南
-    ├── ENV_CONFIGURATION_GUIDE.md       环境配置指南
-    ├── LOGGING_STANDARD.md              日志规范
-    ├── verification.md                  验证指南
-    ├── mcp-prewarm.md                   MCP预热
-    └── mcp-troubleshooting.md           MCP故障排除
+├── guides/                            ← 使用指南
+│   ├── ENV_CONFIGURATION_GUIDE.md       环境配置指南
+│   ├── LOGGING_STANDARD.md              日志规范
+│   ├── DOCUMENTATION_REORGANIZATION.md  文档重组
+│   └── verification.md                  验证指南
+│
+├── mcp/                               ← MCP相关文档
+│   ├── README.md                        MCP文档导航
+│   ├── mcp-prewarm.md                   MCP预热
+│   └── mcp-troubleshooting.md           MCP故障排除
+│
+└── projects/                          ← 项目特定文档
+    ├── README.md                        项目文档导航
+    └── nof1-prompts.md                  nof1.ai 提示词
 ```
 
 ---
@@ -63,12 +72,15 @@ docs/
 #### 用户指南
 - [快速开始](../apps/rust-trading-bot/docs/user-guide/QUICKSTART.md)
 - [多交易所使用](../apps/rust-trading-bot/docs/user-guide/README_MULTI_EXCHANGE.md)
+- [DeepSeek快速启动](../apps/rust-trading-bot/docs/user-guide/DEEPSEEK_GATE_QUICKSTART.md)
+- [多币种交易指南](../apps/rust-trading-bot/docs/user-guide/MULTI_COIN_TRADING_GUIDE.md)
 - [项目说明](../apps/rust-trading-bot/README.md)
 
 #### 技术文档
 - [区块链钱包](../apps/rust-trading-bot/docs/technical/BLOCKCHAIN_WALLETS.md)
 - [Hyperliquid 集成](../apps/rust-trading-bot/docs/technical/HYPERLIQUID_README.md)
 - [系统架构](../apps/rust-trading-bot/docs/technical/SYSTEM_ARCHITECTURE.md)
+- [DeepSeek Rust V3 升级](../apps/rust-trading-bot/docs/technical/DEEPSEEK_RUST_V3_UPGRADE.md)
 
 #### 优化报告
 - [最终优化报告](../apps/rust-trading-bot/docs/optimization/FINAL_OPTIMIZATION_REPORT.md)
@@ -121,12 +133,15 @@ docs/
 - [部署指南](./deployment/DEPLOYMENT_GUIDE.md)
 - [环境配置](./deployment/ENV_CONFIG.md)
 - [监控状态](./deployment/MONITORING_STATUS.md)
+- [MCP预热配置](./mcp/mcp-prewarm.md)
+- [MCP故障排查](./mcp/mcp-troubleshooting.md)
 
 #### 📖 使用指南
 - [快速开始](../apps/rust-trading-bot/docs/user-guide/QUICKSTART.md)
 - [环境配置指南](./guides/ENV_CONFIGURATION_GUIDE.md)
 - [日志规范](./guides/LOGGING_STANDARD.md)
 - [验证指南](./guides/verification.md)
+- [文档重组说明](./guides/DOCUMENTATION_REORGANIZATION.md)
 
 #### 🤖 AI 交易
 - [DeepSeek 文档中心](../apps/rust-trading-bot/docs/deepseek/README.md)
