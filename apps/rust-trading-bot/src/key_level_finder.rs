@@ -4,9 +4,9 @@ use log::info;
 /// 关键价格位类型
 #[derive(Debug, Clone, PartialEq)]
 pub enum LevelType {
-    Support,      // 支撑位
-    Resistance,   // 阻力位
-    Warning,      // 警戒位（可能破位）
+    Support,    // 支撑位
+    Resistance, // 阻力位
+    Warning,    // 警戒位（可能破位）
 }
 
 /// 关键价格位
@@ -14,16 +14,16 @@ pub enum LevelType {
 pub struct KeyLevel {
     pub price: f64,
     pub level_type: LevelType,
-    pub strength: f64,          // 强度评分 0-100
-    pub volume: f64,            // 该位置的成交量
-    pub last_test_time: i64,    // 最后一次测试时间
-    pub test_count: u32,        // 被测试次数
+    pub strength: f64,             // 强度评分 0-100
+    pub volume: f64,               // 该位置的成交量
+    pub last_test_time: i64,       // 最后一次测试时间
+    pub test_count: u32,           // 被测试次数
     pub source_kline_index: usize, // 来源K线索引
 }
 
 /// 关键位识别器
 pub struct KeyLevelFinder {
-    price_tolerance: f64,  // 价格容差百分比 (默认 0.5%)
+    price_tolerance: f64, // 价格容差百分比 (默认 0.5%)
 }
 
 impl KeyLevelFinder {
@@ -34,7 +34,11 @@ impl KeyLevelFinder {
     }
 
     /// 找到最近N根K线中成交量最大的K线
-    pub fn find_max_volume_kline<'a>(&self, klines: &'a [Kline], lookback: usize) -> Option<(usize, &'a Kline)> {
+    pub fn find_max_volume_kline<'a>(
+        &self,
+        klines: &'a [Kline],
+        lookback: usize,
+    ) -> Option<(usize, &'a Kline)> {
         if klines.is_empty() {
             return None;
         }
@@ -63,7 +67,7 @@ impl KeyLevelFinder {
             );
 
             let is_bullish = max_vol_kline.close > max_vol_kline.open;
-            
+
             // 主力位：根据K线方向确定
             if is_bullish {
                 // 大阳线：最高价为阻力位
@@ -126,7 +130,12 @@ impl KeyLevelFinder {
     }
 
     /// 计算关键位被测试的次数（增强强度）
-    fn enhance_levels_with_tests(&self, levels: &mut [KeyLevel], klines: &[Kline], max_vol_idx: usize) {
+    fn enhance_levels_with_tests(
+        &self,
+        levels: &mut [KeyLevel],
+        klines: &[Kline],
+        max_vol_idx: usize,
+    ) {
         for level in levels.iter_mut() {
             let mut test_count = 0;
             let mut last_test_time = level.last_test_time;
@@ -149,7 +158,12 @@ impl KeyLevelFinder {
     }
 
     /// 添加传统支撑阻力位（最近N根K线的高低点）
-    fn add_traditional_levels(&self, levels: &mut Vec<KeyLevel>, klines: &[Kline], lookback: usize) {
+    fn add_traditional_levels(
+        &self,
+        levels: &mut Vec<KeyLevel>,
+        klines: &[Kline],
+        lookback: usize,
+    ) {
         let start_idx = if klines.len() > lookback {
             klines.len() - lookback
         } else {
@@ -165,7 +179,10 @@ impl KeyLevelFinder {
             .max_by(|a, b| a.1.high.partial_cmp(&b.1.high).unwrap())
         {
             // 检查是否已存在相近的阻力位
-            if !levels.iter().any(|l| self.is_same_level(l.price, high_kline.high)) {
+            if !levels
+                .iter()
+                .any(|l| self.is_same_level(l.price, high_kline.high))
+            {
                 levels.push(KeyLevel {
                     price: high_kline.high,
                     level_type: LevelType::Resistance,
@@ -185,7 +202,10 @@ impl KeyLevelFinder {
             .min_by(|a, b| a.1.low.partial_cmp(&b.1.low).unwrap())
         {
             // 检查是否已存在相近的支撑位
-            if !levels.iter().any(|l| self.is_same_level(l.price, low_kline.low)) {
+            if !levels
+                .iter()
+                .any(|l| self.is_same_level(l.price, low_kline.low))
+            {
                 levels.push(KeyLevel {
                     price: low_kline.low,
                     level_type: LevelType::Support,
@@ -203,13 +223,13 @@ impl KeyLevelFinder {
     fn price_touches_level(&self, kline: &Kline, level: f64) -> bool {
         let tolerance = level * self.price_tolerance;
         let in_range = kline.low <= level + tolerance && kline.high >= level - tolerance;
-        
+
         // 额外检查：K线是否在该位置有明显反应（长上/下影线）
         if in_range {
             let body_size = (kline.close - kline.open).abs();
             let upper_shadow = kline.high - kline.close.max(kline.open);
             let lower_shadow = kline.open.min(kline.close) - kline.low;
-            
+
             // 如果上下影线明显大于实体，说明有反应
             upper_shadow > body_size * 1.5 || lower_shadow > body_size * 1.5
         } else {
@@ -225,18 +245,23 @@ impl KeyLevelFinder {
     }
 
     /// 根据当前价格筛选最相关的关键位
-    pub fn filter_relevant_levels(&self, levels: &[KeyLevel], current_price: f64, max_count: usize) -> Vec<KeyLevel> {
+    pub fn filter_relevant_levels(
+        &self,
+        levels: &[KeyLevel],
+        current_price: f64,
+        max_count: usize,
+    ) -> Vec<KeyLevel> {
         let mut sorted_levels = levels.to_vec();
 
         // 按照与当前价格的距离和强度排序
         sorted_levels.sort_by(|a, b| {
             let dist_a = (a.price - current_price).abs();
             let dist_b = (b.price - current_price).abs();
-            
+
             // 距离权重 70%，强度权重 30%
             let score_a = (dist_a / current_price) * 0.7 - (a.strength / 100.0) * 0.3;
             let score_b = (dist_b / current_price) * 0.7 - (b.strength / 100.0) * 0.3;
-            
+
             score_a.partial_cmp(&score_b).unwrap()
         });
 
@@ -245,7 +270,11 @@ impl KeyLevelFinder {
     }
 
     /// 找到最近的支撑位和阻力位
-    pub fn find_nearest_levels(&self, levels: &[KeyLevel], current_price: f64) -> (Option<KeyLevel>, Option<KeyLevel>) {
+    pub fn find_nearest_levels(
+        &self,
+        levels: &[KeyLevel],
+        current_price: f64,
+    ) -> (Option<KeyLevel>, Option<KeyLevel>) {
         let mut nearest_support: Option<KeyLevel> = None;
         let mut nearest_resistance: Option<KeyLevel> = None;
 
@@ -277,7 +306,13 @@ impl KeyLevelFinder {
     }
 
     /// 评估价格是否突破了关键位
-    pub fn check_breakout(&self, current_price: f64, current_volume: f64, level: &KeyLevel, avg_volume: f64) -> bool {
+    pub fn check_breakout(
+        &self,
+        current_price: f64,
+        current_volume: f64,
+        level: &KeyLevel,
+        avg_volume: f64,
+    ) -> bool {
         let price_breakout = match level.level_type {
             LevelType::Resistance => current_price > level.price * 1.002, // 突破阻力位需超过0.2%
             LevelType::Support => current_price < level.price * 0.998,    // 跌破支撑位需低于0.2%
@@ -293,14 +328,14 @@ impl KeyLevelFinder {
     /// 格式化关键位信息
     pub fn format_levels(&self, levels: &[KeyLevel]) -> String {
         let mut result = String::from("【关键价格位】\n");
-        
+
         for (i, level) in levels.iter().enumerate() {
             let type_str = match level.level_type {
                 LevelType::Support => "支撑",
                 LevelType::Resistance => "阻力",
                 LevelType::Warning => "警戒",
             };
-            
+
             result.push_str(&format!(
                 "{}. {} ${:.2} | 强度:{:.0}% | 测试:{}次\n",
                 i + 1,
@@ -310,7 +345,7 @@ impl KeyLevelFinder {
                 level.test_count
             ));
         }
-        
+
         result
     }
 }
@@ -328,9 +363,30 @@ mod tests {
     #[test]
     fn test_find_max_volume_kline() {
         let klines = vec![
-            Kline { timestamp: 1, open: 100.0, high: 105.0, low: 98.0, close: 103.0, volume: 1000.0 },
-            Kline { timestamp: 2, open: 103.0, high: 110.0, low: 102.0, close: 108.0, volume: 5000.0 },
-            Kline { timestamp: 3, open: 108.0, high: 112.0, low: 106.0, close: 110.0, volume: 2000.0 },
+            Kline {
+                timestamp: 1,
+                open: 100.0,
+                high: 105.0,
+                low: 98.0,
+                close: 103.0,
+                volume: 1000.0,
+            },
+            Kline {
+                timestamp: 2,
+                open: 103.0,
+                high: 110.0,
+                low: 102.0,
+                close: 108.0,
+                volume: 5000.0,
+            },
+            Kline {
+                timestamp: 3,
+                open: 108.0,
+                high: 112.0,
+                low: 106.0,
+                close: 110.0,
+                volume: 2000.0,
+            },
         ];
 
         let finder = KeyLevelFinder::new();
@@ -345,20 +401,41 @@ mod tests {
     #[test]
     fn test_identify_key_levels() {
         let klines = vec![
-            Kline { timestamp: 1, open: 100.0, high: 105.0, low: 98.0, close: 103.0, volume: 1000.0 },
-            Kline { timestamp: 2, open: 103.0, high: 110.0, low: 102.0, close: 108.0, volume: 5000.0 },
-            Kline { timestamp: 3, open: 108.0, high: 112.0, low: 106.0, close: 110.0, volume: 2000.0 },
+            Kline {
+                timestamp: 1,
+                open: 100.0,
+                high: 105.0,
+                low: 98.0,
+                close: 103.0,
+                volume: 1000.0,
+            },
+            Kline {
+                timestamp: 2,
+                open: 103.0,
+                high: 110.0,
+                low: 102.0,
+                close: 108.0,
+                volume: 5000.0,
+            },
+            Kline {
+                timestamp: 3,
+                open: 108.0,
+                high: 112.0,
+                low: 106.0,
+                close: 110.0,
+                volume: 2000.0,
+            },
         ];
 
         let finder = KeyLevelFinder::new();
         let levels = finder.identify_key_levels(&klines, 10);
 
         assert!(!levels.is_empty());
-        
+
         // 应该至少有一个阻力位和一个支撑位
         let has_resistance = levels.iter().any(|l| l.level_type == LevelType::Resistance);
         let has_support = levels.iter().any(|l| l.level_type == LevelType::Support);
-        
+
         assert!(has_resistance);
         assert!(has_support);
     }

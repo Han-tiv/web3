@@ -6,9 +6,9 @@ use log::{info, warn};
 /// 主力资金流向
 #[derive(Debug, Clone, PartialEq)]
 pub enum MoneyFlowDirection {
-    Inflow,   // 流入
-    Outflow,  // 流出
-    Neutral,  // 中性
+    Inflow,  // 流入
+    Outflow, // 流出
+    Neutral, // 中性
 }
 
 /// 主力资金信号
@@ -16,29 +16,29 @@ pub enum MoneyFlowDirection {
 pub struct MoneyFlowSignal {
     pub timestamp: i64,
     pub direction: MoneyFlowDirection,
-    pub strength: f64,          // 0.0-1.0 流向强度
-    pub source: String,         // 信号来源（telegram/api）
+    pub strength: f64,  // 0.0-1.0 流向强度
+    pub source: String, // 信号来源（telegram/api）
     pub symbol: String,
-    pub note: Option<String>,   // 备注信息
+    pub note: Option<String>, // 备注信息
 }
 
 /// 交易信号类型
 #[derive(Debug, Clone, PartialEq)]
 pub enum SignalType {
-    LongBreakout,       // 突破做多
-    LongPullback,       // 回踩做多
-    ShortBreakdown,     // 破位做空
-    ClosePosition,      // 平仓
-    Hold,               // 持有
+    LongBreakout,   // 突破做多
+    LongPullback,   // 回踩做多
+    ShortBreakdown, // 破位做空
+    ClosePosition,  // 平仓
+    Hold,           // 持有
 }
 
 /// 信号优先级
 #[derive(Debug, Clone, PartialEq)]
 pub enum SignalPriority {
-    Critical,   // 立即执行
-    High,       // 高优先级
-    Medium,     // 中等
-    Low,        // 低优先级
+    Critical, // 立即执行
+    High,     // 高优先级
+    Medium,   // 中等
+    Low,      // 低优先级
 }
 
 /// 交易信号
@@ -51,7 +51,7 @@ pub struct TradingSignal {
     pub position_size: f64,
     pub priority: SignalPriority,
     pub reason: String,
-    pub confidence: f64,        // 0-100
+    pub confidence: f64, // 0-100
     pub key_levels: Vec<KeyLevel>,
 }
 
@@ -59,12 +59,12 @@ pub struct TradingSignal {
 pub struct SmartMoneyTracker {
     level_finder: KeyLevelFinder,
     analyzer: TechnicalAnalyzer,
-    
+
     // 配置参数
-    lookback_hours: usize,              // 回看小时数（1h K线）
-    min_money_flow_strength: f64,       // 最小资金流向强度
-    min_volume_ratio: f64,              // 最小成交量比率
-    key_level_score_threshold: f64,     // 关键位强度阈值
+    lookback_hours: usize,          // 回看小时数（1h K线）
+    min_money_flow_strength: f64,   // 最小资金流向强度
+    min_volume_ratio: f64,          // 最小成交量比率
+    key_level_score_threshold: f64, // 关键位强度阈值
 }
 
 impl SmartMoneyTracker {
@@ -88,27 +88,37 @@ impl SmartMoneyTracker {
         current_position: Option<&str>, // "long", "short", None
     ) -> Option<TradingSignal> {
         info!("🎯 开始分析主力资金信号");
-        info!("   资金方向: {:?}, 强度: {:.2}", money_flow.direction, money_flow.strength);
+        info!(
+            "   资金方向: {:?}, 强度: {:.2}",
+            money_flow.direction, money_flow.strength
+        );
 
         // 1. 检查资金流向强度
         if money_flow.strength < self.min_money_flow_strength {
-            warn!("⚠️  资金流向强度不足: {:.2} < {:.2}", 
-                money_flow.strength, self.min_money_flow_strength);
+            warn!(
+                "⚠️  资金流向强度不足: {:.2} < {:.2}",
+                money_flow.strength, self.min_money_flow_strength
+            );
             return None;
         }
 
         // 2. 计算技术指标
         let indicators = self.analyzer.calculate_indicators(klines);
-        
+
         // 3. 识别关键价格位
-        let all_levels = self.level_finder.identify_key_levels(klines, self.lookback_hours);
-        let key_levels = self.level_finder.filter_relevant_levels(&all_levels, current_price, 5);
-        
+        let all_levels = self
+            .level_finder
+            .identify_key_levels(klines, self.lookback_hours);
+        let key_levels = self
+            .level_finder
+            .filter_relevant_levels(&all_levels, current_price, 5);
+
         info!("{}", self.level_finder.format_levels(&key_levels));
 
         // 4. 找到最近的支撑和阻力位
-        let (nearest_support, nearest_resistance) = 
-            self.level_finder.find_nearest_levels(&key_levels, current_price);
+        let (nearest_support, nearest_resistance) = self
+            .level_finder
+            .find_nearest_levels(&key_levels, current_price);
 
         // 5. 计算平均成交量
         let avg_volume = self.calculate_avg_volume(klines, 20);
@@ -119,28 +129,24 @@ impl SmartMoneyTracker {
 
         // 6. 根据主力资金方向生成信号
         match money_flow.direction {
-            MoneyFlowDirection::Inflow => {
-                self.generate_long_signal(
-                    current_price,
-                    &indicators,
-                    &key_levels,
-                    nearest_support.as_ref(),
-                    nearest_resistance.as_ref(),
-                    money_flow.strength,
-                    volume_ratio,
-                    current_position,
-                )
-            }
-            MoneyFlowDirection::Outflow => {
-                self.generate_short_or_close_signal(
-                    current_price,
-                    &indicators,
-                    &key_levels,
-                    nearest_support.as_ref(),
-                    money_flow.strength,
-                    current_position,
-                )
-            }
+            MoneyFlowDirection::Inflow => self.generate_long_signal(
+                current_price,
+                &indicators,
+                &key_levels,
+                nearest_support.as_ref(),
+                nearest_resistance.as_ref(),
+                money_flow.strength,
+                volume_ratio,
+                current_position,
+            ),
+            MoneyFlowDirection::Outflow => self.generate_short_or_close_signal(
+                current_price,
+                &indicators,
+                &key_levels,
+                nearest_support.as_ref(),
+                money_flow.strength,
+                current_position,
+            ),
             MoneyFlowDirection::Neutral => None,
         }
     }
@@ -175,8 +181,11 @@ impl SmartMoneyTracker {
         if let Some(support) = nearest_support {
             let price_near_support = (current_price - support.price).abs() / support.price < 0.01; // 1%范围内
             let rsi_oversold = indicators.rsi < 40.0;
-            
-            if price_near_support && rsi_oversold && support.strength > self.key_level_score_threshold {
+
+            if price_near_support
+                && rsi_oversold
+                && support.strength > self.key_level_score_threshold
+            {
                 return Some(self.create_pullback_long_signal(
                     current_price,
                     support,
@@ -194,8 +203,12 @@ impl SmartMoneyTracker {
             return Some(TradingSignal {
                 signal_type: SignalType::Hold,
                 entry_price: current_price,
-                stop_loss: nearest_support.map(|s| s.price * 0.98).unwrap_or(current_price * 0.97),
-                take_profit: nearest_resistance.map(|r| r.price).unwrap_or(current_price * 1.05),
+                stop_loss: nearest_support
+                    .map(|s| s.price * 0.98)
+                    .unwrap_or(current_price * 0.97),
+                take_profit: nearest_resistance
+                    .map(|r| r.price)
+                    .unwrap_or(current_price * 1.05),
                 position_size: 0.0,
                 priority: SignalPriority::Low,
                 reason: "资金流入持续，持有多单".to_string(),
@@ -248,7 +261,10 @@ impl SmartMoneyTracker {
                     take_profit: current_price * 0.97,
                     position_size: 0.0, // 由外部仓位管理器计算
                     priority: SignalPriority::High,
-                    reason: format!("跌破支撑位 ${:.2}, RSI:{:.1}", support.price, indicators.rsi),
+                    reason: format!(
+                        "跌破支撑位 ${:.2}, RSI:{:.1}",
+                        support.price, indicators.rsi
+                    ),
                     confidence: 75.0,
                     key_levels: key_levels.to_vec(),
                 });
@@ -271,13 +287,13 @@ impl SmartMoneyTracker {
         let stop_loss = nearest_support
             .map(|s| s.price * 0.98)
             .unwrap_or(current_price * 0.97);
-        
+
         let take_profit = current_price * 1.05; // 5% 目标
 
         let confidence = 60.0 + (money_flow_strength * 20.0) + ((volume_ratio - 1.0) * 10.0);
 
         info!("🚀 生成突破做多信号");
-        
+
         TradingSignal {
             signal_type: SignalType::LongBreakout,
             entry_price: current_price,
@@ -401,9 +417,30 @@ mod tests {
     #[test]
     fn test_calculate_avg_volume() {
         let klines = vec![
-            Kline { timestamp: 1, open: 100.0, high: 105.0, low: 98.0, close: 103.0, volume: 1000.0 },
-            Kline { timestamp: 2, open: 103.0, high: 110.0, low: 102.0, close: 108.0, volume: 2000.0 },
-            Kline { timestamp: 3, open: 108.0, high: 112.0, low: 106.0, close: 110.0, volume: 3000.0 },
+            Kline {
+                timestamp: 1,
+                open: 100.0,
+                high: 105.0,
+                low: 98.0,
+                close: 103.0,
+                volume: 1000.0,
+            },
+            Kline {
+                timestamp: 2,
+                open: 103.0,
+                high: 110.0,
+                low: 102.0,
+                close: 108.0,
+                volume: 2000.0,
+            },
+            Kline {
+                timestamp: 3,
+                open: 108.0,
+                high: 112.0,
+                low: 106.0,
+                close: 110.0,
+                volume: 3000.0,
+            },
         ];
 
         let tracker = SmartMoneyTracker::new();

@@ -1,7 +1,7 @@
+use anyhow::{Context, Result};
+use log::{info, warn};
 use reqwest::Client;
 use serde::{Deserialize, Serialize};
-use anyhow::{Result, Context};
-use log::{info, warn};
 
 #[derive(Debug, Serialize)]
 pub struct DeepSeekRequest {
@@ -52,13 +52,25 @@ pub struct Usage {
     pub total_tokens: i32,
 }
 
-#[derive(Debug, Deserialize, Clone)]
+#[derive(Debug, Deserialize, Clone, Serialize)]
 pub struct TradingSignal {
-    pub signal: String,      // "BUY", "SELL", "HOLD"
+    pub signal: String, // "BUY", "SELL", "HOLD"
     pub reason: String,
     pub stop_loss: f64,
     pub take_profit: f64,
-    pub confidence: String,  // "HIGH", "MEDIUM", "LOW"
+    pub confidence: String, // "HIGH", "MEDIUM", "LOW"
+}
+
+/// AI持仓管理决策
+#[derive(Debug, Deserialize, Clone, Serialize)]
+pub struct PositionManagementDecision {
+    pub action: String, // "HOLD", "PARTIAL_CLOSE", "FULL_CLOSE", "SET_LIMIT_ORDER"
+    pub close_percentage: Option<f64>, // 平仓百分比 (0-100)
+    pub limit_price: Option<f64>, // 限价单价格
+    pub reason: String,
+    pub profit_potential: String, // "HIGH", "MEDIUM", "LOW", "NONE"
+    pub optimal_exit_price: Option<f64>, // AI判断的最优退出价
+    pub confidence: String, // "HIGH", "MEDIUM", "LOW"
 }
 
 pub struct DeepSeekClient {
@@ -80,12 +92,10 @@ impl DeepSeekClient {
     pub async fn analyze_market(&self, prompt: &str) -> Result<TradingSignal> {
         let request = DeepSeekRequest {
             model: "deepseek-chat".to_string(),
-            messages: vec![
-                Message {
-                    role: "user".to_string(),
-                    content: prompt.to_string(),
-                }
-            ],
+            messages: vec![Message {
+                role: "user".to_string(),
+                content: prompt.to_string(),
+            }],
             response_format: Some(ResponseFormat {
                 format_type: "json_object".to_string(),
             }),
@@ -93,8 +103,9 @@ impl DeepSeekClient {
         };
 
         info!("🧠 调用 DeepSeek API...");
-        
-        let response = self.client
+
+        let response = self
+            .client
             .post(&format!("{}/chat/completions", self.base_url))
             .header("Authorization", format!("Bearer {}", self.api_key))
             .header("Content-Type", "application/json")
@@ -109,18 +120,26 @@ impl DeepSeekClient {
             anyhow::bail!("DeepSeek API error ({}): {}", status, error_text);
         }
 
-        let deepseek_response: DeepSeekResponse = response.json().await
+        let deepseek_response: DeepSeekResponse = response
+            .json()
+            .await
             .context("Failed to parse DeepSeek response")?;
-        
-        info!("✅ DeepSeek 响应: {} tokens", deepseek_response.usage.total_tokens);
-        
+
+        info!(
+            "✅ DeepSeek 响应: {} tokens",
+            deepseek_response.usage.total_tokens
+        );
+
         // 解析 JSON 响应
         let content = &deepseek_response.choices[0].message.content;
         let signal: TradingSignal = serde_json::from_str(content)
             .context("Failed to parse trading signal from DeepSeek response")?;
-        
-        info!("📡 交易信号: {} | 置信度: {}", signal.signal, signal.confidence);
-        
+
+        info!(
+            "📡 交易信号: {} | 置信度: {}",
+            signal.signal, signal.confidence
+        );
+
         Ok(signal)
     }
 
@@ -135,13 +154,13 @@ impl DeepSeekClient {
         let kline_text = self.format_klines(klines);
         let indicator_text = self.format_indicators(indicators);
         let position_text = self.format_position(position);
-        
+
         // 趋势分析
         let trend_analysis = self.analyze_trend(indicators, current_price);
-        
+
         // 主力关键位识别
         let key_levels = self.identify_key_levels(klines, indicators, current_price);
-        
+
         format!(
             r#"你是专业交易分析师，擅长"主力关键位策略"。分析BTC/USDT 15m数据：
 
@@ -205,37 +224,43 @@ impl DeepSeekClient {
     "confidence": "HIGH|MEDIUM|LOW"
 }}
 "#,
-            kline_text,
-            indicator_text,
-            current_price,
-            position_text,
-            key_levels,
-            trend_analysis
+            kline_text, indicator_text, current_price, position_text, key_levels, trend_analysis
         )
     }
-    
+
     /// 识别主力关键位
-    fn identify_key_levels(&self, klines: &[Kline], indicators: &TechnicalIndicators, current_price: f64) -> String {
+    fn identify_key_levels(
+        &self,
+        klines: &[Kline],
+        indicators: &TechnicalIndicators,
+        current_price: f64,
+    ) -> String {
         let bb_middle = indicators.bb_middle;
         let sma_50 = indicators.sma_50;
-        
+
         // 寻找最近的高低点
-        let recent_high = klines.iter().rev().take(20)
+        let recent_high = klines
+            .iter()
+            .rev()
+            .take(20)
             .map(|k| k.high)
             .max_by(|a, b| a.partial_cmp(b).unwrap())
             .unwrap_or(current_price);
-        
-        let recent_low = klines.iter().rev().take(20)
+
+        let recent_low = klines
+            .iter()
+            .rev()
+            .take(20)
             .map(|k| k.low)
             .min_by(|a, b| a.partial_cmp(b).unwrap())
             .unwrap_or(current_price);
-        
+
         // 计算与关键位的距离
         let dist_to_bb_middle = ((current_price - bb_middle) / bb_middle) * 100.0;
         let dist_to_sma50 = ((current_price - sma_50) / sma_50) * 100.0;
         let dist_to_high = ((recent_high - current_price) / current_price) * 100.0;
         let dist_to_low = ((current_price - recent_low) / current_price) * 100.0;
-        
+
         // 判断关键位状态
         let key_level_status = if current_price > bb_middle && current_price > sma_50 {
             "✅ 站稳关键位上方"
@@ -244,7 +269,7 @@ impl DeepSeekClient {
         } else {
             "📍 在关键位附近震荡"
         };
-        
+
         format!(
             r#"【主力关键位识别】
 1. BOLL中轨: ${:.2} (距离: {:+.2}%)
@@ -254,15 +279,25 @@ impl DeepSeekClient {
 
 关键位状态: {}
 破位风险: {}"#,
-            bb_middle, dist_to_bb_middle,
-            sma_50, dist_to_sma50,
-            recent_high, dist_to_high,
-            recent_low, dist_to_low,
+            bb_middle,
+            dist_to_bb_middle,
+            sma_50,
+            dist_to_sma50,
+            recent_high,
+            dist_to_high,
+            recent_low,
+            dist_to_low,
             key_level_status,
-            if dist_to_low < 3.0 { "高 ⚠️" } else if dist_to_low < 5.0 { "中等" } else { "低 ✅" }
+            if dist_to_low < 3.0 {
+                "高 ⚠️"
+            } else if dist_to_low < 5.0 {
+                "中等"
+            } else {
+                "低 ✅"
+            }
         )
     }
-    
+
     fn analyze_trend(&self, indicators: &TechnicalIndicators, current_price: f64) -> String {
         let rsi = indicators.rsi;
         let rsi_status = if rsi > 70.0 {
@@ -272,8 +307,10 @@ impl DeepSeekClient {
         } else {
             "中性"
         };
-        
-        let overall_trend = if indicators.sma_5 > indicators.sma_20 && indicators.sma_20 > indicators.sma_50 {
+
+        let overall_trend = if indicators.sma_5 > indicators.sma_20
+            && indicators.sma_20 > indicators.sma_50
+        {
             "强势上涨"
         } else if indicators.sma_5 < indicators.sma_20 && indicators.sma_20 < indicators.sma_50 {
             "强势下跌"
@@ -284,13 +321,13 @@ impl DeepSeekClient {
         } else {
             "震荡整理"
         };
-        
+
         let macd_direction = if indicators.macd > indicators.macd_signal {
             "多头"
         } else {
             "空头"
         };
-        
+
         format!(
             r#"- 整体趋势: {}
 - RSI状态: {:.1} ({})
@@ -301,18 +338,28 @@ impl DeepSeekClient {
 
     fn format_klines(&self, klines: &[Kline]) -> String {
         let mut text = String::from("【最近5根15m K线数据】\n");
-        
+
         let recent_klines: Vec<_> = klines.iter().rev().take(5).collect();
         for (i, kline) in recent_klines.iter().rev().enumerate() {
-            let trend = if kline.close > kline.open { "阳线" } else { "阴线" };
+            let trend = if kline.close > kline.open {
+                "阳线"
+            } else {
+                "阴线"
+            };
             let change = ((kline.close - kline.open) / kline.open) * 100.0;
-            
+
             text.push_str(&format!(
                 "K线{}: {} 开盘:{:.2} 收盘:{:.2} 最高:{:.2} 最低:{:.2} 涨跌:{:+.2}%\n",
-                i + 1, trend, kline.open, kline.close, kline.high, kline.low, change
+                i + 1,
+                trend,
+                kline.open,
+                kline.close,
+                kline.high,
+                kline.low,
+                change
             ));
         }
-        
+
         text
     }
 
@@ -340,12 +387,15 @@ MACD Signal: {:.4}
         )
     }
 
-
     fn format_position(&self, position: Option<&Position>) -> String {
         match position {
             Some(pos) => format!(
                 r#"{}仓, 数量: {:.4} BTC, 入场价: ${:.2}, 盈亏: ${:.2}"#,
-                if pos.side == "long" { "多头" } else { "空头" },
+                if pos.side == "long" {
+                    "多头"
+                } else {
+                    "空头"
+                },
                 pos.size,
                 pos.entry_price,
                 pos.unrealized_pnl
@@ -366,7 +416,7 @@ pub struct Kline {
     pub volume: f64,
 }
 
-#[derive(Debug, Clone)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct TechnicalIndicators {
     pub sma_5: f64,
     pub sma_20: f64,
@@ -378,7 +428,6 @@ pub struct TechnicalIndicators {
     pub bb_middle: f64,
     pub bb_lower: f64,
 }
-
 
 #[derive(Debug, Clone)]
 pub struct Position {

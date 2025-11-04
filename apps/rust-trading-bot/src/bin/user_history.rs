@@ -49,7 +49,7 @@ async fn main() -> Result<()> {
     // 目标配置
     let channel_id = 2488739133_i64; // 目标群组
     let target_user_id = 2069693449_i64; // 目标用户
-    
+
     println!("🎯 目标配置:");
     println!("  频道: valuescan (ID: {})", channel_id);
     println!("  用户 ID: {}", target_user_id);
@@ -134,7 +134,10 @@ async fn main() -> Result<()> {
 
         // 每扫描100条消息显示进度
         if scanned_count % 100 == 0 {
-            println!("📊 已扫描 {} 条消息，找到 {} 条目标用户消息", scanned_count, found_count);
+            println!(
+                "📊 已扫描 {} 条消息，找到 {} 条目标用户消息",
+                scanned_count, found_count
+            );
         }
 
         // 检查是否是目标用户的消息
@@ -147,9 +150,7 @@ async fn main() -> Result<()> {
                 // 获取用户名（第一次）
                 if username.is_empty() {
                     username = match sender {
-                        grammers_client::types::Chat::User(user) => {
-                            user.first_name().to_string()
-                        }
+                        grammers_client::types::Chat::User(user) => user.first_name().to_string(),
                         grammers_client::types::Chat::Channel(ch) => ch.title().to_string(),
                         grammers_client::types::Chat::Group(g) => g.title().to_string(),
                     };
@@ -202,7 +203,7 @@ async fn main() -> Result<()> {
     let total_count = user_messages.len();
     let with_media = user_messages.iter().filter(|m| m.has_media).count();
     let replies = user_messages.iter().filter(|m| m.is_reply).count();
-    
+
     let total_length: usize = user_messages.iter().map(|m| m.content.len()).sum();
     let avg_message_length = if total_count > 0 {
         total_length as f64 / total_count as f64
@@ -246,7 +247,8 @@ async fn main() -> Result<()> {
 }
 
 fn extract_keywords(messages: &[UserMessage]) -> Vec<String> {
-    let mut keyword_counts: std::collections::HashMap<String, usize> = std::collections::HashMap::new();
+    let mut keyword_counts: std::collections::HashMap<String, usize> =
+        std::collections::HashMap::new();
 
     for msg in messages {
         let text_lower = msg.content.to_lowercase();
@@ -266,10 +268,14 @@ fn extract_keywords(messages: &[UserMessage]) -> Vec<String> {
         }
 
         // 检测交易方向
-        if text_lower.contains("long") || text_lower.contains("做多") || text_lower.contains("买入") {
+        if text_lower.contains("long") || text_lower.contains("做多") || text_lower.contains("买入")
+        {
             *keyword_counts.entry("做多".to_string()).or_insert(0) += 1;
         }
-        if text_lower.contains("short") || text_lower.contains("做空") || text_lower.contains("卖出") {
+        if text_lower.contains("short")
+            || text_lower.contains("做空")
+            || text_lower.contains("卖出")
+        {
             *keyword_counts.entry("做空".to_string()).or_insert(0) += 1;
         }
 
@@ -305,14 +311,20 @@ fn display_summary(report: &UserHistoryReport) {
     println!("👤 用户信息:");
     println!("  用户名: {}", report.username);
     println!("  用户 ID: {}", report.user_id);
-    println!("  频道: {} (ID: {})", report.channel_name, report.channel_id);
+    println!(
+        "  频道: {} (ID: {})",
+        report.channel_name, report.channel_id
+    );
     println!();
 
     println!("📈 统计数据:");
     println!("  总消息数: {} 条", report.statistics.total_count);
     println!("  包含媒体: {} 条", report.statistics.with_media);
     println!("  回复消息: {} 条", report.statistics.replies);
-    println!("  平均长度: {:.1} 字符", report.statistics.avg_message_length);
+    println!(
+        "  平均长度: {:.1} 字符",
+        report.statistics.avg_message_length
+    );
     println!("  时间范围: {}", report.date_range);
     println!();
 
@@ -334,14 +346,14 @@ fn display_recent_messages(messages: &[UserMessage], limit: usize) {
         println!("【消息 {}】", idx + 1);
         println!("🕐 时间: {}", msg.timestamp);
         println!("💬 ID: {}", msg.message_id);
-        
+
         if msg.is_reply {
             println!("↩️  回复消息 ID: {:?}", msg.reply_to_msg_id);
         }
         if msg.has_media {
             println!("📎 包含媒体");
         }
-        
+
         println!("\n内容:");
         println!("{}", msg.content);
         println!("\n{}", "─".repeat(50));
@@ -359,10 +371,13 @@ fn save_reports(report: &UserHistoryReport) -> Result<()> {
     // 保存文本格式（易读）
     let txt_filename = format!("user_{}_history.txt", report.user_id);
     let mut text = String::new();
-    
+
     text.push_str(&format!("用户历史记录 - {}\n", report.username));
     text.push_str(&format!("用户 ID: {}\n", report.user_id));
-    text.push_str(&format!("频道: {} (ID: {})\n", report.channel_name, report.channel_id));
+    text.push_str(&format!(
+        "频道: {} (ID: {})\n",
+        report.channel_name, report.channel_id
+    ));
     text.push_str(&format!("总消息数: {}\n", report.total_messages));
     text.push_str(&format!("时间范围: {}\n", report.date_range));
     text.push_str(&format!("\n{}\n\n", "=".repeat(70)));
@@ -371,14 +386,14 @@ fn save_reports(report: &UserHistoryReport) -> Result<()> {
         text.push_str(&format!("【消息 {}】\n", idx + 1));
         text.push_str(&format!("时间: {}\n", msg.timestamp));
         text.push_str(&format!("消息 ID: {}\n", msg.message_id));
-        
+
         if msg.is_reply {
             text.push_str(&format!("回复: {:?}\n", msg.reply_to_msg_id));
         }
         if msg.has_media {
             text.push_str("包含媒体: 是\n");
         }
-        
+
         text.push_str(&format!("\n{}\n", msg.content));
         text.push_str(&format!("\n{}\n\n", "-".repeat(70)));
     }

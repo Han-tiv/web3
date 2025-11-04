@@ -8,13 +8,13 @@ use tokio::time::{interval, Duration};
 
 #[derive(Debug, Clone)]
 pub struct CopyTradeConfig {
-    pub copy_ratio: f64,        // 跟单比例
-    pub max_position_size: f64, // 最大仓位 USDT
-    pub leverage: u32,          // 杠杆倍数
-    pub enable_stop_loss: bool, // 是否启用止损
-    pub stop_loss_percent: f64, // 止损百分比
-    pub fixed_margin_usdt: f64, // 固定保证金（通过env配置，默认2 USDT）
-    pub margin_type: String,    // 逐仓/全仓 ("ISOLATED"/"CROSSED")
+    pub copy_ratio: f64,          // 跟单比例
+    pub max_position_size: f64,   // 最大仓位 USDT
+    pub leverage: u32,            // 杠杆倍数
+    pub enable_stop_loss: bool,   // 是否启用止损
+    pub stop_loss_percent: f64,   // 止损百分比
+    pub fixed_margin_usdt: f64,   // 固定保证金（通过env配置，默认2 USDT）
+    pub margin_type: String,      // 逐仓/全仓 ("ISOLATED"/"CROSSED")
     pub dual_side_position: bool, // 持仓模式：true=双向，false=单向
 }
 
@@ -90,20 +90,24 @@ impl CopyTrader {
     /// 跟单开仓
     async fn copy_open_position(&self, leader_pos: &Position) -> Result<()> {
         // 使用固定保证金与杠杆，结合交易规则按步长对齐计算数量
-        let price = self.follower_client.get_current_price(&leader_pos.symbol).await?;
+        let price = self
+            .follower_client
+            .get_current_price(&leader_pos.symbol)
+            .await?;
         let rules = self
             .follower_client
             .get_symbol_trading_rules(&leader_pos.symbol)
             .await?;
-        let desired_margin = self.config.fixed_margin_usdt.min(self.config.max_position_size);
-        let copy_quantity = self
-            .follower_client
-            .calculate_quantity_with_margin(
-                price,
-                desired_margin,
-                self.config.leverage,
-                &rules,
-            )?;
+        let desired_margin = self
+            .config
+            .fixed_margin_usdt
+            .min(self.config.max_position_size);
+        let copy_quantity = self.follower_client.calculate_quantity_with_margin(
+            price,
+            desired_margin,
+            self.config.leverage,
+            &rules,
+        )?;
 
         info!(
             "💼 跟单开仓: {} {} x{} 杠杆, 数量: {:.4}",

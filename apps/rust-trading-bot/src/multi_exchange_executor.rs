@@ -8,9 +8,9 @@ use tokio::task::JoinSet;
 /// 交易信号类型
 #[derive(Debug, Clone)]
 pub enum SignalType {
-    OpenLong(String),   // 开多
-    OpenShort(String),  // 开空
-    Close(String),      // 平仓
+    OpenLong(String),  // 开多
+    OpenShort(String), // 开空
+    Close(String),     // 平仓
 }
 
 /// 多交易所执行器
@@ -94,7 +94,7 @@ impl MultiExchangeExecutor {
                 if let Err(e) = exchange.set_leverage(&symbol, leverage).await {
                     warn!("[{}] 设置杠杆失败: {}", exchange_name, e);
                 }
-                
+
                 if let Err(e) = exchange.set_margin_type(&symbol, margin_type).await {
                     warn!("[{}] 设置保证金模式失败: {}", exchange_name, e);
                 }
@@ -104,7 +104,8 @@ impl MultiExchangeExecutor {
                 let rules = exchange.get_symbol_trading_rules(&symbol).await?;
 
                 // 计算数量
-                let quantity = exchange.calculate_quantity_with_margin(margin, leverage, price, &rules);
+                let quantity =
+                    exchange.calculate_quantity_with_margin(margin, leverage, price, &rules);
 
                 info!(
                     "[{}] 💰 计算: 保证金{}U × {}倍 = {}U, 价格:{}, 数量:{}",
@@ -121,7 +122,10 @@ impl MultiExchangeExecutor {
                     .open_long(&symbol, quantity, leverage, margin_type, dual_side)
                     .await?;
 
-                info!("[{}] ✅ 开多成功: {} 订单ID: {}", exchange_name, symbol, result.order_id);
+                info!(
+                    "[{}] ✅ 开多成功: {} 订单ID: {}",
+                    exchange_name, symbol, result.order_id
+                );
                 Ok(format!("[{}] 开多成功: {}", exchange_name, symbol))
             }
 
@@ -132,7 +136,7 @@ impl MultiExchangeExecutor {
                 if let Err(e) = exchange.set_leverage(&symbol, leverage).await {
                     warn!("[{}] 设置杠杆失败: {}", exchange_name, e);
                 }
-                
+
                 if let Err(e) = exchange.set_margin_type(&symbol, margin_type).await {
                     warn!("[{}] 设置保证金模式失败: {}", exchange_name, e);
                 }
@@ -142,7 +146,8 @@ impl MultiExchangeExecutor {
                 let rules = exchange.get_symbol_trading_rules(&symbol).await?;
 
                 // 计算数量
-                let quantity = exchange.calculate_quantity_with_margin(margin, leverage, price, &rules);
+                let quantity =
+                    exchange.calculate_quantity_with_margin(margin, leverage, price, &rules);
 
                 info!(
                     "[{}] 💰 计算: 保证金{}U × {}倍 = {}U, 价格:{}, 数量:{}",
@@ -159,7 +164,10 @@ impl MultiExchangeExecutor {
                     .open_short(&symbol, quantity, leverage, margin_type, dual_side)
                     .await?;
 
-                info!("[{}] ✅ 开空成功: {} 订单ID: {}", exchange_name, symbol, result.order_id);
+                info!(
+                    "[{}] ✅ 开空成功: {} 订单ID: {}",
+                    exchange_name, symbol, result.order_id
+                );
                 Ok(format!("[{}] 开空成功: {}", exchange_name, symbol))
             }
 
@@ -168,9 +176,11 @@ impl MultiExchangeExecutor {
 
                 // 获取持仓
                 let positions = exchange.get_positions().await?;
-                
+
                 if let Some(pos) = positions.iter().find(|p| p.symbol == symbol) {
-                    let result = exchange.close_position(&symbol, &pos.side, pos.size).await?;
+                    let result = exchange
+                        .close_position(&symbol, &pos.side, pos.size)
+                        .await?;
                     info!(
                         "[{}] ✅ 平仓成功: {} {} {} 订单ID: {}",
                         exchange_name, symbol, pos.side, pos.size, result.order_id
@@ -248,7 +258,7 @@ impl MultiExchangeExecutor {
                     info!("  📈 可用余额: {:.2} USDT", account.available_balance);
                     info!("  📊 未实现盈亏: {:.2} USDT", account.unrealized_pnl);
                     info!("  🔒 已用保证金: {:.2} USDT", account.margin_used);
-                    
+
                     total_balance += account.total_balance;
                     total_pnl += account.unrealized_pnl;
                 }

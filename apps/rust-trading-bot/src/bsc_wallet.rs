@@ -21,7 +21,10 @@ pub struct BscWallet {
 impl BscWallet {
     pub fn new(address: String, private_key: String, testnet: bool) -> Self {
         let (rpc_url, chain_id) = if testnet {
-            ("https://data-seed-prebsc-1-s1.binance.org:8545".to_string(), 97)
+            (
+                "https://data-seed-prebsc-1-s1.binance.org:8545".to_string(),
+                97,
+            )
         } else {
             ("https://bsc-dataseed1.binance.org".to_string(), 56)
         };
@@ -39,10 +42,10 @@ impl BscWallet {
     async fn get_bnb_balance(&self) -> Result<f64> {
         let provider = Provider::<Http>::try_from(&self.rpc_url)?;
         let address: Address = self.address.parse()?;
-        
+
         let balance = provider.get_balance(address, None).await?;
         let balance_bnb = ethers::utils::format_units(balance, "ether")?;
-        
+
         Ok(balance_bnb.parse()?)
     }
 
@@ -51,20 +54,20 @@ impl BscWallet {
         // BSC USDT 合约地址
         let usdt_address: Address = "0x55d398326f99059fF775485246999027B3197955".parse()?;
         let provider = Arc::new(Provider::<Http>::try_from(&self.rpc_url)?);
-        
+
         // ERC20 balanceOf ABI
         abigen!(
             ERC20,
             r#"[{"constant":true,"inputs":[{"name":"_owner","type":"address"}],"name":"balanceOf","outputs":[{"name":"balance","type":"uint256"}],"type":"function"}]"#
         );
-        
+
         let contract = ERC20::new(usdt_address, provider);
         let address: Address = self.address.parse()?;
         let balance: U256 = contract.balance_of(address).call().await?;
-        
+
         // USDT has 18 decimals on BSC
         let balance_usdt = ethers::utils::format_units(balance, 18)?;
-        
+
         Ok(balance_usdt.parse()?)
     }
 
@@ -72,18 +75,18 @@ impl BscWallet {
     async fn get_busd_balance(&self) -> Result<f64> {
         let busd_address: Address = "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56".parse()?;
         let provider = Arc::new(Provider::<Http>::try_from(&self.rpc_url)?);
-        
+
         abigen!(
             ERC20Token,
             r#"[{"constant":true,"inputs":[{"name":"_owner","type":"address"}],"name":"balanceOf","outputs":[{"name":"balance","type":"uint256"}],"type":"function"}]"#
         );
-        
+
         let contract = ERC20Token::new(busd_address, provider);
         let address: Address = self.address.parse()?;
         let balance: U256 = contract.balance_of(address).call().await?;
-        
+
         let balance_busd = ethers::utils::format_units(balance, 18)?;
-        
+
         Ok(balance_busd.parse()?)
     }
 }
@@ -107,7 +110,7 @@ impl ExchangeClient for BscWallet {
             Ok(bnb) => {
                 if bnb > 0.001 {
                     info!("BSC BNB 余额: {:.4}", bnb);
-                    
+
                     // 获取 BNB 实时价格
                     match self.price_service.get_price("bnb").await {
                         Ok(price) => {
@@ -175,11 +178,25 @@ impl ExchangeClient for BscWallet {
         Ok(()) // 链上钱包无持仓模式
     }
 
-    async fn open_long(&self, _symbol: &str, _quantity: f64, _leverage: u32, _margin_type: &str, _dual_side: bool) -> Result<OrderResult> {
+    async fn open_long(
+        &self,
+        _symbol: &str,
+        _quantity: f64,
+        _leverage: u32,
+        _margin_type: &str,
+        _dual_side: bool,
+    ) -> Result<OrderResult> {
         Err(anyhow!("BSC 钱包不支持合约交易，请使用 DEX"))
     }
 
-    async fn open_short(&self, _symbol: &str, _quantity: f64, _leverage: u32, _margin_type: &str, _dual_side: bool) -> Result<OrderResult> {
+    async fn open_short(
+        &self,
+        _symbol: &str,
+        _quantity: f64,
+        _leverage: u32,
+        _margin_type: &str,
+        _dual_side: bool,
+    ) -> Result<OrderResult> {
         Err(anyhow!("BSC 钱包不支持合约交易，请使用 DEX"))
     }
 

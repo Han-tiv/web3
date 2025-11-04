@@ -11,7 +11,7 @@ impl TechnicalAnalyzer {
     /// 计算所有技术指标
     pub fn calculate_indicators(&self, klines: &[Kline]) -> TechnicalIndicators {
         let closes: Vec<f64> = klines.iter().map(|k| k.close).collect();
-        
+
         let sma_5 = self.calculate_sma(&closes, 5);
         let sma_20 = self.calculate_sma(&closes, 20);
         let sma_50 = self.calculate_sma(&closes, 50);
@@ -19,8 +19,11 @@ impl TechnicalAnalyzer {
         let (macd, macd_signal) = self.calculate_macd(&closes);
         let (bb_upper, bb_middle, bb_lower) = self.calculate_bollinger_bands(&closes, 20, 2.0);
 
-        info!("📊 技术指标: SMA5={:.2} SMA20={:.2} RSI={:.2}", sma_5, sma_20, rsi);
-        
+        info!(
+            "📊 技术指标: SMA5={:.2} SMA20={:.2} RSI={:.2}",
+            sma_5, sma_20, rsi
+        );
+
         TechnicalIndicators {
             sma_5,
             sma_20,
@@ -39,11 +42,11 @@ impl TechnicalAnalyzer {
         if prices.is_empty() {
             return 0.0;
         }
-        
+
         if prices.len() < period {
             return prices.iter().sum::<f64>() / prices.len() as f64;
         }
-        
+
         let sum: f64 = prices.iter().rev().take(period).sum();
         sum / period as f64
     }
@@ -123,7 +126,12 @@ impl TechnicalAnalyzer {
     }
 
     /// 计算布林带
-    pub fn calculate_bollinger_bands(&self, prices: &[f64], period: usize, std_dev: f64) -> (f64, f64, f64) {
+    pub fn calculate_bollinger_bands(
+        &self,
+        prices: &[f64],
+        period: usize,
+        std_dev: f64,
+    ) -> (f64, f64, f64) {
         if prices.len() < period {
             let avg = prices.iter().sum::<f64>() / prices.len() as f64;
             return (avg, avg, avg);
@@ -161,7 +169,7 @@ impl TechnicalAnalyzer {
         let price_above_sma50 = current_price > indicators.sma_50;
         let sma20_above_sma50 = indicators.sma_20 > indicators.sma_50;
         let macd_positive = indicators.macd > indicators.macd_signal;
-        
+
         if price_above_sma20 && price_above_sma50 && sma20_above_sma50 && macd_positive {
             "强势上涨".to_string()
         } else if price_above_sma20 && sma20_above_sma50 {
@@ -191,7 +199,13 @@ impl TechnicalAnalyzer {
     }
 
     /// 获取布林带信号
-    pub fn get_bollinger_signal(&self, current_price: f64, bb_upper: f64, bb_lower: f64, bb_middle: f64) -> String {
+    pub fn get_bollinger_signal(
+        &self,
+        current_price: f64,
+        bb_upper: f64,
+        bb_lower: f64,
+        bb_middle: f64,
+    ) -> String {
         let width = bb_upper - bb_lower;
         let position = (current_price - bb_lower) / width;
 
@@ -225,9 +239,8 @@ mod tests {
     fn test_rsi_calculation() {
         let analyzer = TechnicalAnalyzer::new();
         let prices = vec![
-            44.0, 44.25, 44.5, 43.75, 44.0,
-            44.5, 45.0, 45.25, 45.5, 45.25,
-            45.5, 46.0, 45.75, 45.5, 45.0,
+            44.0, 44.25, 44.5, 43.75, 44.0, 44.5, 45.0, 45.25, 45.5, 45.25, 45.5, 46.0, 45.75,
+            45.5, 45.0,
         ];
         let rsi = analyzer.calculate_rsi(&prices, 14);
         assert!(rsi > 0.0 && rsi < 100.0);

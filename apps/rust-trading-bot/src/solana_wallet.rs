@@ -38,7 +38,7 @@ impl SolanaWallet {
         struct RpcResponse {
             result: RpcResult,
         }
-        
+
         #[derive(Deserialize)]
         struct RpcResult {
             value: u64,
@@ -52,17 +52,13 @@ impl SolanaWallet {
         });
 
         let client = reqwest::Client::new();
-        let response = client
-            .post(&self.rpc_url)
-            .json(&body)
-            .send()
-            .await?;
+        let response = client.post(&self.rpc_url).json(&body).send().await?;
 
         let rpc_response: RpcResponse = response.json().await?;
-        
+
         // SOL has 9 decimals
         let balance_sol = rpc_response.result.value as f64 / 1_000_000_000.0;
-        
+
         Ok(balance_sol)
     }
 
@@ -89,7 +85,7 @@ impl ExchangeClient for SolanaWallet {
             Ok(sol) => {
                 if sol > 0.001 {
                     info!("Solana SOL 余额: {:.4}", sol);
-                    
+
                     // 获取 SOL 实时价格
                     match self.price_service.get_price("sol").await {
                         Ok(price) => {
@@ -135,11 +131,25 @@ impl ExchangeClient for SolanaWallet {
         Ok(()) // 链上钱包无持仓模式
     }
 
-    async fn open_long(&self, _symbol: &str, _quantity: f64, _leverage: u32, _margin_type: &str, _dual_side: bool) -> Result<OrderResult> {
+    async fn open_long(
+        &self,
+        _symbol: &str,
+        _quantity: f64,
+        _leverage: u32,
+        _margin_type: &str,
+        _dual_side: bool,
+    ) -> Result<OrderResult> {
         Err(anyhow!("Solana 钱包不支持合约交易，请使用 DEX"))
     }
 
-    async fn open_short(&self, _symbol: &str, _quantity: f64, _leverage: u32, _margin_type: &str, _dual_side: bool) -> Result<OrderResult> {
+    async fn open_short(
+        &self,
+        _symbol: &str,
+        _quantity: f64,
+        _leverage: u32,
+        _margin_type: &str,
+        _dual_side: bool,
+    ) -> Result<OrderResult> {
         Err(anyhow!("Solana 钱包不支持合约交易，请使用 DEX"))
     }
 

@@ -12,10 +12,6 @@ name = "check_balance"
 path = "src/bin/check_balance.rs"
 
 [[bin]]
-name = "test_bot"
-path = "src/bin/test_bot.rs"
-
-[[bin]]
 name = "get_channels"
 path = "src/bin/get_channels.rs"
 
@@ -26,10 +22,6 @@ path = "src/bin/monitor_channel.rs"
 [[bin]]
 name = "signal_trader"
 path = "src/bin/signal_trader.rs"
-
-[[bin]]
-name = "test_open_short"
-path = "src/bin/test_open_short.rs"
 
 [[bin]]
 name = "analyze_win_rate"
@@ -67,6 +59,18 @@ path = "src/bin/integrated_ai_trader.rs"
 name = "smart_money_trader"
 path = "src/bin/smart_money_trader.rs"
 
+[[bin]]
+name = "position_rebalance_trader"
+path = "src/bin/position_rebalance_trader.rs"
+
+[[bin]]
+name = "check_balance_unified"
+path = "src/bin/check_balance_unified.rs"
+
+[[bin]]
+name = "debug_unified"
+path = "src/bin/debug_unified.rs"
+
 [dependencies]
 # Telegram Bot
 teloxide = { version = "0.12", features = ["macros", "auto-send"] }
@@ -103,6 +107,7 @@ secp256k1 = { version = "0.28", features = ["recovery"] }
 
 # 正则表达式
 regex = "1.11"
+lazy_static = "1.4"
 
 # 日志
 log = "0.4"

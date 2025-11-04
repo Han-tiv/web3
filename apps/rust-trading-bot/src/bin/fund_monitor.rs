@@ -1,23 +1,22 @@
 /// 主力资金监控机器人 - 专注Alpha/FOMO币种的日内交易
-/// 
+///
 /// 功能：
 /// 1. 实时监控Valuescan频道(2254462672)
 /// 2. 解析资金异动消息，提取币种信息
 /// 3. 筛选alpha/FOMO高潜力币种
 /// 4. 获取技术数据（K线、指标）
 /// 5. 将数据发送给DeepSeek AI进行决策
-
 use anyhow::Result;
+use chrono::{DateTime, Utc};
 use dotenv::dotenv;
-use grammers_client::{Client, Config, Update, types::Message};
+use grammers_client::{types::Message, Client, Config, Update};
 use grammers_session::Session;
-use serde::{Serialize, Deserialize};
-use std::env;
+use regex::Regex;
+use serde::{Deserialize, Serialize};
 use std::collections::{HashMap, HashSet};
+use std::env;
 use std::sync::Arc;
 use tokio::sync::RwLock;
-use chrono::{DateTime, Utc};
-use regex::Regex;
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 struct FundAlert {
@@ -32,10 +31,10 @@ struct FundAlert {
 
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq)]
 enum AlertType {
-    FundInflow,      // 资金流入
-    FundEscape,      // 主力出逃
+    FundInflow,       // 资金流入
+    FundEscape,       // 主力出逃
     AlphaOpportunity, // Alpha机会
-    FomoSignal,      // FOMO信号
+    FomoSignal,       // FOMO信号
 }
 
 #[derive(Debug, Clone, Serialize)]
@@ -149,13 +148,17 @@ impl FundMonitor {
     /// 判断是否为Alpha/FOMO机会
     fn is_alpha_or_fomo(&self, alert: &FundAlert) -> bool {
         let message_lower = alert.raw_message.to_lowercase();
-        
+
         // 检查Alpha关键词
-        let is_alpha = self.alpha_keywords.iter()
+        let is_alpha = self
+            .alpha_keywords
+            .iter()
             .any(|kw| message_lower.contains(kw));
-        
+
         // 检查FOMO关键词或高涨幅
-        let is_fomo = self.fomo_keywords.iter()
+        let is_fomo = self
+            .fomo_keywords
+            .iter()
             .any(|kw| message_lower.contains(kw))
             || alert.change_24h > 10.0; // 24H涨幅>10%
 
@@ -165,11 +168,19 @@ impl FundMonitor {
     /// 更新分类
     fn update_alert_type(&self, alert: &mut FundAlert) {
         let message_lower = alert.raw_message.to_lowercase();
-        
-        if self.alpha_keywords.iter().any(|kw| message_lower.contains(kw)) {
+
+        if self
+            .alpha_keywords
+            .iter()
+            .any(|kw| message_lower.contains(kw))
+        {
             alert.alert_type = AlertType::AlphaOpportunity;
-        } else if self.fomo_keywords.iter().any(|kw| message_lower.contains(kw)) 
-            || alert.change_24h > 10.0 {
+        } else if self
+            .fomo_keywords
+            .iter()
+            .any(|kw| message_lower.contains(kw))
+            || alert.change_24h > 10.0
+        {
             alert.alert_type = AlertType::FomoSignal;
         }
     }
@@ -198,7 +209,8 @@ impl FundMonitor {
             // 更新分类
             self.update_alert_type(&mut alert);
 
-            println!("\n🔥 发现{}机会: {} 💰", 
+            println!(
+                "\n🔥 发现{}机会: {} 💰",
                 match alert.alert_type {
                     AlertType::AlphaOpportunity => "Alpha",
                     AlertType::FomoSignal => "FOMO",
@@ -206,8 +218,10 @@ impl FundMonitor {
                 },
                 alert.coin
             );
-            println!("   价格: ${:.4} | 24H: {:+.2}% | 类型: {}", 
-                alert.price, alert.change_24h, alert.fund_type);
+            println!(
+                "   价格: ${:.4} | 24H: {:+.2}% | 类型: {}",
+                alert.price, alert.change_24h, alert.fund_type
+            );
 
             // 保存到跟踪列表
             let mut coins = self.tracked_coins.write().await;
@@ -250,13 +264,13 @@ impl FundMonitor {
         // 这里应该调用实际的交易所API
         // 暂时返回模拟数据
         println!("⏳ 从交易所获取 {} 数据...", coin);
-        
+
         // TODO: 实际实现需要：
         // 1. 查询币种在哪些交易所上市
         // 2. 获取15m K线数据
         // 3. 计算技术指标（RSI、MACD、布林带）
         // 4. 获取资金费率（合约）
-        
+
         Ok(TechnicalData {
             current_price: 0.0,
             volume_24h: 0.0,
@@ -273,14 +287,15 @@ impl FundMonitor {
 
     /// 保存分析结果到文件
     async fn save_analysis(&self, analysis: &CoinAnalysis) -> Result<()> {
-        let filename = format!("analysis_{}_{}.json", 
-            analysis.coin, 
+        let filename = format!(
+            "analysis_{}_{}.json",
+            analysis.coin,
             Utc::now().format("%Y%m%d_%H%M%S")
         );
-        
+
         let json = serde_json::to_string_pretty(analysis)?;
         tokio::fs::write(&filename, json).await?;
-        
+
         println!("💾 分析结果已保存: {}", filename);
         Ok(())
     }
@@ -288,17 +303,17 @@ impl FundMonitor {
     /// 发送给DeepSeek AI进行决策
     async fn send_to_deepseek(&self, analysis: CoinAnalysis) -> Result<()> {
         println!("🧠 发送给 DeepSeek AI 分析...");
-        
+
         let prompt = self.build_deepseek_prompt(&analysis);
-        
+
         println!("\n📝 DeepSeek Prompt:");
         println!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
         println!("{}", prompt);
         println!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n");
-        
+
         // TODO: 实际调用DeepSeek API
         // let response = deepseek_client.analyze(&prompt).await?;
-        
+
         Ok(())
     }
 
@@ -411,10 +426,17 @@ impl FundMonitor {
                     tech.high_24h,
                     tech.low_24h,
                     tech.change_1h,
-                    tech.rsi_15m.map(|r| format!("{:.2}", r)).unwrap_or("N/A".to_string()),
+                    tech.rsi_15m
+                        .map(|r| format!("{:.2}", r))
+                        .unwrap_or("N/A".to_string()),
                     tech.macd_15m.as_ref().map(|s| s.as_str()).unwrap_or("N/A"),
-                    tech.bb_position.as_ref().map(|s| s.as_str()).unwrap_or("N/A"),
-                    tech.funding_rate.map(|r| format!("{:.4}%", r*100.0)).unwrap_or("N/A".to_string()),
+                    tech.bb_position
+                        .as_ref()
+                        .map(|s| s.as_str())
+                        .unwrap_or("N/A"),
+                    tech.funding_rate
+                        .map(|r| format!("{:.4}%", r * 100.0))
+                        .unwrap_or("N/A".to_string()),
                 )
             } else {
                 "⚠️  【技术数据获取中...】\n- 正在从交易所获取K线和指标数据".to_string()

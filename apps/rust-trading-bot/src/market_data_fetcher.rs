@@ -1,12 +1,11 @@
 /// 市场数据获取器 - 从多个交易所获取技术数据
-/// 
+///
 /// 支持的交易所：
 /// - Binance (币安)
 /// - OKX (欧易)
 /// - Bybit
 /// - Gate.io
-
-use anyhow::{Result, Context};
+use anyhow::{Context, Result};
 use reqwest::Client;
 use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
@@ -90,13 +89,14 @@ impl MarketDataFetcher {
     /// 从Binance获取数据
     async fn fetch_from_binance(&self, coin: &str) -> Result<MarketData> {
         let symbol = format!("{}USDT", coin);
-        
+
         // 获取24h ticker
         let ticker_url = format!(
             "https://api.binance.com/api/v3/ticker/24hr?symbol={}",
             symbol
         );
-        let ticker: BinanceTicker = self.client
+        let ticker: BinanceTicker = self
+            .client
             .get(&ticker_url)
             .send()
             .await?
@@ -109,7 +109,8 @@ impl MarketDataFetcher {
             "https://api.binance.com/api/v3/klines?symbol={}&interval=15m&limit=100",
             symbol
         );
-        let klines_raw: Vec<serde_json::Value> = self.client
+        let klines_raw: Vec<serde_json::Value> = self
+            .client
             .get(&klines_url)
             .send()
             .await?
@@ -146,7 +147,7 @@ impl MarketDataFetcher {
             low_24h: ticker.low_price.parse().unwrap_or(0.0),
             change_1h: 0.0, // Binance不直接提供1h数据
             change_24h: ticker.price_change_percent.parse().unwrap_or(0.0),
-            klines,
+            klines_15m: klines,
             technical_indicators: TechnicalIndicators {
                 rsi_15m: indicators.rsi,
                 macd: indicators.macd,
@@ -187,13 +188,8 @@ impl MarketDataFetcher {
             "https://fapi.binance.com/fapi/v1/premiumIndex?symbol={}",
             symbol
         );
-        
-        let response: BinanceFundingRate = self.client
-            .get(&url)
-            .send()
-            .await?
-            .json()
-            .await?;
+
+        let response: BinanceFundingRate = self.client.get(&url).send().await?.json().await?;
 
         Ok(response.last_funding_rate.parse().unwrap_or(0.0))
     }
@@ -205,16 +201,16 @@ impl MarketDataFetcher {
         }
 
         let closes: Vec<f64> = klines.iter().map(|k| k.close).collect();
-        
+
         // 计算RSI
         let rsi = self.calculate_rsi(&closes, 14);
-        
+
         // 计算MACD
         let (macd, signal) = self.calculate_macd(&closes);
-        
+
         // 计算布林带
         let (bb_upper, bb_middle, bb_lower) = self.calculate_bollinger_bands(&closes, 20, 2.0);
-        
+
         // 计算SMA
         let sma_5 = self.calculate_sma(&closes, 5);
         let sma_20 = self.calculate_sma(&closes, 20);
@@ -267,7 +263,7 @@ impl MarketDataFetcher {
         let ema_12 = self.calculate_ema(prices, 12);
         let ema_26 = self.calculate_ema(prices, 26);
         let macd = ema_12 - ema_26;
-        
+
         // Signal line (9-period EMA of MACD)
         let signal = macd * 0.9; // Simplified
 
@@ -291,7 +287,12 @@ impl MarketDataFetcher {
     }
 
     /// 计算布林带
-    fn calculate_bollinger_bands(&self, prices: &[f64], period: usize, std_dev: f64) -> (f64, f64, f64) {
+    fn calculate_bollinger_bands(
+        &self,
+        prices: &[f64],
+        period: usize,
+        std_dev: f64,
+    ) -> (f64, f64, f64) {
         let sma = self.calculate_sma(prices, period);
         let std = self.calculate_std_dev(prices, period);
 
@@ -314,14 +315,15 @@ impl MarketDataFetcher {
     fn calculate_std_dev(&self, prices: &[f64], period: usize) -> f64 {
         let sma = self.calculate_sma(prices, period);
         let subset: Vec<f64> = prices.iter().rev().take(period).cloned().collect();
-        
+
         let variance: f64 = subset
             .iter()
             .map(|price| {
                 let diff = price - sma;
                 diff * diff
             })
-            .sum::<f64>() / period as f64;
+            .sum::<f64>()
+            / period as f64;
 
         variance.sqrt()
     }
@@ -384,7 +386,7 @@ mod tests {
         let fetcher = MarketDataFetcher::new();
         let result = fetcher.fetch_market_data("BTC").await;
         assert!(result.is_ok());
-        
+
         let data = result.unwrap();
         println!("BTC Data: {:?}", data);
         assert!(data.current_price > 0.0);

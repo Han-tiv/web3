@@ -14,9 +14,9 @@ use tokio::sync::RwLock;
 
 #[derive(Debug, Clone)]
 pub struct HyperliquidClient {
-    address: String,           // 以太坊地址
-    proxy_address: String,     // 代理地址（可选）
-    secret: String,            // 私钥
+    address: String,       // 以太坊地址
+    proxy_address: String, // 代理地址（可选）
+    secret: String,        // 私钥
     base_url: String,
     rules_cache: Arc<RwLock<HashMap<String, TradingRules>>>,
 }
@@ -92,7 +92,9 @@ impl HyperliquidClient {
 
     /// 使用私钥签名消息
     async fn sign_l1_action(&self, action: serde_json::Value) -> Result<Signature> {
-        let wallet = self.secret.parse::<LocalWallet>()
+        let wallet = self
+            .secret
+            .parse::<LocalWallet>()
             .map_err(|e| anyhow!("解析私钥失败: {}", e))?;
 
         // Hyperliquid L1 签名结构
@@ -109,8 +111,9 @@ impl HyperliquidClient {
 
         let message_str = serde_json::to_string(&message)?;
         let hash = ethers::utils::keccak256(message_str.as_bytes());
-        
-        let signature = wallet.sign_message(&hash)
+
+        let signature = wallet
+            .sign_message(&hash)
             .await
             .map_err(|e| anyhow!("签名失败: {}", e))?;
 
@@ -118,9 +121,14 @@ impl HyperliquidClient {
     }
 
     /// 发送签名的交易请求
-    async fn post_exchange(&self, action: serde_json::Value, signature: Signature, nonce: u64) -> Result<serde_json::Value> {
+    async fn post_exchange(
+        &self,
+        action: serde_json::Value,
+        signature: Signature,
+        nonce: u64,
+    ) -> Result<serde_json::Value> {
         let url = format!("{}/exchange", self.base_url);
-        
+
         // 将 U256 转换为字节数组
         let mut r_bytes = [0u8; 32];
         let mut s_bytes = [0u8; 32];
@@ -139,11 +147,7 @@ impl HyperliquidClient {
         });
 
         let client = reqwest::Client::new();
-        let response = client
-            .post(&url)
-            .json(&body)
-            .send()
-            .await?;
+        let response = client.post(&url).json(&body).send().await?;
 
         let status = response.status();
         let text = response.text().await?;
@@ -160,7 +164,11 @@ impl HyperliquidClient {
     }
 
     /// Hyperliquid 使用 POST 请求查询数据
-    async fn post_info<T: for<'de> Deserialize<'de>>(&self, request_type: &str, _params: serde_json::Value) -> Result<T> {
+    async fn post_info<T: for<'de> Deserialize<'de>>(
+        &self,
+        request_type: &str,
+        _params: serde_json::Value,
+    ) -> Result<T> {
         let url = format!("{}/info", self.base_url);
         let body = json!({
             "type": request_type,
@@ -168,11 +176,7 @@ impl HyperliquidClient {
         });
 
         let client = reqwest::Client::new();
-        let response = client
-            .post(&url)
-            .json(&body)
-            .send()
-            .await?;
+        let response = client.post(&url).json(&body).send().await?;
 
         let status = response.status();
         let text = response.text().await?;
@@ -198,8 +202,9 @@ impl HyperliquidClient {
     /// 获取资产索引
     async fn get_asset_index(&self, coin: &str) -> Result<u32> {
         let meta: HyperliquidMeta = self.post_info("meta", json!({})).await?;
-        
-        meta.universe.iter()
+
+        meta.universe
+            .iter()
             .position(|a| a.name == coin)
             .map(|i| i as u32)
             .ok_or_else(|| anyhow!("未找到资产: {}", coin))
@@ -213,7 +218,8 @@ impl ExchangeClient for HyperliquidClient {
     }
 
     async fn get_positions(&self) -> Result<Vec<Position>> {
-        let response: Vec<HyperliquidPosition> = self.post_info("clearinghouseState", json!({})).await?;
+        let response: Vec<HyperliquidPosition> =
+            self.post_info("clearinghouseState", json!({})).await?;
 
         let mut result = Vec::new();
         for pos in response {
@@ -248,10 +254,13 @@ impl ExchangeClient for HyperliquidClient {
     async fn get_account_info(&self) -> Result<AccountInfo> {
         // 查询账户状态
         let balance: HyperliquidBalance = self.post_info("clearinghouseState", json!({})).await?;
-        
+
         let margin_summary = balance.margin_summary;
         let total_balance = margin_summary.account_value.parse::<f64>().unwrap_or(0.0);
-        let margin_used = margin_summary.total_margin_used.parse::<f64>().unwrap_or(0.0);
+        let margin_used = margin_summary
+            .total_margin_used
+            .parse::<f64>()
+            .unwrap_or(0.0);
 
         info!("Hyperliquid 账户余额: {:.2} USDC", total_balance);
 
@@ -265,15 +274,17 @@ impl ExchangeClient for HyperliquidClient {
 
     async fn get_current_price(&self, symbol: &str) -> Result<f64> {
         let coin = self.format_symbol(symbol);
-        
+
         #[derive(Debug, Deserialize)]
         struct AllMids {
             mids: HashMap<String, String>,
         }
 
         let all_mids: AllMids = self.post_info("allMids", json!({})).await?;
-        
-        all_mids.mids.get(&coin)
+
+        all_mids
+            .mids
+            .get(&coin)
             .and_then(|price_str| price_str.parse().ok())
             .ok_or_else(|| anyhow!("未找到 {} 的价格", symbol))
     }
@@ -290,12 +301,14 @@ impl ExchangeClient for HyperliquidClient {
         let coin = self.format_symbol(symbol);
         let meta: HyperliquidMeta = self.post_info("meta", json!({})).await?;
 
-        let asset_info = meta.universe.iter()
+        let asset_info = meta
+            .universe
+            .iter()
             .find(|a| a.name == coin)
             .ok_or_else(|| anyhow!("未找到 {} 的交易规则", symbol))?;
 
         let step_size = 10_f64.powi(-asset_info.sz_decimals);
-        
+
         let rules = TradingRules {
             step_size,
             min_qty: step_size,
@@ -304,7 +317,10 @@ impl ExchangeClient for HyperliquidClient {
         };
 
         // 缓存规则
-        self.rules_cache.write().await.insert(symbol.to_string(), rules.clone());
+        self.rules_cache
+            .write()
+            .await
+            .insert(symbol.to_string(), rules.clone());
 
         Ok(rules)
     }
@@ -337,7 +353,7 @@ impl ExchangeClient for HyperliquidClient {
     ) -> Result<OrderResult> {
         let coin = self.format_symbol(symbol);
         let price = self.get_current_price(symbol).await?;
-        
+
         // Hyperliquid 订单格式
         let order = json!({
             "type": "order",
@@ -358,7 +374,10 @@ impl ExchangeClient for HyperliquidClient {
 
         info!("✅ Hyperliquid 开多成功: {} 数量: {}", symbol, quantity);
         Ok(OrderResult {
-            order_id: result["status"]["resting"][0]["oid"].as_str().unwrap_or("").to_string(),
+            order_id: result["status"]["resting"][0]["oid"]
+                .as_str()
+                .unwrap_or("")
+                .to_string(),
             symbol: symbol.to_string(),
             side: "BUY".to_string(),
             quantity,
@@ -377,7 +396,7 @@ impl ExchangeClient for HyperliquidClient {
     ) -> Result<OrderResult> {
         let coin = self.format_symbol(symbol);
         let price = self.get_current_price(symbol).await?;
-        
+
         let order = json!({
             "type": "order",
             "orders": [{
@@ -397,7 +416,10 @@ impl ExchangeClient for HyperliquidClient {
 
         info!("✅ Hyperliquid 开空成功: {} 数量: {}", symbol, quantity);
         Ok(OrderResult {
-            order_id: result["status"]["resting"][0]["oid"].as_str().unwrap_or("").to_string(),
+            order_id: result["status"]["resting"][0]["oid"]
+                .as_str()
+                .unwrap_or("")
+                .to_string(),
             symbol: symbol.to_string(),
             side: "SELL".to_string(),
             quantity,
@@ -409,10 +431,10 @@ impl ExchangeClient for HyperliquidClient {
     async fn close_position(&self, symbol: &str, side: &str, size: f64) -> Result<OrderResult> {
         let coin = self.format_symbol(symbol);
         let price = self.get_current_price(symbol).await?;
-        
+
         // 平仓是反向操作
-        let is_buy = side == "SHORT";  // 平空仓需要买入
-        
+        let is_buy = side == "SHORT"; // 平空仓需要买入
+
         let order = json!({
             "type": "order",
             "orders": [{
@@ -430,9 +452,15 @@ impl ExchangeClient for HyperliquidClient {
         let signature = self.sign_l1_action(order.clone()).await?;
         let result = self.post_exchange(order, signature, nonce).await?;
 
-        info!("✅ Hyperliquid 平仓成功: {} {} 数量: {}", symbol, side, size);
+        info!(
+            "✅ Hyperliquid 平仓成功: {} {} 数量: {}",
+            symbol, side, size
+        );
         Ok(OrderResult {
-            order_id: result["status"]["resting"][0]["oid"].as_str().unwrap_or("").to_string(),
+            order_id: result["status"]["resting"][0]["oid"]
+                .as_str()
+                .unwrap_or("")
+                .to_string(),
             symbol: symbol.to_string(),
             side: if is_buy { "BUY" } else { "SELL" }.to_string(),
             quantity: size,

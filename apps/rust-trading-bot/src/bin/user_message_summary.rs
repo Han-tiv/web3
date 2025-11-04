@@ -1,4 +1,5 @@
 use anyhow::Result;
+use chrono::{DateTime, Utc};
 use dotenv::dotenv;
 use grammers_client::{Client, Config, InitParams};
 use grammers_session::Session;
@@ -6,7 +7,6 @@ use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
 use std::env;
 use std::fs;
-use chrono::{DateTime, Utc};
 
 /// 频道配置
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -125,14 +125,17 @@ async fn main() -> Result<()> {
     let mut total_messages = 0;
 
     for channel_config in &channels {
-        println!("📡 分析频道: {} ({})...", channel_config.name, channel_config.role);
+        println!(
+            "📡 分析频道: {} ({})...",
+            channel_config.name, channel_config.role
+        );
 
         let user_data = analyze_channel_messages(&client, channel_config).await?;
-        
+
         // 合并用户数据
         for (user_id, summary) in user_data {
             total_messages += summary.total_messages;
-            
+
             let entry = all_user_data.entry(user_id).or_insert_with(|| UserSummary {
                 user_id,
                 username: summary.username.clone(),
@@ -156,13 +159,15 @@ async fn main() -> Result<()> {
     // 计算活跃度分数
     for user_summary in all_user_data.values_mut() {
         user_summary.activity_score = calculate_activity_score(user_summary);
-        
+
         // 去重关键词
         user_summary.keywords.sort();
         user_summary.keywords.dedup();
-        
+
         // 按时间排序消息
-        user_summary.message_timeline.sort_by(|a, b| b.timestamp.cmp(&a.timestamp));
+        user_summary
+            .message_timeline
+            .sort_by(|a, b| b.timestamp.cmp(&a.timestamp));
     }
 
     // 生成报告
@@ -223,7 +228,7 @@ async fn analyze_channel_messages(
 
         if let Some(sender) = message.sender() {
             let user_id = sender.id();
-            
+
             let (username, display_name) = match sender {
                 grammers_client::types::Chat::User(user) => {
                     let uname = user.username().unwrap_or("").to_string();
@@ -260,14 +265,15 @@ async fn analyze_channel_messages(
 
             summary.total_messages += 1;
 
-            let channel_activity = summary
-                .channels
-                .entry(config.name.clone())
-                .or_insert_with(|| ChannelActivity {
-                    channel_name: config.name.clone(),
-                    message_count: 0,
-                    last_active: timestamp.clone(),
-                });
+            let channel_activity =
+                summary
+                    .channels
+                    .entry(config.name.clone())
+                    .or_insert_with(|| ChannelActivity {
+                        channel_name: config.name.clone(),
+                        message_count: 0,
+                        last_active: timestamp.clone(),
+                    });
 
             channel_activity.message_count += 1;
             channel_activity.last_active = timestamp.clone();
@@ -289,13 +295,13 @@ async fn analyze_channel_messages(
 
 fn extract_keywords(text: &str) -> Vec<String> {
     let mut keywords = Vec::new();
-    
+
     // 简单的关键词提取
     let words: Vec<&str> = text.split_whitespace().collect();
-    
+
     for word in words {
         let word_lower = word.to_lowercase();
-        
+
         // 检测加密货币相关关键词
         if word_lower.contains("btc") || word_lower.contains("bitcoin") {
             keywords.push("BTC".to_string());
@@ -306,7 +312,7 @@ fn extract_keywords(text: &str) -> Vec<String> {
         if word_lower.contains("usdt") {
             keywords.push("USDT".to_string());
         }
-        
+
         // 检测交易信号
         if word_lower.contains("buy") || word_lower.contains("long") || word.contains("做多") {
             keywords.push("做多信号".to_string());
@@ -321,7 +327,7 @@ fn extract_keywords(text: &str) -> Vec<String> {
             keywords.push("止盈".to_string());
         }
     }
-    
+
     keywords
 }
 
@@ -390,7 +396,10 @@ fn display_summary(report: &AnalysisReport) {
     println!("📈 总体统计:");
     println!("  消息总数: {}", report.statistics.total_messages);
     println!("  用户总数: {}", report.statistics.total_users);
-    println!("  平均消息数: {:.1}", report.statistics.avg_messages_per_user);
+    println!(
+        "  平均消息数: {:.1}",
+        report.statistics.avg_messages_per_user
+    );
     println!("  最活跃用户: {}", report.statistics.most_active_user);
     println!();
 
@@ -406,12 +415,13 @@ fn display_summary(report: &AnalysisReport) {
             user.total_messages,
             user.activity_score
         );
-        
+
         if !user.keywords.is_empty() {
             println!("   关键词: {}", user.keywords.join(", "));
         }
-        
-        println!("   活跃频道: {}", 
+
+        println!(
+            "   活跃频道: {}",
             user.channels.keys().cloned().collect::<Vec<_>>().join(", ")
         );
         println!();

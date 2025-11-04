@@ -41,13 +41,13 @@ struct BybitPositionList {
 #[allow(non_snake_case)]
 struct BybitPosition {
     symbol: String,
-    side: String,          // "Buy" or "Sell"
-    size: String,          // 持仓数量
-    avgPrice: String,      // 开仓均价
+    side: String,     // "Buy" or "Sell"
+    size: String,     // 持仓数量
+    avgPrice: String, // 开仓均价
     markPrice: String,
     unrealisedPnl: String,
     leverage: String,
-    positionIM: String,    // 仓位保证金
+    positionIM: String, // 仓位保证金
 }
 
 #[derive(Debug, Deserialize)]
@@ -62,6 +62,11 @@ struct BybitAccount {
     totalAvailableBalance: String,
     totalPerpUPL: String,
     totalInitialMargin: String,
+}
+
+#[derive(Debug, Deserialize)]
+struct BybitKlineResult {
+    list: Vec<Vec<String>>,
 }
 
 impl BybitClient {
@@ -105,6 +110,12 @@ impl BybitClient {
         headers.insert("X-BAPI-RECV-WINDOW", recv_window.parse().unwrap());
         headers.insert("Content-Type", "application/json".parse().unwrap());
         headers
+    }
+
+    /// 获取指定交易对的持仓信息
+    pub async fn get_position(&self, symbol: &str) -> Result<Option<Position>> {
+        let positions = self.get_positions().await?;
+        Ok(positions.into_iter().find(|p| p.symbol == symbol))
     }
 }
 
@@ -167,10 +178,15 @@ impl ExchangeClient for BybitClient {
         Ok(result)
     }
 
+    async fn get_position(&self, symbol: &str) -> Result<Option<Position>> {
+        let positions = self.get_positions().await?;
+        Ok(positions.into_iter().find(|p| p.symbol == symbol))
+    }
+
     async fn get_account_info(&self) -> Result<AccountInfo> {
         let timestamp = Utc::now().timestamp_millis().to_string();
         let recv_window = "5000";
-        
+
         // 查询所有账户类型
         let account_types = vec!["UNIFIED", "CONTRACT", "SPOT", "FUND"];
         let mut total_balance = 0.0;
@@ -602,5 +618,103 @@ impl ExchangeClient for BybitClient {
             price: 0.0,
             status: "FILLED".to_string(),
         })
+    }
+
+    async fn get_klines(
+        &self,
+        symbol: &str,
+        interval: &str,
+        limit: Option<usize>,
+    ) -> Result<Vec<Vec<f64>>> {
+        let limit_value = limit.unwrap_or(100);
+        let url = format!("{}/v5/market/kline", self.base_url);
+        let params = [
+            ("category", "linear".to_string()),
+            ("symbol", symbol.to_string()),
+            ("interval", interval.to_string()),
+            ("limit", limit_value.to_string()),
+        ];
+
+        let client = reqwest::Client::new();
+        let response = client.get(&url).query(&params).send().await?;
+        let status = response.status();
+        let body = response.text().await?;
+
+        if !status.is_success() {
+            error!("Bybit获取K线失败: {}", body);
+            return Err(anyhow!("Bybit获取K线失败: {}", body));
+        }
+
+        let resp: BybitResponse<BybitKlineResult> = serde_json::from_str(&body)
+            .map_err(|e| anyhow!("解析Bybit K线响应失败: {}，响应内容: {}", e, body))?;
+
+        if resp.ret_code != 0 {
+            return Err(anyhow!("Bybit获取K线失败: {}", resp.ret_msg));
+        }
+
+        let result = resp
+            .result
+            .ok_or_else(|| anyhow!("Bybit返回的K线数据为空"))?;
+
+        let klines = result
+            .list
+            .into_iter()
+            .map(|fields| -> Result<Vec<f64>> {
+                if fields.len() < 6 {
+                    return Err(anyhow!("Bybit K线字段不足: {:?}", fields));
+                }
+
+                let parse_value = |idx: usize, field: &str| -> Result<f64> {
+                    let raw = fields
+                        .get(idx)
+                        .ok_or_else(|| anyhow!("Bybit K线缺少 {} 字段", field))?;
+                    raw.parse::<f64>().map_err(|e| {
+                        anyhow!("Bybit K线字段 {} 解析失败: {} (值: {})", field, e, raw)
+                    })
+                };
+
+                // Bybit 返回的第七位为成交额，这里仅取前六项
+                let timestamp = parse_value(0, "timestamp")?;
+                let open = parse_value(1, "open")?;
+                let high = parse_value(2, "high")?;
+                let low = parse_value(3, "low")?;
+                let close = parse_value(4, "close")?;
+                let volume = parse_value(5, "volume")?;
+
+                Ok(vec![timestamp, open, high, low, close, volume])
+            })
+            .collect::<Result<Vec<_>>>()?;
+
+        Ok(klines)
+    }
+
+    async fn adjust_position(
+        &self,
+        symbol: &str,
+        side: &str,
+        quantity_delta: f64,
+        leverage: u32,
+        margin_type: &str,
+    ) -> Result<OrderResult> {
+        if quantity_delta == 0.0 {
+            return Err(anyhow!("调整数量为 0，不执行操作"));
+        }
+
+        if side != "LONG" && side != "SHORT" {
+            return Err(anyhow!("未知持仓方向: {}", side));
+        }
+
+        if quantity_delta > 0.0 {
+            if side == "LONG" {
+                self.open_long(symbol, quantity_delta, leverage, margin_type, false)
+                    .await
+            } else {
+                self.open_short(symbol, quantity_delta, leverage, margin_type, false)
+                    .await
+            }
+        } else {
+            let reduce_amount = quantity_delta.abs();
+            self.close_position(symbol, side, reduce_amount).await
+        }
     }
 }

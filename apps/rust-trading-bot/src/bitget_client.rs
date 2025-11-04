@@ -36,30 +36,30 @@ struct BitgetResponse<T> {
 #[allow(non_snake_case)]
 struct BitgetPosition {
     symbol: String,
-    holdSide: String,      // "long" or "short"
-    total: String,         // 持仓数量
+    holdSide: String, // "long" or "short"
+    total: String,    // 持仓数量
     available: String,
-    openPriceAvg: String,  // 开仓均价
+    openPriceAvg: String, // 开仓均价
     markPrice: String,
-    unrealizedPL: String,  // 未实现盈亏
+    unrealizedPL: String, // 未实现盈亏
     leverage: String,
-    margin: String,        // 保证金
+    margin: String, // 保证金
 }
 
 #[derive(Debug, Deserialize)]
 #[allow(non_snake_case)]
 struct BitgetAccount {
-    marginCoin: String,    // 保证金币种
-    usdtEquity: String,    // 总权益
-    available: String,     // 可用余额
-    locked: String,        // 已用保证金
-    unrealizedPL: String,  // 未实现盈亏
+    marginCoin: String,   // 保证金币种
+    usdtEquity: String,   // 总权益
+    available: String,    // 可用余额
+    locked: String,       // 已用保证金
+    unrealizedPL: String, // 未实现盈亏
 }
 
 impl BitgetClient {
     pub fn new(api_key: String, secret_key: String, passphrase: String, testnet: bool) -> Self {
         let base_url = if testnet {
-            "https://api.bitget.com".to_string()  // Bitget 测试环境需要特殊申请
+            "https://api.bitget.com".to_string() // Bitget 测试环境需要特殊申请
         } else {
             "https://api.bitget.com".to_string()
         };
@@ -116,6 +116,12 @@ impl BitgetClient {
     /// 反向转换: BTCUSDT_UMCBL -> BTCUSDT
     fn unformat_symbol(&self, symbol: &str) -> String {
         symbol.replace("_UMCBL", "")
+    }
+
+    /// 获取指定交易对的持仓信息
+    pub async fn get_position(&self, symbol: &str) -> Result<Option<Position>> {
+        let positions = self.get_positions().await?;
+        Ok(positions.into_iter().find(|p| p.symbol == symbol))
     }
 }
 
@@ -177,6 +183,11 @@ impl ExchangeClient for BitgetClient {
         Ok(result)
     }
 
+    async fn get_position(&self, symbol: &str) -> Result<Option<Position>> {
+        let positions = self.get_positions().await?;
+        Ok(positions.into_iter().find(|p| p.symbol == symbol))
+    }
+
     async fn get_account_info(&self) -> Result<AccountInfo> {
         let client = reqwest::Client::new();
         let mut total_balance = 0.0;
@@ -189,7 +200,7 @@ impl ExchangeClient for BitgetClient {
         let request_path = "/api/mix/v1/account/accounts?productType=umcbl";
         let headers = self.build_headers(&timestamp, "GET", request_path, "");
         let url = format!("{}{}", self.base_url, request_path);
-        
+
         let response = client.get(&url).headers(headers).send().await?;
         if response.status().is_success() {
             let body = response.text().await?;
@@ -229,8 +240,10 @@ impl ExchangeClient for BitgetClient {
                         available: String,
                         frozen: String,
                     }
-                    
-                    if let Ok(spot_resp) = serde_json::from_str::<BitgetResponse<Vec<SpotAsset>>>(&spot_body) {
+
+                    if let Ok(spot_resp) =
+                        serde_json::from_str::<BitgetResponse<Vec<SpotAsset>>>(&spot_body)
+                    {
                         if spot_resp.code == "00000" {
                             if let Some(assets) = spot_resp.data {
                                 for asset in assets {
@@ -238,9 +251,12 @@ impl ExchangeClient for BitgetClient {
                                         let avail = asset.available.parse::<f64>().unwrap_or(0.0);
                                         let frozen = asset.frozen.parse::<f64>().unwrap_or(0.0);
                                         let spot_total = avail + frozen;
-                                        
+
                                         if spot_total > 0.01 {
-                                            info!("Bitget 现货账户 {}: {:.2}", asset.coinName, spot_total);
+                                            info!(
+                                                "Bitget 现货账户 {}: {:.2}",
+                                                asset.coinName, spot_total
+                                            );
                                             total_balance += spot_total;
                                             available_balance += avail;
                                             margin_used += frozen;
@@ -347,6 +363,113 @@ impl ExchangeClient for BitgetClient {
         }
 
         Ok(rules)
+    }
+
+    async fn get_klines(
+        &self,
+        symbol: &str,
+        interval: &str,
+        limit: Option<usize>,
+    ) -> Result<Vec<Vec<f64>>> {
+        let granularity = match interval {
+            "1m" => 60,
+            "5m" => 300,
+            "15m" => 900,
+            "30m" => 1800,
+            "1h" => 3_600,
+            "4h" => 14_400,
+            "1d" => 86_400,
+            _ => return Err(anyhow!("Bitget暂不支持该周期: {}", interval)),
+        };
+
+        let bitget_symbol = self.format_symbol(symbol);
+        let limit = limit.unwrap_or(100);
+        let url = format!(
+            "{}/api/mix/v1/market/candles?symbol={}&granularity={}&limit={}",
+            self.base_url, bitget_symbol, granularity, limit
+        );
+
+        let client = reqwest::Client::new();
+        let response = client.get(&url).send().await?;
+        let body = response.text().await?;
+
+        let resp: BitgetResponse<Vec<Vec<String>>> = serde_json::from_str(&body)
+            .map_err(|e| anyhow!("解析Bitget K线响应失败: {}，响应内容: {}", e, body))?;
+
+        if resp.code != "00000" {
+            return Err(anyhow!("Bitget获取K线失败: {}", resp.msg));
+        }
+
+        let mut klines = Vec::new();
+        if let Some(data) = resp.data {
+            for entry in data {
+                if entry.len() < 6 {
+                    continue;
+                }
+
+                let timestamp = entry
+                    .get(0)
+                    .and_then(|v| v.parse::<f64>().ok())
+                    .unwrap_or_default();
+                let open = entry
+                    .get(1)
+                    .and_then(|v| v.parse::<f64>().ok())
+                    .unwrap_or_default();
+                let high = entry
+                    .get(2)
+                    .and_then(|v| v.parse::<f64>().ok())
+                    .unwrap_or_default();
+                let low = entry
+                    .get(3)
+                    .and_then(|v| v.parse::<f64>().ok())
+                    .unwrap_or_default();
+                let close = entry
+                    .get(4)
+                    .and_then(|v| v.parse::<f64>().ok())
+                    .unwrap_or_default();
+                let volume = entry
+                    .get(5)
+                    .and_then(|v| v.parse::<f64>().ok())
+                    .unwrap_or_default();
+
+                klines.push(vec![timestamp, open, high, low, close, volume]);
+            }
+        }
+
+        Ok(klines)
+    }
+
+    async fn adjust_position(
+        &self,
+        symbol: &str,
+        side: &str,
+        quantity_delta: f64,
+        leverage: u32,
+        margin_type: &str,
+    ) -> Result<OrderResult> {
+        if quantity_delta.abs() < f64::EPSILON {
+            return Ok(OrderResult {
+                order_id: String::new(),
+                symbol: symbol.to_string(),
+                side: side.to_string(),
+                quantity: 0.0,
+                price: 0.0,
+                status: "SKIPPED".to_string(),
+            });
+        }
+
+        if quantity_delta > 0.0 {
+            if side.eq_ignore_ascii_case("LONG") {
+                self.open_long(symbol, quantity_delta, leverage, margin_type, false)
+                    .await
+            } else {
+                self.open_short(symbol, quantity_delta, leverage, margin_type, false)
+                    .await
+            }
+        } else {
+            let reduce_amount = quantity_delta.abs();
+            self.close_position(symbol, side, reduce_amount).await
+        }
     }
 
     async fn set_leverage(&self, symbol: &str, leverage: u32) -> Result<()> {

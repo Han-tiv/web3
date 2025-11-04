@@ -2,7 +2,7 @@ use anyhow::Result;
 use dotenv::dotenv;
 use grammers_client::{Client, Config};
 use grammers_session::Session;
-use serde::{Serialize, Deserialize};
+use serde::{Deserialize, Serialize};
 use std::env;
 use std::fs::File;
 use std::io::Write;
@@ -112,9 +112,7 @@ async fn main() -> Result<()> {
         let (sender_id, sender_name) = if let Some(sender) = message.sender() {
             let id = sender.id();
             let name = match sender {
-                grammers_client::types::Chat::User(user) => {
-                    user.first_name().to_string()
-                }
+                grammers_client::types::Chat::User(user) => user.first_name().to_string(),
                 grammers_client::types::Chat::Channel(ch) => ch.title().to_string(),
                 grammers_client::types::Chat::Group(g) => g.title().to_string(),
             };
@@ -210,12 +208,18 @@ fn analyze_keywords(messages: &[ChannelMessage]) -> KeywordStats {
         let content_lower = msg.content.to_lowercase();
 
         // 资金流向
-        if content_lower.contains("流入") || content_lower.contains("买入") 
-            || content_lower.contains("净流入") || content_lower.contains("inflow") {
+        if content_lower.contains("流入")
+            || content_lower.contains("买入")
+            || content_lower.contains("净流入")
+            || content_lower.contains("inflow")
+        {
             stats.fund_inflow += 1;
         }
-        if content_lower.contains("流出") || content_lower.contains("卖出") 
-            || content_lower.contains("净流出") || content_lower.contains("outflow") {
+        if content_lower.contains("流出")
+            || content_lower.contains("卖出")
+            || content_lower.contains("净流出")
+            || content_lower.contains("outflow")
+        {
             stats.fund_outflow += 1;
         }
 
@@ -229,8 +233,10 @@ fn analyze_keywords(messages: &[ChannelMessage]) -> KeywordStats {
         if content_lower.contains("散户") || content_lower.contains("retail") {
             stats.retail += 1;
         }
-        if content_lower.contains("巨鲸") || content_lower.contains("whale") 
-            || content_lower.contains("大户") {
+        if content_lower.contains("巨鲸")
+            || content_lower.contains("whale")
+            || content_lower.contains("大户")
+        {
             stats.whale += 1;
         }
 
@@ -256,13 +262,28 @@ fn generate_text_report(analysis: &ChannelAnalysis, filename: &str) -> Result<()
     writeln!(file, "频道 ID: {}", analysis.channel_id)?;
     writeln!(file, "总消息数: {}", analysis.total_messages)?;
     writeln!(file, "时间范围: {}", analysis.date_range)?;
-    writeln!(file, "============================================================\n")?;
+    writeln!(
+        file,
+        "============================================================\n"
+    )?;
 
     writeln!(file, "【关键词统计】")?;
-    writeln!(file, "资金流入提及: {} 次", analysis.keywords_stats.fund_inflow)?;
-    writeln!(file, "资金流出提及: {} 次", analysis.keywords_stats.fund_outflow)?;
+    writeln!(
+        file,
+        "资金流入提及: {} 次",
+        analysis.keywords_stats.fund_inflow
+    )?;
+    writeln!(
+        file,
+        "资金流出提及: {} 次",
+        analysis.keywords_stats.fund_outflow
+    )?;
     writeln!(file, "主力提及: {} 次", analysis.keywords_stats.main_force)?;
-    writeln!(file, "机构提及: {} 次", analysis.keywords_stats.institutions)?;
+    writeln!(
+        file,
+        "机构提及: {} 次",
+        analysis.keywords_stats.institutions
+    )?;
     writeln!(file, "散户提及: {} 次", analysis.keywords_stats.retail)?;
     writeln!(file, "巨鲸提及: {} 次", analysis.keywords_stats.whale)?;
     writeln!(file)?;
@@ -275,7 +296,10 @@ fn generate_text_report(analysis: &ChannelAnalysis, filename: &str) -> Result<()
     }
     writeln!(file)?;
 
-    writeln!(file, "============================================================")?;
+    writeln!(
+        file,
+        "============================================================"
+    )?;
     writeln!(file, "【最近 20 条消息】\n")?;
 
     for (i, msg) in analysis.messages.iter().take(20).enumerate() {
@@ -287,7 +311,10 @@ fn generate_text_report(analysis: &ChannelAnalysis, filename: &str) -> Result<()
             writeln!(file, "包含媒体: 是")?;
         }
         writeln!(file, "\n{}\n", msg.content)?;
-        writeln!(file, "------------------------------------------------------------")?;
+        writeln!(
+            file,
+            "------------------------------------------------------------"
+        )?;
     }
 
     Ok(())
@@ -307,10 +334,18 @@ fn print_summary(analysis: &ChannelAnalysis) {
     println!("💰 资金流向:");
     println!("  流入提及: {} 次", analysis.keywords_stats.fund_inflow);
     println!("  流出提及: {} 次", analysis.keywords_stats.fund_outflow);
-    let net_sentiment = analysis.keywords_stats.fund_inflow as i32 - analysis.keywords_stats.fund_outflow as i32;
-    println!("  净情绪: {} ({})", 
+    let net_sentiment =
+        analysis.keywords_stats.fund_inflow as i32 - analysis.keywords_stats.fund_outflow as i32;
+    println!(
+        "  净情绪: {} ({})",
         net_sentiment,
-        if net_sentiment > 0 { "偏多" } else if net_sentiment < 0 { "偏空" } else { "中性" }
+        if net_sentiment > 0 {
+            "偏多"
+        } else if net_sentiment < 0 {
+            "偏空"
+        } else {
+            "中性"
+        }
     );
     println!();
 

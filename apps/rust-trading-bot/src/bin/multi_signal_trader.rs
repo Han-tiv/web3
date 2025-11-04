@@ -119,7 +119,9 @@ async fn main_loop(
                             if trading_enabled {
                                 // 获取信号对应的交易对
                                 let symbol = match &signal {
-                                    SignalType::OpenLong(s) | SignalType::OpenShort(s) | SignalType::Close(s) => s,
+                                    SignalType::OpenLong(s)
+                                    | SignalType::OpenShort(s)
+                                    | SignalType::Close(s) => s,
                                 };
 
                                 // 获取锁类型
@@ -130,18 +132,25 @@ async fn main_loop(
                                 };
 
                                 // 尝试获取锁
-                                if !lock_manager.try_acquire_lock(symbol, lock_type, "multi_signal_trader", 60)? {
+                                if !lock_manager.try_acquire_lock(
+                                    symbol,
+                                    lock_type,
+                                    "multi_signal_trader",
+                                    60,
+                                )? {
                                     warn!("⚠️  {} {} 操作被锁定，跳过执行", symbol, lock_type);
                                     continue;
                                 }
 
                                 info!("🚀 开始并发执行到所有交易所...\n");
-                                
+
                                 // 并发执行到所有交易所
                                 let results = executor.execute_signal(signal.clone()).await;
 
                                 // 释放锁
-                                lock_manager.release_lock(symbol, lock_type, "multi_signal_trader").ok();
+                                lock_manager
+                                    .release_lock(symbol, lock_type, "multi_signal_trader")
+                                    .ok();
 
                                 // 打印结果
                                 println!("\n📊 执行结果汇总:");
@@ -217,7 +226,8 @@ async fn main() -> Result<()> {
     let margin: f64 = env::var("SIGNAL_MARGIN")?.parse()?;
     let margin_type_raw = env::var("SIGNAL_MARGIN_TYPE").unwrap_or_else(|_| "CROSSED".to_string());
     let margin_type = MarginTypeConfig::from_env(&margin_type_raw)?;
-    let position_mode_raw = env::var("SIGNAL_POSITION_MODE").unwrap_or_else(|_| "SINGLE".to_string());
+    let position_mode_raw =
+        env::var("SIGNAL_POSITION_MODE").unwrap_or_else(|_| "SINGLE".to_string());
     let dual_side_position = matches!(position_mode_raw.trim().to_uppercase().as_str(), "DUAL");
     let trading_enabled = env::var("SIGNAL_TRADING_ENABLED")?.parse::<bool>()?;
 
@@ -226,7 +236,10 @@ async fn main() -> Result<()> {
 
     // Binance
     if let (Ok(key), Ok(secret)) = (env::var("BINANCE_API_KEY"), env::var("BINANCE_SECRET")) {
-        let testnet = env::var("BINANCE_TESTNET").unwrap_or_else(|_| "false".to_string()).parse().unwrap_or(false);
+        let testnet = env::var("BINANCE_TESTNET")
+            .unwrap_or_else(|_| "false".to_string())
+            .parse()
+            .unwrap_or(false);
         let client = rust_trading_bot::binance_client::BinanceClient::new(key, secret, testnet);
         exchanges.push(Arc::new(client));
         info!("✅ Binance 客户端已加载");
@@ -238,7 +251,10 @@ async fn main() -> Result<()> {
         env::var("OKX_SECRET"),
         env::var("OKX_PASSPHRASE"),
     ) {
-        let testnet = env::var("OKX_TESTNET").unwrap_or_else(|_| "false".to_string()).parse().unwrap_or(false);
+        let testnet = env::var("OKX_TESTNET")
+            .unwrap_or_else(|_| "false".to_string())
+            .parse()
+            .unwrap_or(false);
         let client = OkxClient::new(key, secret, passphrase, testnet);
         exchanges.push(Arc::new(client));
         info!("✅ OKX 客户端已加载");
@@ -250,7 +266,10 @@ async fn main() -> Result<()> {
         env::var("BITGET_SECRET"),
         env::var("BITGET_PASSPHRASE"),
     ) {
-        let testnet = env::var("BITGET_TESTNET").unwrap_or_else(|_| "false".to_string()).parse().unwrap_or(false);
+        let testnet = env::var("BITGET_TESTNET")
+            .unwrap_or_else(|_| "false".to_string())
+            .parse()
+            .unwrap_or(false);
         let client = BitgetClient::new(key, secret, passphrase, testnet);
         exchanges.push(Arc::new(client));
         info!("✅ Bitget 客户端已加载");
@@ -258,7 +277,10 @@ async fn main() -> Result<()> {
 
     // Bybit
     if let (Ok(key), Ok(secret)) = (env::var("BYBIT_API_KEY"), env::var("BYBIT_SECRET")) {
-        let testnet = env::var("BYBIT_TESTNET").unwrap_or_else(|_| "false".to_string()).parse().unwrap_or(false);
+        let testnet = env::var("BYBIT_TESTNET")
+            .unwrap_or_else(|_| "false".to_string())
+            .parse()
+            .unwrap_or(false);
         let client = BybitClient::new(key, secret, testnet);
         exchanges.push(Arc::new(client));
         info!("✅ Bybit 客户端已加载");
@@ -266,15 +288,22 @@ async fn main() -> Result<()> {
 
     // Gate
     if let (Ok(key), Ok(secret)) = (env::var("GATE_API_KEY"), env::var("GATE_SECRET")) {
-        let testnet = env::var("GATE_TESTNET").unwrap_or_else(|_| "false".to_string()).parse().unwrap_or(false);
+        let testnet = env::var("GATE_TESTNET")
+            .unwrap_or_else(|_| "false".to_string())
+            .parse()
+            .unwrap_or(false);
         let client = GateClient::new(key, secret, testnet);
         exchanges.push(Arc::new(client));
         info!("✅ Gate 客户端已加载");
     }
 
     // Hyperliquid (完整交易功能)
-    if let (Ok(address), Ok(secret)) = (env::var("HYPERLIQUID_ADDRESS"), env::var("HYPERLIQUID_SECRET")) {
-        let proxy_address = env::var("HYPERLIQUID_PROXY_ADDRESS").unwrap_or_else(|_| "".to_string());
+    if let (Ok(address), Ok(secret)) = (
+        env::var("HYPERLIQUID_ADDRESS"),
+        env::var("HYPERLIQUID_SECRET"),
+    ) {
+        let proxy_address =
+            env::var("HYPERLIQUID_PROXY_ADDRESS").unwrap_or_else(|_| "".to_string());
         let testnet = env::var("HYPERLIQUID_TESTNET")
             .unwrap_or_else(|_| "false".to_string())
             .parse()
@@ -299,7 +328,11 @@ async fn main() -> Result<()> {
     println!("🏦 仓位模式: {}", margin_type.display_label());
     println!(
         "📐 持仓模式: {}",
-        if dual_side_position { "双向持仓" } else { "单向持仓" }
+        if dual_side_position {
+            "双向持仓"
+        } else {
+            "单向持仓"
+        }
     );
     println!("🏢 已加载交易所数量: {}", exchanges.len());
     for exchange in &exchanges {
@@ -307,7 +340,11 @@ async fn main() -> Result<()> {
     }
     println!(
         "🔄 交易状态: {}",
-        if trading_enabled { "✅ 启用" } else { "❌ 禁用 (仅监听)" }
+        if trading_enabled {
+            "✅ 启用"
+        } else {
+            "❌ 禁用 (仅监听)"
+        }
     );
     println!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n");
 
@@ -327,7 +364,9 @@ async fn main() -> Result<()> {
 
     // 初始化健康监控
     let health_monitor = HealthMonitor::new();
-    health_monitor.update_status("multi_signal_trader", "starting").ok();
+    health_monitor
+        .update_status("multi_signal_trader", "starting")
+        .ok();
 
     // 初始化交易锁管理器
     let lock_manager = TradingLockManager::new();

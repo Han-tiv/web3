@@ -7,7 +7,7 @@ use hmac::{Hmac, Mac};
 use log::{error, info, warn};
 use reqwest;
 use serde::Deserialize;
-use serde_json::json;
+use serde_json::{json, Value};
 use sha2::Sha512;
 use std::collections::HashMap;
 use std::sync::Arc;
@@ -20,7 +20,7 @@ pub struct GateClient {
     api_key: String,
     secret_key: String,
     base_url: String,
-    settle: String,  // USDT or USD
+    settle: String, // USDT or USD
     rules_cache: Arc<RwLock<HashMap<String, TradingRules>>>,
 }
 
@@ -28,7 +28,7 @@ pub struct GateClient {
 #[allow(non_snake_case)]
 struct GatePosition {
     contract: String,
-    size: i64,             // 持仓数量，正数多仓，负数空仓
+    size: i64, // 持仓数量，正数多仓，负数空仓
     entry_price: String,
     mark_price: String,
     unrealised_pnl: String,
@@ -62,8 +62,18 @@ impl GateClient {
     }
 
     /// Gate 签名方法
-    fn sign(&self, method: &str, url_path: &str, query_string: &str, payload_hash: &str, timestamp: &str) -> String {
-        let prehash = format!("{}\n{}\n{}\n{}\n{}", method, url_path, query_string, payload_hash, timestamp);
+    fn sign(
+        &self,
+        method: &str,
+        url_path: &str,
+        query_string: &str,
+        payload_hash: &str,
+        timestamp: &str,
+    ) -> String {
+        let prehash = format!(
+            "{}\n{}\n{}\n{}\n{}",
+            method, url_path, query_string, payload_hash, timestamp
+        );
         let mut mac = HmacSha512::new_from_slice(self.secret_key.as_bytes()).unwrap();
         mac.update(prehash.as_bytes());
         hex::encode(mac.finalize().into_bytes())
@@ -108,6 +118,12 @@ impl GateClient {
     /// 反向转换: BTC_USDT -> BTCUSDT
     fn unformat_symbol(&self, symbol: &str) -> String {
         symbol.replace("_", "")
+    }
+
+    /// 获取指定交易对的持仓信息
+    pub async fn get_position(&self, symbol: &str) -> Result<Option<Position>> {
+        let positions = self.get_positions().await?;
+        Ok(positions.into_iter().find(|p| p.symbol == symbol))
     }
 }
 
@@ -162,6 +178,11 @@ impl ExchangeClient for GateClient {
         Ok(result)
     }
 
+    async fn get_position(&self, symbol: &str) -> Result<Option<Position>> {
+        let positions = self.get_positions().await?;
+        Ok(positions.into_iter().find(|p| p.symbol == symbol))
+    }
+
     async fn get_account_info(&self) -> Result<AccountInfo> {
         let client = reqwest::Client::new();
         let mut total_balance = 0.0;
@@ -174,18 +195,18 @@ impl ExchangeClient for GateClient {
         let query_string = "";
         let headers = self.build_headers("GET", &url_path, query_string, "");
         let url = format!("{}{}", self.base_url, url_path);
-        
+
         let response = client.get(&url).headers(headers).send().await?;
         if response.status().is_success() {
             if let Ok(body) = response.text().await {
                 if let Ok(account) = serde_json::from_str::<GateAccount>(&body) {
-                    let futures_total = account.available.parse::<f64>().unwrap_or(0.0) 
+                    let futures_total = account.available.parse::<f64>().unwrap_or(0.0)
                         + account.position_margin.parse::<f64>().unwrap_or(0.0);
-                    
+
                     if futures_total > 0.01 {
                         info!("Gate 合约账户: {:.2} USDT", futures_total);
                     }
-                    
+
                     total_balance += futures_total;
                     available_balance += account.available.parse::<f64>().unwrap_or(0.0);
                     unrealized_pnl += account.unrealised_pnl.parse::<f64>().unwrap_or(0.0);
@@ -215,7 +236,7 @@ impl ExchangeClient for GateClient {
                                 let avail = balance.available.parse::<f64>().unwrap_or(0.0);
                                 let locked = balance.locked.parse::<f64>().unwrap_or(0.0);
                                 let spot_total = avail + locked;
-                                
+
                                 if spot_total > 0.01 {
                                     info!("Gate 现货账户 {}: {:.2}", balance.currency, spot_total);
                                     total_balance += spot_total;
@@ -273,7 +294,7 @@ impl ExchangeClient for GateClient {
         let body = response.text().await?;
 
         let data: serde_json::Value = serde_json::from_str(&body)?;
-        
+
         let rules = TradingRules {
             step_size: data["order_size_min"]
                 .as_str()
@@ -283,7 +304,7 @@ impl ExchangeClient for GateClient {
                 .as_str()
                 .and_then(|s| s.parse().ok())
                 .unwrap_or(1.0),
-            quantity_precision: 0,  // Gate 使用整数张数
+            quantity_precision: 0, // Gate 使用整数张数
             price_precision: 2,
         };
 
@@ -297,7 +318,11 @@ impl ExchangeClient for GateClient {
     }
 
     async fn set_leverage(&self, symbol: &str, leverage: u32) -> Result<()> {
-        let url_path = format!("/api/v4/futures/{}/positions/{}/leverage", self.settle, self.format_symbol(symbol));
+        let url_path = format!(
+            "/api/v4/futures/{}/positions/{}/leverage",
+            self.settle,
+            self.format_symbol(symbol)
+        );
         let body = json!({
             "leverage": leverage.to_string(),
             "cross_leverage_limit": "0"
@@ -328,7 +353,11 @@ impl ExchangeClient for GateClient {
     }
 
     async fn set_margin_type(&self, symbol: &str, margin_type: &str) -> Result<()> {
-        let url_path = format!("/api/v4/futures/{}/positions/{}/margin_mode", self.settle, self.format_symbol(symbol));
+        let url_path = format!(
+            "/api/v4/futures/{}/positions/{}/margin_mode",
+            self.settle,
+            self.format_symbol(symbol)
+        );
         let body = json!({
             "margin_mode": if margin_type == "ISOLATED" { "isolated" } else { "cross" }
         });
@@ -398,7 +427,7 @@ impl ExchangeClient for GateClient {
     ) -> Result<OrderResult> {
         let url_path = format!("/api/v4/futures/{}/orders", self.settle);
         let gate_symbol = self.format_symbol(symbol);
-        
+
         let body = json!({
             "contract": gate_symbol,
             "size": quantity as i64,
@@ -428,7 +457,7 @@ impl ExchangeClient for GateClient {
 
         let resp: serde_json::Value = serde_json::from_str(&resp_body)?;
         info!("✅ Gate开多成功: {} 数量: {}", symbol, quantity);
-        
+
         Ok(OrderResult {
             order_id: resp["id"].as_i64().unwrap_or(0).to_string(),
             symbol: symbol.to_string(),
@@ -449,7 +478,7 @@ impl ExchangeClient for GateClient {
     ) -> Result<OrderResult> {
         let url_path = format!("/api/v4/futures/{}/orders", self.settle);
         let gate_symbol = self.format_symbol(symbol);
-        
+
         let body = json!({
             "contract": gate_symbol,
             "size": -(quantity as i64),  // 负数表示做空
@@ -479,7 +508,7 @@ impl ExchangeClient for GateClient {
 
         let resp: serde_json::Value = serde_json::from_str(&resp_body)?;
         info!("✅ Gate开空成功: {} 数量: {}", symbol, quantity);
-        
+
         Ok(OrderResult {
             order_id: resp["id"].as_i64().unwrap_or(0).to_string(),
             symbol: symbol.to_string(),
@@ -493,14 +522,14 @@ impl ExchangeClient for GateClient {
     async fn close_position(&self, symbol: &str, side: &str, size: f64) -> Result<OrderResult> {
         let url_path = format!("/api/v4/futures/{}/orders", self.settle);
         let gate_symbol = self.format_symbol(symbol);
-        
+
         // Gate平仓需要用反向数量
         let close_size = if side == "LONG" {
             -(size as i64)
         } else {
             size as i64
         };
-        
+
         let body = json!({
             "contract": gate_symbol,
             "size": close_size,
@@ -531,14 +560,98 @@ impl ExchangeClient for GateClient {
 
         let resp: serde_json::Value = serde_json::from_str(&resp_body)?;
         info!("✅ Gate平仓成功: {} {} {}", symbol, side, size);
-        
+
         Ok(OrderResult {
             order_id: resp["id"].as_i64().unwrap_or(0).to_string(),
             symbol: symbol.to_string(),
-            side: if side == "LONG" { "SELL".to_string() } else { "BUY".to_string() },
+            side: if side == "LONG" {
+                "SELL".to_string()
+            } else {
+                "BUY".to_string()
+            },
             quantity: size,
             price: 0.0,
             status: "FILLED".to_string(),
         })
+    }
+
+    async fn get_klines(
+        &self,
+        symbol: &str,
+        interval: &str,
+        limit: Option<usize>,
+    ) -> Result<Vec<Vec<f64>>> {
+        let contract = self.format_symbol(symbol);
+        let limit_value = limit.unwrap_or(100);
+        let url = format!(
+            "{}/api/v4/futures/{}/candlesticks",
+            self.base_url, self.settle
+        );
+
+        let params = vec![
+            ("contract", contract),
+            ("interval", interval.to_string()),
+            ("limit", limit_value.to_string()),
+        ];
+
+        let client = reqwest::Client::new();
+        let response = client
+            .get(&url)
+            .query(&params)
+            .send()
+            .await?
+            .error_for_status()?;
+
+        let data: Vec<Value> = response.json().await?;
+        let klines = data
+            .into_iter()
+            .map(|item| {
+                let volume = item["v"]
+                    .as_str()
+                    .and_then(|s| s.parse::<f64>().ok())
+                    .or_else(|| item["v"].as_f64())
+                    .unwrap_or(0.0);
+
+                // 返回 [timestamp, open, high, low, close, volume]，保持与 Binance 相同格式
+                vec![
+                    item["t"].as_i64().unwrap_or(0) as f64,
+                    item["o"].as_str().unwrap_or("0").parse().unwrap_or(0.0),
+                    item["h"].as_str().unwrap_or("0").parse().unwrap_or(0.0),
+                    item["l"].as_str().unwrap_or("0").parse().unwrap_or(0.0),
+                    item["c"].as_str().unwrap_or("0").parse().unwrap_or(0.0),
+                    volume,
+                ]
+            })
+            .collect();
+
+        Ok(klines)
+    }
+
+    async fn adjust_position(
+        &self,
+        symbol: &str,
+        side: &str,
+        quantity_delta: f64,
+        leverage: u32,
+        margin_type: &str,
+    ) -> Result<OrderResult> {
+        if quantity_delta == 0.0 {
+            return Err(anyhow!("调整数量为 0，不执行操作"));
+        }
+
+        if quantity_delta > 0.0 {
+            // 加仓，根据方向选择开多或开空
+            if side == "LONG" {
+                self.open_long(symbol, quantity_delta, leverage, margin_type, false)
+                    .await
+            } else {
+                self.open_short(symbol, quantity_delta, leverage, margin_type, false)
+                    .await
+            }
+        } else {
+            // 减仓，统一走 reduce-only 平仓
+            let reduce_amount = quantity_delta.abs();
+            self.close_position(symbol, side, reduce_amount).await
+        }
     }
 }

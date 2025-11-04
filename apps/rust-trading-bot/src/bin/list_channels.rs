@@ -65,7 +65,14 @@ async fn main() -> Result<()> {
             };
 
             println!("{:3}. {} (ID: {})", channel_count, title, id);
-            println!("     角色: {}", if marker.is_empty() { "普通频道" } else { marker.trim() });
+            println!(
+                "     角色: {}",
+                if marker.is_empty() {
+                    "普通频道"
+                } else {
+                    marker.trim()
+                }
+            );
             println!();
         }
     }

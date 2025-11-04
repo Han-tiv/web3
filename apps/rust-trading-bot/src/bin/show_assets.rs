@@ -84,8 +84,12 @@ async fn main() -> Result<()> {
     }
 
     // Hyperliquid
-    if let (Ok(address), Ok(secret)) = (env::var("HYPERLIQUID_ADDRESS"), env::var("HYPERLIQUID_SECRET")) {
-        let proxy_address = env::var("HYPERLIQUID_PROXY_ADDRESS").unwrap_or_else(|_| "".to_string());
+    if let (Ok(address), Ok(secret)) = (
+        env::var("HYPERLIQUID_ADDRESS"),
+        env::var("HYPERLIQUID_SECRET"),
+    ) {
+        let proxy_address =
+            env::var("HYPERLIQUID_PROXY_ADDRESS").unwrap_or_else(|_| "".to_string());
         let testnet = env::var("HYPERLIQUID_TESTNET")
             .unwrap_or_else(|_| "false".to_string())
             .parse()
@@ -105,7 +109,9 @@ async fn main() -> Result<()> {
     }
 
     // Solana Wallet
-    if let (Ok(address), Ok(private_key)) = (env::var("SOLANA_ADDRESS"), env::var("SOLANA_PRIVATE_KEY")) {
+    if let (Ok(address), Ok(private_key)) =
+        (env::var("SOLANA_ADDRESS"), env::var("SOLANA_PRIVATE_KEY"))
+    {
         let testnet = env::var("SOLANA_TESTNET")
             .unwrap_or_else(|_| "false".to_string())
             .parse()
@@ -130,9 +136,12 @@ async fn main() -> Result<()> {
     // 遍历所有交易所
     for exchange in &exchanges {
         let name = exchange.get_exchange_name();
-        
+
         println!("┌─────────────────────────────────────────────────────────────┐");
-        println!("│ 🏦 {}                                                    ", name);
+        println!(
+            "│ 🏦 {}                                                    ",
+            name
+        );
         println!("├─────────────────────────────────────────────────────────────┤");
 
         // 获取账户信息
@@ -140,10 +149,13 @@ async fn main() -> Result<()> {
             Ok(account) => {
                 println!("│ 💰 账户余额");
                 println!("│   总余额:        {:>15.2} USDT", account.total_balance);
-                println!("│   可用余额:      {:>15.2} USDT", account.available_balance);
+                println!(
+                    "│   可用余额:      {:>15.2} USDT",
+                    account.available_balance
+                );
                 println!("│   未实现盈亏:    {:>15.2} USDT", account.unrealized_pnl);
                 println!("│   已用保证金:    {:>15.2} USDT", account.margin_used);
-                
+
                 total_balance += account.total_balance;
                 total_pnl += account.unrealized_pnl;
                 total_margin_used += account.margin_used;
@@ -171,7 +183,7 @@ async fn main() -> Result<()> {
                         println!("│     盈亏:     {:>12.2} USDT", pos.pnl);
                         println!("│     杠杆:     {:>12}x", pos.leverage);
                         println!("│     保证金:   {:>12.2} USDT", pos.margin);
-                        
+
                         let roi = if pos.margin > 0.0 {
                             (pos.pnl / pos.margin) * 100.0
                         } else {
@@ -195,23 +207,38 @@ async fn main() -> Result<()> {
     println!("╔═══════════════════════════════════════════════════════════════╗");
     println!("║                        📊 总计汇总                            ║");
     println!("╠═══════════════════════════════════════════════════════════════╣");
-    println!("║ 💎 总余额:           {:>15.2} USDT                    ║", total_balance);
-    println!("║ 💹 总未实现盈亏:     {:>15.2} USDT                    ║", total_pnl);
-    println!("║ 🔒 总已用保证金:     {:>15.2} USDT                    ║", total_margin_used);
-    println!("║ 📌 总持仓数:         {:>15} 个                       ║", total_positions);
-    
+    println!(
+        "║ 💎 总余额:           {:>15.2} USDT                    ║",
+        total_balance
+    );
+    println!(
+        "║ 💹 总未实现盈亏:     {:>15.2} USDT                    ║",
+        total_pnl
+    );
+    println!(
+        "║ 🔒 总已用保证金:     {:>15.2} USDT                    ║",
+        total_margin_used
+    );
+    println!(
+        "║ 📌 总持仓数:         {:>15} 个                       ║",
+        total_positions
+    );
+
     if total_balance > 0.0 {
         let total_roi = (total_pnl / total_balance) * 100.0;
-        println!("║ 📈 总回报率:         {:>15.2}%                       ║", total_roi);
+        println!(
+            "║ 📈 总回报率:         {:>15.2}%                       ║",
+            total_roi
+        );
     }
-    
+
     println!("╚═══════════════════════════════════════════════════════════════╝\n");
 
     // 如果有盈亏，显示排名
     if total_pnl != 0.0 {
         println!("📊 交易所盈亏排名:");
         println!("─────────────────────────────────────────────────────────────");
-        
+
         let mut exchange_pnls: Vec<(String, f64)> = Vec::new();
         for exchange in &exchanges {
             if let Ok(account) = exchange.get_account_info().await {
@@ -221,9 +248,9 @@ async fn main() -> Result<()> {
                 ));
             }
         }
-        
+
         exchange_pnls.sort_by(|a, b| b.1.partial_cmp(&a.1).unwrap());
-        
+
         for (i, (name, pnl)) in exchange_pnls.iter().enumerate() {
             let icon = match i {
                 0 => "🥇",

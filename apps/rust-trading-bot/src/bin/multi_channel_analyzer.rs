@@ -126,7 +126,7 @@ async fn analyze_channel(client: &Client, config: &ChannelConfig) -> Result<()> 
             println!("🔍 通过 ID 查找频道...");
             let mut found = None;
             let mut dialogs = client.iter_dialogs();
-            
+
             while let Some(dialog) = dialogs.next().await? {
                 if let grammers_client::types::Chat::Channel(ch) = dialog.chat() {
                     if ch.id() == config.id {
@@ -135,7 +135,7 @@ async fn analyze_channel(client: &Client, config: &ChannelConfig) -> Result<()> 
                     }
                 }
             }
-            
+
             match found {
                 Some(chat) => chat,
                 None => {
@@ -164,9 +164,10 @@ async fn analyze_channel(client: &Client, config: &ChannelConfig) -> Result<()> 
         if let Some(sender) = message.sender() {
             let user_id = sender.id();
             let username = match sender {
-                grammers_client::types::Chat::User(user) => {
-                    user.username().unwrap_or(&user.first_name().unwrap_or("Unknown")).to_string()
-                }
+                grammers_client::types::Chat::User(user) => user
+                    .username()
+                    .unwrap_or(&user.first_name().unwrap_or("Unknown"))
+                    .to_string(),
                 grammers_client::types::Chat::Channel(ch) => ch.title().to_string(),
                 grammers_client::types::Chat::Group(g) => g.title().to_string(),
             };
@@ -218,7 +219,12 @@ async fn analyze_channel(client: &Client, config: &ChannelConfig) -> Result<()> 
     println!("═════════════════════════════════════════════════\n");
 
     for (idx, user) in sorted_users.iter().enumerate().take(5) {
-        println!("【用户 {}】{} (ID: {})", idx + 1, user.username, user.user_id);
+        println!(
+            "【用户 {}】{} (ID: {})",
+            idx + 1,
+            user.username,
+            user.user_id
+        );
         println!("消息总数: {} 条", user.message_count);
         println!("\n最近 5 条消息:");
         println!("─────────────────────────────────────────────────");
