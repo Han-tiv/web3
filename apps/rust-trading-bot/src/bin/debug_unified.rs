@@ -32,12 +32,15 @@ async fn main() -> Result<()> {
 
     println!("测试 1: /papi/v1/balance");
     println!("════════════════════════════════════════\n");
-    
+
     let base_url = "https://papi.binance.com";
     let timestamp = chrono::Utc::now().timestamp_millis();
     let query = format!("timestamp={}", timestamp);
     let signature = sign_request(&query, &secret_key);
-    let url = format!("{}/papi/v1/balance?{}&signature={}", base_url, query, signature);
+    let url = format!(
+        "{}/papi/v1/balance?{}&signature={}",
+        base_url, query, signature
+    );
 
     let client = reqwest::Client::new();
     let response = client
@@ -59,7 +62,10 @@ async fn main() -> Result<()> {
     let timestamp = chrono::Utc::now().timestamp_millis();
     let query = format!("timestamp={}", timestamp);
     let signature = sign_request(&query, &secret_key);
-    let url = format!("{}/papi/v1/account?{}&signature={}", base_url, query, signature);
+    let url = format!(
+        "{}/papi/v1/account?{}&signature={}",
+        base_url, query, signature
+    );
 
     let response = client
         .get(&url)
@@ -80,7 +86,10 @@ async fn main() -> Result<()> {
     let timestamp = chrono::Utc::now().timestamp_millis();
     let query = format!("timestamp={}", timestamp);
     let signature = sign_request(&query, &secret_key);
-    let url = format!("{}/papi/v1/um/positionRisk?{}&signature={}", base_url, query, signature);
+    let url = format!(
+        "{}/papi/v1/um/positionRisk?{}&signature={}",
+        base_url, query, signature
+    );
 
     let response = client
         .get(&url)

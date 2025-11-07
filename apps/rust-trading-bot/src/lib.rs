@@ -31,6 +31,7 @@ pub mod technical_analysis;
 // 主力资金追踪交易模块
 pub mod key_level_finder; // 关键位识别
 pub mod smart_money_tracker; // 主力资金追踪
+pub mod support_analyzer; // 完整版支撑位识别系统
 
 // 市场数据获取
 pub mod market_data_fetcher;

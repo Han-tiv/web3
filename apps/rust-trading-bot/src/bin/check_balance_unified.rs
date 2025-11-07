@@ -38,7 +38,7 @@ fn sign_request(query: &str, secret: &str) -> String {
 
 async fn get_unified_balance(api_key: &str, secret_key: &str) -> Result<Vec<UnifiedBalance>> {
     let base_url = "https://papi.binance.com";
-    
+
     let timestamp = chrono::Utc::now().timestamp_millis();
     let query = format!("timestamp={}", timestamp);
     let signature = sign_request(&query, secret_key);
@@ -67,7 +67,7 @@ async fn get_unified_balance(api_key: &str, secret_key: &str) -> Result<Vec<Unif
 
 async fn get_unified_positions(api_key: &str, secret_key: &str) -> Result<Vec<UnifiedPosition>> {
     let base_url = "https://papi.binance.com";
-    
+
     let timestamp = chrono::Utc::now().timestamp_millis();
     let query = format!("timestamp={}", timestamp);
     let signature = sign_request(&query, secret_key);
@@ -91,7 +91,7 @@ async fn get_unified_positions(api_key: &str, secret_key: &str) -> Result<Vec<Un
     }
 
     let positions: Vec<UnifiedPosition> = serde_json::from_str(&body)?;
-    
+
     Ok(positions
         .into_iter()
         .filter(|p| p.positionAmt.parse::<f64>().unwrap_or(0.0).abs() > 0.0)
@@ -121,7 +121,7 @@ async fn main() -> Result<()> {
         Ok(balances) => {
             println!("✅ 账户余额获取成功!\n");
             println!("💰 账户余额信息:");
-            
+
             let mut total_balance = 0.0;
             let mut total_available = 0.0;
             let mut total_unpnl = 0.0;
@@ -130,13 +130,13 @@ async fn main() -> Result<()> {
                 let wallet = balance.totalWalletBalance.parse::<f64>().unwrap_or(0.0);
                 let um_wallet = balance.umWalletBalance.parse::<f64>().unwrap_or(0.0);
                 let unpnl = balance.umUnrealizedPNL.parse::<f64>().unwrap_or(0.0);
-                
+
                 if wallet > 0.01 || um_wallet > 0.01 || unpnl.abs() > 0.01 {
                     println!("\n   币种: {}", balance.asset);
                     println!("   总余额: {}", balance.totalWalletBalance);
                     println!("   U本位合约余额: {}", balance.umWalletBalance);
                     println!("   未实现盈亏: {}", balance.umUnrealizedPNL);
-                    
+
                     // 如果是 USDT，累加到总计
                     if balance.asset == "USDT" {
                         total_balance = wallet;
@@ -150,9 +150,15 @@ async fn main() -> Result<()> {
             println!("\n📊 USDT 汇总:");
             println!("   总钱包余额: {:.2} USDT", total_balance);
             println!("   U本位合约余额: {:.2} USDT", total_available);
-            let unpnl_emoji = if total_unpnl > 0.0 { "🟢" } else if total_unpnl < 0.0 { "🔴" } else { "⚪" };
+            let unpnl_emoji = if total_unpnl > 0.0 {
+                "🟢"
+            } else if total_unpnl < 0.0 {
+                "🔴"
+            } else {
+                "⚪"
+            };
             println!("   未实现盈亏: {:.2} USDT {}", total_unpnl, unpnl_emoji);
-            
+
             println!("\n════════════════════════════════════════\n");
 
             match get_unified_positions(&api_key, &secret_key).await {
@@ -168,7 +174,13 @@ async fn main() -> Result<()> {
                             let side_emoji = if amt > 0.0 { "📈" } else { "📉" };
                             let side = if amt > 0.0 { "LONG" } else { "SHORT" };
 
-                            println!("   {}. {} {} ({})", i + 1, side_emoji, pos.symbol, pos.positionSide);
+                            println!(
+                                "   {}. {} {} ({})",
+                                i + 1,
+                                side_emoji,
+                                pos.symbol,
+                                pos.positionSide
+                            );
                             println!("      方向: {}", side);
                             println!("      数量: {}", amt.abs());
                             println!("      入场价: ${}", pos.entryPrice);

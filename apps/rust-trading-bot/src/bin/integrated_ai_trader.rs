@@ -61,6 +61,48 @@ struct PositionTracker {
     last_check_time: DateTime<Utc>,
 }
 
+/// 持仓监控阶段需要执行的动作，采用“先收集再处理”策略避免锁重入
+#[derive(Debug)]
+enum PositionAction {
+    FullClose {
+        symbol: String,
+        side: String,
+        quantity: f64,
+        reason: String,
+    },
+    PartialClose {
+        symbol: String,
+        side: String,
+        close_quantity: f64,
+        close_pct: f64,
+        entry_price: f64,
+        remaining_quantity: f64,
+        stop_loss_order_id: Option<String>,
+    },
+    Remove(String),
+    SetLimitOrder {
+        symbol: String,
+        side: String,
+        quantity: f64,
+        limit_price: f64,
+        take_profit_order_id: Option<String>,
+    },
+}
+
+/// 对追踪器的更新操作，统一在短暂写锁中落盘
+#[derive(Debug)]
+enum TrackerMutation {
+    QuantityAndStopLoss {
+        symbol: String,
+        new_quantity: f64,
+        new_stop_loss_order_id: Option<String>,
+    },
+    TakeProfitOrder {
+        symbol: String,
+        new_take_profit_order_id: Option<String>,
+    },
+}
+
 /// 交易信號記錄
 #[derive(Debug, Clone, Serialize, Deserialize)]
 struct SignalRecord {
@@ -119,19 +161,20 @@ struct IntegratedAITrader {
     fomo_keywords: Vec<String>,
 
     // 交易配置 - 动态范围
-    min_position_usdt: f64,    // 最小仓位 1 USDT
-    max_position_usdt: f64,    // 最大仓位 3 USDT
-    min_leverage: u32,         // 最小杠杆 15x
-    max_leverage: u32,         // 最大杠杆 20x
+    min_position_usdt: f64, // 最小仓位 1 USDT
+    max_position_usdt: f64, // 最大仓位 2 USDT
+    min_leverage: u32,      // 最小杠杆 6x
+    max_leverage: u32,      // 最大杠杆 10x
 
     // 内存管理配置
-    max_tracked_coins: usize,  // tracked_coins 最大数量
-    coin_ttl_hours: i64,       // 币种追踪过期时间(小时)
+    max_tracked_coins: usize, // tracked_coins 最大数量
+    coin_ttl_hours: i64,      // 币种追踪过期时间(小时)
 
     // 状态跟踪
     tracked_coins: Arc<RwLock<HashMap<String, FundAlert>>>,
     position_trackers: Arc<RwLock<HashMap<String, PositionTracker>>>,
     signal_history: Arc<RwLock<SignalHistory>>,
+    last_analysis_time: Arc<RwLock<HashMap<String, DateTime<Utc>>>>, // 【优化1】信号去重
 }
 
 impl IntegratedAITrader {
@@ -166,17 +209,18 @@ impl IntegratedAITrader {
             ],
 
             min_position_usdt: 1.0,
-            max_position_usdt: 3.0,
-            min_leverage: 15,
-            max_leverage: 20,
+            max_position_usdt: 2.0,
+            min_leverage: 6,
+            max_leverage: 10,
 
             // 内存管理配置
-            max_tracked_coins: 100,  // 最多追踪 100 个币种
-            coin_ttl_hours: 24,      // 24 小时后自动过期
+            max_tracked_coins: 100, // 最多追踪 100 个币种
+            coin_ttl_hours: 24,     // 24 小时后自动过期
 
             tracked_coins: Arc::new(RwLock::new(HashMap::new())),
             position_trackers: Arc::new(RwLock::new(HashMap::new())),
             signal_history: Arc::new(RwLock::new(SignalHistory::new(30))),
+            last_analysis_time: Arc::new(RwLock::new(HashMap::new())), // 【优化1】初始化去重map
         }
     }
 
@@ -186,10 +230,13 @@ impl IntegratedAITrader {
         let coin_regex = Regex::new(r"\$([A-Z0-9]+)").ok()?;
         let coin = coin_regex.captures(text)?.get(1)?.as_str().to_string();
 
-        // 判断消息类型
+        // 判断消息类型 - 支持【资金异动】和【Alpha】格式
         let alert_type = if text.contains("出逃") || text.contains("撤离") {
             AlertType::FundEscape
-        } else if text.contains("【资金异动】") {
+        } else if text.contains("【资金异动】")
+            || text.contains("【Alpha】")
+            || text.contains("【FOMO】")
+        {
             AlertType::FundInflow
         } else {
             return None;
@@ -270,20 +317,34 @@ impl IntegratedAITrader {
 
         // 如果超过最大数量，移除最旧的币种
         if coins.len() > self.max_tracked_coins {
-            let mut sorted: Vec<_> = coins.iter().map(|(k, v)| (k.clone(), v.timestamp)).collect();
+            let mut sorted: Vec<_> = coins
+                .iter()
+                .map(|(k, v)| (k.clone(), v.timestamp))
+                .collect();
             sorted.sort_by_key(|(_, timestamp)| *timestamp);
 
             let to_remove = coins.len() - self.max_tracked_coins;
-            let coins_to_remove: Vec<String> = sorted.iter().take(to_remove).map(|(coin, _)| coin.clone()).collect();
+            let coins_to_remove: Vec<String> = sorted
+                .iter()
+                .take(to_remove)
+                .map(|(coin, _)| coin.clone())
+                .collect();
 
             for coin in coins_to_remove {
-                info!("🗑️  清理超量币种: {} (保持在 {} 个以内)", coin, self.max_tracked_coins);
+                info!(
+                    "🗑️  清理超量币种: {} (保持在 {} 个以内)",
+                    coin, self.max_tracked_coins
+                );
                 coins.remove(&coin);
             }
         }
 
         if !coins.is_empty() {
-            info!("📊 当前追踪币种数: {}/{}", coins.len(), self.max_tracked_coins);
+            info!(
+                "📊 当前追踪币种数: {}/{}",
+                coins.len(),
+                self.max_tracked_coins
+            );
         }
     }
 
@@ -299,10 +360,7 @@ impl IntegratedAITrader {
                 _ => "📊 资金流入",
             };
 
-            info!(
-                "\n{}: {} 💰",
-                signal_desc, alert.coin
-            );
+            info!("\n{}: {} 💰", signal_desc, alert.coin);
             info!(
                 "   价格: ${:.4} | 24H: {:+.2}% | 类型: {}",
                 alert.price, alert.change_24h, alert.fund_type
@@ -377,12 +435,12 @@ impl IntegratedAITrader {
         let mut cleanup_counter = 0;
 
         loop {
-            tokio::time::sleep(tokio::time::Duration::from_secs(60)).await; // 每分钟检查一次
+            tokio::time::sleep(tokio::time::Duration::from_secs(300)).await; // 每5分钟检查一次
 
             cleanup_counter += 1;
 
-            // 每 60 分钟(1小时)执行一次全局清理
-            if cleanup_counter >= 60 {
+            // 每 12 次检查(60分钟)执行一次全局清理
+            if cleanup_counter >= 12 {
                 info!("⏰ 开始执行定期内存清理...");
                 self.cleanup_tracked_coins().await;
                 self.cleanup_orphaned_trackers().await;
@@ -390,18 +448,64 @@ impl IntegratedAITrader {
                 info!("✅ 定期内存清理完成");
             }
 
-            let mut trackers = self.position_trackers.write().await;
-            let mut to_remove = Vec::new();
+            #[derive(Clone)]
+            struct TrackerSnapshot {
+                symbol: String,
+                side: String,
+                quantity: f64,
+                entry_price: f64,
+                entry_time: DateTime<Utc>,
+                leverage: u32,
+                stop_loss_order_id: Option<String>,
+                take_profit_order_id: Option<String>,
+            }
 
-            for (symbol, tracker) in trackers.iter_mut() {
-                // 更新最后检查时间
-                tracker.last_check_time = Utc::now();
+            let now = Utc::now();
+            let tracker_snapshots: HashMap<String, TrackerSnapshot> = {
+                let mut trackers = self.position_trackers.write().await;
+                trackers
+                    .iter_mut()
+                    .map(|(symbol, tracker)| {
+                        tracker.last_check_time = now;
+                        (
+                            symbol.clone(),
+                            TrackerSnapshot {
+                                symbol: symbol.clone(),
+                                side: tracker.side.clone(),
+                                quantity: tracker.quantity,
+                                entry_price: tracker.entry_price,
+                                entry_time: tracker.entry_time,
+                                leverage: tracker.leverage,
+                                stop_loss_order_id: tracker.stop_loss_order_id.clone(),
+                                take_profit_order_id: tracker.take_profit_order_id.clone(),
+                            },
+                        )
+                    })
+                    .collect()
+            };
+
+            if tracker_snapshots.is_empty() {
+                continue;
+            }
+
+            let mut actions_to_execute = Vec::new();
+
+            for snapshot in tracker_snapshots.values() {
+                let symbol = snapshot.symbol.clone();
+                let side = snapshot.side.clone();
+                let entry_price = snapshot.entry_price;
+                let entry_time = snapshot.entry_time;
+                let quantity = snapshot.quantity;
 
                 // 获取当前持仓
                 let positions = match self.exchange.get_positions().await {
-                    Ok(pos) => pos.into_iter().filter(|p| p.symbol == *symbol).collect::<Vec<_>>(),
+                    Ok(pos) => pos
+                        .into_iter()
+                        .filter(|p| p.symbol == symbol)
+                        .collect::<Vec<_>>(),
                     Err(e) => {
                         warn!("⚠️  获取{}持仓失败: {}", symbol, e);
+                        warn!("🔍 错误详情: {:?}", e);
                         continue;
                     }
                 };
@@ -409,19 +513,18 @@ impl IntegratedAITrader {
                 // 如果持仓不存在,说明已被止损/止盈触发
                 if positions.is_empty() {
                     info!("✅ {} 持仓已平仓(止损/止盈触发)", symbol);
-                    to_remove.push(symbol.clone());
+                    actions_to_execute.push(PositionAction::Remove(symbol));
                     continue;
                 }
 
                 let position = &positions[0];
                 let current_price = position.mark_price;
-                let entry_price = tracker.entry_price;
 
                 // 计算持仓时长(小时)
-                let duration = (Utc::now() - tracker.entry_time).num_minutes() as f64 / 60.0;
+                let duration = (Utc::now() - entry_time).num_minutes() as f64 / 60.0;
 
                 // 计算收益率
-                let profit_pct = if tracker.side == "LONG" {
+                let profit_pct = if side == "LONG" {
                     ((current_price - entry_price) / entry_price) * 100.0
                 } else {
                     ((entry_price - current_price) / entry_price) * 100.0
@@ -429,58 +532,363 @@ impl IntegratedAITrader {
 
                 info!(
                     "📊 {} 持仓检查: 方向={} | 入场=${:.4} | 当前=${:.4} | 盈亏={:+.2}% | 时长={:.1}h",
-                    symbol, tracker.side, entry_price, current_price, profit_pct, duration
+                    symbol, side, entry_price, current_price, profit_pct, duration
                 );
 
                 // 【时间止损】4小时未盈利则强制平仓
                 if duration >= 4.0 && profit_pct < 1.0 {
                     warn!("⏰ {} 超时4小时且未盈利,执行时间止损", symbol);
-                    if let Err(e) = self.close_position_fully(symbol, &tracker.side, tracker.quantity).await {
-                        error!("❌ 时间止损失败: {}", e);
-                    } else {
-                        to_remove.push(symbol.clone());
-                    }
+                    actions_to_execute.push(PositionAction::FullClose {
+                        symbol,
+                        side,
+                        quantity,
+                        reason: "timeout".to_string(),
+                    });
                     continue;
                 }
 
-                // 【分级止盈】+3%减半仓, +5%清仓
-                if profit_pct >= 5.0 {
-                    info!("🎯 {} 达到+5%,执行完全止盈", symbol);
-                    if let Err(e) = self.close_position_fully(symbol, &tracker.side, tracker.quantity).await {
-                        error!("❌ 完全止盈失败: {}", e);
-                    } else {
-                        to_remove.push(symbol.clone());
-                    }
-                    continue;
-                } else if profit_pct >= 3.0 && tracker.quantity == position.size {
-                    // 只在仓位未减半时执行
-                    info!("📉 {} 达到+3%,执行减半止盈", symbol);
-                    let half_quantity = tracker.quantity / 2.0;
-                    if let Err(e) = self.close_position_partially(symbol, &tracker.side, half_quantity).await {
-                        error!("❌ 减半止盈失败: {}", e);
-                    } else {
-                        // 更新tracker的数量
-                        tracker.quantity = half_quantity;
-                        info!("✅ 已减半仓位,剩余数量: {:.6}", half_quantity);
+                // 【AI 动态止盈评估】对所有持仓调用 AI, 取代固定 +3%/+5% 止盈
+                info!(
+                    "🤖 {} 当前盈亏 {:+.2}%, 调用 AI 评估持仓管理...",
+                    snapshot.symbol, profit_pct
+                );
 
-                        // 移动止损到保本位
-                        if let Some(old_sl_id) = &tracker.stop_loss_order_id {
-                            let _ = self.exchange.cancel_order(symbol, old_sl_id).await;
-                        }
-                        match self.exchange.set_stop_loss(symbol, &tracker.side, half_quantity, entry_price).await {
-                            Ok(new_sl_id) => {
-                                tracker.stop_loss_order_id = Some(new_sl_id);
-                                info!("✅ 止损已移动到保本位: ${:.4}", entry_price);
+                // 获取多周期K线数据 (5m, 15m, 1h)
+                let (klines_5m_result, klines_15m_result, klines_1h_result) = tokio::join!(
+                    tokio::time::timeout(
+                        tokio::time::Duration::from_secs(10),
+                        self.exchange.get_klines(&snapshot.symbol, "5m", Some(50))
+                    ),
+                    tokio::time::timeout(
+                        tokio::time::Duration::from_secs(10),
+                        self.exchange.get_klines(&snapshot.symbol, "15m", Some(100))
+                    ),
+                    tokio::time::timeout(
+                        tokio::time::Duration::from_secs(10),
+                        self.exchange.get_klines(&snapshot.symbol, "1h", Some(48))
+                    )
+                );
+
+                // 解析5m K线
+                let klines_5m = match klines_5m_result {
+                    Ok(Ok(data)) => data
+                        .iter()
+                        .map(|candle| rust_trading_bot::deepseek_client::Kline {
+                            timestamp: candle[0] as i64,
+                            open: candle[1],
+                            high: candle[2],
+                            low: candle[3],
+                            close: candle[4],
+                            volume: candle[5],
+                        })
+                        .collect::<Vec<_>>(),
+                    Ok(Err(e)) => {
+                        warn!("⚠️  获取{}5mK线失败: {}, 跳过AI评估", snapshot.symbol, e);
+                        continue;
+                    }
+                    Err(_) => {
+                        warn!("⚠️  获取{}5mK线超时, 跳过AI评估", snapshot.symbol);
+                        continue;
+                    }
+                };
+
+                // 解析15m K线
+                let klines = match klines_15m_result {
+                    Ok(Ok(data)) => data
+                        .iter()
+                        .map(|candle| rust_trading_bot::deepseek_client::Kline {
+                            timestamp: candle[0] as i64,
+                            open: candle[1],
+                            high: candle[2],
+                            low: candle[3],
+                            close: candle[4],
+                            volume: candle[5],
+                        })
+                        .collect::<Vec<_>>(),
+                    Ok(Err(e)) => {
+                        warn!("⚠️  获取{}15mK线失败: {}, 跳过AI评估", snapshot.symbol, e);
+                        continue;
+                    }
+                    Err(_) => {
+                        warn!("⚠️  获取{}15mK线超时, 跳过AI评估", snapshot.symbol);
+                        continue;
+                    }
+                };
+
+                // 解析1h K线
+                let klines_1h = match klines_1h_result {
+                    Ok(Ok(data)) => data
+                        .iter()
+                        .map(|candle| rust_trading_bot::deepseek_client::Kline {
+                            timestamp: candle[0] as i64,
+                            open: candle[1],
+                            high: candle[2],
+                            low: candle[3],
+                            close: candle[4],
+                            volume: candle[5],
+                        })
+                        .collect::<Vec<_>>(),
+                    Ok(Err(e)) => {
+                        warn!("⚠️  获取{}1hK线失败: {}, 跳过AI评估", snapshot.symbol, e);
+                        continue;
+                    }
+                    Err(_) => {
+                        warn!("⚠️  获取{}1hK线超时, 跳过AI评估", snapshot.symbol);
+                        continue;
+                    }
+                };
+
+                if klines.len() < 20 {
+                    warn!(
+                        "⚠️  K线数据不足: {} (需要至少20根), 跳过AI评估",
+                        klines.len()
+                    );
+                    continue;
+                }
+
+                // 计算技术指标 (基于15m)
+                let indicators = self.analyzer.calculate_indicators(&klines);
+
+                // 构建持仓管理 prompt - 传入三个周期的K线
+                let prompt = self.deepseek.build_position_management_prompt(
+                    &snapshot.symbol,
+                    &side,
+                    entry_price,
+                    current_price,
+                    profit_pct,
+                    duration,
+                    &klines_5m,
+                    &klines,
+                    &klines_1h,
+                    &indicators,
+                );
+
+                // 调用 AI 分析
+                let ai_decision_result = tokio::time::timeout(
+                    tokio::time::Duration::from_secs(30),
+                    self.deepseek.analyze_position_management(&prompt),
+                )
+                .await;
+
+                let ai_decision = match ai_decision_result {
+                    Ok(Ok(decision)) => decision,
+                    Ok(Err(e)) => {
+                        error!("❌ AI持仓评估失败: {}, 保持持仓", e);
+                        continue;
+                    }
+                    Err(_) => {
+                        warn!("⚠️  AI持仓评估超时, 保持持仓");
+                        continue;
+                    }
+                };
+
+                info!(
+                    "🎯 AI 决策: {} | 理由: {} | 盈利潜力: {} | 置信度: {}",
+                    ai_decision.action,
+                    ai_decision.reason,
+                    ai_decision.profit_potential,
+                    ai_decision.confidence
+                );
+
+                // 根据 AI 决策执行操作
+                match ai_decision.action.as_str() {
+                    "HOLD" => {
+                        info!("✅ AI 建议继续持有 {}", snapshot.symbol);
+                    }
+                    "PARTIAL_CLOSE" => {
+                        if let Some(close_pct) = ai_decision.close_percentage {
+                            info!("📉 AI 建议部分平仓 {} ({}%)", snapshot.symbol, close_pct);
+                            let close_quantity =
+                                (quantity * (close_pct / 100.0)).clamp(0.0, quantity);
+                            let remaining_quantity = (quantity - close_quantity).max(0.0);
+
+                            if close_quantity <= f64::EPSILON {
+                                warn!("⚠️  计算得到的平仓数量过小, 跳过本次部分平仓");
+                                continue;
                             }
-                            Err(e) => warn!("⚠️  移动止损失败: {}", e),
+
+                            actions_to_execute.push(PositionAction::PartialClose {
+                                symbol: snapshot.symbol.clone(),
+                                side,
+                                close_quantity,
+                                close_pct,
+                                entry_price,
+                                remaining_quantity,
+                                stop_loss_order_id: snapshot.stop_loss_order_id.clone(),
+                            });
+                        } else {
+                            warn!("⚠️  AI 建议部分平仓但未提供百分比,保持持仓");
                         }
+                    }
+                    "FULL_CLOSE" => {
+                        info!("🚨 AI 建议全部平仓 {}", snapshot.symbol);
+                        actions_to_execute.push(PositionAction::FullClose {
+                            symbol: snapshot.symbol.clone(),
+                            side,
+                            quantity,
+                            reason: "ai_decision".to_string(),
+                        });
+                    }
+                    "SET_LIMIT_ORDER" => {
+                        if let Some(limit_price) = ai_decision.limit_price {
+                            info!(
+                                "🎯 AI 建议设置限价止盈单 {} @ ${:.4}",
+                                snapshot.symbol, limit_price
+                            );
+                            actions_to_execute.push(PositionAction::SetLimitOrder {
+                                symbol: snapshot.symbol.clone(),
+                                side,
+                                quantity,
+                                limit_price,
+                                take_profit_order_id: snapshot.take_profit_order_id.clone(),
+                            });
+                        } else {
+                            warn!("⚠️  AI 建议设置限价单但未提供价格,保持持仓");
+                        }
+                    }
+                    _ => {
+                        warn!("⚠️  未知的 AI 决策动作: {}, 保持持仓", ai_decision.action);
                     }
                 }
             }
 
-            // 清理已平仓的持仓
-            for symbol in to_remove {
-                trackers.remove(&symbol);
+            if actions_to_execute.is_empty() {
+                continue;
+            }
+
+            let mut tracker_mutations = Vec::new();
+            let mut symbols_to_remove = Vec::new();
+
+            for action in actions_to_execute {
+                match action {
+                    PositionAction::FullClose {
+                        symbol,
+                        side,
+                        quantity,
+                        reason,
+                    } => {
+                        if let Err(e) = self.close_position_fully(&symbol, &side, quantity).await {
+                            error!("❌ 全部平仓失败({}): {}", reason, e);
+                        } else {
+                            symbols_to_remove.push(symbol);
+                        }
+                    }
+                    PositionAction::PartialClose {
+                        symbol,
+                        side,
+                        close_quantity,
+                        close_pct,
+                        entry_price,
+                        remaining_quantity,
+                        stop_loss_order_id,
+                    } => {
+                        if let Err(e) = self
+                            .close_position_partially(&symbol, &side, close_quantity)
+                            .await
+                        {
+                            error!("❌ 部分平仓失败: {}", e);
+                            continue;
+                        }
+
+                        info!(
+                            "✅ 已平仓 {:.2}%, 剩余数量: {:.6}",
+                            close_pct, remaining_quantity
+                        );
+
+                        if let Some(order_id) = stop_loss_order_id {
+                            let _ = self.exchange.cancel_order(&symbol, &order_id).await;
+                        }
+
+                        if remaining_quantity > f64::EPSILON {
+                            match self
+                                .exchange
+                                .set_stop_loss(&symbol, &side, remaining_quantity, entry_price)
+                                .await
+                            {
+                                Ok(new_sl_id) => {
+                                    tracker_mutations.push(TrackerMutation::QuantityAndStopLoss {
+                                        symbol,
+                                        new_quantity: remaining_quantity,
+                                        new_stop_loss_order_id: Some(new_sl_id),
+                                    });
+                                    info!("✅ 止损已移动到保本位: ${:.4}", entry_price);
+                                }
+                                Err(e) => {
+                                    warn!("⚠️  移动止损失败: {}", e);
+                                    tracker_mutations.push(TrackerMutation::QuantityAndStopLoss {
+                                        symbol,
+                                        new_quantity: remaining_quantity,
+                                        new_stop_loss_order_id: None,
+                                    });
+                                }
+                            }
+                        } else {
+                            symbols_to_remove.push(symbol);
+                        }
+                    }
+                    PositionAction::SetLimitOrder {
+                        symbol,
+                        side,
+                        quantity,
+                        limit_price,
+                        take_profit_order_id,
+                    } => {
+                        if let Some(order_id) = take_profit_order_id {
+                            let _ = self.exchange.cancel_order(&symbol, &order_id).await;
+                        }
+
+                        match self
+                            .exchange
+                            .set_limit_take_profit(&symbol, &side, quantity, limit_price)
+                            .await
+                        {
+                            Ok(order_id) => {
+                                tracker_mutations.push(TrackerMutation::TakeProfitOrder {
+                                    symbol,
+                                    new_take_profit_order_id: Some(order_id),
+                                });
+                                info!("✅ 限价止盈单已设置 @ ${:.4}", limit_price);
+                            }
+                            Err(e) => {
+                                error!("❌ 设置限价止盈单失败: {}", e);
+                            }
+                        }
+                    }
+                    PositionAction::Remove(symbol) => {
+                        symbols_to_remove.push(symbol);
+                    }
+                }
+            }
+
+            if !tracker_mutations.is_empty() || !symbols_to_remove.is_empty() {
+                let mut trackers = self.position_trackers.write().await;
+
+                for mutation in tracker_mutations {
+                    match mutation {
+                        TrackerMutation::QuantityAndStopLoss {
+                            symbol,
+                            new_quantity,
+                            new_stop_loss_order_id,
+                        } => {
+                            if let Some(tracker) = trackers.get_mut(&symbol) {
+                                tracker.quantity = new_quantity;
+                                tracker.stop_loss_order_id = new_stop_loss_order_id;
+                            }
+                        }
+                        TrackerMutation::TakeProfitOrder {
+                            symbol,
+                            new_take_profit_order_id,
+                        } => {
+                            if let Some(tracker) = trackers.get_mut(&symbol) {
+                                tracker.take_profit_order_id = new_take_profit_order_id;
+                            }
+                        }
+                    }
+                }
+
+                for symbol in symbols_to_remove {
+                    trackers.remove(&symbol);
+                }
             }
         }
     }
@@ -504,6 +912,7 @@ impl IntegratedAITrader {
                 }
                 Err(e) => {
                     warn!("⚠️  获取{}持仓失败(清理检查): {}", symbol, e);
+                    warn!("🔍 错误详情: {:?}", e);
 
                     // 如果超过24小时无法验证,也清理掉
                     let age_hours = (Utc::now() - tracker.last_check_time).num_hours();
@@ -540,17 +949,60 @@ impl IntegratedAITrader {
         }
         drop(trackers);
 
-        // 市价平仓
-        self.exchange.market_order(symbol, quantity, close_side).await?;
-        info!("✅ {} 已完全平仓", symbol);
+        // 使用限价单平仓，稍微穿透当前价确保成交
+        let current_price = self.exchange.get_current_price(symbol).await?;
+        let position_side = if side == "LONG" { "LONG" } else { "SHORT" };
+        let limit_price = if side == "LONG" {
+            current_price * 0.999
+        } else {
+            current_price * 1.001
+        };
+        let order_id = self
+            .exchange
+            .limit_order(
+                symbol,
+                quantity,
+                close_side,
+                limit_price,
+                Some(position_side),
+            )
+            .await?;
+        info!(
+            "✅ {} 已完全平仓，限价: {:.4}，订单ID: {}",
+            symbol, limit_price, order_id
+        );
         Ok(())
     }
 
     /// 部分平仓
-    async fn close_position_partially(&self, symbol: &str, side: &str, quantity: f64) -> Result<()> {
+    async fn close_position_partially(
+        &self,
+        symbol: &str,
+        side: &str,
+        quantity: f64,
+    ) -> Result<()> {
         let close_side = if side == "LONG" { "SELL" } else { "BUY" };
-        self.exchange.market_order(symbol, quantity, close_side).await?;
-        info!("✅ {} 已部分平仓: {:.6}", symbol, quantity);
+        let current_price = self.exchange.get_current_price(symbol).await?;
+        let position_side = if side == "LONG" { "LONG" } else { "SHORT" };
+        let limit_price = if side == "LONG" {
+            current_price * 0.999
+        } else {
+            current_price * 1.001
+        };
+        let order_id = self
+            .exchange
+            .limit_order(
+                symbol,
+                quantity,
+                close_side,
+                limit_price,
+                Some(position_side),
+            )
+            .await?;
+        info!(
+            "✅ {} 已部分平仓: {:.6}，限价: {:.4}，订单ID: {}",
+            symbol, quantity, limit_price, order_id
+        );
         Ok(())
     }
 
@@ -558,17 +1010,143 @@ impl IntegratedAITrader {
     async fn analyze_and_trade(&self, alert: FundAlert) -> Result<()> {
         info!("🧠 开始AI分析: {}", alert.coin);
 
+        // 【优化1: 信号去重】检查30秒内是否已分析过该币种
+        let mut last_times = self.last_analysis_time.write().await;
+        if let Some(last_time) = last_times.get(&alert.coin) {
+            let elapsed = (Utc::now() - *last_time).num_seconds();
+            if elapsed < 30 {
+                info!("⏭️  跳过重复分析: {} ({}秒前已分析)", alert.coin, elapsed);
+                return Ok(());
+            }
+        }
+        last_times.insert(alert.coin.clone(), Utc::now());
+        drop(last_times);
+
         // 1. 获取K线数据 - 归一化symbol为BTCUSDT格式
         let symbol = format!("{}USDT", alert.coin);
         info!("🔍 交易对标准化: {} -> {}", alert.coin, symbol);
 
-        // 使用 timeout 避免 API 调用卡死
-        let klines_result = tokio::time::timeout(
-            tokio::time::Duration::from_secs(10),
-            self.exchange.get_klines(&symbol, "15m", Some(100))
-        ).await;
+        // 1.5 获取历史表现 - 12小时内交易记录
+        let perf_opt = match self.exchange.get_symbol_performance(&symbol, 12).await {
+            Ok(p) => p,
+            Err(e) => {
+                warn!("⚠️  获取{}历史表现失败: {}", symbol, e);
+                None
+            }
+        };
 
-        let klines = match klines_result {
+        // 构建历史表现提示
+        let history_prompt = if let Some(perf) = &perf_opt {
+            use rust_trading_bot::binance_client::{BinanceClient, RiskLevel};
+            let risk_level = BinanceClient::get_risk_level(perf);
+
+            info!(
+                "📊 {} 历史表现(12h): {}笔交易, 胜率{:.1}%, 保证金收益率{:+.2}%, 风险等级:{:?}",
+                symbol, perf.trade_count, perf.win_rate, perf.margin_loss_rate, risk_level
+            );
+
+            match risk_level {
+                RiskLevel::High => format!(
+                    "\n\n⚠️ 【风险警告】该币种近12小时表现糟糕：\n\
+                    - 保证金亏损率: {:.2}% (严重亏损)\n\
+                    - 交易次数: {}笔\n\
+                    - 胜率: {:.1}%\n\
+                    - 总盈亏: {:.4} USDT\n\n\
+                    ⛔ 建议：该币种历史表现极差,强烈建议SKIP或降低置信度至LOW。\n\
+                    除非有压倒性的技术优势(如明显支撑位+异动首次出现),否则不做。",
+                    perf.margin_loss_rate,
+                    perf.trade_count,
+                    perf.win_rate,
+                    perf.total_pnl
+                ),
+                RiskLevel::Medium => format!(
+                    "\n\n⚠️ 【谨慎提示】该币种近12小时表现不佳：\n\
+                    - 保证金亏损率: {:.2}%\n\
+                    - 交易次数: {}笔\n\
+                    - 胜率: {:.1}%\n\
+                    - 总盈亏: {:.4} USDT\n\n\
+                    建议：提高决策标准,需要更强的技术信号才能开仓。信心度建议MEDIUM或以下。",
+                    perf.margin_loss_rate,
+                    perf.trade_count,
+                    perf.win_rate,
+                    perf.total_pnl
+                ),
+                RiskLevel::Low => format!(
+                    "\n\n📉 【轻度负面】该币种近12小时表现一般：\n\
+                    - 保证金亏损率: {:.2}%\n\
+                    - 交易次数: {}笔\n\
+                    - 胜率: {:.1}%\n\
+                    - 总盈亏: {:.4} USDT\n\n\
+                    建议：略微提高警惕,按正常标准决策即可。",
+                    perf.margin_loss_rate,
+                    perf.trade_count,
+                    perf.win_rate,
+                    perf.total_pnl
+                ),
+                RiskLevel::Normal => {
+                    if perf.margin_loss_rate > 10.0 {
+                        format!(
+                            "\n\n✅ 【正面参考】该币种近12小时表现优秀：\n\
+                            - 保证金收益率: +{:.2}%\n\
+                            - 交易次数: {}笔\n\
+                            - 胜率: {:.1}%\n\
+                            - 总盈亏: +{:.4} USDT\n\n\
+                            建议：该币种历史盈利,可以适当提高信心,但仍需结合技术面判断。",
+                            perf.margin_loss_rate,
+                            perf.trade_count,
+                            perf.win_rate,
+                            perf.total_pnl
+                        )
+                    } else {
+                        String::new() // 轻微盈亏,不添加提示
+                    }
+                }
+            }
+        } else {
+            String::new() // 无历史数据,不添加提示
+        };
+
+        // 【多时间周期分析】超短线交易策略：5m微观、15m趋势、1h支撑阻力
+        let (klines_5m_result, klines_15m_result, klines_1h_result) = tokio::join!(
+            tokio::time::timeout(
+                tokio::time::Duration::from_secs(10),
+                self.exchange.get_klines(&symbol, "5m", Some(50))
+            ),
+            tokio::time::timeout(
+                tokio::time::Duration::from_secs(10),
+                self.exchange.get_klines(&symbol, "15m", Some(100))
+            ),
+            tokio::time::timeout(
+                tokio::time::Duration::from_secs(10),
+                self.exchange.get_klines(&symbol, "1h", Some(48))
+            )
+        );
+
+        // 解析5m K线
+        let klines_5m = match klines_5m_result {
+            Ok(Ok(data)) => data
+                .iter()
+                .map(|candle| Kline {
+                    timestamp: candle[0] as i64,
+                    open: candle[1],
+                    high: candle[2],
+                    low: candle[3],
+                    close: candle[4],
+                    volume: candle[5],
+                })
+                .collect::<Vec<_>>(),
+            Ok(Err(e)) => {
+                warn!("❌ 获取{}5mK线失败: {}", symbol, e);
+                return Ok(());
+            }
+            Err(_) => {
+                warn!("❌ 获取{}5mK线超时", symbol);
+                return Ok(());
+            }
+        };
+
+        // 解析15m K线
+        let klines = match klines_15m_result {
             Ok(Ok(data)) => data
                 .iter()
                 .map(|candle| Kline {
@@ -590,6 +1168,41 @@ impl IntegratedAITrader {
             }
         };
 
+        // 解析1h K线
+        let klines_1h = match klines_1h_result {
+            Ok(Ok(data)) => data
+                .iter()
+                .map(|candle| Kline {
+                    timestamp: candle[0] as i64,
+                    open: candle[1],
+                    high: candle[2],
+                    low: candle[3],
+                    close: candle[4],
+                    volume: candle[5],
+                })
+                .collect::<Vec<_>>(),
+            Ok(Err(e)) => {
+                warn!("❌ 获取{}1hK线失败: {}", symbol, e);
+                return Ok(());
+            }
+            Err(_) => {
+                warn!("❌ 获取{}1hK线超时", symbol);
+                return Ok(());
+            }
+        };
+
+        if klines_1h.len() < 12 {
+            warn!("⚠️  1h K线数据不足: {} (需要至少12根)", klines_1h.len());
+            return Ok(());
+        }
+
+        if let Some(last_hour) = klines_1h.last() {
+            info!(
+                "🕒 1h 最新K线: 收盘价 ${:.4} | 成交量 {:.2}",
+                last_hour.close, last_hour.volume
+            );
+        }
+
         if klines.len() < 20 {
             warn!("⚠️  K线数据不足: {} (需要至少20根)", klines.len());
             return Ok(());
@@ -603,16 +1216,20 @@ impl IntegratedAITrader {
 
         // 4. 构建增强的DeepSeek Prompt
         let current_price = klines.last().unwrap().close;
-        let prompt =
+        let base_prompt =
             self.build_enhanced_prompt(&alert, &klines, &indicators, &key_levels, current_price);
+
+        // 4.5 附加历史表现数据
+        let prompt = format!("{}{}", base_prompt, history_prompt);
 
         info!("📝 发送给DeepSeek AI分析...");
 
         // 5. 调用DeepSeek API分析市场 - 添加超时保护
         let decision_result = tokio::time::timeout(
             tokio::time::Duration::from_secs(30),
-            self.deepseek.analyze_market(&prompt)
-        ).await;
+            self.deepseek.analyze_market(&prompt),
+        )
+        .await;
 
         let decision = match decision_result {
             Ok(Ok(signal)) => signal,
@@ -631,8 +1248,8 @@ impl IntegratedAITrader {
         info!("   信号: {}", decision.signal);
         info!("   置信度: {}", decision.confidence);
         info!("   理由: {}", decision.reason);
-        info!("   止损价: ${:.4}", decision.stop_loss);
-        info!("   止盈价: ${:.4}", decision.take_profit);
+        info!("   止损价: ${:.4}", decision.stop_loss.unwrap_or(0.0));
+        info!("   止盈价: ${:.4}", decision.take_profit.unwrap_or(0.0));
 
         // 6. 执行交易决策
         if decision.signal == "HOLD" || decision.signal == "SKIP" {
@@ -647,7 +1264,11 @@ impl IntegratedAITrader {
         }
 
         // 6.5 检查当前持仓和防频繁交易
-        let current_position = self.exchange.get_positions().await.ok()
+        let current_position = self
+            .exchange
+            .get_positions()
+            .await
+            .ok()
             .and_then(|positions| positions.into_iter().find(|p| p.symbol == symbol));
 
         let signal_history = self.signal_history.read().await;
@@ -660,17 +1281,17 @@ impl IntegratedAITrader {
         // 7. 动态计算仓位和杠杆 - 根据置信度调整
         let (position_usdt, leverage) = match decision.confidence.as_str() {
             "HIGH" => {
-                // 高信心: 最大仓位 3U + 最高杠杆 20x = 60U名义价值
+                // 高信心: 最大仓位 2U + 最高杠杆 10x = 20U名义价值
                 (self.max_position_usdt, self.max_leverage)
             }
             "MEDIUM" => {
-                // 中信心: 中等仓位 2U + 中等杠杆 17-18x ≈ 34-36U名义价值
+                // 中信心: 中等仓位 1.5U + 中等杠杆 8x = 12U名义价值
                 let mid_position = (self.min_position_usdt + self.max_position_usdt) / 2.0;
                 let mid_leverage = (self.min_leverage + self.max_leverage) / 2;
                 (mid_position, mid_leverage)
             }
             _ => {
-                // 低信心: 最小仓位 1U + 最低杠杆 15x = 15U名义价值 (实际上LOW会被跳过)
+                // 低信心: 最小仓位 1U + 最低杠杆 6x = 6U名义价值 (实际上LOW会被跳过)
                 (self.min_position_usdt, self.min_leverage)
             }
         };
@@ -678,13 +1299,21 @@ impl IntegratedAITrader {
         let quantity = position_usdt * leverage as f64 / current_price;
 
         info!("💰 仓位配置:");
-        info!("   投入USDT: {:.2} (动态范围: {:.1}-{:.1}U)",
-            position_usdt, self.min_position_usdt, self.max_position_usdt);
-        info!("   杠杆倍数: {}x (动态范围: {}-{}x)",
-            leverage, self.min_leverage, self.max_leverage);
+        info!(
+            "   投入USDT: {:.2} (动态范围: {:.1}-{:.1}U)",
+            position_usdt, self.min_position_usdt, self.max_position_usdt
+        );
+        info!(
+            "   杠杆倍数: {}x (动态范围: {}-{}x)",
+            leverage, self.min_leverage, self.max_leverage
+        );
         info!("   开仓数量: {:.6} {}", quantity, alert.coin);
-        info!("   名义价值: {:.2} USDT ({}U × {}x)",
-            position_usdt * leverage as f64, position_usdt, leverage);
+        info!(
+            "   名义价值: {:.2} USDT ({}U × {}x)",
+            position_usdt * leverage as f64,
+            position_usdt,
+            leverage
+        );
 
         // 8. 执行开仓 - 使用动态杠杆
         let side = if decision.signal == "BUY" {
@@ -708,42 +1337,52 @@ impl IntegratedAITrader {
                 info!("✅ 交易执行成功!");
                 info!("   方向: {}", decision.signal);
                 info!("   入场价: ${:.4}", current_price);
-                info!("   止损价: ${:.4}", decision.stop_loss);
-                info!("   止盈价: ${:.4}", decision.take_profit);
+                info!("   止损价: ${:.4}", decision.stop_loss.unwrap_or(0.0));
+                info!("   止盈价: ${:.4}", decision.take_profit.unwrap_or(0.0));
 
                 // 9. 自动设置止损止盈单
                 info!("\n🎯 设置自动止损止盈单...");
 
                 // 设置止损单
-                let stop_loss_order_id = match self
-                    .exchange
-                    .set_stop_loss(&symbol, side, quantity, decision.stop_loss)
-                    .await
-                {
-                    Ok(order_id) => {
-                        info!("   ✅ 止损单ID: {}", order_id);
-                        Some(order_id)
+                let stop_loss_order_id = if let Some(sl_price) = decision.stop_loss {
+                    match self
+                        .exchange
+                        .set_stop_loss(&symbol, side, quantity, sl_price)
+                        .await
+                    {
+                        Ok(order_id) => {
+                            info!("   ✅ 止损单ID: {}", order_id);
+                            Some(order_id)
+                        }
+                        Err(e) => {
+                            warn!("   ⚠️  止损单设置失败: {}", e);
+                            None
+                        }
                     }
-                    Err(e) => {
-                        warn!("   ⚠️  止损单设置失败: {}", e);
-                        None
-                    }
+                } else {
+                    info!("   ⚠️  AI未提供止损价,跳过止损单设置");
+                    None
                 };
 
                 // 设置止盈单
-                let take_profit_order_id = match self
-                    .exchange
-                    .set_take_profit(&symbol, side, quantity, decision.take_profit)
-                    .await
-                {
-                    Ok(order_id) => {
-                        info!("   ✅ 止盈单ID: {}", order_id);
-                        Some(order_id)
+                let take_profit_order_id = if let Some(tp_price) = decision.take_profit {
+                    match self
+                        .exchange
+                        .set_take_profit(&symbol, side, quantity, tp_price)
+                        .await
+                    {
+                        Ok(order_id) => {
+                            info!("   ✅ 止盈单ID: {}", order_id);
+                            Some(order_id)
+                        }
+                        Err(e) => {
+                            warn!("   ⚠️  止盈单设置失败: {}", e);
+                            None
+                        }
                     }
-                    Err(e) => {
-                        warn!("   ⚠️  止盈单设置失败: {}", e);
-                        None
-                    }
+                } else {
+                    info!("   📌 采用动态止盈策略(由AI监控持仓管理)");
+                    None
                 };
 
                 // 10. 记录持仓信息到tracker
@@ -792,7 +1431,7 @@ impl IntegratedAITrader {
     fn build_enhanced_prompt(
         &self,
         alert: &FundAlert,
-        klines: &[Kline],
+        _klines: &[Kline],
         indicators: &TechnicalIndicators,
         key_levels: &[rust_trading_bot::key_level_finder::KeyLevel],
         current_price: f64,
@@ -805,128 +1444,117 @@ impl IntegratedAITrader {
             .find_nearest_levels(key_levels, current_price);
 
         format!(
-            r#"你是专业的日内交易分析师，现在有一个主力资金异动信号需要评估。
+            r#"你是一位顶尖的加密货币交易分析师,专精12小时内超短线操作,基于Valuescan主力资金监控系统执行交易。
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📊 币种: ${}
+📊 交易标的: ${}
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-💰 【主力资金信号】
+【核心信号】Valuescan主力资金异动 (信号源优先级最高)
 - 信号类型: {}
 - 当前价格: ${:.6}
-- 24H涨跌幅: {:+.2}%
-- 资金类型: {}
-- 发现时间: {}
+- 资金类型: {} (合约资金看主力,现货资金看大盘)
+- 信号时间: {}
 
-📈 【技术指标 (15分钟)】
-- RSI(14): {:.2}
-- MACD: {:.4} (信号线: {:.4}, 柱状: {:.4})
-- 布林带: 上轨${:.4} | 中轨${:.4} | 下轨${:.4}
-- SMA5: ${:.4} | SMA20: ${:.4} | SMA50: ${:.4}
-- 当前价格位置: {}
+🔥 【ValueScan核心口诀】
+1. "异动首次响,黄金千万两!" - 首次异动信号最重要
+2. "alpha首次推,仓位闭眼堆!" - 首个Alpha信号高置信度
+3. "fomo一现,热点出现" - FOMO信号代表市场焦点
+4. 异动频繁→市场活跃可操作 | 异动冷清→多看少做
+5. Alpha+FOMO组合 = 最强信号
+6. 风险区+异动同时出现 → 不做
 
-🎯 【主力关键位】
+【辅助判断1】1h K线关键位 (主力建仓区域识别)
 {}
+动态位置: {}
 
-📊 【市场状态】
-- 当前价格: ${:.4}
-- 24H最高: ${:.4}
-- 24H最低: ${:.4}
-- 成交量(最近): {:.2}
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🎯 【日内交易决策要求】
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-【交易特点】
-- 目标: 日内波段交易
-- 持仓时间: 30分钟 - 4小时
-- 预期收益: 3-10%
-- 最大风险: 2%
-
-【整合主力关键位策略】
-✅ **做多入场条件(BUY)**:
-- 价格在支撑位附近(±2%) + 未破位 + RSI<40超卖
-- {}
-- 资金流入持续、未见主力出逃信号
-- 设置好止损位（支撑位-2%）
-
-✅ **做空入场条件(SELL)**:
-- 跌破主力支撑位 + 空头排列(SMA5<SMA20<SMA50)
-- RSI>40(非超卖区,避免抄底反弹)
-- MACD死叉且负值扩大
-- 24H跌幅>-5%且趋势延续,或从高位回落>15%
-- 设置好止损位（阻力位+2%或前高+2%）
-
-❌ **不入场条件**:
-- 做多时: 已大幅拉升(>30%)且无回调、RSI>70严重超买
-- 做空时: RSI<30严重超卖(抄底风险)、无明确破位
-- 流动性极差、关键位不明确
-
-🎯 **止盈止损**:
-- 止盈1: +3% 减半仓
-- 止盈2: +5% 清仓
-- 止损: 主力关键位-2%或入场价-2%（取近的）
-- 时间止损: 4小时未突破止盈位则离场
+【辅助判断2】15m技术指标 (入场时机确认)
+- RSI(14): {:.2}
+- MACD柱状: {:.4}
+- 布林带位置: {}
+- 均线状态: SMA5=${:.4} SMA20=${:.4}
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📝 【输出要求】
+🎯 【超短线决策原则】12小时内操作,快进快出
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-请以JSON格式输出交易决策：
+✅ **HIGH信心开多条件** (系统自动配置: 2U × 10x = 20U名义价值):
+- Valuescan首次资金流入异动
+- 价格在1h支撑位上方 OR 刚突破支撑位
+- 5m/15m趋势向上,无顶部反转形态
+- RSI < 75 (非严重超买)
+- 关键: 主力资金持续流入,异动频繁
+
+✅ **MEDIUM信心开多条件** (系统自动配置: 1.5U × 8x = 12U名义价值):
+- 资金流入信号但非首次
+- 价格在支撑与阻力之间
+- 技术指标中性偏多
+- RSI 50-70区间
+
+❌ **LOW信心/SKIP条件** (系统自动配置: 1U × 6x = 6U,但实际会跳过交易):
+- 异动信号冷清,市场不活跃
+- 价格接近阻力位但未突破
+- RSI > 80 严重超买
+- 5m/15m出现明显顶部形态
+- 关键位不明确
+
+🔻 **做空条件** (仅限以下情况):
+- Valuescan主力资金撤离/出逃信号
+- 价格跌破1h主力支撑位
+- 5m出现明显顶部反转
+- RSI > 25 (避免抄底被套)
+
+⏱️ **超短线风控**:
+- 目标: 12小时内操作
+- 止损: 入场价-2% OR 最近支撑位-2% (取近的)
+- 止盈: 动态管理(AI监控),不设固定目标
+- 时间止损: 4小时未盈利>1%强制离场
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 【输出格式】严格JSON
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 {{
     "signal": "BUY|SELL|HOLD|SKIP",
     "confidence": "HIGH|MEDIUM|LOW",
     "stop_loss": 止损价格(数字),
-    "take_profit": 止盈价格(数字),
-    "reason": "简要理由(100字以内,含关键位判断+趋势+技术依据)"
+    "take_profit": 止盈价格(数字) 或 null (动态管理),
+    "reason": "决策理由(限100字,必须包含:信号类型+关键位状态+趋势判断)"
 }}
 
-【字段说明】
-- signal: BUY(强烈推荐做多), SELL(强烈推荐做空), HOLD(观望), SKIP(不推荐)
-- confidence: 置信度(HIGH/MEDIUM/LOW)
-- stop_loss: 止损价格(做多时:入场价-2%或支撑位-2%; 做空时:入场价+2%或阻力位+2%)
-- take_profit: 第一止盈目标(做多时:+3%; 做空时:-3%),系统会自动设置±5%清仓
-- reason: 决策理由,必须包含主力关键位状态+趋势判断+技术指标
+**confidence解释**:
+- HIGH: 首次异动+关键位有利+趋势强 → 系统自动: 2U×10x
+- MEDIUM: 非首次信号或技术指标中性 → 系统自动: 1.5U×8x  
+- LOW: 信号弱或风险高 → 系统自动跳过交易
 
-请综合分析后给出明确决策！
+**signal决策核心**:
+1. 频道信号占权重70% (主力资金最重要)
+2. 1h关键位占权重20% (支撑/阻力判断)
+3. 技术指标占权重10% (仅确认入场时机)
+
+现在请分析以上数据,给出明确的12小时超短线交易决策！
 "#,
             alert.coin,
             alert_type_desc,
-            alert.price,
-            alert.change_24h,
+            current_price,
             alert.fund_type,
             alert.timestamp.format("%Y-%m-%d %H:%M:%S UTC"),
-            indicators.rsi,
-            indicators.macd,
-            indicators.macd_signal,
-            indicators.macd - indicators.macd_signal,
-            indicators.bb_upper,
-            indicators.bb_middle,
-            indicators.bb_lower,
-            indicators.sma_5,
-            indicators.sma_20,
-            indicators.sma_50,
-            self.get_bb_position(current_price, indicators),
             self.format_key_levels(
                 key_levels,
                 current_price,
                 &nearest_support,
                 &nearest_resistance
             ),
-            current_price,
-            klines.iter().map(|k| k.high).fold(f64::MIN, f64::max),
-            klines.iter().map(|k| k.low).fold(f64::MAX, f64::min),
-            klines.last().unwrap().volume,
             self.format_entry_condition(&nearest_support, &nearest_resistance, current_price),
+            indicators.rsi,
+            indicators.macd - indicators.macd_signal,
+            self.get_bb_position(current_price, indicators),
+            indicators.sma_5,
+            indicators.sma_20,
         )
     }
 
-    fn get_bb_position(
-        &self,
-        price: f64,
-        indicators: &TechnicalIndicators,
-    ) -> &str {
+    fn get_bb_position(&self, price: f64, indicators: &TechnicalIndicators) -> &str {
         let upper_dist = (indicators.bb_upper - price).abs();
         let middle_dist = (indicators.bb_middle - price).abs();
         let lower_dist = (indicators.bb_lower - price).abs();
@@ -1004,7 +1632,7 @@ async fn main() -> Result<()> {
     env_logger::init();
 
     info!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
-    info!("🚀 集成AI交易系统 - Alpha/FOMO日内交易版");
+    info!("🚀 集成AI交易系统 - Alpha/FOMO交易版");
     info!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n");
 
     // 读取配置
@@ -1071,7 +1699,11 @@ async fn main() -> Result<()> {
 
             // 检查是否为目标频道
             if channel.id() == trader.fund_channel_id {
-                info!("✅ 目标频道已解析: {} (ID: {})", channel.title(), channel.id());
+                info!(
+                    "✅ 目标频道已解析: {} (ID: {})",
+                    channel.title(),
+                    channel.id()
+                );
                 target_channel_id = Some(channel.id());
             }
         }
@@ -1082,7 +1714,10 @@ async fn main() -> Result<()> {
     let target_channel_id = match target_channel_id {
         Some(id) => id,
         None => {
-            anyhow::bail!("❌ 无法找到目标频道 (ID: {}),请确保已加入该频道", trader.fund_channel_id);
+            anyhow::bail!(
+                "❌ 无法找到目标频道 (ID: {}),请确保已加入该频道",
+                trader.fund_channel_id
+            );
         }
     };
 
@@ -1092,21 +1727,19 @@ async fn main() -> Result<()> {
     // 实时监控循环
     loop {
         match trader.telegram_client.next_update().await {
-            Ok(Update::NewMessage(message)) if !message.outgoing() => {
-                match message.chat() {
-                    grammers_client::types::Chat::Channel(channel)
-                        if channel.id() == target_channel_id =>
-                    {
-                        let text = message.text();
-                        if !text.is_empty() {
-                            if let Err(e) = trader.handle_message(text).await {
-                                error!("❌ 处理消息错误: {}", e);
-                            }
+            Ok(Update::NewMessage(message)) if !message.outgoing() => match message.chat() {
+                grammers_client::types::Chat::Channel(channel)
+                    if channel.id() == target_channel_id =>
+                {
+                    let text = message.text();
+                    if !text.is_empty() {
+                        if let Err(e) = trader.handle_message(text).await {
+                            error!("❌ 处理消息错误: {}", e);
                         }
                     }
-                    _ => {}
                 }
-            }
+                _ => {}
+            },
             Err(e) => {
                 error!("❌ Telegram连接错误: {}", e);
                 tokio::time::sleep(tokio::time::Duration::from_secs(5)).await;

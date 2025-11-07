@@ -314,6 +314,7 @@ impl ExchangeClient for HyperliquidClient {
             min_qty: step_size,
             quantity_precision: asset_info.sz_decimals,
             price_precision: 5, // Hyperliquid 默认价格精度
+            tick_size: 0.0001,  // Hyperliquid 行情默认最小价格跳动
         };
 
         // 缓存规则

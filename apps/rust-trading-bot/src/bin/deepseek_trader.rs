@@ -558,8 +558,14 @@ async fn run_trading_cycle<T: ExchangeClient>(
     info!("   信号: {}", signal.signal);
     info!("   置信度: {}", signal.confidence);
     info!("   理由: {}", signal.reason);
-    info!("   止损价: ${:.2}", signal.stop_loss);
-    info!("   止盈价: ${:.2}", signal.take_profit);
+    info!("   止损价: ${:.2}", signal.stop_loss.unwrap_or(0.0));
+    if signal.stop_loss.is_none() {
+        info!("   ⚠️  AI未提供止损价");
+    }
+    info!("   止盈价: ${:.2}", signal.take_profit.unwrap_or(0.0));
+    if signal.take_profit.is_none() {
+        info!("   📌 采用动态止盈策略(由AI监控持仓管理)");
+    }
 
     // 5. 记录信号到历史
     let signal_record = SignalRecord {
@@ -731,8 +737,14 @@ async fn execute_trading_decision<T: ExchangeClient>(
                     {
                         Ok(_) => {
                             info!("✅ 开多仓成功！");
-                            info!("   止损价: ${:.2}", signal.stop_loss);
-                            info!("   止盈价: ${:.2}", signal.take_profit);
+                            info!("   止损价: ${:.2}", signal.stop_loss.unwrap_or(0.0));
+                            if signal.stop_loss.is_none() {
+                                info!("   ⚠️  AI未提供止损价");
+                            }
+                            info!("   止盈价: ${:.2}", signal.take_profit.unwrap_or(0.0));
+                            if signal.take_profit.is_none() {
+                                info!("   📌 采用动态止盈策略(由AI监控持仓管理)");
+                            }
                         }
                         Err(e) => error!("❌ 开多仓失败: {}", e),
                     }
@@ -848,8 +860,14 @@ async fn execute_trading_decision<T: ExchangeClient>(
                     {
                         Ok(_) => {
                             info!("✅ 开空仓成功！");
-                            info!("   止损价: ${:.2}", signal.stop_loss);
-                            info!("   止盈价: ${:.2}", signal.take_profit);
+                            info!("   止损价: ${:.2}", signal.stop_loss.unwrap_or(0.0));
+                            if signal.stop_loss.is_none() {
+                                info!("   ⚠️  AI未提供止损价");
+                            }
+                            info!("   止盈价: ${:.2}", signal.take_profit.unwrap_or(0.0));
+                            if signal.take_profit.is_none() {
+                                info!("   📌 采用动态止盈策略(由AI监控持仓管理)");
+                            }
                         }
                         Err(e) => error!("❌ 开空仓失败: {}", e),
                     }

@@ -310,6 +310,7 @@ impl ExchangeClient for BybitClient {
                 .unwrap_or(0.001),
             quantity_precision: 3, // Bybit 通常是 3 位
             price_precision: 2,
+            tick_size: 0.0001, // Bybit 默认价格步长
         };
 
         // 缓存规则

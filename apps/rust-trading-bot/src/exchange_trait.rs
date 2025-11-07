@@ -1,6 +1,7 @@
 // 交易所统一接口定义
 use anyhow::{anyhow, Result};
 use async_trait::async_trait;
+use log::{info, warn};
 use serde::{Deserialize, Serialize};
 
 /// 统一的持仓信息
@@ -32,6 +33,7 @@ pub struct TradingRules {
     pub min_qty: f64,            // 最小数量
     pub quantity_precision: i32, // 数量精度
     pub price_precision: i32,    // 价格精度
+    pub tick_size: f64,          // 价格步长 (PRICE_FILTER)
 }
 
 /// 订单结果
@@ -57,7 +59,19 @@ pub trait ExchangeClient: Send + Sync {
     /// 获取单个币种的持仓
     async fn get_position(&self, symbol: &str) -> Result<Option<Position>> {
         let positions = self.get_positions().await?;
-        Ok(positions.into_iter().find(|p| p.symbol == symbol))
+        let total_positions = positions.len();
+        let position = positions.into_iter().find(|p| p.symbol == symbol);
+
+        if let Some(pos) = position.as_ref() {
+            info!(
+                "🔍 已定位{}持仓: 方向={} 数量={:.6} (总持仓数={})",
+                symbol, pos.side, pos.size, total_positions
+            );
+        } else {
+            warn!("⚠️  未找到{}持仓, 当前持仓总数={}", symbol, total_positions);
+        }
+
+        Ok(position)
     }
 
     /// 获取账户信息

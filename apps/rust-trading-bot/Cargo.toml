@@ -71,6 +71,10 @@ path = "src/bin/check_balance_unified.rs"
 name = "debug_unified"
 path = "src/bin/debug_unified.rs"
 
+[[bin]]
+name = "test_parser"
+path = "test_parser.rs"
+
 [dependencies]
 # Telegram Bot
 teloxide = { version = "0.12", features = ["macros", "auto-send"] }

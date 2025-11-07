@@ -1,5 +1,5 @@
 use crate::binance_client::BinanceClient;
-use crate::exchange_trait::Position;
+use crate::exchange_trait::{ExchangeClient, Position};
 use anyhow::Result;
 use log::{error, info, warn};
 use std::sync::Arc;
