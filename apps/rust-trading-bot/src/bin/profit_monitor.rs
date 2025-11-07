@@ -9,6 +9,7 @@ use std::env;
 use tokio::time::{sleep, Duration};
 
 use rust_trading_bot::binance_client::BinanceClient;
+use rust_trading_bot::exchange_trait::ExchangeClient;
 use rust_trading_bot::health_monitor::HealthMonitor;
 use rust_trading_bot::trading_lock::TradingLockManager;
 

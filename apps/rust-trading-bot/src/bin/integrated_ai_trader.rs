@@ -20,6 +20,7 @@ use std::env;
 use std::sync::Arc;
 use tokio::sync::RwLock;
 
+use rust_trading_bot::support_analyzer::{Kline as SupportKline, SupportAnalyzer};
 use rust_trading_bot::{
     binance_client::BinanceClient,
     deepseek_client::{DeepSeekClient, Kline, TechnicalIndicators, TradingSignal},
@@ -649,6 +650,56 @@ impl IntegratedAITrader {
                 // 计算技术指标 (基于15m)
                 let indicators = self.analyzer.calculate_indicators(&klines);
 
+                // 方案2支撑位分析 + 三周期数据转换
+                let convert_to_support_klines = |source: &[Kline]| -> Vec<SupportKline> {
+                    source
+                        .iter()
+                        .map(|k| SupportKline {
+                            open: k.open,
+                            high: k.high,
+                            low: k.low,
+                            close: k.close,
+                            volume: k.volume,
+                        })
+                        .collect()
+                };
+
+                let support_klines_5m = convert_to_support_klines(&klines_5m);
+                let support_klines_15m = convert_to_support_klines(&klines);
+                let support_klines_1h = convert_to_support_klines(&klines_1h);
+
+                let support_analyzer = SupportAnalyzer::new();
+                let support_analysis = match support_analyzer.analyze_supports(
+                    &support_klines_5m,
+                    &support_klines_15m,
+                    &support_klines_1h,
+                    current_price,
+                    entry_price,
+                    indicators.sma_20,
+                    indicators.sma_50,
+                    indicators.bb_lower,
+                    indicators.bb_middle,
+                ) {
+                    Ok(analysis) => analysis,
+                    Err(e) => {
+                        warn!("⚠️  {} 支撑位分析失败: {}", snapshot.symbol, e);
+                        continue;
+                    }
+                };
+                let support_text = support_analyzer.format_support_analysis(&support_analysis);
+
+                let last_5m_close = klines_5m.last().unwrap().close;
+                let deviation = ((current_price - last_5m_close) / last_5m_close) * 100.0;
+                let deviation_desc = if deviation.abs() < 0.5 {
+                    format!("价格稳定 ({:+.2}%)", deviation)
+                } else if deviation > 1.0 {
+                    format!("正在形成的5m K线继续上涨 {:+.2}% ✅", deviation)
+                } else if deviation < -1.0 {
+                    format!("正在形成的5m K线继续下跌 {:+.2}% ⚠️", deviation)
+                } else {
+                    format!("轻微波动 ({:+.2}%)", deviation)
+                };
+
                 // 构建持仓管理 prompt - 传入三个周期的K线
                 let prompt = self.deepseek.build_position_management_prompt(
                     &snapshot.symbol,
@@ -661,6 +712,8 @@ impl IntegratedAITrader {
                     &klines,
                     &klines_1h,
                     &indicators,
+                    &support_text,
+                    &deviation_desc,
                 );
 
                 // 调用 AI 分析
@@ -1054,10 +1107,7 @@ impl IntegratedAITrader {
                     - 总盈亏: {:.4} USDT\n\n\
                     ⛔ 建议：该币种历史表现极差,强烈建议SKIP或降低置信度至LOW。\n\
                     除非有压倒性的技术优势(如明显支撑位+异动首次出现),否则不做。",
-                    perf.margin_loss_rate,
-                    perf.trade_count,
-                    perf.win_rate,
-                    perf.total_pnl
+                    perf.margin_loss_rate, perf.trade_count, perf.win_rate, perf.total_pnl
                 ),
                 RiskLevel::Medium => format!(
                     "\n\n⚠️ 【谨慎提示】该币种近12小时表现不佳：\n\
@@ -1066,10 +1116,7 @@ impl IntegratedAITrader {
                     - 胜率: {:.1}%\n\
                     - 总盈亏: {:.4} USDT\n\n\
                     建议：提高决策标准,需要更强的技术信号才能开仓。信心度建议MEDIUM或以下。",
-                    perf.margin_loss_rate,
-                    perf.trade_count,
-                    perf.win_rate,
-                    perf.total_pnl
+                    perf.margin_loss_rate, perf.trade_count, perf.win_rate, perf.total_pnl
                 ),
                 RiskLevel::Low => format!(
                     "\n\n📉 【轻度负面】该币种近12小时表现一般：\n\
@@ -1078,10 +1125,7 @@ impl IntegratedAITrader {
                     - 胜率: {:.1}%\n\
                     - 总盈亏: {:.4} USDT\n\n\
                     建议：略微提高警惕,按正常标准决策即可。",
-                    perf.margin_loss_rate,
-                    perf.trade_count,
-                    perf.win_rate,
-                    perf.total_pnl
+                    perf.margin_loss_rate, perf.trade_count, perf.win_rate, perf.total_pnl
                 ),
                 RiskLevel::Normal => {
                     if perf.margin_loss_rate > 10.0 {
@@ -1092,10 +1136,7 @@ impl IntegratedAITrader {
                             - 胜率: {:.1}%\n\
                             - 总盈亏: +{:.4} USDT\n\n\
                             建议：该币种历史盈利,可以适当提高信心,但仍需结合技术面判断。",
-                            perf.margin_loss_rate,
-                            perf.trade_count,
-                            perf.win_rate,
-                            perf.total_pnl
+                            perf.margin_loss_rate, perf.trade_count, perf.win_rate, perf.total_pnl
                         )
                     } else {
                         String::new() // 轻微盈亏,不添加提示
