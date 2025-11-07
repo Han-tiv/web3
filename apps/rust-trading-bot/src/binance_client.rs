@@ -25,8 +25,8 @@ pub struct AccountInformation {
 pub struct IncomeRecord {
     pub symbol: String,
     pub incomeType: String,
-    pub income: String,  // 金额,字符串格式
-    pub time: i64,       // 毫秒时间戳
+    pub income: String, // 金额,字符串格式
+    pub time: i64,      // 毫秒时间戳
 }
 
 #[derive(Debug, Clone, Deserialize)]
@@ -35,10 +35,10 @@ pub struct UserTrade {
     pub symbol: String,
     pub id: i64,
     pub orderId: i64,
-    pub side: String,        // "BUY" or "SELL"
+    pub side: String, // "BUY" or "SELL"
     pub price: String,
     pub qty: String,
-    pub quoteQty: String,    // 名义价值 = price * qty
+    pub quoteQty: String, // 名义价值 = price * qty
     pub commission: String,
     pub commissionAsset: String,
     pub time: i64,
@@ -55,17 +55,17 @@ pub struct SymbolPerformance {
     pub loss_count: usize,
     pub total_pnl: f64,
     pub total_margin: f64,
-    pub margin_loss_rate: f64,  // 保证金收益率 (%)
-    pub win_rate: f64,           // 胜率 (%)
+    pub margin_loss_rate: f64, // 保证金收益率 (%)
+    pub win_rate: f64,         // 胜率 (%)
 }
 
 /// 风险等级
 #[derive(Debug, Clone, PartialEq)]
 pub enum RiskLevel {
-    High,      // 保证金亏损率 < -15%
-    Medium,    // 保证金亏损率 -15% ~ -10%
-    Low,       // 保证金亏损率 -10% ~ -5%
-    Normal,    // 保证金亏损率 > -5%
+    High,   // 保证金亏损率 < -15%
+    Medium, // 保证金亏损率 -15% ~ -10%
+    Low,    // 保证金亏损率 -10% ~ -5%
+    Normal, // 保证金亏损率 > -5%
 }
 
 #[derive(Debug, Deserialize)]
@@ -186,7 +186,6 @@ impl BinanceClient {
         info!("未实现盈亏: {} USDT", account.totalUnrealizedProfit);
         Ok(account)
     }
-
 
     pub async fn open_long(
         &self,
@@ -1013,9 +1012,11 @@ impl BinanceClient {
     }
 
     /// 获取币种历史表现统计
-    pub async fn get_symbol_performance(&self, symbol: &str, hours: u64)
-        -> Result<Option<SymbolPerformance>> {
-
+    pub async fn get_symbol_performance(
+        &self,
+        symbol: &str,
+        hours: u64,
+    ) -> Result<Option<SymbolPerformance>> {
         // 1. 获取收益历史
         let income_records = self.get_income_history(hours).await?;
 
@@ -1023,12 +1024,13 @@ impl BinanceClient {
         let user_trades = self.get_user_trades(hours).await?;
 
         // 3. 过滤该币种的数据
-        let symbol_incomes: Vec<_> = income_records.iter()
+        let symbol_incomes: Vec<_> = income_records
+            .iter()
             .filter(|r| r.symbol == symbol)
             .collect();
 
         if symbol_incomes.is_empty() {
-            return Ok(None);  // 没有历史数据
+            return Ok(None); // 没有历史数据
         }
 
         // 4. 计算统计数据
@@ -1056,8 +1058,8 @@ impl BinanceClient {
             }
 
             let notional = trade.quoteQty.parse::<f64>().unwrap_or(0.0);
-            let is_open = (trade.side == "BUY" && trade.positionSide == "LONG") ||
-                         (trade.side == "SELL" && trade.positionSide == "SHORT");
+            let is_open = (trade.side == "BUY" && trade.positionSide == "LONG")
+                || (trade.side == "SELL" && trade.positionSide == "SHORT");
 
             if is_open && notional > 0.0 {
                 total_margin += notional / DEFAULT_LEVERAGE;

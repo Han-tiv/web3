@@ -1,6 +1,6 @@
+use dotenv::dotenv;
 use rust_trading_bot::binance_client::BinanceClient;
 use std::collections::HashMap;
-use dotenv::dotenv;
 use std::env;
 
 #[tokio::main]
@@ -38,7 +38,11 @@ async fn main() {
         return;
     }
 
-    println!("📊 获取到 {} 条收益记录, {} 条成交记录\n", income_records.len(), user_trades.len());
+    println!(
+        "📊 获取到 {} 条收益记录, {} 条成交记录\n",
+        income_records.len(),
+        user_trades.len()
+    );
     println!("{:=<100}", "");
 
     // 按币种统计保证金使用
@@ -49,9 +53,8 @@ async fn main() {
         let notional = trade.quoteQty.parse::<f64>().unwrap_or(0.0);
 
         // 判断是否为开仓单
-        let is_open_trade =
-            (trade.side == "BUY" && trade.positionSide == "LONG") ||
-            (trade.side == "SELL" && trade.positionSide == "SHORT");
+        let is_open_trade = (trade.side == "BUY" && trade.positionSide == "LONG")
+            || (trade.side == "SELL" && trade.positionSide == "SHORT");
 
         if is_open_trade && notional > 0.0 {
             let margin = notional / DEFAULT_LEVERAGE;
@@ -65,17 +68,19 @@ async fn main() {
     for record in &income_records {
         let income: f64 = record.income.parse().unwrap_or(0.0);
 
-        let stats = symbol_stats.entry(record.symbol.clone()).or_insert(SymbolPnl {
-            symbol: record.symbol.clone(),
-            total_pnl: 0.0,
-            trade_count: 0,
-            win_count: 0,
-            loss_count: 0,
-            max_profit: 0.0,
-            max_loss: 0.0,
-            total_margin: 0.0,
-            margin_loss_rate: 0.0,
-        });
+        let stats = symbol_stats
+            .entry(record.symbol.clone())
+            .or_insert(SymbolPnl {
+                symbol: record.symbol.clone(),
+                total_pnl: 0.0,
+                trade_count: 0,
+                win_count: 0,
+                loss_count: 0,
+                max_profit: 0.0,
+                max_loss: 0.0,
+                total_margin: 0.0,
+                margin_loss_rate: 0.0,
+            });
 
         stats.total_pnl += income;
         stats.trade_count += 1;
@@ -120,17 +125,27 @@ async fn main() {
         let avg_pnl = stat.total_pnl / stat.trade_count as f64;
 
         println!("{} {}", emoji, stat.symbol);
-        println!("   交易次数: {} 笔 ({}胜 {}负), 胜率: {:.1}%",
-            stat.trade_count, stat.win_count, stat.loss_count, win_rate);
-        println!("   总盈亏: {:.4} USDT (平均每笔: {:.4} USDT)",
-            stat.total_pnl, avg_pnl);
+        println!(
+            "   交易次数: {} 笔 ({}胜 {}负), 胜率: {:.1}%",
+            stat.trade_count, stat.win_count, stat.loss_count, win_rate
+        );
+        println!(
+            "   总盈亏: {:.4} USDT (平均每笔: {:.4} USDT)",
+            stat.total_pnl, avg_pnl
+        );
 
         if stat.total_margin > 0.0 {
-            println!("   投入保证金: {:.2} USDT ({}x杠杆估算)", stat.total_margin, DEFAULT_LEVERAGE);
+            println!(
+                "   投入保证金: {:.2} USDT ({}x杠杆估算)",
+                stat.total_margin, DEFAULT_LEVERAGE
+            );
             println!("   保证金收益率: {:.2}%", stat.margin_loss_rate);
         }
 
-        println!("   最大盈利: {:.4} USDT | 最大亏损: {:.4} USDT", stat.max_profit, stat.max_loss);
+        println!(
+            "   最大盈利: {:.4} USDT | 最大亏损: {:.4} USDT",
+            stat.max_profit, stat.max_loss
+        );
         println!();
     }
 
@@ -139,20 +154,25 @@ async fn main() {
     // 识别高风险币种
     println!("\n⚠️  风险等级评估:\n");
 
-    let high_risk: Vec<_> = stats_vec.iter()
+    let high_risk: Vec<_> = stats_vec
+        .iter()
         .filter(|s| s.total_margin > 0.0 && s.margin_loss_rate < -15.0)
         .collect();
 
-    let medium_risk: Vec<_> = stats_vec.iter()
-        .filter(|s| s.total_margin > 0.0 && s.margin_loss_rate >= -15.0 && s.margin_loss_rate < -10.0)
+    let medium_risk: Vec<_> = stats_vec
+        .iter()
+        .filter(|s| {
+            s.total_margin > 0.0 && s.margin_loss_rate >= -15.0 && s.margin_loss_rate < -10.0
+        })
         .collect();
 
     if !high_risk.is_empty() {
         println!("🔴 高风险币种 (保证金亏损率 > 15%):");
         for stat in high_risk {
-            println!("   {} - 亏损率 {:.2}%, 总亏损 {:.4} USDT, {}胜{}负",
-                stat.symbol, stat.margin_loss_rate, stat.total_pnl,
-                stat.win_count, stat.loss_count);
+            println!(
+                "   {} - 亏损率 {:.2}%, 总亏损 {:.4} USDT, {}胜{}负",
+                stat.symbol, stat.margin_loss_rate, stat.total_pnl, stat.win_count, stat.loss_count
+            );
         }
         println!();
     }
@@ -160,23 +180,26 @@ async fn main() {
     if !medium_risk.is_empty() {
         println!("🟡 中风险币种 (保证金亏损率 10-15%):");
         for stat in medium_risk {
-            println!("   {} - 亏损率 {:.2}%, 总亏损 {:.4} USDT, {}胜{}负",
-                stat.symbol, stat.margin_loss_rate, stat.total_pnl,
-                stat.win_count, stat.loss_count);
+            println!(
+                "   {} - 亏损率 {:.2}%, 总亏损 {:.4} USDT, {}胜{}负",
+                stat.symbol, stat.margin_loss_rate, stat.total_pnl, stat.win_count, stat.loss_count
+            );
         }
         println!();
     }
 
-    let profitable: Vec<_> = stats_vec.iter()
+    let profitable: Vec<_> = stats_vec
+        .iter()
         .filter(|s| s.total_pnl > 0.5 && s.total_margin > 0.0)
         .collect();
 
     if !profitable.is_empty() {
         println!("🟢 优秀币种 (盈利 > 0.5 USDT):");
         for stat in profitable {
-            println!("   {} - 收益率 {:.2}%, 总盈利 {:.4} USDT, {}胜{}负",
-                stat.symbol, stat.margin_loss_rate, stat.total_pnl,
-                stat.win_count, stat.loss_count);
+            println!(
+                "   {} - 收益率 {:.2}%, 总盈利 {:.4} USDT, {}胜{}负",
+                stat.symbol, stat.margin_loss_rate, stat.total_pnl, stat.win_count, stat.loss_count
+            );
         }
         println!();
     }
@@ -195,11 +218,17 @@ async fn main() {
     println!("\n📊 总体统计:");
     println!("   总交易次数: {} 笔", total_trades);
     println!("   总盈亏: {:.4} USDT", total_pnl);
-    println!("   总保证金投入: {:.2} USDT ({}x杠杆估算)", total_margin, DEFAULT_LEVERAGE);
+    println!(
+        "   总保证金投入: {:.2} USDT ({}x杠杆估算)",
+        total_margin, DEFAULT_LEVERAGE
+    );
     println!("   总体保证金收益率: {:.2}%", overall_rate);
     println!("   币种数: {}", stats_vec.len());
 
-    println!("\n💡 说明: 保证金基于成交记录和{}x平均杠杆估算,误差约±20%", DEFAULT_LEVERAGE);
+    println!(
+        "\n💡 说明: 保证金基于成交记录和{}x平均杠杆估算,误差约±20%",
+        DEFAULT_LEVERAGE
+    );
 }
 
 #[derive(Debug)]
