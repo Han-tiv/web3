@@ -1,10 +1,12 @@
-use anyhow::Result;
+use anyhow::{anyhow, Result};
 use chrono::{Local, Timelike};
 use log::{error, info, warn};
 use rust_trading_bot::{
     binance_client::BinanceClient,
     deepseek_client::{DeepSeekClient, Kline, Position},
-    exchange_trait::ExchangeClient,
+    exchange_trait::{ExchangeClient, ExchangeType},
+    gate_client::GateClient,
+    okx_client::OkxClient,
     technical_analysis::TechnicalAnalyzer,
 };
 use serde::{Deserialize, Serialize};
@@ -413,6 +415,13 @@ async fn main() -> Result<()> {
 
             run_bot(exchange, deepseek, analyzer, config).await?;
         }
+
+        ExchangeType::Bitget | ExchangeType::Bybit => {
+            return Err(anyhow!(
+                "当前 DeepSeek 交易器尚未支持 {:?} 交易所",
+                config.exchange
+            ));
+        }
     }
 
     Ok(())
@@ -687,13 +696,21 @@ async fn get_klines<T: ExchangeClient>(exchange: &Arc<T>, symbol: &str) -> Resul
         let high = open.max(close) * (1.0 + rand::random::<f64>() * volatility);
         let low = open.min(close) * (1.0 - rand::random::<f64>() * volatility);
 
+        let volume = 10.0 + rand::random::<f64>() * 5.0;
+        let quote_volume = volume * close;
+        let taker_buy_volume = volume * (0.4 + rand::random::<f64>() * 0.4);
+        let taker_buy_quote_volume = taker_buy_volume * close;
+
         klines.push(Kline {
             timestamp: (i as i64) * 900000, // 15分钟
             open,
             high,
             low,
             close,
-            volume: 10.0 + rand::random::<f64>() * 5.0,
+            volume,
+            quote_volume,
+            taker_buy_volume,
+            taker_buy_quote_volume,
         });
     }
 

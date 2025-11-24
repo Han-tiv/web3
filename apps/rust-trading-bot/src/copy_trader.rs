@@ -151,6 +151,7 @@ impl CopyTrader {
                     &leader_pos.side,
                     copy_quantity,
                     stop_price,
+                    None,
                 )
                 .await?;
         }

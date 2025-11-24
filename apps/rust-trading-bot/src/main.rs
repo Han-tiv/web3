@@ -1,15 +1,11 @@
-mod binance_client;
-mod copy_trader;
-mod telegram_bot;
-
 use anyhow::Result;
 use dotenv::dotenv;
 use log::info;
 use std::env;
 
-use crate::binance_client::BinanceClient;
-use crate::copy_trader::{CopyTradeConfig, CopyTrader};
-use crate::telegram_bot::TelegramBot;
+use rust_trading_bot::binance_client::BinanceClient;
+use rust_trading_bot::copy_trader::{CopyTradeConfig, CopyTrader};
+use rust_trading_bot::telegram_bot::TelegramBot;
 
 #[tokio::main]
 async fn main() -> Result<()> {

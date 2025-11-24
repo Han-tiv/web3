@@ -355,6 +355,7 @@ impl ExchangeClient for BitgetClient {
                 .parse()
                 .unwrap_or(2),
             tick_size: 0.0001, // Bitget 默认最小价格跳动
+            min_notional: None,
         };
 
         // 缓存规则

@@ -4,6 +4,34 @@
 
 ---
 
+## 🚨 最新更新 - 混合架构上线 (2025-11-21)
+
+### ⚡ 一键启动完整系统
+
+```bash
+cd /home/hanins/code/web3
+bash start_trading.sh
+```
+
+### 🏗️ 新架构: Python监控 + Rust交易引擎
+
+```
+Python (Telethon) ──HTTP REST──> Rust (Trading Engine)
+   Telegram监控                    AI分析 + 交易执行
+```
+
+**核心改进**:
+- ✅ **稳定性提升**: Telegram连接从频繁断线到长时间稳定运行
+- ✅ **杠杆BUG修复**: 动态设置5x/10x/15x杠杆 (based on confidence)
+- ✅ **解耦架构**: Python和Rust独立升级,互不影响
+
+📖 **详细说明**:
+- [QUICK_START.md](QUICK_START.md) - 快速启动指南
+- [HYBRID_ARCHITECTURE_CHECKLIST.md](HYBRID_ARCHITECTURE_CHECKLIST.md) - 完整验证清单
+- [apps/python-telegram-monitor/MIGRATION_REPORT.md](apps/python-telegram-monitor/MIGRATION_REPORT.md) - 迁移报告
+
+---
+
 ## 📚 文档中心
 
 **🎯 [完整文档导航](./docs/README.md)** ← 所有文档的统一入口

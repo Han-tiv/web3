@@ -399,6 +399,25 @@ impl Default for SmartMoneyTracker {
 mod tests {
     use super::*;
 
+    fn sample_kline(
+        timestamp: i64,
+        open: f64,
+        high: f64,
+        low: f64,
+        close: f64,
+        volume: f64,
+    ) -> Kline {
+        Kline {
+            timestamp,
+            open,
+            high,
+            low,
+            close,
+            volume,
+            ..Default::default()
+        }
+    }
+
     #[test]
     fn test_money_flow_signal_creation() {
         let signal = MoneyFlowSignal {
@@ -417,30 +436,9 @@ mod tests {
     #[test]
     fn test_calculate_avg_volume() {
         let klines = vec![
-            Kline {
-                timestamp: 1,
-                open: 100.0,
-                high: 105.0,
-                low: 98.0,
-                close: 103.0,
-                volume: 1000.0,
-            },
-            Kline {
-                timestamp: 2,
-                open: 103.0,
-                high: 110.0,
-                low: 102.0,
-                close: 108.0,
-                volume: 2000.0,
-            },
-            Kline {
-                timestamp: 3,
-                open: 108.0,
-                high: 112.0,
-                low: 106.0,
-                close: 110.0,
-                volume: 3000.0,
-            },
+            sample_kline(1, 100.0, 105.0, 98.0, 103.0, 1000.0),
+            sample_kline(2, 103.0, 110.0, 102.0, 108.0, 2000.0),
+            sample_kline(3, 108.0, 112.0, 106.0, 110.0, 3000.0),
         ];
 
         let tracker = SmartMoneyTracker::new();

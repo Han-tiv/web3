@@ -348,6 +348,113 @@ impl KeyLevelFinder {
 
         result
     }
+
+    /// 基于净流入识别主力关键位
+    ///
+    /// # 参数
+    /// - klines: 1h K线数据(必须包含净流入字段)
+    /// - symbol: 交易对名称
+    /// - lookback_hours: 回溯小时数 (默认24)
+    ///
+    /// # 返回
+    /// 返回按净流入排序的关键位列表,最多5个
+    pub fn identify_inflow_key_levels(
+        &self,
+        klines: &[Kline],
+        symbol: &str,
+        lookback_hours: usize,
+    ) -> Vec<KeyLevel> {
+        if klines.is_empty() {
+            return Vec::new();
+        }
+
+        // 1. 确定净流入阈值
+        let threshold = if symbol == "BTCUSDT" || symbol == "ETHUSDT" {
+            100_000_000.0 // 1亿 USDT
+        } else {
+            5_000_000.0 // 500万 USDT
+        };
+
+        // 2. 确定回溯范围
+        let start_idx = if klines.len() > lookback_hours {
+            klines.len() - lookback_hours
+        } else {
+            0
+        };
+
+        // 3. 筛选满足净流入阈值的K线
+        let mut candidates: Vec<(usize, &Kline, f64)> = klines[start_idx..]
+            .iter()
+            .enumerate()
+            .filter_map(|(idx, kline)| {
+                let net_inflow = kline.taker_buy_quote_volume;
+                if net_inflow >= threshold {
+                    Some((start_idx + idx, kline, net_inflow))
+                } else {
+                    None
+                }
+            })
+            .collect();
+
+        if candidates.is_empty() {
+            info!(
+                "⚠️ {} 最近{}小时内无净流入 ≥ {:.0}万 的K线",
+                symbol,
+                lookback_hours,
+                threshold / 10_000.0
+            );
+            return Vec::new();
+        }
+
+        // 4. 按净流入从大到小排序
+        candidates.sort_by(|a, b| b.2.partial_cmp(&a.2).unwrap());
+
+        // 5. 取前5个净流入最大的K线
+        candidates.truncate(5);
+
+        // 6. 为每个候选K线创建关键位
+        let mut levels = Vec::new();
+        for (idx, kline, net_inflow) in candidates {
+            // 中间价格 = (最高价 + 最低价) / 2
+            let mid_price = (kline.high + kline.low) / 2.0;
+
+            // 强度: 根据净流入金额计算 (归一化到 60-100)
+            let strength = 60.0 + (net_inflow / threshold * 40.0).min(40.0);
+
+            // 类型判断: 中间价高于收盘价视为阻力,低于收盘价视为支撑
+            let level_type = if mid_price > kline.close {
+                LevelType::Resistance
+            } else {
+                LevelType::Support
+            };
+
+            let type_str = match &level_type {
+                LevelType::Support => "支撑",
+                LevelType::Resistance => "阻力",
+                _ => "未知",
+            };
+
+            levels.push(KeyLevel {
+                price: mid_price,
+                level_type,
+                strength,
+                volume: kline.volume,
+                last_test_time: kline.timestamp,
+                test_count: 1,
+                source_kline_index: idx,
+            });
+
+            info!(
+                "🎯 主力关键位: {} ${:.2} ({}) | 净流入: {:.2}万 USDT",
+                type_str,
+                mid_price,
+                symbol,
+                net_inflow / 10_000.0
+            );
+        }
+
+        levels
+    }
 }
 
 impl Default for KeyLevelFinder {
@@ -360,33 +467,31 @@ impl Default for KeyLevelFinder {
 mod tests {
     use super::*;
 
+    fn sample_kline(
+        timestamp: i64,
+        open: f64,
+        high: f64,
+        low: f64,
+        close: f64,
+        volume: f64,
+    ) -> Kline {
+        Kline {
+            timestamp,
+            open,
+            high,
+            low,
+            close,
+            volume,
+            ..Default::default()
+        }
+    }
+
     #[test]
     fn test_find_max_volume_kline() {
         let klines = vec![
-            Kline {
-                timestamp: 1,
-                open: 100.0,
-                high: 105.0,
-                low: 98.0,
-                close: 103.0,
-                volume: 1000.0,
-            },
-            Kline {
-                timestamp: 2,
-                open: 103.0,
-                high: 110.0,
-                low: 102.0,
-                close: 108.0,
-                volume: 5000.0,
-            },
-            Kline {
-                timestamp: 3,
-                open: 108.0,
-                high: 112.0,
-                low: 106.0,
-                close: 110.0,
-                volume: 2000.0,
-            },
+            sample_kline(1, 100.0, 105.0, 98.0, 103.0, 1000.0),
+            sample_kline(2, 103.0, 110.0, 102.0, 108.0, 5000.0),
+            sample_kline(3, 108.0, 112.0, 106.0, 110.0, 2000.0),
         ];
 
         let finder = KeyLevelFinder::new();
@@ -401,30 +506,9 @@ mod tests {
     #[test]
     fn test_identify_key_levels() {
         let klines = vec![
-            Kline {
-                timestamp: 1,
-                open: 100.0,
-                high: 105.0,
-                low: 98.0,
-                close: 103.0,
-                volume: 1000.0,
-            },
-            Kline {
-                timestamp: 2,
-                open: 103.0,
-                high: 110.0,
-                low: 102.0,
-                close: 108.0,
-                volume: 5000.0,
-            },
-            Kline {
-                timestamp: 3,
-                open: 108.0,
-                high: 112.0,
-                low: 106.0,
-                close: 110.0,
-                volume: 2000.0,
-            },
+            sample_kline(1, 100.0, 105.0, 98.0, 103.0, 1000.0),
+            sample_kline(2, 103.0, 110.0, 102.0, 108.0, 5000.0),
+            sample_kline(3, 108.0, 112.0, 106.0, 110.0, 2000.0),
         ];
 
         let finder = KeyLevelFinder::new();

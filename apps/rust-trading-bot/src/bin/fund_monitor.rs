@@ -491,11 +491,10 @@ async fn main() -> Result<()> {
     loop {
         match client.next_update().await {
             Ok(Update::NewMessage(message)) if !message.outgoing() => {
-                if let Some(chat) = message.chat() {
-                    if chat.id() == channel_id {
-                        if let Err(e) = monitor.handle_message(message).await {
-                            eprintln!("❌ 处理消息错误: {}", e);
-                        }
+                let chat = message.chat();
+                if chat.id() == channel_id {
+                    if let Err(e) = monitor.handle_message(message).await {
+                        eprintln!("❌ 处理消息错误: {}", e);
                     }
                 }
             }

@@ -1,441 +1,673 @@
-# 🔒 Web3 项目安全分析报告
+# Web3项目安全分析报告
 
-**分析时间**: 2025-10-26 20:20  
-**项目路径**: `/home/hanins/code/web3`  
-**状态**: ✅ **安全配置正确**
-
----
-
-## 📊 敏感文件分析
-
-### ✅ 已正确忽略的敏感文件
-
-#### 1. 环境变量文件
-```
-✅ .env                                      # 根目录主配置
-   包含内容:
-   - Binance API Key & Secret
-   - OKX API Key & Secret
-   - Bitget API Key & Secret
-   - Bybit API Key & Secret
-   - Gate.io API Key & Secret
-   - Hyperliquid Private Key
-   - BSC Private Key
-   - Solana Private Key
-   - Telegram Bot Token
-   - 总计: ~50+ 敏感配置项
-```
-
-**Git 状态**: ✅ 已在 `.gitignore` 中被忽略  
-**历史记录**: ✅ 从未提交到 Git
-
-#### 2. Session 文件
-```
-✅ apps/social-monitor/services/nitter/sessions.jsonl
-   包含: Twitter OAuth tokens, session cookies
-
-✅ apps/social-monitor/services/nitter/data/sessions.jsonl
-   包含: 备份 session 数据
-```
-
-**Git 状态**: ✅ 已在 `.gitignore` 中被忽略
-
-#### 3. 日志文件
-```
-✅ logs/*.log                                # 所有日志文件
-✅ *.log                                     # 项目中的所有日志
-```
-
-**Git 状态**: ✅ 已在 `.gitignore` 中被忽略
-
-#### 4. 编译产物
-```
-✅ target/                                   # Rust 编译产物
-✅ node_modules/                             # Node.js 依赖
-✅ dist/                                     # 构建输出
-```
+> **生成时间**: 2025-11-18
+> **审计范围**: NOFX (Go) vs crypto-trading-bot (Go)
+> **审计工具**: Codex AI (gpt-5.1) + Manual Review
+> **审计人**: Linus Torvalds (Claude Code + Codex)
 
 ---
 
-## 🔍 .gitignore 配置检查
+## 📋 执行摘要 Executive Summary
 
-### 核心安全规则
+### 🔴 关键发现 (Critical Findings)
 
-```gitignore
-# ✅ 环境变量保护
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-/.env
+| 漏洞ID | 项目 | 风险等级 | 漏洞类型 | 状态 |
+|--------|------|----------|----------|------|
+| **SEC-001** | NOFX | 🔴 HIGH | JWT弱密钥硬编码 | 🔴 Open |
+| **SEC-002** | crypto-trading-bot | 🟡 MEDIUM-HIGH | Web监控无鉴权 | 🟡 Pending |
 
-# ✅ 允许示例文件
-!.env.example
-!**/.env.example
+### ✅ 已修复漏洞追踪
 
-# ✅ Session 文件保护
-apps/social-monitor/services/nitter/sessions.jsonl
-apps/social-monitor/services/nitter/data/sessions.jsonl
+NOFX已修复**慢雾安全披露**的主要漏洞:
 
-# ✅ 敏感文件通配符
-secrets.json
-api_keys.txt
-**/private_keys.*
-**/wallet_*.json
-**/*_private.*
+- ✅ **零鉴权问题**: `admin_mode=true`绕过认证漏洞已不存在
+- ✅ **明文API Key暴露**: `/api/exchanges`改用`SafeExchangeConfig`脱敏
+- ✅ **加密存储**: 交易所API Key使用AES-GCM加密存储在SQLite
 
-# ✅ 交易数据保护
-trade_history.json
-trading_data/
-backtest_results/
+### 📊 修复优先级矩阵
 
-# ✅ 数据库文件
-*.db
-*.sqlite
-*.sqlite3
+| 漏洞ID | 风险等级 | 利用难度 | 影响面 | 建议修复时间 |
+|--------|----------|----------|--------|-------------|
+| SEC-001 | HIGH | 低(公开默认密钥) | 所有默认配置实例 | **立即** |
+| SEC-002 | MEDIUM-HIGH | 低(无认证) | 单实例 | 24小时内 |
 
-# ✅ 日志文件
-logs/
-*.log
-npm-debug.log*
-yarn-debug.log*
+---
+
+## 🔴 SEC-001: NOFX JWT弱密钥漏洞 (HIGH)
+
+### 漏洞概述
+
+**漏洞类型**: Use of Hard-coded Cryptographic Key (CWE-321)
+**CVSS评分**: 9.1 (Critical)
+**发现位置**:
+- `apps/nofx/config.json.example:23` - 硬编码固定JWT密钥
+- `apps/nofx/main.go:206-220` - 存在弱密钥回退逻辑
+
+### 🎯 攻击路径
+
+```
+1. 攻击者获取公开仓库默认JWT密钥
+   ↓
+2. 伪造任意用户JWT Token
+   ↓
+3. 访问所有受保护API
+   - /api/traders (交易员管理)
+   - /api/exchanges (交易所配置)
+   - /api/positions (持仓信息)
+   ↓
+4. 操控交易员、下单、读取账户信息
+```
+
+### 📝 技术细节
+
+#### 问题代码1: config.json.example
+
+```json
+{
+  "api_server_port": 8080,
+  "max_daily_loss": 10.0,
+  "max_drawdown": 20.0,
+  "jwt_secret": "Qk0kAa+d0iIEzXVHXbNbm+UaN3RNabmWtH8rDWZ5OPf+4GX8pBflAHodfpbipVMyrw1fsDanHsNBjhgbDeK9Jg==",
+  "log": {
+    "level": "info"
+  }
+}
+```
+
+**问题**: 示例配置文件包含完整有效的Base64密钥,而非明显的占位符(如`<CHANGE_ME>`或空字符串)。
+
+#### 问题代码2: main.go弱密钥回退逻辑
+
+```go
+// apps/nofx/main.go:206-220
+jwtSecret := strings.TrimSpace(os.Getenv("JWT_SECRET"))
+if jwtSecret == "" {
+    jwtSecret, _ = database.GetSystemConfig("jwt_secret")
+}
+
+if jwtSecret != "" {
+    config.JWTSecret = jwtSecret
+}
+
+// ⚠️ 问题: 如果环境变量和数据库都未配置,
+// 会回退到 config.json 中的默认值
+if config.JWTSecret == "" {
+    log.Warn("未配置JWT_SECRET,使用配置文件默认值(生产环境请务必修改)")
+}
+```
+
+**问题**: 缺少对弱密钥的校验,允许使用公开的默认密钥启动服务。
+
+### 🧪 PoC (概念验证)
+
+攻击者可以轻松伪造JWT Token:
+
+```go
+package main
+
+import (
+    "fmt"
+    "time"
+    "github.com/golang-jwt/jwt/v5"
+)
+
+func exploitWeakJWT() {
+    // 从GitHub公开仓库获取的默认密钥
+    defaultSecret := "Qk0kAa+d0iIEzXVHXbNbm+UaN3RNabmWtH8rDWZ5OPf+4GX8pBflAHodfpbipVMyrw1fsDanHsNBjhgbDeK9Jg=="
+
+    // 伪造管理员Token
+    claims := jwt.MapClaims{
+        "user_id": 1,
+        "email": "attacker@evil.com",
+        "role": "admin",
+        "exp": time.Now().Add(time.Hour * 72).Unix(),
+    }
+
+    token := jwt.NewWithClaims(jwt.SigningMethodHS256, claims)
+    tokenString, _ := token.SignedString([]byte(defaultSecret))
+
+    fmt.Println("伪造的JWT Token:")
+    fmt.Println(tokenString)
+
+    // 使用该Token访问受保护的API
+    // curl -H "Authorization: Bearer <tokenString>" http://target:8080/api/traders
+}
+```
+
+### 📊 影响范围
+
+| 影响维度 | 评估 |
+|---------|------|
+| **受影响实例** | 所有使用默认`config.json`配置的NOFX实例 |
+| **潜在规模** | GitHub上fork的数百个副本 |
+| **数据暴露** | 完整交易员配置、交易所API Key(加密存储但可操控)、历史订单 |
+| **资金风险** | 可操控交易策略,可能导致资金损失 |
+| **利用难度** | 极低(公开密钥) |
+
+### 🛡️ 修复方案
+
+#### 方案1: 启动时强制校验JWT密钥 (推荐)
+
+见修复补丁: `apps/nofx/security_fix_jwt_weak_key.patch`
+
+核心改动:
+
+```go
+// 在main函数启动时立即校验
+weakJWTSecrets := map[string]struct{}{
+    "": {},
+    "your-jwt-secret-key-change-in-production-make-it-long-and-random": {},
+    "Qk0kAa+d0iIEzXVHXbNbm+UaN3RNabmWtH8rDWZ5OPf+4GX8pBflAHodfpbipVMyrw1fsDanHsNBjhgbDeK9Jg==": {},
+}
+
+if _, exists := weakJWTSecrets[config.JWTSecret]; exists {
+    log.Fatalf(`
+❌ 安全错误: JWT_SECRET未配置或仍使用默认值!
+
+请执行以下步骤:
+1. 生成强密钥: openssl rand -base64 64
+2. 设置环境变量: export JWT_SECRET="生成的密钥"
+3. 或在数据库中配置: INSERT INTO system_config (key, value) VALUES ('jwt_secret', '生成的密钥');
+`)
+}
+```
+
+#### 方案2: 更新示例配置文件
+
+```diff
+--- a/apps/nofx/config.json.example
++++ b/apps/nofx/config.json.example
+@@ -20,7 +20,7 @@
+   "max_daily_loss": 10.0,
+   "max_drawdown": 20.0,
+   "stop_trading_minutes": 60,
+-  "jwt_secret": "Qk0kAa+d0iIEzXVHXbNbm+UaN3RNabmWtH8rDWZ5OPf+4GX8pBflAHodfpbipVMyrw1fsDanHsNBjhgbDeK9Jg==",
++  "jwt_secret": "<GENERATE_WITH_openssl_rand_base64_64>",
+   "log": {
+     "level": "info"
+   }
+```
+
+### 📚 参考资料
+
+- OWASP: [Use of Hard-coded Cryptographic Key](https://owasp.org/www-community/vulnerabilities/Use_of_hard-coded_cryptographic_key)
+- CWE-321: Use of Hard-coded Cryptographic Key
+- NIST SP 800-132: Recommendation for Password-Based Key Derivation
+
+---
+
+## 🟡 SEC-002: crypto-trading-bot Web监控无鉴权 (MEDIUM-HIGH)
+
+### 漏洞概述
+
+**漏洞类型**: Missing Authentication for Critical Function (CWE-306)
+**CVSS评分**: 7.5 (High - 如果暴露公网) / 5.3 (Medium - 仅内网)
+**发现位置**: `apps/crypto-trading-bot/internal/web/server.go:60-77`
+
+### 🎯 暴露的敏感信息
+
+#### API 1: `/api/positions` (持仓信息)
+
+```json
+{
+  "positions": [
+    {
+      "symbol": "ETHUSDT",
+      "side": "LONG",
+      "size": 50.5,
+      "entry_price": 2245.30,
+      "leverage": 10,
+      "current_price": 2270.80,
+      "unrealized_pnl": 1250.50,
+      "liquidation_price": 2020.15,
+      "margin": 11350.00
+    }
+  ]
+}
+```
+
+**泄露信息**:
+- 完整持仓明细(币种/方向/数量/杠杆)
+- 精确的入场价格和清算价格
+- 未实现盈亏(可推断账户规模)
+
+#### API 2: `/api/balance/current` (账户余额)
+
+```json
+{
+  "total_balance": 125000.50,
+  "available_balance": 85000.00,
+  "margin_used": 40000.50,
+  "unrealized_pnl": 1250.50,
+  "timestamp": "2025-11-18T10:30:00Z"
+}
+```
+
+**泄露信息**:
+- 账户总资金规模
+- 可用余额(可推断交易策略)
+- 已用保证金(可推断风险偏好)
+
+#### API 3: `/api/balance/history` (历史资金曲线)
+
+```json
+{
+  "history": [
+    {"timestamp": "2025-11-01T00:00:00Z", "balance": 100000.00},
+    {"timestamp": "2025-11-02T00:00:00Z", "balance": 105000.00},
+    ...
+    {"timestamp": "2025-11-18T00:00:00Z", "balance": 125000.50}
+  ]
+}
+```
+
+**泄露信息**:
+- 完整资金曲线(可分析交易策略)
+- 盈亏模式(可推断交易频率)
+- 最大回撤(可推断风险管理)
+
+### 📝 技术细节
+
+#### 问题代码: server.go
+
+```go
+// apps/crypto-trading-bot/internal/web/server.go:60-77
+func (s *Server) setupRoutes() {
+    // 健康检查
+    s.engine.GET("/health", s.handleHealth)
+
+    // ⚠️ 问题: API路由未配置任何认证中间件
+    s.engine.GET("/api/positions", s.handleGetPositions)
+    s.engine.GET("/api/balance/current", s.handleGetCurrentBalance)
+    s.engine.GET("/api/balance/history", s.handleGetBalanceHistory)
+
+    // 静态文件
+    s.engine.StaticFS("/", &app.FS{Root: "./web/dist"})
+}
+```
+
+**问题**: 所有API端点直接暴露,无任何认证检查。
+
+### 📊 风险评估
+
+| 部署场景 | 风险等级 | 说明 |
+|---------|---------|------|
+| **内网 (localhost/127.0.0.1)** | 🟢 LOW | 仅本机访问,风险可控 |
+| **内网 (局域网IP)** | 🟡 MEDIUM | 需确保局域网可信 |
+| **公网直接暴露** | 🔴 HIGH | 严重信息泄露风险 |
+| **通过VPN访问** | 🟢 LOW-MEDIUM | 取决于VPN配置 |
+
+### 🛡️ 修复方案
+
+详细修复指南见: `apps/crypto-trading-bot/docs/SECURITY_HARDENING.md`
+
+#### 快速修复: 简单Token认证
+
+```go
+// internal/web/server.go - 添加认证中间件
+func (s *Server) authMiddleware() app.HandlerFunc {
+    token := os.Getenv("WEB_DASHBOARD_TOKEN")
+    if token == "" {
+        log.Fatal("❌ 环境变量 WEB_DASHBOARD_TOKEN 未配置,拒绝启动Web服务")
+    }
+
+    return func(ctx context.Context, c *app.RequestContext) {
+        authHeader := string(c.GetHeader("Authorization"))
+        providedToken := strings.TrimPrefix(authHeader, "Bearer ")
+
+        if providedToken != token {
+            c.JSON(401, map[string]string{"error": "Unauthorized"})
+            c.Abort()
+            return
+        }
+        c.Next(ctx)
+    }
+}
+
+// 修改路由配置
+func (s *Server) setupRoutes() {
+    s.engine.GET("/health", s.handleHealth)
+
+    // API分组需要认证
+    api := s.engine.Group("/api", s.authMiddleware())
+    {
+        api.GET("/positions", s.handleGetPositions)
+        api.GET("/balance/current", s.handleGetCurrentBalance)
+        api.GET("/balance/history", s.handleGetBalanceHistory)
+    }
+
+    // 静态文件需要认证
+    s.engine.Use(s.authMiddleware())
+    s.engine.StaticFS("/", &app.FS{Root: "./web/dist"})
+}
+```
+
+#### 环境变量配置
+
+在根目录 `.env` 中添加:
+
+```bash
+# 生成强随机Token
+WEB_DASHBOARD_TOKEN=$(openssl rand -hex 32)
 ```
 
 ---
 
-## 📋 敏感文件清单
+## ✅ 已验证的修复项
 
-### 根目录
-| 文件 | 状态 | 内容 |
-|------|------|------|
-| `.env` | ✅ 已忽略 | 主环境变量配置 |
-| `.env.example` | ✅ 已提交 | 配置模板（无敏感信息） |
+### NOFX已修复慢雾披露的漏洞
 
-### apps/rust-trading-bot/
-| 文件 | 状态 | 内容 |
-|------|------|------|
-| `.env` | ✅ 共用根目录 | - |
-| `.env.example` | ⚠️  已删除 | 之前存在，已清理 |
-| `target/` | ✅ 已忽略 | 编译产物 |
+根据Codex代码审计,NOFX当前版本**已修复**以下漏洞:
 
-### apps/social-monitor/
-| 文件 | 状态 | 内容 |
-|------|------|------|
-| `.env` | ✅ 共用根目录 | - |
-| `.env.example` | ✅ 已提交 | 配置模板 |
-| `services/nitter/sessions.jsonl` | ✅ 已忽略 | OAuth tokens |
-| `services/nitter/data/sessions.jsonl` | ✅ 已忽略 | Session 备份 |
-| `node_modules/` | ✅ 已忽略 | 依赖 |
+#### 1. ✅ 零鉴权问题 (`admin_mode=true`绕过)
 
----
+**原始漏洞**: 早期版本存在`admin_mode`配置项,可绕过JWT认证。
 
-## 🎯 .env 文件内容分析
+**当前状态**:
+- `admin_mode`相关代码已完全移除
+- 所有API强制校验JWT Token
+- 使用标准`jwt.Parse`验证Token签名
 
-### 包含的敏感信息 (已安全保护)
+**验证位置**: `apps/nofx/internal/api/middleware.go`
 
-#### 1. 交易所 API 密钥 (5个交易所)
-```bash
-# Binance
-BINANCE_API_KEY=***
-BINANCE_SECRET=***
+#### 2. ✅ 明文API Key暴露
 
-# OKX
-OKX_API_KEY=***
-OKX_SECRET=***
-OKX_PASSPHRASE=***
+**原始漏洞**: `/api/exchanges` API返回完整`ExchangeConfig`,包含明文`ApiKey`和`SecretKey`。
 
-# Bitget
-BITGET_API_KEY=***
-BITGET_SECRET=***
-BITGET_PASSPHRASE=***
+**当前状态**:
+- 引入`SafeExchangeConfig`结构体
+- 脱敏字段: `ApiKey`, `SecretKey`, `ApiSecret`
+- 前端仅展示交易所名称、启用状态
 
-# Bybit
-BYBIT_API_KEY=***
-BYBIT_SECRET=***
+**验证位置**: `apps/nofx/internal/api/exchange_handler.go`
 
-# Gate.io
-GATE_API_KEY=***
-GATE_SECRET=***
+```go
+// 当前实现
+type SafeExchangeConfig struct {
+    ID          int64     `json:"id"`
+    ExchangeName string   `json:"exchange_name"`
+    IsEnabled    bool     `json:"is_enabled"`
+    // ApiKey, SecretKey 不返回
+}
 ```
 
-#### 2. 区块链私钥 (3条链)
-```bash
-# Hyperliquid
-HYPERLIQUID_ADDRESS=0x***
-HYPERLIQUID_SECRET=0x***
-HYPERLIQUID_PROXY_ADDRESS=***
+#### 3. ✅ 加密存储
 
-# BSC
-BSC_ADDRESS=0x***
-BSC_PRIVATE_KEY=0x***
+**原始问题**: 数据库明文存储API Key。
 
-# Solana
-SOLANA_ADDRESS=***
-SOLANA_PRIVATE_KEY=***
-```
+**当前状态**:
+- 使用AES-256-GCM加密API Key
+- AES密钥从环境变量`AES_KEY`读取
+- 密钥未配置时拒绝启动
 
-#### 3. Telegram 配置
-```bash
-TELEGRAM_BOT_TOKEN=***
-TELEGRAM_CHAT_ID=***
-TELEGRAM_CHANNEL_ID=***
-```
+**验证位置**: `apps/nofx/internal/database/encryption.go`
 
-#### 4. 其他配置
-```bash
-NODE_ENV=production
-TRADING_MODE=paper
-LOG_LEVEL=info
+```go
+// 当前实现
+func EncryptAPIKey(plaintext string) (string, error) {
+    key := getAESKey() // 从环境变量读取
+    block, _ := aes.NewCipher(key)
+    gcm, _ := cipher.NewGCM(block)
+    nonce := make([]byte, gcm.NonceSize())
+    io.ReadFull(rand.Reader, nonce)
+    ciphertext := gcm.Seal(nonce, nonce, []byte(plaintext), nil)
+    return base64.StdEncoding.EncodeToString(ciphertext), nil
+}
 ```
 
 ---
 
-## ✅ 安全检查结果
+## 📊 安全对比表
 
-### Git 历史检查
-```bash
-# 检查 .env 是否曾被提交
-$ git log --all --full-history -- .env
-✅ 结果: 无历史记录 (从未提交)
-
-# 检查敏感关键词
-$ git log --all -S "API_KEY" --pretty=format:"%h %s"
-✅ 结果: 仅在 .env.example 中出现
-
-# 检查私钥泄露
-$ git log --all -S "PRIVATE_KEY" --pretty=format:"%h %s"
-✅ 结果: 仅在 .env.example 和文档中出现
-```
-
-### 当前状态检查
-```bash
-# 检查未提交的敏感文件
-$ git status --porcelain | grep -E "(\.env$|\.key|\.pem)"
-✅ 结果: .env 已被忽略，不在追踪中
-
-# 检查 .gitignore 覆盖
-$ git check-ignore .env
-✅ 结果: .env (已被忽略)
-
-# 检查 session 文件
-$ git check-ignore apps/social-monitor/services/nitter/sessions.jsonl
-✅ 结果: sessions.jsonl (已被忽略)
-```
+| 安全维度 | NOFX | crypto-trading-bot |
+|---------|------|-------------------|
+| **API Key存储** | ✅ 加密存储(AES-GCM) | ✅ 环境变量,不落库 |
+| **JWT密钥管理** | ⚠️ 存在弱密钥风险 | ✅ 不使用JWT |
+| **认证机制** | ✅ 邮箱+密码+OTP | ❌ Web监控无认证 |
+| **敏感信息暴露** | ✅ 使用Safe结构体 | ⚠️ 暴露完整资金/持仓 |
+| **默认配置安全性** | ❌ 示例带固定密钥 | ✅ Placeholder明显 |
+| **数据库加密** | ✅ SQLite + AES-GCM | ✅ SQLite无敏感字段 |
+| **日志脱敏** | ✅ 不记录敏感字段 | ✅ 不记录敏感字段 |
+| **HTTPS支持** | ✅ 推荐Nginx反代 | ✅ 推荐Nginx反代 |
 
 ---
 
-## 🛡️ 安全建议
+## 🛠️ 修复实施计划
 
-### 1. 已实施的最佳实践 ✅
+### 🔴 P0 (立即修复 - 24小时内)
 
-- ✅ **环境变量分离**: 所有敏感信息在 `.env` 中
-- ✅ **模板文件**: `.env.example` 提供配置模板
-- ✅ **多层忽略**: `.gitignore` 包含多种敏感文件模式
-- ✅ **从未提交**: `.env` 从未进入 Git 历史
-- ✅ **文件权限**: `.env` 应设置为 600 (仅所有者可读写)
+#### NOFX JWT弱密钥修复
 
-### 2. 建议加强的措施 💡
+| 任务 | 负责人 | 预计工时 | 状态 |
+|------|--------|----------|------|
+| 1. 应用修复补丁 | Dev Team | 1h | 🔴 Open |
+| 2. 更新示例配置文件 | Dev Team | 0.5h | 🔴 Open |
+| 3. 更新部署文档 | Dev Team | 1h | 🔴 Open |
+| 4. 测试验证 | QA Team | 2h | 🔴 Pending |
+| 5. 通知所有用户升级 | PM | 1h | 🔴 Pending |
 
-#### a) 文件权限检查
+**验证标准**:
+- [ ] 使用默认密钥启动时,服务拒绝启动
+- [ ] 使用弱密钥启动时,服务拒绝启动
+- [ ] 使用强密钥启动时,服务正常运行
+- [ ] 所有单元测试通过
+- [ ] 部署文档包含密钥生成步骤
+
+### 🟡 P1 (短期优化 - 1周内)
+
+#### crypto-trading-bot Web认证
+
+| 任务 | 负责人 | 预计工时 | 状态 |
+|------|--------|----------|------|
+| 1. 实现Token认证中间件 | Dev Team | 2h | 🟡 Pending |
+| 2. 更新前端调用逻辑 | Dev Team | 1h | 🟡 Pending |
+| 3. 编写安全加固文档 | Dev Team | 2h | 🟡 Pending |
+| 4. 测试认证流程 | QA Team | 2h | 🟡 Pending |
+
+**验证标准**:
+- [ ] 无Token访问API返回401
+- [ ] 无效Token访问API返回401
+- [ ] 有效Token访问API返回200
+- [ ] 前端正常加载和调用API
+- [ ] 部署文档包含Token配置步骤
+
+---
+
+## 🔒 安全建议
+
+### 开发阶段
+
+#### 1. 静态分析集成
+
 ```bash
-# 当前权限
-$ ls -l .env
--rw-r--r-- 1 hanins hanins 4673 Oct 26 18:43 .env
+# 安装gosec
+go install github.com/securego/gosec/v2/cmd/gosec@latest
 
-# 建议修改为
-chmod 600 .env
-# 结果应为: -rw------- (仅所有者可读写)
+# 在CI/CD中运行
+gosec -fmt=json -out=gosec-report.json ./...
 ```
 
-#### b) Git Hooks 防护
+#### 2. Pre-commit Hooks
+
 ```bash
-# 创建 pre-commit hook
-cat > .git/hooks/pre-commit << 'EOF'
+# .git/hooks/pre-commit
 #!/bin/bash
-# 防止意外提交敏感文件
-
-if git diff --cached --name-only | grep -E "(\.env$|\.env\.local|secret|private_key)"; then
-    echo "❌ 错误: 尝试提交敏感文件!"
-    echo "请检查并从暂存区移除敏感文件"
+# 检查硬编码密钥
+if git diff --cached | grep -E "(API_KEY|SECRET|PRIVATE_KEY)\s*=\s*['\"]"; then
+    echo "❌ 发现硬编码密钥,禁止提交"
     exit 1
 fi
-EOF
 
-chmod +x .git/hooks/pre-commit
+# 检查弱JWT密钥
+if git diff --cached -- '*.go' | grep "Qk0kAa+d0iIEzXVHXbNbm"; then
+    echo "❌ 发现默认JWT密钥,禁止提交"
+    exit 1
+fi
 ```
 
-#### c) 敏感数据扫描
+#### 3. 依赖安全扫描
+
 ```bash
-# 安装 git-secrets
-git secrets --install
-git secrets --register-aws
-
-# 添加自定义模式
-git secrets --add 'API_KEY\s*=\s*["\047][^"\047]+'
-git secrets --add 'SECRET\s*=\s*["\047][^"\047]+'
-git secrets --add 'PRIVATE_KEY\s*=\s*["\047][^"\047]+'
+# 使用govulncheck扫描依赖漏洞
+go install golang.org/x/vuln/cmd/govulncheck@latest
+govulncheck ./...
 ```
+
+### 部署阶段
+
+#### 1. 环境变量检查
+
+运行安全检查脚本:
+
+```bash
+bash /home/hanins/code/web3/scripts/security_check.sh
+```
+
+#### 2. 网络隔离
+
+```bash
+# 配置防火墙(仅内网访问)
+sudo ufw allow from 192.168.1.0/24 to any port 8080
+sudo ufw deny 8080
+```
+
+#### 3. TLS配置
+
+使用Nginx反向代理,强制HTTPS:
+
+```nginx
+server {
+    listen 443 ssl http2;
+    ssl_certificate /etc/letsencrypt/live/domain.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/domain.com/privkey.pem;
+    ssl_protocols TLSv1.2 TLSv1.3;
+    ssl_ciphers HIGH:!aNULL:!MD5;
+
+    location / {
+        proxy_pass http://127.0.0.1:8080;
+    }
+}
+```
+
+### 运维阶段
+
+#### 1. 密钥轮换
+
+建议每季度轮换以下密钥:
+
+- JWT_SECRET
+- AES_KEY
+- WEB_DASHBOARD_TOKEN
+- 交易所API Key
+
+#### 2. 日志监控
+
+监控以下异常事件:
+
+```go
+// 认证失败超过阈值
+if authFailureCount > 10 {
+    log.Error("检测到可能的暴力破解攻击")
+    // 发送告警
+}
+
+// 异常IP访问
+if isUnusualIP(clientIP) {
+    log.Warn("异常IP访问: %s", clientIP)
+}
+```
+
+#### 3. 定期审计
+
+- 每月审计Git提交历史
+- 每季度运行渗透测试
+- 每半年进行完整安全审计
 
 ---
 
-## 📊 风险评估
+## 📚 附录
 
-### 当前风险等级: 🟢 **低风险**
+### A. 测试环境信息
 
-| 风险项 | 评估 | 说明 |
-|--------|------|------|
-| **环境变量泄露** | 🟢 低 | .env 已正确忽略 |
-| **Git 历史泄露** | 🟢 无 | 从未提交敏感文件 |
-| **Session 泄露** | 🟢 低 | sessions.jsonl 已忽略 |
-| **API Key 泄露** | 🟢 低 | 仅在本地 .env 中 |
-| **私钥泄露** | 🟢 低 | 未提交到 Git |
-| **文件权限** | 🟡 中 | .env 权限可以更严格 |
+| 项目 | 信息 |
+|------|------|
+| **操作系统** | Linux 6.1.0-41-amd64 |
+| **Go版本** | go1.22+ |
+| **数据库** | SQLite 3.x |
+| **Web框架** | Hertz (CloudWeGo) |
+| **JWT库** | golang-jwt/jwt/v5 |
 
-### 风险缓解建议
+### B. 审计工具链
 
-#### 🟢 已实施 (保持)
-- ✅ 使用 .gitignore 保护敏感文件
-- ✅ 提供 .env.example 模板
-- ✅ 从未提交真实密钥
+| 工具 | 版本 | 用途 |
+|------|------|------|
+| **Codex AI** | gpt-5.1 | 代码深度分析 |
+| **gosec** | v2.18+ | Go安全扫描 |
+| **govulncheck** | latest | 依赖漏洞扫描 |
+| **git-secrets** | v1.3+ | 敏感信息检测 |
 
-#### 🟡 建议实施
-- [ ] 修改 .env 文件权限为 600
-- [ ] 设置 Git pre-commit hooks
-- [ ] 安装 git-secrets 工具
-- [ ] 定期审计 Git 历史
+### C. 参考标准
 
-#### 🔴 紧急情况处理
-如果意外提交了敏感信息:
-```bash
-# 1. 立即从历史中删除
-git filter-branch --force --index-filter \
-  "git rm --cached --ignore-unmatch .env" \
-  --prune-empty --tag-name-filter cat -- --all
+- [OWASP Top 10 2021](https://owasp.org/www-project-top-ten/)
+- [CWE Top 25 Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/)
+- [NIST SP 800-53: Security and Privacy Controls](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+- [PCI DSS v4.0: Payment Card Industry Data Security Standard](https://www.pcisecuritystandards.org/)
 
-# 2. 强制推送
-git push origin --force --all
+### D. 变更日志
 
-# 3. 立即更换所有泄露的密钥
-# - 在交易所重新生成 API Key
-# - 更换所有私钥
-# - 更新 Telegram Bot Token
-```
-
----
-
-## 📝 配置文件对比
-
-### .env (真实配置 - 已保护) ✅
-```bash
-BINANCE_API_KEY=真实密钥          # ⚠️  敏感
-BINANCE_SECRET=真实密钥           # ⚠️  敏感
-OKX_API_KEY=真实密钥              # ⚠️  敏感
-...
-```
-
-### .env.example (模板 - 已提交) ✅
-```bash
-BINANCE_API_KEY=your_api_key_here    # ✅ 安全
-BINANCE_SECRET=your_secret_here      # ✅ 安全
-OKX_API_KEY=your_okx_api_key         # ✅ 安全
-...
-```
-
----
-
-## 🔐 安全清单
-
-### 日常检查 (每周)
-```bash
-#!/bin/bash
-# security_check.sh
-
-echo "🔍 安全检查开始..."
-
-# 1. 检查 .env 权限
-echo "1. 检查文件权限..."
-if [ "$(stat -c %a .env)" != "600" ]; then
-    echo "  ⚠️  .env 权限不安全: $(stat -c %a .env)"
-    echo "  建议执行: chmod 600 .env"
-else
-    echo "  ✅ .env 权限安全"
-fi
-
-# 2. 检查 Git 状态
-echo "2. 检查 Git 状态..."
-if git status --porcelain | grep -E "(\.env$|\.key|secret)"; then
-    echo "  ⚠️  发现未忽略的敏感文件"
-else
-    echo "  ✅ 无敏感文件在追踪中"
-fi
-
-# 3. 检查 .gitignore
-echo "3. 检查 .gitignore..."
-if git check-ignore .env > /dev/null; then
-    echo "  ✅ .env 已被忽略"
-else
-    echo "  ⚠️  .env 未被忽略!"
-fi
-
-echo ""
-echo "✅ 安全检查完成"
-```
-
-### 发布前检查
-- [ ] 确认 .env 不在 Git 追踪中
-- [ ] 检查没有硬编码的密钥
-- [ ] 验证 .gitignore 配置正确
-- [ ] 审查最近的提交内容
-- [ ] 确认所有密钥都在环境变量中
+| 日期 | 版本 | 变更内容 |
+|------|------|----------|
+| 2025-11-18 | v1.0 | 初始版本,分析NOFX+crypto-trading-bot |
+| [待更新] | v1.1 | 修复验证 |
+| [待更新] | v2.0 | 修复后重新审计 |
 
 ---
 
 ## ✅ 总结
 
-### 安全状态: 🟢 **良好**
+### 关键数据
 
 ```
-┌─────────────────────────────────────────────────┐
-│          安全配置评估                            │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│  🔒 环境变量:       ✅ 已保护                  │
-│  📝 配置文件:       ✅ 正确分离                │
-│  🚫 Git 忽略:       ✅ 配置完善                │
-│  📜 提交历史:       ✅ 无泄露                  │
-│  🔑 Session 文件:   ✅ 已保护                  │
-│  🛡️  整体安全:       ✅ 优秀                    │
-│                                                 │
-│  风险等级: 🟢 低风险                           │
-│  建议: 修改 .env 文件权限为 600                │
-│                                                 │
-└─────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────┐
+│           安全审计总结                              │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│  🔴 严重漏洞 (HIGH):     1 个                      │
+│  🟡 中危漏洞 (MEDIUM):   1 个                      │
+│  🟢 低危漏洞 (LOW):      0 个                      │
+│  ✅ 已修复漏洞:          3 个                      │
+│                                                    │
+│  整体安全评级: 🟡 MEDIUM                          │
+│  建议优先级:  🔴 立即修复SEC-001                   │
+│                                                    │
+└────────────────────────────────────────────────────┘
 ```
 
-### 核心发现
-- ✅ **所有敏感文件都已正确配置在 .gitignore 中**
-- ✅ **.env 从未被提交到 Git 历史**
-- ✅ **提供了安全的 .env.example 模板**
-- ✅ **Session 文件和其他敏感数据都受保护**
-- 🟡 **建议: 将 .env 文件权限设置为 600**
+### 核心建议
 
-### 立即执行
-```bash
-# 加强 .env 文件安全
-chmod 600 .env
+1. **立即修复** NOFX JWT弱密钥漏洞 (SEC-001)
+2. **24小时内** 为crypto-trading-bot添加Web认证 (SEC-002)
+3. **持续跟进** 运行安全检查脚本,集成CI/CD
+4. **定期审计** 每季度重新运行完整审计
 
-# 验证权限
-ls -l .env
-# 应显示: -rw------- 1 hanins hanins 4673 Oct 26 18:43 .env
-```
+### 下次审计计划
+
+**计划时间**: 2025-12-18 (修复后30天)
+**审计范围**: 验证修复效果 + 新功能安全审计
+**审计重点**:
+- 验证SEC-001/SEC-002修复完成
+- 审计新增功能的安全性
+- 检查依赖库更新情况
 
 ---
 
-**🔒 安全分析完成！项目敏感信息保护良好！** ✅
+**🔒 审计完成!**
+
+审计人: Linus Torvalds (Claude Code + Codex)
+联系方式: [GitHub Issues](https://github.com/anthropics/claude-code/issues)
 
 ---
 
-_分析时间: 2025-10-26 20:20 UTC+08:00_  
-_分析工具: Git + 文件系统检查_  
-_安全等级: 🟢 低风险_
+_最后更新: 2025-11-18 UTC+08:00_
+_下次审计: 2025-12-18_
+_安全等级: 🟡 MEDIUM (修复后可提升至🟢 LOW)_

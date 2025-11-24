@@ -29,11 +29,12 @@ pub struct AccountInfo {
 /// 交易规则
 #[derive(Debug, Clone)]
 pub struct TradingRules {
-    pub step_size: f64,          // 数量步长
-    pub min_qty: f64,            // 最小数量
-    pub quantity_precision: i32, // 数量精度
-    pub price_precision: i32,    // 价格精度
-    pub tick_size: f64,          // 价格步长 (PRICE_FILTER)
+    pub step_size: f64,            // 数量步长
+    pub min_qty: f64,              // 最小数量
+    pub quantity_precision: i32,   // 数量精度
+    pub price_precision: i32,      // 价格精度
+    pub tick_size: f64,            // 价格步长 (PRICE_FILTER)
+    pub min_notional: Option<f64>, // 最小名义金额 (部分交易所可能缺失)
 }
 
 /// 订单结果
@@ -148,12 +149,23 @@ pub trait ExchangeClient: Send + Sync {
     /// - `margin_type`: 保证金模式
     ///
     /// # 示例
-    /// ```
-    /// // 加仓50%
-    /// adjust_position("BTCUSDT", "LONG", 0.5, 5, "CROSSED").await?;
+    /// ```no_run
+    /// use anyhow::Result;
+    /// use rust_trading_bot::exchange_trait::ExchangeClient;
     ///
-    /// // 减仓30%
-    /// adjust_position("BTCUSDT", "LONG", -0.3, 5, "CROSSED").await?;
+    /// async fn adjust_example(exchange: &dyn ExchangeClient) -> Result<()> {
+    ///     // 加仓50%
+    ///     exchange
+    ///         .adjust_position("BTCUSDT", "LONG", 0.5, 5, "CROSSED")
+    ///         .await?;
+    ///
+    ///     // 减仓30%
+    ///     exchange
+    ///         .adjust_position("BTCUSDT", "LONG", -0.3, 5, "CROSSED")
+    ///         .await?;
+    ///
+    ///     Ok(())
+    /// }
     /// ```
     async fn adjust_position(
         &self,

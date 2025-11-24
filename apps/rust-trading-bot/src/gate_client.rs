@@ -307,6 +307,7 @@ impl ExchangeClient for GateClient {
             quantity_precision: 0, // Gate 使用整数张数
             price_precision: 2,
             tick_size: 0.0001, // Gate 默认最小报价粒度
+            min_notional: None,
         };
 
         // 缓存规则

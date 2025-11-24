@@ -1,10 +1,11 @@
 use crate::exchange_trait::*;
 use anyhow::Result;
 use async_trait::async_trait;
+use chrono::{DateTime, TimeZone, Utc};
 use hmac::{Hmac, Mac};
-use log::{error, info, warn};
+use log::{debug, error, info, warn};
 use reqwest;
-use serde::Deserialize;
+use serde::{Deserialize, Serialize};
 use sha2::Sha256;
 use std::collections::HashMap;
 use std::sync::Arc;
@@ -16,6 +17,7 @@ type HmacSha256 = Hmac<Sha256>;
 #[allow(non_snake_case)]
 pub struct AccountInformation {
     pub totalWalletBalance: String,
+    pub totalMarginBalance: String,
     pub availableBalance: String,
     pub totalUnrealizedProfit: String,
 }
@@ -44,6 +46,33 @@ pub struct UserTrade {
     pub time: i64,
     pub positionSide: String, // "LONG" or "SHORT"
     pub realizedPnl: String,
+}
+
+/// 单个订单的精简状态信息，方便上层策略快速查看成交进度
+#[derive(Debug, Clone)]
+pub struct OrderStatus {
+    pub order_id: String,
+    pub status: String,
+    pub executed_qty: f64,
+    pub orig_qty: f64,
+    pub price: f64,
+    pub stop_price: Option<f64>,
+}
+
+/// Binance 未完成订单的精简视图
+#[derive(Debug, Clone, Serialize)]
+pub struct OpenOrder {
+    pub order_id: String,
+    pub symbol: String,
+    pub order_type: String,
+    pub status: String,
+    pub reduce_only: bool,
+    pub created_at: DateTime<Utc>,
+    pub side: Option<String>,
+    pub price: Option<f64>,
+    pub stop_price: Option<f64>,
+    pub quantity: Option<f64>,
+    pub position_side: Option<String>,
 }
 
 /// 币种历史表现统计
@@ -106,40 +135,54 @@ struct FilterInfo {
     tickSize: Option<String>, // PRICE_FILTER的价格步长
     minPrice: Option<String>,
     maxPrice: Option<String>,
+    notional: Option<String>,
+    minNotional: Option<String>,
+}
+
+#[derive(Debug, Deserialize)]
+#[allow(non_snake_case)]
+struct RawOpenOrder {
+    orderId: i64,
+    symbol: String,
+    status: Option<String>,
+    r#type: String,
+    side: Option<String>,
+    reduceOnly: Option<bool>,
+    price: Option<String>,
+    stopPrice: Option<String>,
+    origQty: Option<String>,
+    positionSide: Option<String>,
+    updateTime: Option<i64>,
+    time: Option<i64>,
 }
 
 #[derive(Debug, Clone)]
 pub struct BinanceClient {
     api_key: String,
     secret_key: String,
-    base_url: String,      // FAPI endpoint (fapi.binance.com)
-    papi_base_url: String, // Portfolio Margin API endpoint (papi.binance.com)
+    base_url: String, // FAPI endpoint (fapi.binance.com)
     // 缓存每个交易对的交易规则，减少 exchangeInfo 请求
     rules_cache: Arc<RwLock<HashMap<String, TradingRules>>>,
+    // 缓存账户持仓模式: true=双向, false=单向
+    position_mode_cache: Arc<RwLock<Option<bool>>>,
 }
 
 impl BinanceClient {
     pub fn new(api_key: String, secret_key: String, testnet: bool) -> Self {
-        let (base_url, papi_base_url) = if testnet {
-            // Testnet uses same domain for both fapi and papi
-            (
-                "https://testnet.binancefuture.com".to_string(),
-                "https://testnet.binancefuture.com".to_string(),
-            )
+        let base_url = if testnet {
+            // Testnet uses unified domain for futures
+            "https://testnet.binancefuture.com".to_string()
         } else {
-            // Mainnet has separate domains
-            (
-                "https://fapi.binance.com".to_string(),
-                "https://papi.binance.com".to_string(),
-            )
+            // Mainnet futures endpoint
+            "https://fapi.binance.com".to_string()
         };
 
         Self {
             api_key,
             secret_key,
             base_url,
-            papi_base_url,
             rules_cache: Arc::new(RwLock::new(HashMap::new())),
+            position_mode_cache: Arc::new(RwLock::new(None)),
         }
     }
 
@@ -155,6 +198,66 @@ impl BinanceClient {
         mac.update(query.as_bytes());
         let result = mac.finalize();
         hex::encode(result.into_bytes())
+    }
+
+    /// 获取指定交易对或全量的未完成委托
+    pub async fn get_open_orders(&self, symbol: Option<&str>) -> Result<Vec<OpenOrder>> {
+        let timestamp = chrono::Utc::now().timestamp_millis();
+        let mut query = format!("timestamp={}", timestamp);
+        if let Some(sym) = symbol {
+            query = format!("symbol={}&{}", sym, query);
+        }
+
+        let signature = self.sign_request(&query);
+        let url = format!(
+            "{}/fapi/v1/openOrders?{}&signature={}",
+            self.base_url, query, signature
+        );
+
+        let client = self.create_ipv4_client()?;
+        let body = client
+            .get(&url)
+            .header("X-MBX-APIKEY", &self.api_key)
+            .send()
+            .await?
+            .text()
+            .await?;
+
+        let raw_orders: Vec<RawOpenOrder> = serde_json::from_str(&body).map_err(|err| {
+            let preview: String = body.chars().take(400).collect();
+            error!("❌ 解析未完成订单失败: {} | 响应片段: {}", err, preview);
+            anyhow::anyhow!("解析未完成订单失败: {}", err)
+        })?;
+
+        let parse_number =
+            |value: Option<String>| -> Option<f64> { value.and_then(|v| v.parse::<f64>().ok()) };
+
+        let orders = raw_orders
+            .into_iter()
+            .map(|raw| {
+                let ts = raw.updateTime.or(raw.time).unwrap_or(timestamp);
+                let created_at = Utc
+                    .timestamp_millis_opt(ts)
+                    .single()
+                    .unwrap_or_else(|| Utc::now());
+
+                OpenOrder {
+                    order_id: raw.orderId.to_string(),
+                    symbol: raw.symbol,
+                    order_type: raw.r#type,
+                    status: raw.status.unwrap_or_else(|| "UNKNOWN".to_string()),
+                    reduce_only: raw.reduceOnly.unwrap_or(false),
+                    created_at,
+                    side: raw.side,
+                    price: parse_number(raw.price),
+                    stop_price: parse_number(raw.stopPrice),
+                    quantity: parse_number(raw.origQty),
+                    position_side: raw.positionSide,
+                }
+            })
+            .collect();
+
+        Ok(orders)
     }
 
     pub async fn get_account_info(&self) -> Result<AccountInformation> {
@@ -182,7 +285,7 @@ impl BinanceClient {
         }
 
         let account: AccountInformation = serde_json::from_str(&body)?;
-        info!("账户余额: {} USDT", account.totalWalletBalance);
+        info!("合约余额: {} USDT", account.totalMarginBalance);
         info!("未实现盈亏: {} USDT", account.totalUnrealizedProfit);
         Ok(account)
     }
@@ -207,7 +310,14 @@ impl BinanceClient {
         let position_side = "LONG";
 
         let _order_id = self
-            .limit_order(symbol, quantity, "BUY", limit_price, Some(position_side))
+            .limit_order(
+                symbol,
+                quantity,
+                "BUY",
+                limit_price,
+                Some(position_side),
+                false,
+            )
             .await?;
 
         info!(
@@ -236,7 +346,14 @@ impl BinanceClient {
         let position_side = "SHORT";
 
         let _order_id = self
-            .limit_order(symbol, quantity, "SELL", limit_price, Some(position_side))
+            .limit_order(
+                symbol,
+                quantity,
+                "SELL",
+                limit_price,
+                Some(position_side),
+                false,
+            )
             .await?;
 
         info!(
@@ -346,11 +463,43 @@ impl BinanceClient {
         );
 
         let client = self.create_ipv4_client()?;
-        client
+        let response = client
             .post(&url)
             .header("X-MBX-APIKEY", &self.api_key)
             .send()
             .await?;
+
+        // 先保存status,因为response.text()会消费response
+        let status = response.status();
+
+        // 检查HTTP状态码
+        if !status.is_success() {
+            let body = response.text().await?;
+            error!("❌ 设置杠杆失败: HTTP {} | {}", status, body);
+            return Err(anyhow::anyhow!("设置杠杆失败: {}", body));
+        }
+
+        // 解析响应JSON并验证实际设置的杠杆值
+        let body = response.text().await?;
+        let result: serde_json::Value = serde_json::from_str(&body)
+            .map_err(|e| anyhow::anyhow!("解析杠杆响应失败: {} | 响应: {}", e, body))?;
+
+        // Binance API 返回格式: {"leverage": 20, "maxNotionalValue": "...", "symbol": "BTCUSDT"}
+        let actual_leverage = result["leverage"]
+            .as_i64()
+            .ok_or_else(|| anyhow::anyhow!("无法解析杠杆返回值 | 响应: {}", body))?
+            as u32;
+
+        // 验证实际杠杆与请求杠杆是否一致
+        if actual_leverage != leverage {
+            warn!(
+                "⚠️  {} 杠杆设置与预期不符! 请求: {}x → 实际: {}x (可能被Binance后台限制)",
+                symbol, leverage, actual_leverage
+            );
+            warn!("   建议: 1. 登录Binance检查账户杠杆限制  2. 修改代码配置以匹配实际杠杆");
+        } else {
+            info!("✅ {} 杠杆已成功设置为 {}x", symbol, actual_leverage);
+        }
 
         Ok(())
     }
@@ -362,7 +511,7 @@ impl BinanceClient {
         let rules = self.get_symbol_trading_rules(symbol).await?;
         let current_price = self.get_current_price(symbol).await?;
 
-        let min_notional = 21.0;
+        let min_notional = rules.min_notional.unwrap_or(5.0);
 
         // 名义金额兜底 ≥ 21 USDT
         let mut qty = quantity;
@@ -394,19 +543,16 @@ impl BinanceClient {
         let precision = rules.quantity_precision.max(0) as usize;
         let quantity_str = format!("{:.*}", precision, adjusted_quantity);
 
-        // 根据方向确定 positionSide (做多LONG, 做空SHORT)
-        let position_side = if side == "BUY" { "LONG" } else { "SHORT" };
-
         let query = format!(
-            "symbol={}&side={}&type=MARKET&quantity={}&positionSide={}&timestamp={}",
-            symbol, side, quantity_str, position_side, timestamp
+            "symbol={}&side={}&type=MARKET&quantity={}&timestamp={}",
+            symbol, side, quantity_str, timestamp
         );
         let signature = self.sign_request(&query);
 
-        // 优先使用 PAPI (Portfolio Margin API) for unified account
+        // 统一使用经典合约(FAPI)下单
         let url = format!(
-            "{}/papi/v1/um/order?{}&signature={}",
-            self.papi_base_url, query, signature
+            "{}/fapi/v1/order?{}&signature={}",
+            self.base_url, query, signature
         );
 
         let client = self.create_ipv4_client()?;
@@ -455,6 +601,7 @@ impl BinanceClient {
                 let mut step_size_val = None;
                 let mut min_qty_val = None;
                 let mut tick_size_val = None;
+                let mut min_notional_val = None;
 
                 for filter in &symbol_info.filters {
                     if filter.filterType == "LOT_SIZE" {
@@ -479,6 +626,15 @@ impl BinanceClient {
                             .parse::<f64>()?;
                         tick_size_val = Some(tick_size);
                     }
+                    if filter.filterType == "MIN_NOTIONAL" {
+                        if let Some(value) = filter
+                            .notional
+                            .as_ref()
+                            .or_else(|| filter.minNotional.as_ref())
+                        {
+                            min_notional_val = value.parse::<f64>().ok();
+                        }
+                    }
                 }
 
                 let rules = TradingRules {
@@ -487,6 +643,7 @@ impl BinanceClient {
                     quantity_precision: symbol_info.quantityPrecision,
                     price_precision: symbol_info.pricePrecision,
                     tick_size: tick_size_val.ok_or_else(|| anyhow::anyhow!("缺少tickSize信息"))?,
+                    min_notional: min_notional_val,
                 };
 
                 self.rules_cache
@@ -574,11 +731,13 @@ impl BinanceClient {
             let body = response.text().await?;
             let body_lower = body.to_lowercase();
             // 统一账户可能不支持设置持仓模式或已设置,忽略这些错误
-            if body_lower.contains("no need to change")
-                || body_lower.contains("not modified")
-                || body_lower.contains("-2015")
-                || body_lower.contains("invalid api-key")
-            {
+            if body_lower.contains("no need to change") || body_lower.contains("not modified") {
+                warn!("⚠️  设置持仓模式被跳过 (可能是统一账户): {}", body);
+                let mut cache = self.position_mode_cache.write().await;
+                *cache = Some(dual_side_position);
+                return Ok(());
+            }
+            if body_lower.contains("-2015") || body_lower.contains("invalid api-key") {
                 warn!("⚠️  设置持仓模式被跳过 (可能是统一账户): {}", body);
                 return Ok(());
             }
@@ -594,42 +753,89 @@ impl BinanceClient {
                 "单向持仓"
             }
         );
+        {
+            let mut cache = self.position_mode_cache.write().await;
+            *cache = Some(dual_side_position);
+        }
         Ok(())
     }
 
-    /// 设置止损单 (STOP_MARKET)
+    pub async fn get_position_mode(&self) -> Result<bool> {
+        {
+            let cache = self.position_mode_cache.read().await;
+            if let Some(mode) = *cache {
+                return Ok(mode);
+            }
+        }
+
+        let timestamp = chrono::Utc::now().timestamp_millis();
+        let query = format!("timestamp={}", timestamp);
+        let signature = self.sign_request(&query);
+        let url = format!(
+            "{}/fapi/v1/positionSide/dual?{}&signature={}",
+            self.base_url, query, signature
+        );
+
+        let client = self.create_ipv4_client()?;
+        let response = client
+            .get(&url)
+            .header("X-MBX-APIKEY", &self.api_key)
+            .send()
+            .await?;
+
+        let status = response.status();
+        let body = response.text().await?;
+
+        if !status.is_success() {
+            error!("查询持仓模式失败: {}", body);
+            return Err(anyhow::anyhow!("查询持仓模式失败: {}", body));
+        }
+
+        let dual_side = serde_json::from_str::<serde_json::Value>(&body)?["dualSidePosition"]
+            .as_bool()
+            .ok_or_else(|| anyhow::anyhow!("无法解析持仓模式"))?;
+
+        {
+            let mut cache = self.position_mode_cache.write().await;
+            *cache = Some(dual_side);
+        }
+
+        Ok(dual_side)
+    }
+
+    /// 设置止损单 (STOP 限价触发)
     pub async fn set_stop_loss(
         &self,
         symbol: &str,
         side: &str, // "LONG" or "SHORT" - 持仓方向
-        _quantity: f64,
+        quantity: f64,
         stop_price: f64,
+        limit_price: Option<f64>,
     ) -> Result<String> {
         let timestamp = chrono::Utc::now().timestamp_millis();
 
         // 平多仓用SELL,平空仓用BUY
         let order_side = if side == "LONG" { "SELL" } else { "BUY" };
-        let position_side = side; // PAPI 要求显式传入 LONG/SHORT
-
         // 获取交易规则以便获取精度信息
         let rules = self.get_symbol_trading_rules(symbol).await?;
 
-        // 获取价格精度并调整止损价
+        // 获取价格精度并调整触发价 + 挂单价
         let price_precision = rules.price_precision.max(0) as usize;
         let stop_price_str = format!("{:.*}", price_precision, stop_price);
+        let actual_limit_price = limit_price.unwrap_or(stop_price);
+        let limit_price_str = format!("{:.*}", price_precision, actual_limit_price);
+        let qty_precision = rules.quantity_precision.max(0) as usize;
+        let quantity_str = format!("{:.*}", qty_precision, quantity);
 
-        // PAPI 条件单需要 workingType + positionSide + priceProtect 参数
-        // 注意: 条件单不支持 reduceOnly 参数,positionSide 已经决定了平仓方向
         let query = format!(
-            "symbol={}&side={}&strategyType=STOP_MARKET&stopPrice={}&positionSide={}&workingType=MARK_PRICE&priceProtect=true&timestamp={}",
-            symbol, order_side, stop_price_str, position_side, timestamp
+            "symbol={}&side={}&type=STOP&stopPrice={}&price={}&quantity={}&timeInForce=GTC&timestamp={}",
+            symbol, order_side, stop_price_str, limit_price_str, quantity_str, timestamp
         );
         let signature = self.sign_request(&query);
 
-        // 优先使用 PAPI (Portfolio Margin API) for unified account
         let url = format!(
-            "{}/papi/v1/um/conditional/order?{}&signature={}",
-            self.papi_base_url, query, signature
+            "{}/fapi/v1/order?{}&signature={}",
+            self.base_url, query, signature
         );
 
         let client = self.create_ipv4_client()?;
@@ -652,19 +858,20 @@ impl BinanceClient {
             .to_string();
 
         info!(
-            "✅ 止损单已设置: {} {} @ ${} (订单ID: {})",
-            symbol, order_side, stop_price, order_id
+            "✅ 止损单已设置: {} {} stop=${} limit=${} (订单ID: {})",
+            symbol, order_side, stop_price, actual_limit_price, order_id
         );
         Ok(order_id)
     }
 
-    /// 设置止盈单 (TAKE_PROFIT_MARKET)
+    /// 设置止盈单 (TAKE_PROFIT 限价触发)
     pub async fn set_take_profit(
         &self,
         symbol: &str,
         side: &str, // "LONG" or "SHORT" - 持仓方向
         quantity: f64,
         stop_price: f64,
+        limit_price: Option<f64>,
     ) -> Result<String> {
         let timestamp = chrono::Utc::now().timestamp_millis();
 
@@ -676,23 +883,21 @@ impl BinanceClient {
         let precision = rules.quantity_precision.max(0) as usize;
         let quantity_str = format!("{:.*}", precision, quantity);
 
-        // 获取价格精度并调整止盈价
+        // 获取价格精度并调整止盈触发价 + 挂单价
         let price_precision = rules.price_precision.max(0) as usize;
         let stop_price_str = format!("{:.*}", price_precision, stop_price);
+        let actual_limit_price = limit_price.unwrap_or(stop_price);
+        let limit_price_str = format!("{:.*}", price_precision, actual_limit_price);
 
-        // PAPI 条件单需要 workingType + positionSide + priceProtect 参数
-        // 注意: 条件单不支持 reduceOnly 和 timeInForce 参数
-        let position_side = side; // "LONG" or "SHORT"
         let query = format!(
-            "symbol={}&side={}&strategyType=TAKE_PROFIT_MARKET&stopPrice={}&quantity={}&positionSide={}&workingType=MARK_PRICE&priceProtect=true&timestamp={}",
-            symbol, order_side, stop_price_str, quantity_str, position_side, timestamp
+            "symbol={}&side={}&type=TAKE_PROFIT&stopPrice={}&price={}&quantity={}&timeInForce=GTC&timestamp={}",
+            symbol, order_side, stop_price_str, limit_price_str, quantity_str, timestamp
         );
         let signature = self.sign_request(&query);
 
-        // 优先使用 PAPI (Portfolio Margin API) for unified account
         let url = format!(
-            "{}/papi/v1/um/conditional/order?{}&signature={}",
-            self.papi_base_url, query, signature
+            "{}/fapi/v1/order?{}&signature={}",
+            self.base_url, query, signature
         );
 
         let client = self.create_ipv4_client()?;
@@ -715,9 +920,118 @@ impl BinanceClient {
             .to_string();
 
         info!(
-            "✅ 止盈单已设置: {} {} @ ${} (订单ID: {})",
-            symbol, order_side, stop_price, order_id
+            "✅ 止盈单已设置: {} {} stop=${} limit=${} (订单ID: {})",
+            symbol, order_side, stop_price, actual_limit_price, order_id
         );
+        Ok(order_id)
+    }
+
+    /// 下触发单 (开仓或平仓的条件单)
+    ///
+    /// trigger_type: "STOP" | "STOP_MARKET" | "TAKE_PROFIT" | "TAKE_PROFIT_MARKET"
+    /// action: "OPEN" (开仓) or "CLOSE" (平仓)
+    /// position_side: "LONG" or "SHORT"
+    pub async fn place_trigger_order(
+        &self,
+        symbol: &str,
+        trigger_type: &str,  // STOP_MARKET, TAKE_PROFIT_MARKET, 等
+        action: &str,        // OPEN / CLOSE
+        position_side: &str, // LONG / SHORT
+        quantity: f64,
+        stop_price: f64,
+        limit_price: Option<f64>, // STOP/TAKE_PROFIT 需要的挂单价
+    ) -> Result<String> {
+        let timestamp = chrono::Utc::now().timestamp_millis();
+
+        let trigger_type_upper = trigger_type.trim().to_ascii_uppercase();
+        let action_upper = action.trim().to_ascii_uppercase();
+        let position_side_upper = position_side.trim().to_ascii_uppercase();
+
+        let valid_trigger_types = ["STOP", "STOP_MARKET", "TAKE_PROFIT", "TAKE_PROFIT_MARKET"];
+        if !valid_trigger_types.contains(&trigger_type_upper.as_str()) {
+            return Err(anyhow::anyhow!(format!(
+                "不支持的触发单类型: {}",
+                trigger_type
+            )));
+        }
+        if action_upper != "OPEN" && action_upper != "CLOSE" {
+            return Err(anyhow::anyhow!(format!(
+                "action 只能是 OPEN/CLOSE, 当前为 {}",
+                action
+            )));
+        }
+        if position_side_upper != "LONG" && position_side_upper != "SHORT" {
+            return Err(anyhow::anyhow!(format!(
+                "position_side 只能是 LONG/SHORT, 当前为 {}",
+                position_side
+            )));
+        }
+
+        // 根据动作与仓位方向确认 Binance 下单 side
+        let order_side = match (action_upper.as_str(), position_side_upper.as_str()) {
+            ("OPEN", "LONG") => "BUY",
+            ("OPEN", "SHORT") => "SELL",
+            ("CLOSE", "LONG") => "SELL",
+            ("CLOSE", "SHORT") => "BUY",
+            _ => unreachable!("已在上方校验 action 与 position_side"),
+        };
+
+        // 获取交易规则用于数量与价格精度
+        let rules = self.get_symbol_trading_rules(symbol).await?;
+        let qty_precision = rules.quantity_precision.max(0) as usize;
+        let price_precision = rules.price_precision.max(0) as usize;
+        let quantity_str = format!("{:.*}", qty_precision, quantity);
+        let stop_price_str = format!("{:.*}", price_precision, stop_price);
+
+        let requires_limit_price = matches!(trigger_type_upper.as_str(), "STOP" | "TAKE_PROFIT");
+        let mut query = format!(
+            "symbol={}&side={}&type={}&stopPrice={}&quantity={}&workingType=MARK_PRICE&timestamp={}",
+            symbol, order_side, trigger_type_upper, stop_price_str, quantity_str, timestamp
+        );
+
+        if requires_limit_price {
+            let limit = limit_price
+                .ok_or_else(|| anyhow::anyhow!("STOP/TAKE_PROFIT 类型必须提供 limit_price"))?;
+            let limit_price_str = format!("{:.*}", price_precision, limit);
+            query = format!("{}&price={}", query, limit_price_str);
+        } else if let Some(limit) = limit_price {
+            // 非 STOP/TAKE_PROFIT 传入了限价，按 Binance 要求忽略，仅提示日志便于排查
+            debug!(
+                "触发单类型 {} 不需要 limit_price, 已忽略传入值 {}",
+                trigger_type_upper, limit
+            );
+        }
+
+        let signature = self.sign_request(&query);
+        let url = format!(
+            "{}/fapi/v1/order?{}&signature={}",
+            self.base_url, query, signature
+        );
+
+        let client = self.create_ipv4_client()?;
+        let response = client
+            .post(&url)
+            .header("X-MBX-APIKEY", &self.api_key)
+            .send()
+            .await?;
+
+        if !response.status().is_success() {
+            let body = response.text().await?;
+            error!("触发单下单失败: {}", body);
+            return Err(anyhow::anyhow!(format!("触发单下单失败: {}", body)));
+        }
+
+        let result: serde_json::Value = response.json().await?;
+        let order_id = result["orderId"]
+            .as_i64()
+            .ok_or_else(|| anyhow::anyhow!("无法获取订单ID"))?
+            .to_string();
+
+        info!(
+            "🎯 触发单已下: {} {} {} @ trigger={} (订单ID: {})",
+            symbol, action_upper, position_side_upper, stop_price, order_id
+        );
+
         Ok(order_id)
     }
 
@@ -733,7 +1047,6 @@ impl BinanceClient {
 
         // 平多仓用SELL,平空仓用BUY
         let order_side = if side == "LONG" { "SELL" } else { "BUY" };
-        let position_side = side; // Hedge Mode 必须显式指明仓位方向
 
         // 获取交易规则
         let rules = self.get_symbol_trading_rules(symbol).await?;
@@ -745,14 +1058,14 @@ impl BinanceClient {
         let price_str = format!("{:.*}", price_precision, limit_price);
 
         let query = format!(
-            "symbol={}&side={}&type=LIMIT&price={}&quantity={}&positionSide={}&reduceOnly=true&timeInForce=GTC&timestamp={}",
-            symbol, order_side, price_str, quantity_str, position_side, timestamp
+            "symbol={}&side={}&type=LIMIT&price={}&quantity={}&timeInForce=GTC&timestamp={}",
+            symbol, order_side, price_str, quantity_str, timestamp
         );
         let signature = self.sign_request(&query);
 
         let url = format!(
-            "{}/papi/v1/um/order?{}&signature={}",
-            self.papi_base_url, query, signature
+            "{}/fapi/v1/order?{}&signature={}",
+            self.base_url, query, signature
         );
 
         let client = self.create_ipv4_client()?;
@@ -781,7 +1094,7 @@ impl BinanceClient {
         Ok(order_id)
     }
 
-    /// 通用限价单 (支持传入 BUY/SELL 以及可选 positionSide)
+    /// 通用限价单 (单向持仓模式仅依赖 BUY/SELL side)
     pub async fn limit_order(
         &self,
         symbol: &str,
@@ -789,6 +1102,7 @@ impl BinanceClient {
         side: &str, // "BUY" or "SELL"
         limit_price: f64,
         position_side: Option<&str>,
+        reduce_only: bool,
     ) -> Result<String> {
         let timestamp = chrono::Utc::now().timestamp_millis();
 
@@ -796,27 +1110,52 @@ impl BinanceClient {
 
         // 先按 tick_size 对齐价格，避免提交非法价格
         let aligned_price = (limit_price / rules.tick_size).floor() * rules.tick_size;
+        // 按 step_size 与最小数量对齐，避免买卖量不合规
+        let step = rules.step_size;
+        let adjusted_quantity = (quantity / step).floor() * step;
+        let final_quantity = if adjusted_quantity < rules.min_qty {
+            rules.min_qty
+        } else {
+            adjusted_quantity
+        };
 
         let qty_precision = rules.quantity_precision.max(0) as usize;
         let price_precision = rules.price_precision.max(0) as usize;
 
-        let quantity_str = format!("{:.*}", qty_precision, quantity);
+        let quantity_str = format!("{:.*}", qty_precision, final_quantity);
         let price_str = format!("{:.*}", price_precision, aligned_price);
+
+        let notional_value = final_quantity * aligned_price;
+        let min_notional = rules.min_notional.unwrap_or(5.0);
+
+        if !reduce_only && notional_value < min_notional {
+            return Err(anyhow::anyhow!(format!(
+                "限价单名义金额 {:.4} < 最低要求 {:.2} (数量: {:.6}, 价格: {:.6})",
+                notional_value, min_notional, final_quantity, aligned_price
+            )));
+        } else if reduce_only && notional_value < min_notional {
+            warn!(
+                "⚠️ {} 减仓金额 {:.4} 低于默认门槛 {:.2}，使用 reduceOnly 放行",
+                symbol, notional_value, min_notional
+            );
+        }
 
         let mut query = format!(
             "symbol={}&side={}&type=LIMIT&price={}&quantity={}&timeInForce=GTC&timestamp={}",
             symbol, side, price_str, quantity_str, timestamp
         );
-
-        if let Some(pos_side) = position_side {
-            query = format!("{}&positionSide={}", query, pos_side);
+        if let Some(ps) = position_side {
+            query.push_str(&format!("&positionSide={}", ps));
+        }
+        if reduce_only {
+            query.push_str("&reduceOnly=true");
         }
 
         let signature = self.sign_request(&query);
 
         let url = format!(
-            "{}/papi/v1/um/order?{}&signature={}",
-            self.papi_base_url, query, signature
+            "{}/fapi/v1/order?{}&signature={}",
+            self.base_url, query, signature
         );
 
         let client = self.create_ipv4_client()?;
@@ -852,7 +1191,7 @@ impl BinanceClient {
         side: &str, // "BUY" or "SELL"
         quantity: f64,
         limit_price: f64,
-        position_side: Option<&str>, // "LONG" or "SHORT", None for closing
+        _position_side: Option<&str>, // 单向持仓下忽略 positionSide
     ) -> Result<String> {
         let timestamp = chrono::Utc::now().timestamp_millis();
 
@@ -865,22 +1204,29 @@ impl BinanceClient {
         let quantity_str = format!("{:.*}", qty_precision, quantity);
         let price_str = format!("{:.*}", price_precision, limit_price);
 
+        if let Some(min_notional) = rules.min_notional {
+            if quantity * limit_price < min_notional {
+                return Err(anyhow::anyhow!(format!(
+                    "限价单名义金额 {:.4} < 最低要求 {:.2} (数量: {:.6}, 价格: {:.6})",
+                    quantity * limit_price,
+                    min_notional,
+                    quantity,
+                    limit_price
+                )));
+            }
+        }
+
         // 构建查询参数
-        let mut query = format!(
+        let query = format!(
             "symbol={}&side={}&type=LIMIT&price={}&quantity={}&timeInForce=GTC&timestamp={}",
             symbol, side, price_str, quantity_str, timestamp
         );
 
-        // 如果指定了持仓方向,添加 positionSide
-        if let Some(pos_side) = position_side {
-            query = format!("{}&positionSide={}", query, pos_side);
-        }
-
         let signature = self.sign_request(&query);
 
         let url = format!(
-            "{}/papi/v1/um/order?{}&signature={}",
-            self.papi_base_url, query, signature
+            "{}/fapi/v1/order?{}&signature={}",
+            self.base_url, query, signature
         );
 
         let client = self.create_ipv4_client()?;
@@ -918,10 +1264,10 @@ impl BinanceClient {
         );
         let signature = self.sign_request(&query);
 
-        // 优先使用 PAPI (Portfolio Margin API) for unified account
+        // 统一使用 FAPI 端点取消
         let url = format!(
-            "{}/papi/v1/um/order?{}&signature={}",
-            self.papi_base_url, query, signature
+            "{}/fapi/v1/order?{}&signature={}",
+            self.base_url, query, signature
         );
 
         let client = self.create_ipv4_client()?;
@@ -941,6 +1287,101 @@ impl BinanceClient {
         Ok(())
     }
 
+    /// 查询订单状态详情
+    pub async fn get_order_status_detail(
+        &self,
+        symbol: &str,
+        order_id: &str,
+    ) -> Result<OrderStatus> {
+        let timestamp = chrono::Utc::now().timestamp_millis();
+        let query = format!(
+            "symbol={}&orderId={}&timestamp={}",
+            symbol, order_id, timestamp
+        );
+        let signature = self.sign_request(&query);
+
+        let url = format!(
+            "{}/fapi/v1/order?{}&signature={}",
+            self.base_url, query, signature
+        );
+
+        let client = self.create_ipv4_client()?;
+        let response = client
+            .get(&url)
+            .header("X-MBX-APIKEY", &self.api_key)
+            .send()
+            .await?;
+
+        let status_code = response.status();
+        let body = response.text().await?;
+
+        if !status_code.is_success() {
+            error!("查询订单状态失败: {}", body);
+            return Err(anyhow::anyhow!("查询订单状态失败: {}", body));
+        }
+
+        let raw: serde_json::Value = serde_json::from_str(&body)?;
+
+        let api_order_id = raw["orderId"]
+            .as_i64()
+            .map(|id| id.to_string())
+            .or_else(|| raw["orderId"].as_str().map(|s| s.to_string()))
+            .ok_or_else(|| anyhow::anyhow!("响应缺少 orderId 字段"))?;
+
+        let status_text = raw["status"]
+            .as_str()
+            .ok_or_else(|| anyhow::anyhow!("响应缺少 status 字段"))?
+            .to_string();
+
+        let executed_qty = if let Some(qty_str) = raw["executedQty"].as_str() {
+            qty_str.parse::<f64>()?
+        } else if let Some(qty_num) = raw["executedQty"].as_f64() {
+            qty_num
+        } else {
+            return Err(anyhow::anyhow!("响应缺少 executedQty 字段"));
+        };
+
+        let orig_qty = if let Some(qty_str) = raw["origQty"].as_str() {
+            qty_str.parse::<f64>()?
+        } else if let Some(qty_num) = raw["origQty"].as_f64() {
+            qty_num
+        } else {
+            return Err(anyhow::anyhow!("响应缺少 origQty 字段"));
+        };
+
+        let price = raw["price"]
+            .as_str()
+            .and_then(|price_str| price_str.parse::<f64>().ok())
+            .or_else(|| raw["price"].as_f64())
+            .unwrap_or(0.0);
+
+        let stop_price = raw["stopPrice"]
+            .as_str()
+            .and_then(|price_str| price_str.parse::<f64>().ok())
+            .or_else(|| raw["stopPrice"].as_f64())
+            .filter(|value| value.is_finite() && *value > 0.0);
+
+        info!(
+            "订单状态: {} (订单ID: {}, 已成交 {} / {})",
+            status_text, api_order_id, executed_qty, orig_qty
+        );
+
+        Ok(OrderStatus {
+            order_id: api_order_id,
+            status: status_text,
+            executed_qty,
+            orig_qty,
+            price,
+            stop_price,
+        })
+    }
+
+    /// 查询订单状态文本 (仅返回 status 字段)
+    pub async fn get_order_status(&self, symbol: &str, order_id: &str) -> Result<String> {
+        let detail = self.get_order_status_detail(symbol, order_id).await?;
+        Ok(detail.status)
+    }
+
     /// 获取指定时间范围内的已实现盈亏历史
     /// hours: 查询最近N小时的数据
     pub async fn get_income_history(&self, hours: u64) -> Result<Vec<IncomeRecord>> {
@@ -954,8 +1395,8 @@ impl BinanceClient {
         let signature = self.sign_request(&query);
 
         let url = format!(
-            "{}/papi/v1/um/income?{}&signature={}",
-            self.papi_base_url, query, signature
+            "{}/fapi/v1/income?{}&signature={}",
+            self.base_url, query, signature
         );
 
         let client = self.create_ipv4_client()?;
@@ -989,8 +1430,8 @@ impl BinanceClient {
         let signature = self.sign_request(&query);
 
         let url = format!(
-            "{}/papi/v1/um/userTrades?{}&signature={}",
-            self.papi_base_url, query, signature
+            "{}/fapi/v1/userTrades?{}&signature={}",
+            self.base_url, query, signature
         );
 
         let client = self.create_ipv4_client()?;
@@ -1118,182 +1559,25 @@ impl ExchangeClient for BinanceClient {
         let query = format!("timestamp={}", timestamp);
         let signature = self.sign_request(&query);
 
-        // 先尝试统一账户端点
-        let url_papi = format!(
-            "{}/papi/v1/um/positionRisk?{}&signature={}",
-            self.papi_base_url, query, signature
-        );
-
-        let client = self.create_ipv4_client()?;
-        let response_papi = client
-            .get(&url_papi)
-            .header("X-MBX-APIKEY", &self.api_key)
-            .send()
-            .await;
-
-        // 如果统一账户成功，使用它的结果
-        if let Ok(resp) = response_papi {
-            if resp.status().is_success() {
-                if let Ok(body_text) = resp.text().await {
-                    let full_response: String = body_text.chars().take(5000).collect();
-                    info!("🔍 PAPI positionRisk 完整响应: {}", full_response);
-
-                    // 尝试解析数组格式
-                    if let Ok(positions) = serde_json::from_str::<Vec<PositionRisk>>(&body_text) {
-                        let active_positions: Vec<Position> = positions
-                            .into_iter()
-                            .filter(|p| p.positionAmt.parse::<f64>().unwrap_or(0.0).abs() > 0.0)
-                            .map(|p| {
-                                let amt = p.positionAmt.parse::<f64>().unwrap_or(0.0);
-                                Position {
-                                    symbol: p.symbol,
-                                    side: if amt > 0.0 {
-                                        "LONG".to_string()
-                                    } else {
-                                        "SHORT".to_string()
-                                    },
-                                    size: amt.abs(),
-                                    entry_price: p.entryPrice.parse().unwrap_or(0.0),
-                                    mark_price: p.markPrice.parse().unwrap_or(0.0),
-                                    pnl: p.unRealizedProfit.parse().unwrap_or(0.0),
-                                    leverage: p.leverage.parse().unwrap_or(1),
-                                    margin: 0.0,
-                                }
-                            })
-                            .collect();
-                        info!(
-                            "✅ PAPI持仓查询成功(数组格式): {} 个持仓",
-                            active_positions.len()
-                        );
-                        return Ok(active_positions);
-                    }
-
-                    // 尝试解析 map 格式 { symbol: {...} }
-                    if let Ok(positions_map) =
-                        serde_json::from_str::<HashMap<String, PositionRisk>>(&body_text)
-                    {
-                        let active_positions: Vec<Position> = positions_map
-                            .into_iter()
-                            .filter(|(_, p)| {
-                                p.positionAmt.parse::<f64>().unwrap_or(0.0).abs() > 0.0
-                            })
-                            .map(|(_, p)| {
-                                let amt = p.positionAmt.parse::<f64>().unwrap_or(0.0);
-                                Position {
-                                    symbol: p.symbol,
-                                    side: if amt > 0.0 {
-                                        "LONG".to_string()
-                                    } else {
-                                        "SHORT".to_string()
-                                    },
-                                    size: amt.abs(),
-                                    entry_price: p.entryPrice.parse().unwrap_or(0.0),
-                                    mark_price: p.markPrice.parse().unwrap_or(0.0),
-                                    pnl: p.unRealizedProfit.parse().unwrap_or(0.0),
-                                    leverage: p.leverage.parse().unwrap_or(1),
-                                    margin: 0.0,
-                                }
-                            })
-                            .collect();
-                        info!(
-                            "✅ PAPI持仓查询成功(map格式): {} 个持仓",
-                            active_positions.len()
-                        );
-                        return Ok(active_positions);
-                    }
-
-                    #[derive(Deserialize)]
-                    struct WrappedResponse {
-                        data: serde_json::Value,
-                    }
-
-                    if let Ok(wrapped) = serde_json::from_str::<WrappedResponse>(&body_text) {
-                        if let Ok(positions) =
-                            serde_json::from_value::<Vec<PositionRisk>>(wrapped.data.clone())
-                        {
-                            let active_positions: Vec<Position> = positions
-                                .into_iter()
-                                .filter(|p| p.positionAmt.parse::<f64>().unwrap_or(0.0).abs() > 0.0)
-                                .map(|p| {
-                                    let amt = p.positionAmt.parse::<f64>().unwrap_or(0.0);
-                                    Position {
-                                        symbol: p.symbol,
-                                        side: if amt > 0.0 {
-                                            "LONG".to_string()
-                                        } else {
-                                            "SHORT".to_string()
-                                        },
-                                        size: amt.abs(),
-                                        entry_price: p.entryPrice.parse().unwrap_or(0.0),
-                                        mark_price: p.markPrice.parse().unwrap_or(0.0),
-                                        pnl: p.unRealizedProfit.parse().unwrap_or(0.0),
-                                        leverage: p.leverage.parse().unwrap_or(1),
-                                        margin: 0.0,
-                                    }
-                                })
-                                .collect();
-                            info!(
-                                "✅ PAPI持仓查询成功(包装数组): {} 个持仓",
-                                active_positions.len()
-                            );
-                            return Ok(active_positions);
-                        }
-
-                        if let Ok(positions_map) =
-                            serde_json::from_value::<HashMap<String, PositionRisk>>(wrapped.data)
-                        {
-                            let active_positions: Vec<Position> = positions_map
-                                .into_iter()
-                                .filter(|(_, p)| {
-                                    p.positionAmt.parse::<f64>().unwrap_or(0.0).abs() > 0.0
-                                })
-                                .map(|(_, p)| {
-                                    let amt = p.positionAmt.parse::<f64>().unwrap_or(0.0);
-                                    Position {
-                                        symbol: p.symbol,
-                                        side: if amt > 0.0 {
-                                            "LONG".to_string()
-                                        } else {
-                                            "SHORT".to_string()
-                                        },
-                                        size: amt.abs(),
-                                        entry_price: p.entryPrice.parse().unwrap_or(0.0),
-                                        mark_price: p.markPrice.parse().unwrap_or(0.0),
-                                        pnl: p.unRealizedProfit.parse().unwrap_or(0.0),
-                                        leverage: p.leverage.parse().unwrap_or(1),
-                                        margin: 0.0,
-                                    }
-                                })
-                                .collect();
-                            info!(
-                                "✅ PAPI持仓查询成功(包装map): {} 个持仓",
-                                active_positions.len()
-                            );
-                            return Ok(active_positions);
-                        }
-                    }
-
-                    error!("❌ PAPI持仓数据格式无法识别,回退到FAPI");
-                    error!("响应前500字符: {}", &body_text[..body_text.len().min(500)]);
-                }
-            }
-        }
-
-        // 回退到普通合约端点
-        let url_fapi = format!(
+        let url = format!(
             "{}/fapi/v2/positionRisk?{}&signature={}",
             self.base_url, query, signature
         );
 
-        // 重新创建client因为前面的请求已经消费了
         let client = self.create_ipv4_client()?;
-        let positions: Vec<PositionRisk> = client
-            .get(&url_fapi)
+        let body = client
+            .get(&url)
             .header("X-MBX-APIKEY", &self.api_key)
             .send()
             .await?
-            .json()
+            .text()
             .await?;
+
+        let positions: Vec<PositionRisk> = serde_json::from_str(&body).map_err(|err| {
+            let preview: String = body.chars().take(500).collect();
+            error!("❌ 解析FAPI持仓失败: {} | 响应前500字符: {}", err, preview);
+            anyhow::anyhow!("解析FAPI持仓失败: {}", err)
+        })?;
 
         let active_positions: Vec<Position> = positions
             .into_iter()
@@ -1326,219 +1610,27 @@ impl ExchangeClient for BinanceClient {
     }
 
     async fn get_account_info(&self) -> Result<AccountInfo> {
-        let timestamp = chrono::Utc::now().timestamp_millis();
-        let query = format!("timestamp={}", timestamp);
-        let signature = self.sign_request(&query);
+        // 仅查询合约账户 (FAPI)，以便反映真实保证金权益
+        let futures_account = BinanceClient::get_account_info(self).await?;
 
-        let client = self.create_ipv4_client()?;
-        let mut total = 0.0;
-        let mut available = 0.0;
-        let mut pnl = 0.0;
-
-        // 1. 尝试统一账户端点 (papi) - 包含合约、现货等
-        let url_papi = format!(
-            "{}/papi/v1/balance?{}&signature={}",
-            self.papi_base_url, query, signature
-        );
-
-        let response = client
-            .get(&url_papi)
-            .header("X-MBX-APIKEY", &self.api_key)
-            .send()
-            .await?;
-
-        if response.status().is_success() {
-            let body = response.text().await?;
-
-            #[derive(Debug, Deserialize)]
-            #[allow(non_snake_case)]
-            struct UnifiedAsset {
-                asset: String,
-                totalWalletBalance: String,
-                umWalletBalance: String,
-                cmWalletBalance: String,
-                crossMarginAsset: String,
-                umUnrealizedPNL: String,
-            }
-
-            if let Ok(assets) = serde_json::from_str::<Vec<UnifiedAsset>>(&body) {
-                for asset in assets {
-                    let total_wallet = asset.totalWalletBalance.parse::<f64>().unwrap_or(0.0);
-                    let um_balance = asset.umWalletBalance.parse::<f64>().unwrap_or(0.0);
-                    let cm_balance = asset.cmWalletBalance.parse::<f64>().unwrap_or(0.0);
-                    let cross_margin = asset.crossMarginAsset.parse::<f64>().unwrap_or(0.0);
-
-                    if asset.asset == "USDT" || asset.asset == "USDC" {
-                        total += total_wallet;
-                        available += um_balance;
-                        pnl += asset.umUnrealizedPNL.parse::<f64>().unwrap_or(0.0);
-
-                        if um_balance > 0.01 {
-                            info!("Binance U本位合约: {:.2} {}", um_balance, asset.asset);
-                        }
-                        if cm_balance > 0.01 {
-                            info!("Binance 币本位合约: {:.2} {}", cm_balance, asset.asset);
-                        }
-                        if cross_margin > 0.01 {
-                            info!("Binance 杠杆账户: {:.2} {}", cross_margin, asset.asset);
-                        }
-                    }
-                }
-
-                // 2. 查询现货账户
-                let spot_query = format!("timestamp={}", chrono::Utc::now().timestamp_millis());
-                let spot_sig = self.sign_request(&spot_query);
-                let url_spot = format!(
-                    "https://api.binance.com/api/v3/account?{}&signature={}",
-                    spot_query, spot_sig
-                );
-
-                info!("查询 Binance 现货账户...");
-                if let Ok(spot_resp) = client
-                    .get(&url_spot)
-                    .header("X-MBX-APIKEY", &self.api_key)
-                    .send()
-                    .await
-                {
-                    if spot_resp.status().is_success() {
-                        if let Ok(spot_body) = spot_resp.text().await {
-                            #[derive(Debug, Deserialize)]
-                            struct SpotBalance {
-                                asset: String,
-                                free: String,
-                                locked: String,
-                            }
-                            #[derive(Debug, Deserialize)]
-                            struct SpotAccount {
-                                balances: Vec<SpotBalance>,
-                            }
-
-                            if let Ok(spot_account) =
-                                serde_json::from_str::<SpotAccount>(&spot_body)
-                            {
-                                for balance in spot_account.balances {
-                                    if balance.asset == "USDT" || balance.asset == "USDC" {
-                                        let free = balance.free.parse::<f64>().unwrap_or(0.0);
-                                        let locked = balance.locked.parse::<f64>().unwrap_or(0.0);
-                                        let spot_total = free + locked;
-
-                                        if spot_total > 0.0001 {
-                                            info!(
-                                                "Binance 现货账户 {}: {:.2}",
-                                                balance.asset, spot_total
-                                            );
-                                            total += spot_total;
-                                            available += free;
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-
-                // 3. 查询资金账户 (使用官方资金钱包API)
-                // POST /sapi/v1/asset/get-funding-asset
-                let fund_timestamp = chrono::Utc::now().timestamp_millis();
-                let fund_query = format!("timestamp={}", fund_timestamp);
-                let fund_sig = self.sign_request(&fund_query);
-                let url_fund = format!(
-                    "https://api.binance.com/sapi/v1/asset/get-funding-asset?{}&signature={}",
-                    fund_query, fund_sig
-                );
-
-                info!("🔍 查询 Binance 资金账户（Funding Wallet）...");
-                if let Ok(fund_resp) = client
-                    .post(&url_fund)
-                    .header("X-MBX-APIKEY", &self.api_key)
-                    .send()
-                    .await
-                {
-                    let status = fund_resp.status();
-                    if status.is_success() {
-                        if let Ok(fund_body) = fund_resp.text().await {
-                            #[derive(Debug, Deserialize)]
-                            #[allow(non_snake_case)]
-                            struct FundingAsset {
-                                asset: String,
-                                free: String,
-                                locked: String,
-                                freeze: String,
-                                withdrawing: String,
-                                btcValuation: String,
-                            }
-
-                            if let Ok(funding_assets) =
-                                serde_json::from_str::<Vec<FundingAsset>>(&fund_body)
-                            {
-                                for asset in funding_assets {
-                                    let free = asset.free.parse::<f64>().unwrap_or(0.0);
-                                    let locked = asset.locked.parse::<f64>().unwrap_or(0.0);
-                                    let freeze = asset.freeze.parse::<f64>().unwrap_or(0.0);
-                                    let fund_total = free + locked + freeze;
-
-                                    if fund_total > 0.00001 {
-                                        // 统计 USDT 和 USDC
-                                        if asset.asset == "USDT" || asset.asset == "USDC" {
-                                            info!(
-                                                "Binance 资金账户 {}: {:.2}",
-                                                asset.asset, fund_total
-                                            );
-                                            total += fund_total;
-                                            available += free;
-                                        }
-                                    }
-                                }
-                            } else {
-                                warn!("❌ 解析资金账户响应失败");
-                            }
-                        }
-                    } else {
-                        warn!("⚠️ 资金账户 API 返回错误: {} ({})", status, status.as_u16());
-                        if let Ok(error_body) = fund_resp.text().await {
-                            warn!("错误详情: {}", &error_body[..error_body.len().min(200)]);
-                        }
-                    }
-                } else {
-                    warn!("⚠️ 资金账户 API 请求失败");
-                }
-
-                return Ok(AccountInfo {
-                    total_balance: total,
-                    available_balance: available,
-                    unrealized_pnl: pnl,
-                    margin_used: total - available,
-                });
-            }
-        }
-
-        // 如果统一账户失败，尝试普通合约端点 (fapi)
-        let url_fapi = format!(
-            "{}/fapi/v2/account?{}&signature={}",
-            self.base_url, query, signature
-        );
-
-        let response_fapi = client
-            .get(&url_fapi)
-            .header("X-MBX-APIKEY", &self.api_key)
-            .send()
-            .await?;
-
-        let status_fapi = response_fapi.status();
-        let body_fapi = response_fapi.text().await?;
-
-        if !status_fapi.is_success() {
-            error!("Binance 获取账户信息失败: {}", body_fapi);
-            return Err(anyhow::anyhow!("Binance API错误: {}", body_fapi));
-        }
-
-        let account: AccountInformation = serde_json::from_str(&body_fapi)?;
+        let total = futures_account
+            .totalMarginBalance
+            .parse::<f64>()
+            .unwrap_or(0.0);
+        let available = futures_account
+            .availableBalance
+            .parse::<f64>()
+            .unwrap_or(0.0);
+        let pnl = futures_account
+            .totalUnrealizedProfit
+            .parse::<f64>()
+            .unwrap_or(0.0);
 
         Ok(AccountInfo {
-            total_balance: account.totalWalletBalance.parse().unwrap_or(0.0),
-            available_balance: account.availableBalance.parse().unwrap_or(0.0),
-            unrealized_pnl: account.totalUnrealizedProfit.parse().unwrap_or(0.0),
-            margin_used: 0.0,
+            total_balance: total,
+            available_balance: available,
+            unrealized_pnl: pnl,
+            margin_used: total - available,
         })
     }
 
@@ -1622,7 +1714,7 @@ impl ExchangeClient for BinanceClient {
         let limit_price = current_price * 1.001; // 限价稍高以提高成交概率
 
         let order_id = self
-            .limit_order(symbol, quantity, "BUY", limit_price, Some("LONG"))
+            .limit_order(symbol, quantity, "BUY", limit_price, Some("LONG"), false)
             .await?;
 
         info!(
@@ -1655,7 +1747,7 @@ impl ExchangeClient for BinanceClient {
         let limit_price = current_price * 0.999; // 限价稍低以提高成交概率
 
         let order_id = self
-            .limit_order(symbol, quantity, "SELL", limit_price, Some("SHORT"))
+            .limit_order(symbol, quantity, "SELL", limit_price, Some("SHORT"), false)
             .await?;
 
         info!(
@@ -1721,12 +1813,15 @@ impl ExchangeClient for BinanceClient {
             .iter()
             .map(|k| {
                 vec![
-                    k[0].as_i64().unwrap_or(0) as f64,                   // timestamp
-                    k[1].as_str().unwrap_or("0").parse().unwrap_or(0.0), // open
-                    k[2].as_str().unwrap_or("0").parse().unwrap_or(0.0), // high
-                    k[3].as_str().unwrap_or("0").parse().unwrap_or(0.0), // low
-                    k[4].as_str().unwrap_or("0").parse().unwrap_or(0.0), // close
-                    k[5].as_str().unwrap_or("0").parse().unwrap_or(0.0), // volume
+                    k[0].as_i64().unwrap_or(0) as f64,                    // timestamp
+                    k[1].as_str().unwrap_or("0").parse().unwrap_or(0.0),  // open
+                    k[2].as_str().unwrap_or("0").parse().unwrap_or(0.0),  // high
+                    k[3].as_str().unwrap_or("0").parse().unwrap_or(0.0),  // low
+                    k[4].as_str().unwrap_or("0").parse().unwrap_or(0.0),  // close
+                    k[5].as_str().unwrap_or("0").parse().unwrap_or(0.0),  // volume
+                    k[7].as_str().unwrap_or("0").parse().unwrap_or(0.0),  // quote_volume (成交额)
+                    k[9].as_str().unwrap_or("0").parse().unwrap_or(0.0), // taker_buy_volume (主动买入量)
+                    k[10].as_str().unwrap_or("0").parse().unwrap_or(0.0), // taker_buy_quote_volume (净流入)
                 ]
             })
             .collect();

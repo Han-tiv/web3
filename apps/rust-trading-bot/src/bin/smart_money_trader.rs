@@ -218,13 +218,19 @@ async fn get_klines<T: ExchangeClient>(exchange: &Arc<T>, symbol: &str) -> Resul
 
     let klines: Vec<Kline> = ohlcv
         .iter()
-        .map(|candle| Kline {
-            timestamp: candle[0] as i64,
-            open: candle[1],
-            high: candle[2],
-            low: candle[3],
-            close: candle[4],
-            volume: candle[5],
+        .map(|candle| {
+            let get = |idx: usize| -> f64 { candle.get(idx).copied().unwrap_or(0.0) };
+            Kline {
+                timestamp: get(0) as i64,
+                open: get(1),
+                high: get(2),
+                low: get(3),
+                close: get(4),
+                volume: get(5),
+                quote_volume: get(6),
+                taker_buy_volume: get(7),
+                taker_buy_quote_volume: get(8),
+            }
         })
         .collect();
 

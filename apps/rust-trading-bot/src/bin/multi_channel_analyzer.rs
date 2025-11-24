@@ -1,6 +1,6 @@
 use anyhow::Result;
 use dotenv::dotenv;
-use grammers_client::{types::Message, Client, Config, InitParams};
+use grammers_client::{Client, Config, InitParams};
 use grammers_session::Session;
 use std::collections::HashMap;
 use std::env;
@@ -71,7 +71,6 @@ async fn main() -> Result<()> {
     // 连接到 Telegram
     let api_id = env::var("TELEGRAM_API_ID")?.parse::<i32>()?;
     let api_hash = env::var("TELEGRAM_API_HASH")?;
-    let phone = env::var("TELEGRAM_PHONE")?;
 
     println!("🔄 连接到 Telegram...");
 
@@ -120,8 +119,8 @@ async fn main() -> Result<()> {
 async fn analyze_channel(client: &Client, config: &ChannelConfig) -> Result<()> {
     // 获取频道实体
     let channel = match client.resolve_username(&config.id.to_string()).await {
-        Ok(chat) => chat,
-        Err(_) => {
+        Ok(Some(chat)) => chat,
+        Ok(None) | Err(_) => {
             // 如果用户名解析失败，尝试通过对话列表查找
             println!("🔍 通过 ID 查找频道...");
             let mut found = None;
@@ -164,10 +163,26 @@ async fn analyze_channel(client: &Client, config: &ChannelConfig) -> Result<()> 
         if let Some(sender) = message.sender() {
             let user_id = sender.id();
             let username = match sender {
-                grammers_client::types::Chat::User(user) => user
-                    .username()
-                    .unwrap_or(&user.first_name().unwrap_or("Unknown"))
-                    .to_string(),
+                grammers_client::types::Chat::User(user) => {
+                    if let Some(uname) = user.username() {
+                        uname.to_string()
+                    } else {
+                        let mut display = user.first_name().trim().to_string();
+                        if let Some(last_name) = user.last_name() {
+                            if !last_name.trim().is_empty() {
+                                if !display.is_empty() {
+                                    display.push(' ');
+                                }
+                                display.push_str(last_name.trim());
+                            }
+                        }
+                        if display.trim().is_empty() {
+                            "Unknown".to_string()
+                        } else {
+                            display
+                        }
+                    }
+                }
                 grammers_client::types::Chat::Channel(ch) => ch.title().to_string(),
                 grammers_client::types::Chat::Group(g) => g.title().to_string(),
             };

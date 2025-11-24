@@ -1,5 +1,5 @@
 use anyhow::Result;
-use chrono::{DateTime, Utc};
+use chrono::Utc;
 use dotenv::dotenv;
 use grammers_client::{Client, Config, InitParams};
 use grammers_session::Session;
@@ -232,8 +232,16 @@ async fn analyze_channel_messages(
             let (username, display_name) = match sender {
                 grammers_client::types::Chat::User(user) => {
                     let uname = user.username().unwrap_or("").to_string();
-                    let dname = user.first_name().unwrap_or("Unknown").to_string();
-                    (uname, dname)
+                    let mut display_name = user.first_name().trim().to_string();
+                    if let Some(last_name) = user.last_name() {
+                        if !last_name.trim().is_empty() {
+                            display_name = format!("{} {}", display_name, last_name.trim());
+                        }
+                    }
+                    if display_name.trim().is_empty() {
+                        display_name = user.username().unwrap_or("Unknown").to_string();
+                    }
+                    (uname, display_name)
                 }
                 grammers_client::types::Chat::Channel(ch) => {
                     let title = ch.title().to_string();

@@ -287,6 +287,9 @@ impl AiDecisionEngine {
                 low: k[3],
                 close: k[4],
                 volume: k[5],
+                quote_volume: if k.len() > 6 { k[6] } else { 0.0 },
+                taker_buy_volume: if k.len() > 7 { k[7] } else { 0.0 },
+                taker_buy_quote_volume: if k.len() > 8 { k[8] } else { 0.0 },
             })
             .collect();
 

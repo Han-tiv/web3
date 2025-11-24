@@ -75,6 +75,10 @@ path = "src/bin/debug_unified.rs"
 name = "test_parser"
 path = "test_parser.rs"
 
+[[bin]]
+name = "gemini_eth_analyzer"
+path = "src/bin/gemini_eth_analyzer.rs"
+
 [dependencies]
 # Telegram Bot
 teloxide = { version = "0.12", features = ["macros", "auto-send"] }
@@ -125,13 +129,18 @@ anyhow = "1.0"
 thiserror = "1.0"
 
 # 数据库
-sqlx = { version = "0.7", features = ["runtime-tokio-native-tls", "sqlite"] }
+rusqlite = { version = "0.32", features = ["bundled"] }
 
 # 时间处理
 chrono = { version = "0.4", features = ["serde"] }
 
 # WebSocket
 tungstenite = "0.21"
+
+# Web服务器
+axum = "0.7"
+tower = "0.5"
+tower-http = { version = "0.6", features = ["cors", "trace", "fs"] }
 
 [profile.release]
 opt-level = 3

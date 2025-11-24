@@ -359,6 +359,7 @@ impl ExchangeClient for OkxClient {
             quantity_precision: 3,
             price_precision: 2,
             tick_size: 0.0001, // OKX 默认最小价格跳动
+            min_notional: None,
         };
 
         {
