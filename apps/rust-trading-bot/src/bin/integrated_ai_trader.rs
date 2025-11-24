@@ -1818,6 +1818,12 @@ impl IntegratedAITrader {
                                 confidence: confidence_value,
                                 signal_type: Some(signal_type.to_string()),
                                 reason: ai_decision.reason.clone(),
+                                valuescan_score: None,
+                                risk_reward_ratio: None,
+                                entry_price: None,
+                                stop_loss: None,
+                                resistance: None,
+                                support: None,
                             };
 
                             if let Err(e) = self.db.insert_ai_analysis(&ai_record) {
@@ -2597,6 +2603,12 @@ impl IntegratedAITrader {
             confidence: confidence_value,
             signal_type: Some(signal_type.to_string()),
             reason: ai_decision.reason.clone(),
+            valuescan_score: None,
+            risk_reward_ratio: None,
+            entry_price: None,
+            stop_loss: None,
+            resistance: None,
+            support: None,
         };
 
         if let Err(e) = self.db.insert_ai_analysis(&ai_record) {
@@ -3784,6 +3796,12 @@ impl IntegratedAITrader {
             use_valuescan_v2
         );
 
+        // 保存V2扩展数据用于数据库记录
+        let mut v2_score: Option<f64> = None;
+        let mut v2_risk_reward: Option<f64> = None;
+        let mut v2_resistance: Option<f64> = None;
+        let mut v2_support: Option<f64> = None;
+
         let ai_signal: TradingSignal = if use_valuescan_v2 {
             let prompt = self.gemini.build_entry_analysis_prompt_v2(
                 &symbol,
@@ -3840,6 +3858,12 @@ impl IntegratedAITrader {
                 );
                 return Ok(());
             }
+
+            // 保存V2数据
+            v2_score = Some(ai_signal_v2.valuescan_score);
+            v2_risk_reward = Some(ai_signal_v2.risk_reward_ratio);
+            v2_resistance = Some(ai_signal_v2.key_levels.resistance);
+            v2_support = Some(ai_signal_v2.key_levels.support);
 
             ai_signal_v2.into()
         } else {
@@ -3906,6 +3930,12 @@ impl IntegratedAITrader {
             confidence: confidence_value,
             signal_type: Some(signal_type.to_string()),
             reason: ai_signal.reason.clone(),
+            valuescan_score: v2_score,
+            risk_reward_ratio: v2_risk_reward,
+            entry_price: Some(entry_price_value),
+            stop_loss: Some(stop_loss_value),
+            resistance: v2_resistance,
+            support: v2_support,
         };
 
         if let Err(e) = self.db.insert_ai_analysis(&ai_record) {
