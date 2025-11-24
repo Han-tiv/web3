@@ -1709,6 +1709,23 @@ impl IntegratedAITrader {
                     continue; // 跳过AI评估
                 }
 
+                // 【P1-2】快速止损 - 持仓>30分钟且亏损>3%时触发 (加快风控响应)
+                if duration >= 0.5 && profit_pct < -3.0 {
+                    warn!(
+                        "🚨 {} 快速止损触发: {}分钟亏损{:+.2}%, 执行全仓止损",
+                        symbol,
+                        (duration * 60.0) as i32,
+                        profit_pct
+                    );
+                    actions_to_execute.push(PositionAction::FullClose {
+                        symbol,
+                        side,
+                        quantity,
+                        reason: format!("quick_stop_loss_-3pct_{}min", (duration * 60.0) as i32),
+                    });
+                    continue; // 跳过后续处理,直接执行止损
+                }
+
                 // 【极端止损】持仓亏损超过-5%强制平仓 (保护本金)
                 if profit_pct < -5.0 {
                     warn!(
@@ -3814,6 +3831,15 @@ impl IntegratedAITrader {
                 ai_signal_v2.key_levels.support,
                 ai_signal_v2.key_levels.current_position
             );
+
+            // 【P1-3】提高Valuescan V2评分阈值,过滤低质量信号
+            if ai_signal_v2.valuescan_score < 6.5 {
+                info!(
+                    "⏸️ Valuescan V2评分{:.1}不足6.5阈值, 跳过本次交易",
+                    ai_signal_v2.valuescan_score
+                );
+                return Ok(());
+            }
 
             ai_signal_v2.into()
         } else {
