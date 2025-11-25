@@ -124,27 +124,46 @@ impl GeminiClient {
         }
     }
 
-    /// 清洗 Gemini 返回的 JSON，去除 markdown 包裹
+    /// 清洗 Gemini 返回的 JSON，去除 markdown 包裹，提取嵌入在文本中的 JSON
     fn clean_json_content(content: &str) -> String {
         let trimmed = content.trim();
 
-        let cleaned_slice = if trimmed.starts_with("```json") {
-            trimmed
+        // 1. 处理 ```json ... ``` 格式
+        if trimmed.starts_with("```json") {
+            if let Some(json_content) = trimmed
                 .strip_prefix("```json")
                 .and_then(|s| s.strip_suffix("```"))
-                .map(|s| s.trim())
-                .unwrap_or(trimmed)
-        } else if trimmed.starts_with("```") {
-            trimmed
+            {
+                return json_content.trim().to_string();
+            }
+        }
+
+        // 2. 处理 ``` ... ``` 格式
+        if trimmed.starts_with("```") {
+            if let Some(json_content) = trimmed
                 .strip_prefix("```")
                 .and_then(|s| s.strip_suffix("```"))
-                .map(|s| s.trim())
-                .unwrap_or(trimmed)
-        } else {
-            trimmed
-        };
+            {
+                return json_content.trim().to_string();
+            }
+        }
 
-        cleaned_slice.to_string()
+        // 3. 尝试从文本中提取 JSON（处理 Gemini 返回纯文本+JSON 的情况）
+        // 查找第一个 { 和最后一个 }
+        if let (Some(start), Some(end)) = (trimmed.find('{'), trimmed.rfind('}')) {
+            if start < end {
+                let json_candidate = &trimmed[start..=end];
+                // 验证是否是有效的 JSON 结构（简单检查括号配对）
+                let open_braces = json_candidate.matches('{').count();
+                let close_braces = json_candidate.matches('}').count();
+                if open_braces == close_braces && open_braces > 0 {
+                    return json_candidate.to_string();
+                }
+            }
+        }
+
+        // 4. 如果以上都失败，返回原始内容
+        trimmed.to_string()
     }
 
     /// 分析市场并生成交易信号
@@ -468,7 +487,6 @@ impl GeminiClient {
         symbol: &str,
         alert_type: &str,
         alert_message: &str,
-        change_24h: f64,
         fund_type: &str,
         zone_1h_summary: &str,
         zone_15m_summary: &str,
@@ -502,7 +520,6 @@ impl GeminiClient {
 
 - 币种: {}
 - 信号类型: {} (资金流入=买入机会, 资金出逃=卖出信号)
-- 24H涨跌: {:+.2}%
 - 资金类型: {}
 - 原始消息: {}
 
@@ -611,7 +628,6 @@ impl GeminiClient {
 "#,
             symbol,
             alert_type,
-            change_24h,
             fund_type,
             alert_message,
             kline_5m_text,
@@ -920,7 +936,6 @@ MACD Signal: {:.4}
         symbol: &str,
         alert_type: &str,
         alert_message: &str,
-        change_24h: f64,
         fund_type: &str,
         zone_1h_summary: &str,
         zone_15m_summary: &str,
@@ -944,12 +959,11 @@ MACD Signal: {:.4}
 
 - 币种: {}
 - 信号类型: {} (资金流入=买入机会, 资金出逃=卖出信号)
-- 24H涨跌: {:+.2}%
 - 资金类型: {}
 - 原始消息: {}
 
 **资金流向评分**:
-- 24h资金净流入>0: +3分(强流入)
+- 资金净流入>0: +3分(强流入)
 - 大单买入>55%: +2分
 - 买盘主动成交>卖盘: +1分
 - 主力持仓增加: +1分
@@ -1117,7 +1131,6 @@ MACD Signal: {:.4}
 "#,
             symbol,
             alert_type,
-            change_24h,
             fund_type,
             alert_message,
             kline_5m_text,

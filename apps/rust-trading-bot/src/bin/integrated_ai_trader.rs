@@ -10,8 +10,6 @@
 use anyhow::Result;
 use chrono::{DateTime, Duration, Utc};
 use dotenv::dotenv;
-use grammers_client::{Client, Config, Update};
-use grammers_session::Session;
 use lazy_static::lazy_static;
 use log::{debug, error, info, warn};
 use regex::Regex;
@@ -22,7 +20,7 @@ use std::sync::Arc;
 use std::time::{Duration as StdDuration, Instant};
 use tokio::sync::{Mutex, RwLock};
 
-const POSITION_CHECK_INTERVAL_SECS: u64 = 180;  // P1优化: 从600s(10分钟)减少到180s(3分钟),提升风控响应速度
+const POSITION_CHECK_INTERVAL_SECS: u64 = 180; // P1优化: 从600s(10分钟)减少到180s(3分钟),提升风控响应速度
 #[allow(dead_code)] // 后续用于切换增强版持仓分析逻辑
 const USE_ENHANCED_ANALYSIS: bool = false;
 lazy_static! {
@@ -238,7 +236,6 @@ impl SignalHistory {
 }
 
 struct IntegratedAITrader {
-    telegram_client: Arc<Client>,
     exchange: Arc<BinanceClient>,
     deepseek: Arc<DeepSeekClient>,
     gemini: Arc<GeminiClient>,
@@ -251,8 +248,6 @@ struct IntegratedAITrader {
     launch_detector: Arc<LaunchSignalDetector>,
     staged_manager: Arc<RwLock<StagedPositionManager>>,
 
-    // 配置
-    fund_channel_id: i64,
     #[allow(dead_code)] // 保留供未来Alpha/FOMO分类使用
     alpha_keywords: Vec<String>,
     #[allow(dead_code)] // 保留供未来Alpha/FOMO分类使用
@@ -275,23 +270,18 @@ struct IntegratedAITrader {
     last_analysis_time: Arc<RwLock<HashMap<String, DateTime<Utc>>>>, // 【优化1】信号去重
     volatility_cache: Arc<RwLock<HashMap<String, VolatilityCacheEntry>>>,
     active_trigger_orders: Arc<Mutex<Vec<TriggerOrderRecord>>>,
-    // Telegram连接健康监控
-    telegram_error_count: Arc<RwLock<u32>>,
-    last_successful_message: Arc<RwLock<Instant>>,
     pending_entries: Arc<RwLock<HashMap<String, PendingEntry>>>, // 延迟开仓队列
     db: Database,                                                // 直接写入数据库
 }
 
 impl IntegratedAITrader {
     async fn new(
-        telegram_client: Client,
         exchange: BinanceClient,
         deepseek_api_key: String,
         gemini_api_key: String,
         db: Database,
     ) -> Self {
         Self {
-            telegram_client: Arc::new(telegram_client),
             exchange: Arc::new(exchange),
             deepseek: Arc::new(DeepSeekClient::new(deepseek_api_key)),
             gemini: Arc::new(GeminiClient::new(gemini_api_key)),
@@ -303,7 +293,6 @@ impl IntegratedAITrader {
             launch_detector: Arc::new(LaunchSignalDetector::default()),
             staged_manager: Arc::new(RwLock::new(StagedPositionManager::default())),
 
-            fund_channel_id: 2254462672_i64, // Valuescan
             alpha_keywords: vec![
                 "alpha".to_string(),
                 "新币".to_string(),
@@ -337,8 +326,6 @@ impl IntegratedAITrader {
             volatility_cache: Arc::new(RwLock::new(HashMap::new())),
             active_trigger_orders: Arc::new(Mutex::new(Vec::new())),
             pending_entries: Arc::new(RwLock::new(HashMap::new())),
-            telegram_error_count: Arc::new(RwLock::new(0)),
-            last_successful_message: Arc::new(RwLock::new(Instant::now())),
             db,
         }
     }
@@ -583,85 +570,142 @@ impl IntegratedAITrader {
 
     /// 处理新消息 - 所有信号(包括出逃)都送给AI判断
     async fn handle_message(&self, text: &str) -> Result<()> {
-        // 解析资金异动
-        if let Some(mut alert) = self.parse_fund_alert(text) {
-            // 更新分类
-            self.classify_alert(&mut alert);
-
-            let signal_desc = match alert.alert_type {
-                AlertType::FundEscape => "⚠️  主力出逃",
-                _ => "📊 资金流入",
-            };
-
-            info!("\n{}: {} 💰", signal_desc, alert.coin);
-            info!(
-                "   价格: ${:.4} | 24H: {:+.2}% | 类型: {}",
-                alert.price, alert.change_24h, alert.fund_type
-            );
-
-            // ===== 新增: 保存Telegram信号到数据库 =====
-            let symbol = format!("{}USDT", alert.coin);
-            let analyzer = SignalAnalyzer::new();
-            if let Some(signal) = analyzer.analyze_message(symbol.clone(), text) {
-                info!(
-                    "📡 Telegram信号: {} 评分:{} 类型:{}",
-                    signal.symbol, signal.score, signal.signal_type
-                );
-
-                let _ = self.db.insert_telegram_signal(
-                    &signal.symbol,
-                    &signal.signal_type,
-                    signal.score,
-                    &signal.keywords.join(", "),
-                    &signal.recommend_action,
-                    &signal.reason,
-                    &signal.raw_message,
-                    &signal.timestamp.to_rfc3339(),
-                );
-            }
-            // =============================================
-
-            // 先清理过期数据
-            self.cleanup_tracked_coins().await;
-
-            // 保存到跟踪列表
-            let mut coins = self.tracked_coins.write().await;
-            coins.insert(alert.coin.clone(), alert.clone());
-            drop(coins);
-
-            // 价格过滤：仅交易特定关键词币种，价格>=1000直接跳过
-            let is_special_coin = alert.raw_message.contains("币安")
-                || alert.raw_message.contains("Alpha")
-                || alert.raw_message.contains("FOMO")
-                || alert.raw_message.contains("出逃")
-                || alert.raw_message.contains("异动");
-
-            if !is_special_coin {
-                info!(
-                    "⏭️ 跳过普通币种: {} (当前只交易:币安/Alpha/FOMO/出逃/异动)",
-                    alert.coin
-                );
-                return Ok(());
-            }
-
-            if alert.price >= 1000.0 {
-                info!(
-                    "⏭️ 跳过高价币种: {} (${:.2}), 价格>=1000",
-                    alert.coin, alert.price
-                );
-                return Ok(());
-            }
-
-            info!(
-                "✅ 特殊币种: {} (${:.2}), 允许交易（价格<1000）",
-                alert.coin, alert.price
-            );
-
-            // 触发AI分析(包括出逃信号)
-            self.analyze_and_trade(alert).await?;
+        if let Some(alert) = self.parse_fund_alert(text) {
+            self.handle_incoming_alert(alert, text, true).await?;
         }
+        Ok(())
+    }
+
+    /// 处理来自 Web API 的 Valuescan 信号
+    pub async fn handle_valuescan_message(
+        &self,
+        symbol: &str,
+        message_text: &str,
+        score: i32,
+        signal_type: &str,
+    ) -> Result<()> {
+        info!(
+            "📥 处理Web信号: {} | 类型:{} | 评分:{}",
+            symbol, signal_type, score
+        );
+
+        let coin = symbol.trim_end_matches("USDT").to_string();
+
+        // ✅ Bug Fix #2: 获取实时价格填充alert.price
+        let current_price = match self.exchange.get_current_price(symbol).await {
+            Ok(price) => price,
+            Err(e) => {
+                warn!("⚠️ 获取{}当前价格失败: {}, 跳过信号", symbol, e);
+                return Ok(());
+            }
+        };
+
+        let alert = FundAlert {
+            coin: coin.clone(),
+            alert_type: AlertType::FundInflow,
+            price: current_price,  // ✅ 使用实时价格
+            change_24h: 0.0,
+            fund_type: signal_type.to_string(),
+            timestamp: chrono::Utc::now(),
+            raw_message: message_text.to_string(),
+        };
+
+        info!(
+            "✅ Using Python parsed data: {} | coin:{} | type:{} | price:${:.4}",
+            symbol, coin, signal_type, current_price
+        );
+
+        self.handle_incoming_alert(alert, message_text, false)
+            .await?;
 
         Ok(())
+    }
+
+    async fn handle_incoming_alert(
+        &self,
+        mut alert: FundAlert,
+        raw_message: &str,
+        persist_signal: bool,
+    ) -> Result<()> {
+        self.classify_alert(&mut alert);
+
+        if persist_signal {
+            self.persist_telegram_signal(&alert, raw_message);
+        }
+
+        self.process_classified_alert(alert).await
+    }
+
+    fn persist_telegram_signal(&self, alert: &FundAlert, raw_message: &str) {
+        let symbol = format!("{}USDT", alert.coin);
+        let analyzer = SignalAnalyzer::new();
+        if let Some(signal) = analyzer.analyze_message(symbol, raw_message) {
+            info!(
+                "📡 Telegram信号: {} 评分:{} 类型:{}",
+                signal.symbol, signal.score, signal.signal_type
+            );
+
+            if let Err(err) = self.db.insert_telegram_signal(
+                &signal.symbol,
+                &signal.signal_type,
+                signal.score,
+                &signal.keywords.join(", "),
+                &signal.recommend_action,
+                &signal.reason,
+                &signal.raw_message,
+                &signal.timestamp.to_rfc3339(),
+            ) {
+                warn!("⚠️  保存Telegram信号失败: {}", err);
+            }
+        }
+    }
+
+    async fn process_classified_alert(&self, alert: FundAlert) -> Result<()> {
+        let signal_desc = match alert.alert_type {
+            AlertType::FundEscape => "⚠️  主力出逃",
+            _ => "📊 资金流入",
+        };
+
+        info!("\n{}: {} 💰", signal_desc, alert.coin);
+        info!(
+            "   价格: ${:.4} | 类型: {}",
+            alert.price, alert.fund_type
+        );
+
+        self.cleanup_tracked_coins().await;
+
+        let mut coins = self.tracked_coins.write().await;
+        coins.insert(alert.coin.clone(), alert.clone());
+        drop(coins);
+
+        let is_special_coin = alert.raw_message.contains("币安")
+            || alert.raw_message.contains("Alpha")
+            || alert.raw_message.contains("FOMO")
+            || alert.raw_message.contains("出逃")
+            || alert.raw_message.contains("异动");
+
+        if !is_special_coin {
+            info!(
+                "⏭️ 跳过普通币种: {} (当前只交易:币安/Alpha/FOMO/出逃/异动)",
+                alert.coin
+            );
+            return Ok(());
+        }
+
+        if alert.price >= 1000.0 {
+            info!(
+                "⏭️ 跳过高价币种: {} (${:.2}), 价格>=1000",
+                alert.coin, alert.price
+            );
+            return Ok(());
+        }
+
+        info!(
+            "✅ 特殊币种: {} (${:.2}), 允许交易（价格<1000）",
+            alert.coin, alert.price
+        );
+
+        self.analyze_and_trade(alert).await
     }
 
     /// 检查是否应该因频繁交易而跳过执行
@@ -1021,15 +1065,55 @@ impl IntegratedAITrader {
                         warn!("⚠️  计算得到的平仓数量过小, 跳过本次部分平仓");
                         None
                     } else {
-                        Some(PositionAction::PartialClose {
-                            symbol: symbol.to_string(),
-                            side: side.to_string(),
-                            close_quantity,
-                            close_pct,
-                            entry_price,
-                            remaining_quantity,
-                            stop_loss_order_id,
-                        })
+                        // ✅ Bug Fix #4: 检查部分平仓金额是否满足 Binance MIN_NOTIONAL ($20)
+                        const MIN_NOTIONAL: f64 = 20.0;
+                        // 使用 entry_price 作为价格参考(更稳妥,避免获取当前价失败)
+                        let notional = close_quantity * entry_price;
+
+                        if notional < MIN_NOTIONAL {
+                            // 计算满足最小金额所需的数量
+                            let min_close_qty = MIN_NOTIONAL / entry_price;
+
+                            if quantity >= min_close_qty {
+                                // 持仓足够,调整为最小平仓数量
+                                warn!(
+                                    "⚠️ {} 部分平仓金额 ${:.2} < ${:.0}, 调整为最小平仓数量 {:.6}",
+                                    symbol, notional, MIN_NOTIONAL, min_close_qty
+                                );
+                                let adjusted_remaining = (quantity - min_close_qty).max(0.0);
+                                Some(PositionAction::PartialClose {
+                                    symbol: symbol.to_string(),
+                                    side: side.to_string(),
+                                    close_quantity: min_close_qty,
+                                    close_pct: (min_close_qty / quantity) * 100.0,
+                                    entry_price,
+                                    remaining_quantity: adjusted_remaining,
+                                    stop_loss_order_id,
+                                })
+                            } else {
+                                // 持仓不足以满足最小金额,转为全部平仓
+                                warn!(
+                                    "⚠️ {} 部分平仓金额 ${:.2} < ${:.0}, 且总持仓不足, 转为全部平仓",
+                                    symbol, notional, MIN_NOTIONAL
+                                );
+                                Some(PositionAction::FullClose {
+                                    symbol: symbol.to_string(),
+                                    side: side.to_string(),
+                                    quantity,
+                                    reason: "min_notional_full_close".to_string(),
+                                })
+                            }
+                        } else {
+                            Some(PositionAction::PartialClose {
+                                symbol: symbol.to_string(),
+                                side: side.to_string(),
+                                close_quantity,
+                                close_pct,
+                                entry_price,
+                                remaining_quantity,
+                                stop_loss_order_id,
+                            })
+                        }
                     }
                 } else {
                     warn!("⚠️  AI 建议部分平仓但未提供百分比,保持持仓");
@@ -2076,37 +2160,6 @@ impl IntegratedAITrader {
         }
     }
 
-    /// Telegram连接健康监控 - 检测长时间无消息并预警
-    async fn monitor_telegram_health(self: Arc<Self>) {
-        info!("🔍 Telegram健康监控线程已启动");
-
-        loop {
-            tokio::time::sleep(tokio::time::Duration::from_secs(300)).await;
-
-            let last_msg = {
-                let guard = self.last_successful_message.read().await;
-                *guard
-            };
-
-            let error_count = {
-                let guard = self.telegram_error_count.read().await;
-                *guard
-            };
-
-            let elapsed = last_msg.elapsed().as_secs();
-
-            if elapsed > 600 && error_count > 0 {
-                warn!("⚠️  Telegram健康检查:");
-                warn!("   上次成功消息: {} 秒前", elapsed);
-                warn!("   当前错误计数: {}", error_count);
-
-                if error_count >= 120 {
-                    error!("🚨 Telegram断线超过10分钟，强烈建议重启！");
-                }
-            }
-        }
-    }
-
     /// 定时重新分析延迟开仓队列 - 每10分钟检查是否有合适的入场机会
     async fn reanalyze_pending_entries(self: Arc<Self>) {
         info!("🔄 延迟开仓队列重新分析线程已启动");
@@ -2378,6 +2431,42 @@ impl IntegratedAITrader {
                 let close_quantity = (quantity * (close_pct / 100.0)).clamp(0.0, quantity);
                 let remaining_quantity = (quantity - close_quantity).max(0.0);
 
+                // ✅ Bug Fix #4: 检查部分平仓金额是否满足 Binance MIN_NOTIONAL ($20)
+                const MIN_NOTIONAL: f64 = 20.0;
+                let notional = close_quantity * entry_price;
+
+                if notional < MIN_NOTIONAL {
+                    let min_close_qty = MIN_NOTIONAL / entry_price;
+
+                    if quantity >= min_close_qty {
+                        warn!(
+                            "⚠️ {} Valuescan P0-1 部分平仓金额 ${:.2} < ${:.0}, 调整为最小平仓数量 {:.6}",
+                            symbol, notional, MIN_NOTIONAL, min_close_qty
+                        );
+                        let adjusted_remaining = (quantity - min_close_qty).max(0.0);
+                        return Ok(Some(PositionAction::PartialClose {
+                            symbol: symbol.to_string(),
+                            side: side.to_string(),
+                            close_quantity: min_close_qty,
+                            close_pct: (min_close_qty / quantity) * 100.0,
+                            entry_price,
+                            remaining_quantity: adjusted_remaining,
+                            stop_loss_order_id,
+                        }));
+                    } else {
+                        warn!(
+                            "⚠️ {} Valuescan P0-1 部分平仓金额 ${:.2} < ${:.0}, 且总持仓不足, 转为全部平仓",
+                            symbol, notional, MIN_NOTIONAL
+                        );
+                        return Ok(Some(PositionAction::FullClose {
+                            symbol: symbol.to_string(),
+                            side: side.to_string(),
+                            quantity,
+                            reason: "valuescan_p0_1_min_notional_full_close".to_string(),
+                        }));
+                    }
+                }
+
                 return Ok(Some(PositionAction::PartialClose {
                     symbol: symbol.to_string(),
                     side: side.to_string(),
@@ -2406,9 +2495,7 @@ impl IntegratedAITrader {
                 time_limit_hours,
                 if is_meme { "MEME币" } else { "山寨币" }
             );
-            warn!(
-                "   Valuescan核心理论: 流动性最多维持4-8h, 超时强制退出"
-            );
+            warn!("   Valuescan核心理论: 流动性最多维持4-8h, 超时强制退出");
 
             return Ok(Some(PositionAction::FullClose {
                 symbol: symbol.to_string(),
@@ -2630,15 +2717,51 @@ impl IntegratedAITrader {
                         warn!("⚠️  计算得到的平仓数量过小, 跳过本次部分平仓");
                         None
                     } else {
-                        Some(PositionAction::PartialClose {
-                            symbol: symbol.to_string(),
-                            side: side.to_string(),
-                            close_quantity,
-                            close_pct,
-                            entry_price,
-                            remaining_quantity,
-                            stop_loss_order_id,
-                        })
+                        // ✅ Bug Fix #4: 检查部分平仓金额是否满足 Binance MIN_NOTIONAL ($20)
+                        const MIN_NOTIONAL: f64 = 20.0;
+                        let notional = close_quantity * entry_price;
+
+                        if notional < MIN_NOTIONAL {
+                            let min_close_qty = MIN_NOTIONAL / entry_price;
+
+                            if quantity >= min_close_qty {
+                                warn!(
+                                    "⚠️ {} 部分平仓金额 ${:.2} < ${:.0}, 调整为最小平仓数量 {:.6}",
+                                    symbol, notional, MIN_NOTIONAL, min_close_qty
+                                );
+                                let adjusted_remaining = (quantity - min_close_qty).max(0.0);
+                                Some(PositionAction::PartialClose {
+                                    symbol: symbol.to_string(),
+                                    side: side.to_string(),
+                                    close_quantity: min_close_qty,
+                                    close_pct: (min_close_qty / quantity) * 100.0,
+                                    entry_price,
+                                    remaining_quantity: adjusted_remaining,
+                                    stop_loss_order_id,
+                                })
+                            } else {
+                                warn!(
+                                    "⚠️ {} 部分平仓金额 ${:.2} < ${:.0}, 且总持仓不足, 转为全部平仓",
+                                    symbol, notional, MIN_NOTIONAL
+                                );
+                                Some(PositionAction::FullClose {
+                                    symbol: symbol.to_string(),
+                                    side: side.to_string(),
+                                    quantity,
+                                    reason: "min_notional_full_close".to_string(),
+                                })
+                            }
+                        } else {
+                            Some(PositionAction::PartialClose {
+                                symbol: symbol.to_string(),
+                                side: side.to_string(),
+                                close_quantity,
+                                close_pct,
+                                entry_price,
+                                remaining_quantity,
+                                stop_loss_order_id,
+                            })
+                        }
                     }
                 } else {
                     warn!("⚠️  AI 建议部分平仓但未提供百分比,保持持仓");
@@ -3807,7 +3930,6 @@ impl IntegratedAITrader {
                 &symbol,
                 alert_type_str,
                 &alert.raw_message,
-                alert.change_24h,
                 &alert.fund_type,
                 &zone_1h_summary,
                 &zone_15m_summary,
@@ -3840,15 +3962,21 @@ impl IntegratedAITrader {
             info!(
                 "🏅 Valuescan V2评分: {:.1}/10 | 风险收益比: {:.2} | 仓位建议: {:.1}%",
                 ai_signal_v2.valuescan_score,
-                ai_signal_v2.risk_reward_ratio,
+                ai_signal_v2.risk_reward_ratio.unwrap_or(0.0),
                 ai_signal_v2.position_size_pct
             );
-            info!(
-                "   V2关键位: 阻力=${:.4} | 支撑=${:.4} | 位置={}",
-                ai_signal_v2.key_levels.resistance,
-                ai_signal_v2.key_levels.support,
-                ai_signal_v2.key_levels.current_position
-            );
+
+            // ✅ Bug Fix #1: 处理Optional的key_levels字段
+            if let Some(ref key_levels) = ai_signal_v2.key_levels {
+                info!(
+                    "   V2关键位: 阻力=${:.4} | 支撑=${:.4} | 位置={}",
+                    key_levels.resistance,
+                    key_levels.support,
+                    key_levels.current_position
+                );
+            } else {
+                info!("   V2关键位: AI未提供关键位数据");
+            }
 
             // 【P1-3】提高Valuescan V2评分阈值,过滤低质量信号
             if ai_signal_v2.valuescan_score < 6.5 {
@@ -3861,9 +3989,11 @@ impl IntegratedAITrader {
 
             // 保存V2数据
             v2_score = Some(ai_signal_v2.valuescan_score);
-            v2_risk_reward = Some(ai_signal_v2.risk_reward_ratio);
-            v2_resistance = Some(ai_signal_v2.key_levels.resistance);
-            v2_support = Some(ai_signal_v2.key_levels.support);
+            v2_risk_reward = ai_signal_v2.risk_reward_ratio;
+            if let Some(ref key_levels) = ai_signal_v2.key_levels {
+                v2_resistance = Some(key_levels.resistance);
+                v2_support = Some(key_levels.support);
+            }
 
             ai_signal_v2.into()
         } else {
@@ -3871,7 +4001,6 @@ impl IntegratedAITrader {
                 &symbol,
                 alert_type_str,
                 &alert.raw_message,
-                alert.change_24h,
                 &alert.fund_type,
                 &zone_1h_summary,
                 &zone_15m_summary,
@@ -4416,8 +4545,6 @@ async fn main() -> Result<()> {
     info!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n");
 
     // 读取配置
-    let telegram_api_id = env::var("TELEGRAM_API_ID")?.parse::<i32>()?;
-    let telegram_api_hash = env::var("TELEGRAM_API_HASH")?;
     let deepseek_api_key = env::var("DEEPSEEK_API_KEY")?;
     let gemini_api_key = env::var("GEMINI_API_KEY").unwrap_or_else(|_| {
         warn!("⚠️  GEMINI_API_KEY 未设置，Gemini 入场分析将被禁用");
@@ -4431,28 +4558,12 @@ async fn main() -> Result<()> {
         .unwrap_or(false);
 
     info!("🎯 系统配置:");
-    info!("  监控频道: Valuescan (2254462672)");
+    info!("  信号来源: Python Telegram Monitor → Web API /api/signals");
     info!("  监控类型: Alpha机会 + FOMO信号");
     info!("  交易策略: 主力关键位 + 日内波段");
     info!("  AI引擎: Gemini(入场) + DeepSeek(持仓)");
     info!("  交易所: Binance");
     info!("  测试模式: {}\n", if testnet { "是" } else { "否" });
-
-    // 连接Telegram
-    info!("🔄 连接到 Telegram...");
-    let telegram_client = Client::connect(Config {
-        session: Session::load_file_or_create("session.session")?,
-        api_id: telegram_api_id,
-        api_hash: telegram_api_hash.clone(),
-        params: Default::default(),
-    })
-    .await?;
-
-    if !telegram_client.is_authorized().await? {
-        anyhow::bail!("❌ 未登录，请先运行: cargo run --bin get_channels");
-    }
-
-    info!("✅ Telegram已连接\n");
 
     // 初始化交易所
     let exchange = BinanceClient::new(binance_api_key, binance_secret, testnet);
@@ -4464,17 +4575,11 @@ async fn main() -> Result<()> {
     std::fs::create_dir_all("data").ok();
     let db = Database::new(db_path).map_err(|e| anyhow::anyhow!("数据库初始化失败: {}", e))?;
     info!("✅ 数据库已初始化\n");
+    let signal_db = db.clone();
 
     // 创建集成交易器
     let trader = Arc::new(
-        IntegratedAITrader::new(
-            telegram_client,
-            exchange,
-            deepseek_api_key,
-            gemini_api_key,
-            db.clone(),
-        )
-        .await,
+        IntegratedAITrader::new(exchange, deepseek_api_key, gemini_api_key, db.clone()).await,
     );
 
     // 恢复启动前已存在的持仓
@@ -4496,13 +4601,6 @@ async fn main() -> Result<()> {
     });
     info!("✅ 延迟开仓队列重新分析线程已启动（每10分钟）\n");
 
-    // 启动Telegram连接健康监控线程
-    let health_check_trader = trader.clone();
-    tokio::spawn(async move {
-        health_check_trader.monitor_telegram_health().await;
-    });
-    info!("✅ Telegram健康监控线程已启动\n");
-
     // 使用固定初始合约余额，避免依赖实时 API
     let initial_balance = 50.03_f64;
     info!("✅ 初始合约余额（固定）: {} USDT", initial_balance);
@@ -4510,7 +4608,7 @@ async fn main() -> Result<()> {
     // 启动 Web 服务器，暴露交易监控接口
     let web_server_state = Arc::new(web_server::AppState::new(
         initial_balance,
-        db,
+        db.clone(),
         trader.exchange.clone(),
     ));
     tokio::spawn(async move {
@@ -4520,112 +4618,71 @@ async fn main() -> Result<()> {
     });
     info!("✅ Web 服务器已启动 (端口 8080)\n");
 
-    // 解析所有频道实体 - 完整修复 "unknown peer" 问题
-    info!("🔍 正在缓存所有频道实体...");
+    let trader_for_signals = trader.clone();
+    let polling_db = signal_db;
+    tokio::spawn(async move {
+        let poll_interval = StdDuration::from_secs(5);
+        loop {
+            match polling_db.list_unprocessed_telegram_signals(100) {
+                Ok(records) => {
+                    if records.is_empty() {
+                        debug!("🔄 Telegram信号轮询: 暂无新信号");
+                    } else {
+                        info!("📡 轮询到 {} 条待处理的Telegram信号", records.len());
+                    }
 
-    // 遍历所有对话,缓存所有频道实体,防止 grammers unknown peer 问题
-    let mut target_channel_id: Option<i64> = None;
-    let mut cached_channels = 0;
-    let mut dialogs = trader.telegram_client.iter_dialogs();
+                    for record in records {
+                        let Some(record_id) = record.id else {
+                            warn!("⚠️ 忽略缺少ID的Telegram信号: {:?}", record.symbol);
+                            continue;
+                        };
 
-    while let Some(dialog) = dialogs.next().await? {
-        if let grammers_client::types::Chat::Channel(channel) = dialog.chat() {
-            cached_channels += 1;
-
-            // 检查是否为目标频道
-            if channel.id() == trader.fund_channel_id {
-                info!(
-                    "✅ 目标频道已解析: {} (ID: {})",
-                    channel.title(),
-                    channel.id()
-                );
-                target_channel_id = Some(channel.id());
-            }
-        }
-    }
-
-    info!("✅ 已缓存 {} 个频道实体 (防止消息丢失)", cached_channels);
-
-    let target_channel_id = match target_channel_id {
-        Some(id) => id,
-        None => {
-            anyhow::bail!(
-                "❌ 无法找到目标频道 (ID: {}),请确保已加入该频道",
-                trader.fund_channel_id
-            );
-        }
-    };
-
-    info!("📡 开始实时监控...");
-    info!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n");
-
-    // 实时监控循环
-    loop {
-        match trader.telegram_client.next_update().await {
-            Ok(Update::NewMessage(message)) if !message.outgoing() => match message.chat() {
-                grammers_client::types::Chat::Channel(channel)
-                    if channel.id() == target_channel_id =>
-                {
-                    let text = message.text();
-                    if !text.is_empty() {
-                        // 成功接收到消息，重置错误计数与时间戳
+                        if let Err(err) = trader_for_signals
+                            .handle_valuescan_message(
+                                &record.symbol,
+                                &record.raw_message,
+                                record.score,
+                                &record.signal_type,
+                            )
+                            .await
                         {
-                            let mut error_count = trader.telegram_error_count.write().await;
-                            if *error_count > 0 {
-                                info!("✅ Telegram连接已恢复，重置错误计数: {}", *error_count);
-                                *error_count = 0;
-                            }
-
-                            let mut last_msg = trader.last_successful_message.write().await;
-                            *last_msg = Instant::now();
+                            warn!(
+                                "⚠️ 处理Telegram信号失败 (id={}, symbol={}): {}",
+                                record_id, record.symbol, err
+                            );
+                            continue;
                         }
 
-                        if let Err(e) = trader.handle_message(text).await {
-                            error!("❌ 处理消息错误: {}", e);
+                        if let Err(err) = polling_db.mark_telegram_signal_processed(record_id) {
+                            warn!(
+                                "⚠️ 标记Telegram信号处理状态失败 (id={}): {}",
+                                record_id, err
+                            );
+                        } else {
+                            info!(
+                                "✅ Telegram信号已处理完成: id={} symbol={}",
+                                record_id, record.symbol
+                            );
                         }
                     }
                 }
-                _ => {}
-            },
-            Err(e) => {
-                error!("❌ Telegram连接错误: {}", e);
-                let wait_secs = {
-                    let mut error_count = trader.telegram_error_count.write().await;
-                    *error_count += 1;
-
-                    // 计算指数退避延迟: 5s → 10s → 20s → 40s → 60s (最大)
-                    let exponential_delay = match *error_count {
-                        0..=1 => 5,  // 第1次失败: 5秒
-                        2..=3 => 10, // 第2-3次: 10秒
-                        4..=5 => 20, // 第4-5次: 20秒
-                        6..=7 => 40, // 第6-7次: 40秒
-                        _ => 60,     // 第8次及以上: 60秒
-                    };
-
-                    if *error_count >= 20 {
-                        error!("🚨 Telegram连续断线超过20次(约10分钟),强烈建议重启进程!");
-                        error!(
-                            "   错误次数: {} | 当前重连间隔: {}秒",
-                            *error_count, exponential_delay
-                        );
-                    } else if *error_count % 5 == 0 {
-                        warn!(
-                            "⚠️  Telegram连接异常: 错误{}次 | 下次重连等待{}秒",
-                            *error_count, exponential_delay
-                        );
-                    } else if *error_count <= 3 {
-                        warn!(
-                            "⚠️  Telegram重连中... (第{}次失败,等待{}秒)",
-                            *error_count, exponential_delay
-                        );
-                    }
-
-                    exponential_delay
-                };
-                tokio::time::sleep(tokio::time::Duration::from_secs(wait_secs)).await;
-                continue;
+                Err(err) => {
+                    error!("❌ 轮询Telegram信号失败: {}", err);
+                }
             }
-            _ => {}
+
+            tokio::time::sleep(poll_interval).await;
         }
-    }
+    });
+    info!("✅ Telegram信号轮询线程已启动 (5秒)\n");
+
+    info!("📡 系统已切换至 Web API 信号模式，等待 /api/signals 推送");
+    info!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n");
+
+    tokio::signal::ctrl_c()
+        .await
+        .map_err(|e| anyhow::anyhow!("监听终止信号失败: {}", e))?;
+    info!("👋 收到终止信号，开始退出...");
+
+    Ok(())
 }

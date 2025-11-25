@@ -298,16 +298,14 @@ impl BinanceClient {
         margin_type: &str,
         dual_side_position: bool,
     ) -> Result<()> {
-        // 统一设置模式与杠杆
-        // 忽略“无需变更”的错误
-        let _ = self.set_position_mode(dual_side_position).await;
+        // 强制设置为单向持仓模式
+        let _ = self.set_position_mode(false).await;
         let _ = self.set_margin_type(symbol, margin_type).await;
         self.change_leverage(symbol, leverage).await?;
 
         // 使用当前价格略微加价，提升限价单成交概率
         let current_price = self.get_current_price(symbol).await?;
         let limit_price = current_price * 1.001;
-        let position_side = "LONG";
 
         let _order_id = self
             .limit_order(
@@ -315,7 +313,7 @@ impl BinanceClient {
                 quantity,
                 "BUY",
                 limit_price,
-                Some(position_side),
+                None,  // 单向持仓不需要positionSide
                 false,
             )
             .await?;
@@ -335,15 +333,14 @@ impl BinanceClient {
         margin_type: &str,
         dual_side_position: bool,
     ) -> Result<()> {
-        // 统一设置模式与杠杆
-        let _ = self.set_position_mode(dual_side_position).await;
+        // 强制设置为单向持仓模式
+        let _ = self.set_position_mode(false).await;
         let _ = self.set_margin_type(symbol, margin_type).await;
         self.change_leverage(symbol, leverage).await?;
 
         // 使用当前价格略微减价，提升限价单成交概率
         let current_price = self.get_current_price(symbol).await?;
         let limit_price = current_price * 0.999;
-        let position_side = "SHORT";
 
         let _order_id = self
             .limit_order(
@@ -351,7 +348,7 @@ impl BinanceClient {
                 quantity,
                 "SELL",
                 limit_price,
-                Some(position_side),
+                None,  // 单向持仓不需要positionSide
                 false,
             )
             .await?;
@@ -1140,13 +1137,14 @@ impl BinanceClient {
             );
         }
 
+        // 单向持仓模式: 不添加positionSide参数
+        // 双向持仓模式: 添加positionSide=LONG/SHORT参数
         let mut query = format!(
             "symbol={}&side={}&type=LIMIT&price={}&quantity={}&timeInForce=GTC&timestamp={}",
             symbol, side, price_str, quantity_str, timestamp
         );
-        if let Some(ps) = position_side {
-            query.push_str(&format!("&positionSide={}", ps));
-        }
+
+        // 对于reduce_only订单，添加reduceOnly标记
         if reduce_only {
             query.push_str("&reduceOnly=true");
         }

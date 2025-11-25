@@ -14,14 +14,17 @@ path = "src/bin/check_balance.rs"
 [[bin]]
 name = "get_channels"
 path = "src/bin/get_channels.rs"
+required-features = ["legacy-telegram"]
 
 [[bin]]
 name = "monitor_channel"
 path = "src/bin/monitor_channel.rs"
+required-features = ["legacy-telegram"]
 
 [[bin]]
 name = "signal_trader"
 path = "src/bin/signal_trader.rs"
+required-features = ["legacy-telegram"]
 
 [[bin]]
 name = "analyze_win_rate"
@@ -30,6 +33,7 @@ path = "src/bin/analyze_win_rate.rs"
 [[bin]]
 name = "multi_signal_trader"
 path = "src/bin/multi_signal_trader.rs"
+required-features = ["legacy-telegram"]
 
 [[bin]]
 name = "profit_monitor"
@@ -46,10 +50,32 @@ path = "src/bin/deepseek_trader.rs"
 [[bin]]
 name = "fund_monitor"
 path = "src/bin/fund_monitor.rs"
+required-features = ["legacy-telegram"]
 
 [[bin]]
 name = "channel_analysis"
 path = "src/bin/channel_analysis.rs"
+required-features = ["legacy-telegram"]
+
+[[bin]]
+name = "list_channels"
+path = "src/bin/list_channels.rs"
+required-features = ["legacy-telegram"]
+
+[[bin]]
+name = "multi_channel_analyzer"
+path = "src/bin/multi_channel_analyzer.rs"
+required-features = ["legacy-telegram"]
+
+[[bin]]
+name = "user_history"
+path = "src/bin/user_history.rs"
+required-features = ["legacy-telegram"]
+
+[[bin]]
+name = "user_message_summary"
+path = "src/bin/user_message_summary.rs"
+required-features = ["legacy-telegram"]
 
 [[bin]]
 name = "integrated_ai_trader"
@@ -62,6 +88,7 @@ path = "src/bin/smart_money_trader.rs"
 [[bin]]
 name = "position_rebalance_trader"
 path = "src/bin/position_rebalance_trader.rs"
+required-features = ["legacy-telegram"]
 
 [[bin]]
 name = "check_balance_unified"
@@ -82,10 +109,6 @@ path = "src/bin/gemini_eth_analyzer.rs"
 [dependencies]
 # Telegram Bot
 teloxide = { version = "0.12", features = ["macros", "auto-send"] }
-
-# Telegram Client (MTProto)
-grammers-client = "0.7"
-grammers-session = "0.7"
 
 # HTTP客户端
 reqwest = { version = "0.11", features = ["json"] }
@@ -141,6 +164,10 @@ tungstenite = "0.21"
 axum = "0.7"
 tower = "0.5"
 tower-http = { version = "0.6", features = ["cors", "trace", "fs"] }
+
+[features]
+default = []
+legacy-telegram = []
 
 [profile.release]
 opt-level = 3

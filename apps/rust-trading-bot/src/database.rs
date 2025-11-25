@@ -160,13 +160,49 @@ impl Database {
                 reason TEXT NOT NULL,
                 raw_message TEXT NOT NULL,
                 timestamp TEXT NOT NULL,
+                processed INTEGER NOT NULL DEFAULT 0,
+                processed_at TEXT,
                 created_at TEXT NOT NULL DEFAULT (datetime('now'))
             );
             CREATE INDEX IF NOT EXISTS idx_telegram_signals_symbol ON telegram_signals(symbol);
             CREATE INDEX IF NOT EXISTS idx_telegram_signals_timestamp ON telegram_signals(timestamp);
         "#,
         )?;
+        Self::ensure_column(
+            conn,
+            "telegram_signals",
+            "processed",
+            "INTEGER NOT NULL DEFAULT 0",
+        )?;
+        Self::ensure_column(conn, "telegram_signals", "processed_at", "TEXT")?;
         Ok(())
+    }
+
+    fn ensure_column(
+        conn: &Connection,
+        table: &str,
+        column: &str,
+        definition: &str,
+    ) -> DbResult<()> {
+        if Self::has_column(conn, table, column)? {
+            return Ok(());
+        }
+        let sql = format!("ALTER TABLE {} ADD COLUMN {} {}", table, column, definition);
+        conn.execute(&sql, [])?;
+        Ok(())
+    }
+
+    fn has_column(conn: &Connection, table: &str, column: &str) -> DbResult<bool> {
+        let pragma = format!("PRAGMA table_info({})", table);
+        let mut stmt = conn.prepare(&pragma)?;
+        let mut rows = stmt.query([])?;
+        while let Some(row) = rows.next()? {
+            let name: String = row.get(1)?;
+            if name.eq_ignore_ascii_case(column) {
+                return Ok(true);
+            }
+        }
+        Ok(false)
     }
 
     fn guard(&self) -> DbResult<MutexGuard<'_, Connection>> {
@@ -613,7 +649,7 @@ impl Database {
         let conn = self.guard()?;
         let mut stmt = conn.prepare(
             r#"
-            SELECT id, symbol, signal_type, score, keywords, recommend_action, reason, raw_message, timestamp, created_at
+            SELECT id, symbol, signal_type, score, keywords, recommend_action, reason, raw_message, timestamp, created_at, processed, processed_at
             FROM telegram_signals
             ORDER BY timestamp DESC
             LIMIT ?1
@@ -632,7 +668,7 @@ impl Database {
         let conn = self.guard()?;
         let mut stmt = conn.prepare(
             r#"
-            SELECT id, symbol, signal_type, score, keywords, recommend_action, reason, raw_message, timestamp, created_at
+            SELECT id, symbol, signal_type, score, keywords, recommend_action, reason, raw_message, timestamp, created_at, processed, processed_at
             FROM telegram_signals
             WHERE symbol = ?1
             ORDER BY timestamp DESC
@@ -641,6 +677,40 @@ impl Database {
         )?;
         let rows = stmt.query_map(params![symbol, limit as i64], map_telegram_signal)?;
         collect_rows(rows)
+    }
+
+    /// 获取所有未处理的Telegram信号 (时间顺序)
+    pub fn list_unprocessed_telegram_signals(
+        &self,
+        limit: usize,
+    ) -> DbResult<Vec<TelegramSignalRecord>> {
+        let conn = self.guard()?;
+        let mut stmt = conn.prepare(
+            r#"
+            SELECT id, symbol, signal_type, score, keywords, recommend_action, reason, raw_message, timestamp, created_at, processed, processed_at
+            FROM telegram_signals
+            WHERE processed = 0
+            ORDER BY timestamp ASC
+            LIMIT ?1
+        "#,
+        )?;
+        let rows = stmt.query_map(params![limit as i64], map_telegram_signal)?;
+        collect_rows(rows)
+    }
+
+    /// 标记指定信号为已处理
+    pub fn mark_telegram_signal_processed(&self, id: i64) -> DbResult<()> {
+        let mut conn = self.guard()?;
+        conn.execute(
+            r#"
+            UPDATE telegram_signals
+            SET processed = 1,
+                processed_at = datetime('now')
+            WHERE id = ?1
+        "#,
+            params![id],
+        )?;
+        Ok(())
     }
 }
 
@@ -675,12 +745,12 @@ pub struct AiAnalysisRecord {
     pub signal_type: Option<String>,
     pub reason: String,
     // Valuescan V2 扩展字段
-    pub valuescan_score: Option<f64>,      // V2评分 (0-10)
-    pub risk_reward_ratio: Option<f64>,    // 风险收益比
-    pub entry_price: Option<f64>,          // 入场价
-    pub stop_loss: Option<f64>,            // 止损价
-    pub resistance: Option<f64>,           // 阻力位
-    pub support: Option<f64>,              // 支撑位
+    pub valuescan_score: Option<f64>,   // V2评分 (0-10)
+    pub risk_reward_ratio: Option<f64>, // 风险收益比
+    pub entry_price: Option<f64>,       // 入场价
+    pub stop_loss: Option<f64>,         // 止损价
+    pub resistance: Option<f64>,        // 阻力位
+    pub support: Option<f64>,           // 支撑位
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -732,6 +802,8 @@ pub struct TelegramSignalRecord {
     pub raw_message: String,
     pub timestamp: String,
     pub created_at: String,
+    pub processed: bool,
+    pub processed_at: Option<String>,
 }
 
 fn ensure_ts(value: &str) -> String {
@@ -813,6 +885,11 @@ fn map_telegram_signal(row: &Row<'_>) -> rusqlite::Result<TelegramSignalRecord> 
         raw_message: row.get(7)?,
         timestamp: row.get(8)?,
         created_at: row.get(9)?,
+        processed: {
+            let value: i64 = row.get(10)?;
+            value != 0
+        },
+        processed_at: row.get::<_, Option<String>>(11)?,
     })
 }
 
