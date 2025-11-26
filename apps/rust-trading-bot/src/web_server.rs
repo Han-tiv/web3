@@ -309,6 +309,14 @@ async fn health_check() -> &'static str {
 
 // ==================== Python信号接收 ====================
 
+/// 原始Telegram消息Payload (Python透传)
+#[derive(Debug, Deserialize, Serialize)]
+pub struct RawTelegramPayload {
+    pub raw_message: String,
+    pub timestamp: f64,
+    pub source: String, // "telegram_raw"
+}
+
 #[derive(Debug, Deserialize, Serialize)]
 pub struct TelegramSignalPayload {
     pub symbol: String,
@@ -404,6 +412,88 @@ async fn receive_signal(
     )
 }
 
+/// 接收Python监控发来的原始Telegram消息
+async fn receive_raw_telegram_message(
+    State(state): State<Arc<AppState>>,
+    Json(payload): Json<RawTelegramPayload>,
+) -> impl IntoResponse {
+    log::info!(
+        "📨 收到原始Telegram消息: {} 字节 | 来源: {}",
+        payload.raw_message.len(),
+        payload.source
+    );
+    log::debug!(
+        "   消息预览: {}...",
+        &payload.raw_message[..payload.raw_message.len().min(100)]
+    );
+
+    // 解析Valuescan消息格式,提取币种信息用于数据库存储
+    // 格式: 💰 【资金异动】$SOL\n现价: $188.83\n24H: +1.62%
+    let symbol = extract_symbol_from_message(&payload.raw_message);
+
+    if symbol.is_empty() {
+        log::warn!("⚠️  无法从消息中提取币种,跳过存储");
+        return (
+            StatusCode::BAD_REQUEST,
+            Json(serde_json::json!({
+                "status": "error",
+                "message": "消息格式不正确: 无法提取币种"
+            })),
+        );
+    }
+
+    // 直接插入到telegram_signals表,让轮询线程异步处理
+    // 使用默认评分和类型,Rust后续会重新解析
+    let save_result = state.db.insert_telegram_signal(
+        &symbol,
+        "资金异动",                        // signal_type: 默认值,后续Rust解析会更新
+        80,                                // score: 默认中等评分
+        "raw_message",                     // meta_summary: 标记为原始消息
+        "PENDING",                         // recommend_action: 标记为待处理
+        "Python透传原始消息,等待Rust解析", // reason
+        &payload.raw_message,
+        &chrono::Utc::now().to_rfc3339(),
+    );
+
+    if let Err(e) = save_result {
+        log::error!("❌ 保存原始消息到数据库失败: {}", e);
+        return (
+            StatusCode::INTERNAL_SERVER_ERROR,
+            Json(serde_json::json!({
+                "status": "error",
+                "message": format!("数据库保存失败: {}", e)
+            })),
+        );
+    }
+
+    log::info!("✅ 原始消息已保存到数据库,等待Rust轮询线程处理: {}", symbol);
+
+    (
+        StatusCode::OK,
+        Json(serde_json::json!({
+            "status": "received",
+            "symbol": symbol,
+            "queued_at": chrono::Utc::now().to_rfc3339(),
+            "message": format!("原始消息已接收并排队处理: {}", symbol)
+        })),
+    )
+}
+
+/// 从Valuescan原始消息中提取币种代码
+/// 格式: 💰 【资金异动】$SOL 或 【Alpha】$BTC
+fn extract_symbol_from_message(text: &str) -> String {
+    // 使用简单正则提取 $SYMBOL 格式
+    if let Some(caps) = regex::Regex::new(r"\$([A-Z0-9]+)")
+        .ok()
+        .and_then(|re| re.captures(text))
+    {
+        if let Some(coin) = caps.get(1) {
+            return format!("{}USDT", coin.as_str());
+        }
+    }
+    String::new()
+}
+
 // ==================== 路由配置 ====================
 
 fn create_router(state: Arc<AppState>) -> Router {
@@ -422,6 +512,7 @@ fn create_router(state: Arc<AppState>) -> Router {
         .route("/api/ai-history", get(get_ai_history))
         .route("/api/telegram-signals", get(get_telegram_signals))
         .route("/api/signals", post(receive_signal)) // 新增: 接收Python信号
+        .route("/api/telegram/raw", post(receive_raw_telegram_message)) // 新增: 接收Python原始消息
         .route("/api/positions/:symbol/close", post(close_position))
         .route("/health", get(health_check))
         .layer(cors)

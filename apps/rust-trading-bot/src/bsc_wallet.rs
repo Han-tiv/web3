@@ -4,16 +4,16 @@ use crate::price_service::PriceService;
 use anyhow::{anyhow, Result};
 use async_trait::async_trait;
 use ethers::prelude::*;
-use log::{error, info, warn};
-use std::collections::HashMap;
+use log::{info, warn};
 use std::sync::Arc;
-use tokio::sync::RwLock;
 
 #[derive(Clone)]
 pub struct BscWallet {
     address: String,
+    #[allow(dead_code)]
     private_key: String,
     rpc_url: String,
+    #[allow(dead_code)]
     chain_id: u64,
     price_service: Arc<PriceService>,
 }

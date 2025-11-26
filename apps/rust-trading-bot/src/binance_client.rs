@@ -296,7 +296,7 @@ impl BinanceClient {
         quantity: f64,
         leverage: u32,
         margin_type: &str,
-        dual_side_position: bool,
+        _dual_side_position: bool,
     ) -> Result<()> {
         // 强制设置为单向持仓模式
         let _ = self.set_position_mode(false).await;
@@ -313,7 +313,7 @@ impl BinanceClient {
                 quantity,
                 "BUY",
                 limit_price,
-                None,  // 单向持仓不需要positionSide
+                None, // 单向持仓不需要positionSide
                 false,
             )
             .await?;
@@ -331,7 +331,7 @@ impl BinanceClient {
         quantity: f64,
         leverage: u32,
         margin_type: &str,
-        dual_side_position: bool,
+        _dual_side_position: bool,
     ) -> Result<()> {
         // 强制设置为单向持仓模式
         let _ = self.set_position_mode(false).await;
@@ -348,7 +348,7 @@ impl BinanceClient {
                 quantity,
                 "SELL",
                 limit_price,
-                None,  // 单向持仓不需要positionSide
+                None, // 单向持仓不需要positionSide
                 false,
             )
             .await?;
@@ -1098,7 +1098,7 @@ impl BinanceClient {
         quantity: f64,
         side: &str, // "BUY" or "SELL"
         limit_price: f64,
-        position_side: Option<&str>,
+        _position_side: Option<&str>,
         reduce_only: bool,
     ) -> Result<String> {
         let timestamp = chrono::Utc::now().timestamp_millis();

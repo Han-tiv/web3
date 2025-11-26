@@ -1,6 +1,6 @@
 use crate::signal_manager::{CoinSignal, SignalPriority, SignalSource};
 use lazy_static::lazy_static;
-use log::{debug, warn};
+use log::debug;
 use regex::Regex;
 use std::collections::HashMap;
 

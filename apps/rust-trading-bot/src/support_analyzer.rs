@@ -43,7 +43,7 @@ impl SupportAnalyzer {
     /// 方案2: 简化版支撑位识别（3大算法）
     pub fn analyze_supports(
         &self,
-        klines_5m: &[Kline],
+        _klines_5m: &[Kline],
         klines_15m: &[Kline],
         klines_1h: &[Kline],
         current_price: f64,

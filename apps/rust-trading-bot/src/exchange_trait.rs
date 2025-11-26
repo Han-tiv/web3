@@ -128,7 +128,7 @@ pub trait ExchangeClient: Send + Sync {
     async fn get_klines(
         &self,
         symbol: &str,
-        interval: &str,
+        _interval: &str,
         limit: Option<usize>,
     ) -> Result<Vec<Vec<f64>>> {
         Err(anyhow!(
@@ -171,9 +171,9 @@ pub trait ExchangeClient: Send + Sync {
         &self,
         symbol: &str,
         side: &str,
-        quantity_delta: f64,
-        leverage: u32,
-        margin_type: &str,
+        _quantity_delta: f64,
+        _leverage: u32,
+        _margin_type: &str,
     ) -> Result<OrderResult> {
         Err(anyhow!(
             "adjust_position 未实现: {} {} {}",

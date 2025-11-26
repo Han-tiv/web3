@@ -8,7 +8,6 @@
 use anyhow::{Context, Result};
 use reqwest::Client;
 use serde::{Deserialize, Serialize};
-use std::collections::HashMap;
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct MarketData {
@@ -165,19 +164,19 @@ impl MarketDataFetcher {
     }
 
     /// 从OKX获取数据
-    async fn fetch_from_okx(&self, coin: &str) -> Result<MarketData> {
+    async fn fetch_from_okx(&self, _coin: &str) -> Result<MarketData> {
         // TODO: 实现OKX数据获取
         anyhow::bail!("OKX integration not implemented yet")
     }
 
     /// 从Bybit获取数据
-    async fn fetch_from_bybit(&self, coin: &str) -> Result<MarketData> {
+    async fn fetch_from_bybit(&self, _coin: &str) -> Result<MarketData> {
         // TODO: 实现Bybit数据获取
         anyhow::bail!("Bybit integration not implemented yet")
     }
 
     /// 从Gate获取数据
-    async fn fetch_from_gate(&self, coin: &str) -> Result<MarketData> {
+    async fn fetch_from_gate(&self, _coin: &str) -> Result<MarketData> {
         // TODO: 实现Gate数据获取
         anyhow::bail!("Gate integration not implemented yet")
     }

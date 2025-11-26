@@ -1,8 +1,16 @@
 use anyhow::{Context, Result};
+use async_trait::async_trait;
 use log::{error, info};
 use reqwest::Client;
 use serde::{Deserialize, Serialize};
 use serde_json::Value;
+
+use crate::ai::ai_trait::{
+    AIProvider, EntryContext, EntryDecision, PositionContext,
+    PositionDecision as AiPositionDecision, StopLossAdjustmentDecision,
+    TakeProfitAdjustmentDecision,
+};
+use crate::valuescan_v2::TradingSignalV2;
 
 #[derive(Debug, Serialize)]
 pub struct DeepSeekRequest {
@@ -210,6 +218,42 @@ impl DeepSeekClient {
         }
     }
 
+    /// 清洗 DeepSeek 返回的 JSON，去除 markdown 包裹并提取嵌入的 JSON 片段
+    fn clean_json_content(content: &str) -> String {
+        let trimmed = content.trim();
+
+        if trimmed.starts_with("```json") {
+            if let Some(json_content) = trimmed
+                .strip_prefix("```json")
+                .and_then(|s| s.strip_suffix("```"))
+            {
+                return json_content.trim().to_string();
+            }
+        }
+
+        if trimmed.starts_with("```") {
+            if let Some(json_content) = trimmed
+                .strip_prefix("```")
+                .and_then(|s| s.strip_suffix("```"))
+            {
+                return json_content.trim().to_string();
+            }
+        }
+
+        if let (Some(start), Some(end)) = (trimmed.find('{'), trimmed.rfind('}')) {
+            if start < end {
+                let json_candidate = &trimmed[start..=end];
+                let open_braces = json_candidate.matches('{').count();
+                let close_braces = json_candidate.matches('}').count();
+                if open_braces == close_braces && open_braces > 0 {
+                    return json_candidate.to_string();
+                }
+            }
+        }
+
+        trimmed.to_string()
+    }
+
     /// 分析市场并生成交易信号
     pub async fn analyze_market(&self, prompt: &str) -> Result<TradingSignal> {
         let request = DeepSeekRequest {
@@ -268,6 +312,75 @@ impl DeepSeekClient {
         info!(
             "📡 交易信号: {} | 置信度: {}",
             signal.signal, signal.confidence
+        );
+
+        Ok(signal)
+    }
+
+    /// 分析市场并生成 V2 版交易信号
+    pub async fn analyze_market_v2(&self, prompt: &str) -> Result<TradingSignalV2> {
+        let request = DeepSeekRequest {
+            model: "deepseek-chat".to_string(),
+            messages: vec![Message {
+                role: "user".to_string(),
+                content: prompt.to_string(),
+            }],
+            response_format: Some(ResponseFormat {
+                format_type: "json_object".to_string(),
+            }),
+            temperature: Some(0.7),
+        };
+
+        info!("🧠 调用 DeepSeek API (V2 信号)...");
+
+        let response = self
+            .client
+            .post(&format!("{}/chat/completions", self.base_url))
+            .header("Authorization", format!("Bearer {}", self.api_key))
+            .header("Content-Type", "application/json")
+            .json(&request)
+            .send()
+            .await
+            .context("Failed to send request to DeepSeek API")?;
+
+        if !response.status().is_success() {
+            let status = response.status();
+            let error_text = response.text().await.unwrap_or_default();
+            anyhow::bail!("DeepSeek API error ({}): {}", status, error_text);
+        }
+
+        let deepseek_response: DeepSeekResponse = response
+            .json()
+            .await
+            .context("Failed to parse DeepSeek response")?;
+
+        info!(
+            "✅ DeepSeek 响应(V2): {} tokens",
+            deepseek_response.usage.total_tokens
+        );
+
+        let content = &deepseek_response.choices[0].message.content;
+        info!("🔍 AI原始响应(V2): {}", content);
+
+        let cleaned_content = Self::clean_json_content(content);
+        info!("🧹 清洗后内容(市场分析V2): {}", cleaned_content);
+
+        let signal: TradingSignalV2 = match serde_json::from_str(&cleaned_content) {
+            Ok(s) => s,
+            Err(e) => {
+                error!("❌ JSON解析失败: {}", e);
+                error!("📄 原始内容: {}", content);
+                anyhow::bail!(
+                    "Failed to parse trading signal V2: {} | Raw: {}",
+                    e,
+                    content
+                );
+            }
+        };
+
+        info!(
+            "📡 交易信号V2: {} | 置信度: {} | 评分: {:.1}",
+            signal.signal, signal.confidence, signal.valuescan_score
         );
 
         Ok(signal)
@@ -688,7 +801,7 @@ impl DeepSeekClient {
         )
     }
 
-    fn analyze_trend(&self, indicators: &TechnicalIndicators, current_price: f64) -> String {
+    fn analyze_trend(&self, indicators: &TechnicalIndicators, _current_price: f64) -> String {
         let rsi = indicators.rsi;
         let rsi_status = if rsi > 70.0 {
             "超买"
@@ -741,7 +854,7 @@ impl DeepSeekClient {
         klines_5m: &[Kline],
         klines_15m: &[Kline],
         klines_1h: &[Kline],
-        current_price: f64,
+        _current_price: f64,
     ) -> String {
         let kline_5m_text = self.format_klines_with_label(klines_5m, "5m", 15);
         let kline_15m_text = self.format_klines_with_label(klines_15m, "15m", 15);
@@ -1457,4 +1570,65 @@ pub struct Position {
     pub size: f64,
     pub entry_price: f64,
     pub unrealized_pnl: f64,
+}
+
+#[async_trait]
+impl AIProvider for DeepSeekClient {
+    fn name(&self) -> &'static str {
+        "deepseek"
+    }
+
+    async fn analyze_entry(&self, ctx: &EntryContext) -> Result<EntryDecision> {
+        let signal = self.analyze_market(&ctx.prompt).await?;
+        Ok(EntryDecision::new(
+            self.name(),
+            &ctx.symbol,
+            &signal.signal,
+            signal.reason,
+            Some(signal.confidence),
+            signal.entry_price,
+            signal.stop_loss,
+            signal.take_profit,
+            Some(ctx.metadata.clone()),
+            None,
+        ))
+    }
+
+    async fn analyze_position(&self, ctx: &PositionContext) -> Result<AiPositionDecision> {
+        let PositionManagementDecision {
+            action,
+            close_percentage,
+            limit_price,
+            reason,
+            profit_potential,
+            optimal_exit_price,
+            confidence,
+            stop_loss_adjustment,
+            take_profit_adjustment,
+        } = self.analyze_position_management(&ctx.prompt).await?;
+
+        Ok(AiPositionDecision::new(
+            self.name(),
+            &ctx.symbol,
+            &action,
+            reason,
+            Some(confidence),
+            Some(profit_potential),
+            close_percentage,
+            limit_price,
+            optimal_exit_price,
+            stop_loss_adjustment.map(|adj| {
+                StopLossAdjustmentDecision::new(adj.should_adjust, adj.new_stop_loss, adj.reason)
+            }),
+            take_profit_adjustment.map(|adj| {
+                TakeProfitAdjustmentDecision::new(
+                    adj.should_adjust,
+                    adj.new_take_profit,
+                    adj.reason,
+                )
+            }),
+            Some(ctx.metadata.clone()),
+            None,
+        ))
+    }
 }

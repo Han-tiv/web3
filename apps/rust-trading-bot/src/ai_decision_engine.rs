@@ -228,7 +228,7 @@ impl AiDecisionEngine {
         symbol: &str,
         exchange: &Arc<dyn ExchangeClient>,
     ) -> Result<Vec<Kline>> {
-        let mut cache = self.kline_cache.lock().await;
+        let cache = self.kline_cache.lock().await;
 
         // 检查缓存
         if let Some(cached) = cache.get(symbol) {

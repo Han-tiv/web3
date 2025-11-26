@@ -204,7 +204,7 @@ impl TechnicalAnalyzer {
         current_price: f64,
         bb_upper: f64,
         bb_lower: f64,
-        bb_middle: f64,
+        _bb_middle: f64,
     ) -> String {
         let width = bb_upper - bb_lower;
         let position = (current_price - bb_lower) / width;

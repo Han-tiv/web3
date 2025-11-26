@@ -6,7 +6,7 @@ use chrono::Utc;
 use ethers::prelude::*;
 use log::{error, info, warn};
 use reqwest;
-use serde::{Deserialize, Serialize};
+use serde::Deserialize;
 use serde_json::{json, Value};
 use std::collections::HashMap;
 use std::sync::Arc;
@@ -28,6 +28,7 @@ struct HyperliquidPosition {
     size: String,
     #[serde(rename = "entryPx")]
     entry_px: String,
+    #[allow(dead_code)]
     #[serde(rename = "positionValue")]
     position_value: String,
     #[serde(rename = "unrealizedPnl")]
@@ -38,6 +39,7 @@ struct HyperliquidPosition {
 }
 
 #[derive(Debug, Deserialize)]
+#[allow(dead_code)]
 struct HyperliquidAccountValue {
     #[serde(rename = "accountValue")]
     account_value: String,
@@ -55,8 +57,10 @@ struct HyperliquidMarginSummary {
     account_value: String,
     #[serde(rename = "totalMarginUsed")]
     total_margin_used: String,
+    #[allow(dead_code)]
     #[serde(rename = "totalNtlPos")]
     total_ntl_pos: String,
+    #[allow(dead_code)]
     #[serde(rename = "totalRawUsd")]
     total_raw_usd: String,
 }
@@ -98,7 +102,7 @@ impl HyperliquidClient {
             .map_err(|e| anyhow!("解析私钥失败: {}", e))?;
 
         // Hyperliquid L1 签名结构
-        let connection_id = json!({
+        let _connection_id = json!({
             "source": "rust_bot",
             "connectionId": format!("{}{}", wallet.address(), Utc::now().timestamp_millis())
         });
@@ -349,7 +353,7 @@ impl ExchangeClient for HyperliquidClient {
         &self,
         symbol: &str,
         quantity: f64,
-        leverage: u32,
+        _leverage: u32,
         _margin_type: &str,
         _dual_side: bool,
     ) -> Result<OrderResult> {
@@ -392,7 +396,7 @@ impl ExchangeClient for HyperliquidClient {
         &self,
         symbol: &str,
         quantity: f64,
-        leverage: u32,
+        _leverage: u32,
         _margin_type: &str,
         _dual_side: bool,
     ) -> Result<OrderResult> {

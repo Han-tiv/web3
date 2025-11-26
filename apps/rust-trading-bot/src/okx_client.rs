@@ -231,7 +231,7 @@ impl ExchangeClient for OkxClient {
             .and_then(|d| d.into_iter().next())
             .ok_or_else(|| anyhow!("OKX账户数据为空"))?;
 
-        let mut total_balance = 0.0;
+        let mut _total_balance = 0.0;
         let mut available_balance = 0.0;
         let mut margin_used = 0.0;
 
@@ -259,10 +259,10 @@ impl ExchangeClient for OkxClient {
                     margin_used += frozen;
                 }
             }
-            total_balance = available_balance + margin_used;
+            _total_balance = available_balance + margin_used;
         } else {
             // 如果没有 details，尝试使用账户级别的字段
-            total_balance = account.totalEq.and_then(|s| s.parse().ok()).unwrap_or(0.0);
+            _total_balance = account.totalEq.and_then(|s| s.parse().ok()).unwrap_or(0.0);
             available_balance = account
                 .availEq
                 .as_ref()
@@ -277,7 +277,7 @@ impl ExchangeClient for OkxClient {
         }
 
         Ok(AccountInfo {
-            total_balance,
+            total_balance: _total_balance,
             available_balance,
             unrealized_pnl: account.upl.and_then(|s| s.parse().ok()).unwrap_or(0.0),
             margin_used,
@@ -337,6 +337,7 @@ impl ExchangeClient for OkxClient {
 
         #[derive(Debug, Deserialize)]
         struct OkxResponse {
+            #[allow(dead_code)]
             code: String,
             data: Option<Vec<serde_json::Value>>,
         }

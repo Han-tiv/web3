@@ -1,12 +1,12 @@
 use anyhow::{Context, Result};
-use log::{error, info, warn};
+use log::{error, info};
 use serde::{Deserialize, Serialize};
 use std::sync::Arc;
 use std::time::Duration;
 use tokio::sync::Mutex;
 
 use crate::exchange_trait::{ExchangeClient, Position};
-use crate::position_coordinator::{TradeAction, TradeActionType, TradePriority};
+use crate::position_coordinator::{TradeAction, TradeActionType};
 
 /// 速率限制器
 struct RateLimiter {

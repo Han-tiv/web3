@@ -212,7 +212,7 @@ impl Database {
     /// =============== Trades CRUD ===============
 
     pub fn insert_trade(&self, record: &TradeRecord) -> DbResult<i64> {
-        let mut conn = self.guard()?;
+        let conn = self.guard()?;
         conn.execute(
             r#"
             INSERT INTO trades (
@@ -305,7 +305,7 @@ impl Database {
 
     pub fn update_trade(&self, record: &TradeRecord) -> DbResult<()> {
         let id = record.id.ok_or(DatabaseError::MissingPrimaryKey)?;
-        let mut conn = self.guard()?;
+        let conn = self.guard()?;
         conn.execute(
             r#"
             UPDATE trades
@@ -345,7 +345,7 @@ impl Database {
     }
 
     pub fn delete_trade(&self, id: i64) -> DbResult<()> {
-        let mut conn = self.guard()?;
+        let conn = self.guard()?;
         conn.execute("DELETE FROM trades WHERE id = ?1", params![id])?;
         Ok(())
     }
@@ -353,7 +353,7 @@ impl Database {
     /// =============== AI Analysis CRUD ===============
 
     pub fn insert_ai_analysis(&self, record: &AiAnalysisRecord) -> DbResult<i64> {
-        let mut conn = self.guard()?;
+        let conn = self.guard()?;
         let timestamp = ensure_ts(&record.timestamp);
         let reason = ensure_reason(&record.decision, &record.reason);
         conn.execute(
@@ -416,7 +416,7 @@ impl Database {
 
     pub fn update_ai_analysis(&self, record: &AiAnalysisRecord) -> DbResult<()> {
         let id = record.id.ok_or(DatabaseError::MissingPrimaryKey)?;
-        let mut conn = self.guard()?;
+        let conn = self.guard()?;
         let timestamp = ensure_ts(&record.timestamp);
         let reason = ensure_reason(&record.decision, &record.reason);
         conn.execute(
@@ -444,7 +444,7 @@ impl Database {
     }
 
     pub fn delete_ai_analysis(&self, id: i64) -> DbResult<()> {
-        let mut conn = self.guard()?;
+        let conn = self.guard()?;
         conn.execute("DELETE FROM ai_analysis WHERE id = ?1", params![id])?;
         Ok(())
     }
@@ -460,7 +460,7 @@ impl Database {
         position: Option<&Position>,
         actions: Option<&str>,
     ) -> DbResult<i64> {
-        let mut conn = self.guard()?;
+        let conn = self.guard()?;
         let timestamp = Utc::now().timestamp();
         let indicators_json = serde_json::to_string(indicators)?;
         let position_json = position.map(|pos| serde_json::to_string(pos)).transpose()?;
@@ -500,7 +500,7 @@ impl Database {
         profit_usdt: f64,
         capital_used: f64,
     ) -> DbResult<()> {
-        let mut conn = self.guard()?;
+        let conn = self.guard()?;
         let created_at = Utc::now().timestamp();
         conn.execute(
             r#"
@@ -551,7 +551,7 @@ impl Database {
         take_profit: f64,
         stop_loss: f64,
     ) -> DbResult<i64> {
-        let mut conn = self.guard()?;
+        let conn = self.guard()?;
         let created_at = Utc::now().timestamp();
         conn.execute(
             r#"
@@ -597,7 +597,7 @@ impl Database {
 
     /// 更新 pending 记录的状态。
     pub fn update_pending_tpsl_status(&self, id: i64, status: PendingTpSlStatus) -> DbResult<()> {
-        let mut conn = self.guard()?;
+        let conn = self.guard()?;
         conn.execute(
             r#"
             UPDATE pending_tpsl
@@ -623,7 +623,7 @@ impl Database {
         raw_message: &str,
         timestamp: &str,
     ) -> DbResult<i64> {
-        let mut conn = self.guard()?;
+        let conn = self.guard()?;
         conn.execute(
             r#"
             INSERT INTO telegram_signals (
@@ -700,7 +700,7 @@ impl Database {
 
     /// 标记指定信号为已处理
     pub fn mark_telegram_signal_processed(&self, id: i64) -> DbResult<()> {
-        let mut conn = self.guard()?;
+        let conn = self.guard()?;
         conn.execute(
             r#"
             UPDATE telegram_signals

@@ -38,6 +38,7 @@ struct GatePosition {
 
 #[derive(Debug, Deserialize)]
 struct GateAccount {
+    #[allow(dead_code)]
     total: String,
     unrealised_pnl: String,
     available: String,

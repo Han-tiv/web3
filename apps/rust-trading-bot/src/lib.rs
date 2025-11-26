@@ -1,8 +1,10 @@
 pub mod binance_client;
 pub mod copy_trader;
+pub mod signals;
 pub mod telegram_bot;
 pub mod telegram_notifier;
 pub mod telegram_signal; // Telegram信号评分系统
+pub mod trading;
 pub mod trading_lock;
 
 // 交易所客户端模块
@@ -24,6 +26,7 @@ pub mod price_service;
 pub mod multi_exchange_executor;
 
 // DeepSeek AI 交易模块（纯技术指标版本）
+pub mod ai;
 pub mod deepseek_client;
 pub mod gemini_client;
 pub mod grok_client;

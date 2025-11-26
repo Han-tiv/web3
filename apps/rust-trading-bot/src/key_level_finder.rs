@@ -141,7 +141,7 @@ impl KeyLevelFinder {
             let mut last_test_time = level.last_test_time;
 
             // 检查主力K线之后的K线
-            for (idx, kline) in klines.iter().enumerate().skip(max_vol_idx + 1) {
+            for (_idx, kline) in klines.iter().enumerate().skip(max_vol_idx + 1) {
                 if self.price_touches_level(kline, level.price) {
                     test_count += 1;
                     last_test_time = kline.timestamp;

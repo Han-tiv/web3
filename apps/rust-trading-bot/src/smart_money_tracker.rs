@@ -1,5 +1,5 @@
 use crate::deepseek_client::Kline;
-use crate::key_level_finder::{KeyLevel, KeyLevelFinder, LevelType};
+use crate::key_level_finder::{KeyLevel, KeyLevelFinder};
 use crate::technical_analysis::TechnicalAnalyzer;
 use log::{info, warn};
 

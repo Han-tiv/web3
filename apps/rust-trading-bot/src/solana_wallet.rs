@@ -3,14 +3,15 @@ use crate::exchange_trait::*;
 use crate::price_service::PriceService;
 use anyhow::{anyhow, Result};
 use async_trait::async_trait;
-use log::{error, info, warn};
-use serde::{Deserialize, Serialize};
+use log::{info, warn};
+use serde::Deserialize;
 use serde_json::json;
 use std::sync::Arc;
 
 #[derive(Clone)]
 pub struct SolanaWallet {
     address: String,
+    #[allow(dead_code)]
     private_key: String,
     rpc_url: String,
     price_service: Arc<PriceService>,

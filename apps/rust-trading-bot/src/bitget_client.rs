@@ -38,6 +38,7 @@ struct BitgetPosition {
     symbol: String,
     holdSide: String, // "long" or "short"
     total: String,    // 持仓数量
+    #[allow(dead_code)]
     available: String,
     openPriceAvg: String, // 开仓均价
     markPrice: String,
@@ -235,6 +236,7 @@ impl ExchangeClient for BitgetClient {
             if spot_response.status().is_success() {
                 if let Ok(spot_body) = spot_response.text().await {
                     #[derive(Debug, Deserialize)]
+                    #[allow(non_snake_case)]
                     struct SpotAsset {
                         coinName: String,
                         available: String,

@@ -340,7 +340,7 @@ impl PositionCoordinator {
             decision.symbol, decision.signal.reason
         );
 
-        let (close_type, reverse_type) = if position.side.to_uppercase() == "LONG" {
+        let (_close_type, reverse_type) = if position.side.to_uppercase() == "LONG" {
             (TradeActionType::CloseLong, TradeActionType::ReverseToShort)
         } else {
             (TradeActionType::CloseShort, TradeActionType::ReverseToLong)
