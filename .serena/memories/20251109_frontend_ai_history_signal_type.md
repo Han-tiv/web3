@@ -1,0 +1,2 @@
+- 前端 `AiHistoryEntry` 类型( apps/rust-trading-bot/web/src/types/index.ts ) 已与后端 ai_analysis 表字段对齐：id、timestamp、symbol、decision、confidence、signal_type、reason。
+- 所有 AI 面板组件 (`AiHistory.tsx`, `AIAnalysisPanel.tsx`) 现统一展示 `signal_type`，辅助标签解析只依赖 tags/signal_type/decision，避免旧的 analysis_type。

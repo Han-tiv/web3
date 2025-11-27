@@ -1,0 +1,3 @@
+- BinanceClient 现已提供 `get_order_status(symbol, order_id)`，调用 FAPI `/fapi/v1/order` 获取订单详情，解析 orderId/status/executedQty/origQty。
+- 新增 `OrderStatus { order_id, status, executed_qty, orig_qty }` 结构体，方便上层组件追踪成交进度。
+- 数量字段统一解析为 f64，兼容字符串/数字响应形式。

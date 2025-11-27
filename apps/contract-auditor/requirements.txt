@@ -1,0 +1,27 @@
+# AI Contract Auditor Dependencies
+
+# 核心依赖
+pyyaml>=6.0
+requests>=2.31.0
+
+# Solidity 分析工具
+slither-analyzer>=0.10.0
+
+# Web 界面
+streamlit>=1.28.0
+plotly>=5.17.0
+
+# 数据处理
+pandas>=2.1.0
+
+# 日志
+colorlog>=6.7.0
+
+# 测试
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# 代码质量
+black>=23.9.0
+flake8>=6.1.0
+mypy>=1.5.0

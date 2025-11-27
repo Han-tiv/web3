@@ -1,0 +1,1 @@
+apps/rust-trading-bot/src/bin/integrated_ai_trader.rs 需要 FundAlert 以及 AlertType 具备 serde 的 Serialize/Deserialize 派生，以便在 PendingEntry 等结构中序列化/反序列化该告警信息。

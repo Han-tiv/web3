@@ -1,0 +1,1 @@
+apps/rust-trading-bot/web 的前端 API 层移除了 USE_MOCK 逻辑，现已强制走 /api 后端接口，并新增 getStatus()/getAiHistory() 方法分别请求 /api/status 与 /api/ai-history。类型文件也加入 SystemStatus/AiHistoryEntry（宽松结构），方便后续 UI 调用。

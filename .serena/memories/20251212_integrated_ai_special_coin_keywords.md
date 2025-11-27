@@ -1,0 +1,1 @@
+2025-11-11：更新 apps/rust-trading-bot/src/bin/integrated_ai_trader.rs 关键词过滤与日志，新增“异动”关键词，确保只交易含币安/Alpha/FOMO/出逃/异动的币种。

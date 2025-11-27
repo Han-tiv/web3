@@ -1,0 +1,42 @@
+rules:
+  # 高危规则
+  - category: "tx_origin"
+    enabled: true
+    severity: "HIGH"
+    priority: 1
+
+  - category: "delegatecall"
+    enabled: true
+    severity: "HIGH"
+    priority: 1
+
+  - category: "selfdestruct"
+    enabled: true
+    severity: "HIGH"
+    priority: 1
+
+  - category: "unprotected_initialization"
+    enabled: true
+    severity: "HIGH"
+    priority: 2
+
+  - category: "front_running"
+    enabled: true
+    severity: "MEDIUM"
+    priority: 3
+
+# 资金影响评分权重
+fund_impact_weights:
+  CRITICAL: 10.0
+  HIGH: 7.0
+  MEDIUM: 4.0
+  LOW: 2.0
+  NONE: 0.0
+
+# 严重性映射
+severity_mapping:
+  CRITICAL_FUND_IMPACT: "HIGH"
+  HIGH_FUND_IMPACT: "HIGH"
+  MEDIUM_FUND_IMPACT: "MEDIUM"
+  LOW_FUND_IMPACT: "LOW"
+

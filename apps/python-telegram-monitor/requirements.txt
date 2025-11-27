@@ -1,0 +1,18 @@
+# Telegram客户端
+telethon==1.36.0
+httpx==0.27.0
+
+# HTTP异步客户端
+aiohttp==3.9.1
+
+# 配置管理
+python-dotenv==1.0.0
+
+# 日志
+colorlog==6.8.0
+
+# Redis支持 (可选,第二阶段)
+# redis==5.0.1
+
+# ZMQ支持 (可选,第二阶段)
+# pyzmq==25.1.2

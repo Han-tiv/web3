@@ -1,0 +1,1 @@
+- integrated_ai_trader.rs 在 AI 建仓分析成功后会读取 web_state 并调用 AppState::record_ai_analysis，将 DeepSeek 的理由、"HIGH/MEDIUM/LOW" 置信度映射(0.9/0.7/0.5)以及信号标签写入数据库，便于 Web 控制台展示历史 AI 决策。

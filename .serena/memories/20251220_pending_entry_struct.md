@@ -1,0 +1,1 @@
+在 apps/rust-trading-bot/src/bin/integrated_ai_trader.rs 中新增 PendingEntry 结构体（含首次信号时间、最后分析时间、拒绝原因、重试次数等字段）用于追踪首次被拒绝的开仓请求，方便后续重新分析或重试。

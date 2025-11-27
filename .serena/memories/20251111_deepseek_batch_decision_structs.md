@@ -1,0 +1,1 @@
+在 apps/rust-trading-bot/src/deepseek_client.rs 顶部新增批量评估结构体：BatchDecisionResponse(decisions: Vec<PositionDecision>) 与 PositionDecision（包含 symbol/action/close_percentage/limit_price/reason/confidence/profit_potential），便于解析 DeepSeek 批量仓位管理输出。

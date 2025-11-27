@@ -1,0 +1,1 @@
+apps/rust-trading-bot/web 的 App.tsx 新增 BackendStatus 组件，通过 api.getStatus() 每 10 秒轮询后端状态，展示运行状态、运行时长、最后更新时间与数据库记录数，并在顶部页面渲染。后续如需扩展字段，可调整 STATUS_FIELD_KEYS。

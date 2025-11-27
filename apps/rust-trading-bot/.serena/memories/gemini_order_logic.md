@@ -1,0 +1,3 @@
+- `execute_trade_action` 仅通过 `current_position.is_some()` 来判断是否已有仓位, 不会检查未成交的计划委托。
+- 每次下单都会 `set_margin_type("ISOLATED")` 与 `set_leverage(50)`; 默认假定账号已处于单向模式。
+- 连续的分析轮次若前一单尚未成交, 会继续重复挂相同方向的计划委托, 存在滚仓/叠加风险。

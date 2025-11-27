@@ -1,0 +1,1 @@
+integrated_ai_trader::analyze_and_trade 现已在三种拒绝建仓的路径中写入 pending_entries：AI 返回 SKIP、量化等待回调且 AI 未覆盖、以及 execute_ai_trial_entry 中入场区验证失败。每次都记录 symbol、alert、拒绝原因与时间，方便延迟队列后续重试。

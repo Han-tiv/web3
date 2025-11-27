@@ -1,0 +1,3 @@
+- trades 表当前字段没有 exit_reason/status，只有 notes/strategy_tag，可用 hold_duration 推断平仓策略。
+- 最近交易的仓位名义金额约 10~15 USDT，导致单次盈亏 < ±0.5 USDT，即便价格波动 2~3% 也只有“微利/微亏”表现。
+- 项目运行环境缺少 sqlite3 可执行文件，需要用 python3 sqlite3 模块替代。

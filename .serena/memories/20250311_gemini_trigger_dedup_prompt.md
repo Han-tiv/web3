@@ -1,0 +1,3 @@
+- `gemini_eth_analyzer` 在执行计划委托前会查询 Binance 开仓触发单，若已存在同方向触发单则自动跳过，日志会说明已有订单详情。
+- `build_analysis_prompt` 会在 Prompt 中输出当前触发单的核心字段，便于 Gemini 决策。
+- `binance_client::OpenOrder` 包含 `status` 字段，可区分 NEW 订单供上层筛选。

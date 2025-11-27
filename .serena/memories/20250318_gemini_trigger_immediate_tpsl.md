@@ -1,0 +1,3 @@
+- Gemini ETH Analyzer 的 ParsedAction::TriggerOrder 分支在下触发单后，会轮询订单状态（5 秒一次，最多 12 次）。
+- 一旦订单成交，立即查询实际持仓数量并调用 Binance 客户端设置止盈/止损，若遇到 -2021 错误则在当前价 ±25U 重新提交。
+- 若 60 秒内未成交、无法找到持仓或 TP/SL 设置失败，则回退到 pending_tpsl 队列延迟补设。

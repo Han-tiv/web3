@@ -148,6 +148,7 @@ enum PositionAction {
         close_quantity: f64,
         close_pct: f64,
         entry_price: f64,
+        stop_loss_price: f64, // ✅ Bug Fix: 保存原始止损价格,部分平仓后重设止损单使用
         remaining_quantity: f64,
         stop_loss_order_id: Option<String>,
     },
@@ -833,6 +834,7 @@ impl IntegratedAITrader {
         symbol: &str,
         side: &str,
         entry_price: f64,
+        stop_loss_price: f64, // ✅ Bug Fix: 止损价格参数
         quantity: f64,
         stop_loss_order_id: Option<String>,
         take_profit_order_id: Option<String>,
@@ -882,6 +884,7 @@ impl IntegratedAITrader {
                                     close_quantity: adjusted_close_qty,
                                     close_pct: adjusted_close_pct,
                                     entry_price,
+                                    stop_loss_price,
                                     remaining_quantity: adjusted_remaining,
                                     stop_loss_order_id,
                                 })
@@ -905,6 +908,7 @@ impl IntegratedAITrader {
                                 close_quantity,
                                 close_pct,
                                 entry_price,
+                                stop_loss_price,
                                 remaining_quantity,
                                 stop_loss_order_id,
                             })
@@ -1460,11 +1464,19 @@ impl IntegratedAITrader {
                                 symbol, profit_pct, duration
                             );
 
+                            // ✅ Bug Fix: 分批持仓无止损单追踪，计算默认止损价
+                            let stop_loss_price = if side == "LONG" {
+                                entry_price * 0.95 // 多单默认止损-5%
+                            } else {
+                                entry_price * 1.05 // 空单默认止损+5%
+                            };
+
                             match self
                                 .evaluate_position_with_ai(
                                     &symbol,
                                     &side,
                                     entry_price,
+                                    stop_loss_price,
                                     current_price,
                                     quantity,
                                     duration,
@@ -1762,10 +1774,26 @@ impl IntegratedAITrader {
                                 Err(_) => context.entry_price,
                             };
 
+                            // ✅ Bug Fix: 查询止损单价格用于部分平仓后重设
+                            let stop_loss_price = if let Some(ref sl_id) = context.stop_loss_order_id {
+                                match self.exchange.get_order_status_detail(&symbol, sl_id).await {
+                                    Ok(status) => status.stop_price.unwrap_or(context.entry_price),
+                                    Err(_) => context.entry_price, // 查询失败时使用入场价作为后备
+                                }
+                            } else {
+                                // 无止损单时基于方向计算默认止损价
+                                if context.side == "LONG" {
+                                    context.entry_price * 0.95 // 多单默认止损-5%
+                                } else {
+                                    context.entry_price * 1.05 // 空单默认止损+5%
+                                }
+                            };
+
                             if let Some(action) = Self::build_action_from_decision(
                                 &symbol,
                                 &context.side,
                                 context.entry_price,
+                                stop_loss_price,
                                 context.quantity,
                                 context.stop_loss_order_id,
                                 context.take_profit_order_id,
@@ -1809,7 +1837,8 @@ impl IntegratedAITrader {
                         side,
                         close_quantity,
                         close_pct: _,
-                        entry_price,
+                        entry_price: _,
+                        stop_loss_price, // ✅ Bug Fix: 使用原始止损价格
                         remaining_quantity,
                         stop_loss_order_id,
                     } => {
@@ -1932,7 +1961,7 @@ impl IntegratedAITrader {
                         if actual_remaining > f64::EPSILON {
                             match self
                                 .exchange
-                                .set_stop_loss(&symbol, &side, actual_remaining, entry_price, None)
+                                .set_stop_loss(&symbol, &side, actual_remaining, stop_loss_price, None)
                                 .await
                             {
                                 Ok(new_sl_id) => {
@@ -2122,6 +2151,7 @@ impl IntegratedAITrader {
         symbol: &str,
         side: &str,
         entry_price: f64,
+        stop_loss_price: f64, // ✅ Bug Fix: 止损价格参数
         current_price: f64,
         quantity: f64,
         duration: f64,
@@ -2326,6 +2356,7 @@ impl IntegratedAITrader {
                             close_quantity: adjusted_close_qty,
                             close_pct: adjusted_close_pct,
                             entry_price,
+                            stop_loss_price,
                             remaining_quantity: adjusted_remaining,
                             stop_loss_order_id,
                         }));
@@ -2349,6 +2380,7 @@ impl IntegratedAITrader {
                     close_quantity,
                     close_pct,
                     entry_price,
+                    stop_loss_price,
                     remaining_quantity,
                     stop_loss_order_id,
                 }));
@@ -2626,6 +2658,7 @@ impl IntegratedAITrader {
                                     close_quantity: adjusted_close_qty,
                                     close_pct: adjusted_close_pct,
                                     entry_price,
+                                    stop_loss_price,
                                     remaining_quantity: adjusted_remaining,
                                     stop_loss_order_id,
                                 })
@@ -2648,6 +2681,7 @@ impl IntegratedAITrader {
                                 close_quantity,
                                 close_pct,
                                 entry_price,
+                                stop_loss_price,
                                 remaining_quantity,
                                 stop_loss_order_id,
                             })

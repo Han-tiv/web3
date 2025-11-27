@@ -1,0 +1,1 @@
+- 2025-03-02：`apps/rust-trading-bot/src/bin/gemini_eth_analyzer.rs` 将 Binance K线请求数量从 100 根降至 50 根，覆盖 1m/5m/15m/1h/4h 周期，减少数据量以提升分析速度。

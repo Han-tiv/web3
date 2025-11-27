@@ -1,0 +1,1 @@
+IntegratedAITrader 现在在 apps/rust-trading-bot/src/bin/integrated_ai_trader.rs 中持有 db: Database 字段，所有 AI 分析与交易记录直接通过 self.db.* 方法写入数据库；new() 需要传入 db 参数，main 在创建实例时传入 db.clone()。

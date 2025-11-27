@@ -1,0 +1,1 @@
+在 integrated_ai_trader 的 handle_message 中，价格过滤后新增 Alpha/FOMO 专用过滤，非 Alpha 币种直接记录日志并返回，确保机器人当前只交易 Alpha/FOMO 机会。

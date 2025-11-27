@@ -1,0 +1,2 @@
+- integrated_ai_trader.rs 的 update_web_equity_state 现改为从 AccountInformation.totalWalletBalance/totalUnrealizedProfit 字段解析 f64，再写入 web_state。
+- 之前依赖的 total_balance/unrealized_pnl 字段已无效，如再遇权益为空值需要检查 parse 默认值。

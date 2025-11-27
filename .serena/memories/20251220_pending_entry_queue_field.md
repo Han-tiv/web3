@@ -1,0 +1,1 @@
+IntegratedAITrader (apps/rust-trading-bot/src/bin/integrated_ai_trader.rs) 现在维护 pending_entries: Arc<RwLock<HashMap<String, PendingEntry>>> 字段，并在 new() 中初始化为 Arc::new(RwLock::new(HashMap::new()))，用于在内存中追踪延迟开仓队列。

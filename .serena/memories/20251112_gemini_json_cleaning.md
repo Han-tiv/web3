@@ -1,0 +1,1 @@
+在 apps/rust-trading-bot/src/gemini_client.rs 中为 analyze_market 与 analyze_position_management 添加了 clean_json_content 清洗逻辑，能剥离 ```json ... ```、``` ... ``` 包裹并记录清洗后日志，避免 Gemini API 返回 markdown 代码块时 JSON 解析失败。
