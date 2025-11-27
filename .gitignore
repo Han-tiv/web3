@@ -172,3 +172,6 @@ backtest_results/
 !**/sample_data.json
 !**/test_data.json
 
+
+# nofx submodule (tracked separately)
+apps/nofx/
