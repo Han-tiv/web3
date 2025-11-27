@@ -1,0 +1,1 @@
+补仓阶段（apps/rust-trading-bot/src/bin/integrated_ai_trader.rs 约 780 行）在 staged_manager.execute_add_position 成功后，会立即写 self.position_trackers，通过 staged_manager.positions 提供的最新 total_quantity/avg_cost 同步 tracker.quantity 和 tracker.entry_price，并输出日志“✅ 已同步tracker...”。避免 monitor 读取旧仓位数据。

@@ -1,0 +1,1 @@
+前端 PositionsList 组件已在 2025-11-09 移除所有平仓相关逻辑，仅保留仓位展示，包括删除按钮、handleClose 函数、closing state 与 closePosition API 调用。

@@ -1,0 +1,2 @@
+- 在 apps/rust-trading-bot/src/database.rs 新增 pending_tpsl 表及相关 CRUD（enqueue/next/update），并提供 PendingTpSlRecord/Status 结构体，方便追踪计划委托触发后待补设的止盈止损。
+- Gemini ETH Analyzer（apps/rust-trading-bot/src/bin/gemini_eth_analyzer.rs）现会在下计划委托成功后写入 pending_tpsl 记录，并在 analyze_eth_usdt 主循环检测持仓缺失 TP/SL 时自动读取记录、重试设置，成功后标记 completed、失败标记 failed。

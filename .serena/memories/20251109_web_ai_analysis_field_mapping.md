@@ -1,0 +1,2 @@
+- AppState::record_ai_analysis 现已要求传入 decision、signal_type、reason，与数据库 ai_analysis(timestamp,symbol,decision,confidence,signal_type,reason) 完全对齐。
+- integrated_ai_trader.rs 在持仓管理与开仓信号场景分别传入 action/signal 作为 decision，并附带 reason 与 signal_type，确保 Web AI 面板字段一致。

@@ -1,0 +1,3 @@
+- Binance rust 客户端已全面切换到 FAPI：所有下单、止盈止损、取消、收益/成交、持仓与账户信息现在统一走 `https://fapi.binance.com`。
+- Portfolio Margin(PAPI) 端点与 `papi_base_url` 字段被删除，`get_positions` 与 `get_account_info` 直接走 FAPI，并继续补充现货/资金账户信息。
+- 止损/止盈市价单现在使用标准 FAPI `type=STOP_MARKET/TAKE_PROFIT_MARKET` 参数（含数量精度校准）。

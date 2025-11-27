@@ -1,0 +1,1 @@
+2025-11-11：integrated_ai_trader 增加 MEME_COINS 常量与 is_meme_coin 方法，MEME 币种限定 -1% 硬止损和 30 分钟时间止损，其他币种仍维持 -1.5% / 60 分钟阈值。

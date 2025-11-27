@@ -1,0 +1,28 @@
+{
+  "VulnerableVault": {
+    "name": "VulnerableVault",
+    "inherits": [],
+    "functions": [],
+    "state_vars": [
+      {
+        "name": "owner",
+        "type": "address",
+        "visibility": "public",
+        "value": null
+      },
+      {
+        "name": "totalSupply",
+        "type": "uint256",
+        "visibility": "public",
+        "value": null
+      }
+    ],
+    "events": [
+      "Deposit",
+      "Withdrawal"
+    ],
+    "modifiers": [
+      "onlyOwner"
+    ]
+  }
+}

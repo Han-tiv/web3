@@ -1,0 +1,1 @@
+- integrated_ai_trader.rs 在持仓管理 AI 分析成功后也会克隆 web_state, 通过 AppState::record_ai_analysis 把 AI 动作、理由以及 map_confidence_to_score 映射的置信度写入数据库，沿用统一的置信度转换函数供多处调用。

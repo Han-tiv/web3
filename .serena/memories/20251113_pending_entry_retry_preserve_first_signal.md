@@ -1,0 +1,1 @@
+integrated_ai_trader.rs 的 AI SKIP、等待回调、价格验证失败三个场景在加入 pending_entries 时，若 symbol 已存在不再重新插入，而是仅更新 retry_count、last_analysis_time 和 reject_reason，保留 first_signal_time，避免频繁重置触发重试逻辑异常。

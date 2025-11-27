@@ -1,0 +1,1 @@
+EquityChart( apps/rust-trading-bot/web/src/components/EquityChart.tsx ) 已改为直接使用 SWR 拉取 /api/equity-history，利用 isLoading/isValidating 驱动加载与刷新按钮，不再在组件内维护手写的 fetch + setInterval 状态机；历史数据过滤仅排除 total_equity<=0 或非数字的点，避免误删有效数据。

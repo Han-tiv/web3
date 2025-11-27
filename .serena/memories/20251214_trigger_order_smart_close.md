@@ -1,0 +1,3 @@
+- 位置：apps/rust-trading-bot/src/bin/integrated_ai_trader.rs
+- 变更：TRIGGER_ORDER 分支会在下单前查询交易所持仓，若同向持仓存在则自动把 action 设为 CLOSE，同时在返回消息里附带止盈/止损提示。
+- 含义：AI 决策下发触发单时可自动识别止盈/止损平仓，避免重复开仓。

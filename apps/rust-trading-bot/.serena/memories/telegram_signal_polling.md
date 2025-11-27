@@ -1,0 +1,3 @@
+- telegram_signals 表现在包含 processed 与 processed_at 字段，并在 bootstrap 阶段自动通过 ensure_column 添加缺失列。
+- Database 新增 list_unprocessed_telegram_signals/mark_telegram_signal_processed，供后台线程轮询未处理信号并落盘处理状态。
+- integrated_ai_trader 在 main() 中启动 5 秒轮询线程，调用 IntegratedAITrader::handle_valuescan_message 使用数据库中缓存的原始 Telegram 文本恢复旧的交易分析流程。

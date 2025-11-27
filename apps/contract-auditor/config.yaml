@@ -1,0 +1,122 @@
+# AI Contract Auditor 配置文件
+
+# LLM 配置
+llm:
+  # 推理模型（用于漏洞分析）
+  reasoning_model: "deepseek-coder-v2:32b"
+
+  # 编码模型（用于 POC 生成）
+  coding_model: "qwen2.5:14b"
+
+  # API 配置
+  api_url: "http://localhost:11434/api/generate"  # Ollama 本地
+  api_key: ""  # 如使用云端 API
+
+  # 推理参数
+  max_rounds: 27  # 最大推理轮次
+  min_confidence: 0.87  # 最小置信度阈值
+  temperature: 0.7
+  max_tokens: 8000
+
+# 审计配置
+audit:
+  # 关注的漏洞类型
+  focus_areas:
+    - "权限绕过"
+    - "精度丢失"
+    - "重入攻击"
+    - "整数溢出"
+    - "Admin 滥用"
+    - "跨合约交互风险"
+
+  # 风险等级阈值
+  risk_levels:
+    high: 0.9      # 高危：置信度 > 0.9
+    medium: 0.7    # 中危：置信度 0.7-0.9
+    low: 0.5       # 低危：置信度 < 0.7
+
+  # exploitability 评估
+  exploitability:
+    high: "可直接利用，资金损失 > 1M USD"
+    medium: "需特定条件，资金损失 100K-1M USD"
+    low: "难以利用或资金影响 < 100K USD"
+
+# 解析器配置
+parser:
+  # 使用的工具
+  tools:
+    - "slither"      # 静态分析
+    - "mythril"      # 符号执行（可选）
+
+  # 提取的信息
+  extract:
+    - "functions"    # 函数签名
+    - "modifiers"    # 修饰符
+    - "state_vars"   # 状态变量
+    - "inheritance"  # 继承关系
+    - "dependencies" # 依赖合约
+
+# POC 生成器配置
+poc:
+  # 生成的语言
+  languages:
+    - "javascript"   # ethers.js
+    - "python"       # web3.py（可选）
+
+  # 网络配置
+  network:
+    rpc_url: "http://localhost:8545"  # 本地 Hardhat/Ganache
+    chain_id: 31337
+
+  # 测试框架
+  framework: "hardhat"  # hardhat | foundry
+
+# 报告配置
+reporter:
+  # 输出格式
+  formats:
+    - "json"
+    - "markdown"
+    - "html"
+
+  # 报告内容
+  sections:
+    - "executive_summary"   # 执行摘要
+    - "vulnerability_list"  # 漏洞列表
+    - "call_chain_graph"    # 调用链图
+    - "poc_scripts"         # POC 脚本
+    - "recommendations"     # 修复建议
+
+  # UI 配置
+  ui:
+    theme: "dark"
+    auto_refresh: true
+    refresh_interval: 5  # 秒
+
+# 缓存配置
+cache:
+  enabled: true
+  ttl: 3600  # 缓存时间（秒）
+  directory: "data/cache"
+
+# 日志配置
+logging:
+  level: "INFO"  # DEBUG | INFO | WARNING | ERROR
+  file: "data/logs/auditor.log"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+# 性能优化
+performance:
+  # 并行处理
+  parallel:
+    enabled: true
+    max_workers: 4
+
+  # 批处理
+  batch_size: 5  # 每批处理的合约数
+
+  # 超时设置
+  timeout:
+    parsing: 300      # 5分钟
+    analysis: 3600    # 1小时
+    poc_generation: 600  # 10分钟

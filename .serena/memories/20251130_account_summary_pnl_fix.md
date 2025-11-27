@@ -1,0 +1,1 @@
+2025-11-30：更新 apps/rust-trading-bot/src/web_server.rs 的 get_account，将 unrealized_pnl 来源改为 positions.iter().map(|p| p.pnl).sum()，同时将 available_balance 直接对齐 total_equity，避免重复扣减未实现盈亏。

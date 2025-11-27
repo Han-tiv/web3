@@ -1,0 +1,1 @@
+在 apps/rust-trading-bot/src/bin/integrated_ai_trader.rs 为 IntegratedAITrader 新增 sync_existing_positions 方法，并在 main 中启动监控线程前调用，用来在服务重启时根据交易所 get_positions 结果回填 position_trackers，避免 monitor_positions 漏管历史仓位。

@@ -1,0 +1,1 @@
+2025-11-12：集成AI交易器在 apps/rust-trading-bot 目录下执行 `cargo build --release --bin integrated_ai_trader` 可成功编译，仅有若干警告；目前项目中尚不存在 `StopLossAdjustment`/`TakeProfitAdjustment` 结构体定义，如果后续需要让 DeepSeek 输出这些字段，需要在 `deepseek_client.rs` 中补齐结构和解析逻辑。

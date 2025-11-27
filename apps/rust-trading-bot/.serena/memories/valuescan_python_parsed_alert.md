@@ -1,0 +1,1 @@
+handle_valuescan_message 现已直接用 Web API 传入的 symbol/signal_type 构建 FundAlert，不再重新解析 message_text，日志会提示“Using Python parsed data…”，确保与 Python 侧解析保持一致。

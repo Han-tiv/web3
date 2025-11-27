@@ -1,0 +1,2 @@
+- Binance 客户端现在区分 `get_order_status_detail`（返回完整 `OrderStatus`）与新的 `get_order_status`（仅返回字符串状态），其中详情方法供需要执行数量和价格信息的流程使用。
+- Gemini ETH analyzer 下计划委托后会立即轮询订单状态（5 秒一次，最多 30 秒），成交后立即设置止盈止损，超时则登记 pending_tpsl 任务。

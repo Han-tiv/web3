@@ -1,0 +1,3 @@
+- AIAnalysisPanel 现直接消费 AiHistoryEntry，不再定义 AiAnalysisRecord 兼容类型。
+- deriveSignalTags 仅解析 signal_type，getAnalysisContent 仅展示 reason，时间字段统一使用 timestamp。
+- 依赖后端统一字段 decision/signal_type/reason/timestamp，避免历史字段兼容流程。

@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "auditor": "AI Contract Auditor",
+    "version": "1.0.0",
+    "contract_path": "examples/VulnerableVault.sol",
+    "audit_date": "2025-11-16T23:03:52.383845",
+    "duration_seconds": 0.003166,
+    "tokens_used": 0
+  },
+  "summary": {
+    "total_contracts": 1,
+    "total_vulnerabilities": 1,
+    "high_risk": 0,
+    "medium_risk": 0,
+    "low_risk": 0,
+    "confidence": 0.0
+  },
+  "contracts": [
+    "VulnerableVault"
+  ],
+  "vulnerabilities": [
+    {
+      "category": "权限绕过",
+      "description": "Round 19 fallback reasoning for 权限绕过",
+      "severity": "high",
+      "exploitability": "高",
+      "confidence": 0.9456,
+      "round_detected": 19,
+      "target": null,
+      "recommendation": "Introduce strict role checks or guards where missing.",
+      "evidence": "VulnerableVault:onlyOwner => unt);     event Withdrawal(address indexed user, uint256 amount);      modifier onlyOwner() {         require(msg.sender == owner, \"Not owner\");         _;"
+    }
+  ],
+  "recommendations": [],
+  "analysis": {
+    "rounds": 27,
+    "confidence": 0.9456,
+    "vulnerabilities": [
+      {
+        "category": "权限绕过",
+        "description": "Round 19 fallback reasoning for 权限绕过",
+        "severity": "high",
+        "exploitability": "高",
+        "confidence": 0.9456,
+        "round_detected": 19,
+        "target": null,
+        "recommendation": "Introduce strict role checks or guards where missing.",
+        "evidence": "VulnerableVault:onlyOwner => unt);     event Withdrawal(address indexed user, uint256 amount);      modifier onlyOwner() {         require(msg.sender == owner, \"Not owner\");         _;"
+      }
+    ],
+    "history": [
+      {
+        "round": "23",
+        "reasoning": "Round 23 fallback reasoning for Gas 优化",
+        "action": "review loops and storage writes",
+        "observation": "置信度 0.60 < 阈值 0.87"
+      },
+      {
+        "round": "24",
+        "reasoning": "Round 24 fallback reasoning for 命名问题",
+        "action": "review event/function naming clarity",
+        "observation": "置信度 0.60 < 阈值 0.87"
+      },
+      {
+        "round": "25",
+        "reasoning": "Round 25 fallback reasoning for 权限绕过",
+        "action": "trace access control modifiers",
+        "observation": "记录漏洞 权限绕过 (conf=0.95)"
+      },
+      {
+        "round": "26",
+        "reasoning": "Round 26 fallback reasoning for 重入攻击",
+        "action": "inspect payable functions with external calls",
+        "observation": "置信度 0.62 < 阈值 0.87"
+      },
+      {
+        "round": "27",
+        "reasoning": "Round 27 fallback reasoning for 精度丢失",
+        "action": "verify arithmetic precision handling",
+        "observation": "置信度 0.62 < 阈值 0.87"
+      }
+    ]
+  }
+}

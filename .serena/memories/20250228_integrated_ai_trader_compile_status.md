@@ -1,0 +1,1 @@
+2025-02-28：`apps/rust-trading-bot` 当前 `cargo clippy --all-targets -- -D warnings` 无法通过，主要阻塞在 `src/smart_money_tracker.rs`/`src/support_analyzer.rs` 等函数参数过多、`src/staged_position_manager.rs` 手写区间判断、多个 `new_without_default` 提示以及 `src/bitget_client.rs` 字段命名。`cargo check --bin integrated_ai_trader` 也失败，原因是 `src/bin/integrated_ai_trader.rs` 中 `FundAlert` 未实现 `Serialize`。

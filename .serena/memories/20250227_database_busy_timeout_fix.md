@@ -1,0 +1,4 @@
+- 更新 `apps/rust-trading-bot/src/database.rs`：
+  - `configure` 中使用 `Connection::busy_timeout(Duration::from_secs(5))` 以匹配 rusqlite API。
+  - `collect_rows` 函数改用 `rusqlite::MappedRows<'_, F>`，避免多余生命周期参数造成编译错误。
+- 2025-02-27 任务：修复 rust-trading-bot 数据库模块的编译问题。

@@ -1,0 +1,1 @@
+apps/rust-trading-bot/src/bin/gemini_eth_analyzer.rs 现已改用 binance.calculate_quantity_with_margin(entry_price, CAPITAL, LEVERAGE, &rules)? 来计算下单数量，并在获取 Result 后统一使用 quantity 进行风控与下单，避免因参数顺序或未解包导致的编译错误。

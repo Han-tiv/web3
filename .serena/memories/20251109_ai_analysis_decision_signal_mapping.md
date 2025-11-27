@@ -1,0 +1,2 @@
+- integrated_ai_trader.rs 所有 record_ai_analysis 调用现统一传入 decision_text（包含动作+关键指标）与 normalize_signal_type(BUY/SELL/HOLD/CLOSE)，避免再写入 PARTIAL_CLOSE/SKIP 等标签。
+- 新增 normalize_signal_type 辅助方法，任何 AI 输出都会映射到 BUY/SELL/HOLD/CLOSE 供 Web 面板使用。

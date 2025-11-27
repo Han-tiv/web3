@@ -1,0 +1,3 @@
+- 在 Database::bootstrap 中新增 analysis_logs 表与 symbol+timestamp 索引，用于持久化 Gemini 分析历史（包含分析文本、价格、指标 JSON、持仓 JSON、解析出的动作 JSON）。
+- 新增 Database::save_analysis_log 方法，序列化指标/持仓后插入该表，返回行 ID。
+- apps/rust-trading-bot/src/bin/gemini_eth_analyzer.rs 会在 execute_trade_action 之后解析动作列表、写入 analysis_logs，日志失败仅发出 warn，不影响主流程。

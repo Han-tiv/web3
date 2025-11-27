@@ -1,0 +1,1 @@
+在 apps/rust-trading-bot/src/lib.rs 中已经导出 database 模块（并标注為 SQLite 数据访问层），位置紧邻 coin_parser、position_coordinator 等模块定义。后续若再添加与数据库层相关的文件，可直接在该模块下扩展。

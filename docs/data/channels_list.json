@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3214873533,
+    "title": "nofx-dev-community",
+    "username": "nofx_dev_community",
+    "access_hash": -203810131610635026,
+    "type": "supergroup",
+    "members_count": 4406,
+    "broadcast": false,
+    "megagroup": true,
+    "verified": false,
+    "scam": false,
+    "fake": false,
+    "restricted": false,
+    "date": "2025-11-15T04:44:56Z"
+  },
+  {
+    "id": 2488739133,
+    "title": "Valuescan",
+    "username": "valuescanCN",
+    "access_hash": 7890505121727658181,
+    "type": "supergroup",
+    "members_count": 9004,
+    "broadcast": false,
+    "megagroup": true,
+    "verified": false,
+    "scam": false,
+    "fake": false,
+    "restricted": false,
+    "date": "2025-11-13T13:03:04Z"
+  }
+]

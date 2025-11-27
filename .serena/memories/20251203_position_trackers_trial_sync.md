@@ -1,0 +1,1 @@
+在 integrated_ai_trader 中，试探建仓成功后需要同步记录到 position_trackers，这样 monitor_positions 线程才能跟踪这些仓位并执行动态平仓。新增逻辑位于 apps/rust-trading-bot/src/bin/integrated_ai_trader.rs 第 2116 行左右，在记录 staged_manager 后立即写 position_trackers。

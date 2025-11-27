@@ -1,0 +1,1 @@
+web/src/components/BackendStatus.tsx 为独立的后端状态卡片组件，内部通过 api.getStatus()+SWR 每10秒轮询，解析在线状态、运行时长、最后更新时间以及持仓/交易/AI分析计数，并在 App.tsx 中以 <BackendStatus /> 引用。后续若新增状态字段，可在组件顶部的 STATUS_FIELD_KEYS 扩展键集合。

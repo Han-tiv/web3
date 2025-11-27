@@ -1,0 +1,2 @@
+- `apps/rust-trading-bot/src/bin/integrated_ai_trader.rs` 新增 `update_web_equity_state` 辅助方法，封装 `get_account_info` → `web_state.record_equity/update_account` 流程。
+- `monitor_positions` 轮询以及试探建仓成功分支在调用交易所下单成功后都会调用该方法刷新 Web 控制台权益。
