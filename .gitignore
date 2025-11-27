@@ -175,3 +175,7 @@ backtest_results/
 
 # nofx submodule (tracked separately)
 apps/nofx/
+
+# 环境���量备份文件 (包含敏感信息)
+.env.backup.*
+.env.*.backup
