@@ -37,6 +37,12 @@
     "pnpm": ">=9.0.0"
   },
   "packageManager": "pnpm@9.15.0",
+  "pnpm": {
+    "overrides": {
+      "js-yaml": "^4.1.1",
+      "tmp": "^0.2.4"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/your-username/web3-monorepo.git"
