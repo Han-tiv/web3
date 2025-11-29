@@ -13,20 +13,19 @@ from typing import Optional
 import re
 
 import httpx
-from dotenv import load_dotenv
 from telethon import TelegramClient, events
 
-# 加载根目录的 .env
-load_dotenv('/home/hanins/code/web3/.env')
-
-# 配置
-TELEGRAM_API_ID = int(os.getenv('TELEGRAM_API_ID', '0'))
-TELEGRAM_API_HASH = os.getenv('TELEGRAM_API_HASH', '')
-TELEGRAM_PHONE = os.getenv('TELEGRAM_PHONE', '')
-TELEGRAM_CHANNELS = os.getenv('TELEGRAM_CHANNELS', '@valuescaner').split(',')
+# 导入统一配置
+from config import (
+    TELEGRAM_API_ID,
+    TELEGRAM_API_HASH,
+    TELEGRAM_PHONE,
+    TELEGRAM_CHANNELS,
+    RUST_ENGINE_URL
+)
 
 # Rust交易引擎API地址
-RUST_API_URL = os.getenv('RUST_API_URL', 'http://localhost:8080/api/signals')
+RUST_API_URL = f"{RUST_ENGINE_URL}/api/signals"
 
 # 统计信息
 stats = {

@@ -1,17 +1,15 @@
 #!/usr/bin/env python3
-"""模拟发送一个测试信号到Telegram频道,测试V2系统响应"""
-
+"""测试Valuescan V2信号转发"""
 import asyncio
-import os
 from telethon import TelegramClient
-from dotenv import load_dotenv
 
-# 加载根目录的 .env
-load_dotenv('/home/hanins/code/web3/.env')
-
-TELEGRAM_API_ID = os.getenv('TELEGRAM_API_ID')
-TELEGRAM_API_HASH = os.getenv('TELEGRAM_API_HASH')
-TELEGRAM_PHONE = os.getenv('TELEGRAM_PHONE')
+# 导入统一配置
+from config import (
+    TELEGRAM_API_ID,
+    TELEGRAM_API_HASH,
+    TELEGRAM_PHONE,
+    SESSION_FILE
+)
 
 # 测试信号 - 模拟一个AVNT信号(从真实频道消息修改)
 TEST_SIGNAL = """🚨 **【Alpha + FOMO】****$AVNT**  🔥 **币安Alpha**

@@ -1,19 +1,20 @@
 #!/usr/bin/env python3
-"""获取Telegram频道最近的消息"""
-
+"""获取最近的Telegram消息"""
 import asyncio
-import os
 from datetime import datetime, timedelta
 from telethon import TelegramClient
-from dotenv import load_dotenv
 
-# 加载根目录的 .env
-load_dotenv('/home/hanins/code/web3/.env')
+# 导入统一配置
+from config import (
+    TELEGRAM_API_ID,
+    TELEGRAM_API_HASH,
+    TELEGRAM_PHONE,
+    TELEGRAM_CHANNELS,
+    SESSION_FILE
+)
 
-TELEGRAM_API_ID = os.getenv('TELEGRAM_API_ID')
-TELEGRAM_API_HASH = os.getenv('TELEGRAM_API_HASH')
-TELEGRAM_PHONE = os.getenv('TELEGRAM_PHONE')
-TELEGRAM_CHANNELS = os.getenv('TELEGRAM_CHANNELS', '@valuescaner')
+# TELEGRAM_CHANNELS 是列表，转为字符串用于显示
+CHANNELS_STR = ','.join(TELEGRAM_CHANNELS) if isinstance(TELEGRAM_CHANNELS, list) else TELEGRAM_CHANNELS
 
 async def get_recent_messages():
     """获取最近的消息"""
