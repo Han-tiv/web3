@@ -153,13 +153,9 @@ impl Database {
             CREATE TABLE IF NOT EXISTS telegram_signals (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
                 symbol TEXT NOT NULL,
-                signal_type TEXT NOT NULL,
-                score INTEGER NOT NULL,
-                keywords TEXT NOT NULL,
-                recommend_action TEXT NOT NULL,
-                reason TEXT NOT NULL,
                 raw_message TEXT NOT NULL,
                 timestamp TEXT NOT NULL,
+                recommend_action TEXT NOT NULL DEFAULT 'LONG',
                 processed INTEGER NOT NULL DEFAULT 0,
                 processed_at TEXT,
                 created_at TEXT NOT NULL DEFAULT (datetime('now'))
@@ -615,31 +611,18 @@ impl Database {
     pub fn insert_telegram_signal(
         &self,
         symbol: &str,
-        signal_type: &str,
-        score: i32,
-        keywords: &str,
-        recommend_action: &str,
-        reason: &str,
         raw_message: &str,
         timestamp: &str,
     ) -> DbResult<i64> {
         let conn = self.guard()?;
+        // 简化插入：只保存必要的3个字段
         conn.execute(
             r#"
             INSERT INTO telegram_signals (
-                symbol, signal_type, score, keywords, recommend_action, reason, raw_message, timestamp
-            ) VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8)
+                symbol, raw_message, timestamp, processed
+            ) VALUES (?1, ?2, ?3, 0)
         "#,
-            params![
-                symbol,
-                signal_type,
-                score,
-                keywords,
-                recommend_action,
-                reason,
-                raw_message,
-                timestamp
-            ],
+            params![symbol, raw_message, timestamp],
         )?;
         Ok(conn.last_insert_rowid())
     }
@@ -649,7 +632,7 @@ impl Database {
         let conn = self.guard()?;
         let mut stmt = conn.prepare(
             r#"
-            SELECT id, symbol, signal_type, score, keywords, recommend_action, reason, raw_message, timestamp, created_at, processed, processed_at
+            SELECT id, symbol, raw_message, timestamp, recommend_action, created_at, processed, processed_at
             FROM telegram_signals
             ORDER BY timestamp DESC
             LIMIT ?1
@@ -668,7 +651,7 @@ impl Database {
         let conn = self.guard()?;
         let mut stmt = conn.prepare(
             r#"
-            SELECT id, symbol, signal_type, score, keywords, recommend_action, reason, raw_message, timestamp, created_at, processed, processed_at
+            SELECT id, symbol, raw_message, timestamp, recommend_action, created_at, processed, processed_at
             FROM telegram_signals
             WHERE symbol = ?1
             ORDER BY timestamp DESC
@@ -687,7 +670,7 @@ impl Database {
         let conn = self.guard()?;
         let mut stmt = conn.prepare(
             r#"
-            SELECT id, symbol, signal_type, score, keywords, recommend_action, reason, raw_message, timestamp, created_at, processed, processed_at
+            SELECT id, symbol, raw_message, timestamp, created_at, processed, processed_at
             FROM telegram_signals
             WHERE processed = 0
             ORDER BY timestamp ASC
@@ -794,11 +777,6 @@ impl PendingTpSlStatus {
 pub struct TelegramSignalRecord {
     pub id: Option<i64>,
     pub symbol: String,
-    pub signal_type: String,
-    pub score: i32,
-    pub keywords: String,
-    pub recommend_action: String,
-    pub reason: String,
     pub raw_message: String,
     pub timestamp: String,
     pub created_at: String,
@@ -877,19 +855,14 @@ fn map_telegram_signal(row: &Row<'_>) -> rusqlite::Result<TelegramSignalRecord> 
     Ok(TelegramSignalRecord {
         id: Some(row.get(0)?),
         symbol: row.get(1)?,
-        signal_type: row.get(2)?,
-        score: row.get(3)?,
-        keywords: row.get(4)?,
-        recommend_action: row.get(5)?,
-        reason: row.get(6)?,
-        raw_message: row.get(7)?,
-        timestamp: row.get(8)?,
-        created_at: row.get(9)?,
+        raw_message: row.get(2)?,
+        timestamp: row.get(3)?,
+        created_at: row.get(4)?,
         processed: {
-            let value: i64 = row.get(10)?;
+            let value: i64 = row.get(5)?;
             value != 0
         },
-        processed_at: row.get::<_, Option<String>>(11)?,
+        processed_at: row.get::<_, Option<String>>(6)?,
     })
 }
 

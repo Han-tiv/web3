@@ -1,32 +1,38 @@
 """
 Valuescaner频道信号解析器
-专门解析valuescaner频道的特殊消息格式
+负责提取币种、价格及风控标记
 """
 import re
 from typing import Optional, Dict, Any
 
+RISK_KEYWORDS = [
+    "主力资金已出逃",
+    "资金流出",
+    "价格高点警示",
+    "本金保护警示"
+]
+
+POSITIVE_KEYWORDS = [
+    "【ALPHA + FOMO】",
+    "ALPHA+FOMO",
+    "【ALPHA】",
+    "ALPHA",
+    "【FOMO】",
+    "FOMO",
+    "资金流入",
+    "【资金异动】"
+]
+
 
 def parse_valuescaner_signal(text: str) -> Optional[Dict[str, Any]]:
     """
-    解析valuescaner频道的信号消息
-
-    支持的消息类型:
-    1. 资金流入/流出: "📊 资金流入: PUMP 💰"
-    2. FOMO信号: "🚀 【FOMO】$TRUST"
-    3. Alpha信号: "⭐ 【Alpha】$AVNT"
-    4. Alpha+FOMO: "🚨 【Alpha + FOMO】$AVNT"
-    5. 资金异动: "💰 【资金异动】$PENGU"
-    6. 主力资金出逃: "🚨 $SOL 主力资金已出逃"
-    7. 价格高点警示: "📍 $NXPC 价格高点警示"
-    8. 本金保护警示: "🟠 $NMR 本金保护警示"
+    解析valuescaner频道的信号消息，仅提取币种、价格与是否可做多
     """
     if not text:
         return None
 
     # 提取币种符号
     symbol = None
-
-    # 尝试多种格式提取币种
     patterns = [
         r'\$([A-Z]{2,10})',  # $BTC格式
         r'\*\*\$([A-Z]{2,10})\*\*',  # **$BTC**格式
@@ -35,22 +41,21 @@ def parse_valuescaner_signal(text: str) -> Optional[Dict[str, Any]]:
     ]
 
     for pattern in patterns:
-        match = re.search(pattern, text)
+        match = re.search(pattern, text, re.IGNORECASE)
         if match:
-            symbol = match.group(1)
+            symbol = match.group(1).upper()
             break
 
     if not symbol:
         return None
 
-    # 标准化为USDT交易对
     if not symbol.endswith('USDT'):
         symbol = f"{symbol}USDT"
 
-    # 提取当前价格
+    # 提取当前价格（仅用于日志）
     price = None
     price_patterns = [
-        r'现价[:\s]*\*\*\$([0-9]+\.?[0-9]*)\*\*',  # 现价: **$0.4311**
+        r'现价[:\s]*\*\*\$([0-9]+\.?[0-9]*)\*\*',
         r'💵\s*现价[:\s]*\*\*\$([0-9]+\.?[0-9]*)\*\*',
         r'价格[:\s]*\*\*\$([0-9]+\.?[0-9]*)\*\*',
     ]
@@ -61,90 +66,16 @@ def parse_valuescaner_signal(text: str) -> Optional[Dict[str, Any]]:
             price = float(match.group(1))
             break
 
-    # 提取24H涨跌幅
-    change_24h = None
-    change_patterns = [
-        r'24H[:\s]*`([+-]?[0-9]+\.?[0-9]*)%`',
-        r'📈\s*24H[:\s]*`([+-]?[0-9]+\.?[0-9]*)%`',
-        r'📉\s*24H[:\s]*`([+-]?[0-9]+\.?[0-9]*)%`',
-    ]
-
-    for pattern in change_patterns:
-        match = re.search(pattern, text)
-        if match:
-            change_24h = float(match.group(1))
-            break
-
-    # 判断信号类型和评分
-    signal_type = None
-    score = 0
-    confidence = "LOW"
-    risk_level = "NORMAL"
-
-    text_upper = text.upper()
-
-    if "主力资金已出逃" in text:
-        signal_type = "fund_escape"
-        score = -5
-        confidence = "LOW"
-        risk_level = "HIGH"
-        should_long = False
-    elif "资金流出" in text:
-        signal_type = "fund_outflow"
-        score = -3
-        confidence = "LOW"
-        risk_level = "MEDIUM"
-        should_long = False
-    elif "价格高点警示" in text:
-        signal_type = "price_high_alert"
-        score = -2
-        confidence = "LOW"
-        risk_level = "MEDIUM"
-        should_long = False
-    elif "本金保护警示" in text:
-        signal_type = "capital_protection"
-        score = -2
-        confidence = "LOW"
-        risk_level = "MEDIUM"
-        should_long = False
-    elif "ALPHA + FOMO" in text_upper or "ALPHA+FOMO" in text_upper:
-        signal_type = "alpha_fomo"
-        score = 7  # 高评分
-        confidence = "HIGH"
-        should_long = True
-    elif "【FOMO】" in text_upper or "FOMO" in text_upper:
-        signal_type = "fomo"
-        score = 5
-        confidence = "MEDIUM"
-        should_long = True
-    elif "【ALPHA】" in text_upper or "ALPHA" in text_upper:
-        signal_type = "alpha"
-        score = 5
-        confidence = "MEDIUM"
-        should_long = True
-    elif "资金流入" in text:
-        signal_type = "fund_inflow"
-        score = 2
-        confidence = "MEDIUM"
-        should_long = True
-    elif "【资金异动】" in text:
-        signal_type = "fund_movement"
-        score = 3
-        confidence = "MEDIUM"
-        should_long = True
-    else:
-        # 不是可识别的信号类型
-        return None
+    # 默认只要命中风险关键词则禁止做多，否则只有在正面关键词时才允许做多
+    upper_text = text.upper()
+    is_risky = any(keyword in text for keyword in RISK_KEYWORDS)
+    has_positive = any(keyword.upper() in upper_text for keyword in POSITIVE_KEYWORDS)
+    should_long = has_positive and not is_risky
 
     return {
         'symbol': symbol,
-        'signal_type': signal_type,
-        'score': score,
-        'confidence': confidence,
         'price': price,
-        'change_24h': change_24h,
         'should_long': should_long,
-        'risk_level': risk_level,
         'raw_text': text
     }
 
@@ -184,10 +115,8 @@ if __name__ == "__main__":
         signal = parse_valuescaner_signal(msg)
         if signal:
             print(f"✅ 币种: {signal['symbol']}")
-            print(f"   类型: {signal['signal_type']} | 评分: {signal['score']} | 置信度: {signal['confidence']}")
-            print(f"   价格: ${signal['price']} | 24H: {signal['change_24h']}%")
-            print(f"   建议: {'做多' if signal['should_long'] else '观望/做空'}")
+            print(f"   价格: ${signal['price']}")
+            print(f"   建议: {'做多' if signal['should_long'] else '跳过'}")
             print()
         else:
-            print(f"❌ 解析失败")
-            print()
+            print("❌ 解析失败\n")

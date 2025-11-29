@@ -303,7 +303,7 @@ ping telegram.org
 # 测试HTTP连接
 curl -X POST http://localhost:8080/api/signals \
     -H "Content-Type: application/json" \
-    -d '{"symbol":"BTCUSDT","side":"LONG","entry_price":95000,"stop_loss":94000,"confidence":"HIGH","leverage":10,"source":"test","timestamp":1700000000,"raw_message":"test"}'
+    -d '{"symbol":"BTCUSDT","raw_message":"test","timestamp":1700000000}'
 
 # 检查数据库
 curl http://localhost:8080/api/telegram-signals | jq '.'

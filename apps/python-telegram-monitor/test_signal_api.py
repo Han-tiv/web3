@@ -8,25 +8,12 @@ import time
 # 构建测试信号
 test_signal = {
     'symbol': 'BTCUSDT',
-    'side': 'LONG',
-    'entry_price': 98000.0,
-    'stop_loss': 95000.0,
-    'take_profit': 102000.0,
-    'confidence': 'HIGH',
-    'leverage': 10,
-    'source': 'telegram_python_test',
-    'timestamp': time.time(),
-    'raw_message': '📊 资金流入: BTC 💰\n价格: $98000 | 24H: +2.5% | 类型: 强烈看多',
-    'signal_type': '强烈看多',
-    'score': 8,
-    'risk_level': 'NORMAL'
+    'raw_message': '📊 资金流入: BTC 💰\n价格: $98000 | 24H: +2.5%',
+    'timestamp': time.time()
 }
 
 print("🧪 测试信号转发到 Rust AI 交易引擎")
 print(f"   币种: {test_signal['symbol']}")
-print(f"   方向: {test_signal['side']}")
-print(f"   价格: ${test_signal['entry_price']:.2f}")
-print(f"   信心: {test_signal['confidence']}")
 print()
 
 try:

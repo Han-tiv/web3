@@ -239,11 +239,6 @@ impl MessageParser {
 
             if let Err(err) = ctx.db().insert_telegram_signal(
                 &signal.symbol,
-                &signal.signal_type,
-                signal.score,
-                &signal.keywords.join(", "),
-                &signal.recommend_action,
-                &signal.reason,
                 &signal.raw_message,
                 &signal.timestamp.to_rfc3339(),
             ) {

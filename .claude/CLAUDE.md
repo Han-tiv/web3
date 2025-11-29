@@ -35,8 +35,8 @@ web3/                           ← 项目根目录
 
 #### Binance API (Rust交易机器人)
 ```bash
-BINANCE_API_KEY=dpr1YD1T8B52JYjY934k1mBN0xPDxpsCSOzTdAVu5UrwvTqQFxa8G6InEBFaPO3l
-BINANCE_SECRET=ehUvyq0RngHAvnJsIBrS4mPVWGs1d9s3TzIo8yXNImIfBDJPRAEjthPuxOABaJig
+BINANCE_API_KEY=********
+BINANCE_SECRET=*****
 BINANCE_TESTNET=false
 ```
 

@@ -179,3 +179,39 @@ apps/nofx/
 # 环境���量备份文件 (包含敏感信息)
 .env.backup.*
 .env.*.backup
+# Session files
+*.session
+*.session-journal
+*.session.backup*
+*.session.failed
+
+# Database backups
+*.db.backup*
+data/trading.db.backup_*
+
+# Binaries backup
+binaries/
+
+# Logs
+*.log
+logs/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Node
+node_modules/
+
+# Rust
+target/
+Cargo.lock
+
+# Temp files
+*.swp
+*.swo
+*~
+nohup.out
+monitor.pid
+

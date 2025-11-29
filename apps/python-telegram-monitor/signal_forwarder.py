@@ -2,24 +2,19 @@
 """
 Telegram信号转发器 - 使用稳定的Telethon库
 接收Telegram消息并通过HTTP转发到Rust交易引擎
-专门为valuescaner频道优化
 """
 
 import asyncio
-import json
 import os
 import sys
 import time
 from datetime import datetime
 from typing import Optional
+import re
 
 import httpx
 from dotenv import load_dotenv
 from telethon import TelegramClient, events
-from telethon.tl.types import User
-
-# 导入valuescaner专用解析器
-from valuescaner_parser import parse_valuescaner_signal
 
 # 加载根目录的 .env
 load_dotenv('/home/hanins/code/web3/.env')
@@ -41,6 +36,45 @@ stats = {
     'failed': 0,
     'start_time': datetime.now()
 }
+
+# 币种提取与风险过滤规则
+SYMBOL_PATTERNS = [
+    re.compile(r'\$([A-Za-z0-9]{2,10})', re.IGNORECASE),                    # $BTC
+    re.compile(r'资金(?:流入|流出)[:：\s]+([A-Za-z0-9]{2,10})', re.IGNORECASE),  # 资金流入: PUMP
+    re.compile(r'\b([A-Za-z0-9]{2,10})/USDT\b', re.IGNORECASE),             # BTC/USDT
+    re.compile(r'\b([A-Za-z0-9]{2,10})-USDT\b', re.IGNORECASE),             # BTC-USDT
+    re.compile(r'\b([A-Za-z0-9]{2,10})USDT\b', re.IGNORECASE)               # BTCUSDT
+]
+
+RISK_PATTERNS = [
+    re.compile(r'主力(?:资金)?(?:已)?出逃'),
+    re.compile(r'资金流出'),
+    re.compile(r'价格高点'),
+    re.compile(r'本金保护')
+]
+
+
+def extract_symbol(text: str) -> Optional[str]:
+    """直接基于Telegram原文提取币种并补全USDT"""
+    if not text:
+        return None
+
+    for pattern in SYMBOL_PATTERNS:
+        match = pattern.search(text)
+        if not match:
+            continue
+        raw_symbol = match.group(1).upper()
+        if raw_symbol.endswith('USDT'):
+            return raw_symbol
+        return f"{raw_symbol}USDT"
+    return None
+
+
+def is_risk_signal(text: str) -> bool:
+    """风险关键词过滤（主力出逃/资金流出/价格高点/本金保护）"""
+    if not text:
+        return False
+    return any(pattern.search(text) for pattern in RISK_PATTERNS)
 
 
 class SignalForwarder:
@@ -68,7 +102,7 @@ class SignalForwarder:
             print(f"   用户: {me.first_name} (ID: {me.id})", flush=True)
             print(f"   监控频道: {', '.join(TELEGRAM_CHANNELS)}", flush=True)
             print(f"   转发目标: {RUST_API_URL}", flush=True)
-            print(f"   解析器: Valuescaner专用", flush=True)
+            print(f"   解析器: 轻量正则解析", flush=True)
             print(f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━", flush=True)
             print(f"📡 开始监控Telegram消息...", flush=True)
             print(flush=True)
@@ -111,55 +145,28 @@ class SignalForwarder:
             else:
                 print(f"   内容: {message_text.split(chr(10))[0]}")  # 只显示第一行
 
-            # 解析valuescaner信号
-            parsed = parse_valuescaner_signal(message_text)
-
-            if not parsed:
+            # 风险关键词过滤
+            if is_risk_signal(message_text):
                 stats['skipped'] += 1
-                print(f"   ⏭️  非交易信号,跳过")
+                print(f"   ⏭️  风险信号,跳过")
                 print()
                 return
 
-            # 输出解析结果
-            print(f"   🎯 币种: {parsed['symbol']}")
-            print(f"      类型: {parsed['signal_type']} | 评分: {parsed['score']} | 置信度: {parsed['confidence']}")
-            if parsed['price']:
-                print(f"      价格: ${parsed['price']:.4f}", end='')
-                if parsed['change_24h'] is not None:
-                    print(f" | 24H: {parsed['change_24h']:+.2f}%")
-                else:
-                    print()
-            else:
+            symbol = extract_symbol(message_text)
+            if not symbol:
                 stats['skipped'] += 1
-                print("   ⏭️  缺少价格信息, 跳过")
+                print("   ⏭️  缺少币种信息,跳过")
                 print()
                 return
-
-            # 只转发应该做多的信号
-            if not parsed['should_long']:
-                stats['skipped'] += 1
-                print(f"   ⏭️  风险信号,跳过 (signal_type={parsed['signal_type']})")
-                print()
-                return
-
-            # 构建发送到Rust的数据 (匹配TelegramSignalPayload结构)
-            price = parsed['price']
 
             signal_data = {
-                'symbol': parsed['symbol'],
-                'side': 'LONG',  # 所有转发的信号都是做多信号
-                'entry_price': price,
-                'stop_loss': price * 0.95,
-                'take_profit': price * 1.10,
-                'confidence': parsed['confidence'],  # "HIGH", "MEDIUM", "LOW"
-                'leverage': 10,  # 默认10x杠杆
-                'source': 'telegram_python',
-                'timestamp': time.time(),
+                'symbol': symbol,
                 'raw_message': message_text,
-                'signal_type': parsed['signal_type'],
-                'score': parsed['score'],
-                'risk_level': parsed.get('risk_level', 'NORMAL')
+                'timestamp': time.time()
             }
+
+            print(f"   🎯 币种: {symbol}")
+            print(f"      Payload字段: symbol/raw_message/timestamp")
 
             # 转发到Rust引擎
             try:

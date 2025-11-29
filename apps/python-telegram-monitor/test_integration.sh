@@ -27,15 +27,8 @@ RESPONSE=$(curl -s -X POST http://localhost:8080/api/signals \
     -H "Content-Type: application/json" \
     -d '{
         "symbol": "BTCUSDT",
-        "side": "LONG",
-        "entry_price": 95000.0,
-        "stop_loss": 94000.0,
-        "take_profit": 96000.0,
-        "confidence": "HIGH",
-        "leverage": 10,
-        "source": "telegram_test",
-        "timestamp": 1700000000.0,
-        "raw_message": "测试信号: BTCUSDT LONG 95000 SL:94000 TP:96000 10X"
+        "raw_message": "测试信号: BTCUSDT LONG 95000 SL:94000 TP:96000 10X",
+        "timestamp": 1700000000.0
     }')
 
 echo "📝 Rust响应: $RESPONSE"
@@ -69,15 +62,8 @@ for SYMBOL in "ETHUSDT" "SOLUSDT" "BNBUSDT"; do
         -H "Content-Type: application/json" \
         -d "{
             \"symbol\": \"$SYMBOL\",
-            \"side\": \"SHORT\",
-            \"entry_price\": 100.0,
-            \"stop_loss\": 105.0,
-            \"take_profit\": 95.0,
-            \"confidence\": \"MEDIUM\",
-            \"leverage\": 8,
-            \"source\": \"telegram_test\",
-            \"timestamp\": $(date +%s).0,
-            \"raw_message\": \"测试信号: $SYMBOL SHORT\"
+            \"raw_message\": \"测试信号: $SYMBOL SHORT\",
+            \"timestamp\": $(date +%s).0
         }" > /dev/null
     echo "✅ 已发送: $SYMBOL"
 done

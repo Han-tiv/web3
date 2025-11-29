@@ -64,12 +64,10 @@ export interface AiHistoryEntry {
 export interface TelegramSignal {
   id: number;
   symbol: string;
-  signal_type: string; // "强烈看多", "看多", "中性", "看空", "强烈看空"
-  score: number; // -21 到 +10
-  keywords: string; // 逗号分隔的关键词
-  recommend_action: string; // "BUY", "SELL", "WATCH", "AVOID", "CLOSE/AVOID"
-  reason: string;
   raw_message: string;
   timestamp: string;
+  recommend_action: string; // 目前固定 LONG
+  processed: boolean;
+  processed_at?: string | null;
   created_at: string;
 }

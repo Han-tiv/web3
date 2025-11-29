@@ -85,15 +85,8 @@
 async def send_signal_to_rust(self, signal: TradingSignal) -> bool:
     payload = {
         "symbol": signal.symbol,
-        "side": signal.side.value,
-        "entry_price": signal.entry_price,
-        "stop_loss": signal.stop_loss,
-        "take_profit": signal.take_profit,
-        "confidence": signal.confidence.value,
-        "leverage": signal.leverage,
-        "source": "telegram",
-        "timestamp": signal.timestamp,
-        "raw_message": signal.raw_message
+        "raw_message": signal.raw_message,
+        "timestamp": signal.timestamp
     }
 
     async with self.session.post(
@@ -118,15 +111,8 @@ async def send_signal_to_rust(self, signal: TradingSignal) -> bool:
 #[derive(Debug, Deserialize, Serialize)]
 pub struct TelegramSignalPayload {
     pub symbol: String,
-    pub side: String,             // "LONG" or "SHORT"
-    pub entry_price: f64,
-    pub stop_loss: f64,
-    pub take_profit: Option<f64>,
-    pub confidence: String,       // "HIGH", "MEDIUM", "LOW"
-    pub leverage: Option<u32>,
-    pub source: String,
-    pub timestamp: f64,
     pub raw_message: String,
+    pub timestamp: f64,
 }
 ```
 
@@ -138,8 +124,8 @@ async fn receive_signal(
     Json(payload): Json<TelegramSignalPayload>,
 ) -> impl IntoResponse {
     // 1. 记录日志
-    log::info!("📨 收到Telegram信号: {} {} @ ${:.4}",
-        payload.symbol, payload.side, payload.entry_price);
+    log::info!("📨 收到Telegram信号: {} (仅保留原始消息)",
+        payload.symbol);
 
     // 2. 保存到数据库
     state.db.insert_telegram_signal(...);

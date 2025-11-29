@@ -79,7 +79,7 @@ required-features = ["legacy-telegram"]
 
 [[bin]]
 name = "integrated_ai_trader"
-path = "src/bin/integrated_ai_trader.rs"
+path = "src/bin/integrated_ai_trader/mod.rs"
 
 [[bin]]
 name = "smart_money_trader"
@@ -98,9 +98,9 @@ path = "src/bin/check_balance_unified.rs"
 name = "debug_unified"
 path = "src/bin/debug_unified.rs"
 
-[[bin]]
-name = "test_parser"
-path = "test_parser.rs"
+# [[bin]]
+# name = "test_parser"
+# path = "test_parser.rs"
 
 [[bin]]
 name = "gemini_eth_analyzer"

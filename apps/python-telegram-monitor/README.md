@@ -197,15 +197,8 @@ Content-Type: application/json
 
 {
   "symbol": "BTCUSDT",
-  "side": "LONG",
-  "entry_price": 95000.0,
-  "stop_loss": 94000.0,
-  "take_profit": 96000.0,
-  "confidence": "HIGH",
-  "leverage": 10,
-  "source": "telegram",
-  "timestamp": 1700000000.0,
-  "raw_message": "BTCUSDT LONG 95000 SL:94000 TP:96000"
+  "raw_message": "BTCUSDT LONG 95000 SL:94000 TP:96000",
+  "timestamp": 1700000000.0
 }
 ```
 

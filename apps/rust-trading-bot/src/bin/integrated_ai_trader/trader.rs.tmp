@@ -1,0 +1,417 @@
+//! IntegratedAITrader - 核心状态管理
+//!
+//! 包含交易器的核心状态、配置和基础方法
+
+use anyhow::Result;
+use async_trait::async_trait;
+use chrono::{DateTime, Utc};
+use log::{info, warn};
+use serde::{Deserialize, Serialize};
+use std::collections::{HashMap, HashSet, VecDeque};
+use std::sync::Arc;
+use std::time::Instant;
+use tokio::sync::{Mutex, RwLock};
+
+use rust_trading_bot::{
+    binance_client::BinanceClient,
+    database::Database,
+    deepseek_client::{DeepSeekClient, Kline, TechnicalIndicators},
+    entry_zone_analyzer::EntryZoneAnalyzer,
+    exchange_trait::ExchangeClient,
+    gemini_client::GeminiClient,
+    key_level_finder::KeyLevelFinder,
+    launch_signal_detector::LaunchSignalDetector,
+    signals::{FundAlert, SignalContext},
+    staged_position_manager::StagedPositionManager,
+    technical_analysis::TechnicalAnalyzer,
+    trading::OrderManager,
+};
+
+use super::utils;
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 配置常量
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+/// 持仓检查间隔（秒）- 已优化为3分钟
+pub const POSITION_CHECK_INTERVAL_SECS: u64 = 180;
+
+/// 波动率缓存TTL（秒）
+#[allow(dead_code)]
+pub const VOLATILITY_CACHE_TTL_SECS: u64 = 60;
+
+/// 波动率计算超时（秒）
+#[allow(dead_code)]
+pub const VOLATILITY_TIMEOUT_SECS: u64 = 5;
+
+/// 波动率回看窗口
+#[allow(dead_code)]
+pub const VOLATILITY_LOOKBACK: usize = 20;
+
+/// 默认波动率百分比
+#[allow(dead_code)]
+pub const DEFAULT_VOLATILITY_PERCENT: f64 = 2.0;
+
+/// 是否使用增强版分析
+#[allow(dead_code)]
+pub const USE_ENHANCED_ANALYSIS: bool = false;
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 数据结构定义
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+/// 延迟开仓队列记录 - 首次未开仓的币种,等待更好时机
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct PendingEntry {
+    pub symbol: String,
+    pub first_signal_time: DateTime<Utc>,
+    pub last_analysis_time: DateTime<Utc>,
+    pub alert: FundAlert,
+    pub reject_reason: String, // 为什么首次被拒绝: "价格不符"/"AI SKIP"/"等待回调"
+    pub retry_count: u32,      // 已重试次数
+}
+
+/// 持仓追踪信息
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct PositionTracker {
+    pub symbol: String,
+    pub entry_price: f64,
+    pub quantity: f64,
+    pub leverage: u32,
+    pub side: String,
+    pub stop_loss_order_id: Option<String>,
+    pub take_profit_order_id: Option<String>,
+    pub entry_time: DateTime<Utc>,
+    pub last_check_time: DateTime<Utc>,
+}
+
+/// 持仓追踪器快照 - 用于无锁读取
+#[derive(Debug, Clone)]
+pub struct TrackerSnapshot {
+    pub symbol: String,
+    pub side: String,
+    pub quantity: f64,
+    pub entry_price: f64,
+    pub entry_time: DateTime<Utc>,
+    pub leverage: u32,
+    pub stop_loss_order_id: Option<String>,
+    pub take_profit_order_id: Option<String>,
+}
+
+/// 缓存批量AI评估所需的行情上下文，避免重复获取K线
+pub struct PositionMarketContext {
+    pub klines_5m: Vec<Kline>,
+    pub klines_15m: Vec<Kline>,
+    pub klines_1h: Vec<Kline>,
+    pub indicators: TechnicalIndicators,
+}
+
+/// 保存批量AI评估完成后执行交易动作所需的持仓信息
+pub struct BatchActionContext {
+    pub side: String,
+    pub entry_price: f64,
+    pub quantity: f64,
+    pub stop_loss_order_id: Option<String>,
+    pub take_profit_order_id: Option<String>,
+}
+
+/// 波动率缓存条目
+#[derive(Clone, Copy)]
+#[allow(dead_code)]
+pub struct VolatilityCacheEntry {
+    pub value: f64,
+    pub cached_at: Instant,
+}
+
+/// 触发单跟踪记录
+#[derive(Debug, Clone)]
+#[allow(dead_code)]
+pub struct TriggerOrderRecord {
+    pub order_id: String,
+    pub symbol: String,
+    pub position_side: String,
+    pub trigger_price: f64,
+    pub action: String, // "OPEN" or "CLOSE"
+    pub created_at: DateTime<Utc>,
+    pub reason: String,
+}
+
+/// 持仓监控阶段需要执行的动作，采用"先收集再处理"策略避免锁重入
+#[derive(Debug)]
+pub enum PositionAction {
+    FullClose {
+        symbol: String,
+        side: String,
+        quantity: f64,
+        reason: String,
+    },
+    PartialClose {
+        symbol: String,
+        side: String,
+        close_quantity: f64,
+        close_pct: f64,
+        entry_price: f64,
+        stop_loss_price: f64, // ✅ Bug Fix: 保存原始止损价格,部分平仓后重设止损单使用
+        remaining_quantity: f64,
+        stop_loss_order_id: Option<String>,
+    },
+    Remove(String),
+    SetLimitOrder {
+        symbol: String,
+        side: String,
+        quantity: f64,
+        limit_price: f64,
+        take_profit_order_id: Option<String>,
+    },
+}
+
+/// 对追踪器的更新操作，统一在短暂写锁中落盘
+#[derive(Debug)]
+pub enum TrackerMutation {
+    QuantityAndStopLoss {
+        symbol: String,
+        new_quantity: f64,
+        new_stop_loss_order_id: Option<String>,
+    },
+    TakeProfitOrder {
+        symbol: String,
+        new_take_profit_order_id: Option<String>,
+    },
+}
+
+/// 交易信号记录
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct SignalRecord {
+    pub timestamp: String,
+    pub signal: String,
+    pub confidence: String,
+    pub reason: String,
+    pub price: f64,
+}
+
+/// 交易信号历史
+pub struct SignalHistory {
+    signals: VecDeque<SignalRecord>,
+    max_size: usize,
+}
+
+impl SignalHistory {
+    pub fn new(max_size: usize) -> Self {
+        Self {
+            signals: VecDeque::with_capacity(max_size),
+            max_size,
+        }
+    }
+
+    pub fn add(&mut self, record: SignalRecord) {
+        if self.signals.len() >= self.max_size {
+            self.signals.pop_front();
+        }
+        self.signals.push_back(record);
+    }
+
+    #[allow(dead_code)]
+    pub fn get_recent(&self, count: usize) -> Vec<&SignalRecord> {
+        self.signals.iter().rev().take(count).collect()
+    }
+
+    #[allow(dead_code)]
+    pub fn count_signal(&self, signal: &str, last_n: usize) -> usize {
+        self.signals
+            .iter()
+            .rev()
+            .take(last_n)
+            .filter(|s| s.signal == signal)
+            .count()
+    }
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 核心交易器结构体
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+pub struct IntegratedAITrader {
+    // === 核心客户端 ===
+    pub exchange: Arc<BinanceClient>,
+    pub deepseek: Arc<DeepSeekClient>,
+    pub gemini: Arc<GeminiClient>,
+    pub analyzer: Arc<TechnicalAnalyzer>,
+    #[allow(dead_code)]
+    pub level_finder: Arc<KeyLevelFinder>,
+
+    // === 新策略模块 ===
+    pub entry_zone_analyzer: Arc<EntryZoneAnalyzer>,
+    pub launch_detector: Arc<LaunchSignalDetector>,
+    pub staged_manager: Arc<RwLock<StagedPositionManager>>,
+
+    // === Alpha/FOMO关键词 ===
+    #[allow(dead_code)]
+    pub alpha_keywords: Vec<String>,
+    #[allow(dead_code)]
+    pub fomo_keywords: Vec<String>,
+
+    // === 交易配置 - 动态范围 ===
+    pub min_position_usdt: f64,
+    pub max_position_usdt: f64,
+    pub min_leverage: u32,
+    pub max_leverage: u32,
+
+    // === 内存管理配置 ===
+    pub max_tracked_coins: usize,
+    pub coin_ttl_hours: i64,
+
+    // === 状态跟踪 ===
+    pub tracked_coins: Arc<RwLock<HashMap<String, FundAlert>>>,
+    pub position_trackers: Arc<RwLock<HashMap<String, PositionTracker>>>,
+    pub signal_history: Arc<RwLock<SignalHistory>>,
+    pub last_analysis_time: Arc<RwLock<HashMap<String, DateTime<Utc>>>>,
+    #[allow(dead_code)]
+    pub volatility_cache: Arc<RwLock<HashMap<String, VolatilityCacheEntry>>>,
+    pub active_trigger_orders: Arc<Mutex<Vec<TriggerOrderRecord>>>,
+    pub pending_entries: Arc<RwLock<HashMap<String, PendingEntry>>>,
+
+    // === 数据库与订单管理 ===
+    pub db: Database,
+    pub order_manager: OrderManager,
+}
+
+impl IntegratedAITrader {
+    /// 创建新的集成AI交易器实例
+    pub async fn new(
+        exchange: BinanceClient,
+        deepseek_api_key: String,
+        gemini_api_key: String,
+        db: Database,
+    ) -> Self {
+        let exchange = Arc::new(exchange);
+        let deepseek = Arc::new(DeepSeekClient::new(deepseek_api_key));
+        let gemini = Arc::new(GeminiClient::new(gemini_api_key));
+        let analyzer = Arc::new(TechnicalAnalyzer);
+        let level_finder = Arc::new(KeyLevelFinder::new());
+        let entry_zone_analyzer = Arc::new(EntryZoneAnalyzer::default());
+        let launch_detector = Arc::new(LaunchSignalDetector::default());
+        let staged_manager = Arc::new(RwLock::new(StagedPositionManager::default()));
+
+        let order_manager = OrderManager::new(exchange.clone());
+
+        Self {
+            exchange: exchange.clone(),
+            deepseek,
+            gemini,
+            analyzer,
+            level_finder,
+            entry_zone_analyzer,
+            launch_detector,
+            staged_manager,
+            alpha_keywords: vec![
+                "alpha".to_string(),
+                "机会".to_string(),
+                "潜力".to_string(),
+            ],
+            fomo_keywords: vec![
+                "fomo".to_string(),
+                "爆发".to_string(),
+                "暴涨".to_string(),
+            ],
+            min_position_usdt: 6.0,
+            max_position_usdt: 50.0,
+            min_leverage: 10,
+            max_leverage: 20,
+            max_tracked_coins: 100,
+            coin_ttl_hours: 24,
+            tracked_coins: Arc::new(RwLock::new(HashMap::new())),
+            position_trackers: Arc::new(RwLock::new(HashMap::new())),
+            signal_history: Arc::new(RwLock::new(SignalHistory::new(100))),
+            last_analysis_time: Arc::new(RwLock::new(HashMap::new())),
+            volatility_cache: Arc::new(RwLock::new(HashMap::new())),
+            active_trigger_orders: Arc::new(Mutex::new(Vec::new())),
+            pending_entries: Arc::new(RwLock::new(HashMap::new())),
+            db,
+            order_manager,
+        }
+    }
+
+    /// 同步已有持仓到tracker
+    pub async fn sync_existing_positions(&self) -> Result<()> {
+        info!("🔄 同步已有持仓到内存追踪器...");
+
+        let positions = self.exchange.get_positions().await?;
+        let mut trackers = self.position_trackers.write().await;
+
+        for pos in positions {
+            // Position结构体使用的是quantity而不是position_amt
+            if pos.size.abs() < 0.0001 {
+                continue;
+            }
+
+            let side = if pos.size > 0.0 {
+                "LONG"
+            } else {
+                "SHORT"
+            };
+
+            // 如果已有tracker,跳过
+            if trackers.contains_key(&pos.symbol) {
+                continue;
+            }
+
+            info!(
+                "  📌 恢复持仓: {} {} {} @{}",
+                pos.symbol, side, pos.size.abs(), pos.entry_price
+            );
+
+            trackers.insert(
+                pos.symbol.clone(),
+                PositionTracker {
+                    symbol: pos.symbol.clone(),
+                    entry_price: pos.entry_price,
+                    quantity: pos.size.abs(),
+                    leverage: 10, // 默认杠杆
+                    side: side.to_string(),
+                    stop_loss_order_id: None,
+                    take_profit_order_id: None,
+                    entry_time: Utc::now(),
+                    last_check_time: Utc::now(),
+                },
+            );
+        }
+
+        info!("✅ 已恢复 {} 个持仓到追踪器", trackers.len());
+        Ok(())
+    }
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// SignalContext trait 实现
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#[async_trait]
+impl SignalContext for IntegratedAITrader {
+    fn exchange(&self) -> Arc<BinanceClient> {
+        self.exchange.clone()
+    }
+
+    fn db(&self) -> &Database {
+        &self.db
+    }
+
+    fn tracked_coins(&self) -> Arc<RwLock<HashMap<String, FundAlert>>> {
+        self.tracked_coins.clone()
+    }
+
+    fn coin_ttl_hours(&self) -> i64 {
+        self.coin_ttl_hours
+    }
+
+    fn max_tracked_coins(&self) -> usize {
+
+    /// 分析并交易 - TODO: 将在entry_analyzer模块中完整实现
+    async fn analyze_and_trade(&self, alert: FundAlert) -> Result<()> {
+        info!("🧠 收到交易信号: {} - 暂时不处理（待实现）", alert.coin);
+        // TODO: 这个方法将在Phase 2（entry_analyzer模块）中完整实现
+        // 现在只是占位，让代码能够编译
+        Ok(())
+    }
+        self.max_tracked_coins
+    }
+}

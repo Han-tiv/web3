@@ -582,6 +582,79 @@ impl BinanceClient {
         Ok(price)
     }
 
+    /// 获取资金费率信息
+    /// 返回: (当前资金费率, 下次费率时间戳, 标记价格, 现货价格, 溢价率)
+    pub async fn get_funding_rate(&self, symbol: &str) -> Result<(f64, i64, f64, f64, f64)> {
+        let url = format!("{}/fapi/v1/premiumIndex?symbol={}", self.base_url, symbol);
+
+        let client = self.create_ipv4_client()?;
+        let response: serde_json::Value = client.get(&url).send().await?.json().await?;
+
+        let funding_rate: f64 = response["lastFundingRate"]
+            .as_str()
+            .ok_or_else(|| anyhow::anyhow!("资金费率解析失败"))?
+            .parse()?;
+
+        let next_funding_time: i64 = response["nextFundingTime"]
+            .as_i64()
+            .ok_or_else(|| anyhow::anyhow!("下次资金费率时间解析失败"))?;
+
+        let mark_price: f64 = response["markPrice"]
+            .as_str()
+            .unwrap_or("0")
+            .parse()
+            .unwrap_or(0.0);
+
+        let index_price: f64 = response["indexPrice"]
+            .as_str()
+            .unwrap_or("0")
+            .parse()
+            .unwrap_or(0.0);
+
+        // 计算溢价率 (mark_price - index_price) / index_price
+        let premium_rate = if index_price > 0.0 {
+            ((mark_price - index_price) / index_price) * 100.0
+        } else {
+            0.0
+        };
+
+        Ok((
+            funding_rate,
+            next_funding_time,
+            mark_price,
+            index_price,
+            premium_rate,
+        ))
+    }
+
+    /// 获取历史资金费率
+    /// limit: 返回最近N条记录 (默认100, 最大1000)
+    pub async fn get_funding_rate_history(
+        &self,
+        symbol: &str,
+        limit: Option<usize>,
+    ) -> Result<Vec<(i64, f64)>> {
+        let limit_value = limit.unwrap_or(100).min(1000);
+        let url = format!(
+            "{}/fapi/v1/fundingRate?symbol={}&limit={}",
+            self.base_url, symbol, limit_value
+        );
+
+        let client = self.create_ipv4_client()?;
+        let response: Vec<serde_json::Value> = client.get(&url).send().await?.json().await?;
+
+        let history: Vec<(i64, f64)> = response
+            .iter()
+            .filter_map(|record| {
+                let timestamp = record["fundingTime"].as_i64()?;
+                let rate = record["fundingRate"].as_str()?.parse::<f64>().ok()?;
+                Some((timestamp, rate))
+            })
+            .collect();
+
+        Ok(history)
+    }
+
     pub async fn get_symbol_trading_rules(&self, symbol: &str) -> Result<TradingRules> {
         // 先查缓存
         if let Some(cached) = self.rules_cache.read().await.get(symbol).cloned() {
@@ -816,12 +889,19 @@ impl BinanceClient {
         // 获取交易规则以便获取精度信息
         let rules = self.get_symbol_trading_rules(symbol).await?;
 
-        // 获取价格精度并调整触发价 + 挂单价
+        // 获取价格精度
         let price_precision = rules.price_precision.max(0) as usize;
-        let stop_price_str = format!("{:.*}", price_precision, stop_price);
-        let actual_limit_price = limit_price.unwrap_or(stop_price);
-        let limit_price_str = format!("{:.*}", price_precision, actual_limit_price);
         let qty_precision = rules.quantity_precision.max(0) as usize;
+
+        // 按 tick_size 对齐止损触发价,避免 -4014 错误
+        let aligned_stop_price = (stop_price / rules.tick_size).round() * rules.tick_size;
+        let stop_price_str = format!("{:.*}", price_precision, aligned_stop_price);
+
+        // 按 tick_size 对齐限价单价格
+        let actual_limit_price = limit_price.unwrap_or(aligned_stop_price);
+        let aligned_limit_price = (actual_limit_price / rules.tick_size).round() * rules.tick_size;
+        let limit_price_str = format!("{:.*}", price_precision, aligned_limit_price);
+
         let quantity_str = format!("{:.*}", qty_precision, quantity);
 
         let query = format!(
@@ -877,14 +957,18 @@ impl BinanceClient {
 
         // 获取交易规则并调整数量
         let rules = self.get_symbol_trading_rules(symbol).await?;
-        let precision = rules.quantity_precision.max(0) as usize;
-        let quantity_str = format!("{:.*}", precision, quantity);
-
-        // 获取价格精度并调整止盈触发价 + 挂单价
+        let qty_precision = rules.quantity_precision.max(0) as usize;
         let price_precision = rules.price_precision.max(0) as usize;
-        let stop_price_str = format!("{:.*}", price_precision, stop_price);
-        let actual_limit_price = limit_price.unwrap_or(stop_price);
-        let limit_price_str = format!("{:.*}", price_precision, actual_limit_price);
+        let quantity_str = format!("{:.*}", qty_precision, quantity);
+
+        // 按 tick_size 对齐止盈触发价,避免 -4014 错误
+        let aligned_stop_price = (stop_price / rules.tick_size).round() * rules.tick_size;
+        let stop_price_str = format!("{:.*}", price_precision, aligned_stop_price);
+
+        // 按 tick_size 对齐限价单价格
+        let actual_limit_price = limit_price.unwrap_or(aligned_stop_price);
+        let aligned_limit_price = (actual_limit_price / rules.tick_size).round() * rules.tick_size;
+        let limit_price_str = format!("{:.*}", price_precision, aligned_limit_price);
 
         let query = format!(
             "symbol={}&side={}&type=TAKE_PROFIT&stopPrice={}&price={}&quantity={}&timeInForce=GTC&timestamp={}",
@@ -1110,11 +1194,21 @@ impl BinanceClient {
         // 按 step_size 与最小数量对齐，避免买卖量不合规
         let step = rules.step_size;
         let adjusted_quantity = (quantity / step).floor() * step;
-        let final_quantity = if adjusted_quantity < rules.min_qty {
+        let final_quantity = if reduce_only {
+            // ✅ reduceOnly 保持真实数量,仅对齐 step_size，避免被强制抬升到 min_qty
+            adjusted_quantity.max(step)
+        } else if adjusted_quantity < rules.min_qty {
             rules.min_qty
         } else {
             adjusted_quantity
         };
+
+        if final_quantity <= 0.0 {
+            return Err(anyhow::anyhow!(
+                "订单数量过小 ({:.8}),无法下单",
+                final_quantity
+            ));
+        }
 
         let qty_precision = rules.quantity_precision.max(0) as usize;
         let price_precision = rules.price_precision.max(0) as usize;

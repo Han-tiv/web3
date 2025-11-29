@@ -5,7 +5,7 @@ use axum::{
     routing::{get, post},
     Router,
 };
-use chrono::{Duration, Utc};
+use chrono::{Duration, LocalResult, TimeZone, Utc};
 use serde::{Deserialize, Serialize};
 use std::sync::Arc;
 use std::time::Instant;
@@ -320,74 +320,26 @@ pub struct RawTelegramPayload {
 #[derive(Debug, Deserialize, Serialize)]
 pub struct TelegramSignalPayload {
     pub symbol: String,
-    pub side: String, // "LONG" or "SHORT"
-    pub entry_price: f64,
-    pub stop_loss: f64,
-    pub take_profit: Option<f64>,
-    pub confidence: String, // "HIGH", "MEDIUM", "LOW"
-    pub leverage: Option<u32>,
-    pub source: String, // "telegram"
-    pub timestamp: f64,
     pub raw_message: String,
-    pub signal_type: Option<String>,
-    pub score: Option<i32>,
-    pub risk_level: Option<String>,
+    pub timestamp: f64,
 }
 
 /// 接收Python监控发来的交易信号
-async fn receive_signal(
+async fn handle_telegram_signal(
     State(state): State<Arc<AppState>>,
     Json(payload): Json<TelegramSignalPayload>,
 ) -> impl IntoResponse {
-    log::info!(
-        "📨 收到Telegram信号: {} {} @ ${:.4}",
-        payload.symbol,
-        payload.side,
-        payload.entry_price
-    );
-    log::debug!(
-        "   止损: ${:.4} | 止盈: {:?} | 信心: {} | 杠杆: {:?}x",
-        payload.stop_loss,
-        payload.take_profit,
-        payload.confidence,
-        payload.leverage
-    );
+    let TelegramSignalPayload {
+        symbol,
+        raw_message,
+        timestamp,
+    } = payload;
 
-    let confidence_score = match payload.confidence.to_uppercase().as_str() {
-        "HIGH" => 90,
-        "MEDIUM" => 70,
-        "LOW" => 40,
-        _ => 70,
-    };
+    log::info!("📨 收到Telegram信号: {}", symbol);
+    let preview: String = raw_message.chars().take(120).collect();
+    log::debug!("   消息预览: {}", preview.replace('\n', " "));
 
-    let meta_summary = format!(
-        "来源:{} | 杠杆:{}x | 类型:{} | 评分:{} | 风险:{}",
-        payload.source,
-        payload.leverage.unwrap_or(10),
-        payload.signal_type.as_deref().unwrap_or("unknown"),
-        payload.score.unwrap_or(0),
-        payload.risk_level.as_deref().unwrap_or("NORMAL")
-    );
-
-    // 保存到数据库
-    let save_result = state.db.insert_telegram_signal(
-        &payload.symbol,
-        &payload.side,
-        confidence_score,
-        &meta_summary,
-        &payload.side, // recommend_action
-        &format!(
-            "入场:{:.4} | 止损:{:.4} | 止盈:{:?} | 类型:{}",
-            payload.entry_price,
-            payload.stop_loss,
-            payload.take_profit,
-            payload.signal_type.as_deref().unwrap_or("unknown")
-        ),
-        &payload.raw_message,
-        &chrono::Utc::now().to_rfc3339(),
-    );
-
-    if let Err(e) = save_result {
+    if let Err(e) = save_telegram_signal(&state.db, &symbol, &raw_message, timestamp) {
         log::error!("❌ 保存信号到数据库失败: {}", e);
         return (
             StatusCode::INTERNAL_SERVER_ERROR,
@@ -405,11 +357,31 @@ async fn receive_signal(
         StatusCode::OK,
         Json(serde_json::json!({
             "status": "received",
-            "symbol": payload.symbol,
+            "symbol": symbol,
             "queued_at": chrono::Utc::now().to_rfc3339(),
-            "message": format!("信号已接收并保存,等待处理: {} {}", payload.symbol, payload.side)
+            "message": format!("信号已接收并保存: {}", symbol)
         })),
     )
+}
+
+/// 统一封装信号入库逻辑，确保仅依赖最基本的字段。
+fn save_telegram_signal(
+    db: &Database,
+    symbol: &str,
+    raw_message: &str,
+    timestamp: f64,
+) -> crate::database::DbResult<i64> {
+    let timestamp_str = format_signal_timestamp(timestamp);
+    db.insert_telegram_signal(symbol, raw_message, &timestamp_str)
+}
+
+/// Telegram透传的时间戳是秒级浮点数，转为RFC3339便于后续检索与显示。
+fn format_signal_timestamp(timestamp: f64) -> String {
+    let secs = timestamp.round() as i64;
+    match Utc.timestamp_opt(secs, 0) {
+        LocalResult::Single(dt) => dt.to_rfc3339(),
+        _ => Utc::now().to_rfc3339(),
+    }
 }
 
 /// 接收Python监控发来的原始Telegram消息
@@ -446,11 +418,6 @@ async fn receive_raw_telegram_message(
     // 使用默认评分和类型,Rust后续会重新解析
     let save_result = state.db.insert_telegram_signal(
         &symbol,
-        "资金异动",                        // signal_type: 默认值,后续Rust解析会更新
-        80,                                // score: 默认中等评分
-        "raw_message",                     // meta_summary: 标记为原始消息
-        "PENDING",                         // recommend_action: 标记为待处理
-        "Python透传原始消息,等待Rust解析", // reason
         &payload.raw_message,
         &chrono::Utc::now().to_rfc3339(),
     );
@@ -511,7 +478,7 @@ fn create_router(state: Arc<AppState>) -> Router {
         .route("/api/status", get(get_status))
         .route("/api/ai-history", get(get_ai_history))
         .route("/api/telegram-signals", get(get_telegram_signals))
-        .route("/api/signals", post(receive_signal)) // 新增: 接收Python信号
+        .route("/api/signals", post(handle_telegram_signal)) // 新增: 接收Python信号
         .route("/api/telegram/raw", post(receive_raw_telegram_message)) // 新增: 接收Python原始消息
         .route("/api/positions/:symbol/close", post(close_position))
         .route("/health", get(health_check))

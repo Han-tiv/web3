@@ -1,8 +1,34 @@
-import { useEffect, useState } from 'react';
 import useSWR from 'swr';
 import { TelegramSignal } from '../types';
 
 const fetcher = (url: string) => fetch(url).then((res) => res.json());
+
+const getSignalIcon = (action: string, processed: boolean) => {
+  if (processed) return '✅';
+  if (action === 'LONG' || action === 'BUY') return '🚀';
+  return '📡';
+};
+
+const getActionBgColor = (action: string) => {
+  if (action === 'LONG' || action === 'BUY') return 'bg-green-900/20 text-green-500';
+  if (action === 'SELL' || action === 'CLOSE/AVOID') return 'bg-red-900/20 text-red-500';
+  if (action === 'AVOID') return 'bg-orange-900/20 text-orange-400';
+  return 'bg-gray-800 binance-text-secondary';
+};
+
+const formatTimestamp = (value: string) => new Date(value).toLocaleString('zh-CN');
+
+const formatOptionalTimestamp = (value?: string | null) => {
+  if (!value) return '尚未处理';
+  return new Date(value).toLocaleString('zh-CN');
+};
+
+const getMessagePreview = (message: string) => {
+  if (message.length <= 160) {
+    return message;
+  }
+  return `${message.slice(0, 160)}…`;
+};
 
 export function TelegramSignals() {
   const { data: signals, error, isLoading } = useSWR<TelegramSignal[]>(
@@ -49,41 +75,11 @@ export function TelegramSignals() {
     );
   }
 
-  // 根据评分决定图标
-  const getSignalIcon = (score: number) => {
-    if (score >= 5) return '🔥🔥';
-    if (score >= 3) return '📈';
-    if (score >= 1) return '➡️';
-    if (score >= -2) return '📉';
-    if (score >= -4) return '📉';
-    return '🚨';
-  };
-
-  // 根据评分决定颜色 - 使用Binance主题
-  const getScoreColor = (score: number) => {
-    if (score >= 5) return 'binance-green font-bold';
-    if (score >= 3) return 'binance-green';
-    if (score >= 1) return 'text-blue-400';
-    if (score >= -2) return 'text-yellow-400';
-    if (score >= -4) return 'text-orange-400';
-    return 'binance-red font-bold';
-  };
-
-  // 根据建议决定背景色 - 适配深色主题
-  const getActionBgColor = (action: string) => {
-    if (action === 'BUY') return 'bg-green-900/20 text-green-500';
-    if (action === 'SELL' || action === 'CLOSE/AVOID') return 'bg-red-900/20 text-red-500';
-    if (action === 'AVOID') return 'bg-orange-900/20 text-orange-400';
-    return 'bg-gray-800 binance-text-secondary';
-  };
-
   return (
     <div className="binance-card p-6">
       <div className="flex items-center justify-between mb-4">
         <h2 className="text-xl font-bold binance-text-primary">📡 Telegram 市场信号</h2>
-        <span className="text-sm binance-text-secondary">
-          最近 {signals.length} 条信号
-        </span>
+        <span className="text-sm binance-text-secondary">最近 {signals.length} 条信号</span>
       </div>
 
       <div className="space-y-4">
@@ -95,16 +91,14 @@ export function TelegramSignals() {
             <div className="flex items-start justify-between">
               <div className="flex-1">
                 <div className="flex items-center gap-2 mb-2">
-                  <span className="text-2xl">{getSignalIcon(signal.score)}</span>
-                  <span className="font-bold text-lg binance-text-primary">{signal.symbol}</span>
-                  <span className="text-sm binance-text-secondary">{signal.signal_type}</span>
-                  <span className={`text-lg font-bold ${getScoreColor(signal.score)}`}>
-                    {signal.score > 0 ? '+' : ''}{signal.score}
+                  <span className="text-2xl">
+                    {getSignalIcon(signal.recommend_action, signal.processed)}
                   </span>
+                  <span className="font-bold text-lg binance-text-primary">{signal.symbol}</span>
                 </div>
 
-                <div className="space-y-1 text-sm">
-                  <div className="flex items-center gap-2">
+                <div className="space-y-2 text-sm">
+                  <div className="flex flex-wrap items-center gap-2">
                     <span className="binance-text-secondary">建议:</span>
                     <span
                       className={`px-2 py-1 rounded text-xs font-medium ${getActionBgColor(
@@ -113,42 +107,28 @@ export function TelegramSignals() {
                     >
                       {signal.recommend_action}
                     </span>
+                    <span className="text-xs">
+                      {signal.processed ? (
+                        <span className="text-green-400">已处理</span>
+                      ) : (
+                        <span className="text-yellow-400">待处理</span>
+                      )}
+                    </span>
                   </div>
 
-                  <div className="flex items-center gap-2">
-                    <span className="binance-text-secondary">理由:</span>
-                    <span className="binance-text-primary">{signal.reason}</span>
+                  <div className="binance-text-primary leading-relaxed">
+                    {getMessagePreview(signal.raw_message)}
                   </div>
 
-                  <div className="flex items-start gap-2">
-                    <span className="binance-text-secondary">关键词:</span>
-                    <div className="flex flex-wrap gap-1">
-                      {signal.keywords.split(', ').map((keyword, idx) => {
-                        const isPositive = keyword.startsWith('+');
-                        return (
-                          <span
-                            key={idx}
-                            className={`px-2 py-0.5 rounded text-xs ${
-                              isPositive
-                                ? 'bg-green-900/20 text-green-500'
-                                : 'bg-red-900/20 text-red-500'
-                            }`}
-                          >
-                            {keyword}
-                          </span>
-                        );
-                      })}
-                    </div>
-                  </div>
-
-                  <div className="text-xs binance-text-secondary mt-2">
-                    {new Date(signal.timestamp).toLocaleString('zh-CN')}
+                  <div className="text-xs binance-text-secondary space-y-1">
+                    <div>收到时间: {formatTimestamp(signal.timestamp)}</div>
+                    <div>处理时间: {formatOptionalTimestamp(signal.processed_at)}</div>
+                    <div>创建时间: {formatTimestamp(signal.created_at)}</div>
                   </div>
                 </div>
               </div>
             </div>
 
-            {/* 可展开的原始消息 */}
             <details className="mt-3">
               <summary className="text-xs binance-text-secondary cursor-pointer hover:text-gray-400">
                 查看原始消息
@@ -161,15 +141,12 @@ export function TelegramSignals() {
         ))}
       </div>
 
-      {/* 信号解读说明 */}
       <div className="mt-6 p-4 bg-blue-900/10 border border-blue-900/20 rounded-lg">
-        <h3 className="text-sm font-semibold text-blue-400 mb-2">信号解读说明</h3>
+        <h3 className="text-sm font-semibold text-blue-400 mb-2">信号说明</h3>
         <ul className="text-xs text-blue-300 space-y-1">
-          <li>• 评分 ≥5: 强烈看多，可考虑入场</li>
-          <li>• 评分 3-4: 看多，适度参与</li>
-          <li>• 评分 1-2: 中性偏多，观察为主</li>
-          <li>• 评分 -2~0: 中性或偏空，谨慎</li>
-          <li>• 评分 ≤-3: 看空或风险警告，规避或平仓</li>
+          <li>• 当前系统仅保存 Python 端透传的做多信号，recommend_action 固定为 LONG</li>
+          <li>• processed 字段用于标记信号是否被交易线程消费</li>
+          <li>• 可展开查看完整原始消息，方便人工复核</li>
         </ul>
       </div>
     </div>
