@@ -131,6 +131,8 @@ temp/
 .codex/
 .archive/
 
+apps/valuescan/
+
 # Nitter specific - 允许基础配置，忽略敏感数据
 apps/social-monitor/services/nitter/logs/
 # 允许 nitter.conf (不包含敏感信息)
@@ -214,4 +216,7 @@ Cargo.lock
 *~
 nohup.out
 monitor.pid
+
+# 排除apps目录下的.env
+apps/.env
 
