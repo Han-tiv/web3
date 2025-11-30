@@ -90,6 +90,11 @@ where
     }
 }
 
+/// Gemini API 可能缺失 profit_potential 字段，提供默认值避免解析失败
+fn default_profit_potential() -> String {
+    "UNKNOWN".to_string()
+}
+
 #[derive(Debug, Deserialize, Serialize, Clone)]
 pub struct TradingSignal {
     pub signal: String,     // "BUY", "SELL", "HOLD", "SKIP"
@@ -138,6 +143,7 @@ pub struct PositionManagementDecision {
     pub close_percentage: Option<f64>, // 平仓百分比 (0-100)
     pub limit_price: Option<f64>, // 限价单价格
     pub reason: String,
+    #[serde(default = "default_profit_potential")]
     pub profit_potential: String, // "HIGH", "MEDIUM", "LOW", "NONE"
     pub optimal_exit_price: Option<f64>, // AI判断的最优退出价
     pub confidence: String,       // "HIGH", "MEDIUM", "LOW"
