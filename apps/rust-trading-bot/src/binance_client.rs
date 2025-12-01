@@ -893,13 +893,44 @@ impl BinanceClient {
         let price_precision = rules.price_precision.max(0) as usize;
         let qty_precision = rules.quantity_precision.max(0) as usize;
 
-        // 按 tick_size 对齐止损触发价,避免 -4014 错误
-        let aligned_stop_price = (stop_price / rules.tick_size).round() * rules.tick_size;
+        // 获取最新价格,用于止损价格合理性校验
+        let current_price = self.get_current_price(symbol).await?;
+        let tick_size = rules.tick_size;
+
+        // 按平仓方向选择合适的取整方式,避免止损价偏离预期
+        let mut aligned_stop_price = if order_side == "SELL" {
+            (stop_price / tick_size).ceil() * tick_size
+        } else {
+            (stop_price / tick_size).floor() * tick_size
+        };
+
+        info!(
+            "📐 {} {}止损价格对齐: 原始=${:.8}, tick_size=${:.8}, 对齐后=${:.8}",
+            symbol, order_side, stop_price, tick_size, aligned_stop_price
+        );
+
+        // 基于最新价格验证止损是否仍在合理区间
+        if order_side == "SELL" {
+            if aligned_stop_price >= current_price {
+                warn!(
+                    "⚠️ 多头止损价 {:.8} >= 当前价 {:.8}, 调整为当前价*0.99",
+                    aligned_stop_price, current_price
+                );
+                aligned_stop_price = (current_price * 0.99 / tick_size).floor() * tick_size;
+            }
+        } else if aligned_stop_price <= current_price {
+            warn!(
+                "⚠️ 空头止损价 {:.8} <= 当前价 {:.8}, 调整为当前价*1.01",
+                aligned_stop_price, current_price
+            );
+            aligned_stop_price = (current_price * 1.01 / tick_size).ceil() * tick_size;
+        }
+
         let stop_price_str = format!("{:.*}", price_precision, aligned_stop_price);
 
         // 按 tick_size 对齐限价单价格
         let actual_limit_price = limit_price.unwrap_or(aligned_stop_price);
-        let aligned_limit_price = (actual_limit_price / rules.tick_size).round() * rules.tick_size;
+        let aligned_limit_price = (actual_limit_price / tick_size).round() * tick_size;
         let limit_price_str = format!("{:.*}", price_precision, aligned_limit_price);
 
         let quantity_str = format!("{:.*}", qty_precision, quantity);
@@ -1194,7 +1225,7 @@ impl BinanceClient {
         // 按 step_size 与最小数量对齐，避免买卖量不合规
         let step = rules.step_size;
         let adjusted_quantity = (quantity / step).floor() * step;
-        let final_quantity = if reduce_only {
+        let mut final_quantity = if reduce_only {
             // ✅ reduceOnly 保持真实数量,仅对齐 step_size，避免被强制抬升到 min_qty
             adjusted_quantity.max(step)
         } else if adjusted_quantity < rules.min_qty {
@@ -1202,6 +1233,25 @@ impl BinanceClient {
         } else {
             adjusted_quantity
         };
+
+        // 若为普通限价单，自动拉升数量以满足 min_notional 限制
+        if !reduce_only {
+            if let Some(min_notional) = rules.min_notional {
+                let current_notional = final_quantity * aligned_price;
+                if current_notional < min_notional {
+                    let previous_quantity = final_quantity;
+                    let required_qty = (min_notional / aligned_price).ceil();
+                    // 计算所需数量并按照步长向上对齐
+                    final_quantity = ((required_qty / step).ceil()) * step;
+
+                    let new_notional = final_quantity * aligned_price;
+                    warn!(
+                        "📊 {} 限价单自动提升数量: {:.8} → {:.8} (名义金额 {:.2} → {:.2} USDT)",
+                        symbol, previous_quantity, final_quantity, current_notional, new_notional
+                    );
+                }
+            }
+        }
 
         if final_quantity <= 0.0 {
             return Err(anyhow::anyhow!(

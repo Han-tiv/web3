@@ -226,7 +226,7 @@ async fn spawn_concurrent_tasks(
         info!("🔄 延迟开仓队列重新分析线程启动");
         reanalyze_trader.reanalyze_pending_entries().await;
     });
-    info!("✅ 延迟开仓队列重新分析线程已启动（每10分钟）\n");
+    info!("✅ 延迟开仓队列重新分析线程已启动（每3.5分钟）\n");
 
     // 任务3: Web服务器
     info!("✅ 初始合约余额（固定）: {} USDT", initial_balance);
@@ -274,7 +274,7 @@ async fn spawn_concurrent_tasks(
                         let alert = FundAlert {
                             coin: record.symbol.clone(),
                             alert_type: AlertType::FundInflow, // 统一类型，由AI决策
-                            price: 0.0, // 价格将在analyze_and_trade中获取
+                            price: 0.0,                        // 价格将在analyze_and_trade中获取
                             change_24h: 0.0,
                             fund_type: "telegram".to_string(),
                             timestamp,

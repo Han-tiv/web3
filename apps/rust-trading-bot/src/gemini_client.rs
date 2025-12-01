@@ -3,14 +3,15 @@ use async_trait::async_trait;
 use log::{error, info};
 use reqwest::Client;
 use serde::{Deserialize, Serialize};
-use serde_json;
+use serde_json::{self, Value};
 
 use crate::ai::ai_trait::{
     AIProvider, EntryContext, EntryDecision, PositionContext, PositionDecision,
     StopLossAdjustmentDecision, TakeProfitAdjustmentDecision,
 };
 use crate::deepseek_client::{
-    Kline, Position, PositionManagementDecision, TechnicalIndicators, TradingSignal,
+    parse_batch_decision_response, BatchDecisionResponse, Kline, Position,
+    PositionManagementDecision, TechnicalIndicators, TradingSignal,
 };
 use crate::valuescan_v2::{PositionManagementDecisionV2, TradingSignalV2};
 
@@ -67,7 +68,17 @@ impl GeminiClient {
     }
 
     async fn send_gemini_request(&self, prompt: &str, context_label: &str) -> Result<String> {
-        let request = self.build_request(prompt);
+        self.send_gemini_request_with_model(prompt, context_label, None)
+            .await
+    }
+
+    async fn send_gemini_request_with_model(
+        &self,
+        prompt: &str,
+        context_label: &str,
+        model_override: Option<&str>,
+    ) -> Result<String> {
+        let request = self.build_request_with_model(prompt, model_override);
 
         info!("🧠 调用 Gemini API ({})...", context_label);
 
@@ -120,8 +131,18 @@ impl GeminiClient {
     }
 
     fn build_request(&self, prompt: &str) -> OpenAIRequest {
+        self.build_request_with_model(prompt, None)
+    }
+
+    fn build_request_with_model(
+        &self,
+        prompt: &str,
+        model_override: Option<&str>,
+    ) -> OpenAIRequest {
         OpenAIRequest {
-            model: self.model.clone(),
+            model: model_override
+                .map(|model| model.to_string())
+                .unwrap_or_else(|| self.model.clone()),
             messages: vec![OpenAIMessage {
                 role: "user".to_string(),
                 content: prompt.to_string(),
@@ -283,6 +304,81 @@ impl GeminiClient {
         );
 
         Ok(decision)
+    }
+
+    /// Gemini 批量持仓评估
+    pub async fn evaluate_positions_batch(
+        &self,
+        positions: Vec<(
+            String,
+            String,
+            f64,
+            f64,
+            f64,
+            f64,
+            Vec<Kline>,
+            Vec<Kline>,
+            Vec<Kline>,
+            TechnicalIndicators,
+        )>,
+    ) -> Result<Vec<(String, PositionManagementDecision)>> {
+        if positions.is_empty() {
+            return Ok(vec![]);
+        }
+
+        let prompt = self.build_batch_evaluation_prompt(&positions);
+
+        info!(
+            "🧠 调用 Gemini API 进行批量持仓评估 ({} 个持仓)...",
+            positions.len()
+        );
+
+        let content = self
+            .send_gemini_request_with_model(&prompt, "批量持仓评估", Some("gemini-2.0-flash-exp"))
+            .await?;
+
+        let batch_response: BatchDecisionResponse = parse_batch_decision_response(&content)?;
+        let BatchDecisionResponse { decisions } = batch_response;
+
+        if decisions.len() != positions.len() {
+            anyhow::bail!(
+                "Batch decision count mismatch: expected {}, got {}",
+                positions.len(),
+                decisions.len()
+            );
+        }
+
+        let mut results = Vec::with_capacity(decisions.len());
+
+        for (idx, (position, decision)) in positions.iter().zip(decisions.iter()).enumerate() {
+            let (symbol, ..) = position;
+            if decision.symbol != *symbol {
+                anyhow::bail!(
+                    "Batch response symbol mismatch at index {}: expected {}, got {}",
+                    idx,
+                    symbol,
+                    decision.symbol
+                );
+            }
+
+            let management_decision = PositionManagementDecision {
+                action: decision.action.clone(),
+                close_percentage: decision.close_percentage,
+                limit_price: decision.limit_price,
+                reason: decision.reason.clone(),
+                profit_potential: decision.profit_potential.clone(),
+                optimal_exit_price: None,
+                confidence: decision.confidence.clone(),
+                stop_loss_adjustment: None,
+                take_profit_adjustment: None,
+            };
+
+            results.push((symbol.clone(), management_decision));
+        }
+
+        info!("📦 批量持仓决策转换完成: {} 条", results.len());
+
+        Ok(results)
     }
 
     /// 原样返回 Gemini 的自然语言分析内容，适合复杂自定义策略
@@ -824,6 +920,138 @@ impl GeminiClient {
             indicators.sma_50,
             support_text,
             deviation_desc
+        )
+    }
+
+    pub fn build_batch_evaluation_prompt(
+        &self,
+        positions: &[(
+            String,
+            String,
+            f64,
+            f64,
+            f64,
+            f64,
+            Vec<Kline>,
+            Vec<Kline>,
+            Vec<Kline>,
+            TechnicalIndicators,
+        )],
+    ) -> String {
+        let summarize_klines = |klines: &[Kline], limit: usize| -> Vec<Value> {
+            let mut recent: Vec<&Kline> = klines.iter().rev().take(limit).collect();
+            recent.reverse();
+            recent
+                .into_iter()
+                .map(|kline| {
+                    serde_json::json!({
+                        "timestamp": kline.timestamp,
+                        "open": kline.open,
+                        "high": kline.high,
+                        "low": kline.low,
+                        "close": kline.close,
+                        "volume": kline.volume,
+                        "quote_volume": kline.quote_volume,
+                        "taker_buy_volume": kline.taker_buy_volume,
+                        "taker_buy_quote_volume": kline.taker_buy_quote_volume,
+                    })
+                })
+                .collect()
+        };
+
+        let mut payload: Vec<Value> = Vec::with_capacity(positions.len());
+
+        for (
+            symbol,
+            side,
+            entry_price,
+            current_price,
+            profit_pct,
+            hold_duration,
+            klines_5m,
+            klines_15m,
+            klines_1h,
+            indicators,
+        ) in positions.iter()
+        {
+            let kline_snapshots = serde_json::json!({
+                "5m": summarize_klines(klines_5m, 15),
+                "15m": summarize_klines(klines_15m, 15),
+                "1h": summarize_klines(klines_1h, 12),
+            });
+
+            let kline_descriptions = serde_json::json!({
+                "5m": self.format_klines_with_label(klines_5m, "5m", 15),
+                "15m": self.format_klines_with_label(klines_15m, "15m", 15),
+                "1h": self.format_klines_with_label(klines_1h, "1h", 12),
+            });
+
+            let indicator_snapshot = serde_json::json!({
+                "sma_5": indicators.sma_5,
+                "sma_20": indicators.sma_20,
+                "sma_50": indicators.sma_50,
+                "rsi": indicators.rsi,
+                "macd": indicators.macd,
+                "macd_signal": indicators.macd_signal,
+                "bb_upper": indicators.bb_upper,
+                "bb_middle": indicators.bb_middle,
+                "bb_lower": indicators.bb_lower,
+            });
+
+            payload.push(serde_json::json!({
+                "symbol": symbol,
+                "side": side,
+                "entry_price": entry_price,
+                "current_price": current_price,
+                "profit_pct": profit_pct,
+                "hold_duration_hours": hold_duration,
+                "klines": kline_snapshots,
+                "klines_text": kline_descriptions,
+                "indicators": indicator_snapshot,
+                "indicator_text": self.format_indicators(indicators),
+                "trend_insight": self.analyze_trend(indicators, *current_price),
+                "key_levels": self.identify_key_levels(klines_15m, indicators, *current_price),
+            }));
+        }
+
+        let positions_json = match serde_json::to_string_pretty(&payload) {
+            Ok(text) => text,
+            Err(err) => {
+                error!("构建批量评估 prompt JSON 失败: {}", err);
+                "[]".to_string()
+            }
+        };
+
+        format!(
+            r#"你是资深的持仓风控分析师，请基于多时间周期K线与指标数据，为批量持仓生成纪律化决策。务必遵守超短线原则:
+- 亏损 > 2% 立即止损，-0.5% ~ -1.5% 先部分减仓
+- 盈利单锁定≥50%利润，再评估剩余仓位上行空间
+- 禁止摊平或逆势加仓
+
+【批量持仓数据（JSON）】
+{}
+
+【输出要求】
+- 严格返回JSON数组，每个元素字段: symbol, action, close_percentage, limit_price, reason, profit_potential, confidence
+- action ∈ [HOLD, PARTIAL_CLOSE, FULL_CLOSE]
+- close_percentage 范围 0-100（PARTIAL/FULL 必填），limit_price 可为 null
+- reason 使用精炼中文(包含趋势/关键位/指标)，profit_potential 描述剩余涨跌空间，confidence 取 HIGH|MEDIUM|LOW
+- 只输出JSON，不要Markdown或额外说明
+
+示例:
+[
+  {{
+    "symbol": "BTCUSDT",
+    "action": "PARTIAL_CLOSE",
+    "close_percentage": 50,
+    "limit_price": 61234.5,
+    "reason": "15m 跌破 SMA20，RSI 从 70 回落",
+    "profit_potential": "+3.5% 空间",
+    "confidence": "MEDIUM"
+  }}
+]
+"#,
+            positions_json
         )
     }
 

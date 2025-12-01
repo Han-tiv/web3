@@ -66,6 +66,10 @@ use rust_trading_bot::{
     gemini_client::GeminiClient,
     key_level_finder::KeyLevelFinder,
     launch_signal_detector::LaunchSignalDetector,
+    prompt_templates::{
+        build_entry_prompt_v1, build_entry_prompt_v2, build_position_prompt_v2, EntryPromptContext,
+        PositionPromptContext,
+    },
     signals::{AlertType, FundAlert, MessageParser, SignalContext},
     staged_position_manager::{StagedPosition, StagedPositionManager},
     technical_analysis::TechnicalAnalyzer,
@@ -82,6 +86,7 @@ pub struct PendingEntry {
     alert: FundAlert,
     reject_reason: String, // 为什么首次被拒绝: "价格不符"/"AI SKIP"/"等待回调"
     retry_count: u32,      // 已重试次数
+    fund_escape_detected_at: Option<DateTime<Utc>>, // 首次检测到资金出逃的时间
 }
 
 /// 持仓追踪器快照 - 用于无锁读取
@@ -127,6 +132,75 @@ pub struct BatchActionContext {
     quantity: f64,
     stop_loss_order_id: Option<String>,
     take_profit_order_id: Option<String>,
+}
+
+/// 统一封装AI评估所需的完整上下文，复用单次与批量流程
+struct PreparedPositionContext {
+    symbol: String,
+    side: String,
+    entry_price: f64,
+    stop_loss_price: f64,
+    current_price: f64,
+    quantity: f64,
+    duration: f64,
+    profit_pct: f64,
+    stop_loss_order_id: Option<String>,
+    take_profit_order_id: Option<String>,
+    market: PositionMarketContext,
+    support_text: String,
+    deviation_desc: String,
+    current_stop_loss: Option<f64>,
+    current_take_profit: Option<f64>,
+}
+
+impl PreparedPositionContext {
+    fn to_prompt_context(&self) -> PositionPromptContext<'_> {
+        PositionPromptContext {
+            symbol: &self.symbol,
+            side: &self.side,
+            entry_price: self.entry_price,
+            current_price: self.current_price,
+            profit_pct: self.profit_pct,
+            hold_duration_hours: self.duration,
+            klines_5m: &self.market.klines_5m,
+            klines_15m: &self.market.klines_15m,
+            klines_1h: &self.market.klines_1h,
+            indicators: &self.market.indicators,
+            support_text: &self.support_text,
+            deviation_desc: &self.deviation_desc,
+            current_stop_loss: self.current_stop_loss,
+            current_take_profit: self.current_take_profit,
+            funding_rate_info: None,
+        }
+    }
+
+    fn to_batch_input(
+        &self,
+    ) -> (
+        String,
+        String,
+        f64,
+        f64,
+        f64,
+        f64,
+        Vec<Kline>,
+        Vec<Kline>,
+        Vec<Kline>,
+        TechnicalIndicators,
+    ) {
+        (
+            self.symbol.clone(),
+            self.side.clone(),
+            self.entry_price,
+            self.current_price,
+            self.profit_pct,
+            self.duration,
+            self.market.klines_5m.clone(),
+            self.market.klines_15m.clone(),
+            self.market.klines_1h.clone(),
+            self.market.indicators.clone(),
+        )
+    }
 }
 
 #[derive(Clone, Copy)]
@@ -176,6 +250,13 @@ pub enum PositionAction {
         limit_price: f64,
         take_profit_order_id: Option<String>,
     },
+}
+
+/// 描述AI分析前的准备结果
+enum PositionEvaluationStep {
+    Skip,
+    Immediate(PositionAction),
+    Context(PreparedPositionContext),
 }
 
 /// 对追踪器的更新操作，统一在短暂写锁中落盘
@@ -803,11 +884,18 @@ impl IntegratedAITrader {
         indicators: &TechnicalIndicators,
         is_ai_override: bool,
     ) -> Result<bool> {
-        // 1. 信号延迟检查：当前价相对信号价偏离超过 2% 则拒绝
-        let deviation = (current_price - signal_price).abs() / signal_price;
-        if deviation > 0.02 {
-            warn!("❌ 信号延迟过大: 偏离{:.2}%, 拒绝入场", deviation * 100.0);
-            return Ok(false);
+        // 1. 信号延迟检查：当前价相对信号价偏离超过 2% 则拒绝，处理信号价为 0 的异常
+        if signal_price > 0.0 {
+            let deviation = (current_price - signal_price).abs() / signal_price;
+            if deviation > 0.02 {
+                warn!("❌ 信号延迟过大: 偏离{:.2}%, 拒绝入场", deviation * 100.0);
+                return Ok(false);
+            }
+        } else {
+            warn!(
+                "⚠️ signal_price为0,跳过偏离度检查 (当前价: ${:.4})",
+                current_price
+            );
         }
 
         // 2. 入场区边界检查 - 动态容差
@@ -880,75 +968,74 @@ impl IntegratedAITrader {
                 None
             }
             "PARTIAL_CLOSE" => {
-                if let Some(close_pct) = decision.close_percentage {
-                    info!("📉 AI 建议部分平仓 {} ({}%)", symbol, close_pct);
-                    let close_quantity = (quantity * (close_pct / 100.0)).clamp(0.0, quantity);
-                    let remaining_quantity = (quantity - close_quantity).max(0.0);
+                // ✅ 使用默认50%当AI未提供百分比时
+                let close_pct = decision.close_percentage.unwrap_or(50.0);
+                if decision.close_percentage.is_none() {
+                    warn!("⚠️  AI 建议部分平仓但未提供百分比,使用默认50%");
+                }
+                info!("📉 AI 建议部分平仓 {} ({}%)", symbol, close_pct);
+                let close_quantity = (quantity * (close_pct / 100.0)).clamp(0.0, quantity);
+                let remaining_quantity = (quantity - close_quantity).max(0.0);
 
-                    if close_quantity <= f64::EPSILON {
-                        warn!("⚠️  计算得到的平仓数量过小, 跳过本次部分平仓");
-                        None
-                    } else {
-                        // ✅ 智能部分平仓比率调整: 动态MIN_NOTIONAL + 使用当前价格
-                        let position_total_value = quantity * current_price;
-                        let suggested_close_value = close_quantity * current_price;
+                if close_quantity <= f64::EPSILON {
+                    warn!("⚠️  计算得到的平仓数量过小, 跳过本次部分平仓");
+                    None
+                } else {
+                    // ✅ 智能部分平仓比率调整: 动态MIN_NOTIONAL + 使用当前价格
+                    let position_total_value = quantity * current_price;
+                    let suggested_close_value = close_quantity * current_price;
 
-                        if suggested_close_value < min_notional {
-                            // 计算满足MIN_NOTIONAL的最小平仓比率
-                            let min_ratio_pct =
-                                (min_notional / position_total_value * 100.0).ceil();
+                    if suggested_close_value < min_notional {
+                        // 计算满足MIN_NOTIONAL的最小平仓比率
+                        let min_ratio_pct = (min_notional / position_total_value * 100.0).ceil();
 
-                            if min_ratio_pct <= 100.0 {
-                                // 调整到最小比率
-                                let adjusted_close_pct = min_ratio_pct;
-                                let adjusted_close_qty = quantity * (adjusted_close_pct / 100.0);
-                                let adjusted_close_value = adjusted_close_qty * current_price;
+                        if min_ratio_pct <= 100.0 {
+                            // 调整到最小比率
+                            let adjusted_close_pct = min_ratio_pct;
+                            let adjusted_close_qty = quantity * (adjusted_close_pct / 100.0);
+                            let adjusted_close_value = adjusted_close_qty * current_price;
 
-                                warn!(
-                                    "⚠️ {} 部分平仓比率调整: AI建议{:.0}% (${:.2}) → 实际执行{:.0}% (${:.2})，满足MIN_NOTIONAL ${:.0}",
-                                    symbol, close_pct, suggested_close_value, adjusted_close_pct, adjusted_close_value, min_notional
-                                );
+                            warn!(
+                                "⚠️ {} 部分平仓比率调整: AI建议{:.0}% (${:.2}) → 实际执行{:.0}% (${:.2})，满足MIN_NOTIONAL ${:.0}",
+                                symbol, close_pct, suggested_close_value, adjusted_close_pct, adjusted_close_value, min_notional
+                            );
 
-                                let adjusted_remaining = (quantity - adjusted_close_qty).max(0.0);
-                                Some(PositionAction::PartialClose {
-                                    symbol: symbol.to_string(),
-                                    side: side.to_string(),
-                                    close_quantity: adjusted_close_qty,
-                                    close_pct: adjusted_close_pct,
-                                    entry_price,
-                                    stop_loss_price,
-                                    remaining_quantity: adjusted_remaining,
-                                    stop_loss_order_id,
-                                })
-                            } else {
-                                // 持仓总价值小于MIN_NOTIONAL,转为全部平仓
-                                warn!(
-                                    "⚠️ {} 持仓总价值(${:.2}) < MIN_NOTIONAL(${:.0})，无法部分平仓，执行全部平仓",
-                                    symbol, position_total_value, min_notional
-                                );
-                                Some(PositionAction::FullClose {
-                                    symbol: symbol.to_string(),
-                                    side: side.to_string(),
-                                    quantity,
-                                    reason: "min_notional_full_close".to_string(),
-                                })
-                            }
-                        } else {
+                            let adjusted_remaining = (quantity - adjusted_close_qty).max(0.0);
                             Some(PositionAction::PartialClose {
                                 symbol: symbol.to_string(),
                                 side: side.to_string(),
-                                close_quantity,
-                                close_pct,
+                                close_quantity: adjusted_close_qty,
+                                close_pct: adjusted_close_pct,
                                 entry_price,
                                 stop_loss_price,
-                                remaining_quantity,
+                                remaining_quantity: adjusted_remaining,
                                 stop_loss_order_id,
                             })
+                        } else {
+                            // 持仓总价值小于MIN_NOTIONAL,转为全部平仓
+                            warn!(
+                                "⚠️ {} 持仓总价值(${:.2}) < MIN_NOTIONAL(${:.0})，无法部分平仓，执行全部平仓",
+                                symbol, position_total_value, min_notional
+                            );
+                            Some(PositionAction::FullClose {
+                                symbol: symbol.to_string(),
+                                side: side.to_string(),
+                                quantity,
+                                reason: "min_notional_full_close".to_string(),
+                            })
                         }
+                    } else {
+                        Some(PositionAction::PartialClose {
+                            symbol: symbol.to_string(),
+                            side: side.to_string(),
+                            close_quantity,
+                            close_pct,
+                            entry_price,
+                            stop_loss_price,
+                            remaining_quantity,
+                            stop_loss_order_id,
+                        })
                     }
-                } else {
-                    warn!("⚠️  AI 建议部分平仓但未提供百分比,保持持仓");
-                    None
                 }
             }
             "FULL_CLOSE" => {
@@ -1614,9 +1701,157 @@ impl IntegratedAITrader {
                 Err(e) => {
                     warn!("⚠️  获取持仓列表失败: {}", e);
                     warn!("🔍 错误详情: {:?}", e);
-                    continue;
+                    // ✅ Bug Fix: 即使获取失败也使用空vec,不能跳过小仓位保护逻辑
+                    Vec::new()
                 }
             };
+
+            // 【单持仓保护】保证金<0.5U + 亏损 + 资金费率不利时平掉小仓位
+            debug!(
+                "🔍 开始小仓位保护检查: 共{}个持仓",
+                exchange_positions.len()
+            );
+            for position in &exchange_positions {
+                let symbol = position.symbol.clone();
+
+                let symbol_rules = match self.exchange.get_symbol_trading_rules(&symbol).await {
+                    Ok(rules) => rules,
+                    Err(e) => {
+                        warn!("⚠️  {} 获取交易规则失败: {}", symbol, e);
+                        continue;
+                    }
+                };
+
+                if position.size.abs() < symbol_rules.min_qty {
+                    warn!(
+                        "⚠️  {} 持仓数量 {:.8} 小于最小交易数量 {:.8}，无法通过 API 平仓，跳过处理",
+                        symbol,
+                        position.size.abs(),
+                        symbol_rules.min_qty
+                    );
+                    let mut trackers = self.position_trackers.write().await;
+                    trackers.remove(&symbol);
+                    info!("✅ {} 已从追踪器中移除（尘埃持仓）", symbol);
+                    continue;
+                }
+
+                debug!("   检查持仓: {} size={:.8}", symbol, position.size);
+                if position.size <= f64::EPSILON {
+                    debug!("   {} 仓位过小,跳过", symbol);
+                    continue;
+                }
+
+                // 根据方向恢复带符号仓位, 便于统一判断与资金费率同向
+                let is_long = if position.side.eq_ignore_ascii_case("LONG") {
+                    true
+                } else if position.side.eq_ignore_ascii_case("SHORT") {
+                    false
+                } else {
+                    warn!(
+                        "⚠️ {} 未知持仓方向({}), 跳过单仓保护",
+                        symbol,
+                        position.side.as_str()
+                    );
+                    continue;
+                };
+                let signed_size = if is_long {
+                    position.size
+                } else {
+                    -position.size
+                };
+
+                if position.entry_price <= 0.0 {
+                    warn!(
+                        "⚠️ {} 入场价异常({:.4}), 跳过单仓保护",
+                        symbol, position.entry_price
+                    );
+                    continue;
+                }
+
+                let notional = signed_size.abs() * position.entry_price;
+                let margin = notional / 15.0; // 固定15x杠杆
+
+                debug!(
+                    "   {} 保证金计算: notional=${:.2}, margin=${:.4}",
+                    symbol, notional, margin
+                );
+
+                // 条件1: 保证金 < 0.5U
+                if margin >= 0.5 {
+                    debug!("   {} 保证金{:.4}U >= 0.5U,不触发保护", symbol, margin);
+                    continue;
+                }
+
+                info!("✅ {} 符合保证金条件: {:.4}U < 0.5U", symbol, margin);
+
+                // 条件2: 根据盈亏状态决定是否平仓
+                let should_close = if position.pnl < 0.0 {
+                    // 亏损中: 直接平仓,不管资金费率
+                    info!(
+                        "🚨 {} 小仓位亏损保护触发: 保证金{:.2}U, PnL={:.4}, 方向={}",
+                        symbol,
+                        margin,
+                        position.pnl,
+                        position.side.as_str()
+                    );
+                    true
+                } else {
+                    // 盈利中: 只有资金费率不利时才平仓
+                    let funding_rate = match self.exchange.get_funding_rate(&symbol).await {
+                        Ok((rate, _, _, _, _)) => rate,
+                        Err(e) => {
+                            warn!("⚠️ {} 获取资金费率失败: {}", symbol, e);
+                            continue;
+                        }
+                    };
+
+                    let unfavorable_funding =
+                        (is_long && funding_rate > 0.0) || (!is_long && funding_rate < 0.0);
+
+                    if unfavorable_funding {
+                        info!(
+                            "🚨 {} 小仓位盈利+资金费率不利保护触发: 保证金{:.2}U, PnL={:.4}, 资金费率={:.4}%, 方向={}",
+                            symbol,
+                            margin,
+                            position.pnl,
+                            funding_rate * 100.0,
+                            position.side.as_str()
+                        );
+                    }
+
+                    unfavorable_funding
+                };
+
+                if !should_close {
+                    continue;
+                }
+
+                error!(
+                    "🚨 {} 执行小仓位保护平仓: 保证金{:.2}U, PnL={:.4}, 方向={}",
+                    symbol,
+                    margin,
+                    position.pnl,
+                    position.side.as_str()
+                );
+
+                match self.close_position_fully_with_retry(&symbol, 3).await {
+                    Ok(_) => {
+                        self.send_critical_alert(
+                            &symbol,
+                            "小仓位亏损+资金费率不利,执行保护平仓...",
+                        )
+                        .await;
+                    }
+                    Err(e) => {
+                        error!("❌ {} 小仓位亏损保护平仓失败: {}", symbol, e);
+                        self.send_critical_alert(
+                            &symbol,
+                            "小仓位亏损+资金费率不利,执行保护平仓...",
+                        )
+                        .await;
+                    }
+                }
+            }
 
             // 如果没有 tracker 记录但有真实持仓，跳过后续的 AI 分析逻辑（防止误操作）
             // 但至少持仓数据已经同步到前端了
@@ -1625,19 +1860,8 @@ impl IntegratedAITrader {
             }
 
             let mut actions_to_execute = Vec::new();
-            let mut batch_inputs: Vec<(
-                String,
-                String,
-                f64,
-                f64,
-                f64,
-                f64,
-                Vec<Kline>,
-                Vec<Kline>,
-                Vec<Kline>,
-                TechnicalIndicators,
-            )> = Vec::new();
-            let mut batch_contexts: HashMap<String, BatchActionContext> = HashMap::new();
+            let mut batch_inputs = Vec::new();
+            let mut batch_contexts: HashMap<String, PreparedPositionContext> = HashMap::new();
 
             for snapshot in tracker_snapshots.values() {
                 let symbol = snapshot.symbol.clone();
@@ -1658,6 +1882,19 @@ impl IntegratedAITrader {
 
                 let position = maybe_position.unwrap();
                 let current_price = position.mark_price;
+                let live_quantity = position.size.abs();
+
+                let notional_value = live_quantity * current_price;
+                const MIN_NOTIONAL: f64 = 1.0;
+
+                if notional_value < MIN_NOTIONAL {
+                    warn!(
+                        "⚠️  {} 发现尘埃持仓 (数量={:.8}, 价格=${:.4}, 价值=${:.4}), 视为已平仓并清理",
+                        symbol, live_quantity, current_price, notional_value
+                    );
+                    actions_to_execute.push(PositionAction::Remove(symbol.clone()));
+                    continue;
+                }
 
                 // 计算持仓时长(小时)
                 let duration = (Utc::now() - entry_time).num_minutes() as f64 / 60.0;
@@ -1722,146 +1959,67 @@ impl IntegratedAITrader {
                     continue;
                 }
 
-                // 【AI 动态止盈评估】先收集所需行情数据，统一批量调用 DeepSeek
-                match self.collect_position_market_context(&symbol).await {
-                    Ok(Some(market_context)) => {
-                        let PositionMarketContext {
-                            klines_5m,
-                            klines_15m,
-                            klines_1h,
-                            indicators,
-                        } = market_context;
-
-                        batch_contexts.insert(
-                            symbol.clone(),
-                            BatchActionContext {
-                                side: side.clone(),
-                                entry_price,
-                                quantity,
-                                stop_loss_order_id: snapshot.stop_loss_order_id.clone(),
-                                take_profit_order_id: snapshot.take_profit_order_id.clone(),
-                            },
-                        );
-
-                        batch_inputs.push((
-                            symbol.clone(),
-                            side.clone(),
-                            entry_price,
-                            current_price,
-                            profit_pct,
-                            duration,
-                            klines_5m,
-                            klines_15m,
-                            klines_1h,
-                            indicators,
-                        ));
+                // 【AI 动态止盈评估】使用Gemini单个评估(不再批量)
+                let stop_loss_price = if let Some(ref sl_id) = snapshot.stop_loss_order_id {
+                    match self.exchange.get_order_status_detail(&symbol, sl_id).await {
+                        Ok(status) => status.stop_price.unwrap_or(entry_price),
+                        Err(_) => entry_price,
                     }
-                    Ok(None) => continue,
+                } else {
+                    if side == "LONG" {
+                        entry_price * 0.95
+                    } else {
+                        entry_price * 1.05
+                    }
+                };
+
+                match self
+                    .prepare_position_ai_context(
+                        &symbol,
+                        &side,
+                        entry_price,
+                        stop_loss_price,
+                        current_price,
+                        quantity,
+                        duration,
+                        snapshot.stop_loss_order_id.clone(),
+                        snapshot.take_profit_order_id.clone(),
+                    )
+                    .await
+                {
+                    Ok(PositionEvaluationStep::Immediate(action)) => {
+                        actions_to_execute.push(action);
+                    }
+                    Ok(PositionEvaluationStep::Context(ctx)) => {
+                        batch_inputs.push(ctx.to_batch_input());
+                        batch_contexts.insert(ctx.symbol.clone(), ctx);
+                    }
+                    Ok(PositionEvaluationStep::Skip) => {}
                     Err(e) => {
-                        warn!("⚠️  {} 获取行情上下文失败: {}", symbol, e);
-                        continue;
+                        warn!("⚠️  {} 准备AI评估上下文失败: {}", symbol, e);
                     }
                 }
             }
 
             if !batch_inputs.is_empty() {
-                match self.deepseek.evaluate_positions_batch(batch_inputs).await {
-                    Ok(decisions) => {
-                        for (symbol, ai_decision) in decisions {
-                            info!(
-                                "🎯 批量AI决策 {}: {} | 理由: {} | 盈利潜力: {} | 置信度: {}",
-                                symbol,
-                                ai_decision.action,
-                                ai_decision.reason,
-                                ai_decision.profit_potential,
-                                ai_decision.confidence
-                            );
-
-                            let Some(context) = batch_contexts.remove(&symbol) else {
-                                warn!("⚠️  找不到 {} 的批量AI上下文,跳过动作生成", symbol);
-                                continue;
-                            };
-
-                            let confidence_value =
-                                Self::map_confidence_to_score(&ai_decision.confidence);
-                            let decision_text = format!(
-                                "{} | 盈利潜力: {} | 置信度: {}",
-                                ai_decision.action,
-                                ai_decision.profit_potential,
-                                ai_decision.confidence
-                            );
-                            let signal_type = Self::normalize_signal_type(&ai_decision.action);
-                            let ai_record = AiAnalysisRecord {
-                                id: None,
-                                timestamp: Utc::now().to_rfc3339(),
-                                symbol: symbol.clone(),
-                                decision: decision_text,
-                                confidence: confidence_value,
-                                signal_type: Some(signal_type.to_string()),
-                                reason: ai_decision.reason.clone(),
-                                valuescan_score: None,
-                                risk_reward_ratio: None,
-                                entry_price: None,
-                                stop_loss: None,
-                                resistance: None,
-                                support: None,
-                            };
-
-                            if let Err(e) = self.db.insert_ai_analysis(&ai_record) {
-                                warn!("⚠️  保存AI持仓分析到数据库失败: {}", e);
-                            }
-
-                            // 获取动态 MIN_NOTIONAL 和当前价格
-                            let trading_rules =
-                                match self.exchange.get_symbol_trading_rules(&symbol).await {
-                                    Ok(rules) => rules,
+                match self.gemini.evaluate_positions_batch(batch_inputs).await {
+                    Ok(results) => {
+                        for (symbol, decision) in results {
+                            if let Some(ctx) = batch_contexts.remove(&symbol) {
+                                match self.handle_position_ai_decision(&ctx, &decision).await {
+                                    Ok(Some(action)) => actions_to_execute.push(action),
+                                    Ok(None) => {}
                                     Err(e) => {
-                                        warn!("⚠️  {} 获取交易规则失败: {}, 使用默认值", symbol, e);
-                                        continue;
+                                        warn!("⚠️  {} 应用AI决策失败: {}", symbol, e);
                                     }
-                                };
-                            let min_notional = trading_rules.min_notional.unwrap_or(5.0);
-                            let current_price = match self.exchange.get_current_price(&symbol).await
-                            {
-                                Ok(price) => price,
-                                Err(_) => context.entry_price,
-                            };
-
-                            // ✅ Bug Fix: 查询止损单价格用于部分平仓后重设
-                            let stop_loss_price = if let Some(ref sl_id) =
-                                context.stop_loss_order_id
-                            {
-                                match self.exchange.get_order_status_detail(&symbol, sl_id).await {
-                                    Ok(status) => status.stop_price.unwrap_or(context.entry_price),
-                                    Err(_) => context.entry_price, // 查询失败时使用入场价作为后备
                                 }
                             } else {
-                                // 无止损单时基于方向计算默认止损价
-                                if context.side == "LONG" {
-                                    context.entry_price * 0.95 // 多单默认止损-5%
-                                } else {
-                                    context.entry_price * 1.05 // 空单默认止损+5%
-                                }
-                            };
-
-                            if let Some(action) = Self::build_action_from_decision(
-                                &symbol,
-                                &context.side,
-                                context.entry_price,
-                                stop_loss_price,
-                                context.quantity,
-                                context.stop_loss_order_id,
-                                context.take_profit_order_id,
-                                &ai_decision,
-                                min_notional,
-                                current_price,
-                            ) {
-                                actions_to_execute.push(action);
+                                warn!("⚠️  批量AI返回未知symbol {}, 可能上下文已被移除", symbol);
                             }
                         }
                     }
                     Err(e) => {
-                        warn!("⚠️  批量AI评估失败: {}", e);
+                        warn!("⚠️  Gemini 批量评估失败: {}", e);
                     }
                 }
             }
@@ -1901,18 +2059,25 @@ impl IntegratedAITrader {
                         entry_price: _,
                         stop_loss_price, // ✅ Bug Fix: 使用原始止损价格
                         remaining_quantity: _,
-                        stop_loss_order_id,
+                        stop_loss_order_id: _,
                     } => {
                         info!(
                             "📉 执行部分平仓: {} 计划数量 {:.6} ({}%)",
                             symbol, close_quantity, close_pct
                         );
-                        if let Some(sl_id) = stop_loss_order_id.as_ref() {
-                            info!("🔧 部分平仓前取消止损单: {}", sl_id);
-                            if let Err(e) = self.order_manager.cancel_order(&symbol, sl_id).await {
-                                warn!("⚠️  取消止损单失败: {} ({})", sl_id, e);
+                        let canceled_orders = match self.cancel_symbol_trigger_orders(&symbol).await
+                        {
+                            Ok(ids) => ids,
+                            Err(e) => {
+                                warn!("⚠️  清理旧触发单失败: {}", e);
+                                Vec::new()
                             }
-                        }
+                        };
+                        info!(
+                            "🗑️ 取消旧触发单 {} 个: {:?}",
+                            canceled_orders.len(),
+                            canceled_orders
+                        );
 
                         let actual_remaining =
                             match self.close_position_partially(&symbol, close_pct).await {
@@ -1962,11 +2127,21 @@ impl IntegratedAITrader {
                         side,
                         quantity,
                         limit_price,
-                        take_profit_order_id,
+                        take_profit_order_id: _,
                     } => {
-                        if let Some(order_id) = take_profit_order_id {
-                            let _ = self.order_manager.cancel_order(&symbol, &order_id).await;
-                        }
+                        let canceled_orders = match self.cancel_symbol_trigger_orders(&symbol).await
+                        {
+                            Ok(ids) => ids,
+                            Err(e) => {
+                                warn!("⚠️  清理旧触发单失败: {}", e);
+                                Vec::new()
+                            }
+                        };
+                        info!(
+                            "🗑️ 取消旧触发单 {} 个: {:?}",
+                            canceled_orders.len(),
+                            canceled_orders
+                        );
 
                         match self
                             .exchange
@@ -2024,12 +2199,12 @@ impl IntegratedAITrader {
         }
     }
 
-    /// 定时重新分析延迟开仓队列 - 每10分钟检查是否有合适的入场机会
+    /// 定时重新分析延迟开仓队列 - 每3.5分钟检查是否有合适的入场机会
     pub async fn reanalyze_pending_entries(self: Arc<Self>) {
         info!("🔄 延迟开仓队列重新分析线程已启动");
 
         loop {
-            tokio::time::sleep(tokio::time::Duration::from_secs(600)).await; // 10分钟
+            tokio::time::sleep(tokio::time::Duration::from_secs(210)).await; // 3.5分钟
 
             // 获取队列快照
             let pending_snapshot = {
@@ -2070,15 +2245,41 @@ impl IntegratedAITrader {
                 }
 
                 // 检查退出条件3: 是否收到资金出逃信号
+                let mut fund_escape_signal = false;
                 {
                     let coins = self.tracked_coins.read().await;
                     if let Some(alert) = coins.get(&entry.alert.coin) {
                         if alert.alert_type == AlertType::FundEscape {
-                            info!("🚨 {} 检测到资金出逃信号，从延迟队列移除", symbol);
-                            symbols_to_remove.push(symbol.clone());
-                            continue;
+                            fund_escape_signal = true;
                         }
                     }
+                }
+
+                if fund_escape_signal {
+                    let detection_time = entry.fund_escape_detected_at.unwrap_or_else(|| {
+                        entry.fund_escape_detected_at = Some(now);
+                        now
+                    });
+                    let elapsed_seconds = (now - detection_time).num_seconds();
+                    let waited_minutes = elapsed_seconds / 60;
+                    info!(
+                        "🚨 {} 检测到资金出逃信号,将在10分钟后移除 (已等待{}分钟)",
+                        symbol, waited_minutes
+                    );
+
+                    if elapsed_seconds >= 600 {
+                        info!("🚨 {} 资金出逃信号持续超过10分钟，执行移除", symbol);
+                        symbols_to_remove.push(symbol.clone());
+                    }
+
+                    // 更新fund_escape_detected_at到队列，方便后续宽限判断
+                    let mut pending = self.pending_entries.write().await;
+                    if let Some(existing) = pending.get_mut(&symbol) {
+                        existing.fund_escape_detected_at = entry.fund_escape_detected_at;
+                    }
+                } else {
+                    // 当前无资金出逃信号，清空历史记录
+                    entry.fund_escape_detected_at = None;
                 }
 
                 // 更新重试次数和时间
@@ -2102,6 +2303,7 @@ impl IntegratedAITrader {
                 if let Some(existing) = pending.get_mut(&symbol) {
                     existing.retry_count = entry.retry_count;
                     existing.last_analysis_time = entry.last_analysis_time;
+                    existing.fund_escape_detected_at = entry.fund_escape_detected_at;
                 }
                 drop(pending);
             }
@@ -2118,51 +2320,52 @@ impl IntegratedAITrader {
     }
 
     /// 复用AI评估逻辑，统一对持仓做动态处理
-    async fn evaluate_position_with_ai(
+    async fn prepare_position_ai_context(
         &self,
         symbol: &str,
         side: &str,
         entry_price: f64,
-        stop_loss_price: f64, // ✅ Bug Fix: 止损价格参数
+        stop_loss_price: f64,
         current_price: f64,
         quantity: f64,
         duration: f64,
         stop_loss_order_id: Option<String>,
         take_profit_order_id: Option<String>,
-    ) -> Result<Option<PositionAction>> {
+    ) -> Result<PositionEvaluationStep> {
         let profit_pct = if side == "LONG" {
             ((current_price - entry_price) / entry_price) * 100.0
         } else {
             ((entry_price - current_price) / entry_price) * 100.0
         };
 
-        // ✅ Bug Fix #2: 强制全仓平仓规则 - 在AI评估前执行
-        // 规则1: 盈利>=15%时强制全仓平仓,锁定利润
         if profit_pct >= 15.0 {
             info!(
                 "💰 {} 盈利已达 {:+.2}% >= 15%, 触发强制全仓平仓 (锁定利润)",
                 symbol, profit_pct
             );
-            return Ok(Some(PositionAction::FullClose {
-                symbol: symbol.to_string(),
-                side: side.to_string(),
-                quantity,
-                reason: "profit_target_15pct".to_string(),
-            }));
+            return Ok(PositionEvaluationStep::Immediate(
+                PositionAction::FullClose {
+                    symbol: symbol.to_string(),
+                    side: side.to_string(),
+                    quantity,
+                    reason: "profit_target_15pct".to_string(),
+                },
+            ));
         }
 
-        // 规则2: 盈利>=10% 且持仓>=2小时,强制全仓平仓 (时间效率优化)
         if profit_pct >= 10.0 && duration >= 2.0 {
             info!(
                 "⏰ {} 盈利 {:+.2}% >= 10% 且持仓 {:.1}h >= 2h, 触发强制全仓平仓 (时间效率)",
                 symbol, profit_pct, duration
             );
-            return Ok(Some(PositionAction::FullClose {
-                symbol: symbol.to_string(),
-                side: side.to_string(),
-                quantity,
-                reason: "profit_time_optimization".to_string(),
-            }));
+            return Ok(PositionEvaluationStep::Immediate(
+                PositionAction::FullClose {
+                    symbol: symbol.to_string(),
+                    side: side.to_string(),
+                    quantity,
+                    reason: "profit_time_optimization".to_string(),
+                },
+            ));
         }
 
         info!(
@@ -2170,118 +2373,27 @@ impl IntegratedAITrader {
             symbol, profit_pct
         );
 
-        // ✅ P0-1: 获取K线数据用于"3根1h阴线"检测
-        let (klines_5m_result, klines_15m_result, klines_1h_result) = tokio::join!(
-            tokio::time::timeout(
-                tokio::time::Duration::from_secs(10),
-                self.exchange.get_klines(symbol, "5m", Some(50))
-            ),
-            tokio::time::timeout(
-                tokio::time::Duration::from_secs(10),
-                self.exchange.get_klines(symbol, "15m", Some(100))
-            ),
-            tokio::time::timeout(
-                tokio::time::Duration::from_secs(10),
-                self.exchange.get_klines(symbol, "1h", Some(48))
-            )
-        );
-
-        let klines_5m = match klines_5m_result {
-            Ok(Ok(data)) => data
-                .iter()
-                .map(|candle| rust_trading_bot::deepseek_client::Kline {
-                    timestamp: candle[0] as i64,
-                    open: candle[1],
-                    high: candle[2],
-                    low: candle[3],
-                    close: candle[4],
-                    volume: candle[5],
-                    quote_volume: if candle.len() > 6 { candle[6] } else { 0.0 },
-                    taker_buy_volume: if candle.len() > 7 { candle[7] } else { 0.0 },
-                    taker_buy_quote_volume: if candle.len() > 8 { candle[8] } else { 0.0 },
-                })
-                .collect::<Vec<_>>(),
-            Ok(Err(e)) => {
-                warn!("⚠️  获取{}5mK线失败: {}, 跳过AI评估", symbol, e);
-                return Ok(None);
-            }
-            Err(_) => {
-                warn!("⚠️  获取{}5mK线超时, 跳过AI评估", symbol);
-                return Ok(None);
-            }
+        let market_context = match self.collect_position_market_context(symbol).await? {
+            Some(ctx) => ctx,
+            None => return Ok(PositionEvaluationStep::Skip),
         };
 
-        let klines_15m = match klines_15m_result {
-            Ok(Ok(data)) => data
-                .iter()
-                .map(|candle| rust_trading_bot::deepseek_client::Kline {
-                    timestamp: candle[0] as i64,
-                    open: candle[1],
-                    high: candle[2],
-                    low: candle[3],
-                    close: candle[4],
-                    volume: candle[5],
-                    quote_volume: if candle.len() > 6 { candle[6] } else { 0.0 },
-                    taker_buy_volume: if candle.len() > 7 { candle[7] } else { 0.0 },
-                    taker_buy_quote_volume: if candle.len() > 8 { candle[8] } else { 0.0 },
-                })
-                .collect::<Vec<_>>(),
-            Ok(Err(e)) => {
-                warn!("⚠️  获取{}15mK线失败: {}, 跳过AI评估", symbol, e);
-                return Ok(None);
-            }
-            Err(_) => {
-                warn!("⚠️  获取{}15mK线超时, 跳过AI评估", symbol);
-                return Ok(None);
-            }
-        };
-
-        let klines_1h = match klines_1h_result {
-            Ok(Ok(data)) => data
-                .iter()
-                .map(|candle| rust_trading_bot::deepseek_client::Kline {
-                    timestamp: candle[0] as i64,
-                    open: candle[1],
-                    high: candle[2],
-                    low: candle[3],
-                    close: candle[4],
-                    volume: candle[5],
-                    quote_volume: if candle.len() > 6 { candle[6] } else { 0.0 },
-                    taker_buy_volume: if candle.len() > 7 { candle[7] } else { 0.0 },
-                    taker_buy_quote_volume: if candle.len() > 8 { candle[8] } else { 0.0 },
-                })
-                .collect::<Vec<_>>(),
-            Ok(Err(e)) => {
-                warn!("⚠️  获取{}1hK线失败: {}, 跳过AI评估", symbol, e);
-                return Ok(None);
-            }
-            Err(_) => {
-                warn!("⚠️  获取{}1hK线超时, 跳过AI评估", symbol);
-                return Ok(None);
-            }
-        };
-
-        // ✅ P0-1: 检测"3根连续相反方向1h K线"止盈信号
-        if klines_1h.len() >= 3 {
-            let last_3_candles = &klines_1h[klines_1h.len() - 3..];
-
-            // 检查最近3根K线是否全部为相反方向
+        if market_context.klines_1h.len() >= 3 {
+            let last_3_candles = &market_context.klines_1h[market_context.klines_1h.len() - 3..];
             let all_opposite = if side == "LONG" {
-                // 多仓: 检查是否连续3根阴线 (close < open)
                 last_3_candles.iter().all(|k| k.close < k.open)
             } else {
-                // 空仓: 检查是否连续3根阳线 (close > open)
                 last_3_candles.iter().all(|k| k.close > k.open)
             };
 
             if all_opposite {
                 let opposite_type = if side == "LONG" { "阴线" } else { "阳线" };
                 let close_pct = if profit_pct >= 10.0 {
-                    70.0 // 盈利>=10%时,部分止盈70%
+                    70.0
                 } else if profit_pct >= 5.0 {
-                    60.0 // 盈利>=5%时,部分止盈60%
+                    60.0
                 } else {
-                    50.0 // 盈利<5%时,部分止盈50%
+                    50.0
                 };
 
                 warn!(
@@ -2294,19 +2406,16 @@ impl IntegratedAITrader {
                 );
 
                 let close_quantity = (quantity * (close_pct / 100.0)).clamp(0.0, quantity);
-                let remaining_quantity = (quantity - close_quantity).max(0.0);
-
-                // ✅ Bug Fix #4: 动态检查部分平仓金额是否满足交易所 MIN_NOTIONAL
                 let trading_rules = self.exchange.get_symbol_trading_rules(symbol).await?;
                 let min_notional = trading_rules.min_notional.unwrap_or(5.0);
 
-                let current_price = match self.exchange.get_current_price(symbol).await {
+                let market_price = match self.exchange.get_current_price(symbol).await {
                     Ok(price) => price,
                     Err(_) => entry_price,
                 };
 
-                let position_total_value = quantity * current_price;
-                let suggested_close_value = close_quantity * current_price;
+                let position_total_value = quantity * market_price;
+                let suggested_close_value = close_quantity * market_price;
 
                 if suggested_close_value < min_notional {
                     let min_ratio_pct = (min_notional / position_total_value * 100.0).ceil();
@@ -2314,58 +2423,59 @@ impl IntegratedAITrader {
                     if min_ratio_pct <= 100.0 {
                         let adjusted_close_pct = min_ratio_pct;
                         let adjusted_close_qty = quantity * (adjusted_close_pct / 100.0);
-                        let adjusted_close_value = adjusted_close_qty * current_price;
+                        let adjusted_remaining = (quantity - adjusted_close_qty).max(0.0);
 
                         warn!(
                             "⚠️ {} 部分平仓比率调整: AI建议{:.0}% (${:.2}) → 实际执行{:.0}% (${:.2})，满足MIN_NOTIONAL ${:.0}",
-                            symbol, close_pct, suggested_close_value, adjusted_close_pct, adjusted_close_value, min_notional
+                            symbol, close_pct, suggested_close_value, adjusted_close_pct, adjusted_close_qty * market_price, min_notional
                         );
 
-                        let adjusted_remaining = (quantity - adjusted_close_qty).max(0.0);
-                        return Ok(Some(PositionAction::PartialClose {
-                            symbol: symbol.to_string(),
-                            side: side.to_string(),
-                            close_quantity: adjusted_close_qty,
-                            close_pct: adjusted_close_pct,
-                            entry_price,
-                            stop_loss_price,
-                            remaining_quantity: adjusted_remaining,
-                            stop_loss_order_id,
-                        }));
+                        return Ok(PositionEvaluationStep::Immediate(
+                            PositionAction::PartialClose {
+                                symbol: symbol.to_string(),
+                                side: side.to_string(),
+                                close_quantity: adjusted_close_qty,
+                                close_pct: adjusted_close_pct,
+                                entry_price,
+                                stop_loss_price,
+                                remaining_quantity: adjusted_remaining,
+                                stop_loss_order_id: stop_loss_order_id.clone(),
+                            },
+                        ));
                     } else {
                         warn!(
                             "⚠️ {} 持仓总价值(${:.2}) < MIN_NOTIONAL(${:.0})，无法部分平仓，执行全部平仓",
                             symbol, position_total_value, min_notional
                         );
-                        return Ok(Some(PositionAction::FullClose {
-                            symbol: symbol.to_string(),
-                            side: side.to_string(),
-                            quantity,
-                            reason: "valuescan_p0_1_min_notional_full_close".to_string(),
-                        }));
+                        return Ok(PositionEvaluationStep::Immediate(
+                            PositionAction::FullClose {
+                                symbol: symbol.to_string(),
+                                side: side.to_string(),
+                                quantity,
+                                reason: "valuescan_p0_1_min_notional_full_close".to_string(),
+                            },
+                        ));
                     }
                 }
 
-                return Ok(Some(PositionAction::PartialClose {
-                    symbol: symbol.to_string(),
-                    side: side.to_string(),
-                    close_quantity,
-                    close_pct,
-                    entry_price,
-                    stop_loss_price,
-                    remaining_quantity,
-                    stop_loss_order_id,
-                }));
+                let remaining_quantity = (quantity - close_quantity).max(0.0);
+                return Ok(PositionEvaluationStep::Immediate(
+                    PositionAction::PartialClose {
+                        symbol: symbol.to_string(),
+                        side: side.to_string(),
+                        close_quantity,
+                        close_pct,
+                        entry_price,
+                        stop_loss_price,
+                        remaining_quantity,
+                        stop_loss_order_id: stop_loss_order_id.clone(),
+                    },
+                ));
             }
         }
 
-        // ✅ P0-2: 检测"8h强制平仓"规则 (山寨币/MEME币流动性时间窗口)
         let is_meme = Self::is_meme_coin(symbol);
-        let time_limit_hours = if is_meme {
-            4.0 // MEME币: 4h强制平仓
-        } else {
-            8.0 // 普通币: 8h强制平仓
-        };
+        let time_limit_hours = if is_meme { 4.0 } else { 8.0 };
 
         if duration >= time_limit_hours {
             warn!(
@@ -2377,52 +2487,38 @@ impl IntegratedAITrader {
             );
             warn!("   Valuescan核心理论: 流动性最多维持4-8h, 超时强制退出");
 
-            return Ok(Some(PositionAction::FullClose {
-                symbol: symbol.to_string(),
-                side: side.to_string(),
-                quantity,
-                reason: format!("time_limit_{}h", time_limit_hours as u32),
-            }));
+            return Ok(PositionEvaluationStep::Immediate(
+                PositionAction::FullClose {
+                    symbol: symbol.to_string(),
+                    side: side.to_string(),
+                    quantity,
+                    reason: format!("time_limit_{}h", time_limit_hours as u32),
+                },
+            ));
         }
 
-        // ✅ P1-1: 检测"反弹力度50%"规则 (护盘识别)
-        // 当前K线实体>50%前一根K线实体 = 强支撑/护盘力度强
-        if klines_1h.len() >= 2 {
-            let current_candle = &klines_1h[klines_1h.len() - 1];
-            let prev_candle = &klines_1h[klines_1h.len() - 2];
+        if market_context.klines_1h.len() >= 2 {
+            let current_candle = &market_context.klines_1h[market_context.klines_1h.len() - 1];
+            let prev_candle = &market_context.klines_1h[market_context.klines_1h.len() - 2];
 
             let current_body = (current_candle.close - current_candle.open).abs();
             let prev_body = (prev_candle.close - prev_candle.open).abs();
 
-            // 检查反弹方向是否与持仓方向相同
             let is_rebound = if side == "LONG" {
-                // 多仓: 当前K线为阳线 (close > open)
                 current_candle.close > current_candle.open
             } else {
-                // 空仓: 当前K线为阴线 (close < open)
                 current_candle.close < current_candle.open
             };
 
-            // 反弹力度>50%判断
             if is_rebound && prev_body > 0.0 && current_body > prev_body * 0.5 {
                 let rebound_strength_pct = (current_body / prev_body) * 100.0;
                 info!(
                     "💪 {} P1-1信号: 反弹力度{:.1}% (>50% 强支撑/护盘)",
                     symbol, rebound_strength_pct
                 );
-                // 注: 这是辅助信号,不直接触发操作,传递给AI评估时作为支撑信号参考
             }
         }
 
-        if klines_15m.len() < 20 {
-            warn!(
-                "⚠️  K线数据不足: {} (需要至少20根), 跳过AI评估",
-                klines_15m.len()
-            );
-            return Ok(None);
-        }
-
-        let indicators = self.analyzer.calculate_indicators(&klines_15m);
         let convert_to_support_klines = |source: &[Kline]| -> Vec<SupportKline> {
             source
                 .iter()
@@ -2436,9 +2532,9 @@ impl IntegratedAITrader {
                 .collect()
         };
 
-        let support_klines_5m = convert_to_support_klines(&klines_5m);
-        let support_klines_15m = convert_to_support_klines(&klines_15m);
-        let support_klines_1h = convert_to_support_klines(&klines_1h);
+        let support_klines_5m = convert_to_support_klines(&market_context.klines_5m);
+        let support_klines_15m = convert_to_support_klines(&market_context.klines_15m);
+        let support_klines_1h = convert_to_support_klines(&market_context.klines_1h);
 
         let support_analyzer = SupportAnalyzer::new();
         let support_analysis = match support_analyzer.analyze_supports(
@@ -2447,24 +2543,24 @@ impl IntegratedAITrader {
             &support_klines_1h,
             current_price,
             entry_price,
-            indicators.sma_20,
-            indicators.sma_50,
-            indicators.bb_lower,
-            indicators.bb_middle,
+            market_context.indicators.sma_20,
+            market_context.indicators.sma_50,
+            market_context.indicators.bb_lower,
+            market_context.indicators.bb_middle,
         ) {
             Ok(analysis) => analysis,
             Err(e) => {
                 warn!("⚠️  {} 支撑位分析失败: {}", symbol, e);
-                return Ok(None);
+                return Ok(PositionEvaluationStep::Skip);
             }
         };
         let support_text = support_analyzer.format_support_analysis(&support_analysis);
 
-        let last_5m_close = match klines_5m.last() {
+        let last_5m_close = match market_context.klines_5m.last() {
             Some(k) => k.close,
             None => {
                 warn!("⚠️  {} 5mK线数据为空", symbol);
-                return Ok(None);
+                return Ok(PositionEvaluationStep::Skip);
             }
         };
         let deviation = ((current_price - last_5m_close) / last_5m_close) * 100.0;
@@ -2478,9 +2574,10 @@ impl IntegratedAITrader {
             format!("轻微波动 ({:+.2}%)", deviation)
         };
 
-        // 查询当前持仓的止盈止损价格(从交易所获取实际挂单价格)
+        let stop_loss_lookup_id = stop_loss_order_id.clone();
+        let take_profit_lookup_id = take_profit_order_id.clone();
         let (current_stop_loss, current_take_profit) = {
-            let stop_loss_price = if let Some(sl_id) = stop_loss_order_id.as_ref() {
+            let stop_loss_price = if let Some(sl_id) = stop_loss_lookup_id.as_ref() {
                 match self.exchange.get_order_status_detail(symbol, sl_id).await {
                     Ok(order) => order.stop_price,
                     Err(e) => {
@@ -2495,7 +2592,7 @@ impl IntegratedAITrader {
                 None
             };
 
-            let take_profit_price = if let Some(tp_id) = take_profit_order_id.as_ref() {
+            let take_profit_price = if let Some(tp_id) = take_profit_lookup_id.as_ref() {
                 match self.exchange.get_order_status_detail(symbol, tp_id).await {
                     Ok(order) => Some(order.price),
                     Err(e) => {
@@ -2513,42 +2610,30 @@ impl IntegratedAITrader {
             (stop_loss_price, take_profit_price)
         };
 
-        let prompt = self.deepseek.build_position_management_prompt(
-            symbol,
-            side,
+        Ok(PositionEvaluationStep::Context(PreparedPositionContext {
+            symbol: symbol.to_string(),
+            side: side.to_string(),
             entry_price,
+            stop_loss_price,
             current_price,
-            profit_pct,
+            quantity,
             duration,
-            &klines_5m,
-            &klines_15m,
-            &klines_1h,
-            &indicators,
-            &support_text,
-            &deviation_desc,
+            profit_pct,
+            stop_loss_order_id,
+            take_profit_order_id,
+            market: market_context,
+            support_text,
+            deviation_desc,
             current_stop_loss,
             current_take_profit,
-            None, // funding_rate_info
-        );
+        }))
+    }
 
-        let ai_decision_result = tokio::time::timeout(
-            tokio::time::Duration::from_secs(180),
-            self.gemini.analyze_position_management(&prompt),
-        )
-        .await;
-
-        let ai_decision = match ai_decision_result {
-            Ok(Ok(decision)) => decision,
-            Ok(Err(e)) => {
-                error!("❌ AI持仓评估失败: {}, 保持持仓", e);
-                return Ok(None);
-            }
-            Err(_) => {
-                warn!("⚠️  AI持仓评估超时, 保持持仓");
-                return Ok(None);
-            }
-        };
-
+    async fn handle_position_ai_decision(
+        &self,
+        ctx: &PreparedPositionContext,
+        ai_decision: &PositionManagementDecision,
+    ) -> Result<Option<PositionAction>> {
         info!(
             "🎯 AI 决策: {} | 理由: {} | 盈利潜力: {} | 置信度: {}",
             ai_decision.action,
@@ -2566,7 +2651,7 @@ impl IntegratedAITrader {
         let ai_record = AiAnalysisRecord {
             id: None,
             timestamp: Utc::now().to_rfc3339(),
-            symbol: symbol.to_string(),
+            symbol: ctx.symbol.clone(),
             decision: decision_text,
             confidence: confidence_value,
             signal_type: Some(signal_type.to_string()),
@@ -2585,30 +2670,32 @@ impl IntegratedAITrader {
 
         let action = match ai_decision.action.as_str() {
             "HOLD" => {
-                info!("✅ AI 建议继续持有 {}", symbol);
+                info!("✅ AI 建议继续持有 {}", ctx.symbol);
                 None
             }
             "PARTIAL_CLOSE" => {
                 if let Some(close_pct) = ai_decision.close_percentage {
-                    info!("📉 AI 建议部分平仓 {} ({}%)", symbol, close_pct);
-                    let close_quantity = (quantity * (close_pct / 100.0)).clamp(0.0, quantity);
-                    let remaining_quantity = (quantity - close_quantity).max(0.0);
+                    info!("📉 AI 建议部分平仓 {} ({}%)", ctx.symbol, close_pct);
+                    let close_quantity =
+                        (ctx.quantity * (close_pct / 100.0)).clamp(0.0, ctx.quantity);
+                    let remaining_quantity = (ctx.quantity - close_quantity).max(0.0);
 
                     if close_quantity <= f64::EPSILON {
                         warn!("⚠️  计算得到的平仓数量过小, 跳过本次部分平仓");
                         None
                     } else {
-                        // ✅ 智能部分平仓比率调整: 动态MIN_NOTIONAL + 使用当前价格
-                        let trading_rules = self.exchange.get_symbol_trading_rules(symbol).await?;
+                        let trading_rules =
+                            self.exchange.get_symbol_trading_rules(&ctx.symbol).await?;
                         let min_notional = trading_rules.min_notional.unwrap_or(5.0);
 
-                        let current_price = match self.exchange.get_current_price(symbol).await {
+                        let market_price = match self.exchange.get_current_price(&ctx.symbol).await
+                        {
                             Ok(price) => price,
-                            Err(_) => entry_price,
+                            Err(_) => ctx.entry_price,
                         };
 
-                        let position_total_value = quantity * current_price;
-                        let suggested_close_value = close_quantity * current_price;
+                        let position_total_value = ctx.quantity * market_price;
+                        let suggested_close_value = close_quantity * market_price;
 
                         if suggested_close_value < min_notional {
                             let min_ratio_pct =
@@ -2616,73 +2703,85 @@ impl IntegratedAITrader {
 
                             if min_ratio_pct <= 100.0 {
                                 let adjusted_close_pct = min_ratio_pct;
-                                let adjusted_close_qty = quantity * (adjusted_close_pct / 100.0);
-                                let adjusted_close_value = adjusted_close_qty * current_price;
+                                let adjusted_close_qty =
+                                    ctx.quantity * (adjusted_close_pct / 100.0);
+                                let adjusted_remaining =
+                                    (ctx.quantity - adjusted_close_qty).max(0.0);
 
                                 warn!(
                                     "⚠️ {} 部分平仓比率调整: AI建议{:.0}% (${:.2}) → 实际执行{:.0}% (${:.2})，满足MIN_NOTIONAL ${:.0}",
-                                    symbol, close_pct, suggested_close_value, adjusted_close_pct, adjusted_close_value, min_notional
+                                    ctx.symbol,
+                                    close_pct,
+                                    suggested_close_value,
+                                    adjusted_close_pct,
+                                    adjusted_close_qty * market_price,
+                                    min_notional
                                 );
 
-                                let adjusted_remaining = (quantity - adjusted_close_qty).max(0.0);
                                 Some(PositionAction::PartialClose {
-                                    symbol: symbol.to_string(),
-                                    side: side.to_string(),
+                                    symbol: ctx.symbol.clone(),
+                                    side: ctx.side.clone(),
                                     close_quantity: adjusted_close_qty,
                                     close_pct: adjusted_close_pct,
-                                    entry_price,
-                                    stop_loss_price,
+                                    entry_price: ctx.entry_price,
+                                    stop_loss_price: ctx.stop_loss_price,
                                     remaining_quantity: adjusted_remaining,
-                                    stop_loss_order_id,
+                                    stop_loss_order_id: ctx.stop_loss_order_id.clone(),
                                 })
                             } else {
                                 warn!(
                                     "⚠️ {} 持仓总价值(${:.2}) < MIN_NOTIONAL(${:.0})，无法部分平仓，执行全部平仓",
-                                    symbol, position_total_value, min_notional
+                                    ctx.symbol, position_total_value, min_notional
                                 );
                                 Some(PositionAction::FullClose {
-                                    symbol: symbol.to_string(),
-                                    side: side.to_string(),
-                                    quantity,
+                                    symbol: ctx.symbol.clone(),
+                                    side: ctx.side.clone(),
+                                    quantity: ctx.quantity,
                                     reason: "min_notional_full_close".to_string(),
                                 })
                             }
                         } else {
                             Some(PositionAction::PartialClose {
-                                symbol: symbol.to_string(),
-                                side: side.to_string(),
+                                symbol: ctx.symbol.clone(),
+                                side: ctx.side.clone(),
                                 close_quantity,
                                 close_pct,
-                                entry_price,
-                                stop_loss_price,
+                                entry_price: ctx.entry_price,
+                                stop_loss_price: ctx.stop_loss_price,
                                 remaining_quantity,
-                                stop_loss_order_id,
+                                stop_loss_order_id: ctx.stop_loss_order_id.clone(),
                             })
                         }
                     }
                 } else {
-                    warn!("⚠️  AI 建议部分平仓但未提供百分比,保持持仓");
+                    warn!(
+                        "⚠️ {} PARTIAL_CLOSE缺少close_percentage字段, 跳过",
+                        ctx.symbol
+                    );
                     None
                 }
             }
             "FULL_CLOSE" => {
-                info!("🚨 AI 建议全部平仓 {}", symbol);
+                info!("🚨 AI 建议全部平仓 {}", ctx.symbol);
                 Some(PositionAction::FullClose {
-                    symbol: symbol.to_string(),
-                    side: side.to_string(),
-                    quantity,
+                    symbol: ctx.symbol.clone(),
+                    side: ctx.side.clone(),
+                    quantity: ctx.quantity,
                     reason: "ai_decision".to_string(),
                 })
             }
             "SET_LIMIT_ORDER" => {
                 if let Some(limit_price) = ai_decision.limit_price {
-                    info!("🎯 AI 建议设置限价止盈单 {} @ ${:.4}", symbol, limit_price);
+                    info!(
+                        "🎯 AI 建议设置限价止盈单 {} @ ${:.4}",
+                        ctx.symbol, limit_price
+                    );
                     Some(PositionAction::SetLimitOrder {
-                        symbol: symbol.to_string(),
-                        side: side.to_string(),
-                        quantity,
+                        symbol: ctx.symbol.clone(),
+                        side: ctx.side.clone(),
+                        quantity: ctx.quantity,
                         limit_price,
-                        take_profit_order_id,
+                        take_profit_order_id: ctx.take_profit_order_id.clone(),
                     })
                 } else {
                     warn!("⚠️  AI 建议设置限价单但未提供价格,保持持仓");
@@ -2696,6 +2795,61 @@ impl IntegratedAITrader {
         };
 
         Ok(action)
+    }
+
+    async fn evaluate_position_with_ai(
+        &self,
+        symbol: &str,
+        side: &str,
+        entry_price: f64,
+        stop_loss_price: f64, // ✅ Bug Fix: 止损价格参数
+        current_price: f64,
+        quantity: f64,
+        duration: f64,
+        stop_loss_order_id: Option<String>,
+        take_profit_order_id: Option<String>,
+    ) -> Result<Option<PositionAction>> {
+        match self
+            .prepare_position_ai_context(
+                symbol,
+                side,
+                entry_price,
+                stop_loss_price,
+                current_price,
+                quantity,
+                duration,
+                stop_loss_order_id,
+                take_profit_order_id,
+            )
+            .await?
+        {
+            PositionEvaluationStep::Skip => Ok(None),
+            PositionEvaluationStep::Immediate(action) => Ok(Some(action)),
+            PositionEvaluationStep::Context(ctx) => {
+                let ctx_ref = ctx.to_prompt_context();
+                let prompt = build_position_prompt_v2(&ctx_ref);
+
+                let ai_decision_result = tokio::time::timeout(
+                    tokio::time::Duration::from_secs(180),
+                    self.gemini.analyze_position_management(&prompt),
+                )
+                .await;
+
+                let ai_decision = match ai_decision_result {
+                    Ok(Ok(decision)) => decision,
+                    Ok(Err(e)) => {
+                        error!("❌ AI持仓评估失败: {}, 保持持仓", e);
+                        return Ok(None);
+                    }
+                    Err(_) => {
+                        warn!("⚠️  AI持仓评估超时, 保持持仓");
+                        return Ok(None);
+                    }
+                };
+
+                self.handle_position_ai_decision(&ctx, &ai_decision).await
+            }
+        }
     }
 
     /// 根据增强版AI分析返回的推荐动作顺序执行
@@ -2997,6 +3151,19 @@ impl IntegratedAITrader {
                     let position_side = position_side
                         .ok_or_else(|| anyhow::anyhow!("设置止盈止损缺少 positionSide"))?;
 
+                    let canceled_orders = match self.cancel_symbol_trigger_orders(&symbol).await {
+                        Ok(ids) => ids,
+                        Err(e) => {
+                            warn!("⚠️  清理旧触发单失败: {}", e);
+                            Vec::new()
+                        }
+                    };
+                    info!(
+                        "🗑️ 取消旧触发单 {} 个: {:?}",
+                        canceled_orders.len(),
+                        canceled_orders
+                    );
+
                     let mut updates = Vec::new();
                     if let Some(stop_loss) = stop_loss {
                         let order_id = self
@@ -3049,6 +3216,90 @@ impl IntegratedAITrader {
         }
 
         Ok(results)
+    }
+
+    /// 取消指定币种已登记的止损/止盈触发单，防止重复堆积
+    async fn cancel_symbol_trigger_orders(&self, symbol: &str) -> Result<Vec<u64>> {
+        // 先快照当前 tracker，避免持锁执行异步请求
+        let tracker_snapshot = {
+            let trackers = self.position_trackers.read().await;
+            trackers.get(symbol).cloned()
+        };
+
+        let Some(tracker) = tracker_snapshot else {
+            return Ok(Vec::new());
+        };
+
+        let mut targets: Vec<(&str, String)> = Vec::new();
+        if let Some(order_id) = tracker.stop_loss_order_id.clone() {
+            targets.push(("止损", order_id));
+        }
+        if let Some(order_id) = tracker.take_profit_order_id.clone() {
+            targets.push(("止盈", order_id));
+        }
+
+        if targets.is_empty() {
+            return Ok(Vec::new());
+        }
+
+        let mut canceled_raw: Vec<String> = Vec::new();
+
+        for (order_type, order_id) in targets {
+            match self.exchange.cancel_order(symbol, &order_id).await {
+                Ok(_) => {
+                    info!("🧹 {} 旧{}单已取消: {}", symbol, order_type, order_id);
+                    canceled_raw.push(order_id);
+                }
+                Err(err) => {
+                    warn!(
+                        "⚠️  {} 旧{}单取消失败 (order_id={}): {}",
+                        symbol, order_type, order_id, err
+                    );
+                }
+            }
+        }
+
+        if canceled_raw.is_empty() {
+            return Ok(Vec::new());
+        }
+
+        {
+            let mut trackers = self.position_trackers.write().await;
+            if let Some(tracker) = trackers.get_mut(symbol) {
+                if tracker
+                    .stop_loss_order_id
+                    .as_deref()
+                    .map(|id| canceled_raw.iter().any(|raw| raw == id))
+                    .unwrap_or(false)
+                {
+                    tracker.stop_loss_order_id = None;
+                }
+                if tracker
+                    .take_profit_order_id
+                    .as_deref()
+                    .map(|id| canceled_raw.iter().any(|raw| raw == id))
+                    .unwrap_or(false)
+                {
+                    tracker.take_profit_order_id = None;
+                }
+                tracker.last_check_time = Utc::now();
+            }
+        }
+
+        let mut canceled_numeric = Vec::new();
+        for raw in canceled_raw {
+            match raw.parse::<u64>() {
+                Ok(id) => canceled_numeric.push(id),
+                Err(_) => {
+                    warn!(
+                        "⚠️  order_id 无法转换为数字 (symbol={}, raw={})，仍视为已清理",
+                        symbol, raw
+                    );
+                }
+            }
+        }
+
+        Ok(canceled_numeric)
     }
 
     /// 清理孤立的持仓追踪器 - 防止内存泄漏
@@ -4132,20 +4383,23 @@ impl IntegratedAITrader {
         let mut v2_support: Option<f64> = None;
 
         let ai_signal: TradingSignal = if use_valuescan_v2 {
-            let prompt = self.gemini.build_entry_analysis_prompt_v2(
-                &symbol,
-                alert_type_str,
-                &alert.raw_message,
-                &alert.fund_type,
-                &zone_1h_summary,
-                &zone_15m_summary,
-                &entry_action_str,
-                &entry_decision.reason,
-                &klines_5m,
-                &klines,
-                &klines_1h,
+            let ctx = EntryPromptContext {
+                symbol: &symbol,
+                alert_type: alert_type_str,
+                alert_message: &alert.raw_message,
+                fund_type: &alert.fund_type,
+                zone_1h_summary: &zone_1h_summary,
+                zone_15m_summary: &zone_15m_summary,
+                entry_action: &entry_action_str,
+                entry_reason: &entry_decision.reason,
+                klines_5m: &klines_5m,
+                klines_15m: &klines,
+                klines_1h: &klines_1h,
                 current_price,
-            );
+                change_24h: None,
+            };
+
+            let prompt = build_entry_prompt_v2(&ctx);
 
             let ai_decision_result = tokio::time::timeout(
                 tokio::time::Duration::from_secs(180),
@@ -4183,6 +4437,13 @@ impl IntegratedAITrader {
             }
 
             // 【P1-3】提高Valuescan V2评分阈值,过滤低质量信号
+            info!(
+                "🔎 AI评分详细检查: 分数={:.1}, 阈值=6.5, 动作={:?}, 理由={}",
+                ai_signal_v2.valuescan_score,
+                ai_signal_v2.signal,
+                ai_signal_v2.reason.chars().take(50).collect::<String>()
+            );
+
             if ai_signal_v2.valuescan_score < 6.5 {
                 info!(
                     "⏸️ Valuescan V2评分{:.1}不足6.5阈值, 跳过本次交易",
@@ -4190,6 +4451,8 @@ impl IntegratedAITrader {
                 );
                 return Ok(());
             }
+
+            info!("✅ Valuescan V2评分检查通过，准备执行交易逻辑");
 
             // 保存V2数据
             v2_score = Some(ai_signal_v2.valuescan_score);
@@ -4201,20 +4464,23 @@ impl IntegratedAITrader {
 
             ai_signal_v2.into()
         } else {
-            let prompt = self.gemini.build_entry_analysis_prompt(
-                &symbol,
-                alert_type_str,
-                &alert.raw_message,
-                &alert.fund_type,
-                &zone_1h_summary,
-                &zone_15m_summary,
-                &entry_action_str,
-                &entry_decision.reason,
-                &klines_5m,
-                &klines,
-                &klines_1h,
+            let ctx = EntryPromptContext {
+                symbol: &symbol,
+                alert_type: alert_type_str,
+                alert_message: &alert.raw_message,
+                fund_type: &alert.fund_type,
+                zone_1h_summary: &zone_1h_summary,
+                zone_15m_summary: &zone_15m_summary,
+                entry_action: &entry_action_str,
+                entry_reason: &entry_decision.reason,
+                klines_5m: &klines_5m,
+                klines_15m: &klines,
+                klines_1h: &klines_1h,
                 current_price,
-            );
+                change_24h: None,
+            };
+
+            let prompt = build_entry_prompt_v1(&ctx);
 
             let ai_decision_result = tokio::time::timeout(
                 tokio::time::Duration::from_secs(180),
@@ -4302,6 +4568,7 @@ impl IntegratedAITrader {
                             alert: alert.clone(),
                             reject_reason: format!("AI SKIP: {}", ai_signal.reason),
                             retry_count: 0,
+                            fund_escape_detected_at: None,
                         },
                     );
                     drop(pending);
@@ -4325,7 +4592,54 @@ impl IntegratedAITrader {
 
         // 5. 执行试探建仓 (使用AI微调后的价格)
         let final_entry_price = ai_signal.entry_price.unwrap_or(entry_decision.price);
-        let final_stop_loss = ai_signal.stop_loss.unwrap_or(entry_decision.stop_loss);
+        let side = if normalized_ai_signal.eq_ignore_ascii_case("SELL") {
+            "SHORT"
+        } else {
+            "LONG"
+        };
+
+        // 使用 EntryDecision 风险区间 + 杠杆 推导方向感知止损
+        let leverage_for_stop = match zone_1h.confidence {
+            rust_trading_bot::entry_zone_analyzer::Confidence::High => self.max_leverage,
+            rust_trading_bot::entry_zone_analyzer::Confidence::Medium => {
+                (self.min_leverage + self.max_leverage) / 2
+            }
+            rust_trading_bot::entry_zone_analyzer::Confidence::Low => self.min_leverage,
+        } as u32;
+        let risk_pct = if entry_decision.price <= 0.0 {
+            0.005
+        } else {
+            ((entry_decision.price - entry_decision.stop_loss) / entry_decision.price)
+                .abs()
+                .max(0.005)
+        };
+        let direction_aware_stop_loss = if side == "LONG" {
+            final_entry_price * (1.0 - risk_pct)
+        } else {
+            final_entry_price * (1.0 + risk_pct)
+        };
+        let leverage_f64 = leverage_for_stop.max(1) as f64;
+        let liquidation_price = if side == "LONG" {
+            final_entry_price * (1.0 - 1.0 / leverage_f64)
+        } else {
+            final_entry_price * (1.0 + 1.0 / leverage_f64)
+        };
+        let safe_stop_loss = if side == "LONG" {
+            direction_aware_stop_loss.max(liquidation_price * 1.01)
+        } else {
+            direction_aware_stop_loss.min(liquidation_price * 0.99)
+        };
+        let final_stop_loss = ai_signal.stop_loss.unwrap_or(safe_stop_loss);
+        info!(
+            "💡 {} 止损计算: 入场=${:.8}, 风险={:.2}%, 方向止损=${:.8}, 爆仓价=${:.8}, 最终止损=${:.8}",
+            symbol,
+            final_entry_price,
+            risk_pct * 100.0,
+            direction_aware_stop_loss,
+            liquidation_price,
+            final_stop_loss
+        );
+
         let final_confidence = &ai_signal.confidence;
 
         // 根据AI confidence调整仓位比例
@@ -4349,6 +4663,8 @@ impl IntegratedAITrader {
                     &zone_1h,
                     &entry_decision,
                     &klines,
+                    &klines_5m,
+                    current_price,
                     final_entry_price,
                     final_stop_loss,
                     final_confidence.as_str(),
@@ -4377,6 +4693,8 @@ impl IntegratedAITrader {
                         &zone_1h,
                         &entry_decision,
                         &klines,
+                        &klines_5m,
+                        current_price,
                         final_entry_price,
                         final_stop_loss,
                         final_confidence.as_str(),
@@ -4413,6 +4731,7 @@ impl IntegratedAITrader {
                                 alert: alert.clone(),
                                 reject_reason: format!("等待回调: {}", entry_decision.reason),
                                 retry_count: 0,
+                                fund_escape_detected_at: None,
                             },
                         );
                         drop(pending);
@@ -4437,6 +4756,8 @@ impl IntegratedAITrader {
         zone_1h: &EntryZone,
         entry_decision: &EntryDecision,
         klines: &[Kline],
+        klines_5m: &[Kline],
+        current_price: f64,
         final_entry_price: f64,
         final_stop_loss: f64,
         final_confidence: &str,
@@ -4475,8 +4796,21 @@ impl IntegratedAITrader {
 
         // 计算试探仓位数量 (使用AI微调后的价格和仓位)
         let adjusted_position = entry_decision.position * ai_position_multiplier;
-        let trial_quantity =
-            (position_usdt * leverage as f64 * adjusted_position) / final_entry_price;
+        // 先基于交易规则动态校验名义金额，避免低于交易所门槛
+        let rules = self.exchange.get_symbol_trading_rules(&symbol).await?;
+        let min_notional = rules.min_notional.unwrap_or(5.0);
+        let base_notional = position_usdt * leverage as f64 * adjusted_position;
+        let required_notional = if base_notional < min_notional {
+            let adjusted = min_notional * 1.05;
+            warn!(
+                "📊 {} 基础名义金额 {:.2} USDT < 最低要求 {:.2} USDT, 自动提升到 {:.2} USDT",
+                symbol, base_notional, min_notional, adjusted
+            );
+            adjusted
+        } else {
+            base_notional
+        };
+        let trial_quantity = required_notional / final_entry_price;
 
         info!("💰 试探建仓配置:");
         info!(
@@ -4491,7 +4825,8 @@ impl IntegratedAITrader {
         info!("   止损价格: ${:.4} (AI微调)", final_stop_loss);
 
         // 【P0-2】入场区验证 - 拒绝追高
-        let signal_price = alert.price;
+        // 使用最新5m K线收盘价作为信号价，避免 alert.price 恒为 0 造成 inf 偏离
+        let signal_price = klines_5m.last().map(|k| k.close).unwrap_or(current_price);
         let entry_zone = (zone_1h.entry_range.0, zone_1h.entry_range.1);
         let indicators = self.analyzer.calculate_indicators(klines);
 
@@ -4530,6 +4865,7 @@ impl IntegratedAITrader {
                         alert: alert.clone(),
                         reject_reason: "价格不在入场区".to_string(),
                         retry_count: 0,
+                        fund_escape_detected_at: None,
                     },
                 );
                 drop(pending);
@@ -4571,6 +4907,19 @@ impl IntegratedAITrader {
         {
             Ok(order_id) => {
                 info!("✅ 试探建仓订单已提交: {}", order_id);
+
+                let canceled_orders = match self.cancel_symbol_trigger_orders(symbol).await {
+                    Ok(ids) => ids,
+                    Err(e) => {
+                        warn!("⚠️  清理旧触发单失败: {}", e);
+                        Vec::new()
+                    }
+                };
+                info!(
+                    "🗑️ 取消旧触发单 {} 个: {:?}",
+                    canceled_orders.len(),
+                    canceled_orders
+                );
 
                 // 设置止损挂单
                 match self

@@ -77,6 +77,41 @@ pub struct PositionDecision {
     pub profit_potential: String,
 }
 
+/// 解析批量决策响应，兼容多种 DeepSeek/Gemini JSON 输出
+pub fn parse_batch_decision_response(text: &str) -> Result<BatchDecisionResponse> {
+    // 清理可能的代码块标记，避免 ```json 包裹导致解析失败
+    let clean_text = text
+        .trim()
+        .trim_start_matches("```json")
+        .trim_start_matches("```")
+        .trim_end_matches("```")
+        .trim();
+
+    match serde_json::from_str::<BatchDecisionResponse>(clean_text) {
+        Ok(resp) => Ok(resp),
+        Err(primary_err) => match serde_json::from_str::<Vec<PositionDecision>>(clean_text) {
+            Ok(decisions) => Ok(BatchDecisionResponse { decisions }),
+            Err(_) => match serde_json::from_str::<PositionDecision>(clean_text) {
+                Ok(single_decision) => {
+                    info!("✅ 成功解析单个持仓决策对象");
+                    Ok(BatchDecisionResponse {
+                        decisions: vec![single_decision],
+                    })
+                }
+                Err(_) => {
+                    error!("❌ 批量 JSON 解析失败(尝试了3种格式): {}", primary_err);
+                    error!("📄 批量原始内容: {}", text);
+                    anyhow::bail!(
+                        "Failed to parse batch decision response: {} | Raw: {}",
+                        primary_err,
+                        text
+                    );
+                }
+            },
+        },
+    }
+}
+
 fn deserialize_optional_number_or_string<'de, D>(deserializer: D) -> Result<Option<f64>, D::Error>
 where
     D: serde::Deserializer<'de>,
@@ -146,7 +181,7 @@ pub struct PositionManagementDecision {
     #[serde(default = "default_profit_potential")]
     pub profit_potential: String, // "HIGH", "MEDIUM", "LOW", "NONE"
     pub optimal_exit_price: Option<f64>, // AI判断的最优退出价
-    pub confidence: String,       // "HIGH", "MEDIUM", "LOW"
+    pub confidence: String,              // "HIGH", "MEDIUM", "LOW"
     #[serde(default)]
     pub stop_loss_adjustment: Option<StopLossAdjustment>,
     #[serde(default)]
@@ -607,32 +642,7 @@ impl DeepSeekClient {
         let content = &deepseek_response.choices[0].message.content;
         info!("🔍 批量AI原始响应: {}", content);
 
-        let batch_response = match serde_json::from_str::<BatchDecisionResponse>(content) {
-            Ok(resp) => resp,
-            Err(primary_err) => match serde_json::from_str::<Vec<PositionDecision>>(content) {
-                Ok(decisions) => BatchDecisionResponse { decisions },
-                Err(_) => {
-                    // ✅ 第三种fallback: 尝试解析为单个决策对象 (修复只买不卖bug)
-                    match serde_json::from_str::<PositionDecision>(content) {
-                        Ok(single_decision) => {
-                            info!("✅ 成功解析单个持仓决策对象");
-                            BatchDecisionResponse {
-                                decisions: vec![single_decision],
-                            }
-                        }
-                        Err(_) => {
-                            error!("❌ 批量 JSON 解析失败(尝试了3种格式): {}", primary_err);
-                            error!("📄 批量原始内容: {}", content);
-                            anyhow::bail!(
-                                "Failed to parse batch decision response: {} | Raw: {}",
-                                primary_err,
-                                content
-                            );
-                        }
-                    }
-                }
-            },
-        };
+        let batch_response = parse_batch_decision_response(content)?;
 
         let BatchDecisionResponse { decisions } = batch_response;
 
