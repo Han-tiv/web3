@@ -3,6 +3,18 @@ use crate::key_level_finder::{KeyLevel, KeyLevelFinder};
 use crate::technical_analysis::TechnicalAnalyzer;
 use log::{info, warn};
 
+/// Phase 2.4 (#14): 做多信号生成上下文
+pub struct LongSignalContext<'a> {
+    pub current_price: f64,
+    pub indicators: &'a crate::deepseek_client::TechnicalIndicators,
+    pub key_levels: &'a [KeyLevel],
+    pub nearest_support: Option<&'a KeyLevel>,
+    pub nearest_resistance: Option<&'a KeyLevel>,
+    pub money_flow_strength: f64,
+    pub volume_ratio: f64,
+    pub current_position: Option<&'a str>,
+}
+
 /// 主力资金流向
 #[derive(Debug, Clone, PartialEq)]
 pub enum MoneyFlowDirection {
@@ -129,16 +141,19 @@ impl SmartMoneyTracker {
 
         // 6. 根据主力资金方向生成信号
         match money_flow.direction {
-            MoneyFlowDirection::Inflow => self.generate_long_signal(
-                current_price,
-                &indicators,
-                &key_levels,
-                nearest_support.as_ref(),
-                nearest_resistance.as_ref(),
-                money_flow.strength,
-                volume_ratio,
-                current_position,
-            ),
+            MoneyFlowDirection::Inflow => {
+                let ctx = LongSignalContext {
+                    current_price,
+                    indicators: &indicators,
+                    key_levels: &key_levels,
+                    nearest_support: nearest_support.as_ref(),
+                    nearest_resistance: nearest_resistance.as_ref(),
+                    money_flow_strength: money_flow.strength,
+                    volume_ratio,
+                    current_position,
+                };
+                self.generate_long_signal(ctx)
+            }
             MoneyFlowDirection::Outflow => self.generate_short_or_close_signal(
                 current_price,
                 &indicators,
@@ -152,17 +167,17 @@ impl SmartMoneyTracker {
     }
 
     /// 生成做多信号
-    fn generate_long_signal(
-        &self,
-        current_price: f64,
-        indicators: &crate::deepseek_client::TechnicalIndicators,
-        key_levels: &[KeyLevel],
-        nearest_support: Option<&KeyLevel>,
-        nearest_resistance: Option<&KeyLevel>,
-        money_flow_strength: f64,
-        volume_ratio: f64,
-        current_position: Option<&str>,
-    ) -> Option<TradingSignal> {
+    fn generate_long_signal(&self, ctx: LongSignalContext<'_>) -> Option<TradingSignal> {
+        // 从context解构参数
+        let current_price = ctx.current_price;
+        let indicators = ctx.indicators;
+        let key_levels = ctx.key_levels;
+        let nearest_support = ctx.nearest_support;
+        let nearest_resistance = ctx.nearest_resistance;
+        let money_flow_strength = ctx.money_flow_strength;
+        let volume_ratio = ctx.volume_ratio;
+        let current_position = ctx.current_position;
+
         // 场景1：突破做多
         if let Some(resistance) = nearest_resistance {
             if current_price > resistance.price * 0.998 && volume_ratio > self.min_volume_ratio {

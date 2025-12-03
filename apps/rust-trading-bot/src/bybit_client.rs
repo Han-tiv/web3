@@ -128,7 +128,7 @@ impl ExchangeClient for BybitClient {
     async fn get_positions(&self) -> Result<Vec<Position>> {
         let timestamp = Utc::now().timestamp_millis().to_string();
         let recv_window = "5000";
-        let params = format!("category=linear&settleCoin=USDT");
+        let params = "category=linear&settleCoin=USDT".to_string();
         let headers = self.build_headers(&timestamp, &params, recv_window);
 
         let url = format!("{}/v5/position/list?{}", self.base_url, params);

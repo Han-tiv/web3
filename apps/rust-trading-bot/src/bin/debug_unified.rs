@@ -1,7 +1,6 @@
 use anyhow::Result;
 use dotenv::dotenv;
 use hmac::{Hmac, Mac};
-use reqwest;
 use sha2::Sha256;
 use std::env;
 

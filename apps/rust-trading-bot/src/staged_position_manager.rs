@@ -255,14 +255,14 @@ impl StagedPositionManager {
         let profit_pct = position.get_profit_pct(current_price);
 
         // 【快速止损】30分钟和60分钟检查点
-        if duration_hours >= 0.5 && duration_hours < 1.0 {
+        if (0.5..1.0).contains(&duration_hours) {
             if profit_pct < -1.5 {
                 return Ok(Some(format!(
                     "⏰ {} 入场30分钟亏损{:+.2}%,不是主升浪,执行快速止损",
                     symbol, profit_pct
                 )));
             }
-        } else if duration_hours >= 1.0 && duration_hours < 1.5 {
+        } else if (1.0..1.5).contains(&duration_hours) {
             if profit_pct < -2.0 {
                 return Ok(Some(format!(
                     "⏰ {} 入场60分钟亏损{:+.2}%,主升浪失败,执行快速止损",
@@ -324,6 +324,7 @@ impl StagedPositionManager {
 #[cfg(test)]
 mod tests {
     use super::*;
+    use crate::entry_zone_analyzer::EntryAction;
 
     #[test]
     fn test_create_trial_position() {

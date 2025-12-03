@@ -52,6 +52,12 @@ pub struct MarketDataFetcher {
     client: Client,
 }
 
+impl Default for MarketDataFetcher {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl MarketDataFetcher {
     pub fn new() -> Self {
         Self {

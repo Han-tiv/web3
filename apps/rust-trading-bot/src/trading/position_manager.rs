@@ -305,6 +305,6 @@ impl PositionManager {
     fn timestamp_ms_to_datetime(ms: i64) -> DateTime<Utc> {
         let secs = ms.div_euclid(1000);
         let nsecs = (ms.rem_euclid(1000) as u32) * 1_000_000;
-        DateTime::<Utc>::from_timestamp(secs, nsecs).unwrap_or_else(|| Utc::now())
+        DateTime::<Utc>::from_timestamp(secs, nsecs).unwrap_or_else(Utc::now)
     }
 }

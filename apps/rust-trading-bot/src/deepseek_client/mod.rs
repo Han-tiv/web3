@@ -10,7 +10,11 @@ use crate::ai::ai_trait::{
     PositionDecision as AiPositionDecision, StopLossAdjustmentDecision,
     TakeProfitAdjustmentDecision,
 };
+use crate::prompt_contexts::{EntryPromptContext, PositionPromptContext};
 use crate::valuescan_v2::TradingSignalV2;
+
+// 引入拆分后的 prompt 模块
+mod prompts;
 
 #[derive(Debug, Serialize)]
 pub struct DeepSeekRequest {
@@ -313,7 +317,7 @@ impl DeepSeekClient {
 
         let response = self
             .client
-            .post(&format!("{}/chat/completions", self.base_url))
+            .post(format!("{}/chat/completions", self.base_url))
             .header("Authorization", format!("Bearer {}", self.api_key))
             .header("Content-Type", "application/json")
             .json(&request)
@@ -376,7 +380,7 @@ impl DeepSeekClient {
 
         let response = self
             .client
-            .post(&format!("{}/chat/completions", self.base_url))
+            .post(format!("{}/chat/completions", self.base_url))
             .header("Authorization", format!("Bearer {}", self.api_key))
             .header("Content-Type", "application/json")
             .json(&request)
@@ -448,7 +452,7 @@ impl DeepSeekClient {
 
         let response = self
             .client
-            .post(&format!("{}/chat/completions", self.base_url))
+            .post(format!("{}/chat/completions", self.base_url))
             .header("Authorization", format!("Bearer {}", self.api_key))
             .header("Content-Type", "application/json")
             .json(&request)
@@ -518,7 +522,7 @@ impl DeepSeekClient {
 
         let response = self
             .client
-            .post(&format!("{}/chat/completions", self.base_url))
+            .post(format!("{}/chat/completions", self.base_url))
             .header("Authorization", format!("Bearer {}", self.api_key))
             .header("Content-Type", "application/json")
             .json(&request)
@@ -615,7 +619,7 @@ impl DeepSeekClient {
 
         let response = self
             .client
-            .post(&format!("{}/chat/completions", self.base_url))
+            .post(format!("{}/chat/completions", self.base_url))
             .header("Authorization", format!("Bearer {}", self.api_key))
             .header("Content-Type", "application/json")
             .json(&request)
@@ -855,13 +859,11 @@ impl DeepSeekClient {
         )
     }
 
-    /// 构建开仓分析 prompt - K线形态优先
-    pub fn build_entry_analysis_prompt(
+    pub fn build_entry_analysis_prompt_v2(
         &self,
         symbol: &str,
         alert_type: &str,
         alert_message: &str,
-        change_24h: f64,
         fund_type: &str,
         zone_1h_summary: &str,
         zone_15m_summary: &str,
@@ -872,141 +874,29 @@ impl DeepSeekClient {
         klines_1h: &[Kline],
         _current_price: f64,
     ) -> String {
-        let kline_5m_text = self.format_klines_with_label(klines_5m, "5m", 15);
-        let kline_15m_text = self.format_klines_with_label(klines_15m, "15m", 15);
-        let kline_1h_text = self.format_klines_with_label(klines_1h, "1h", 20);
-
-        format!(
-            r#"你是顶尖的加密货币超短线交易分析师,专注12小时内快进快出操作。
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-【核心分析方法】K线形态优先,指标仅作参考
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-传统技术指标(RSI/MACD/SMA)是价格的滞后衍生物,你必须:
-1. **直接分析原始K线**: 阴阳线排列、实体大小、上下影线、连续形态
-2. **量价关系**: 放量突破、缩量回调、背离形态
-3. **关键价格位**: 通过K线聚集识别支撑阻力,而非依赖均线
-4. **多周期共振**: 5m微观入场时机 + 15m趋势确认 + 1h支撑阻力
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📊 【资金异动信号】(30%权重,重要参考)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-- 币种: {}
-- 信号类型: {} (资金流入=买入机会, 资金出逃=卖出信号)
-- 24H涨跌: {:+.2}%
-- 资金类型: {}
-- 原始消息: {}
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📈 【多周期K线形态分析】(60%权重,核心决策依据)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-{}
-
-{}
-
-{}
-
-**K线形态分析要点**:
-- **5m级别**: 最近5-10根K线的微观形态(连续阳线/阴线? 实体大小? 上下影线长度?)
-  * 放量阳线突破 → 强买入信号
-  * 长上影线/十字星 → 抛压沉重,谨慎
-  * 连续缩量阴线 → 卖压衰竭,可能反弹
-- **15m级别**: 最近10-15根K线的趋势延续性(是否形成明确方向?)
-  * 连续更高的高点/低点 → 趋势确立
-  * 震荡箱体突破 → 方向选择
-  * 大阴线吞没前期阳线 → 趋势反转
-- **1h级别**: 最近15-20根K线的支撑阻力位(K线密集区即关键位)
-  * K线下影线聚集区 = 强支撑
-  * K线上影线聚集区 = 强阻力
-  * 当前价格与支撑阻力的相对位置?
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔍 【量化入场区参考】(10%权重,辅助验证)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**1h主入场区**: {}
-**15m辅助入场区**: {}
-**量化推荐**: {} - {}
-(仅作参考,如与K线形态冲突,优先相信K线!)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🎯 【AI综合决策原则】
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✅ **BUY信号**(开多):
-- 【K线形态】5m放量阳线突破 + 15m趋势向上 (必需)
-- 当前价格接近1h支撑位(K线下影线聚集区)
-- 5m出现明显的反转形态(锤子线/早晨之星/多头吞没)
-- 量价配合: 上涨时放量,回调时缩量
-- 【资金信号】资金流入异动(加分项,非必需)
-
-💡 **入场时机优化建议**(非强制,仅供参考):
-- 建议避开RSI>70的极端超买区,等待回调至60-65再入场
-- 如出现突破后立即大幅拉升(5m单根阳线>5%),建议等待回踩确认
-- 价格刚创新高时可考虑等待5-10分钟观察是否出现上影线或回落
-- 这些建议旨在优化入场点位,但如果K线形态和资金信号强烈,可以忽略
-
-✅ **SELL信号**(开空):
-- 【K线形态】5m放量阴线击穿 + 15m趋势向下 (必需)
-- 当前价格接近1h阻力位(K线上影线聚集区)
-- 5m出现顶部反转形态(流星线/黄昏之星/空头吞没)
-- 量价背离: 价格新高但成交量萎缩
-- 【资金信号】资金出逃信号(加分项,非必需)
-
-💡 **做空入场时机建议**(非强制,仅供参考):
-- 建议避开RSI<30的极端超卖区,等待反弹至35-40后再做空
-- 如出现暴跌后单根5m阴线>5%,建议等待反弹确认压力位
-- 价格刚创新低时可考虑等待是否出现下影线或反弹,避免追空
-- 这些建议用于优化做空点位,但如果破位形态明显,可以忽略
-
-❌ **SKIP条件**:
-- K线形态混乱,5m/15m/1h不共振
-- 当前价格在1h箱体中部,无明确支撑阻力
-- 资金信号与K线形态严重冲突
-- 5m出现长上下影线的十字星(犹豫形态)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📋 【输出格式】严格JSON
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-{{
-    "signal": "BUY|SELL|SKIP",
-    "confidence": "HIGH|MEDIUM|LOW",
-    "entry_price": 建议入场价(数字, 基于K线形态判断),
-    "stop_loss": 止损价(必须为具体数字且不可为null, 基于K线形态识别并设在关键支撑/阻力下方),
-    "take_profit": 止盈价(必须为具体数字且不可为null, 基于K线形态识别的关键阻力位或合理盈利目标, 禁止简单百分比估算),
-    "reason": "核心决策理由(必含: K线形态描述+多周期共振+资金信号确认+止盈止损理由, 限200字)"
-}}
-
-**重要说明**:
-1. confidence对应试探仓位: HIGH=30%, MEDIUM=20%, LOW=15%
-2. 必须明确描述5m/15m/1h的K线形态,不能只说"趋势向上"
-3. 资金信号是重要参考,但K线形态冲突时优先相信K线
-4. 止损与止盈必须基于K线形态识别的支撑阻力位: 止损放在关键支撑/阻力下方,止盈设在关键阻力位或明确的合理盈利目标,严禁简单用百分比
-5. stop_loss 与 take_profit 必须输出具体数字,不得返回 null、None、空字符串或占位符
-
-现在请基于K线形态分析给出交易决策!
-"#,
+        let ctx = EntryPromptContext {
             symbol,
             alert_type,
-            change_24h,
-            fund_type,
             alert_message,
-            kline_5m_text,
-            kline_15m_text,
-            kline_1h_text,
+            fund_type,
             zone_1h_summary,
             zone_15m_summary,
             entry_action,
             entry_reason,
-        )
+            klines_5m,
+            klines_15m,
+            klines_1h,
+            klines_4h: None,
+            current_price: _current_price,
+            change_24h: None,
+            signal_type: None,
+            technical_indicators: None,
+        };
+        prompts::entry_v2::build_entry_analysis_prompt_v2(&ctx)
     }
 
-    /// 构建持仓管理分析 prompt - 多周期 K线
-    pub fn build_position_management_prompt(
+    /// 构建持仓管理分析 prompt - Valuescan关键位止盈法
+    pub fn build_position_management_prompt_v2(
         &self,
         symbol: &str,
         side: &str,
@@ -1020,307 +910,24 @@ impl DeepSeekClient {
         indicators: &TechnicalIndicators,
         support_text: &str,
         deviation_desc: &str,
-        current_stop_loss: Option<f64>,
-        current_take_profit: Option<f64>,
-        funding_rate_info: Option<(f64, f64, f64)>, // (当前费率, 平均费率, 溢价率)
     ) -> String {
-        // 格式化三个周期的 K线数据
-        let kline_5m_text = self.format_klines_with_label(klines_5m, "5m", 15);
-        let kline_15m_text = self.format_klines_with_label(klines_15m, "15m", 15);
-        let kline_1h_text = self.format_klines_with_label(klines_1h, "1h", 12);
-
-        let indicator_text = self.format_indicators(indicators);
-        let trend_analysis = self.analyze_trend(indicators, current_price);
-        let key_levels = self.identify_key_levels(klines_15m, indicators, current_price);
-
-        // 计算潜在目标位
-        let resistance = indicators.bb_upper;
-        let support = indicators.bb_lower;
-        let potential_upside = ((resistance - current_price) / current_price) * 100.0;
-        let potential_downside = ((current_price - support) / current_price) * 100.0;
-        let stop_loss_text = current_stop_loss
-            .map(|price| format!("${:.4}", price))
-            .unwrap_or_else(|| "未设置".to_string());
-        let take_profit_text = current_take_profit
-            .map(|price| format!("${:.4}", price))
-            .unwrap_or_else(|| "未设置".to_string());
-
-        format!(
-            r#"你是专业的超短线持仓管理分析师，请结合智能支撑位系统与实时偏离度执行分级止盈方案。
-
-⚠️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-【代码兜底规则】已自动执行,AI不需要重复判断
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-以下情况已在代码层自动处理:
-- 亏损超过-5% → 自动全平 (极端止损)
-⚠️ -5% 仅为系统兜底, AI 在亏损接近-3%时必须主动止损, 不要依赖极限保护。
-
-如果持仓到达AI分析阶段,说明:
-- 系统兜底条件尚未触发
-- 亏损未超过-5%
-- AI的任务是根据市场情况灵活判断
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-【持仓信息】
-- 交易对: {}
-- 持仓方向: {}
-- 入场价格: ${:.4}
-- 当前价格: ${:.4}
-- 当前盈亏: {:+.2}%
-- 持仓时长: {:.1} 小时
-- 当前止损挂单价格: {}
-- 当前止盈挂单价格: {}
-
-【多周期K线快照】
-{}
-
-{}
-
-{}
-
-【技术指标综述】
-{}
-
-【趋势/量价洞察】
-{}
-
-【市场关键位分析】
-{}
-- 上方阻力位(BOLL上轨): ${:.2} (潜在上涨空间: +{:.2}%)
-- 下方支撑位(BOLL下轨): ${:.2} (潜在回调风险: -{:.2}%)
-- BOLL中轨: ${:.2}
-- SMA50: ${:.2}
-
-{}
-
-【实时价格偏离度】
-5m K线收盘价 vs 当前价格: {}
-
-【AI持仓管理决策框架】基于K线形态识别平仓信号
-
-⚠️ **优先识别的平仓信号**(按危险程度排序):
-
-1️⃣ 【亏损止损信号 - 立即执行】⚠️⚠️⚠️
-   ⚠️ 亏损持仓优先于一切其他信号:
-   - 轻微亏损（-0.5% ~ -1.5%）: 5m反向吞没长阴/15m连续3根阴线/1h跌破支撑并放量/持仓>1小时且亏损扩大 → FULL_CLOSE
-   - 中度亏损（-1.5% ~ -3%）: 无条件FULL_CLOSE, 不再依赖支撑位
-   - 严重亏损（< -3%）: 立即FULL_CLOSE, 禁止等待-5%兜底
-   - 原则: 亏损止损优先级 > 5m/15m/1h其他反转信号, 必须先止损再考虑其他策略
-
-2️⃣ 【1h大跌信号 - 次高优先级】⚠️⚠️⚠️
-   ⚠️  检查1h K线是否出现暴跌:
-   - 单根1h K线跌幅>10% → 强烈建议FULL_CLOSE (见顶信号)
-   - 单根1h K线跌幅>5% + 盈利>10% → 建议PARTIAL_CLOSE 70-80%
-   - 从最近20根1h K线最高价回落>15% → 强烈建议FULL_CLOSE
-   - 从最近20根1h K线最高价回落>10% → 建议PARTIAL_CLOSE 50-60%
-   💡 1h大跌是最强反转信号,但要结合后续反弹判断
-
-3️⃣ 【5m反转信号 - K线形态重要】
-   ⚠️  检查5m K线是否出现以下形态:
-   - 长上影线(上影>实体2倍) → 抛压沉重,考虑止盈
-   - 倒V形态(连续3根: 低-高-低) → 价格见顶,建议止盈
-   - 从最近10根5m K线的最高价回落>5% → 建议PARTIAL_CLOSE 40-50%
-   - 从最近10根5m K线的最高价回落>8% → 建议FULL_CLOSE
-   💡 5m回落后可能反弹,观察15m趋势是否确认
-
-4️⃣ 【时间与盈利参考】(灵活建议,非强制)
-
-   📌 Alpha/FOMO信号 (潜力标的):
-   - 可以给更长观察期(12-24小时)
-   - 盈利8-12%时考虑部分止盈30-40%
-   - 盈利15%+时考虑部分止盈50-60%
-   - 盈利20%+时强烈建议至少止盈70%
-   - 持仓>24h且盈利<5%时考虑止盈
-
-   📌 资金异动信号 (快进快出):
-   - 建议8-12小时内结束交易
-   - 盈利5-8%时考虑部分止盈30-40%
-   - 盈利10%+时考虑部分止盈50-60%
-   - 盈利15%+时强烈建议至少止盈70%
-   - 持仓>12h且盈利<3%时考虑止盈
-
-   💡 重要: 这些只是参考建议
-   - 如果趋势强劲,可以继续持有等待更高点
-   - 如果出现明确反转信号,立即止盈优先级更高
-   - ZEC案例: 虽然持仓9h,但从775跌到640就应该在700+平仓
-
-5️⃣ 【阻力位信号】
-   - 距离1h阻力位<1% + 盈利>5% → 考虑PARTIAL_CLOSE 30-40%
-   - 触及1h阻力位后回落 → 建议PARTIAL_CLOSE 40-50%
-   - 多次触及同一阻力位未突破 → 建议止盈
-
-✅ **继续持有条件**(需要同时满足多个):
-   - 盈利<5% 且持仓<6小时
-   - 5m/15m强势上涨,无明确反转K线
-   - 距离1h阻力位>3%,上方空间充足
-   - RSI<70 (非极端超买)
-   - 没有出现1h大跌信号
-
-⚠️ **关键判断原则**:
-1. K线形态信号 > 时间/盈利建议
-2. 1h大跌 > 5m回落 > 持仓时间
-3. 趋势延续中可以容忍更长持仓时间
-4. 出现明确反转时,立即止盈不要犹豫
-5. 利润回吐>10%时,强烈建议至少部分止盈
-
-⚠️ **亏损持仓止损规则**（优先级高于支撑位判断）:
-
-1️⃣ **轻微亏损（-0.5% ~ -1.5%）** - 部分止损策略:
-   - 5m出现反向吞没长阴线 → PARTIAL_CLOSE 40-50% (减仓观察)
-   - 15m连续3根阴线 → PARTIAL_CLOSE 30-40% (趋势转弱警告)
-   - 1h跌破支撑+放量 → PARTIAL_CLOSE 50% (破位信号)
-   - 持仓>1小时且亏损持续扩大 → PARTIAL_CLOSE 40% (时间止损)
-   - ⚠️ 部分减仓后观察5-15分钟，如继续恶化则清仓
-   - 💡 给持仓一个证明机会，但已减少50%风险敞口
-
-2️⃣ **中度亏损（-1.5% ~ -3%）**:
-   - 无条件FULL_CLOSE（不再检查支撑位）
-   - 5m K线持续走弱 → 立即止损，不等待
-   - 理由：亏损-2%是硬止损线，AI应该在-1.5%就主动离场
-
-3️⃣ **严重亏损（< -3%）**:
-   - 立即FULL_CLOSE（无任何例外）
-   - 系统兜底会在-5%强制平仓，AI必须在-3%主动执行
-
-⚠️ **关键原则**:
-- 亏损时不要幻想反弹，趋势恶化立即止损
-- 5m/15m反转形态 > 1h支撑位判断
-- 宁可错过反弹，也不要让小亏变大亏
-- "截断亏损，让利润奔跑" - 对亏损零容忍
-
-【输出要求】
-必须严格返回一个 JSON 对象（不要 Markdown 或额外解释），字段含义如下（中文仅为提示，返回中不要包含注释文本）:
-{{
-    "trend": "UPTREND|DOWNTREND|SIDEWAYS，市场趋势判断",
-    "trend_confidence": 0-100 的趋势置信度百分比,
-    "key_indicator_insights": "说明 MACD 金叉/死叉、RSI 超买/超卖、ADX 趋势强度等关键信号",
-    "support_levels": [支撑位1,支撑位2],
-    "resistance_levels": [阻力位1,阻力位2],
-    "direction": "LONG|SHORT|WAIT，交易策略方向",
-    "entry_point": 建议入场点位(等待/观望策略时必须为 null),
-    "take_profit": 建议止盈价(必须提供且不得为 null，需结合现况给出具体价位),
-    "stop_loss": 建议止损价(必须提供且不得为 null，需结合现况给出具体价位),
-    "position_adjustment": "仓位调整建议，说明是否需要减仓/加仓/保持",
-    "recommended_actions": [
-        {{
-            "action_type": "IMMEDIATE_CLOSE|LIMIT_ORDER|TRIGGER_ORDER|CANCEL_TRIGGER|SET_STOP_LOSS_TAKE_PROFIT|CANCEL_STOP_LOSS_TAKE_PROFIT",
-            "priority": 1-6 （1 最高，6 最低，数组需按升序排列，且遵循下述动作优先级含义）, 
-            "params": {{
-                "symbol": "交易对(如BTCUSDT，可为 null)",
-                "side": "BUY|SELL (可为 null)",
-                "quantity": 下单数量(可为 null),
-                "price": 委托/执行价(可为 null),
-                "stop_loss": 止损价(可为 null),
-                "take_profit": 止盈价(可为 null),
-                "auto_set_protection": true|false，LIMIT/TRIGGER 等开仓动作是否需要在成交后立即自动同步保护单,
-                "trigger_price": 触发价(仅 TRIGGER_ORDER 需要，可为 null),
-                "order_id": 取消类操作对应的原订单ID(可为 null)
-            }},
-            "reason": "触发该动作的中文说明，需引用趋势+关键位+指标"
-        }}
-    ],
-    "action": "HOLD|PARTIAL_CLOSE|FULL_CLOSE|SET_LIMIT_ORDER (兼容旧版即时动作)",
-    "close_percentage": 平仓百分比(当 PARTIAL_CLOSE/FULL_CLOSE 时必填 0-100，其他动作为 null),
-    "limit_price": 限价/触发价(SET_LIMIT_ORDER 或触发单时必填，否则为 null),
-    "reason": "综合中文理由(必须包含5m信号+15m趋势+盈亏状态+持仓时长)",
-    "profit_potential": "HIGH|MEDIUM|LOW|NONE",
-    "optimal_exit_price": AI判断的最优退出价(可为 null),
-    "confidence": "HIGH|MEDIUM|LOW"
-}}
-
-请注意：
-- 无论当前是否已有止盈/止损单，必须重新分析并给出建议的止盈止损价位，对应的 take_profit 与 stop_loss 字段禁止为 null。
-- recommended_actions 中必须包含一个 SET_STOP_LOSS_TAKE_PROFIT 动作，明确说明是「新设置」还是「调整现有」，若检测到现有止盈/止损不合理（例如止损位已被突破、止盈位距离当前价过远/过近），必须提出调整方案。
-- AI 必须检查当前仓位已有的止盈/止损是否合理，如需调整必须在 recommended_actions 中写明旧价位与新目标价位，确保执行侧可以据此修改。
-
-推荐动作优先顺序（priority 数字越小越优先）：
-1. IMMEDIATE_CLOSE - 趋势反转或高风险需立即平仓
-2. LIMIT_ORDER - 立即挂出限价委托，可同时设置止盈/止损
-3. TRIGGER_ORDER - 预测突破关键位，放置触发单（追涨杀跌）
-4. CANCEL_TRIGGER - 取消不再成立的触发单
-5. SET_STOP_LOSS_TAKE_PROFIT - 设置/更新现有仓位的止损止盈
-6. CANCEL_STOP_LOSS_TAKE_PROFIT - 取消不匹配的止损止盈
-
-示例:
-{{
-    "trend": "UPTREND",
-    "trend_confidence": 82.5,
-    "key_indicator_insights": "MACD 5m/15m 双金叉且 RSI 68 略高，ADX 32 表示趋势延续",
-    "support_levels": [62800.0, 62250.0],
-    "resistance_levels": [64150.0],
-    "direction": "LONG",
-    "entry_point": 63120.0,
-    "take_profit": 64650.0,
-    "stop_loss": 62520.0,
-    "position_adjustment": "盈利回撤 2% 以内保持 60% 仓位，若跌破 62800 先减到 30%",
-    "recommended_actions": [
-        {{
-            "action_type": "SET_STOP_LOSS_TAKE_PROFIT",
-            "priority": 5,
-            "params": {{
-                "symbol": "BTCUSDT",
-                "side": "SELL",
-                "quantity": 0.8,
-                "price": null,
-                "stop_loss": 62520.0,
-                "take_profit": 64650.0,
-                "auto_set_protection": false,
-                "trigger_price": null,
-                "order_id": null
-            }},
-            "reason": "现有止损 62000/止盈 65000 偏离当前结构，建议上调至 62520/64650，锁定利润并贴合 15m 支撑"
-        }},
-        {{
-            "action_type": "LIMIT_ORDER",
-            "priority": 2,
-            "params": {{
-                "symbol": "BTCUSDT",
-                "side": "SELL",
-                "quantity": 0.3,
-                "price": 64300.0,
-                "stop_loss": null,
-                "take_profit": null,
-                "auto_set_protection": true,
-                "trigger_price": null,
-                "order_id": null
-            }},
-            "reason": "靠近 64150 阻力先行兑现部分利润"
-        }}
-    ],
-    "action": "PARTIAL_CLOSE",
-    "close_percentage": 40,
-    "limit_price": null,
-    "reason": "5m 出现倒V 回落 + 15m RSI 超买，当前盈利 8% 持仓 6 小时需落袋部分",
-    "profit_potential": "MEDIUM",
-    "optimal_exit_price": 64300.0,
-    "confidence": "HIGH"
-}}
-"#,
+        let ctx = PositionPromptContext {
             symbol,
-            if side == "LONG" { "多头" } else { "空头" },
+            side,
             entry_price,
             current_price,
             profit_pct,
             hold_duration_hours,
-            stop_loss_text,
-            take_profit_text,
-            kline_5m_text,
-            kline_15m_text,
-            kline_1h_text,
-            indicator_text,
-            trend_analysis,
-            key_levels,
-            resistance,
-            potential_upside,
-            support,
-            potential_downside,
-            indicators.bb_middle,
-            indicators.sma_50,
+            klines_5m,
+            klines_15m,
+            klines_1h,
+            indicators,
             support_text,
             deviation_desc,
-        )
+            current_stop_loss: None,
+            current_take_profit: None,
+        };
+        prompts::position_v2::build_position_management_prompt_v2(&ctx)
     }
 
     /// 构建批量持仓评估 prompt，要求 DeepSeek 返回 JSON 数组决策

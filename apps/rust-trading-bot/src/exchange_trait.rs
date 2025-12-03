@@ -213,6 +213,7 @@ pub enum ExchangeType {
 }
 
 impl ExchangeType {
+    #[allow(clippy::should_implement_trait)]
     pub fn from_str(s: &str) -> Option<Self> {
         match s.to_lowercase().as_str() {
             "binance" => Some(ExchangeType::Binance),

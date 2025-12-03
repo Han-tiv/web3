@@ -17,6 +17,12 @@ pub struct TradingLockManager {
     lock_dir: String,
 }
 
+impl Default for TradingLockManager {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl TradingLockManager {
     pub fn new() -> Self {
         Self {
@@ -124,15 +130,13 @@ impl TradingLockManager {
         let now = Self::current_timestamp();
 
         if let Ok(entries) = fs::read_dir(&self.lock_dir) {
-            for entry in entries {
-                if let Ok(entry) = entry {
-                    let path = entry.path();
-                    if path.extension().map_or(false, |ext| ext == "lock") {
-                        if let Ok(content) = fs::read_to_string(&path) {
-                            if let Ok(lock) = serde_json::from_str::<TradingLock>(&content) {
-                                if lock.expires_at <= now {
-                                    fs::remove_file(&path).ok();
-                                }
+            for entry in entries.flatten() {
+                let path = entry.path();
+                if path.extension().is_some_and(|ext| ext == "lock") {
+                    if let Ok(content) = fs::read_to_string(&path) {
+                        if let Ok(lock) = serde_json::from_str::<TradingLock>(&content) {
+                            if lock.expires_at <= now {
+                                fs::remove_file(&path).ok();
                             }
                         }
                     }

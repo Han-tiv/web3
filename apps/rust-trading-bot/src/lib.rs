@@ -30,7 +30,8 @@ pub mod ai;
 pub mod deepseek_client;
 pub mod gemini_client;
 pub mod grok_client;
-pub mod prompt_templates;
+pub mod prompt_contexts;
+// pub mod prompt_templates; // 已拆分到各 AI client 的 prompts 子模块
 pub mod technical_analysis;
 pub mod valuescan_v2; // Valuescan V2 数据结构
                       // pub mod market_sentiment;        // 已移除：不使用情绪分析

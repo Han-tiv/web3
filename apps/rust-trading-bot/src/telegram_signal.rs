@@ -135,8 +135,7 @@ impl SignalAnalyzer {
             let emoji = match signal.score {
                 s if s >= 5 => "🔥🔥",
                 s if s >= 3 => "📈",
-                s if s >= 1 => "➡️",
-                s if s == 0 => "➡️",
+                s if s >= 0 => "➡️",
                 s if s >= -2 => "📉",
                 s if s >= -4 => "📉",
                 _ => "🚨",

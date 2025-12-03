@@ -18,6 +18,7 @@ use tokio::time::{sleep, Duration};
 
 // 支持的交易币种
 #[derive(Debug, Clone, PartialEq)]
+#[allow(clippy::upper_case_acronyms)]
 enum TradingSymbol {
     BTC,
     ETH,
@@ -266,7 +267,11 @@ async fn calculate_intelligent_position<T: ExchangeClient>(
     };
 
     // 根据RSI状态调整（超买超卖区域减仓）
-    let rsi_multiplier = if rsi > 75.0 || rsi < 25.0 { 0.7 } else { 1.0 };
+    let rsi_multiplier = if !(25.0..=75.0).contains(&rsi) {
+        0.7
+    } else {
+        1.0
+    };
 
     // 计算建议投入USDT金额
     let suggested_usdt =
@@ -353,15 +358,6 @@ async fn main() -> Result<()> {
     info!("");
 
     // 初始化 Binance 客户端
-    let binance_api_key =
-        std::env::var("BINANCE_API_KEY").expect("❌ 缺少 BINANCE_API_KEY 环境变量");
-    let binance_secret = std::env::var("BINANCE_SECRET").expect("❌ 缺少 BINANCE_SECRET 环境变量");
-
-    let exchange: Arc<dyn ExchangeClient> =
-        Arc::new(BinanceClient::new(binance_api_key, binance_secret, false));
-
-    info!("✅ 使用 Binance 交易所");
-
     let deepseek_key =
         std::env::var("DEEPSEEK_API_KEY").expect("❌ 缺少 DEEPSEEK_API_KEY 环境变量");
     let deepseek = Arc::new(DeepSeekClient::new(deepseek_key));
@@ -373,9 +369,8 @@ async fn main() -> Result<()> {
     info!("   交易对: {}", config.symbol);
     info!("   K线周期: {}", config.timeframe);
     info!(
-        "   最小交易量: {} {}",
-        config.amount,
-        format!("{:?}", config.trading_symbol)
+        "   最小交易量: {} {:?}",
+        config.amount, config.trading_symbol
     );
     info!("   杠杆倍数: {}x", config.leverage);
     info!("   执行间隔: {} 分钟", config.interval_minutes);
@@ -624,7 +619,7 @@ async fn run_trading_cycle<T: ExchangeClient>(
         exchange,
         &signal,
         current_position.as_ref(),
-        &config,
+        config,
         current_price,
         position_size,
     )
@@ -692,13 +687,13 @@ async fn get_klines<T: ExchangeClient>(exchange: &Arc<T>, symbol: &str) -> Resul
     for i in 0..100 {
         let volatility = 0.002; // 0.2% 波动
         let open = base_price * (1.0 + (i as f64 * 0.0001 - 0.005));
-        let close = open * (1.0 + (rand::random::<f64>() - 0.5) * volatility);
-        let high = open.max(close) * (1.0 + rand::random::<f64>() * volatility);
-        let low = open.min(close) * (1.0 - rand::random::<f64>() * volatility);
+        let close = open * (1.0 + (rand::random() - 0.5) * volatility);
+        let high = open.max(close) * (1.0 + rand::random() * volatility);
+        let low = open.min(close) * (1.0 - rand::random() * volatility);
 
-        let volume = 10.0 + rand::random::<f64>() * 5.0;
+        let volume = 10.0 + rand::random() * 5.0;
         let quote_volume = volume * close;
-        let taker_buy_volume = volume * (0.4 + rand::random::<f64>() * 0.4);
+        let taker_buy_volume = volume * (0.4 + rand::random() * 0.4);
         let taker_buy_quote_volume = taker_buy_volume * close;
 
         klines.push(Kline {
@@ -997,7 +992,7 @@ async fn execute_trading_decision<T: ExchangeClient>(
 mod rand {
     use std::time::{SystemTime, UNIX_EPOCH};
 
-    pub fn random<T>() -> f64 {
+    pub fn random() -> f64 {
         let nanos = SystemTime::now()
             .duration_since(UNIX_EPOCH)
             .unwrap()

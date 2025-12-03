@@ -54,27 +54,28 @@
 //! 5. **订单管理**: 止盈止损互斥、触发单监控
 //! 6. **内存管理**: 自动清理过期数据
 
-mod cleanup_manager;
-mod entry_analyzer;
-mod entry_executor;
-mod order_monitor;
-mod position_evaluator;
-mod position_monitor;
-mod position_operator;
-mod trader;
-mod utils;
+pub mod ai;
+pub mod cleanup_manager;
+pub mod core;
+pub mod data;
+pub mod entry_analyzer;
+pub mod entry_executor;
+pub mod execution;
+pub mod modules;
+pub mod order_monitor;
+pub mod position_evaluator;
+pub mod position_monitor;
+pub mod position_operator;
+pub mod trader;
+pub mod utils;
 
-// 重新导出核心类型
-pub use trader::{
-    IntegratedAITrader, PendingEntry, PositionAction, PositionMarketContext, PositionTracker,
-    SignalHistory, SignalRecord, TrackerMutation, TrackerSnapshot, POSITION_CHECK_INTERVAL_SECS,
-};
-pub use utils::{
-    is_meme_coin, map_confidence_to_score, normalize_signal_type, timestamp_ms_to_datetime,
-};
+pub use ai::{ContextBuilder, DecisionHandler, PositionEvaluator};
+// 重新导出 trader/modules 下的类型，便于其他模块使用
+pub use modules::config::*;
+pub use modules::types::*;
+pub use trader::IntegratedAITrader;
 
 use anyhow::Result;
-use dotenv::dotenv;
 use log::{error, info, warn};
 use std::env;
 use std::sync::Arc;
@@ -125,15 +126,13 @@ pub async fn main() -> Result<()> {
     info!("✅ 数据库已初始化\n");
 
     // 创建集成交易器
-    let trader: Arc<IntegratedAITrader> = Arc::new(
-        IntegratedAITrader::new(
-            exchange.clone(),
-            config.deepseek_api_key,
-            config.gemini_api_key,
-            db.clone(),
-        )
-        .await,
-    );
+    let trader = IntegratedAITrader::new(
+        exchange.clone(),
+        config.deepseek_api_key,
+        config.gemini_api_key,
+        db.clone(),
+    )
+    .await?;
 
     // 恢复启动前已存在的持仓
     if let Err(e) = trader.sync_existing_positions().await {

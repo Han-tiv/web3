@@ -239,7 +239,7 @@ impl BinanceClient {
                 let created_at = Utc
                     .timestamp_millis_opt(ts)
                     .single()
-                    .unwrap_or_else(|| Utc::now());
+                    .unwrap_or_else(Utc::now);
 
                 OpenOrder {
                     order_id: raw.orderId.to_string(),
@@ -697,10 +697,8 @@ impl BinanceClient {
                         tick_size_val = Some(tick_size);
                     }
                     if filter.filterType == "MIN_NOTIONAL" {
-                        if let Some(value) = filter
-                            .notional
-                            .as_ref()
-                            .or_else(|| filter.minNotional.as_ref())
+                        if let Some(value) =
+                            filter.notional.as_ref().or(filter.minNotional.as_ref())
                         {
                             min_notional_val = value.parse::<f64>().ok();
                         }

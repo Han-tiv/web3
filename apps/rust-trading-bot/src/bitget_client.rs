@@ -58,12 +58,8 @@ struct BitgetAccount {
 }
 
 impl BitgetClient {
-    pub fn new(api_key: String, secret_key: String, passphrase: String, testnet: bool) -> Self {
-        let base_url = if testnet {
-            "https://api.bitget.com".to_string() // Bitget 测试环境需要特殊申请
-        } else {
-            "https://api.bitget.com".to_string()
-        };
+    pub fn new(api_key: String, secret_key: String, passphrase: String, _testnet: bool) -> Self {
+        let base_url = "https://api.bitget.com".to_string(); // Bitget 测试环境需要特殊申请
 
         Self {
             api_key,
@@ -412,7 +408,7 @@ impl ExchangeClient for BitgetClient {
                 }
 
                 let timestamp = entry
-                    .get(0)
+                    .first()
                     .and_then(|v| v.parse::<f64>().ok())
                     .unwrap_or_default();
                 let open = entry

@@ -16,6 +16,12 @@ pub struct HealthMonitor {
     status_dir: String,
 }
 
+impl Default for HealthMonitor {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl HealthMonitor {
     pub fn new() -> Self {
         Self {

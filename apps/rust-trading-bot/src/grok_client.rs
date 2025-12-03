@@ -8,6 +8,7 @@ use crate::ai::ai_trait::{
     AIProvider, EntryContext, EntryDecision, PositionContext, PositionDecision,
     StopLossAdjustmentDecision, TakeProfitAdjustmentDecision,
 };
+use crate::prompt_contexts::{EntryPromptContext, PositionPromptContext};
 
 pub use crate::deepseek_client::{
     Kline, Position, PositionManagementDecision, TechnicalIndicators, TradingSignal,
@@ -95,7 +96,7 @@ impl GrokClient {
 
         let response = self
             .client
-            .post(&format!("{}/chat/completions", self.base_url))
+            .post(format!("{}/chat/completions", self.base_url))
             .header("Authorization", format!("Bearer {}", self.api_key))
             .header("Content-Type", "application/json")
             .json(&request)
@@ -158,7 +159,7 @@ impl GrokClient {
 
         let response = self
             .client
-            .post(&format!("{}/chat/completions", self.base_url))
+            .post(format!("{}/chat/completions", self.base_url))
             .header("Authorization", format!("Bearer {}", self.api_key))
             .header("Content-Type", "application/json")
             .json(&request)
@@ -404,21 +405,19 @@ impl GrokClient {
     }
 
     /// 构建开仓分析 prompt - K线形态优先
-    pub fn build_entry_analysis_prompt(
-        &self,
-        symbol: &str,
-        alert_type: &str,
-        alert_message: &str,
-        fund_type: &str,
-        zone_1h_summary: &str,
-        zone_15m_summary: &str,
-        entry_action: &str,
-        entry_reason: &str,
-        klines_5m: &[Kline],
-        klines_15m: &[Kline],
-        klines_1h: &[Kline],
-        _current_price: f64,
-    ) -> String {
+    pub fn build_entry_analysis_prompt(&self, ctx: &EntryPromptContext<'_>) -> String {
+        let symbol = ctx.symbol;
+        let alert_type = ctx.alert_type;
+        let alert_message = ctx.alert_message;
+        let fund_type = ctx.fund_type;
+        let zone_1h_summary = ctx.zone_1h_summary;
+        let zone_15m_summary = ctx.zone_15m_summary;
+        let entry_action = ctx.entry_action;
+        let entry_reason = ctx.entry_reason;
+        let klines_5m = ctx.klines_5m;
+        let klines_15m = ctx.klines_15m;
+        let klines_1h = ctx.klines_1h;
+
         let kline_5m_text = self.format_klines_with_label(klines_5m, "5m", 15);
         let kline_15m_text = self.format_klines_with_label(klines_15m, "15m", 15);
         let kline_1h_text = self.format_klines_with_label(klines_1h, "1h", 20);
@@ -537,21 +536,20 @@ impl GrokClient {
     }
 
     /// 构建持仓管理分析 prompt - 多周期 K线
-    pub fn build_position_management_prompt(
-        &self,
-        symbol: &str,
-        side: &str,
-        entry_price: f64,
-        current_price: f64,
-        profit_pct: f64,
-        hold_duration_hours: f64,
-        klines_5m: &[Kline],
-        klines_15m: &[Kline],
-        klines_1h: &[Kline],
-        indicators: &TechnicalIndicators,
-        support_text: &str,
-        deviation_desc: &str,
-    ) -> String {
+    pub fn build_position_management_prompt(&self, ctx: &PositionPromptContext<'_>) -> String {
+        let symbol = ctx.symbol;
+        let side = ctx.side;
+        let entry_price = ctx.entry_price;
+        let current_price = ctx.current_price;
+        let profit_pct = ctx.profit_pct;
+        let hold_duration_hours = ctx.hold_duration_hours;
+        let klines_5m = ctx.klines_5m;
+        let klines_15m = ctx.klines_15m;
+        let klines_1h = ctx.klines_1h;
+        let indicators = ctx.indicators;
+        let support_text = ctx.support_text;
+        let deviation_desc = ctx.deviation_desc;
+
         // 格式化三个周期的 K线数据
         let kline_5m_text = self.format_klines_with_label(klines_5m, "5m", 15);
         let kline_15m_text = self.format_klines_with_label(klines_15m, "15m", 15);

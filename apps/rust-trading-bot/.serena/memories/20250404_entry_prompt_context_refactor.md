@@ -1,0 +1,1 @@
+在 src/deepseek_client/prompts/entry_v2.rs 中，build_entry_analysis_prompt_v2 已重构为接收 EntryPromptContext，引入新的 use crate::bin::integrated_ai_trader::modules::types::EntryPromptContext，并在函数开头解构 ctx；保持 prompt 模板逻辑不变。

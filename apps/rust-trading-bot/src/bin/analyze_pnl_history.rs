@@ -109,7 +109,7 @@ async fn main() {
     }
 
     // 排序：按总盈亏排序，亏损的排前面
-    let mut stats_vec: Vec<_> = symbol_stats.into_iter().map(|(_, v)| v).collect();
+    let mut stats_vec: Vec<_> = symbol_stats.into_values().collect();
     stats_vec.sort_by(|a, b| a.total_pnl.partial_cmp(&b.total_pnl).unwrap());
 
     println!("📈 币种收益统计 (最近12小时):\n");

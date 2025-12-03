@@ -27,6 +27,19 @@ pub enum DatabaseError {
     Json(#[from] serde_json::Error),
 }
 
+/// Phase 2.4 (#12): 记录交易利润参数结构体
+pub struct RecordTradeProfitParams<'a> {
+    pub symbol: &'a str,
+    pub entry_time: i64,
+    pub exit_time: i64,
+    pub entry_price: f64,
+    pub exit_price: f64,
+    pub quantity: f64,
+    pub side: &'a str,
+    pub profit_usdt: f64,
+    pub capital_used: f64,
+}
+
 /// 核心数据库封装，持有一个 Arc<Mutex<Connection>> 以便在线程间共享。
 #[derive(Clone)]
 pub struct Database {
@@ -206,7 +219,6 @@ impl Database {
     }
 
     /// =============== Trades CRUD ===============
-
     pub fn insert_trade(&self, record: &TradeRecord) -> DbResult<i64> {
         let conn = self.guard()?;
         conn.execute(
@@ -347,7 +359,6 @@ impl Database {
     }
 
     /// =============== AI Analysis CRUD ===============
-
     pub fn insert_ai_analysis(&self, record: &AiAnalysisRecord) -> DbResult<i64> {
         let conn = self.guard()?;
         let timestamp = ensure_ts(&record.timestamp);
@@ -446,7 +457,6 @@ impl Database {
     }
 
     /// =============== Gemini Analysis Logs ===============
-
     pub fn save_analysis_log(
         &self,
         symbol: &str,
@@ -459,7 +469,7 @@ impl Database {
         let conn = self.guard()?;
         let timestamp = Utc::now().timestamp();
         let indicators_json = serde_json::to_string(indicators)?;
-        let position_json = position.map(|pos| serde_json::to_string(pos)).transpose()?;
+        let position_json = position.map(serde_json::to_string).transpose()?;
 
         conn.execute(
             r#"
@@ -483,19 +493,7 @@ impl Database {
     }
 
     /// =============== Trade Profit History ===============
-
-    pub fn record_trade_profit(
-        &self,
-        symbol: &str,
-        entry_time: i64,
-        exit_time: i64,
-        entry_price: f64,
-        exit_price: f64,
-        quantity: f64,
-        side: &str,
-        profit_usdt: f64,
-        capital_used: f64,
-    ) -> DbResult<()> {
+    pub fn record_trade_profit(&self, params: &RecordTradeProfitParams<'_>) -> DbResult<()> {
         let conn = self.guard()?;
         let created_at = Utc::now().timestamp();
         conn.execute(
@@ -505,16 +503,16 @@ impl Database {
                 quantity, side, profit_usdt, capital_used, created_at
             ) VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10)
         "#,
-            params![
-                symbol,
-                entry_time,
-                exit_time,
-                entry_price,
-                exit_price,
-                quantity,
-                side,
-                profit_usdt,
-                capital_used,
+            rusqlite::params![
+                params.symbol,
+                params.entry_time,
+                params.exit_time,
+                params.entry_price,
+                params.exit_price,
+                params.quantity,
+                params.side,
+                params.profit_usdt,
+                params.capital_used,
                 created_at
             ],
         )?;
@@ -537,7 +535,6 @@ impl Database {
     }
 
     /// =============== Pending TP/SL 队列 ===============
-
     /// 入队待补设的止盈止损信息。
     pub fn enqueue_pending_tpsl(
         &self,
@@ -606,7 +603,6 @@ impl Database {
     }
 
     /// =============== Telegram Signals CRUD ===============
-
     /// 保存Telegram信号到数据库
     pub fn insert_telegram_signal(
         &self,

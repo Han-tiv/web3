@@ -3,7 +3,7 @@ use std::{env, time::Duration};
 use anyhow::{anyhow, Context, Result};
 use chrono::Utc;
 use hmac::{Hmac, Mac};
-use log::{info, warn};
+use log::info;
 use reqwest::{Client, StatusCode};
 use rust_trading_bot::{
     binance_client::BinanceClient,

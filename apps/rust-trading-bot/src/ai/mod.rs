@@ -4,6 +4,11 @@
 //! `decision_engine` 则负责聚合多个 AI 提供者的结果，并输出最终共识。
 
 pub mod ai_trait;
+pub mod prompt_builder;
+
+// 重新导出
+pub use prompt_builder::PromptBuilder;
+
 pub mod decision_engine;
 
 pub use ai_trait::{

@@ -30,6 +30,19 @@ struct TelegramConfig {
     chat_id: String,
 }
 
+/// Phase 2.4 (#16): 利润监控配置参数
+struct ProfitMonitorConfig<'a> {
+    client: &'a BinanceClient,
+    stop_loss_percent: f64,
+    alert_percent: f64,
+    leverage: u32,
+    health_monitor: &'a HealthMonitor,
+    lock_manager: &'a TradingLockManager,
+    telegram_client: &'a Client,
+    telegram_config: &'a TelegramConfig,
+    auto_close_enabled: bool,
+}
+
 async fn send_telegram_alert(
     client: &Client,
     config: &TelegramConfig,
@@ -62,17 +75,18 @@ async fn send_telegram_alert(
     Ok(())
 }
 
-async fn monitor_positions(
-    client: &BinanceClient,
-    stop_loss_percent: f64,
-    alert_percent: f64,
-    leverage: u32,
-    health_monitor: &HealthMonitor,
-    lock_manager: &TradingLockManager,
-    telegram_client: &Client,
-    telegram_config: &TelegramConfig,
-    auto_close_enabled: bool,
-) -> Result<()> {
+async fn monitor_positions(cfg: ProfitMonitorConfig<'_>) -> Result<()> {
+    // 从config解构参数
+    let client = cfg.client;
+    let stop_loss_percent = cfg.stop_loss_percent;
+    let alert_percent = cfg.alert_percent;
+    let leverage = cfg.leverage;
+    let health_monitor = cfg.health_monitor;
+    let lock_manager = cfg.lock_manager;
+    let telegram_client = cfg.telegram_client;
+    let telegram_config = cfg.telegram_config;
+    let auto_close_enabled = cfg.auto_close_enabled;
+
     let mut alerted_positions: HashSet<String> = HashSet::new();
 
     loop {
@@ -298,18 +312,18 @@ async fn main() -> Result<()> {
     println!("🔍 开始监控持仓亏损保护...\n");
 
     // 开始监控
-    monitor_positions(
-        &client,
+    let cfg = ProfitMonitorConfig {
+        client: &client,
         stop_loss_percent,
         alert_percent,
         leverage,
-        &health_monitor,
-        &lock_manager,
-        &telegram_client,
-        &telegram_config,
+        health_monitor: &health_monitor,
+        lock_manager: &lock_manager,
+        telegram_client: &telegram_client,
+        telegram_config: &telegram_config,
         auto_close_enabled,
-    )
-    .await?;
+    };
+    monitor_positions(cfg).await?;
 
     Ok(())
 }

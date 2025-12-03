@@ -26,12 +26,8 @@ pub struct OkxClient {
 }
 
 impl OkxClient {
-    pub fn new(api_key: String, secret_key: String, passphrase: String, testnet: bool) -> Self {
-        let base_url = if testnet {
-            "https://www.okx.com".to_string()
-        } else {
-            "https://www.okx.com".to_string()
-        };
+    pub fn new(api_key: String, secret_key: String, passphrase: String, _testnet: bool) -> Self {
+        let base_url = "https://www.okx.com".to_string();
 
         Self {
             api_key,

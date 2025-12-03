@@ -14,6 +14,7 @@ use tokio::time::{sleep, Duration};
 
 /// 交易所类型
 #[derive(Debug, Clone)]
+#[allow(dead_code)] // 保留未启用的交易所选项
 enum ExchangeType {
     Binance,
     Okx,
@@ -240,7 +241,7 @@ async fn get_klines<T: ExchangeClient>(exchange: &Arc<T>, symbol: &str) -> Resul
 /// 获取当前持仓
 async fn get_current_position<T: ExchangeClient>(
     exchange: &Arc<T>,
-    symbol: &str,
+    _symbol: &str,
 ) -> Option<String> {
     match exchange.get_positions().await {
         Ok(positions) => {
@@ -284,11 +285,11 @@ fn create_demo_money_flow_signal() -> MoneyFlowSignal {
 /// 执行交易（实际交易逻辑）
 #[allow(dead_code)]
 async fn execute_trade<T: ExchangeClient>(
-    exchange: &Arc<T>,
+    _exchange: &Arc<T>,
     signal: &rust_trading_bot::smart_money_tracker::TradingSignal,
     config: &TradingConfig,
 ) -> Result<()> {
-    use rust_trading_bot::smart_money_tracker::{SignalPriority, SignalType};
+    use rust_trading_bot::smart_money_tracker::SignalType;
 
     info!("🎯 执行交易信号...");
 

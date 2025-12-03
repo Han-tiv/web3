@@ -3,6 +3,12 @@ use log::info;
 
 pub struct TechnicalAnalyzer;
 
+impl Default for TechnicalAnalyzer {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl TechnicalAnalyzer {
     pub fn new() -> Self {
         Self

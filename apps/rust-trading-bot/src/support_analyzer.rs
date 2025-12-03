@@ -1,5 +1,18 @@
 use anyhow::Result;
 
+/// Phase 2.4 (#13): 支撑位分析请求参数
+pub struct SupportAnalysisRequest<'a> {
+    pub klines_5m: Option<&'a [Kline]>,
+    pub klines_15m: &'a [Kline],
+    pub klines_1h: &'a [Kline],
+    pub current_price: f64,
+    pub entry_price: f64,
+    pub sma_20: f64,
+    pub sma_50: f64,
+    pub bb_lower: f64,
+    pub bb_middle: f64,
+}
+
 #[derive(Debug, Clone)]
 pub struct SupportLevel {
     pub price: f64,
@@ -35,24 +48,29 @@ pub struct Kline {
 
 pub struct SupportAnalyzer;
 
+impl Default for SupportAnalyzer {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl SupportAnalyzer {
     pub fn new() -> Self {
         Self
     }
 
     /// 方案2: 简化版支撑位识别（3大算法）
-    pub fn analyze_supports(
-        &self,
-        _klines_5m: &[Kline],
-        klines_15m: &[Kline],
-        klines_1h: &[Kline],
-        current_price: f64,
-        entry_price: f64,
-        sma_20: f64,
-        sma_50: f64,
-        bb_lower: f64,
-        bb_middle: f64,
-    ) -> Result<SupportAnalysis> {
+    pub fn analyze_supports(&self, req: SupportAnalysisRequest<'_>) -> Result<SupportAnalysis> {
+        // 从request解构参数
+        let klines_15m = req.klines_15m;
+        let klines_1h = req.klines_1h;
+        let current_price = req.current_price;
+        let entry_price = req.entry_price;
+        let sma_20 = req.sma_20;
+        let sma_50 = req.sma_50;
+        let bb_lower = req.bb_lower;
+        let bb_middle = req.bb_middle;
+
         // ========== 算法1: 下影线密集法 ==========
         let shadow_15m = self.find_shadow_cluster(klines_15m, current_price);
         let shadow_1h = self.find_shadow_cluster(klines_1h, current_price);
@@ -260,7 +278,7 @@ impl SupportAnalyzer {
         current_price: f64,
     ) -> Option<SupportLevel> {
         // 如果多条均线在±1%范围内聚集，形成共振支撑
-        let mas = vec![sma_20, sma_50, bb_middle];
+        let mas = [sma_20, sma_50, bb_middle];
         let avg_ma = mas.iter().sum::<f64>() / mas.len() as f64;
 
         let resonance_count = mas
