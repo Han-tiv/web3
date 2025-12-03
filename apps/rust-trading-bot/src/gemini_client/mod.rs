@@ -864,6 +864,7 @@ MACD Signal: {:.4}
             symbol,
             alert_type,
             alert_message,
+            flow_text: "",
             fund_type,
             zone_1h_summary,
             zone_15m_summary,

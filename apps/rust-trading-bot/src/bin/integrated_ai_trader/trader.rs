@@ -2258,6 +2258,7 @@ pub fn build_entry_prompt_v2(ctx: &EntryPromptContext<'_>) -> String {
         ctx.symbol,
         ctx.alert_type,
         ctx.alert_message,
+        ctx.flow_text,
         ctx.fund_type,
         ctx.zone_1h_summary,
         ctx.zone_15m_summary,

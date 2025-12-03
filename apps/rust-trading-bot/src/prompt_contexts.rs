@@ -6,6 +6,7 @@ pub struct EntryPromptContext<'a> {
     pub symbol: &'a str,
     pub alert_type: &'a str,
     pub alert_message: &'a str,
+    pub flow_text: &'a str,
     pub fund_type: &'a str,
     pub zone_1h_summary: &'a str,
     pub zone_15m_summary: &'a str,

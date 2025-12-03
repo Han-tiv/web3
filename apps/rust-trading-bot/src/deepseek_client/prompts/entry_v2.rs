@@ -8,6 +8,7 @@ pub fn build_entry_analysis_prompt_v2(ctx: &EntryPromptContext<'_>) -> String {
     let alert_type = ctx.alert_type;
     let alert_message = ctx.alert_message;
     let fund_type = ctx.fund_type;
+    let flow_text = ctx.flow_text;
     let zone_1h_summary = ctx.zone_1h_summary;
     let zone_15m_summary = ctx.zone_15m_summary;
     let entry_action = ctx.entry_action;
@@ -36,6 +37,7 @@ pub fn build_entry_analysis_prompt_v2(ctx: &EntryPromptContext<'_>) -> String {
 - 信号类型: {} (资金流入=买入机会, 资金出逃=卖出信号)
 - 资金类型: {}
 - 原始消息: {}
+\n{}
 
 **资金流向评分**:
 - 资金净流入>0: +3分(强流入)
@@ -180,7 +182,10 @@ pub fn build_entry_analysis_prompt_v2(ctx: &EntryPromptContext<'_>) -> String {
 
 **必需条件(至少 2/3)**:
 1. **关键位突破**: 价格突破阻力 + 1h站稳 + 量≥1.5倍 → +3分
-2. **资金流入**: 24h净流入>0 OR 大单买入>55% OR 买盘主动增加 → +2分
+2. **资金流入**: 根据Binance实时数据评分:
+   - 净流入信号=true (funding>0 且 buy>sell) → +3分
+   - 大单买入比>60% → +2分
+   - 持仓量24h增长>5% → +1分
 3. **位置合理**: 距阻力>2% OR 距支撑>1.5% (满足任一即可) → +2分
 
 **加分条件(任意 1 条)**:
@@ -286,6 +291,7 @@ pub fn build_entry_analysis_prompt_v2(ctx: &EntryPromptContext<'_>) -> String {
         alert_type,
         fund_type,
         alert_message,
+        flow_text,
         kline_5m_text,
         kline_15m_text,
         kline_1h_text,

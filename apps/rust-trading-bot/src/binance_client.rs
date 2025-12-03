@@ -22,6 +22,36 @@ pub struct AccountInformation {
     pub totalUnrealizedProfit: String,
 }
 
+/// Binance资金流向指标快照
+#[derive(Debug, Clone)]
+pub struct FundFlowMetrics {
+    pub funding_rate_pct: f64,
+    pub premium_rate_pct: f64,
+    pub open_interest_usd: f64,
+    pub oi_change_24h_pct: f64,
+    pub buy_volume_5m: f64,
+    pub sell_volume_5m: f64,
+    pub buy_sell_ratio: f64,
+    pub net_inflow_signal: bool,
+    pub big_order_buy_pct: f64,
+}
+
+impl Default for FundFlowMetrics {
+    fn default() -> Self {
+        Self {
+            funding_rate_pct: 0.0,
+            premium_rate_pct: 0.0,
+            open_interest_usd: 0.0,
+            oi_change_24h_pct: 0.0,
+            buy_volume_5m: 0.0,
+            sell_volume_5m: 0.0,
+            buy_sell_ratio: 0.0,
+            net_inflow_signal: false,
+            big_order_buy_pct: 0.0,
+        }
+    }
+}
+
 #[derive(Debug, Clone, Deserialize)]
 #[allow(non_snake_case)]
 pub struct IncomeRecord {
@@ -625,6 +655,141 @@ impl BinanceClient {
             index_price,
             premium_rate,
         ))
+    }
+
+    /// 获取持仓量(Open Interest)
+    /// 返回: (总持仓量USDT, 24h变化率%)
+    pub async fn get_open_interest(&self, symbol: &str) -> Result<(f64, f64)> {
+        let client = self.create_ipv4_client()?;
+
+        let latest_url = format!("{}/fapi/v1/openInterest?symbol={}", self.base_url, symbol);
+        let latest_resp: serde_json::Value = client.get(&latest_url).send().await?.json().await?;
+        let mut open_interest_usd = latest_resp["openInterest"]
+            .as_str()
+            .unwrap_or("0")
+            .parse::<f64>()
+            .unwrap_or(0.0);
+
+        let hist_url = format!(
+            "{}/futures/data/openInterestHist?symbol={}&period=1h&limit=25",
+            self.base_url, symbol
+        );
+        let hist_resp: Vec<serde_json::Value> = client.get(&hist_url).send().await?.json().await?;
+
+        let mut oi_change_24h_pct = 0.0;
+        if let Some(latest_hist) = hist_resp.last() {
+            open_interest_usd = latest_hist["sumOpenInterestValue"]
+                .as_str()
+                .and_then(|v| v.parse::<f64>().ok())
+                .unwrap_or(open_interest_usd);
+
+            if let Some(old_hist) = hist_resp.first() {
+                let first_value = old_hist["sumOpenInterestValue"]
+                    .as_str()
+                    .and_then(|v| v.parse::<f64>().ok())
+                    .unwrap_or(0.0);
+                if first_value > 0.0 {
+                    oi_change_24h_pct = ((open_interest_usd - first_value) / first_value) * 100.0;
+                }
+            }
+        }
+
+        Ok((open_interest_usd, oi_change_24h_pct))
+    }
+
+    /// 获取最近的大单成交(Aggregated Trades)
+    /// 返回: (最近5分钟买入量, 最近5分钟卖出量, 买卖比)
+    pub async fn get_agg_trades_summary(
+        &self,
+        symbol: &str,
+        limit: usize,
+    ) -> Result<(f64, f64, f64)> {
+        let limit = limit.clamp(1, 1000);
+        let url = format!(
+            "{}/fapi/v1/aggTrades?symbol={}&limit={}",
+            self.base_url, symbol, limit
+        );
+
+        let client = self.create_ipv4_client()?;
+        let trades: Vec<serde_json::Value> = client.get(&url).send().await?.json().await?;
+
+        let mut buy_volume = 0.0;
+        let mut sell_volume = 0.0;
+
+        for trade in trades {
+            let price = trade["p"]
+                .as_str()
+                .unwrap_or("0")
+                .parse::<f64>()
+                .unwrap_or(0.0);
+            let qty = trade["q"]
+                .as_str()
+                .unwrap_or("0")
+                .parse::<f64>()
+                .unwrap_or(0.0);
+            let notional = price * qty;
+            let is_buyer_maker = trade["m"].as_bool().unwrap_or(false);
+
+            if is_buyer_maker {
+                sell_volume += notional;
+            } else {
+                buy_volume += notional;
+            }
+        }
+
+        let buy_sell_ratio = if sell_volume > 0.0 {
+            buy_volume / sell_volume
+        } else {
+            0.0
+        };
+
+        Ok((buy_volume, sell_volume, buy_sell_ratio))
+    }
+
+    /// 并发获取完整的资金流向数据
+    pub async fn get_fund_flow_metrics(&self, symbol: &str) -> Result<FundFlowMetrics> {
+        let (funding_rate_data, open_interest_data, agg_trades_data) = tokio::try_join!(
+            self.get_funding_rate(symbol),
+            self.get_open_interest(symbol),
+            self.get_agg_trades_summary(symbol, 500),
+        )?;
+
+        let (funding_rate, _next_funding_time, _mark_price, _index_price, premium_rate_pct) =
+            funding_rate_data;
+        let (open_interest_usd, oi_change_24h_pct) = open_interest_data;
+        let (buy_volume_5m, sell_volume_5m, buy_sell_ratio) = agg_trades_data;
+
+        let total_volume = buy_volume_5m + sell_volume_5m;
+        let big_order_buy_pct = if total_volume > 0.0 {
+            (buy_volume_5m / total_volume) * 100.0
+        } else {
+            0.0
+        };
+
+        let net_inflow_signal = buy_volume_5m > sell_volume_5m && funding_rate > 0.0;
+
+        let metrics = FundFlowMetrics {
+            funding_rate_pct: funding_rate,
+            premium_rate_pct,
+            open_interest_usd,
+            oi_change_24h_pct,
+            buy_volume_5m,
+            sell_volume_5m,
+            buy_sell_ratio,
+            net_inflow_signal,
+            big_order_buy_pct,
+        };
+
+        info!(
+            "📡 Binance资金流: funding={:+.4}%, premium={:+.2}%, OI={:.2}M USDT, 买={:.2}M, 卖={:.2}M",
+            metrics.funding_rate_pct * 100.0,
+            metrics.premium_rate_pct,
+            metrics.open_interest_usd / 1_000_000.0,
+            metrics.buy_volume_5m / 1_000_000.0,
+            metrics.sell_volume_5m / 1_000_000.0
+        );
+
+        Ok(metrics)
     }
 
     /// 获取历史资金费率

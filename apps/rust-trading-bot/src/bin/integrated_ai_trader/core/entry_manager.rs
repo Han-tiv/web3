@@ -8,7 +8,7 @@ use tokio::sync::RwLock;
 
 use rust_trading_bot::database::{AiAnalysisRecord, Database};
 use rust_trading_bot::{
-    binance_client::BinanceClient,
+    binance_client::{BinanceClient, FundFlowMetrics},
     deepseek_client::{DeepSeekClient, Kline, TradingSignal},
     entry_zone_analyzer::{EntryAction, EntryZoneAnalyzer},
     exchange_trait::ExchangeClient,
@@ -372,6 +372,42 @@ impl EntryManager {
                 .unwrap_or("未知".to_string())
         );
 
+        // 🔹 并发获取资金流向数据
+        let flow_metrics = self
+            .exchange
+            .get_fund_flow_metrics(&symbol)
+            .await
+            .unwrap_or_else(|e| {
+                warn!("⚠️  获取资金流向失败: {}, 使用默认值", e);
+                FundFlowMetrics::default()
+            });
+
+        let flow_text = format!(
+            "\n📡 **Binance实时资金流**:\n\
+            - Funding: {:+.4}% ({})\n\
+            - 持仓量: {:.1}M USDT (24h{:+.1}%)\n\
+            - 5min大单: 买{:.0}K / 卖{:.0}K (比{:.2})\n\
+            - 大单买入占比: {:.1}%\n\
+            - 净流入: {}",
+            flow_metrics.funding_rate_pct * 100.0,
+            if flow_metrics.funding_rate_pct > 0.0 {
+                "多头付费"
+            } else {
+                "空头付费"
+            },
+            flow_metrics.open_interest_usd / 1_000_000.0,
+            flow_metrics.oi_change_24h_pct,
+            flow_metrics.buy_volume_5m / 1000.0,
+            flow_metrics.sell_volume_5m / 1000.0,
+            flow_metrics.buy_sell_ratio,
+            flow_metrics.big_order_buy_pct,
+            if flow_metrics.net_inflow_signal {
+                "✅ 是"
+            } else {
+                "❌ 否"
+            }
+        );
+
         let entry_action_str = format!("{:?}", entry_decision.action);
 
         let use_valuescan_v2 = *USE_VALUESCAN_V2;
@@ -392,6 +428,7 @@ impl EntryManager {
                 symbol: &symbol,
                 alert_type: alert_type_str,
                 alert_message: &alert.raw_message,
+                flow_text: &flow_text,
                 fund_type: &alert.fund_type,
                 zone_1h_summary: &zone_1h_summary,
                 zone_15m_summary: &zone_15m_summary,
@@ -476,6 +513,7 @@ impl EntryManager {
                 symbol: &symbol,
                 alert_type: alert_type_str,
                 alert_message: &alert.raw_message,
+                flow_text: &flow_text,
                 fund_type: &alert.fund_type,
                 zone_1h_summary: &zone_1h_summary,
                 zone_15m_summary: &zone_15m_summary,
