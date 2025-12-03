@@ -1758,6 +1758,68 @@ impl BinanceClient {
         Ok(trades)
     }
 
+    /// 查询指定交易对当前使用的杠杆倍数
+    pub async fn get_symbol_leverage(&self, symbol: &str) -> Result<f64> {
+        let normalized_symbol = symbol.to_uppercase();
+        let timestamp = chrono::Utc::now().timestamp_millis();
+        let query = format!("symbol={}&timestamp={}", normalized_symbol, timestamp);
+        let signature = self.sign_request(&query);
+
+        let url = format!(
+            "{}/fapi/v2/positionRisk?{}&signature={}",
+            self.base_url, query, signature
+        );
+
+        let client = self.create_ipv4_client()?;
+        let response = client
+            .get(&url)
+            .header("X-MBX-APIKEY", &self.api_key)
+            .send()
+            .await?;
+        let status = response.status();
+        let body = response.text().await?;
+
+        if !status.is_success() {
+            let preview: String = body.chars().take(300).collect();
+            error!(
+                "❌ 获取{}杠杆失败: HTTP {} | 响应: {}",
+                normalized_symbol, status, preview
+            );
+            return Err(anyhow::anyhow!(
+                "获取{}杠杆失败: HTTP {}",
+                normalized_symbol,
+                status
+            ));
+        }
+
+        let positions: Vec<PositionRisk> = serde_json::from_str(&body).map_err(|err| {
+            let preview: String = body.chars().take(300).collect();
+            error!(
+                "❌ 解析{}杠杆响应失败: {} | 响应片段: {}",
+                normalized_symbol, err, preview
+            );
+            anyhow::anyhow!("解析{}杠杆失败: {}", normalized_symbol, err)
+        })?;
+
+        let leverage_value = positions
+            .into_iter()
+            .find(|p| p.symbol.eq_ignore_ascii_case(&normalized_symbol))
+            .ok_or_else(|| anyhow::anyhow!("未找到{}杠杆信息", normalized_symbol))?
+            .leverage
+            .parse::<f64>()
+            .map_err(|err| anyhow::anyhow!("解析{}杠杆字段失败: {}", normalized_symbol, err))?;
+
+        if leverage_value <= 0.0 {
+            return Err(anyhow::anyhow!(
+                "{} 杠杆数值异常: {}",
+                normalized_symbol,
+                leverage_value
+            ));
+        }
+
+        Ok(leverage_value)
+    }
+
     /// 获取币种历史表现统计
     pub async fn get_symbol_performance(
         &self,

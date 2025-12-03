@@ -647,15 +647,39 @@ impl EntryManager {
             "LONG"
         };
 
-        // 使用 EntryDecision 风险区间 + 杠杆 推导方向感知止损
-        let leverage_for_stop = match zone_1h.confidence {
+        // 使用 EntryDecision 风险区间 + 当前交易所杠杆推导方向感知止损
+        let planned_leverage_for_stop = match zone_1h.confidence {
             rust_trading_bot::entry_zone_analyzer::Confidence::High => self.max_leverage,
             rust_trading_bot::entry_zone_analyzer::Confidence::Medium => {
                 (self.min_leverage + self.max_leverage) / 2
             }
             rust_trading_bot::entry_zone_analyzer::Confidence::Low => self.min_leverage,
         } as u32;
-        let leverage_f64 = leverage_for_stop.max(1) as f64;
+        const DEFAULT_LEVERAGE_FALLBACK: f64 = 10.0;
+        let leverage_f64 = match self.exchange.get_symbol_leverage(&symbol).await {
+            Ok(lev) if lev > 0.0 => {
+                info!(
+                    "📊 {} 当前杠杆 {:.2}x (计划 {}x)",
+                    symbol, lev, planned_leverage_for_stop
+                );
+                lev
+            }
+            Ok(lev) => {
+                warn!(
+                    "⚠️  {} 返回异常杠杆值 {:.2}x, 使用默认 {}x",
+                    symbol, lev, DEFAULT_LEVERAGE_FALLBACK
+                );
+                DEFAULT_LEVERAGE_FALLBACK
+            }
+            Err(e) => {
+                warn!(
+                    "⚠️  获取 {} 杠杆失败: {}, 使用默认 {}x",
+                    symbol, e, DEFAULT_LEVERAGE_FALLBACK
+                );
+                DEFAULT_LEVERAGE_FALLBACK
+            }
+        };
+        let leverage_f64 = leverage_f64.max(1.0);
         // 杠杆越高容许的价格波动越小，确保最大亏损不超过本金的50%
         let risk_pct = (0.50 / leverage_f64).min(0.5);
         let direction_aware_stop_loss = if side == "LONG" {
