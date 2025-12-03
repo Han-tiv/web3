@@ -165,12 +165,60 @@ impl StagedStopLossMonitor {
                         take_profit_order_id: None,
                     };
 
-                    match trader.position_evaluator.evaluate(req).await
+                    // 使用批量评估API（即使只有1个持仓，统一使用批量接口）
+                    let eval_step = match trader
+                        .position_evaluator
+                        .context_builder()
+                        .prepare_position_context(req)
+                        .await
                     {
-                        Ok(Some(PositionAction::FullClose {
+                        Ok(step) => step,
+                        Err(e) => {
+                            warn!("⚠️  分批持仓准备评估上下文失败: {}", e);
+                            continue;
+                        }
+                    };
+
+                    let ai_action = match eval_step {
+                        super::super::modules::types::PositionEvaluationStep::Immediate(action) => {
+                            Some(action)
+                        }
+                        super::super::modules::types::PositionEvaluationStep::Skip => None,
+                        super::super::modules::types::PositionEvaluationStep::Context(ctx) => {
+                            let batch_input = vec![ctx.to_batch_input().into()];
+                            match trader.gemini.evaluate_positions_batch(batch_input).await {
+                                Ok(results) => {
+                                    if let Some((_, decision)) = results.into_iter().next() {
+                                        match trader
+                                            .position_evaluator
+                                            .decision_handler()
+                                            .handle_decision(&ctx, &decision)
+                                            .await
+                                        {
+                                            Ok(action) => action,
+                                            Err(e) => {
+                                                warn!("⚠️  分批持仓AI决策处理失败: {}", e);
+                                                None
+                                            }
+                                        }
+                                    } else {
+                                        None
+                                    }
+                                }
+                                Err(e) => {
+                                    warn!("⚠️  Gemini批量评估失败: {}", e);
+                                    None
+                                }
+                            }
+                        }
+                    };
+
+                    match ai_action
+                    {
+                        Some(PositionAction::FullClose {
                             symbol: close_symbol,
                             ..
-                        })) => match trader
+                        }) => match trader
                             .close_position_fully_with_retry(&close_symbol, 3)
                             .await
                         {
@@ -187,11 +235,11 @@ impl StagedStopLossMonitor {
                                     .await;
                             }
                         },
-                        Ok(Some(PositionAction::PartialClose {
+                        Some(PositionAction::PartialClose {
                             symbol: close_symbol,
                             close_pct,
                             ..
-                        })) => {
+                        }) => {
                             info!(
                                 "📉 分批持仓AI建议部分平仓 {} ({}%)",
                                 close_symbol, close_pct
@@ -220,12 +268,11 @@ impl StagedStopLossMonitor {
                                 }
                             }
                         }
-                        Ok(Some(PositionAction::SetLimitOrder { .. })) => {
+                        Some(PositionAction::SetLimitOrder { .. }) => {
                             warn!("⚠️  分批持仓暂不支持AI限价止盈同步,保持持仓");
                         }
-                        Ok(Some(PositionAction::Remove(_))) => {}
-                        Ok(None) => {}
-                        Err(e) => warn!("⚠️  分批持仓AI评估失败: {}", e),
+                        Some(PositionAction::Remove(_)) => {}
+                        None => {}
                     }
                 }
                 Err(e) => {

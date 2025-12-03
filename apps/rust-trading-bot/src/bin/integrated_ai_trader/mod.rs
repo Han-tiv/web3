@@ -183,7 +183,7 @@ fn load_configuration() -> Result<Configuration> {
     info!("  信号来源: Python Telegram Monitor → Web API /api/signals");
     info!("  监控类型: Alpha机会 + FOMO信号");
     info!("  交易策略: 主力关键位 + 日内波段");
-    info!("  AI引擎: DeepSeek(持仓管理) + Gemini(入场分析)");
+    info!("  AI引擎: DeepSeek(入场分析V2) + Gemini(持仓管理-批量评估)");
     info!("  交易所: Binance");
     info!("  测试模式: {}\n", if testnet { "是" } else { "否" });
 
