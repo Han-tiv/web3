@@ -656,7 +656,7 @@ impl EntryManager {
             rust_trading_bot::entry_zone_analyzer::Confidence::Low => self.min_leverage,
         } as u32;
         const DEFAULT_LEVERAGE_FALLBACK: f64 = 10.0;
-        let leverage_f64 = match self.exchange.get_symbol_leverage(&symbol).await {
+        let mut leverage_f64 = match self.exchange.get_symbol_leverage(&symbol).await {
             Ok(lev) if lev > 0.0 => {
                 info!(
                     "📊 {} 当前杠杆 {:.2}x (计划 {}x)",
@@ -679,6 +679,17 @@ impl EntryManager {
                 DEFAULT_LEVERAGE_FALLBACK
             }
         };
+        // 🛡️ 杠杆上限保护: 超过30x强制降级
+        const MAX_LEVERAGE: f64 = 30.0;
+        if leverage_f64 > MAX_LEVERAGE {
+            let actual_stop_pct = (0.50 / leverage_f64) * 100.0;
+            let downgraded_stop_pct = (0.50 / MAX_LEVERAGE) * 100.0;
+            warn!(
+                "⚠️  {}: 实际杠杆 {:.2}x(止损距{:.2}%),超过安全上限,强制降级为 {:.2}x(止损距{:.2}%)",
+                symbol, leverage_f64, actual_stop_pct, MAX_LEVERAGE, downgraded_stop_pct
+            );
+            leverage_f64 = MAX_LEVERAGE;
+        }
         let leverage_f64 = leverage_f64.max(1.0);
         // 杠杆越高容许的价格波动越小，确保最大亏损不超过本金的50%
         let risk_pct = (0.50 / leverage_f64).min(0.5);
