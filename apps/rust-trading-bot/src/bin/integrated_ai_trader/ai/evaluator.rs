@@ -40,8 +40,7 @@ impl PositionEvaluator {
         &self,
         req: PositionContextRequest<'_>,
     ) -> Result<Option<PositionAction>> {
-        match self.context_builder.prepare_position_context(req).await?
-        {
+        match self.context_builder.prepare_position_context(req).await? {
             PositionEvaluationStep::Skip => Ok(None),
             PositionEvaluationStep::Immediate(action) => Ok(Some(action)),
             PositionEvaluationStep::Context(ctx) => {

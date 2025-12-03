@@ -59,7 +59,8 @@ struct OpenAIUsage {
 
 pub struct GeminiClient {
     client: Client,
-    api_key: String,
+    api_key_primary: String,
+    api_key_fallback: Option<String>,
     base_url: String,
     model: String,
 }
@@ -71,9 +72,17 @@ impl GeminiClient {
             .unwrap_or_else(|_| "https://www.packyapi.com".to_string());
         let model = std::env::var("GEMINI_MODEL").unwrap_or_else(|_| "gemini-2.5-pro".to_string());
 
+        // 读取备用密钥(可选)
+        let api_key_fallback = std::env::var("GEMINI_API_KEY_2").ok();
+
+        if api_key_fallback.is_some() {
+            info!("🔑 Gemini双密钥模式已启用: KEY_1(主) + KEY_2(备用)");
+        }
+
         Self {
             client: Client::new(),
-            api_key,
+            api_key_primary: api_key,
+            api_key_fallback,
             base_url,
             model,
         }
@@ -95,19 +104,59 @@ impl GeminiClient {
         });
         let request = self.build_request_with_model(prompt, model_override, response_format);
 
-        info!("🧠 调用 Gemini API ({})...", context_label);
-
         let url = format!(
             "{}/v1/chat/completions",
             self.base_url.trim_end_matches('/')
         );
 
+        // 先尝试使用主密钥(KEY_1)
+        info!("🧠 调用 Gemini API KEY_1 ({})...", context_label);
+
+        match self.try_gemini_api_call(&url, &self.api_key_primary, &request, context_label).await {
+            Ok(content) => return Ok(content),
+            Err(primary_err) => {
+                error!("⚠️ Gemini API KEY_1 失败: {}", primary_err);
+
+                // 如果有备用密钥,自动切换到KEY_2
+                if let Some(ref fallback_key) = self.api_key_fallback {
+                    info!("🔄 自动切换到 Gemini API KEY_2...");
+
+                    match self.try_gemini_api_call(&url, fallback_key, &request, context_label).await {
+                        Ok(content) => {
+                            info!("✅ KEY_2 调用成功,已完成故障切换");
+                            return Ok(content);
+                        }
+                        Err(fallback_err) => {
+                            error!("❌ Gemini API KEY_2 也失败: {}", fallback_err);
+                            anyhow::bail!(
+                                "所有Gemini密钥均失败 - KEY_1: {} | KEY_2: {}",
+                                primary_err,
+                                fallback_err
+                            );
+                        }
+                    }
+                } else {
+                    // 没有备用密钥,直接返回失败
+                    anyhow::bail!("Gemini API KEY_1失败且无备用密钥: {}", primary_err);
+                }
+            }
+        }
+    }
+
+    /// 尝试调用Gemini API(辅助方法)
+    async fn try_gemini_api_call(
+        &self,
+        url: &str,
+        api_key: &str,
+        request: &OpenAIRequest,
+        context_label: &str,
+    ) -> Result<String> {
         let response = self
             .client
-            .post(&url)
-            .header("Authorization", format!("Bearer {}", self.api_key))
+            .post(url)
+            .header("Authorization", format!("Bearer {}", api_key))
             .header("Content-Type", "application/json")
-            .json(&request)
+            .json(request)
             .send()
             .await
             .with_context(|| format!("Failed to send {} request to Gemini API", context_label))?;

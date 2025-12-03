@@ -6,7 +6,7 @@ use chrono::{DateTime, Utc};
 use rust_trading_bot::binance_client::BinanceClient;
 use rust_trading_bot::database::Database;
 pub use rust_trading_bot::deepseek_client::TechnicalIndicators;
-use rust_trading_bot::deepseek_client::{DeepSeekClient, Kline};
+use rust_trading_bot::deepseek_client::Kline;
 use rust_trading_bot::entry_zone_analyzer::{EntryDecision, EntryZone, EntryZoneAnalyzer};
 use rust_trading_bot::gemini_client::GeminiClient;
 pub use rust_trading_bot::prompt_contexts::{EntryPromptContext, PositionPromptContext};
@@ -22,7 +22,6 @@ use tokio::sync::RwLock;
 /// Entry 管理器初始化所需的完整配置
 pub struct EntryManagerConfig {
     pub exchange: Arc<BinanceClient>,
-    pub deepseek: Arc<DeepSeekClient>,
     pub gemini: Arc<GeminiClient>,
     pub analyzer: Arc<TechnicalAnalyzer>,
     pub entry_zone_analyzer: Arc<EntryZoneAnalyzer>,

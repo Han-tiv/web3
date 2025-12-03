@@ -213,8 +213,7 @@ impl StagedStopLossMonitor {
                         }
                     };
 
-                    match ai_action
-                    {
+                    match ai_action {
                         Some(PositionAction::FullClose {
                             symbol: close_symbol,
                             ..

@@ -1,0 +1,6 @@
+[submodule "apps/nofx"]
+	path = apps/nofx
+	url = https://github.com/Han-tiv/nofx
+[submodule "apps/valuescan"]
+	path = apps/valuescan
+	url = https://github.com/Han-tiv/valuescan

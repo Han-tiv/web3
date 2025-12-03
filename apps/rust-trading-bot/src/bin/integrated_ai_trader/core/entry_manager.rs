@@ -9,7 +9,7 @@ use tokio::sync::RwLock;
 use rust_trading_bot::database::{AiAnalysisRecord, Database};
 use rust_trading_bot::{
     binance_client::{BinanceClient, FundFlowMetrics},
-    deepseek_client::{DeepSeekClient, Kline, TradingSignal},
+    deepseek_client::{Kline, TradingSignal},
     entry_zone_analyzer::{EntryAction, EntryZoneAnalyzer},
     exchange_trait::ExchangeClient,
     gemini_client::GeminiClient,
@@ -30,7 +30,6 @@ use crate::trader::{build_entry_prompt_v1, build_entry_prompt_v2};
 
 pub struct EntryManager {
     pub exchange: Arc<BinanceClient>,
-    pub deepseek: Arc<DeepSeekClient>,
     pub gemini: Arc<GeminiClient>,
     pub analyzer: Arc<TechnicalAnalyzer>,
     pub entry_zone_analyzer: Arc<EntryZoneAnalyzer>,
@@ -50,7 +49,6 @@ impl EntryManager {
     pub fn new(cfg: EntryManagerConfig) -> Self {
         Self {
             exchange: cfg.exchange,
-            deepseek: cfg.deepseek,
             gemini: cfg.gemini,
             analyzer: cfg.analyzer,
             entry_zone_analyzer: cfg.entry_zone_analyzer,
@@ -448,7 +446,7 @@ impl EntryManager {
 
             let ai_decision_result = tokio::time::timeout(
                 tokio::time::Duration::from_secs(180),
-                self.deepseek.analyze_market_v2(&prompt),
+                self.gemini.analyze_market_v2(&prompt),
             )
             .await;
 

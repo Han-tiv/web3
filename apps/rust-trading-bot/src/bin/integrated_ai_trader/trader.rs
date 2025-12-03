@@ -5,13 +5,13 @@ use super::core::EntryManager;
 use super::execution::{
     ActionExecutor, BatchEvaluator, PositionProtector, StagedStopLossMonitor, TrialPositionMonitor,
 };
-/// 集成AI交易系统 - 整合主力资金监控 + DeepSeek AI + 多交易所执行
+/// 集成AI交易系统 - 整合主力资金监控 + Gemini AI + 多交易所执行
 ///
 /// 功能：
 /// 1. 监控Telegram主力资金频道(Valuescan 2254462672)
 /// 2. 筛选Alpha/FOMO高潜力币种
 /// 3. 获取技术数据（K线、指标、关键位）
-/// 4. DeepSeek AI综合分析决策
+/// 4. Gemini AI综合分析决策
 /// 5. 多交易所并发执行
 /// 6. 严格风控管理
 use super::modules::{config::*, types::*};
@@ -37,9 +37,7 @@ use rust_trading_bot::ai::PromptBuilder;
 use rust_trading_bot::database::{AiAnalysisRecord, Database, TradeRecord as DbTradeRecord};
 use rust_trading_bot::{
     binance_client::BinanceClient,
-    deepseek_client::{
-        DeepSeekClient, EnhancedPositionAnalysis, Kline, TechnicalIndicators, TradingSignal,
-    },
+    deepseek_client::{EnhancedPositionAnalysis, Kline, TechnicalIndicators, TradingSignal},
     entry_zone_analyzer::{EntryAction, EntryZoneAnalyzer},
     exchange_trait::{ExchangeClient, Position},
     gemini_client::GeminiClient,
@@ -57,7 +55,6 @@ mod trader_entry_executor;
 
 pub struct IntegratedAITrader {
     pub exchange: Arc<BinanceClient>,
-    pub deepseek: Arc<DeepSeekClient>,
     pub gemini: Arc<GeminiClient>,
     pub analyzer: Arc<TechnicalAnalyzer>,
     #[allow(dead_code)] // 保留供未来多策略扩展使用
@@ -147,6 +144,7 @@ impl IntegratedAITrader {
             }
         };
         let order_manager = OrderManager::new(exchange.clone());
+        let deepseek = Arc::new(rust_trading_bot::deepseek_client::DeepSeekClient::new(deepseek_api_key));
         let gemini = Arc::new(GeminiClient::new(gemini_api_key));
         let analyzer = Arc::new(TechnicalAnalyzer::new());
         let context_builder = ContextBuilder::new(exchange.clone(), analyzer.clone());
@@ -155,7 +153,6 @@ impl IntegratedAITrader {
         let position_evaluator =
             PositionEvaluator::new(gemini.clone(), context_builder, decision_handler);
 
-        let deepseek_client = Arc::new(DeepSeekClient::new(deepseek_api_key));
         let level_finder = Arc::new(KeyLevelFinder::new());
         let entry_zone_analyzer = Arc::new(EntryZoneAnalyzer::default());
         let launch_detector = Arc::new(LaunchSignalDetector::default());
@@ -170,8 +167,7 @@ impl IntegratedAITrader {
         let exchange_client: Arc<dyn ExchangeClient + Send + Sync> = exchange.clone();
         let kline_fetcher = Arc::new(KlineFetcher::new(exchange_client));
         let entry_analyzer_component = Arc::new(EntryAnalyzer::new(entry_zone_analyzer.clone()));
-        let ai_decider_component =
-            Arc::new(AIDecider::new(deepseek_client.clone(), gemini.clone()));
+        let ai_decider_component = Arc::new(AIDecider::new(deepseek.clone(), gemini.clone()));
         let risk_limits = RiskLimitConfig {
             max_position_usdt: trading_config.max_position_usdt,
             min_position_usdt: trading_config.min_position_usdt,
@@ -180,7 +176,6 @@ impl IntegratedAITrader {
         };
         let entry_manager_config = EntryManagerConfig {
             exchange: exchange.clone(),
-            deepseek: deepseek_client.clone(),
             gemini: gemini.clone(),
             analyzer: analyzer.clone(),
             entry_zone_analyzer: entry_zone_analyzer.clone(),
@@ -204,7 +199,6 @@ impl IntegratedAITrader {
             Self {
                 order_manager,
                 exchange,
-                deepseek: deepseek_client,
                 gemini,
                 analyzer,
                 level_finder,

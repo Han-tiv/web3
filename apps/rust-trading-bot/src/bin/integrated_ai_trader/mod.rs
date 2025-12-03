@@ -48,7 +48,7 @@
 //! ## 功能特性
 //!
 //! 1. **信号接收**: 从Telegram获取Alpha/FOMO信号
-//! 2. **AI分析**: Gemini入场分析 + DeepSeek持仓管理
+//! 2. **AI分析**: Gemini入场分析 + Gemini持仓管理
 //! 3. **风控管理**: 多层次止损、分批建仓、MEME币特殊风控
 //! 4. **持仓监控**: 180秒循环，4阶段管理
 //! 5. **订单管理**: 止盈止损互斥、触发单监控
@@ -126,13 +126,8 @@ pub async fn main() -> Result<()> {
     info!("✅ 数据库已初始化\n");
 
     // 创建集成交易器
-    let trader = IntegratedAITrader::new(
-        exchange.clone(),
-        config.deepseek_api_key,
-        config.gemini_api_key,
-        db.clone(),
-    )
-    .await?;
+    let trader =
+        IntegratedAITrader::new(exchange.clone(), config.deepseek_api_key, config.gemini_api_key, db.clone()).await?;
 
     // 恢复启动前已存在的持仓
     if let Err(e) = trader.sync_existing_positions().await {
@@ -150,7 +145,7 @@ fn print_startup_banner() {
     info!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
     info!("🚀 集成AI交易系统启动");
     info!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
-    info!("📦 版本: 2.0.0-refactored");
+    info!("📦 版本: 0.2.0");
     info!("🏗️  架构: 模块化 (10个独立模块)");
     info!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n");
 }
@@ -168,10 +163,7 @@ struct Configuration {
 /// 加载配置
 fn load_configuration() -> Result<Configuration> {
     let deepseek_api_key = env::var("DEEPSEEK_API_KEY")?;
-    let gemini_api_key = env::var("GEMINI_API_KEY").unwrap_or_else(|_| {
-        warn!("⚠️  GEMINI_API_KEY 未设置，Gemini 入场分析将被禁用");
-        String::new()
-    });
+    let gemini_api_key = env::var("GEMINI_API_KEY_1")?;
     let binance_api_key = env::var("BINANCE_API_KEY")?;
     let binance_secret = env::var("BINANCE_SECRET")?;
     let testnet = env::var("BINANCE_TESTNET")

@@ -131,7 +131,6 @@ temp/
 .codex/
 .archive/
 
-apps/valuescan/
 
 # Nitter specific - 允许基础配置，忽略敏感数据
 apps/social-monitor/services/nitter/logs/
@@ -175,8 +174,6 @@ backtest_results/
 !**/test_data.json
 
 
-# nofx submodule (tracked separately)
-apps/nofx/
 
 # 环境���量备份文件 (包含敏感信息)
 .env.backup.*
