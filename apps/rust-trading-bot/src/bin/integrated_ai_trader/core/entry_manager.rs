@@ -385,7 +385,7 @@ impl EntryManager {
         let flow_text = format!(
             "\n📡 **Binance实时资金流**:\n\
             - Funding: {:+.4}% ({})\n\
-            - 持仓量: {:.1}M USDT (24h{:+.1}%)\n\
+            - 持仓量: {:.1}M USDT (6h{:+.1}%)\n\
             - 5min大单: 买{:.0}K / 卖{:.0}K (比{:.2})\n\
             - 大单买入占比: {:.1}%\n\
             - 净流入: {}",
@@ -396,7 +396,7 @@ impl EntryManager {
                 "空头付费"
             },
             flow_metrics.open_interest_usd / 1_000_000.0,
-            flow_metrics.oi_change_24h_pct,
+            flow_metrics.oi_change_6h_pct,
             flow_metrics.buy_volume_5m / 1000.0,
             flow_metrics.sell_volume_5m / 1000.0,
             flow_metrics.buy_sell_ratio,
@@ -655,19 +655,14 @@ impl EntryManager {
             }
             rust_trading_bot::entry_zone_analyzer::Confidence::Low => self.min_leverage,
         } as u32;
-        let risk_pct = if entry_decision.price <= 0.0 {
-            0.005
-        } else {
-            ((entry_decision.price - entry_decision.stop_loss) / entry_decision.price)
-                .abs()
-                .max(0.005)
-        };
+        let leverage_f64 = leverage_for_stop.max(1) as f64;
+        // 杠杆越高容许的价格波动越小，确保最大亏损不超过本金的50%
+        let risk_pct = (0.50 / leverage_f64).min(0.5);
         let direction_aware_stop_loss = if side == "LONG" {
             final_entry_price * (1.0 - risk_pct)
         } else {
             final_entry_price * (1.0 + risk_pct)
         };
-        let leverage_f64 = leverage_for_stop.max(1) as f64;
         let liquidation_price = if side == "LONG" {
             final_entry_price * (1.0 - 1.0 / leverage_f64)
         } else {

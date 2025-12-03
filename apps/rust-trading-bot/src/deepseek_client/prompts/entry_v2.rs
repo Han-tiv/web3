@@ -215,7 +215,7 @@ pub fn build_entry_analysis_prompt_v2(ctx: &EntryPromptContext<'_>) -> String {
 📋 【输出格式】严格 JSON 格式响应
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-请以 JSON 对象格式返回分析结果：
+请以 JSON 对象格式返回分析结果，请以json格式返回且不要包含额外说明：
 
 {{
     "signal": "BUY|SELL|SKIP",
