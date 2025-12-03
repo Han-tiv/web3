@@ -84,6 +84,32 @@ trait Pipe: Sized {
 
 impl Pipe for f64 {}
 
+/// 真空区分析结构 (V2.1 NEW)
+#[derive(Debug, Deserialize, Serialize, Clone)]
+pub struct VacuumZoneAnalysis {
+    pub in_vacuum: bool, // 是否在真空区内
+    #[serde(deserialize_with = "deserialize_flexible_f64")]
+    pub nearest_support: f64, // 下方关键位
+    #[serde(deserialize_with = "deserialize_flexible_f64")]
+    pub nearest_resistance: f64, // 上方关键位
+    pub vacuum_risk: String, // "LOW", "MEDIUM", "HIGH"
+    #[serde(default)]
+    pub analysis: String, // 真空区分析说明
+}
+
+/// 跌破不收回信号结构 (V2.1 NEW)
+#[derive(Debug, Deserialize, Serialize, Clone)]
+pub struct BreakWithoutRecovery {
+    pub detected: bool,                    // 是否检测到破位
+    pub level_broken: Option<f64>,         // 被跌破的关键位价格
+    #[serde(default)]
+    pub timeframe: Option<String>,         // "5m", "15m", "1h" (允许null)
+    pub bars_since_break: i32,             // 破位后K线数量
+    pub recovery_attempts: i32,            // 收回尝试次数
+    #[serde(default)]
+    pub confirmation_level: Option<String>, // "初步", "中期", "强确认" (允许null)
+}
+
 /// 开仓信号 V2 - 包含 Valuescan 评分系统
 #[derive(Debug, Deserialize, Serialize, Clone)]
 pub struct TradingSignalV2 {
@@ -106,6 +132,10 @@ pub struct TradingSignalV2 {
     pub coin_type: String, // "mainstream", "altcoin"
     #[serde(default)]
     pub strategy_adjustments: Option<StrategyAdjustments>, // ✅ AI可选字段
+    #[serde(default)]
+    pub vacuum_zone_analysis: Option<VacuumZoneAnalysis>, // 🔥 V2.1 NEW
+    #[serde(default)]
+    pub break_without_recovery: Option<BreakWithoutRecovery>, // 🔥 V2.1 NEW
 }
 
 #[derive(Debug, Deserialize, Serialize, Clone)]
@@ -155,6 +185,10 @@ pub struct PositionManagementDecisionV2 {
     pub risk_warnings: Vec<String>,
     pub hold_conditions_check: HoldConditionsCheck,
     pub decision_priority: DecisionPriority,
+    #[serde(default)]
+    pub vacuum_zone_analysis: Option<VacuumZoneAnalysis>, // 🔥 V2.1 NEW
+    #[serde(default)]
+    pub break_without_recovery: Option<BreakWithoutRecovery>, // 🔥 V2.1 NEW
 }
 
 #[derive(Debug, Deserialize, Serialize, Clone)]
