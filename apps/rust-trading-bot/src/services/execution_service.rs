@@ -3,7 +3,7 @@
 //! 执行服务 - 负责订单执行、仓位管理
 
 use anyhow::Result;
-use log::{info, warn};
+use log::info;
 use std::sync::Arc;
 
 use crate::exchanges::binance::BinanceClient;
@@ -49,18 +49,19 @@ impl ExecutionService {
         Ok(result)
     }
 
-    /// 执行平仓
-    pub async fn execute_exit(&self, symbol: &str) -> Result<OrderResult> {
-        info!("📉 执行平仓: {}", symbol);
+    /// 平仓
+    pub async fn close_position(&self, symbol: &str, side: &str, quantity: f64) -> Result<OrderResult> {
+        info!("📤 执行平仓: {} {} {}", symbol, side, quantity);
 
-        let result = self.exchange.close_position(symbol).await?;
+        let result = self.exchange.close_position(symbol, side, quantity).await?;
 
         info!("✅ 平仓成功: {:?}", result);
         Ok(result)
     }
 
-    /// 获取当前持仓
+    /// 获取所有持仓
     pub async fn get_positions(&self) -> Result<Vec<Position>> {
+        use crate::exchanges::ExchangeClient; // Import trait
         self.exchange.get_positions().await
     }
 
