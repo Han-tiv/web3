@@ -1,65 +1,98 @@
-pub mod binance_client;
-pub mod copy_trader;
-pub mod signals;
-pub mod telegram_bot;
-pub mod telegram_notifier;
-pub mod telegram_signal; // Telegram信号评分系统
-pub mod trading;
-pub mod trading_lock;
+//! Rust Trading Bot Library
+//!
+//! 模块化的加密货币交易机器人核心库
+//!
+//! # 模块结构
+//!
+//! - `exchanges` - 交易所客户端 (Binance, Bybit, OKX, Gate, Bitget, Hyperliquid)
+//! - `api` - Web API服务器
+//! - `config` - 配置和数据库
+//! - `ai_core` - AI客户端 (DeepSeek, Gemini, Grok)
+//! - `trading_core` - 交易核心逻辑 (信号、执行、仓位管理)
+//! - `analysis` - 技术分析和市场数据
+//! - `integrations` - 第三方集成 (Telegram, Valuescan)
+//! - `wallets` - 区块链钱包 (BSC, Solana)
+//! - `utils` - 通用工具
 
-// 交易所客户端模块
-pub mod bitget_client;
-pub mod bybit_client;
-pub mod exchange_trait;
-pub mod gate_client;
-pub mod hyperliquid_client;
-pub mod okx_client;
+// 核心模块
+pub mod exchanges;
+pub mod api;
+pub mod config;
+pub mod errors;        // ✨ 统一错误处理
+pub mod services;      // ✨ 服务层
+pub mod domain;        // ✨ 领域模型
+pub mod state;         // ✨ 状态管理
+pub mod repositories;  // ✨ 数据访问层
+pub mod ai_core;
+pub mod trading_core;
+pub mod analysis;
 
-// 区块链钱包模块
-pub mod bsc_wallet;
-pub mod solana_wallet;
+// 集成和工具
+pub mod integrations;
+pub mod wallets;
+pub mod utils;
 
-// 价格服务
-pub mod price_service;
+// 保留原有的模块导出以兼容现有代码
+pub use exchanges::binance::BinanceClient;
+pub use config::Database;
+pub use integrations::telegram as telegram_bot;
+pub use integrations::telegram as telegram_notifier;
+pub use integrations::telegram as telegram_signal;
+pub use trading_core::signals;
+pub mod trading {
+    //! Trading module - keeping for backward compatibility
+    pub use crate::trading_core::*;
+}
+pub use trading_core::execution::lock as trading_lock;
 
-// 多交易所执行器
-pub mod multi_exchange_executor;
+// 重新导出常用类型
+pub use exchanges::{ExchangeClient, Position, AccountInfo, OrderResult};
+pub use config::Database as database;
+pub use integrations::price_service;
+pub use api::server as web_server;
 
-// DeepSeek AI 交易模块（纯技术指标版本）
-pub mod ai;
-pub mod deepseek_client;
-pub mod gemini_client;
-pub mod grok_client;
-pub mod prompt_contexts;
-// pub mod prompt_templates; // 已拆分到各 AI client 的 prompts 子模块
-pub mod technical_analysis;
-pub mod valuescan_v2; // Valuescan V2 数据结构
-                      // pub mod market_sentiment;        // 已移除：不使用情绪分析
-                      // pub mod crypto_oracle_client;    // 已移除：不使用外部情绪数据
+// Keep old module names for backward compatibility temporarily
+pub use exchanges::binance::BinanceClient as binance_client;
+pub use exchanges::bybit::BybitClient;
+pub use exchanges::okx::OkxClient;
+pub use exchanges::gate::GateClient;
+pub use exchanges::bitget::BitgetClient;
+pub use exchanges::hyperliquid::HyperliquidClient;
 
-// 主力资金追踪交易模块
-pub mod key_level_finder; // 关键位识别
-pub mod smart_money_tracker; // 主力资金追踪
-pub mod support_analyzer; // 完整版支撑位识别系统
+pub use ai_core::deepseek;
+pub use ai_core::gemini;
+pub use ai_core as deepseek_client;
+pub use ai_core as gemini_client;
+pub use ai_core::grok as grok_client;
+pub use ai_core::decision_engine as ai_decision_engine;
+pub use ai_core::prompt_contexts;
 
-// 分批建仓 + 启动补仓策略模块
-pub mod entry_zone_analyzer; // 1h+15m入场区分析
-pub mod launch_signal_detector; // 启动信号检测
-pub mod staged_position_manager; // 分批建仓管理
+pub use analysis::technical as technical_analysis;
+pub use analysis::technical::TechnicalAnalyzer as TechnicalAnalysis;
+pub use analysis::market_data as market_data_fetcher;
+pub use analysis::key_levels as key_level_finder;
+pub use analysis::support as support_analyzer;
+pub use analysis::entry_zone as entry_zone_analyzer;
+pub use analysis::smart_money as smart_money_tracker;
+pub use analysis::launch_signals as launch_signal_detector;
 
-// 市场数据获取
-pub mod market_data_fetcher;
+pub use trading_core::execution::executor as trade_executor;
+pub use trading_core::signals::manager as signal_manager;
+pub use trading_core::positions::coordinator as position_coordinator;
+pub use trading_core::positions::staged_manager as staged_position_manager;
+pub use trading_core::copy_trader;
 
-// 健康监控
-pub mod health_monitor;
+pub use integrations::valuescan as valuescan_v2;
+pub use wallets::bsc as bsc_wallet;
+pub use wallets::solana as solana_wallet;
+pub use utils::health_monitor;
+pub use utils::coin_parser;
 
-// Web API服务器
-pub mod web_server;
+// Keep multi_exchange_executor visible
+pub use exchanges::multi_executor as multi_exchange_executor;
 
-// 动态仓位管理系统模块
-pub mod ai_decision_engine; // AI批量决策引擎
-pub mod coin_parser; // 币种解析器
-pub mod database; // SQLite 数据访问层
-pub mod position_coordinator; // 仓位协调器
-pub mod signal_manager; // 信号队列管理
-pub mod trade_executor; // 交易执行器
+// Keep exchange_trait visible  
+pub use exchanges::traits as exchange_trait;
+
+// Keep ai submodule visible
+pub use trading_core::signals as ai;

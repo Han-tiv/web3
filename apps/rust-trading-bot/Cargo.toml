@@ -147,6 +147,9 @@ dotenv = "0.15"
 anyhow = "1.0"
 thiserror = "1.0"
 
+# 并发集合
+dashmap = "5.5"
+
 # 数据库
 rusqlite = { version = "0.32", features = ["bundled"] }
 

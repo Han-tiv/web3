@@ -21,7 +21,7 @@ TELEGRAM_CHANNELS = os.getenv("TELEGRAM_CHANNELS", "").split(",")
 TELEGRAM_CHANNELS = [ch.strip() for ch in TELEGRAM_CHANNELS if ch.strip()]
 
 # Rust交易引擎配置
-RUST_ENGINE_URL = os.getenv("RUST_ENGINE_URL", "http://localhost:8080")
+RUST_ENGINE_URL = os.getenv("RUST_ENGINE_URL", "http://localhost:8081")
 RUST_ENGINE_TIMEOUT = int(os.getenv("RUST_ENGINE_TIMEOUT", "5"))
 
 # 日志配置

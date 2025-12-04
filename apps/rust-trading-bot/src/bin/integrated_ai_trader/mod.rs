@@ -115,9 +115,9 @@ pub async fn main() -> Result<()> {
 
     // 初始化Binance客户端
     let exchange = BinanceClient::new(
-        config.binance_api_key,
-        config.binance_secret,
-        config.testnet,
+        config.exchange.binance_api_key.clone(),
+        config.exchange.binance_secret.clone(),
+        config.exchange.testnet,
     );
     info!("✅ Binance客户端已初始化\n");
 
@@ -126,8 +126,12 @@ pub async fn main() -> Result<()> {
     info!("✅ 数据库已初始化\n");
 
     // 创建集成交易器
-    let trader =
-        IntegratedAITrader::new(exchange.clone(), config.deepseek_api_key, config.gemini_api_key, db.clone()).await?;
+    let trader = IntegratedAITrader::new(
+        exchange.clone(),
+        config.ai.deepseek_api_key.clone(),
+        config.ai.gemini_api_key.clone(),
+        db.clone(),
+    ).await?;
 
     // 恢复启动前已存在的持仓
     if let Err(e) = trader.sync_existing_positions().await {
@@ -135,7 +139,7 @@ pub async fn main() -> Result<()> {
     }
 
     // 启动并发任务
-    spawn_concurrent_tasks(trader, db, config.initial_balance).await?;
+    spawn_concurrent_tasks(trader, db, config.trading.initial_balance).await?;
 
     Ok(())
 }
@@ -150,43 +154,23 @@ fn print_startup_banner() {
     info!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n");
 }
 
-/// 配置结构
-struct Configuration {
-    deepseek_api_key: String,
-    gemini_api_key: String,
-    binance_api_key: String,
-    binance_secret: String,
-    testnet: bool,
-    initial_balance: f64,
-}
-
 /// 加载配置
-fn load_configuration() -> Result<Configuration> {
-    let deepseek_api_key = env::var("DEEPSEEK_API_KEY")?;
-    let gemini_api_key = env::var("GEMINI_API_KEY_1")?;
-    let binance_api_key = env::var("BINANCE_API_KEY")?;
-    let binance_secret = env::var("BINANCE_SECRET")?;
-    let testnet = env::var("BINANCE_TESTNET")
-        .unwrap_or_else(|_| "false".to_string())
-        .parse()
-        .unwrap_or(false);
-
+fn load_configuration() -> Result<rust_trading_bot::config::AppConfig> {
+    info!("🎯 加载系统配置...");
+    
+    let config = rust_trading_bot::config::AppConfig::from_env()?;
+    
     info!("🎯 系统配置:");
     info!("  信号来源: Python Telegram Monitor → Web API /api/signals");
     info!("  监控类型: Alpha机会 + FOMO信号");
     info!("  交易策略: 主力关键位 + 日内波段");
     info!("  AI引擎: DeepSeek(入场分析V2) + Gemini(持仓管理-批量评估)");
     info!("  交易所: Binance");
-    info!("  测试模式: {}\n", if testnet { "是" } else { "否" });
-
-    Ok(Configuration {
-        deepseek_api_key,
-        gemini_api_key,
-        binance_api_key,
-        binance_secret,
-        testnet,
-        initial_balance: 50.03,
-    })
+    info!("  测试模式: {}", if config.exchange.testnet { "是" } else { "否" });
+    info!("  最大仓位: {} USDT", config.trading.max_position_usdt);
+    info!("  杠杆范围: {}x - {}x\n", config.trading.min_leverage, config.trading.max_leverage);
+    
+    Ok(config)
 }
 
 /// 初始化数据库
@@ -227,11 +211,11 @@ async fn spawn_concurrent_tasks(
         trader.exchange.clone(),
     ));
     tokio::spawn(async move {
-        if let Err(err) = web_server::start_web_server(8080, web_server_state).await {
+        if let Err(err) = web_server::start_web_server(8081, web_server_state).await {
             error!("❌ Web 服务器启动失败: {:?}", err);
         }
     });
-    info!("✅ Web 服务器已启动 (端口 8080)\n");
+    info!("✅ Web 服务器已启动 (端口 8081)\n");
 
     // 任务4: Telegram信号轮询
     let trader_for_signals = trader.clone();

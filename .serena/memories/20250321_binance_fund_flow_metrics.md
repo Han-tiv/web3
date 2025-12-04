@@ -1,0 +1,2 @@
+- BinanceClient 新增 FundFlowMetrics 结构体与 get_open_interest/get_agg_trades_summary/get_fund_flow_metrics，并发拉取资金费率、持仓、agg trades，提供 net_inflow/big_order_buy_pct 等指标。
+- EntryManager 构建 EntryPromptContext 前会获取 Binance 资金流，格式化 flow_text 注入 prompt，DeepSeek prompt V2 也会展示该文本并根据实时数据进行评分。
