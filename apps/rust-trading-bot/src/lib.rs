@@ -51,11 +51,7 @@ pub use api::server as web_server;
 
 // Keep old module names for backward compatibility temporarily
 pub use exchanges::binance::BinanceClient as binance_client;
-pub use exchanges::bybit::BybitClient;
-pub use exchanges::okx::OkxClient;
-pub use exchanges::gate::GateClient;
-pub use exchanges::bitget::BitgetClient;
-pub use exchanges::hyperliquid::HyperliquidClient;
+// Removed: bybit, okx, gate, bitget, hyperliquid (deleted exchanges)
 
 pub use ai_core::deepseek;
 pub use ai_core::gemini;
