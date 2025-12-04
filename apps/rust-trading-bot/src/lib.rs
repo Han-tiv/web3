@@ -4,14 +4,13 @@
 //!
 //! # 模块结构
 //!
-//! - `exchanges` - 交易所客户端 (Binance, Bybit, OKX, Gate, Bitget, Hyperliquid)
+//! - `exchanges` - 交易所客户端 (Binance)
 //! - `api` - Web API服务器
 //! - `config` - 配置和数据库
-//! - `ai_core` - AI客户端 (DeepSeek, Gemini, Grok)
+//! - `ai_core` - AI客户端 (DeepSeek, Gemini)
 //! - `trading_core` - 交易核心逻辑 (信号、执行、仓位管理)
 //! - `analysis` - 技术分析和市场数据
 //! - `integrations` - 第三方集成 (Telegram, Valuescan)
-//! - `wallets` - 区块链钱包 (BSC, Solana)
 //! - `utils` - 通用工具
 
 // 核心模块
@@ -29,7 +28,6 @@ pub mod analysis;
 
 // 集成和工具
 pub mod integrations;
-pub mod wallets;
 pub mod utils;
 
 // 保留原有的模块导出以兼容现有代码
@@ -61,9 +59,10 @@ pub use exchanges::hyperliquid::HyperliquidClient;
 
 pub use ai_core::deepseek;
 pub use ai_core::gemini;
-pub use ai_core as deepseek_client;
-pub use ai_core as gemini_client;
-pub use ai_core::grok as grok_client;
+// AI clients
+pub use ai_core::deepseek as deepseek_client;
+pub use ai_core::gemini as gemini_client;
+// Removed: grok_client (deleted)
 pub use ai_core::decision_engine as ai_decision_engine;
 pub use ai_core::prompt_contexts;
 
@@ -83,13 +82,12 @@ pub use trading_core::positions::staged_manager as staged_position_manager;
 pub use trading_core::copy_trader;
 
 pub use integrations::valuescan as valuescan_v2;
-pub use wallets::bsc as bsc_wallet;
-pub use wallets::solana as solana_wallet;
+// Removed: wallets module (deleted)
 pub use utils::health_monitor;
 pub use utils::coin_parser;
 
 // Keep multi_exchange_executor visible
-pub use exchanges::multi_executor as multi_exchange_executor;
+// Removed: multi_exchange_executor (requires deleted exchanges)
 
 // Keep exchange_trait visible  
 pub use exchanges::traits as exchange_trait;

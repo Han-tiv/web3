@@ -21,19 +21,13 @@ name = "monitor_channel"
 path = "src/bin/monitor_channel.rs"
 required-features = ["legacy-telegram"]
 
-[[bin]]
-name = "signal_trader"
-path = "src/bin/signal_trader.rs"
-required-features = ["legacy-telegram"]
+# Removed: signal_trader (functionality merged into integrated_ai_trader)
 
 [[bin]]
 name = "analyze_win_rate"
 path = "src/bin/analyze_win_rate.rs"
 
-[[bin]]
-name = "multi_signal_trader"
-path = "src/bin/multi_signal_trader.rs"
-required-features = ["legacy-telegram"]
+# Removed: multi_signal_trader (functionality merged into integrated_ai_trader)
 
 [[bin]]
 name = "profit_monitor"
@@ -43,14 +37,9 @@ path = "src/bin/profit_monitor.rs"
 name = "show_assets"
 path = "src/bin/show_assets.rs"
 
-[[bin]]
-name = "deepseek_trader"
-path = "src/bin/deepseek_trader.rs"
+# Removed: deepseek_trader (functionality merged into integrated_ai_trader)
 
-[[bin]]
-name = "fund_monitor"
-path = "src/bin/fund_monitor.rs"
-required-features = ["legacy-telegram"]
+# Removed: fund_monitor (obsolete)
 
 [[bin]]
 name = "channel_analysis"
@@ -85,10 +74,7 @@ path = "src/bin/integrated_ai_trader/mod.rs"
 name = "smart_money_trader"
 path = "src/bin/smart_money_trader.rs"
 
-[[bin]]
-name = "position_rebalance_trader"
-path = "src/bin/position_rebalance_trader.rs"
-required-features = ["legacy-telegram"]
+# Removed: position_rebalance_trader (obsolete)
 
 [[bin]]
 name = "check_balance_unified"

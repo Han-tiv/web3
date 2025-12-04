@@ -10,7 +10,6 @@ pub mod ai_trait;
 pub mod prompt_builder;
 pub mod deepseek;
 pub mod gemini;
-pub mod grok;
 pub mod decision_engine;
 pub mod prompt_contexts;
 
