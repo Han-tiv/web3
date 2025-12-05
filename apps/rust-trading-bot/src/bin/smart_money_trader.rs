@@ -5,8 +5,9 @@ use rust_trading_bot::{
     binance_client::BinanceClient,
     deepseek_client::Kline,
     exchange_trait::ExchangeClient,
-    gate_client::GateClient,
-    okx_client::OkxClient,
+    // gate_client和okx_client已被删除
+    // gate_client::GateClient,
+    // okx_client::OkxClient,
     smart_money_tracker::{MoneyFlowDirection, MoneyFlowSignal, SmartMoneyTracker},
 };
 use std::sync::Arc;
@@ -65,6 +66,7 @@ async fn main() -> Result<()> {
 
     // 初始化交易所客户端
     match config.exchange {
+        /* Gate交易所已被删除
         ExchangeType::Gate => {
             let api_key = std::env::var("GATE_API_KEY").expect("❌ 缺少 GATE_API_KEY 环境变量");
             let secret = std::env::var("GATE_SECRET").expect("❌ 缺少 GATE_SECRET 环境变量");
@@ -74,7 +76,9 @@ async fn main() -> Result<()> {
 
             run_trader(exchange, config).await?;
         }
+        */
 
+        /* OKX交易所已被删除
         ExchangeType::Okx => {
             let api_key = std::env::var("OKX_API_KEY").expect("❌ 缺少 OKX_API_KEY 环境变量");
             let secret = std::env::var("OKX_SECRET").expect("❌ 缺少 OKX_SECRET 环境变量");
@@ -85,6 +89,7 @@ async fn main() -> Result<()> {
 
             run_trader(exchange, config).await?;
         }
+        */
 
         ExchangeType::Binance => {
             let api_key =
@@ -95,6 +100,12 @@ async fn main() -> Result<()> {
             info!("✅ Binance 客户端初始化成功");
 
             run_trader(exchange, config).await?;
+        }
+
+        // 被删除的交易所类型
+        ExchangeType::Gate | ExchangeType::Okx => {
+            error!("❌ Gate和OKX交易所客户端已被删除，请使用Binance");
+            anyhow::bail!("Unsupported exchange type");
         }
     }
 

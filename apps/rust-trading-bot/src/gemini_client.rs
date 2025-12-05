@@ -5,10 +5,11 @@ use reqwest::Client;
 use serde::{Deserialize, Serialize};
 use serde_json;
 
-use crate::ai::ai_trait::{
-    AIProvider, EntryContext, EntryDecision, PositionContext, PositionDecision,
-    StopLossAdjustmentDecision, TakeProfitAdjustmentDecision,
-};
+// AI trait 已删除，功能已集成到其他模块
+// use crate::ai::ai_trait::{
+//     AIProvider, EntryContext, EntryDecision, PositionContext, PositionDecision,
+//     StopLossAdjustmentDecision, TakeProfitAdjustmentDecision,
+// };
 use crate::deepseek_client::{
     Kline, Position, PositionManagementDecision, TechnicalIndicators, TradingSignal,
 };
@@ -1377,6 +1378,8 @@ MACD Signal: {:.4}
     }
 }
 
+// AIProvider trait实现已删除，功能已集成到其他模块
+/*
 #[async_trait]
 impl AIProvider for GeminiClient {
     fn name(&self) -> &'static str {
@@ -1400,32 +1403,21 @@ impl AIProvider for GeminiClient {
     }
 
     async fn analyze_position(&self, ctx: &PositionContext) -> Result<PositionDecision> {
-        let PositionManagementDecision {
-            action,
-            close_percentage,
-            limit_price,
-            reason,
-            profit_potential,
-            optimal_exit_price,
-            confidence,
-            stop_loss_adjustment,
-            take_profit_adjustment,
-        } = self.analyze_position_management(&ctx.prompt).await?;
-
+        let pm_decision = self.analyze_position_management(&ctx.prompt).await?;
         Ok(PositionDecision::new(
             self.name(),
             &ctx.symbol,
-            &action,
-            reason,
-            Some(confidence),
-            Some(profit_potential),
-            close_percentage,
-            limit_price,
-            optimal_exit_price,
-            stop_loss_adjustment.map(|adj| {
+            &pm_decision.action,
+            pm_decision.reason,
+            Some(pm_decision.confidence),
+            Some(pm_decision.profit_potential),
+            pm_decision.close_percentage,
+            pm_decision.limit_price,
+            pm_decision.optimal_exit_price,
+            pm_decision.stop_loss_adjustment.map(|adj| {
                 StopLossAdjustmentDecision::new(adj.should_adjust, adj.new_stop_loss, adj.reason)
             }),
-            take_profit_adjustment.map(|adj| {
+            pm_decision.take_profit_adjustment.map(|adj| {
                 TakeProfitAdjustmentDecision::new(
                     adj.should_adjust,
                     adj.new_take_profit,
@@ -1437,3 +1429,4 @@ impl AIProvider for GeminiClient {
         ))
     }
 }
+*/

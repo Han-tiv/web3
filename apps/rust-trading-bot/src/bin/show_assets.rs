@@ -4,14 +4,15 @@ use dotenv::dotenv;
 use std::env;
 use std::sync::Arc;
 
-use rust_trading_bot::bitget_client::BitgetClient;
-use rust_trading_bot::bsc_wallet::BscWallet;
-use rust_trading_bot::bybit_client::BybitClient;
+// 已删除的交易所客户端已注释
+// use rust_trading_bot::bitget_client::BitgetClient;
+// use rust_trading_bot::bsc_wallet::BscWallet;
+// use rust_trading_bot::bybit_client::BybitClient;
 use rust_trading_bot::exchange_trait::ExchangeClient;
-use rust_trading_bot::gate_client::GateClient;
+// use rust_trading_bot::gate_client::GateClient;
 use rust_trading_bot::hyperliquid_client::HyperliquidClient;
-use rust_trading_bot::okx_client::OkxClient;
-use rust_trading_bot::solana_wallet::SolanaWallet;
+// use rust_trading_bot::okx_client::OkxClient;
+// use rust_trading_bot::solana_wallet::SolanaWallet;
 
 #[tokio::main]
 async fn main() -> Result<()> {
@@ -35,6 +36,7 @@ async fn main() -> Result<()> {
         exchanges.push(Arc::new(client));
     }
 
+    /* OKX已被删除
     // OKX
     if let (Ok(key), Ok(secret), Ok(passphrase)) = (
         env::var("OKX_API_KEY"),
@@ -48,7 +50,9 @@ async fn main() -> Result<()> {
         let client = OkxClient::new(key, secret, passphrase, testnet);
         exchanges.push(Arc::new(client));
     }
+    */
 
+    /* Bitget已被删除
     // Bitget
     if let (Ok(key), Ok(secret), Ok(passphrase)) = (
         env::var("BITGET_API_KEY"),
@@ -62,7 +66,9 @@ async fn main() -> Result<()> {
         let client = BitgetClient::new(key, secret, passphrase, testnet);
         exchanges.push(Arc::new(client));
     }
+    */
 
+    /* Bybit已被删除
     // Bybit
     if let (Ok(key), Ok(secret)) = (env::var("BYBIT_API_KEY"), env::var("BYBIT_SECRET")) {
         let testnet = env::var("BYBIT_TESTNET")
@@ -72,7 +78,9 @@ async fn main() -> Result<()> {
         let client = BybitClient::new(key, secret, testnet);
         exchanges.push(Arc::new(client));
     }
+    */
 
+    /* Gate已被删除
     // Gate
     if let (Ok(key), Ok(secret)) = (env::var("GATE_API_KEY"), env::var("GATE_SECRET")) {
         let testnet = env::var("GATE_TESTNET")
@@ -82,6 +90,7 @@ async fn main() -> Result<()> {
         let client = GateClient::new(key, secret, testnet);
         exchanges.push(Arc::new(client));
     }
+    */
 
     // Hyperliquid
     if let (Ok(address), Ok(secret)) = (
@@ -98,6 +107,7 @@ async fn main() -> Result<()> {
         exchanges.push(Arc::new(client));
     }
 
+    /* BSC Wallet已被删除
     // BSC Wallet
     if let (Ok(address), Ok(private_key)) = (env::var("BSC_ADDRESS"), env::var("BSC_PRIVATE_KEY")) {
         let testnet = env::var("BSC_TESTNET")
@@ -107,7 +117,9 @@ async fn main() -> Result<()> {
         let wallet = BscWallet::new(address, private_key, testnet);
         exchanges.push(Arc::new(wallet));
     }
+    */
 
+    /* Solana Wallet已被删除
     // Solana Wallet
     if let (Ok(address), Ok(private_key)) =
         (env::var("SOLANA_ADDRESS"), env::var("SOLANA_PRIVATE_KEY"))
@@ -119,6 +131,7 @@ async fn main() -> Result<()> {
         let wallet = SolanaWallet::new(address, private_key, testnet);
         exchanges.push(Arc::new(wallet));
     }
+    */
 
     if exchanges.is_empty() {
         println!("❌ 未配置任何交易所 API");

@@ -64,12 +64,17 @@ use rust_trading_bot::{
     gemini_client::GeminiClient,
     key_level_finder::KeyLevelFinder,
     launch_signal_detector::LaunchSignalDetector,
-    signals::{AlertType, FundAlert, MessageParser, SignalContext},
+    // 注意：signals和trading模块已被删除，功能已集成到其他模块
+    // signals::{AlertType, FundAlert, MessageParser, SignalContext},
     staged_position_manager::{StagedPosition, StagedPositionManager},
     technical_analysis::TechnicalAnalyzer,
-    trading::OrderManager,
+    // trading::OrderManager,
     valuescan_v2::TradingSignalV2,
 };
+
+// ⚠️ 注意：integrated_ai_trader依赖signals和trading模块，这些模块已被删除
+// 此binary可能需要重构或暂时不可用
+// 如需使用，请检查所有对AlertType, FundAlert, MessageParser, SignalContext, OrderManager的引用
 
 /// 延迟开仓队列记录 - 首次未开仓的币种,等待更好时机
 #[derive(Debug, Clone, Serialize, Deserialize)]

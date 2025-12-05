@@ -5,11 +5,12 @@ use reqwest::Client;
 use serde::{Deserialize, Serialize};
 use serde_json::Value;
 
-use crate::ai::ai_trait::{
-    AIProvider, EntryContext, EntryDecision, PositionContext,
-    PositionDecision as AiPositionDecision, StopLossAdjustmentDecision,
-    TakeProfitAdjustmentDecision,
-};
+// AI trait 已删除，功能已集成到其他模块
+// use crate::ai::ai_trait::{
+//     AIProvider, EntryContext, EntryDecision, PositionContext,
+//     PositionDecision as AiPositionDecision, StopLossAdjustmentDecision,
+//     TakeProfitAdjustmentDecision,
+// };
 use crate::valuescan_v2::TradingSignalV2;
 
 #[derive(Debug, Serialize)]
@@ -1572,6 +1573,8 @@ pub struct Position {
     pub unrealized_pnl: f64,
 }
 
+// AIProvider trait实现已删除，功能已集成到其他模块
+/*
 #[async_trait]
 impl AIProvider for DeepSeekClient {
     fn name(&self) -> &'static str {
@@ -1632,3 +1635,4 @@ impl AIProvider for DeepSeekClient {
         ))
     }
 }
+*/

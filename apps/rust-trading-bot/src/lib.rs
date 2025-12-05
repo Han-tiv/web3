@@ -1,35 +1,35 @@
 pub mod binance_client;
 pub mod copy_trader;
-pub mod signals;
+// pub mod signals;  // 已删除：功能已集成
 pub mod telegram_bot;
 pub mod telegram_notifier;
 pub mod telegram_signal; // Telegram信号评分系统
-pub mod trading;
+// pub mod trading;  // 已删除：功能已集成
 pub mod trading_lock;
 
 // 交易所客户端模块
-pub mod bitget_client;
-pub mod bybit_client;
+// pub mod bitget_client;   // 已删除
+// pub mod bybit_client;    // 已删除
 pub mod exchange_trait;
-pub mod gate_client;
+// pub mod gate_client;     // 已删除
 pub mod hyperliquid_client;
-pub mod okx_client;
+// pub mod okx_client;      // 已删除
 
 // 区块链钱包模块
-pub mod bsc_wallet;
-pub mod solana_wallet;
+// pub mod bsc_wallet;      // 已删除
+// pub mod solana_wallet;   // 已删除
 
 // 价格服务
 pub mod price_service;
 
 // 多交易所执行器
-pub mod multi_exchange_executor;
+// pub mod multi_exchange_executor;  // 已删除
 
 // DeepSeek AI 交易模块（纯技术指标版本）
-pub mod ai;
+// pub mod ai;  // 已删除：功能已集成
 pub mod deepseek_client;
 pub mod gemini_client;
-pub mod grok_client;
+// pub mod grok_client;  // 已删除
 pub mod technical_analysis;
 pub mod valuescan_v2; // Valuescan V2 数据结构
                       // pub mod market_sentiment;        // 已移除：不使用情绪分析
