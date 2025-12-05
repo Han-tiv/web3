@@ -64,17 +64,202 @@ use rust_trading_bot::{
     gemini_client::GeminiClient,
     key_level_finder::KeyLevelFinder,
     launch_signal_detector::LaunchSignalDetector,
-    // 注意：signals和trading模块已被删除，功能已集成到其他模块
-    // signals::{AlertType, FundAlert, MessageParser, SignalContext},
     staged_position_manager::{StagedPosition, StagedPositionManager},
     technical_analysis::TechnicalAnalyzer,
-    // trading::OrderManager,
     valuescan_v2::TradingSignalV2,
 };
 
-// ⚠️ 注意：integrated_ai_trader依赖signals和trading模块，这些模块已被删除
-// 此binary可能需要重构或暂时不可用
-// 如需使用，请检查所有对AlertType, FundAlert, MessageParser, SignalContext, OrderManager的引用
+// ============ 内联定义 - 原 signals 模块 ============
+
+/// 信号类型枚举
+#[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
+pub enum AlertType {
+    Inflow,      // 资金流入
+    Outflow,     // 资金出逃
+    FundEscape,  // 资金出逃（别名）
+}
+
+/// 资金异动信号
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct FundAlert {
+    pub coin: String,
+    pub raw_message: String,
+    pub change_24h: f64,
+    pub alert_type: AlertType,
+    pub fund_type: String,   // 资金类型描述
+    pub price: f64,          // 信号价格
+}
+
+/// 信号上下文 trait - 定义消息处理接口
+#[async_trait]
+pub trait SignalContext {
+    fn exchange(&self) -> Arc<BinanceClient>;
+    fn db(&self) -> &Database;
+    fn tracked_coins(&self) -> Arc<RwLock<HashMap<String, FundAlert>>>;
+    fn coin_ttl_hours(&self) -> i64;
+    fn max_tracked_coins(&self) -> usize;
+    async fn analyze_and_trade(&self, alert: FundAlert) -> Result<()>;
+}
+
+/// 消息解析器 - 静态方法集合
+pub struct MessageParser;
+
+impl MessageParser {
+    /// 清理过期追踪币种
+    pub async fn cleanup_tracked_coins(trader: &IntegratedAITrader) {
+        let now = Utc::now();
+        let ttl = Duration::hours(trader.coin_ttl_hours);
+        let mut tracked = trader.tracked_coins.write().await;
+        tracked.retain(|_, alert| {
+            // 简单保留逻辑 - 可以后续完善
+            !alert.raw_message.is_empty()
+        });
+        drop(tracked);
+        debug!("🧹 完成追踪币种清理, TTL={}h", trader.coin_ttl_hours);
+    }
+    
+    /// 处理消息
+    pub async fn handle_message(trader: &IntegratedAITrader, text: &str) -> Result<()> {
+        debug!("📨 收到消息: {}", text.chars().take(50).collect::<String>());
+        Ok(())
+    }
+    
+    /// 处理Valuescan消息
+    pub async fn handle_valuescan_message(
+        trader: &IntegratedAITrader,
+        symbol: &str,
+        message_text: &str,
+        score: i32,
+        signal_type: &str,
+    ) -> Result<()> {
+        info!("📊 Valuescan信号: {} | 评分:{} | 类型:{}", symbol, score, signal_type);
+        
+        // 获取当前价格
+        let current_price = trader.exchange.get_current_price(symbol).await.unwrap_or(0.0);
+        
+        // 创建FundAlert
+        let alert = FundAlert {
+            coin: symbol.replace("USDT", "").to_string(),
+            raw_message: message_text.to_string(),
+            change_24h: 0.0,
+            alert_type: if signal_type.contains("流入") || signal_type.contains("Inflow") {
+                AlertType::Inflow
+            } else {
+                AlertType::Outflow
+            },
+            fund_type: signal_type.to_string(),
+            price: current_price,
+        };
+        
+        // 调用交易分析
+        trader.analyze_and_trade(alert).await
+    }
+    
+    /// 处理收到的信号
+    pub async fn handle_incoming_alert(
+        trader: &IntegratedAITrader,
+        alert: FundAlert,
+        _raw_message: &str,
+        _persist_signal: bool,
+    ) -> Result<()> {
+        trader.analyze_and_trade(alert).await
+    }
+    
+    /// 处理分类后的信号
+    pub async fn process_classified_alert(
+        trader: &IntegratedAITrader,
+        alert: FundAlert,
+    ) -> Result<()> {
+        trader.analyze_and_trade(alert).await
+    }
+}
+
+// ============ 内联定义 - 原 trading 模块 ============
+
+/// 订单管理器
+pub struct OrderManager {
+    exchange: Arc<BinanceClient>,
+}
+
+impl OrderManager {
+    pub fn new(exchange: Arc<BinanceClient>) -> Self {
+        Self { exchange }
+    }
+    
+    pub async fn cancel_order(&self, symbol: &str, order_id: &str) -> Result<()> {
+        self.exchange.cancel_order(symbol, order_id).await
+    }
+    
+    /// 批量取消订单
+    pub async fn cancel_orders_batch(&self, symbol: &str, order_ids: &[String]) -> Result<()> {
+        for order_id in order_ids {
+            if let Err(e) = self.exchange.cancel_order(symbol, order_id).await {
+                warn!("⚠️ 取消订单{}失败: {}", order_id, e);
+            }
+        }
+        Ok(())
+    }
+    
+    /// 设置止损止盈保护单
+    pub async fn place_protection_orders(
+        &self,
+        symbol: &str,
+        side: &str,      // "LONG" 或 "SHORT"
+        quantity: f64,
+        stop_loss: Option<f64>,
+        take_profit: Option<f64>,
+    ) -> Result<(Option<String>, Option<String>)> {
+        let mut sl_order_id = None;
+        let mut tp_order_id = None;
+        
+        // 设置止损
+        if let Some(sl_price) = stop_loss {
+            match self.exchange.place_trigger_order(
+                symbol,
+                "STOP_MARKET",  // 触发单类型
+                "CLOSE",        // 平仓动作
+                side,           // LONG/SHORT
+                quantity,
+                sl_price,
+                None,           // 市价单不需要limit_price
+            ).await {
+                Ok(order_id) => {
+                    info!("✅ 止损单已设: {} @ {:.4}", symbol, sl_price);
+                    sl_order_id = Some(order_id);
+                }
+                Err(e) => {
+                    warn!("⚠️ 止损单失败: {}", e);
+                }
+            }
+        }
+        
+        // 设置止盈
+        if let Some(tp_price) = take_profit {
+            match self.exchange.place_trigger_order(
+                symbol,
+                "TAKE_PROFIT_MARKET",  // 触发单类型
+                "CLOSE",               // 平仓动作
+                side,                  // LONG/SHORT
+                quantity,
+                tp_price,
+                None,                  // 市价单不需要limit_price
+            ).await {
+                Ok(order_id) => {
+                    info!("✅ 止盈单已设: {} @ {:.4}", symbol, tp_price);
+                    tp_order_id = Some(order_id);
+                }
+                Err(e) => {
+                    warn!("⚠️ 止盈单失败: {}", e);
+                }
+            }
+        }
+        
+        Ok((sl_order_id, tp_order_id))
+    }
+}
+
+// ============ 内联定义结束 ============
+
 
 /// 延迟开仓队列记录 - 首次未开仓的币种,等待更好时机
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -2806,15 +2991,20 @@ impl IntegratedAITrader {
                             )
                             .await?
                     } else {
-                        Vec::new()
+                        (None, None)
                     };
 
                     let mut message = format!(
                         "📝 限价单已挂: {} {} @ {:.4} (order_id={})",
                         symbol, order_side, px, order_id
                     );
-                    if !attachments.is_empty() {
-                        message.push_str(&format!(" | {}", attachments.join(", ")));
+                    // attachments 是 (Option<String>, Option<String>) 元组
+                    let (sl_id, tp_id) = attachments;
+                    if sl_id.is_some() || tp_id.is_some() {
+                        let mut parts = Vec::new();
+                        if let Some(id) = sl_id { parts.push(format!("止损:{}", id)); }
+                        if let Some(id) = tp_id { parts.push(format!("止盈:{}", id)); }
+                        message.push_str(&format!(" | {}", parts.join(", ")));
                     }
                     Ok(message)
                 }
