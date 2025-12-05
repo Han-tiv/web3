@@ -252,14 +252,22 @@ pub struct DeepSeekClient {
     client: Client,
     api_key: String,
     base_url: String,
+    model: String,
 }
 
 impl DeepSeekClient {
     pub fn new(api_key: String) -> Self {
+        let model = std::env::var("DEEPSEEK_MODEL")
+            .unwrap_or_else(|_| "deepseek-ai/DeepSeek-V2.5".to_string());
+        let base_url = std::env::var("DEEPSEEK_LLM_BACKEND_URL")
+            .unwrap_or_else(|_| "https://api.deepseek.com/v1".to_string());
+        info!("🤖 DeepSeekClient 初始化: 使用模型 {}", model);
+        info!("🌐 DeepSeek API URL: {}", base_url);
         Self {
             client: Client::new(),
             api_key,
-            base_url: "https://api.deepseek.com/v1".to_string(),
+            base_url,
+            model,
         }
     }
 
@@ -302,7 +310,7 @@ impl DeepSeekClient {
     /// 分析市场并生成交易信号
     pub async fn analyze_market(&self, prompt: &str) -> Result<TradingSignal> {
         let request = DeepSeekRequest {
-            model: "deepseek-chat".to_string(),
+            model: self.model.clone(),
             messages: vec![Message {
                 role: "user".to_string(),
                 content: prompt.to_string(),
@@ -364,8 +372,13 @@ impl DeepSeekClient {
 
     /// 分析市场并生成 V2 版交易信号
     pub async fn analyze_market_v2(&self, prompt: &str) -> Result<TradingSignalV2> {
+        // 🎯 打印完整 prompt 到日志
+        info!("📝 ========== 发送给 DeepSeek AI 的完整 Prompt (V2) ==========");
+        info!("{}", prompt);
+        info!("📝 ========== Prompt 结束 ==========");
+
         let request = DeepSeekRequest {
-            model: "deepseek-chat".to_string(),
+            model: self.model.clone(),
             messages: vec![Message {
                 role: "user".to_string(),
                 content: prompt.to_string(),
@@ -437,7 +450,7 @@ impl DeepSeekClient {
         prompt: &str,
     ) -> Result<PositionManagementDecision> {
         let request = DeepSeekRequest {
-            model: "deepseek-chat".to_string(),
+            model: self.model.clone(),
             messages: vec![Message {
                 role: "user".to_string(),
                 content: prompt.to_string(),
@@ -507,7 +520,7 @@ impl DeepSeekClient {
         prompt: &str,
     ) -> Result<EnhancedPositionAnalysis> {
         let request = DeepSeekRequest {
-            model: "deepseek-chat".to_string(),
+            model: self.model.clone(),
             messages: vec![Message {
                 role: "user".to_string(),
                 content: prompt.to_string(),
@@ -603,7 +616,7 @@ impl DeepSeekClient {
         let prompt = self.build_batch_evaluation_prompt(&positions);
 
         let request = DeepSeekRequest {
-            model: "deepseek-chat".to_string(),
+            model: self.model.clone(),
             messages: vec![Message {
                 role: "user".to_string(),
                 content: prompt,

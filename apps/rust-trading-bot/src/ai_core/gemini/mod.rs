@@ -755,14 +755,31 @@ impl GeminiClient {
 - 盈利单锁定≥50%利润，再评估剩余仓位上行空间
 - 禁止摊平或逆势加仓
 
-⚠️ **重要数据说明**:
-每个持仓对象中的字段含义如下:
-- `entry_price`: 入场价格 (实际开仓价格)
-- `current_price`: 当前最新价格 (实时市场价格)
-- `profit_pct`: **当前实时浮动盈亏百分比** (已计算好的准确值，正数=盈利，负数=亏损)
+⚠️ **CRITICAL: 盈亏数据使用规则 (违反此规则视为严重错误)**:
+
+每个持仓对象中的字段:
+- `entry_price`: 入场价格 (历史开仓价)
+- `current_price`: 当前最新价格 (实时市场价)
+- `profit_pct`: **系统已计算的准确盈亏百分比** (正=盈利, 负=亏损)
+  - 此值基于实际成交价和当前标记价计算,已考虑做多/做空方向
+  - 计算公式已由系统完成,准确无误
 - `hold_duration_hours`: 持仓时长(小时)
 
-**请直接使用 `profit_pct` 字段作为盈亏依据，这是系统实时计算的准确值，不要根据K线数据重新计算！**
+**🚨 严格禁止的操作**:
+1. ❌ 禁止根据 K线数据重新计算盈亏
+2. ❌ 禁止使用 (current_price - entry_price) / entry_price 公式
+3. ❌ 禁止使用 K线的 close/open/high/low 价格计算盈亏
+4. ✅ 必须直接使用 `profit_pct` 字段,这是唯一可信的盈亏数据源
+
+**示例**:
+- profit_pct = -0.13 → 亏损 0.13%,不是 -5%
+- profit_pct = +0.15 → 盈利 0.15%,不是 +19.2%
+- profit_pct = -2.5 → 亏损 2.5%,触发止损考虑
+
+**风控规则基于 profit_pct**:
+- profit_pct < -2%: 立即止损
+- -0.5% < profit_pct < -1.5%: 部分减仓
+- profit_pct > 0: 盈利单,根据技术形态决定平仓比例
 
 【批量持仓数据（JSON）】
 {}
@@ -772,6 +789,7 @@ impl GeminiClient {
 - action ∈ [HOLD, PARTIAL_CLOSE, FULL_CLOSE]
 - close_percentage 范围 0-100（PARTIAL/FULL 必填），limit_price 可为 null
 - reason 使用精炼中文(包含趋势/关键位/指标)，profit_potential 描述剩余涨跌空间，confidence 取 HIGH|MEDIUM|LOW
+- **盈亏判断**: 必须引用 profit_pct 字段,禁止在 reason 中使用自己计算的盈亏值
 - 只输出JSON，不要Markdown或额外说明
 
 示例:
@@ -781,7 +799,7 @@ impl GeminiClient {
     "action": "PARTIAL_CLOSE",
     "close_percentage": 50,
     "limit_price": 61234.5,
-    "reason": "15m 跌破 SMA20，RSI 从 70 回落",
+    "reason": "持仓盈亏 profit_pct=+1.2%,15m 跌破 SMA20,RSI 从 70 回落",
     "profit_potential": "+3.5% 空间",
     "confidence": "MEDIUM"
   }}

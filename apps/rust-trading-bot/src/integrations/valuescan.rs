@@ -121,6 +121,7 @@ pub struct TradingSignalV2 {
     pub stop_loss: Option<f64>,   // 改为 Option，SKIP 时可为 null
     pub target_price: Option<f64>,
     pub risk_reward_ratio: Option<f64>, // 改为 Option，SKIP 时可为 null
+    #[serde(alias = "position_pct")]  // ✅ 支持 AI 返回的 position_pct 字段名
     pub position_size_pct: f64,
     pub reason: String,
     #[serde(default)]

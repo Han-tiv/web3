@@ -1,0 +1,1 @@
+在 src/ai_core/deepseek/prompts/entry_v3.rs 的交易提示文案中新增“关键位间距检查 (P0风控)”说明，并在“不做的情况”里增加“关键位间距 < 1.5%”的拒绝条件；同时对 valuescan_score 字段补充了关键位间距 <1.5% 扣分的细则。

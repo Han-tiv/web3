@@ -39,6 +39,12 @@ MAX_ERROR_COUNT = int(os.getenv("MAX_ERROR_COUNT", "10"))
 SIGNAL_DEDUP_WINDOW = int(os.getenv("SIGNAL_DEDUP_WINDOW", "300"))  # 5分钟去重窗口
 MAX_QUEUE_SIZE = int(os.getenv("MAX_QUEUE_SIZE", "1000"))
 
+# OI (Open Interest) 监控配置
+ENABLE_OI_MONITOR = os.getenv("ENABLE_OI_MONITOR", "true").lower() == "true"
+OI_THRESHOLD = float(os.getenv("OI_THRESHOLD", "8.0"))  # OI变化率阈值(%)
+OI_SCAN_INTERVAL = int(os.getenv("OI_SCAN_INTERVAL", "5"))  # 扫描周期(分钟)
+OI_CONCURRENCY = int(os.getenv("OI_CONCURRENCY", "20"))  # 并发请求数
+
 def validate_config():
     """验证配置是否完整"""
     errors = []

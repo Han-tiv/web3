@@ -1490,7 +1490,7 @@ impl IntegratedAITrader {
         };
 
         // 【第5步】AI综合决策
-        let use_valuescan_v2 = *USE_VALUESCAN_V2;
+        let use_valuescan_v2 = *USE_VALUESCAN_V3;
         let (ai_signal, v2_score, v2_risk_reward, v2_resistance, v2_support) = match self
             .ai_decider
             .make_trading_decision(

@@ -1,0 +1,1 @@
+2025-04-09：在 src/bin/integrated_ai_trader/ai/ai_decider.rs 中，AI 决策阶段的超时调用已从 Gemini 切换为 DeepSeek（self.deepseek.analyze_market），确保开仓分析统一使用 DeepSeek V1。

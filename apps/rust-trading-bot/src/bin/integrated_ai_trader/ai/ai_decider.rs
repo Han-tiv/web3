@@ -47,8 +47,8 @@ impl AIDecider {
         Option<f64>,
     )> {
         info!(
-            "🤖 Valuescan版本: {} (USE_VALUESCAN_V2={})",
-            if use_valuescan_v2 { "V2" } else { "V1" },
+            "🤖 Valuescan版本: {} (USE_VALUESCAN_V3={})",
+            if use_valuescan_v2 { "V3" } else { "V1" },
             use_valuescan_v2
         );
 
@@ -194,7 +194,7 @@ impl AIDecider {
 
             let ai_decision_result = time::timeout(
                 time::Duration::from_secs(180),
-                self.gemini.analyze_market(&prompt),
+                self.deepseek.analyze_market(&prompt),
             )
             .await;
 

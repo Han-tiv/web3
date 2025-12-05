@@ -21,8 +21,17 @@ from config import (
     TELEGRAM_API_HASH,
     TELEGRAM_PHONE,
     TELEGRAM_CHANNELS,
-    RUST_ENGINE_URL
+    RUST_ENGINE_URL,
+    ENABLE_OI_MONITOR,
+    OI_THRESHOLD,
+    OI_SCAN_INTERVAL,
+    OI_CONCURRENCY
 )
+
+# 导入 OI 监控模块
+from oi_monitor import OIMonitor
+# 导入方程式信号解析器
+from fangchengshi_parser import parse_fangchengshi_signal, format_fangchengshi_signal
 
 # Rust交易引擎API地址
 RUST_API_URL = f"{RUST_ENGINE_URL}/api/signals"
@@ -88,6 +97,17 @@ class SignalForwarder:
         self.http_client = httpx.AsyncClient(timeout=10.0)
         self.running = True
 
+        # 初始化 OI 监控器(复用 HTTP 客户端)
+        self.oi_monitor = None
+        if ENABLE_OI_MONITOR:
+            self.oi_monitor = OIMonitor(
+                threshold=OI_THRESHOLD,
+                interval_minutes=OI_SCAN_INTERVAL,
+                concurrency=OI_CONCURRENCY,
+                http_client=self.http_client,
+                on_spike_callback=self.handle_oi_spike  # 注册回调
+            )
+
     async def start(self):
         """启动转发器"""
         try:
@@ -114,6 +134,12 @@ class SignalForwarder:
             # 定期输出统计信息
             asyncio.create_task(self.print_stats())
 
+            # 启动 OI 监控后台任务
+            if self.oi_monitor:
+                self.oi_monitor.start()
+                print(f"✅ OI 监控已启动 (阈值: {OI_THRESHOLD}%, 周期: {OI_SCAN_INTERVAL}m)", flush=True)
+                print(flush=True)
+
             # 运行直到断开连接
             await self.client.run_until_disconnected()
 
@@ -126,6 +152,75 @@ class SignalForwarder:
             sys.exit(1)
         finally:
             await self.cleanup()
+
+    async def handle_oi_spike(self, spike: dict):
+        """处理 OI 异动信号"""
+        symbol = spike['symbol']
+        change_pct = spike['change_pct']
+        open_interest = spike['open_interest']
+        change_value = spike['change_value']
+        change_sign = spike['change_sign']
+
+        # 构造类似 Valuescan 风格的消息
+        direction = "资金流入" if change_sign > 0 else "资金流出"
+        emoji = "📈" if change_sign > 0 else "📉"
+        timestamp_str = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+        raw_message = f"""🔥 OI持仓量异动预警
+
+{emoji} {direction}: {symbol}
+📊 OI变化率: {change_pct:+.2f}%
+💰 当前OI: ${open_interest/1_000_000:.2f}M
+{emoji} OI变化: ${change_value/1_000_000:+.2f}M
+⏰ 时间: {timestamp_str}
+
+[OI异动分析]
+持仓量{'快速增长' if change_sign > 0 else '快速下降'}，表明{'主力资金正在积极建仓，可能存在做多机会' if change_sign > 0 else '主力资金正在减仓或平仓，需警惕下跌风险'}。
+建议结合价格走势和资金流向综合判断。
+"""
+
+        signal_data = {
+            'symbol': symbol,
+            'raw_message': raw_message,
+            'timestamp': time.time()
+        }
+
+        print(f"🔔 [OI异动推送] {symbol} ({change_pct:+.2f}%)", flush=True)
+        print(f"   转发到: {RUST_API_URL}", flush=True)
+
+        # 转发到 Rust 引擎
+        try:
+            response = await self.http_client.post(
+                RUST_API_URL,
+                json=signal_data,
+                timeout=10.0
+            )
+
+            if response.status_code == 200:
+                stats['forwarded'] += 1
+                print(f"   ✅ OI异动信号已转发", flush=True)
+                try:
+                    response_json = response.json()
+                    msg = response_json.get('message', '')
+                    if msg:
+                        print(f"      响应: {msg}", flush=True)
+                except:
+                    pass
+            else:
+                stats['failed'] += 1
+                print(f"   ⚠️  Rust引擎返回错误: {response.status_code}", flush=True)
+
+        except httpx.ConnectError:
+            stats['failed'] += 1
+            print(f"   ❌ 连接Rust引擎失败", flush=True)
+        except httpx.TimeoutException:
+            stats['failed'] += 1
+            print(f"   ❌ 转发超时 (10秒)", flush=True)
+        except Exception as e:
+            stats['failed'] += 1
+            print(f"   ❌ 转发失败: {e}", flush=True)
+
+        print(flush=True)
 
     async def handle_message(self, event):
         """处理收到的消息"""
@@ -144,27 +239,47 @@ class SignalForwarder:
             else:
                 print(f"   内容: {message_text.split(chr(10))[0]}")  # 只显示第一行
 
-            # 风险关键词过滤
-            if is_risk_signal(message_text):
-                stats['skipped'] += 1
-                print(f"   ⏭️  风险信号,跳过")
-                print()
-                return
+            if channel_username == 'BWE_OI_Price_monitor':
+                # 方程式频道: 使用专门解析器
+                fcs_data = parse_fangchengshi_signal(message_text)
+                if not fcs_data:
+                    stats['skipped'] += 1
+                    print("   ⏭️  方程式信号解析失败")
+                    print()
+                    return
 
-            symbol = extract_symbol(message_text)
-            if not symbol:
-                stats['skipped'] += 1
-                print("   ⏭️  缺少币种信息,跳过")
-                print()
-                return
+                symbol = fcs_data['symbol']
+                raw_message = format_fangchengshi_signal(fcs_data)
+
+                print(f"   🎯 币种: {symbol} (方程式OI&Price异动)")
+                print(f"      方向: {fcs_data['direction']}")
+                print(f"      OI变化: {fcs_data['oi_change_pct']:+.1f}%")
+                print(f"      价格变化: {fcs_data['price_change_pct']:+.1f}%")
+            else:
+                # Valuescan频道: 保持原有逻辑
+                # 风险关键词过滤
+                if is_risk_signal(message_text):
+                    stats['skipped'] += 1
+                    print(f"   ⏭️  风险信号,跳过")
+                    print()
+                    return
+
+                symbol = extract_symbol(message_text)
+                if not symbol:
+                    stats['skipped'] += 1
+                    print("   ⏭️  缺少币种信息,跳过")
+                    print()
+                    return
+
+                raw_message = message_text
+                print(f"   🎯 币种: {symbol}")
 
             signal_data = {
                 'symbol': symbol,
-                'raw_message': message_text,
+                'raw_message': raw_message,
                 'timestamp': time.time()
             }
 
-            print(f"   🎯 币种: {symbol}")
             print(f"      Payload字段: symbol/raw_message/timestamp")
 
             # 转发到Rust引擎
@@ -233,6 +348,11 @@ class SignalForwarder:
     async def cleanup(self):
         """清理资源"""
         self.running = False
+
+        # 停止 OI 监控
+        if self.oi_monitor:
+            await self.oi_monitor.stop()
+
         await self.http_client.aclose()
         await self.client.disconnect()
         print("✅ 资源已清理")
@@ -259,6 +379,10 @@ async def main():
     print("   使用库: Telethon v1.42+ (Production/Stable)", flush=True)
     print("   架构: Python (Telegram) → HTTP → Rust (AI引擎)", flush=True)
     print("   频道: valuescaner", flush=True)
+    if ENABLE_OI_MONITOR:
+        print(f"   OI监控: 已启用 (阈值 {OI_THRESHOLD}%, 周期 {OI_SCAN_INTERVAL}m)", flush=True)
+    else:
+        print("   OI监控: 已禁用", flush=True)
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━", flush=True)
     print(flush=True)
 

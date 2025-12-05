@@ -41,9 +41,9 @@ pub const MEME_COINS: [&str; 7] = [
     "PEPEUSDT",
 ];
 
-// 是否使用 Valuescan V2 方法论
+// 是否使用 Valuescan V3 Prompt（完整关键位+Fibonacci+三屏看盘）
 lazy_static! {
-    pub static ref USE_VALUESCAN_V2: bool = env::var("USE_VALUESCAN_V2")
+    pub static ref USE_VALUESCAN_V3: bool = env::var("USE_VALUESCAN_V3")
         .map(|value| {
             let normalized = value.trim().to_ascii_lowercase();
             matches!(normalized.as_str(), "1" | "true" | "yes" | "on")

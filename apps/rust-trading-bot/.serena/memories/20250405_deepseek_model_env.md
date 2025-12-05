@@ -1,0 +1,1 @@
+2025-04-05：DeepSeekClient 现从环境变量 DEEPSEEK_MODEL 读取模型名称，默认值仍为 "deepseek-ai/DeepSeek-V2.5"。所有 DeepSeek API 请求统一使用 self.model，便于通过环境变量快速切换模型。

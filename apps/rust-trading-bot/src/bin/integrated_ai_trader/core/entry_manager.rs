@@ -20,7 +20,7 @@ use rust_trading_bot::{
     BinanceClient,
 };
 
-use super::super::modules::config::USE_VALUESCAN_V2;
+use super::super::modules::config::USE_VALUESCAN_V3;
 use super::super::modules::types::{
     EntryExecutionRequest, EntryManagerConfig, EntryPromptContext, PendingEntry, PositionTracker,
     SignalHistory, SignalRecord,
@@ -416,10 +416,10 @@ impl EntryManager {
 
         let entry_action_str = format!("{:?}", entry_decision.action);
 
-        let use_valuescan_v2 = *USE_VALUESCAN_V2;
+        let use_valuescan_v2 = *USE_VALUESCAN_V3;
         info!(
-            "🤖 Valuescan版本: {} (USE_VALUESCAN_V2={})",
-            if use_valuescan_v2 { "V2" } else { "V1" },
+            "🤖 Valuescan版本: {} (USE_VALUESCAN_V3={})",
+            if use_valuescan_v2 { "V3" } else { "V1" },
             use_valuescan_v2
         );
 

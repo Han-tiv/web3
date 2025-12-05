@@ -218,7 +218,5 @@ monitor.pid
 apps/.env
 
 # 新项目 - 独立开发中
-apps/Binance-Event-Contract-Interface/
-apps/ec_predict_flow/
 .venv/
 

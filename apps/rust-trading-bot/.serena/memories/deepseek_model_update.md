@@ -1,0 +1,1 @@
+2025-04-05：在 src/ai_core/deepseek/mod.rs 中所有 DeepSeek API 请求的 `model` 字段已统一改为 `deepseek-ai/DeepSeek-V2.5`（原 `deepseek-chat`），以匹配 SiliconFlow API 要求；记得保持该名称以免请求被拒绝。

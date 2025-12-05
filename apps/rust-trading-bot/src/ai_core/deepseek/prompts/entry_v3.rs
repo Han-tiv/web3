@@ -77,6 +77,13 @@ pub fn build_entry_analysis_prompt_v3(ctx: &EntryPromptContext<'_>) -> String {
 - 距关键位 3-10%：安全区，可操作
 - 距关键位 > 10%：箱体中间飘，等到边界
 
+**关键位间距检查 (P0风控)**:
+计算公式: 间距% = (阻力价 - 支撑价) / 支撑价 * 100%
+- 间距 ≥ 1.5%: 安全区，可操作
+- 间距 1.0-1.5%: 扣2分，谨慎操作
+- 间距 < 1.0%: 扣3分，极度危险，建议SKIP
+示例: 支撑$1.6261, 阻力$1.6325 → 间距0.39% → 扣3分 → SKIP
+
 **Fib回撤 (辅助验证)**:
 - 0.5 和 0.618 是黄金回撤区
 - 关键位与Fib重合 = 最佳入场点
@@ -137,6 +144,7 @@ pub fn build_entry_analysis_prompt_v3(ctx: &EntryPromptContext<'_>) -> String {
 - 没有反转K线，硬冲进去
 - 资金和价格方向打架 (背离)
 - 风险收益比 < 2:1
+- 关键位间距 < 1.5% (支撑阻力太近，操作空间不足，容易被扫损)
 - 感觉不对劲
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -151,6 +159,7 @@ pub fn build_entry_analysis_prompt_v3(ctx: &EntryPromptContext<'_>) -> String {
     "targets": {{"tp1": Fib0.236目标, "tp2": 前高低目标, "tp3": Fib1.618延伸}},
     "rr_ratio": 风险收益比,
     "position_pct": 仓位百分比,
+    "valuescan_score": 综合评分0-10(趋势+关键位+反转信号+资金流+风险收益; 关键位间距<1.5%扣2分,<1.0%扣3分),
     "key_levels": {{"support": 支撑价, "resistance": 阻力价, "big_candle_mid": 大K线中点价}},
     "fib_levels": {{"fib_0236": 价格, "fib_05": 价格, "fib_0618": 价格, "fib_1618": 价格}},
     "in_vacuum": true/false,
