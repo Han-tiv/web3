@@ -120,11 +120,7 @@ impl SignalService {
     }
 
     /// 检查信号是否重复（去重）
-    pub async fn is_duplicate_signal(
-        &self,
-        symbol: &str,
-        within_minutes: i64,
-    ) -> Result<bool> {
+    pub async fn is_duplicate_signal(&self, symbol: &str, within_minutes: i64) -> Result<bool> {
         // 检查最近N分钟内是否有相同币种的信号
         // 这需要查询数据库
         debug!(
@@ -148,9 +144,9 @@ mod tests {
             "test_secret".to_string(),
             true,
         ));
-        
+
         let service = SignalService::new(db, exchange);
-        
+
         // 基本测试：确保服务可以创建
         assert!(true);
     }
@@ -163,13 +159,13 @@ mod tests {
             "test_secret".to_string(),
             true,
         ));
-        
+
         let service = SignalService::new(db, exchange);
-        
+
         let result = service
             .process_telegram_signal("BTCUSDT", "Test message", Utc::now())
             .await;
-        
+
         assert!(result.is_ok());
         let alert = result.unwrap();
         assert_eq!(alert.coin, "BTCUSDT");

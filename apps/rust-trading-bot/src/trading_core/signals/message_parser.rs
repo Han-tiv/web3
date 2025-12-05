@@ -8,8 +8,8 @@ use log::{info, warn};
 use regex::Regex;
 use tokio::sync::RwLock;
 
-use crate::exchanges::binance::BinanceClient;
 use crate::config::database::Database;
+use crate::exchanges::binance::BinanceClient;
 use crate::signals::alert_classifier::{AlertType, FundAlert};
 use crate::telegram_signal::SignalAnalyzer;
 

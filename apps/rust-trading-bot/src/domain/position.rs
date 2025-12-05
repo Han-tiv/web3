@@ -47,9 +47,10 @@ impl Position {
                 self.pnl = (self.entry_price - self.current_price) * self.quantity;
             }
         }
-        
+
         if self.entry_price > 0.0 {
-            self.pnl_percentage = (self.pnl / (self.entry_price * self.quantity)) * 100.0 * self.leverage as f64;
+            self.pnl_percentage =
+                (self.pnl / (self.entry_price * self.quantity)) * 100.0 * self.leverage as f64;
         }
     }
 

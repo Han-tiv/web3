@@ -112,7 +112,10 @@ impl GeminiClient {
         // 先尝试使用主密钥(KEY_1)
         info!("🧠 调用 Gemini API KEY_1 ({})...", context_label);
 
-        match self.try_gemini_api_call(&url, &self.api_key_primary, &request, context_label).await {
+        match self
+            .try_gemini_api_call(&url, &self.api_key_primary, &request, context_label)
+            .await
+        {
             Ok(content) => return Ok(content),
             Err(primary_err) => {
                 error!("⚠️ Gemini API KEY_1 失败: {}", primary_err);
@@ -121,7 +124,10 @@ impl GeminiClient {
                 if let Some(ref fallback_key) = self.api_key_fallback {
                     info!("🔄 自动切换到 Gemini API KEY_2...");
 
-                    match self.try_gemini_api_call(&url, fallback_key, &request, context_label).await {
+                    match self
+                        .try_gemini_api_call(&url, fallback_key, &request, context_label)
+                        .await
+                    {
                         Ok(content) => {
                             info!("✅ KEY_2 调用成功,已完成故障切换");
                             return Ok(content);
@@ -954,6 +960,7 @@ MACD Signal: {:.4}
             current_price,
             profit_pct,
             hold_duration_hours,
+            quantity: 0.0,
             klines_5m,
             klines_15m,
             klines_1h,

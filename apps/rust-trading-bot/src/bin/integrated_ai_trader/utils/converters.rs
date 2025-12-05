@@ -3,6 +3,10 @@
 //! 提供毫秒时间戳转换、AI信号标准化、置信度评分映射等能力。
 
 use chrono::{DateTime, Utc};
+use rust_trading_bot::{
+    deepseek_client::{Kline as AiKline, TechnicalIndicators as AiIndicators},
+    market_data_fetcher::{Kline as MarketKline, TechnicalIndicators as MarketIndicators},
+};
 
 /// 将毫秒时间戳安全转换为 UTC 时间，若解析失败则回退到当前时间。
 pub fn timestamp_ms_to_datetime(ms: i64) -> DateTime<Utc> {
@@ -43,4 +47,51 @@ pub fn map_confidence_to_score(confidence: &str) -> f64 {
             .map(|value| value.clamp(0.0, 1.0))
             .unwrap_or(0.0),
     }
+}
+
+/// 将 AI K线转换为技术分析模块使用的标准 K 线结构
+pub fn convert_ai_klines_to_market(klines: &[AiKline]) -> Vec<MarketKline> {
+    klines
+        .iter()
+        .map(|k| MarketKline {
+            timestamp: k.timestamp,
+            open: k.open,
+            high: k.high,
+            low: k.low,
+            close: k.close,
+            volume: k.volume,
+        })
+        .collect()
+}
+
+/// 将技术分析模块输出的指标转换为 DeepSeek/Gemini 通用格式
+pub fn convert_market_indicators_to_ai(
+    indicators: &MarketIndicators,
+    reference_klines: &[AiKline],
+) -> AiIndicators {
+    AiIndicators {
+        sma_5: indicators.sma_5,
+        sma_20: indicators.sma_20,
+        sma_50: calculate_sma(reference_klines, 50),
+        rsi: indicators.rsi_15m,
+        macd: indicators.macd,
+        macd_signal: indicators.macd_signal,
+        bb_upper: indicators.bb_upper,
+        bb_middle: indicators.bb_middle,
+        bb_lower: indicators.bb_lower,
+    }
+}
+
+fn calculate_sma(klines: &[AiKline], period: usize) -> f64 {
+    if klines.is_empty() {
+        return 0.0;
+    }
+
+    let take = klines.len().min(period);
+    if take == 0 {
+        return 0.0;
+    }
+
+    let sum: f64 = klines.iter().rev().take(take).map(|k| k.close).sum();
+    sum / take as f64
 }

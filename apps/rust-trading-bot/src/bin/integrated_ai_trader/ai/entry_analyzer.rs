@@ -6,6 +6,8 @@ use rust_trading_bot::{
 };
 use std::sync::Arc;
 
+use super::super::utils::converters::convert_ai_klines_to_market;
+
 pub struct EntryAnalyzer {
     entry_zone_analyzer: Arc<EntryZoneAnalyzer>,
 }
@@ -28,7 +30,11 @@ impl EntryAnalyzer {
         info!("📊 第1步: 分析1h主入场区");
         info!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
 
-        let zone_1h = match self.entry_zone_analyzer.analyze_1h_entry_zone(klines_1h) {
+        let market_klines_1h = convert_ai_klines_to_market(klines_1h);
+        let zone_1h = match self
+            .entry_zone_analyzer
+            .analyze_1h_entry_zone(&market_klines_1h)
+        {
             Ok(zone) => zone,
             Err(e) => {
                 return Err(anyhow!("1h entry zone analysis failed: {}", e));
@@ -48,9 +54,10 @@ impl EntryAnalyzer {
         info!("📊 第2步: 分析15m辅助入场区");
         info!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
 
+        let market_klines_15m = convert_ai_klines_to_market(klines_15m);
         let zone_15m = match self
             .entry_zone_analyzer
-            .analyze_15m_entry_zone(klines_15m, &zone_1h)
+            .analyze_15m_entry_zone(&market_klines_15m, &zone_1h)
         {
             Ok(zone) => zone,
             Err(e) => {

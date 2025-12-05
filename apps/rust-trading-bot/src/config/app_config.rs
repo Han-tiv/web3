@@ -2,9 +2,9 @@
 //!
 //! 中心化的配置管理系统，支持从环境变量和配置文件加载
 
+use anyhow::Result;
 use serde::{Deserialize, Serialize};
 use std::env;
-use anyhow::Result;
 
 /// 应用总配置
 #[derive(Debug, Clone, Deserialize, Serialize)]
@@ -98,18 +98,42 @@ pub struct MonitoringConfig {
 }
 
 // 默认值函数
-fn default_min_position() -> f64 { 5.0 }
-fn default_max_position() -> f64 { 5.0 }
-fn default_min_leverage() -> u32 { 5 }
-fn default_max_leverage() -> u32 { 15 }
-fn default_initial_balance() -> f64 { 50.03 }
-fn default_max_daily_loss() -> f64 { 100.0 }
-fn default_max_positions() -> usize { 5 }
-fn default_max_tracked_coins() -> usize { 100 }
-fn default_coin_ttl_hours() -> i64 { 24 }
-fn default_position_check_interval() -> u64 { 180 }
-fn default_cleanup_interval() -> u64 { 60 }
-fn default_web_port() -> u16 { 8081 }
+fn default_min_position() -> f64 {
+    5.0
+}
+fn default_max_position() -> f64 {
+    5.0
+}
+fn default_min_leverage() -> u32 {
+    5
+}
+fn default_max_leverage() -> u32 {
+    15
+}
+fn default_initial_balance() -> f64 {
+    50.03
+}
+fn default_max_daily_loss() -> f64 {
+    100.0
+}
+fn default_max_positions() -> usize {
+    5
+}
+fn default_max_tracked_coins() -> usize {
+    100
+}
+fn default_coin_ttl_hours() -> i64 {
+    24
+}
+fn default_position_check_interval() -> u64 {
+    180
+}
+fn default_cleanup_interval() -> u64 {
+    60
+}
+fn default_web_port() -> u16 {
+    8081
+}
 
 impl AppConfig {
     /// 从环境变量加载配置

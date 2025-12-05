@@ -4,7 +4,7 @@ use rust_trading_bot::{deepseek_client::PositionManagementDecision, gemini_clien
 use std::sync::Arc;
 
 use super::super::{PositionAction, PositionContextRequest, PositionEvaluationStep};
-use crate::trader::build_position_prompt_v2;
+use crate::trader::build_position_prompt_v3;
 
 use super::{context_builder::ContextBuilder, decision_handler::DecisionHandler};
 
@@ -44,7 +44,7 @@ impl PositionEvaluator {
             PositionEvaluationStep::Skip => Ok(None),
             PositionEvaluationStep::Immediate(action) => Ok(Some(action)),
             PositionEvaluationStep::Context(ctx) => {
-                let prompt = build_position_prompt_v2(&ctx);
+                let prompt = build_position_prompt_v3(&ctx);
 
                 let ai_decision_result = tokio::time::timeout(
                     tokio::time::Duration::from_secs(180),

@@ -1,5 +1,5 @@
-use crate::ai_core::prompt_builder::PromptBuilder;
 use crate::ai_core::deepseek::{Kline, TechnicalIndicators};
+use crate::ai_core::prompt_builder::PromptBuilder;
 use serde_json::Value;
 
 // 备用 prompt 构建函数,供 V2 批量评估实验使用

@@ -31,6 +31,7 @@ pub struct PositionPromptContext<'a> {
     pub current_price: f64,
     pub profit_pct: f64,
     pub hold_duration_hours: f64,
+    pub quantity: f64,
     pub klines_5m: &'a [Kline],
     pub klines_15m: &'a [Kline],
     pub klines_1h: &'a [Kline],

@@ -8,7 +8,7 @@ use std::sync::Arc;
 use tokio::sync::RwLock;
 
 use rust_trading_bot::{
-    database::Database,
+    config::database::Database,
     signal_parser::SignalParser,
     signals::{AlertType, FundAlert},
 };

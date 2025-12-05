@@ -1,16 +1,19 @@
 use anyhow::Result;
 use log::{info, warn};
 use rust_trading_bot::{
-    binance_client::BinanceClient,
     deepseek_client::Kline,
     exchange_trait::ExchangeClient,
     support_analyzer::{Kline as SupportKline, SupportAnalysisRequest, SupportAnalyzer},
     technical_analysis::TechnicalAnalyzer,
+    BinanceClient,
 };
 use std::sync::Arc;
 use tokio::time;
 
-use super::super::utils::validators::is_meme_coin;
+use super::super::utils::{
+    converters::{convert_ai_klines_to_market, convert_market_indicators_to_ai},
+    validators::is_meme_coin,
+};
 use super::super::{
     PositionAction, PositionContextRequest, PositionEvaluationStep, PositionMarketContext,
     PreparedPositionContext,
@@ -408,7 +411,9 @@ impl ContextBuilder {
             return Ok(None);
         }
 
-        let indicators = self.analyzer.calculate_indicators(&klines_15m);
+        let market_klines_15m = convert_ai_klines_to_market(&klines_15m);
+        let market_indicators = self.analyzer.calculate_indicators(&market_klines_15m);
+        let indicators = convert_market_indicators_to_ai(&market_indicators, &klines_15m);
 
         Ok(Some(PositionMarketContext {
             klines_5m,

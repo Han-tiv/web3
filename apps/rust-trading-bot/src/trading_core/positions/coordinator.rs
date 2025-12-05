@@ -259,7 +259,10 @@ impl PositionCoordinator {
                 } else {
                     TradePriority::Medium
                 },
-                reason: format!("AI建议开多: {}", "Legacy code - needs PositionDecision field mapping"),
+                reason: format!(
+                    "AI建议开多: {}",
+                    "Legacy code - needs PositionDecision field mapping"
+                ),
                 ai_confidence: confidence.to_string(),
                 leverage,
             }),
@@ -273,7 +276,10 @@ impl PositionCoordinator {
                 } else {
                     TradePriority::Medium
                 },
-                reason: format!("AI建议开空: {}", "Legacy code - needs PositionDecision field mapping"),
+                reason: format!(
+                    "AI建议开空: {}",
+                    "Legacy code - needs PositionDecision field mapping"
+                ),
                 ai_confidence: confidence.to_string(),
                 leverage,
             }),
@@ -308,7 +314,10 @@ impl PositionCoordinator {
                 action_type,
                 quantity: position.size * 0.2, // 加20%仓位
                 priority: TradePriority::Medium,
-                reason: format!("高信心同向信号，加仓: {}", "Legacy code - needs PositionDecision field mapping"),
+                reason: format!(
+                    "高信心同向信号，加仓: {}",
+                    "Legacy code - needs PositionDecision field mapping"
+                ),
                 ai_confidence: confidence.to_string(),
                 leverage,
             })
@@ -353,7 +362,10 @@ impl PositionCoordinator {
             action_type: reverse_type,
             quantity: position.size, // 记录原仓位大小，执行器会处理
             priority: TradePriority::High,
-            reason: format!("高信心反向信号: {}", "Legacy code - needs PositionDecision field mapping"),
+            reason: format!(
+                "高信心反向信号: {}",
+                "Legacy code - needs PositionDecision field mapping"
+            ),
             ai_confidence: confidence.to_string(),
             leverage,
         })

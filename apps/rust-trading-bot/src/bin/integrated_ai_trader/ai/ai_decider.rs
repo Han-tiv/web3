@@ -12,7 +12,7 @@ use tokio::time;
 
 use super::super::{
     modules::types::EntryPromptContext,
-    trader::{build_entry_prompt_v1, build_entry_prompt_v2},
+    trader::{build_entry_prompt_v1, build_entry_prompt_v3},
 };
 
 pub struct AIDecider {
@@ -108,7 +108,7 @@ impl AIDecider {
                 technical_indicators: None,
             };
 
-            let prompt = build_entry_prompt_v2(&ctx);
+            let prompt = build_entry_prompt_v3(&ctx);
 
             let ai_decision_result = time::timeout(
                 time::Duration::from_secs(180),

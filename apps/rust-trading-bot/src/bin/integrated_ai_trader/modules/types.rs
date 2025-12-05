@@ -3,16 +3,16 @@
 //! 从 trader.rs 提取的所有数据结构
 
 use chrono::{DateTime, Utc};
-use rust_trading_bot::binance_client::BinanceClient;
-use rust_trading_bot::database::Database;
-pub use rust_trading_bot::deepseek_client::TechnicalIndicators;
+use rust_trading_bot::config::database::Database;
 use rust_trading_bot::deepseek_client::Kline;
+pub use rust_trading_bot::deepseek_client::TechnicalIndicators;
 use rust_trading_bot::entry_zone_analyzer::{EntryDecision, EntryZone, EntryZoneAnalyzer};
 use rust_trading_bot::gemini_client::GeminiClient;
 pub use rust_trading_bot::prompt_contexts::{EntryPromptContext, PositionPromptContext};
 use rust_trading_bot::signals::FundAlert;
 use rust_trading_bot::staged_position_manager::StagedPositionManager;
 use rust_trading_bot::technical_analysis::TechnicalAnalyzer;
+use rust_trading_bot::BinanceClient;
 use serde::{Deserialize, Serialize};
 use std::collections::{HashMap, VecDeque};
 use std::sync::Arc;

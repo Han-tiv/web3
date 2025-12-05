@@ -100,14 +100,14 @@ pub struct VacuumZoneAnalysis {
 /// 跌破不收回信号结构 (V2.1 NEW)
 #[derive(Debug, Deserialize, Serialize, Clone)]
 pub struct BreakWithoutRecovery {
-    pub detected: bool,                     // 是否检测到破位
-    pub level_broken: Option<f64>,          // 被跌破的关键位价格
+    pub detected: bool,            // 是否检测到破位
+    pub level_broken: Option<f64>, // 被跌破的关键位价格
     #[serde(default)]
-    pub timeframe: Option<String>,          // "5m", "15m", "1h" (允许null)
+    pub timeframe: Option<String>, // "5m", "15m", "1h" (允许null)
     #[serde(default)]
-    pub bars_since_break: Option<i32>,      // 破位后K线数量 (允许null)
+    pub bars_since_break: Option<i32>, // 破位后K线数量 (允许null)
     #[serde(default)]
-    pub recovery_attempts: Option<i32>,     // 收回尝试次数 (允许null)
+    pub recovery_attempts: Option<i32>, // 收回尝试次数 (允许null)
     #[serde(default)]
     pub confirmation_level: Option<String>, // "初步", "中期", "强确认" (允许null)
 }

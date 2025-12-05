@@ -352,7 +352,7 @@ impl BinanceClient {
             "✅ 开多成功: {} x{} 杠杆, 数量: {}, 限价: ${:.4}",
             symbol, leverage, quantity, limit_price
         );
-        
+
         Ok(OrderResult {
             order_id,
             symbol: symbol.to_string(),
@@ -395,7 +395,7 @@ impl BinanceClient {
             "✅ 开空成功: {} x{} 杠杆, 数量: {}, 限价: ${:.4}",
             symbol, leverage, quantity, limit_price
         );
-        
+
         Ok(OrderResult {
             order_id,
             symbol: symbol.to_string(),
@@ -486,13 +486,18 @@ impl BinanceClient {
         Ok(())
     }
 
-    pub async fn close_position(&self, symbol: &str, side: &str, quantity: f64) -> Result<OrderResult> {
+    pub async fn close_position(
+        &self,
+        symbol: &str,
+        side: &str,
+        quantity: f64,
+    ) -> Result<OrderResult> {
         let order_side = if side == "LONG" { "SELL" } else { "BUY" };
-        
+
         self.market_order(symbol, quantity, order_side).await?;
-        
+
         info!("✅ 平仓成功: {} {} {}", symbol, side, quantity);
-        
+
         Ok(OrderResult {
             order_id: format!("close_{}_{}", symbol, chrono::Utc::now().timestamp()),
             symbol: symbol.to_string(),

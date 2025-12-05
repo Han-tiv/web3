@@ -2,14 +2,13 @@ use anyhow::Result;
 use chrono::Utc;
 use log::{error, info, warn};
 use rust_trading_bot::{
-    binance_client::BinanceClient,
-    database::Database,
+    config::database::Database,
     deepseek_client::Kline,
     entry_zone_analyzer::{Confidence, EntryDecision, EntryZone},
     signals::FundAlert,
     staged_position_manager::StagedPositionManager,
     technical_analysis::TechnicalAnalyzer,
-    trading::OrderManager,
+    BinanceClient,
 };
 use std::{collections::HashMap, sync::Arc};
 use teloxide::Bot as TelegramBot;
@@ -19,10 +18,14 @@ use super::super::{
     modules::types::{
         PendingEntry, PositionAction, PositionTracker, SignalHistory, TrackerMutation,
     },
-    utils::validators::validate_entry_zone,
+    utils::{
+        converters::{convert_ai_klines_to_market, convert_market_indicators_to_ai},
+        validators::validate_entry_zone,
+    },
 };
 
 use super::{
+    order_manager::OrderManager,
     position_closer::{CloseParams, PartialCloseParams, PositionCloser},
     trigger_monitor::TriggerMonitor,
 };
@@ -135,7 +138,9 @@ impl OrderExecutor {
 
         let signal_price = klines_5m.last().map(|k| k.close).unwrap_or(current_price);
         let entry_zone = (zone_1h.entry_range.0, zone_1h.entry_range.1);
-        let indicators = analyzer.calculate_indicators(&klines);
+        let market_klines = convert_ai_klines_to_market(&klines);
+        let market_indicators = analyzer.calculate_indicators(&market_klines);
+        let indicators = convert_market_indicators_to_ai(&market_indicators, &klines);
 
         if !validate_entry_zone(
             signal_price,

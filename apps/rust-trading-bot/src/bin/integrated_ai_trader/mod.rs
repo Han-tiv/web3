@@ -77,15 +77,13 @@ pub use trader::IntegratedAITrader;
 
 use anyhow::Result;
 use log::{error, info, warn};
-use std::env;
 use std::sync::Arc;
 use std::time::Duration as StdDuration;
 
 use rust_trading_bot::{
-    binance_client::BinanceClient,
-    database::Database,
+    config::database::Database,
     signals::{AlertType, FundAlert, SignalContext},
-    web_server,
+    web_server, BinanceClient,
 };
 
 /// 主程序入口
@@ -131,7 +129,8 @@ pub async fn main() -> Result<()> {
         config.ai.deepseek_api_key.clone(),
         config.ai.gemini_api_key.clone(),
         db.clone(),
-    ).await?;
+    )
+    .await?;
 
     // 恢复启动前已存在的持仓
     if let Err(e) = trader.sync_existing_positions().await {
@@ -157,19 +156,29 @@ fn print_startup_banner() {
 /// 加载配置
 fn load_configuration() -> Result<rust_trading_bot::config::AppConfig> {
     info!("🎯 加载系统配置...");
-    
+
     let config = rust_trading_bot::config::AppConfig::from_env()?;
-    
+
     info!("🎯 系统配置:");
     info!("  信号来源: Python Telegram Monitor → Web API /api/signals");
     info!("  监控类型: Alpha机会 + FOMO信号");
     info!("  交易策略: 主力关键位 + 日内波段");
     info!("  AI引擎: DeepSeek(入场分析V2) + Gemini(持仓管理-批量评估)");
     info!("  交易所: Binance");
-    info!("  测试模式: {}", if config.exchange.testnet { "是" } else { "否" });
+    info!(
+        "  测试模式: {}",
+        if config.exchange.testnet {
+            "是"
+        } else {
+            "否"
+        }
+    );
     info!("  最大仓位: {} USDT", config.trading.max_position_usdt);
-    info!("  杠杆范围: {}x - {}x\n", config.trading.min_leverage, config.trading.max_leverage);
-    
+    info!(
+        "  杠杆范围: {}x - {}x\n",
+        config.trading.min_leverage, config.trading.max_leverage
+    );
+
     Ok(config)
 }
 

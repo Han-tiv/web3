@@ -4,7 +4,6 @@ use log::{error, info, warn};
 use rust_trading_bot::{
     exchange_trait::ExchangeClient,
     staged_position_manager::{StagedPosition, StagedPositionManager},
-    trading::OrderManager,
 };
 use std::sync::Arc;
 use teloxide::{prelude::Requester, types::ChatId, Bot as TelegramBot};
@@ -18,6 +17,7 @@ use super::super::{
     data::{HistoryRecorder, TrackerManager, TradeRecordParams},
     modules::types::PositionTracker,
 };
+use super::order_manager::OrderManager;
 
 pub struct PositionCloser {
     exchange: Arc<dyn ExchangeClient + Send + Sync>,

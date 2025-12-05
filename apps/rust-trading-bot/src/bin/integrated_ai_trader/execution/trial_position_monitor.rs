@@ -8,6 +8,7 @@ use rust_trading_bot::{
 use tokio::time;
 
 use super::super::trader::IntegratedAITrader;
+use super::super::utils::converters::convert_ai_klines_to_market;
 
 pub struct TrialPositionMonitor {
     trader: Weak<IntegratedAITrader>,
@@ -162,10 +163,14 @@ impl TrialPositionMonitor {
                     }
                 };
 
+                let market_klines_5m = convert_ai_klines_to_market(&klines_5m);
+                let market_klines_15m = convert_ai_klines_to_market(&klines_15m);
+                let market_klines_1h = convert_ai_klines_to_market(&klines_1h);
+
                 match trader.launch_detector.detect_launch_signal(
-                    &klines_5m,
-                    &klines_15m,
-                    &klines_1h,
+                    &market_klines_5m,
+                    &market_klines_15m,
+                    &market_klines_1h,
                     position.trial_entry_price,
                     current_price,
                 ) {

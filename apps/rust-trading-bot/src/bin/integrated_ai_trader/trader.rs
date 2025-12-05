@@ -3,7 +3,8 @@ use super::ai::{
 };
 use super::core::EntryManager;
 use super::execution::{
-    ActionExecutor, BatchEvaluator, PositionProtector, StagedStopLossMonitor, TrialPositionMonitor,
+    ActionExecutor, BatchEvaluator, OrderManager, PositionProtector, StagedStopLossMonitor,
+    TrialPositionMonitor,
 };
 /// 集成AI交易系统 - 整合主力资金监控 + Gemini AI + 多交易所执行
 ///
@@ -33,13 +34,15 @@ use tokio::{
     sync::{Mutex, RwLock},
 };
 
-use rust_trading_bot::ai::PromptBuilder;
-use rust_trading_bot::database::{AiAnalysisRecord, Database, TradeRecord as DbTradeRecord};
+use rust_trading_bot::ai_core::PromptBuilder;
+use rust_trading_bot::config::database::{
+    AiAnalysisRecord, Database, TradeRecord as DbTradeRecord,
+};
 use rust_trading_bot::{
-    binance_client::BinanceClient,
     deepseek_client::{EnhancedPositionAnalysis, Kline, TechnicalIndicators, TradingSignal},
     entry_zone_analyzer::{EntryAction, EntryZoneAnalyzer},
     exchange_trait::{ExchangeClient, Position},
+    exchanges::binance::client::RiskLevel,
     gemini_client::GeminiClient,
     key_level_finder::KeyLevelFinder,
     launch_signal_detector::LaunchSignalDetector,
@@ -47,7 +50,7 @@ use rust_trading_bot::{
     signals::{AlertType, FundAlert, MessageParser, SignalContext},
     staged_position_manager::{StagedPosition, StagedPositionManager},
     technical_analysis::TechnicalAnalyzer,
-    trading::OrderManager,
+    BinanceClient,
 };
 
 #[path = "trader_entry_executor.rs"]
@@ -144,7 +147,9 @@ impl IntegratedAITrader {
             }
         };
         let order_manager = OrderManager::new(exchange.clone());
-        let deepseek = Arc::new(rust_trading_bot::deepseek_client::DeepSeekClient::new(deepseek_api_key));
+        let deepseek = Arc::new(rust_trading_bot::deepseek_client::DeepSeekClient::new(
+            deepseek_api_key,
+        ));
         let gemini = Arc::new(GeminiClient::new(gemini_api_key));
         let analyzer = Arc::new(TechnicalAnalyzer::new());
         let context_builder = ContextBuilder::new(exchange.clone(), analyzer.clone());
@@ -1393,7 +1398,6 @@ impl IntegratedAITrader {
 
         // 构建历史表现提示
         let _history_prompt = if let Some(perf) = &perf_opt {
-            use rust_trading_bot::binance_client::{BinanceClient, RiskLevel};
             let risk_level = BinanceClient::get_risk_level(perf);
 
             info!(
@@ -2265,6 +2269,24 @@ pub fn build_entry_prompt_v2(ctx: &EntryPromptContext<'_>) -> String {
     )
 }
 
+/// V3 Entry Prompt - 交易员思维版
+/// 整合: Valuescan关键位 + Fibonacci回撤 + 多周期共振
+/// 核心改进: 不追涨杀跌，等回撤到关键位确认反转再入场
+pub fn build_entry_prompt_v3(ctx: &EntryPromptContext<'_>) -> String {
+    let client = rust_trading_bot::deepseek_client::DeepSeekClient::new(String::new());
+    client.build_entry_analysis_prompt_v3(
+        ctx.symbol,
+        ctx.alert_type,
+        ctx.alert_message,
+        ctx.flow_text,
+        ctx.fund_type,
+        ctx.klines_5m,
+        ctx.klines_15m,
+        ctx.klines_1h,
+        ctx.current_price,
+    )
+}
+
 pub fn build_entry_prompt_v1(ctx: &EntryPromptContext<'_>) -> String {
     build_entry_prompt("Valuescan V1", ctx)
 }
@@ -2333,5 +2355,27 @@ pub fn build_position_prompt_v2(ctx: &PreparedPositionContext) -> String {
         kline_15m_text = kline_15m_text,
         kline_1h_text = kline_1h_text,
         indicators_text = indicators_text
+    )
+}
+
+/// V3 Position Prompt - 交易员趋势管理版
+pub fn build_position_prompt_v3(ctx: &PreparedPositionContext) -> String {
+    let client = rust_trading_bot::deepseek_client::DeepSeekClient::new(String::new());
+    client.build_position_management_prompt_v3(
+        &ctx.symbol,
+        &ctx.side,
+        ctx.entry_price,
+        ctx.current_price,
+        ctx.profit_pct,
+        ctx.duration,
+        ctx.quantity,
+        &ctx.market.klines_5m,
+        &ctx.market.klines_15m,
+        &ctx.market.klines_1h,
+        &ctx.market.indicators,
+        &ctx.support_text,
+        &ctx.deviation_desc,
+        ctx.current_stop_loss,
+        ctx.current_take_profit,
     )
 }

@@ -100,10 +100,7 @@ impl TradingError {
 
     /// 是否为致命错误
     pub fn is_fatal(&self) -> bool {
-        matches!(
-            self,
-            Self::InvalidConfig(_) | Self::Database(_)
-        )
+        matches!(self, Self::InvalidConfig(_) | Self::Database(_))
     }
 }
 
@@ -114,7 +111,10 @@ mod tests {
     #[test]
     fn test_error_display() {
         let err = TradingError::RiskLimit("Max position exceeded".to_string());
-        assert_eq!(err.to_string(), "Risk limit exceeded: Max position exceeded");
+        assert_eq!(
+            err.to_string(),
+            "Risk limit exceeded: Max position exceeded"
+        );
     }
 
     #[test]

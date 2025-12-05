@@ -1,9 +1,7 @@
 use anyhow::Result;
 use chrono::Utc;
 use log::{debug, info, warn};
-use rust_trading_bot::{
-    binance_client::BinanceClient, exchange_trait::ExchangeClient, trading::OrderManager,
-};
+use rust_trading_bot::{exchange_trait::ExchangeClient, BinanceClient};
 use std::{
     collections::{HashMap, HashSet},
     sync::Arc,
@@ -11,6 +9,7 @@ use std::{
 use tokio::sync::RwLock;
 
 use super::super::modules::types::{PositionTracker, TriggerOrderRecord};
+use super::order_manager::OrderManager;
 
 /// 触发单监控与互斥控制
 ///

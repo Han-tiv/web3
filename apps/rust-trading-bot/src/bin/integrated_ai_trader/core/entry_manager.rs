@@ -6,17 +6,18 @@ use chrono::{DateTime, Utc};
 use log::{error, info, warn};
 use tokio::sync::RwLock;
 
-use rust_trading_bot::database::{AiAnalysisRecord, Database};
+use rust_trading_bot::config::database::{AiAnalysisRecord, Database};
 use rust_trading_bot::{
-    binance_client::{BinanceClient, FundFlowMetrics},
     deepseek_client::{Kline, TradingSignal},
     entry_zone_analyzer::{EntryAction, EntryZoneAnalyzer},
     exchange_trait::ExchangeClient,
+    exchanges::binance::client::{FundFlowMetrics, RiskLevel},
     gemini_client::GeminiClient,
     signals::{AlertType, FundAlert},
     staged_position_manager::StagedPositionManager,
     technical_analysis::TechnicalAnalyzer,
     valuescan_v2::TradingSignalV2,
+    BinanceClient,
 };
 
 use super::super::modules::config::USE_VALUESCAN_V2;
@@ -24,9 +25,12 @@ use super::super::modules::types::{
     EntryExecutionRequest, EntryManagerConfig, EntryPromptContext, PendingEntry, PositionTracker,
     SignalHistory, SignalRecord,
 };
-use super::super::utils::converters::{map_confidence_to_score, normalize_signal_type};
+use super::super::utils::converters::{
+    convert_ai_klines_to_market, convert_market_indicators_to_ai, map_confidence_to_score,
+    normalize_signal_type,
+};
 use super::super::utils::validators::validate_entry_zone;
-use crate::trader::{build_entry_prompt_v1, build_entry_prompt_v2};
+use crate::trader::{build_entry_prompt_v1, build_entry_prompt_v3};
 
 pub struct EntryManager {
     pub exchange: Arc<BinanceClient>,
@@ -103,7 +107,6 @@ impl EntryManager {
 
         // 构建历史表现提示
         let _history_prompt = if let Some(perf) = &perf_opt {
-            use rust_trading_bot::binance_client::{BinanceClient, RiskLevel};
             let risk_level = BinanceClient::get_risk_level(perf);
 
             info!(
@@ -277,7 +280,11 @@ impl EntryManager {
         info!("📊 第1步: 分析1h主入场区");
         info!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
 
-        let zone_1h = match self.entry_zone_analyzer.analyze_1h_entry_zone(&klines_1h) {
+        let market_klines_1h = convert_ai_klines_to_market(&klines_1h);
+        let zone_1h = match self
+            .entry_zone_analyzer
+            .analyze_1h_entry_zone(&market_klines_1h)
+        {
             Ok(zone) => zone,
             Err(e) => {
                 warn!("❌ 1h入场区分析失败: {}", e);
@@ -299,9 +306,10 @@ impl EntryManager {
         info!("📊 第2步: 分析15m辅助入场区");
         info!("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
 
+        let market_klines_15m = convert_ai_klines_to_market(&klines);
         let zone_15m = match self
             .entry_zone_analyzer
-            .analyze_15m_entry_zone(&klines, &zone_1h)
+            .analyze_15m_entry_zone(&market_klines_15m, &zone_1h)
         {
             Ok(zone) => zone,
             Err(e) => {
@@ -442,7 +450,7 @@ impl EntryManager {
                 technical_indicators: None,
             };
 
-            let prompt = build_entry_prompt_v2(&ctx);
+            let prompt = build_entry_prompt_v3(&ctx);
 
             let ai_decision_result = tokio::time::timeout(
                 tokio::time::Duration::from_secs(180),
@@ -891,7 +899,9 @@ impl EntryManager {
         // 使用最新5m K线收盘价作为信号价，避免 alert.price 恒为 0 造成 inf 偏离
         let signal_price = klines_5m.last().map(|k| k.close).unwrap_or(current_price);
         let entry_zone = (zone_1h.entry_range.0, zone_1h.entry_range.1);
-        let indicators = self.analyzer.calculate_indicators(klines_15m);
+        let market_klines_15m = convert_ai_klines_to_market(klines_15m);
+        let market_indicators = self.analyzer.calculate_indicators(&market_klines_15m);
+        let indicators = convert_market_indicators_to_ai(&market_indicators, klines_15m);
 
         if !validate_entry_zone(
             signal_price,

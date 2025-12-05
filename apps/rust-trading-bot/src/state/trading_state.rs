@@ -5,8 +5,8 @@
 use dashmap::DashMap;
 use std::sync::Arc;
 
-use crate::domain::{Order, Signal};
 use crate::domain::position::Position as DomainPosition;
+use crate::domain::{Order, Signal};
 
 /// 交易状态容器
 pub struct TradingState {
@@ -171,18 +171,18 @@ mod tests {
 
     #[test]
     fn test_trading_state_signals() {
-        let state = TradingState::default(); 
-        
+        let state = TradingState::default();
+
         let signal = Signal::new(
             "BTCUSDT".to_string(),
             SignalType::FundInflow,
             SignalSource::Telegram,
             "Test".to_string(),
         );
-        
+
         state.add_signal("BTCUSDT".to_string(), signal.clone());
         assert!(state.get_signal("BTCUSDT").is_some());
-        
+
         let pending = state.get_pending_signals();
         assert_eq!(pending.len(), 1);
     }

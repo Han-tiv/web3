@@ -60,7 +60,10 @@ impl AnalysisService {
     }
 
     /// 批量分析多个持仓
-    pub async fn batch_analyze_positions(&self, symbols: &[String]) -> Result<Vec<PositionDecision>> {
+    pub async fn batch_analyze_positions(
+        &self,
+        symbols: &[String],
+    ) -> Result<Vec<PositionDecision>> {
         info!("🤖 批量分析 {} 个持仓", symbols.len());
 
         let mut decisions = Vec::new();

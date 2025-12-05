@@ -2,7 +2,7 @@ use anyhow::Result;
 use chrono::Utc;
 use log::{info, warn};
 use rust_trading_bot::{
-    database::{AiAnalysisRecord, Database},
+    config::database::{AiAnalysisRecord, Database},
     deepseek_client::PositionManagementDecision,
 };
 use std::sync::Arc;

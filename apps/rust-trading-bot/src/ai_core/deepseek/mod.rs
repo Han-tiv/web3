@@ -897,6 +897,43 @@ impl DeepSeekClient {
         prompts::entry_v2::build_entry_analysis_prompt_v2(&ctx)
     }
 
+    /// V3 Entry Prompt - 交易员思维版
+    /// 整合: Valuescan关键位 + Fibonacci回撤 + 多周期共振
+    /// 核心改进: 不追涨杀跌，等回撤到关键位确认反转再入场
+    pub fn build_entry_analysis_prompt_v3(
+        &self,
+        symbol: &str,
+        alert_type: &str,
+        alert_message: &str,
+        flow_text: &str,
+        fund_type: &str,
+        klines_5m: &[Kline],
+        klines_15m: &[Kline],
+        klines_1h: &[Kline],
+        current_price: f64,
+    ) -> String {
+        let ctx = EntryPromptContext {
+            symbol,
+            alert_type,
+            alert_message,
+            flow_text,
+            fund_type,
+            zone_1h_summary: "",
+            zone_15m_summary: "",
+            entry_action: "",
+            entry_reason: "",
+            klines_5m,
+            klines_15m,
+            klines_1h,
+            klines_4h: None,
+            current_price,
+            change_24h: None,
+            signal_type: None,
+            technical_indicators: None,
+        };
+        prompts::entry_v3::build_entry_analysis_prompt_v3(&ctx)
+    }
+
     /// 构建持仓管理分析 prompt - Valuescan关键位止盈法
     pub fn build_position_management_prompt_v2(
         &self,
@@ -920,6 +957,7 @@ impl DeepSeekClient {
             current_price,
             profit_pct,
             hold_duration_hours,
+            quantity: 0.0,
             klines_5m,
             klines_15m,
             klines_1h,
@@ -930,6 +968,46 @@ impl DeepSeekClient {
             current_take_profit: None,
         };
         prompts::position_v2::build_position_management_prompt_v2(&ctx)
+    }
+
+    /// V3 Position Prompt - 交易员趋势跟踪版
+    /// 核心: 顺大势、盯关键位、以趋势反转为唯一出场理由
+    pub fn build_position_management_prompt_v3(
+        &self,
+        symbol: &str,
+        side: &str,
+        entry_price: f64,
+        current_price: f64,
+        profit_pct: f64,
+        hold_duration_hours: f64,
+        quantity: f64,
+        klines_5m: &[Kline],
+        klines_15m: &[Kline],
+        klines_1h: &[Kline],
+        indicators: &TechnicalIndicators,
+        support_text: &str,
+        deviation_desc: &str,
+        current_stop_loss: Option<f64>,
+        current_take_profit: Option<f64>,
+    ) -> String {
+        let ctx = PositionPromptContext {
+            symbol,
+            side,
+            entry_price,
+            current_price,
+            profit_pct,
+            hold_duration_hours,
+            quantity,
+            klines_5m,
+            klines_15m,
+            klines_1h,
+            indicators,
+            support_text,
+            deviation_desc,
+            current_stop_loss,
+            current_take_profit,
+        };
+        prompts::position_v3::build_position_management_prompt_v3(&ctx)
     }
 
     /// 构建批量持仓评估 prompt，要求 DeepSeek 返回 JSON 数组决策

@@ -40,9 +40,13 @@ impl ExecutionService {
 
         // 执行开仓 - 直接使用BinanceClient返回的OrderResult
         let result = if side == "LONG" {
-            self.exchange.open_long(symbol, quantity, leverage, "CROSSED", false).await?
+            self.exchange
+                .open_long(symbol, quantity, leverage, "CROSSED", false)
+                .await?
         } else {
-            self.exchange.open_short(symbol, quantity, leverage, "CROSSED", false).await?
+            self.exchange
+                .open_short(symbol, quantity, leverage, "CROSSED", false)
+                .await?
         };
 
         info!("✅ 开仓成功: {:?}", result);
@@ -50,7 +54,12 @@ impl ExecutionService {
     }
 
     /// 平仓
-    pub async fn close_position(&self, symbol: &str, side: &str, quantity: f64) -> Result<OrderResult> {
+    pub async fn close_position(
+        &self,
+        symbol: &str,
+        side: &str,
+        quantity: f64,
+    ) -> Result<OrderResult> {
         info!("📤 执行平仓: {} {} {}", symbol, side, quantity);
 
         let result = self.exchange.close_position(symbol, side, quantity).await?;

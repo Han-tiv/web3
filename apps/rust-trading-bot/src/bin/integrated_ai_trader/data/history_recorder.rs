@@ -2,7 +2,7 @@ use anyhow::Result;
 use chrono::{DateTime, Utc};
 use log::warn;
 use rust_trading_bot::{
-    database::{Database, TradeRecord as DbTradeRecord},
+    config::database::{Database, TradeRecord as DbTradeRecord},
     staged_position_manager::StagedPosition,
 };
 use std::sync::Arc;
