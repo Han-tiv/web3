@@ -172,3 +172,9 @@ backtest_results/
 !**/sample_data.json
 !**/test_data.json
 
+.serena
+.venv
+apps/python-telegram-monitor/.venv
+apps/python-telegram-monitor/venv
+apps/python-telegram-monitor/__pycache__
+*.session
