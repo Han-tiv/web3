@@ -178,3 +178,4 @@ apps/python-telegram-monitor/.venv
 apps/python-telegram-monitor/venv
 apps/python-telegram-monitor/__pycache__
 *.sessionapps/ec_predict_flow/
+docs/data/
