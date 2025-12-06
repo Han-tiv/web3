@@ -1,5 +1,4 @@
 use anyhow::{anyhow, Context, Result};
-use async_trait::async_trait;
 use log::{error, info};
 use reqwest::Client;
 use serde::{Deserialize, Serialize};
