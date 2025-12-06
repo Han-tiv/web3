@@ -207,14 +207,33 @@ pub struct DeepSeekClient {
     client: Client,
     api_key: String,
     base_url: String,
+    model: String,        // 从env读取
+    temperature: f32,     // 从env读取
 }
 
 impl DeepSeekClient {
     pub fn new(api_key: String) -> Self {
+        // 从环境变量读取配置，提供默认值
+        let base_url = std::env::var("DEEPSEEK_LLM_BACKEND_URL")
+            .or_else(|_| std::env::var("DEEPSEEK_BASE_URL"))
+            .unwrap_or_else(|_| "https://api.deepseek.com/v1".to_string());
+        
+        let model = std::env::var("DEEPSEEK_MODEL")
+            .unwrap_or_else(|_| "deepseek-chat".to_string());
+        
+        let temperature = std::env::var("DEEPSEEK_TEMPERATURE")
+            .ok()
+            .and_then(|v| v.parse().ok())
+            .unwrap_or(0.7);
+        
+        log::info!("🔧 DeepSeek配置: model={}, base_url={}, temp={}", model, base_url, temperature);
+        
         Self {
             client: Client::new(),
             api_key,
-            base_url: "https://api.deepseek.com/v1".to_string(),
+            base_url,
+            model,
+            temperature,
         }
     }
 
@@ -257,7 +276,7 @@ impl DeepSeekClient {
     /// 分析市场并生成交易信号
     pub async fn analyze_market(&self, prompt: &str) -> Result<TradingSignal> {
         let request = DeepSeekRequest {
-            model: "deepseek-chat".to_string(),
+            model: self.model.clone(),
             messages: vec![Message {
                 role: "user".to_string(),
                 content: prompt.to_string(),
@@ -265,7 +284,7 @@ impl DeepSeekClient {
             response_format: Some(ResponseFormat {
                 format_type: "json_object".to_string(),
             }),
-            temperature: Some(0.7),
+            temperature: Some(self.temperature),
         };
 
         info!("🧠 调用 DeepSeek API...");
@@ -320,7 +339,7 @@ impl DeepSeekClient {
     /// 分析市场并生成 V2 版交易信号
     pub async fn analyze_market_v2(&self, prompt: &str) -> Result<TradingSignalV2> {
         let request = DeepSeekRequest {
-            model: "deepseek-chat".to_string(),
+            model: self.model.clone(),
             messages: vec![Message {
                 role: "user".to_string(),
                 content: prompt.to_string(),
@@ -328,7 +347,7 @@ impl DeepSeekClient {
             response_format: Some(ResponseFormat {
                 format_type: "json_object".to_string(),
             }),
-            temperature: Some(0.7),
+            temperature: Some(self.temperature),
         };
 
         info!("🧠 调用 DeepSeek API (V2 信号)...");
@@ -392,7 +411,7 @@ impl DeepSeekClient {
         prompt: &str,
     ) -> Result<PositionManagementDecision> {
         let request = DeepSeekRequest {
-            model: "deepseek-chat".to_string(),
+            model: self.model.clone(),
             messages: vec![Message {
                 role: "user".to_string(),
                 content: prompt.to_string(),
@@ -400,7 +419,7 @@ impl DeepSeekClient {
             response_format: Some(ResponseFormat {
                 format_type: "json_object".to_string(),
             }),
-            temperature: Some(0.7),
+            temperature: Some(self.temperature),
         };
 
         info!("🧠 调用 DeepSeek API 进行持仓管理分析...");
@@ -462,7 +481,7 @@ impl DeepSeekClient {
         prompt: &str,
     ) -> Result<EnhancedPositionAnalysis> {
         let request = DeepSeekRequest {
-            model: "deepseek-chat".to_string(),
+            model: self.model.clone(),
             messages: vec![Message {
                 role: "user".to_string(),
                 content: prompt.to_string(),
@@ -470,7 +489,7 @@ impl DeepSeekClient {
             response_format: Some(ResponseFormat {
                 format_type: "json_object".to_string(),
             }),
-            temperature: Some(0.7),
+            temperature: Some(self.temperature),
         };
 
         info!("🧠 调用 DeepSeek API 获取增强版持仓分析...");
