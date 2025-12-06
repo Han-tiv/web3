@@ -4571,40 +4571,56 @@ async fn main() -> Result<()> {
                         debug!("🔄 Telegram信号轮询: 暂无新信号");
                     } else {
                         info!("📡 轮询到 {} 条待处理的Telegram信号", records.len());
-                    }
-
-                    for record in records {
-                        let Some(record_id) = record.id else {
-                            warn!("⚠️ 忽略缺少ID的Telegram信号: {:?}", record.symbol);
-                            continue;
-                        };
-
-                        if let Err(err) = trader_for_signals
-                            .handle_valuescan_message(
-                                &record.symbol,
-                                &record.raw_message,
-                                record.score,
-                                &record.signal_type,
-                            )
-                            .await
-                        {
-                            warn!(
-                                "⚠️ 处理Telegram信号失败 (id={}, symbol={}): {}",
-                                record_id, record.symbol, err
-                            );
-                            continue;
-                        }
-
-                        if let Err(err) = polling_db.mark_telegram_signal_processed(record_id) {
-                            warn!(
-                                "⚠️ 标记Telegram信号处理状态失败 (id={}): {}",
-                                record_id, err
-                            );
-                        } else {
-                            info!(
-                                "✅ Telegram信号已处理完成: id={} symbol={}",
-                                record_id, record.symbol
-                            );
+                        
+                        // ✅ P0优化: 并发处理信号批次
+                        let futures: Vec<_> = records.into_iter().map(|record| {
+                            let trader = trader_for_signals.clone();
+                            let db = polling_db.clone();
+                            
+                            tokio::spawn(async move {
+                                let record_id = match record.id {
+                                    Some(id) => id,
+                                    None => {
+                                        warn!("⚠️ 忽略缺少ID的Telegram信号: {:?}", record.symbol);
+                                        return;
+                                    }
+                                };
+                                
+                                // 处理信号
+                                if let Err(err) = trader
+                                    .handle_valuescan_message(
+                                        &record.symbol,
+                                        &record.raw_message,
+                                        record.score,
+                                        &record.signal_type,
+                                    )
+                                    .await
+                                {
+                                    warn!(
+                                        "⚠️ 处理Telegram信号失败 (id={}, symbol={}): {}",
+                                        record_id, record.symbol, err
+                                    );
+                                    return;
+                                }
+                                
+                                // 标记已处理
+                                if let Err(err) = db.mark_telegram_signal_processed(record_id) {
+                                    warn!(
+                                        "⚠️ 标记Telegram信号处理状态失败 (id={}): {}",
+                                        record_id, err
+                                    );
+                                } else {
+                                    info!(
+                                        "✅ Telegram信号已处理完成: id={} symbol={}",
+                                        record_id, record.symbol
+                                    );
+                                }
+                            })
+                        }).collect();
+                        
+                        // 等待所有信号处理完成
+                        for future in futures {
+                            let _ = future.await;
                         }
                     }
                 }
