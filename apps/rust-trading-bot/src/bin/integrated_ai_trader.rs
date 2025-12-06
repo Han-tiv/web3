@@ -67,167 +67,13 @@ use rust_trading_bot::{
     staged_position_manager::{StagedPosition, StagedPositionManager},
     technical_analysis::TechnicalAnalyzer,
     valuescan_v2::TradingSignalV2,
+    // 使用新的signals和trading模块
+    signals::{AlertType, FundAlert, MessageParser, SignalContext},
+    trading::OrderManager,
 };
 
-// ============ 内联定义 - 原 signals 模块 ============
+// ============ 内联定义结束 ============
 
-/// 信号类型枚举
-#[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
-pub enum AlertType {
-    Inflow,      // 资金流入
-    Outflow,     // 资金出逃
-    FundEscape,  // 资金出逃（别名）
-}
-
-/// 资金异动信号
-#[derive(Debug, Clone, Serialize, Deserialize)]
-pub struct FundAlert {
-    pub coin: String,
-    pub raw_message: String,
-    pub change_24h: f64,
-    pub alert_type: AlertType,
-    pub fund_type: String,   // 资金类型描述
-    pub price: f64,          // 信号价格
-}
-
-/// 信号上下文 trait - 定义消息处理接口
-#[async_trait]
-pub trait SignalContext {
-    fn exchange(&self) -> Arc<BinanceClient>;
-    fn db(&self) -> &Database;
-    fn tracked_coins(&self) -> Arc<RwLock<HashMap<String, FundAlert>>>;
-    fn coin_ttl_hours(&self) -> i64;
-    fn max_tracked_coins(&self) -> usize;
-    async fn analyze_and_trade(&self, alert: FundAlert) -> Result<()>;
-}
-
-/// 消息解析器 - 静态方法集合
-pub struct MessageParser;
-
-impl MessageParser {
-    /// 清理过期追踪币种
-    pub async fn cleanup_tracked_coins(trader: &IntegratedAITrader) {
-        let now = Utc::now();
-        let ttl = Duration::hours(trader.coin_ttl_hours);
-        let mut tracked = trader.tracked_coins.write().await;
-        
-        let before_count = tracked.len();
-        
-        // 清理逻辑：移除空消息或过期的币种
-        // 注意：FundAlert没有timestamp字段，这里基于raw_message非空来保留
-        // 真正的TTL清理需要在FundAlert中添加timestamp字段
-        tracked.retain(|symbol, alert| {
-            // 保留有效的信号
-            if alert.raw_message.is_empty() {
-                debug!("🗑️ 清理空消息币种: {}", symbol);
-                false
-            } else {
-                true
-            }
-        });
-        
-        let after_count = tracked.len();
-        let removed = before_count - after_count;
-        
-        drop(tracked);
-        
-        if removed > 0 {
-            info!("🧹 清理追踪币种: 移除{}个, 剩余{}, TTL={}h", removed, after_count, trader.coin_ttl_hours);
-        } else {
-            debug!("🧹 追踪币种清理完成: 无需移除, 当前{}个", after_count);
-        }
-    }
-    
-    
-    /// 处理消息 - 解析Telegram文本消息并创建交易信号
-    pub async fn handle_message(trader: &IntegratedAITrader, text: &str) -> Result<()> {
-        debug!("📨 收到消息: {}", text.chars().take(100).collect::<String>());
-        
-        // 基础消息解析逻辑
-        // 1. 检查是否包含资金流入/流出关键词
-        let is_inflow = text.contains("流入") || text.contains("Inflow") || text.contains("资金异动");
-        let is_outflow = text.contains("流出") || text.contains("Outflow") || text.contains("出逃");
-        
-        if !is_inflow && !is_outflow {
-            debug!("⏭️ 跳过非资金信号消息");
-            return Ok(());
-        }
-        
-        // 2. 尝试提取币种符号 (简化版本，实际应使用coin_parser)
-        let symbol = extract_symbol_from_message(text);
-        if symbol.is_empty() {
-            warn!("⚠️ 无法从消息中提取币种符号");
-            return Ok(());
-        }
-        
-        // 3. 提取价格信息 (如果有)
-        let price = extract_price_from_message(text).unwrap_or(0.0);
-        
-        // 4. 创建FundAlert
-        let alert = FundAlert {
-            coin: symbol.clone(),
-            raw_message: text.to_string(),
-            change_24h: 0.0, // 需要从消息中提取或API获取
-            alert_type: if is_inflow { AlertType::Inflow } else { AlertType::Outflow },
-            fund_type: if is_inflow { "资金流入".to_string() } else { "资金流出".to_string() },
-            price,
-        };
-        
-        info!("📊 解析信号: {} | 类型:{} | 价格:{:.4}", symbol, alert.fund_type, price);
-        
-        // 5. 触发交易分析
-        trader.analyze_and_trade(alert).await
-    }
-    
-    /// 处理Valuescan消息
-    pub async fn handle_valuescan_message(
-        trader: &IntegratedAITrader,
-        symbol: &str,
-        message_text: &str,
-        score: i32,
-        signal_type: &str,
-    ) -> Result<()> {
-        info!("📊 Valuescan信号: {} | 评分:{} | 类型:{}", symbol, score, signal_type);
-        
-        // 获取当前价格
-        let current_price = trader.exchange.get_current_price(symbol).await.unwrap_or(0.0);
-        
-        // 创建FundAlert
-        let alert = FundAlert {
-            coin: symbol.replace("USDT", "").to_string(),
-            raw_message: message_text.to_string(),
-            change_24h: 0.0,
-            alert_type: if signal_type.contains("流入") || signal_type.contains("Inflow") {
-                AlertType::Inflow
-            } else {
-                AlertType::Outflow
-            },
-            fund_type: signal_type.to_string(),
-            price: current_price,
-        };
-        
-        // 调用交易分析
-        trader.analyze_and_trade(alert).await
-    }
-    
-    /// 处理收到的信号
-    pub async fn handle_incoming_alert(
-        trader: &IntegratedAITrader,
-        alert: FundAlert,
-        _raw_message: &str,
-        _persist_signal: bool,
-    ) -> Result<()> {
-        trader.analyze_and_trade(alert).await
-    }
-    
-    /// 处理分类后的信号
-    pub async fn process_classified_alert(
-        trader: &IntegratedAITrader,
-        alert: FundAlert,
-    ) -> Result<()> {
-        trader.analyze_and_trade(alert).await
-    }
-}
 
 // ============ 辅助函数 ============
 
@@ -261,93 +107,6 @@ fn extract_price_from_message(text: &str) -> Option<f64> {
     }
     None
 }
-
-// ============ 内联定义 - 原 trading 模块 ============
-
-/// 订单管理器
-pub struct OrderManager {
-    exchange: Arc<BinanceClient>,
-}
-
-impl OrderManager {
-    pub fn new(exchange: Arc<BinanceClient>) -> Self {
-        Self { exchange }
-    }
-    
-    pub async fn cancel_order(&self, symbol: &str, order_id: &str) -> Result<()> {
-        self.exchange.cancel_order(symbol, order_id).await
-    }
-    
-    /// 批量取消订单
-    pub async fn cancel_orders_batch(&self, symbol: &str, order_ids: &[String]) -> Result<()> {
-        for order_id in order_ids {
-            if let Err(e) = self.exchange.cancel_order(symbol, order_id).await {
-                warn!("⚠️ 取消订单{}失败: {}", order_id, e);
-            }
-        }
-        Ok(())
-    }
-    
-    /// 设置止损止盈保护单
-    pub async fn place_protection_orders(
-        &self,
-        symbol: &str,
-        side: &str,      // "LONG" 或 "SHORT"
-        quantity: f64,
-        stop_loss: Option<f64>,
-        take_profit: Option<f64>,
-    ) -> Result<(Option<String>, Option<String>)> {
-        let mut sl_order_id = None;
-        let mut tp_order_id = None;
-        
-        // 设置止损
-        if let Some(sl_price) = stop_loss {
-            match self.exchange.place_trigger_order(
-                symbol,
-                "STOP_MARKET",  // 触发单类型
-                "CLOSE",        // 平仓动作
-                side,           // LONG/SHORT
-                quantity,
-                sl_price,
-                None,           // 市价单不需要limit_price
-            ).await {
-                Ok(order_id) => {
-                    info!("✅ 止损单已设: {} @ {:.4}", symbol, sl_price);
-                    sl_order_id = Some(order_id);
-                }
-                Err(e) => {
-                    warn!("⚠️ 止损单失败: {}", e);
-                }
-            }
-        }
-        
-        // 设置止盈
-        if let Some(tp_price) = take_profit {
-            match self.exchange.place_trigger_order(
-                symbol,
-                "TAKE_PROFIT_MARKET",  // 触发单类型
-                "CLOSE",               // 平仓动作
-                side,                  // LONG/SHORT
-                quantity,
-                tp_price,
-                None,                  // 市价单不需要limit_price
-            ).await {
-                Ok(order_id) => {
-                    info!("✅ 止盈单已设: {} @ {:.4}", symbol, tp_price);
-                    tp_order_id = Some(order_id);
-                }
-                Err(e) => {
-                    warn!("⚠️ 止盈单失败: {}", e);
-                }
-            }
-        }
-        
-        Ok((sl_order_id, tp_order_id))
-    }
-}
-
-// ============ 内联定义结束 ============
-
 
 /// 延迟开仓队列记录 - 首次未开仓的币种,等待更好时机
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -4680,14 +4439,6 @@ impl IntegratedAITrader {
 
 #[async_trait]
 impl SignalContext for IntegratedAITrader {
-    fn exchange(&self) -> Arc<BinanceClient> {
-        self.exchange.clone()
-    }
-
-    fn db(&self) -> &Database {
-        &self.db
-    }
-
     fn tracked_coins(&self) -> Arc<RwLock<HashMap<String, FundAlert>>> {
         self.tracked_coins.clone()
     }
@@ -4696,12 +4447,12 @@ impl SignalContext for IntegratedAITrader {
         self.coin_ttl_hours
     }
 
-    fn max_tracked_coins(&self) -> usize {
-        self.max_tracked_coins
-    }
-
     async fn analyze_and_trade(&self, alert: FundAlert) -> Result<()> {
         IntegratedAITrader::analyze_and_trade(self, alert).await
+    }
+    
+    async fn get_current_price(&self, symbol: &str) -> Result<f64> {
+        self.exchange.get_current_price(symbol).await
     }
 }
 

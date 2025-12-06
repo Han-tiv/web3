@@ -13,6 +13,10 @@ pub mod hyperliquid_client;
 // 价格服务
 pub mod price_service;
 
+// 信号和交易模块
+pub mod signals;
+pub mod trading;
+
 // AI 交易模块
 pub mod deepseek_client;
 pub mod gemini_client;
